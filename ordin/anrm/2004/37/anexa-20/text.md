@@ -1,0 +1,9 @@
+# Anexa 6
+------- la contractul-cadru --------------------
+UNITATEA..............
+LISTA cuprinzând documentele și termenele de transmitere ─────────────────────────────────────────────────────────────────────────────── Nr.
+Denumirea
+Termenul de crt. documentului transmitere
+Întocmit de... ─────────────────────────────────────────────────────────────────────────────── 1. Predarea țițeiului, a doua zi a decadei transportator gazolinei, condensatului și etanului lichid ─────────────────────────────────────────────────────────────────────────────── 2. Program de predare a 15 zile lucrătoare înainte expeditor produselor destinate de începerea lunii prelucrării ─────────────────────────────────────────────────────────────────────────────── 3. Graficul lunar al cel mai târziu pe data de expeditor transportului țițeiului și 5 pentru luna următoare gazolinei cu cazane CF ─────────────────────────────────────────────────────────────────────────────── 4. Graficul anual al cel mai târziu pe data de expeditor transportului țițeiului și 15 noiembrie pentru anul gazolinei cu cazane CF următor ─────────────────────────────────────────────────────────────────────────────── 5. Balanța de transport al a opta zi lucrătoare a transportator țițeiului și gazolinei cu lunii următoare cazane CF, lunară și cumulat pe an ─────────────────────────────────────────────────────────────────────────────── 6. Raport de sinteză privind zilnic (telefon/fax) transportator activitatea de transport al țițeiului pe conductă și CFR ─────────────────────────────────────────────────────────────────────────────── 7. Balanța de transport al a opta zi lucrătoare a transportator produselor, lunară și la lunii următoare schimbarea prețului produselor, precum și cumulat pe an ───────────────────────────────────────────────────────────────────────────────
+Expeditor,
+Transportator,..............................
