@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 6 din 10 februarie 1993  privind alegerea unor membri ai Consiliului Superior al Magistraturii     EMITENT     PARLAMENT       Publicat în
+			  MONITORUL OFICIAL nr. 34 din 18 februarie 1993     În temeiul  art. 71, 72 şi 124 alin. 2 şi 3 din Legea nr. 92/1992  pentru organizarea judecătorească,  Parlamentul României adopta prezenta hotărîre.
+				 +
+			  Articolul UNIC     Se aleg ca membri ai Consiliului Superior al Magistraturii următorii:      a) dintre judecătorii Curţii Supreme de Justiţie:   ...    1. Alexe Costache Ivanov - preşedintele Secţiei civile;  2. Emil Ghergut - judecător, Secţia economică;  3. Ioan Cornel Badoiu - preşedintele Secţiei militare;  4. Maria Roşu - judecător, Secţia civilă.      b) dintre procurorii Procuraturii municipiului Bucureşti:   ...    1. Vasile Teodorescu - procuror, şef birou.  PREŞEDINTELE SENATULUI  prof. univ. OLIVIU GHERMAN  PREŞEDINTELE  CAMEREI DEPUTAŢILOR  ADRIAN NASTASE  --------------
