@@ -1,0 +1,151 @@
+{
+ "key": "dcc-368-2004",
+ "label": "Decizia CCR nr. 368/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "368",
+ "date": "2004-09-28",
+ "year": "2004",
+ "heading": "DECIZIE nr. 368 din 28 septembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (2) din Ordonanţa Guvernului nr. 124/2000 pentru completarea cadrului juridic privind dreptul de autor şi drepturile conexe, prin adoptarea de măsuri pentru combaterea pirateriei în domeniile audio şi video, precum şi a programelor pentru calculator, aprobată prin Legea nr. 213/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1039",
+  "bis": false,
+  "date": "2004-11-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "12.931/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 124/2000",
+    "number": "124",
+    "year": "2000",
+    "path": "og/2000/124"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (2) din Ordonanţa Guvernului nr. 124/2000 pentru completarea cadrului juridic privind dreptul de autor şi drepturile conexe, prin adoptarea de măsuri pentru combaterea pirateriei în domeniile audio şi video, precum şi a programelor pentru calculator, excepţie ridicată de Societatea Comercială \"Procony 97 Com\" - S.R.L. din Bucureşti în Dosarul nr. 12.931/2003 al Judecătoriei Sectorului 6 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 124/2000",
+    "number": "124",
+    "year": "2000",
+    "path": "og/2000/124"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-11-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/56518",
+  "text_sha256": "3a25b5281f0a85c04f9e87191c6037f495146ec96070368a6cba6612039f3c0d",
+  "catalogue_sha256": "3a25b5281f0a85c04f9e87191c6037f495146ec96070368a6cba6612039f3c0d",
+  "fetched": "2026-11-02T23:41:41Z",
+  "chars": 11251,
+  "portal_id": "56518",
+  "tip": "DECIZIE"
+ }
+}
