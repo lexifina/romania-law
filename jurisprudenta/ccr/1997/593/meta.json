@@ -1,0 +1,152 @@
+{
+ "key": "dcc-593-1997",
+ "label": "Decizia CCR nr. 593/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "593",
+ "date": "1997-12-09",
+ "year": "1997",
+ "heading": "DECIZIE nr. 593 din 9 decembrie 1997",
+ "subtitle": "referitoarea la excepţia de neconstituţionalitate a dispoziţiilor art. 30 lit. a), devenit art. 27 alin. 1 lit. b) din Legea nr. 50/1991 privind autorizarea executării construcţiilor şi unele măsuri pentru realizarea locuinţelor, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "143",
+  "bis": false,
+  "date": "1998-04-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "16.775/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 30 lit. a), devenit art. 27 alin. 1 lit. b) din Legea nr. 50/1991, republicată, invocată de Straub Ernestiana în Dosarul nr. 16.775/1996 al Judecătoriei Cluj-Napoca.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-04-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13182",
+  "text_sha256": "9d401d2eeb5a0bccb77b351e1a82c646be05a4844e70d3f4c926b1c8e496eb7a",
+  "catalogue_sha256": "9d401d2eeb5a0bccb77b351e1a82c646be05a4844e70d3f4c926b1c8e496eb7a",
+  "fetched": "2026-11-02T23:00:05Z",
+  "chars": 5923,
+  "portal_id": "13182",
+  "tip": "DECIZIE"
+ }
+}
