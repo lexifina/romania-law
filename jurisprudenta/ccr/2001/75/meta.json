@@ -1,0 +1,184 @@
+{
+ "key": "dcc-75-2001",
+ "label": "Decizia CCR nr. 75/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "75",
+ "date": "2001-03-06",
+ "year": "2001",
+ "heading": "DECIZIE nr. 75 din 6 martie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 180/2000 pentru modificarea şi completarea Legii asigurărilor sociale de sănătate nr. 145/1997",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "298",
+  "bis": false,
+  "date": "2001-06-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.766/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 180/2000",
+    "number": "180",
+    "year": "2000",
+    "path": "oug/2000/180"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 15 din Ordonanţa de urgenta a Guvernului nr. 180/2000 pentru modificarea şi completarea Legii asigurărilor sociale de sănătate nr. 145/1997, excepţie ridicată de Girbea Liviu în Dosarul nr. 7.766/2000 al Judecătoriei Zalau. 2. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a tuturor celorlalte dispoziţii ale Ordonanţei de urgenta a Guvernului nr. 180/2000 pentru modificarea şi completarea Legii asigurărilor sociale de sănătate nr. 145/1997, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 180/2000",
+    "number": "180",
+    "year": "2000",
+    "path": "oug/2000/180"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 22/1997",
+    "number": "22",
+    "year": "1997",
+    "path": "oug/1997/22"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/28802",
+  "text_sha256": "df721c6e033b5d699355f5c81b42ed0f1812e81df3aad963c759b1b5d890d5fc",
+  "catalogue_sha256": "df721c6e033b5d699355f5c81b42ed0f1812e81df3aad963c759b1b5d890d5fc",
+  "fetched": "2026-11-02T23:14:29Z",
+  "chars": 11062,
+  "portal_id": "28802",
+  "tip": "DECIZIE"
+ }
+}
