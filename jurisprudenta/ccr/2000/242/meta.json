@@ -1,0 +1,155 @@
+{
+ "key": "dcc-242-2000",
+ "label": "Decizia CCR nr. 242/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "242",
+ "date": "2000-11-23",
+ "year": "2000",
+ "heading": "DECIZIE nr. 242 din 23 noiembrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 55/1999 privind executarea silită a creanţelor bancare neperformante preluate la datoria publică interna",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "687",
+  "bis": false,
+  "date": "2000-12-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.110/1998",
+  "539/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 55/1999",
+    "number": "55",
+    "year": "1999",
+    "path": "og/1999/55"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  Ordonanţei Guvernului nr. 55/1999  privind executarea silită a creanţelor bancare neperformante preluate la datoria publică interna, excepţie ridicată de Societatea Comercială \"General Consulting and Procurement\" - S.A. din Bucureşti în Dosarul nr. 2.110/1998 al Curţii de Apel Bucureşti Secţia comercială.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 23 noiembrie 2000.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Doina Suliman  ───────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 55/1999",
+    "number": "55",
+    "year": "1999",
+    "path": "og/1999/55"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 140/1999",
+    "number": "140",
+    "year": "1999",
+    "path": "lege/1999/140"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedura civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/25740",
+  "text_sha256": "23f33e85e5ef13a74d12742e3c964c5ad9f4e42dcc3358cbbeb97cc2948af6b3",
+  "catalogue_sha256": "23f33e85e5ef13a74d12742e3c964c5ad9f4e42dcc3358cbbeb97cc2948af6b3",
+  "fetched": "2026-11-02T23:12:05Z",
+  "chars": 9045,
+  "portal_id": "25740",
+  "tip": "DECIZIE"
+ }
+}
