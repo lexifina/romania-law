@@ -1,0 +1,166 @@
+{
+ "key": "dcc-44-1999",
+ "label": "Decizia CCR nr. 44/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "44",
+ "date": "1999-03-23",
+ "year": "1999",
+ "heading": "DECIZIE nr. 44 din 23 martie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Decretului nr. 265/1949 privind obligativitatea contractelor scrise şi reglementarea plăţilor între întreprinderi şi organizaţii economice şi ale Decretului nr. 203/1953 privind unele derogări de la art. 3 al Decretului nr. 265/1949",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "199",
+  "bis": false,
+  "date": "1999-05-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.604/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 265/1949",
+    "number": "265",
+    "year": "1949",
+    "path": "decret/1949/265"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 203/1953",
+    "number": "203",
+    "year": "1953",
+    "path": "decret/1953/203"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibila excepţia de neconstituţionalitate a dispoziţiilor Decretului nr. 265/1949 privind obligativitatea contractelor scrise şi reglementarea plăţilor între întreprinderi şi organizaţii economice şi ale Decretului nr. 203/1953 privind unele derogări de la art. 3 al Decretului nr. 265/1949, excepţie ridicată de Societatea Comercială \"Ring Oil Investment\" - S.R.L. din Bucureşti în Dosarul nr. 4.604/1997 al Judecătoriei Sectorului 5 Bucureşti.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 265/1949",
+    "number": "265",
+    "year": "1949",
+    "path": "decret/1949/265"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 203/1953",
+    "number": "203",
+    "year": "1953",
+    "path": "decret/1953/203"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 311/1987",
+    "number": "311",
+    "year": "1987",
+    "path": "decret/1987/311"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-05-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18091",
+  "text_sha256": "11a0319cf450f93de5106c73d6558da1b7b8582432f377f3bb77c45e257e3fa9",
+  "catalogue_sha256": "11a0319cf450f93de5106c73d6558da1b7b8582432f377f3bb77c45e257e3fa9",
+  "fetched": "2026-11-02T23:03:42Z",
+  "chars": 9175,
+  "portal_id": "18091",
+  "tip": "DECIZIE"
+ }
+}
