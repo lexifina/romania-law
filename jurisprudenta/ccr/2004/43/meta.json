@@ -1,0 +1,188 @@
+{
+ "key": "dcc-43-2004",
+ "label": "Decizia CCR nr. 43/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "43",
+ "date": "2004-02-03",
+ "year": "2004",
+ "heading": "DECIZIE nr. 43 din 3 februarie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 11 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe, aprobată cu modificări şi completări prin Legea nr. 241/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "125",
+  "bis": false,
+  "date": "2004-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "191/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 11 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe, aprobată cu modificări şi completări prin Legea nr. 241/2001, excepţie ridicată de Ştefania Ilie în Dosarul nr. 191/2003 al Tribunalului Bucureşti - Secţia a V-a civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "581",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49705",
+  "text_sha256": "a78a0b3d9a61ccc62a77b6aa1ff2e53a203c85ceb0b65e44d792da624820481b",
+  "catalogue_sha256": "a78a0b3d9a61ccc62a77b6aa1ff2e53a203c85ceb0b65e44d792da624820481b",
+  "fetched": "2026-11-02T23:34:39Z",
+  "chars": 12993,
+  "portal_id": "49705",
+  "tip": "DECIZIE"
+ }
+}
