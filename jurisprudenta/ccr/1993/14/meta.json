@@ -1,0 +1,127 @@
+{
+ "key": "dcc-14-1993",
+ "label": "Decizia CCR nr. 14/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "14",
+ "date": "1993-03-10",
+ "year": "1993",
+ "heading": "DECIZIE nr. 14 din 10 martie 1993",
+ "subtitle": "excepţia de neconstituţionalitate a Decretului nr. 223/1974",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "96",
+  "bis": false,
+  "date": "1993-05-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate formulată de Robert Deutsch, cetăţean român domiciliat în California, cu domiciliul ales în Bucureşti la Maria Ciobanu, str. Duiliu Zamfirescu nr. 5, sectorul 1, în dosarul nr. 4051/1992 a Judecătoriei sectorului 1 Bucureşti.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 9/1989",
+    "number": "9",
+    "year": "1989",
+    "path": "decret-lege/1989/9"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3042",
+  "text_sha256": "34cfeac2d239c235c59f942879b0d0b06dc93d2230975867b4ff4f67c5893106",
+  "catalogue_sha256": "34cfeac2d239c235c59f942879b0d0b06dc93d2230975867b4ff4f67c5893106",
+  "fetched": "2026-11-02T22:30:49Z",
+  "chars": 8342,
+  "portal_id": "3042",
+  "tip": "DECIZIE"
+ }
+}
