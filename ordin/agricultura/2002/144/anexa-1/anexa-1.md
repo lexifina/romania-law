@@ -1,0 +1,6 @@
+# Anexa nr. 1 la anexa nr. 1
+Anexa 1 ──────── la norma sanitară veterinara ──────────────────────────── DEFINIȚII SPECIFICE În scopul prezentei norme sanitare veterinare, prin următorii termeni se înțelege:
+a) caz indigen de encefalopatie spongiforma bovina encefalita spongiforma bovina depistata la un animal pentru care nu s-a demonstrat clar ca infectia ar fi avut loc înainte de importul de animale vii, embrioni sau ovule;
+b) tesut adipos distinct - maniamentele interne sau externe care sunt indepartate în timpul tăierii și transarii, în special grasimea pericardiala a marelui epiplon, perirenala și mezenterica de la bovine, precum și grasimea rezultată în sălile de transare;
+c) cohorta - grup de bovine ce cuprinde animalele care fie s-au născut în același efectiv cu 12 luni înainte sau 12 luni după nașterea bovinelor afectate, fie cele crescute împreună cu animalul afectat, indiferent de perioada în care au stat împreună în primul lor an de viața, și care ar fi putut consuma aceleași furaje ca cele pe care le-a consumat animalul afectat în primul sau an de viața;
+d) cimitir de animale - loc de distrugere a deșeurilor, astfel cum este definit de legislația sanitară veterinara naționala.
