@@ -1,0 +1,283 @@
+{
+ "key": "dcc-334-2003",
+ "label": "Decizia CCR nr. 334/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "334",
+ "date": "2003-09-16",
+ "year": "2003",
+ "heading": "DECIZIE nr. 334 din 16 septembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 102/2002 privind unele măsuri pentru stimularea cererii de atribuire a folosinţei gratuite şi a investiţiilor în imobilele ce fac obiectul Ordonanţei de urgenta a Guvernului nr. 168/2001 privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, ingrasarii şi exploatării animalelor, precum şi a fabricilor de nutreturi combinate dezafectate, aprobată cu modificări şi completări prin Legea nr. 78/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "763",
+  "bis": false,
+  "date": "2003-10-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "2.224/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 102/2002",
+    "number": "102",
+    "year": "2002",
+    "path": "oug/2002/102"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 168/2001",
+    "number": "168",
+    "year": "2001",
+    "path": "oug/2001/168"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 1, ale art. 2 alin. (1) lit. a), ale  art. 3 şi 4 din Ordonanţa de urgenta a Guvernului nr. 102/2002  privind unele măsuri pentru stimularea cererii de atribuire a folosinţei gratuite şi a investiţiilor în imobilele ce fac obiectul  Ordonanţei de urgenta a Guvernului nr. 168/2001  privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, ingrasarii şi exploatării animalelor, precum şi a fabricilor de nutreturi combinate dezafectate, aprobată cu modificări şi completări prin  Legea nr. 78/2003 , excepţie ridicată de Renasterea Creditului Romanesc S.A. - CREDIT BANK în Dosarul nr. 2.224/2000 al Tribunalului Braşov - Secţia civilă - judecătorul sindic.  2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a celorlalte dispoziţii ale  art. 2 din Ordonanţa de urgenta a Guvernului nr. 102/2002 , excepţie ridicată de acelaşi autor, în acelaşi dosar.  3. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor  art. 5 din Ordonanţa de urgenta a Guvernului nr. 102/2002 , excepţie ridicată de acelaşi autor, în acelaşi dosar.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 16 septembrie 2003.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Mihai Paul Cotta  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 102/2002",
+    "number": "102",
+    "year": "2002",
+    "path": "oug/2002/102"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 168/2001",
+    "number": "168",
+    "year": "2001",
+    "path": "oug/2001/168"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47326",
+  "text_sha256": "7f1ff8f6c6747926e99ab351decf9a4336900b4fa732f6523bba629776142013",
+  "catalogue_sha256": "7f1ff8f6c6747926e99ab351decf9a4336900b4fa732f6523bba629776142013",
+  "fetched": "2026-11-02T23:32:22Z",
+  "chars": 21520,
+  "portal_id": "47326",
+  "tip": "DECIZIE"
+ }
+}
