@@ -1,0 +1,197 @@
+{
+ "key": "dcc-365-2004",
+ "label": "Decizia CCR nr. 365/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "365",
+ "date": "2004-09-28",
+ "year": "2004",
+ "heading": "DECIZIE nr. 365 din 28 septembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (2) lit. h) din Legea nr. 345/2002 privind taxa pe valoarea adăugată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1006",
+  "bis": false,
+  "date": "2004-11-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "5.744/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 345/2002",
+    "number": "345",
+    "year": "2002",
+    "path": "lege/2002/345"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca devenită inadmisibilă excepţia de neconstituţionalitate a art. 9 alin. (2) lit. h) din Legea nr. 345/2002 privind taxa pe valoarea adăugată, excepţie ridicată de Societatea Comercială SODALITAS - S.R.L. Cluj-Napoca în Dosarul nr. 5.744/2003 al Tribunalului Cluj - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 345/2002",
+    "number": "345",
+    "year": "2002",
+    "path": "lege/2002/345"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/56296",
+  "text_sha256": "849b3bbe0122457c91ab98458076f1a28bdc94c41e70ef7ab0dc879558f6a22d",
+  "catalogue_sha256": "849b3bbe0122457c91ab98458076f1a28bdc94c41e70ef7ab0dc879558f6a22d",
+  "fetched": "2026-11-02T23:41:27Z",
+  "chars": 10427,
+  "portal_id": "56296",
+  "tip": "DECIZIE"
+ }
+}
