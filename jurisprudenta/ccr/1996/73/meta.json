@@ -1,0 +1,283 @@
+{
+ "key": "dcc-73-1996",
+ "label": "Decizia CCR nr. 73/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "73",
+ "date": "1996-06-04",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 73*) din 4 iunie 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 330, ale art. 330^1, ale art. 330^2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "255",
+  "bis": false,
+  "date": "1996-10-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "dossiers": [
+  "2.914/1995",
+  "3.232/1995",
+  "3.658/1995",
+  "1.925/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate a prevederilor art. 330^2 alin. 1 din Codul de procedură civilă, invocată de doamnele Buriman Marina Ioana, Antonescu Elena, Antonescu Cristina, Gheorghiu Marie-Angele Roxana şi Diplan Gheorghiu Lucretia Ariana în dosarele nr. 2.914/1995, nr. 3.232/1995 şi nr. 3.658/1995, pe rolul Curţii Supreme de Justiţie. 2. Respinge excepţia de neconstituţionalitate a prevederilor art. 330^1 din Codul de procedură civilă invocată de doamnele Buriman Marina Ioana, Antonescu Elena, Antonescu Cristina, Gheorghiu Marie-Angele Roxana, Diplan Gheorghiu Lucretia Ariana şi de domnul Badulescu Vlad Radu în dosarele nr. 2.914/1995, nr. 3.232/1995, nr. 3.658/1995 şi nr. 1.925/1995 pe rolul Curţii Supreme de Justiţie, cu opinie separată, în sensul că prevederile art. 330^1 din Codul de procedură civilă sunt neconstituţionale. 3. Constata ca prevederile art. 330, ale art. 330^2 alin. 2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă sunt constituţionale.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 59/1993",
+    "number": "59",
+    "year": "1993",
+    "path": "lege/1993/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "411",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-10-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8410",
+  "text_sha256": "4b0425cbd2c715098b4bc2723a2791da93ad967954d07b0fbc3a41472c9e96b3",
+  "catalogue_sha256": "4b0425cbd2c715098b4bc2723a2791da93ad967954d07b0fbc3a41472c9e96b3",
+  "fetched": "2026-11-02T22:52:13Z",
+  "chars": 30738,
+  "portal_id": "8410",
+  "tip": "DECIZIE"
+ }
+}
