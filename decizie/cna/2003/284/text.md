@@ -1,0 +1,7 @@
+# Text
+Articolul UNIC
+În conformitate cu prevederile art. 8 lit. c) din Decizia Consiliului Național al Audiovizualului nr. 12/2003, se retrag, la cerere, avizele de retransmisie ale următoarei societăți: Societatea Comercială "INTEX PRIM" - S.R.L., cerere înregistrată la Consiliul Național al Audiovizualului cu nr. 8.356 din 2 octombrie 2003.
+Nr. crt. Nr. avizului Data avizului Localitatea în care este situată stația Județul în care este situată stația Localitatea din rețea
+1. A0951 29 august 2003 Plopșoru Gorj Brebenei, Broșteni, Broștenii de Sus, Brănești, Bădești, Bâlteni, Capu Dealului, Ceplea, Cocoreni, Cursaru, Deleni, Fărcășești, Fărcășești-Moșneni, Fântânele, Gilortu, Gârbovu, Hotăroasa, Izvoarele, Jilțu, Moi, Murgești, Olari, Peșteana de Jos, Peșteana-Jiu, Piriu, Piscuri, Plopșoru, Rogojel, Rovinari, Roșia-Jiu, Sărdănești, Strâmba-Jiu, Timișeni, Turceni, Urdari, Valea cu Apă, Valea Viei, Vlăduleni, Văleni
+2. A0952 29 august 2003 Bengești Gorj Albeni, Aninișu din Deal, Aninișu din Vale, Bârzeiu de Gilort, Becheni, Bengești, Bercești, Bircii, Bolbocești, Bucșana, Bumbești-Pițic, Burlani, Bălcești, Ciocadia, Crasna, Crasna din Deal, Călugăreasca, Cărpiniș, Cârligei, Dealu Viei, Dobrana, Doseni, Hirișești, Mirosloveni, Negoești, Novaci, Pociovaliștea, Poienari, Prigoria, Prunești, Radoși, Roșia de Amaradia, Ruget, Seciurile, Sitești, Stejaru, Zorlești, Șitoaia
+Președintele Consiliului Național al Audiovizualului, Ralu Filip București, 9 octombrie 2003. Nr. 284. -------
