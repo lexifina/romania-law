@@ -1,0 +1,202 @@
+{
+ "key": "dcc-60-2004",
+ "label": "Decizia CCR nr. 60/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "60",
+ "date": "2004-02-17",
+ "year": "2004",
+ "heading": "DECIZIE nr. 60 din 17 februarie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 64 din Codul familiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "203",
+  "bis": false,
+  "date": "2004-03-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.893/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 64 din Codul familiei, excepţie ridicată de Tudor Ion în Dosarul nr. 2.893/2003 al Tribunalului Hunedoara - Secţia civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-03-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/50254",
+  "text_sha256": "e5d59419447d932beaf82017059472f9c60546f78fa92b23f5798612e2e3679a",
+  "catalogue_sha256": "e5d59419447d932beaf82017059472f9c60546f78fa92b23f5798612e2e3679a",
+  "fetched": "2026-11-02T23:35:16Z",
+  "chars": 8274,
+  "portal_id": "50254",
+  "tip": "DECIZIE"
+ }
+}
