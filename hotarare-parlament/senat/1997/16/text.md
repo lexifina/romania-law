@@ -1,0 +1,4 @@
+ HOTĂRÎRE nr. 16 din 21 aprilie 1997  pentru modificarea  Hotărârii Senatului nr. 40/1996  privind aprobarea componentei nominale a comisiilor permanente ale Senatului     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 79 din 30 aprilie 1997     În temeiul art. 31 alin. 3 din Regulamentul Senatului,  Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC      Hotărârea Senatului nr. 40/1996  privind aprobarea componentei nominale a comisiilor permanente ale Senatului se modifica după cum urmează:  - la anexa nr. III - Comisia pentru buget, finanţe, bănci:  * domnul senator Ştefan Viorel (Grupul parlamentar al Partidului Democraţiei Sociale din România) se include în componenta comisiei.  Aceasta hotărâre a fost adoptată în şedinţa Senatului din 21 aprilie 1997, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României.  p. PREŞEDINTELE SENATULUI  MIRCEA IONESCU-QUINTUS  ------------
