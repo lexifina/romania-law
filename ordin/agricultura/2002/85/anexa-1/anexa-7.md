@@ -1,0 +1,8 @@
+# Anexa 5
+-------- la regulament -------------- Nr........ din....... Ciocanul silvic pentru control a fost depus azi,................................. Director/Inspector-șef,.......................... RAPORT DE FOLOSIRE a ciocanului silvic pentru control*1)..................., primit în baza delegației nr................. din....................
+Locul marcării2) Felul controlului Numerotarea cioatelor/pieselor Număr total de cioate sau piese Intervalul când s-a făcut marcarea Nr. și data depunerii documentelor de marcare3)
+Unitatea de producție Parcelă/ subparcelă Primul număr Ultimul număr
+1 2 3 4 5 6 7 8
+TOTAL: - -
+-
+Numele și prenumele persoanelor care au făcut parte din echipa de control................................................................ Culoarea vopselei sau tusului folosit la marcare................... Declar pe propria răspundere că nu am încredințat ciocanul silvic pentru control altor persoane, că nu l-am folosit în afară prevederilor delegației primite și că nu am aplicat marca pe arbori sau cioate care nu sunt menționate în prezentul raport. Data............................................... (numele, prenumele și semnatura) --------------- *1) Indicativul. *2) În cazul folosirii ciocanului silvic pentru control în păduri pentru care identificarea locului nu este suficienta sau nu este posibila prin cadastrul forestier sau în locuri situate în afară fondului forestier, se vor trece toate elementele necesare localizarii (denumirea punctului, numele proprietarului sau al deținătorului, elemente de cadastru general, denumirea persoanei juridice, drumul public etc.). *3) Carnete de inventar, procese-verbale, fise etc. --------
