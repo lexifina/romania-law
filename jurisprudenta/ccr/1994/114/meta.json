@@ -1,0 +1,164 @@
+{
+ "key": "dcc-114-1994",
+ "label": "Decizia CCR nr. 114/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "114",
+ "date": "1994-11-15",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 114 din 15 noiembrie 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiile art. 32 din Legea nr. 88/1993",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "354",
+  "bis": false,
+  "date": "1994-12-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6923/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 88/1993",
+    "number": "88",
+    "year": "1993",
+    "path": "lege/1993/88"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Beleiu Gheorghe, cu care Curtea Constituţională a fost sesizată de Judecătoria Sectorului 1 Bucureşti, prin Încheierea din 2 iunie 1994.",
+  "Constata ca art. 32 din Legea nr. 88/1993 este neconstitutional.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 88/1993",
+    "number": "88",
+    "year": "1993",
+    "path": "lege/1993/88"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 212/1974",
+    "number": "212",
+    "year": "1974",
+    "path": "decret/1974/212"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4468",
+  "text_sha256": "d175e2b13ec84f72fc2d14afd2672ada7216317fd0e12532e438453bd27773fd",
+  "catalogue_sha256": "d175e2b13ec84f72fc2d14afd2672ada7216317fd0e12532e438453bd27773fd",
+  "fetched": "2026-11-02T22:46:11Z",
+  "chars": 10940,
+  "portal_id": "4468",
+  "tip": "DECIZIE"
+ }
+}
