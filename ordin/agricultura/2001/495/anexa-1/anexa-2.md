@@ -1,0 +1,2 @@
+# Anexa 2
+-------- la norma sanitară veterinara ----------------------------- STANDARDELE pentru prelucrarea grasimii topite derivate din deșeurile provenite de la rumegatoare 1. Transesterificarea sau hidroliza la cel puțin 200°C, la o presiune corespunzătoare pentru 20 de minute (glicerol, acizi grasi și esteri) 2. Saponificarea cu NaOH 12 M (glicerol și sapun): - în procedeu discontinuu: la 95°C timp de 3 ore; sau - în procedeu continuu: la 140°C, 2 bari (2.000 hPa) timp de 8 minute sau în condiții echivalente.
