@@ -1,0 +1,146 @@
+{
+ "key": "dcc-13-1994",
+ "label": "Decizia CCR nr. 13/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "13",
+ "date": "1994-03-08",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 13 din 8 martie 1994",
+ "subtitle": "referitoare la pronunţarea asupra recursului formulat de Ministerul Public împotriva Deciziei Curţii Constituţionale nr. 54 din 13 octombrie 1993",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "152",
+  "bis": false,
+  "date": "1994-06-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite, în parte, recursul declarat de Ministerul Public şi modifica Decizia Curţii Constituţionale nr. 54 din 13 octombrie 1993, după cum urmează:",
+  "Prin Decizia Curţii Constituţionale nr. 33 din 26 mai 1993, rămasă definitivă prin Decizia Curţii Constituţionale nr. 63/1993, s-a constatat ca art. 224 din Codul penal a fost abrogat parţial conform art. 150 alin. (1) din Constituţie, acesta urmînd a se aplică numai cu privire la bunurile prevăzute în art. 135 alin. (4) din Constituţie, bunuri care fac obiectul exclusiv al proprietăţii publice.",
+  "Respinge ca lipsită de obiect excepţia de neconstituţionalitate ridicată de Cristi Malvina în dosarul nr. 9278/1992 al Judecătoriei Timişoara.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-06-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3901",
+  "text_sha256": "142e15d626a9f9acd55b5364362acb385155a80be467c6f5ec551850aace02c5",
+  "catalogue_sha256": "142e15d626a9f9acd55b5364362acb385155a80be467c6f5ec551850aace02c5",
+  "fetched": "2026-11-02T22:44:47Z",
+  "chars": 7953,
+  "portal_id": "3901",
+  "tip": "DECIZIE"
+ }
+}
