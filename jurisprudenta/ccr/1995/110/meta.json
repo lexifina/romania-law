@@ -1,0 +1,185 @@
+{
+ "key": "dcc-110-1995",
+ "label": "Decizia CCR nr. 110/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "110",
+ "date": "1995-11-08",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 110*) din 8 noiembrie 1995",
+ "subtitle": "privind exceptia de neconstitutionalitate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "74",
+  "bis": false,
+  "date": "1996-04-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.165/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1991",
+    "number": "15",
+    "year": "1991",
+    "path": "lege/1991/15"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a art. 2 şi a art. 24 din Legea nr. 15/1991, ridicată de Sindicatul Liber \"Ulpia\" Deva cu sediul în Deva, str. 22 Decembrie nr. 37. judeţul Hunedoara, în Dosarul Tribunalului Hunedoara nr. 2.165/1995.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1991",
+    "number": "15",
+    "year": "1991",
+    "path": "lege/1991/15"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-04-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6287",
+  "text_sha256": "6d6f8d22815f19f12f87fe30e356b116dfb29032840bf491bb0457c27fef3ec9",
+  "catalogue_sha256": "6d6f8d22815f19f12f87fe30e356b116dfb29032840bf491bb0457c27fef3ec9",
+  "fetched": "2026-11-02T22:50:23Z",
+  "chars": 9127,
+  "portal_id": "6287",
+  "tip": "DECIZIE"
+ }
+}
