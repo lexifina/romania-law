@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 1997-10-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 1997-12-04: documents published: Raport comisie sesizată pe fond
 - 1997-12-30: adopted by the Senate; documents published: Forma adoptată de Senat
+- 1998-01-29: sent for promulgation
 
 ## Documents
 
