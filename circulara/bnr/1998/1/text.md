@@ -1,0 +1,2 @@
+# Text
+Având în vedere evolutiile macroeconomice și monetare recente, precum și hotărârea Consiliului de administrație al Băncii Naționale a României, nivelul ratei rezervelor obligatorii, atât pentru depozitele în lei, cat și pentru depozitele în valută la care rezerva obligatorie este ținuta în lei, se stabilește, începând cu data de 1 februarie 1998, la 12,5% . Nivelul ratei dobânzilor bonificate pentru rezervele obligatorii rămâne neschimbat. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, MUGUR ISARESCU ------------
