@@ -1,0 +1,142 @@
+{
+ "key": "dcc-78-2000",
+ "label": "Decizia CCR nr. 78/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "78",
+ "date": "2000-04-25",
+ "year": "2000",
+ "heading": "DECIZIE nr. 78 din 25 aprilie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Odonantei de urgenta a Guvernului nr. 38/1997 pentru modificarea şi completarea Legii nr. 77/1994 privind asociaţiile salariaţilor şi membrilor conducerii societăţilor comerciale care se privatizează",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "327",
+  "bis": false,
+  "date": "2000-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.294/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 38/1997",
+    "number": "38",
+    "year": "1997",
+    "path": "oug/1997/38"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor  Ordonanţei de urgenta a Guvernului nr. 38/1997  pentru modificarea şi completarea  Legii nr. 77/1994  privind asociaţiile salariaţilor şi membrilor conducerii societăţilor comerciale care se privatizează, excepţie ridicată de Societatea Comercială \"Balanţa\" - S.A. din Sibiu în Dosarul nr. 2.294/1999 al Curţii de Apel Alba Iulia - Secţia comercială şi contencios administrativ.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 25 aprilie 2000.  PREŞEDINTELE  CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Florentina Geangu  ───────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 38/1997",
+    "number": "38",
+    "year": "1997",
+    "path": "oug/1997/38"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/1994",
+    "number": "77",
+    "year": "1994",
+    "path": "lege/1994/77"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23272",
+  "text_sha256": "9e2c60cadd6f9969f3eb6d6486cf6762010be50891412ce671b6f39589a40a48",
+  "catalogue_sha256": "9e2c60cadd6f9969f3eb6d6486cf6762010be50891412ce671b6f39589a40a48",
+  "fetched": "2026-11-02T23:09:40Z",
+  "chars": 7677,
+  "portal_id": "23272",
+  "tip": "DECIZIE"
+ }
+}
