@@ -1,0 +1,260 @@
+{
+ "key": "dcc-55-1997",
+ "label": "Decizia CCR nr. 55/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "55",
+ "date": "1997-03-19",
+ "year": "1997",
+ "heading": "DECIZIE nr. 55*) din 19 martie 1997",
+ "subtitle": "privind excepţiile de neconstituţionalitate a dispoziţiilor art. 330, ale art. 330^1, ale art. 330^2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "377",
+  "bis": false,
+  "date": "1997-12-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "25C/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondate excepţiile de neconstituţionalitate invocate de Mitrache Mircea Daniel, Angelescu Alina, Stanciu Bistra, Cruceanu Anca, Platareanu Ioana Elvira, Bataturescu Luiza Marilen Lilian, Galgau Radmila, Grancea Maria, Dumitrescu Zaharia, Dolorean Elisabeta Irina Elena, Jager Virgil, Jager Rodica, Trifu Jean, Borsaru Mihai, Borsaru Alexandra Maria, Frank Emil Arthur, Frank Karl, Oromolu Constantin Ion, Totoescu Oromolu Nicoleta Constanta, Teodorescu Alexandru, Teodorescu Ioana, Cekhan Racovita Anca Ioana, Vasiliu Ioana, Vestemean Nicolae, Iuga Eleonora, Tucusan Mioara, Badulescu Michaela, Josette Carline Wainberg, Nicolae Constantin, Ilinca Ioan, Tomescu Udrescu Elena, Teodor Magda Georgeta, Balan Constanta, Radu Alexandru, Radu Adriana Claudia, Apostolescu Eugenia Rodica, Busuioc Ileana, Orleanu Anca Maria, Balca Ion, Balca Anica, Zamfirescu Ecaterina, Moisescu Teodor Anton, Paunescu Maria, Peligrad Dumitru, Lucica Solomeea Nicolescu, Poligrad Cristian Zamfira, Militaru Alexandru, Parohia Română Unita cu Roma Greco-Catolica, Mihail Elisabeta, Mihai Gheorghe, Varsani Nicolae, Varsani Maria, Vaesani Costin Cristian, Varsani Pandele, Ivan Rosana Virginia, Popa Carmen Margareta, Tropa Doina Ileana, Iuca Maria Ecaterina şi Corcioveanu Eugenia Jena în dosarele nr. 3.544/1995, nr. 3.462/1996, nr. 412/1996, nr. 609/1996, nr. 3.885/1995, nr. 2.139/1995, nr. 153/1996, nr. 58/1996, nr. 1.936/1996, nr. 1.937/1996, nr. 1.531/1996, nr. 1.620/1996, nr. 1.700/1996, nr. 2.013/1996, nr. 3.192/1996, nr. 3.193/1996, nr. 1.616/1996, nr. 1.321/1996, nr. 1.052/1996, nr. 1.001/1996, nr. 74/1996, nr. 2.239/1996, nr. 607/1996, nr. 3.918/1995, nr. 1.283/1995, nr. 1.860/1996, nr. 1.672/1996, nr. 1.938/1996, nr. 2.845/1995, nr. 1.190/1996, nr. 3.792/1995, nr. 530/1996, nr. 731/1996, nr. 698/1996, ale Curţii Supreme de Justiţie - Secţia civilă, privind: 1. dispoziţiile art. 330, art. 330^2 alin. 2, art. 330^3 şi ale art. 330^4 din Codul de procedură civilă; 2. dispoziţiile art. 330^1 şi art. 330^2 alin. 1 din Codul de procedură civilă, constatând ca excepţiile invocate în legătură cu aceste prevederi sunt lipsite de obiect.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "300",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1997",
+    "number": "17",
+    "year": "1997",
+    "path": "lege/1997/17"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-12-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11349",
+  "text_sha256": "e8ddc11b01e5aa14014fa5fea7caa0d12d170bf0c2619104a6111dfc5547edda",
+  "catalogue_sha256": "e8ddc11b01e5aa14014fa5fea7caa0d12d170bf0c2619104a6111dfc5547edda",
+  "fetched": "2026-11-02T22:57:13Z",
+  "chars": 10774,
+  "portal_id": "11349",
+  "tip": "DECIZIE"
+ }
+}
