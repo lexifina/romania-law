@@ -1,0 +1,158 @@
+{
+ "key": "dcc-87-1999",
+ "label": "Decizia CCR nr. 87/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "87",
+ "date": "1999-06-01",
+ "year": "1999",
+ "heading": "DECIZIE nr. 87 din 1 iunie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Decretului-lege nr. 68/1990 pentru înlăturarea unor inechitati în salarizarea personalului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "352",
+  "bis": false,
+  "date": "1999-07-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.501/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 68/1990",
+    "number": "68",
+    "year": "1990",
+    "path": "decret-lege/1990/68"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Petru Costea în Dosarul nr. 3.501/1998 al Tribunalului Arad - Secţia comercială şi contencios administrativ şi constata ca dispoziţiile art. 2 alin. 1 din Decretul-lege nr. 68/1990 pentru înlăturarea unor inechitati în salarizarea personalului sunt neconstituţionale în măsura în care se aplică numai persoanelor de la locurile de muncă şi activităţile care, potrivit reglementărilor existente până în anul 1969 şi după aceea, erau prevăzute să fie încadrate în grupele I şi II de muncă, nu şi celor care au fost încadrate în asemenea locuri de muncă sau activităţi anterior datei intrării în vigoare a actului normativ respectiv.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 68/1990",
+    "number": "68",
+    "year": "1990",
+    "path": "decret-lege/1990/68"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18870",
+  "text_sha256": "39a7d38e2fbfa56c81c66fe5670135b87525297cc351085bed503461bd54ef00",
+  "catalogue_sha256": "39a7d38e2fbfa56c81c66fe5670135b87525297cc351085bed503461bd54ef00",
+  "fetched": "2026-11-02T23:04:49Z",
+  "chars": 8762,
+  "portal_id": "18870",
+  "tip": "DECIZIE"
+ }
+}
