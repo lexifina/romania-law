@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 21 din 11 februarie 1993  privind alegerea unor membri ai Consiliului Superior al Magistraturii     EMITENT     PARLAMENTUL       Publicat în
+			  MONITORUL OFICIAL nr. 38 din 23 februarie 1993     În temeiul  art. 71, 72 şi 124 alin. 2 şi 3 din Legea nr. 92/1992  pentru organizarea judecătorească,  Parlamentul României adopta prezenta hotărîre.
+				 +
+			  Articolul UNIC     Se aleg ca membri ai Consiliului Superior al Magistraturii următorii:        a) dintre procurorii Procuraturii Generale:   1. Nicolae Cochinescu               - prim-adjunct al procurorului general;      b) dintre judecătorii tribunalelor judeţene:   1. Johann Ehrmann                   - preşedintele Tribunalului Caraş-Severin.   PREŞEDINTELE SENATULUI  prof.univ. OLIVIU GHERMAN  PREŞEDINTELE  CAMEREI DEPUTAŢILOR  ADRIAN NASTASE  -------------
