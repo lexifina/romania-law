@@ -1,0 +1,152 @@
+{
+ "key": "dcc-21-1999",
+ "label": "Decizia CCR nr. 21/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "21",
+ "date": "1999-02-09",
+ "year": "1999",
+ "heading": "DECIZIE nr. 21 din 9 februarie 1999",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (4) şi (5) din Legea bugetului de stat pe anul 1998 nr. 109/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "110",
+  "bis": false,
+  "date": "1999-03-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.330/1998"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (4) şi (5) din Legea bugetului de stat pe anul 1998 nr. 109/1998, ridicată de Zamfirescu Mihaela în Dosarul nr. 7.330/1998 al Judecătoriei Sectorului 5 Bucureşti.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 109/1998",
+    "number": "109",
+    "year": "1998",
+    "path": "lege/1998/109"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "130",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-03-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/17175",
+  "text_sha256": "c6f0244189d0b627dc7b673a81eba1e629d8c6167738119f3be936df8149d52e",
+  "catalogue_sha256": "c6f0244189d0b627dc7b673a81eba1e629d8c6167738119f3be936df8149d52e",
+  "fetched": "2026-11-02T23:03:11Z",
+  "chars": 8475,
+  "portal_id": "17175",
+  "tip": "DECIZIE"
+ }
+}
