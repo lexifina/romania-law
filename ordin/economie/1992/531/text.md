@@ -1,0 +1,12 @@
+# Text
+Secretarul de stat al Departamentului Reglementării Comerțului și Turismului, avînd în vedere prevederile Hotărîrii Guvernului nr. 776 din 13 noiembrie 1991 cu privire la regimul prețurilor și tarifelor, în condițiile unificării cursurilor de schimb ale leului, ale Hotărîrii Guvernului nr. 211 din 26 martie 1991 cu privire la unele măsuri în domeniul prețurilor și tarifelor, ale Hotărîrii Guvernului nr. 763 din 9 noiembrie 1991 cu privire la unificarea cursurilor de schimb ale leului și extinderea convertibilitatii interne a leului la operațiunile valutare curente, ale Hotărîrii Guvernului nr. 714 din 10 octombrie 1991 privind completarea Hotărîrii Guvernului nr. 460 din 30 iunie 1991, în baza Hotărîrii Guvernului nr. 805/1990 privind organizarea și atribuțiile Ministerului Comerțului și Turismului, modificată prin Hotărîrea Guvernului nr. 1170/1990 și Hotărîrea Guvernului nr. 556/1991, emite următorul ordin:
+1. Începînd cu data de 22 iunie 1992, prețurile pentru branza de oaie "Grana Padano Scelto" și "Parmigiano Reggiana", primite ca ajutor din partea Guvernului italian, se stabilesc după cum urmează:
+- lei/kg -
+- prețul de decontare 343,70
+- prețul cu care livreaza Societatea Comercială "Malimp - S.A. către societățile comerciale cu ridicată (exclusiv cheltuielile de transport) 365,00
+- prețul cu amănuntul 450,00
+2. Diferența dintre prețul cu care livreaza Societatea Comercială "Malimp" - S.A. către societățile comerciale cu ridicată și prețul cu amănuntul va fi negociata între agenții economici cu activitate de desfacere cu ridicată și cei cu activitate de desfacere cu amănuntul.
+Prețurile stabilite conform pct. 1 se aplică de la data primirii noilor loturi din aceste produse, în vederea comercializării de către toți agenții economici, indiferent de natura capitalului social. Ordinele secretarului de stat al Departamentului Reglementării Comerțului și Turismului nr. 526 P/1991 și nr. 527 P/1991 se abroga.
+4. Încasările din vînzarea produselor primite ca ajutor din partea Guvernului italian, la prețul de decontare menționat, se vor vărsa de Societatea Comercială "Malimp" - S.A. în contul 45.95.90.4., deschis la Banca Agricolă - S.A., sucursala municipiului București.
+Societatea Comercială "Malimp" - S.A. are obligația platirii impozitului pe circulația mărfurilor.
+5. Direcția generală a protecției consumatorilor din Departamentul Reglementării Comerțului și Turismului va aduce la îndeplinire prevederile prezentului ordin. Secretar de stat al Departamentului Reglementării Comerțului și Turismului Gheorghe Albu
