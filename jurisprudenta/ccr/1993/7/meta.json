@@ -1,0 +1,203 @@
+{
+ "key": "dcc-7-1993",
+ "label": "Decizia CCR nr. 7/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "7",
+ "date": "1993-03-02",
+ "year": "1993",
+ "heading": "DECIZIE nr. 7 din 2 martie 1993",
+ "subtitle": "excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 1295/1990 privind taxele de timbru pentru acţiunile şi cererile introduse la instanţele judecătoreşti, precum şi asupra actelor de notariat şi a serviciilor prestate de acestea şi a art. 7 din Legea contenciosului administrativ nr. 29/1990",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "179",
+  "bis": false,
+  "date": "1993-07-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1295/1990",
+    "number": "1295",
+    "year": "1990",
+    "path": "hg/1990/1295"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate formulată de reclamantul Petrosanu Ionel din Bucureşti, str. Compozitorilor nr. 16, bloc 16, sc. 4, ap. 1, sector 6, privind Hotărârea Guvernului nr. 1295/1990 şi art. 7 din Legea contenciosului administrativ nr. 29/1990.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1295/1990",
+    "number": "1295",
+    "year": "1990",
+    "path": "hg/1990/1295"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii de abilitare nr. 36/1990",
+    "number": "36",
+    "year": "1990",
+    "path": "lege/1990/36"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-07-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3015",
+  "text_sha256": "39c98ea6e60b8ed10b0c64e648a6fb62a2411edaecb7ff693810c12b4efbc7bc",
+  "catalogue_sha256": "39c98ea6e60b8ed10b0c64e648a6fb62a2411edaecb7ff693810c12b4efbc7bc",
+  "fetched": "2026-11-02T22:31:13Z",
+  "chars": 9616,
+  "portal_id": "3015",
+  "tip": "DECIZIE"
+ }
+}
