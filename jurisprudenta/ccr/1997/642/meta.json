@@ -1,0 +1,153 @@
+{
+ "key": "dcc-642-1997",
+ "label": "Decizia CCR nr. 642/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "642",
+ "date": "1997-12-10",
+ "year": "1997",
+ "heading": "DECIZIE nr. 642 din 10 decembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 330 şi ale art. 330^4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "70",
+  "bis": false,
+  "date": "1998-02-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.373/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 330 şi ale art. 330^4 din Codul de procedură civilă, ridicată de intimata-reclamanta Bucsan Alexandrina în Dosarul nr. 3.373/1995 al Curţii Supreme de Justiţie - Secţia civilă.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/1993",
+    "number": "56",
+    "year": "1993",
+    "path": "lege/1993/56"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "mo: date 1997-02-13 vs catalogue DataVigoare 1998-02-13",
+  "mo: printed date 1997-02-13 precedes the decision; publication day 1998-02-13 from the catalogue"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13340",
+  "text_sha256": "dbf5395e3c3ee4369448dd66bfc7485b6d8d2e5d5d27b9b3232ff75c2e7d6a0d",
+  "catalogue_sha256": "dbf5395e3c3ee4369448dd66bfc7485b6d8d2e5d5d27b9b3232ff75c2e7d6a0d",
+  "fetched": "2026-11-02T22:59:29Z",
+  "chars": 4912,
+  "portal_id": "13340",
+  "tip": "DECIZIE"
+ }
+}
