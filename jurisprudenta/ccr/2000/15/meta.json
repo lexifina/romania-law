@@ -1,0 +1,190 @@
+{
+ "key": "dcc-15-2000",
+ "label": "Decizia CCR nr. 15/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "15",
+ "date": "2000-01-25",
+ "year": "2000",
+ "heading": "DECIZIE nr. 15 din 25 ianuarie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenta a Guvernului nr. 23/1999 pentru abrogarea Legii nr. 31/1996 privind regimul monopolului de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "267",
+  "bis": false,
+  "date": "2000-06-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.472/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 23/1999",
+    "number": "23",
+    "year": "1999",
+    "path": "oug/1999/23"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Parchetul de pe lângă Curtea de Apel Timişoara în Dosarul nr. 4.472/1999 al acelei instanţe şi constata ca dispoziţiile Ordonanţei de urgenta a Guvernului nr. 23/1999 pentru abrogarea Legii nr. 31/1996 privind regimul monopolului de stat sunt neconstituţionale.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 23/1999",
+    "number": "23",
+    "year": "1999",
+    "path": "oug/1999/23"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1996",
+    "number": "31",
+    "year": "1996",
+    "path": "lege/1996/31"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-06-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22795",
+  "text_sha256": "888e9e8a6feec75325b2c7aff584a529d57f638b8c1709b2d2c805522d48fec5",
+  "catalogue_sha256": "888e9e8a6feec75325b2c7aff584a529d57f638b8c1709b2d2c805522d48fec5",
+  "fetched": "2026-11-05T05:48:21Z",
+  "chars": 25858,
+  "portal_id": "22795",
+  "tip": "DECIZIE"
+ }
+}
