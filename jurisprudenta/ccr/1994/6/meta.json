@@ -1,0 +1,219 @@
+{
+ "key": "dcc-6-1994",
+ "label": "Decizia CCR nr. 6/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "6",
+ "date": "1994-01-26",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 6 din 26 ianuarie 1994",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "259",
+  "bis": false,
+  "date": "1994-09-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1676/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1991",
+    "number": "32",
+    "year": "1991",
+    "path": "lege/1991/32"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constata ca, potrivit Deciziei Curţii Constituţionale nr. 34/1993, publicată în Monitorul Oficial al României, Partea I, nr. 144 din 1 iulie 1993, s-a abrogat, în temeiul art. 150 alin. (1) din Constituţie, excepţia prevăzută în art. 4 din Legea contenciosului administrativ nr. 29/1990, referitoare la art. 3 din aceeaşi lege şi accesul la justiţie este astfel asigurat în ipotezele avute în vedere de art. 14 şi art. 15 din Legea nr. 32/1991 şi, prin urmare,",
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate vizind art. 14 şi art. 15 din Legea nr. 32/1991, invocată de Asociaţia de locatari Parcul Tineretului nr. 2 Sibiu, în Dosarul nr. 1676/1993 aflat pe rolul Tribunalului Sibiu.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1991",
+    "number": "32",
+    "year": "1991",
+    "path": "lege/1991/32"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1991",
+    "number": "30",
+    "year": "1991",
+    "path": "lege/1991/30"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-09-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3831",
+  "text_sha256": "98a614b8d0d680a53b71d1d579969a663ae8bf822b08a393950c9b47f8631111",
+  "catalogue_sha256": "98a614b8d0d680a53b71d1d579969a663ae8bf822b08a393950c9b47f8631111",
+  "fetched": "2026-11-06T02:13:02Z",
+  "chars": 8629,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260307115527/https://legislatie.just.ro/Public/DetaliiDocument/3831",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/3831",
+   "timestamp": "20260307115527",
+   "sha256": "b46fb2b19c7a7bae9b8951b7e13c767561e66ac5fce40c3fa8d5ab91ba435ac3"
+  },
+  "portal_id": "3831",
+  "tip": "DECIZIE"
+ }
+}
