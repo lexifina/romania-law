@@ -1,0 +1,218 @@
+{
+ "key": "dcc-198-2002",
+ "label": "Decizia CCR nr. 198/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "198",
+ "date": "2002-07-02",
+ "year": "2002",
+ "heading": "DECIZIE nr. 198 din 2 iulie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 136/2000 privind modul de stabilire a plăţilor compensatorii şi a ajutoarelor care se acordă personalului militar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "576",
+  "bis": false,
+  "date": "2002-08-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 136/2000",
+    "number": "136",
+    "year": "2000",
+    "path": "oug/2000/136"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  Ordonanţei de urgenta a Guvernului nr. 136/2000  privind modul de stabilire a plăţilor compensatorii şi a ajutoarelor care se acordă personalului militar, excepţie ridicată de Ion-Nicolae A. Sanfrancisco, Nicolae P. Lixandru, Dan Tunduc, Gheorghe Zaicanu, Ioan C. Cojocaru şi Dumitru Pandurasu în dosarele nr. 6.989/2001, nr. 6.990/2001, nr. 6.991/2001, nr. 6.992/2001, nr. 6.993/2001 şi nr. 6.994/2001 ale Tribunalului Bucureşti - Secţia a III-a civilă.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 2 iulie 2002.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Laurentiu Cristescu  ──────────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 136/2000",
+    "number": "136",
+    "year": "2000",
+    "path": "oug/2000/136"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 7/1998",
+    "number": "7",
+    "year": "1998",
+    "path": "og/1998/7"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 100/1999",
+    "number": "100",
+    "year": "1999",
+    "path": "oug/1999/100"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "lege/1999/138"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-08-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/37806",
+  "text_sha256": "eb8aa0850bf9a8258604fa48204684be3783f3d19ae51d48f6140c2a663d36c8",
+  "catalogue_sha256": "eb8aa0850bf9a8258604fa48204684be3783f3d19ae51d48f6140c2a663d36c8",
+  "fetched": "2026-11-02T23:22:45Z",
+  "chars": 12033,
+  "portal_id": "37806",
+  "tip": "DECIZIE"
+ }
+}
