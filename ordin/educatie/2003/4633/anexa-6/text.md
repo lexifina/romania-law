@@ -1,0 +1,2 @@
+# Anexa 4
+Contractor: (anexa la procesul-verbal de avizare nr....) De acord Director general, RAPORT DE ACTIVITATE AL FAZEI Contractul nr.: Proiectul (denumire): Faza (nr., denumire): Termen: 1. Obiectivul proiectului: 2. Rezultate preconizate pentru atingerea obiectivului: 3. Obiectivul fazei: 4. Rezultate preconizate pentru atingerea obiectivului fazei: 5. Rezumatul fazei (maximum 5 pagini): 6. Rezultate, stadiul realizării obiectivului, concluzii și propuneri pentru continuarea proiectului: Responsabil de proiect,
