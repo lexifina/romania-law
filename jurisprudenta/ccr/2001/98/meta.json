@@ -1,0 +1,215 @@
+{
+ "key": "dcc-98-2001",
+ "label": "Decizia CCR nr. 98/2001",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "98",
+ "date": "2001-04-05",
+ "year": "2001",
+ "heading": "DECIZIE nr. 98 din 5 aprilie 2001",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a \"Legii privind respingerea Ordonanţei de urgenta a Guvernului nr. 23/1999 pentru abrogarea Legii nr. 31/1996 privind regimul monopolului de stat\"",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "256",
+  "bis": false,
+  "date": "2001-05-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "116A/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind respingerea Ordonanţei de urgenta a Guvernului nr. 23/1999",
+    "number": "23",
+    "year": "1999",
+    "path": "lege/1999/23"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 23/1999",
+    "number": "23",
+    "year": "1999",
+    "path": "oug/1999/23"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "\"Legea privind respingerea Ordonanţei de urgenta a Guvernului nr. 23/1999 pentru abrogarea Legii nr. 31/1996 privind regimul monopolului de stat\" este neconstitutionala, întrucât, în temeiul dispoziţiilor art. 145 alin. (2) teza întâi din Constituţie, efectele Ordonanţei de urgenta a Guvernului nr. 23/1999 au încetat la data de 14 iunie 2000, data la care a fost publicată în Monitorul Oficial al României, Partea I, Decizia Curţii Constituţionale nr. 15/2000, prin care s-a constatat ca Ordonanţa de urgenta a Guvernului nr. 23/1999 este neconstitutionala.",
+  "Decizia se comunică Preşedintelui României, precum şi preşedintelui Camerei Deputaţilor şi preşedintelui Senatului, în scopul deschiderii procedurii prevăzute la art. 145 alin. (1) teza întâi din Constituţie.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind respingerea Ordonanţei de urgenta a Guvernului nr. 23/1999",
+    "number": "23",
+    "year": "1999",
+    "path": "lege/1999/23"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 23/1999",
+    "number": "23",
+    "year": "1999",
+    "path": "oug/1999/23"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "145",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1996",
+    "number": "31",
+    "year": "1996",
+    "path": "lege/1996/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/28480",
+  "text_sha256": "c57b8348bc447f49b2788f44fc1f847e156170d002ac86ea77271ab1d819e259",
+  "catalogue_sha256": "c57b8348bc447f49b2788f44fc1f847e156170d002ac86ea77271ab1d819e259",
+  "fetched": "2026-11-02T23:14:13Z",
+  "chars": 17112,
+  "portal_id": "28480",
+  "tip": "DECIZIE"
+ }
+}
