@@ -1,0 +1,167 @@
+{
+ "key": "dcc-85-1995",
+ "label": "Decizia CCR nr. 85/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "85",
+ "date": "1995-10-03",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 85 din 3 octombrie 1995",
+ "subtitle": "referitoare la pronunţarea asupra recursului declarat de Societatea Comercială \"Phenix\" - S.R.L. Sibiu şi Societatea Comercială \"Siroimpex\" - S.R.L. Sibiu împotriva Deciziei Curţii Constituţionale nr. 133 din 29 noiembrie 1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "252",
+  "bis": false,
+  "date": "1995-11-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "4.796/1994",
+  "7.249/1994"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Societatea Comercială \"Siroimpex\" - S.R.L. Sibiu şi de Societatea Comercială \"Phenix\" - S.R.L. Sibiu împotriva Deciziei Curţii Constituţionale nr. 133 din 29 noiembrie 1994.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1991",
+    "number": "12",
+    "year": "1991",
+    "path": "lege/1991/12"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-11-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6177",
+  "text_sha256": "10f41357cf9de73e2006405cfb861cb24ec8eff38155ac7364ba6b5295fcc6f7",
+  "catalogue_sha256": "10f41357cf9de73e2006405cfb861cb24ec8eff38155ac7364ba6b5295fcc6f7",
+  "fetched": "2026-11-02T22:49:14Z",
+  "chars": 6769,
+  "portal_id": "6177",
+  "tip": "DECIZIE"
+ }
+}
