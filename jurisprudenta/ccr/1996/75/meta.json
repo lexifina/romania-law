@@ -1,0 +1,169 @@
+{
+ "key": "dcc-75-1996",
+ "label": "Decizia CCR nr. 75/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "75",
+ "date": "1996-06-19",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 75*) din 19 iunie 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 16 lit. a) din Decretul-lege nr. 10/1990",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "181",
+  "bis": false,
+  "date": "1996-08-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "13.087/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 10/1990",
+    "number": "10",
+    "year": "1990",
+    "path": "decret-lege/1990/10"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 16 lit. a) din Decretul-lege nr. 10/1990 privind regimul paşapoartelor şi al călătorilor în străinătate, invocată de Kiss Alexandru Iosif Francisc, Kelemen Zoltan, Unterlender Merai Ioan, Csudom Istvan, Konya Istvan, Virag Ibolya, Feher Sandor şi Doba Ilona Marta, în Dosarul nr. 13.087/1995 al Judecătoriei Oradea.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 10/1990",
+    "number": "10",
+    "year": "1990",
+    "path": "decret-lege/1990/10"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-08-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8421",
+  "text_sha256": "93cef6a692cb685f36cb3ac080d609aa3cb9bae5159c6c8f934e7d7679677c19",
+  "catalogue_sha256": "93cef6a692cb685f36cb3ac080d609aa3cb9bae5159c6c8f934e7d7679677c19",
+  "fetched": "2026-11-02T22:51:28Z",
+  "chars": 4409,
+  "portal_id": "8421",
+  "tip": "DECIZIE"
+ }
+}
