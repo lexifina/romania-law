@@ -1,0 +1,6 @@
+# Anexa 3 la regulament
+CERERE DE ÎNREGISTRARE
+Societatea Comercială........................., cu sediul în str........................ nr.........., telefon......... fax........, reprezentată prin..................................................., (director general sau director) cu contul nr.......................... deschis la.................., membru al Corpului Experților Contabili și Contabililor Autorizați din
+România, înscrisă în Tabloul Corpului la partea....................., poziția..................., solicit înregistrarea la Comisia Naționala a Valorilor Mobiliare pentru desfășurarea activităților prevăzute la art. 3 din Regulamentul privind activitatea cenzorilor externi independenți.
+Data...................
+Semnăturile autorizate,.......................

@@ -1,0 +1,2 @@
+# Anexa nr. 7
+Anexa 6 la regulament LISTA documentelor necesare pentru înregistrarea persoanelor fizice străine 1. Copii legalizate de pe documentele care atesta ca persoana care solicita înregistrarea în calitate de cenzor extern independent are aceasta specializare. 2. Adeverința eliberata de Corpul Experților Contabili și Contabililor Autorizați din România. 3. Copie legalizată de pe actul care atesta înregistrarea la Agenția Română de Dezvoltare.
