@@ -1,0 +1,3 @@
+# Anexa 1
+Anexa 1
+LISTA cuprinzând consumatorii finali de energie electrica cu care se suplimenteaza lista cuprinzând consumatorii eligibili acreditați prin Decizia președintelui ANRE nr. 53/2000 1. Societatea Comercială "Ferco Intertrade" - S.R.L. București 2. Societatea Comercială "Fibrexnylon" - S.A. Savinesti 3. Societatea Comercială "Oltchim" - S.A. Ramnicu Valcea 4. Societatea Comercială "Tagrimpex Romcif" - S.A. Fieni 5. Societatea Comercială "Chimcomplex" - S.A. Borzesti 6. Societatea Comercială de Transport cu Metroul "Metrorex" - S.A. București 7. Societatea Comercială "Casirom" - S.A. Turda 8. Societatea Comercială "Petromidia" - S.A. Constanta 9. Societatea Comercială "Amonilul" - S.A. Slobozia ------------
