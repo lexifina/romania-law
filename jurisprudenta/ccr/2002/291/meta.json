@@ -1,0 +1,238 @@
+{
+ "key": "dcc-291-2002",
+ "label": "Decizia CCR nr. 291/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "291",
+ "date": "2002-11-05",
+ "year": "2002",
+ "heading": "DECIZIE nr. 291 din 5 noiembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 14 alin. (2) din Legea nr. 333/2001 privind unele măsuri pentru diminuarea consecinţelor încetării răscumpărării de unităţi de fond de către Fondul Naţional de Investiţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "832",
+  "bis": false,
+  "date": "2002-11-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "10.194/2000",
+  "215C/2002",
+  "10.195/2000",
+  "213C/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2001",
+    "number": "333",
+    "year": "2001",
+    "path": "lege/2001/333"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 14 alin. (2) din Legea nr. 333/2001 privind unele măsuri pentru diminuarea consecinţelor încetării răscumpărării de unităţi de fond de către Fondul Naţional de Investiţii, excepţie ridicată de Mircea Craciunoiu şi de Societatea Comercială \"EUROGIL\" - S.R.L. din Bucureşti în dosarele nr. 10.194/2000 şi nr. 10.195/2000 ale Tribunalului Bucureşti - Secţia comercială.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2001",
+    "number": "333",
+    "year": "2001",
+    "path": "lege/2001/333"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2002",
+    "number": "333",
+    "year": "2002",
+    "path": "lege/2002/333"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/39992",
+  "text_sha256": "77b984f1aa5395954cf91bcb1b57dc29e426618c00631f39f82c64323b7343cb",
+  "catalogue_sha256": "77b984f1aa5395954cf91bcb1b57dc29e426618c00631f39f82c64323b7343cb",
+  "fetched": "2026-11-04T18:13:17Z",
+  "chars": 10378,
+  "portal_id": "39992",
+  "tip": "DECIZIE"
+ }
+}
