@@ -1,0 +1,2 @@
+Avand in vedere raportul de specialitate al Departamentului Transport Public si Cai de Comunicatii prin care se propune modificarea H.C.L.M.B. nr.57/1993 si 108/1993 si aprobarea noilor norme de organizare si efectuare a transportului de persoane cu taximetrele pe teritoriul municipiului Bucuresti;
+In conformitate cu art.20, lit."K" si "I" si art.28 din Legea nr.69/1991, republicata privind administratia publica locala, Consiliul General al municipiului Bucuresti Hotaraste:
