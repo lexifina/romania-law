@@ -1,0 +1,160 @@
+{
+ "key": "dcc-4-1993",
+ "label": "Decizia CCR nr. 4/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "4",
+ "date": "1993-02-10",
+ "year": "1993",
+ "heading": "DECIZIE nr. 4*) din 10 februarie 1993",
+ "subtitle": "excepţia de neconstituţionalitate a art. 16 din Legea nr. 12/1974",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "60",
+  "bis": false,
+  "date": "1993-03-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1974",
+    "number": "12",
+    "year": "1974",
+    "path": "lege/1974/12"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate formulată de Societatea de Pescuit Sportiv \"Mreana\", cu sediul în Bacau, str. Aviatori, bl. 24, sc. A, ap. 1, judeţul Bacau, în cauza ce formează obiectul dosarului nr. 38/C/1992 aflat pe rolul Tribunalului Judeţean Bacau, Secţia contencios administrativ.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1974",
+    "number": "12",
+    "year": "1974",
+    "path": "lege/1974/12"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei din 1991",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-03-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3000",
+  "text_sha256": "7ab4377f5f9882416887d67c276633c8e050be0df5e7a1a33ad886549e60f3e2",
+  "catalogue_sha256": "7ab4377f5f9882416887d67c276633c8e050be0df5e7a1a33ad886549e60f3e2",
+  "fetched": "2026-11-02T22:30:33Z",
+  "chars": 7949,
+  "portal_id": "3000",
+  "tip": "DECIZIE"
+ }
+}
