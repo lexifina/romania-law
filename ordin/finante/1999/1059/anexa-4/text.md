@@ -1,0 +1,9 @@
+# Anexa 2a)
+Trezoreria...................................................
+PROGRAM pentru asigurarea numerarului în casieria băncii comerciale, necesar plăților în numerar către instituțiile publice pentru luna............
+- mii lei -
+Ziua Sumele în numerar de eliberat din contul de disponibil de la banca comercială Se asigură din:
+soldul contului disponibil la începutul zilei încasări proprii depuse în cont alimentări din contul trezoreriei statului ale contului deschis la bancă Soldul la finele zilei
+0 1 2 3 4 5
+Director, Șef serviciu,
+..........................................
