@@ -1,0 +1,9 @@
+# Anexa 6
+-------- la regulament -------------
+PROCES - VERBAL nr...... din...... Subsemnații....., membri ai comisiei de licitație pentru stabilirea valorii reale a tarifelor de atribuire în gestiune a fondurilor de vânătoare, astăzi, data de mai sus, în urma organizării licitației pentru fondul de vânătoare nr........, denumit...., declaram câștigător al licitației Asociația (Societatea).......... din....., str...... nr....., județul.............. Titularul dreptului de preemțiune, Asociația (Societatea)........, cu sediul în...., str...... nr....., județul...., a exercitat (nu)a exercitat dreptul de preemțiune asupra acestui fond de vânătoare.
+În aceste condiții fondul de vânătoare a fost adjudecat de Asociația (Societatea)........ Drept care s-a încheiat prezentul proces-verbal, în trei exemplare, câte unul pentru fiecare parte.
+Președintele Comisiei de licitație,
+Ofertant,............................................
+Membri,...................
+Titularul dreptului de preemțiune,.................................
+---------------
