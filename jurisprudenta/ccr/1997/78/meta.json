@@ -1,0 +1,138 @@
+{
+ "key": "dcc-78-1997",
+ "label": "Decizia CCR nr. 78/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "78",
+ "date": "1997-04-22",
+ "year": "1997",
+ "heading": "DECIZIE nr. 78 din 22 aprilie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 330 şi ale art. 330^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "93",
+  "bis": false,
+  "date": "1997-05-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": true,
+ "appeal": true,
+ "dossiers": [
+  "99C/1996",
+  "114C/1996",
+  "154C/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge recursul declarat de Rotaru Elena împotriva Deciziei Curţii Constituţionale nr. 110 din 8 octombrie 1996 privind prevederile art. 330 din Codul de procedură civilă. 2. Admite recursurile declarate de Borgovan Georgeta Anca, Mrean Ştefan Dan şi Mrean Aurelia privind dispoziţiile art. 330^1 din Codul de procedură civilă şi modifica Decizia Curţii Constituţionale nr. 110 din 8 octombrie 1996, în sensul că respinge excepţiile de neconstituţionalitate a art. 330^1 din Codul de procedură civilă ca fiind lipsite de obiect.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11492",
+  "text_sha256": "432e5b57d0b61269b8fa81c43797703fe2fba64c3bf75a5eb7a0603721e17ac2",
+  "catalogue_sha256": "432e5b57d0b61269b8fa81c43797703fe2fba64c3bf75a5eb7a0603721e17ac2",
+  "fetched": "2026-11-02T22:54:15Z",
+  "chars": 8854,
+  "portal_id": "11492",
+  "tip": "DECIZIE"
+ }
+}
