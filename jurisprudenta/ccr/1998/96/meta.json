@@ -1,0 +1,136 @@
+{
+ "key": "dcc-96-1998",
+ "label": "Decizia CCR nr. 96/1998",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "96",
+ "date": "1998-06-30",
+ "year": "1998",
+ "heading": "DECIZIE nr. 96 din 30 iunie 1998",
+ "subtitle": "cu privire la constituţionalitatea votului exprimat la adoptarea Legii privind acordarea tichetelor de masa în şedinţa comuna a Camerei Deputaţilor şi Senatului din 5 mai 1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "260",
+  "bis": false,
+  "date": "1998-07-13",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "Constata ca Legea privind acordarea tichetelor de masa a fost adoptată cu respectarea prevederilor art. 64 din Constituţie.",
+  "Decizia se comunică Preşedintelui României."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "outcome: not detected",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-07-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15207",
+  "text_sha256": "63f08553633c8d4c620445a53e9546877db6449505168acd9cb1298769863f3f",
+  "catalogue_sha256": "63f08553633c8d4c620445a53e9546877db6449505168acd9cb1298769863f3f",
+  "fetched": "2026-11-02T23:00:54Z",
+  "chars": 12331,
+  "portal_id": "15207",
+  "tip": "DECIZIE"
+ }
+}
