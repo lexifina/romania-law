@@ -1,0 +1,7 @@
+Avand in vedere raportul Directiei Generale de Gospodarie Comunala nr.
+27825/03.11.1992, prin care se propune majorarea tarifelor de calatorie la transportul in comun de persoane in municipiul Bucuresti, efectuate cu tram-vaie, troleibuze si autobuze;
+In baza Hotararii Guvernului nr.776/1991,art.7, care prevede ca incepind cu 01.09.1992 subventiile acordate pentru transporturi in comun de persoane sa se reduca cu inca 25%, prin majorarea tarifelor de calatorie;
+In temeiul Hotararii Guvernului nr.498/1992, care prevede ca la transpor-tul urban de calatori, tarifele pentru abonamente se vor stabili de Consi-liul local al municipiului Bucuresti cu avizul Ministerului Economiei si Finantelor;
+Luand in considerare nota comuna a Ministerului Economiei si Finantelor, Consiliul local al municipiului Bucuresti si Regiei Autonome de Transport Bucuresti, prin care se stabileste nivelul tarifelor la abonamente pentru transportul in comun in municipiul Bucuresti, cat si avizul favorabil al Co-misiei de transporturi, retele stradale si dezvoltarea circulatiei, Comisiei buget-finante si Comisiei de organizare a administratiei publice locale, ju-ridica, apararea ordinii publice, respectarea drepturilor si libertatilor cetatenesti;
+In conformitate cu prevederile art.21,lit."e" si "l" si art.29 din Legea nr.69/1991, privind administratia publica locala;
+Consiliul local al municipiului Bucuresti H o t a r a s t e :
