@@ -1,0 +1,212 @@
+{
+ "key": "cedo-29411-95-2002-04-09",
+ "label": "CEDO, Anghelescu c. României, 2002-04-09",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2002-04-09",
+ "year": "2002",
+ "heading": "HOTĂRÂRE din 9 aprilie 2002",
+ "subtitle": "în cauza Anghelescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA a II-a",
+ "mo": {
+  "number": "682",
+  "bis": false,
+  "date": "2002-09-16",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "29411/95"
+ ],
+ "case_name": "Anghelescu",
+ "subjects": [],
+ "operative": [
+  "CURTEA: 1. decide, în unanimitate, ca a existat o încălcare a art. 6 paragraful 1 din convenţie, sub aspectul absentei unui proces echitabil; 2. decide, în unanimitate, ca a existat o încălcare a art. 6 paragraful 1 din convenţie, sub aspectul negarii dreptului de acces la justiţie; 3. decide, în unanimitate, ca a existat o încălcare a art. 1 din Primul Protocol adiţional la convenţie; 4. decide, în unanimitate, ca statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la comunicarea hotărârii definitive în conformitate cu art. 44 paragraful 2 din convenţie, suma de 18.755 euro pentru prejudiciul material; 5. decide, cu 6 voturi la 1, ca statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la comunicarea hotărârii definitive în conformitate cu art. 44 paragraful 2 din convenţie, următoarele sume: - 20.000 euro pentru prejudiciul moral; - 36.567 euro cu titlu de costuri şi cheltuieli la care se adauga sumele datorate pentru plata taxei pe valoarea adăugată; 6. decide, în unanimitate, ca sumele menţionate la pct. 4 şi 5 vor fi majorate cu o dobânda simpla de 8,62% pe an începând de la expirarea termenului amintit şi până la momentul plăţii; 7. respinge, în unanimitate, cererea de acordare a unei satisfactii echitabile pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 524/1955",
+    "number": "524",
+    "year": "1955",
+    "path": "decret/1955/524"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privatizării societăţilor comerciale nr. 58/1991",
+    "number": "58",
+    "year": "1991",
+    "path": "lege/1991/58"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1993",
+    "number": "59",
+    "year": "1993",
+    "path": "lege/1993/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 17/1994",
+    "number": "17",
+    "year": "1994",
+    "path": "lege/1994/17"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38432",
+  "text_sha256": "8d5271630210edc75207fe2762fa53dac6564e3409ce0b3f6e0d77d12b3241b7",
+  "catalogue_sha256": "8d5271630210edc75207fe2762fa53dac6564e3409ce0b3f6e0d77d12b3241b7",
+  "fetched": "2026-11-02T23:23:25Z",
+  "chars": 36145,
+  "portal_id": "38432",
+  "tip": "HOTĂRÂRE"
+ }
+}
