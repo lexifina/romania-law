@@ -1,0 +1,6 @@
+ HOTĂRÂRE nr. 12 din 11 februarie 1993  privind constituirea grupurilor parlamentare de prietenie     EMITENT     Parlament       Publicat în
+			  MONITORUL OFICIAL nr. 37 din 22 februarie 1993     Parlamentul României adopta prezenta hotărîre.
+				 +
+			  Articolul UNIC     Se aprobă constituirea grupurilor parlamentare de prietenie potrivit anexei, care face parte integrantă din prezenta hotărîre.  PREŞEDINTELE SENATULUI  prof. univ. OLIVIU GHERMAN  PREŞEDINTELE   CAMEREI DEPUTAŢILOR  ADRIAN NASTASE
+				 +
+			  Anexa 1      LISTA  statelor cu ale căror parlamente se constituie grupuri parlamentare de prietenie  1. Regatul Unit al Marii Britanii şi Irlandei de Nord  2. Republica Argentina  3. Australia  4. Republica Austria  5. Belgia  6. Republica Bulgaria  7. Canada  8. Republica Chile  9. Republica Populara Chineza  10. Republica Coreea  11. Republica Franceza - Adunarea Naţionala  12. Republica Franceza - Senat  13. Republica Federala Germania  14. Republica Elena  15. Republica Islamica Iran  16. Israel  17. Republica Italiana  18. Japonia  19. Republica Libaneza  20. Regatul Maroc  21. Republica Mongolia  22. Republica Polona  23. Republica Portugheză  24. Spania  25. Regatul Thailanda  26. Republica Turcia  27. Republica Ungara  28. Federaţia Rusa  29. Republica Venezuela.  ----------------
