@@ -1,0 +1,242 @@
+{
+ "key": "dcc-48-1997",
+ "label": "Decizia CCR nr. 48/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "48",
+ "date": "1997-03-07",
+ "year": "1997",
+ "heading": "DECIZIE nr. 48 din 7 martie 1997*)",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. 2, art. 13 şi ale art. 26 alin. 1 din Legea nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "57",
+  "bis": false,
+  "date": "1998-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.353/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. 2, art. 13 şi art. 26 alin. 1 din Legea nr. 112/1995, invocată de Zega Nicusor Aristide în Dosarul nr. 9.353/1996 al Judecătoriei Sectorului 6 - Municipiul Bucureşti.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11303",
+  "text_sha256": "bffa6ee5163bcef6b4ed321cc5d5935cfa13134556278a5eccb9dd8102d86675",
+  "catalogue_sha256": "bffa6ee5163bcef6b4ed321cc5d5935cfa13134556278a5eccb9dd8102d86675",
+  "fetched": "2026-11-05T14:34:11Z",
+  "chars": 9400,
+  "portal_id": "11303",
+  "tip": "DECIZIE"
+ }
+}
