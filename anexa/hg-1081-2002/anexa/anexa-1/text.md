@@ -1,0 +1,3 @@
+# Anexa 1
+Anexa 1
+------- la normele metodologice GRUPAREA direcțiilor silvice pentru care se vor organiza licitații pentru contractarea de masa lemnoasă pe termen lung 1. Direcțiile silvice: Botosani, Neamt, Suceava 2. Direcțiile silvice: Bacau, Iași, Vaslui 3. Direcțiile silvice: Buzau, Vrancea, București 4. Direcțiile silvice: Constanta, Ialomita, Tulcea 5. Direcțiile silvice: Arges, Dambovita, Prahova, Teleorman 6. Direcțiile silvice: Gorj, Dolj, Mehedinti, Olt, Valcea 7. Direcțiile silvice: Arad, Caraș-Severin, Hunedoara, Timiș 8. Direcțiile silvice: Bihor, Bistrita-Nasaud, Cluj, Maramures, Salaj 9. Direcțiile silvice: Alba, Brașov, Harghita, Mures, Sibiu. ------------
