@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 1996-06-25: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 1997-11-18: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 1997-11-19: registered at the Chamber of Deputies
 
 ## Documents
 
