@@ -1,0 +1,172 @@
+{
+ "key": "dcc-22-2000",
+ "label": "Decizia CCR nr. 22/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "22",
+ "date": "2000-02-08",
+ "year": "2000",
+ "heading": "DECIZIE nr. 22 din 8 februarie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 15 lit. r) din Legea nr. 146/1997 privind taxele judiciare de timbru, modificat şi completat prin Legea nr. 112/1998 privind aprobarea Ordonanţei Guvernului nr. 11/1998 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru, precum şi a art. 3 alin. (1) şi (2), a art. 6 alin. (1) lit. a) şi a art. 24 lit. r) din Normele metodologice pentru aplicarea Legii nr. 146/1997, aprobate prin Ordinul ministrului justiţiei nr. 760/C/1999",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "452",
+  "bis": false,
+  "date": "2000-09-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "11.905/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "r"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 15 lit. r) din Legea nr. 146/1997 privind taxele judiciare de timbru, modificate şi completate prin Legea nr. 112/1998 privind aprobarea Ordonanţei Guvernului nr. 11/1998 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru, excepţie ridicată de Petre Marculescu, Mihaela Roze Marculescu şi Radu Popescu în Dosarul nr. 11.905/1998 al Judecătoriei Sectorului 1 Bucureşti. 2. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a prevederilor art. 3 alin. (1) şi (2), ale art. 6 alin. (1) lit. a) şi ale art. 24 lit. r) din Normele metodologice pentru aplicarea Legii nr. 146/1997, aprobate prin Ordinul ministrului justiţiei nr. 760/C/1999, excepţie ridicată de aceiaşi autori în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "r"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1",
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-09-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24241",
+  "text_sha256": "6e21cd3d04d37a4708733a1362c9797e71543b3c42ad9e15d690114d6ef16ccb",
+  "catalogue_sha256": "6e21cd3d04d37a4708733a1362c9797e71543b3c42ad9e15d690114d6ef16ccb",
+  "fetched": "2026-11-02T23:10:26Z",
+  "chars": 16290,
+  "portal_id": "24241",
+  "tip": "DECIZIE"
+ }
+}
