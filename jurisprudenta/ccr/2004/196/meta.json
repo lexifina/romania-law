@@ -1,0 +1,140 @@
+{
+ "key": "dcc-196-2004",
+ "label": "Decizia CCR nr. 196/2004",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "196",
+ "date": "2004-04-28",
+ "year": "2004",
+ "heading": "DECIZIE nr. 196 din 28 aprilie 2004",
+ "subtitle": "privind constituţionalitatea dispoziţiilor art. 15 alin. (3), art. 16 alin. (2) teza întâi, alin. (3) teza întâi şi alin. (4) din Regulamentul Senatului, republicat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "417",
+  "bis": false,
+  "date": "2004-05-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "169C/2004"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că sunt neconstituţionale dispoziţiile cuprinse la art. 15 alin. (3), art. 16 alin. (2) teza întâi, alin. (3) teza întâi şi alin. (4) din Regulamentul Senatului, republicat în Monitorul Oficial al României, Partea I, nr. 58 din 2 februarie 2001, dispoziţii care au preluat prevederile art. 13 alineatul ultim, art. 14 alin. 2, alin. 3 şi alineatul ultim din Regulamentul Senatului, publicat în Monitorul Oficial al României, Partea I, nr. 178 din 27 iulie 1993, a căror neconstituţionalitate a fost constatată prin Decizia Curţii Constituţionale nr. 46 din 17 mai 1994.",
+  "Definitivă şi obligatorie.",
+  "Decizia se comunică Preşedintelui Senatului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "A.b"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-05-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51820",
+  "text_sha256": "8018fb58e3c4e62fdd6f7158f813fb1cadf73ae6fc93d9af24c141d0e3568f7b",
+  "catalogue_sha256": "8018fb58e3c4e62fdd6f7158f813fb1cadf73ae6fc93d9af24c141d0e3568f7b",
+  "fetched": "2026-11-02T23:36:46Z",
+  "chars": 14880,
+  "portal_id": "51820",
+  "tip": "DECIZIE"
+ }
+}
