@@ -1,0 +1,3 @@
+# Anexa 1
+Autoritatea emitentă Nr....../.......... CERTIFICAT DE ABILITARE PENTRU MOSTRE Se abilitează agentul economic (denumire, sediu, certificat de înregistrare la registrul comerțului) pentru importul următoarelor produse: Codul tarifar........................... Denumirea produsului/grupei de produse...................................................................................... (Denumirea comercială/tehnică a produsului) Cantitatea................... Scopul............................ Prezentul certificat nu exonerează agentul economic de răspunderile ce-i revin, potrivit legii, pentru import. Prezentul certificat este valabil pentru un singur transport. Conducătorul autorității emitente,
+Viza biroului vamal
