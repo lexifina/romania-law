@@ -1,0 +1,163 @@
+{
+ "key": "cedo-c-c-m-c-2000-06-20",
+ "label": "CEDO, C.C.M.C. c. României, 2000-06-20",
+ "court": "cedo",
+ "kind": "raport-comisie",
+ "date": "2000-06-20",
+ "year": "2000",
+ "heading": "RAPORTUL COMISIEI din 20 iunie 2000",
+ "subtitle": "pronunţat în cauza C.C.M.C. împotriva României (Plângerea nr. 32.922/96)",
+ "issuer": "COMISIA EUROPEANĂ A DREPTURILOR OMULUI Prima Camera",
+ "mo": {
+  "number": "277",
+  "bis": false,
+  "date": "2000-06-20",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "case_name": "C.C.M.C.",
+ "subjects": [],
+ "operative": [
+  "Comisia hotărăşte în unanimitate ca în cauza a avut loc o încălcare a art. 6 alin. 1 din convenţie (paragraful 89). 105. Comisia hotărăşte în unanimitate că nu este nevoie să se examineze dacă a avut loc în cauza o încălcare a art. 1 din primul Protocol adiţional la convenţie (paragraful 94). 106. Comisia hotărăşte în unanimitate că nu este nevoie să se examineze dacă a avut loc în cauza o încălcare a art. 8 din convenţie (paragraful 103).",
+  "M. P. Pellonpaa, preşedintele Primei Camere",
+  "M. F. Buquicchio, secretara Primei Camere -------"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "cedo: no application number"
+ ],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "raport.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22888",
+  "text_sha256": "d446a6757c2f01a4cb86da8ddb2bba28419bd6e7d24de505ad53ae9b0102c70f",
+  "catalogue_sha256": "d446a6757c2f01a4cb86da8ddb2bba28419bd6e7d24de505ad53ae9b0102c70f",
+  "fetched": "2026-11-02T23:09:04Z",
+  "chars": 28688,
+  "portal_id": "22888",
+  "tip": "RAPORT"
+ }
+}
