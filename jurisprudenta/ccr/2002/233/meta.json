@@ -1,0 +1,214 @@
+{
+ "key": "dcc-233-2002",
+ "label": "Decizia CCR nr. 233/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "233",
+ "date": "2002-09-10",
+ "year": "2002",
+ "heading": "DECIZIE nr. 233 din 10 septembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 38 alin. (2) lit. d) teza a treia din Legea administraţiei publice locale nr. 215/2001, cu modificările ulterioare, şi ale art. 58 din Legea nr. 27/1994 privind impozitele şi taxele locale, republicată, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "757",
+  "bis": false,
+  "date": "2002-10-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/1994",
+    "number": "27",
+    "year": "1994",
+    "path": "lege/1994/27"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 38 alin. (2) lit. d) teza a treia din Legea administraţiei publice locale nr. 215/2001, cu modificările ulterioare, şi ale art. 58 din Legea nr. 27/1994 privind impozitele şi taxele locale, republicată, cu modificările ulterioare, excepţie ridicată de Societatea Comercială \"Delikat\" - S.R.L. din Timişoara în Dosarul nr. 5.656/CA/2001 al Curţii de Apel Timişoara - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/1994",
+    "number": "27",
+    "year": "1994",
+    "path": "lege/1994/27"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 62/1998",
+    "number": "62",
+    "year": "1998",
+    "path": "oug/1998/62"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-10-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38979",
+  "text_sha256": "6593692e00cf0eb4689494795e21b4c8b18b62024bc58b950adf2eb135d97b43",
+  "catalogue_sha256": "6593692e00cf0eb4689494795e21b4c8b18b62024bc58b950adf2eb135d97b43",
+  "fetched": "2026-11-02T23:24:16Z",
+  "chars": 9021,
+  "portal_id": "38979",
+  "tip": "DECIZIE"
+ }
+}
