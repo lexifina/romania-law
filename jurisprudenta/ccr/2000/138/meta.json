@@ -1,0 +1,167 @@
+{
+ "key": "dcc-138-2000",
+ "label": "Decizia CCR nr. 138/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "138",
+ "date": "2000-07-11",
+ "year": "2000",
+ "heading": "DECIZIE nr. 138 din 11 iulie 2000",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 700 alin. 1 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "484",
+  "bis": false,
+  "date": "2000-10-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "700",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 700 alin. 1 din Codul civil, ridicată de Valeriu Simion, Sorin Nicolae Simion şi Cristina-Maria Galca în Dosarul nr. R/23/2000 al Curţii de Apel Pitesti - Secţia civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "700",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "695",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 73/1954",
+    "number": "73",
+    "year": "1954",
+    "path": "decret/1954/73"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-10-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24487",
+  "text_sha256": "bddec78a0d7303c1682ffcb169fa7518f48fde36e1cb7a0d1108cbc3b05d0fb6",
+  "catalogue_sha256": "bddec78a0d7303c1682ffcb169fa7518f48fde36e1cb7a0d1108cbc3b05d0fb6",
+  "fetched": "2026-11-02T23:10:39Z",
+  "chars": 9122,
+  "portal_id": "24487",
+  "tip": "DECIZIE"
+ }
+}
