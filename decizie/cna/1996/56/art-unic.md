@@ -1,0 +1,2 @@
+# Articolul unic
+Se suspenda Decizia de autorizare nr. 044 din 19 iulie 1994 a postului de radio "Uniplus" București pe termen de 3 luni, începând cu data de 19 iunie 1996, ora 0,00, în temeiul art. 37 lit. b) din Legea audiovizualului nr. 48/1992 , având în vedere nerespectarea somației publice date acestui post de radio la data de 13 iunie 1996. PREȘEDINTELE CONSILIULUI NAȚIONAL AL AUDIOVIZUALULUI prof. univ. dr. TITUS RAVEICA ----------------------------
