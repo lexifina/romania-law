@@ -1,0 +1,207 @@
+{
+ "key": "dcc-19-2000",
+ "label": "Decizia CCR nr. 19/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "19",
+ "date": "2000-02-01",
+ "year": "2000",
+ "heading": "DECIZIE nr. 19 din 1 februarie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (3) din Ordonanţa de urgenta a Guvernului nr. 14/1998 cu privire la rectificarea bugetului de stat pe anul 1998 şi ale art. 1 din Ordonanţa de urgenta a Guvernului nr. 28/1998 pentru aplicarea prevederilor Ordonanţei de urgenta a Guvernului nr. 14/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "129",
+  "bis": false,
+  "date": "2000-03-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "4.498/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 14/1998",
+    "number": "14",
+    "year": "1998",
+    "path": "oug/1998/14"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 28/1998",
+    "number": "28",
+    "year": "1998",
+    "path": "oug/1998/28"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (3) din Ordonanţa de urgenta a Guvernului nr. 14/1998 cu privire la rectificarea bugetului de stat pe anul 1998, excepţie ridicată, prin mandatarul Cristian Nicolae Iliescu, în Dosarul nr. 4.498/1999 al Judecătoriei Craiova, de Vasilica Ionescu, Maria Gaman, Mihaela Olteanu, Gabriela Cujba, Violeta Corcoveanu, Mihaela Tugulan, Mioara Iliescu, Cristina Ghita, Liana Racareanu, Eugenia Moise, Daniela Nicat, Maria Fulga, Cristian Ovidiu Voinea, Ion Ghencea, Carmen Stinga, Irina Teodorescu, Mariana Licut, Mihaela Alina Cojocaru, Simona Dumitrescu, Ileana Georgeta Pistol, Ileana Badica, Mihai Antonescu, Dumitru Tudor, Nicolae Grigorie, Silvel Tufan, Viorica Fetoiu, Marin Mateica, Alexandru Manda, Florea Botea, Ion Iovan, Ion Necsutu, Tudor Gelu, Marin Danisor, Ştefan Bota, Ion Iordache, Constantin Ungureanu, Ion Maria, Mihail Mirescu, Dan Adrian Stanache, Vergy Cojoaca, Olimpian Petrosanu, Paul Diaconu, Florian Preda, Ştefan Mihai, Vasile Iliuta, Gheorghe Dacian Iliescu, Florea Pandelica, Gheorghe Ciuta, Ana Saptelei, Ion Timplaru, Gheorghe Dinu, Vasile Ionita, Mariana Creţu, Violeta Ciorecan, Nicoleta Trutescu, Anisoara Florescu, Maria Mohora, Mircea Laurentiu Simion, Cosmin Costinel Dricu, Marigena Saita, Anisoara Pircalabu, Gloria Popescu, Viorica Buica, Viorel Ghencea, Aurelian Maftei, Alexandru Lupu, Marian Popa, Marian Babalau, Zaharia Corbeanu, Horatiu Mihai Lazar, Ionel Petrescu, Dragos Ursulescu, Milica Ionescu, Oprea Iova, Ana Paunescu, Cristina Enache, Cristian Mitricoiu, Carmen Vitan, Veturia Cocos, Mihaela Stoiculescu, Anca Lucia Raluca Popa, Daniela Gone, Marcela Popescu, Mihaela Nicolae, Alina Dinca, Laura Ileana Ciovica, Georgeta Ionela Cioaca, Petre Gongu, Roland Caldaruse, Florin Barbu, Silvia Pirvuletu, Gabriela Pitis, Camelia Lupu, Maria Potirca, Maria Vancea, Mirela Nicola, Emilian Ordeanu, Natalia Florentina Mitran, Lucian Zaharia, Gheorghe Nanut, Marin Marcu, Nicolae Tufan, Apostol Dicu, Florin Dragoi, Doru Florin Moanta, Liviu Olea, Victor Ionescu, Mircea Ursulescu, Constantin Albu, Nicu Ciurlin, Constantin Gabriel Sirbu, Ovidiu Şerban Tuculina, Silvia Dragomirescu, Lucian Cornel Guranoiu, Danut Raica, Frimu Bogdan, Alecsandru Baluta, Dumitru Moise, Catalin Russu, Valentin Benea, Sergiu Ionescu, Iosif Randasu, Constantin Ghencioiu, Ion Şerban, Tudor Dumitrascu, Adrian Obogeanu, Dan Dumitru Gaciu, Nicolae Fulgu, Ofelia Rădoi, Emilian Rădoi, Coleta Cirticioiu, Petre Velcu, Valentina Ştefan, Liliana Elena Chitu, Grigore Dulea, Ion Codreanu, Aurica Cojan şi Adrian Mihai Pitis, constatând ca excepţia a devenit inadmisibila. 2. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Ordonanţa de urgenta a Guvernului nr. 28/1998 pentru aplicarea prevederilor Ordonanţei de urgenta a Guvernului nr. 14/1998 cu privire la rectificarea bugetului de stat pe anul 1998, excepţie ridicată de aceiaşi autori în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 14/1998",
+    "number": "14",
+    "year": "1998",
+    "path": "oug/1998/14"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 28/1998",
+    "number": "28",
+    "year": "1998",
+    "path": "oug/1998/28"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 154/1998",
+    "number": "154",
+    "year": "1998",
+    "path": "lege/1998/154"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-03-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/21603",
+  "text_sha256": "108b39e233ad6d170ece8c79c3644352cd6bdcd3ba2abbd3afd3d5c3a8e36007",
+  "catalogue_sha256": "108b39e233ad6d170ece8c79c3644352cd6bdcd3ba2abbd3afd3d5c3a8e36007",
+  "fetched": "2026-11-02T23:07:59Z",
+  "chars": 16840,
+  "portal_id": "21603",
+  "tip": "DECIZIE"
+ }
+}
