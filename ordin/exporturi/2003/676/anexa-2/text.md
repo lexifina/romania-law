@@ -1,0 +1,13 @@
+# Anexa 2
+ANGAJAMENT Subsemnatul...................., având functia de..........., actionand în calitate de reprezentant legal (imputernicit) al........... solicitant al autorizatiei pentru efectuarea de operațiuni cu armamente, munitii și alte produse militare pentru care am depus cererea de pe verso, ma oblig sa asigur:
+a) respectarea dispozițiilor Ordonanței de urgentă a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice, cu modificările ulterioare;
+b) respectarea întocmai a cerințelor și recomandărilor ANCEX în legătură cu termenele, condițiile și restricțiile în derularea operațiunilor cu armamente, muniții și alte produse militare, pentru care am obținut autorizația;
+c) protecția fizică a produselor militare care reclamă astfel de măsuri, potrivit prevederilor legale;
+d) protecția fizică a tuturor documentelor de lucru legate de sau cu referire directă la aceste operațiuni și să respect reglementările legale în vigoare privind evidența, păstrarea și manipularea acestor documente, inclusiv a celor care conțin informații secret de serviciu sau secrete de stat;
+e) ținerea evidenței documentelor care cuprind informații suficiente pentru a identifica destinația, cantitatea, utilizarea finală și utilizatorul final al produselor militare, numele și adresa exportatorului și al destinatarului;
+f) dovedirea bunei credințe și promovarea dialogului și transparenței în relația cu ANCEX în toate etapele (de autorizare, pre-licențiere, licențiere, post-licențiere și post-livrare), punând la dispoziția agenției toate informațiile relevante solicitate de aceasta cu privire ia aceste operațiuni;
+g) informarea cu privire la noutățile apărute în domeniul sistemului de control al operațiunilor de comerț exterior cu armamente, muniții și alte produse militare și al embargourilor, inclusiv prin accesarea site-urilor ANCEX și consultarea materialelor documentare elaborate de Agenție, precum și participarea la activitățile organizate de ANCEX pentru informarea periodică asupra obligațiilor ce revin în aplicarea legilor în vigoare;
+h) nefolosirea autorizației în relațiile cu terții ca o garanție de bonitate și nici ca un mijloc de obținere a unor avantaje;
+i) negarantarea în relațiile cu terții, pe baza autorizației, că alte operațiuni de comerț exterior cu arme, muniții și alte produse militare vor fi autorizate în viitor;
+j) notificarea imediată a ANCEX asupra oricărei schimbări în documentele sau faptele care fac obiectul autorizării.
+Nerespectarea prezentului angajament va fi sancționată conform prevederilor legale în vigoare. Data:............. Semnătura............. Ștampila
