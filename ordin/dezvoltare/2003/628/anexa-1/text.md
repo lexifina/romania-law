@@ -1,0 +1,12 @@
+# Anexa 1
+LISTA centrelor de inspecție tehnica care efectuează inspecții tehnice periodice cu recunoaștere internationala ─────────────────────────────────────────── Nr. crt.
+Centrul de inspecție tehnica ───────────────────────────────────────────
+1. RAR ALBA
+2. RAR ARAD
+3. RAR ARGES
+4. RAR BACAU
+5. RAR BIHOR
+6. RAR BISTRITA-NASAUD
+7. RAR BOTOSANI
+8. RAR BRAȘOV
+9. RAR BRĂILA 10. RAR BUCUREȘTI 11. RAR BUZAU 12. RAR CARAS-SEVERIN 13. RAR CALARASI 14. RAR CLUJ 15. RAR CONSTANTA 16. RAR COVASNA 17. RAR DAMBOVITA 18. RAR DOLJ 19. RAR GALAȚI 20. RAR GIURGIU 21. RAR GORJ 22. RAR HARGHITA 23. RAR HUNEDOARA 24. RAR IALOMITA 25. RAR IAȘI 26. RAR MARAMURES 27. RAR MEHEDINTI 28. RAR MURES 29. RAR NEAMT 30. RAR OLT 31. RAR PRAHOVA 32. RAR SATU MARE 33. RAR SALAJ 34. RAR SIBIU 35. RAR SUCEAVA 36. RAR TELEORMAN 37. RAR TIMIS 38. RAR TULCEA 39. RAR VASLUI 40. RAR VALCEA 41. RAR VRANCEA ───────────────────────────────────────────
