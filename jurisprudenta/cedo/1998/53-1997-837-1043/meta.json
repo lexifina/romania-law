@@ -1,0 +1,258 @@
+{
+ "key": "cedo-53-1997-837-1043-1998-05-22",
+ "label": "CEDO, VASILESCU c. României, 1998-05-22",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "1998-05-22",
+ "year": "1998",
+ "heading": "HOTĂRÂRE*1) din 22 mai 1998",
+ "subtitle": "CAZUL VASILESCU IMPOTRIVA ROMÂNIEI",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "637",
+  "bis": false,
+  "date": "1999-12-27",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "53/1997/837/1043"
+ ],
+ "case_name": "VASILESCU",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. Respinge excepţia preliminară a Guvernului. 2. Hotărăşte ca a fost încălcat art. 6 din convenţie. 3. Hotărăşte ca a fost încălcat art. 1 din Protocolul nr. 1. 4. Hotărăşte că nu se impune examinarea cererilor întemeiate pe art. 8 şi 13 din convenţie. 5. Hotărăşte",
+  "a) ca statul pârât trebuie să achite reclamantei, în termen de 3 luni, următoarele sume, în echivalentul în lei la cursul de schimb de la data plăţii:",
+  "(i) 60.000 (şaizeci mii) franci francezi pentru prejudiciul material; (îi) 30.000 (treizeci mii) franci francezi pentru prejudiciul moral; (iii) 5.185 (cinci mii una suta optzeci şi cinci) franci francezi pentru cheltuieli de judecată;",
+  "b) ca sumele vor fi majorate cu o dobânda de 3,36% pe an, începând de la data expirării acestui termen şi până la plata efectivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 9",
+    "path": null,
+    "slug": "conventia-edo-protocolul-9"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 210/1960",
+    "number": "210",
+    "year": "1960",
+    "path": "decret/1960/210"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedura civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "400",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "261",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "187-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "187-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "261-7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "168",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 221/1960",
+    "number": "221",
+    "year": "1960",
+    "path": "decret/1960/221"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20447",
+  "text_sha256": "b92c51ac0a587f9006b1ca95df198d6a72335f8d1946a750b55fea852a8c374f",
+  "catalogue_sha256": "b92c51ac0a587f9006b1ca95df198d6a72335f8d1946a750b55fea852a8c374f",
+  "fetched": "2026-11-02T23:06:27Z",
+  "chars": 61630,
+  "portal_id": "20447",
+  "tip": "HOTĂRÂRE"
+ }
+}
