@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 1996-09-19: adopted by the Senate
 - 1999-06-02: adopted by the Chamber of Deputies
 - 1999-07-06: sent for promulgation
+- 1999-07-26: promulgated, becomes Legea nr. 146/1999
 
 ## Documents
 
