@@ -1,0 +1,5 @@
+# Anexa 1
+Anexa 1
+------- la regulament ------------- LISTA cuprinzând organizațiile neguvernamentale care au sprijinit activitatea centrelor experimentale de probațiune 1. Asociația "Grupul Roman pentru Apărarea Drepturilor Omului" București 2. Asociația "Alternative Sociale" Iași 3. Fundația "Prison Fellowship România" Cluj-Napoca 4. Asociația "Stil AlterNativ" Arad 5. Asociația "Sf. Petru și Pavel" Timișoara 6. Asociația "Oameni pentru Oameni" Focsani 7. Fundația "Familia și Ocrotirea Copilului" București 8. Fundația "Pro-Probațiune" Dej.
+Anexa 2
+------- la regulament ------------- CURRICULUM MINIM privind cursurile de specializare în domeniul reintegrarii sociale și supravegherii 1. Introducere în domeniul reintegrarii sociale și supravegherii 2. Metodologia activității de reintegrare socială și supraveghere 3. Notiuni de drept penal și procedura penală 4. Criminologie 5. Dezvoltare instituțională și cooperare instituțională 6. Informatica socială 7. Sănătate mentala și infracțiune 8. Problema dependentei 9. Sociologie aplicată 10. Psihologia dezvoltării 11. Practica de specialitate. --------
