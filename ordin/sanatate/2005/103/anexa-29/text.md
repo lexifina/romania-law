@@ -1,0 +1,2 @@
+# Anexa 29
+COMISIA DE MEDICINĂ LEGALĂ Co-președinți: Conf. dr. Liviu Cocora - Sibiu Prof. dr. Dan Dermengiu - București Membri: Dr. Marcel Bădără - Bacău Prof. dr. Vasile Astărăstoaie - Iași Conf. dr. Perju Dumbravă - Cluj-Napoca Conf. dr. Alexandra Enache - Timișoara Dr. Dan Mânu - Pitești Conf. dr. Gabriel Mihalache - Oradea Prof. dr. Viorel Panaitescu - București Secretar: Conf. dr. George-Cristian Curcă - București

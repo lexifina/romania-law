@@ -1,0 +1,2 @@
+# Anexa 6
+COMISIA DE CARDIOLOGIE Co-președinți: Prof. dr. Radu Căpâlneanu - Cluj-Napoca Conf. dr. Dragoș Vinereanu - București Membri: Prof. dr. Pol Kikely - Tg. Mureș Prof. dr. Maria Dorobanțu - București Prof. dr. Ștefan Drăgulescu - Timișoara Prof. dr. George Georgescu - Iași Prof. dr. Carmen Ginghină - București Prof. dr. Dan Dominic Ionescu - Craiova Prof. dr. Mariana Rădoi - Brașov Secretar: Conf.dr. Dan Gaiță - Timișoara

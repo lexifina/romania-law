@@ -1,0 +1,2 @@
+# Anexa 22
+COMISIA DE IGIENĂ Co-președinți: Conf.dr. Aurelia Cordeanu - București Prof.dr. Sebastian Dumitrache - București Membri: Dr. Eugen Bucur - București Dr. Alexandra Cucu -București Dr. Eugen Gurzau - Cluj-Napoca Șef lucrări dr. Doina Lupulescu - București Conf.dr. Vasile Moldoveanu - Brașov Dr. Camelia Pârvan - București Dr. Mariana Vlad - Cluj-Napoca Secretar: Dr. Carmen Dumitrache - București

@@ -1,0 +1,2 @@
+# Anexa 37
+COMISIA DE NEUROCHIRURGIE Co-președinți: Prof. dr. Vlad Ciurea - București Conf. dr. Ștefan Florian - Cluj Membri: Conf. dr. Costea Constantin - Timișoara Șef lucrări dr. Bogdan Davidescu - Constanța Dr. Florin Exergian - București Prof. dr. Nicolai Ianovici - Iași Șef lucrări dr. Alexandru Lupșa - Tg. Mureș Dr. Paul Pătrașcu - București Prof. dr. Ioan Poiată - Iași Secretar: Dr. Feri Stoica - București

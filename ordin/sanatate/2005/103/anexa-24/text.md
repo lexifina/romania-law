@@ -1,0 +1,2 @@
+# Anexa 24
+COMISIA DE INFORMATICĂ MEDICALĂ Co-președinți: Prof. dr. Achimaș Andrei - Cluj-Napoca Prof. dr. Mihalaș Gheorghe - Timișoara Membri: Dr. Mariana Bazavan - București Conf. Gabriela Georgescu - București Dr. Marius Mărginean - Timiș Dr. Ioana Moisil - Sibiu Dr. Bogdan Pană - București Ing. Elena Poenaru - București Prof. dr. ing. Lăcrămioara Stoicu-Tivadar - Timișoara Secretar: Emil Cochinaș

@@ -1,0 +1,2 @@
+# Anexa 52
+COMISIA DE SĂNĂTATE PUBLICĂ ȘI MANAGEMENT Co-președinți: Dr. Dana Otilia Fărcășanu - București Prof. dr. Cristian Vlădescu - Timișoara Membri: Prof. dr. Corneliu Amariei - Constanța Dr. Vasile Cepoi - Iași Dr. Aurora Dragomirișteanu - București Dr. Marius Lițu - București Conf. dr. Dana Galieta Mincă - București Dr. Roxana Moldovan - Timișoara Dr. Paul Radu - București Secretar: As. univ. dr. Florentina Furtunescu - București

@@ -1,0 +1,2 @@
+# Anexa 20
+COMISIA DE HEMATOLOGIE Co-președinți: Conf. dr. Anca Roxana Lupu - București Prof. dr. Margit Șerban - Timișoara Membri: Dr. Gheorghița Emanoil - Brașov Prof. dr. Hortensia Ioniță - Timișoara Prof. dr. Galafteon Oltean - Tg. Mureș Prof. dr. Ljubomir Petrov - Cluj-Napoca Dr. Ladislau Ritli - Oradea Dr. Răzvan Stoia - București Conf. dr. Ana Maria Vlădăreanu- București Secretar: Dr. Oana Ciocan - București

@@ -1,0 +1,2 @@
+# Anexa 34
+COMISIA DE MICROBIOLOGIE Co-președinți: Prof. dr. Costin Cernescu - București Conf. dr. Luminița Smaranda Iancu - Iași Membri: Dr. Delia Berceanu - Timișoara Dr. Maria Ghelberg - Constanța Dr. Gabriel Ionescu - București Prof. dr. Monica Junie - Cluj-Napoca Prof. dr. Marian Neguț - București Prof. dr. Dan Steriu - București Dr. Felicia Toma - Tg. Mureș Secretar: Conf. dr. Simona Maria Rută - București

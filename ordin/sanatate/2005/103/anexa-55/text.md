@@ -1,0 +1,2 @@
+# Anexa 55
+COMISIA DE TOXICOLOGIE ȘI TOXICODEPENDENȚĂ Co-președinți: Conf. dr. Radu Macovei - București Acad. prof. dr. Victor Voicu - București Membri: Dr. Radu Andrei - Iași Prof. dr. Liana Fodoreanu - Cluj-Napoca Dr. Belu Mariana Mendi - București Dr. Ovidiu Nicoară - Timișoara Prof. dr. Dan Prelipceanu - București Prof. dr. Coriolan Ulmeanu - București Dr. Daniel Vasile - București Secretar: As. univ. dr. Tudosie Mihai - București

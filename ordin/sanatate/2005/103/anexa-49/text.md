@@ -1,0 +1,2 @@
+# Anexa 49
+COMISIA DE RADIOLOGIE - IMAGISTICĂ MEDICALĂ Co-președinți: Prof. dr. Radu Badea - Cluj-Napoca Conf. dr. George Iana - București Membri: Conf. dr. Florin Bîrsășteanu - Timișoara Prof. dr. Andrei Bondari - Craiova Prof. dr. Andrei Deac - Brașov Conf. dr. Sorin Dudea - Cluj-Napoca Prof. dr. Șerban Georgescu - București Conf. dr. Dragoș Negru - Iași Prof. dr. Constantin Zaharia - București Secretar: Dr. Ruxandra Vlădescu - București

@@ -1,0 +1,2 @@
+# Anexa 51
+COMISIA DE REUMATOLOGIE Co-președinți: Prof. dr. Horatiu Dorin Boloșiu - Cluj-Napoca Dr. Cătălin Codreanu - București Membri: Prof. dr. Mioara Banciu - Timișoara Prof. dr. Rodica Chiriac - Iași Prof. dr. Paulina Ciurea - Craiova Prof. dr. Lia Georgescu - Tg. Mureș Conf. dr. Ruxandra Ionescu - București Dr. Eugenia Mociran - Baia-Mare Prof. dr. Maria Suta - Constanța Secretar: Dr. Mihai Bojincă - București

@@ -1,0 +1,2 @@
+# Anexa 16
+COMISIA DE FARMACIE CLINICĂ ȘI INDUSTRIE FARMACEUTICĂ Co-președinți: Prof. dr. Ostin Mungiu - Iași Prof. dr. Dumitru Lupuleasa - București Membri: Conf. dr. Adrian Andrieș - București Prof. dr. Titica Dogaru - Tg. Mureș Prof. dr. Victoria Hârjău - București Prof. dr. Mircea Pavelescu - Iași Ing. Petre Pănculescu - București Prof. dr. Florica Popescu - Craiova Prof. dr. Vlaicu Șandor - Cluj-Napoca Secretar: Dr. farm. Simona Negreș - București

@@ -1,0 +1,2 @@
+# Anexa 32
+COMISIA DE MEDICINĂ SPORTIVĂ Co-președinți: Lector univ. dr. Răzvan Bușneag - București Dr. Nicolae Ploeșteanu - București Membri: Dr. Klara Brânzaniuc - Tg. Mureș Dr. Valentina Dinu - Craiova Dr. Manuela Mazilu - Cluj Dr. Simona Nanoveanu - București Dr. Denis Păduraru - București Dr. Ioan Șerbescu - Timișoara Dr. Plușa Ispas-Vârnav - Iași Secretar: Șef lucrări dr. Anca Ionescu - București

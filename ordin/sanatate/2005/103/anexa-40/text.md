@@ -1,0 +1,2 @@
+# Anexa 40
+COMISIA DE OBSTETRICA-GINECOLOGIE Co-președinți: Prof. dr. Ioan Munteanu - Timișoara Prof. dr. Florin Stamatian- Cluj Membri: Conf. dr. Szabo Bela - Tg. Mureș Conf. dr. Petru Chitulea - Oradea Prof. dr. Nicolae Crișan - București Prof. dr. Florentina Pricop - Iași Prof. dr. Nicolae Râcă - Craiova Prof. dr. Adrian Stretean - Sibiu Conf. dr. Radu Vlădăreanu - București Secretar: As. univ. dr. Poenaru Mircea - București

@@ -1,0 +1,2 @@
+# Anexa 26
+COMISIA DE MEDICINĂ DE FAMILIE Co-președinți: Dr. Mircea-Ion Bourceanu - Tulcea Dr. Marius Mărginean - Timișoara Membri: Dr. Ioan Antohi - Maramureș Dr. Gheorghe Haber - Alba Iulia Dr. Ioana Gabriela Jipa - Sibiu Conf. dr. Matei Dumitru - București Dr. Dan Doru Pletea - Iași Dr. Aurelia Simona Schnelbach - Prahova Dr. Marcela Georgeta Vidican - Cluj-Napoca Secretar: Dr. Cristina Cornelia Isar - București

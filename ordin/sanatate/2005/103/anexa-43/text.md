@@ -1,0 +1,2 @@
+# Anexa 43
+COMISIA DE OTORINOLARINGOLOGIE Co-președinți: Prof. dr. Stan Cotulbea - Timișoara Conf. dr. Viorel Zainea - București Membri: Prof. dr. Vasile Costinescu - Iași Dr. Dumitru Cristea - Galați Prof. dr. Elena Ioniță - Craiova Dr. Emil Mărginean - Oradea Dr. Vasile Muhlfay - Tg. Mureș Prof. dr. Cristian Radu Popescu - București Prof. dr. Cosgarea Marcel- Cluj-Napoca Secretar: Dr. Dan Predescu - București

@@ -1,0 +1,2 @@
+# Anexa 10
+COMISIA DE CHIRURGIE PLASTICĂ - MICROCHIRURGIE RECONSTRUCTIVĂ Co-președinți: Prof. dr. Dan Enescu - București Prof. dr. Ioan Lascăr - București Membri: Prof. dr. Bordeianu Ion - Constanța Prof. dr. Bratu Tiberiu - Timișoara Dr. Chelaru Dan - Bacău Prof. dr. Dumitrescu Doina - București Prof. dr. Georgescu Dan - Cluj-Napoca Prof. dr. Mugea Toma - Cluj-Napoca Prof. dr. Stamate Teodor - Iași Secretar: C. P. gr. I dr. Florescu Ioan Petre - București

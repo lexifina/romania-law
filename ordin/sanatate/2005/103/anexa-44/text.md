@@ -1,0 +1,2 @@
+# Anexa 44
+COMISIA DE ORTOPEDIE ȘI TRAUMATOLOGIE Co-președinți: Prof. dr. Dinu Antonescu - București Prof. dr. Dumitru Stănculescu - București Membri: Prof. dr. Dan Barbu - București Prof. dr. Ion Goția - Iași Conf. dr. Dumitru Dan Oswald Lucaciu - Cluj-Napoca Prof. dr. Vasile Lupescu - Constanța Prof. dr. Ion Mateută - Oradea Prof. dr. Ors Ștefan Nogy - Tg. Mureș Prof. dr. Horia Vermeșan - Timișoara Secretar: Dr. Ioan Cristian Stoica - București

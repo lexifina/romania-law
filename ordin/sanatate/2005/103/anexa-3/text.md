@@ -1,0 +1,2 @@
+# Anexa 3
+COMISIA DE ANESTEZIE ȘI TERAPIE INTENSIVĂ Co-președinți: Prof. dr. Iurie Acalovschi -Cluj-Napoca Prof. dr. Dan Tulbure - București Membri: Dr. Elena Copaciu - București Conf. dr. Sanda Copotoiu - Tg. Mureș Dr. Daniela Filipescu - București Dr. Ioana Grigoraș - Iași Prof. dr. Șerban Marinescu - București Conf. dr. Călin Mitre - Cluj-Napoca Conf. dr. Dorel Săndesc - Timișoara Secretar: Dr. Culman Victor - București

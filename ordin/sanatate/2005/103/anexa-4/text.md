@@ -1,0 +1,2 @@
+# Anexa 4
+COMISIA DE BIOETICĂ Co-președinți: Prof. dr. Vasile Astărăstoaie - Iași Prof. dr. Radu Palade - București Membri: Prof. dr. Ovidiu Băjenaru - București Prof. dr. Ovidiu Bembea - Oradea Conf. dr. Cristian Curcă - București Conf. dr. Alexandra Enache - Timișoara Șef lucrări dr. Cristina Gavrilovici - Iași Șef lucrări dr. Silviu Morar - Sibiu Conf. dr. Dragoș Vinereanu - București Secretar: Dr. Gabriel Raicu - București

@@ -1,0 +1,2 @@
+# Anexa 35
+COMISIA DE NEFROLOGIE Co-președinți: Prof. dr. Adrian Covic - Iași Conf. dr. Gabriel Mircescu - București Membri: Conf. dr. Aurel Bizo - Cluj-Napoca Dr. Dimitrie Capsa - București Prof. dr. Alexandru Ciocâlteu - București Prof. dr. Mirela Gherman-Căprioară - Cluj Dr. Ovidiu Sorin Golea - Timișoara Dr. Radu Macavei - Brașov Conf. dr. Eugen Mofa - Craiova Secretar: Asist. univ. dr. Liliana Gârneață - București

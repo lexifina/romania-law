@@ -1,0 +1,2 @@
+# Anexa 56
+COMISIA DE UROLOGIE Co-președinți: Prof. dr. Sinescu Ioanei - București Prof. dr. Florin Miclea - Timișoara Membri: Prof. dr. Radu Boja - Tg. Mureș Dr. Bogdan Braticevici - București Prof. dr. Gheorghe Bumbu - Oradea Dr. Nicolae Calomfirescu - București Conf. dr. Novac Costică - Iași Prof. dr. Viorel Tode - Constanța Conf. dr. Ambert Valentin - București Secretar: Șef lucrări dr. Radu Constantiniu

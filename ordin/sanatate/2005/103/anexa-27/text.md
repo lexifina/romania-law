@@ -1,0 +1,2 @@
+# Anexa 27
+COMISIA DE MEDICINĂ INTERNĂ Co-președinți: Prof. dr. Ion Bruckner - București Prof. dr. Victor Stoica - București Membri: Prof. dr. Ligia Bancu - Tg. Mureș Prof. dr. Mircea Deac - Sibiu Prof. dr. Mircea Grigorescu - Cluj-Napoca Conf. dr. Minerva Muraru - București Prof. dr. Ioan Sporea - Timișoara Prof. dr. Coman Tănăsescu - București Prof. dr. Gabriel Ungureanu - Iași Secretar: Conf. dr. Dănuț Isacoff - București

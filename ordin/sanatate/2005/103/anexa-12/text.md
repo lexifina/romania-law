@@ -1,0 +1,2 @@
+# Anexa 12
+COMISIA DE DERMATOVENEROLOGIE Co-președinți: Prof. dr. Dan Forsea - București Prof. dr. Sanda Popescu - București Membri: Cercetător șt. gr.I Vasile Benea - București Prof. dr. Virgil Feier - Timișoara Prof. dr. Călin Giurcăneanu - București Prof. dr. Ioan Nedelcu - București Prof. dr. Zenaida Petrescu - Iași Șef lucrări dr. Cătălin Popescu - București Prof. dr. Alexandru Tătaru - Cluj-Napoca Secretar: Șef lucrări dr. George Sorin Țiplica - București

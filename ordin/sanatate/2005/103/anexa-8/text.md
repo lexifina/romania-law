@@ -1,0 +1,2 @@
+# Anexa 8
+COMISIA DE CHIRURGIE GENERALĂ Co-președinți: Prof. dr. Cristian Dragomir - Iași Prof. dr. Florian Popa - București Membri: Prof. dr. Aurel Andercou - Cluj-Napoca Dr. Gheorghe Borceanu - Caransebeș Prof. dr. Doru Bordoș - Timișoara Prof. dr. Constantin Copotoiu - Tg. Mureș Dr. Florin Georgescu - Ploiești Prof. dr. Ion Georgescu - Craiova Conf. dr. Dan Sabău - Sibiu Prof. dr. Vasile Sîrbu - Constanța Secretar: Asist. univ. dr. Cristian Iorga - București

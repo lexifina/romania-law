@@ -1,0 +1,2 @@
+# Anexa 13
+COMISIA DE DIABET ZAHARAT, NUTRIȚIE ȘI BOLI METABOLICE Co-președinți: Prof. dr. Radu Lichiardopol - București Prof. dr. Nicolae Hâncu - Cluj-Napoca Membri: Dr. Adrian Albotă - Brașov Dr. Gabriela Creteanu - Suceava Prof. dr. Mariana Graur - Iași Prof. dr. Constantin Ionescu Tîrgoviște Conf. dr. Maria Moța - Craiova Dr. Alina Nicolau - București Prof. dr. Viorel Șerban - Timișoara Secretar: Șef lucrări dr. Gabriela Roman - Cluj-Napoca

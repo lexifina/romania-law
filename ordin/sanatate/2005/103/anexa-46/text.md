@@ -1,0 +1,2 @@
+# Anexa 46
+COMISIA DE PNEUMOLOGIE Co-președinți: Prof. dr. Miron Bogdan - București Prof. dr. Voicu Tudorache - Timișoara Membri: Șef lucrări dr. Doru Ciobanu - Brașov Șef lucrări dr. Marilena Crișan - Oradea Prof. dr. Traian Mihăescu - Iași Conf. dr. Florin Mihăljan - București Dr. Daniela Homorodean - Cluj-Napoca Dr. Emanoil Vasiliu - Constanța Dr. Ioan Petrui - Deva Secretar: Șef lucrări dr. Dragoș Bumbăcea - București

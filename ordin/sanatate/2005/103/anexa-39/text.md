@@ -1,0 +1,2 @@
+# Anexa 39
+COMISIA DE NEUROLOGIE PEDIATRICĂ Co-președinți: Prof. dr. Ileana Benga - Cluj-Napoca Prof. dr. Sanda Măgureanu - București Membri: Dr. Carmen Burloiu - București Conf. dr. Alexandru Cristea - Cluj-Napoca Conf. dr. Georgeta Diaconu - Iași Dr. Valeria Ene - Sibiu Prof. dr. Voica Foișoreanu - Tg. Mureș Dr. Constantin Lupu - Timișoara Dr. Ruxandra Marinescu - Craiova Secretar: Asist. univ. dr. Dana Craiu - București

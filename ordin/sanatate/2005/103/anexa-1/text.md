@@ -1,0 +1,2 @@
+# Anexa 1
+COMISIA DE ALERGOLOGIE Co-președinți: Prof. dr. Jeana-Rodica Radu - București Conf. dr. Maria Cucuruz - Timișoara Membri: Asist. dr. Ioana Agache - Brașov Prof. dr. Victor Cristea - Cluj-Napoca Conf. dr. Diana Dumitrașcu - Cluj-Napoca Prof. dr. Ion Gherghina - București Prof. dr. Stela Goția - Iași Conf. dr. Alexandru Gavrilă Ierima - Gala(i Conf. dr. Florin-Dan Popescu - București Secretar: Asist. univ. dr. Roxana Silvia Bumbăcea - București

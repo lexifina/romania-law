@@ -1,0 +1,2 @@
+# Anexa 45
+COMISIA DE PEDIATRIE Co-președinți: Prof. dr. Eugeniu Pascal Ciofu - București Prof. dr. Nicolae Miu - Cluj-Napoca Membri: Prof. dr. Ovidiu Brumaru - Iași Dr. Mircea Gelu Buta- Bistrița Năsăud Prof. dr. Ioan Gherghina - București Conf. dr. Nicolae Iagăru - București Prof. dr. Ioan Muntean - Tg. Mureș Șef lucrări dr. Claudiu Man - Cluj-Napoca Conf. dr. Liviu Pop - Timișoara Secretar: Asist. univ dr. Mirela Ritivoiu - București

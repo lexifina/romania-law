@@ -1,0 +1,2 @@
+# Anexa 15
+COMISIA DE EPIDEMIOLOGIE Co-președinți: Prof. dr. Ioan Stelian Bocșan - Cluj Conf. dr. Mircea Ioan Popa - București Membri: Prof. dr. Doina Azoicăi - Iași Dr. Mihaela Dinisov - Constanța Conf. dr. col. Vasile Melinte - Craiova Prof. dr. Codruța Nemet - Brașov Conf. dr. Emilian Popovici - Timișoara Dr. Florin Popovici - București Dr. Adrian Stoica - Pitești Secretar: Șef lucrări dr. Maria Irina Brumboiu - Cluj-Napoca

@@ -1,0 +1,2 @@
+# Anexa 53
+COMISIA DE STOMATOLOGIE Co-președinți: Prof. dr. Mihai Augustin - București Prof. dr. Dorin Bratu - Timișoara Membri: Prof. dr. Cornel Amariei - Constanța Dr. Grigore Crăciunescu - Pașcani Conf. dr. Șerban Dovaru - București Prof. dr. Norma Forna - Iași Conf. dr. Alexandru Petre - București Șef lucrări dr. Mariana Sabău - Sibiu Conf. dr. Alin Șerbănescu-Cluj-Napoca Secretar: Dr. Gabriela Andrucovici - București

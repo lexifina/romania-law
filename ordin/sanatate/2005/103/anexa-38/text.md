@@ -1,0 +1,2 @@
+# Anexa 38
+COMISIA DE NEUROLOGIE Co-președinți: Prof. dr. Ovidiu Băjenaru - București Prof. dr. Cristian Popescu - Iași Membri: Conf. dr. Ioan Buraga - București Prof. dr. Ion Mărginean - Cluj-Napoca Prof. dr. Ion Pascu - Tg. Mureș Prof. dr. Constantin Popa - București Prof. dr. Felicia Ștefanache - Iași Prof. dr. Cornelia Zaharia - Craiova Prof. dr. Alexandru Zolog - Timișoara Secretar: Dr. Mihai Vasile - București

@@ -1,0 +1,2 @@
+# Anexa 50
+COMISIA DE RECUPERARE, MEDICINA FIZICA ȘI BALNEOLOGIE Co-președinți: Conf. dr. Mihai Berteanu - București Șef lucrări dr. Delia Cinteză - București Membri: Șef lucrări dr. Adrian Bighea - Craiova Șef lucrări dr. Jaroslav Kiss - București Șef lucrări dr. Viorel Lucescu - București Prof. dr. Li viu Pop - Cluj-Napoca Șef lucrări dr. Daiana Mihaela Popa - Oradea Dr. Moni Szanto - Covasna Dr. Constantin Zamfirescu - Băile Olănești Secretar: As. univ. dr. Daniela Poenaru - București

@@ -1,0 +1,2 @@
+# Anexa 2
+COMISIA DE ANATOMIE PATOLOGICĂ Co-președinți: Prof. dr. Petre Florescu - Cluj-Napoca Conf. dr. Maria Sajin - București Membri: Prof. dr. Mariana Așchie - Constanța Dr. Dan Enache - Craiova Dr. Vlad Herlea - București Prof. dr. Elena Lazăr - Timișoara Dr. Madga Petrescu - Cluj-Napoca Prof. dr. Doina Rădulescu - Iași Conf. dr. Florica Stăniceanu - București Secretar: Dr. Eduard Frunză - București

@@ -1,0 +1,2 @@
+# Anexa 5
+COMISIA DE BOLI INFECȚIOASE Co-președinți: Prof. dr. Emanoil Ceaușu - București Prof. dr. Lucian Horia Negruțiu - Timișoara Membri: Prof. dr. Dumitru Cârstina - Cluj Napoca Prof. dr. Augustin Cupșa - Craiova Prof. dr. Vasile Luca - Iași Conf. dr. Iosif Marincu - Timișoara Prof. dr. Rodica Pascu - Tg. Mureș Conf. dr. Sorin Rugină - Constanța Prof. dr. Adrian Streinu-Cercel - București Secretar: Asist. univ. dr. Simin Florescu -7 București
