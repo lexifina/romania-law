@@ -1,0 +1,216 @@
+{
+ "key": "dcc-81-1998",
+ "label": "Decizia CCR nr. 81/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "81",
+ "date": "1998-05-19",
+ "year": "1998",
+ "heading": "DECIZIE nr. 81 din 19 mai 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (1) lit. e) din Legea nr. 1/1991 privind protecţia socială a şomerilor şi reintegrarea lor profesională, republicată",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "220",
+  "bis": false,
+  "date": "1998-06-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.378/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1991",
+    "number": "1",
+    "year": "1991",
+    "path": "lege/1991/1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia invocată de Nagy Ferenc în Dosarul nr. 2.378/1997 al Curţii de Apel Cluj-Napoca - Secţia civilă şi constata ca dispoziţiile art. 6 alin. (1) lit. e) din Legea nr. 1/1991 privind protecţia socială a şomerilor şi reintegrarea lor profesională, republicată, sunt neconstituţionale în cazul în care se aplică unei persoane care, ca urmare a desfacerii contractului de muncă dintr-o cauza neimputabila acesteia, a devenit somer şi are, potrivit legii, dreptul la ajutor de şomaj Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1991",
+    "number": "1",
+    "year": "1991",
+    "path": "lege/1991/1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-06-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15000",
+  "text_sha256": "df067d7344e627d425bc0d90b7f32dca5439606f963fe1f2c047fce780abbbbb",
+  "catalogue_sha256": "df067d7344e627d425bc0d90b7f32dca5439606f963fe1f2c047fce780abbbbb",
+  "fetched": "2026-11-02T23:00:37Z",
+  "chars": 8914,
+  "portal_id": "15000",
+  "tip": "DECIZIE"
+ }
+}
