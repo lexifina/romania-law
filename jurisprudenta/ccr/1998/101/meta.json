@@ -1,0 +1,149 @@
+{
+ "key": "dcc-101-1998",
+ "label": "Decizia CCR nr. 101/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "101",
+ "date": "1998-07-09",
+ "year": "1998",
+ "heading": "DECIZIE nr. 101 din 9 iulie 1998",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 2 alin. (3) din Ordonanța de urgenta a Guvernului nr. 43/1997 pentru întocmirea bilanțului contabil special și regularizarea unor credite și dobânzi clasificate în categoria \"pierdere\" la Banca Agricolă - S.A., modificată și completată prin Ordonanța de urgenta a Guvernului nr. 48/1997",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "340",
+  "bis": false,
+  "date": "1998-09-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgenta a Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "oug/1997/43"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate invocată de Societatea Comercială \"Petrocart\" - S.A. în Dosarul nr. 22/com/A/1998 al Tribunalului Neamt, Secția comercială și de contencios administrativ și constata ca dispozițiile art. 2 alin. (3) din Ordonanța de urgenta a Guvernului nr. 43/1997 pentru întocmirea bilanțului contabil special și regularizarea unor credite și dobânzi clasificate în categoria \"pierdere\" la Banca Agricolă - S.A., modificată și completată prin Ordonanța de urgenta a Guvernului nr. 48/1997, sunt neconstituționale.",
+  "Definitivă și obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgenta a Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "oug/1997/43"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgenta a Guvernului nr. 48/1997",
+    "number": "48",
+    "year": "1997",
+    "path": "oug/1997/48"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-09-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15594",
+  "text_sha256": "321c1d99f97bd1dce6ab26e1ffa41c7aeac2478056f2e2153b1b4f57f147c047",
+  "catalogue_sha256": "321c1d99f97bd1dce6ab26e1ffa41c7aeac2478056f2e2153b1b4f57f147c047",
+  "fetched": "2026-11-02T23:01:23Z",
+  "chars": 12570,
+  "portal_id": "15594",
+  "tip": "DECIZIE"
+ }
+}
