@@ -1,0 +1,86 @@
+{
+ "key": "dcc-103-1994",
+ "label": "Decizia CCR nr. 103/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "103",
+ "date": "1994-11-02",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 103 din 2 noiembrie 1994",
+ "subtitle": "referitoare la soluţionarea recursului formulat de Societatea Comercială \"Fimaro\" - S.A. Cluj-Napoca împotriva Deciziei Curţii Constituţionale nr. 69/1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "354",
+  "bis": false,
+  "date": "1994-12-21",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "Ia act de retragerea recursului declarat de Societatea Comercială \"Fimaro\" - S.A. Cluj-Napoca împotriva Deciziei Curţii Constituţionale nr. 69/1994, pronunţată în Dosarul nr. 37 C/1994.",
+  "Definitivă.",
+  "Prezenta decizie se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "outcome: not detected",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4419",
+  "text_sha256": "4b9a80001c761eec5ebfedcaa9bc63337fc5cefe15974d66cf000b231d863995",
+  "catalogue_sha256": "4b9a80001c761eec5ebfedcaa9bc63337fc5cefe15974d66cf000b231d863995",
+  "fetched": "2026-11-02T22:46:10Z",
+  "chars": 2781,
+  "portal_id": "4419",
+  "tip": "DECIZIE"
+ }
+}
