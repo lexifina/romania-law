@@ -1,0 +1,178 @@
+{
+ "key": "dcc-400-2003",
+ "label": "Decizia CCR nr. 400/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "400",
+ "date": "2003-10-28",
+ "year": "2003",
+ "heading": "DECIZIE nr. 400 din 28 octombrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) şi (4) din Legea nr. 254/2002 privind unele măsuri pentru creşterea atractivităţii la privatizare a societăţilor comerciale cu capital integral sau parţial de stat, ce deţin în administrare terenuri agricole proprietate publică sau privată a statului, modificată prin Ordonanţa de urgenţă a Guvernului nr. 209/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "103",
+  "bis": false,
+  "date": "2004-02-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "17.268/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2002",
+    "number": "254",
+    "year": "2002",
+    "path": "lege/2002/254"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) şi (4) din Legea nr. 254/2002 privind unele măsuri pentru creşterea atractivităţii la privatizare a societăţilor comerciale cu capital integral sau parţial de stat, ce deţin în administrare terenuri agricole proprietate publică sau privată a statului, modificată prin Ordonanţa de urgenţă a Guvernului nr. 209/2002, excepţie ridicată de Societatea Comercială \"Vie Vin Murfatlar\" - S.A. în Dosarul nr. 17.268/2002 al Judecătoriei Constanţa.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2002",
+    "number": "254",
+    "year": "2002",
+    "path": "lege/2002/254"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 198/1999",
+    "number": "198",
+    "year": "1999",
+    "path": "oug/1999/198"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-02-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49553",
+  "text_sha256": "af23dfd64a442ec2478f664f247a5c53068f654ae367ddf4798b109230f6815a",
+  "catalogue_sha256": "af23dfd64a442ec2478f664f247a5c53068f654ae367ddf4798b109230f6815a",
+  "fetched": "2026-11-04T18:21:56Z",
+  "chars": 9506,
+  "portal_id": "49553",
+  "tip": "DECIZIE"
+ }
+}
