@@ -1,0 +1,495 @@
+# Anexa D
+Evidența armurierilor existenți pe teritoriul României și a datelor privind documentele de autorizare, deținere, folosire și transfer cuprinde:
+A. Operațiuni de comerț cu arme și muniții
+1. Operațiuni de comerț cu arme și muniții letale
+a. Datele de identificare ale armurierului
+- denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- date de identificare a reprezentantului sau împuternicitului legal
+- nume
+- prenume
+- cod numeric personal
+- domiciliul (reședință)
+- telefon (fix/mobil)
+- evidența armelor și munițiilor letale deținute pentru operațiuni de comerț (date de identificare a fiecărei arme)
+b. Date privind documentele de autorizare și efectuare de operațiuni
+- autorizație de deținere de arme și muniții letale
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- scopul emiterii
+- denumirea persoanei juridice autorizate
+- armele deținute (date de identificare a armei)
+- locul de depozitare ale armelor
+- anul vizei
+- autorizație pentru efectuarea operațiunilor cu arme și muniții de către persoana
+juridică (armurier)
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- temeiul legal
+- pe cine privește
+- denumirea persoanei juridice
+- adresa
+- denumirea operațiunii - (comerț cu arme și muniții letale)
+c. Date despre documentele de transfer al armelor letale
+- autorizație de transfer
+- denumirea persoanei juridice
+- adresă
+- nr. și seria autorizației de deținere de arme și muniții
+- data emiterii autorizației
+- numărul și seria autorizației
+- autoritatea emitentă
+- termen de valabilitate a autorizației
+- locul de unde se face transferul armelor
+- locul unde se face transferul armelor
+- motivul transferului
+- armele transferate (caracteristici de identificare)
+- muniția transferată (calibrul)
+- numele și prenumele persoanei care răspunde de arme pe timpul transferului
+- adresă
+- CNP
+- permis de transfer al armelor
+- autoritatea emitentă a documentului
+- seria și nr. permisului de transfer
+- data eliberării
+- datele de identificare ale vânzătorului sau persoane care cedează armele
+- numele și adresa
+- țara de unde provin armele ce urmează a fi transferate
+- datele de identificare ale cumpărătorului, beneficiarului respectiv, ale proprietarului
+- numele și adresa
+- țara de unde urmează a fi transferate armele
+- numărul și tipurile care fac obiectul operațiunilor de transfer
+- mijloacele de transfer
+- data plecării și data estimativă a sosirii armelor transferate
+- termen de valabilitate al permisului
+- autorizație de transfer fără acord prealabil
+- autoritatea emitentă a documentului
+- seria și nr. autorizației
+- data eliberării
+- datele de identificare ale persoanei juridice (armurierului) - denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- tipurile de arme care fac obiectul operațiunilor de transfer
+- statele care permit fără acord prealabil introducerea pe teritoriul lor a tipurilor de arme care urmează să facă obiectul transferului
+- perioada de valabilitate a autorizației
+- aviz de import arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (beneficiar al importului de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic de înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de unde provine produsul
+- numele furnizorului
+- adresa furnizorului
+- telefon/fax
+- locul de depozitare a armelor și munițiilor importate
+- denumire
+- adresă
+- aviz de export arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (furnizor de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic a înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de destinație a produsului
+- numele beneficiarului
+- adresa beneficiarului
+- telefon/fax
+d. Evidența comunicărilor lunare transmise la organul de poliție competent privind lista
+persoanelor fizice și juridice care au procurat sau după caz de la care au procurat arme și
+muniții neletale
+- numele armurierului (persoana juridică)
+- adresa
+- locul unde s-a făcut operațiunea de comerț (denumirea punctului și adresa)
+- data operațiunii de comerț
+- numele vânzătorului
+- numele beneficiarului
+- nominalizarea armelor care au făcut obiectul operațiunii de comerț (categoria, marca, seria, calibrul, destinația)
+- cantitatea de muniție și calibrul acesteia, care a făcut obiectul operațiunii de comerț
+- seria și numărul documentului prin care s-a efectuat operațiunea de comerț
+2. Operațiuni de comerț cu arme și muniții neletale
+a. Datele de identificare ale armurierului
+- denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- date de identificare a reprezentantului sau împuternicitului legal
+- nume
+- prenume
+- cod numeric personal
+- domiciliul (reședință)
+- telefon (fix/mobil)
+- evidența armelor și munițiilor neletale deținute pentru operațiuni de comerț (date de identificare a fiecărei arme)
+b. Date privind documentele de deținere și efectuarea de operațiuni
+- certificat de deținător de arme și muniții neletale pentru persoane juridice
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- scopul emiterii
+- denumirea persoanei juridice autorizate
+- armele deținute (date de identificare a armei)
+- locul de depozitare ale armelor
+- anul vizei
+- autorizație pentru efectuarea operațiunilor cu arme și muniții de către persoana juridică (armurier)
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- temeiul legal
+- pe cine privește
+- denumirea persoanei juridice
+- adresa
+- denumirea operațiunii - (comerț cu arme și muniții neletale)
+c. Date despre documentele de transfer al armelor letale
+- permis de transfer al armelor
+- autoritatea emitentă a documentului
+- seria și nr. permisului de transfer
+- data eliberării
+- datele de identificare ale vânzătorului sau persoane care cedează armele
+- numele și adresa
+- țara de unde provin armele ce urmează a fi transferate
+- datele de identificare ale cumpărătorului, beneficiarului respectiv, ale proprietarului
+- numele și adresa
+- țara de unde urmează a fi transferate armele
+- numărul și tipurile care fac obiectul operațiunilor de transfer
+- mijloacele de transfer
+- data plecării și data estimativă a sosirii armelor transferate
+- termen de valabilitate al permisului
+- aviz de import arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (beneficiar al importului de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic de înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de unde provine produsul
+- numele furnizorului
+- adresa furnizorului
+- telefon/fax
+- locul de depozitare a armelor și munițiilor importate
+- denumire
+- adresă
+- aviz de export arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (furnizor de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic de înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de destinație a produsului
+- numele beneficiarului
+- adresa beneficiarului
+- telefon/fax
+d. Evidența comunicărilor lunare transmise la organul de poliție competent privind lista
+persoanelor fizice și juridice care au procurat sau după caz de la care au procurat arme și
+muniții neletale
+- numele armurierului (persoana juridică care efectuează operațiunea de comerț) - adresa
+- locul unde s-a făcut operațiunea de comerț (denumirea punctului și adresa)
+- data operațiunii de comerț
+- numele vânzătorului
+- numele beneficiarului
+- nominalizarea armelor care au făcut obiectul operațiunii de comerț (categoria, marca, seria, calibrul, destinația)
+- cantitatea de muniție și calibrul acesteia, care a făcut obiectul operațiunii de comerț
+- seria și numărul documentului prin care s-a efectuat operațiunea de comerț
+B. Operațiuni de reparare, verificare și efectuarea inspecțiilor tehnice periodice (în baza autorizării acordate de Autoritatea
+Națională de Omologare a Armelor și Munițiilor) precum și confecționarea muniției pentru arme letale cu alice
+1. Operațiuni cu arme letale
+a. Datele de identificare ale armurierului
+- denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- date de identificare a reprezentantului sau împuternicitului legal
+- nume
+- prenume
+- cod numeric personal
+- domiciliul (reședință)
+- telefon (fix/mobil)
+- evidența armelor și munițiilor letale deținute pentru operațiuni de comerț (date de identificare a fiecărei arme)
+b. Date privind documentele de autorizare și efectuarea de operațiuni
+- autorizație de deținere de arme și muniții letale
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- scopul emiterii
+- denumirea persoanei juridice autorizate
+- armele deținute (date de identificare a armei)
+- locul de depozitare ale armelor
+- anul vizei
+- autorizație pentru efectuarea operațiunilor cu arme și muniții de către persoana juridică (armurier)
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- temeiul legal
+- pe cine privește
+- denumirea persoanei juridice
+- adresa
+- denumirea operațiunii - (comerț cu arme și muniții letale)
+- autorizație de transfer
+- denumirea persoanei juridice
+- adresă
+- nr. și seria autorizației de deținere de arme și muniții
+- data emiterii autorizației
+- numărul și seria autorizației
+- autoritatea emitentă
+- termen de valabilitate a autorizației
+- locul de unde se face transferul armelor
+- locul unde se face transferul armelor
+- motivul transferului
+- armele transferate (caracteristici de identificare)
+- muniția transferată (calibrul)
+- numele și prenumele persoanei care răspunde de arme pe timpul transferului
+- adresă
+- CNP
+c. Evidența comunicărilor lunare, transmise la organul de poliție competent privind lista persoanelor fizice și juridice care au solicitat operațiuni de:
+- reparare;
+- verificare;
+- efectuarea inspecțiilor tehnice periodice;
+- confecționarea muniției pentru arme letale cu alice pentru fiecare din operațiunile menționate vor fi prevăzute următoarele date:
+- numele armurierului (persoana juridică care efectuează operațiunea de comerț)
+- adresa
+- în ce constă operațiunea (reparare, verificare, efectuarea inspecției tehnice periodice, confecționarea de muniție cu alică)
+- locul unde s-a făcut operațiunea (denumirea punctului și adresa)
+- data operațiunii
+- numele prenumele, codul numeric personal și calitatea în cadrul societății (care îi conferă dreptul de a efectua operațiunea respectivă)
+- denumirea sau numele și prenumele, adresa codul fiscal sau codul numeric personal al beneficiarului
+- nominalizarea armelor care au făcut obiectul operațiunii (categoria, marca, seria, calibrul, destinația)
+- cantitatea de muniție și calibrul acesteia, care a făcut obiectul operațiunii
+- seria și numărul documentului prin care s-a efectuat operațiunea
+2. Operațiuni cu arme neletale
+a. Datele de identificare ale armurierului
+- denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- date de identificare a reprezentantului sau împuternicitului legal
+- nume
+- prenume
+- cod numeric personal
+- domiciliul (reședință)
+- telefon (fix/mobil)
+- evidența armelor și munițiilor neletale primite pentru efectuarea de operațiuni (date de identificare a fiecărei arme)
+b. Date privind documentele de deținere și efectuare de operațiuni
+- Certificat de deținător de arme și muniții neletale pentru persoanele juridice
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- scopul emiterii
+- denumirea persoanei juridice autorizate
+- armele deținute (date de identificare a armei)
+- locul de depozitare ale armelor
+- anul vizei
+- autorizație pentru efectuarea operațiunilor cu arme și muniții de către persoana juridică (armurier)
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- temeiul legal
+- pe cine privește
+- denumirea persoanei juridice
+- adresa
+- denumirea operațiunii _____________
+c. Evidența comunicărilor lunare transmise la organul de poliție competent privind lista
+persoane lor fizice și juridice care au solicitat operațiuni de:
+- reparare;
+- verificare;
+- efectuarea inspecțiilor tehnice periodice;
+pentru fiecare din operațiunile menționate vor fi prevăzute următoarele date:
+- numele armurierului (persoana juridică care efectuează operațiunea de comerț)
+- adresa
+- în ce constă operațiunea (reparare, verificare, efectuarea inspecției tehnice periodice, confecționarea de muniție cu alică)
+- locul unde s-a făcut operațiunea (denumirea punctului și adresa)
+- data operațiunii
+- numele prenumele, codul numeric personal și calitatea în cadrul societății (care îi conferă dreptul de a efectua operațiunea respectivă)
+- denumirea sau numele și prenumele, adresa codul fiscal sau codul numeric personal al beneficiarului
+- nominalizarea armelor care au făcut obiectul operațiunii (categoria, marca, seria, calibrul, destinația)
+- cantitatea de muniție și calibrul acesteia, care a făcut obiectul operațiunii
+- seria și numărul documentului prin care s-a efectuat operațiunea
+C. Operațiuni de transport de arme și muniții în țară și în străinătate cu mijloace de transport proprii sau închiriate.
+a. Datele de identificare ale armurierului transportator
+- denumirea
+- sediul social (adresa)
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- date de identificare a reprezentantului sau împuternicitului legal, precum și ale persoanelor desemnate să efectueze transportul armelor și munițiilor
+- nume
+- prenume
+- cod numeric personal
+- domiciliul (reședință)
+- telefon (fix/mobil)
+- documentul de evidență și transport a armelor și munițiilor ce urmează a fi transportate/transferate (datele de identificare ale armelor și muniției)
+- date de identificare ale beneficiarului
+- denumirea sau numele prenumele
+- adresa (țara, localitatea, strada, nr.)
+- locul unde urmează a fi transportate/transferate armele și muniția
+- mijlocul de transport (marca și număr de înmatriculare)
+- de cine este asigurată paza transportului
+- denumirea celui care asigură securitatea transportului
+- numărul contractului de prestări servicii
+- termenul de valabilitate
+b. Date privind documentele de deținere, autorizare și efectuarea de operațiuni
+- autorizație pentru efectuarea operațiunilor cu arme și muniții de către persoana juridică (armurier)
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- temeiul legal
+- pe cine privește
+- denumirea persoanei juridice
+- adresa
+- denumirea operațiunii - (comerț cu arme și muniții letale)
+c. Date despre documentele de transfer al armelor și munițiilor
+- autorizație de transfer
+- denumirea persoanei juridice
+- adresă
+- nr. și seria autorizației de deținere de arme și muniții
+- data emiterii autorizației
+- numărul și seria autorizației
+- autoritatea emitentă
+- termen de valabilitate a autorizației
+- locul de unde se face transferul armelor
+- locul unde se face transferul armelor
+- motivul transferului
+- armele transferate (caracteristici de identificare)
+- muniția transferată (calibrul)
+- numele și prenumele persoanei care răspunde de arme pe timpul transferului
+- adresă
+- CNP
+- permis de transfer al armelor
+- autoritatea emitentă a documentului
+- seria și nr. permisului de transfer
+- data eliberării
+- datele de identificare ale vânzătorului sau persoane care cedează armele
+- numele și adresa
+- țara de unde provin armele ce urmează a fi transferate
+- datele de identificare ale cumpărătorului, beneficiarului respectiv, ale proprietarului
+- numele și adresa
+- țara de unde urmează a fi transferate armele
+- numărul și tipurile care fac obiectul operațiunilor de transfer
+- mijloacele de transfer
+- data plecării și data estimativă a sosirii armelor transferate
+- termen de valabilitate al permisului
+- autorizație de transfer fără acord prealabil
+- autoritatea emitentă a documentului
+- seria și nr. autorizației
+- data eliberării
+- datele de identificare ale persoanei juridice (armurierului)
+- denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- tipurile de arme care fac obiectul operațiunilor de transfer
+- statele care permit fără acord prealabil introducerea pe teritoriul lor a tipurilor de arme care urmează să facă obiectul transferului
+- perioada de valabilitate a autorizației
+- aviz de import arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (beneficiar al importului de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic a înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de unde provine produsul
+- numele furnizorului
+- adresa furnizorului
+- telefon/fax
+- locul de depozitare a armelor și munițiilor importate
+- denumire
+- adresă
+- aviz de export arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (furnizor de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic de a înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de destinație a produsului
+- numele beneficiarului
+- adresa beneficiarului
+- telefon/fax
+d. Evidența comunicărilor lunare transmise la organul de poliție competent privind
+transportul de arme și muniții
+- numele armurierului (persoana juridică care efectuează operațiunea de transport)
+- adresa
+- data când urmează să se efectueze transportul
+- mijlocul de transport (marca și numărul de înmatriculare)
+- numărul și seria documentului în baza căruia urmează se efectueze transportul
+- destinația transportului ____________ inclusiv denumirea țării
+- datele beneficiarului
+- denumirea sau numele prenumele
+- adresa (țara, localitatea, strada, nr.)
+- de cine este asigurată paza transportului
+- denumirea celui care asigură securitatea transportului
+- numărul contractului de prestări servicii
+- termenul de valabilitate
+- cantitatea de arme și muniție care urmează a fi transportate
+- traseul pe care se va deplasa transportul de arme și muniții

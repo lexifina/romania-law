@@ -1,0 +1,569 @@
+# Anexa C
+Evidența deținătorilor legali de arme, muniții și a datelor privind documentele de autorizare, deținere, folosire și transfer cuprinde:
+I. PERSOANE FIZICE AUTORIZATE PENTRU ARME LETALE
+a. Date de identificare
+- nume
+- prenume
+- cod numeric personal
+- naționalitate
+- cetățenie
+- domiciliul (reședință)
+- act de identitate (tip, serie și număr)
+- telefon (fix/mobil)
+- ocupația
+- locul de muncă
+- calitatea care i-a conferit dreptul de a deține arma respectivă (vânător, colecționar, sportiv cat. I, antrenor, funcțiile ce implică exercițiul autorității publice etc.)
+b. Date despre documentele de deținere port și folosirea armei letale
+- permis de deținere
+- autoritatea emitentă și nr. de înregistrare
+- datele de identificare ale deținătorului
+- nume
+- prenume
+- cod numeric personal
+- domiciliul/reședința
+- data eliberării documentului
+- serie și nr. documentului
+- numărul și seria autorizației
+- vizat (anul)
+- armele înscrise (conform clasificării armelor)
+- muniția înscrisă (cantitatea admisă, calibrul)
+- data schimbării documentului din alte motive în afara furtului sau pierderii
+- seria și nr. documentului nou eliberat
+- permis de port și folosire
+- autoritatea emitentă și nr. de înregistrare
+- datele de identificare ale deținătorului
+- nume
+- prenume
+- cod numeric personal
+- domiciliul/reședința
+- data eliberării documentului
+- serie și nr. documentului
+- vizat (anul)
+- armele înscrise (conform clasificării armelor)
+- muniția înscrisă (cantitatea admisă, calibrul)
+- data schimbării documentului din alte motive în afara furtului sau pierderii
+- seria și nr. documentului nou eliberat
+- autorizație de transfer
+- numele
+- prenumele
+- adresa
+- CNP
+- nr. și seria permisului de deținere
+- data emiterii autorizației
+- numărul și seria autorizației
+- autoritatea emitentă
+- termen de valabilitate a autorizației
+- locul de unde se face transferul armelor
+- locul unde se face transferul armelor
+- motivul transferului
+- armele transferate (caracteristici de identificare)
+- muniția transferată (calibrul)
+- data schimbării documentului din alte motive în afara furtului sau pierderii
+- seria și nr. documentului nou eliberat
+- pașaportul european pentru arme de foc
+- autoritatea emitentă
+- seria - nr.
+- numele prenumele deținătorului
+- codul numeric personal
+- date despre identificare armei (armelor) înscrise
+- cantitatea de muniție și calibrul
+- mențiuni ale autorităților române
+- mențiuni ale statelor membre
+- data schimbării documentului din alte motive în afara furtului sau pierderii
+- seria și nr. documentului nou eliberat
+- cartea de identitate a armei
+- seria și numărul cărții de identitate a armei
+- caracteristici generale și elemente de identificare a armei (pct. I din anexa A)
+- data eliberării cărții de identitate a armei
+- data radierii armei din evidența armelor letale
+- motivul radierii armei din evidența armelor letale
+- autoritatea emitentă
+- deținător (pentru fiecare schimbare de persoană)
+- nume
+- prenume
+- cod numeric personal
+- domiciliul/reședința
+- act de identitate (tip, serie și număr)
+- data înstrăinării armei
+- date privind omologarea armei
+- seria și numărului certificatului de omologare
+- data eliberării certificatului de omologare
+- autoritatea emitentă a certificatului de omologare
+- data schimbării documentului din alte motive în afara furtului sau pierderii
+- seria și nr. documentului nou eliberat
+- certificatul de omologare a armei
+- seria și numărului certificatului de omologare
+- data eliberării certificatului de omologare
+- autoritatea emitentă a certificatului de omologare
+- arma omologată (categoria, marca, seria, calibru, marcaj)
+- data schimbării documentului din alte motive în afara furtului sau pierderii
+- seria și nr. documentului nou eliberat
+- certificatul de inspecție tehnică periodică
+- seria și numărului certificatului de efectuare a inspecției tehnice periodice
+- data efectuării ultimei inspecții tehnice periodice
+- autoritatea care a efectuat inspecția tehnică periodică
+- arma inspectată (categoria, marca, seria, calibru, marcaj)
+- data schimbării documentului din alte motive în afara furtului sau pierderii
+- seria și nr. documentului nou eliberat
+c. Măsuri de anulare și suspendare a autorizării la peroanele fizice
+- suspendarea autorizării
+- data suspendării
+- motivul suspendării
+- temeiul legal
+- autoritatea care a dispus măsura
+- perioada suspendării
+- data revenirii asupra măsurii
+- altă măsură dispusă
+- data
+- cine a dispus
+- motivul și temeiul legal al dispoziției
+- unde sunt depozitate armele pe timpul măsurii de suspendare
+- anularea autorizării
+- data anulării
+- motivul anulării
+- temeiul legal
+- autoritatea care a dispus măsura
+- altă măsură dispusă
+- data
+- autoritatea care a dispus
+- motivul și temeiul legal al dispoziției
+- unde au fost depuse armele ca urmare a măsurii de anulare
+II. PERSOANE FIZICE DEȚINĂTOARE DE ARME NELETALE
+a) Date de identificare
+- nume
+- prenume
+- cod numeric personal
+- naționalitate
+- cetățenie
+- domiciliul (reședință)
+- act de identitate (tip, serie și număr)
+- telefon (fix/mobil)
+- ocupația
+- locul de muncă
+- calitatea care i-a conferit dreptul de a deține arma respectivă (vânător, colecționar, sportiv ●●. I, antrenor, funcțiile ce implică exercițiul autorității publice etc.)
+b) Date privind documentele de deținere, port și folosirea armei neletale
+- certificat de deținător a armei neletale
+- serie și număr
+- autoritate emitentă
+- data emiterii
+- datele de identificare a deținătorului armei (armelor) neletale
+- datele de identificare a armelor neletale deținute
+- cartea de identitate a armei
+- seria și numărul cărții de identitate a armei
+- data eliberării cărții de identitate a armei
+- data radierii armei din evidența armelor letale
+- motivul radierii armei din evidența armelor letale
+- autoritatea emitentă
+- deținător (pentru fiecare schimbare de persoană)
+- nume
+- prenume
+- cod numeric personal
+- domiciliul/reședința
+- act de identitate (tip, serie și număr)
+- data înstrăinării armei
+- date privind omologarea armei
+- seria și numărului certificatului de omologare
+- data eliberării certificatului de omologare
+- autoritatea emitentă a certificatului de omologare
+- certificatul de omologare a armei
+- seria și numărului certificatului de omologare
+- data eliberării certificatului de omologare
+- autoritatea emitentă a certificatului de omologare
+- arma omologată (categoria, marca, seria, calibru, marcaj)
+- certificatul de inspecție tehnică periodică
+- seria și numărului certificatului de efectuare a inspecției tehnice periodice
+- data efectuării ultimei inspecții tehnice periodice
+- autoritatea care a efectuat inspecția tehnică periodică
+- arma inspectată (categoria, marca, seria, calibru, marcaj)
+III. PERSOANE JURIDICE AUTORIZATE PENTRU A DEȚINE ȘI FOLOSI ARME LETALE
+a) Date de identificare
+- denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- date de identificare a reprezentantului sau împuternicitului legal
+- nume
+- prenume
+- cod numeric personal
+- domiciliul (reședință)
+- telefon (fix/mobil)
+- arme deținute (date de identificare a armei)
+- muniția deținută (cantitatea și calibrul)
+b) Date despre documentele de deținere și folosire a armelor letale la persoanele juridice
+- autorizație pentru deținere
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- scopul emiterii
+- denumirea persoanei juridice autorizate
+- armele deținute (date de identificare a armei)
+- locul de depozitare ale armelor
+- anul vizei
+- autorizație pentru efectuarea operațiunilor cu arme de foc și muniții letale de către persoanele juridice
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- temeiul legal
+- pe cine privește
+- denumirea persoanei juridice
+- adresa
+- denumirea operațiunii
+- scopul operațiunii
+- numărul de arme ce fac obiectul operațiunii
+- cantitatea de muniție (calibrul ce face obiectul operațiunii)
+c) date despre documentele de transfer a armelor letale
+- denumirea persoanei juridice
+- adresă
+- nr. și seria autorizației de deținere de arme și muniții
+- data emiterii autorizației
+- numărul și seria autorizației
+- autoritatea emitentă
+- termen de valabilitate a autorizației
+- locul de unde se face transferul armelor
+- locul unde se face transferul armelor
+- motivul transferului
+- armele transferate (caracteristici de identificare)
+- muniția transferată (calibrul)
+- numele și prenumele persoanei care răspunde de arme pe timpul transferului
+- adresă
+- CNP
+- permis de transfer al armelor
+- autoritatea emitentă a documentului
+- seria și nr. permisului de transfer
+- data eliberării
+- datele de identificare ale vânzătorului sau persoane care cedează armele
+- numele și adresa
+- țara de unde provin armele ce urmează a fi transferate
+- datele de identificare ale cumpărătorului, beneficiarului respectiv, ale proprietarului
+- numele și adresa
+- țara de unde urmează a fi transferate armele
+- numărul și tipurile care fac obiectul operațiunilor de transfer
+- mijloacele de transfer
+- data plecării și data estimativă a sosirii armelor transferate
+- termen de valabilitate al permisului
+- autorizație de transfer fără acord prealabil
+- autoritatea emitentă a documentului
+- seria și nr. autorizației
+- data eliberării
+- datele de identificare ale persoanei juridice (armurierului)
+- denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- tipurile de arme care fac obiectul operațiunilor de transfer
+- statele care permit fără acord prealabil introducerea pe teritoriul lor a tipurilor de arme care urmează să facă obiectul transferului
+- perioada de valabilitate a autorizației
+- aviz de import arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (beneficiar al importului de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic de înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de unde provine produsul
+- numele furnizorului
+- adresa furnizorului
+- telefon/fax
+- locul de depozitare a armelor și munițiilor importate
+- denumire
+- adresă
+- aviz de export arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (furnizor de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic a înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de destinație a produsului
+- numele beneficiarului
+- adresa beneficiarului
+- telefon/fax
+d) Măsuri de anulare și suspendare a autorizării la persoanele juridice
+- suspendarea autorizării
+- data suspendării
+- motivul suspendării
+- temeiul legal
+- autoritatea care a dispus măsura
+- perioada suspendării
+- data revenirii asupra măsurii
+- altă măsură dispusă
+- data
+- cine a dispus
+- motivul și temeiul legal al dispoziției
+- unde sunt depozitate armele pe timpul măsurii de suspendare
+- anularea autorizării
+- data anulării
+- motivul anulării
+- temeiul legal
+- autoritatea care a dispus măsura
+- altă măsură dispusă
+- data
+- autoritatea care a dispus
+- motivul și temeiul legal al dispoziției
+- unde au fost depuse armele ca urmare a măsurii de anulare
+IV. PERSOANE JURIDICE DEȚINĂTOARE DE ARME NELETALE
+a) Date de identificare
+- denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- date de identificare a reprezentantului sau împuternicitului legal
+- nume
+- prenume
+- cod numeric personal
+- domiciliul (reședință)
+- telefon (fix/mobil)
+- arme deținute (date de identificare a armei)
+- muniția deținută (cantitatea și calibrul)
+b) Date despre documentele de deținere și folosire a armelor neletale la persoanele juridice
+- certificat de deținător de arme și muniții neletale pentru persoanele juridice
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- scopul emiterii
+- denumirea persoanei juridice autorizate
+- armele deținute (date de identificare a armei)
+- locul de depozitare ale armelor
+- anul vizei
+- autorizație pentru efectuarea operațiunilor cu arme și muniții de către persoanele juridice
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- temeiul legal
+- pe cine privește
+- denumirea persoanei juridice
+- adresa
+- denumirea operațiunii
+c) date despre documentele de transfer a armelor letale
+- permis de transfer al armelor
+- autoritatea emitentă a documentului
+- seria și nr. permisului de transfer
+- data eliberării
+- datele de identificare ale vânzătorului sau persoane care cedează armele
+- numele și adresa
+- țara de unde provin armele ce urmează a fi transferate
+- datele de identificare ale cumpărătorului, beneficiarului respectiv, ale proprietarului
+- numele și adresa
+- țara de unde urmează a fi transferate armele
+- numărul și tipurile care fac obiectul operațiunilor de transfer
+- mijloacele de transfer
+- data plecării și data estimativă a sosirii armelor transferate
+- termen de valabilitate al permisului
+- aviz de import arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (beneficiar al importului de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic de înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de unde provine produsul
+- numele furnizorului
+- adresa furnizorului
+- telefon/fax
+- locul de depozitare a armelor și munițiilor importate
+- denumire
+- adresă
+- aviz de export arme și muniții
+- seria și numărul autorizației pentru efectuarea de operațiuni cu arme și muniții
+- autoritatea emitentă
+- denumirea armurierului (furnizor de arme și muniții)
+- adresa
+- telefon/fax
+- codul unic de înregistrare a armurierului
+- numărul licenței
+- data înregistrării
+- emitent
+- număr de înregistrare al avizului
+- autoritatea care a dat avizul
+- denumirea comercială a mărfii
+- cantitatea de arme și calibrul
+- date de identificare ale armelor (unde este cazul)
+- cantitatea de muniție și calibrul
+- țara de destinație a produsului
+- numele beneficiarului
+- adresa beneficiarului
+- telefon/fax
+V. SITUAȚIA PRIVIND FURTUL SAU PIERDEREA DOCUMENTELOR DE DEȚINERE, DUPĂ
+CAZ DE PORT ȘI FOLOSIRE A ARMELOR ȘI MUNIȚIILOR
+a) Date despre eveniment
+- data
+- furtului
+- pierderii
+- locul
+- țara
+- localitatea
+- județul
+- datele de identificare ale titularului documentului
+a. persoană juridică
+- denumirea (persoanei juridice)
+- adresa
+- cod fiscal
+- telefon
+- țara
+b. persoană fizică
+- nume
+- prenume
+- cod numeric personal
+- domiciliul (reședință)
+- telefon (fix/mobil)
+- țara
+- autoritatea sesizată de furt sau dispariția documentului
+- poliția
+- reprezentanța diplomatică sau consulară
+- altă instituție
+- țara unde se găsește autoritatea sesizată
+- numărul de înregistrare și data sesizării evenimentului
+- documentele ce fac obiectul furtului - dispariției:
+- permis de deținere
+- autoritatea emitentă și nr. de înregistrare
+- datele de identificare ale deținătorului
+- nume
+- prenume
+- cod numeric personal
+- domiciliul/reședința
+- data eliberării documentului
+- serie și nr. documentului
+- seria și nr. autorizației
+- vizat (anul)
+- armele înscrise (conform clasificării armelor)
+- muniția înscrisă (cantitatea admisă, calibrul)
+- permis de port și folosire
+- autoritatea emitentă și nr. de înregistrare
+- datele de identificare ale deținătorului
+- nume
+- prenume
+- cod numeric personal
+- domiciliul/reședința
+- data eliberării documentului
+- serie și nr. documentului
+- vizat (anul)
+- armele înscrise (conform clasificării armelor)
+- muniția înscrisă (cantitatea admisă, calibrul)
+- pașaportul european pentru arme de foc
+- autoritatea emitentă
+- seria - nr.
+- numele prenumele deținătorului
+- codul numeric personal
+- date despre identificare armei (armelor) înscrise
+- cantitatea de muniție și calibrul
+- mențiuni ale autorităților române
+- mențiuni ale statelor membre
+- cartea de identitate a armei
+- seria și numărul cărții de identitate a armei
+- caracteristici generale și elemente de identificare a armei (pct. I din anexa A)
+- data eliberării cărții de identitate a armei
+- data radierii armei din evidența armelor letale
+- motivul radierii armei din evidența armelor letale
+- autoritatea emitentă
+- deținător (pentru fiecare schimbare de persoană)
+- nume
+- prenume
+- cod numeric personal
+- domiciliul/reședința
+- act de identitate (tip, serie și număr)
+- data înstrăinării armei
+- date privind omologarea armei
+- seria și numărului certificatului de omologare
+- data eliberării certificatului de omologare
+- autoritatea emitentă a certificatului de omologare
+- certificat de deținător a armei neletale
+- serie și număr
+- autoritate emitentă
+- data emiterii
+- datele de identificare a deținătorului armei (armelor) neletale
+- datele de identificare a armelor neletale deținute
+- autorizație de deținere de arme și muniții letale pentru persoanele juridice
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- scopul emiterii
+- denumirea persoanei juridice autorizate
+- armele deținute (date de identificare a armei)
+- locul de depozitare ale armelor
+- anul vizei
+- autorizație pentru efectuarea operațiunilor cu arme și muniții de către persoanele juridice
+- autoritatea emitentă și nr. de înregistrare
+- seria, nr.
+- data emiterii
+- temeiul legal
+- pe cine privește
+- denumirea persoanei juridice
+- adresa
+- denumirea operațiunii
+- permis de transfer al armelor
+- autoritatea emitentă a documentului
+- seria și nr. permisului de transfer
+- data eliberării
+- datele de identificare ale vânzătorului sau persoane care cedează armele
+- numele și adresa
+- țara de unde provin armele ce urmează a fi transferate
+- datele de identificare ale cumpărătorului, beneficiarului respectiv, ale proprietarului
+- numele și adresa
+- țara de unde urmează a fi transferate armele
+- numărul și tipurile care fac obiectul operațiunilor de transfer
+- mijloacele de transfer
+- data plecării și data estimativă a sosirii armelor transferate
+- termen de valabilitate al permisului
+- autorizație de transfer fără acord prealabil
+- autoritatea emitentă a documentului
+- seria și nr. autorizației
+- data eliberării
+- datele de identificare ale persoanei juridice (armurierului)
+- denumirea
+- sediul social (adresa)
+- adresele punctelor de lucru unde sunt depozitate sau se efectuează alte
+operațiuni cu arme și muniții
+- certificatul de înregistrare la Registrul Comerțului (serie, număr, cod unic de înregistrare)
+- codul fiscal
+- telefon (fix/mobil) al persoanei juridice
+- tipurile de arme care fac obiectul operațiunilor de transfer
+- statele care permit fără acord prealabil introducerea pe teritoriul lor a tipurilor de arme care urmează să facă obiectul transferului
+- perioada de valabilitate a autorizației
+b) Datele necesare în cazul găsirii documentelor
+- data găsirii
+- locul
+- localitatea
+- județul
+- țara
+- cine le-a găsit
+- numele prenumele
+- adresa
+- act de identitate
+- documentul găsit
+- denumirea
+- pe cine privește
+- radierea din evidență ca document furat sau pierdut
+- data radierii
