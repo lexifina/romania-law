@@ -1,0 +1,186 @@
+{
+ "key": "dcc-193-2001",
+ "label": "Decizia CCR nr. 193/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "193",
+ "date": "2001-06-19",
+ "year": "2001",
+ "heading": "DECIZIE nr. 193 din 19 iunie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 136 alin. (2) din Codul muncii (adoptat prin Legea nr. 10 din 23 noiembrie 1972)",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "441",
+  "bis": false,
+  "date": "2001-08-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.632/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Radu Chis în Dosarul nr. 3.632/2000 al Tribunalului Bucureşti - Secţia a IV-a civilă şi constata ca dispoziţiile art. 136 alin. (2) din Codul muncii nu mai sunt în vigoare întrucât sunt contrare prevederilor art. 16 alin. (1), ale art. 38 alin. (1) şi ale art. 134 alin. (1) din Constituţie.",
+  "Definitivă şi obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-08-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/30012",
+  "text_sha256": "f49bf7d9412bad97676f9bc2fbbe969c90365011abab4a14da72ead0f30945ed",
+  "catalogue_sha256": "f49bf7d9412bad97676f9bc2fbbe969c90365011abab4a14da72ead0f30945ed",
+  "fetched": "2026-11-02T23:15:32Z",
+  "chars": 14287,
+  "portal_id": "30012",
+  "tip": "DECIZIE"
+ }
+}
