@@ -1,0 +1,2 @@
+# Anexa 2
+REGULI TEHNICE PENTRU DOCUMENTUL VI 1 A. Tipărirea formularelor 1. Mărimea formularelor este de aproximativ 210 x 297 mm. 2. Se folosește hârtie albă de scris, de maximum 40 g/mp. 3. Fiecare formular poartă numele și adresa sau marca imprimeriei. 4. Documentele sunt tipărite în una dintre limbile oficiale ale Comunității Europene. B. Completarea formularelor 1. Documentele se completează în limba în care sunt tipărite. 2. Fiecare formular poartă un număr de serie atribuit de către organismul oficial care semnează certificarea. _______________
