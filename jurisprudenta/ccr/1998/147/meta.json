@@ -1,0 +1,203 @@
+{
+ "key": "dcc-147-1998",
+ "label": "Decizia CCR nr. 147/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "147",
+ "date": "1998-10-27",
+ "year": "1998",
+ "heading": "DECIZIE nr. 147 din 27 octombrie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 17 alin. (1) lit. b), ale art. 31 şi ale art. 46 alin. (2) şi (3) din Legea partidelor politice nr. 27/1996, modificată prin Ordonanţa de urgenta a Guvernului nr. 3/1996, aprobată prin Legea nr. 46/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "85",
+  "bis": false,
+  "date": "1999-03-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 27/1996",
+    "number": "27",
+    "year": "1996",
+    "path": "lege/1996/27"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 17 alin. (1) lit. b), ale art. 31 şi ale art. 46 alin. (2) şi (3) din Legea partidelor politice nr. 27/1996, modificată prin Ordonanţa de urgenta a Guvernului nr. 3/1996, aprobată prin Legea nr. 46/1998, ridicată de Partidul Crestin Democrat Maghiar din România în Dosarul nr. 43 bis/1996 al Tribunalului Bucureşti - Secţia a III-a civilă.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 27/1996",
+    "number": "27",
+    "year": "1996",
+    "path": "lege/1996/27"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-03-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/17055",
+  "text_sha256": "24375ccaed05a0867ab5c57fc1107e456db17616074631d67b742eecd1f3988e",
+  "catalogue_sha256": "24375ccaed05a0867ab5c57fc1107e456db17616074631d67b742eecd1f3988e",
+  "fetched": "2026-11-02T23:03:03Z",
+  "chars": 17217,
+  "portal_id": "17055",
+  "tip": "DECIZIE"
+ }
+}
