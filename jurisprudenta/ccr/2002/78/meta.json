@@ -1,0 +1,179 @@
+{
+ "key": "dcc-78-2002",
+ "label": "Decizia CCR nr. 78/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "78",
+ "date": "2002-03-14",
+ "year": "2002",
+ "heading": "DECIZIE nr. 78 din 14 martie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 76 alin. 2 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată cu modificări prin Legea nr. 108/1996, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "242",
+  "bis": false,
+  "date": "2002-04-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.483/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 76 alin. 2 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată cu modificări prin Legea nr. 108/1996, cu modificările ulterioare, excepţie ridicată de Societatea Comercială \"Davos Com Prod\" - S.R.L. din comuna Surduc în Dosarul nr. 6.483/2001 al Judecătoriei Sectorului 1, municipiul Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-04-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/35158",
+  "text_sha256": "cea950f8aeb8dc5f44f05a6e6b519f0a2a441402809fc965d24eac7b6c3ee8b7",
+  "catalogue_sha256": "cea950f8aeb8dc5f44f05a6e6b519f0a2a441402809fc965d24eac7b6c3ee8b7",
+  "fetched": "2026-11-02T23:20:10Z",
+  "chars": 11687,
+  "portal_id": "35158",
+  "tip": "DECIZIE"
+ }
+}
