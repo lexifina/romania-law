@@ -1,0 +1,131 @@
+{
+ "key": "dcc-44-1998",
+ "label": "Decizia CCR nr. 44/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "44",
+ "date": "1998-03-10",
+ "year": "1998",
+ "heading": "DECIZIE nr. 44 din 10 martie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 64/1991 privind brevetele de invenţie",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "160",
+  "bis": false,
+  "date": "1998-04-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.667/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 64/1991",
+    "number": "64",
+    "year": "1991",
+    "path": "lege/1991/64"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a Legii nr. 64/1991, ridicată de Sanda Dumitru în Dosarul nr. 3.667/1996 al Tribunalului Municipiului Bucureşti - Secţia a III-a civilă.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 64/1991",
+    "number": "64",
+    "year": "1991",
+    "path": "lege/1991/64"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/1974",
+    "number": "62",
+    "year": "1974",
+    "path": "lege/1974/62"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-04-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14555",
+  "text_sha256": "d73493ffaea585e9893f4a4e42420d0456951cb0b382c826e893f1184f7eed19",
+  "catalogue_sha256": "d73493ffaea585e9893f4a4e42420d0456951cb0b382c826e893f1184f7eed19",
+  "fetched": "2026-11-02T23:00:14Z",
+  "chars": 6341,
+  "portal_id": "14555",
+  "tip": "DECIZIE"
+ }
+}
