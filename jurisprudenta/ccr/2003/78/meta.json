@@ -1,0 +1,168 @@
+{
+ "key": "dcc-78-2003",
+ "label": "Decizia CCR nr. 78/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "78",
+ "date": "2003-02-25",
+ "year": "2003",
+ "heading": "DECIZIE nr. 78 din 25 februarie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 18^1 alin. (2) din Ordonanţa de urgenta a Guvernului nr. 51/1998 privind unele măsuri premergătoare privatizării băncilor, aprobată cu modificări prin Legea nr. 409/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "217",
+  "bis": false,
+  "date": "2003-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 51/1998",
+    "number": "51",
+    "year": "1998",
+    "path": "oug/1998/51"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 18^1 alin. (2) din Ordonanţa de urgenta a Guvernului nr. 51/1998 privind valorificarea unor active bancare, aprobată cu modificări prin Legea nr. 409/2001, excepţie ridicată de Societatea Comercială \"Covin Tim\" - S.R.L. din Timişoara în Dosarul nr. 2.399/COM/S/2002 al Tribunalului Timiş - Secţia comercială.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 51/1998",
+    "number": "51",
+    "year": "1998",
+    "path": "oug/1998/51"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/42777",
+  "text_sha256": "b1ac2163d05b03ccd1776bf14f88d6a77e5c26aecb92bc4be3e5ad614a2cc9bd",
+  "catalogue_sha256": "b1ac2163d05b03ccd1776bf14f88d6a77e5c26aecb92bc4be3e5ad614a2cc9bd",
+  "fetched": "2026-11-02T23:27:59Z",
+  "chars": 10189,
+  "portal_id": "42777",
+  "tip": "DECIZIE"
+ }
+}
