@@ -1,0 +1,176 @@
+{
+ "key": "dcc-190-2003",
+ "label": "Decizia CCR nr. 190/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "190",
+ "date": "2003-05-13",
+ "year": "2003",
+ "heading": "DECIZIE nr. 190 din 13 mai 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 din Ordonanţa Guvernului nr. 80/2001 privind stabilirea unor normative de cheltuieli pentru autorităţile administraţiei publice şi instituţiile publice, aprobată şi modificată prin Legea nr. 247/2002, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "363",
+  "bis": false,
+  "date": "2003-05-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "71/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "og/2001/80"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor  art. 7 din Ordonanţa Guvernului nr. 80/2001  privind stabilirea unor normative de cheltuieli pentru autorităţile administraţiei publice şi instituţiile publice, aprobată şi modificată prin  Legea nr. 247/2002 , cu modificările şi completările ulterioare, excepţie ridicată de Consiliul Local al Municipiului Hunedoara în Dosarul nr. 71/2002 al Curţii de Conturi - Colegiul jurisdicţional Hunedoara.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 13 mai 2003.  PREŞEDINTE,  prof. univ. dr. COSTICA BULAI  Magistrat-asistent şef,  Doina Suliman  ─────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "og/2001/80"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 25/2003",
+    "number": "25",
+    "year": "2003",
+    "path": "og/2003/25"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1993",
+    "number": "54",
+    "year": "1993",
+    "path": "lege/1993/54"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-05-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/43991",
+  "text_sha256": "e9f0c7731f7353e5778d512402474f3a0a38fcba25f4dabe9f5b8c63039054cf",
+  "catalogue_sha256": "e9f0c7731f7353e5778d512402474f3a0a38fcba25f4dabe9f5b8c63039054cf",
+  "fetched": "2026-11-04T18:57:42Z",
+  "chars": 8331,
+  "portal_id": "43991",
+  "tip": "DECIZIE"
+ }
+}
