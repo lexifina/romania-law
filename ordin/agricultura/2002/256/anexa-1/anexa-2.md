@@ -1,0 +1,9 @@
+# Anexa 2
+------- la norma sanitară veterinara ---------------------------- Funcțiile și sarcinile laboratorului comunitar de referința Funcțiile și sarcinile laboratorului comunitar de referința sunt: 1. sa coordoneze, consultând Comisia Europeană, metodele folosite pentru diagnosticarea bolilor molustelor bivalve, prin:
+a) alcătuirea și păstrarea unei colecții de lame histologice, tulpini sau izolate ale agenților patogeni relevanti și punerea acestora la dispoziția laboratoarelor aprobate din statele membre ale Uniunii Europene;
+b) organizarea periodică, la nivel național, a comparării între laboratoare a testelor prevăzute de procedurile de diagnostic;
+c) colectarea și compararea datelor și a informațiilor privind metodele de diagnostic utilizate și rezultatele testelor efectuate în Comunitatea Europeană;
+d) caracterizarea izolatelor agenților patogeni prin metodele cele mai noi și adecvate care să permită o buna înțelegere a epizootologiei bolii;
+e) actualizarea informațiilor referitoare la evolutiile din întreaga lume cu privire la supravegherea, epizootologia și prevenirea bolilor specificate în prezenta norma sanitară veterinara;
+f) realizarea expertizei cu privire la agenții patogeni ai bolilor, pentru a permite un diagnostic diferential rapid;
+2. sa sprijine activ diagnosticarea focarelor de boala în statele membre ale Uniunii Europene prin primirea izolatelor de agenți patogeni pentru diagnosticul de confirmare, caracterizare și studii epizootice; 3. sa faciliteze instruirea sau perfecționarea experților în diagnosticul de laborator, în vederea armonizării tehnicilor de diagnostic din întreaga Comunitate Europeană; 4. sa colaboreze, în privinta metodelor de diagnosticare a bolilor exotice, cu laboratoarele competente din țările terțe în care sunt răspândite aceste boli.
