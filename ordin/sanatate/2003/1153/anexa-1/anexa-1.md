@@ -1,0 +1,3 @@
+# Anexa 1
+------- la reglementări --------------- CERERE DE PLANIFICAREA INSPECȚIEI în vederea autorizării de funcționare Către Agenția Națională a Medicamentului - Departamentul inspecție farmaceutică Unitatea........................., cu sediul în...................., adresa.........................., telefon/fax.................., înregistrată la registrul comerțului.........................., cod unic de înregistrare................, reprezentată prin...(numele, prenumele)....., funcția......................., vă rog să planificați inspecția la sediul unității în vederea autorizării de funcționare/vă rog să ne emiteți autorizația de funcționare. Semnătura și ștampila -----------
+Notă...
