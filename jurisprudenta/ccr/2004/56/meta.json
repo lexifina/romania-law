@@ -1,0 +1,449 @@
+{
+ "key": "dcc-56-2004",
+ "label": "Decizia CCR nr. 56/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "56",
+ "date": "2004-02-17",
+ "year": "2004",
+ "heading": "DECIZIE nr. 56 din 17 februarie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 384^1 alin. 2, art. 403 alin. 1, art. 449, art. 516 pct. 8, art. 518-522 şi ale art. 581 alin. 1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "215",
+  "bis": false,
+  "date": "2004-03-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "579D/2003",
+  "397C/2003",
+  "1.218/2003",
+  "883/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "384-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "449",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "522",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "581",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 384^1 alin. 2, art. 403 alin. 1, art. 449, art. 516 pct. 8, art. 518-522 şi ale art. 581 alin. 1 din Codul de procedură civilă, excepţie ridicată de Vasile şi Lucia Şălariu în dosarele nr. 1.218/2003 al Tribunalului Iaşi şi nr. 883/2003 al Judecătoriei Iaşi.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "384-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "449",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "522",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "581",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "401",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "402",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "582",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adiţional nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 138/2002",
+    "number": "138",
+    "year": "2002",
+    "path": "og/2002/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-03-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/50313",
+  "text_sha256": "eef2c5dd79492505d9fdd07c147076a5ae4e9fd2eeb9a98004a86fb044dcdbcf",
+  "catalogue_sha256": "eef2c5dd79492505d9fdd07c147076a5ae4e9fd2eeb9a98004a86fb044dcdbcf",
+  "fetched": "2026-11-04T12:31:43Z",
+  "chars": 37264,
+  "portal_id": "50313",
+  "tip": "DECIZIE"
+ }
+}
