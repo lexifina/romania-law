@@ -1,0 +1,221 @@
+{
+ "key": "dcc-76-1994",
+ "label": "Decizia CCR nr. 76/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "76",
+ "date": "1994-07-13",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 76*) din 13 iulie 1994",
+ "subtitle": "privind excepţia de neconstituţionalitate a prevederilor art. 32 alin. 1 lit. a) şi c) şi ale alin. 2 lit. a) şi b) din Legea nr. 26/1976 privind economia vânatului şi vânătoarea",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "10",
+  "bis": false,
+  "date": "1995-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3176/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1976",
+    "number": "26",
+    "year": "1976",
+    "path": "lege/1976/26"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate privind dispoziţiile art. 32 alin. 1 lit. a) şi c) şi ale alin. 2 lit. a) şi b) din Legea nr. 26/1976 cu privire la economia vinatului şi vânătoarea, invocată de către Schiopu Toader, domiciliat în Tirgoviste, str. Belsugului, bloc 61D, et. 2 ap. 11, şi de către Gurgu Ion, domiciliat în Tirgoviste, str. Evoluţiei, bloc 18D, et. 2, ap. 5, în cauza ce formează obiectul Dosarului nr. 3176/1993 aflat pe rolul Judecătoriei Tirgoviste.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1976",
+    "number": "26",
+    "year": "1976",
+    "path": "lege/1976/26"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "503",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4309",
+  "text_sha256": "4a3f43c0ab5c4e0d05c6f8fc7662ba62ceaf23b44bf5c970be0e7fa05aef5a79",
+  "catalogue_sha256": "4a3f43c0ab5c4e0d05c6f8fc7662ba62ceaf23b44bf5c970be0e7fa05aef5a79",
+  "fetched": "2026-11-02T22:46:27Z",
+  "chars": 10603,
+  "portal_id": "4309",
+  "tip": "DECIZIE"
+ }
+}
