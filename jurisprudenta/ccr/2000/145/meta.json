@@ -1,0 +1,194 @@
+{
+ "key": "dcc-145-2000",
+ "label": "Decizia CCR nr. 145/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "145",
+ "date": "2000-07-14",
+ "year": "2000",
+ "heading": "DECIZIE nr. 145 din 14 iulie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 174 alin. 1 lit. a) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "665",
+  "bis": false,
+  "date": "2000-12-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.389/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "174",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Vasile Oaches Anghelescu în Dosarul nr. 7.389/1999 al Judecătoriei Focsani, judeţul Vrancea, şi constata ca dispoziţia \"numai dacă pedeapsa prevăzută de lege pentru fapta supusă judecaţii este amenda sau închisoarea de cel mult un an\", prevăzută la art. 174 alin. 1 lit. a) din Codul de procedură penală, este neconstitutionala.  Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 14 iulie 2000.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Laurentiu Cristescu  Întrucât magistratul-asistent Laurentiu Cristescu se afla în incapacitate temporară de muncă, în locul sau semnează, în temeiul art. 261 din Codul de procedură civilă,  Magistrat-asistent şef,  Claudia Miu  ───────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "174",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/25602",
+  "text_sha256": "fb305908ec7a8bf40a0d598851fac62f56d18de127a7c1d65f396b17bf6f8d8b",
+  "catalogue_sha256": "fb305908ec7a8bf40a0d598851fac62f56d18de127a7c1d65f396b17bf6f8d8b",
+  "fetched": "2026-11-02T23:11:58Z",
+  "chars": 19680,
+  "portal_id": "25602",
+  "tip": "DECIZIE"
+ }
+}
