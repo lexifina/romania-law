@@ -1,0 +1,126 @@
+{
+ "key": "dcc-401-1997",
+ "label": "Decizia CCR nr. 401/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "401",
+ "date": "1997-10-16",
+ "year": "1997",
+ "heading": "DECIZIE nr. 401 din 16 octombrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 330 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "377",
+  "bis": false,
+  "date": "1997-12-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "1.699/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Nicolaescu Viorel şi Nicolaescu Viorica împotriva Deciziei Curţii Constituţionale nr. 136 din 26 mai 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-12-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12630",
+  "text_sha256": "9d2bce0f615d478d68217b5fd57ae78722d157a9b839058c93d3d578124b4fe1",
+  "catalogue_sha256": "9d2bce0f615d478d68217b5fd57ae78722d157a9b839058c93d3d578124b4fe1",
+  "fetched": "2026-11-05T14:29:53Z",
+  "chars": 3934,
+  "portal_id": "12630",
+  "tip": "DECIZIE"
+ }
+}
