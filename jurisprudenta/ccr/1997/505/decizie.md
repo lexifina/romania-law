@@ -1,0 +1,21 @@
+# DECIZIE nr. 505 din 2 decembrie 1997
+referitoare la excepţia de neconstituţionalitate a art. 330^1 din Codul de procedură civilă
+Ioan Muraru - preşedinte Viorel Mihai Ciobanu - judecător Mihai Constantinescu - judecător
+Nicolae Popa - judecător Lucian Stangu - judecător Florin Bucur Vasilescu- judecător Victor Dan Zlatescu - judecător Paula C. Pantea - procuror Maria Bratu - magistrat-asistent Pe rol, pronunţarea asupra excepţiei de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă, ridicată de Papastere Elena, Veron Anton şi Veron Adrian în Dosarul nr. 3.553/1996, aflat pe rolul Curţii Supreme de Justiţie - Secţia civilă.
+Dezbaterile au avut loc în şedinţa publică din data de 25 noiembrie 1997, în prezenta reprezentantului Ministerului Public, a intimatului-reclamant Veron Adrian şi în lipsa celorlalte părţi legal citate, şi au fost consemnate în încheierea de la acea data, când Curtea, având nevoie de timp pentru a delibera, a amânat pronunţarea pentru data de 2 decembrie 1997.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 14 mai 1997, pronunţată în Dosarul nr. 3.553/1996, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă, ridicată de Papastere Elena, Veron Anton şi Veron Adrian.
+Motivarea excepţiei se referă la dispoziţiile art. 330 pct. 1 din Codul de procedură civilă, cu susţinerea ca ele contravin prevederilor art. 21 din Constituţie.
+Exprimandu-şi opinia, instanţa de judecată apreciază ca excepţia este neîntemeiată.
+Cu prilejul dezbaterilor în fond, intimatul Veron Adrian a declarat ca înţelege sa renunţe la excepţia invocată. Având în vedere prevederile art. 26 din Regulamentul de organizare şi funcţionare a Curţii Constituţionale, Curtea urmează să se pronunţe asupra excepţiei, asa cum a fost legal sesizată de instanţa de judecată.
+În scopul soluţionării cauzei, conform prevederilor art. 24 alin. (1) din Legea nr. 47/1992, republicată, s-au solicitat puncte de vedere fiecărei Camere a Parlamentului şi Guvernului.
+În punctul de vedere al Guvernului se apreciază ca excepţia de neconstituţionalitatea nu este intemeiata, având în vedere practica jurisdicţională a Curţii.
+Preşedinţii Camerei Deputaţilor şi Senatului nu au comunicat punctele lor de vedere.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Guvernului, raportul întocmit de judecătorul-raportor, susţinerile părţilor, concluziile procurorului, dispoziţiile legale atacate, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, republicată, constata următoarele:
+Cu privire la dispoziţiile art. 330^1 din Codul de procedură civilă, se constată că, la data ridicării excepţiei, prin Legea nr. 17/1997, publicată în Monitorul Oficial al României, Partea I, nr. 26 din 18 februarie 1997, acestea fuseseră modificate, astfel încât, în prezent, recursul în anulare nu mai poate fi declarat oricând de către procurorul general, ci numai în cadrul unui termen de 6 luni, care începe să curgă de la data când hotărârea a rămas irevocabilă, pentru motivul prevăzut de art. 330 pct. 1 din Codul de procedură civilă, sau de la data rămânerii definitive a hotărârii de condamnare, pentru motivul prevăzut de art. 330 pct. 2 din acelaşi cod.
+Rezultă asadar ca, fiind instituit termenul de exercitare a acestei cai de atac, excepţia de neconstituţionalitate a rămas fără obiect.
+În acest sens s-a pronunţat Curtea Constituţională prin Decizia nr. 37 din 25 februarie 1997, definitivă, publicată în Monitorul Oficial al României, Partea I, nr. 64 din 15 aprilie 1997.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 1, al art. 2, al art. 3, al art. 13 alin. (1) lit. A.c) şi al art. 23 din Legea nr. 47/1992, republicată, CURTEA În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă, ridicată de Papastere Elena, Veron Anton şi Veron Adrian în Dosarul nr. 3.553/1996 al Curţii Supreme de Justiţie - Secţia civilă. Definitivă.
+Pronunţată în şedinţa publică din 2 decembrie 1997.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN MURARU Magistrat-asistent, Maria Bratu
