@@ -1,0 +1,234 @@
+{
+ "key": "dcc-149-2002",
+ "label": "Decizia CCR nr. 149/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "149",
+ "date": "2002-05-09",
+ "year": "2002",
+ "heading": "DECIZIE nr. 149 din 9 mai 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 alin. 2 şi 3 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată şi modificată prin Legea nr. 108/1996, cu modificările şi completările ulterioare, precum şi ale art. 10 alin. (1) şi (2) din Ordonanţa de urgenta a Guvernului nr. 13/2001 privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice, aprobată şi modificată prin Legea nr. 506/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "507",
+  "bis": false,
+  "date": "2002-07-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.809/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 13/2001",
+    "number": "13",
+    "year": "2001",
+    "path": "oug/2001/13"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 10 alin. 2 şi 3 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată şi modificată prin Legea nr. 108/1996, cu modificările şi completările ulterioare, precum şi ale art. 10 alin. (1) şi (2) din Ordonanţa de urgenta a Guvernului nr. 13/2001 privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice, aprobată şi modificată prin Legea nr. 506/2001, excepţie ridicată de Societatea Comercială \"Bere-Lichior Margineni\" - S.A. din Bacau în Dosarul nr. 2.809/2001 al Curţii de Apel Bacau - Secţia civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 13/2001",
+    "number": "13",
+    "year": "2001",
+    "path": "oug/2001/13"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "8",
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 113/1999",
+    "number": "113",
+    "year": "1999",
+    "path": "oug/1999/113"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-07-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/37320",
+  "text_sha256": "679d0d76360ac7ef9f0fe13dac61ffa420f55e1c755048eacce5af9f7f6690fa",
+  "catalogue_sha256": "679d0d76360ac7ef9f0fe13dac61ffa420f55e1c755048eacce5af9f7f6690fa",
+  "fetched": "2026-11-02T23:22:15Z",
+  "chars": 16185,
+  "portal_id": "37320",
+  "tip": "DECIZIE"
+ }
+}
