@@ -1,0 +1,214 @@
+{
+ "key": "dcc-273-2004",
+ "label": "Decizia CCR nr. 273/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "273",
+ "date": "2004-06-24",
+ "year": "2004",
+ "heading": "DECIZIE nr. 273 din 24 iunie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 130 alin. (1) lit. a) din Legea nr. 8/1996 privind dreptul de autor şi drepturile conexe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "717",
+  "bis": false,
+  "date": "2004-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.817/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "130",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 130 alin. (1) lit. a) din Legea nr. 8/1996 privind dreptul de autor şi drepturile conexe, excepţie ridicată de Societatea Comercială \"Media Pro\" - S.R.L. din Bucureşti în Dosarul nr. 5.817/2002 al Tribunalului Bucureşti - Secţia a III-a civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "130",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/54262",
+  "text_sha256": "6d1d8a4bfd042cd36eded3c00079d7d934837cb24df471c58d275f907f372e68",
+  "catalogue_sha256": "6d1d8a4bfd042cd36eded3c00079d7d934837cb24df471c58d275f907f372e68",
+  "fetched": "2026-11-02T23:39:18Z",
+  "chars": 11747,
+  "portal_id": "54262",
+  "tip": "DECIZIE"
+ }
+}
