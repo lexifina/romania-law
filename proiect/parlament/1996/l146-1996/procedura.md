@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 1996-08-21: registered at the Senate
 - 2000-03-09: adopted by the Chamber of Deputies
+- 2000-03-20: sent for promulgation
 
 ## Documents
 
