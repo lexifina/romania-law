@@ -1,0 +1,183 @@
+{
+ "key": "dcc-46-1999",
+ "label": "Decizia CCR nr. 46/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "46",
+ "date": "1999-03-23",
+ "year": "1999",
+ "heading": "DECIZIE nr. 46 din 23 martie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 7 alin. 1 din Legea nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu alta destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "184",
+  "bis": false,
+  "date": "1999-04-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.807/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 7 alin. 1 din Legea nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu alta destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat, republicată în Monitorul Oficial al României, Partea I, nr. 264 din 15 iulie 1998, excepţie ridicată de Societatea Comercială \"Hidroconstructia\" - S.A. - Sucursala Siriu în Dosarul nr. 1.807/1998 al Judecătoriei Patarlagele.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 61/1990",
+    "number": "61",
+    "year": "1990",
+    "path": "decret-lege/1990/61"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-04-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18019",
+  "text_sha256": "59f2f68a2a2b7afd93c22d2a9e2737cca908ae95b8f8eddff3618e8bfed5d05e",
+  "catalogue_sha256": "59f2f68a2a2b7afd93c22d2a9e2737cca908ae95b8f8eddff3618e8bfed5d05e",
+  "fetched": "2026-11-02T23:04:03Z",
+  "chars": 11109,
+  "portal_id": "18019",
+  "tip": "DECIZIE"
+ }
+}
