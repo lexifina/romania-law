@@ -1,0 +1,205 @@
+{
+ "key": "dcc-506-2004",
+ "label": "Decizia CCR nr. 506/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "506",
+ "date": "2004-11-16",
+ "year": "2004",
+ "heading": "DECIZIE nr. 506 din 16 noiembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 5 lit. c) din Ordonanţa de urgenţă a Guvernului nr. 16/2001 privind gestionarea deşeurilor industriale reciclabile",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "68",
+  "bis": false,
+  "date": "2005-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.880/2004",
+  "482D/2004",
+  "6.536/2004",
+  "495D/2004",
+  "6.093/2004",
+  "423D/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 16/2001",
+    "number": "16",
+    "year": "2001",
+    "path": "oug/2001/16"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 5 lit. c) din Ordonanţa de urgenţă a Guvernului nr. 16/2001 privind gestionarea deşeurilor industriale reciclabile, excepţie ridicată de Societatea Comercială \"Murava Import Export\" - S.R.L. din Cluj-Napoca în Dosarul nr. 5.880/2004 al Judecătoriei Cluj-Napoca, de Societatea Comercială \"Tipoholding\" - S.A. din Cluj-Napoca în Dosarul nr. 6.093/2004 al Judecătoriei Cluj-Napoca şi de Societatea Comercială \"GPV România Prodcom Service\" - S.R.L. din Cluj-Napoca în Dosarul nr. 6.536/2004 al Tribunalului Cluj - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 16/2001",
+    "number": "16",
+    "year": "2001",
+    "path": "oug/2001/16"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenţei nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58726",
+  "text_sha256": "377d4224a1462317f4fb2cb5dd5e36e3b411af0345443a3e1b01b4aae7330ea5",
+  "catalogue_sha256": "377d4224a1462317f4fb2cb5dd5e36e3b411af0345443a3e1b01b4aae7330ea5",
+  "fetched": "2026-11-02T23:52:17Z",
+  "chars": 21547,
+  "portal_id": "58726",
+  "tip": "DECIZIE"
+ }
+}
