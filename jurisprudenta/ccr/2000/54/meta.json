@@ -1,0 +1,330 @@
+{
+ "key": "dcc-54-2000",
+ "label": "Decizia CCR nr. 54/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "54",
+ "date": "2000-03-21",
+ "year": "2000",
+ "heading": "DECIZIE nr. 54 din 21 martie 2000",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 5 lit. e) din Ordonanța Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbție a acestei bănci cu Banca Comercială Română - S.A., modificată și completată",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "310",
+  "bis": false,
+  "date": "2000-07-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.014/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 39/1999",
+    "number": "39",
+    "year": "1999",
+    "path": "og/1999/39"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgenta a Guvernului nr. 126/1999",
+    "number": "126",
+    "year": "1999",
+    "path": "oug/1999/126"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 61/2000",
+    "number": "61",
+    "year": "2000",
+    "path": "og/2000/61"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată în Dosarul nr. 3.014/1999 al Curții de Apel București - Secția comercială, excepție ridicată de Giurgiu Teodor, Ofelia Carmen Alexandru, Viorica Ionica Carciga, Cornelia Maria Catuna, Viorela Chiliment, Fivi Florica Coman, Olga Dragomir, Carmen Mihaela Ene, Corneliu Alexandru Enea, Petra Lungu, Crasomila Eugenia Micu, Adrian Vasile Marcu, Vica Predoi, Tudora Paris, Mihaela Genoveva Sincu, Elena Mihaela Alexandru, Catalin Marian Bercea, Antonina Argentina Boldea, Dumitru Bughiu, Liea Burda, Constanta Croitoru, Eugen Petre Curtasu, Alina Yolanda Gradinaru, Grigore Gavrilovici, Georgeta Grasu, Radu Dumitru Ivanisin, Florica Mustatea, Claudia Elena Necsulescu, Maria Nicolescu, Clara Onea, Ecaterina Stefanoiu, Rodica Vlaicu, Irina Zamfirescu, Stancu Mavrodineanu, Florica Stoian, Liliana Ionescu, Ioana Mariuta, Mihail Valentin Patulea și Maria Caracota.",
+  "Constata ca sunt neconstituționale dispozițiile art. 5 lit. e) din Ordonanța Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbție a acestei bănci cu Banca Comercială Română - S.A., modificată și completată prin Ordonanța Guvernului nr. 63/1999, Ordonanța de urgenta a Guvernului nr. 126/1999 și prin Ordonanța Guvernului nr. 61/2000.",
+  "Definitivă și obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului și Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 39/1999",
+    "number": "39",
+    "year": "1999",
+    "path": "og/1999/39"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgenta a Guvernului nr. 98/1999",
+    "number": "98",
+    "year": "1999",
+    "path": "oug/1999/98"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 63/1999",
+    "number": "63",
+    "year": "1999",
+    "path": "og/1999/63"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgenta a Guvernului nr. 126/1999",
+    "number": "126",
+    "year": "1999",
+    "path": "oug/1999/126"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 61/2000",
+    "number": "61",
+    "year": "2000",
+    "path": "og/2000/61"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 212/1974",
+    "number": "212",
+    "year": "1974",
+    "path": "decret/1974/212"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-07-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23169",
+  "text_sha256": "1526214db8754668535b98e6347d073044d6a7bfb4642af23776ad264d573834",
+  "catalogue_sha256": "1526214db8754668535b98e6347d073044d6a7bfb4642af23776ad264d573834",
+  "fetched": "2026-11-02T23:09:20Z",
+  "chars": 25675,
+  "portal_id": "23169",
+  "tip": "DECIZIE"
+ }
+}
