@@ -1,0 +1,17 @@
+# DECIZIE Nr. 124 din 16 noiembrie 1994
+referitoare la excepţia de neconstituţionalitate a prevederilor art. 224 din Codul penal
+Notă
+*) Definitivă prin nerecurare
+Victor Dan Zlatescu - preşedinte Miklos Fazakas - judecător Ion Filipescu - judecător Gabriela Dragomirescu - magistrat-asistent Completul de judecată, convocat potrivit art. 24 alin. (2) din Legea nr. 47/1992, constata următoarele:
+Prin Încheierea din 26 iulie 1994, pronunţată de Tribunalul Maramures în Dosarul nr. 1420/1994, Curtea Constituţională a fost sesizată cu soluţionarea excepţiei de neconstituţionalitate a prevederilor art. 224 din Codul penal, invocată de inculpatii Mihnea Petru, Bosca Petru şi Petrovai Ioan. În susţinerea excepţiei se arata ca dispoziţiile art. 224 din Codul penal au fost implicit abrogate prin art. 150 alin. (1) din Constituţie.
+Instanţa de judecată, exprimindu-şi opinia, îşi însuşeşte acest punct de vedere şi apreciază ca, în prezent, prevederile art. 224 din Codul penal au rămas fără obiect, dar nu înţelege sa statueze aceasta prin dispozitivul încheierii, ci sa sesizeze Curtea Constituţională cu soluţionarea excepţiei.
+CURTEA CONSTITUŢIONALĂ, având în vedere încheierea de sesizare, raportul întocmit de judecătorul-raportor, dispoziţiile art. 144 lit. c) din Constituţie şi ale art. 24 din Legea nr. 47/1992, retine:
+Curtea Constituţională a mai fost sesizată cu excepţia de neconstituţionalitate a art. 224 din Codul penal, pe care a soluţionat-o, şi a constatat ca aceasta dispoziţie legală este abrogată parţial potrivit art. 150 alin. (1) din Constituţie şi, în consecinţa, urmează să se aplice numai cu privire la bunurile prevăzute de art. 135 alin. (4) din legea fundamentală, bunuri ce formează obiectul exclusiv al proprietăţii publice. Aceasta soluţie este definitivă şi obligatorie potrivit art. 145 alin. (2) din Constituţie, deoarece prin Decizia nr. 63 din 4 noiembrie 1993 a fost respins recursul declarat de Ministerul Public împotriva Deciziei nr. 33 din 26 mai 1993 prin care Curtea Constituţională se pronunţase în sensul arătat.
+Asa fiind, textul anterior Constituţiei constatat ca abrogat, deoarece, potrivit art. 150 alin. (1) din Constituţie, este contrar acesteia, nu mai poate fi aplicat, este scos din legislaţie. Orice alta excepţie care ar avea ca obiect textul constatat ca abrogat urmează a fi respinsă ca vadit nefondata în cazul în care, pentru acelaşi motiv de fond, excepţia a fost, potrivit art. 24 alin. (2) din Legea nr. 47/1992, rezolvată fără citarea părţilor.
+În speta, inculpatii Mihnea Petru, Bosca Petru şi Petrovai Ioan au invocat excepţia de neconstituţionalitate a art. 224 din Codul penal la data de 26 iulie 1994, deci la o dată la care prevederile acestui articol erau definitiv şi obligatoriu abrogate parţial, şi, pe cale de consecinţa, Curtea Constituţională retine ca excepţia este vadit nefondata în sensul art. 24 alin. (2) din Legea nr. 47/1992, fiind lipsită de obiect.
+Ca atare, în temeiul art. 144 lit. c) din Constituţie, al art. 13 alin. (1) lit. A.c), al art. 24 şi al art. 25 din Legea nr. 47/1992, în unanimitate,
+CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge ca vadit nefondata, fiind lipsită de obiect, excepţia de neconstituţionalitate a prevederilor art. 224 din Codul penal, invocată de Mihnea Petru, Bosca Petru şi Petrovai Ioan în Dosarul nr. 1420/1994 al Tribunalului Maramures.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată în şedinţa din 16 noiembrie 1994.
+PREŞEDINTE, Victor Dan Zlatescu Magistrat-asistent, Gabriela Dragomirescu --------------------
