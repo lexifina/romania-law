@@ -1,0 +1,215 @@
+{
+ "key": "dcc-1-2002",
+ "label": "Decizia CCR nr. 1/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1",
+ "date": "2002-01-15",
+ "year": "2002",
+ "heading": "DECIZIE nr. 1 din 15 ianuarie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 59 din Ordonanţa Guvernului nr. 27/2000 privind regimul produselor supuse accizelor, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "144",
+  "bis": false,
+  "date": "2002-02-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.510/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2000",
+    "number": "27",
+    "year": "2000",
+    "path": "og/2000/27"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 59 din Ordonanţa Guvernului nr. 27/2000 privind regimul produselor supuse accizelor, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Comercială \"Carl Reh Winery\" - S.R.L. din Bucureşti în Dosarul nr. 2.510/2001 al Judecătoriei Sectorului 3 Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2000",
+    "number": "27",
+    "year": "2000",
+    "path": "og/2000/27"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 27/2000",
+    "number": "27",
+    "year": "2000",
+    "path": "oug/2000/27"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 134/2000",
+    "number": "134",
+    "year": "2000",
+    "path": "oug/2000/134"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 187/2000",
+    "number": "187",
+    "year": "2000",
+    "path": "oug/2000/187"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 252/2000",
+    "number": "252",
+    "year": "2000",
+    "path": "oug/2000/252"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 117/2001",
+    "number": "117",
+    "year": "2001",
+    "path": "oug/2001/117"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-02-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/34259",
+  "text_sha256": "70e58fa577635630c528e6063f82493d9054018b44605f1ce594a5688757cb7c",
+  "catalogue_sha256": "70e58fa577635630c528e6063f82493d9054018b44605f1ce594a5688757cb7c",
+  "fetched": "2026-11-02T23:19:27Z",
+  "chars": 8436,
+  "portal_id": "34259",
+  "tip": "DECIZIE"
+ }
+}
