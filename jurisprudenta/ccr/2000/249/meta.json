@@ -1,0 +1,352 @@
+{
+ "key": "dcc-249-2000",
+ "label": "Decizia CCR nr. 249/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "249",
+ "date": "2000-11-23",
+ "year": "2000",
+ "heading": "DECIZIE nr. 249 din 23 noiembrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (4) din Ordonanţa de urgenta a Guvernului nr. 198/1999 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri agricole sau terenuri aflate permanent sub luciu de apa",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "97",
+  "bis": false,
+  "date": "2001-02-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "351/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 198/1999",
+    "number": "198",
+    "year": "1999",
+    "path": "oug/1999/198"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 3 alin. 4 din Ordonanţa de urgenta a Guvernului nr. 198/1999 , excepţie ridicată de Societatea de Investiţii Financiare Banat-Crisana în Dosarul nr. 351/2000 al Tribunalului Arad - Secţia comercială şi de contencios administrativ.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 23 noiembrie 2000.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Mihai Paul Cotta  ──────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 198/1999",
+    "number": "198",
+    "year": "1999",
+    "path": "oug/1999/198"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 746/1991",
+    "number": "746",
+    "year": "1991",
+    "path": "hg/1991/746"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "202",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 16/1994",
+    "number": "16",
+    "year": "1994",
+    "path": "lege/1994/16"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privatizării societăţilor comerciale nr. 58/1991",
+    "number": "58",
+    "year": "1991",
+    "path": "lege/1991/58"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/1990",
+    "number": "9",
+    "year": "1990",
+    "path": "lege/1990/9"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1995",
+    "number": "58",
+    "year": "1995",
+    "path": "lege/1995/58"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 65/1998",
+    "number": "65",
+    "year": "1998",
+    "path": "lege/1998/65"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1998",
+    "number": "54",
+    "year": "1998",
+    "path": "lege/1998/54"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-02-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/26922",
+  "text_sha256": "eeec37607adfd1cd22ebb001faa775029b2834590a743d6347c8ef39d7bea70e",
+  "catalogue_sha256": "eeec37607adfd1cd22ebb001faa775029b2834590a743d6347c8ef39d7bea70e",
+  "fetched": "2026-11-02T23:12:57Z",
+  "chars": 15294,
+  "portal_id": "26922",
+  "tip": "DECIZIE"
+ }
+}
