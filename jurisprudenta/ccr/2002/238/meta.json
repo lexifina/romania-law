@@ -1,0 +1,166 @@
+{
+ "key": "dcc-238-2002",
+ "label": "Decizia CCR nr. 238/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "238",
+ "date": "2002-09-12",
+ "year": "2002",
+ "heading": "DECIZIE nr. 238 din 12 septembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 66 alin. 3 din Legea nr. 64/1991 privind brevetele de invenţii, modificată prin Legea nr. 203/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "778",
+  "bis": false,
+  "date": "2002-10-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.341/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1991",
+    "number": "64",
+    "year": "1991",
+    "path": "lege/1991/64"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 66 alin. 3 din Legea nr. 64/1991, excepţie ridicată de Societatea Comercială \"Chimcomplex\" - S.A. Borzesti în Dosarul nr. 1.341/2001 al Curţii Supreme de Justiţie - Secţia civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1991",
+    "number": "64",
+    "year": "1991",
+    "path": "lege/1991/64"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-10-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/39357",
+  "text_sha256": "3c1413fe201b0376f857fb61628fd72e580122224c1452d4792e7827fc006256",
+  "catalogue_sha256": "3c1413fe201b0376f857fb61628fd72e580122224c1452d4792e7827fc006256",
+  "fetched": "2026-11-02T23:24:29Z",
+  "chars": 11403,
+  "portal_id": "39357",
+  "tip": "DECIZIE"
+ }
+}
