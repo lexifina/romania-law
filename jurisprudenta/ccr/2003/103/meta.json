@@ -1,0 +1,172 @@
+{
+ "key": "dcc-103-2003",
+ "label": "Decizia CCR nr. 103/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "103",
+ "date": "2003-03-11",
+ "year": "2003",
+ "heading": "DECIZIE nr. 103 din 11 martie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor pct. 3 şi 21 din anexa nr. 1 la Ordonanţa Guvernului nr. 44/1997, aprobată cu modificări şi completări prin Legea nr. 105/2000, şi a dispoziţiilor art. 4 lit. d) din Ordonanţa Guvernului nr. 86/2001, aprobată cu modificări şi completări prin Legea nr. 284/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "213",
+  "bis": false,
+  "date": "2003-04-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.775/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 44/1997",
+    "number": "44",
+    "year": "1997",
+    "path": "og/1997/44"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 86/2001",
+    "number": "86",
+    "year": "2001",
+    "path": "og/2001/86"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor pct. 3 şi 21 din anexa nr. 1 la Ordonanţa Guvernului nr. 44/1997, aprobată cu modificări şi completări prin Legea nr. 105/2000, şi a dispoziţiilor art. 4 lit. d) din Ordonanţa Guvernului nr. 86/2001, aprobată cu modificări şi completări prin Legea nr. 284/2002, excepţie ridicată de Societatea Comercială \"INTER STAR\" - S.R.L. din Alba Iulia în Dosarul nr. 3.775/2002 al Tribunalului Alba - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 44/1997",
+    "number": "44",
+    "year": "1997",
+    "path": "og/1997/44"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 86/2001",
+    "number": "86",
+    "year": "2001",
+    "path": "og/2001/86"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-04-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/42731",
+  "text_sha256": "ec4fb04aa11ccb75ecd15740ee911770241b17f06a8450e16f443f5017115b58",
+  "catalogue_sha256": "ec4fb04aa11ccb75ecd15740ee911770241b17f06a8450e16f443f5017115b58",
+  "fetched": "2026-11-02T23:27:55Z",
+  "chars": 12460,
+  "portal_id": "42731",
+  "tip": "DECIZIE"
+ }
+}
