@@ -1,0 +1,183 @@
+{
+ "key": "dcc-66-1999",
+ "label": "Decizia CCR nr. 66/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "66",
+ "date": "1999-04-27",
+ "year": "1999",
+ "heading": "DECIZIE nr. 66 din 27 aprilie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 111 alin. (2) şi (3) din Legea administraţiei publice locale nr. 69/1991, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "308",
+  "bis": false,
+  "date": "1999-06-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 111 alin. (2) şi (3) din Legea administraţiei publice locale nr. 69/1991, republicată, ridicată de Prefectura Judeţului Constanta în Dosarul nr. 1.676/CA/1998 al Curţii de Apel Constanta.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "122",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/1996",
+    "number": "24",
+    "year": "1996",
+    "path": "lege/1996/24"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-06-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18601",
+  "text_sha256": "b9e9421b785ab45ddaedc0acc3b3887e1252570c71786984045a3bda7eef3ba4",
+  "catalogue_sha256": "b9e9421b785ab45ddaedc0acc3b3887e1252570c71786984045a3bda7eef3ba4",
+  "fetched": "2026-11-02T23:04:22Z",
+  "chars": 13882,
+  "portal_id": "18601",
+  "tip": "DECIZIE"
+ }
+}
