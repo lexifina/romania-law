@@ -1,0 +1,139 @@
+{
+ "key": "dcc-54-1998",
+ "label": "Decizia CCR nr. 54/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "54",
+ "date": "1998-03-19",
+ "year": "1998",
+ "heading": "DECIZIE nr. 54 din 19 martie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 52 alin. (2) din Legea nr. 69/1991 privind administraţia publică locală, republicată, astfel cum a fost modificată şi completată prin Ordonanţa de urgenta a Guvernului nr. 22/1997",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "182",
+  "bis": false,
+  "date": "1998-05-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.447/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 52 alin. (2) din Legea nr. 69/1991, republicată, astfel cum a fost modificată şi completată prin Ordonanţa de urgenta a Guvernului nr. 22 din 26 mai 1997, invocată de Primăria municipiului Braşov în Dosarul nr. 5.447/1997 al Curţii de Apel Ploiesti - Secţia de contencios administrativ şi comercial.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14728",
+  "text_sha256": "8534bb97660278adc29cedb403ee939dd38f4cc9ceb778672597120a24187d7b",
+  "catalogue_sha256": "8534bb97660278adc29cedb403ee939dd38f4cc9ceb778672597120a24187d7b",
+  "fetched": "2026-11-02T23:00:23Z",
+  "chars": 8791,
+  "portal_id": "14728",
+  "tip": "DECIZIE"
+ }
+}
