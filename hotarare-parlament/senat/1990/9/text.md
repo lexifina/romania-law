@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 9 din 18 iunie 1990  privind instituirea unei comisii de redactare a proiectului de regulament al Senatului     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 85-86 din 20 iunie 1990     Senatul României hotărăşte:
+				 +
+			  Articolul UNIC     Se instituie o comisie de redactare a proiectului de regulament al Senatului, avînd urmatoarele componenta:  1. Ion Coteanu - Grupul parlamentar al Frontului Salvarii Naţionale  2. Paul Jerbas - Grupul Parlamentar al Frontului Salvarii Naţionale  3. Ioan-Gheorghe Popa - Grupul parlamentar al Frontului Salvarii Naţionale  4. Ion Predescu - Grupul parlamentar al Frontului Salvarii Naţionale  5. Ionel Sandulescu - Grupul parlamentar al Partidului Naţional Liberal  6. Zoltan Hosszu - Grupul parlamentar al Uniunii Democrate Maghiare  din România  7. Antonie Iorgovan - Independent  PREŞEDINTELE SENATULUI  academician ALEXANDRU BARLADEANU  Bucureşti, 18 iunie 1990.  Nr. 9.  ----------------
