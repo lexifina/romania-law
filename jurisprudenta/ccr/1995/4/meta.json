@@ -1,0 +1,186 @@
+{
+ "key": "dcc-4-1995",
+ "label": "Decizia CCR nr. 4/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "4",
+ "date": "1995-01-12",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 4 din 12 ianuarie 1995",
+ "subtitle": "asupra excepţiei de neconstituţionalitate a dispoziţiilor art. 3 şi ale art. 6 din Legea nr. 5/1973, în Dosarul nr. 9.203/1993 al Judecătoriei Braşov",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "105",
+  "bis": false,
+  "date": "1995-05-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.203/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Constata ca dispoziţiile art. 3 şi ale art. 6 din Legea nr. 5/1973 sunt constituţionale. 2. Respinge excepţia de neconstituţionalitate invocată de Cosma Nicolae şi Cosma Maria în Dosarul nr. 9.203/1993 al Judecătoriei Braşov.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/5664",
+  "text_sha256": "673f834e91fd57059b269a3b1f0a2d945121f8364d03299bfc9020a5fd68e906",
+  "catalogue_sha256": "673f834e91fd57059b269a3b1f0a2d945121f8364d03299bfc9020a5fd68e906",
+  "fetched": "2026-11-02T22:47:58Z",
+  "chars": 8607,
+  "portal_id": "5664",
+  "tip": "DECIZIE"
+ }
+}
