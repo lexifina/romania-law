@@ -1,0 +1,152 @@
+{
+ "key": "dcc-18-1996",
+ "label": "Decizia CCR nr. 18/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "18",
+ "date": "1996-02-27",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 18 din 27 februarie 1996",
+ "subtitle": "privind pronunţarea asupra recursului declarat de Societatea Comercială \"Tehnocin\" - S.A. Oneşti împotriva Deciziei nr. 89, pronunţată la data de 4 octombrie 1995 de Curtea Constituţională",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "70",
+  "bis": false,
+  "date": "1996-04-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "2.569/1994",
+  "643/1994",
+  "1.671/1994",
+  "2.107/1994",
+  "5.578/1994"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Societatea Comercială \"Tehnocin\" - S.A. Onesti împotriva Deciziei nr. 89 pronunţată la data de 4 octombrie 1995 de Curtea Constituţională.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1992",
+    "number": "76",
+    "year": "1992",
+    "path": "lege/1992/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-04-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/7977",
+  "text_sha256": "8864f077450a3edbea6b8058e89b4452b5a5c1ce18be395d0ac4ecac7eb99c36",
+  "catalogue_sha256": "8864f077450a3edbea6b8058e89b4452b5a5c1ce18be395d0ac4ecac7eb99c36",
+  "fetched": "2026-11-02T22:50:22Z",
+  "chars": 7865,
+  "portal_id": "7977",
+  "tip": "DECIZIE"
+ }
+}
