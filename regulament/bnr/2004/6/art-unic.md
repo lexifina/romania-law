@@ -1,0 +1,14 @@
+# Articolul unic
+Regulamentul Băncii Naționale a României nr. 8/1996 privind regimul de decontare specială și autorizare a caselor de compensații interbancare, republicat în Monitorul Oficial al României, Partea I, nr. 127 din 20 iunie 1997, se modifică și se completează după cum urmează:
+1. La articolul 14, punctul 14.3 va avea următorul cuprins:
+"14.3. - Banca Națională a României, în funcție de condițiile concrete ale pieței, poate dispune societăților bancare participante să constituie garanții sub forma titlurilor de stat și/sau a depozitelor interbancare în lei și/sau a certificatelor de depozit emise de Banca Națională a României, în sume mai mici sau mai mari decât limitele lor maxime de expunere calculate de administrator în baza Raportării pentru stabilirea referințelor în aplicarea procedurilor de garantare (anexa nr. 5)."
+2. La articolul 15 punctul 15.2 alineatul 2, litera a) va avea următorul cuprins:
+"Fiecare societate bancară este obligată:
+a) să constituie la administrator garanții, sub formă de titluri de stat, având la data constituirii o valoare acceptată de Banca Națională a României cel puțin egală cu cea a plafonului tehnic de garantare unilaterală;".
+3. La articolul 15 punctul 15.2 alineatul 2, după litera b) se introduce litera c), cu următorul cuprins:
+"și/sau
+c) să constituie la administrator garanții, sub formă de certificate de depozit emise de către Banca Națională a României, având la data constituirii o valoare acceptată de Banca Națională a României cel puțin egală cu cea a plafonului tehnic de garantare unilaterală."
+4. La articolul 15 punctul 15.2, alineatul 3 va avea următorul cuprins:
+"În cazul în care o societate bancară participantă, aflată în poziție debitoare față de casa de compensații interbancare sau față de titularul de cont special, nu dispune de suficiente disponibilități bănești în contul său curent deschis la Banca Națională a României pentru acoperirea acestei poziții în momentul decontării speciale, garanțiile prevăzute la pct. 15.2 alin. 2 lit. a), b) și c) de mai sus vor fi executate și transferate automat în proprietatea Băncii Naționale a României, cu data extrasului de cont al zilei respective de plăți, în baza contractului încheiat cu societatea bancară participantă și în conformitate cu reglementările Băncii Naționale a României în vigoare referitoare la garanții."
+5. La articolul 15 punctul 15.2, alineatul 4 va avea următorul cuprins:
+"În situația în care, la finalul aceleiași zile de plăți, societatea bancară participantă dispune de suficiente disponibilități bănești în contul său curent, garanțiile, sub forma titlurilor de stat și/sau a certificatelor de depozit emise de Banca Națională a României și executate conform alineatului precedent, vor fi transferate automat de către administrator în proprietatea respectivei societăți bancare participante, cu evidențierea operațiunilor în extrasul de cont al acesteia."
