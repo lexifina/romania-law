@@ -1,0 +1,216 @@
+{
+ "key": "dcc-718-1997",
+ "label": "Decizia CCR nr. 718/1997",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "718",
+ "date": "1997-12-29",
+ "year": "1997",
+ "heading": "DECIZIE nr. 718 din 29 decembrie 1997",
+ "subtitle": "referitoare la constituţionalitatea unor prevederi ale Legii privind abilitarea Guvernului de a emite ordonanţe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "396",
+  "bis": false,
+  "date": "1997-12-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "580A/1997",
+  "581A/1997"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constata ca prevederile Legii privind abilitarea Guvernului de a emite ordonanţe, adoptată de Camera Deputaţilor în şedinţa din 16 decembrie 1997 şi de Senat în şedinţa din 18 decembrie 1997, ce fac obiectul sesizarilor înaintate Curţii Constituţionale, sunt constituţionale.",
+  "Decizia se comunică Preşedintelui României."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "i",
+      "l",
+      "k",
+      "m",
+      "j"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "a",
+      "e",
+      "m",
+      "p",
+      "b",
+      "h"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1993",
+    "number": "59",
+    "year": "1993",
+    "path": "lege/1993/59"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 65/1993",
+    "number": "65",
+    "year": "1993",
+    "path": "lege/1993/65"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-12-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13528",
+  "text_sha256": "0a7187538f868962919c9818625af88f9f41bbb5b1cbf39fd45a17d3cc80ac2a",
+  "catalogue_sha256": "0a7187538f868962919c9818625af88f9f41bbb5b1cbf39fd45a17d3cc80ac2a",
+  "fetched": "2026-11-02T22:57:29Z",
+  "chars": 38198,
+  "portal_id": "13528",
+  "tip": "DECIZIE"
+ }
+}
