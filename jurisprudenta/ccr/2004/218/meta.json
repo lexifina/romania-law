@@ -1,0 +1,172 @@
+{
+ "key": "dcc-218-2004",
+ "label": "Decizia CCR nr. 218/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "218",
+ "date": "2004-05-06",
+ "year": "2004",
+ "heading": "DECIZIE nr. 218 din 6 mai 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 19 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 102/1999 privind protecţia specială şi încadrarea în muncă a persoanelor cu handicap",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "509",
+  "bis": false,
+  "date": "2004-06-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "14.063/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 102/1999",
+    "number": "102",
+    "year": "1999",
+    "path": "oug/1999/102"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 19 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 102/1999 privind protecţia specială şi încadrarea în muncă a persoanelor cu handicap, excepţie ridicată de Laurenţiu Gică Ciofu în Dosarul nr. 14.063/2003 al Judecătoriei Iaşi.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 102/1999",
+    "number": "102",
+    "year": "1999",
+    "path": "oug/1999/102"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52520",
+  "text_sha256": "21e13bf9980e14b68584c70a64905ba0298ab0969111545d918d70568c4206c6",
+  "catalogue_sha256": "21e13bf9980e14b68584c70a64905ba0298ab0969111545d918d70568c4206c6",
+  "fetched": "2026-11-02T23:37:27Z",
+  "chars": 9207,
+  "portal_id": "52520",
+  "tip": "DECIZIE"
+ }
+}
