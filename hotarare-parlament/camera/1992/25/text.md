@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 25 din 23 aprilie 1992  privind demisia unor deputaţi     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 80 din 30 aprilie 1992     În temeiul art. 67 alin. (2) şi art. 68 alin. (2) din Constituţia României, precum şi al art. 166 din Regulamentul Camerei Deputaţilor,  Camera Deputaţilor hotărăşte:
+				 +
+			  Articolul UNIC     Camera Deputaţilor ia act de cererile de demisie prezentate de domnii Fleşer Petru, deputat în Circumscripţia electorală nr. 1 Alba, aparţinînd Grupului parlamentar al Frontului Salvării Naţionale, şi Amihăiesei Ioan, deputat în Circumscripţia electorală nr. 24 Iaşi, aparţinînd Grupului parlamentar al Frontului Salvării Naţionale, şi declară vacante locurile de deputaţi deţinute de aceştia.  PREŞEDINTELE CAMEREI DEPUTAŢILOR  MARŢIAN DAN  Bucureşti, 23 aprilie 1992.  Nr. 25.  ----------
