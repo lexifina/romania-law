@@ -1,0 +1,147 @@
+{
+ "key": "dcc-52-1999",
+ "label": "Decizia CCR nr. 52/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "52",
+ "date": "1999-04-08",
+ "year": "1999",
+ "heading": "DECIZIE nr. 52 din 8 aprilie 1999",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 36 alin. 1 din Decretul nr. 328/1966 privind circulaţia pe drumurile publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "262",
+  "bis": false,
+  "date": "1999-06-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.838/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a Decretului nr. 328/1966 privind circulaţia pe drumurile publice, excepţie ridicată de Simion-Claudiu Vraja în Dosarul nr. 1.838/1998 al Curţii de Apel Targu Mures - Secţia penală.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 14/1966",
+    "number": "14",
+    "year": "1966",
+    "path": "lege/1966/14"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-06-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18376",
+  "text_sha256": "786e4431af5e77c479d5c1828c31b02a58d65987aabc0034cca516eb5190eb0c",
+  "catalogue_sha256": "786e4431af5e77c479d5c1828c31b02a58d65987aabc0034cca516eb5190eb0c",
+  "fetched": "2026-11-02T23:04:05Z",
+  "chars": 9882,
+  "portal_id": "18376",
+  "tip": "DECIZIE"
+ }
+}
