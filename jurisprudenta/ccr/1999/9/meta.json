@@ -1,0 +1,183 @@
+{
+ "key": "dcc-9-1999",
+ "label": "Decizia CCR nr. 9/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "9",
+ "date": "1999-02-09",
+ "year": "1999",
+ "heading": "DECIZIE nr. 9 din 9 februarie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 9 din Ordonanţa Guvernului nr. 22/1996 privind actualizarea şi completarea regimului general al contabilităţii, prin care a fost modificat art. 39 alin. (1) din Legea contabilităţii nr. 82/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "112",
+  "bis": false,
+  "date": "1999-03-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.959/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 22/1996",
+    "number": "22",
+    "year": "1996",
+    "path": "og/1996/22"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contabilităţii nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 9 din Ordonanţa Guvernului nr. 22/1996 privind actualizarea şi completarea regimului general al contabilităţii, prin care a fost modificat art. 39 alin. (1) din Legea contabilităţii nr. 82/1991, ridicată de Societatea Comercială \"Inter-Spitzen\" - S.R.L. din Lugoj în Dosarul nr. 3.959/1997 al Judecătoriei Lugoj.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 22/1996",
+    "number": "22",
+    "year": "1996",
+    "path": "og/1996/22"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contabilităţii nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-03-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/17183",
+  "text_sha256": "9a422f72d687c3a382c1fcb7b7e665ecffef4cc636c767a414df8c8782a703c5",
+  "catalogue_sha256": "9a422f72d687c3a382c1fcb7b7e665ecffef4cc636c767a414df8c8782a703c5",
+  "fetched": "2026-11-02T23:03:12Z",
+  "chars": 9037,
+  "portal_id": "17183",
+  "tip": "DECIZIE"
+ }
+}
