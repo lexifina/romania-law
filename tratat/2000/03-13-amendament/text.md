@@ -1,0 +1,4 @@
+ AMENDAMENTE din 13 martie 2000  la anexa la Protocolul din 1978 referitor la Convenția internațională din 1973 pentru prevenirea poluării de către nave, adoptate de Organizația Maritimă Internațională prin Rezoluția Comitetului pentru Protecția Mediului Marin - MEPC.84(44) la Londra la 13 martie 2000*)     EMITENT     ACT INTERNAȚIONAL       Publicate în
+			  MONITORUL OFICIAL nr. 517 din 30 august 2001
+						Notă   ...
+			    Acceptate prin  ORDONANȚA nr. 38 din 16 august 2001 , publicată în Monitorul Oficial al României, Partea I, nr. 517 din 30 august 2001.    *) Traducere.   Amendamente la apendicele la anexa nr. III la MARPOL 73/78   Din apendicele la anexa nr. III la MARPOL 73/78 se elimină criteriul: "- susceptibile de a altera hrana de origine marină [gradul de risc "T" în coloana A*)]; sau".   -----
