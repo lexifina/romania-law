@@ -1,0 +1,155 @@
+{
+ "key": "dcc-61-1995",
+ "label": "Decizia CCR nr. 61/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "61",
+ "date": "1995-06-13",
+ "year": "1995",
+ "heading": "DECIZIE*) Nr. 61 din 13 iunie 1995",
+ "subtitle": "privind excepţiile de neconstituţionalitate a prevederilor Decretului Consiliului de Stat nr. 151/1975 şi ale Legii nr. 8/1971",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "210",
+  "bis": false,
+  "date": "1995-09-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "81C/1995",
+  "82C/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 8/1971",
+    "number": "8",
+    "year": "1971",
+    "path": "lege/1971/8"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondate excepţiile de neconstituţionalitate a prevederilor Decretului Consiliului de Stat nr. 151/1975 şi ale Legii nr. 8/1971, invocate de Marin Tudor în dosarele nr. 69/1994 şi nr. 70/1994 ale Colegiului jurisdicţional al Camerei de Conturi a Judeţului Calarasi, Curtea Constituţională nefiind legal sesizată.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 8/1971",
+    "number": "8",
+    "year": "1971",
+    "path": "lege/1971/8"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1993",
+    "number": "54",
+    "year": "1993",
+    "path": "lege/1993/54"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-09-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6073",
+  "text_sha256": "f7a50302965ff041c0c7d40a8de01e9f6b0e3207c0395691232e8e676fdf2fe6",
+  "catalogue_sha256": "f7a50302965ff041c0c7d40a8de01e9f6b0e3207c0395691232e8e676fdf2fe6",
+  "fetched": "2026-11-02T22:48:55Z",
+  "chars": 4954,
+  "portal_id": "6073",
+  "tip": "DECIZIE"
+ }
+}
