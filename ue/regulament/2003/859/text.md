@@ -1,0 +1,60 @@
+05/Volumul 06 | RO | Jurnalul Ofícial al Uniunii Europene | 186
+32003R0859
+L 124/1 | JURNALUL OFÍCIAL AL UNIUNII EUROPENE |
+REGULAMENTUL (CE) NR. 859/2003 AL CONSILIULUI
+din 14 mai 2003
+de extindere a dispozițiilor Regulamentului (CEE) nr. 1408/71 și Regulamentului (CEE) nr. 574/72 la resortisanții unor țări terțe care nu fac obiectul dispozițiilor respective exclusiv pe motive de cetățenie
+CONSILIUL UNIUNII EUROPENE,
+având în vedere Tratatul de instituire a Comunității Europene și, în special, articolul 63 punctul 4 al acestuia,
+având în vedere propunerea Comisiei(1),
+având în vedere avizul Parlamentului European(2),
+întrucât:
+(1) La reuniunea sa extraordinară de la Tampere din 15 și 16 octombrie 1999, Consiliul European a declarat că Uniunea Europeană trebuie să acorde un tratament echitabil resortisanților din terțe țări care sunt rezidenți legali pe teritoriul statelor membre, să le acorde drepturi și obligații comparabile cu cele ale cetățenilor Uniunii Europene, să favorizeze nediscriminarea în viața economică, socială și culturală și să le armonizeze statutul juridic cu cel al resortisanților statelor membre.
+(2) În Rezoluția sa din 27 octombrie 1999(3), Parlamentul European a insistat asupra unei concretizări rapide a promisiunilor de tratament echitabil pentru resortisanții unor terțe țări care sunt rezidenți legali pe teritoriul statelor membre și asupra definirii statutului lor juridic, inclusiv drepturi uniforme cât mai apropiate de cele de care se bucură cetățenii Uniunii Europene.
+(3) Comitetul Economic și Social European a lansat, de asemenea, un apel pentru realizarea egalității de tratament în domeniul social între resortisanții comunitari și cei din terțe țări, în special prin avizul său din 26 septembrie 1991 privind statutul lucrătorilor migranți din țări terțe(4).
+(4) Articolul 6 alineatul (2) din Tratatul privind Uniunea Europeană prevede că Uniunea respectă drepturile fundamentale, astfel cum sunt garantate prin Convenția europeană pentru apărarea drepturilor omului și a libertăților fundamentale, semnată la Roma la 4 noiembrie 1950, și astfel cum rezultă acestea din tradițiile constituționale comune ale statelor membre, ca principii generale ale dreptului comunitar.
+(5) Prezentul regulament respectă drepturile fundamentale și principiile recunoscute îndeosebi de Carta drepturilor fundamentale a Uniunii Europene și, în special, spiritul articolului 34 alineatul (2) din aceasta.
+(6) Promovarea unui nivel înalt de protecție socială și creșterea standardului de viață și a calității vieții în statele membre reprezintă obiective ale Comunității.
+(7) În ceea ce privește condițiile protecției sociale ale resortisanților din terțe țări, în special regimul de securitate socială aplicabil acestora, Consiliul pentru ocuparea forței de muncă și politică socială a considerat, în concluziile sale din 3 decembrie 2001, că pe baza coordonării aplicabile resortisanților din terțe țări, acestora trebuie să li se acorde o serie de drepturi uniforme cât mai apropiate de cele de care se bucură cetățenii Uniunii Europene.
+(8) În prezent, Regulamentul (CEE) nr. 1408/71 al Consiliului din 14 iunie 1971 privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați și cu familiile acestora care se deplasează în cadrul Comunității(5), care reprezintă baza pentru coordonarea regimurilor de securitate socială din diferite state membre, și Regulamentul (CEE) nr. 574/72 al Consiliului din 21 martie 1972 de stabilire a normelor de punere în aplicare a Regulamentului (CEE) nr. 1408/71(6) se aplică numai anumitor resortisanți din terțe țări. Numărul și diversitatea instrumentelor juridice folosite în efortul de a rezolva problemele legate de coordonarea regimurilor de securitate socială ale statelor membre cu care se pot confrunta resortisanții unor terțe țări în aceeași situație ca și resortisanții Comunității reprezintă sursa unor complicații juridice și administrative; acestea creează dificultăți majore pentru persoanele în cauză, pentru angajatorii acestora și pentru organismele naționale de securitate socială competente.
+(9) Este, prin urmare, necesar să se prevadă aplicarea unor reguli de coordonare a Regulamentului (CEE) nr. 1408/71 și a Regulamentului (CEE) 574/72 pentru resortisanții unor terțe țări care se află în mod legal pe teritoriul Comunității și care, în prezent, nu fac obiectul dispozițiilor acestor regulamente pe motive de cetățenie și care îndeplinesc celelalte condiții prevăzute în prezentul regulament; această extindere este importantă, în special în perspectiva viitoarei extinderi a Uniunii Europene.
+(10) Aplicarea Regulamentului (CEE) nr. 1408/71 și a Regulamentului (CEE) nr. 574/72 în ceea ce privește persoanele vizate nu conferă acestora nici un drept de intrare, ședere sau reședință ori de acces la piața forței de muncă pe teritoriul unui stat membru.
+(11) În temeiul prezentului regulament, dispozițiile Regulamentului (CEE) nr. 1408/71 și ale Regulamentului (CEE) nr. 574/72 sunt aplicabile numai în măsura în care persoana în cauză este rezident legal pe teritoriul unui stat membru. A fi rezident legal reprezintă așadar o condiție prealabilă pentru aplicarea acestor dispoziții.
+(12) Dispozițiile Regulamentului (CEE) nr. 1408/71 și ale Regulamentului (CEE) nr. 574/72 nu sunt aplicabile într-o situație limitată din toate punctele de vedere la teritoriul unui singur stat membru. Aceasta se referă în special la situația unui resortisant dintr-o țară terță care are legături doar cu o terță țară și un singur stat membru.
+(13) Menținerea dreptului la ajutor de șomaj, astfel cum este prevăzut la articolul 69 din Regulamentul (CEE) nr. 1408/71, este condiționată de înregistrarea persoanei în cauză ca solicitant de loc de muncă la serviciile de ocupare a forței de muncă din fiecare stat membru în care merge. În acest caz, respectivele dispoziții se pot aplica unui resortisant dintr-o terță țară numai în cazul în care acesta are dreptul, dacă este cazul, în temeiul permisului său de ședere, să se înscrie ca solicitant de loc de muncă la serviciile de ocupare a forței de muncă din fiecare stat membru în care merge și să lucreze acolo în mod legal.
+(14) Trebuie adoptate dispoziții tranzitorii pentru a proteja persoanele care fac obiectul prezentului regulament și trebuie să se ia măsuri pentru ca acestea să nu-și piardă drepturile ca rezultat al intrării în vigoare a acestuia.
+(15) Pentru a realiza aceste obiective, este necesar și adecvat să se extindă domeniul de aplicare a regulilor de coordonare a regimurilor naționale de securitate socială prin adoptarea unui instrument juridic comunitar care să fie obligatoriu și să se aplice direct în fiecare stat membru care participă la adoptarea prezentului regulament.
+(16) Prezentul regulament nu aduce atingere drepturilor și obligațiilor care rezultă din acordurile internaționale semnate cu state terțe și la care Comunitatea este parte și care permit generarea de avantaje în domeniul securității sociale.
+(17) Întrucât obiectivele acțiunii preconizate nu pot fi îndeplinite în mod suficient de către statele membre și, având în vedere dimensiunile sau efectele acțiunii preconizate, pot fi îndeplinite mai bine la nivelul Comunității, aceasta poate lua măsuri în conformitate cu principiul subsidiarității enunțat la articolul 5 din tratat. În conformitate cu principiul proporționalității enunțat în respectivul articol, prezentul regulament nu poate depăși ceea ce este necesar pentru îndeplinirea acestor obiective.
+(18) În conformitate cu articolul 3 din Protocolul privind poziția Regatului Unit și a Irlandei, anexat la Tratatul privind Uniunea Europeană și la Tratatul de instituire a Comunității Europene, Irlanda și Regatul Unit au notificat, prin scrisorile din 19 și 23 aprilie 2002, dorința lor de a participa la adoptarea și aplicarea prezentului regulament.
+(19) În conformitate cu articolele 1 și 2 din Protocolul privind poziția Danemarcei, anexat la Tratatul privind Uniunea Europeană și la Tratatul de instituire a Comunității Europene, Danemarca nu participă la adoptarea prezentului regulament, nu este obligată de acesta și nici nu face obiectul aplicării sale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Sub rezerva dispozițiilor anexei la prezentul regulament, dispozițiile Regulamentului (CEE) nr.1408/71 și ale Regulamentului (CEE) nr. 574/72 se aplică resortisanților țărilor terțe care nu fac obiectul dispozițiilor respective exclusiv pe motive de cetățenie, precum și membrilor familiilor acestora și urmașilor lor, cu condiția să fie rezidenți în mod legal pe teritoriul unui stat membru și să fie într-o situație care nu este limitată din toate punctele de vedere la un singur stat membru.
+Articolul 2
+(1) Prezentul regulament nu creează vreun drept pentru perioada anterioară datei de 1 iunie 2003.
+(2) Orice perioadă de asigurare și, dacă este cazul, orice perioadă de încadrare în muncă, activitate independentă sau reședință, încheiată în temeiul legislației unui stat membru înainte de 1 iunie 2003 se ia în considerare pentru determinarea drepturilor dobândite în conformitate cu dispozițiile prezentului regulament.
+(3) Sub rezerva dispozițiilor alineatului (1), un drept se dobândește în temeiul prezentului regulament chiar dacă data producerii riscului este anterioară datei de 1 iunie 2003.
+(4) Orice prestație care nu a fost acordată sau a fost suspendată pe motiv de cetățenie sau reședință se acordă sau se restabilește, la solicitarea persoanei în cauză, de la 1 iunie 2003, cu condiția ca drepturile în baza cărora au fost acordate anterior prestații să nu fi dat naștere la plata unor sume forfetare.
+(5) Drepturile persoanelor în cauză care, înainte de 1 iunie 2003, au obținut acordarea unei pensii sau a unei rente pot face obiectul unei revizuiri, la solicitarea acestora, avându-se în vedere dispozițiile prezentului regulament.
+(6) Dacă solicitarea prevăzută la alineatul (4) sau (5) este prezentată în termen de doi ani de la 1 iunie 2003, drepturile care decurg din prezentul regulament se dobândesc de la această dată, fără ca dispozițiile legislației oricărui stat membru cu privire la decăderea din drepturi sau prescrierea drepturilor să poată fi opozabile persoanelor interesate.
+(7) Dacă solicitarea prevăzută la alineatul (4) sau (5) este prezentată după expirarea termenului la care se face referire la alineatul (6), drepturile care nu au devenit caduce sau nu au fost prescrise se dobândesc de la data la care a fost înaintată cererea, sub rezerva unor dispoziții mai favorabile din legislația oricărui stat membru.
+Articolul 3
+Prezentul regulament intră în vigoare în prima zi a lunii următoare publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre în conformitate cu Tratatul de instituire a Comunității Europene.
+Adoptat la Bruxelles, 14 mai 2003.
+Pentru Consiliu
+Președintele
+A.-A. TSOCHATZOPOULOS
+(1) JO C 126 E, 28.5.2002, p. 388.
+(2) Aviz emis la 21 noiembrie 2002 (nepublicat încă în Jurnalul Oficial).
+(3) JO C 154, 5.6.2000, p. 63.
+(4) JO C 339, 31.12.1991, p. 82.
+(5) JO L 149, 5.7.1971, p. 2, regulament modificat ultima dată de Regulamentul (CE) nr. 1386/2001 al Parlamentului European și al Consiliului (JO L 187, 10.7.2001, p. 1).
+(6) JO L 74, 27.3.1972, p. 1, regulament modificat ultima dată de Regulamentul (CE) nr. 410/2002 al Comisiei (JO L 62, 5.3.2002, p. 17).
+ANEXĂ
+DISPOZIȚII SPECIALE PREVĂZUTE ÎN ARTICOLUL 1
+I. GERMANIA:
+În ceea ce privește prestațiile familiale, prezentul regulament se aplică numai resortisanților țărilor terțe posesori ai unui permis de ședere calificat conform în sensul dreptului german, cum ar fi „Aufenthaltserlaubnis” sau „Aufenthaltsberechtigung”.
+II. AUSTRIA:
+În ceea ce privește prestațiile familiale, prezentul regulament se aplică numai resortisanților țărilor terțe care îndeplinesc condițiile impuse de legislația austriacă pentru dreptul permanent la alocații familiale.
