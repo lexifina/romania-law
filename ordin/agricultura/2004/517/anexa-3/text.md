@@ -1,0 +1,9 @@
+# Anexa 3
+Vizat Comisia județeană Localitatea.......................... Județul.............................. CENTRALIZATORULproceselor-verbale de constatare întocmite conform Ordinuluiministrului agriculturii, pădurilor și dezvoltării ruraleși al ministrului administrației și internelor nr. 517/322/2004
+Nr. crt. Producătorul agricol (persoană fizică) Numele și prenumele Proces-verbal de constatare a pagubelor nr./data Suprafața afectată în procent de 100% pe culturi Numărul membrilor din gospodărie
+Grâu (ha) Porumb (ha) Floarea-soarelui (ha)
+Comisia locală (numele și prenumele, funcția, instituția reprezentată, semnătura):
+1......................................................
+2......................................................
+3......................................................
+---------
