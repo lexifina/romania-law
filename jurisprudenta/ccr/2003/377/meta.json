@@ -1,0 +1,202 @@
+{
+ "key": "dcc-377-2003",
+ "label": "Decizia CCR nr. 377/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "377",
+ "date": "2003-10-14",
+ "year": "2003",
+ "heading": "DECIZIE nr. 377 din 14 octombrie 2003",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 22, art. 23 lit. b), c) şi i) şi ale art. 23^1 din Legea nr. 64/1995 privind procedura reorganizarii judiciare şi a falimentului, republicată, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "885",
+  "bis": false,
+  "date": "2003-12-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "23-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 22, art. 23 lit. b), c) şi i) şi ale  art. 23^1 din Legea nr. 64/1995  privind procedura reorganizarii judiciare şi a falimentului, republicată, cu modificările ulterioare, excepţie ridicata de Societatea Comerciala \"Negravic Com\" - S.R.L. din Suceava în Dosarul nr. 56/F/2002 al Tribunalului Suceava.  Definitivă şi obligatorie.  Pronunţată în sedinta publică din data de 14 octombrie 2003.  PREŞEDINTELE CURTII CONSTITUTIONALE,  prof. univ. dr. Nicolae Popa  Magistrat-asistent,  Madalina Ştefania Diaconu  ────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "23-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-12-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/48500",
+  "text_sha256": "b74126f527ef8e1024b0fde41e7f458b10ec2595aeef761d3a46693e21e1444c",
+  "catalogue_sha256": "b74126f527ef8e1024b0fde41e7f458b10ec2595aeef761d3a46693e21e1444c",
+  "fetched": "2026-11-02T23:33:22Z",
+  "chars": 15691,
+  "portal_id": "48500",
+  "tip": "DECIZIE"
+ }
+}
