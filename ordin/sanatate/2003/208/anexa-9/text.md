@@ -1,0 +1,8 @@
+# Anexa 9
+NORMATIVE DE PERSONAL pentru institute/servicii județene/ cabinete de medicina legală ──────────────────────────────────────────────────────────────────────────────── Categoria de personal
+Criteriul de normare
+Normativ ────────────────────────────────────────────────────────────────────────────────
+I. Institute de medicina legală 1. Medici nr. locuitori/1 post 1/100.000 2. Alt personal cu pregătire nr. locuitori/1 post 1/200.000 superioară de specialitate 3. Personal sanitar mediu nr. locuitori/1 post 1/75.000 4. Autopsieri nr. locuitori/1 post 1/400.000 5. Brancardieri nr. posturi/unitate 1 post/tura
+II. Serviciile județene de medicina legală 1. Medici nr. locuitori/1 post 1/75.000 2. Alt personal cu pregătire nr. locuitori/1 post 1/100.000 superioară de specialitate 3. Personal sanitar mediu nr. locuitori/1 post 1/50.000 4. Autopsieri nr. locuitori/1 post 1/100.000 5. Brancardieri nr. posturi/unitate 1 post/tura
+III. Cabinete de medicina legală 1. Medici nr. posturi/cabinet 1 post/cabinet 2. Personal sanitar mediu nr. posturi/cabinet 1 post/cabinet ────────────────────────────────────────────────────────────────────────────────
+NOTA: ---- 1. Normarea personalului auxiliar sanitar pentru activitatea de curățenie: 1 post la 200 mp. 2. Pentru institutele de medicina legală, normativul se calculează la populația din teritoriul arondat prevăzut în Regulamentul aprobat prin H.G. nr. 774/2000. 3. În categoria "Alt personal cu pregătire superioară de specialitate", se includ farmaciști, chimiști, biochimiști, biologi, psihologi, etc. 4. Pentru serviciile județene de medicina legală normativul se calculează la populația județului.
