@@ -1,0 +1,224 @@
+{
+ "key": "dcc-384-2003",
+ "label": "Decizia CCR nr. 384/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "384",
+ "date": "2003-10-14",
+ "year": "2003",
+ "heading": "DECIZIE nr. 384 din 14 octombrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 din Ordonanţa de urgenta a Guvernului nr. 13/2001 privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice, aprobată cu modificări şi completări prin Legea nr. 506/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "756",
+  "bis": false,
+  "date": "2003-10-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.698/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 13/2001",
+    "number": "13",
+    "year": "2001",
+    "path": "oug/2001/13"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 10 din Ordonanţa de urgenta a Guvernului nr. 13/2001  privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice, aprobată cu modificări şi completări prin Legea nr. 503/2001, excepţie ridicată de Societatea Comercială \"Asterix\" - S.R.L. din Moinesti în Dosarul nr. 9.698/2002 al Tribunalului Bacau - Secţia comercială şi contencios administrativ.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 14 octombrie 2003.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent şef,  Doina Suliman  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 13/2001",
+    "number": "13",
+    "year": "2001",
+    "path": "oug/2001/13"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47302",
+  "text_sha256": "4cffad9de598e1fbcafa9b42048f685a5fb1b09480fd438d62363280040184ec",
+  "catalogue_sha256": "4cffad9de598e1fbcafa9b42048f685a5fb1b09480fd438d62363280040184ec",
+  "fetched": "2026-11-02T23:32:18Z",
+  "chars": 15564,
+  "portal_id": "47302",
+  "tip": "DECIZIE"
+ }
+}
