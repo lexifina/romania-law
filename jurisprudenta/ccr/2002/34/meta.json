@@ -1,0 +1,238 @@
+{
+ "key": "dcc-34-2002",
+ "label": "Decizia CCR nr. 34/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "34",
+ "date": "2002-02-05",
+ "year": "2002",
+ "heading": "DECIZIE nr. 34 din 5 februarie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenta a Guvernului nr. 42/1999 pentru completarea Legii sanitare veterinare nr. 60/1974, aprobată cu modificări prin Legea nr. 62/2000",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "194",
+  "bis": false,
+  "date": "2002-03-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 42/1999",
+    "number": "42",
+    "year": "1999",
+    "path": "oug/1999/42"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a  Ordonanţei de urgenta a Guvernului nr. 42/1999  pentru completarea  Legii sanitare veterinare nr. 60/1974 , aprobată cu modificări prin  Legea nr. 62/2000 , excepţie ridicată de Societatea Comercială \"Regiollo\" - S.R.L. din comuna Tormac, judeţul Timiş, în Dosarul nr. 10.604/COM/2000 al Tribunalului Timiş - Secţia comercială.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 5 februarie 2002.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Mihai Paul Cotta.  ──────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 42/1999",
+    "number": "42",
+    "year": "1999",
+    "path": "oug/1999/42"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/2000",
+    "number": "62",
+    "year": "2000",
+    "path": "lege/2000/62"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/1974",
+    "number": "60",
+    "year": "1974",
+    "path": "lege/1974/60"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-03-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/34669",
+  "text_sha256": "8114529c805d46288e1e4e37936be9967015ac3b4f1659f8669f0024552e17b5",
+  "catalogue_sha256": "8114529c805d46288e1e4e37936be9967015ac3b4f1659f8669f0024552e17b5",
+  "fetched": "2026-11-05T01:43:30Z",
+  "chars": 12375,
+  "portal_id": "34669",
+  "tip": "DECIZIE"
+ }
+}
