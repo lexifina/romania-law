@@ -1,0 +1,125 @@
+{
+ "key": "dcc-358-1997",
+ "label": "Decizia CCR nr. 358/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "358",
+ "date": "1997-10-14",
+ "year": "1997",
+ "heading": "DECIZIE nr. 358 din 14 octombrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu alta destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "45",
+  "bis": false,
+  "date": "1998-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "2.838/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Brindea Mircea împotriva Deciziei Curţii Constituţionale nr. 33 din 24 februarie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12540",
+  "text_sha256": "f41d8b8f6a3015c6d97b55a4074b4043acc0f3186dde86418221632279bbee4a",
+  "catalogue_sha256": "f41d8b8f6a3015c6d97b55a4074b4043acc0f3186dde86418221632279bbee4a",
+  "fetched": "2026-11-02T22:58:03Z",
+  "chars": 5822,
+  "portal_id": "12540",
+  "tip": "DECIZIE"
+ }
+}
