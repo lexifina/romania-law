@@ -1,0 +1,2 @@
+# Anexa 5
+-------- la regulament -------------- DOCUMENTAȚIA care se depune de către agenții economici, persoane fizice sau juridice, în vederea autorizării și/sau omologării ingrasamintelor chimice noi 1. Caracterizarea produsului de către producător 2. Acordul producătorului de îngrășăminte pentru distribuitorul care solicită omologarea 3. Certificat de omologare din țara în care este produs, în cazul ingrasamintelor importate 4. Buletine de analiza referitoare la compozitia fizico-chimica a ingrasamintelor.

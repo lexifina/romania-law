@@ -1,0 +1,11 @@
+# Anexa 8
+-------- la regulament ------------- TARIFE care se percep pentru testarea, autorizarea și omologarea ingrasamintelor 1. Tarifele care se percep și se încasează de către Ministerul Agriculturii, Alimentației și Pădurilor pentru autorizarea și omologarea ingrasamintelor sunt:
+a) pentru autorizare - 100 dolari S.U.A./ingrasamant, inclusiv cu variantele de compoziție;
+b) pentru omologare - 150 dolari S.U.A./ingrasamant, inclusiv cu variantele de compoziție;
+c) pentru produsele care fac obiectul unei noi autorizari sau omologări în conformitate cu art. 24 alin. (2) și art. 29 alin. (1) din regulament - 50 dolari S.U.A./ingrasamant, inclusiv cu variantele de compoziție;
+d) pentru schimbarea denumirii ingrasamintelor autorizate sau omologate - 50 dolari S.U.A./ingrasamant.
+Tarifele care se achită de firmele române sau străine Ministerului Agriculturii, Alimentației și Pădurilor se depun în contul acestuia. 2. Tarifele care se percep și se încasează de Institutul de Cercetări pentru Pedologie și Agrochimie pentru testarea ingrasamintelor în rețeaua organizată în colaborare cu unități de cercetare din subordinea Academiei de Științe Agricole și Silvice se utilizează conform normelor legale în vigoare. Tarifele pentru testare sunt:
+a) pentru îngrășăminte lichide care se aplică pe plante (foliare) și îngrășăminte biologice - 500 dolari S.U.A./test pe fiecare specie de plantă și punct (loc) de cercetare, inclusiv analiza recoltei, a solului și certificarea compoziției chimice și a calității produsului testat
+b) pentru îngrășămintele solide care se aplică în sol - 550 dolari S.U.A./test pe fiecare specie de plantă și punct (loc) de cercetare, inclusiv analiza recoltei, a solului și certificarea compoziției chimice și a calității produsului testat.
+3. Tariful care se percepe și se încasează de Ministerul Sănătății și Familiei pentru emiterea avizului sanitar este de 50 dolari S.U.A. pentru fiecare produs. 4. Tariful care se percepe și se încasează de Ministerul Apelor și Protecției Mediului pentru emiterea avizului de mediu este de 50 dolari S.U.A. pentru fiecare produs. Tarifele menționate în dolari S.U.A. se percep în lei la cursul oficial de schimb al Băncii Naționale a României pentru ziua în care se face plata.
+-------
