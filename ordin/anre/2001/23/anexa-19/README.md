@@ -1,0 +1,7 @@
+# Anexa nr. 19: 4.1.1 TARIFUL BINOM DIFERENȚIAT pe zone orare și durate de utilizare - A33 (Valabil de la data de 1 ianuarie 2002 până la data de 31 ianuarie 2002) Nr. crt. Nivelurile de tensiune egale cu cele din pu
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 31078 (https://legislatie.just.ro/Public/DetaliiDocument/31078)
+- sha256 of that document's text as the service returned it: 51e9f7319b6545c48e193772d5d91143b1140fa04d4c014597af14b5c0850c1d
+- Retrieved: 2026-11-02
