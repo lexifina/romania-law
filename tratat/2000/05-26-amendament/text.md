@@ -1,0 +1,4 @@
+ AMENDAMENT din 26 mai 2000  la Protocolul din 1988 privind Convenţia internationala din 1974 pentru ocrotirea vietii omenesti pe mare, adoptate de Organizaţia Maritima Internationala prin Rezolutia MSC.92 (72) a Comitetului Securitatii Maritime la Londra la 26 mai 2000*)     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 843 din 22 noiembrie 2002     ---------
+						Notă   ...
+			  *) Traducere.   În modelul de Certificat de siguranţă a construcţiei pentru nava de marfa, în modelul de Certificat de siguranţă a echipamentului pentru nava de marfa şi în modelul de Certificat de siguranţă pentru nava de marfa din apendicele la anexa la Protocolul din 1988 privind Convenţia internationala din 1974 pentru ocrotirea vietii omenesti pe mare, sub titlul "Tipul navei" se introduce cuvantul "vrachier" între titlu şi cuvantul "petrolier".  -------
