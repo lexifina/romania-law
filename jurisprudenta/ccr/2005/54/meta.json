@@ -1,0 +1,241 @@
+{
+ "key": "dcc-54-2005",
+ "label": "Decizia CCR nr. 54/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "54",
+ "date": "2005-02-01",
+ "year": "2005",
+ "heading": "DECIZIE nr. 54 din 1 februarie 2005",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 166 alin. (4^1) şi (4^2) din Legea învăţământului nr. 84/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "236",
+  "bis": false,
+  "date": "2005-03-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "402/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "4-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 166 alin. (4^1) şi (4^2) din Legea învăţământului nr. 84/1995, excepţie ridicata de Parohia Româno-Catolica Blaj - Tiur în Dosarul nr. 402/2004 al Curtii de Apel Alba Iulia - Sectia civila.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 206/2000",
+    "number": "206",
+    "year": "2000",
+    "path": "oug/2000/206"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 30/2000",
+    "number": "30",
+    "year": "2000",
+    "path": "oug/2000/30"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "4-1",
+      "4-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 113/2002",
+    "number": "113",
+    "year": "2002",
+    "path": "lege/2002/113"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 520/2002",
+    "number": "520",
+    "year": "2002",
+    "path": "lege/2002/520"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 713/2001",
+    "number": "713",
+    "year": "2001",
+    "path": "lege/2001/713"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 184/2001",
+    "number": "184",
+    "year": "2001",
+    "path": "oug/2001/184"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 354/2004",
+    "number": "354",
+    "year": "2004",
+    "path": "lege/2004/354"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-03-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/60215",
+  "text_sha256": "b6c1a7e3f40ad6091167fceb4c33e0dafc4e3e26ba4847b53e03720efbbf0817",
+  "catalogue_sha256": "b6c1a7e3f40ad6091167fceb4c33e0dafc4e3e26ba4847b53e03720efbbf0817",
+  "fetched": "2026-11-04T10:39:49Z",
+  "chars": 22976,
+  "portal_id": "60215",
+  "tip": "DECIZIE"
+ }
+}
