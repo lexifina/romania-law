@@ -1,0 +1,212 @@
+{
+ "key": "dcc-476-2004",
+ "label": "Decizia CCR nr. 476/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "476",
+ "date": "2004-11-09",
+ "year": "2004",
+ "heading": "DECIZIE nr. 476 din 9 noiembrie 2004",
+ "subtitle": "asupra excepţiei de neconstituţionalitate a dispoziţiilor art. 26 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase, aliajelor acestora şi pietrelor preţioase în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "47",
+  "bis": false,
+  "date": "2005-01-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "347/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 26 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase, aliajelor acestora şi pietrelor preţioase în România, excepţie ridicată de Elena Turcăreasa în Dosarul nr. 347/2004 al Judecătoriei Constanţa.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "34-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 67/2002",
+    "number": "67",
+    "year": "2002",
+    "path": "oug/2002/67"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 24/2003",
+    "number": "24",
+    "year": "2003",
+    "path": "og/2003/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-01-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58606",
+  "text_sha256": "5ca43dc9a53c26794b1321ac379cc9a57ede54984905796836b32d7fde02336e",
+  "catalogue_sha256": "5ca43dc9a53c26794b1321ac379cc9a57ede54984905796836b32d7fde02336e",
+  "fetched": "2026-11-02T23:52:04Z",
+  "chars": 15518,
+  "portal_id": "58606",
+  "tip": "DECIZIE"
+ }
+}
