@@ -1,0 +1,32 @@
+# DECIZIE Nr. 51*) din 18 mai 1994
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 224 din Codul penal
+Notă
+*) Definitivă prin nerecurare.
+Victor Dan Zlatescu - preşedinte
+Mihai Constantinescu - judecător
+Florin Bucur Vasilescu - judecător
+Ioan Griga - procuror
+Constantin Burada - magistrat-asistent.
+Pe rol soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 224 din Codul penal, invocată de Giurea Gheorghe, Nastase Gheorghe, Giurea Danut şi Giurea George, în Dosarul nr. 2433/1993 al Judecătoriei Tulcea, cu care Curtea a fost sesizată prin Încheierea din 27 mai 1993 a instanţei respective.
+La apelul nominal, făcut de magistratul-asistent, au lipsit părţile.
+Procedura de citare legal îndeplinită.
+Cauza fiind în stare de judecată, preşedintele completului da cuvintul reprezentantului Ministerului Public, care pune concluzii de respingere a excepţiei ca vadit nefondata, susţinând, în esenta, ca în speta nu se ridica o problemă de neconstituţionalitate, ci una de interpretare a legii, respectiv a încadrării juridice a faptelor comise de inculpaţi, de competenţa exclusiva a instanţelor judecătoreşti.
+CURTEA CONSTITUŢIONALĂ, având în vedere actele şi lucrările dosarului, constata următoarele:
+Prin rechizitoriul Procuraturii Locale Tulcea nr. 415/P/1993 au fost trimişi în judecata Giurea Gheorghe, Nastase Gheorghe, Giurea Danut pentru săvârşirea infracţiunilor de furt calificat în paguba avutului obştesc - art. 208 şi 209 lit. a) şi e), raportate la art. 224 alin. 1 din Codul penal - şi, respectiv, distrugere în paguba avutului obştesc - art. 217, raportat la art. 231 alin. 1 din Codul penal -, iar Giurea George pentru comiterea infracţiunii de furt calificat în paguba avutului obştesc - art. 208 şi 209 lit. a) şi e), raportate la art. 224 alin. 1 din Codul penal.
+În faţa Judecătoriei Tulcea, la termenul de 27 mai 1993, inculpatii, prin apărătorii lor, au ridicat excepţia de neconstituţionalitate a prevederilor art. 224 din Codul penal, cu motivarea ca partea civilă este o societate comercială, astfel încât textul respectiv contravine dispoziţiilor art. 135 alin. (2) şi (4) din Constituţie.
+Instanţa, prin încheierea din aceeaşi dată, în temeiul art. 23 alin. (2) din Legea nr. 47/1992, a sesizat Curtea Constituţională spre a se pronunţa asupra constituţionalităţii prevederilor art. 224 din Codul penal. Exprimindu-şi opinia în legătură cu excepţia invocată, judecătoria apreciază ca "dispoziţiile legale privind apărarea proprietăţii, raportate la dispoziţiile legii fundamentale în vigoare, impun cu necesitate examinarea şi soluţionarea acestei probleme de către Curtea Constituţională".
+În temeiul art. 24 alin. (3) din Legea nr. 47/1992, au fost solicitate puncte de vedere celor două Camere ale Parlamentului şi Guvernului.
+În punctul sau de vedere, Guvernul apreciază ca excepţia invocată nu este intemeiata deoarece, pe de o parte, este o problemă de interpretare juridică, de competenţa instanţelor judecătoreşti, iar pe de o altă parte, dispoziţiile din Codul penal privind avutul obştesc nu contravin Constituţiei, această categorie juridică având o sfera mai larga decît conceptul de avut public, în care se identifica doar bunurile proprietate publică.
+Camera Deputaţilor şi Senatul nu au comunicat punctele lor de vedere.
+Ţinând seama de excepţia ridicată, de opinia instanţei, de punctul de vedere al Guvernului, de dispoziţiile art. 224 din Codul penal, de prevederile Constituţiei şi ale Legii nr. 47/1992 se reţin următoarele:
+În legătură cu competenţa de soluţionare a excepţiei de neconstituţionalitate, Curtea constata ca, potrivit practicii sale constante, cît timp instanţa de judecată nu a reţinut ca un text legal este abrogat conform art. 150 alin. (1) din Constituţie, sesizind Curtea cu soluţionarea excepţiei, aceasta este obligată să se pronunţa în virtutea dreptului constituţional al cetăţenilor de a invoca neconstituţionalitatea unui text legal pe care instanţa înţelege sa îl aplice.
+Cu privire la constituţionalitatea dispoziţiilor din Codul penal referitoare la avutul obştesc, Curtea constata ca interpretarea acestor dispoziţii a făcut şi obiectul Deciziei Plenului Curţii Constituţionale nr. 1/1993, publicată în Monitorul Oficial al României, Partea I, nr. 232 din 27 septembrie 1993. Prin decizia respectiva s-a statuat ca dispoziţiile Codului penal referitoarele la infracţiunile contra avutului obştesc, deci şi aceea prevăzută de art. 224 - furtul în paguba avutului obştesc -, sunt abrogate parţial potrivit art. 150 alin. (1) din Constituţie, urmînd să se aplice în continuare numai pentru bunurile proprietate publică prevăzute de art. 135 alin. (4) din Constituţie.
+În baza deciziei sus-menţionate, prin Decizia Curţii Constituţionale nr. 63 din 4 noiembrie 1993 s-a respins recursul Ministerului Public împotriva Deciziei Curţii Constituţionale nr. 33/1993 prin care se constatase ca art. 224 din Codul penal a fost abrogat parţial potrivit art. 150 alin. (1) din Constituţie şi, în consecinţa, acesta urmează să se aplice numai cu privire la bunurile prevăzute de art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice.
+Rezultă deci ca, în prezent, orice alta excepţie de neconstituţionalitate privind art. 224 din Codul penal este lipsită de obiect deoarece, astfel cum s-a arătat prin Decizia nr. 33/1993, rămasă definitivă prin Decizia nr. 63/1993, s-a constatat abrogarea parţială a acestui articol.
+Pentru motivele arătate, în temeiul art. 144 lit. c) din Constituţie şi al art. 1, art. 3 şi art. 13 alin. (1) lit. A. c) din Legea nr. 47/1992,
+CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Constata ca, potrivit Deciziei Curţii Constituţionale nr. 33 din 26 mai 1993, rămasă definitivă prin Decizia nr. 63 din 4 noiembrie 1993, dispoziţiile art. 224 din Codul penal sunt parţial abrogate potrivit art. 150 alin. (1) din Constituţie, urmînd a se aplică numai cu privire la bunurile prevăzute la art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice şi, prin urmare,
+Respinge ca lipsită de obiect excepţia de neconstituţionalitate cu privire la art. 224 din Codul penal, invocată de Giurea Gheorghe, Nastase Gheorghe, Giurea Danut şi Giurea George în Dosarul nr. 2433/1993 al Judecătoriei Tulcea.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată în şedinţa publică din 18 mai 1994.
+PREŞEDINTE, Victor Dan Zlatescu Magistrat-asistent, Constantin Burada --------------------------
