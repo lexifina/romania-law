@@ -1,0 +1,3 @@
+# Anexa 8.c
+Caracteristicile de tipărire, modul de difuzare, de utilizare și păstrare a documentului "Declarație" 1. Denumire: Declarație; 2. Cod: 3. Format: A4/t1 (poate avea un număr variabil de pagini) 4. Caracteristici de tipărire: se tipărește pe o singura fața. Se poate edita cu ajutorul tehnicii de calcul. 5. Se difuzează: gratuit 6. Se utilizează: de către reprezentantul legal al contribuabilului; 7. Se întocmește: în 2 exemplare, de organul fiscal de inspecție fiscala; 8. Circula: - exemplarul 1, la organul fiscal care efectuează inspecția fiscala/controlul; - exemplarul 2, la contribuabil; 9. Se arhivează la: - exemplarul 1, la Raportul de inspecție fiscala/Proces-verbal; - exemplarul 2, la contribuabil.
+----------
