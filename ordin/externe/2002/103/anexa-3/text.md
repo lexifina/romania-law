@@ -1,0 +1,2 @@
+# Anexa 3
+DECLARAȚIE DE CESIUNE Subsemnatul........., reprezentant legal al societății comerciale.........., cu sediul în........, codul fiscal........, declar că cedez în favoarea societății comerciale........., cu sediul în......, codul fiscal.........., cantitatea care, în conformitate cu performanțele din anul 2001, ar urma să fie alocata societății noastre în cadrul contingentului tarifar de ovine și caprine vii și carne de ovine și caprine, deschis în anul 2002 la exportul în Uniunea Europeană. Data................. Director,.................. ────────────────────
