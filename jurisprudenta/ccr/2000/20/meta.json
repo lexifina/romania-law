@@ -1,0 +1,310 @@
+{
+ "key": "dcc-20-2000",
+ "label": "Decizia CCR nr. 20/2000",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "20",
+ "date": "2000-02-02",
+ "year": "2000",
+ "heading": "DECIZIE nr. 20 din 2 februarie 2000",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a art. 41 alin. (2) din Legea privind sistemul public de pensii şi alte drepturi de asigurări sociale şi a dispoziţiilor art. 198 din aceeaşi lege prin care a fost abrogat art. 103 din Legea nr. 92/1992 pentru organizarea judecătorească, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "72",
+  "bis": false,
+  "date": "2000-02-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5A/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "198",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Constata ca dispoziţiile art. 41 alin. (2) din Legea privind sistemul public de pensii şi alte drepturi de asigurări sociale sunt constituţionale. 2. Constata ca dispoziţiile art. 198 din aceeaşi lege, prin care a fost abrogat art. 103 din Legea nr. 92/1992 pentru organizarea judecătorească, republicată, sunt neconstituţionale.",
+  "Decizia se comunică Preşedintelui României, preşedintelui Camerei Deputaţilor şi preşedintelui Senatului, în scopul deschiderii procedurii prevăzute de art. 145 alin. (1) din Constituţie, precum şi Curţii Supreme de Justiţie, şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "198",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 142/1997",
+    "number": "142",
+    "year": "1997",
+    "path": "lege/1997/142"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 214/1977",
+    "number": "214",
+    "year": "1977",
+    "path": "decret/1977/214"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "239",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-02-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/21010",
+  "text_sha256": "595aa2fc5cdfb5e8b6273c8fc1340cc817c74a3b8d317068445fd85d962bd754",
+  "catalogue_sha256": "595aa2fc5cdfb5e8b6273c8fc1340cc817c74a3b8d317068445fd85d962bd754",
+  "fetched": "2026-11-02T23:07:19Z",
+  "chars": 45257,
+  "portal_id": "21010",
+  "tip": "DECIZIE"
+ }
+}
