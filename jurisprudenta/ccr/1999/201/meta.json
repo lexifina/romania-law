@@ -1,0 +1,146 @@
+{
+ "key": "dcc-201-1999",
+ "label": "Decizia CCR nr. 201/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "201",
+ "date": "1999-11-25",
+ "year": "1999",
+ "heading": "DECIZIE nr. 201 din 25 noiembrie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Legii nr. 140/1996 pentru modificarea şi completarea Codului penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "4",
+  "bis": false,
+  "date": "2000-01-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.662/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 140/1996",
+    "number": "140",
+    "year": "1996",
+    "path": "lege/1996/140"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a Legii nr. 140/1996 pentru modificarea şi completarea Codului penal, excepţie ridicată de Costica Calarasu în Dosarul nr. 3.662/1999 al Curţii de Apel Pitesti - Secţia penală.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 140/1996",
+    "number": "140",
+    "year": "1996",
+    "path": "lege/1996/140"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-01-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20532",
+  "text_sha256": "fff9c46aa4648f9758b1792eceea664fab04b24c61403fd19301fb692847e83b",
+  "catalogue_sha256": "fff9c46aa4648f9758b1792eceea664fab04b24c61403fd19301fb692847e83b",
+  "fetched": "2026-11-02T23:06:42Z",
+  "chars": 7777,
+  "portal_id": "20532",
+  "tip": "DECIZIE"
+ }
+}
