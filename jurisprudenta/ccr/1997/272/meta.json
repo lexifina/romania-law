@@ -1,0 +1,138 @@
+{
+ "key": "dcc-272-1997",
+ "label": "Decizia CCR nr. 272/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "272",
+ "date": "1997-06-23",
+ "year": "1997",
+ "heading": "DECIZIE nr. 272*) din 23 iunie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Normelor metodologice pentru aplicarea prevederilor Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare, aprobate prin Hotărârea Guvernului nr. 92/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "332",
+  "bis": false,
+  "date": "1997-11-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "13.539/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Normelor metodologice pentru aplicarea prevederilor Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare, aprobate prin Hotărârea Guvernului nr. 92/1996, invocată de Societatea Comercială \"Romcattel Gaz\" - S.A. Cluj în Dosarul nr. 13.539/1996 al Judecătoriei Cluj-Napoca.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-11-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12284",
+  "text_sha256": "4fda16c60330a7153d46a664bf873960865ac573781769725616589a27475833",
+  "catalogue_sha256": "4fda16c60330a7153d46a664bf873960865ac573781769725616589a27475833",
+  "fetched": "2026-11-02T22:56:48Z",
+  "chars": 5123,
+  "portal_id": "12284",
+  "tip": "DECIZIE"
+ }
+}
