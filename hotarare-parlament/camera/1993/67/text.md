@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 67 din 16 noiembrie 1993  pentru modificarea  Hotărârii Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 267 din 18 noiembrie 1993     Camera Deputaţilor adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC      Hotărârea Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale camerei Deputaţilor se modifică după cum urmează:  - domnul deputat Teodor Vintilescu din Grupul parlamentar liberal trece de la Comisia pentru cercetarea abuzurilor, corupţiei şi pentru petiţii la Comisia pentru sănătate şi familie.  p. PREŞEDINTELE CAMEREI DEPUTAŢILOR  MARŢIAN DAN  Bucureşti, 16 noiembrie 1993.  Nr. 67.  -------
