@@ -1,0 +1,11 @@
+# Anexa nr. 1^1 la normele metodologice
+MONOGRAFIA privind înregistrarea în contabilitatea instituțiilor publice a principalelor operațiuni legate de acordarea înlesnirilor la plata obligațiilor restante la bugetul de stat
+Pentru reflectarea în contabilitate a operațiunilor prevăzute la art. 10, 12, 14 și 28 din Ordonanța de urgenta a Guvernului nr. 40/2002 privind recuperarea arieratelor bugetare, aprobată și modificată prin Legea nr. 491/2002, denumita în continuare ordonanța de urgență, instituțiile publice finanțate din venituri proprii și subvenții acordate de la bugetul de stat sau integral din venituri proprii, după caz, potrivit art. 62 alin. (1) lit. b) și c) din Legea nr. 500/2002 privind finanțele publice, procedează astfel: a)
+Dobânzile și penalitățile de întârziere amânate la plata conform prevederilor art. 10 din ordonanța de urgență se vor inregistra în debitul contului de ordine și evidenta 972 "Alte operațiuni în afară bilanțului" - analitic distinct. Dobânzile și penalitățile de întârziere menționate mai sus vor rămâne înregistrate în contul bilantier 232 "Decontări cu bugetul statului" - analitic distinct.
+b)
+În contabilitatea debitorilor, dobânzile și penalitățile de întârziere reduse și, respectiv, scutite la plata conform prevederilor art. 10 alin. (2) lit. c), alin. (3) lit. c), alin. (4) lit. c) și ale art. 12, 14 și 28 din ordonanța de urgență se vor reflecta în contabilitate la data îndeplinirii condițiilor în care au fost acordate înlesnirile, astfel: - când obligația de plată este constituită pentru anul curent: 420 ”Cheltuieli ale instituțiilor publice finanțate din venituri proprii” = 232 ”Decontări cu bugetul statului” (în roșu)
+- analitic distinct
+- când obligația de plată a fost constituită în anii precedenți: 232 ”Decontări cu bugetul statului” = 528 ”Venituri din anii precedenți și alte surse”
+Concomitent se crediteaza contul 972 "Alte operațiuni în afară bilanțului".
+c)
+În situația nerespectării termenelor de plată a datoriilor eșalonate și ca urmare a pierderii valabilității înlesnirilor la plata, contul de ordine și evidenta 972 "Alte operațiuni în afară bilanțului" - analitic distinct se va credita cu sumele înregistrate în debitul acestuia în conformitate cu prevederile lit. a).
