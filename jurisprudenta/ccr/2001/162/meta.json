@@ -1,0 +1,183 @@
+{
+ "key": "dcc-162-2001",
+ "label": "Decizia CCR nr. 162/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "162",
+ "date": "2001-05-22",
+ "year": "2001",
+ "heading": "DECIZIE nr. 162 din 22 mai 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (3) din Ordonanţa Guvernului nr. 83/1998 privind impunerea unor venituri realizate din România de persoane fizice şi juridice nerezidente",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "453",
+  "bis": false,
+  "date": "2001-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 83/1998",
+    "number": "83",
+    "year": "1998",
+    "path": "og/1998/83"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor  art. 6 alin. (3) din Ordonanţa Guvernului nr. 83//1998  privind impunerea unor venituri realizate din România de persoane fizice şi juridice nerezidente, excepţie ridicată de Societatea Comercială \"Romanian Broadcasting System\" - S.A. Oradea în Dosarul nr. 2.582/CA/2000 al Curţii de Apel Oradea.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 22 mai 2001.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Cristina Radu  ───────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 47/1997",
+    "number": "47",
+    "year": "1997",
+    "path": "og/1997/47"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 83/1998",
+    "number": "83",
+    "year": "1998",
+    "path": "og/1998/83"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/30041",
+  "text_sha256": "5a6a9d72376ae70a72cbf89346525ec07fc9d2a9b14d0c8a77c09e33218c70d9",
+  "catalogue_sha256": "5a6a9d72376ae70a72cbf89346525ec07fc9d2a9b14d0c8a77c09e33218c70d9",
+  "fetched": "2026-11-02T23:15:37Z",
+  "chars": 8893,
+  "portal_id": "30041",
+  "tip": "DECIZIE"
+ }
+}
