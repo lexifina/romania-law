@@ -1,0 +1,16 @@
+# Anexa 7
+Anexa nr. 5
+la normele metodologice
+........................................................
+(Denumirea persoanei juridice de drept public sau privat)
+Codul unic de înregistrare .............................
+Adresa .................................................
+Telefon .........................., fax ................
+ADEVERINȚĂ
+Prin prezenta se adeverește că bunurile culturale mobile din tabelul de mai jos au fost create de artiști (meșteri) în viață și potrivit prevederilor art. 81 din Legea nr. 182/2000 privind protejarea patrimoniului cultural național mobil, cu modificările ulterioare, nu fac obiectul clasării și pot fi exportate fără certificat de export
+Nr. crt.
+Denumirea bunului cultural mobil
+Autorul
+Observații
+.............................................................
+(Persoana autorizată - numele, prenumele, semnătura, ștampila)
