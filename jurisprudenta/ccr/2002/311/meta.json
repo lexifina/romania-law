@@ -1,0 +1,198 @@
+{
+ "key": "dcc-311-2002",
+ "label": "Decizia CCR nr. 311/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "311",
+ "date": "2002-11-19",
+ "year": "2002",
+ "heading": "DECIZIE nr. 311 din 19 noiembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12 alin. (1) lit. a) şi b), alin. (2) şi (3) din Legea nr. 133/1999 privind stimularea întreprinzătorilor privati pentru înfiinţarea şi dezvoltarea întreprinderilor mici şi mijlocii, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "853",
+  "bis": false,
+  "date": "2002-11-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.381/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/1999",
+    "number": "133",
+    "year": "1999",
+    "path": "lege/1999/133"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 12 alin. (1) lit. a) şi b), alin. (2) şi (3) din Legea nr. 133/1999 privind stimularea întreprinzătorilor privati pentru înfiinţarea şi dezvoltarea întreprinderilor mici şi mijlocii, cu modificările ulterioare, excepţie ridicată de Societatea Comercială \"Transmixt\" - S.A. din Bistrita în Dosarul nr. 3.381/2001 al Tribunalului Bistrita-Nasaud - Secţia civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/1999",
+    "number": "133",
+    "year": "1999",
+    "path": "lege/1999/133"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-11-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/40130",
+  "text_sha256": "2bab4edc95ca0cfbd72864e8946d8f3253427fe52e3393617c79dd6ce8ba5da0",
+  "catalogue_sha256": "2bab4edc95ca0cfbd72864e8946d8f3253427fe52e3393617c79dd6ce8ba5da0",
+  "fetched": "2026-11-02T23:25:07Z",
+  "chars": 12313,
+  "portal_id": "40130",
+  "tip": "DECIZIE"
+ }
+}
