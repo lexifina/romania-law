@@ -1,0 +1,145 @@
+{
+ "key": "dcc-70-1993",
+ "label": "Decizia CCR nr. 70/1993",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "70",
+ "date": "1993-12-15",
+ "year": "1993",
+ "heading": "DECIZIA nr. 70 din 15 decembrie 1993",
+ "subtitle": "cu privire la constituţionalitatea art. 11 alin. (1) şi (2) din Legea privind acreditarea instituţiilor de învăţământ superior şi recunoaşterea diplomelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "307",
+  "bis": false,
+  "date": "1993-12-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "1. Constata ca dispoziţiile art. 11 alin. (1) şi (2) din Legea privind acreditarea instituţiilor de învăţământ superior şi recunoaşterea diplomelor sunt constituţionale. 2. Decizia se comunică Preşedintelui României şi se publică în MONITORUL OFICIAL al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "32",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-12-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3232",
+  "text_sha256": "3a1c189429972caa6f6d3dbecc21f07387dff7b45992c0055ebc9849621e48f4",
+  "catalogue_sha256": "3a1c189429972caa6f6d3dbecc21f07387dff7b45992c0055ebc9849621e48f4",
+  "fetched": "2026-11-02T22:42:28Z",
+  "chars": 13900,
+  "portal_id": "3232",
+  "tip": "DECIZIE"
+ }
+}
