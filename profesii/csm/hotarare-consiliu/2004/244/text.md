@@ -1,0 +1,5 @@
+Având în vedere dispozițiile art. 155 alin. (2) din Constituția României, republicată, în temeiul dispozițiilor art. 126 alin. (2), coroborat cu art. 132 din Legea nr. 304/2004 privind organizarea judiciară, Consiliul Superior al Magistraturii hotărăște:
+Articolul I
+Regulamentul de ordine interioară a instanțelor judecătorești, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 159/2004 , publicată în Monitorul Oficial al României, Partea I, nr. 881 din 27 septembrie 2004, se modifică după cum urmează: 1. La articolul 25, punctul 12 va avea următorul cuprins: "12. ia măsuri în vederea repartizării aleatorii a clauzelor." 2. La art. 98, alineatul (2) va avea următorul cuprins: "(2) Repartizarea cauzelor se va efectua ținându-se seama de criteriul aleatoriu, alfabetic, astfel cum a fost implementat prin Ordinul ministrului justiției nr. 1.284/C/2004 , sau în sistem informatizat."
+Articolul II
+Prezenta hotărâre se va publică în Monitorul Oficial al României, Partea I, prin grija Secretariatului tehnic. Secretarul general al Consiliului Superior al Magistraturii, judecător Dan Lupașcu București, 30 noiembrie 2004. Nr. 244. ____________
