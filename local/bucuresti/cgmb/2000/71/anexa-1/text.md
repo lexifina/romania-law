@@ -1,0 +1,9 @@
+# Anexa nr. 1
+Anexa nr.1 la H.C.G.M.B. nr. 71/ 02.03.2000
+MODIFICARI SI COMPLETARI LA METODOLOGIA pentru punerea in aplicare a H.G. nr.505/20.08.1998 privind vanzarea catre actualii detinatori a unor spatii construite din fondurile statului si aflate in administrarea Consiliului General al Municipiului Bucuresti, aprobata prin H.C.G.M.B. nr.220/22.10.1998
+Se modifica si completeaza Cap. VI, punctul 2, aliniatul 6 dupa cum urmeaza :
+“Vanzarea spatiilor cu plata in rate se poate acorda la cererea cumparatorului doar in situatia cumpararii prin negociere directa. In acest caz, cumparatorul va plati un avans minim 30 o/o din valoarea negociata in termen de 15 zile de la data negocierii. Restul de 70 o/o din pretul negociat va fi consolidat in dolari la data incheierii negocierii si va putea fi platit in maxim 18 rate lunare, la o rata a dobanzii de 3 o/o pe an calculata la soldul in dolari.
+Plata fiecarei rate si a dobanzii aferente se va face in lei la cursul de schimb din data platii. In cazul intarzierii platilor fata de datele stabilite se vor aplica majorari de intarziere de 0,3 o/o pe zi.
+In cazul neplatii a trei rate lunare consecutive sau a penalitatilor de intarziere, contractul se reziliaza de drept si cumparatorul va elibera spatiul fara punere in intarziere de la notificare. Cumparatorului ii vor fi returnate sumele reprezentand ratele scadente achitate pana la acea data (mai putin dobanda care se face venit la bugetul local) din care vor fi deduse sumele reprezentand contravaloarea dreptului de folosinta a spatiului pentru perioada scursa de la incheierea contractului de vanzare-cumparare si pana la rezilierea lui, asa cum era stabilit prin contractul de inchiriere/asociere initial pe baza caruia s-a reziliat negocierea.
+Spatiul ramas liber va fi vandut prin licitatie publica deschisa conform reglementarilor legale in vigoare.”
+Termenul de aplicabilitate al acestei hotarari este pana la 1 aprilie 2001.
