@@ -1,0 +1,219 @@
+{
+ "key": "dcc-406-2003",
+ "label": "Decizia CCR nr. 406/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "406",
+ "date": "2003-11-04",
+ "year": "2003",
+ "heading": "DECIZIE nr. 406 din 4 noiembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 din Ordonanţa de urgenţă a Guvernului nr. 86/2002 privind înfiinţarea Ghişeului unic în punctele de trecere a frontierei de stat a României, aprobată cu modificări prin Legea nr. 599/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "841",
+  "bis": false,
+  "date": "2003-11-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 86/2002",
+    "number": "86",
+    "year": "2002",
+    "path": "oug/2002/86"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 4 din Ordonanţa de urgenţă a Guvernului nr. 86/2002 privind înfiinţarea Ghişeului unic în punctele de trecere a frontierei de stat a României, aprobată cu modificări prin Legea nr. 599/2002, excepţie ridicată de Consiliul Local al Municipiului Giurgiu.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 86/2002",
+    "number": "86",
+    "year": "2002",
+    "path": "oug/2002/86"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 189/1998",
+    "number": "189",
+    "year": "1998",
+    "path": "lege/1998/189"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii serviciilor publice de gospodărie comunală nr. 326/2001",
+    "number": "326",
+    "year": "2001",
+    "path": "lege/2001/326"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-11-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/48008",
+  "text_sha256": "d21357b1c412d6320f1c8b9c04a3146b87f8d568bf72760c3af8f0650b7026e8",
+  "catalogue_sha256": "d21357b1c412d6320f1c8b9c04a3146b87f8d568bf72760c3af8f0650b7026e8",
+  "fetched": "2026-11-04T14:13:22Z",
+  "chars": 17204,
+  "portal_id": "48008",
+  "tip": "DECIZIE"
+ }
+}
