@@ -1,0 +1,198 @@
+{
+ "key": "dcc-255-2001",
+ "label": "Decizia CCR nr. 255/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "255",
+ "date": "2001-09-20",
+ "year": "2001",
+ "heading": "DECIZIE nr. 255 din 20 septembrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 504 alin. 2 şi ale art. 505 alin. 2 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "837",
+  "bis": false,
+  "date": "2001-12-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": true,
+ "dossiers": [
+  "753/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "504",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "505",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Admite, în parte, excepţia de neconstituţionalitate ridicată de Alexandru Pantea în Dosarul nr. 753/C/2001 al Tribunalului Timiş - Secţia civilă şi constata ca dispoziţiile art. 504 alin. 2 din Codul de procedură penală sunt constituţionale numai în măsura în care nu limitează la ipotezele prevăzute în alin. 1 al aceluiaşi articol dreptul la repararea pagubei al persoanei împotriva căreia s-a luat o măsura preventivă, iar ulterior a fost scoasa de sub urmărire sau a fost achitată. 2. Respinge excepţia de neconstituţionalitate cu privire la celelalte dispoziţii ale art. 504 alin. 2 din Codul de procedură penală, precum şi excepţia de neconstituţionalitate privind art. 505 alin. 2 din Codul de procedură penală, ridicate de acelaşi autor în acelaşi dosar.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "504",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "505",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "506",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "507",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-12-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33104",
+  "text_sha256": "e398ea09dfd0cdcd270e480974770a51dbb65be9427555075878104bd92111d6",
+  "catalogue_sha256": "e398ea09dfd0cdcd270e480974770a51dbb65be9427555075878104bd92111d6",
+  "fetched": "2026-11-05T08:39:01Z",
+  "chars": 13004,
+  "portal_id": "33104",
+  "tip": "DECIZIE"
+ }
+}
