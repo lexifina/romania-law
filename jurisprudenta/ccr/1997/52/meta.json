@@ -1,0 +1,187 @@
+{
+ "key": "dcc-52-1997",
+ "label": "Decizia CCR nr. 52/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "52",
+ "date": "1997-03-18",
+ "year": "1997",
+ "heading": "DECIZIE nr. 52 din 18 martie 1997",
+ "subtitle": "referitoare la excepţiile de neconstituţionalitate a dispoziţiilor art. 330, art. 330^1 şi art. 330^2",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "92",
+  "bis": false,
+  "date": "1997-05-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": true,
+ "appeal": true,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Admite recursurile declarate de Podgoreanu Zoe, Poenaru Nicolae Gheorghe Ion, Chitu Constantin, Sihota Dorina, Sava Maria, Gatej Eugenia, Carmen Mihaela Rivalet, Moldoveanu Cornel Bazil, Moldoveanu Victor, Chitu Niculina, Oghina Gratiela, Topciu Valentin Sergiu, Topciu Mihail şi Stoiculescu Viorica şi modifica Decizia Curţii Constituţionale nr. 145 din 25 noiembrie 1996, în sensul că respinge excepţiile de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă, ca fiind lipsite de obiect. 2. Respinge recursurile declarate de Morărescu Olga Melania, Topciu Valentin Sergiu şi Topciu Mihail împotriva Deciziei Curţii Constituţionale nr. 145 din 25 noiembrie 1996 privind prevederile art. 330 şi ale art. 330^2 din Codul de procedură civilă.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 59/1993",
+    "number": "59",
+    "year": "1993",
+    "path": "lege/1993/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1997",
+    "number": "17",
+    "year": "1997",
+    "path": "lege/1997/17"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-05-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11329",
+  "text_sha256": "0d5ac3dbd053374aec9b6b0abb978a86d12efd2ffbb76e552fc6a5dbc0d6d683",
+  "catalogue_sha256": "0d5ac3dbd053374aec9b6b0abb978a86d12efd2ffbb76e552fc6a5dbc0d6d683",
+  "fetched": "2026-11-02T22:54:15Z",
+  "chars": 14587,
+  "portal_id": "11329",
+  "tip": "DECIZIE"
+ }
+}
