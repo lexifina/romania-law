@@ -1,0 +1,416 @@
+{
+ "key": "dcc-171-2001",
+ "label": "Decizia CCR nr. 171/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "171",
+ "date": "2001-05-23",
+ "year": "2001",
+ "heading": "DECIZIE nr. 171 din 23 mai 2001",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 63 alin. 2, art. 192 alin. 2, art. 346 alin. 2 şi art. 392 alin. 4 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "387",
+  "bis": false,
+  "date": "2001-07-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "dossiers": [
+  "2.256/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate ridicată de Anton Sommert în Dosarul nr. 2.256/2000 al Tribunalului Bucureşti - Secţia I penală şi constata ca sunt neconstituţionale dispoziţiile art. 63 alin. 2 din Codul de procedură penală, conform cărora \"Aprecierea fiecărei probe se face de organul de urmărire penală şi de instanţa de judecată potrivit convingerii lor [...]\".  2. Respinge excepţia de neconstituţionalitate a celorlalte dispoziţii ale art. 63 alin. 2 din Codul de procedură civilă, precum şi a dispoziţiilor art. 192 alin. 2, art. 346 alin. 2 şi ale art. 392 alin. 4 din Codul de procedură penală, excepţie ridicată de acelaşi autor în acelaşi dosar.  Definitivă şi obligatorie.  Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.  Pronunţată în şedinţa publică din data de 23 mai 2001.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Florentina Geangu  ───────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "346",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "52",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "284-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "192",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29602",
+  "text_sha256": "03322e2974bd8e444d0017b2d4c42fb66d8e42ae76078a3ce814bf59af6f1e7a",
+  "catalogue_sha256": "03322e2974bd8e444d0017b2d4c42fb66d8e42ae76078a3ce814bf59af6f1e7a",
+  "fetched": "2026-11-02T23:15:10Z",
+  "chars": 19238,
+  "portal_id": "29602",
+  "tip": "DECIZIE"
+ }
+}
