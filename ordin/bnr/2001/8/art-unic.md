@@ -1,0 +1,2 @@
+# Articolul unic
+Perioada de valabilitate a Ordinului Băncii Naționale a României nr. 3 din 19 septembrie 2000, publicat în Monitorul Oficial al României, Partea I, nr. 470 din 27 septembrie 2000, astfel cum a fost modificat prin Ordinul Băncii Naționale a României nr. 2 din 26 aprilie 2001, publicat în Monitorul Oficial al României, Partea I, nr. 219 din 27 aprilie 2001, se prelungește, începând cu perioada de observare 16 decembrie-31 decembrie 2001, până la sfârșitul anului 2002.
