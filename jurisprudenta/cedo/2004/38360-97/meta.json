@@ -1,0 +1,152 @@
+{
+ "key": "cedo-38360-97-2004-02-25",
+ "label": "CEDO, Popescu c. României, 2004-02-25",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2004-02-25",
+ "year": "2004",
+ "heading": "HOTĂRÂRE din 25 februarie 2004",
+ "subtitle": "în cauza Popescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "1129",
+  "bis": false,
+  "date": "2004-11-30",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "38360/97",
+  "28342/95"
+ ],
+ "case_name": "Popescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. Admite excepţia preliminară invocată de Guvern referitor la capetele de cerere invocate de reclamantă în ceea ce priveşte apartamentul nr. 3 şi declară această parte a cererii inadmisibilă; 2. Declară restul cererii admisibil; 3. hotărăşte că a fost încălcat articolul 6 alineatul 1 din Convenţie, sub aspectul absenţei unui proces echitabil; 4. hotărăşte că a fost încălcat articolul 6 alineatul 1 din Convenţie, sub aspectul negării dreptului de acces la justiţie; 5. hotărăşte că a existat o încălcare a articolului 1 din Primul Protocol adiţional la Convenţie; 6. hotărăşte că statul pârât trebuie să plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu articolul 44 alineatul 2 din Convenţie, suma de 5.000 euro (cinci mii euro) pentru prejudiciul moral, sumă ce urmează a fi plătită în moneda naţională a statului pârât la nivelul ratei de schimb aplicabile la momentul plăţii; 7. hotărăşte că, începând de la data expirării termenului amintit şi până la momentul efectuării plăţii, suma menţionată la punctul 6 va fi majorată cu o dobândă simplă a cărei rată este egală cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca centrală europeană, la care se vor adăuga 3 puncte procentuale. 8. respinge cererea de acordare a unei satisfacţii echitabile pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57158",
+  "text_sha256": "47f7e126217fbcf87ac44062de6c00a7ea90884d2f5bd3042dbafd7a7a6c9d8b",
+  "catalogue_sha256": "47f7e126217fbcf87ac44062de6c00a7ea90884d2f5bd3042dbafd7a7a6c9d8b",
+  "fetched": "2026-11-02T23:46:40Z",
+  "chars": 25264,
+  "portal_id": "57158",
+  "tip": "HOTĂRÂRE"
+ }
+}
