@@ -1,0 +1,4 @@
+# Articolul V
+(1) Începând cu data de 1 ianuarie 2004 nu se mai acorda înlesniri la plata obligațiilor bugetare în conformitate cu prevederile Ordonanței de urgenta a Guvernului nr. 40/2002, aprobată cu modificări și completări prin Legea nr. 491/2002, cu modificările și completările ulterioare.
+(2) Cererile pentru acordarea înlesnirilor la plata obligațiilor bugetare restante, însoțite de documentația aferentă întocmită în conformitate cu prevederile legale în vigoare, pot fi depuse de către debitori numai până la data de 1 decembrie 2003 inclusiv.
+(3) Înlesnirile la plata acordate în conformitate cu prevederile Ordonanței de urgenta a Guvernului nr. 40/2002, aprobată cu modificări și completări prin Legea nr. 491/2002, cu modificările și completările ulterioare, se derulează în termenii și în condițiile stabilite până la recuperarea integrală a obligațiilor bugetare restante ce au făcut obiectul inlesnirii respective.
