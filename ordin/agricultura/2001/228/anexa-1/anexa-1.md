@@ -1,0 +1,3 @@
+# Anexa 1
+------- (la norma sanitară veterinara) ------------------------------
+Rechin (toate speciile) Ton (Thunnus spp.) Ton mic (Euthynnus spp.) Bonito (Sarda spp.) Plain bonito (Orcynopsis unicolor) Peste sabie (Xiphias gladnis) Sailfish (Istrophorus platypterus) Merlucius (Makaira spp.) Tipar (Anquilla spp.) Bass (Dicentrarchus labrax) Sturion (Acipenser spp.) Halibut (Hippoglossus hippoglossus) Peștele roșu (Sebastes marinus, Sebastes mentella) Blue ling (Molva dipterygia) Pisica de mare din Atlantic (Anarhuhas lupus) Pike (Exos lucius) Cainele de mare portughez (Centroscymnes cvelolepis) Stiuca (Raja spp.) Calcan (din speciile Lepidopus caudatus, Aphanopus carbo) Anglerfish (Lophius spp.) -----------
