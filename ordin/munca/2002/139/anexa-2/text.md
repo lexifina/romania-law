@@ -1,0 +1,2 @@
+# Anexa 2
+CARACTERISTICI DE TIPĂRIRE Denumire: Proces-verbal de constatare și sancționare a contravențiilor Seria..... nr...... Fiecare formular se tipareste în doua exemplare. Formularele se tiparesc pe hârtie de calitate, care să asigure lizibilitatea scrisului pe fața și pe verso, atât pe original, cat și pe copii. Formularele se broseaza în carnete conținând câte 150 de file fiecare. ----------------
