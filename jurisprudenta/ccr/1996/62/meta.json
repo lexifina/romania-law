@@ -1,0 +1,134 @@
+{
+ "key": "dcc-62-1996",
+ "label": "Decizia CCR nr. 62/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "62",
+ "date": "1996-05-21",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 62 din 21 mai 1996",
+ "subtitle": "referitoare la pronunţarea asupra recursului declarat de Constantinescu Gheorghe împotriva Deciziei Curţii Constituţionale nr. 1 din 9 ianuarie 1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "141",
+  "bis": false,
+  "date": "1996-07-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "11.384/1995"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constata ca recursul declarat de Constantinescu Gheorghe împotriva Deciziei nr. 1 din 9 ianuarie 1996 a Curţii Constituţionale este nul, nefiind motivat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "149",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "306",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-07-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8349",
+  "text_sha256": "dacb23fed861de73253e223d52df16982ada0c9682a5653804e66d692e93f157",
+  "catalogue_sha256": "dacb23fed861de73253e223d52df16982ada0c9682a5653804e66d692e93f157",
+  "fetched": "2026-11-02T22:51:11Z",
+  "chars": 3235,
+  "portal_id": "8349",
+  "tip": "DECIZIE"
+ }
+}
