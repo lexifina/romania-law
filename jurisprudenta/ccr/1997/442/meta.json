@@ -1,0 +1,112 @@
+{
+ "key": "dcc-442-1997",
+ "label": "Decizia CCR nr. 442/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "442",
+ "date": "1997-11-13",
+ "year": "1997",
+ "heading": "DECIZIE nr. 442 din 13 noiembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 330 şi următoarele din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "53",
+  "bis": false,
+  "date": "1998-02-06",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Ia act de retragerea recursului declarat de Orleanu Anca Maria împotriva Deciziei Curţii Constituţionale nr. 55 din 19 martie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12716",
+  "text_sha256": "fde6bfab5a37db43bba44b66df1bd64f05b9299f184bd8cc12e27cf5e045e02e",
+  "catalogue_sha256": "fde6bfab5a37db43bba44b66df1bd64f05b9299f184bd8cc12e27cf5e045e02e",
+  "fetched": "2026-11-02T22:59:16Z",
+  "chars": 2746,
+  "portal_id": "12716",
+  "tip": "DECIZIE"
+ }
+}
