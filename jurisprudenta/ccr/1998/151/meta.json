@@ -1,0 +1,148 @@
+{
+ "key": "dcc-151-1998",
+ "label": "Decizia CCR nr. 151/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "151",
+ "date": "1998-10-27",
+ "year": "1998",
+ "heading": "DECIZIE nr. 151 din 27 octombrie 1998",
+ "subtitle": "privind excepţia de neconstituţionalitate a art. 6 alin. (1) lit. a) din Legea nr. 1/1991 privind protecţia socială a şomerilor şi reintegrarea lor profesională, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "461",
+  "bis": false,
+  "date": "1998-12-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.697/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1991",
+    "number": "1",
+    "year": "1991",
+    "path": "lege/1991/1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (1) lit. a) din Legea nr. 1/1991 privind protecţia socială a şomerilor şi reintegrarea lor profesională, republicată, ridicată de Mica Zaharia în Dosarul nr. 4.697/1997 al Tribunalului Hunedoara.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1991",
+    "number": "1",
+    "year": "1991",
+    "path": "lege/1991/1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-12-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16284",
+  "text_sha256": "b3c8db6c2c6c0acf9ef2f6b4395b50e59d5f86a9a149ebd69c33b712d4859bff",
+  "catalogue_sha256": "b3c8db6c2c6c0acf9ef2f6b4395b50e59d5f86a9a149ebd69c33b712d4859bff",
+  "fetched": "2026-11-02T23:02:08Z",
+  "chars": 6027,
+  "portal_id": "16284",
+  "tip": "DECIZIE"
+ }
+}
