@@ -1,0 +1,18 @@
+# DECIZIE Nr. 95 din 21 octombrie 1994
+referitoare la soluţionarea recursului formulat de Ministerul Public împotriva Deciziei Curţii Constituţionale nr. 18 din 14 martie 1994
+Vasile Gionea - preşedinte Viorel Mihai Ciobanu - judecător Mihai Constantinescu - judecător Miklos Fazakaz - judecător Ioan Muraru - judecător Ioan Griga - procuror Florentina Geangu - magistrat-asistent Pe rol soluţionarea recursului formulat de Ministerul Public împotriva Deciziei Curţii Constituţionale nr. 18 din 14 martie 1994.
+La apelul nominal făcut în şedinţa publică, părţile au fost lipsa.
+Procedura legal îndeplinită.
+Cauza fiind în stare de judecată, preşedintele completului da cuvintul reprezentantului Ministerului Public, care pune concluzii de admitere a recursului, de casare a deciziei şi de respingere a excepţiei ca vadit nefondata.
+CURTEA CONSTITUŢIONALĂ, având în vedere actele şi lucrările dosarului, retine următoarele:
+Prin Decizia nr. 18 din 14 martie 1994, Curtea Constituţională a admis, în parte, excepţia de neconstituţionalitate ridicată de Parchetul de pe lângă Judecătoria Alba Iulia, în Dosarul nr. 7986/1992, şi a constatat ca dispoziţiile art. 249 din Codul penal referitoare la paguba adusă avutului obştesc sunt abrogate parţial potrivit art. 150 alin. (1) din Constituţie, urmînd a se aplică numai cu privire la bunurile prevăzute în art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice.
+Împotriva acestei decizii Ministerul Public a declarat recurs pe motiv ca, în cauza, sunt aplicabile prevederile art. 24 alin. (2) din Legea nr. 47/1992, în sensul că excepţia trebuia respinsă ca vadit nefondata, deoarece din opinia exprimată de către instanţa de judecată rezultă ca aceasta a considerat ea însăşi contrare Constituţiei dispoziţiile art. 249 din Codul penal privitoare la avutul obştesc.
+CURTEA CONSTITUŢIONALĂ, examinînd decizia atacată, încheierea de sesizare, motivele de recurs, raportul întocmit de judecătorul-raportor, concluziile recurentului - Ministerul Public -, dispoziţiile legale atacate ca neconstituţionale raportate la prevederile Constituţiei, precum şi cele ale Legii nr. 47/1992, retine următoarele:
+Critica referitoare la posibilitatea respingerii excepţiei de neconstituţionalitate ca "vadit nefondata" nu este intemeiata deoarece, potrivit art. 24 alin. (2) din Legea nr. 47/1992, soluţia respingerii fără citarea părţilor pe acest temei este condiţionată de unanimitatea opiniei membrilor completului de judecată în aprecierea excepţiei. Aceasta regula este nu numai de fond, în sensul că excepţia în mod vadit este neîntemeiată, ci şi de procedura, astfel încât, dacă aceste doua aspecte nu coincid, evident art. 24 alin. (2) din Legea nr. 47/1992 nu se poate aplica. De altfel, instanţa, deşi a opinat pentru neconstituţionalitatea art. 249 din Codul penal, deci a abrogării lui, nu a constatat abrogarea în dispozitivul încheierii şi, mai mult, a sesizat Curtea cu soluţionarea excepţiei. Rezultă ca, fiind legal investită, Curtea întemeiat a procedat la soluţionarea excepţiei.
+Pentru aceste motive, în temeiul art. 144 lit. c) din Constituţie, al art. 1, art. 3, art. 13 alin. (1) lit. A.c), art. 25 şi art. 26 din Legea nr. 47/1992,
+CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge recursul formulat de Ministerul Public împotriva Deciziei Curţii Constituţionale nr. 18 din 14 martie 1994, pronunţată în Dosarul nr. 4 C/1993.
+Definitivă.
+Pronunţată în şedinţa publică din 21 octombrie 1994.
+Prezenta decizie se comunică celor două Camere ale Parlamentului şi Guvernului şi se publică în Monitorul Oficial al României, Partea I.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. dr. VASILE GIONEA Magistrat-asistent, Florentina Geangu -------------------------
