@@ -1,0 +1,263 @@
+{
+ "key": "dcc-106-2001",
+ "label": "Decizia CCR nr. 106/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "106",
+ "date": "2001-04-11",
+ "year": "2001",
+ "heading": "DECIZIE nr. 106 din 11 aprilie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 27 alin. 1, 2 şi 3 şi ale art. 28 din Legea nr. 25/1969 privind regimul străinilor în România, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "416",
+  "bis": false,
+  "date": "2001-07-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.178/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 25/1969",
+    "number": "25",
+    "year": "1969",
+    "path": "lege/1969/25"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate a dispoziţiilor art. 27 alin. 1, 2 şi 3, precum şi ale  art. 28 din Legea nr. 25/1969  privind regimul străinilor în România, republicată, excepţie ridicată de Mircea Bleher în Dosarul nr. 2.178/1999 al Curţii Supreme de Justiţie - Secţia de contencios administrativ şi, în consecinţa:  Constata ca aceste dispoziţii legale sunt neconstituţionale în măsura în care restrangerea exerciţiului dreptului la libera circulaţie, prevăzut la art. 25 alin. (1) din Constituţie, al strainului invinuit, inculpat sau condamnat într-o cauza penală nu se dispune de către un magistrat şi nu se respecta prevederile art. 23 şi 49 din Constituţie.  Definitivă şi obligatorie.  Decizia se comunică celor două Camere ale Parlamentului, precum şi Guvernului.  Pronunţată în şedinţa publică din data de 11 aprilie 2001.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Marioara Prodan  ────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 25/1969",
+    "number": "25",
+    "year": "1969",
+    "path": "lege/1969/25"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 10/1990",
+    "number": "10",
+    "year": "1990",
+    "path": "decret-lege/1990/10"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29845",
+  "text_sha256": "2d0b09c4ff8d311a9ffaa77ebe80594e2fd8885dbd457c0e62bfb3ba3f39eae8",
+  "catalogue_sha256": "2d0b09c4ff8d311a9ffaa77ebe80594e2fd8885dbd457c0e62bfb3ba3f39eae8",
+  "fetched": "2026-11-02T23:15:25Z",
+  "chars": 13377,
+  "portal_id": "29845",
+  "tip": "DECIZIE"
+ }
+}
