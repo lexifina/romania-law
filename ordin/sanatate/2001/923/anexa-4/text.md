@@ -1,0 +1,2 @@
+# Anexa 6
+SUPRASPECIALIZARI SUPLIMENTARE Orice specialist poate obține supraspecializarea: - biostatistica și informatica medicală. Orice specialist confirmat într-o specialitate clinica poate obține supraspecializarea: - toxicologie clinica. Orice specialist confirmat într-o specialitate chirurgicala, cu excepția specialitatii AȚI, poate obține următoarele supraspecializari: - tehnici de microchirurgie vasculara; - tehnici de neuromicrochirurgie.
