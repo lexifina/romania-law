@@ -1,0 +1,168 @@
+{
+ "key": "dcc-184-1998",
+ "label": "Decizia CCR nr. 184/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "184",
+ "date": "1998-12-17",
+ "year": "1998",
+ "heading": "DECIZIE nr. 184 din 17 decembrie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. 2 din Decretul-lege nr. 66/1990 privind organizarea şi funcţionarea cooperaţiei meşteşugăreşti",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "35",
+  "bis": false,
+  "date": "1999-01-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "dossiers": [
+  "57/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 66/1990",
+    "number": "66",
+    "year": "1990",
+    "path": "decret-lege/1990/66"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Direcţia generală a finanţelor publice şi controlului financiar de stat - Mehedinti în Dosarul nr. 57/1998 al Judecătoriei Orşova şi constata ca dispoziţiile art. 21 alin. 2 teza întâi din Decretul-lege nr. 66/1990 privind organizarea şi funcţionarea cooperaţiei meşteşugăreşti sunt abrogate în temeiul art. 150 alin. (1) din Constituţie.",
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. 2 teza a doua din Decretul-lege nr. 66/1990 privind organizarea şi funcţionarea cooperaţiei meşteşugăreşti, ridicată de Direcţia generală a finanţelor publice şi controlului financiar de stat - Mehedinti în Dosarul nr. 57/1998 al Judecătoriei Orşova.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 66/1990",
+    "number": "66",
+    "year": "1990",
+    "path": "decret-lege/1990/66"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-01-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16813",
+  "text_sha256": "4efef7f530bd51ee9d933448f275a0bffad50b98c1003a6a7d1f043e7853574d",
+  "catalogue_sha256": "4efef7f530bd51ee9d933448f275a0bffad50b98c1003a6a7d1f043e7853574d",
+  "fetched": "2026-11-02T23:02:42Z",
+  "chars": 6864,
+  "portal_id": "16813",
+  "tip": "DECIZIE"
+ }
+}
