@@ -1,0 +1,118 @@
+{
+ "key": "dcc-112-1994",
+ "label": "Decizia CCR nr. 112/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "112",
+ "date": "1994-11-09",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 112 din 9 noiembrie 1994",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "354",
+  "bis": false,
+  "date": "1994-12-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "336/1993"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul formulat de Szentyvanyi Istvan şi Szentyvanyi Olimpia împotriva Deciziei Curţii Constituţionale nr. 43 din 4 mai 1994.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 279/1992",
+    "number": "279",
+    "year": "1992",
+    "path": "hg/1992/279"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4457",
+  "text_sha256": "9432c5e49c711ac549197e767d5f58598173384149471e5ca09501680b5f77be",
+  "catalogue_sha256": "9432c5e49c711ac549197e767d5f58598173384149471e5ca09501680b5f77be",
+  "fetched": "2026-11-02T22:46:10Z",
+  "chars": 4800,
+  "portal_id": "4457",
+  "tip": "DECIZIE"
+ }
+}
