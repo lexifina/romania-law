@@ -9,6 +9,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 1996-06-20: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive
+- 1996-12-18: closed (clasat)
 
 ## Documents
 
