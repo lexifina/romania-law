@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 1996-09-02: registered at the Senate
 - 2001-02-05: documents published: Raport comisie sesizată pe fond
 - 2001-03-01: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2001-03-07: registered at the Chamber of Deputies
 
 ## Documents
 
