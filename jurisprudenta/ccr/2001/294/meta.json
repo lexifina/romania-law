@@ -1,0 +1,201 @@
+{
+ "key": "dcc-294-2001",
+ "label": "Decizia CCR nr. 294/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "294",
+ "date": "2001-11-01",
+ "year": "2001",
+ "heading": "DECIZIE nr. 294 din 1 noiembrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 33 alin. (3) din Legea nr. 50/1996 privind salarizarea şi alte drepturi ale personalului din organele autorităţii judecătoreşti, republicată, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "21",
+  "bis": false,
+  "date": "2002-01-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.685/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 33 alin. (3) din Legea nr. 50/1996  privind salarizarea şi alte drepturi ale personalului din organele autorităţii judecătoreşti, republicată, cu modificările şi completările ulterioare, excepţie ridicată de Dragos Panaitescu în Dosarul nr. 7.685/2001 al Judecătoriei Sectorului 5 Bucureşti.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 1 noiembrie 2001.  PREŞEDINTE,  prof. univ. dr. COSTICA BULAI  Magistrat-asistent,  Laurentiu Cristescu  ────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 83/2000",
+    "number": "83",
+    "year": "2000",
+    "path": "og/2000/83"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 154/1998",
+    "number": "154",
+    "year": "1998",
+    "path": "lege/1998/154"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-01-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33292",
+  "text_sha256": "3a2233169ea494a3747647ce32327a3fd59161afb17a7c0e7d67d8e114cac8f1",
+  "catalogue_sha256": "3a2233169ea494a3747647ce32327a3fd59161afb17a7c0e7d67d8e114cac8f1",
+  "fetched": "2026-11-02T23:18:30Z",
+  "chars": 13592,
+  "portal_id": "33292",
+  "tip": "DECIZIE"
+ }
+}
