@@ -1,0 +1,252 @@
+{
+ "key": "dcc-326-2004",
+ "label": "Decizia CCR nr. 326/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "326",
+ "date": "2004-09-14",
+ "year": "2004",
+ "heading": "DECIZIE nr. 326 din 14 septembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 32 din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1001",
+  "bis": false,
+  "date": "2004-10-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.823/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 67/2004",
+    "number": "67",
+    "year": "2004",
+    "path": "lege/2004/67"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 32 din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, excepţie ridicată de Valeriu Mangu în Dosarul nr. 2.823/2004 al Înaltei Curţi de Casaţie şi Justiţie - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 67/2004",
+    "number": "67",
+    "year": "2004",
+    "path": "lege/2004/67"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/56233",
+  "text_sha256": "751c9b4e8b6f15bab5ed71f96c7d5265f4b5035690ebb519d737d2fb5f3ca2e7",
+  "catalogue_sha256": "751c9b4e8b6f15bab5ed71f96c7d5265f4b5035690ebb519d737d2fb5f3ca2e7",
+  "fetched": "2026-11-02T23:41:24Z",
+  "chars": 16293,
+  "portal_id": "56233",
+  "tip": "DECIZIE"
+ }
+}
