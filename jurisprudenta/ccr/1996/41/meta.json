@@ -1,0 +1,173 @@
+{
+ "key": "dcc-41-1996",
+ "label": "Decizia CCR nr. 41/1996",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "41",
+ "date": "1996-04-11",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 41 din 11 aprilie 1996",
+ "subtitle": "referitoare la constituţionalitatea unor prevederi din Legea pentru modificarea şi completarea Legii nr. 70/1991 privind alegerile locale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "77",
+  "bis": false,
+  "date": "1996-04-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 70/1991",
+    "number": "70",
+    "year": "1991",
+    "path": "lege/1991/70"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Constata ca dispoziţiile art. 14 alin. ultim din Legea nr. 70/1991, astfel cum au fost modificate prin art. I pct. 15 al Legii pentru modificarea şi completarea Legii nr. 70/1991 privind alegerile locale, precum şi cele ale art. 14^3 alin. 1, introduse prin art. I pct. 16 din aceeaşi lege, sunt constituţionale.",
+  "Decizia se comunică Preşedintelui României."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 70/1991",
+    "number": "70",
+    "year": "1991",
+    "path": "lege/1991/70"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-04-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8222",
+  "text_sha256": "c95803a2b5f6850dee6c2fd3d0aff8ca454a61f5dd20fdb9540de31633ae1ac5",
+  "catalogue_sha256": "c95803a2b5f6850dee6c2fd3d0aff8ca454a61f5dd20fdb9540de31633ae1ac5",
+  "fetched": "2026-11-02T22:50:24Z",
+  "chars": 17121,
+  "portal_id": "8222",
+  "tip": "DECIZIE"
+ }
+}
