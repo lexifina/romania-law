@@ -1,0 +1,216 @@
+{
+ "key": "dcc-134-2002",
+ "label": "Decizia CCR nr. 134/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "134",
+ "date": "2002-04-23",
+ "year": "2002",
+ "heading": "DECIZIE nr. 134 din 23 aprilie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 372, 373, 376 şi 377 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "469",
+  "bis": false,
+  "date": "2002-07-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.559/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "372",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "373",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "376",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "377",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 372, 373, 376 şi 377 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Hitrom\" - S.A. Vaslui în Dosarul nr. 7.559/2001 al Judecătoriei Vaslui.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "372",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "373",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "376",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "377",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "300",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-07-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/37000",
+  "text_sha256": "bdb05946850ffac2d132e3689e85fa5edf833a3527043dbdc835c2ff7f83cba7",
+  "catalogue_sha256": "bdb05946850ffac2d132e3689e85fa5edf833a3527043dbdc835c2ff7f83cba7",
+  "fetched": "2026-11-05T06:52:02Z",
+  "chars": 13625,
+  "portal_id": "37000",
+  "tip": "DECIZIE"
+ }
+}
