@@ -1,0 +1,45 @@
+# Anexa 2
+REPARTIZAREA PE JUDEȚE a volumului maxim de masă lemnoasă pe picior care poate fi recoltată în anul 2004 din pădurile proprietate privată a persoanelor fizice și a persoanelor juridice de drept privat
+JUDEȚUL VOLUM (mii mc)
+Alba 24.2
+Arad 93.5
+Argeș 168.1
+Bacău 88.1
+Bihor 44.7
+Bistrița-Năsăud 78.3
+Botoșani 14.5
+Brașov 59.2
+Brăila 0.1
+Buzău 86.5
+Caraș-Severin 63.0
+Călărași 0.7
+Cluj 37.0
+Constanța 0.1
+Covasna 280.0
+Dâmbovița 35.4
+Dolj 5.5
+Galați 16.0
+Giurgiu 2.0
+Gorj 44.0
+Harghita 394.8
+Hunedoara 81.3
+Ialomița 7.8
+Iași 22.8
+Ilfov 2.1
+Maramureș 157.0
+Mehedinți 23.0
+Mureș 147.1
+Neamț 72.9
+Olt 32.0
+Prahova 23.4
+Satu-Mare 42.0
+Sălaj 33.0
+Sibiu 16.4
+Suceava 262.3
+Teleorman 8.8
+Timiș 28.0
+Tulcea 0.1
+Vaslui 18.1
+Vâlcea 230.6
+Vrancea 255.6
+TOTAL 3000
