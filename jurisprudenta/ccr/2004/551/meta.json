@@ -1,0 +1,168 @@
+{
+ "key": "dcc-551-2004",
+ "label": "Decizia CCR nr. 551/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "551",
+ "date": "2004-12-16",
+ "year": "2004",
+ "heading": "DECIZIE nr. 551 din 16 decembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 329/2003 privind exercitarea profesiei de detectiv particular",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "79",
+  "bis": false,
+  "date": "2005-01-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "325/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 329/2003",
+    "number": "329",
+    "year": "2003",
+    "path": "lege/2003/329"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor Legii nr. 329/2003 privind exercitarea profesiei de detectiv particular, excepţie ridicată de Bebe Dana în Dosarul nr. 325/2004 al Curţii de Apel Alba Iulia - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 329/2003",
+    "number": "329",
+    "year": "2003",
+    "path": "lege/2003/329"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 329/2004",
+    "number": "329",
+    "year": "2004",
+    "path": "lege/2004/329"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-01-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58766",
+  "text_sha256": "8272a8cbe56d7f4343caa5282d66f2379fbb121d8ee1eed3d9be496e0b711136",
+  "catalogue_sha256": "8272a8cbe56d7f4343caa5282d66f2379fbb121d8ee1eed3d9be496e0b711136",
+  "fetched": "2026-11-02T23:52:21Z",
+  "chars": 12235,
+  "portal_id": "58766",
+  "tip": "DECIZIE"
+ }
+}
