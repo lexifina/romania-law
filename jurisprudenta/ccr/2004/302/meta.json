@@ -1,0 +1,171 @@
+{
+ "key": "dcc-302-2004",
+ "label": "Decizia CCR nr. 302/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "302",
+ "date": "2004-07-06",
+ "year": "2004",
+ "heading": "DECIZIE nr. 302 din 6 iulie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 164 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, aprobată cu modificări şi completări prin Legea nr. 174/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "752",
+  "bis": false,
+  "date": "2004-08-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "9.591/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 164 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, aprobată cu modificări şi completări prin Legea nr. 174/2004, excepţie ridicată de Societatea Comercială \"STEEL PETROL\" - S.R.L. din Oradea în Dosarul nr. 9.591/2003 al Judecătoriei Oradea.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 174/2004",
+    "number": "174",
+    "year": "2004",
+    "path": "lege/2004/174"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-08-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/54512",
+  "text_sha256": "aaa4c3c682926b549d2140ad5de4c253af49f190ac10ae436937a18b61819d50",
+  "catalogue_sha256": "aaa4c3c682926b549d2140ad5de4c253af49f190ac10ae436937a18b61819d50",
+  "fetched": "2026-11-02T23:39:33Z",
+  "chars": 8126,
+  "portal_id": "54512",
+  "tip": "DECIZIE"
+ }
+}
