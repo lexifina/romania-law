@@ -1,0 +1,2 @@
+# Anexa 1
+AVIZ Nr....../..... Ca urmare a cererii înregistrate sub nr...../..., formulată de domnul........, reprezentant al asociației/fundației/federației......., cu sediul în.........., prin care se solicită acordarea avizului Ministerului Transporturilor, Construcțiilor și Turismului, în temeiul dispozițiilor art. 7 alin. (2) din Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații, modificată și completată prin Ordonanța Guvernului nr. 37/2003, se avizează favorabil prevederile cuprinse la art.
