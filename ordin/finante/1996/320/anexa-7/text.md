@@ -1,0 +1,16 @@
+# Anexa 1/5
+MINISTERUL FINANȚELOR
+DIRECȚIA GENERALĂ A FINANȚELOR
+PUBLICE ȘI CONTROLULUI FINANCIAR
+DE STAT A JUDEȚULUI......
+UNITATEA FISCALĂ
+Nr...../...
+Către
+.................
+ADRESĂ DE CONFIRMARE DEBITE.................
+.................
+La adresa dvs. nr........ din..... 19..... vă confirmăm primirea debitului în sumă de lei........ (.............) se va scrie și în litere, reprezentând..........,
+privind pe.............., din........., str.......... nr...., bloc.., sc.... et..., ap...., făcându-vă cunoscut că debitul sus-menționat a fost înregistrat pe borderoul de debit nr.... din.. 19... și s-a întocmit înștiințarea de plată nr.... din.. 19..
+Conducătorul unității, Contabil,
+M.F. cod 14.13.17.99 Format A5/t1
+Tipărit la R.A. "Imprimeria Națională"
