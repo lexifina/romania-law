@@ -1,0 +1,182 @@
+{
+ "key": "dcc-36-1994",
+ "label": "Decizia CCR nr. 36/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "36",
+ "date": "1994-04-27",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 36*) din 27 aprilie 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 248 şi ale art. 223 din Codul penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "36",
+  "bis": false,
+  "date": "1995-02-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5620/1992"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca lipsită de obiect excepţia de neconstituţionalitate ridicată de Grameni Apostol în Dosarul nr. 5620/1992 al Judecătoriei Tulcea, întrucît, prin deciziile nr. 11 din 8 martie 1994 şi, respectiv, nr. 32 din 26 mai 1993, definitive, Curtea Constituţională a constatat ca art. 248 şi art. 223 din Codul penal au fost abrogate parţial conform art. 150 alin. (1) din Constituţie, dispoziţiile acestora urmînd a se aplică numai cu privire la bunurile prevăzute în art. 135 alin. (4) din Constituţie, bunuri ce fac obiectul exclusiv al proprietăţii publice.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-02-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4092",
+  "text_sha256": "83fb8a33b16998080b99b80f2a4b86c6bebeb1e4ad53cf867ad6a5c51ca5c1e0",
+  "catalogue_sha256": "83fb8a33b16998080b99b80f2a4b86c6bebeb1e4ad53cf867ad6a5c51ca5c1e0",
+  "fetched": "2026-11-02T22:46:38Z",
+  "chars": 7616,
+  "portal_id": "4092",
+  "tip": "DECIZIE"
+ }
+}
