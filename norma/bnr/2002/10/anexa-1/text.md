@@ -1,0 +1,2 @@
+# Anexa 1
+TARI CU PIEȚE ORGANIZATE LICHIDE O piața organizată este lichidă dacă respectiva piața își are reședința în una dintre următoarele tarii membre OCDE: 1. Australia 2. Austria 3. Belgia 4. Canada 5. Coreea 6. Danemarca 7. Elvetia 8. Finlanda 9. Franța 10. Germania 11. Grecia 12. Islanda 13. Irlanda 14. Italia 15. Japonia 16. Luxemburg 17. Marea Britanie 18. Mexic 19. Noua Zeelanda 20. Norvegia 21. Olanda 22. Polonia 23. Portugalia 24. Republica Ceha 25. Republica Slovaca 26. Spania 27. Suedia 28. Statele Unite ale Americii 29. Ungaria. ──────────────────
