@@ -1,0 +1,153 @@
+{
+ "key": "dcc-372-2004",
+ "label": "Decizia CCR nr. 372/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "372",
+ "date": "2004-09-28",
+ "year": "2004",
+ "heading": "DECIZIE nr. 372 din 28 septembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 20 alin. (1) şi (3) din Legea nr. 146/1997 privind taxele judiciare de timbru, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "936",
+  "bis": false,
+  "date": "2004-10-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.823/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 20 alin. (1) şi (3) din Legea nr. 146/1997 privind taxele judiciare de timbru, cu modificările şi completările ulterioare, excepţie ridicată de Alexandru Dumitraşcu, Steluţa Dumitraşcu, Constantin Mareş, Aurelia Cotigă, Cornelia Nicoliţă, Nicolae Berbecel şi Ilie Dumitrache în Dosarul nr. 3.823/2003 al Tribunalului Bucureşti - Secţia a V-a civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-10-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/55798",
+  "text_sha256": "0fa470992b4f04ca203390feb27788e771d6275a651ea1745f9855c05fac5117",
+  "catalogue_sha256": "0fa470992b4f04ca203390feb27788e771d6275a651ea1745f9855c05fac5117",
+  "fetched": "2026-11-05T13:49:40Z",
+  "chars": 9815,
+  "portal_id": "55798",
+  "tip": "DECIZIE"
+ }
+}
