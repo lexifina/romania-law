@@ -1,0 +1,6 @@
+# Anexa nr. 1 la instrucțiuni
+CERERE pentru acordarea licenței de lucru
+- Model -
+Agentul economic.........................................., cu sediul în................................., înregistrat..................... în baza Contractului............................. nr...................... din..........................., încheiat cu Regia Autonomă "Administrația Zonei Libere.....................................", solicit eliberarea licenței de lucru pentru activitatea de........................... pe care o voi desfășura pe parcela/magazia......................... din incinta.......................................
+Activitatea pentru care solicit licenta de lucru se va desfășura în perioada............................................ (semnatura)
+Data....................
