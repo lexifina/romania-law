@@ -1,0 +1,214 @@
+{
+ "key": "dcc-65-1993",
+ "label": "Decizia CCR nr. 65/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "65",
+ "date": "1993-11-17",
+ "year": "1993",
+ "heading": "DECIZIE nr. 65*) din 17 noiembrie 1993",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Decretului nr. 94/1983 cu privire la declararea animalelor, înstrăinarea şi tăierea bovinelor şi cabalinelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "14",
+  "bis": false,
+  "date": "1994-01-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 94/1983",
+    "number": "94",
+    "year": "1983",
+    "path": "decret/1983/94"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate invocată de Torcica Ion în dosarul nr. 10430/1992 al Judecătoriei Tirgoviste şi constata ca art. 3 şi 6 din Decretul nr. 94 din 28 martie 1983 cu privire la declararea animalelor, înstrăinarea şi taierea bovinelor şi cabalinelor au fost abrogate parţial prin art. 150 alin. (1) din Constituţie în ce priveşte dispoziţiile care încalcă dreptul de proprietate privată şi răspunderea juridică rezultate din aceasta încălcare. 2. Constata ca dispoziţiile cuprinse în art. 3 şi în art. 6 din acelaşi decret, care privesc asigurarea igienei şi a sănătăţii publice, sunt constituţionale.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 94/1983",
+    "number": "94",
+    "year": "1983",
+    "path": "decret/1983/94"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului agriculturii şi alimentaţiei nr. 79/1991",
+    "number": "79",
+    "year": "1991"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 789/1991",
+    "number": "789",
+    "year": "1991",
+    "path": "hg/1991/789"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea sanitară veterinara nr. 840/1944",
+    "number": "840",
+    "year": "1944",
+    "path": "lege/1944/840"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3216",
+  "text_sha256": "f23ebb914608691fcf4b141e06c465000da2266f37c6402f33235ea17acd2892",
+  "catalogue_sha256": "f23ebb914608691fcf4b141e06c465000da2266f37c6402f33235ea17acd2892",
+  "fetched": "2026-11-02T22:42:40Z",
+  "chars": 16934,
+  "portal_id": "3216",
+  "tip": "DECIZIE"
+ }
+}
