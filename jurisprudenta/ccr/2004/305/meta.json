@@ -1,0 +1,232 @@
+{
+ "key": "dcc-305-2004",
+ "label": "Decizia CCR nr. 305/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "305",
+ "date": "2004-07-08",
+ "year": "2004",
+ "heading": "DECIZIE nr. 305 din 8 iulie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi art. 3 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 36/2001 privind regimul preţurilor şi tarifelor reglementate, care se stabilesc cu avizul Oficiului Concurenţei, aprobată cu modificări şi completări prin Legea nr. 205/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "865",
+  "bis": false,
+  "date": "2004-09-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.886/2003",
+  "6.887/2003",
+  "128D/2004",
+  "127D/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 36/2001",
+    "number": "36",
+    "year": "2001",
+    "path": "oug/2001/36"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi art. 3 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 36/2001 privind regimul preţurilor şi tarifelor reglementate, care se stabilesc cu avizul Oficiului Concurenţei, aprobată cu modificări şi completări prin Legea nr. 205/2002, excepţie ridicată de Societatea Comercială \"European Drinks\" - S.A. Bihor şi de Societatea Comercială \"Rieni Drinks\" - S.A. Bihor în Dosarul nr. 6.886/2003 şi în Dosarul nr. 6.887/2003 ale Tribunalului Bucureşti - Secţia a VI-a comercială.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 36/2001",
+    "number": "36",
+    "year": "2001",
+    "path": "oug/2001/36"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 121/2003",
+    "number": "121",
+    "year": "2003",
+    "path": "oug/2003/121"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-09-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/55342",
+  "text_sha256": "06d9a6113b109c7b77ee04f4f5ebf297b808efc3dec2de6c30f96b30322f0a44",
+  "catalogue_sha256": "06d9a6113b109c7b77ee04f4f5ebf297b808efc3dec2de6c30f96b30322f0a44",
+  "fetched": "2026-11-02T23:40:24Z",
+  "chars": 20923,
+  "portal_id": "55342",
+  "tip": "DECIZIE"
+ }
+}
