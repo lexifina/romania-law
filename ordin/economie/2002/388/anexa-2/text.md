@@ -1,0 +1,2 @@
+# Anexa 2
+REGULAMENT 19/08/2002
