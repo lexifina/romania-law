@@ -16,8 +16,11 @@ Initiator: Guvernul României.
 - 2001-03-07: registered at the Chamber of Deputies
 - 2001-06-12: adopted by the Chamber of Deputies
 - 2001-07-02: sent for promulgation
+- 2001-07-09: promulgated, becomes Legea nr. 391/2001; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
 - 2001-02-05: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L157CR.PDF
 - 2001-03-01: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L157AM.PDF
+- 2001-07-09: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L157DP.PDF
+- 2001-07-09: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L157FP.PDF
