@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 1997-11-18: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 1997-11-19: registered at the Chamber of Deputies
 - 1998-02-03: adopted by the Chamber of Deputies
+- 1998-02-23: promulgated, becomes Legea nr. 46/1998; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -24,3 +25,5 @@ Initiator: Guvernul României.
 - 1996-06-25: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120HG.PDF
 - 1997-11-18: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120FS.PDF
 - 1997-11-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120AM.PDF
+- 1998-02-23: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120DP.PDF
+- 1998-02-23: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120FP.PDF
