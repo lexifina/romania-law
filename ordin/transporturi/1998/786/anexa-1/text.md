@@ -1,0 +1,26 @@
+# Anexa 1
+DECLARAȚIE privind obligațiile de plată pe luna... 199... la fondul Casei Asigurărilor de Sănătate a Transporturilor
+Denumirea contribuabilului...............................................
+Codul fiscal............, localitatea..............., str.............. nr......., bl......, sc.........., ap......, județul/sectorul............, codul poștal........., telefon/fax..............
+Conturi bancare.................... Banca.............................
+I. Contribuții la constituirea fondului Casei Asigurărilor de Sănătate a Transporturilor
+A. Contribuția angajatorului
+a) Data lichidării drepturilor salariale..................
+b) Fondul de salarii realizat pe lună.................. lei
+c) Contribuția datorată pe lună..................... lei
+d) Sumele restante........................... lei
+e) Totalul contribuțiilor de achitat [c) + d)]............. lei
+B. Contribuția asiguraților
+a) Numărul persoanelor asigurate......................
+b) Fondul de salarii realizat pe lună.................. lei
+c) Contribuția datorată pe lună..................... lei
+d) Sumele restante........................... lei
+e) totalul contribuțiilor de achitat [c) + d)]............. lei
+II. Documentul de plată
+Nr. crt. Numărul/data documentului Explicația plății: TOTAL (lei)
+contribuții majorări de întârziere
+Declar că am verificat datele din prezenta declarație și, în conformitate cu informațiile furnizate, o declar corectă și completă.
+Numele........................ Prenumele.................. Data...........
+Funcția...............................................
+(director general sau altă persoană autorizată)
+Semnătura și ștampila...........
