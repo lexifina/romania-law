@@ -1,0 +1,179 @@
+{
+ "key": "dcc-337-1997",
+ "label": "Decizia CCR nr. 337/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "337",
+ "date": "1997-07-15",
+ "year": "1997",
+ "heading": "DECIZIE nr. 337 din 15 iulie 1997",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 46 din Legea partidelor politice nr. 27/1996, modificată prin Ordonanţa de urgenta a Guvernului nr. 3/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "295",
+  "bis": false,
+  "date": "1997-10-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "5/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 27/1996",
+    "number": "27",
+    "year": "1996",
+    "path": "lege/1996/27"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Nica Leon, preşedintele Partidului Liber Democrat, împotriva Deciziei Curţii Constituţionale nr. 10 din 22 ianuarie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 27/1996",
+    "number": "27",
+    "year": "1996",
+    "path": "lege/1996/27"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 3/1996",
+    "number": "3",
+    "year": "1996",
+    "path": "oug/1996/3"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12493",
+  "text_sha256": "8217826ced6e9fcc41550882e607dd042f3ba8cd36bc8f3a02844846b8a663e5",
+  "catalogue_sha256": "8217826ced6e9fcc41550882e607dd042f3ba8cd36bc8f3a02844846b8a663e5",
+  "fetched": "2026-11-02T22:56:27Z",
+  "chars": 9821,
+  "portal_id": "12493",
+  "tip": "DECIZIE"
+ }
+}
