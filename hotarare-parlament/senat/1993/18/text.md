@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 18 din 1 septembrie 1993  pentru alegerea vicepreşedinţilor Senatului     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 220 din 8 septembrie 1993     În temeiul art. 61 alin. (2) şi (5) din Constituţia României şi al art. 16 şi 20 din Regulamentul Senatului,  Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Se aleg în funcţia de vicepreşedinte al Senatului următorii senatori:  - Doru Ioan Tărăcilă - Grupul parlamentar al Partidului Democraţiei Sociale din România (P.D.S.R.)  - Ioan Lup - Grupul parlamentar al Partidului Naţional Ţărănesc Creştin Democrat (P.N.Ţ.C.D.)  - Eugen Dijmărescu - Grupul parlamentar al Partidului Democrat (Frontul Salvării Naţionale)  - Ioan Joarză - Grupul Parlamentar al Partidului Uniunii Naţionale Române (P.U.N.R.)  PREŞEDINTELE SENATULUI  prof. univ. dr. OLIVIU GHERMAN  Bucureşti, 1 septembrie 1993.  Nr. 18.  -------
