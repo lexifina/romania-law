@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 1996-09-02: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 1997-11-21: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Guvernul României.
 - 1996-09-02: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L156LG.PDF
 - 1996-09-02: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L156OG.PDF
 - 1996-09-02: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L156HG.PDF
+- 1997-11-21: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L156CR.PDF
