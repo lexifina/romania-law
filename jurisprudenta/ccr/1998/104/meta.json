@@ -1,0 +1,130 @@
+{
+ "key": "dcc-104-1998",
+ "label": "Decizia CCR nr. 104/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "104",
+ "date": "1998-07-09",
+ "year": "1998",
+ "heading": "DECIZIE nr. 104 din 9 iulie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Decretului nr. 223/1974 privind reglementarea situaţiei unor bunuri",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "281",
+  "bis": false,
+  "date": "1998-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibila excepţia de neconstituţionalitate a Decretului nr. 223/1974 privind reglementarea situaţiei unor bunuri, invocată de Bartos Doina în Dosarul nr. 548/C/R/1997 al Curţii de Apel Braşov.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15292",
+  "text_sha256": "08174c23fa67a74b5aaf78e1e5da991b513419274daede15cea314cd1274bb01",
+  "catalogue_sha256": "08174c23fa67a74b5aaf78e1e5da991b513419274daede15cea314cd1274bb01",
+  "fetched": "2026-11-02T23:01:01Z",
+  "chars": 5304,
+  "portal_id": "15292",
+  "tip": "DECIZIE"
+ }
+}

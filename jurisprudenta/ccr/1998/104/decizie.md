@@ -1,0 +1,25 @@
+# DECIZIE nr. 104 din 9 iulie 1998
+referitoare la excepţia de neconstituţionalitate a Decretului nr. 223/1974 privind reglementarea situaţiei unor bunuri
+Ioan Muraru - preşedinte Costica Bulai - judecător Nicolae Popa - judecător Lucian Stangu - judecător Florin Bucur Vasilescu - judecător Romul Petru Vonica - judecător Paula C. Pantea - procuror Gabriela Dragomirescu - magistrat-asistent Pe rol, pronunţarea asupra excepţiei de neconstituţionalitate a Decretului nr. 223/1974 privind reglementarea situaţiei unor bunuri, invocată de Bartos Doina în Dosarul nr. 548/C/R/1997 al Curţii de Apel Braşov.
+Dezbaterile au avut loc în şedinţa publică din data de 30 iunie 1998, în prezenta părţilor şi a reprezentantului Ministerului Public, şi au fost consemnate în încheierea de la acea data, când Curtea, având nevoie de timp pentru a delibera, a amânat pronunţarea pentru data de 9 iulie 1998.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Curtea de Apel Braşov, prin Încheierea din 6 martie 1998, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a Decretului nr. 223/1974, ridicată de Bartos Doina în Dosarul nr. 548/C/R/1997 al acestei instanţe.
+În motivarea excepţiei se susţine ca Decretul nr. 223/1974 este neconstitutional, deoarece contravine art. 12 din Constituţia din anul 1965 şi art. 41 din actuala Constituţie, precum şi dispoziţiilor constituţionale ale art. 20, corelat cu prevederile Declaraţiei Universale a Drepturilor Omului şi ale Convenţiei europene pentru apărarea drepturilor omului şi a libertăţilor fundamentale, privitoare la dreptul de proprietate.
+Exprimandu-şi opinia, instanţa de judecată apreciază ca, în legătură cu neconstituţionalitatea Decretului nr. 223/1974, singura competenţa să se pronunţe este Curtea Constituţională.
+Potrivit art. 24 alin. (1) din Legea nr. 47/1992, republicată, s-au solicitat puncte de vedere preşedinţilor celor două Camere ale Parlamentului şi Guvernului.
+În punctul de vedere al Guvernului se apreciază ca excepţia de neconstituţionalitate este neîntemeiată, deoarece, potrivit dispoziţiilor art. 23 alin. (1) din Legea nr. 47/1992, Curtea Constituţională decide asupra excepţiilor ridicate în faţa instanţei judecătoreşti privind neconstituţionalitatea unei legi sau ordonanţe ori a unei dispoziţii dintr-o lege sau ordonanţa în vigoare şi de care depinde soluţionarea cauzei. Or, Decretul nr. 223/1974 privind reglementarea situaţiei unor bunuri a fost abrogat expres prin Decretul-lege nr. 9/1989.
+Preşedinţii celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Guvernului, raportul întocmit de judecătorul-raportor, susţinerile părţilor, concluziile procurorului, dispoziţiile legale atacate, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, republicată, retine următoarele:
+În temeiul art. 144 lit. c) din Constituţie şi al art. 23 din Legea nr. 47/1992, Curtea este competenţa să soluţioneze excepţia de neconstituţionalitate invocată.
+Decretul nr. 223/1974 privind reglementarea situaţiei unor bunuri a fost abrogat prin Decretul-lege nr. 9 din 31 decembrie 1989, publicat în Monitorul Oficial al României, Partea I, nr. 9 din 31 decembrie 1989.
+Având în vedere ca un text abrogat nu poate face obiectul controlului de constituţionalitate, Curtea urmează sa respingă excepţia ca inadmisibila, în temeiul art. 23 alin. (1) din Legea nr. 47/1992.
+De altfel, în legătură cu Decretul nr. 223/1974 au mai fost invocate excepţii de neconstituţionalitate, Curtea Constituţională pronunţându-se prin deciziile nr. 14 şi nr. 15 din 10 martie 1993, ambele publicate în Monitorul Oficial al României, Partea I, nr. 96 din 18 mai 1993. Prin aceste decizii, Curtea Constituţională a respins ca vadit nefondate excepţiile de neconstituţionalitate, reţinându-se ca, urmare abrogării exprese a Decretului nr. 223/1974, intervenţia Curţii Constituţionale în aprecierea constituţionalităţii unor norme juridice care şi-au încetat existenta ar fi contrară rolului şi funcţiilor sale, stabilite prin Constituţie, precum şi principiului neretroactivitatii legii.
+Cat priveşte situaţia de fapt, pe larg expusă în şedinţa de dezbateri din 30 iunie 1998 şi în notele scrise depuse la dosar, Curtea Constituţională nu este competenţa să se pronunţe. Potrivit art. 2 alin. (3) din Legea nr. 47/1992, în exercitarea controlului de constituţionalitate Curtea se pronunţa numai asupra problemelor de drept.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c.), al art. 23 şi al art. 25 din Legea nr. 47/1992, republicată,
+CURTEA În numele legii
+DECIDE:
+Respinge ca inadmisibila excepţia de neconstituţionalitate a Decretului nr. 223/1974 privind reglementarea situaţiei unor bunuri, invocată de Bartos Doina în Dosarul nr. 548/C/R/1997 al Curţii de Apel Braşov.
+Definitivă.
+Pronunţată în şedinţa publică din data de 9 iulie 1998.
+PREŞEDINTELE CURŢII
+CONSTITUŢIONALE, prof.univ.dr. IOAN MURARU Magistrat-asistent, Gabriela Dragomirescu -----------
