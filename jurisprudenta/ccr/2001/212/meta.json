@@ -1,0 +1,188 @@
+{
+ "key": "dcc-212-2001",
+ "label": "Decizia CCR nr. 212/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "212",
+ "date": "2001-06-28",
+ "year": "2001",
+ "heading": "DECIZIE nr. 212 din 28 iunie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 40 lit. a), teza a doua, din Legea nr. 3/1977 privind pensiile de asigurări sociale de stat şi asistenţa socială, astfel cum au fost preluate de art. 66 lit. b) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "665",
+  "bis": false,
+  "date": "2001-10-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.638/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 40 lit. a), teza a doua, din Legea nr. 3/1977 privind pensiile de asigurări sociale de stat şi asistenţa socială, astfel cum au fost preluate de art. 66 lit. b) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, excepţie ridicată de Gabriel Dragos Visan în Dosarul nr. 8.638/2000 al Curţii de Apel Timişoara - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-10-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/31423",
+  "text_sha256": "4abcf1a9c2239155d000c37dd2315d98a75877124bec6beb0fbd3c296453596a",
+  "catalogue_sha256": "4abcf1a9c2239155d000c37dd2315d98a75877124bec6beb0fbd3c296453596a",
+  "fetched": "2026-11-02T23:16:53Z",
+  "chars": 11098,
+  "portal_id": "31423",
+  "tip": "DECIZIE"
+ }
+}
