@@ -1,0 +1,156 @@
+{
+ "key": "dcc-160-1998",
+ "label": "Decizia CCR nr. 160/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "160",
+ "date": "1998-11-10",
+ "year": "1998",
+ "heading": "DECIZIE nr. 160 din 10 noiembrie 1998",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare (aprobată şi modificată prin Legea nr. 131/1996) şi a dispoziţiilor Ordonanţei Guvernului nr. 26/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare (aprobată şi modificată prin Legea nr. 88/1998)",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "472",
+  "bis": false,
+  "date": "1998-12-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "548/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 26/1997",
+    "number": "26",
+    "year": "1997",
+    "path": "og/1997/26"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare (aprobată şi modificată prin Legea nr. 131/1996) şi a dispoziţiilor Ordonanţei Guvernului nr. 26/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare (aprobată şi modificată prin Legea nr. 88/1998), excepţie ridicată de Societatea Comercială \"Omega Prodcom\" - S.R.L., cu sediul în Tarnaveni, judeţul Mures, în Dosarul nr. 548/1998 al Judecătoriei Tarnaveni.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 26/1997",
+    "number": "26",
+    "year": "1997",
+    "path": "og/1997/26"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "7",
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-12-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16307",
+  "text_sha256": "1f8d3e52e28968481163723786abca2d35d06bd98b9f8395ecaa8f7922262cc2",
+  "catalogue_sha256": "1f8d3e52e28968481163723786abca2d35d06bd98b9f8395ecaa8f7922262cc2",
+  "fetched": "2026-11-02T23:02:10Z",
+  "chars": 7565,
+  "portal_id": "16307",
+  "tip": "DECIZIE"
+ }
+}
