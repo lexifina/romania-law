@@ -1,0 +1,173 @@
+{
+ "key": "cedo-34647-97-2003-06-17",
+ "label": "CEDO, Ruianu c. României, 2003-06-17",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2003-06-17",
+ "year": "2003",
+ "heading": "HOTĂRÂRE din 17 iunie 2003",
+ "subtitle": "în cauza Ruianu împotriva României(Cererea nr. 34647/97)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "1139",
+  "bis": false,
+  "date": "2004-12-02",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "34647/97"
+ ],
+ "case_name": "Ruianu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA 1. declară în unanimitate cererea admisibilă; 2. hotărăşte, cu 6 voturi contra 1, că a fost încălcat articolul 6 alineatul 1 din Convenţie; 3. hotărăşte, în unanimitate, că nu este necesar să se pronunţe asupra capetelor de cerere fondate pe articolul 8 din Convenţie şi pe articolul 1 din Primul Protocol adiţional la Convenţie; 4. hotărăşte, cu 6 voturi contra 1",
+  "a) că statul pârât trebuie să plătească văduvei reclamantului, în 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, sumele următoare, ce urmează să fie plătite în lei, conform ratei de schimb aplicabile la momentul plăţii:",
+  "i. 10.000 euro pentru prejudiciul material şi moral; îi. 1.000 euro cu titlu de cheltuieli de judecată;",
+  "b) aceste sume vor fi majorate, începând de la data expirării termenului menţionat până la momentul efectuării plăţii, cu o dobândă simplă de întârziere egală cu dobânda minimă pentru împrumut practicată de Banca centrală europeană, valabilă în această perioadă, la aceasta adăugându-se o majorare cu 3 puncte procentuale;",
+  "5. Respinge, în unanimitate, cererea de acordare a unei satisfacţii echitabile pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 453/2001",
+    "number": "453",
+    "year": "2001",
+    "path": "lege/2001/453"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "373",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57280",
+  "text_sha256": "61cfa1da95de65451fc921430acbbbae2acaf8c96f4ac7d0928b90babf3164a5",
+  "catalogue_sha256": "61cfa1da95de65451fc921430acbbbae2acaf8c96f4ac7d0928b90babf3164a5",
+  "fetched": "2026-11-02T23:46:53Z",
+  "chars": 46325,
+  "portal_id": "57280",
+  "tip": "HOTĂRÂRE"
+ }
+}
