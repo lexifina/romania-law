@@ -1,0 +1,161 @@
+{
+ "key": "dcc-74-1998",
+ "label": "Decizia CCR nr. 74/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "74",
+ "date": "1998-05-05",
+ "year": "1998",
+ "heading": "DECIZIE nr. 74 din 5 mai 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. I pct. 52 din Ordonanţa de urgenta a Guvernului nr. 15/1997 pentru modificarea şi completarea Legii privatizării societăţilor comerciale nr. 58/1991",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "209",
+  "bis": false,
+  "date": "1998-06-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.678/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 15/1997",
+    "number": "15",
+    "year": "1997",
+    "path": "oug/1997/15"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 52 din Ordonanţa de urgenta a Guvernului nr. 15/1997 pentru modificarea şi completarea Legii privatizării societăţilor comerciale nr. 58/1991, invocată de Societatea Comercială \"Casa Alba\" - S.A. în Dosarul nr. 4.678/1997 al Tribunalului Bucureşti - Secţia comercială.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 15/1997",
+    "number": "15",
+    "year": "1997",
+    "path": "oug/1997/15"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1991",
+    "number": "58",
+    "year": "1991",
+    "path": "lege/1991/58"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-06-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14838",
+  "text_sha256": "d159fe30717af9fb5ced7ee553ce65a364d3113d7f5980e237e331d0764bc5c1",
+  "catalogue_sha256": "d159fe30717af9fb5ced7ee553ce65a364d3113d7f5980e237e331d0764bc5c1",
+  "fetched": "2026-11-02T23:00:32Z",
+  "chars": 7949,
+  "portal_id": "14838",
+  "tip": "DECIZIE"
+ }
+}
