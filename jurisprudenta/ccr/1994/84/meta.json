@@ -1,0 +1,167 @@
+{
+ "key": "dcc-84-1994",
+ "label": "Decizia CCR nr. 84/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "84",
+ "date": "1994-07-25",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 84*) din 25 iulie 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 224, 234 şi 248 din Codul penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "297",
+  "bis": false,
+  "date": "1994-10-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2011/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a prevederilor art. 224, 234 şi 248 din Codul penal invocată de Peta Vladimir, Balanica Stelian, Mitrea Ionel, Cornea Costica, Anton Viorel, Harabagiu Mihaita, Timos Neculai, Balanica Nicu, Chevici Mihai, Zaharia Petre, Pintilie Costica, Rusu Petruta, Rotaru Victor, Gavrila Fanica, Şerban Mitica, Pascu Gigel, Giusca Neculai, Capatan Petrica, Ganea Marinel, Cosma Dumitru-Daniel, Tofan Iordache, Ene Iordache, Savin Nicu, Dobrincu Mironescu Stefania, Vasiliu Florea Cristina, Vasilache Angelica, Marcu Camelia, Serbanescu Mariana, Scarlat Virginia, Gheorghiu Cornelia, Beldie Fanica, Vlasie Ion-Vasile şi de Societatea Comercială \"Atlas\" - S.A. Galaţi, în Dosarul nr. 2011/1993 al Tribunalului Galaţi.",
+  "Cu recurs în 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-10-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4341",
+  "text_sha256": "7974dc47a2bda6fdc37a99e808358b24b79e9282a0f43aab4e9d4b02507fceff",
+  "catalogue_sha256": "7974dc47a2bda6fdc37a99e808358b24b79e9282a0f43aab4e9d4b02507fceff",
+  "fetched": "2026-11-02T22:45:40Z",
+  "chars": 4904,
+  "portal_id": "4341",
+  "tip": "DECIZIE"
+ }
+}
