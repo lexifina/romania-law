@@ -1,0 +1,2 @@
+# Articolul unic
+Se retrage Licenta de emisie nr. R 132 din 27 octombrie 1994 pentru radiodifuziune, acordată Societății Comerciale "Tehnosat" - S.R.L. Giurgiu, începând cu data de 26 martie 1999, orele 0,00, potrivit art. 37 alin. (1) lit. d) din Legea audiovizualului nr. 48/1992 . Aceasta măsura a fost luată de Consiliul Național al Audiovizualului ca urmare a încălcării de către societatea comercială a Deciziei Consiliului Național al Audiovizualului nr. 3 din 13 ianuarie 1998. PREȘEDINTELE CONSILIULUI NAȚIONAL AL AUDIOVIZUALULUI, MIRCEA SORIN MOLDOVAN --------
