@@ -1,0 +1,178 @@
+{
+ "key": "dcc-174-1999",
+ "label": "Decizia CCR nr. 174/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "174",
+ "date": "1999-11-04",
+ "year": "1999",
+ "heading": "DECIZIE nr. 174 din 4 noiembrie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 257 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "639",
+  "bis": false,
+  "date": "1999-12-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.409/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 257 din Codul de procedură penală, ridicată de Şerban Alexandru Danciu în Dosarul nr. 2.409/1999 al Judecătoriei Buftea.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "261",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "251",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-12-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20370",
+  "text_sha256": "64ca691331a5652d7f0c4a72d645f24fe5961727d188ff76bdbf370988c3fabd",
+  "catalogue_sha256": "64ca691331a5652d7f0c4a72d645f24fe5961727d188ff76bdbf370988c3fabd",
+  "fetched": "2026-11-02T23:06:27Z",
+  "chars": 13001,
+  "portal_id": "20370",
+  "tip": "DECIZIE"
+ }
+}
