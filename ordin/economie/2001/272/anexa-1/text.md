@@ -1,0 +1,8 @@
+# Anexa 1
+ACTIVITĂȚI SPECIFICE necesare în vederea îndeplinirii condițiilor de efectuare a transportului rutier al mărfurilor periculoase 1. Agrearea unităților care efectuează proiectarea și avizarea proiectelor și agrearea unităților care efectuează construcția și amenajarea-repararea următoarelor tipuri de suprastructuri specializate ale vehiculelor ce transporta mărfuri periculoase, conform A.D.R.:
+a) rezervoare-cisterna fixe sau demontabile;
+b) containere;
+c) stelaje pentru butelii și butoaie;
+d) stelaje pentru containere tip recipient sau tip cutie;
+e) buncare pentru produse pulverulente.
+2. Omologarea și autorizarea, conform A.D.R., a suprastructurilor specializate prevăzute la pct. 1 3. Agrearea unităților care efectuează proiectarea și avizarea proiectelor și agrearea unităților care efectuează construcția și repararea ambalajelor, inclusiv a celor de tip recipient, destinate transportului de mărfuri periculoase, conform A.D.R. 4. Omologarea și autorizarea, conform A.D.R., a ambalajelor, inclusiv a celor de tip recipient, destinate transportului mărfurilor periculoase 5. Inspecțiile tehnice periodice pentru suprastructurile specializate prevăzute la pct. 1 și, după caz, a ambalajelor prevăzute la pct. 3 6. Avizarea fișelor de siguranță tip pentru substanțe sau grupe de substanțe prevăzute de A.D.R., elaborate de producător sau de alți operatori 7. Avizarea activităților de ambalare, etichetare, depozitare și expediere a mărfurilor periculoase, în conformitate cu cerințele A.D.R. 8. Instruirea și atestarea personalului implicat în activități legate de transportul rutier al mărfurilor periculoase.
