@@ -1,0 +1,193 @@
+{
+ "key": "dcc-125-2001",
+ "label": "Decizia CCR nr. 125/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "125",
+ "date": "2001-04-26",
+ "year": "2001",
+ "heading": "DECIZIE nr. 125 din 26 aprilie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 10 alin. (3) şi art. 11 alin. (2) din Ordonanţa de urgenta a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "466",
+  "bis": false,
+  "date": "2001-08-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "969/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 10 alin. (3) şi ale art. 11 alin. (2) din Ordonanţa de urgenta a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe, excepţie ridicată de Maria Dinu în Dosarul nr. 969/2000 al Tribunalului Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-08-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/30104",
+  "text_sha256": "e064226803266064f144db7037a2b1a3df02a4f05e005ceaf7968b75f799e0fd",
+  "catalogue_sha256": "e064226803266064f144db7037a2b1a3df02a4f05e005ceaf7968b75f799e0fd",
+  "fetched": "2026-11-02T23:15:42Z",
+  "chars": 9644,
+  "portal_id": "30104",
+  "tip": "DECIZIE"
+ }
+}
