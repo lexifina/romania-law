@@ -1,0 +1,215 @@
+{
+ "key": "dcc-26-2004",
+ "label": "Decizia CCR nr. 26/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "26",
+ "date": "2004-01-27",
+ "year": "2004",
+ "heading": "DECIZIE nr. 26 din 27 ianuarie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 32 alin. (5) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii, republicată, astfel cum a fost modificată şi completată prin Legea nr. 401/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "163",
+  "bis": false,
+  "date": "2004-02-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 32 alin. (5) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii, republicată, astfel cum a fost modificată şi completată prin Legea nr. 401/2003, excepţie ridicată de Federalcoop Constanţa în Dosarul nr. 458/RCA/2003 al Tribunalului Constanţa - Secţia civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 453/2001",
+    "number": "453",
+    "year": "2001",
+    "path": "lege/2001/453"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-02-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49957",
+  "text_sha256": "ae1b91f50161327dd6e46f52146bce2be96b109d344aa3bd9cc4e6c1e3349ae9",
+  "catalogue_sha256": "ae1b91f50161327dd6e46f52146bce2be96b109d344aa3bd9cc4e6c1e3349ae9",
+  "fetched": "2026-11-02T23:34:57Z",
+  "chars": 10249,
+  "portal_id": "49957",
+  "tip": "DECIZIE"
+ }
+}
