@@ -1,0 +1,176 @@
+{
+ "key": "dcc-255-2002",
+ "label": "Decizia CCR nr. 255/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "255",
+ "date": "2002-09-24",
+ "year": "2002",
+ "heading": "DECIZIE nr. 255 din 24 septembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (2) din Legea nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţionala, ordine publică şi siguranţa naţionala, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "778",
+  "bis": false,
+  "date": "2002-10-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "lege/1999/138"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca fiind inadmisibila excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (2) din Legea nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţionala, ordine publică şi siguranţa naţionala, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii, excepţie ridicată de Valer Crisan, Florian Gombos, Maria Burduhos, Liviu Boros, Livia Maria Muscas şi Alexandru Erdeli în Dosarul nr. 1.490/CA/2002 al Curţii de Apel Oradea.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "lege/1999/138"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 38/2001",
+    "number": "38",
+    "year": "2001",
+    "path": "oug/2001/38"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-10-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/39358",
+  "text_sha256": "6069b808543beaace9bad3ea54e874ef62877b3acd7011963a856b489cd1dda9",
+  "catalogue_sha256": "6069b808543beaace9bad3ea54e874ef62877b3acd7011963a856b489cd1dda9",
+  "fetched": "2026-11-02T23:24:29Z",
+  "chars": 8108,
+  "portal_id": "39358",
+  "tip": "DECIZIE"
+ }
+}
