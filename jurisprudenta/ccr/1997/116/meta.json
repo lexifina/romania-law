@@ -1,0 +1,105 @@
+{
+ "key": "dcc-116-1997",
+ "label": "Decizia CCR nr. 116/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "116",
+ "date": "1997-05-21",
+ "year": "1997",
+ "heading": "DECIZIE nr. 116 din 21 mai 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. IV pct. 3 şi 7 din Ordonanţa Guvernului nr. 18 din 21 ianuarie 1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "292",
+  "bis": false,
+  "date": "1997-10-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "2.068/1996"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Societatea Comercială \"Upet\" - S.A. Targoviste împotriva Deciziei Curţii Constituţionale nr. 16 din 28 ianuarie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-10-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11681",
+  "text_sha256": "503a8a4fbb2e3e9d8aa9c001f1beadbc35493b3bb5641c386bc1c0d9cf24f8fa",
+  "catalogue_sha256": "503a8a4fbb2e3e9d8aa9c001f1beadbc35493b3bb5641c386bc1c0d9cf24f8fa",
+  "fetched": "2026-11-02T22:56:25Z",
+  "chars": 5966,
+  "portal_id": "11681",
+  "tip": "DECIZIE"
+ }
+}
