@@ -1,0 +1,134 @@
+{
+ "key": "dcc-212-2004",
+ "label": "Decizia CCR nr. 212/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "212",
+ "date": "2004-05-04",
+ "year": "2004",
+ "heading": "DECIZIE nr. 212 din 4 mai 2004",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 171 alin. (1) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscala",
+ "issuer": "CURTEA CONSTITUTIONALA",
+ "mo": {
+  "number": "451",
+  "bis": false,
+  "date": "2004-05-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.457/2003",
+  "6.775/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstitutionalitate a dispoziţiilor art. 171 alin. (1) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscala, excepţie ridicata de Societatea Comerciala \"Florgabin\" - S.R.L. din Alexandria, prin administrator Florea Bulumac, în Dosarul nr. 1.457/2003 al Curtii de Apel Bucureşti - Sectia de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 13/2001",
+    "number": "13",
+    "year": "2001",
+    "path": "oug/2001/13"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52024",
+  "text_sha256": "a4344077f5b5d48dd48fa554cf06d4dfb964536dff969f56050de08e4210cc0b",
+  "catalogue_sha256": "a4344077f5b5d48dd48fa554cf06d4dfb964536dff969f56050de08e4210cc0b",
+  "fetched": "2026-11-02T23:37:02Z",
+  "chars": 8866,
+  "portal_id": "52024",
+  "tip": "DECIZIE"
+ }
+}
