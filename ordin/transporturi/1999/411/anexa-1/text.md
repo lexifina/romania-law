@@ -1,0 +1,435 @@
+# Anexa 1
+NOMENCLATORUL de funcții ale personalului din activitatea de transport feroviar și cu metroul, care lucrează sau concura la siguranța circulației trenurilor ──────────────────────────────────────────────────────────────────────────────
+Nr.
+Meseria, funcția
+C.F.R.
+C.F.R. S.A.A.F. Metrorex crt.
+C.F.R. Cala-
+Marfa- S.A.
+București
+S.A. tori-
+S.A.
+S.A.
+S.A. ────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 ──────────────────────────────────────────────────────────────────────────────
+1. Acar x x x
+-
+-
+2. Acar masa manevra, acar comanda automată a macazurilor
+- x x
+-
+-
+3. Conductor tren x x
+-
+-
+-
+4. Cantonier x
+-
+-
+-
+-
+5. Pazitor bariera x
+-
+-
+-
+-
+6. Conducător autodrezina, tren ajutor, tren macara x x x
+-
+-
+7. Conducător drezina
+-
+-
+-
+- x
+8. Conducător vagon motor x
+-
+-
+- x
+9. Controlor tehnic de calitate (defectoscopie)
+-
+-
+-
+- x 10. Dispecer circulație (I, II) x x x
+-
+- 11. Dispecer (linii, tunele, construcții speciale, semnalizare, centralizare, blocare, electroenergetician)
+-
+-
+-
+- x 12. Electromecanic semnalizare, centralizare, blocare x
+-
+-
+- x 13. Electromecanic instalații fixe transport electric x
+-
+-
+-
+- 14. Electromecanic electroenergetician (fir contact)
+-
+-
+-
+- x 15. Franar
+- x x
+-
+- 16. Fochist locomotiva
+- x x
+-
+- 17. Impiegat de mișcare (1A, I, II, III, IV) x
+-
+-
+- x 18. Impiegat de mișcare - responsabil halta (I, II) x
+-
+-
+-
+- 19. Instructor x x x
+-
+- 20. Instructor regional, central x x x x
+- 21. Inginer din regionale și agenții (I, II, III, IV) x
+- x
+-
+- 22. Inginer (control ultrasonic)
+-
+- x
+- x 23. Lacatus mecanic întreținere cale, aparate cale și ungerea caii
+-
+-
+-
+- x 24. Lacatus mecanic vagon măsurat calea
+-
+-
+-
+- x 25. Lacatus montator agregate energetice și de transport, lacatus reparații locomotive
+-
+- x
+-
+- 26. Magaziner tranzit, comercial
+- x x
+-
+- 27. Macaragiu x
+-
+-
+-
+- 28. Manevrant vagoane x x x
+-
+- 29. Mecanic locomotiva - automotor x x x
+-
+- 30. Mecanic locomotiva și rama electrica metrou
+-
+-
+-
+- x 31. Mecanic ajutor locomotiva - automotor x x x
+-
+- 32. Mecanic ajutor locomotiva și rama electrica metrou
+-
+-
+-
+- x 33. Mecanic (ajutor) mașini grele de cale (I și II) x
+-
+-
+-
+- 34. Mecanic (ajutor) mașini grele sudura cai (I și II) x
+-
+-
+-
+- 35. Mecanic instructor
+- x x
+- x 36. Maistru lucrări arta x
+-
+-
+-
+- 37. Maistru (linii, tunele, sudura, semnalizare, centralizare, blocare, electroenergetician fir contact)
+-
+-
+-
+- x
+38. Maistru (activitate control ultrasonic)
+-
+-
+-
+- x 39. Montator (semnalizare, centralizare, blocare, instalații fixe transport electric) x
+-
+-
+-
+- 40. Meserias de cale I (linii, tunele, construcții speciale)
+-
+-
+-
+- x 41. Operator (I, II, III) x x x
+-
+- 42. Operator mișcare
+-
+-
+-
+- x 43. Operator tracțiune
+- x x
+- x 44. Operator vagoane
+- x x
+-
+- 45. Operator manevra statie
+- x x
+-
+- 46. Operator programator statie
+- x x
+-
+- 47. Picher x
+-
+-
+- x 48. Revizor cale și puncte periculoase
+-
+-
+-
+- x 49. Revizor cale x
+-
+-
+-
+- 50. Revizor puncte periculoase x
+-
+-
+-
+- 51. Revizor tehnic vagoane x x x
+-
+- 52. Revizor locomotiva - automotor
+- x x
+-
+- 53. Revizor locomotiva și rama electrica metrou
+-
+-
+-
+- x 54. Revizor ace x
+- x
+-
+- 55. Revizor sector siguranța circulației x x x
+- x 56. Revizor regional siguranța circulației x x x x
+- 57. Revizor central siguranța circulației x x x x
+- 58. Revizor siguranța circulației
+-
+-
+-
+- x 59. Sudor întreținere cale și aparate cale
+-
+-
+-
+- x 60. Șef manevra x x x
+-
+- 61. Șef manevra instalatie tip WSSB
+-
+- x
+-
+- 62. Șef manevra comanda automată a macazurilor
+-
+- x
+-
+- 63. Subinginer (control ultrasonic)
+-
+-
+-
+- x 64. Șef tren x x x
+-
+- 65. Șef tren macara x
+-
+-
+-
+- 66. Șef echipa întreținere cale, lucrări de arta x
+-
+-
+- x 67. Șef formatie (linii, tunele)
+-
+-
+-
+- x 68. Șef atelier (tracțiune, vagoane) -
+- x
+-
+- 69. Șef tura mișcare x
+- x
+-
+- 70. Șef tura comercial
+- x x
+-
+- 71. Șef tura exploatare marfa
+-
+- x
+-
+- 72. Șef tranzit
+-
+- x
+-
+- 73. Șef tura tracțiune
+- x x
+-
+- 74. Șef tura depou
+- x x
+- x 75. Șef tura vagoane
+- x x
+-
+- 76. Șef tura regulator x x x
+-
+- 77. Șef district (linii, semnalizare, centralizare, blocare, regulator circulație și cabluri, poduri, exploatare utilaje) x
+-
+-
+-
+- 78. Șef district (linii, tunele, construcții speciale)
+-
+-
+-
+- x 79. Șef remiza locomotiva - automotor -
+- x
+-
+- 80. Șef post revizie vagoane
+- x x
+-
+- 81. Șef secție adjunct
+- x x
+-
+- 82. Șef secție exploatare tracțiune
+- x x
+-
+- 83. Șef punct alimentare și echipare tracțiune
+-
+- x
+-
+- 84. Șef secție întreținere și reparare vagoane
+-
+- x
+-
+- 85. Șef depou adjunct
+- x x
+-
+- 86. Șef depou adjunct (exploatare)
+-
+- x
+- x 87. Șef revizie vagoane adjunct
+- x x
+-
+- 88. Șef secție
+- x x
+-
+- 89. Șef depou
+- x x
+-
+- 90. Șef revizie vagoane
+- x x
+-
+- 91. Șef statie rezerva x x x
+-
+- 92. Șef statie adjunct (I, II)
+- x x
+-
+- 93. Șef statie (I, II, III, IV) x x x
+-
+- 94. Șef magazie marfa
+-
+- x
+-
+- 95. Șef laborator semnalizare, centralizare, blocare x
+-
+-
+-
+- 96. Șef secție, șef secție adjunct (linii, centralizare și tele- x
+-
+-
+-
+- comanda) 97. Șef zona instalații fixe transport electric x
+-
+-
+-
+- 98. Șef centru instalații fixe transport electric x
+-
+-
+-
+- 99. Șef regulator adjunct x
+- x
+- x 100. Șef regulator x
+- x
+- x 101. Șef divizie x
+- x
+-
+- 102. Șef serviciu siguranța circulației, regional, central x x x
+- x 103. Șef serviciu control siguranța circulației
+-
+-
+- x
+- 104. Tehnician (activitate control ultrasonic)
+- x
+-
+- x 105. Magaziner șef tura tranzit, comercial
+- x x
+-
+- 106. Conductor vagon de dormit și cuseta
+- x
+-
+-
+- 107. Șef halta
+- x
+-
+-
+- 108. Operator comercial
+- x x
+-
+- 109. Operator exploatare comercială
+- x
+-
+-
+- 110. Operator șef exploatare comercială
+- x x
+-
+- 111. Șef tura la comanda personalului de tren
+- x x
+-
+- 112. Șef tura la comanda personalului VRD
+- x
+-
+-
+- 113. Casier cf
+-
+- x
+-
+- 114. Maistru reparatie și întreținere locomotive și vagoane
+-
+- x
+-
+- 115. Scriitor vagoane
+-
+- x
+-
+- 116. Șef atelier (tracțiune, vagoane)
+-
+- x
+-
+- 117. Electrician montator instalații electrice la mijloace de transport feroviar
+-
+- x
+-
+- 118. Șef centru comercial
+-
+- x
+-
+- 119. Șef centru comercial adjunct
+-
+- x
+-
+- 120. Șef formatie tranzit reclamații -
+- x
+-
+- 121. Șef halta
+-
+- x
+-
+- 122. Șef manevra CAM
+-
+- x
+-
+- 123. Șef tura marfa
+-
+- x
+-
+- 124. Șef tura centru comercial
+-
+- x
+-
+- 125. Montator I (semnalizare, centralizare, blocare, electro- energetician fir contact)
+-
+-
+-
+- x 126. Instructor (linii, tunele, construcții speciale, semnalizare, centralizare, blocare, mișcare, electroenergetician)
+-
+-
+-
+- x ───────────────────────────────────────────────────────────────────────────────
+-----------
