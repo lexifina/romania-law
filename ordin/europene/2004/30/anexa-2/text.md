@@ -1,0 +1,6 @@
+# Anexa nr. 21
+CONFIRMAREA SOLICITANTULUI CU PRIVIRE LA COFINANȚARE
+Subsemnatul.............................., în calitate de................ al societății, declar pe propria răspundere că în cazul în care proiectul.............. (denumire) depus în cadrul Subprogramului „Dezvoltarea orașelor prin stimularea activităților întreprinderilor mici și mijlocii” va fi propus spre finanțare voi asigura cofinanțarea activităților prevăzute în cererea de finanțare, în valoare de........................... (suma).
+Semnătura............
+Data.................
+-------
