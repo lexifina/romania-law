@@ -1,0 +1,182 @@
+{
+ "key": "dcc-40-1996",
+ "label": "Decizia CCR nr. 40/1996",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "40",
+ "date": "1996-04-11",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 40 din 11 aprilie 1996",
+ "subtitle": "privind neconstituţionalitatea unor prevederi din Legea pentru modificarea şi completarea Legii administraţiei publice locale nr. 69/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "76",
+  "bis": false,
+  "date": "1996-04-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Constata ca prevederile art. 1 din Legea pentru modificarea şi completarea Legii administraţiei publice locale nr. 69/1991, punctul 65, referitor la alin. 3 al art. 54 din Legea nr. 69/1991, şi punctul 112 sunt constituţionale.",
+  "Decizia se comunică Preşedintelui României."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-04-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8213",
+  "text_sha256": "35b4340db3166c847f1aa66b3b789d32681c345d8bed5dea4bf47b7b7fd4139e",
+  "catalogue_sha256": "35b4340db3166c847f1aa66b3b789d32681c345d8bed5dea4bf47b7b7fd4139e",
+  "fetched": "2026-11-02T22:50:24Z",
+  "chars": 17258,
+  "portal_id": "8213",
+  "tip": "DECIZIE"
+ }
+}
