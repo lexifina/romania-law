@@ -1,0 +1,21 @@
+# DECIZIE nr. 179 din 4 iunie 1997*)
+privind excepţia de neconstituţionalitate a dispoziţiilor art. 330, ale art. 330^1, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă
+Nicolae Popa - preşedinte Florin Bucur Vasilescu - judecător Romul Petru Vonica - judecător Doina Suliman - magistrat-asistent -----------
+Notă
+*) A se vedea şi Decizia Curţii Constituţionale nr. 617 din 9 decembrie 1997, publicată în Monitorul Oficial al României, Partea I, nr. 21 din 22 ianuarie 1998.
+Completul de judecată, convocat potrivit prevederilor art. 24 alin. (2) din Legea nr. 47/1992, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 5 martie 1997, pronunţată în Dosarul nr. 3.702/1996, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 330, ale art. 330^1, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă, precum şi ale art. 24 alin. 2 din Legea nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţie de locuinţe, trecute în proprietatea statului, invocată de intimatul-reclamant Weber Theodor Şerban.
+În motivarea excepţiei se susţine ca dispoziţiile atacate contravin prevederilor art. 1, ale art. 3, ale art. 16, ale art. 20 şi ale art. 128 din Constituţie, deoarece "Parchetul General...... este investit a acţiona ca un organ peste toţi şi pe deasupra tuturor" prin exercitarea recursului în anulare.
+Exprimandu-şi opinia potrivit prevederilor art. 23 alin. (5) din Legea nr. 47/1992, instanţa suprema apreciază ca excepţia privind art. 330, art. 330^1, art. 330^3 şi art. 330^4 din Codul de procedură civilă este neîntemeiată, iar art. 24 alin. 2 din Legea nr. 112/1995 nu se aplică în cauza.
+CURTEA, având în vedere actele şi lucrările dosarului, încheierea de sesizare, raportul întocmit de judecătorul-raportor, dispoziţiile atacate raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, constata următoarele:
+În temeiul art. 144 lit. c) din Constituţie şi al art. 23 din Legea nr. 47/1992, Curtea este competenţa să soluţioneze excepţia de neconstituţionalitate invocată, fiind legal sesizată.
+Asupra neconstitutionalitatii art. 330, art. 330^3 şi art. 330^4 din Codul de procedură civilă, Curtea Constituţională s-a pronunţat prin Decizia nr. 73 din 4 iunie 1996, rămasă definitivă prin Decizia nr. 96 din 24 septembrie 1996, publicate în Monitorul Oficial al României, Partea I, nr. 251 din 17 octombrie 1996 şi, respectiv, nr. 255 din 22 octombrie 1996, prin care s-a constatat ca prevederile art. 330, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă sunt constituţionale.
+Întrucât nu au intervenit elemente noi care să determine schimbarea practicii constante a Curţii Constituţionale, excepţia privind dispoziţiile art. 330, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă urmează să fie respinsă ca vadit nefondata.
+În ceea ce priveşte dispoziţiile art. 330^1 din Codul de procedură civilă, se constată că prin Legea nr. 17/1997, publicată în Monitorul Oficial al României, Partea I, nr. 26 din 18 februarie 1997, recursul în anulare poate fi declarat de către Ministerul Public, în termen de 6 luni de la data când hotărârea judecătorească a rămas irevocabilă, pentru motivul prevăzut de art. 330 pct. 1 din Codul de procedură civilă, sau de la data rămânerii definitive a hotărârii de condamnare, pentru motivul prevăzut de art. 330 pct. 2 din acelaşi cod.
+Întrucât, faţă de cele arătate, temeiurile de neconstituţionalitate invocate nu pot fi reţinute, rezultă ca excepţia urmează să fie respinsă ca vadit nefondata.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 24 alin. (2) şi al art. 25 din Legea nr. 47/1992, în unanimitate, CURTEA În numele legii DECIDE:
+Respinge, ca vadit nefondata, excepţia de neconstituţionalitate a dispoziţiilor art. 330, ale art. 330^1, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă, invocată de Weber Theodor Şerban în Dosarul nr. 3.702/1996 al Curţii Supreme de Justiţie - Secţia civilă.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la data de 4 iunie 1997.
+PREŞEDINTE, prof. univ. dr. Nicolae Popa
+Magistrat-asistent Doina Suliman
