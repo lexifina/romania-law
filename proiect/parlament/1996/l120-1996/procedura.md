@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 1996-06-25: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 1997-11-18: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -19,3 +20,5 @@ Initiator: Guvernul României.
 - 1996-06-25: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120LG.PDF
 - 1996-06-25: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120OG.PDF
 - 1996-06-25: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120HG.PDF
+- 1997-11-18: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120FS.PDF
+- 1997-11-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L120AM.PDF
