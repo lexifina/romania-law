@@ -1,0 +1,193 @@
+{
+ "key": "dcc-260-2000",
+ "label": "Decizia CCR nr. 260/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "260",
+ "date": "2000-12-05",
+ "year": "2000",
+ "heading": "DECIZIE nr. 260 din 5 decembrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 15 lit. f^1) din Legea nr. 146/1997 privind taxele judiciare de timbru, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "42",
+  "bis": false,
+  "date": "2001-01-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.417/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "f-1"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 15 lit. f^1) din Legea nr. 146/1997 privind taxele judiciare de timbru, cu modificările ulterioare, excepţie ridicată de Societatea Comercială \"Editura Atac la Persoana\" - S.A. din Bucureşti în Dosarul nr. 4.417/1999 al Tribunalului Bucureşti - Secţia a III-a civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "f-1"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 11/1998",
+    "number": "11",
+    "year": "1998",
+    "path": "og/1998/11"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 53/2000",
+    "number": "53",
+    "year": "2000",
+    "path": "oug/2000/53"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-01-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/26314",
+  "text_sha256": "892eb2e16d63838e53968992ec858d4b085713f89aa6237d5a90621fdead6224",
+  "catalogue_sha256": "892eb2e16d63838e53968992ec858d4b085713f89aa6237d5a90621fdead6224",
+  "fetched": "2026-11-02T23:12:34Z",
+  "chars": 11315,
+  "portal_id": "26314",
+  "tip": "DECIZIE"
+ }
+}
