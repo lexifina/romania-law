@@ -1,0 +1,23 @@
+# Text
+Articolul 1
+Pentru anul 2003 piața angro de energie electrica se va organiza în conformitate cu prevederile anexelor nr. 1, 2 și 4 la prezentul ordin.
+Articolul 2
+În cazul reorganizării societăților comerciale care încheie contracte în conformitate cu prevederile prezentului ordin, succesoarele acestora vor prelua drepturile și obligațiile aferente.
+Articolul 3
+(1) La data intrării în vigoare a prezentului ordin se completează și/sau se modifica, conform prevederilor anexei nr. 3 la prezentul ordin, următoarele reglementări: ...
+a) Regulamentul de programare și dispecerizare a Sistemului electroenergetic național, aprobat prin Decizia președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 18/1999, publicată în Monitorul Oficial al României, Partea I, nr. 350 din 23 iulie 1999; ...
+b) Codul comercial al pieței angro de energie electrica, aprobat prin Decizia președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 22/1999, publicată în Monitorul Oficial al României, Partea I, nr. 350 din 23 iulie 1999; ...
+c) Decizia președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 868/2001 privind reglementarea condițiilor și a modului de utilizare a venitului corespunzător cantității suplimentare de energie electrica produsă și exportata de către Societatea Comercială "Hidroelectrica" - S.A.; ...
+d) anexa la Decizia președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 609/2002 privind funcționarea pieței angro de energie electrica. ...
+(2) Orice alte dispoziții contrare din reglementările Autorității Naționale de Reglementare în Domeniul Energiei se modifica în conformitate cu prevederile prezentului ordin. ...
+Articolul 4
+Anexele nr. 1-4*) fac parte integrantă din prezentul ordin. ──────────────
+Notă
+...
+*) Anexele nr. 1-4 se publică pe pagina web a Autorității Naționale de Reglementare în Domeniul Energiei: www.anre.ro.
+Articolul 5
+Participanții la piața angro de energie electrica și operatorul pieței de energie electrica vor duce la îndeplinire prevederile prezentului ordinului.
+Articolul 6
+Prezentul ordin se publică în Monitorul Oficial al României, Partea I.
+Articolul 7
+Departamentele și direcțiile de specialitate din cadrul Autorității Naționale de Reglementare în Domeniul Energiei vor urmări respectarea prevederilor prezentului ordin. Președintele Autorității Naționale de Reglementare în Domeniul Energiei, Ion Lungu București, 5 decembrie 2002. Nr. 34. ──────────────────
