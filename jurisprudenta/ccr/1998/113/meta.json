@@ -1,0 +1,145 @@
+{
+ "key": "dcc-113-1998",
+ "label": "Decizia CCR nr. 113/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "113",
+ "date": "1998-07-22",
+ "year": "1998",
+ "heading": "DECIZIE nr. 113 din 22 iulie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici şi ale Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "287",
+  "bis": false,
+  "date": "1998-08-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.002/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici şi ale Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare, invocată de Societatea Comercială \"Radu Trading Internaţional\" - S.R.L. Bucureşti în Dosarul nr. 5.002/1997 al Judecătoriei Sectorului 2 Bucureşti.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-08-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15487",
+  "text_sha256": "b69e431e7ca91f21864d4fc02517f04374779b055aedb57a0c2b02f3b81d7678",
+  "catalogue_sha256": "b69e431e7ca91f21864d4fc02517f04374779b055aedb57a0c2b02f3b81d7678",
+  "fetched": "2026-11-02T23:01:05Z",
+  "chars": 8821,
+  "portal_id": "15487",
+  "tip": "DECIZIE"
+ }
+}
