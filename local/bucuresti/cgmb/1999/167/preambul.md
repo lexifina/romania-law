@@ -1,0 +1,3 @@
+Avand in vedere expunerea de motive a primarului general si referatul de specialitate al Departamentului Patrimoniu Imobiliar - Directia de Publicitate;
+In vederea punerii in aplicare a prevederii Legii taxelor si imozitelor locale nr.27/1994, republicata, modificata prn Ordonanta de Urgenta a Guvernului nr.62/28.12.1998, Ordonanta de Urgenta nr.15/03.03.1999, a Hotararii Consiliului General al Municipiului Bucuresti nr.10/14.01.1999, a Hotararii Consiliului General al Municipiului Bucuresti nr. 101/1993 si In temeiul art.20(2), lit.”f” combinat cu art.28(3) din Legea administratiei publice lcale nr.69/1991, republicata,
+Hotaraste:
