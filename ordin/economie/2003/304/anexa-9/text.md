@@ -1,0 +1,16 @@
+# Anexa G
+Model de declarație de conformitate
+DECLARAȚIE DE CONFORMITATE pentru................*1)
+Nr.......data................
+Agentul economic.......................................................... adresa.................................................................... autorizația ISCIR-INSPECT nr.............................................. adresa....................................................................
+Nr. de înmatriculare la Registrul Comerțului/Codul unic de înregistrare.....................................................
+Declaram pe proprie răspundere ca am...........*2)............. cazanul............ tip..........cu seria/anul de fabricație..........cu nr. de înregistrare..............în evidenta ISCIR INSPECT-IT................*3)................, conform prescripției tehnice PTC l, Colecția ISCIR.
+Activitatea de..............*2)............... a fost executată în baza proiectului nr........elaborat de............ cu aviz ISCIR-INSPECȚIT nr..........................
+Activitatea de..........*2)............... a constat din................................................................................................................................................................
+Parametrii cazanului după..........sunt următorii: P(n)=..........MPa;
+S(i)=...........mp; Q(n)=........t/h; T(n)=..........°C.
+Cazanul a fost supus la încercarea la presiune hidraulica p=........MPa, t=.......min, rezultatele incercarii fiind corespunzătoare.
+Sistemele de avertizare, protecție și automatizare au fost verificate și s-au încadrat în limitele de funcționare prevăzute în cartea cazanului- partea de construcție.
+Sistemul de ardere a fost verificat și corespunde. Arderea a fost verifi- câtă și reglata cu analizorul de gaz tip/seria.............. și emisiile de gaze arse se încadrează în limitele admise.
+Se anexează buletinul de analiza.
+DIRECTOR, (Numele, prenumele, semnatura și ștampila) ___________ *1) Instalare/montare/reparare/PF/examinare și investigare/PIF și service la instalații de automatizare și ardere. *2) Se descrie activitatea efectuată. *3) Localitatea de referința.
