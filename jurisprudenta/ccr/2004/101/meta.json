@@ -1,0 +1,262 @@
+{
+ "key": "dcc-101-2004",
+ "label": "Decizia CCR nr. 101/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "101",
+ "date": "2004-03-09",
+ "year": "2004",
+ "heading": "DECIZIE nr. 101 din 9 martie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "413",
+  "bis": false,
+  "date": "2004-05-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.440/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate, cu modificările şi completările ulterioare, excepţie ridicată de Radu Grigoraş, Marin Lupu, Mădălin Braşoveanu, Petru Mititelu, Dumitru Diaconu, Aurel Văcanu, Dumitru Băetu, Vladimir Ispas, Constantin Moroşanu, Sorin Sau, Gabriel Graur, Adi Lunca, Ilie Munteanu, Constantin Chelaru, Silviu Chiţanu, Titi Adnanu, Dănuţ Timofte, Benoni Grigoruţă, Dobrin Onofrei, Daniel Cical, Bogdan Enachi, Petru Alexuc, Ciprian Chiţac, Cătălin Filote, Cristian Feciuic, Ilie Afrăsinei, Jenica Manole, Ioan Toma, Dumitru Stărica, Gheorghe Ambros, Violeta Chiţac, Adam Aaxintoaie, Constantin Cobuz, Mihai Ciobănaşu, Mihai Ababei, Viorel Teodorescu, Pavel Matei, Cristinel Popescu, Vlad Bezerghianu, Ştefan Lupuţoc, Florin Leanca, Viorel Scrobaniţa, Valentin Dănilă, Cristian Iaţu, Mitică Colodiuc, Viorel Pelin, Dan Aivănesei, Viorel Ciobanu, Paul Chebac, Minelas Irimia, Sebastian Florea, Lucian Beresteanu, Andrei Vasile, Dan Dumici, Valeriu Babei, Silviu Daniliuc, Iulian Culinca, Silviu Pancu, Vasile Melniciuc, Vasile Murusac, Romică Burdujoc, Mihai Burdujoc, Cristian Gîtman, Dan Crăciun, Ioan Dănilă, Costică Mirăuţe, Marcel Surciuc, Petru Gireadă, Felix Irimia, Cristian Daniliuc, Cristian Munteanu, Cristian Hrab, Dumitru Pădurariu, Gabriel Monoranu, Corneliu Maftei, Eugen Burlacu, Iulian Jiteriuc, Gheorghe Barnea, Felix Grigoriciuc, Cătălin Juncanaru, Liviu Beclea, Ticu Honciouc, Marius Simion, Dan Izotov, Marian Cojocaru, Marius Lupaşcu, Marius Leonte, Dumitru Moroşanu, Daniel Amateeasa şi Ionuţ Pantea în Dosarul nr. 4.440/2003 al Curţii de Apel Suceava - Secţia civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 116/1998",
+    "number": "116",
+    "year": "1998",
+    "path": "lege/1998/116"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-05-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51749",
+  "text_sha256": "ef635b89ae79112139336916028ac9d4304ac821d835d898493923da4e4e0427",
+  "catalogue_sha256": "ef635b89ae79112139336916028ac9d4304ac821d835d898493923da4e4e0427",
+  "fetched": "2026-11-02T23:36:42Z",
+  "chars": 25265,
+  "portal_id": "51749",
+  "tip": "DECIZIE"
+ }
+}
