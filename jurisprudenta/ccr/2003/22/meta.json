@@ -1,0 +1,266 @@
+{
+ "key": "dcc-22-2003",
+ "label": "Decizia CCR nr. 22/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "22",
+ "date": "2003-01-21",
+ "year": "2003",
+ "heading": "DECIZIE nr. 22 din 21 ianuarie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 67 alin. (3) şi (4), art. 68 alin. (1), precum şi ale art. 108 din Legea nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "224",
+  "bis": false,
+  "date": "2003-04-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 67 alin. (3) şi art. 68 alin. (1) din Legea nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului, republicată, excepţie ridicată de Societatea Comercială \"Agromec\" - S.A. Horia în Dosarul nr. 133C/Com/2002 al Curţii de Apel Constanta. 2. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 108 din Legea nr. 64/1995, republicată, excepţie ridicată de acelaşi autor în acelaşi dosar. 3. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 67 alin. (4) din Legea nr. 64/1995, republicată, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "978",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1722",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1723",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1724",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1725",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1726",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-04-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/42902",
+  "text_sha256": "9da7eca1bf8ace7326e31dd0a61209a7898854c6913c5d76e7b9bc066846f5f9",
+  "catalogue_sha256": "9da7eca1bf8ace7326e31dd0a61209a7898854c6913c5d76e7b9bc066846f5f9",
+  "fetched": "2026-11-02T23:27:59Z",
+  "chars": 23138,
+  "portal_id": "42902",
+  "tip": "DECIZIE"
+ }
+}
