@@ -1,0 +1,173 @@
+{
+ "key": "dcc-89-1999",
+ "label": "Decizia CCR nr. 89/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "89",
+ "date": "1999-06-01",
+ "year": "1999",
+ "heading": "DECIZIE nr. 89 din 1 iunie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 103 alin. 5 din Legea pentru organizarea judecătorească nr. 92/1992, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "322",
+  "bis": false,
+  "date": "1999-07-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru organizarea judecătorească nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 142/1997",
+    "number": "142",
+    "year": "1997",
+    "path": "lege/1997/142"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Petru Clopotariu în Dosarul nr. 2.113/CA/1998 al Curţii de Apel Constanta - Secţia de contencios administrativ şi constata ca dispoziţiile art. 103 alin. 5 din Legea pentru organizarea judecătorească nr. 92/1992, republicată, sunt neconstituţionale în măsura în care nu asigura şi magistraţilor pensionaţi anterior datei intrării în vigoare a Legii nr. 142/1997 privind modificarea şi completarea Legii nr. 92/1992 actualizarea pensiei în raport cu nivelul salariilor de baza ale magistraţilor în activitate.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru organizarea judecătorească nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 142/1997",
+    "number": "142",
+    "year": "1997",
+    "path": "lege/1997/142"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-07-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18674",
+  "text_sha256": "61f763e6489f8f9b0ab736ccd312166393b8535ecdb215f278cec691b83947bd",
+  "catalogue_sha256": "61f763e6489f8f9b0ab736ccd312166393b8535ecdb215f278cec691b83947bd",
+  "fetched": "2026-11-02T23:04:24Z",
+  "chars": 9489,
+  "portal_id": "18674",
+  "tip": "DECIZIE"
+ }
+}
