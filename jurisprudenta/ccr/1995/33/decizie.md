@@ -1,0 +1,20 @@
+# DECIZIE Nr. 33*) din 23 mai 1995
+referitoare la excepţia de neconstituţionalitate a art. 229 din Codul penal
+Notă
+*) Definitivă prin nerecurare.
+Ioan Muraru - preşedinte Florin Bucur Vasilescu - judecător Victor Dan Zlatescu - judecător Doina Suliman - magistrat-asistent Completul de judecată, convocat potrivit art. 24 alin. (2) din Legea nr. 47/1992, constata:
+Judecătoria Petrosani, prin Încheierea din 28 februarie 1995, pronunţată în Dosarul nr. 205/1995, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a art. 229 din Codul penal, invocată de inculpata Colda Viorica, prin reprezentant, care susţine ca "dispoziţiile art. 229 din Codul penal sunt neconstituţionale, întrucît sumele de bani însuşite de inculpata nu pot fi clasificate ca făcând parte din avutul public, deoarece nu se includ în bunurile precis delimitate şi enumerate în art. 135 alin. (3) şi (4) din Constituţia României".
+Reprezentanta Parchetului a solicitat amînarea judecării cauzei şi sesizarea Curţii Constituţionale în vederea soluţionării excepţiei ridicate.
+Judecătoria Petrosani, exprimindu-şi opinia potrivit art. 23 alin. (5) din Legea nr. 47/1992, considera ca "dispoziţiile art. 229 din Codul penal nu sunt neconstituţionale. Dispoziţiile din Codul penal privind avutul obştesc nu contravin Constituţiei, această categorie juridică având o sfera mai larga decît conceptul de avut public, în care se identifica doar bunurile proprietate publică".
+CURTEA CONSTITUŢIONALĂ, examinînd dosarul cauzei, încheierea de sesizare, raportul întocmit de judecătorul-raportor, dispoziţiile art. 229 din Codul penal, prevederile Constituţiei, precum şi dispoziţiile art. 3 alin. (2) din Legea nr. 47/1992, constata ca este competenţa să soluţioneze excepţia de neconstituţionalitate care a fost formulată şi înaintată cu respectarea prevederilor art. 144 lit. c) din Constituţie şi ale art. 23 din legea sa de organizare.
+În acelaşi timp, Curtea constata ca, privitor la constituţionalitatea art. 229 din Codul penal, s-a pronunţat deja prin Decizia nr. 56 din 18 mai 1994, publicată în Monitorul Oficial al României, Partea I, nr. 156 din 22 iunie 1994.
+În aceasta decizie, care a rămas definitivă, Curtea Constituţională a constatat ca dispoziţiile art. 229 din Codul penal sunt parţial abrogate potrivit art. 150 alin. (1) din Constituţie şi, în consecinţa, urmează să se aplice numai cu privire la bunurile prevăzute în art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv la proprietăţii publice.
+Motivarea din aceasta decizie şi, implicit, soluţia data îşi menţin valabilitatea, iar Curtea Constituţională constata că nu a intervenit nici un element nou care să o determine să se îndepărteze de la practica sa.
+Astfel stând lucrurile, excepţia invocată rămâne fără obiect din moment ce problema a fost soluţionată definitiv de către Curte şi, în consecinţa, urmează a fi respinsă ca vadit nefondata, prin aplicarea art. 24 alin. (2) din Legea nr. 47/1992.
+De asemenea, în temeiul art. 145 alin. (2) din Constituţie, deciziile Curţii Constituţionale sunt obligatorii şi, ca atare, autorităţile judecătoreşti au obligaţia constituţională de a le aplica în soluţionarea spetelor similare.
+În ceea ce priveşte caracterizarea sumelor de bani însuşite de inculpata ca aparţinând proprietăţii publice sau proprietăţii private, Curtea apreciază ca este de competenţa exclusiva a instanţei judecătoreşti.
+Pentru motivele arătate, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c) şi al art. 24 alin. (2) din Legea nr. 47/1992, în unanimitate, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 229 din Codul penal, invocată de Colda Viorica în Dosarul nr. 205/1995 al Judecătoriei Petrosani.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la data de 23 martie 1995.
+PREŞEDINTE, prof. univ. dr. Ioan Muraru Magistrat-asistent, Doina Suliman ------------------
