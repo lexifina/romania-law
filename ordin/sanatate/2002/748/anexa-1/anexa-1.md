@@ -1,0 +1,9 @@
+# Anexa 1
+------- la criteriile de încadrare și modul de autorizare ------------------------------------------------- AUTORIZAȚIE de funcționare ca unitate protejata nr.........../.............. Societatea Comercială/Secția/Atelierul/Asociația/Fundația/Asociația familială/persoana fizica..................................., cu sediul/domiciliul în.............................., str................ nr......., bl........, ap......, județul/sectorul................., având numărul de înregistrare în Registrul comerțului/Registrul asociațiilor și fundațiilor/B.I. sau C.I.........................., codul fiscal..............., C.N.P.........................., este autorizata ca unitate protejata și beneficiază de drepturile prevăzute de art. 38 din Ordonanța de urgenta a Guvernului nr. 102/1999 privind protecția specială și încadrarea în munca a persoanelor cu handicap, modificată, aprobată cu modificări prin Legea nr. 519/2002. Prezenta autorizație are valabilitate permanenta, dar poate fi ridicată, anulată sau suspendată în condițiile prevăzute de prezentul ordin. -------------
+Notă...
+Secretar de stat,...................
+Vizat pentru legalitate
+Direcția resurse umane, juridic, perfecționare
+Director,
+................................
+-----------
