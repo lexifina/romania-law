@@ -1,0 +1,187 @@
+{
+ "key": "dcc-244-2001",
+ "label": "Decizia CCR nr. 244/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "244",
+ "date": "2001-07-10",
+ "year": "2001",
+ "heading": "DECIZIE nr. 244 din 10 iulie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 83/1999 privind restituirea unor bunuri imobile care au aparţinut comunităţilor cetăţenilor aparţinând minorităţilor naţionale din România, cu referire la poziţia nr. 24 din anexa parte integrantă a ordonanţei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "2",
+  "bis": false,
+  "date": "2002-01-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.320/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 83/1999",
+    "number": "83",
+    "year": "1999",
+    "path": "oug/1999/83"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 83/1999 privind restituirea unor bunuri imobile care au aparţinut comunităţilor cetăţenilor aparţinând minorităţilor naţionale din România, cu referire la poziţia nr. 24 din anexa parte integrantă a ordonanţei, excepţie ridicată de Consiliul Local al Municipiului Cluj-Napoca în Dosarul nr. 5.320/2000 al Judecătoriei Cluj-Napoca.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 83/1999",
+    "number": "83",
+    "year": "1999",
+    "path": "oug/1999/83"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 30/2000",
+    "number": "30",
+    "year": "2000",
+    "path": "oug/2000/30"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 176/1948",
+    "number": "176",
+    "year": "1948",
+    "path": "decret/1948/176"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-01-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33094",
+  "text_sha256": "e750f86c7a68cb1c09eb9f5a60eae550e07a391438e854185b08f8a4b2529b09",
+  "catalogue_sha256": "e750f86c7a68cb1c09eb9f5a60eae550e07a391438e854185b08f8a4b2529b09",
+  "fetched": "2026-11-02T23:18:21Z",
+  "chars": 13426,
+  "portal_id": "33094",
+  "tip": "DECIZIE"
+ }
+}
