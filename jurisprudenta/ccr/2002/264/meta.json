@@ -1,0 +1,170 @@
+{
+ "key": "dcc-264-2002",
+ "label": "Decizia CCR nr. 264/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "264",
+ "date": "2002-10-15",
+ "year": "2002",
+ "heading": "DECIZIE nr. 264 din 15 octombrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 24 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată cu modificări prin Legea nr. 108/1996, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "880",
+  "bis": false,
+  "date": "2002-12-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "162C/2002",
+  "654/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 24 din Ordonanţa Guvernului nr. 11/1996  privind executarea creanţelor bugetare, aprobată cu modificări prin  Legea nr. 108/1996 , cu modificările ulterioare, excepţie ridicată de Societatea Comercială \"Onedil\" - S.A. din Onesti în dosarele nr. 654/2002, nr. 668/2002 şi nr. 1.709/2002 ale Tribunalului Bacau.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 15 octombrie 2002.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent şef,  Claudia Miu  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedura civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "lege/1996/11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/40395",
+  "text_sha256": "54eb05b70f0ace8eb8681db59bf6f76a0f48664ab15f3b44f54c6f8b48c9bf28",
+  "catalogue_sha256": "54eb05b70f0ace8eb8681db59bf6f76a0f48664ab15f3b44f54c6f8b48c9bf28",
+  "fetched": "2026-11-02T23:25:20Z",
+  "chars": 13563,
+  "portal_id": "40395",
+  "tip": "DECIZIE"
+ }
+}
