@@ -1,0 +1,187 @@
+{
+ "key": "dcc-405-2003",
+ "label": "Decizia CCR nr. 405/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "405",
+ "date": "2003-10-28",
+ "year": "2003",
+ "heading": "DECIZIE nr. 405 din 28 octombrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 8 alin. (3) teza a doua din Ordonanţa de urgenţă a Guvernului nr. 36/2001 privind regimul preţurilor şi tarifelor reglementate, care se stabilesc cu avizul Oficiului Concurenţei, aprobată cu modificări şi completări prin Legea nr. 205/2002, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "850",
+  "bis": false,
+  "date": "2003-11-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.615/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 36/2001",
+    "number": "36",
+    "year": "2001",
+    "path": "oug/2001/36"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 8 alin. (3) teza a doua din Ordonanţa de urgenţă a Guvernului nr. 36/2001 privind regimul preţurilor şi tarifelor reglementate, care se stabilesc cu avizul Oficiului Concurenţei, aprobată cu modificări şi completări prin Legea nr. 205/2002, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Comercială \"Apa Nova Bucureşti\" - S.A. în Dosarul nr. 1.615/2003 al Judecătoriei Sectorului 1 - municipiul Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 36/2001",
+    "number": "36",
+    "year": "2001",
+    "path": "oug/2001/36"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "8",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-11-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/48111",
+  "text_sha256": "ea6ded5e55919806c50593609e38ff15ea4d8b608cc5fad64c51b141a115de13",
+  "catalogue_sha256": "ea6ded5e55919806c50593609e38ff15ea4d8b608cc5fad64c51b141a115de13",
+  "fetched": "2026-11-02T23:33:03Z",
+  "chars": 19293,
+  "portal_id": "48111",
+  "tip": "DECIZIE"
+ }
+}
