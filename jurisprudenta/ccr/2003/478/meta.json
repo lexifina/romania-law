@@ -1,0 +1,64 @@
+{
+ "key": "dcc-478-2003",
+ "label": "Decizia CCR nr. 478/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "478",
+ "date": "2003-12-09",
+ "year": "2003",
+ "heading": "﻿ DECIZIE nr. 478 din 9 decembrie 2003 referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 46 alin. (2) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 46 alin. (2) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989",
+ "issuer": "Curtea Constitu?ională",
+ "mo": {
+  "number": "131",
+  "bis": false,
+  "date": "2004-02-13",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [],
+ "cites": [],
+ "warnings": [
+  "header: no EMITENT/Publicat block",
+  "subtitle: from the catalogue title",
+  "operative: not found",
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-02-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49733",
+  "text_sha256": "140c492987ca7af5f45700c20eb47a72d9fb0fbbe14e402036a2470b5859c98e",
+  "catalogue_sha256": "140c492987ca7af5f45700c20eb47a72d9fb0fbbe14e402036a2470b5859c98e",
+  "fetched": "2026-11-02T23:34:44Z",
+  "chars": 29,
+  "portal_id": "49733",
+  "tip": "DECIZIE"
+ }
+}
