@@ -1,0 +1,226 @@
+{
+ "key": "dcc-80-2000",
+ "label": "Decizia CCR nr. 80/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "80",
+ "date": "2000-04-25",
+ "year": "2000",
+ "heading": "DECIZIE nr. 80 din 25 aprilie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 din Ordonanţa de urgenta a Guvernului nr. 152/1999 privind produsele medicamentoase de uz uman",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "381",
+  "bis": false,
+  "date": "2000-08-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.150/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 152/1999",
+    "number": "152",
+    "year": "1999",
+    "path": "oug/1999/152"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 3 din Ordonanţa de urgenta a Guvernului nr. 152/1999 privind produsele medicamentoase de uz uman, excepţie ridicată de Liga Asocias-Farm din Bucureşti în Dosarul nr. 1.150/1999 al Curţii de Apel Bucureşti - Secţia de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 152/1999",
+    "number": "152",
+    "year": "1999",
+    "path": "oug/1999/152"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului sănătăţii nr. 201/1999",
+    "number": "201",
+    "year": "1999"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 81/1997",
+    "number": "81",
+    "year": "1997",
+    "path": "lege/1997/81"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 212/1974",
+    "number": "212",
+    "year": "1974",
+    "path": "decret/1974/212"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 201/1999",
+    "number": "201",
+    "year": "1999"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-08-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23787",
+  "text_sha256": "038e8bb5c33cc5527aad8fc9cb7fafef6328348aff15ffdeddd08c9178107fe8",
+  "catalogue_sha256": "038e8bb5c33cc5527aad8fc9cb7fafef6328348aff15ffdeddd08c9178107fe8",
+  "fetched": "2026-11-02T23:10:01Z",
+  "chars": 20759,
+  "portal_id": "23787",
+  "tip": "DECIZIE"
+ }
+}
