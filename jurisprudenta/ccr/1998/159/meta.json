@@ -1,0 +1,129 @@
+{
+ "key": "dcc-159-1998",
+ "label": "Decizia CCR nr. 159/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "159",
+ "date": "1998-11-10",
+ "year": "1998",
+ "heading": "DECIZIE nr. 159 din 10 noiembrie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 29 lit. a) din Legea nr. 47/1991 privind constituirea, organizarea şi funcţionarea societăţilor comerciale din domeniul asigurărilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "51",
+  "bis": false,
+  "date": "1999-02-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "695/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1991",
+    "number": "47",
+    "year": "1991",
+    "path": "lege/1991/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 29 lit. a) din Legea nr. 47/1991, ridicată de Societatea Comercială \"Port Dredging\" - S.A. din Constanta în Dosarul nr. 695/1997 al Tribunalului Constanta - Secţia comercială.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr.47/1991",
+    "number": "47",
+    "year": "1991",
+    "path": "lege/1991/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-02-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16898",
+  "text_sha256": "eec2f9d2c816f0fcea005c26754c1fbe825a3377cb0118e188c47ea9a7fa52cd",
+  "catalogue_sha256": "eec2f9d2c816f0fcea005c26754c1fbe825a3377cb0118e188c47ea9a7fa52cd",
+  "fetched": "2026-11-02T23:02:51Z",
+  "chars": 9871,
+  "portal_id": "16898",
+  "tip": "DECIZIE"
+ }
+}
