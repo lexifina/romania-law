@@ -1,0 +1,226 @@
+{
+ "key": "dcc-430-2003",
+ "label": "Decizia CCR nr. 430/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "430",
+ "date": "2003-11-18",
+ "year": "2003",
+ "heading": "DECIZIE nr. 430 din 18 noiembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 30 alin. (2), art. 32, 33 şi art. 52 alin. (1) lit. e) şi u) din Legea nr. 521/2002 privind regimul de supraveghere şi autorizare a producţiei, importului şi circulaţiei unor produse supuse accizelor, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "876",
+  "bis": false,
+  "date": "2003-12-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.000/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 521/2002",
+    "number": "521",
+    "year": "2002",
+    "path": "lege/2002/521"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 30 alin. (2), art. 32, 33 şi ale  art. 52 alin. (1) lit. e) şi u) din Legea nr. 521/2002  privind regimul de supraveghere şi autorizare a producţiei, importului şi circulaţiei unor produse supuse accizelor, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Comercială \"Monoprix\"S.R.L. din Brăila în Dosarul nr. 6.000/2003 al Judecătoriei Brăila.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 18 noiembrie 2003.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent şef,  Doina Suliman  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 521/2002",
+    "number": "521",
+    "year": "2002",
+    "path": "lege/2002/521"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "u"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-12-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/48315",
+  "text_sha256": "5171ad05ce24601484417512701848ed04094a4ec9840f754f4d50c50b62e07b",
+  "catalogue_sha256": "5171ad05ce24601484417512701848ed04094a4ec9840f754f4d50c50b62e07b",
+  "fetched": "2026-11-02T23:33:17Z",
+  "chars": 10193,
+  "portal_id": "48315",
+  "tip": "DECIZIE"
+ }
+}
