@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2000-03-09: adopted by the Chamber of Deputies
 - 2000-03-20: sent for promulgation
 - 2000-04-07: promulgated, becomes Legea nr. 38/2000; documents published: Decret de promulgare, Forma promulgată
+- 2000-04-19: published in the Monitorul Oficial
 
 ## Documents
 
