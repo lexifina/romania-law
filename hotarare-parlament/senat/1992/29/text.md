@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 29 din 1 septembrie 1992  privind demisia unor senatori     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 223 din 8 septembrie 1992     În temeiul art. 67 alin. (2) şi art. 68 alin. (2) din Constituţia României, al art. 145 din Regulamentul Senatului şi al  art. 28 alin. (1) din Legea audiovizualului nr. 48/1992 ,  Senatul hotărăşte:
+				 +
+			  Articolul UNIC     Senatul ia act de cererile de demisie prezentate de domnii senatori Raveica Titus, Circumscripţia electorală nr. 24 Iaşi, în prezent Preşedintele Consiliului Naţional al Audiovizualului şi Piru Alexandru, Circumscripţia electorală nr. 41 Bucureşti, în prezent membru al Consiliului Naţional al Audiovizualului şi declară vacante locurile de senatori deţinute de aceştia.  PREŞEDINTELE SENATULUI  academician ALEXANDRU BÎRLĂDEANU  Bucureşti, 1 septembrie 1992.  Nr. 29  _________
