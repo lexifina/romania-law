@@ -1,0 +1,184 @@
+{
+ "key": "dcc-419-2004",
+ "label": "Decizia CCR nr. 419/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "419",
+ "date": "2004-10-14",
+ "year": "2004",
+ "heading": "DECIZIE nr. 419 din 14 octombrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 93 alin. (1), (2), (5) şi (6) din Ordonanţa de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1071",
+  "bis": false,
+  "date": "2004-11-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "992/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "93",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 93 alin. (1), (2), (5) şi (6) din Ordonanţa de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România, excepţie ridicată de Shuai Guifang în Dosarul nr. 992/2004 al Curţii de Apel Bucureşti - Secţia de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "93",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "13"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/56865",
+  "text_sha256": "12d01d58c361988adb49ce6a6be9f71a772b73af48e04d7841fdd9975c450b16",
+  "catalogue_sha256": "12d01d58c361988adb49ce6a6be9f71a772b73af48e04d7841fdd9975c450b16",
+  "fetched": "2026-11-02T23:41:57Z",
+  "chars": 15457,
+  "portal_id": "56865",
+  "tip": "DECIZIE"
+ }
+}
