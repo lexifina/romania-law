@@ -1,0 +1,4 @@
+# Anexa nr. 1 la anexa nr. 1
+Anexă ────── la normele metodologice ──────────────────────── ROMÂNIA MINISTERUL CULTURII ȘI CULTELOR AUTORIZAȚIE privind funcționarea așezământului cultural În conformitate cu dispozițiile art........ din Normele metodologice privind desfășurarea activităților specifice așezămintelor culturale, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.883/2003, Ministerul Culturii și Cultelor autorizează persoana juridică........, cu sediul în localitatea......, str......... nr......, județul....., codul fiscal nr......, contul bancar.........., să funcționeze ca așezământ cultural.
+Ministrul culturii și cultelor,........................ Nr..........
+Semnătura reprezentantului persoanei juridice Data........................................... ────────────────
