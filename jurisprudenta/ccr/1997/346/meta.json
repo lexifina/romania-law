@@ -1,0 +1,158 @@
+{
+ "key": "dcc-346-1997",
+ "label": "Decizia CCR nr. 346/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "346",
+ "date": "1997-09-30",
+ "year": "1997",
+ "heading": "DECIZIE nr. 346 din 30 septembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 330^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "392",
+  "bis": false,
+  "date": "1997-12-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul declarat de Ghitta Lucia Antonia şi modifica Decizia Curţii Constituţionale nr. 110 din 8 octombrie 1996 numai în ceea ce priveşte dispoziţiile art. 330^1 din Codul de procedură civilă, în sensul că respinge excepţia de neconstituţionalitate referitoare la aceste dispoziţii, ca fiind lipsită de obiect.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 59/1993",
+    "number": "59",
+    "year": "1993",
+    "path": "lege/1993/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-12-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12516",
+  "text_sha256": "79ec24dd254c3c276a33ba9139e0e74a37488274b9b27fe4b2e952e6e15746ac",
+  "catalogue_sha256": "79ec24dd254c3c276a33ba9139e0e74a37488274b9b27fe4b2e952e6e15746ac",
+  "fetched": "2026-11-02T22:57:31Z",
+  "chars": 6580,
+  "portal_id": "12516",
+  "tip": "DECIZIE"
+ }
+}
