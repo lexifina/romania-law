@@ -1,0 +1,3 @@
+# Articolul unic
+Se desemnează Uniunea Producătorilor de Fonograme din România (U.P.F.R.) sa colecteze sumele datorate de utilizatori producătorilor de fonograme și Centrul român pentru administrarea drepturilor artiștilor interpreți (CREDIDAM) sa colecteze sumele datorate de utilizatori artiștilor interpreți sau executanți, stabilite prin Hotărârea Guvernului nr. 71/2000 pentru aprobarea metodologiilor privind utilizarea prestațiilor artistice muzicale fixate pe fonograme și a tabelelor cuprinzând drepturile patrimoniale cuvenite artiștilor interpreți sau executanți și producătorilor de fonograme. Directorul general al Oficiului Roman
+pentru Drepturile de Autor, Rodica Parvu ------------
