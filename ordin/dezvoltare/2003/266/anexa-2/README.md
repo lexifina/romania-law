@@ -1,0 +1,7 @@
+# Anexa nr. 2: 2 NORME METODOLOGICE privind acordarea facilităților de transport cu metroul pentru elevii din învățământul primar, gimnazial și liceal de stat, cursuri de zi, și pentru studenții din învățământul sup
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 42071 (https://legislatie.just.ro/Public/DetaliiDocument/42071)
+- sha256 of that document's text as the service returned it: f3b4c551454617cd703d1e190a86c8d7025c179cb0dc5ea51280735cab60b1a3
+- Retrieved: 2026-11-02
