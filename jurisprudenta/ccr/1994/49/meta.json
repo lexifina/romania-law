@@ -1,0 +1,208 @@
+{
+ "key": "dcc-49-1994",
+ "label": "Decizia CCR nr. 49/1994",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "49",
+ "date": "1994-05-17",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 49 din 17 mai 1994",
+ "subtitle": "cu privire la constituţionalitatea Legii privind impozitul pe venitul agricol",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "125",
+  "bis": false,
+  "date": "1994-05-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "1. Constata ca dispoziţiile art. 1, art. 8 alin. 1 şi art. 16 din Legea privind impozitul pe venitul agricol sunt constituţionale.",
+  "2. Constata ca art. 2 alin. 2 din aceeaşi lege, în partea referitoare la terenurile necultivate, este constituţional numai în măsura în care nu se aplică terenurilor care, prin natura lor, sunt necultivabile.",
+  "3. Declara neconstitutional art. 22 din lege. În cazul în care legea va intra în vigoare în cursul anului 1994, în cadrul procedurii de reexaminare este necesară corelarea termenelor prevăzute de art. 5 şi art. 9 cu data intrării în vigoare a legii.",
+  "4. Decizia se comunică Preşedintelui României, precum şi preşedintelui Camerei Deputaţilor şi preşedintelui Senatului, în scopul deschiderii procedurii prevăzute de art. 145 alin. (1) din Constituţie, precum şi Curţii Supreme de Justiţie şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind impozitul agricol nr. 2/1977",
+    "number": "2",
+    "year": "1977",
+    "path": "lege/1977/2"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1991",
+    "number": "12",
+    "year": "1991",
+    "path": "lege/1991/12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4168",
+  "text_sha256": "a6ae111112c053bdccbd0c066bb03c9446fe271161f94bb4a1881db00e7baf34",
+  "catalogue_sha256": "a6ae111112c053bdccbd0c066bb03c9446fe271161f94bb4a1881db00e7baf34",
+  "fetched": "2026-11-02T22:44:40Z",
+  "chars": 28522,
+  "portal_id": "4168",
+  "tip": "DECIZIE"
+ }
+}
