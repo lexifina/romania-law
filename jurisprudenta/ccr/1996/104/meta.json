@@ -1,0 +1,127 @@
+{
+ "key": "dcc-104-1996",
+ "label": "Decizia CCR nr. 104/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "104",
+ "date": "1996-10-01",
+ "year": "1996",
+ "heading": "DECIZIE nr. 104*) din 1 octombrie 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Legii nr. 5/1973 privind administrarea fondului locativ şi reglementarea raporturilor dintre proprietari şi chiriaşi şi a H.C.M. nr. 860/1973",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "36",
+  "bis": false,
+  "date": "1997-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.701/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Legii nr. 5/1973 privind administrarea fondului locativ şi reglementarea raporturilor dintre proprietari şi chiriaşi şi a H.C.M. nr. 860/1973 pentru stabilirea măsurilor de executare a Legii nr. 5/1973, invocată de Negru Ilie, Negru Viorica, R.A.G.T.L. Medias şi Consiliul Local al Comunei Atel, judeţul Sibiu, în Dosarul nr. 1.701/1996 al Judecătoriei Medias.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8555",
+  "text_sha256": "2e62661d058a207cb7fcb3bcf7dd627a204e7489060707dc3283a9dc3539ea17",
+  "catalogue_sha256": "2e62661d058a207cb7fcb3bcf7dd627a204e7489060707dc3283a9dc3539ea17",
+  "fetched": "2026-11-02T22:53:41Z",
+  "chars": 4600,
+  "portal_id": "8555",
+  "tip": "DECIZIE"
+ }
+}
