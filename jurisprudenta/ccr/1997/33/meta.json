@@ -1,0 +1,181 @@
+{
+ "key": "dcc-33-1997",
+ "label": "Decizia CCR nr. 33/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "33",
+ "date": "1997-02-24",
+ "year": "1997",
+ "heading": "DECIZIE nr. 33 din 24 februarie 1997*)",
+ "subtitle": "referitoare la excepţia de necostitutionalitate a dispoziţiilor Legii nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu alta destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "21",
+  "bis": false,
+  "date": "1998-01-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.837/1996",
+  "2.838/1996",
+  "2.839/1996",
+  "2.850/1996",
+  "3.144/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Conexeaza dosarele nr. 392 C/1996, nr. 391 C/1996, nr. 390 C/1996 şi nr. 389 C/1996 la Dosarul nr. 388 C/1996. 2. Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu alta destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat, invocată, în faţa Judecătorie Medias, de pârâţii Buda Gheorghe, în Dosarul nr. 2.837/1996, Brindea Mircea, în Dosarul nr. 2.838/1996, Fagarasan Gheorghe, în Dosarul nr. 2.839/1996, Roba Mircea, în Dosarul nr. 2.850/1996, şi Popovici Gavril, în Dosarul nr. 3.144/1996.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 76/1994",
+    "number": "76",
+    "year": "1994",
+    "path": "lege/1994/76"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-01-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11190",
+  "text_sha256": "206d5214e920a0002df4319c38ecd34d5c546dc6d53fda10ea977beae0627ff0",
+  "catalogue_sha256": "206d5214e920a0002df4319c38ecd34d5c546dc6d53fda10ea977beae0627ff0",
+  "fetched": "2026-11-02T22:57:47Z",
+  "chars": 9374,
+  "portal_id": "11190",
+  "tip": "DECIZIE"
+ }
+}
