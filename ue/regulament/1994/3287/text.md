@@ -1,0 +1,90 @@
+11/Volumul 11 | RO | Jurnalul Ofícial al Uniunii Europene | 31
+31994R3287
+L 349/79 | JURNALUL OFÍCIAL AL UNIUNII EUROPENE |
+REGULAMENTUL (CE) NR. 3287/94 AL CONSILIULUI
+din 22 decembrie 1994
+privind controlul înainte de expediere pentru exporturile din Comunitate
+CONSILIUL UNIUNII EUROPENE,
+având în vedere Tratatul de instituire a Comunității Europene, în special articolul 113,
+având în vedere propunerea Comisiei,
+având în vedere avizul Parlamentului European(1),
+întrucât un anumit număr de țări în curs de dezvoltare au recurs la așa-numitele programe de control înainte de expediere pentru a garanta o alocare corectă a rezervelor lor limitate în devize între importatori și pentru a combate practici precum facturarea la un preț superior celui real și frauda; întrucât aceste țări în curs de dezvoltare au încredințat unor societăți private această sarcină care include verificarea calității și a prețului mărfurilor destinate exportului spre teritoriul acestor țări;
+întrucât Comunitatea recunoaște dreptul țărilor în curs de dezvoltare de a recurge la control înainte de expediere; întrucât aceste controale înainte de expediere pot duce la ingerințe abuzive în prețul liber convenit de către părțile la un contract, precum și la alte practici care reprezintă bariere inutile în calea comerțului; întrucât trebuie, prin urmare, să se facă eforturi, prin intermediul cooperării și asistenței tehnice, pentru a diminua necesitatea controlului înainte de expediere;
+întrucât Actul Final al Rundei Uruguay, semnat la Marrakech (Maroc) la 15 aprilie 1994 stabilește un Acord privind controlul înainte de expediere între membrii Organizației Mondiale a Comerțului („Acordul OMC”); întrucât acest acord a fost aprobat și trebuie să intre în vigoare pentru Comunitate;
+întrucât legislația comunitară le oferă exportatorilor garanția suplimentară că operațiile de control înainte de expediere sunt efectuate efectiv în conformitate cu dispozițiile Acordului OMC și că acestea nu reprezintă, prin urmare, o barieră în calea comerțului;
+întrucât se cuvine, în acest scop, ca operațiile de control înainte de expediere efectuate în Comunitate să se supună anumitor condiții;
+întrucât, pentru a menține principiile de uniformitate a politicii de export a Comunității, este necesar ca activitățile entităților de control înainte de expediere să fie reglementate într-un mod uniform;
+întrucât se cuvine simplificarea procedurilor în măsura posibilă, în special în privința verificării prețurilor; întrucât Acordul OMC privind controlul înainte de expediere nu prevede totuși scutiri și întrucât aceste scutiri nu pot fi, prin urmare, aplicate decât cu acordul entităților de control înainte de expediere;
+întrucât ar trebui instituită o procedură rapidă și eficace pentru soluționarea litigiilor dintre exportatori și entitățile de control înainte de expediere; întrucât o asemenea procedură este prevăzută de Acordul OMC privind controlul înainte de expediere;
+întrucât litigiile privind nerespectarea condițiilor sau procedurilor de către entitățile de control înainte de expediere ar trebui să fie soluționate împreună cu țările terțe care recurg la acestea, în condițiile stabilite de procedurile corespunzătoare ale Comunității și ale OMC;
+întrucât articolul 3 alineatul (3) al Acordului OMC privind controlul înainte de expediere prevede furnizarea unei asistențe tehnice țărilor terțe,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Prezentul regulament se aplică activităților desfășurate pe teritoriul vamal al Comunității Europene de entitățile de control înainte de expediere care, în numele guvernelor sau al organismelor publice din țările terțe, efectuează controale ale calității, ale cantității sau ale prețului, incluzând rata de schimb și condițiile financiare, ale mărfurilor destinate exportului pe teritoriul acestor terțe țări (programe de control înainte de expediere).
+Articolul 2
+(1) Activitățile entităților de control înainte de expediere, astfel cum sunt ele definite la articolul 1, sunt supuse unei proceduri de notificare prealabile, în temeiul condițiilor stabilite de prezentul regulament.
+(2) Atunci când își notifică activitățile, entitățile de control înainte de expediere comunică Comisiei clauzele contractului convenit cu guvernele sau organismele publice ale țărilor terțe în numele cărora au fost create aceste programe de control înainte de expediere, cu excepția acelor clauze privind remunerația. Ulterior, acestea comunică Comisiei toate modificările aduse condițiilor de control. Ele îi indică, de asemenea, și măsurile luate pentru a se conforma condițiilor stabilite de prezentul regulament.
+(3) Comisia transmite statelor membre copii după toate notificările primite.
+Articolul 3
+Notificarea menționată la articolul 2 se referă la următoarele activități:
+(a) inspecția materială a mărfii înaintea exportării acesteia pentru a se verifica dacă expedierea (calitate, cantitate) este în conformitate cu specificațiile contractului și dacă normele și standardele prevăzute de țara importatoare sau recunoscute la nivel internațional sunt respectate;
+(b) verificarea prețului și, după caz, a ratei de schimb și a condițiilor financiare care stau la baza contractului dintre exportator și importator, a facturii pro formași, după caz, a cererii de autorizație de import.
+Articolul 4
+Entitățile de control trebuie să respecte următoarele condiții atunci când își exercită activitățile:
+(a) Înaintea oricărui control, entitatea de control înainte de expediere informează exportatorul asupra modalităților de control și a criteriilor care vor fi aplicate.
+Entitatea de control înainte de expediere efectuează controalele adecvate într-un termen care să permită evitarea oricărei întârzieri nejustificate. După primirea documentelor finale și încheierea controlului, acesta emite un proces-verbal de constatare favorabil sau dă în scris o explicație detaliată a motivelor pentru care acesta nu a fost emis, în termen de cinci zile lucrătoare. În cel din urmă caz, exportatorilor trebuie să li se acorde posibilitatea de a-și prezenta opiniile în scris, și, la cerere, se organizează un nou control în cel mai scurt timp posibil, la o dată convenită de comun acord.
+Entitățile de control înainte de expediere procedează, de asemenea, la cererea exportatorului și înainte de data inspecției materiale, la o verificare preliminară a prețului și, după caz, a ratei de schimb, pe baza contractului încheiat între exportator și importator, a facturii pro formași, după caz, a cererii de autorizație de import. După această verificare preliminară, acestea informează de îndată în scris exportatorii că au acceptat prețul și/sau rata de schimb sau comunică în scris motivele detaliate pentru care nu le-au acceptat.
+Pentru a evita întârzieri la plată, entitățile de control înainte de expediere adresează exportatorilor sau reprezentanților desemnați de exportatori un proces-verbal de constatare în cel mai scurt timp posibil. În cazul unei erori materiale în procesul-verbal de constatare, acestea corectează eroarea și înștiințează părțile interesate despre această corectare în cel mai scurt timp posibil.
+(b) Controalele înainte de expediere sunt efectuate în mod nediscriminatoriu, iar procedurile și criteriile folosite pentru dirijarea acestor activități sunt obiective și se aplică în același mod tuturor exportatorilor vizați de aceste activități.
+(c) Entitățile de control înainte de expediere se abțin să ceară exportatorilor furnizarea informațiilor privind:
+(i) datele de fabricație referitoare la procedeele brevetate, făcând obiectul licențelor sau nedivulgate sau la procedeele pentru care a fost depusă o cerere de brevet;
+(ii) datele tehnice nepublicate, altele decât datele necesare pentru dovedirea conformității cu regulamentele sau standardele tehnice;
+(iii) stabilirea prețurilor interne, inclusiv a costurilor de fabricație;
+(iv) nivelurile profiturilor;
+(v) modalitățile contractelor între exportatori și furnizorii acestora, doar în cazul în care nu este posibil pentru entitatea de control să efectueze pe altă cale controlul respectiv. (În astfel de cazuri, aceasta nu cere decât informațiile necesare în acest scop.)
+În general, entitățile de control înainte de expediere tratează toate informațiile furnizate de exportatori ca pe niște informații comerciale confidențiale, în măsura în care aceste informații nu sunt încă publicate, general accesibile terților sau din domeniul public. Aceste informații comerciale confidențiale nu sunt împărtășite guvernelor care au angajat sau mandatat entitatea de control decât în măsura în care acestea sunt solicitate în mod obișnuit pentru acreditive sau alte forme de plată, în scopuri vamale, pentru acordarea de licențe de import sau pentru controlul schimburilor.
+(d) Entitățile de control înainte de expediere stabilesc proceduri care le permit să primească și să examineze plângeri ale exportatorului și să ia decizii în acest sens. Aceste proceduri sunt elaborate și aplicate în conformitate cu următoarele orientări:
+(i) entitățile de control înainte de expediere desemnează unul sau mai mulți agenți care sunt disponibili, în timpul orelor normale de birou, în fiecare oraș sau port în care acestea au un birou administrativ de control înainte de expediere, cu scopul de a primi și examina acțiunile sau plângerile exportatorilor și de a lua decizii în legătură cu acestea;
+(ii) exportatorii comunică în scris agentului sau agenților desemnați elementele referitoare la tranzacția specifică în cauză, la natura plângerii și o propunere de soluționare;
+(iii) agentul sau agenții desemnați examinează cu bunăvoință plângerile exportatorilor și adoptă o decizie în cel mai scurt timp posibil după primirea documentației menționate la punctul (ii).
+Articolul 5
+Entitățile de control înainte de expediere sunt obligate să respecte următoarele condiții atunci când își desfășoară activitatea de verificare a prețurilor:
+(a) Entitățile de control înainte de expediere nu resping un preț care figurează într-un contract între un exportator și un importator decât în cazul în care pot demonstra că propriile constatări asupra unui preț nesatisfăcător sunt fondate pe un proces de verificare, în conformitate cu criteriile menționate la literele (b)-(e).
+(b) Pentru compararea prețurilor în vederea verificării prețului (prețurilor) de export, entitatea de control înainte de expediere se bazează pe prețul (prețurile) mărfurilor identice sau similare oferite la export de către aceeași țară de export în același moment sau aproximativ în același moment, în condiții de vânzare concurențiale și comparabile, în conformitate cu practicile comerciale curente și scutite de orice rabat aplicabil în mod normal. Această comparație se bazează pe următoarele:
+(i) sunt utilizate numai prețurile care oferă o bază de comparare valabilă, ținându-se cont de factorii economici pertinenți din țara de import și din una sau unele dintre țările folosite pentru compararea prețurilor;
+(ii) entitatea de control înainte de expediere nu se bazează pe prețul mărfurilor oferite la export destinate unor țări de import diferite pentru a impune în mod arbitrar prețul cel mai scăzut expedierii respective;
+(iii) entitatea de control înainte de expediere ține cont de elementele specifice enumerate la litera (c);
+(iv) în orice etapă din procesul descris anterior, entitatea de control înainte de expediere îi oferă exportatorului posibilitatea de a-și justifica prețul;
+(c) Atunci când procedează la verificarea prețului, entitățile de control înainte de expediere țin cont în mod corespunzător de modalitățile contractului de vânzare și de factorii de modificare general aplicabili aferenți tranzacției. Acești factori cuprind, însă nu în mod exclusiv, nivelul comercial și volumul vânzării, perioadele și condițiile de livrare, clauzele de revizuire a prețurilor, specificațiile privind calitatea, caracteristicile speciale ale modelului, specificațiile particulare privind expedierea sau ambalarea, volumul comenzii, vânzările în numerar, influențele sezoniere, taxele de licență sau alte redevențe cu titlu de proprietate intelectuală și serviciile prestate în cadrul contractului în cazul în care acestea nu sunt, de regulă, facturate separat; factorii mai includ, de asemenea, anumite elemente în raport cu prețul fixat de exportator, cum ar fi relația contractuală dintre exportator și importator.
+(d) Verificarea cheltuielilor de transport se referă exclusiv la prețul care corespunde modului de transport folosit care este practicat în țara de export, în conformitate cu cele convenite în contractul de vânzare.
+(e) Următoarele elemente nu sunt folosite în scopul verificării prețului:
+(i) prețul de vânzare în țara importatoare a mărfurilor produse în această țară;
+(ii) prețul mărfurilor la export provenind dintr-o țară, alta decât țara de export;
+(iii) costul de producție;
+(iv) prețurile sau valorile arbitrare sau fictive.
+Articolul 6
+În cazul în care, ca urmare a obligațiilor față de guvernul sau organismul public al unei țări terțe, entitatea de control înainte de expediere nu respectă condițiile definite la articolele 4 și 5 ale prezentului regulament, în cazul în care aceasta nu se conformează procedurilor menționate la articolul 7 sau în cazul în care există un oricare alt motiv de a crede că Acordul OMC nu este respectat, se poate recurge la orice procedură corespunzătoare, inclusiv la procedura prevăzută de Regulamentul (CEE) nr. 2641/84(2), în conformitate cu condițiile pe care le prevede acesta.
+Articolul 7
+În cazul în care o entitate de control înainte de expediere nu își poate soluționa în nici un alt mod litigiile cu un exportator în termen de două zile lucrătoare de la depunerea plângerii, în conformitate cu dispozițiile articolului 4 litera (d), procedura care trebuie urmată în mod normal este următoarea:
+(a) Un exportator sau o entitate de control înainte de expediere care dorește să soluționeze un litigiu contactează, înainte de expediere, organismul independent prevăzut la articolul 4 al Acordului OMC și cere formarea unui grup special. Organismul independent este însărcinat cu constituirea acestui grup special, care trebuie să fie format din trei membri. Aceștia sunt aleși astfel încât să se evite cheltuielile și întârzierile inutile. Primul membru este ales din secțiunea (i) a listei prevăzute de Acordul OMC de către respectiva entitate de control înainte de expediere, sub rezerva ca acest membru să nu aibă nici o legătură cu organul mai sus menționat. Al doilea membru este ales din secțiunea (ii) a listei prevăzute de Acordul OMC de către exportatorul respectiv, sub rezerva ca acest membru să nu aibă nici o legătură cu exportatorul amintit. Al treilea membru este ales din secțiunea (iii) a listei prevăzute de Acordul OMC de către de către organismul independent menționat mai sus. Nu i se aduce nici o obiecție unui expert comercial independent ales din secțiunea (iii) a listei prevăzute de Acordul OMC privind controlul înainte de expediere.
+(b) Expertul comercial independent ales din secțiunea (iii) a listei prevăzute de Acordul OMC își asumă funcțiile de președinte al grupului special. Expertul comercial independent ia deciziile necesare pentru a asigura o soluționare rapidă a litigiului de către grupul special, de exemplu cu privire la chestiunea de a ști dacă faptele cauzei impun membrilor grupului special să se reunească și, în cazul afirmativ, în ce loc trebuie să se țină o astfel de reuniune, ținându-se cont de locul controlului respectiv.
+(c) În cazul în care părțile la litigiuconvin asupra acestui demers, un expert comercial independent poate fi ales din secțiunea (iii) a listei prevăzute de Acordul OMC de către organismul independent menționat la litera (a), cu scopul de a examina litigiul în cauză. Acest expert ia deciziile necesare pentru a asigura o soluționare rapidă a litigiului, de exemplu, ținând cont de locul inspecției respective.
+(d) Obiectivul verificării este de a stabili dacă, pe parcursul inspecției respective, părțile la litigiu s-au conformat dispozițiilor Acordului OMC și, prin urmare, dispozițiilor prezentului regulament. Procedurile se desfășoară rapid și oferă celor două părți posibilitatea de a-și prezenta punctele de vedere personal sau în scris.
+(e) Deciziile unui grup special compus din trei membri sunt luate printr-un vot al majorității. Decizia asupra litigiului se ia în termen de opt zile lucrătoare de la cererea de examinare independentă și este comunicată părților la litigiu. Acest termen poate fi prelungit în cazul în care părțile la litigiu sunt de acord. Grupul special sau expertul comercial independent repartizează cheltuielile în funcție de particularitățile cauzei.
+(f) Decizia grupului special este obligatorie atât pentru entitatea de control înainte de expediere, cât și pentru exportator, care sunt părți la litigiu.
+Articolul 8
+Fiecare stat membru:
+— adoptă măsurile adecvate pentru a pune în aplicare la nivel național prezentul regulament, și mai ales pentru a permite funcționarea corectă a procedurii de reexaminare independentă prevăzută la articolul 7;
+— desemnează un agent responsabil cu chestiunile legate de controlul înainte de expediere, al cărui nume și a cărui funcție le comunică Comisiei.
+Comunitatea și statele membre pot oferi statelor utilizatoare, la cererea lor, asistență tehnică în materie de control înainte de expediere; o asemenea asistență trebuie, în principiu, să urmărească eliminarea circumstanțelor care au determinat aceste țări să recurgă la controlul înainte de expediere.
+Articolul 9
+Comisia informează Secretariatul OMC despre adoptarea prezentului regulament și despre orice modificare a acestuia.
+Articolul 10
+Prezentul regulament intră în vigoare la 1 ianuarie 1995.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 22 decembrie 1994.
+Pentru Consiliu
+Președintele
+H. SEEHOFER
+(1) Aviz emis la 14 decembrie 1994 (nepublicat încă în Jurnalul Oficial).
+(2) JO L 252, 20.9.1984, p. 1.
