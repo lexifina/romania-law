@@ -1,0 +1,204 @@
+{
+ "key": "dcc-39-2001",
+ "label": "Decizia CCR nr. 39/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "39",
+ "date": "2001-02-06",
+ "year": "2001",
+ "heading": "DECIZIE nr. 39 din 6 februarie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II din Ordonanţa Guvernului nr. 82/1999 pentru modificarea şi completarea Decretului nr. 247/1977 cu privire la încadrarea cadrelor militare permanente în grupele I, II sau III de muncă, precum şi a celor ale art. 2 alin. 1 din Decretul-lege nr. 68/1990 pentru înlăturarea unor inechitati în salarizarea personalului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "97",
+  "bis": false,
+  "date": "2001-02-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.936/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 82/1999",
+    "number": "82",
+    "year": "1999",
+    "path": "og/1999/82"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 68/1990",
+    "number": "68",
+    "year": "1990",
+    "path": "decret-lege/1990/68"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. II din Ordonanţa Guvernului nr. 82/1999 pentru modificarea şi completarea Decretului nr. 247/1977 cu privire la încadrarea cadrelor militare permanente în grupele I, II sau III de muncă, excepţie ridicată de Emil Camarasan în Dosarul nr. 3.936/2000 al Curţii de Apel Cluj - Secţia comercială şi de contencios administrativ. 2. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. 1 din Decretul-lege nr. 68/1990 pentru inlăturarea unor inechitati în salarizarea personalului, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 82/1999",
+    "number": "82",
+    "year": "1999",
+    "path": "og/1999/82"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 68/1990",
+    "number": "68",
+    "year": "1990",
+    "path": "decret-lege/1990/68"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-02-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/26930",
+  "text_sha256": "04beb68d6d7434a34225f1dc199928c298d69849c0c6081b274c851e0f737124",
+  "catalogue_sha256": "04beb68d6d7434a34225f1dc199928c298d69849c0c6081b274c851e0f737124",
+  "fetched": "2026-11-02T23:12:59Z",
+  "chars": 11716,
+  "portal_id": "26930",
+  "tip": "DECIZIE"
+ }
+}
