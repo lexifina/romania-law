@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 37 din 29 aprilie 1993  pentru modificarea  Hotărârii Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 85 din 5 mai 1993     Camera Deputaţilor adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC      Hotărârea Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor se modifică în sensul că domnul deputat Valeriu Tabără, din Grupul parlamentar al Partidului Unităţii Naţionale Române, trece de la Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice (anexa nr. 4) la Comisia de politică externă (anexa nr. 13).  PREŞEDINTELE CAMEREI DEPUTAŢILOR  ADRIAN NĂSTASE  Bucureşti, 29 aprilie 1993.  Nr. 37.  ----
