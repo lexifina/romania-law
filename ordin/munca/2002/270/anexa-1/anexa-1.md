@@ -1,0 +1,9 @@
+# Anexa 1
+-------- la procedura ------------
+LISTA cuprinzând ocupatiile propuse a fi introduse în COR
+Nr. crt. Denumirea ocupației propuse a fi introdusă în COR (în limba română) Grupa și clasa CAENale activității economice pentru care este necesară introducerea de noi ocupații Nivelul de instruire necesar pentru practicarea ocupației Pagina din COR la care urmează să se înscrie ocupația Codul corespunzător ocupației propuse a fi introdusă în COR (format din 6 cifre) Tipul și numărul actului normativ în care se regăsesc ocupațiile propuse a fi introduse în COR
+Grupa CAEN Clasa CAEN
+0 1 2 3 4 5 6 7
+Notă...
+Notă...
+Notă...
