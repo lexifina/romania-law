@@ -1,0 +1,269 @@
+{
+ "key": "dcc-64-2004",
+ "label": "Decizia CCR nr. 64/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "64",
+ "date": "2004-02-17",
+ "year": "2004",
+ "heading": "DECIZIE nr. 64 din 17 februarie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 164 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "248",
+  "bis": false,
+  "date": "2004-03-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "10.281/2003",
+  "6.270/2003",
+  "9.134/2003",
+  "2.043/2003",
+  "7.162/2003",
+  "6.326/2003",
+  "3.038/2003",
+  "3.049/2003",
+  "448C/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 164 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, excepţie ridicată de Societatea Comercială \"INGERL ROMÂNIA TRADING\" - S.R.L. din Bucureşti în Dosarul nr. 10.281/2003 al Judecătoriei Sectorului 1 Bucureşti, Societatea Comercială \"Gigi Service\" - S.R.L. din Târgovişte în Dosarul nr. 6.270/2003 al Curţii de Apel Ploieşti - Secţia de contencios administrativ şi comercial, Societatea Comercială \"Charlie Comat\" - S.A. din Craiova în Dosarul nr. 9.134/2003 al Judecătoriei Craiova, Societatea Comercială \"Prestări Servicii de Interes Public\" - S.A. din Suceava în Dosarul nr. 2.043/2003 al Judecătoriei Suceava, Societatea Comercială \"Hotel Valahia\" - S.R.L. din Târgovişte în Dosarul nr. 7.162/2003 al Curţii de Apel Ploieşti - Secţia comercială şi de contencios administrativ, Societatea Comercială \"MEFITEX\" - S.A. din Suceava în Dosarul nr. 6.326/2003 al Judecătoriei Suceava, Societatea Comercială \"STIF\" S.A. din Fălticeni în Dosarul nr. 3.038/2003 al Judecătoriei Fălticeni şi Societatea Comercială \"Lucy Prod\" - S.R.L. din Negreşti-Oaş în Dosarul nr. 3.049/2003 al Judecătoriei Satu Mare.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 61/2002",
+    "number": "61",
+    "year": "2002",
+    "path": "og/2002/61"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-03-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/50588",
+  "text_sha256": "b79623cef2be613ede853300b63bf3edc35fc842d97a8aaed4efd3c87a9b1eaf",
+  "catalogue_sha256": "b79623cef2be613ede853300b63bf3edc35fc842d97a8aaed4efd3c87a9b1eaf",
+  "fetched": "2026-11-02T23:35:32Z",
+  "chars": 24443,
+  "portal_id": "50588",
+  "tip": "DECIZIE"
+ }
+}
