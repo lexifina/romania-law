@@ -1,0 +1,2 @@
+# Anexa 6
+MARCAJUL care se aplică animalelor din specia bovine, depistate pozitiv la leucoza enzootica bovina Un marcaj permanent, având dimensiunile indicate mai jos, este aplicat pentru a fi vizibil din cel puțin două locuri din spatele fiecărui animal (crupa stanga și dreapta), folosindu-se tehnica definită drept "criomarcare". 1 cm │<───────>│ ├─────────┼── │ │ ^ │ │ │ │ │ │ │ │ │12 cm │ │ │ │ │ │ │ │ │ 6 cm │ │ │<┼────────────────>│ │ │ v │ │ └───────────────────┼─ │ │^ │ ││ 1 cm │ ││ │ │v └─────────────────────────────┼─
