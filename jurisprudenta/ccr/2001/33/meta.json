@@ -1,0 +1,339 @@
+{
+ "key": "dcc-33-2001",
+ "label": "Decizia CCR nr. 33/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "33",
+ "date": "2001-02-06",
+ "year": "2001",
+ "heading": "DECIZIE nr. 33 din 6 februarie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 97 alin. 1 şi 3 din Legea nr. 26/1996 (Codul silvic) şi a prevederilor art. 1, art. 5 şi art. 8 din Legea nr. 81/1993 privind determinarea despăgubirilor în cazul unor pagube produse fondului forestier, vegetatiei forestiere din afară fondului forestier situate pe terenurile proprietate publică şi privată şi economiei vânatului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "215",
+  "bis": false,
+  "date": "2001-04-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "386/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1996",
+    "number": "26",
+    "year": "1996",
+    "path": "lege/1996/26"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/1993",
+    "number": "81",
+    "year": "1993",
+    "path": "lege/1993/81"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a prevederilor art. 97 alin. 1 şi 3 din Legea nr. 26/1996 (Codul silvic), precum şi a prevederilor art. 1 şi art. 8 din Legea nr. 81/1993 privind determinarea despăgubirilor în cazul unor pagube produse fondului forestier, vegetatiei forestiere din afară fondului forestier situate pe terenurile proprietate publică şi privată şi economiei vânatului, excepţie ridicată de Valer-Vasile Tanalt în Dosarul nr. 386/2000 al Curţii de Apel Targu Mures - Secţia penală. 2. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a prevederilor art. 5 din Legea nr. 81/1993, excepţie ridicată în acelaşi dosar de către acelaşi autor.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1996",
+    "number": "26",
+    "year": "1996",
+    "path": "lege/1996/26"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/1993",
+    "number": "81",
+    "year": "1993",
+    "path": "lege/1993/81"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2",
+      "5",
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 96/1998",
+    "number": "96",
+    "year": "1998",
+    "path": "og/1998/96"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedura penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-04-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/28154",
+  "text_sha256": "4fb1d8e293103fe7124605e990bd6e6bb44ca3c9ce987bf41aa218ec49ffddd7",
+  "catalogue_sha256": "4fb1d8e293103fe7124605e990bd6e6bb44ca3c9ce987bf41aa218ec49ffddd7",
+  "fetched": "2026-11-02T23:13:57Z",
+  "chars": 23626,
+  "portal_id": "28154",
+  "tip": "DECIZIE"
+ }
+}
