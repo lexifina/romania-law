@@ -1,0 +1,164 @@
+{
+ "key": "dcc-14-2003",
+ "label": "Decizia CCR nr. 14/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "14",
+ "date": "2003-01-21",
+ "year": "2003",
+ "heading": "DECIZIE nr. 14 din 21 ianuarie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 1 şi 2 (care introduc art. 69^1-69^4 în Legea nr. 92/1992) din Ordonanţa de urgenta a Guvernului nr. 20/2002 privind modificarea şi completarea Legii nr. 92/1992 pentru organizarea judecătorească",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "217",
+  "bis": false,
+  "date": "2003-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "880/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 20/2002",
+    "number": "20",
+    "year": "2002",
+    "path": "oug/2002/20"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 1 şi 2 (care introduc art. 69^1-69^4 în Legea nr. 92/1992) din Ordonanţa de urgenta a Guvernului nr. 20/2002 privind modificarea şi completarea Legii nr. 92/1992 pentru organizarea judecătorească, excepţie ridicată de Federaţia Independenta a Sindicatelor M/C din Transporturile Feroviare în Dosarul nr. 880/2000 al Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 20/2002",
+    "number": "20",
+    "year": "2002",
+    "path": "oug/2002/20"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/42775",
+  "text_sha256": "a89a4b20ca397b89bc353d11fcd14d12ad9ce0afe6573b7ee71fa71cb8a58f33",
+  "catalogue_sha256": "a89a4b20ca397b89bc353d11fcd14d12ad9ce0afe6573b7ee71fa71cb8a58f33",
+  "fetched": "2026-11-02T23:27:58Z",
+  "chars": 13616,
+  "portal_id": "42775",
+  "tip": "DECIZIE"
+ }
+}
