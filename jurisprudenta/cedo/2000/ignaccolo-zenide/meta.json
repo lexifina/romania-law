@@ -1,0 +1,180 @@
+{
+ "key": "cedo-ignaccolo-zenide-2000-01-25",
+ "label": "CEDO, Ignaccolo-Zenide c. României, 2000-01-25",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2000-01-25",
+ "year": "2000",
+ "heading": "HOTĂRÂRE din 25 ianuarie 2000",
+ "subtitle": "în cauza Ignaccolo-Zenide împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "6",
+  "bis": false,
+  "date": "2001-01-08",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "case_name": "Ignaccolo-Zenide",
+ "subjects": [],
+ "operative": [
+  "CURTEA 1. hotărăşte, cu 6 voturi pentru şi un vot împotriva, ca a existat o încălcare a art. 8 din convenţie; 2. hotărăşte, cu 6 voturi pentru şi un vot împotriva, ca statul pârât trebuie să plătească reclamantei, în termen de 3 luni, următoarele sume, majorate cu sumele provenite din taxa pe valoarea adăugată",
+  "a) 100.000 FRF, cu titlu de daune morale;",
+  "b) 86.000 FRF, cu titlu de taxe şi cheltuieli;",
+  "3. hotărăşte ca aceste sume vor fi majorate cu o dobânda simpla de 3,47% pe an, cu începere de la data expirării termenului menţionat mai sus şi până la momentul plăţii; 4. respinge, în unanimitate, cererea pentru acordarea altor despăgubiri."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "307",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 100/1992",
+    "number": "100",
+    "year": "1992",
+    "path": "lege/1992/100"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "cedo: no application number"
+ ],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/25919",
+  "text_sha256": "0758ae93021165a25c69dabb8373bd220bc479cc8a700f5db0d8c75af2dd3d5e",
+  "catalogue_sha256": "0758ae93021165a25c69dabb8373bd220bc479cc8a700f5db0d8c75af2dd3d5e",
+  "fetched": "2026-11-02T23:12:16Z",
+  "chars": 69658,
+  "portal_id": "25919",
+  "tip": "HOTĂRÂRE"
+ }
+}
