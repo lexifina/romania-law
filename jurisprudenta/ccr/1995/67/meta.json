@@ -1,0 +1,171 @@
+{
+ "key": "dcc-67-1995",
+ "label": "Decizia CCR nr. 67/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "67",
+ "date": "1995-06-28",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 67*) din 28 iunie 1995",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 7 din Legea nr. 85/1992",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "272",
+  "bis": false,
+  "date": "1995-11-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "15.991/1994",
+  "71C/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Dispune conexarea dosarelor nr. 91C/1995, nr. 92C/1995, nr. 96C/1995 şi nr. 97C/1995 la Dosarul nr. 71C/1995. 2. Respinge ca vadit nefondate excepţiile de neconstituţionalitate vizind dispoziţiile art. 7 din Legea nr. 85/1992, invocate de Societatea Comercială \"Sireg\" - S.A. Galaţi în Dosarul nr. 15.991/1994 al Judecătoriei Galaţi, şi de către Societatea Comercială \"Incstar\" - S.A. Agnita în dosarele nr. 169/1995, nr. 171/1995, nr. 191/1995 şi nr. 174/1995 aflate pe rolul Tribunalului Sibiu.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-11-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6093",
+  "text_sha256": "5d1d5fc650864de9db32e31dceccdee99e15bf7eed72c90dad034e25b40a36ab",
+  "catalogue_sha256": "5d1d5fc650864de9db32e31dceccdee99e15bf7eed72c90dad034e25b40a36ab",
+  "fetched": "2026-11-02T22:49:24Z",
+  "chars": 4211,
+  "portal_id": "6093",
+  "tip": "DECIZIE"
+ }
+}
