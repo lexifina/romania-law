@@ -1,0 +1,213 @@
+{
+ "key": "dcc-111-2002",
+ "label": "Decizia CCR nr. 111/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "111",
+ "date": "2002-04-02",
+ "year": "2002",
+ "heading": "DECIZIE nr. 111 din 2 aprilie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 30/1998, precum şi ale art. 37 alin. (2) din Legea asigurărilor sociale de sănătate nr. 145/1997",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "396",
+  "bis": false,
+  "date": "2002-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.229/2001",
+  "23C/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 30/1998",
+    "number": "30",
+    "year": "1998",
+    "path": "oug/1998/30"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea asigurărilor sociale de sănătate nr. 145/1997",
+    "number": "145",
+    "year": "1997",
+    "path": "lege/1997/145"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 30/1998, precum şi ale art. 37 alin. (2) din Legea asigurărilor sociale de sănătate nr. 145/1997, excepţie ridicată de cabinetele medicale individuale dr. Doina Miclaus, dr. Toader Pop, dr. Stefanca &amp;amp; Stefanca, dr. Elisabeta Scholl, dr. Ioan Antohi, dr. Ariana Viorica Nastai, dr. Emilia Armeanu, dr. Ana Lucia Ciplea şi dr. Anca Doina Bosca în dosarele nr. 8.229/2001, nr. 8.230/2001, nr. 8.231/2001, nr. 8.232/2001, nr. 8.233/2001, nr. 8.234/2001, nr. 8.235/2001, nr. 8.236/2001 şi nr. 8.237/2001 ale Judecătoriei Baia Mare.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 30/1998",
+    "number": "30",
+    "year": "1998",
+    "path": "oug/1998/30"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea asigurărilor sociale de sănătate nr. 145/1997",
+    "number": "145",
+    "year": "1997",
+    "path": "lege/1997/145"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/36557",
+  "text_sha256": "50098bd7203e30569ecc8de8b5e8f89785faa8398d4203a43a258d51b28ab2fb",
+  "catalogue_sha256": "50098bd7203e30569ecc8de8b5e8f89785faa8398d4203a43a258d51b28ab2fb",
+  "fetched": "2026-11-02T23:21:24Z",
+  "chars": 16053,
+  "portal_id": "36557",
+  "tip": "DECIZIE"
+ }
+}
