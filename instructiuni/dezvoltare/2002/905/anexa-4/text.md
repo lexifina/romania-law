@@ -1,0 +1,9 @@
+# Anexa 4
+M.L.P.T.L. - S.C. METROREX - S.A.
+MODELUL formularului centralizator de decont cuprinzând beneficiarii Legii nr. 42/1990 în luna...........
+Nr. crt. Numărul total de călători transportați Valoarea unitară a călătoriei - lei - Valoarea totală - lei -
+0 1 2 3 = 1 x 2
+Director general,....................
+Director economic,..................... Șef oficiu de calcul,......................
+Vizat C.F.P.
+------------
