@@ -1,0 +1,170 @@
+{
+ "key": "dcc-170-1999",
+ "label": "Decizia CCR nr. 170/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "170",
+ "date": "1999-11-02",
+ "year": "1999",
+ "heading": "DECIZIE nr. 170 din 2 noiembrie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Hotărârea Guvernului nr. 389/1996 privind transmiterea unor spaţii comerciale aflate în administrarea consiliilor locale şi a regiilor autonome către actualii deţinători, modificată prin Hotărârea Guvernului nr. 505/1998, şi a dispoziţiilor art. 2 alin. (3) din Normele metodologice privind vânzarea către actualii deţinători a unor spaţii comerciale construite din fondurile statului şi aflate în administrarea consiliilor locale şi a regiilor autonome de interes local de sub autoritatea acestora, aprobate prin Hotărârea Guvernului nr. 505/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "5",
+  "bis": false,
+  "date": "2000-01-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.775/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 389/1996",
+    "number": "389",
+    "year": "1996",
+    "path": "hg/1996/389"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Hotărârea Guvernului nr. 389/1996 privind transmiterea unor spaţii comerciale aflate în administrarea consiliilor locale şi a regiilor autonome către actualii deţinători, modificată prin Hotărârea Guvernului nr. 505/1998, şi a dispoziţiilor art. 2 alin. (3) din Normele metodologice privind vânzarea către actualii deţinători a unor spaţii comerciale construite din fondurile statului şi aflate în administrarea consiliilor locale şi a regiilor autonome de interes local de sub autoritatea acestora, aprobate prin Hotărârea Guvernului nr. 505/1998, excepţie ridicată de Societatea Comercială \"Dual M&amp;amp;G\" - S.R.L. din Sibiu în Dosarul nr. 4.775/1998 al Tribunalului Sibiu.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 389/1996",
+    "number": "389",
+    "year": "1996",
+    "path": "hg/1996/389"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 505/1998",
+    "number": "505",
+    "year": "1998",
+    "path": "hg/1998/505"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "og/1997/88"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-01-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20519",
+  "text_sha256": "f7bd9fd6ba014069cb19aa2488e960eec95d66fe0ae16c3075aa245f12a1c6c1",
+  "catalogue_sha256": "f7bd9fd6ba014069cb19aa2488e960eec95d66fe0ae16c3075aa245f12a1c6c1",
+  "fetched": "2026-11-02T23:06:43Z",
+  "chars": 8178,
+  "portal_id": "20519",
+  "tip": "DECIZIE"
+ }
+}
