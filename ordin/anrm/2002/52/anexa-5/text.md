@@ -1,0 +1,46 @@
+# Anexa 5
+DISTANȚELE MINIME DE SIGURANȚĂ dintre instalațiile tehnologice componente ale sistemului de transport al hidrocarburilor lichide și gazoase și diferite obiective industriale, administrative și sociale învecinate acestuia
+Nr. crt. Denumirea obiectivelor învecinate instalațiilor tehnologice componente ale Sistemului național de transport al țițeiului, gazolinei, condensatului și etanului Distanța de siguranță (m)
+Conducte Stații de pompare Rampe de încărcare Depozite
+Țiței, condensat Gazolină Etan Țiței, con- densat Gazolină Etan Țiței, con- densat Gazolină Produse clasele IIIb, IVb Produse clasele I, II, IIIa, IVa Gaze liche- fiate
+Subte- rane Supra- terane Subte- rane Supra- terane Subte- rane Supra- terane
+1. Obiective din industria de petrol și gaze:
+1.1. conducte de transport al țițeiului, condensatului, produselor petroliere T T T T T T T T T T T T T T
+1.2. conducte de transport al gazelor cu p<6 bar T T T T T T T T T T T T T T
+1.3. conducte de transport al gazolinei sau gazelor cu 6<p<40 bar T T T T T T T T T T T T T T
+1.4. conducte de transport al etanului sau gazelor cu p>40 bar T T T T T T T T T T T T T T
+1.5. instalații tehnologice în aer liber, categoriile A, B, C, pericol de incendiu T T T T T T 20 20 20 30 60 20 40 100
+1.6. instalații tehnologice în aer liber, categoriile D, E, pericol de incendiu 10 10 30 30 30 30 20 30 30 30 (a) 60 25 (b) 40 100
+1.7. instalații cu foc deschis (baterii de cazane, cuptoare, încălzitoare cu flacără directă) 10 10 100 100 100 100 35 100 100 50 (a) 100 30 40 100
+1.8. faclă de gaze neintegrată (c) 10 35 100 100 100 100 80 100 100 80 100 60 80 100
+2. Instalații electrice de tip exterior, cu tensiunea nominală de 110 kV sau mai mare 25 25 25 25 25 25 25 25 25 25 25 25 25 25
+3. Instalații electrice de tip interior; instalații electrice de tip exterior, cu tensiunea nominală mai mică de 110 kV; posturi de transformare de interior și exterior 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+4. L.E.A. de medie tensiune (mai mare de 1 kV):
+4.1. paralelisme (d) 5 (e) H(st)+3 (f) H(st) (f) H(st)+3 (f) H(st) H(st)+3 (f) - - - - - - - -
+4.2. intersecții (d) 5 (e) (g) H(st) (f) (g) H(st) (f) (g) - - - - - - - -
+5. L.E.A. de joasă tensiune (mai mică de 1 kV):
+5.1. paralelisme (d) H(st) H(st) (f) H(st) H(st) (f) H(st) H(st) (f) - - - - - - - -
+5.2. intersecții (d) H(st) (g) H(st) (g) H(st) (g) - - - - - - - -
+6. Cabluri electrice subterane:
+6.1. paralelisme 1 - 0,6 (h) - 0,6 (h) - - - - - - - - -
+6.2. intersecții (distanța măsurată în plan vertical) 0,5 (i) - 0,25 (j) - 0,25 (j) - - - - - - - - -
+7. Linii de cale ferată:
+7.1. paralelisme 100 (k) 100 (k) 100 (k) 100 (k) 100 (k) 100 (k) 100 (k) 100 (k) 100 (k) 100 (k) 100 (k) 100 (k) 100 (k) 100 (k)
+7.2. intersecții (l) (l) (l) (l) (l) (l) - - - - - - -
+8. Drumuri:
+8.1. paralelisme și apropieri cu autostrăzi 50 (m) 50 (m) 50 (m) 50 (m) 50 (m) 50 (m) 80 100 100 80 100 60 80 100
+8.2. paralelisme și apropieri cu drumuri naționale 22 (m) 22 (m) 22 (m) 22 (m) 22 (m) 22 (m) 80 100 100 80 100 60 80 100
+8.3. paralelisme și apropieri cu drumuri județene 20 (m) 20 (m) 20 (m) 20 (m) 20 (m) 20 (m) 20 20 20 20 20 60 80 100
+8.4. paralelisme și apropieri cu drumuri comunale 18 (m) 18 (m) 18 (m) 18 (m) 18 (m) 18 (m) 18 18 18 18 18 60 80 100
+8.5. intersecții (n) (n) (n) (n) (n) (n) - - - - - - - -
+9. Construcții sociale, industriale și administrative 10 10 100 100 100 100 25 25 25 50 (a) 100 30 40 100
+10. Centre populate și locuințe individuale 10 10 100 100 100 100 50 60 60 30 (a) 60 60 80 100
+11. Unități militare (o) 150 150 150 150 150 150 150 150 150 150 150 150 150 150
+12. Poligoane de tragere și depozite de exploziv (o) 250 250 250 250 250 250 250 250 250 250 250 250 250 250
+13. Balastiere în râuri (p), (r) 150 150 500 500 500 500 150 150 150 150 150 150 150 150
+14. Depozite de furaje 60 80 100 100 100 100 80 100 100 80 100 60 80 100
+15. Hidrocentrale 60 80 100 100 100 100 80 100 100 80 100 60 80 100
+16. Termocentrale 60 80 100 100 100 100 80 100 100 80 100 60 80 100
+17. Centrale atomoelectrice 500 500 500 500 500 500 500 500 500 500 500 500 500 500
+-------------
+Legenda și explicații: (a) Pentru produsele din clasele IIIb și IVb distanțele prevăzute se pot reduce cu 25%. Reducerile se vor stabili prin proiect. (b) Fac excepție rezervoarele de combustibil ale centralelor termice. (c) Distanta de 100 m se referă la facle cu înălțimi până la 60 m inclusiv. Pentru facle cu înălțimi mai mari de 60 m distanta se stabilește prin proiect în funcție de importanță obiectivului invecinat. (d) Pentru conducte subterane se considera distanta minima pe orizontala dintre fundația celui mai apropiat stalp sau element al prizei de pământ și peretele conductei, iar pentru conducte supraterane se considera distanta minima pe orizontala dintre axul liniei și peretele conductei. (e) Distanta se poate reduce în cazuri speciale până la 2 m, cu condiția prevederii prin proiect a unor măsuri suplimentare de siguranță în conformitate cu normativul P.E. 106/95. (f) Distanta se poate reduce în limitele stabilite de normativele P.E. 104/93 și P.E. 106/95, cu condiția luării unor măsuri suplimentare de siguranță, fundamentate prin proiect. (g) Se interzice traversarea L.E.A. În cazuri excepționale se admit astfel de traversari, cu condiția prevederii prin proiect a unor măsuri suplimentare de siguranță, în conformitate cu normativele P.E. 104/93 și P.E. 106/95. (h) În cazul protejării cablului în tuburi, distanta poate fi marita prin proiect la 2 m, în conformitate cu normativul P.E. 107/95. (i) Distanta în plan vertical dintre cablu și conducta poate fi redusă până la 0,25 m numai în cazul protejării cablului în tuburi pe toată lungimea intersecției plus câte 0,5 m în fiecare parte, în conformitate cu normativul P.E. 107/95. (j) De regula, conducta se pozeaza deasupra cablului. În caz contrar, fie conducta, fie cablul (de regula ultimul care se pozeaza) se introduce în tub de protecție pe o lungime de 0,8 m de fiecare parte a intersecției. Tubul va fi prevăzut la capete cu rasuflatori. Unghiul minim de traversare este de 60°. Detaliile vor fi stabilite prin proiect în conformitate cu normativul P.E. 107/95. (k) Distanțele fata de linia de cale ferată se pot reduce cu acordul Direcției generale infrastructura din cadrul Societății Naționale a Căilor Ferate Române, pe baza unei documentații fundamentate întocmite de proiectant în conformitate cu Ordinul ministrului transporturilor nr. 158/1996. (l) Intersecțiile conductelor cu linii de cale ferată se realizează conform STAS 9312-87, cu acordul Direcției generale infrastructura din cadrul Societății Naționale a Căilor Ferate Române, pe baza unei documentații fundamentate întocmite de proiectant în conformitate cu Ordinul ministrului transporturilor nr. 158/1996. (m) Distanțele dintre conducte și drumuri se pot reduce prin proiect, cu acordul Direcției generale a infrastructurilor terestre, Administrației Naționale a Drumurilor și al direcției regionale de drumuri și poduri, până la limita zonei de siguranță la drumuri, în limita a: - 1,50 m de la marginea exterioară a șanțurilor, pentru drumurile situate la nivelul terenului; - 2,00 m de la piciorul taluzului, pentru drumurile în rambleu; - 3,00 m de la marginea de sus a taluzului, pentru drumurile în debleu cu înălțimea până la 5,00 m inclusiv; - 5,00 m de la marginea de sus a taluzului, pentru drumurile în debleu cu înălțimea mai mare de 5,00 m. (n) Intersecțiile dintre conducte și drumuri se vor proiecta conform STAS 9312-87. Proiectul va fi avizat de Direcția generală a infrastructurilor terestre, Administrația Naționala a Drumurilor și de direcția regionala de drumuri și poduri, pe baza unei documentații fundamentate întocmite de proiectant în conformitate cu Ordinului ministrului transporturilor nr. 158/1996. (o) Proiectul va fi avizat de Ministerul Apărării Naționale în conformitate cu Hotărârea Guvernului nr. 62/1996. (p) Proiectul va fi avizat de Compania Naționala "Apele Române" - S.A. la depășirea limitei zonei de protecție, în conformitate cu Legea apelor nr. 107/1996. (r) Proiectul va fi avizat de Compania Naționala "Apele Române" - S.A. la traversarea apelor de suprafața, în conformitate cu Legea apelor nr. 107/1996 și cu ordinele ministrului agriculturii și alimentației nr. 148/1997 și nr. 277/1997. T - tehnologic. H(st) - înălțimea stalpului. În sensul N.D. nr. 278/1986, distanta minimala de siguranță reprezintă limita minima care trebuie asigurata în vederea menținerii gradului de securitate al instalațiilor. Distanțele prevăzute în anexa nr. 6 se considera și se măsoară: - pentru localități, de la limita construibila (intravilan); - pentru construcții izolate, de la punctul cel mai apropiat al construcției; - pentru întreprinderi industriale, depozite, stații de compresoare etc., de la punctul cel mai apropiat al imprejmuirii; - pentru drumuri, din axul drumului; - de la piciorul taluzului, la căile ferate în rambleu și de la muchia taluzului, pentru cele în debleu; - pentru podurile de linii de cale ferată sau de drumuri distanțele minime se considera ca și pentru linia de cale ferată sau categoria de drum respectiva, de la marginea podului. Distanțele minime fata de orice construcție specială necuprinsă în tabelul de mai sus se vor stabili prin proiect.
