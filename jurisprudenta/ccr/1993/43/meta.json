@@ -1,0 +1,154 @@
+{
+ "key": "dcc-43-1993",
+ "label": "Decizia CCR nr. 43/1993",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "43",
+ "date": "1993-07-08",
+ "year": "1993",
+ "heading": "DECIZIE nr. 43 din 8 iulie 1993",
+ "subtitle": "cu privire la constituţionalitatea unor prevederi din Legea privind abilitarea Guvernului de a emite ordonanţe şi autorizarea contractării şi garantarii unor credite externe, precum şi a contractării unor împrumuturi de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "175",
+  "bis": false,
+  "date": "1993-07-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "1. Constata ca dispoziţiile art. 1 lit a), f), g) şi h) şi ale art. 4 din Legea privind abilitarea Guvernului de a emite ordonanţe şi autorizarea contractării şi garantarii unor credite externe, precum şi a contractării unor împrumuturi de stat sunt constituţionale. 2. Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 14/1991",
+    "number": "14",
+    "year": "1991",
+    "path": "lege/1991/14"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii organice nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 314/1980",
+    "number": "314",
+    "year": "1980",
+    "path": "decret/1980/314"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-07-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3157",
+  "text_sha256": "7feb520edbd5b3efff496677b29cc98d279a8aa44d5b56c56e43b0b290e6f4c9",
+  "catalogue_sha256": "7feb520edbd5b3efff496677b29cc98d279a8aa44d5b56c56e43b0b290e6f4c9",
+  "fetched": "2026-11-02T22:31:12Z",
+  "chars": 14797,
+  "portal_id": "3157",
+  "tip": "DECIZIE"
+ }
+}
