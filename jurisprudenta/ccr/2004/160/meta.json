@@ -1,0 +1,221 @@
+{
+ "key": "dcc-160-2004",
+ "label": "Decizia CCR nr. 160/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "160",
+ "date": "2004-04-01",
+ "year": "2004",
+ "heading": "DECIZIE nr. 160 din 1 aprilie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Legea nr. 309/2002 privind recunoaşterea şi acordarea unor drepturi persoanelor care au efectuat stagiul militar în cadrul Direcţiei Generale a Serviciului Muncii în perioada 1950-1961, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "425",
+  "bis": false,
+  "date": "2004-05-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "52D/2004",
+  "2.981/2003",
+  "28D/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 309/2002",
+    "number": "309",
+    "year": "2002",
+    "path": "lege/2002/309"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Legea nr. 309/2002 privind recunoaşterea şi acordarea unor drepturi persoanelor care au efectuat stagiul militar în cadrul Direcţiei Generale a Serviciului Muncii în perioada 1950-1961, cu modificările şi completările ulterioare, excepţie ridicată de Maria Stigelbauer în Dosarul nr. 9.055/CA/2003 al Curţii de Apel Timişoara - Secţia comercială şi de contencios administrativ şi de Aurel Beian în Dosarul nr. 2.981/2003 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 309/2002",
+    "number": "309",
+    "year": "2002",
+    "path": "lege/2002/309"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-05-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51827",
+  "text_sha256": "7cc5187cb0f08a85edd4a2f80a82c5aef8963991d7afc8469cf672b3739b7a6e",
+  "catalogue_sha256": "7cc5187cb0f08a85edd4a2f80a82c5aef8963991d7afc8469cf672b3739b7a6e",
+  "fetched": "2026-11-02T23:36:48Z",
+  "chars": 14130,
+  "portal_id": "51827",
+  "tip": "DECIZIE"
+ }
+}
