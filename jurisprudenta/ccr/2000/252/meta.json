@@ -1,0 +1,202 @@
+{
+ "key": "dcc-252-2000",
+ "label": "Decizia CCR nr. 252/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "252",
+ "date": "2000-10-28",
+ "year": "2000",
+ "heading": "DECIZIE nr. 252 din 28 octombrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 86 alin. 4 din Ordonanţa Guvernului nr. 73/1999 privind impozitul pe venit",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "702",
+  "bis": false,
+  "date": "2000-12-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.940/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 73/1999",
+    "number": "73",
+    "year": "1999",
+    "path": "og/1999/73"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 86 alin. 4 din Ordonanţa Guvernului nr. 73/1999  privind impozitul pe venit, ridicată de Nicolae Stoicescu în Dosarul nr. 6.940/2000 al Judecătoriei Sectorului 5 Bucureşti.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 28 noiembrie 2000.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Doina Suliman  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 73/1999",
+    "number": "73",
+    "year": "1999",
+    "path": "og/1999/73"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 140/1999",
+    "number": "140",
+    "year": "1999",
+    "path": "lege/1999/140"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-12-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/25836",
+  "text_sha256": "c370edc9a286c98a227d78f734018e49a76b5c34e32410f2737a33c8896ec888",
+  "catalogue_sha256": "c370edc9a286c98a227d78f734018e49a76b5c34e32410f2737a33c8896ec888",
+  "fetched": "2026-11-02T23:12:35Z",
+  "chars": 7971,
+  "portal_id": "25836",
+  "tip": "DECIZIE"
+ }
+}
