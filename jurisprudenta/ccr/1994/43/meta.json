@@ -1,0 +1,146 @@
+{
+ "key": "dcc-43-1994",
+ "label": "Decizia CCR nr. 43/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "43",
+ "date": "1994-05-04",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 43*) din 4 mai 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 279/1992",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "354",
+  "bis": false,
+  "date": "1994-12-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "336/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 279/1992",
+    "number": "279",
+    "year": "1992",
+    "path": "hg/1992/279"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 279/1992 invocată de recurentii-contestatori Szentyvanyi Istvan şi Szentyvanyi Olimpia în Dosarul nr. 336/1993 al Curţii de Apel Tirgu Mures.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 279/1992",
+    "number": "279",
+    "year": "1992",
+    "path": "hg/1992/279"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4136",
+  "text_sha256": "54ba1b345e1b2ada830a85f3f742d87bef2072395bcd2f2485674a9efbba4091",
+  "catalogue_sha256": "54ba1b345e1b2ada830a85f3f742d87bef2072395bcd2f2485674a9efbba4091",
+  "fetched": "2026-11-02T22:46:11Z",
+  "chars": 4824,
+  "portal_id": "4136",
+  "tip": "DECIZIE"
+ }
+}
