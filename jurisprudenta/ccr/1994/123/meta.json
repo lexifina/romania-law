@@ -1,0 +1,154 @@
+{
+ "key": "dcc-123-1994",
+ "label": "Decizia CCR nr. 123/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "123",
+ "date": "1994-11-16",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 123 din 16 noiembrie 1994",
+ "subtitle": "referitoare la soluţionarea recursului declarat de Vârbănescu Iulian împotriva Deciziei nr. 73, pronunţată de Curtea Constituţională la data de 5 iulie 1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "14",
+  "bis": false,
+  "date": "1995-01-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "1587/1994"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Varbanescu Iulian împotriva Deciziei nr. 73 din 5 iulie 1994 a Curţii Constituţionale.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 68/1968",
+    "number": "68",
+    "year": "1968",
+    "path": "lege/1968/68"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-01-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4506",
+  "text_sha256": "389f19054c6bcfeefdefff488534317ffac284aef4c7e7387bf5db19b0570335",
+  "catalogue_sha256": "389f19054c6bcfeefdefff488534317ffac284aef4c7e7387bf5db19b0570335",
+  "fetched": "2026-11-02T22:46:28Z",
+  "chars": 7058,
+  "portal_id": "4506",
+  "tip": "DECIZIE"
+ }
+}
