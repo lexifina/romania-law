@@ -1,0 +1,229 @@
+{
+ "key": "dcc-290-2002",
+ "label": "Decizia CCR nr. 290/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "290",
+ "date": "2002-11-05",
+ "year": "2002",
+ "heading": "DECIZIE nr. 290 din 5 noiembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 8 alin. (2) şi (3) din Ordonanţa de urgenta a Guvernului nr. 140/1999 cu privire la rectificarea bugetului de stat pe anul 1999, aprobată prin Legea nr. 44/2000",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "838",
+  "bis": false,
+  "date": "2002-11-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "200C/2002",
+  "199C/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 140/1999",
+    "number": "140",
+    "year": "1999",
+    "path": "oug/1999/140"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 8 alin. (2) şi (3) din Ordonanţa de urgenta a Guvernului nr. 140/1999 cu privire la rectificarea bugetului de stat pe anul 1999, excepţii ridicate de Gheorghe Mares şi Severica Tirvuica în dosarele nr. 167/CM/2002 şi nr. 219/CM/2002 ale Tribunalului Gorj - Secţia conflicte de muncă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 140/1999",
+    "number": "140",
+    "year": "1999",
+    "path": "oug/1999/140"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 0282/1993",
+    "number": "282",
+    "year": "1993",
+    "path": "hg/1993/282"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "lege/1999/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/40005",
+  "text_sha256": "217961c078d4a5f68848d532b7b7578f611896feaf2b15ab858b5a1cd00c04ca",
+  "catalogue_sha256": "217961c078d4a5f68848d532b7b7578f611896feaf2b15ab858b5a1cd00c04ca",
+  "fetched": "2026-11-05T10:04:21Z",
+  "chars": 10263,
+  "portal_id": "40005",
+  "tip": "DECIZIE"
+ }
+}
