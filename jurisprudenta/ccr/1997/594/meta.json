@@ -1,0 +1,147 @@
+{
+ "key": "dcc-594-1997",
+ "label": "Decizia CCR nr. 594/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "594",
+ "date": "1997-12-09",
+ "year": "1997",
+ "heading": "DECIZIE nr. 594 din 9 decembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "83",
+  "bis": false,
+  "date": "1998-02-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "10.688/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a Ordonanţei Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, invocată de Societatea Comercială \"Gama Forest\" - S.R.L. Iaşi prin încheierea din 13 decembrie 1996, pronunţată în Dosarul nr. 10.688/1996 al Judecătoriei Iaşi.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 4/1994",
+    "number": "4",
+    "year": "1994",
+    "path": "lege/1994/4"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13187",
+  "text_sha256": "2a6e1055e1c5152405a5a16a7800306ecdcf10feed98e9f36d7d2ba696cd09ad",
+  "catalogue_sha256": "2a6e1055e1c5152405a5a16a7800306ecdcf10feed98e9f36d7d2ba696cd09ad",
+  "fetched": "2026-11-02T22:59:37Z",
+  "chars": 6747,
+  "portal_id": "13187",
+  "tip": "DECIZIE"
+ }
+}
