@@ -1,0 +1,195 @@
+{
+ "key": "dcc-201-2004",
+ "label": "Decizia CCR nr. 201/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "201",
+ "date": "2004-04-29",
+ "year": "2004",
+ "heading": "DECIZIE nr. 201 din 29 aprilie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 40 lit. a) şi ale art. 41 liniuţa a patra din Ordonanţa Guvernului nr. 44/1997 privind transporturile rutiere, aprobată cu modificări şi completări prin Legea nr. 105/2000",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "511",
+  "bis": false,
+  "date": "2004-06-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9D/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 44/1997",
+    "number": "44",
+    "year": "1997",
+    "path": "og/1997/44"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 40 lit. a) şi ale art. 41 liniuţa a patra din Ordonanţa Guvernului nr. 44/1997 privind transporturile rutiere, aprobată cu modificări şi completări prin Legea nr. 105/2000, excepţie ridicată de Societatea Comercială \"Dominus Rei\" - S.R.L. din Constanţa în dosarele nr. 9.013/2003, nr. 8.036/2003 şi nr. 8.947/2003 ale Judecătoriei Constanţa.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 44/1997",
+    "number": "44",
+    "year": "1997",
+    "path": "og/1997/44"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52736",
+  "text_sha256": "b7c3b814c1bb532cd26846085c67adc264bee0af6ee41ce8bb4c1ab150578995",
+  "catalogue_sha256": "b7c3b814c1bb532cd26846085c67adc264bee0af6ee41ce8bb4c1ab150578995",
+  "fetched": "2026-11-02T23:37:27Z",
+  "chars": 11971,
+  "portal_id": "52736",
+  "tip": "DECIZIE"
+ }
+}
