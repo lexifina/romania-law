@@ -1,0 +1,2 @@
+# Anexa 1
+Medicii de medicina generală cu drept de libera practica pot avea acces la competentele: ● medicina școlară; ● îngrijiri paliative; ● reinsertie socioprofesionala; ● managementul medical al sportivilor; ● medicina de întreprindere; ● sănătate comunitara; ● medicina aerospatiala; ● economie sanitară și management financiar; ● promovarea sănătății și strategii preventive; ● acupunctura; ● homeopatie; ● apifitoterapie; ● ecografie generală; ● urgente prespitalicesti.
