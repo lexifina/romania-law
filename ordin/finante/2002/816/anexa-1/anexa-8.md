@@ -1,0 +1,5 @@
+# Anexa 8
+------- la norme -------- Direcția generală a finanțelor publice a municipiului București Nr........./........... Către................................... Prin prezenta va comunicăm, ca urmare a cererii de restituire a taxei pe valoarea adăugată, înregistrată la Direcția generală a finanțelor publice a municipiului București sub nr............/............, ca vi s-a aprobat restituirea taxei pe valoarea adăugată aferente bunurilor și serviciilor cumpărate pentru:
+a) Misiunea diplomatică/Oficiul consular/Reprezentanta internationala interguvernamentală................................................;
+b) personal al Misiunii diplomatice/Oficiului consular/Reprezentantei internaționale interguvernamentale.......................................,
+urmând ca plata să se efectueze prin virament în contul... (instituției sau al persoanei).......... nr.................., deschis la Banca..............., Sucursala/Filiala/Agenția.......................... Sumele aferente sunt: a)..................................... lei; b)..................................... lei. Director general,.......................................... -------------
