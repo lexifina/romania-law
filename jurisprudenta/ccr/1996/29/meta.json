@@ -1,0 +1,112 @@
+{
+ "key": "dcc-29-1996",
+ "label": "Decizia CCR nr. 29/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "29",
+ "date": "1996-03-13",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 29*) din 13 martie 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 391 din 6 iunie 1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "297",
+  "bis": false,
+  "date": "1996-11-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.590/1995"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 391 din 6 iunie 1995, invocată de Tintelecan Vintila şi de Tintelecan Emilia în Dosarul nr. 5.590/1995 al Judecătoriei Petrosani.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8099",
+  "text_sha256": "ef40c1ce88aa0be2a924719e13908732c30e92a0326f5f02122e3626f90c1326",
+  "catalogue_sha256": "ef40c1ce88aa0be2a924719e13908732c30e92a0326f5f02122e3626f90c1326",
+  "fetched": "2026-11-02T22:52:39Z",
+  "chars": 4371,
+  "portal_id": "8099",
+  "tip": "DECIZIE"
+ }
+}
