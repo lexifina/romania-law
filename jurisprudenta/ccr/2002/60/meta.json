@@ -1,0 +1,189 @@
+{
+ "key": "dcc-60-2002",
+ "label": "Decizia CCR nr. 60/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "60",
+ "date": "2002-02-26",
+ "year": "2002",
+ "heading": "DECIZIE nr. 60 din 26 februarie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 27 alin. (1) din Ordonanţa de urgenta a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, aprobată prin Legea nr. 44/1998, astfel cum au fost modificate prin Legea nr. 99/1999 privind unele măsuri pentru accelerarea reformei economice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "229",
+  "bis": false,
+  "date": "2002-04-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 27 alin. (1) din Ordonanţa de urgenta a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, aprobată prin Legea nr. 44/1998, astfel cum au fost modificate prin Legea nr. 99/1999 privind unele măsuri pentru accelerarea reformei economice, excepţie ridicată de Societatea Comercială \"Comtext\" - S.A. din Constanta în Dosarul nr. 1.816/Com/2001 al Tribunalului Constanta - Secţia comercială.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "oug/1997/51"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-04-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/34908",
+  "text_sha256": "fe50a355a6c8b1211317208bc50085e3169bf05953cab91176f4085a5dab9b7f",
+  "catalogue_sha256": "fe50a355a6c8b1211317208bc50085e3169bf05953cab91176f4085a5dab9b7f",
+  "fetched": "2026-11-02T23:20:06Z",
+  "chars": 18075,
+  "portal_id": "34908",
+  "tip": "DECIZIE"
+ }
+}
