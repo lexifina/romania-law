@@ -1,0 +1,176 @@
+{
+ "key": "dcc-191-2004",
+ "label": "Decizia CCR nr. 191/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "191",
+ "date": "2004-04-27",
+ "year": "2004",
+ "heading": "DECIZIE nr. 191 din 27 aprilie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Legea nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite, republicată, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "503",
+  "bis": false,
+  "date": "2004-06-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1990",
+    "number": "12",
+    "year": "1990",
+    "path": "lege/1990/12"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Legea nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite, republicată, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Comercială \"Opnic\" - S.R.L. Băbeni în Dosarul nr. 2.953/CAF/2003 al Tribunalului Vâlcea - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1990",
+    "number": "12",
+    "year": "1990",
+    "path": "lege/1990/12"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "9",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52475",
+  "text_sha256": "e1fc998780d01f0a1eb91c0f5361640d6f6ab6b05f4ef44beb50597bc918666d",
+  "catalogue_sha256": "e1fc998780d01f0a1eb91c0f5361640d6f6ab6b05f4ef44beb50597bc918666d",
+  "fetched": "2026-11-02T23:37:26Z",
+  "chars": 10449,
+  "portal_id": "52475",
+  "tip": "DECIZIE"
+ }
+}
