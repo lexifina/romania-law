@@ -12,7 +12,9 @@ Initiator: Guvernul României.
 
 - 1996-09-02: registered at the Senate
 - 2001-02-05: documents published: Raport comisie sesizată pe fond
+- 2001-03-01: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
 - 2001-02-05: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L157CR.PDF
+- 2001-03-01: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L157AM.PDF
