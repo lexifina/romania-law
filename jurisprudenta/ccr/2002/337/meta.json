@@ -1,0 +1,315 @@
+{
+ "key": "dcc-337-2002",
+ "label": "Decizia CCR nr. 337/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "337",
+ "date": "2002-12-03",
+ "year": "2002",
+ "heading": "DECIZIE nr. 337 din 3 decembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 69 alin. 3 din Legea locuinţei nr. 114/1996, republicată, cu modificările şi completările ulterioare, ale art. 25 din anexa nr. 2 a legii, precum şi ale art. 4, art. 5 alin. (1) şi ale art. 17 alin. (1) din Ordonanţa Guvernului nr. 85/2001 privind organizarea şi funcţionarea asociaţiilor de proprietari",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "890",
+  "bis": false,
+  "date": "2002-12-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.014/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 85/2001",
+    "number": "85",
+    "year": "2001",
+    "path": "og/2001/85"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 69 alin. 3 din Legea locuinţei nr. 114/1996, republicată, cu modificările şi completările ulterioare, ale art. 25 din anexa nr. 2 a legii, precum şi ale art. 4, art. 5 alin. (1) şi ale art. 17 alin. (1) din Ordonanţa Guvernului nr. 85/2001 privind organizarea şi funcţionarea asociaţiilor de proprietari, excepţie ridicată de Mircea Pitilina în Dosarul nr. 5.014/2001 al Tribunalului Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 85/2001",
+    "number": "85",
+    "year": "2001",
+    "path": "og/2001/85"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 14/1996",
+    "number": "14",
+    "year": "1996",
+    "path": "lege/1996/14"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 324/2001",
+    "number": "324",
+    "year": "2001",
+    "path": "lege/2001/324"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-12-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/40433",
+  "text_sha256": "8a5405d489cd22f4939ade6111ee18d28967291f4676eab842d3033810e31d0e",
+  "catalogue_sha256": "8a5405d489cd22f4939ade6111ee18d28967291f4676eab842d3033810e31d0e",
+  "fetched": "2026-11-02T23:25:24Z",
+  "chars": 15176,
+  "portal_id": "40433",
+  "tip": "DECIZIE"
+ }
+}
