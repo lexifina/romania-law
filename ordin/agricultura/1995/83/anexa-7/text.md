@@ -1,0 +1,14 @@
+# Anexa 6
+------- la regulament ------------- PROCES VERBAL Nr............ din............. de verificare a realității datelor înscrise în documentația pentru acordarea licenței de fabricație
+Subsemnatul....................................., posesor al legitimației de control seria/nr........, eliberată de Ministerul Agriculturii și Alimentației, în urma verificării realității datelor înscrise în documentația depusă la Direcția generală pentru agricultură și alimentație............................ cu cererea nr................ din..............., pentru acordarea licenței de fabricație pentru unitatea de producție cu sediul în.........................., str............................ nr........, sectorul/județul................, în vederea fabricării următoarelor produse alimentare.......................................................................................................................................................................................................................................................................... (se vor înscrie produsele alimentare/serviciile menționate în cerere) aparținând Societății Comerciale.............................................., cu sediul în............................., str................................ nr............., sectorul/județul..............................., înregistrată la Registrul comerțului la nr................, cod fiscal...................., telefon..............., fax................, reprezentată prin.............., domiciliat în......................, str........................ nr........., bl......, sc........., et....., ap....., sectorul/județul................., posesor al buletinului de identitate seria......... nr.............., eliberat de Poliția............................, având funcția de.....................,
+Am constatat următoarele:
+1. unitatea de producție îndeplinește condițiile legale pentru acordarea licenței de fabricație, sau
+1. unitatea de producție nu îndeplinește condițiile legale pentru acordarea licenței de fabricație din următoarele motive:
+a)..........................................................................
+b)..........................................................................
+c)..........................................................................
+-
+- (se vor menționa distinct motivele neacordării licenței de fabricație).
+NOTĂ: În situația în care agentul economic solicita prin cerere acordarea licenței de fabricație pentru mai multe produse, se va elibera licenta de fabricație pentru fiecare produs/prestare de serviciu, conform anexei nr. 2 la Ordinul ministrului agriculturii și alimentației nr...............................
+Inspector de specialitate
+Reprezentantul agentului economic (semnătura și ștampila) (semnătura și ștampila)
