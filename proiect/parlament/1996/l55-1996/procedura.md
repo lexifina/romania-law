@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 1998-05-13: documents published: Raport comisie sesizată pe fond
 - 1998-06-09: adopted by the Chamber of Deputies; adopted by the Senate
 - 1998-06-27: promulgated, becomes Legea nr. 138/1998; documents published: Decret de promulgare, Forma promulgată
+- 1998-07-07: published in the Monitorul Oficial
 
 ## Documents
 
