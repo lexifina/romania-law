@@ -1,0 +1,2 @@
+# Articolul unic
+Se retrage Licenta de emisie nr. S-R 07 din 21 noiembrie 1996 pentru radio prin satelit, acordată Societății Comerciale "Romsat Cardinal Network" - S.A. pentru postul de radio prin satelit ACTIV FM din București, începând cu data de 5 martie 2001, ora 0,00, în temeiul art. 17 alin. (2) din Legea audiovizualului nr. 48/1992 , pentru nerealizarea statiei în cel mult 18 luni de la data solicitării autorizației. Președintele Consiliului Național al Audiovizualului, Șerban Madgearu -----------
