@@ -1,0 +1,154 @@
+{
+ "key": "dcc-62-1997",
+ "label": "Decizia CCR nr. 62/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "62",
+ "date": "1997-03-27",
+ "year": "1997",
+ "heading": "DECIZIE nr. 62*) din 27 martie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. IV din Normele metodologice pentru aplicarea prevederilor Ordonanţei Guvernului nr. 15/1996, aprobate prin Hotărârea Guvernului nr. 92/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "134",
+  "bis": false,
+  "date": "1998-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.962/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. IV din Normele metodologice pentru aplicarea prevederilor Ordonanţei Guvernului nr. 15/1996, aprobate prin Hotărârea Guvernului nr. 92/1996, ridicată de Societatea Comercială \"Mariuta\" - S.R.L., cu sediul în Cluj-Napoca, în Dosarul nr. 8.962/1996 al Judecătoriei Cluj-Napoca."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11396",
+  "text_sha256": "bd6aad0f0bef357a74529f8edbc11b391abb9ce479b68ae3fdfe6812bbe26dff",
+  "catalogue_sha256": "bd6aad0f0bef357a74529f8edbc11b391abb9ce479b68ae3fdfe6812bbe26dff",
+  "fetched": "2026-11-02T23:00:02Z",
+  "chars": 4480,
+  "portal_id": "11396",
+  "tip": "DECIZIE"
+ }
+}
