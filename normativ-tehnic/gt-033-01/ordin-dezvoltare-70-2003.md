@@ -1,0 +1,10 @@
+ ORDIN nr. 70 din 23 ianuarie 2003  pentru aprobarea reglementării tehnice "Ghid de termeni tehnici uzuali pentru instalaţii (germană, franceza, engleza) în scopul armonizării reglementărilor româneşti cu cele din Uniunea Europeană", indicativ GT-033-01     EMITENT     MINISTERUL LUCRĂRILOR PUBLICE, TRANSPORTURILOR ŞI LOCUINŢEI       Publicat în
+			  MONITORUL OFICIAL nr. 97 din 17 februarie 2003     În conformitate cu prevederile  art. 38 alin. (2) din Legea nr. 10/1995  privind calitatea în construcţii, cu modificările ulterioare, ale art. 2 pct. 45 şi ale  art. 4 alin. (3) din Hotărârea Guvernului nr. 3/2001  privind organizarea şi funcţionarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei,  având în vedere Procesul-verbal de avizare nr. 8 din 8 noiembrie 2001 al Comitetului tehnic de coordonare generală,  ministrul lucrărilor publice, transporturilor şi locuinţei emite următorul ordin:
+				 +
+			  Articolul 1     Se aprobă reglementarea tehnica "Ghid de termeni tehnici uzuali pentru instalaţii (germană, franceza, engleza) în scopul armonizării reglementărilor româneşti cu cele din Uniunea Europeană", indicativ GT-033-01, elaborata de Institutul de Cercetări pentru Echipamente şi Tehnologii în Construcţii - ICECON - S.A. Bucureşti, prevăzută în anexa*) care face parte integrantă din prezentul ordin.
+				 +
+			  Articolul 2     Prezentul ordin va fi publicat în Monitorul Oficial al României, Partea I.
+				 +
+			  Articolul 3     Direcţia generală tehnica în construcţii va duce la îndeplinire prevederile prezentului ordin.  --------------
+						Notă   ...
+			  *) Anexa se publică în Buletinul Construcţiilor, editat de Institutul Naţional de Cercetare-Dezvoltare în Construcţii şi Economia Construcţiilor - INCERC Bucureşti, aflat în coordonarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei, şi în brosura editata de Institutul de Cercetări pentru Echipamente şi Tehnologii în Construcţii - ICECON - S.A. Bucureşti.   p. Ministrul lucrărilor publice,  transporturilor şi locuinţei,  Tudor Florescu,  secretar de stat  Bucureşti, 23 ianuarie 2003.  Nr. 70.  -------
