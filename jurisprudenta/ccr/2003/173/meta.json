@@ -1,0 +1,206 @@
+{
+ "key": "dcc-173-2003",
+ "label": "Decizia CCR nr. 173/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "173",
+ "date": "2003-05-06",
+ "year": "2003",
+ "heading": "DECIZIE nr. 173 din 6 mai 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1), art. 4 alin. (1) şi (2) şi ale art. 8 alin. (3) din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată, aprobată cu modificări prin Legea nr. 295/2002, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "429",
+  "bis": false,
+  "date": "2003-06-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "15.830/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (1) din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată, aprobată cu modificări prin Legea nr. 295/2002, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Comercială \"Diaconu Construcţii\" - S.R.L. din Bucureşti în Dosarul nr. 15.830/2002 al Tribunalul Bucureşti - Secţia a VI-a comercială. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1), art. 4 alin. (2) şi ale art. 8 alin. (3) din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată, aprobată cu modificări prin Legea nr. 295/2002, cu modificările şi completările ulterioare, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-06-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/44562",
+  "text_sha256": "24e8d48bc98fbaa63c3b3de6a5353d75734c811194beda5ae271b4dbad1cdef0",
+  "catalogue_sha256": "24e8d48bc98fbaa63c3b3de6a5353d75734c811194beda5ae271b4dbad1cdef0",
+  "fetched": "2026-11-02T23:29:45Z",
+  "chars": 12128,
+  "portal_id": "44562",
+  "tip": "DECIZIE"
+ }
+}
