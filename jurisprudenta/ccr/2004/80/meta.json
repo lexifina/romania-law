@@ -1,0 +1,141 @@
+{
+ "key": "dcc-80-2004",
+ "label": "Decizia CCR nr. 80/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "80",
+ "date": "2004-03-02",
+ "year": "2004",
+ "heading": "DECIZIE nr. 80 din 2 martie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 13 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 16/2001 privind gestionarea deşeurilor industriale reciclabile, aprobată şi modificată prin Legea nr. 465/2001, republicată, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "300",
+  "bis": false,
+  "date": "2004-04-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.148/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 16/2001",
+    "number": "16",
+    "year": "2001",
+    "path": "oug/2001/16"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 13 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 16/2001 privind gestionarea deşeurilor industriale reciclabile, aprobată şi modificată prin Legea nr. 465/2001, republicată, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Comercială \"Transexim Deliti\" - S.R.L. din Braşov în Dosarul nr. 7.148/2003 al Judecătoriei Braşov.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 16/2001",
+    "number": "16",
+    "year": "2001",
+    "path": "oug/2001/16"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-04-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/50977",
+  "text_sha256": "3af57602120fa89b41078ee800f81cfc6a3a14625b7bbca06ddf9b6d245e9713",
+  "catalogue_sha256": "3af57602120fa89b41078ee800f81cfc6a3a14625b7bbca06ddf9b6d245e9713",
+  "fetched": "2026-11-02T23:35:55Z",
+  "chars": 9433,
+  "portal_id": "50977",
+  "tip": "DECIZIE"
+ }
+}
