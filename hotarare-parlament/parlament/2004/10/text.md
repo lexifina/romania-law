@@ -1,0 +1,6 @@
+ HOTĂRÂRE nr. 10 din 13 mai 2004  pentru aprobarea Cartei albe a securităţii şi apărării naţionale a Guvernului     EMITENT     PARLAMENTUL       Publicat în
+			  MONITORUL OFICIAL nr. 540 din 16 iunie 2004     În temeiul prevederilor art. 65 alin. (2) lit. f) din Constituţia României, republicată, ale  art. 6 din Ordonanţa Guvernului nr. 52/1998  privind planificarea apărării naţionale a României, aprobată cu modificări şi completări prin  Legea nr. 63/2000 ,  Parlamentul României adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Se aprobă Carta albă a securităţii şi apărării naţionale a Guvernului, prevăzută în anexa*) care face parte integrantă din prezenta hotărâre.  --------
+						Notă   ...
+			  *) Anexa se publică ulterior în Monitorul Oficial al României, Partea I, nr. 540 bis în afara abonamentului, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti, şos. Panduri nr. 1.   Această hotărâre a fost adoptată de Camera Deputaţilor şi de Senat în şedinţa comună din 13 mai 2004, cu respectarea prevederilor art. 76 alin. (2) din Constituţia României, republicată.  PREŞEDINTELE CAMEREI DEPUTAŢILOR   VALER DORNEANU   PREŞEDINTELE SENATULUI  NICOLAE VĂCĂROIU  Bucureşti, 13 mai 2004.  Nr. 10.  ----------
