@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2001-06-12: adopted by the Chamber of Deputies
 - 2001-07-02: sent for promulgation
 - 2001-07-09: promulgated, becomes Legea nr. 391/2001; documents published: Decret de promulgare, Forma promulgată
+- 2001-07-17: published in the Monitorul Oficial
 
 ## Documents
 
