@@ -1,0 +1,10 @@
+# HCGMB nr. 73/2004
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 73/2004
+- Adopted: 2004-04-27
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12384
+- Document: https://doc.pmb.ro/legis/acteinterne/2004/12384/h073_04.pdf
+- Document sha256: 8597ea310f51b0b867175bc3c8ea6a0d82fc5aeba231307293c18bab0d0f38ca
