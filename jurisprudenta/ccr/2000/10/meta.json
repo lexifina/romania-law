@@ -1,0 +1,305 @@
+{
+ "key": "dcc-10-2000",
+ "label": "Decizia CCR nr. 10/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "10",
+ "date": "2000-01-24",
+ "year": "2000",
+ "heading": "DECIZIE nr. 10 din 24 ianuarie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 350 alin. 1 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "213",
+  "bis": false,
+  "date": "2000-05-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "707/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "350",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Alexe Pruna în Dosarul nr. 707/1999 al Curţii de Apel Galaţi Secţia penală şi constata ca dispoziţiile art. 350 alin. 1 din Codul de procedură penală sunt neconstituţionale în măsura în care se interpretează în sensul că menţinerea sau luarea măsurii arestării inculpatului se dispune pe durata nedeterminată, iar nu pentru durata de cel mult 30 de zile prevăzută la art. 23 alin. (4) din Constituţie.",
+  "Definitivă şi obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "350",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "300",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "157",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "158",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "381",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "385",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1996",
+    "number": "141",
+    "year": "1996",
+    "path": "lege/1996/141"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 23/1969",
+    "number": "23",
+    "year": "1969",
+    "path": "lege/1969/23"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-05-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22319",
+  "text_sha256": "de9c8b7157af3bae6859f2947b9ef7660117b24e916f4200baf3525b919ab6de",
+  "catalogue_sha256": "de9c8b7157af3bae6859f2947b9ef7660117b24e916f4200baf3525b919ab6de",
+  "fetched": "2026-11-02T23:08:54Z",
+  "chars": 49171,
+  "portal_id": "22319",
+  "tip": "DECIZIE"
+ }
+}
