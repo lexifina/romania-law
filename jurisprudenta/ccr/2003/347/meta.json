@@ -1,0 +1,188 @@
+{
+ "key": "dcc-347-2003",
+ "label": "Decizia CCR nr. 347/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "347",
+ "date": "2003-09-18",
+ "year": "2003",
+ "heading": "DECIZIE nr. 347 din 18 septembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Decretul-lege nr. 24/1990 privind sancţionarea ocupării abuzive a locuinţelor din fondul locativ de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "751",
+  "bis": false,
+  "date": "2003-10-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "13.540/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 24/1990",
+    "number": "24",
+    "year": "1990",
+    "path": "decret-lege/1990/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 1 din Decretul-lege nr. 24/1990  privind sancţionarea ocupării abuzive a locuinţelor din fondul locativ de stat, excepţie ridicată de Doinita Bontea în Dosarul nr. 13.540/2002 al Judecătoriei Galaţi.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 18 septembrie 2003.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Madalina Stefania Diaconu  ──────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 24/1990",
+    "number": "24",
+    "year": "1990",
+    "path": "decret-lege/1990/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei din 1991",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 2/1989",
+    "number": "2",
+    "year": "1989",
+    "path": "decret-lege/1989/2"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-10-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47240",
+  "text_sha256": "a77956530f9aec52bb88adcb8e5f5f1ee38324c01342027a3ea7cdb26c38012b",
+  "catalogue_sha256": "a77956530f9aec52bb88adcb8e5f5f1ee38324c01342027a3ea7cdb26c38012b",
+  "fetched": "2026-11-02T23:32:18Z",
+  "chars": 9727,
+  "portal_id": "47240",
+  "tip": "DECIZIE"
+ }
+}
