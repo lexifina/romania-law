@@ -1,0 +1,186 @@
+{
+ "key": "dcc-272-2002",
+ "label": "Decizia CCR nr. 272/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "272",
+ "date": "2002-10-22",
+ "year": "2002",
+ "heading": "DECIZIE nr. 272 din 22 octombrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 36 din Decretul nr. 328/1966 privind circulaţia pe drumurile publice, republicat, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "915",
+  "bis": false,
+  "date": "2002-12-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.190/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 36 alin. 2 din Decretul nr. 328/1966 privind circulaţia pe drumurile publice, republicat, cu modificările ulterioare, excepţie ridicată de Gustav Jozsef Hasenek în Dosarul nr. 1.190/2001 al Tribunalului Mures.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/40667",
+  "text_sha256": "500a78c2dcc1d5ad61483579fc6fa0bdfb0540eaee4abd987572cd553b6d65b6",
+  "catalogue_sha256": "500a78c2dcc1d5ad61483579fc6fa0bdfb0540eaee4abd987572cd553b6d65b6",
+  "fetched": "2026-11-04T12:43:26Z",
+  "chars": 9201,
+  "portal_id": "40667",
+  "tip": "DECIZIE"
+ }
+}
