@@ -1,0 +1,728 @@
+{
+ "key": "dcc-28-2002",
+ "label": "Decizia CCR nr. 28/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "28",
+ "date": "2002-01-30",
+ "year": "2002",
+ "heading": "DECIZIE nr. 28 din 30 ianuarie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (1) şi ale art. 17 din Legea nr. 146/1997 privind taxele judiciare de timbru, cu modificările şi completările ulterioare, ale art. 9, 10, 11, 12, ale art. 13 alin. (1), ale art. 14, 15 şi 17 din Legea nr. 333/2001 privind unele măsuri pentru diminuarea consecinţelor încetării răscumpărării de unităţi de fond de către Fondul Naţional de Investiţii, precum şi ale art. 1, 5^3, art. 19^20 alin. (1), art. 19^22 alin. (3) şi ale art. 19^23 din Ordonanţa de urgenta a Guvernului nr. 51/1998 privind valorificarea unor active bancare, aprobată cu modificări şi completări prin Legea nr. 409/2001, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "152",
+  "bis": false,
+  "date": "2002-03-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.079/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2001",
+    "number": "333",
+    "year": "2001",
+    "path": "lege/2001/333"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 51/1998",
+    "number": "51",
+    "year": "1998",
+    "path": "oug/1998/51"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19-20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19-22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19-23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (1) şi ale  art. 17 din Legea nr. 146/1997  privind taxele judiciare de timbru, cu modificările şi completările ulterioare, ale art. 9, 10, 11, 12, art. 13 alin. (1), ale  art. 14, 15 şi 17 din Legea nr. 333/2001  privind unele măsuri pentru diminuarea consecinţelor încetării răscumpărării de unităţi de fond de către Fondul Naţional de Investiţii, precum şi ale art. 1, 5^3, art. 19^20 alin. (1), art. 19^22 alin. (3) şi ale  art. 19^23 din Ordonanţa de urgenta a Guvernului nr. 51/1998  privind valorificarea unor active bancare, aprobată cu modificări şi completări prin  Legea nr. 409/2001 , cu modificările şi completările ulterioare, excepţie ridicată de Constantin Lache, Iuliu Regnard Popescu, Neculai Balan, Ecaterina Balan, Felicia Crisan, Olga Silistraru, Rada Mazilescu, Marius Mazilescu, Ovidiu Ionel Mazilescu, Cornel Mazilescu, Dragan Nita, Dumitru Vucea, Titu Georgescu, Vergiliu Duroi, Ioan Sdirea, Gabriela Lucia Sdirea, Adrian Puscasu, Gheorghe Stroe, Mihai Enache, Ştefan Serbanescu, Corina Vladasel, Mircea Popescu şi Asociaţia Naţionala a Investitorilor F.N.I. în Dosarul nr. 5.079/2001 al Tribunalului Bucureşti - Secţia comercială.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 30 ianuarie 2002.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Vlad Mihai Cercel  ─────────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "r"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2001",
+    "number": "333",
+    "year": "2001",
+    "path": "lege/2001/333"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 45
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 51/1998",
+    "number": "51",
+    "year": "1998",
+    "path": "oug/1998/51"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19-20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19-22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19-23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 409/2001",
+    "number": "409",
+    "year": "2001",
+    "path": "lege/2001/409"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19-20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19-22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19-23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "b",
+      "f"
+     ]
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 55
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1091",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 66/1996",
+    "number": "66",
+    "year": "1996",
+    "path": "lege/1996/66"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 24/1993",
+    "number": "24",
+    "year": "1993",
+    "path": "og/1993/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 55/1999",
+    "number": "55",
+    "year": "1999",
+    "path": "og/1999/55"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-03-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/34315",
+  "text_sha256": "2f60ebb88072d8b1b37b33e06d2504438e5e7ff0fff0019f205c12e4f9c271de",
+  "catalogue_sha256": "2f60ebb88072d8b1b37b33e06d2504438e5e7ff0fff0019f205c12e4f9c271de",
+  "fetched": "2026-11-02T23:19:31Z",
+  "chars": 71186,
+  "portal_id": "34315",
+  "tip": "DECIZIE"
+ }
+}
