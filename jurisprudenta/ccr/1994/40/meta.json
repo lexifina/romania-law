@@ -1,0 +1,150 @@
+{
+ "key": "dcc-40-1994",
+ "label": "Decizia CCR nr. 40/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "40",
+ "date": "1994-05-04",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 40 din 4 mai 1994",
+ "subtitle": "referitoare la soluţionarea recursului formulat de Asociaţia de locatari Parcul Tineretului nr. 2 Sibiu, împotriva Deciziei nr. 6 din 26 ianuarie 1994 a Curţii Constituţionale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "259",
+  "bis": false,
+  "date": "1994-09-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "1676/1993"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul formulat de Asociaţia de locatari Parcul Tineretului nr. 2 Sibiu, împotriva Deciziei nr. 6 din 26 ianuarie 1994 a Curţii Constituţionale.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 32/1991",
+    "number": "32",
+    "year": "1991",
+    "path": "lege/1991/32"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1991",
+    "number": "29",
+    "year": "1991",
+    "path": "lege/1991/29"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-09-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4121",
+  "text_sha256": "e20cb6a93e3f9cf2859f75f91e2ca5eada43bbfa6eb2749df990488ce7f65376",
+  "catalogue_sha256": "e20cb6a93e3f9cf2859f75f91e2ca5eada43bbfa6eb2749df990488ce7f65376",
+  "fetched": "2026-11-02T22:45:24Z",
+  "chars": 5467,
+  "portal_id": "4121",
+  "tip": "DECIZIE"
+ }
+}
