@@ -1,0 +1,3 @@
+# Anexa 3 c)
+---------- la metodologie --------------- TABEL cu lectorii și instructorii de practică la cursul de calificare în meseria de...............................
+Nr. crt. Numele și prenumele Funcția actuală și locul de muncă Studiile și anul absolvirii (calificarea) Pregătirea și experiența didactică Disciplina predată

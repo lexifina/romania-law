@@ -1,0 +1,3 @@
+# Anexa 3 b)
+---------- la metodologie -------------- TABEL NOMINAL cu cursanții înscriși la cursul de calificare în meseria de.............................................
+Nr. crt. Numele și prenumele Data și locul nașterii Studiile și anul absolvirii Funcția și locul de muncă Vechimea totală în muncă Vechimea în funcția actuală
