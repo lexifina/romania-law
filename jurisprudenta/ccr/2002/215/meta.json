@@ -1,0 +1,285 @@
+{
+ "key": "dcc-215-2002",
+ "label": "Decizia CCR nr. 215/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "215",
+ "date": "2002-07-11",
+ "year": "2002",
+ "heading": "DECIZIE nr. 215 din 11 iulie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 2 din Ordonanţa de urgenta a Guvernului nr. 216/2000 privind reglementarea situaţiei juridice a conductelor magistrale şi a instalaţiilor, echipamentelor şi dotărilor anexe, aferente Sistemului naţional de transport al ţiţeiului, gazolinei, condensatului şi etanului, aprobată şi modificată prin Legea nr. 254/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "710",
+  "bis": false,
+  "date": "2002-09-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.075/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 216/2000",
+    "number": "216",
+    "year": "2000",
+    "path": "oug/2000/216"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 2 din Ordonanţa de urgenta a Guvernului nr. 216/2000 privind reglementarea situaţiei juridice a conductelor magistrale şi a instalaţiilor, echipamentelor şi dotărilor anexe, aferente Sistemului naţional de transport al ţiţeiului, gazolinei, condensatului şi etanului, aprobată prin Legea nr. 254/2001, excepţie ridicată de SIF Muntenia în Dosarul nr. 4.075/2001 al Tribunalului Prahova - Secţia comercială şi contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 216/2000",
+    "number": "216",
+    "year": "2000",
+    "path": "oug/2000/216"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "6",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 1.213/1990",
+    "number": "1213",
+    "year": "1990",
+    "path": "hg/1990/1213"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea petrolului nr. 134/1995",
+    "number": "134",
+    "year": "1995",
+    "path": "lege/1995/134"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 66/1992",
+    "number": "66",
+    "year": "1992",
+    "path": "lege/1992/66"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 82/1993",
+    "number": "82",
+    "year": "1993",
+    "path": "lege/1993/82"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 15/2001",
+    "number": "15",
+    "year": "2001",
+    "path": "oug/2001/15"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-09-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38627",
+  "text_sha256": "25e9ec258e251a0e9344286a38a5fd74e6a5d233c0b78aa2f501556b642ec42d",
+  "catalogue_sha256": "25e9ec258e251a0e9344286a38a5fd74e6a5d233c0b78aa2f501556b642ec42d",
+  "fetched": "2026-11-02T23:24:01Z",
+  "chars": 21433,
+  "portal_id": "38627",
+  "tip": "DECIZIE"
+ }
+}
