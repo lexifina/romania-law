@@ -1,0 +1,293 @@
+{
+ "key": "dcc-67-2005",
+ "label": "Decizia CCR nr. 67/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "67",
+ "date": "2005-02-03",
+ "year": "2005",
+ "heading": "DECIZIE nr. 67 din 3 februarie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 317 din Codul penal şi ale art. 4 din Ordonanţa de urgenţă a Guvernului nr. 31/2002 privind interzicerea organizaţiilor şi simbolurilor cu caracter fascist, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni contra păcii şi omenirii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "146",
+  "bis": false,
+  "date": "2005-02-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 31/2002",
+    "number": "31",
+    "year": "2002",
+    "path": "oug/2002/31"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 317 din Codul penal şi ale art. 4 din Ordonanţa de urgenţă a Guvernului nr. 31/2002 privind interzicerea organizaţiilor şi simbolurilor cu caracter fascist, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni contra păcii şi omenirii, excepţie ridicată de Grigore Opriţă în Dosarul nr. 49/P/Ap/2004 al Curţii de Apel Braşov - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 31/2002",
+    "number": "31",
+    "year": "2002",
+    "path": "oug/2002/31"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "166",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-02-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/59348",
+  "text_sha256": "aad9580d8dbf5443bfe34227af0bf8ea650386b09f3f1cd75c0aef57283954c5",
+  "catalogue_sha256": "aad9580d8dbf5443bfe34227af0bf8ea650386b09f3f1cd75c0aef57283954c5",
+  "fetched": "2026-11-02T23:53:10Z",
+  "chars": 18458,
+  "portal_id": "59348",
+  "tip": "DECIZIE"
+ }
+}
