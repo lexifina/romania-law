@@ -1,0 +1,2 @@
+ HOTĂRÎRE nr. 25 din 8 martie 1993  pentru prelungirea termenului stabilit de  art. 4 al Hotărârii Camerei Deputaţilor nr. 68/1992  privind înfiinţarea unei comisii de ancheta      EMITENT     ADUNAREA(CAMERA) DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 57 din 18 martie 1993     Camera Deputaţilor adopta prezenta hotărâre.   Termenul stabilit prin  art. 4 al Hotărârii Camerei Deputaţilor nr. 68/1992  privind înfiinţarea unei comisii de ancheta se prelungeşte până la 1 aprilie 1993.   PREŞEDINTELE CAMEREI DEPUTAŢILOR  ADRIAN NASTASE  ----------------
