@@ -1,0 +1,167 @@
+{
+ "key": "dcc-234-2000",
+ "label": "Decizia CCR nr. 234/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "234",
+ "date": "2000-11-21",
+ "year": "2000",
+ "heading": "DECIZIE nr. 234 din 21 noiembrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 12/1998 privind transportul pe căile ferate române şi reorganizarea Societăţii Naţionale a Căilor Ferate Române, aprobată cu modificări prin Legea nr. 89/1999",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "665",
+  "bis": false,
+  "date": "2000-12-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "880/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "oug/1998/12"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 12/1998 privind transportul pe căile ferate române şi reorganizarea Societăţii Naţionale a Căilor Ferate Române, aprobată cu modificări prin Legea nr. 89/1999, excepţie ridicată de Federaţia Independenta a Sindicatelor Mişcare Comercial din Transporturile Feroviare în Dosarul nr. 880/2000 al Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "oug/1998/12"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 89/1999",
+    "number": "89",
+    "year": "1999",
+    "path": "lege/1999/89"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/25611",
+  "text_sha256": "f1f2a0f983ef761c51931a548118c395b23a187ab2d2c8f78af7e65d7dac058a",
+  "catalogue_sha256": "f1f2a0f983ef761c51931a548118c395b23a187ab2d2c8f78af7e65d7dac058a",
+  "fetched": "2026-11-05T08:14:38Z",
+  "chars": 7526,
+  "portal_id": "25611",
+  "tip": "DECIZIE"
+ }
+}
