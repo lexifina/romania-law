@@ -1,0 +1,6 @@
+# Anexa 4
+Agentul economic....................... Subunitatea............................ Nr. de înregistrare.................... SITUAȚIA privind livrările de carburanți auto Sortimentul...........................
+Nr. crt. Factura fiscală Cumpărător Cantitatea livrată - tone - Curs de schimb - lei/euro - Valoarea cotei incluse în factură - lei -
+Numărul Data Denumirea Localitatea în care are sediul social sau domiciliul Nr. din registrul comerțului, pentru persoane juridice, sau seria și nr. actului de identitate, pentru persoane fizice
+0 1 2 3 4 5 6 7 8
+Cunoscând prevederile art. 292 din Codul penal privind falsul în declarații, confirm pe propria răspundere exactitatea datelor prezentate. Director,.............
