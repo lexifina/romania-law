@@ -1,0 +1,165 @@
+{
+ "key": "dcc-90-2000",
+ "label": "Decizia CCR nr. 90/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "90",
+ "date": "2000-05-09",
+ "year": "2000",
+ "heading": "DECIZIE nr. 90 din 9 mai 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. IV pct. 3 din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, aprobată, cu modificări, prin Legea nr. 12/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "383",
+  "bis": false,
+  "date": "2000-08-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "248/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. IV pct. 3 din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, aprobată, cu modificări, prin Legea nr. 12/1995, excepţie ridicată de Societatea Comercială \"Cuore Impex\" - S.R.L. din Brăila în Dosarul nr. 248/2000 al Judecătoriei Brăila.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-08-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23822",
+  "text_sha256": "973e2a1bc5ea9e19321feec736ee8dc769b244b6f40c9e4165825629d0a2a1b3",
+  "catalogue_sha256": "973e2a1bc5ea9e19321feec736ee8dc769b244b6f40c9e4165825629d0a2a1b3",
+  "fetched": "2026-11-02T23:10:01Z",
+  "chars": 14348,
+  "portal_id": "23822",
+  "tip": "DECIZIE"
+ }
+}
