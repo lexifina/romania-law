@@ -1,0 +1,19 @@
+# Anexa 2b)bis ──────────────
+Casa de asigurări de sănătate..............................
+Cabinetul medical............
+Medic de specialitate
+Localitatea..........................................
+Județul......................
+DESFASURATOR LUNAR al procedurilor de terapie fizicală efectuate în bazele de tratament ale cabinetelor medicale din ambulatoriul de specialitate
+Luna.......... anul...........
+Nr. crt. Denumirea procedurii de terapie fizicală Număr proceduri de terapie fizicală pe zi Total proceduri Tarif pe procedură Total sumă (col. 4 col. 5)
+1
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+2 3 4 5 6
+TOTAL: nr. 3 la Ordinul președintelui Casei Naționale de Asigurări de Sănătate și al președintelui Colegiului Medicilor din România nr. 603/4.189/2001.
+Raspundem de realitatea și exactitatea datelor.
+Reprezentantul legal al cabinetului,
+Semnatura și parafa medicului de specialitate.................................................................
+NOTĂ: Formularul se întocmește în doua exemplare, dintre care un exemplar se depune la casa de asigurări de sănătate de către reprezentantul legal al cabinetului medical până la data de 3 a lunii următoare. LISTA PACIENTILOR
+Nr. crt. Numele și prenumele Cod numeric personal Proceduri (maximum 4) Număr de ședințe efectuate (maximum 10) Total (lei)
+Total lei..................... NOTĂ:. Medicii de familie și medicii specialiști vor trimite pacientii, pe baza biletului de trimitere, către specialistul balneofizioterapeut.. Recomandările către baza de tratament sunt efectuate numai de medicul specialist balneofizioterapeut, în vederea u rmarii unui tratament specific.
