@@ -1,0 +1,10 @@
+# HCGMB nr. 174/2002
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 174/2002
+- Adopted: 2002-07-18
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8460
+- Document: https://doc.pmb.ro/legis/acteinterne/2002/8460/h0174_02.pdf
+- Document sha256: 527d515d54a1987892664031489bfc136980131797b378501a728ea703ba7337
