@@ -1,0 +1,5 @@
+# Anexa 6
+------- DECLARAȚIE DE RECOLTA Anul....... 1. Numele și prenumele/Denumirea producătorului................/(persoana fizica/juridică) 2. Domiciliul/Sediul producătorului: localitatea.........., str.......... nr....., județul......., telefon....., fax....., înmatriculat la registrul comerțului cu nr..... din....., reprezentat prin....., având funcția de...... 3. Declar că am obținut în campania de recoltare și vinificare din acest an următoarele produse, conform anexelor: - anexa nr. 6.1 "Struguri" - anexa nr. 6.2 "Must" - anexa nr. 6.3 "Vin" (tras de pe drojdie) - anexa nr. 6.4 "Alte produse de origine vinicolă" - anexa nr. 6.5 "Balanța vinului" NOTĂ:
+a) Strugurii de masa care nu corespund consumului în stare proaspăta sunt destinați pentru vinificare, vinul rezultat fiind utilizat pentru consumul familial, distilare sau pentru prepararea oțetului, și se înregistrează în anexa nr. 6.4 la rândul "Vin pentru industrializare".
+b) Producția de struguri, must și cantitatea de vin rezultată se completează pentru fiecare podgorie, centru viticol și localitate.
+.................................... (data) (semnatura producătorului)
