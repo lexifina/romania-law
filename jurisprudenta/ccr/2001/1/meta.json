@@ -1,0 +1,191 @@
+{
+ "key": "dcc-1-2001",
+ "label": "Decizia CCR nr. 1/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1",
+ "date": "2001-01-16",
+ "year": "2001",
+ "heading": "DECIZIE nr. 1 din 16 ianuarie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II alin. (1) şi (3) din Ordonanţa de urgenta a Guvernului nr. 14/1999 pentru modificarea Ordonanţei de urgenta a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "78",
+  "bis": false,
+  "date": "2001-02-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 14/1999",
+    "number": "14",
+    "year": "1999",
+    "path": "oug/1999/14"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. II alin. (1) şi (3) din Ordonanţa de urgenta a Guvernului nr. 14/1999 pentru modificarea Ordonanţei de urgenta a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte, excepţie ridicată de Societatea Comercială \"Electro Alfa Internaţional\" - S.R.L. din Botosani în Dosarul nr. 4.238/CA/1999 al Curţii de Apel Suceava - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 14/1999",
+    "number": "14",
+    "year": "1999",
+    "path": "oug/1999/14"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2000",
+    "number": "27",
+    "year": "2000",
+    "path": "og/2000/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 82/1997",
+    "number": "82",
+    "year": "1997",
+    "path": "oug/1997/82"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 148/1999",
+    "number": "148",
+    "year": "1999",
+    "path": "lege/1999/148"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/26708",
+  "text_sha256": "166a451dae2f41152cd4a60f32d7ab714dae4f0b37a8438d647d33d02d815187",
+  "catalogue_sha256": "166a451dae2f41152cd4a60f32d7ab714dae4f0b37a8438d647d33d02d815187",
+  "fetched": "2026-11-02T23:12:49Z",
+  "chars": 10607,
+  "portal_id": "26708",
+  "tip": "DECIZIE"
+ }
+}
