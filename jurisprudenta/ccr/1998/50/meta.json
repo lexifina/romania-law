@@ -1,0 +1,112 @@
+{
+ "key": "dcc-50-1998",
+ "label": "Decizia CCR nr. 50/1998",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "alta",
+ "number": "50",
+ "date": "1998-03-19",
+ "year": "1998",
+ "heading": "DECIZIE nr. 50 din 19 martie 1998",
+ "subtitle": "privind constituţionalitatea votului exprimat în Senat asupra raportului referitor la situaţia din agricultura",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "140",
+  "bis": false,
+  "date": "1998-04-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constata ca sesizarea adresată de un grup de senatori, referitoare la neconstituţionalitatea votului exprimat în Senat asupra unui raport privind situaţia din agricultura, precum şi la neconstituţionalitatea aceluiaşi raport ca act normativ, este inadmisibila."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.b"
+     ]
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-04-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14207",
+  "text_sha256": "3fb17a9cd94d0895be26adb182435ee756267170cbf6cd19e6bff9c484811d52",
+  "catalogue_sha256": "3fb17a9cd94d0895be26adb182435ee756267170cbf6cd19e6bff9c484811d52",
+  "fetched": "2026-11-02T23:00:04Z",
+  "chars": 5044,
+  "portal_id": "14207",
+  "tip": "DECIZIE"
+ }
+}
