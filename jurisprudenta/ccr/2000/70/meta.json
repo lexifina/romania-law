@@ -1,0 +1,182 @@
+{
+ "key": "dcc-70-2000",
+ "label": "Decizia CCR nr. 70/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "70",
+ "date": "2000-04-18",
+ "year": "2000",
+ "heading": "DECIZIE nr. 70 din 18 aprilie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. IV pct. 7 din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, aprobată, cu modificări, prin Legea nr. 12/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "334",
+  "bis": false,
+  "date": "2000-07-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.150/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. IV pct. 7 din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, aprobată, cu modificări, prin Legea nr. 12/1995, excepţie ridicată de Societatea Comercială \"RO-STAR\" - S.A., Bragadiru în Dosarul nr. 1.150/1999 al Tribunalului Bucureşti - Secţia a III-a civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1992",
+    "number": "76",
+    "year": "1992",
+    "path": "lege/1992/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-07-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23610",
+  "text_sha256": "dc94e65d4d92ce859bf32a3019ceec1b42ff7e48aaa0ab6cfa0b8d1f7cf4e3ec",
+  "catalogue_sha256": "dc94e65d4d92ce859bf32a3019ceec1b42ff7e48aaa0ab6cfa0b8d1f7cf4e3ec",
+  "fetched": "2026-11-02T23:09:41Z",
+  "chars": 15456,
+  "portal_id": "23610",
+  "tip": "DECIZIE"
+ }
+}
