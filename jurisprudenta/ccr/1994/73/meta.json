@@ -1,0 +1,129 @@
+{
+ "key": "dcc-73-1994",
+ "label": "Decizia CCR nr. 73/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "73",
+ "date": "1994-07-05",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 73*) din 5 iulie 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate invocată de inculpatul Vârbănescu Iulian, trimis în judecată pentru săvârşirea infracţiunii de ultraj",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "14",
+  "bis": false,
+  "date": "1995-01-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1587/1994"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate invocată de Varbanescu Iulian în Dosarul nr. 1587/1994 al Judecătoriei Oradea.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-01-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4298",
+  "text_sha256": "f833a5fe2c374db8ab79d77426dca2ef8176999b386518f49b715ec44a8e6a01",
+  "catalogue_sha256": "f833a5fe2c374db8ab79d77426dca2ef8176999b386518f49b715ec44a8e6a01",
+  "fetched": "2026-11-02T22:46:28Z",
+  "chars": 4436,
+  "portal_id": "4298",
+  "tip": "DECIZIE"
+ }
+}
