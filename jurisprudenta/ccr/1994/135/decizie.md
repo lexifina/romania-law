@@ -1,0 +1,29 @@
+# DECIZIE Nr. 135*) din 6 decembrie 1994
+privind excepţia de neconstituţionalitate a art. 7 din Legea nr. 85/1992
+Notă
+*) Definitivă prin nerecurare
+Florin Bucur Vasilescu - preşedinte
+Viorel Mihai Ciobanu - judecător
+Ioan Muraru - judecător
+Gabriela Radu - magistrat-asistent
+Completul de judecată, convocat potrivit prevederilor art. 24 alin. (2) din Legea nr. 47/1992, constata:
+În faţa Curţii de Apel Galaţi s-a invocat de către apelanta Societatea Comercială "Concifor" - S.A. Buzau excepţia de neconstituţionalitate a art. 7 din Legea nr. 85/1992 în dosarele nr. 1.156/1994, 1.157/1994, 1.158/1994 şi 1.159/1994, la termenul din data 27 octombrie 1994.
+Prin încheierea pronunţată în aceste dosare, în conformitate cu dispoziţiile prevăzute în art. 144 lit. c) din Constituţie şi ale art. 23 din Legea nr. 47/1992, a fost sesizată Curtea Constituţională, formindu-se dosarele nr. 114C/1994, nr. 115C/1994, nr. 116C/1994 şi nr. 117C/1994.
+CURTEA CONSTITUŢIONALĂ, examinînd dosarele cauzei, încheierile de sesizare, raportul judecătorului-raportor, corelatia dintre dispoziţia legală atacată prevederile Constituţiei, precum şi dispoziţiile Legii nr. 47/1992 şi ale art. 164 din Codul de procedură civilă retine următoarele:
+Curtea Constituţională este competenţa să se pronunţe asupra tuturor excepţiilor invocate. Deoarece ele vizează aceeaşi dispoziţie legală, pentru o mai buna administrare a justiţiei, urmează ca la Dosarul nr. 114C/1994 să se conexeze şi celelalte dosare, pronunţăndu-se o singura decizie asupra excepţiilor invocate.
+Pe fond, Curtea Constituţională constata ca prin art. 7 din Legea nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu alta destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat, s-a stabilit ca "Locuintele construite din fondurile unităţilor economice sau bugetare de stat, până la data intrării în vigoare a prezentei legi, altele decît locuintele de intervenţie, vor fi vîndute titularilor contractelor de închiriere, la cererea acestora, cu plata integrală sau în rate a preţului, în condiţiile Decretului-lege nr. 61/1990 şi ale prezentei legi.
+Art. 1 alin. 2 aplica în mod corespunzător. Beneficiază de prevederile alin. 1 şi chiriaşii care nu sunt angajaţii unităţilor proprietare.
+Prin locuinţe de intervenţie se înţelege locuintele situate în incinta unităţilor economice sau bugetare de stat, cît şi cele legate nemijlocit de îndeplinirea atribuţiilor de serviciu ale persoanelor care le ocupa".
+Cu privire la aceste dispoziţii, Curtea Constituţională s-a pronunţat prin Decizia nr. 10/1994, rămasă definitivă prin nerecurare şi publicată în Monitorul Oficial al României, Partea I, nr. 114 din 5 mai 1994, constatind ca ele sunt constituţionale. În acelaşi sens sunt şi deciziile Curţii Constituţionale nr. 26, nr. 27 şi nr. 28 din 23 martie 1994, publicate în Monitorul Oficial al României, Partea I, nr. 143 din 6 iunie 1994.
+Constituţionalitatea dispoziţiilor art. 7 din Legea nr. 85/1992 s-a motivat în deciziile nominalizate prin aceea ca:
+a) art. 41 din Constituţie da legii posibilitatea de a stabili conţinutul şi limitele dreptului de proprietate. Astfel, deşi în proprietatea societăţilor comerciale sau a regiilor autonome au intrat şi locuintele construite din fondurile proprii, legiferarea, ulterior adoptării Constituţiei, a opţiunii ca fiecare chiriaş din asemenea locuinţe sa devină proprietar nu poate fi privată decît numai ca o limita stabilită de lege (art. 41 din Constituţie) a dreptului de proprietate exercitat de societatea comercială în al carei patrimoniu se afla locuintele construite din fondurile proprii ale întreprinderii, asa cum de altfel tot o limita este şi exceptarea de la vînzare a locuinţelor de intervenţie;
+b) se asigura chiriaşilor dreptul şi prioritatea la cumpărarea locuinţelor, dând astfel expresie dispoziţiilor art. 43 alin. (1) şi ale art. 134 alin. (2) lit. f) din Constituţie cu privire la obligaţia statului de a crea condiţii necesare pentru creşterea calităţii vieţii şi mai ales de a lua măsuri de dezvoltare economică şi de protecţie socială, de natura să asigure cetăţenilor un trai decent;
+c) este o norma de justiţie socială şi economică, dând posibilitatea chiriaşilor sa cumpere locuintele la construirea cărora au contribuit în mod indirect în vechiul sistem statal juridic. Ca atare, dispoziţiile sale sunt nu numai conforme literei şi spiritului art. 41 şi art. 135 din Constituţie, ci şi legitimate din punct de vedere economic, moral şi social.
+Deoarece motivarea data în aceste decizii ale Curţii este pe deplin valabilă şi în cauza de faţa şi din moment ce de la rămînerea lor definitivă nu a intervenit nici un element nou şi deci Curtea nu are motive să se îndepărteze de la practica sa, excepţia de neconstituţionalitate invocată urmează a fi respinsă ca vadit nefondata.
+Aceasta soluţie este în concordanta şi cu Decizia Curţii Constituţionale nr. 68 din 14 iunie 1994, rămasă definitivă prin nerecurare şi publicată în Monitorul Oficial al României, Partea I, nr. 284 din 6 octombrie 1994.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, al art. 13 alin. (1) lit. A.c), art. 24 alin. (2) şi art. 25 alin. (1) din Legea nr. 47/1992, precum şi al art. 164 din Codul de procedură civilă,
+CURTEA CONSTITUŢIONALĂ În numele legii DECIDE: 1. Dispune conexarea dosarelor nr. 115C/1994, nr. 116C/1994 şi nr. 117C/1994 la Dosarul nr. 114C/1994.
+2. Respinge ca vadit nefondata excepţia de neconstituţionalitate vizind dispoziţiile art. 7 din Legea nr. 85/1992, invocată de Societatea Comercială "Concifor" - S.A. Buzau în dosarele nr. 1.156/1994, 1.157/1994, 1.158/1994 şi 1.159/1994 ale Curţii de Apel Galaţi.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la 6 decembrie 1994.
+PREŞEDINTE, conf. univ. dr. Florin Bucur Vasilescu Magistrat-asistent, Gabriela Radu -----------------------
