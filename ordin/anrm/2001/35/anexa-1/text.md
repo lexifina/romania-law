@@ -1,0 +1,34 @@
+# Anexă
+LISTA cuprinzând perimetrele de explorare - Runda 21/2001
+Nr. crt. Denumirea perimetrului Localizarea perimetrului (județul) Suprafața (km2) Coordonate- Stereo '70 Resursele minerale Observații
+X Y
+1 2 3 4 5 6 7
+1. VALEA CISLA-VÂRFUL CEARCANUL Maramureș 10,08 687 456 484 652 Apă minerală
+687 489 485 936
+683 865 486 030
+683 795 483 047
+687 412 482 953
+687 437 483 952
+686 306 483 982
+686 306 484 682
+2. BUCȘOIU- ȚIGĂNEȘTI Brașov, Prahova 10,57 441 673 535 046 Apă plată
+441 673 538 570
+438 673 538 570
+438 673 535 046
+3. DEZNA- EST Arad 12,00 551 000 294 000 Apă minerală
+551 000 298 000
+548 000 298 000
+548 000 294 000
+4. GAI Arad 10,05 532 000 212 000 Apă termominerală
+532 500 215 350
+529 500 215 350
+529 500 212 000
+5. HAIEU Bihor 10,17 617 800 271 450 Apă termominerală
+618 950 276 350
+616 550 274 900
+615 350 270 000
+6. CHEILE CIBULUI Alba 10,02 507 734 358 000 Apă minerală
+507 734 361 000
+504 400 361 000
+504 400 358 000
+-------
