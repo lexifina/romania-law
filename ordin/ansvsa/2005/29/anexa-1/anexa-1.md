@@ -1,0 +1,31 @@
+# Anexa ────── la norma sanitară veterinara ──────────────────────────────
+Capitolul I 1.1. Registrul de întreprinderi/intermediari aprobați
+În baza art. 5 alin. (1) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor
+1 2 3 4 5 6
+Numărul de autorizare Codul de activitate(1) Numele sau numele comercial(2) Adresa(3) Notele aflate în raport cu Norma sanitară veterinară privind aditivii utilizați în nutriția animalelor(4) Observații
+(1) A = întreprinderi prevăzute la art. 2 alin. (2) lit. a) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+B = întreprinderi prevăzute la art. 2 alin. (2) lit. b) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+C = întreprinderi prevăzute la art. 2 alin. (2) lit. c) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+D = întreprinderi prevăzute la art. 2 alin. (2) lit. d) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+E = întreprinderi prevăzute la art. 2 alin. (2) lit. e) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+F = întreprinderi prevăzute la art. 2 alin. (2) lit. f) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+I = intermediari prevăzuți la art. 3 alin. (1) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+(2) Numele sau numele comercial al întreprinderii/intermediarului și al reprezentantului, după caz.
+(3) Adresa întreprinderii/intermediarului și a reprezentantului, după caz.
+(4) - 1 = producători de furaje combinate autorizați sa utilizeze premixuri în proporție minima de 0,05% din greutatea furajului complet, în baza Normei sanitare veterinare și pentru siguranța alimentelor privind aditivii utilizați în nutritia animalelor.
+(4) - 2 = producători de furaje combinate autorizați sa adauge direct în furajele combinate antibiotice, coccidiostatice și alte substanțe medicinale și promotori de creștere, în baza Normei sanitare veterinare și pentru siguranța alimentelor privind aditivii utilizați în nutritia animalelor.
+(4) - 3 = producători de furaje combinate autorizați sa adauge direct în furajele combinate cupru, seleniu și vitaminele A și D, în baza Normei sanitare veterinare și pentru siguranța alimentelor privind aditivii utilizați în nutritia animalelor. 1.2. Lista întreprinderilor/intermediarilor înregistrați În baza art. 10 alin. (1) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor
+1 2 3 4 5 6
+Numărul de autorizare Codul de activitate(1) Numele sau numele comercial(2) Adresa(3) Notele aflate în raport cu Norma sanitară veterinară privind aditivii utilizați în nutriția animalelor(4) Observații
+(1) A = întreprinderi prevăzute la art. 7 alin. (2) lit. a) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+B = întreprinderi prevăzute la art. 7 alin. (2) lit. b) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+C = întreprinderi prevăzute la art. 7 alin. (2) lit. c) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+D = întreprinderi prevăzute la art. 7 alin. (2) lit. d) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+I = intermediari prevăzuți la întreprinderi prevăzute la art. 8 alin. (1) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor.
+(2) Numele sau numele comercial al întreprinderii/intermediarului și al reprezentantului, după caz.
+(3) Adresa întreprinderii/intermediarului și a reprezentantului, după caz.
+(4) - 1 = producători de furaje combinate autorizați sa utilizeze premixuri în proporție minima de 0,05% din greutatea furajului complet, în baza Normei sanitare veterinare și pentru siguranța alimentelor privind aditivii utilizați în nutritia animalelor.
+(4) - 2 = producători de furaje combinate autorizați sa adauge direct în furajele combinate cupru, seleniu și vitaminele A și D, în baza Normei sanitare veterinare și pentru siguranța alimentelor privind aditivii utilizați în nutritia animalelor.
+Capitolul II
+Numărul de aprobare prevăzut la art. 5 alin. (1) și numărul de înregistrare prevăzut la art. 10 alin. (1) din Norma sanitară veterinara care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutritiei animalelor trebuie să aibă următoarea structura:
+1. caracterul "A", dacă întreprinderea sau intermediarul este aprobat; 2. codul ISO al României sau al tarii terțe unde este localizata întreprinderea ori intermediarul; 3. numărul de referința național, având maximum 8 caractere alfanumerice. ________________
