@@ -1,0 +1,166 @@
+{
+ "key": "dcc-55-2001",
+ "label": "Decizia CCR nr. 55/2001",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "55",
+ "date": "2001-02-21",
+ "year": "2001",
+ "heading": "DECIZIE nr. 55 din 21 februarie 2001",
+ "subtitle": "privind constituţionalitatea prevederilor art. 35 lit. a), ale art. 49 alin. 1, ale art. 101 alineatul final şi ale art. 134 alin. 2 din Regulamentul Camerei Deputaţilor, republicat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "128",
+  "bis": false,
+  "date": "2001-03-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "18B/2001"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constata ca prevederile art. 35 lit. a), ale art. 49 alin. 1, ale art. 101 alineatul final şi ale art. 134 alin. 2 din Regulamentul Camerei Deputaţilor, republicat, sunt constituţionale.  Prezenta decizie se comunică Camerei Deputaţilor şi se publică în Monitorul Oficial al României, Partea I.  Definitivă şi obligatorie.  Pronunţată astăzi, 21 februarie 2001.  Deliberarea a avut loc la 21 februarie 2001 şi la ea au participat: Lucian Mihai, preşedinte, Costica Bulai, Constantin Doldur, Kozsokar Gabor, Ioan Muraru, Nicolae Popa, Lucian Stangu, Romul Petru Vonica, judecători.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Florentina Geangu  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34-1",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "98",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.b"
+     ]
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-03-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/27251",
+  "text_sha256": "e264874dcb08fa80332dda9897f7c94c265ba831308747ced7740cc86046d271",
+  "catalogue_sha256": "e264874dcb08fa80332dda9897f7c94c265ba831308747ced7740cc86046d271",
+  "fetched": "2026-11-02T23:13:13Z",
+  "chars": 23988,
+  "portal_id": "27251",
+  "tip": "DECIZIE"
+ }
+}
