@@ -1,0 +1,2 @@
+# Articolul unic
+Începând cu data de 24 martie 1997 se acordă Avizul de funcționare și exercitare a drepturilor ca organism de gestiune colectivă a drepturilor conexe Societății de Administrare a Drepturilor Conexe, denumita prescurtat SADCO, având sediul în municipiul București, str. George Enescu nr. 2-4, cod 70141. Directorul general al Oficiului Roman pentru Drepturile de Autor, Constanta Moisescu -----
