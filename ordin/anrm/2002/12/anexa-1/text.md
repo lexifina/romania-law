@@ -1,0 +1,43 @@
+# Anexa 1
+ANEXA 1
+LISTA cuprinzând perimetrele de explorare - runda 28/2002
+Nr. crt. Denumirea perimetrului Localizarea perimetrului (județul) Suprafața (km2) Coordonate X Stereo '70 Y Resursa minerală
+1. Bucureșci-Șesuri Hunedoara 10,00 516000 337000 Andezit
+516000 340000
+512000 340000
+512000 338000
+514000 338000
+514000 337000
+2. Dealul Floreni Suceava 10,125 655000 514000 Apă minerală
+655000 515000
+652000 517500
+650500 513500
+3. Valea Bârza Mehedinți 11,00 373000 294000 Apă minerală
+373000 297000
+372000 297000
+372000 298000
+370000 298000
+370000 294000
+4. Petrești-Buru Cluj 10,508 559100 393300 Calcar
+558719 394292
+560215 395541
+559856 396122
+564700 400817
+564700 398962
+5. Dealul Priboilor Caraș-Severin 10,50 441500 300000 Diorit
+441500 303500
+438500 303500
+438500 300000
+6. Gura Ocniței-Adânca Dâmbovița 10,075 384000 545850 Argilă comună
+384000 549100
+380900 549100
+380900 545850
+7. Stâna Sălaj 10,08 632800 356100 Gips
+632800 358900
+629200 358900
+629200 356100
+8. Cihei-Sânmartin Bihor 10,00 618000 267500 Apă termominerală
+618000 271500
+614000 269000
+614000 268000
+--------
