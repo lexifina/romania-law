@@ -1,0 +1,110 @@
+{
+ "key": "dcc-126-1996",
+ "label": "Decizia CCR nr. 126/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "126",
+ "date": "1996-10-22",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 126 din 22 octombrie 1996",
+ "subtitle": "referitoare la pronunţarea asupra recursului declarat de Tintelecan Vintilă împotriva Deciziei nr. 29 din 13 martie 1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "297",
+  "bis": false,
+  "date": "1996-11-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "tardiva"
+ ],
+ "dossiers": [
+  "5.590/1995"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca tardiv recursul declarat de Tintelecan Vintila împotriva Deciziei Curţii Constituţionale nr. 29 din 13 martie 1996.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8656",
+  "text_sha256": "4fe40f4f2723b797c51777974824890fb4dcae601aed57775fd03c921f54dbd8",
+  "catalogue_sha256": "4fe40f4f2723b797c51777974824890fb4dcae601aed57775fd03c921f54dbd8",
+  "fetched": "2026-11-02T22:52:38Z",
+  "chars": 2732,
+  "portal_id": "8656",
+  "tip": "DECIZIE"
+ }
+}
