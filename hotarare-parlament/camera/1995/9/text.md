@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 9 din 20 martie 1995  privind validarea unor mandate de deputat     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 55 din 23 martie 1995     În temeiul art. 67 alin. (1) din Constituţia României, al art. 66 alin. (9) şi al  art. 68 alin. (3) din Legea nr. 68/1992  pentru alegerea Camerei Deputaţilor şi a Senatului şi având în vedere Raportul Comisiei de validare,  Camera Deputaţilor hotărăşte:
+				 +
+			  Articolul UNIC     Se validează mandatul de deputat al domnului Aron Ioan Popa, ales în Circumscripţia electorală nr. 4 Bacău, mandat devenit vacant ca urmare a demisiei domnului Constantin Enache, precum şi mandatul de deputat al domnului Mihai Tânjală, ales în Circumscripţia electorală nr. 26 Mehedinţi, mandat devenit vacant ca urmare a demisiei domnului Nicolae Şerdin.  p. PREŞEDINTELE  CAMEREI DEPUTAŢILOR  IOAN GAVRA  Bucureşti, 20 martie 1995.  Nr. 9.  -----------
