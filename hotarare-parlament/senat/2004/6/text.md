@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 6 din 19 februarie 2004  pentru alegerea unui vicepreşedinţe al Senatului     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 171 din 27 februarie 2004     În temeiul prevederilor art. 64 alin. (2) şi (5) din Constituţia României, republicată, şi ale art. 26, 28 şi 33 din Regulamentul Senatului, republicat, cu modificările şi completările ulterioare,  Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Se alege în funcţia de vicepreşedinte al Senatului domnul senator Puskas Valentin Zoltan (Grupul parlamentar al U.D.M.R.), ca urmare a desfiinţării Grupului parlamentar al Partidului Democrat şi a vacantării postului deţinut de acesta în Biroul permanent al Senatului.  PREŞEDINTELE SENATULUI  NICOLAE VĂCĂROIU  Bucureşti, 19 februarie 2004.  Nr. 6.  ---------------
