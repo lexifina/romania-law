@@ -1,0 +1,198 @@
+{
+ "key": "dcc-97-1999",
+ "label": "Decizia CCR nr. 97/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "97",
+ "date": "1999-06-29",
+ "year": "1999",
+ "heading": "DECIZIE nr. 97 din 29 iunie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 şi ale art. 76 alin. 3 din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, a dispoziţiilor Legii nr. 146/1997 privind taxele judiciare de timbru şi a dispoziţiilor Ordonanţei Guvernului nr. 32/1995 privind timbrul judiciar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "505",
+  "bis": false,
+  "date": "1999-10-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.224/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 32/1995",
+    "number": "32",
+    "year": "1995",
+    "path": "og/1995/32"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 5 şi ale art. 76 alin. 3 din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, a dispoziţiilor Legii nr. 146/1997 privind taxele judiciare de timbru şi a dispoziţiilor Ordonanţei Guvernului nr. 32/1995 privind timbrul judiciar, excepţie ridicată de Dan Cristian Ionescu în Dosarul nr. 1.224/1998 al Curţii de Apel Bucureşti - Secţia de contencios administrativ.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 32/1995",
+    "number": "32",
+    "year": "1995",
+    "path": "og/1995/32"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-10-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/19589",
+  "text_sha256": "0e507235a300b02314081a8ca0c5e9c8630327584c5793ebe6d7b49a514fbfcc",
+  "catalogue_sha256": "0e507235a300b02314081a8ca0c5e9c8630327584c5793ebe6d7b49a514fbfcc",
+  "fetched": "2026-11-02T23:05:36Z",
+  "chars": 9514,
+  "portal_id": "19589",
+  "tip": "DECIZIE"
+ }
+}
