@@ -1,0 +1,234 @@
+{
+ "key": "dcc-1-1993",
+ "label": "Decizia CCR nr. 1/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1",
+ "date": "1993-01-12",
+ "year": "1993",
+ "heading": "DECIZIE Nr. 1*) din 12 ianuarie 1993",
+ "subtitle": "excepţiei de neconstituţionalitatea decretelor fostului Consiliu de Stat nr. 194/1987, nr. 121/1988, precum şi nr. 148 şi nr. 190/1989 privind exproprierea unor imobile din municipiul Dej",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "129",
+  "bis": false,
+  "date": "1993-06-17",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "783/1992"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constata ca prevederile art. 4 din Decretul fostului Consiliu de Stat nr. 467 din 28 decembrie 1979 privind evaluarea construcţiilor, terenurilor şi plantaţiilor ce se preiau, cu plata, în proprietatea statului prin expropriere sau în alte cazuri prevăzute de lege, publicat în Buletinul Oficial nr. 3 din 4 ianuarie 1980, sunt abrogate de la data intrării în vigoare a Constituţiei României din 1991 şi, în consecinţa, constata ca, de la aceeaşi dată, decretele fostului Consiliu de Stat nr. 194 din 17 august 1987, nr. 121 din 25 aprilie 1988, nr. 148 din 22 iunie 1989 şi nr. 190 din 10 august 1989, nepublicate, în măsura în care imobilele la care se referă nu au fost preluate efectiv în vederea demolarii, tot până la intrarea în vigoare a Constituţiei, au devenit caduce.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 467/1979",
+    "number": "467",
+    "year": "1979",
+    "path": "decret/1979/467"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1974",
+    "number": "58",
+    "year": "1974",
+    "path": "lege/1974/58"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "A"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "645",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 1/1989",
+    "number": "1",
+    "year": "1989",
+    "path": "decret-lege/1989/1"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "outcome: not detected",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-06-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2972",
+  "text_sha256": "72a710272757bde32741d976cb3ad02f1e3afbf94851e2fb28c0a60a143f226d",
+  "catalogue_sha256": "72a710272757bde32741d976cb3ad02f1e3afbf94851e2fb28c0a60a143f226d",
+  "fetched": "2026-11-02T22:30:58Z",
+  "chars": 25162,
+  "portal_id": "2972",
+  "tip": "DECIZIE"
+ }
+}
