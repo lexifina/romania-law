@@ -1,0 +1,2 @@
+# Anexa nr. 3 la anexa nr. 1
+Anexa 3 ────────── la norma sanitară veterinara ────────────────────────────── LISTA țărilor terțe din care este permis importul în România de gelatina destinată consumului uman și de materii prime pentru obținerea gelatinei destinate consumului uman Argentina Brazilia China Columbia Coreea de Sud Pakistan Slovacia Confederatia Elvetiana Taiwan Statele Unite ale Americii ──────────────
