@@ -1,0 +1,160 @@
+{
+ "key": "dcc-485-2004",
+ "label": "Decizia CCR nr. 485/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "485",
+ "date": "2004-11-09",
+ "year": "2004",
+ "heading": "DECIZIE nr. 485 din 9 noiembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. 1 şi 2 din Legea nr. 29/1990 privind contenciosul administrativ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1205",
+  "bis": false,
+  "date": "2004-12-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.395/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. 1 şi 2 din Legea nr. 29/1990 privind contenciosul administrativ, excepţie ridicată de Hu Zhi Hong în Dosarul nr. 1.395/2004 al Curţii de Apel Bucureşti - Secţia de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57838",
+  "text_sha256": "2e417cc766f26e56471dd10678c6d71b47bde19eb99105581c2cb6c67ac96d69",
+  "catalogue_sha256": "2e417cc766f26e56471dd10678c6d71b47bde19eb99105581c2cb6c67ac96d69",
+  "fetched": "2026-11-02T23:47:35Z",
+  "chars": 9557,
+  "portal_id": "57838",
+  "tip": "DECIZIE"
+ }
+}
