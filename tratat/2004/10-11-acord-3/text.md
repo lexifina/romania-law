@@ -1,0 +1,18 @@
+ ACORD din 11 octombrie 2004  de cooperare între Ministerul Justiţiei al României şi Ministerul Justiţiei al Republicii Azerbaidjan     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 23 din 7 ianuarie 2005     Ministerul Justiţiei al României şi Ministerul Justiţiei al Republicii Azerbaidjan, denumite în continuare părţi contractante,  dorind să întărească relaţiile de prietenie dintre state,  fiind convinse de importanţa rolului justiţiei în societate,  luând act de faptul că schimbul de experienţă şi de cunoştinţe în domeniul juridic serveşte intereselor ambelor state,  luând în considerare angajamentele internaţionale, legislaţia internă şi competenţa ambelor părţi contractante,  au convenit după cum urmează:
+				 +
+			  Articolul 1     Părţile contractante vor promova schimbul de experienţă în următoarele domenii:      a) schimb reciproc de informaţii în domeniul juridic;   ...        b) schimb de experienţă privind organizarea şi activităţile părţilor contractante;   ...        c) sprijin reciproc pentru pregătirea judecătorilor, procurorilor şi a personalului auxiliar din justiţie;   ...        d) schimb de legislaţie sau de alte documente care se referă la activitatea şi la structurile din domeniul lor de competenţă;   ...        e) schimb de experienţă privind elaborarea proiectelor de legi conform standardelor internaţionale;   ...        f) alte domenii, dacă au legătură cu scopul şi cu atribuţiile părţilor contractante.   ...
+				 +
+			  Articolul 2     În scopul realizării intenţiilor de cooperare prevăzute în prezentul acord, părţile contractante vor negocia anual programele specifice de cooperare.
+				 +
+			  Articolul 3     În vederea rezolvării problemelor privind cooperarea, elaborarea programelor de cooperare şi stabilirea concluziilor privind programele implementate, părţile contractante vor organiza grupuri de experţi.
+				 +
+			  Articolul 4     Părţile contractante vor acorda asistenţă în organizarea consultaţiilor, seminariilor şi conferinţelor ştiinţifice pe probleme de interes comun.
+				 +
+			  Articolul 5     Părţile contractante vor acorda asistenţă în domeniul schimbului de experţi şi delegaţii pentru cercetarea problemelor de interes comun.
+				 +
+			  Articolul 6     Părţile contractante vor folosi limba prevăzută pentru ambele părţi în timpul implementării cooperării.
+				 +
+			  Articolul 7     Părţile contractante vor conveni de comun acord asupra acoperirii cheltuielilor necesare prezentului acord.  În cazul vizitelor delegaţiilor, cheltuielile vor fi acoperite după cum urmează:  Partea contractantă primitoare va acoperi cheltuielile legate de şederea şi deplasarea pe teritoriul statului său.  Partea contractantă trimiţătoare va acoperi cheltuielile de călătorie.
+				 +
+			  Articolul 8     Prezentul acord se încheie pe o perioadă nelimitată.  Fiecare parte contractantă poate denunţa acordul printr-o notificare scrisă adresată celeilalte părţi contractante. Denunţarea va produce efecte la 3 luni de la data primirii notificării de către cealaltă parte contractantă.  Prezentul acord va intra în vigoare la 30 de zile de la data primirii ultimei notificări prin care părţile contractante îşi comunică reciproc îndeplinirea procedurilor legale interne necesare pentru intrarea în vigoare a prezentului acord.  Încheiat la Bucureşti la 11 octombrie 2004, în două exemplare originale, fiecare în limbile română, azerbaidjană şi engleză, toate textele fiind egal autentice.  Ministrul justiţiei al României,  Cristian Diaconescu  Ministrul justiţiei al Republicii Azerbaidjan,  Fikret Mammadov  --------------
