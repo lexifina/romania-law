@@ -1,0 +1,219 @@
+{
+ "key": "dcc-221-2000",
+ "label": "Decizia CCR nr. 221/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "221",
+ "date": "2000-11-14",
+ "year": "2000",
+ "heading": "DECIZIE nr. 221 din 14 noiembrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor pct. 1-3 din anexa nr. IV/2 la Legea nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică, precum şi a dispoziţiilor pct. 1-3 din anexa nr. III/2 la Ordonanţa de urgenta a Guvernului nr. 24/2000 privind sistemul de stabilire a salariilor de baza pentru personalul contractual din sectorul bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "100",
+  "bis": false,
+  "date": "2001-02-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "6.478/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 154/1998",
+    "number": "154",
+    "year": "1998",
+    "path": "lege/1998/154"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "oug/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor pct. 1-3 din anexa nr. IV/2 la Legea nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică, precum şi a dispoziţiilor pct. 1-3 din anexa nr. III/2 la Ordonanţa de urgenta a Guvernului privind sistemul de stabilire a salariilor de baza pentru personalul contractual din sectorul bugetar, excepţie ridicată de Lucia Bica în Dosarul nr. 6.478/2000 al Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 154/1998",
+    "number": "154",
+    "year": "1998",
+    "path": "lege/1998/154"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "oug/2000/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "og/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 83/2000",
+    "number": "83",
+    "year": "2000",
+    "path": "og/2000/83"
+   },
+   "articles": [
+    {
+     "art": "IX",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-02-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/26977",
+  "text_sha256": "35c7ac209250e26c656a28747a550bbc6652284ee354ab1f108984fae4648ecf",
+  "catalogue_sha256": "35c7ac209250e26c656a28747a550bbc6652284ee354ab1f108984fae4648ecf",
+  "fetched": "2026-11-02T23:13:00Z",
+  "chars": 11158,
+  "portal_id": "26977",
+  "tip": "DECIZIE"
+ }
+}
