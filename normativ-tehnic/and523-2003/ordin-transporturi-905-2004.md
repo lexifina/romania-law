@@ -1,0 +1,10 @@
+ ORDIN nr. 905 din 11 mai 2004  pentru aprobarea  reglementării tehnice  Normativ privind execuția straturilor bituminoase foarte subțiri la rece - revizuire AND 523-98, indicativ AND 523-2003     EMITENT     MINISTERUL TRANSPORTURILOR, CONSTRUCȚIILOR ȘI TURISMULUI       Publicat în
+			  MONITORUL OFICIAL nr. 659 din 22 iulie 2004      În conformitate cu prevederile  art. 38 alin. 2 din Legea nr. 10/1995  privind calitatea în construcții, cu modificările ulterioare,   în temeiul prevederilor  art. 2 pct. 45  și ale  art. 5 alin. (4) din Hotărârea Guvernului nr. 412/2004  privind organizarea și funcționarea Ministerului Transporturilor, Construcțiilor și Turismului,   având în vedere Avizul nr. 91 din 4 februarie 2004 al Comitetului Tehnic de Specialitate CTS 9,   ministrul transporturilor, construcțiilor și turismului emite următorul ordin:
+				 +
+			  Articolul 1      Se aprobă  reglementarea tehnică  Normativ privind execuția straturilor bituminoase foarte subțiri la rece revizuire AND 523-98, indicativ AND 523-2003, elaborată de Societatea Comercială Institutul de Cercetări în Transporturi - "INCERTRANS" - S.A., prevăzută în  anexa *) care face parte integrantă din prezentul ordin. *) Anexa se publică ulterior în Monitorul Oficial al României, Partea I, nr. 659 bis în afara abonamentului, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei Autonome “Monitorul Oficial”, București, Șos. Panduri nr. 1, și se mai publică și în Buletinul Tehnic Rutier editat de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.
+				 +
+			  Articolul 2      Prezentul ordin va fi publicat în Monitorul Oficial al României, Partea I.
+				 +
+			  Articolul 3      Direcția tehnică va duce la îndeplinire prevederile prezentului ordin.       p. Ministrul transporturilor,    construcțiilor și turismului,    Traian Panait,    secretar de stat    București, 11 mai 2004.   Nr. 905.
+				 +
+			  ANEXĂ         REGLEMENTARE TEHNICĂ Normativ privind execuția straturilor bituminoase foarte subțiri la rece    (Revizuire Normativ AND ind. CD 523-98) Indicativ: AND 523-2003
