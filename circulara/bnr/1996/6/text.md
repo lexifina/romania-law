@@ -1,0 +1,2 @@
+# Text
+Având în vedere necesitatea asigurării continuității plăților trezoreriei statului, cu data prezentei circulare se prelungește până la 15 aprilie 1996 termenul prevăzut la pct. 3 din Circulara Băncii Naționala a României nr. 49/1995 . Prezenta circulara se transmite, prin Secretariatul general al Băncii Naționale a României, Ministerului Finanțelor, societăților bancare și sucursalelor Băncii Naționale a României. p. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, Vladimir Soare, viceguvernator ----------------
