@@ -1,0 +1,9 @@
+# Anexa 4 la regulament --------------
+Unitatea bancară........
+Nr........./.........
+CERTIFICAT
+Banca......................., cu sediul în.............., atesta ca Asociația (Societatea) de Vânătoare și Pescuit Sportiv..........., având sediul în..............., are deschis la unitatea noastră contul nr.................
+La data emiterii prezentului certificat, asociația (societatea) are în cont suma de......... lei.
+S-a eliberat prezentul certificat în scopul dovedirii disponibilităților financiare pe care asociația (societatea) le are, în vederea obținerii gestiunii unor fonduri de vânătoare............................... (semnatura conducerii unității)
+L.S.
+---------
