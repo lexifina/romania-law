@@ -1,0 +1,288 @@
+{
+ "key": "dcc-131-2003",
+ "label": "Decizia CCR nr. 131/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "131",
+ "date": "2003-04-03",
+ "year": "2003",
+ "heading": "DECIZIE nr. 131 din 3 aprilie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (3), (5) şi (6) din Ordonanţa Guvernului nr. 102/2000 privind statutul şi regimul refugiatilor în România, aprobată şi modificată prin Legea nr. 323/2001, precum şi ale art. 16 alin. (1) şi (2) şi ale art. 17 alin. (1), (3) şi (4) din Hotărârea Guvernului nr. 622/2001 pentru aprobarea Normelor metodologice de aplicare a Ordonanţei Guvernului nr. 102/2000 privind statutul şi regimul refugiatilor în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "271",
+  "bis": false,
+  "date": "2003-04-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "15.133/2001",
+  "320C/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 102/2000",
+    "number": "102",
+    "year": "2000",
+    "path": "og/2000/102"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 622/2001",
+    "number": "622",
+    "year": "2001",
+    "path": "hg/2001/622"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (3), (5) şi (6) din Ordonanţa Guvernului nr. 102/2000 privind statutul şi regimul refugiatilor în România, aprobată şi modificată prin Legea nr. 323/2001, excepţie ridicată de Mohammad Al Ali din Siria în Dosarul nr. 15.133/2001 al Judecătoriei Sectorului 3 Bucureşti, Asef Sari din Turcia, Anwar Hossain din Bangladesh şi Nezir Gamel Akile Al Nashe din Irak în dosarele nr. 11.082/2002, nr. 9.851/2002 şi nr. 13.027/2002 ale Judecătoriei Sectorului 6 Bucureşti.",
+  "II. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) şi (2) şi ale art. 17 alin. (1), (3), şi (4) din Hotărârea Guvernului nr. 622/2001 pentru aprobarea Normelor metodologice de aplicare a Ordonanţei Guvernului nr. 102/2000 privind statutul şi regimul refugiatilor în România, ridicată de aceiaşi autori în aceleaşi dosare.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 102/2000",
+    "number": "102",
+    "year": "2000",
+    "path": "og/2000/102"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 622/2001",
+    "number": "622",
+    "year": "2001",
+    "path": "hg/2001/622"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-04-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/43350",
+  "text_sha256": "0dd8088cd0ebf40d0a210dfc83c370865af55e3bb5fd17d14cde3f52474d2c43",
+  "catalogue_sha256": "0dd8088cd0ebf40d0a210dfc83c370865af55e3bb5fd17d14cde3f52474d2c43",
+  "fetched": "2026-11-02T23:28:27Z",
+  "chars": 22178,
+  "portal_id": "43350",
+  "tip": "DECIZIE"
+ }
+}
