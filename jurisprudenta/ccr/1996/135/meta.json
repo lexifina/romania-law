@@ -1,0 +1,149 @@
+{
+ "key": "dcc-135-1996",
+ "label": "Decizia CCR nr. 135/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "135",
+ "date": "1996-11-05",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 135 din 5 noiembrie 1996",
+ "subtitle": "referitoare la pronunţarea asupra recursului declarat de Simion Nicolae împotriva Deciziei nr. 44 din 24 aprilie 1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "345",
+  "bis": false,
+  "date": "1996-12-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Simion Nicolae împotriva Deciziei Curţii Constituţionale nr. 44 din 24 aprilie 1996.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1994",
+    "number": "17",
+    "year": "1994",
+    "path": "lege/1994/17"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-12-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8689",
+  "text_sha256": "2c3752cec939a3cabbdbbeb56bad83d240d90b927592d439dad3bce7d5cb7bd9",
+  "catalogue_sha256": "2c3752cec939a3cabbdbbeb56bad83d240d90b927592d439dad3bce7d5cb7bd9",
+  "fetched": "2026-11-02T22:53:08Z",
+  "chars": 9005,
+  "portal_id": "8689",
+  "tip": "DECIZIE"
+ }
+}
