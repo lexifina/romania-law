@@ -1,0 +1,8 @@
+# Anexa 1
+CRITERIILE pe baza cărora o unitate sanitară de tip ambulatoriu poate fi declarata centru de referința de diagnostic imagistic 1. Centrul de referința de diagnostic imagistic este o unitate sanitară publică sau privată, cu sau fără personalitate juridică, autorizata și/sau acreditata conform dispozițiilor legale în vigoare pentru desfășurarea de activități medicale de specialitate în sistem ambulatoriu. 2. Pentru a dobândi calitatea de centru de referința de diagnostic imagistic o unitate sanitară trebuie să îndeplinească anumite criterii privind structura, dotarea și personalul, precum și un program de activitate permanent, după cum urmează:
+a) sistemul de management al calității să fie certificat conform standardului ISO 9002;
+b) sa organizeze laboratoare de imagistica și explorari functionale cu echipamente de înaltă performanta;
+c) echipamentele medicale utilizate să fie de ultima generație, noi la momentul începerii activității și să fie în mod continuu actualizate (3-5 ani, în funcție de tipul aparatului);
+d) activitățile să fie prestate de medici specialiști cu competente și/sau supraspecializari în domeniile respective, abilitați sa utilizeze aparatura din dotare, precum și de personal medical mediu specializat;
+e) să fie disponibilă și accesibila cu prioritate persoanelor asigurate în sistemul asigurărilor sociale de sănătate, timp de 24 de ore din 24 de ore, 7 zile pe săptămâna.
+3. Centrul de referința de diagnostic imagistic trebuie să fie echipat cu tehnica de calcul performanta și sa dispună de conexiune informatica cu alte centre medicale similare din străinătate, pentru facilitarea schimbului de informații în domeniul sau de activitate.
