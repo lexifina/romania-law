@@ -1,0 +1,195 @@
+{
+ "key": "dcc-81-2002",
+ "label": "Decizia CCR nr. 81/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "81",
+ "date": "2002-03-14",
+ "year": "2002",
+ "heading": "DECIZIE nr. 81 din 14 martie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 40 alin. 1 lit. a) din Ordonanţa Guvernului nr. 44/1997 privind transporturile rutiere, aprobată cu modificări şi completări prin Legea nr. 105/2000",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "320",
+  "bis": false,
+  "date": "2002-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.214/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 44/1997",
+    "number": "44",
+    "year": "1997",
+    "path": "og/1997/44"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor  art. 40 alin. (1) lit. a) din Ordonanţa Guvernului nr. 44/1997  privind transporturile rutiere, aprobată cu modificări şi completări prin  Legea nr. 105/2000 , excepţie ridicată de Bebe Burciu din Drobeta-Turnu Severin în Dosarul nr. 4.214/2001 al Judecătoriei Drobeta-Turnu Severin.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 14 martie 2002.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Gabriela Dragomirescu  ──────────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 44/1997",
+    "number": "44",
+    "year": "1997",
+    "path": "og/1997/44"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 40/1997",
+    "number": "40",
+    "year": "1997",
+    "path": "og/1997/40"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/35973",
+  "text_sha256": "dd8af9552e7d95a367a3a2fc969cc61361bee5d54d77aea2e74c50c113e86272",
+  "catalogue_sha256": "dd8af9552e7d95a367a3a2fc969cc61361bee5d54d77aea2e74c50c113e86272",
+  "fetched": "2026-11-05T12:48:24Z",
+  "chars": 13150,
+  "portal_id": "35973",
+  "tip": "DECIZIE"
+ }
+}
