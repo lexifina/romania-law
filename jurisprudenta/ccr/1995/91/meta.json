@@ -1,0 +1,241 @@
+{
+ "key": "dcc-91-1995",
+ "label": "Decizia CCR nr. 91/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "91",
+ "date": "1995-10-10",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 91*) din 10 octombrie 1995",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei Guvernului nr. 55/1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "272",
+  "bis": false,
+  "date": "1995-11-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "973/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 55/1994",
+    "number": "55",
+    "year": "1994",
+    "path": "og/1994/55"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "s"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate şi constata ca prevederile art. 3 lit. b), raportate la art. 2 lit. s) din Legea nr. 61/1991, astfel cum au fost modificate prin Ordonanţa Guvernului nr. 55/1994, aprobată prin Legea nr. 129/1994, sunt neconstituţionale în măsura în care se aplică pentru transformarea amenzii neachitate în închisoare contravenţională, urmînd ca aceasta transformare să se facă fără a se tine seama de coeficientul de majorare a limitelor amenzii contravenţionale conform Ordonanţei Guvernului nr. 55/1994. 2. Face un apel către Parlament şi Guvern pentru corelarea criteriului de transformare a amenzilor neachitate, prevăzut la art. 16 alin. 6 din Legea nr. 61/1991, cu nivelurile actualizate ale amenzilor instituite prin Ordonanţa Guvernului nr. 55/1994.",
+  "Cu recurs în termen e 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 55/1994",
+    "number": "55",
+    "year": "1994",
+    "path": "og/1994/55"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "s"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/1994",
+    "number": "72",
+    "year": "1994",
+    "path": "lege/1994/72"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 129/1994",
+    "number": "129",
+    "year": "1994",
+    "path": "lege/1994/129"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-11-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6206",
+  "text_sha256": "89b3d9a01ae272169234a69b46f3b1080497466f0dab58389b26424d145e9782",
+  "catalogue_sha256": "89b3d9a01ae272169234a69b46f3b1080497466f0dab58389b26424d145e9782",
+  "fetched": "2026-11-02T22:49:24Z",
+  "chars": 7963,
+  "portal_id": "6206",
+  "tip": "DECIZIE"
+ }
+}
