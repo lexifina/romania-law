@@ -1,0 +1,13 @@
+# Anexa 3
+------- la Ordinul nr. 2.049/1998
+-------------------------
+MINISTERUL FINANȚELOR DIRECȚIA GENERALĂ A FINANȚELOR PUBLICE ȘI CONTROLULUI FINANCIAR DE STAT A MUNICIPIULUI BUCUREȘTI
+CERTIFICAT
+Nr................
+În conformitate cu prevederile art. 17 lit. C. k) din Ordonanța Guvernului nr. 3/1992 privind taxa pe valoarea adăugată, republicată, cu modificările ulterioare, se acordă cota zero a taxei pe valoarea adăugată persoanei juridice............................... pentru închirierea de spații misiunilor diplomatice sau personalului diplomatic al acestora, în baza contractelor:
+- nr........... /................., încheiat cu.......................
+- nr........... /................., încheiat cu.......................
+Persoana juridică............................................. va aplica cota zero a taxei pe valoarea adăugată la facturarea serviciilor prestate, beneficiind de exercitarea dreptului de deducere a taxei pe valoarea adăugată aferente cumpărărilor de bunuri și servicii destinate realizării contractelor prevăzute mai sus.
+Director general,
+.........................
+-------
