@@ -1,0 +1,2 @@
+# Anexa 6
+LISTA substanțelor care nu fac obiectul prezentului ordin Strontiul și compușii săi, cu excepția lactatului de strontiu, azotatului de strontiu și policarboxilatului de strontiu conținuți în anexa nr. 1, sulfitului de strontiu, clorurii de strontiu, acetatului de strontiu, hidrodroxidului de strontiu, peroxidului de strontiu, în condițiile exprimate în anexa nr. 2, și sărurile, pigmentii și lacurile coloranților cuprinși în anexa nr. 2B la Ordinul ministrului sănătății nr. 1.004/2000. ────────────────
