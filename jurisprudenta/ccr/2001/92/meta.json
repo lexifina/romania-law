@@ -1,0 +1,125 @@
+{
+ "key": "dcc-92-2001",
+ "label": "Decizia CCR nr. 92/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "92",
+ "date": "2001-03-27",
+ "year": "2001",
+ "heading": "DECIZIE nr. 92 din 27 martie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 lit. b) din Precizările Ministerului Muncii şi Protecţiei Sociale nr. 961 din 13 august 1997 date în aplicarea Legii nr. 120/1997 privind concediul plătit pentru îngrijirea copiilor în vârsta de până la 2 ani",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "607",
+  "bis": false,
+  "date": "2001-09-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.143/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 120/1997",
+    "number": "120",
+    "year": "1997",
+    "path": "lege/1997/120"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 1 lit. b) din Precizările Ministerului Muncii şi Protecţiei Sociale nr. 961 din 13 august 1997 date în aplicarea Legii nr. 120/1997 privind concediul plătit pentru îngrijirea copiilor în vârsta de până la 2 ani, excepţie ridicată de Societatea Comercială \"Hidroconstructia\" - S.A. - Sucursala Siriu - Buzau în Dosarul nr. 1.143/2000 al Judecătoriei Patarlagele, judeţul Buzau.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 120/1997",
+    "number": "120",
+    "year": "1997",
+    "path": "lege/1997/120"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-09-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/30899",
+  "text_sha256": "a0b3757d48d5cf55c1bff04a0a092e3b3255cc745fd5fdecfc7e373a62011b82",
+  "catalogue_sha256": "a0b3757d48d5cf55c1bff04a0a092e3b3255cc745fd5fdecfc7e373a62011b82",
+  "fetched": "2026-11-02T23:16:27Z",
+  "chars": 7351,
+  "portal_id": "30899",
+  "tip": "DECIZIE"
+ }
+}
