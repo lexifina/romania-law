@@ -1,0 +1,182 @@
+{
+ "key": "dcc-117-2004",
+ "label": "Decizia CCR nr. 117/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "117",
+ "date": "2004-03-11",
+ "year": "2004",
+ "heading": "DECIZIE nr. 117 din 11 martie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 35 alin. (2) din Ordonanţa Guvernului nr. 2/2000 privind organizarea activităţii de expertiză tehnică judiciară şi extrajudiciară",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "403",
+  "bis": false,
+  "date": "2004-05-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.372/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2000",
+    "number": "2",
+    "year": "2000",
+    "path": "og/2000/2"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 35 alin. (2) din Ordonanţa Guvernului nr. 2/2000 privind organizarea activităţii de expertiză tehnică judiciară şi extrajudiciară, excepţie ridicată de Vasile Tănase în Dosarul nr. 1.372/2003 al Curţii de Apel Galaţi - Secţia comercială şi contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2000",
+    "number": "2",
+    "year": "2000",
+    "path": "og/2000/2"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-05-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51700",
+  "text_sha256": "34e0e54ef21e1f77bd453adbcaef8a66cedfa416f9bf9ede38abd7d795b610ce",
+  "catalogue_sha256": "34e0e54ef21e1f77bd453adbcaef8a66cedfa416f9bf9ede38abd7d795b610ce",
+  "fetched": "2026-11-02T23:36:40Z",
+  "chars": 13782,
+  "portal_id": "51700",
+  "tip": "DECIZIE"
+ }
+}
