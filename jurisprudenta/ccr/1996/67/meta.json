@@ -1,0 +1,125 @@
+{
+ "key": "dcc-67-1996",
+ "label": "Decizia CCR nr. 67/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "67",
+ "date": "1996-05-21",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 67*) din 21 mai 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Decretului nr. 374 din 27 noiembrie 1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "174",
+  "bis": false,
+  "date": "1996-08-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Decretului nr. 374 din 27 noiembrie 1995, invocată de Giurgev Slavita, cu domiciliul în Timişoara, Aleea Lautei nr. 2, et. II, ap. 5, judeţul Timiş, în Dosarul nr. 1.653/C/1995 al Tribunalului Timiş - Secţia civilă.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 374/1995",
+    "number": "374",
+    "year": "1995",
+    "path": "decret/1995/374"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-08-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8374",
+  "text_sha256": "dbe03ba481008ad36366fe12cd3c9922abae6f670b68840ed7c312d43b88ba66",
+  "catalogue_sha256": "dbe03ba481008ad36366fe12cd3c9922abae6f670b68840ed7c312d43b88ba66",
+  "fetched": "2026-11-02T22:51:25Z",
+  "chars": 4878,
+  "portal_id": "8374",
+  "tip": "DECIZIE"
+ }
+}
