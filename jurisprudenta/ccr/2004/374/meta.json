@@ -1,0 +1,191 @@
+{
+ "key": "dcc-374-2004",
+ "label": "Decizia CCR nr. 374/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "374",
+ "date": "2004-09-28",
+ "year": "2004",
+ "heading": "DECIZIE nr. 374 din 28 septembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 26 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase, aliajelor acestora şi pietrelor preţioase în România, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "986",
+  "bis": false,
+  "date": "2004-10-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "14.259/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 26 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase, aliajelor acestora şi pietrelor preţioase în România, republicată, excepţie ridicată de Mihai M. Enuică în Dosarul nr. 14.259/2003 al Judecătoriei Sectorului 3 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 261/2002",
+    "number": "261",
+    "year": "2002",
+    "path": "lege/2002/261"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "34-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 362/2003",
+    "number": "362",
+    "year": "2003",
+    "path": "lege/2003/362"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-10-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/56155",
+  "text_sha256": "ed5d506f05830fa6e12d35a2e33f9cb324a557efd0f20d5f0149d99802b34875",
+  "catalogue_sha256": "ed5d506f05830fa6e12d35a2e33f9cb324a557efd0f20d5f0149d99802b34875",
+  "fetched": "2026-11-02T23:41:17Z",
+  "chars": 13048,
+  "portal_id": "56155",
+  "tip": "DECIZIE"
+ }
+}
