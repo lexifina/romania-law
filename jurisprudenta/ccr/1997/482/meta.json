@@ -1,0 +1,199 @@
+{
+ "key": "dcc-482-1997",
+ "label": "Decizia CCR nr. 482/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "482",
+ "date": "1997-11-18",
+ "year": "1997",
+ "heading": "DECIZIE nr. 482 din 18 noiembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 15 din Legea nr. 32/1968 privind stabilirea şi sancţionarea contravenţiilor",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "143",
+  "bis": false,
+  "date": "1998-04-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "1.000/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul declarat de Societatea Comercială \"Jupiter\" - S.R.L., desfiinţează Decizia nr. 267 din 18 iunie 1997 şi, pe fond, constata ca art. 15 din Legea nr. 32/1968 este abrogat potrivit art. 150 alin. (1) din Constituţie.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 221/1960",
+    "number": "221",
+    "year": "1960",
+    "path": "decret/1960/221"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-04-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14552",
+  "text_sha256": "d6b9d546b48472212e626127d023bdf043a95023cc77a936363dae0aa9784523",
+  "catalogue_sha256": "d6b9d546b48472212e626127d023bdf043a95023cc77a936363dae0aa9784523",
+  "fetched": "2026-11-05T14:48:33Z",
+  "chars": 9973,
+  "portal_id": "14552",
+  "tip": "DECIZIE"
+ }
+}
