@@ -1,0 +1,214 @@
+{
+ "key": "dcc-8-1996",
+ "label": "Decizia CCR nr. 8/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "8",
+ "date": "1996-01-31",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 8*) din 31 ianuarie 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 74 alin. 2 şi ale art. 75 alin. 2 din Legea presei din Republica Socialistă România nr. 3/1974",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "129",
+  "bis": false,
+  "date": "1996-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "152/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea presei din Republica Socialistă România nr. 3/1974",
+    "number": "3",
+    "year": "1974",
+    "path": "lege/1974/3"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 74 alin. 2 şi ale art. 75 alin. 2 din Legea presei nr. 3/1974, ridicată de Belcin Victor în Dosarul nr. 152/1994 al Curţii de Apel Galaţi.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea presei din Republica Socialistă România nr. 3/1974",
+    "number": "3",
+    "year": "1974",
+    "path": "lege/1974/3"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "6",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/7832",
+  "text_sha256": "abfd20a24fa210f42efab5a93963725804c2aa218cecdb930378dd1ec3e2205c",
+  "catalogue_sha256": "abfd20a24fa210f42efab5a93963725804c2aa218cecdb930378dd1ec3e2205c",
+  "fetched": "2026-11-02T22:51:03Z",
+  "chars": 13057,
+  "portal_id": "7832",
+  "tip": "DECIZIE"
+ }
+}
