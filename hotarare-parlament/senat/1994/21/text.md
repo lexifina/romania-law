@@ -1,0 +1,6 @@
+ HOTĂRÎRE Nr. 21 din 22 iunie 1994  privind numirea unor membri ai consiliilor de administraţie şi cenzori ai Fondurilor Proprietăţii Private      EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL NR. 160 din 24 iunie 1994     În temeiul art. 64 din Constituţia României şi al art. 8 din Legea privatizării societăţilor comerciale nr. 58/1991.   Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Se numesc în calitate de membri ai consiliului de administraţie şi cenzori ai Fondurilor Proprietăţii Private persoanele prevăzute în anexa, care face parte integrantă din prezenta hotărâre.   Aceasta hotărârea a fost adoptată de Senat în şedinţa din 22 iunie 1994, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României.   p. PREŞEDINTELE SENATULUI  ION SOLCANU
+				 +
+			  Anexa 1      I. Consilii de administraţie   Fondul Proprietăţii Private I - Banat-Crisana, cu sediul în Arad - Nitu  Adrian   Fondul Proprietăţii Private II - Moldova, cu sediul în Bacau - Calueanu   Dumitru   Fondul Proprietăţii Private IV - Muntenia, ce sediul în Bucureşti -  Aichimoaie Ionel   Fondul Proprietăţii Private V - Oltenia, cu sediul în Craiova - Neagu  Victor.   II. Cenzori   Fondul Proprietăţii Private V - Oltenia, cu sediul în Craiova   Titular:   - Vrancuti Victor   Supleant:   - Florescu Dumitru.   -------------------------
