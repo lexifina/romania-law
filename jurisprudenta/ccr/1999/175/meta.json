@@ -1,0 +1,363 @@
+{
+ "key": "dcc-175-1999",
+ "label": "Decizia CCR nr. 175/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "175",
+ "date": "1999-11-04",
+ "year": "1999",
+ "heading": "DECIZIE nr. 175 din 4 noiembrie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 29 pct. 1 lit. d), art. 361 alin. 1 lit. d) şi ale art. 385^1 alin. 1 lit. c) şi d) din Codul de procedură penală, astfel cum au fost modificate prin Legea nr. 45/1993 şi prin Legea nr. 141/1996, ale art. II din Legea nr. 153/1998 pentru modificarea şi completarea Legii Curţii Supreme de Justiţie nr. 56/1993 şi ale art. 25 alin. 1 lit. b) din Legea nr. 56/1993, modificată şi completată prin Legea nr. 153/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "11",
+  "bis": false,
+  "date": "2000-01-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.954/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "361",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1996",
+    "number": "141",
+    "year": "1996",
+    "path": "lege/1996/141"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 153/1998",
+    "number": "153",
+    "year": "1998",
+    "path": "lege/1998/153"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/1993",
+    "number": "56",
+    "year": "1993",
+    "path": "lege/1993/56"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 29 pct. 1 lit. d), ale art. 361 alin. 1 lit. d) şi ale art. 385^1 alin. 1 lit. c) şi d) din Codul de procedură penală, astfel cum au fost modificate şi completate prin Legea nr. 45/1993 şi prin Legea nr. 141/1996, a dispoziţiilor art. II din Legea nr. 153/1998 pentru modificarea şi completarea Legii Curţii Supreme de Justiţie nr. 56/1993 şi ale art. 25 alin. 1 lit. b) din Legea nr. 56/1993, modificată şi completată prin Legea nr. 153/1998, excepţie ridicată de Dumitru Draghin, Ghita Grigorie şi Ionel Zorila în Dosarul nr. 2.954/1998 al Curţii Supreme de Justiţie - Secţia penală.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "361",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "c"
+     ]
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "385-6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1996",
+    "number": "141",
+    "year": "1996",
+    "path": "lege/1996/141"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 153/1998",
+    "number": "153",
+    "year": "1998",
+    "path": "lege/1998/153"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/1993",
+    "number": "56",
+    "year": "1993",
+    "path": "lege/1993/56"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-01-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20560",
+  "text_sha256": "f8fe97fa2afd4667c9e7b033bbfbc6182e8ab9378b83d8ae97795b4251e49e0c",
+  "catalogue_sha256": "f8fe97fa2afd4667c9e7b033bbfbc6182e8ab9378b83d8ae97795b4251e49e0c",
+  "fetched": "2026-11-02T23:06:45Z",
+  "chars": 28951,
+  "portal_id": "20560",
+  "tip": "DECIZIE"
+ }
+}
