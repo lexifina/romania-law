@@ -1,0 +1,6 @@
+# Anexa 5
+Agentul economic.............................. Subunitatea........................................ Nr. de înregistrare............................ SITUAȚIA privind carburanții auto folosiți în scop propriu Sortimentul carburantului.......................
+Nr. crt. Documentul Scopul utilizării Cantitatea folosită pentru alimentare (tone) Suma datorată (în euro)
+Numărul Data
+0 1 2 3 4 5
+Cunoscând prevederile art. 292 din Codul penal privind falsul în declarații, confirm pe propria răspundere exactitatea datelor prezentate. Director,...........................
