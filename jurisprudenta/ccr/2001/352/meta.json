@@ -1,0 +1,265 @@
+{
+ "key": "dcc-352-2001",
+ "label": "Decizia CCR nr. 352/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "352",
+ "date": "2001-12-19",
+ "year": "2001",
+ "heading": "DECIZIE nr. 352 din 19 decembrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 din Ordonanţa Guvernului nr. 12/1995 privind unele măsuri referitoare la regimul vamal al maşinilor, utilajelor şi instalaţiilor importate în cadrul tranzacţiilor de leasing, precum şi la regimul vamal al materiilor prime, pieselor de schimb, materialelor şi componentelor folosite în producţia proprie a unor agenţi economici, aprobată prin Legea nr. 59/1995, şi art. 188 din Legea nr. 141/1997 privind Codul vamal al României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "123",
+  "bis": false,
+  "date": "2002-02-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.345/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 12/1995",
+    "number": "12",
+    "year": "1995",
+    "path": "og/1995/12"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1997",
+    "number": "141",
+    "year": "1997",
+    "path": "lege/1997/141"
+   },
+   "articles": [
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a prevederilor art. 4 din Ordonanţa Guvernului nr. 12/1995 privind unele măsuri referitoare la regimul vamal al maşinilor, utilajelor şi instalaţiilor importate în cadrul tranzacţiilor de leasing, precum şi la regimul vamal al materiilor prime, pieselor de schimb, materialelor şi componentelor folosite în producţia proprie a unor agenţi economici, aprobată prin Legea nr. 59/1995, excepţie ridicată de Societatea Comercială \"Indlacto Mures\" - S.R.L. din Targu Mures în Dosarul nr. 1.345/2000 al Curţii de Apel Targu Mures - Secţia comercială şi de contencios administrativ. 2. Respinge excepţia de neconstituţionalitate a prevederilor art. 188 din Legea nr. 141/1997 privind Codul vamal al României, excepţie ridicată de acelaşi autor în dosarul aceleiaşi instanţe.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 12/1995",
+    "number": "12",
+    "year": "1995",
+    "path": "og/1995/12"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1997",
+    "number": "141",
+    "year": "1997",
+    "path": "lege/1997/141"
+   },
+   "articles": [
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "7",
+      "2",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/1993",
+    "number": "26",
+    "year": "1993",
+    "path": "og/1993/26"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/1998",
+    "number": "90",
+    "year": "1998",
+    "path": "lege/1998/90"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/34074",
+  "text_sha256": "aa0488d841e952e889b9b94b37dfc3103adea15459e9ff264aec4c6d3ed651a8",
+  "catalogue_sha256": "aa0488d841e952e889b9b94b37dfc3103adea15459e9ff264aec4c6d3ed651a8",
+  "fetched": "2026-11-02T23:19:19Z",
+  "chars": 16776,
+  "portal_id": "34074",
+  "tip": "DECIZIE"
+ }
+}
