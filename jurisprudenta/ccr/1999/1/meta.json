@@ -1,0 +1,130 @@
+{
+ "key": "dcc-1-1999",
+ "label": "Decizia CCR nr. 1/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1",
+ "date": "1999-01-21",
+ "year": "1999",
+ "heading": "DECIZIE nr. 1 din 21 ianuarie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Legii nr. 146/1997 privind taxele judiciare de timbru",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "216",
+  "bis": false,
+  "date": "1999-05-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "689/1998",
+  "2.521/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibila excepţia de neconstituţionalitate a Legii nr. 146/1997 privind taxele judiciare de timbru, ridicată de Ionescu Mircea şi Ionescu Delenus Marinela în Dosarul nr. 689/1998 al Tribunalului Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "r"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-05-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18190",
+  "text_sha256": "488af19388c7f74e356ab1e24ca23e82047428c12b69dc2a6e75740412d0a65f",
+  "catalogue_sha256": "488af19388c7f74e356ab1e24ca23e82047428c12b69dc2a6e75740412d0a65f",
+  "fetched": "2026-11-02T23:03:47Z",
+  "chars": 10552,
+  "portal_id": "18190",
+  "tip": "DECIZIE"
+ }
+}
