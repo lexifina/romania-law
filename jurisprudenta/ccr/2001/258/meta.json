@@ -1,0 +1,185 @@
+{
+ "key": "dcc-258-2001",
+ "label": "Decizia CCR nr. 258/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "258",
+ "date": "2001-09-20",
+ "year": "2001",
+ "heading": "DECIZIE nr. 258 din 20 septembrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor alin. (4) al art. 22 din Legea nr. 18/1996 privind paza persoanelor, obiectivelor, bunurilor şi valorilor, dispoziţii introduse prin Ordonanţa de urgenta a Guvernului nr. 161/2000",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "2",
+  "bis": false,
+  "date": "2002-01-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "254/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1996",
+    "number": "18",
+    "year": "1996",
+    "path": "lege/1996/18"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor alin. (4) al art. 22 din Legea nr. 18/1996 privind paza persoanelor, obiectivelor, bunurilor şi valorilor, dispoziţii introduse prin Ordonanţa de urgenta a Guvernului nr. 161/2000, excepţie ridicată de Gheorghe Stoica în Dosarul nr. 254/2001 al Judecătoriei Sectorului 3 Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1996",
+    "number": "18",
+    "year": "1996",
+    "path": "lege/1996/18"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 161/2000",
+    "number": "161",
+    "year": "2000",
+    "path": "oug/2000/161"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-01-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33095",
+  "text_sha256": "fc22ebbe560716099d29c6fea208d28d621756d7a4fc02ed3390d8dfe7149ba2",
+  "catalogue_sha256": "fc22ebbe560716099d29c6fea208d28d621756d7a4fc02ed3390d8dfe7149ba2",
+  "fetched": "2026-11-02T23:18:21Z",
+  "chars": 16749,
+  "portal_id": "33095",
+  "tip": "DECIZIE"
+ }
+}
