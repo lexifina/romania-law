@@ -1,0 +1,141 @@
+{
+ "key": "dcc-46-1993",
+ "label": "Decizia CCR nr. 46/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "46",
+ "date": "1993-09-10",
+ "year": "1993",
+ "heading": "DECIZIA nr. 46 din 10 septembrie 1993",
+ "subtitle": "asupra excepţiei de neconstituţionalitate a Decretului nr. 224/1951 privitor la urmărirea imobiliară pentru realizarea creanţelor statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "283",
+  "bis": false,
+  "date": "1993-12-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 224/1951",
+    "number": "224",
+    "year": "1951",
+    "path": "decret/1951/224"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Decretului nr. 224/1951 invocată de Leca Irina şi Gramescu Maria în dosarul nr. 2084/1992 al Tribunalului Municipiului Bucureşti, Secţia a III-a civilă.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 224/1951",
+    "number": "224",
+    "year": "1951",
+    "path": "decret/1951/224"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 221/1960",
+    "number": "221",
+    "year": "1960",
+    "path": "decret/1960/221"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3168",
+  "text_sha256": "1077dd25f893b66e158a1ef74547f94811ad5f105726aede4e47b02493bdf9e3",
+  "catalogue_sha256": "1077dd25f893b66e158a1ef74547f94811ad5f105726aede4e47b02493bdf9e3",
+  "fetched": "2026-11-02T22:42:17Z",
+  "chars": 4833,
+  "portal_id": "3168",
+  "tip": "DECIZIE"
+ }
+}
