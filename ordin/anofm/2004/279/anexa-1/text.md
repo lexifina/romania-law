@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ privind activitatea de control, de îndeplinire a măsurilor asigurătorii, precum și de efectuare a executării silite a debitelor rezultate din nerespectarea prevederilor Legii nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, cu modificările și completările ulterioare
