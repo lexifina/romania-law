@@ -1,0 +1,267 @@
+{
+ "key": "dcc-200-2004",
+ "label": "Decizia CCR nr. 200/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "200",
+ "date": "2004-04-29",
+ "year": "2004",
+ "heading": "DECIZIE nr. 200 din 29 aprilie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (2) lit. c) şi d), ale art. 13 alin. (2) şi ale art. 32 din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată şi modificată prin Legea nr. 180/2002, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "490",
+  "bis": false,
+  "date": "2004-06-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.124/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (2) lit. d) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări prin Legea nr. 180/2002, cu modificările ulterioare, excepţie ridicată de Ion Constantin în Dosarul nr. 7.124/2003 al Judecătoriei Braşov. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (2) lit. c), ale art. 13 alin. (2) şi ale art. 32 din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări prin Legea nr. 180/2002, cu modificările ulterioare, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 108/2003",
+    "number": "108",
+    "year": "2003",
+    "path": "oug/2003/108"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 55/2002",
+    "number": "55",
+    "year": "2002",
+    "path": "og/2002/55"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-06-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52365",
+  "text_sha256": "bd7b16c661b3fd0841c9208ddd7a76a7553d709fe5e876d26ba1db001a3df189",
+  "catalogue_sha256": "bd7b16c661b3fd0841c9208ddd7a76a7553d709fe5e876d26ba1db001a3df189",
+  "fetched": "2026-11-02T23:37:19Z",
+  "chars": 16583,
+  "portal_id": "52365",
+  "tip": "DECIZIE"
+ }
+}
