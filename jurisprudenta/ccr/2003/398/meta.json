@@ -1,0 +1,112 @@
+{
+ "key": "dcc-398-2003",
+ "label": "Decizia CCR nr. 398/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "398",
+ "date": "2003-10-21",
+ "year": "2003",
+ "heading": "DECIZIE nr. 398 din 21 octombrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor pct. 5.1.1 şi 5.1.3 din Instrucţiunile privind rezolvarea reclamatiilor externe emise de R.A. \"Posta Română\" - Direcţia de posta internationala",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "779",
+  "bis": false,
+  "date": "2003-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.275/2002",
+  "9.348/2001"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor pct. 5.1.1 şi 5.1.3 din Instrucţiunile privind rezolvarea reclamatiilor externe emise de R.A. \"Posta Română\" - Direcţia de posta internationala, excepţie ridicată de Francisc Szucs în Dosarul nr. 3.275 al Tribunalului Bihor - Oradea.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47512",
+  "text_sha256": "953ed20dd1a9c4c639e4cad145d87c5026decde2974a81526d656f7e95f5d547",
+  "catalogue_sha256": "953ed20dd1a9c4c639e4cad145d87c5026decde2974a81526d656f7e95f5d547",
+  "fetched": "2026-11-02T23:32:30Z",
+  "chars": 6631,
+  "portal_id": "47512",
+  "tip": "DECIZIE"
+ }
+}
