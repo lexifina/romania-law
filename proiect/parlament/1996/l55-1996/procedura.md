@@ -11,9 +11,11 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 1996-02-08: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Document
+- 1998-05-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
 - 1996-02-08: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L055FG.PDF
 - 1996-02-08: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L055EM.PDF
 - 1996-02-08: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L055HG.PDF
+- 1998-05-13: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L055CR.PDF
