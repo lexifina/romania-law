@@ -1,0 +1,160 @@
+{
+ "key": "dcc-211-2003",
+ "label": "Decizia CCR nr. 211/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "211",
+ "date": "2003-05-15",
+ "year": "2003",
+ "heading": "DECIZIE nr. 211 din 15 mai 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Ordonanţa de urgenta a Guvernului nr. 163/2000 pentru diminuarea arieratelor la bugetul de stat, aprobată prin Legea nr. 720/2001, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "437",
+  "bis": false,
+  "date": "2003-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 163/2000",
+    "number": "163",
+    "year": "2000",
+    "path": "oug/2000/163"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 6 din Ordonanţa de urgenta a Guvernului nr. 163/2000  pentru diminuarea arieratelor la bugetul de stat, aprobată prin  Legea nr. 720/2001 , cu modificările ulterioare, excepţie ridicată de Societatea Comercială \"I.C.P.T. Constructcoop\" - S.R.L. din Constanta în Dosarul nr. 152/CA/2002 al Tribunalului Constanta - Secţia comercială.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 15 mai 2003.  PREŞEDINTE,  prof. univ. dr. COSTICA BULAI  Magistrat-asistent,  Ioana Marilena Chiva  ────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 163/2000",
+    "number": "163",
+    "year": "2000",
+    "path": "oug/2000/163"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/44533",
+  "text_sha256": "c387b7b3bead08ea7883ee0f0034a4b3e0b93224e12bb033757e6ebcb85b78fc",
+  "catalogue_sha256": "c387b7b3bead08ea7883ee0f0034a4b3e0b93224e12bb033757e6ebcb85b78fc",
+  "fetched": "2026-11-02T23:29:48Z",
+  "chars": 11153,
+  "portal_id": "44533",
+  "tip": "DECIZIE"
+ }
+}
