@@ -1,0 +1,118 @@
+{
+ "key": "dcc-142-2004",
+ "label": "Decizia CCR nr. 142/2004",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "142",
+ "date": "2004-03-24",
+ "year": "2004",
+ "heading": "DECIZIE nr. 142 din 24 martie 2004",
+ "subtitle": "privind constituţionalitatea unor prevederi din Regulamentul Senatului, republicat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "286",
+  "bis": false,
+  "date": "2004-04-01",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "126C/2004"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că sesizarea privind constatarea neconstituţionalităţii prevederilor art. 15 şi 16 din Regulamentul Senatului, republicat, înaintată Curţii de preşedintele Grupului parlamentar al Partidului Naţional Liberal, în numele grupului, nu îndeplineşte condiţiile prevăzute de dispoziţiile art. 146 lit. c) din Constituţie, republicată.",
+  "Decizia se comunică Preşedintelui Senatului şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.b"
+     ]
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "outcome: not detected",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-04-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/50896",
+  "text_sha256": "15d4c10040ebf45ebab4008bb21b2cb7dc326c31ef07767369e79aa205ecf2ef",
+  "catalogue_sha256": "15d4c10040ebf45ebab4008bb21b2cb7dc326c31ef07767369e79aa205ecf2ef",
+  "fetched": "2026-11-02T23:35:50Z",
+  "chars": 6770,
+  "portal_id": "50896",
+  "tip": "DECIZIE"
+ }
+}
