@@ -1,0 +1,76 @@
+# Anexa 4 la Regulamentul privind efectuarea operațiunilor valutare
+N O R M E privind efectuarea operațiunilor de schimb valutar pentru persoanele fizice
+I. Categorii de persoane juridice autorizate să efectueze schimb valutar pentru persoane fizice
+1. Operațiunile de schimb valutar pentru persoanele fizice pe teritoriul României se efectuează de către următoarele categorii de persoane juridice:
+a) băncile comerciale care, potrivit autorizației de funcționare eliberate de Banca Naționala a României, au dreptul să efectueze operațiuni valutare;
+b) băncile comerciale, altele decît cele prevăzute la lit. a) de la acest punct, autorizate de Banca Naționala a României;
+c) casele de schimb valutar, organizate ca persoane juridice conform Legii nr. 31/1990 privind societățile comerciale, cu obiect unic de activitate schimbul valutar, autorizate de Banca Naționala a României;
+d) societățile comerciale de turism, expres autorizate de Banca Naționala a României sa organizeze ghisee de schimb valutar în vederea încasării în lei a prestațiilor turistice (cazare și servicii suplimentare) efectuate turistilor străini.
+2. Persoanele juridice prevăzute la lit. a), b) și c) de la pct. 1 vor efectua operațiunile de schimb valutar în condițiile prevăzute la cap. 3 din prezentele norme, iar persoanele juridice prevăzute la lit. d) de la pct. 1 vor efectua aceste operațiuni în conformitate cu normele emise special în acest scop de către Banca Naționala a României.
+II. Condiții pentru acordarea autorizațiilor și funcționarea caselor de schimb valutar
+3. Casele de schimb valutar, înregistrate conform Legii nr. 31/1990, vor solicita Băncii Naționale a României acordarea de autorizații de funcționare pentru case de schimb valutar, dacă sînt îndeplinite următoarele condiții:
+a) obiectul unic de activitate, conform statutului și contractului înregistrate potrivit Legii nr. 31/1990 privind societățile comerciale, sa îl constituie schimbul valutar pentru persoane fizice;
+b) solicitantul trebuie să aibă un spațiu permanent de lucru, cu acces pentru public, și adresa identificabile;
+c) solicitantul trebuie să notifice numele și adresa băncii (băncilor) unde are deschis contul;
+d) solicitantul, constituit conform Legii nr. 31/1990, trebuie să prezinte dovada capitalului social vărsat în totalitate în numele casei de schimb valutar ca persoana juridică independenta.
+Totodată, solicitantul va trebui să prezinte dovada existenței unor disponibilitati în cont, la data depunerii cererii de autorizare la Banca Naționala a României, echivalente cu 10 milioane lei. Aceasta suma trebuie să se regaseasca permanent sub forma de disponibilitati în valută sau lei;
+e) casa de schimb valutar trebuie să aibă personal fără cazier judiciar. Numai personalul angajat are dreptul să efectueze operațiuni în numele casei de schimb valutar;
+f) casa de schimb valutar să aibă asigurata dotarea tehnica necesară pentru verificarea autenticității bancnotelor, precum și pentru păstrarea și manipularea în deplina securitate a valutei;
+g) fiecare solicitant indeplinind condițiile de autorizare pentru schimb valutar va plati un comision de autorizare de 50.000 lei. Comisionul de autorizare este supus revederii periodice.
+4. Casa de schimb valutar este înregistrată ca o persoană juridică și poate avea în cadrul sau un număr nelimitat de puncte de schimb, cu condiția să fie îndeplinite cerințele prevăzute la lit. b), e) și f) de la acest capitol.
+5. Casele de schimb valutar pot începe operațiunile după primirea autorizației de la Banca Naționala a României.
+Pentru autorizarea caselor de schimb valutar, solicitanții vor depune la sucursala Băncii Naționale a României din județul în raza căruia urmează să-și desfășoare activitatea o cerere scrisă, însoțită de următoarele documente (în fotocopie):
+a) certificatul de înmatriculare eliberat de Camera de Comerț și Industrie, însoțit de: statutul societății comerciale, contractul de societate și hotărîrea judecătorească;
+b) dovada posesiunii spațiului (contract de închiriere sau act de proprietate, după caz);
+c) certificatele de cazier judiciar ale personalului;
+d) dovada existenței în cont la o banca comercială a disponibilităților în echivalentul a 10 milioane lei.
+Întreaga documentație va fi depusa în doua exemplare.
+În termen de 3 zile, sucursala judeteana a Băncii Naționale a României va analiza și va verifica pe teren documentația prezentată, din care va remite apoi un exemplar Oficiului de Control al Devizelor din cadrul Băncii Naționale a României, împreună cu avizul sau.
+Pe baza analizei efectuate, Oficiul de Control al Devizelor din cadrul Băncii Naționale a României va transmite Băncii Naționale a României autorizația de funcționare sau îi va comunică respingerea cererii și motivul respingerii. Autorizația de funcționare sau respingerea cererii va fi comunicată solicitantului de către sucursala Băncii Naționale a României.
+III. Operațiuni de schimb valutar
+6. Casa de schimb valutar poate cumpara în mod liber, fără limitări, valuta sub forma bancnotelor și cecurilor de călătorie, în oricare din valutele cotate de Banca Naționala a României, de la rezidenți și nerezidenti, persoane fizice. De asemenea, poate efectua schimbul valutar pentru încasarea unor servicii turistice specifice, care sînt prevăzute în mod expres în autorizația de funcționare.
+7. Casa de schimb valutar poate vinde valuta sub forma bancnotelor, în valutele cotate de Banca Naționala a României, numai persoanelor fizice rezidente în România, care solicită schimbul în scopul efectuării de călătorii turistice în străinătate, pînă la echivalentul a 100.000 lei pe an de persoana.
+Vînzarea se poate face numai pe bază de pasaport individual. Suma în lei (în cifre și litere) și data efectuării schimbului (ziua, luna, anul) se înscriu în mod obligatoriu în pasaport, fiind confirmate cu ștampila punctului de schimb valutar și semnatura angajatului.
+În cazul persoanelor care efectuează cumpărări parțiale de valuta în decursul anului, punctele de schimb valutar vor onora cererile solicitanților respectivi numai în limita sumelor în lei care, potrivit mențiunilor înscrise anterior în pasaport de alte puncte de schimb valutar, reprezintă diferența pînă la plafonul maxim anual de 100.000 lei.
+8. Casa de schimb valutar poate vinde nerezidentilor, contra lei, valuta sub forma de bancnote în oricare din valutele cotate de Banca Naționala a României, dar numai pînă la concurenta sumei evidentiate ca fiind schimbată din valuta în lei pe documentul emis de un punct de schimb valutar din România.
+Astfel de operațiuni se pot efectua numai pentru documente de schimb emise în ultimele 30 de zile și numai pentru sumele în lei pentru care nu au mai fost efectuate restituiri de valuta în acest interval de timp de către un punct de schimb valutar.
+Pentru scopul acestei reglementări, punctele de schimb valutar vor menționa pe documentele în cauza sumele în lei pentru care s-au efectuat restituiri de valuta și data, pe care le vor confirma cu semnatura angajatului și ștampila punctului de schimb valutar. Punctul de schimb valutar care efectuează restituirea ultimului sold va retine documentul respectiv.
+9. Fiecare casa de schimb valutar poate să-și stabilească cursurile de schimb, atît cele de cumpărare cît și cele de vînzare, cu condiția ca nivelul cursurilor de cumpărare și de vînzare să se încadreze într-un interval de abatere de pînă la + / -2 % față de cursurile de schimb ale leului din lista de cursuri valutare publicată zilnic de Banca Naționala a României.
+10. Atît cursurile de vînzare cît și cele de cumpărare pentru toate valutele și cecurile de călătorie negociate vor fi afișate zilnic, la loc vizibil, la începutul programului de lucru. Cursurile afișate nu mai pot fi modificate în timpul zilei respective de lucru. În cadrul unei localități, casa de schimb valutar va practica aceleași cursuri pentru toate punctele sale de schimb.
+Cursurile afișate vor fi înscrise în liste de cursuri zilnice, semnate de persoanele împuternicite de conducerea casei de schimb valutar și cu aplicarea ștampilei punctului de schimb valutar. Listele de cursuri se vor păstra ca documente justificative la punctele de schimb valutar respective.
+Este interzisă efectuarea de operațiuni unilaterale numai de cumpărare sau numai de vînzare de valuta, cu excepția cazurilor cînd acestea sînt determinate exclusiv de lipsa temporară de disponibilitati în valută sau în lei.
+11. Pentru operațiunile de schimb valutar se pot incasa comisioane numai în lei. Comisioanele vor fi afișate zilnic, la începutul programului de lucru și nu mai pot fi modificate în timpul zilei de lucru.
+IV. Conturile în valută și în lei ale caselor de schimb valutar
+12. Casele de schimb valutar pot să-și păstreze disponibilitățile în valută și în lei în conturi deschise numai la băncile comerciale autorizate din România.
+Aceste disponibilitati pot fi, de asemenea, păstrate integral în casieriile caselor și punctelor de schimb valutar.
+13. Disponibilitățile în valută și în lei ale unei case de schimb valutar vor fi utilizate numai pentru operațiunile proprii curente.
+Disponibilitățile în valută și în lei obținute de băncile comerciale din activitatea proprie de schimb valutar pot fi utilizate și pentru alte destinații specifice activității bancare.
+14. Casele de schimb valutar pot cumpara și vinde valuta pe piața valutară ce funcționează în afară licitațiilor valutare (sume sub 50.000 dolari S.U.A.), cu respectarea prevederilor referitoare la aceste tranzacții cuprinse în anexa nr. 3 la Regulamentul privind efectuarea operațiunilor valutare, emis de Banca Naționala a României sub nr. V/3616/2 din 4 mai 1992.
+Vînzările de valuta se efectuează în mod nelimitat, iar cumpărările de valuta se pot efectua astfel:
+Cererile de cumpărare de valuta trebuie să aibă la baza următoarele documente:
+a) situația privind disponibilul din contul (conturile) valutar(e), la data depunerii cererii la banca, cu specificarea felului valutelor și a sumelor;
+b) situația privind valutele aflate sub forma de numerar în casierii pe total casa de schimb valutar, cu specificarea felului valutelor și a sumelor, la data depunerii cererii la banca;
+c) situația vinzarilor de valuta efectuate în ultimile 5 zile de activitate a casei de schimb valutar respective cu specificația felului valutelor și a sumelor vîndute.
+În funcție de datele de mai sus, banca comercială va putea onora cererile de cumpărare ale caselor de schimb valutar pînă la cel mult diferența dintre volumul vinzarilor de valuta din situația prevăzută la lit. c) și disponibilitățile valutare proprii cumulate conform lit. a) și b), de la acest punct, dar fără a se depăși limita de 15 % din volumul vinzarilor de valuta efectuate către populație în ultimele 5 zile de activitate a casei de schimb valutar.
+V. Cerințe de evidenta și raportare
+15. Pentru fiecare tranzacție, punctele de schimb valutar vor întocmi buletine de schimb tipizate conform modelului alăturat.
+Asigurarea cu aceste formulare (tipărirea și dotarea punctelor de schimb) intră în sarcina fiecărei case de schimb valutar.
+Buletinele de schimb valutar vor fi executate, înregistrate, evidentiate și utilizate ca documente cu regim special, în care scop vor purta în mod obligatoriu serie și număr de ordine imprimate în procesul tipăririi lor.
+Buletinele de schimb valutar se întocmesc în doua exemplare, fiind obligatorie completarea lor cu toate datele prevăzute de formular.
+Pe buletinul de schimb valutar nu se admit corecturi, eventualele imprimate completate eronat urmînd a fi anulate prin barare sub semnatura angajatului și ștampila punctului de schimb. Buletinele de schimb valutar anulate rămîn atașate în carnetul respectiv.
+Originalul buletinului de schimb valutar, datat, semnat și stampilat de punctul de schimb se inmineaza clientului, iar exemplarul 2 se păstrează ca document justificativ de casa.
+În cazul caselor de schimb valutar care au organizat operațiunile în sistem computerizat, întocmirea buletinelor de schimb valutar se poate face pe calculatorul electronic, cu condiția însă de a se respecta întocmai modelul de formular alăturat, inclusiv regimul special al acestuia, prin înscrierea seriei și numărului de ordine.
+16. Se va tine un registru zilnic al tranzacțiilor, indicind cumpărările de valuta și cecurile de călătorie, pe feluri de valute, și vînzările de valuta, pe feluri de valuta, precum și sumele în lei plătite și, respectiv, încasate în cadrul acestor operațiuni.
+17. Casele de schimb valutar, precum și băncile comerciale care efectuează operațiuni de schimb valutar vor raporta Băncii Naționale a României - Oficiul de Control al Devizelor, operațiunile de schimb valutar, prin situații întocmite conform normelor emise în acest scop de Banca Naționala a României.
+VI. Dispoziții finale
+18. O casa de schimb valutar trebuie să îndeplinească toate prevederile prezente și viitoare ale reglementărilor de schimb valutar, asa cum sînt stabilite și transmise de Banca Naționala a României.
+19. Personalul fiecărei case de schimb valutar este răspunzător de efectuarea operațiunilor de schimb valutar în conformitate cu reglementările în vigoare.
+20. Sucursalele județene ale Băncii Naționale a României vor desfășura sistematic acțiuni de supraveghere și control asupra caselor de schimb valutar, astfel:
+a) supravegherea modului de desfășurare a activității prin observari și verificări inopinate la punctele de schimb valutar, ori de cîte ori se considera necesar;
+b) controlul ulterior asupra întregii activități a punctelor de schimb valutar, cel puțin o dată pe trimestru.
+21. Autorizația de funcționare a unei case de schimb valutar poate fi revocată temporar sau definitiv de către Banca Naționala a României dacă prevederile prezentelor norme nu sînt respectate sau dacă modul în care se desfășoară activitatea este contrar reglementărilor valutare sau legislației în vigoare.
+22. Pentru nerespectarea prevederilor în vigoare se aplică penalizările și sancțiunile în vigoare.
+M O D E L de buletin de schimb valutar Unitatea autorizata................... Data........... Adresa................................ BULETIN DE SCHIMB VALUTAR Seria....... Nr..................... 1. Numele și prenumele........Țara............. Actul de identitate.......... 2. Suma încasată Curs Comision Suma plătită de la client clientului ________________________________________________________________________________ ________________________________________________________________________________ ________________________________________________________________________________ ________________________________________________________________________________ L.S. Casier Semnatura clientului ________________________________________________________________________________ Explicații privind completarea buletinului de schimb valutar:
+1. Formularul se folosește atît pentru cumpărări cît și pentru vinzari de valuta.
+2. În cazul vinzarilor de valuta către cetățenii români se vor menționa în rubrica "Actul de identitate" seria și numărul pasaportului.
+3. În funcție de natura operațiunii, la pct. 2 în rubricile "Suma încasată de la client" și, respectiv, "Suma plătită clientului", din formular, se trec sumele în valută sau în lei, după caz. __________________________
