@@ -1,0 +1,2 @@
+# Articolul unic
+Se retrage Licenta de emisie nr. S-TV 17 din 17 decembrie 1998 pentru televiziune prin satelit, acordată Societății Comerciale "R" - S.A. pentru postul de televiziune prin satelit TV FLUX din București, începând cu data de 5 martie 2001, ora 0,00, în temeiul art. 17 alin. (2) din Legea audiovizualului nr. 48/1992 , pentru nerealizarea statiei în cel mult 18 luni de la data solicitării autorizației. Președintele Consiliului Național al Audiovizualului, Șerban Madgearu -------------
