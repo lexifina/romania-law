@@ -13,7 +13,9 @@ Initiator: Guvernul României.
 - 1996-08-21: registered at the Senate
 - 2000-03-09: adopted by the Chamber of Deputies
 - 2000-03-20: sent for promulgation
+- 2000-04-07: promulgated, becomes Legea nr. 38/2000; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
-- none held as text
+- 2000-04-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L146DP.PDF
+- 2000-04-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L146FP.PDF
