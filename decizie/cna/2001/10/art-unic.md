@@ -1,0 +1,2 @@
+# Articolul unic
+Se reduce cu un an durata Licenței de emisie nr. TV 058 din 22 septembrie 1993 pentru televiziune, acordată Societății Comerciale "Cinemar" - S.R.L., pentru postul TV-CINEMAR din Cluj-Napoca, potrivit art. 37 lit. c) din Legea audiovizualului nr. 48/1992 . Aceasta măsura a fost luată de Consiliul Național al Audiovizualului ca urmare a nerespectării de către societatea comercială a Somației publice nr. 13.377 din 29 noiembrie 2000. PREȘEDINTELE CONSILIULUI NAȚIONAL AL AUDIOVIZUALULUI, ȘERBAN MADGEARU -------------
