@@ -1,0 +1,160 @@
+{
+ "key": "dcc-83-1998",
+ "label": "Decizia CCR nr. 83/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "83",
+ "date": "1998-05-19",
+ "year": "1998",
+ "heading": "DECIZIE nr. 83 din 19 mai 1998",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 22/1997 pentru modificarea şi completarea Legii administraţiei publice locale nr. 69/1991, republicată",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "211",
+  "bis": false,
+  "date": "1998-06-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.724/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 22/1997",
+    "number": "22",
+    "year": "1997",
+    "path": "oug/1997/22"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate invocată de Diaconu Emilian din Dosarul nr. 2.724/1997 al Curţii de Apel Galaţi - Secţia comercială şi de contencios administrativ şi constata ca dispoziţiile Ordonanţei de urgenta a Guvernului nr. 22/1997 pentru modificarea şi completarea Legii administraţiei publice locale nr. 69/1991, republicată, sunt neconstituţionale.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 22/1997",
+    "number": "22",
+    "year": "1997",
+    "path": "oug/1997/22"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-06-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14874",
+  "text_sha256": "9fcddda51928629643a68d85c647fd1ebe6c9768c8b07f2009f26b3d65efa348",
+  "catalogue_sha256": "9fcddda51928629643a68d85c647fd1ebe6c9768c8b07f2009f26b3d65efa348",
+  "fetched": "2026-11-02T23:00:33Z",
+  "chars": 12171,
+  "portal_id": "14874",
+  "tip": "DECIZIE"
+ }
+}
