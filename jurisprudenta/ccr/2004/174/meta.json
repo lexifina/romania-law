@@ -1,0 +1,138 @@
+{
+ "key": "dcc-174-2004",
+ "label": "Decizia CCR nr. 174/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "174",
+ "date": "2004-04-15",
+ "year": "2004",
+ "heading": "DECIZIE nr. 174 din 15 aprilie 2004",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 11 alin. (4) şi (8) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989",
+ "issuer": "CURTEA CONSTITUTIONALA",
+ "mo": {
+  "number": "460",
+  "bis": false,
+  "date": "2004-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.732/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 11 alin. (4) şi (8) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989, excepţie ridicata de Mircea Pascu, Constantin Pascu, Cristian Pascu şi Viorica Paraian în Dosarul nr. 6.732/2003 al Curtii de Apel Alba Iulia - Sectia civila.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "4",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52100",
+  "text_sha256": "dcc2a072fb6b62f14ae176657fd2e0fbf63ed48ac202043784db9503ecb9606a",
+  "catalogue_sha256": "dcc2a072fb6b62f14ae176657fd2e0fbf63ed48ac202043784db9503ecb9606a",
+  "fetched": "2026-11-02T23:37:06Z",
+  "chars": 14950,
+  "portal_id": "52100",
+  "tip": "DECIZIE"
+ }
+}
