@@ -1,0 +1,184 @@
+{
+ "key": "dcc-168-2001",
+ "label": "Decizia CCR nr. 168/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "168",
+ "date": "2001-05-22",
+ "year": "2001",
+ "heading": "DECIZIE nr. 168 din 22 mai 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) lit. c) şi p) din Legea nr. 31/2000 privind stabilirea şi sancţionarea contravenţiilor silvice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "452",
+  "bis": false,
+  "date": "2001-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.234/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/2000",
+    "number": "31",
+    "year": "2000",
+    "path": "lege/2000/31"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) lit. c) şi p) din Legea nr. 31/2000 privind stabilirea şi sancţionarea contravenţiilor silvice, excepţie ridicată de Grigore Hategan în Dosarul nr. 3.234/2000 al Judecătoriei Lugoj.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/2000",
+    "number": "31",
+    "year": "2000",
+    "path": "lege/2000/31"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul silvic",
+    "path": "lege/1996/26",
+    "slug": "legea-26-1996"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/30042",
+  "text_sha256": "6453225b84d38ee10f129a3ae1d0743b6f4db43be3688e7f5dc595c1efcaf82f",
+  "catalogue_sha256": "6453225b84d38ee10f129a3ae1d0743b6f4db43be3688e7f5dc595c1efcaf82f",
+  "fetched": "2026-11-02T23:15:37Z",
+  "chars": 8135,
+  "portal_id": "30042",
+  "tip": "DECIZIE"
+ }
+}
