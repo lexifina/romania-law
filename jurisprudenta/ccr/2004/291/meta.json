@@ -1,0 +1,173 @@
+{
+ "key": "dcc-291-2004",
+ "label": "Decizia CCR nr. 291/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "291",
+ "date": "2004-07-01",
+ "year": "2004",
+ "heading": "DECIZIE nr. 291 din 1 iulie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor articolului unic din Legea nr. 428/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 181/2001 privind modificarea şi completarea Legii nr. 314/2001 pentru reglementarea situaţiei unor societăţi comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "753",
+  "bis": false,
+  "date": "2004-08-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 428/2002",
+    "number": "428",
+    "year": "2002",
+    "path": "lege/2002/428"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor articolului unic din Legea nr. 428/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 181/2001 privind modificarea şi completarea Legii nr. 314/2001 pentru reglementarea situaţiei unor societăţi comerciale, excepţie ridicată de Societatea Comercială \"Procomtrans\" - S.R.L. din Craiova în Dosarul nr. 4.009/COM/2003 al Tribunalului Dolj - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 428/2002",
+    "number": "428",
+    "year": "2002",
+    "path": "lege/2002/428"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 314/2001",
+    "number": "314",
+    "year": "2001",
+    "path": "lege/2001/314"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 181/2001",
+    "number": "181",
+    "year": "2001",
+    "path": "oug/2001/181"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-08-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/54518",
+  "text_sha256": "cd3ef296ca72df154e2b04e928d609f33125e8e950e23fe05ffb7ff9d5007363",
+  "catalogue_sha256": "cd3ef296ca72df154e2b04e928d609f33125e8e950e23fe05ffb7ff9d5007363",
+  "fetched": "2026-11-04T17:55:57Z",
+  "chars": 15820,
+  "portal_id": "54518",
+  "tip": "DECIZIE"
+ }
+}
