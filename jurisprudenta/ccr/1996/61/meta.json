@@ -1,0 +1,172 @@
+{
+ "key": "dcc-61-1996",
+ "label": "Decizia CCR nr. 61/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "61",
+ "date": "1996-05-21",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 61 din 21 mai 1996",
+ "subtitle": "referitoare la soluţionarea recursurilor declarate de Isopescu Eduard, Bochiş Aurel, Varga Alexandru şi Laţi Adrian Horaţiu împotriva Deciziei nr. 116, pronunţată de Curtea Constituţională la data de 16 noiembrie 1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "129",
+  "bis": false,
+  "date": "1996-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "tardiva"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Constata ca recursurile declarate de inculpatii Isopescu Eduard şi Bochis Aurel împotriva Deciziei nr. 116, pronunţată de Curtea Constituţională la data de 16 noiembrie 1995, sunt nule, nefiind motivate. 2. Respinge ca tardive recursurile declarate de Varga Alexandru şi Lati Adrian Horatiu împotriva Deciziei nr. 116, pronunţată de Curtea Constituţională la data de 16 noiembrie 1995.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "385-9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "303",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8343",
+  "text_sha256": "7dc0ecba662d73a3e83129e5397760a9d251958a83f6615b2312f8d193630576",
+  "catalogue_sha256": "7dc0ecba662d73a3e83129e5397760a9d251958a83f6615b2312f8d193630576",
+  "fetched": "2026-11-02T22:51:04Z",
+  "chars": 3711,
+  "portal_id": "8343",
+  "tip": "DECIZIE"
+ }
+}
