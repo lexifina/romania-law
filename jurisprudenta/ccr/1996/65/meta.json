@@ -1,0 +1,185 @@
+{
+ "key": "dcc-65-1996",
+ "label": "Decizia CCR nr. 65/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "65",
+ "date": "1996-05-21",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 65*) din 21 mai 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 35 alin. 2 din Legea bugetului de stat pe anul 1994 nr. 36/1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "293",
+  "bis": false,
+  "date": "1996-11-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "10.007/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 36/1994",
+    "number": "36",
+    "year": "1994",
+    "path": "lege/1994/36"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate invocată de Societatea Comercială \"Regent\" - S.R.L. Pitesti, în Dosarul nr. 10.007/1994 al Judecătoriei Sectorului 1 Bucureşti, şi constata ca prevederile art. 35 alin. 2 din Legea nr. 36/1994 sunt neconstituţionale.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 36/1994",
+    "number": "36",
+    "year": "1994",
+    "path": "lege/1994/36"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 21/1993",
+    "number": "21",
+    "year": "1993",
+    "path": "lege/1993/21"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8364",
+  "text_sha256": "2e4799f92ddd3e494273f88a53436df514961828adf69601afd397b4794889d8",
+  "catalogue_sha256": "2e4799f92ddd3e494273f88a53436df514961828adf69601afd397b4794889d8",
+  "fetched": "2026-11-02T22:53:01Z",
+  "chars": 8601,
+  "portal_id": "8364",
+  "tip": "DECIZIE"
+ }
+}
