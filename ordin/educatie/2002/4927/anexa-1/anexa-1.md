@@ -1,0 +1,47 @@
+# Anexa 1
+------- la metodologie -------------- LISTA posturilor didactice vacante pentru etapa de pretransferare și transferare prin restrangere de activitate Lista care se afișează va conține următoarele informații: Specialitatea....................(nr. de posturi/catedre în/pentru restrangere/pretransferare la nivelul județului....)
+Nr.
+crt.
+Unita-
+tea
+școlară
+Tipul de
+curriculum
+Aria
+curri-
+culara
+Evalu-
+area
+viabi-
+lita-
+tii
+postu-
+lui
+(în
+anii
+sco-
+lari
+Nivelul
+de
+învață-
+mant
+-pre-
+școlar
+-primar
+-gimna-
+zial
+-profe-
+sional
+-liceal
+Locali
+tatea
+Mediul
+(urban,
+rural)
+Obser-
+vatii
+Trunchi
+comun
+C.D.S.
+(opțio-
+nale)

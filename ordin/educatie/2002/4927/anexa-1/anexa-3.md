@@ -1,0 +1,28 @@
+# Anexa 3
+------- la metodologie -------------- ÎNVĂȚĂMÂNTUL ARTISTIC licee de arta - specializările muzica, coregrafie și teatru Proba practica din cadrul concursului pentru ocuparea posturilor vacante din învățământul artistic A. Instrumente, canto, coregrafie:
+a) Elaborarea unui proiect didactic: comisia va face publice, cu 48 de ore înainte, repertoriul elevului și nivelul de studiu pe baza căruia candidatul va concepe proiectul didactic; acesta va fi prezentat comisiei înainte de începerea probei.
+b) Susținerea practica a proiectului didactic (lectia de instrument/coregrafie/canto): pe baza proiectului didactic prezentat candidații vor susține ora de instrument/coregrafie/canto cu elevul/elevii nominalizați de comisie; asigurarea prezentei elevilor va fi facuta de directorul unității de învățământ; proba nu va depăși 30-50 de minute pentru muzica și 1 ora pentru coregrafie.
+c) Proba de recital ce va conține 2 lucrări la alegere, diferite ca stil, caracter, forma.
+Pentru coregrafie: - Repertoriul candidaților va cuprinde 5 variatii clasice din care comisia va indica prezentarea a 2 dintre ele. - Proba de recital nu va depăși 15-20 de minute. NOTĂ: Pentru dans contemporan/modern candidatul va prezenta o coregrafie, la alegere, din 5 coregrafii consacrate pregătite. Evaluarea probelor prevăzute la lit. a), b) și c) se va face pe baza calificativului "admis"/"respins". B. Discipline teoretice: 1. Specialitatea Teoria muzicii - solfegiu - dicteu:
+a) Solfegiu la prima vedere: proba va consta din 16 măsuri de 3/4, 4/4, 5/4, 5/8, 6/8, 12/8, până la 4 alteratii constitutive, în cheile sol și fa.
+b) Citire la prima vedere la pian a câte unui dicteu la 1, 2 și 4 voci
+2. Specialitatea Armonie:
+a) Armonie: armonizarea unei teme de 16 măsuri (8 măsuri sopran și 8 măsuri bas dat, necifrate)
+b) Citire la prima vedere la pian, cu analiza armonica (3 Corale de Bach, prin tragere la sorți).
+3. Specialitatea Istoria muzicii:
+a) Elaborarea unui proiect didactic: subiectul va fi stabilit de comisie și comunicat candidaților cu 48 de ore înainte de susținerea probei.
+b) Proba de recunoaștere și comentare a unor lucrări din creația universala și românească; pe baza auditiei, candidaților li se cere recunoașterea și comentarea a 4 lucrări din epoci stilistice diferite (cel puțin una va fi din creația românească) alese de comisie dintr-o lista de 30-40 de lucrări, pusă la dispoziție candidaților de către direcțiunea unității de învățământ cu cel puțin două săptămâni înainte de susținerea probei; comentariul va cuprinde elemente legate de epoca, stil, compozitor, gen, forma, interpretare etc., precum și aspecte interdisciplinare.
+Evaluarea probelor prevăzute la pct. 1, 2 și 3, cu subpunctele respective, se va face pe baza calificativului "admis"/"respins". C. Corepetitie coregrafie Susținerea probei practice de specialitate Pentru susținerea acestei probe candidații vor pregati un program de recital alcătuit din:
+a) o lucrare reprezentativa a unui compozitor romantic (Chopin, Schumann, Liszt, Brahms, Ceaikovski etc.);
+b) o lucrare (pas de deux sau variatie) din repertoriul romantic de balet;
+c) improvizatia libera a unui fragment de 8 sau 16 măsuri simple sau compuse omogen, în stil clasic-romantic (tonal), în tempouri diferite (Adagio, Andantino, Allegro).
+Recitalul poate fi susținut și cu partitura în fața. Evaluarea probelor prevăzute la lit. a), b) și c) se va face pe baza calificativului "admis"/"respins". Corepetitie muzica Pentru susținerea acestei probe candidații vor pregati:
+a) un program de recital alcătuit din:
+- o lucrare din repertoriu baroc; - o lucrare clasica (sonata p l); - lucrare romantica; - lucrare moderna sau românească;
+b) citirea la prima vedere a 3 texte muzicale în stil clasic, romantic și român, de dificultate medie.
+Textele muzicale vor fi puse la dispoziție de către comisie. Recitalul poate fi susținut și cu partitura în fața. Evaluarea probelor prevăzute la lit. a) și b) se va face pe baza calificativului "admis"/"respins". D. Arta actorului Proba practica
+a) Candidatul va elabora un set de exercitii de inițiere în cadrul unei lecții cu 3-5 elevi.
+b) Lucru pe text. Textul va fi la alegerea candidatului din literatura (proza/poezie) universala sau românească. Asigurarea prezentei elevilor va fi facuta de directorul unității de învățământ.
+Proba nu va depăși 30 de minute. Evaluarea probelor prevăzute la lit. a) și b) se va face pe baza calificativului "admis"/"respins". E. Arta actorului manuitor de papusi Proba practica Candidații vor prezenta un microrecital (15-20 de minute) cuprinzând o secventa scenica papusareasca pe un scenariu alcătuit de ei, cu o trimitere sigura la o categorie de public cu o vârsta bine definită. Modalitățile de expresie scenica pot fi diverse și rămân la alegerea candidaților. Evaluarea probei se va face pe baza calificativului "admis"/"respins". NOTĂ: Unitățile de învățământ la care candidații vor susține proba practica vor fi stabilite de inspectoratele școlare județene/al municipiului București. Prevederile prezentei anexe, parte integrantă din metodologia de concurs, sunt valabile și pentru candidații care vor opta pentru un post/catedra vacant/vacanta din palate și cluburi ale elevilor, cu excepția celor prevăzute la lit. B "Discipline teoretice". -----------
+Notă...
+"Giselle" (A. Adam) - variatia baiatului și a fetei din actul I. "Coppelia" (L. Delibes) - mazurka și p.d.d. "Don Quijote" (Minkus) - p.d.d. din actul III. "Corsarul" (Drigo) - p.d.d. din actul III. "Lacul lebedelor" (Ceaikovski) - variatia Lebedei negre și dans spaniol. "Frumoasa din padurea adormita" (Ceaikovski) - variatia Zanei liliacului.
