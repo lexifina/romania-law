@@ -1,0 +1,151 @@
+{
+ "key": "dcc-71-1999",
+ "label": "Decizia CCR nr. 71/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "71",
+ "date": "1999-05-11",
+ "year": "1999",
+ "heading": "DECIZIE nr. 71 din 11 mai 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 13 alin. 4 din Legea nr. 1/1970 privind organizarea şi disciplina muncii în unităţile socialiste de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "352",
+  "bis": false,
+  "date": "1999-07-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "11.284/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1970",
+    "number": "1",
+    "year": "1970",
+    "path": "lege/1970/1"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 13 alin. 4 din Legea nr. 1/1970, excepţie ridicată de Banca Română pentru Dezvoltare - S.A. în Dosarul nr. 11.284/1998 al Judecătoriei Sectorului 3 Bucureşti.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1970",
+    "number": "1",
+    "year": "1970",
+    "path": "lege/1970/1"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 58/1991",
+    "number": "58",
+    "year": "1991",
+    "path": "lege/1991/58"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/1997",
+    "number": "138",
+    "year": "1997",
+    "path": "lege/1997/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18869",
+  "text_sha256": "c44ff4ae9e61d0008741873e7150b1a20b35f2f3828c6057c3958b84f0ca63e0",
+  "catalogue_sha256": "c44ff4ae9e61d0008741873e7150b1a20b35f2f3828c6057c3958b84f0ca63e0",
+  "fetched": "2026-11-02T23:04:49Z",
+  "chars": 16666,
+  "portal_id": "18869",
+  "tip": "DECIZIE"
+ }
+}
