@@ -1,0 +1,21 @@
+# DECIZIE nr. 208*) din 5 iunie 1997
+privind excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă
+Notă
+*) Definitivă prin nerecurare
+Lucian Stangu - preşedinte Romul Petru Vonica - judecător Victor Dan Zlatescu - judecător
+Florentina Geangu - magistrat-asistent
+Completul de judecată, convocat potrivit prevederilor art. 24 alin. (2) din Legea nr. 47/1992, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 26 martie 1997, pronunţată în Dosarul nr. 3.254/1995, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă, invocată de intimata-reclamanta Rafael Maria Manuela.
+În motivarea excepţiei se susţine ca dispoziţiile art. 330^1 din Codul de procedură civilă, prin faptul ca permit declararea recursului în anulare de către procurorul general oricând, contravin principiilor generale de drept care se desprind din spiritul Constituţiei [art. 1, care defineste statul român ca stat de drept, art. 15 alin. (2) privind neretroactivitatea legilor] şi dispoziţiilor art. 6 pct. 1 din Convenţia europeană a drepturilor omului, care impune rezolvarea litigiilor într-un termen rezonabil.
+Exprimandu-şi opinia, Curtea Suprema de Justiţie apreciază ca excepţia este neîntemeiată, textul fiind constituţional.
+CURTEA, având în vedere actele şi lucrările dosarului, încheierea de sesizare, raportul întocmit de judecătorul-raportor, dispoziţiile art. 330^1 din Codul de procedură civilă, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, retine următoarele:
+În temeiul art. 144 lit. c) din Constituţie şi al art. 23 din Legea nr. 47/1992, Curtea este competenţa să soluţioneze excepţia invocată, fiind legal sesizată.
+Prin legea nr. 17/1997, publicată în Monitorul Oficial al României, Partea I, nr. 26 din 18 februarie 1997, dispoziţiile art. 330^1 din Codul de procedură civilă, care formează obiectul excepţiei de neconstituţionalitate, au fost modificate în sensul că recursul în anulare nu mai poate fi declarat de procurorul general oricând, ci numai în termen de 6 luni de la data când hotărârea a rămas irevocabilă pentru motivul prevăzut la art. 330 pct. 1 din Codul de procedură civilă. Astfel motivul de neconstituţionalitate nu mai poate fi reţinut, excepţia privind textul de lege atacat fiind în prezent lipsită de obiect. În acest sens s-a pronunţat Curtea Constituţională prin Decizia nr. 37 din 25 februarie 1997, definitivă, publicată în Monitorul Oficial al României, Partea I, nr. 64 din 15 aprilie 1997.
+Dispoziţiile art. 330^1 din Codul de procedură civilă, astfel cum au fost modificate prin Legea nr. 17/1997, nu contravin principiilor statului de drept prevăzute în Constituţie, întrucât calea de atac a recursului în anulare este prevăzută de lege. Or, în conformitate cu art. 128 din Constituţie, părţile interesate şi Ministerul Public pot exercita împotriva hotărârilor judecătoreşti căile de atac, în condiţiile prevăzute de lege.
+Textul atacat nu contravine nici dispoziţiilor art. 6 pct. 1 din Convenţia europeană a drepturilor omului, întrucât termenul pentru declararea recursului în anulare este un termen rezonabil în sensul acestei convenţii.
+Dispoziţiile art. 330^1 din Codul de procedură civilă nu sunt contrare nici art. 15 alin. (2) din Constituţie, Curtea Constituţională statuand, prin Decizia nr. 96/1996, ca dispoziţiile acestui text de lege se aplică numai hotărârilor pronunţate după 26 iulie 1993, data intrării în vigoare a Legii nr. 59/1993, prin care s-au introdus în Codul de procedură civilă dispoziţiile art. 330^1.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 24 alin. (2) şi al art. 25 din Legea nr. 47/1992, în unanimitate, CURTEA În numele legii DECIDE:
+Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă, invocată de Rafael Maria Manuela în Dosarul nr. 3.254/1996 al Curţii Supreme de Justiţie - Secţia civilă.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la data de 5 iunie 1997.
+PREŞEDINTE, dr. Lucian Stangu Magistrat-asistent, Florentina Geangu
