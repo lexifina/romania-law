@@ -1,0 +1,133 @@
+{
+ "key": "dcc-171-2004",
+ "label": "Decizia CCR nr. 171/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "171",
+ "date": "2004-04-15",
+ "year": "2004",
+ "heading": "DECIZIE nr. 171 din 15 aprilie 2004",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 46 alin. (2) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989",
+ "issuer": "CURTEA CONSTITUTIONALA",
+ "mo": {
+  "number": "441",
+  "bis": false,
+  "date": "2004-05-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.162/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 46 alin. (2) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, excepţie ridicata de Erna Christina Hammermayer şi Alexandru Eduard Lindner în Dosarul nr. 2.162/2003 al Tribunalului Bucureşti - Sectia a V-a civila.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51973",
+  "text_sha256": "1b0ddd4559b191e60b376ec70f4321ac7f9089efd26dc28817e37c878b0ab943",
+  "catalogue_sha256": "1b0ddd4559b191e60b376ec70f4321ac7f9089efd26dc28817e37c878b0ab943",
+  "fetched": "2026-11-04T12:43:59Z",
+  "chars": 10626,
+  "portal_id": "51973",
+  "tip": "DECIZIE"
+ }
+}
