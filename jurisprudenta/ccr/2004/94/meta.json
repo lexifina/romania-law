@@ -1,0 +1,179 @@
+{
+ "key": "dcc-94-2004",
+ "label": "Decizia CCR nr. 94/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "94",
+ "date": "2004-03-04",
+ "year": "2004",
+ "heading": "DECIZIE nr. 94 din 4 martie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 19 alin. (4) din Legea nr. 550/2002 privind vânzarea spaţiilor comerciale proprietate privată a statului şi a celor de prestări de servicii, aflate în administrarea consiliilor judeţene sau a consiliilor locale, precum şi a celor aflate în patrimoniul regiilor autonome de interes local",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "257",
+  "bis": false,
+  "date": "2004-03-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.165/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 550/2002",
+    "number": "550",
+    "year": "2002",
+    "path": "lege/2002/550"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 19 alin. (4) din Legea nr. 550/2002 privind vânzarea spaţiilor comerciale proprietate privată a statului şi a celor de prestări de servicii, aflate în administrarea consiliilor judeţene sau a consiliilor locale, precum şi a celor aflate în patrimoniul regiilor autonome de interes local, excepţie ridicată de Societatea Comercială \"Marexim\" - S.R.L. din Reghin în Dosarul nr. 2.165/2003 al Tribunalului Mureş - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 550/2002",
+    "number": "550",
+    "year": "2002",
+    "path": "lege/2002/550"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-03-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/50642",
+  "text_sha256": "eb5c2aed4f7b0f8ac6e4261c576b05790205bd6503579dd6e2293df4b48802c0",
+  "catalogue_sha256": "eb5c2aed4f7b0f8ac6e4261c576b05790205bd6503579dd6e2293df4b48802c0",
+  "fetched": "2026-11-02T23:35:35Z",
+  "chars": 14382,
+  "portal_id": "50642",
+  "tip": "DECIZIE"
+ }
+}
