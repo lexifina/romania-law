@@ -1,0 +1,251 @@
+{
+ "key": "dcc-51-2000",
+ "label": "Decizia CCR nr. 51/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "51",
+ "date": "2000-03-21",
+ "year": "2000",
+ "heading": "DECIZIE nr. 51 din 21 martie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. I pct. 2 din Ordonanţa de urgenta a Guvernului nr. 133/1999 privind completarea Legii nr. 82/1992 privind rezervele de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "327",
+  "bis": false,
+  "date": "2000-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 133/1999",
+    "number": "133",
+    "year": "1999",
+    "path": "oug/1999/133"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor  art. I pct. 2 din Ordonanţa de urgenta a Guvernului nr. 133/1999  privind completarea  Legii nr. 82/1992  privind rezervele de stat, excepţie ridicată de Bankcoop - Banca Generală de Credit şi Promovare - S.A. - Sucursala judeţului Vaslui în Dosarul nr. 18/RLJ/1997 al Tribunalului Vaslui.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 21 martie 2000.  PREŞEDINTELE  CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Gabriela Dragomirescu  ─────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 133/1999",
+    "number": "133",
+    "year": "1999",
+    "path": "oug/1999/133"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 82/1992",
+    "number": "82",
+    "year": "1992",
+    "path": "lege/1992/82"
+   },
+   "articles": [
+    {
+     "art": "5-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1722",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1725",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1995",
+    "number": "11",
+    "year": "1995",
+    "path": "og/1995/11"
+   },
+   "articles": [
+    {
+     "art": "5-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23271",
+  "text_sha256": "cd77ad91738673c40c609cfc9ed2cdda22cd99fe339306d6f3c15b7fbc22d2d4",
+  "catalogue_sha256": "cd77ad91738673c40c609cfc9ed2cdda22cd99fe339306d6f3c15b7fbc22d2d4",
+  "fetched": "2026-11-02T23:09:40Z",
+  "chars": 14790,
+  "portal_id": "23271",
+  "tip": "DECIZIE"
+ }
+}
