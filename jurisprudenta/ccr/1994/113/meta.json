@@ -1,0 +1,143 @@
+{
+ "key": "dcc-113-1994",
+ "label": "Decizia CCR nr. 113/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "113",
+ "date": "1994-11-15",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 113*) din 15 noiembrie 1994",
+ "subtitle": "cu soluţionarea excepţiei de neconstituţionalitate a Hotărârii Guvernului nr. 731/1991, în Dosarul nr. 779/1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "157",
+  "bis": false,
+  "date": "1995-07-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "779/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 731/1991",
+    "number": "731",
+    "year": "1991",
+    "path": "hg/1991/731"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 731/1991, invocată de reclamanta Liga pentru Apărarea Drepturilor Inginerilor Constructori şi Arhitectilor din România (L.A.D.I.C.A.R.), cu sediul în Galaţi, str. Brandusei nr. 2, bloc F5, ap. 42, Tiglina 3, cod poştal 6.200, în Dosarul nr. 779/1994 al Curţii de Apel Galaţi.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 731/1991",
+    "number": "731",
+    "year": "1991",
+    "path": "hg/1991/731"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-07-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4463",
+  "text_sha256": "a5a1cb558745287e86eb028cd7976b608b53a6d8e055930c9d69ca8111515f61",
+  "catalogue_sha256": "a5a1cb558745287e86eb028cd7976b608b53a6d8e055930c9d69ca8111515f61",
+  "fetched": "2026-11-02T22:48:30Z",
+  "chars": 4497,
+  "portal_id": "4463",
+  "tip": "DECIZIE"
+ }
+}
