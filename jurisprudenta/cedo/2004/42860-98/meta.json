@@ -1,0 +1,111 @@
+{
+ "key": "cedo-42860-98-2004-04-20",
+ "label": "CEDO, Notar c. României, 2004-04-20",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2004-04-20",
+ "year": "2004",
+ "heading": "HOTĂRÂRE din 20 aprilie 2004",
+ "subtitle": "în cauza Notar împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "1105",
+  "bis": false,
+  "date": "2004-11-26",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "42860/98"
+ ],
+ "case_name": "Notar",
+ "subjects": [],
+ "operative": [
+  "CURTEA: 1. hotărăşte să radieze cererea de pe rol; 2. ia act de intenţia părţilor (implicită din partea reclamantului) de a nu solicita retrimiterea cererii în faţa Marii Camere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57046",
+  "text_sha256": "4e4767c3fd49826f04d9cf30ed47fda2ced3b0299768046217670900765f9519",
+  "catalogue_sha256": "4e4767c3fd49826f04d9cf30ed47fda2ced3b0299768046217670900765f9519",
+  "fetched": "2026-11-02T23:42:15Z",
+  "chars": 24074,
+  "portal_id": "57046",
+  "tip": "HOTĂRÂRE"
+ }
+}
