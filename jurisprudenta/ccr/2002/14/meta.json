@@ -1,0 +1,183 @@
+{
+ "key": "dcc-14-2002",
+ "label": "Decizia CCR nr. 14/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "14",
+ "date": "2002-01-22",
+ "year": "2002",
+ "heading": "DECIZIE nr. 14 din 22 ianuarie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 51 alin. (1) lit. x) din Ordonanţa Guvernului nr. 27/2000 privind regimul produselor supuse accizelor, modificată şi completată prin Ordonanţa de urgenta a Guvernului nr. 134/2000",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "120",
+  "bis": false,
+  "date": "2002-02-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.260/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2000",
+    "number": "27",
+    "year": "2000",
+    "path": "og/2000/27"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "x"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 51 alin. (1) lit. x) din Ordonanţa Guvernului nr. 27/2000  privind regimul produselor supuse accizelor, modificată şi completată prin  Ordonanţa de urgenta a Guvernului nr. 134/2000 , excepţie ridicată de Societatea Comercială \"Eduard Impex\" - S.R.L. din Buzau, prin administrator Viorel Petre, în Dosarul nr. 2.260/2001 al Tribunalului Buzau - Secţia civilă.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 22 ianuarie 2002.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Mihaela Senia Costinescu  ──────────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2000",
+    "number": "27",
+    "year": "2000",
+    "path": "og/2000/27"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "x"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 181/2000",
+    "number": "181",
+    "year": "2000",
+    "path": "oug/2000/181"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 134/2000",
+    "number": "134",
+    "year": "2000",
+    "path": "oug/2000/134"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-02-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/34028",
+  "text_sha256": "370223c46c07286612c066019ed1794f8ceeac50c81fc2499870fae09314798c",
+  "catalogue_sha256": "370223c46c07286612c066019ed1794f8ceeac50c81fc2499870fae09314798c",
+  "fetched": "2026-11-02T23:19:18Z",
+  "chars": 10629,
+  "portal_id": "34028",
+  "tip": "DECIZIE"
+ }
+}
