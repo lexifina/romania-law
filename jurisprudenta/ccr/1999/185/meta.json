@@ -1,0 +1,159 @@
+{
+ "key": "dcc-185-1999",
+ "label": "Decizia CCR nr. 185/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "185",
+ "date": "1999-11-16",
+ "year": "1999",
+ "heading": "DECIZIE nr. 185 din 16 noiembrie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Hotărârii Consiliului Local al Municipiului Onesti nr. 8 din 9 martie 1995 şi a Hotărârii Guvernului nr. 523 din 13 iulie 1995 privind transmiterea unui imobil, situat în municipiul Onesti, judeţul Bacau, în administrarea Ministerului Finanţelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "4",
+  "bis": false,
+  "date": "2000-01-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a Hotărârii Consiliului Local al Municipiului Onesti nr. 8 din 9 martie 1995 şi a Hotărârii Guvernului nr. 523 din 13 iulie 1995 privind transmiterea unui imobil, situat în municipiul Onesti, judeţul Bacau, în administrarea Ministerului Finanţelor, excepţie ridicată de Societatea Comercială \"Onedil\" - S.A. Onesti în Dosarul nr. 896/R/1999 al Judecătoriei Onesti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1",
+      "4",
+      "6"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-01-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20527",
+  "text_sha256": "b80d35c40e0a5e417efbc59cc8367ae8671a14c369a394cea0a2ae15d5c1e4fc",
+  "catalogue_sha256": "b80d35c40e0a5e417efbc59cc8367ae8671a14c369a394cea0a2ae15d5c1e4fc",
+  "fetched": "2026-11-02T23:06:42Z",
+  "chars": 7444,
+  "portal_id": "20527",
+  "tip": "DECIZIE"
+ }
+}
