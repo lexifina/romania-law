@@ -1,0 +1,219 @@
+{
+ "key": "dcc-207-2002",
+ "label": "Decizia CCR nr. 207/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "207",
+ "date": "2002-07-09",
+ "year": "2002",
+ "heading": "DECIZIE nr. 207 din 9 iulie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 76 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată cu modificări şi completări prin Legea nr. 108/1996, cu modificările şi completările ulterioare, precum şi a dispoziţiilor art. 7 din Ordonanţa de urgenta a Guvernului nr. 13/2001 privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice, aprobată cu modificări şi completări prin Legea nr. 506/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "806",
+  "bis": false,
+  "date": "2002-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.589/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 13/2001",
+    "number": "13",
+    "year": "2001",
+    "path": "oug/2001/13"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 76 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată cu modificări şi completări prin Legea nr. 108/1996, cu modificările şi completările ulterioare, precum şi a dispoziţiilor art. 7 din Ordonanţa de urgenta a Guvernului nr. 13/2001 privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice, aprobată cu modificări şi completări prin Legea nr. 506/2001, excepţie ridicată de Societatea Naţionala de Telecomunicaţii \"Romtelecom\" - S.A. în Dosarul nr. 1.589/2002 al Judecătoriei Sectorului 5 Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 13/2001",
+    "number": "13",
+    "year": "2001",
+    "path": "oug/2001/13"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/39712",
+  "text_sha256": "a92eacac0a5071f0c1e03014d9dd620a2d473598edecc7d9972132ab113b41f4",
+  "catalogue_sha256": "a92eacac0a5071f0c1e03014d9dd620a2d473598edecc7d9972132ab113b41f4",
+  "fetched": "2026-11-02T23:24:42Z",
+  "chars": 15258,
+  "portal_id": "39712",
+  "tip": "DECIZIE"
+ }
+}
