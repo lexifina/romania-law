@@ -1,0 +1,177 @@
+{
+ "key": "cedo-41134-98-2003-09-16",
+ "label": "CEDO, Glod c. României, 2003-09-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2003-09-16",
+ "year": "2003",
+ "heading": "HOTĂRÂRE din 16 septembrie 2003",
+ "subtitle": "în cauza Glod împotriva României (Cererea nr. 41134/98)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "1127",
+  "bis": false,
+  "date": "2004-11-30",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "41134/98",
+  "42930/98"
+ ],
+ "case_name": "Glod",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. respinge excepţia preliminară ridicată de Guvern; 2. hotărăşte că a fost încălcat articolul 6 alineatul 1 din Convenţie; 3. hotărăşte că nu este necesar să se pronunţe asupra capătului de cerere fondat pe articolul 1 din Primul Protocol adiţional la Convenţie; 4. hotărăşte că",
+  "a) statul pârât trebuie să plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 alin. 2 din Convenţie, 4.000 euro pentru prejudiciul material şi moral, plus orice sumă care i-ar putea fi reţinută cu titlu de impozit, urmând a fi achitaţi în lei româneşti, conform ratei de schimb aplicabile la momentul plăţii;",
+  "b) această sumă va fi majorată, începând de la data expirării termenului menţionat până la momentul efectuării plăţii, cu o dobândă simplă de întârziere egală cu dobânda minimă pentru împrumut practicată de Banca centrală europeană, valabilă în această perioadă, la aceasta adăugându-se o majorare cu 3 puncte procentuale;",
+  "5. respinge de acordare a unei satisfacţii echitabile pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57209",
+  "text_sha256": "e489ea1e54350aa8c22e7bdefeb1449f2ff975d4319b9454758a2e918b80d421",
+  "catalogue_sha256": "e489ea1e54350aa8c22e7bdefeb1449f2ff975d4319b9454758a2e918b80d421",
+  "fetched": "2026-11-02T23:46:43Z",
+  "chars": 29455,
+  "portal_id": "57209",
+  "tip": "HOTĂRÂRE"
+ }
+}
