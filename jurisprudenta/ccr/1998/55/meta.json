@@ -1,0 +1,125 @@
+{
+ "key": "dcc-55-1998",
+ "label": "Decizia CCR nr. 55/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "55",
+ "date": "1998-03-19",
+ "year": "1998",
+ "heading": "DECIZIE nr. 55 din 19 martie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Decretului nr. 311/1954 privind stabilirea dobânzilor legale",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "160",
+  "bis": false,
+  "date": "1998-04-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.631/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 311/1954",
+    "number": "311",
+    "year": "1954",
+    "path": "decret/1954/311"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Decretului nr. 311/1954, invocată din oficiu de Tribunalul Maramures în Dosarul nr. 1.631/1996.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 311/1954",
+    "number": "311",
+    "year": "1954",
+    "path": "decret/1954/311"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-04-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14575",
+  "text_sha256": "f2c70265156ff1662ce8b230ab66ca6c99c881d8e5f820edc1965a522a5c1e93",
+  "catalogue_sha256": "f2c70265156ff1662ce8b230ab66ca6c99c881d8e5f820edc1965a522a5c1e93",
+  "fetched": "2026-11-02T23:00:14Z",
+  "chars": 4203,
+  "portal_id": "14575",
+  "tip": "DECIZIE"
+ }
+}

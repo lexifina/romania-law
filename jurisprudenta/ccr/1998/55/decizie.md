@@ -1,0 +1,20 @@
+# DECIZIE nr. 55 din 19 martie 1998
+referitoare la excepţia de neconstituţionalitate a Decretului nr. 311/1954 privind stabilirea dobânzilor legale
+Ioan Muraru - preşedinte Costica Bulai - judecător Viorel Mihai Ciobanu - judecător Mihai Constantinescu - judecător Nicolae Popa - judecător
+Lucian Stangu - judecător Florin Bucur Vasilescu - judecător Romul Petru Vonica - judecător Victor Dan Zlatescu - judecător Paula C. Pantea - procuror Gabriela Dragomirescu - magistrat-asistent Pe rol, soluţionarea excepţiei de neconstituţionalitate a Decretului nr. 311/1954 privind stabilirea dobânzilor legale, invocată din oficiu de către Tribunalul Maramures în Dosarul nr. 1.631/1996.
+Dezbaterile au avut loc în şedinţa publică din data de 10 martie 1998, în prezenta reprezentantului Ministerului Public şi în lipsa părţilor legal citate, şi au fost consemnate în încheierea de la acea data, când Curtea, având nevoie de timp pentru a delibera, a amânat pronunţarea pentru data de 17 martie 1998 şi apoi, datorită imposibilităţii întrunirii completului, pentru data d 19 martie 1998.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Tribunalul Maramures, prin Încheierea din 10 decembrie 1997, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a Decretului nr. 311/1954, ridicată din oficiu de acest tribunal.
+În motivarea excepţiei se susţine ca acest act normativ nu este abrogat implicit, dar este neconstitutional, deoarece părţile contractante, fiind obligate sa practice o dobânda de 6%, care este total rupta de realitate, sunt limitate în exercitarea libertăţilor contractuale, incalcandu-se astfel prevederile art. 49 din Constituţie.
+Potrivit art. 24 alin. (1) din Legea nr. 47/1992, republicată, s-au solicitat puncte de vedere preşedinţilor celor două Camere ale Parlamentului şi Guvernului.
+Preşedintele Camerei Deputaţilor apreciază ca dispoziţiile Decretului nr. 311/1954 sunt contrare Constituţiei şi au fost abrogate prin efectul art. 150 alin. (1) din Constituţie.
+În punctul de vedere al Guvernului se apreciază ca excepţia de neconstituţionalitate este intemeiata, deoarece reglementarea din acest act normativ este specifică tipului socialist de economie, care contravine în mod flagrant economiei de piaţa, consacrată în art. 134 alin. (1) din Constituţie.
+Preşedintele Senatului nu a comunicat punctul sau de vedere.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale preşedintelui Camerei Deputaţilor şi al Guvernului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile legale atacate, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, republicată, retine următoarele:
+Între data sesizării şi data soluţionării excepţiei de neconstituţionalitate, Decretul nr. 311/1954 privind stabilirea dobânzilor legale a fost abrogat expres prin Legea nr. 7 din 8 ianuarie 1998, publicată în Monitorul Oficial al României, Partea I, nr. 9 din 13 ianuarie 1998.
+În aceste condiţii, Curtea Constituţională fiind competenţa, potrivit art. 23 alin. (1) din Legea nr. 47/1992, republicată, să se pronunţe numai asupra constituţionalităţii actelor normative în vigoare - legi sau ordonanţe -, cauza de faţa a rămas fără obiect şi excepţia urmează a fi respinsă. În acest sens este şi practica jurisdicţională a Curţii, din care menţionăm Decizia nr. 464 din 18 noiembrie 1997, publicată în Monitorul Oficial al României, Partea I, nr. 57 din 10 februarie 1998.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c) şi al art. 23 din Legea nr. 47/1992, republicată, CURTEA În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor Decretului nr. 311/1954, invocată din oficiu de Tribunalul Maramures în Dosarul nr. 1.631/1996.
+Definitivă.
+Pronunţată în şedinţa publică din data de 19 martie 1998.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN MURARU Magistrat-asistent, Gabriela Dragomirescu ----------------
