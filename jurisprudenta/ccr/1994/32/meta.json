@@ -1,0 +1,288 @@
+{
+ "key": "dcc-32-1994",
+ "label": "Decizia CCR nr. 32/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "32",
+ "date": "1994-04-13",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 32*) din 13 aprilie 1994",
+ "subtitle": "referitoarea la pronunţarea asupra excepţiei de neconstituţionalitate ridicată de Zsoldi Irimie în Dosarul nr. 773/1993 al Tribunalului Botoşani cu care Curtea Constituţională a fost sesizată prin Încheierea din 6 mai 1993",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "259",
+  "bis": false,
+  "date": "1994-09-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "dossiers": [
+  "773/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 251/1978",
+    "number": "251",
+    "year": "1978",
+    "path": "decret/1978/251"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 90/1990",
+    "number": "90",
+    "year": "1990",
+    "path": "decret-lege/1990/90"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite, în parte, excepţia de neconstituţionalitate invocată de reclamantul avocat Zsoldi Irimie în faţa Tribunalului Botosani, în Dosarul nr. 773/1993, trimisa de către acesta Curţii Constituţionale prin Încheierea din 6 mai 1993 şi, în consecinţa:",
+  "1. Constata ca dispoziţiile art. 5 alin. 1, teza a II-a, referitoare la primirea în avocatura a pensionarilor din alte sectoare de activitate din Decretul nr. 251/1978 privind pensiile şi alte drepturi de asigurări sociale ale avocaţilor sunt abrogate potrivit art. 150 alin. (1) din Constituţie, fiind contrare art. 38, 43 şi 49 din Constituţie.",
+  "2. Respinge excepţia referitoare la art. 49 din Decretul nr. 251/1978 şi al art. 4 lit. a) şi art. 5 lit. c) şi g) din Decretul-lege nr. 90/1990 privind unele măsuri pentru organizarea şi exercitarea avocaturii în România.",
+  "3. Problema cheltuielilor de judecată urmează a fi soluţionată de către instanţa de judecată pe rolul căreia se afla dosarul în cauza.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 90/1990",
+    "number": "90",
+    "year": "1990",
+    "path": "decret-lege/1990/90"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 251/1978",
+    "number": "251",
+    "year": "1978",
+    "path": "decret/1978/251"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/1991",
+    "number": "2",
+    "year": "1991",
+    "path": "lege/1991/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 212/1974",
+    "number": "212",
+    "year": "1974",
+    "path": "decret/1974/212"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 90/1990",
+    "number": "90",
+    "year": "1990",
+    "path": "decret/1990/90"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-09-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4064",
+  "text_sha256": "e6d7ba0f444e5deb96ca112c0478237ae60796c78123f7aece5024a8196096e4",
+  "catalogue_sha256": "e6d7ba0f444e5deb96ca112c0478237ae60796c78123f7aece5024a8196096e4",
+  "fetched": "2026-11-02T22:45:23Z",
+  "chars": 11970,
+  "portal_id": "4064",
+  "tip": "DECIZIE"
+ }
+}
