@@ -1,0 +1,367 @@
+{
+ "key": "dcc-19-1993",
+ "label": "Decizia CCR nr. 19/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "19",
+ "date": "1993-04-08",
+ "year": "1993",
+ "heading": "DECIZIA NR. 19 *) din 8 aprilie 1993",
+ "subtitle": "excepţiei de neconstituţionalitate a prevederilor art. 302 Cod penal şi ale art. 50 alin. 1 lit. c) din Decretul nr. 244/1978 privind regimul metalelor preţioase şi pietrelor preţioase",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "105",
+  "bis": false,
+  "date": "1993-05-24",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 244/1978",
+    "number": "244",
+    "year": "1978",
+    "path": "decret/1978/244"
+   },
+   "articles": [
+    {
+     "art": "302",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Sunt conforme cu Constituţia art. 302 Cod penal şi art. 50 alin. 1 lit. c) din Decretul nr. 244/1978, acesta din urma sub rezerva interpretării date în motivarea prezentei decizii.",
+  "În consecinţa, se respinge excepţia de neconstituţionalitate invocată de Ahmet Memet, domiciliat în Babadag, str. Decebal nr. 8, judeţul Tulcea, în dosarul nr. 4491/1992 aflat pe rolul Judecătoriei Tulcea.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 244/1978",
+    "number": "244",
+    "year": "1978",
+    "path": "decret/1978/244"
+   },
+   "articles": [
+    {
+     "art": "302",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "49",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1323/1990",
+    "number": "1323",
+    "year": "1990",
+    "path": "hg/1990/1323"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 685/1990",
+    "number": "685",
+    "year": "1990",
+    "path": "hg/1990/685"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanţelor nr. 489/1992",
+    "number": "489",
+    "year": "1992"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 317/1949",
+    "number": "317",
+    "year": "1949",
+    "path": "decret/1949/317"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1971",
+    "number": "1",
+    "year": "1971",
+    "path": "lege/1971/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului comerţului şi turismului nr. 2/1993",
+    "number": "2",
+    "year": "1993"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 215/1992",
+    "number": "215",
+    "year": "1992",
+    "path": "hg/1992/215"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1990",
+    "number": "12",
+    "year": "1990",
+    "path": "lege/1990/12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-05-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3062",
+  "text_sha256": "ac289e56f09e9309b7e3b821a21ac326262262b6770adecbfc6e2499e61668b4",
+  "catalogue_sha256": "ac289e56f09e9309b7e3b821a21ac326262262b6770adecbfc6e2499e61668b4",
+  "fetched": "2026-11-02T22:30:51Z",
+  "chars": 34166,
+  "portal_id": "3062",
+  "tip": "DECIZIE"
+ }
+}
