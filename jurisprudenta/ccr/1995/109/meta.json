@@ -1,0 +1,127 @@
+{
+ "key": "dcc-109-1995",
+ "label": "Decizia CCR nr. 109/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "109",
+ "date": "1995-11-07",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 109 din 7 noiembrie 1995",
+ "subtitle": "privind soluţionarea recursului declarat de Şerban Vasile împotriva Deciziei Curţii Constituţionale nr. 17 din 7 februarie 1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "294",
+  "bis": false,
+  "date": "1995-12-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "4.123/1993"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Şerban Vasile, domiciliat în Constanta, str. Soveja nr. 75, bloc 41A, et. 6, ap. 22, împotriva Deciziei Curţii Constituţionale nr. 17 din 7 februarie 1995.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-12-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6284",
+  "text_sha256": "70431a8eb57729224a24762561363615a1165f06a7bba6c7bdd8261384470391",
+  "catalogue_sha256": "70431a8eb57729224a24762561363615a1165f06a7bba6c7bdd8261384470391",
+  "fetched": "2026-11-02T22:49:39Z",
+  "chars": 6251,
+  "portal_id": "6284",
+  "tip": "DECIZIE"
+ }
+}
