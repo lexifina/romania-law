@@ -1,0 +1,3 @@
+# Anexa 1
+LISTA ocupatiilor care urmează a fi incluse în Clasificarea ocupatiilor din România (C.O.R.) 1. Art director pag. 127 - cod 245210 2. Operator poliesteri armati pag. 271 - cod 815209 cu fibra de sticlă 3. Consilier de proprietate pag. 119 - cod 241918 industriala autorizat
+4. Pedagog de recuperare pag. 180 - cod 333003 5. Librar-șef pag. 84 - cod 122945 6. Șef atelier decorator pag. 84 - cod 122946 7. Gardian feroviar pag. 215 - cod 516905 8. Pedagog social pag. 191 - cod 346002 9. Modificarea denumirii grupei de baza 5133 din "Ingrijitoare la domiciliu" în "Personal specializat pentru îngrijire și supraveghere la domiciliu" pag. 211. ----------------
