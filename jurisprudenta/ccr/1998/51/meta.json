@@ -1,0 +1,160 @@
+{
+ "key": "dcc-51-1998",
+ "label": "Decizia CCR nr. 51/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "51",
+ "date": "1998-03-19",
+ "year": "1998",
+ "heading": "DECIZIE nr. 51 din 19 martie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. 1 lit. g) din Legea nr. 12/1974 privind piscicultura şi pescuitul",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "160",
+  "bis": false,
+  "date": "1998-04-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "10.368/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1974",
+    "number": "12",
+    "year": "1974",
+    "path": "lege/1974/12"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. 1 lit. g) din Legea nr. 12/1974 privind piscicultura şi pescuitul, invocată de Capatana Pavel în Dosarul nr. 10.368/1997 al Judecătoriei Galaţi.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1974",
+    "number": "12",
+    "year": "1974",
+    "path": "lege/1974/12"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-04-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14557",
+  "text_sha256": "7afb26c674cb03e90186378081a875e9e0edd8cea3bcba5c7ce165efe1749ebe",
+  "catalogue_sha256": "7afb26c674cb03e90186378081a875e9e0edd8cea3bcba5c7ce165efe1749ebe",
+  "fetched": "2026-11-02T23:00:14Z",
+  "chars": 6515,
+  "portal_id": "14557",
+  "tip": "DECIZIE"
+ }
+}
