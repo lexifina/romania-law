@@ -1,0 +1,3 @@
+# Anexa 7 la normele metodologice
+CERERE de eliberare a brevetului de turism Domnule Ministru, Subsemnatul (a)........................., născut (a) în localitatea........ județul..........., la data de..........., domiciliat (a) în............................................................................................. (se va completa adresa completa) va rog sa binevoiti a dispune eliberarea brevetului de turism pentru funcția de..................................... Declar că îndeplinesc în totalitate criteriile de brevetare stabilite de Ministerul Turismului, pe care le voi respecta pe toată perioada desfășurării activității de turism. Anexez următoarele documente *: - - - - - - Semnatura, Data............ ------------
+-----------
