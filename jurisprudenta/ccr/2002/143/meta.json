@@ -1,0 +1,239 @@
+{
+ "key": "dcc-143-2002",
+ "label": "Decizia CCR nr. 143/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "143",
+ "date": "2002-04-30",
+ "year": "2002",
+ "heading": "DECIZIE nr. 143 din 30 aprilie 2002",
+ "subtitle": "referitoare la excepţiile de neconstituţionalitate a dispoziţiilor art. 38 alin. (2) lit. d) teza a doua din Legea administraţiei publice locale nr. 215/2001 şi ale art. 58 din Legea nr. 27/1994 privind impozitele şi taxele locale, republicată, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "497",
+  "bis": false,
+  "date": "2002-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "18C/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/1994",
+    "number": "27",
+    "year": "1994",
+    "path": "lege/1994/27"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţiile de neconstituţionalitate a dispoziţiilor art. 38 alin. (2) lit. d) teza a doua din Legea administraţiei publice locale nr. 215/2001 şi ale art. 58 din Legea nr. 27/1994 privind impozitele şi taxele locale, republicată, cu modificările şi completările ulterioare, excepţii ridicate de Societatea Comercială \"Maternă Modern\" - S.A. din Timişoara în Dosarul nr. 3.126/CA/2001, Societatea Comercială \"Egreta\" - S.R.L. din Timişoara în Dosarul nr. 3.127/CA/2001, Societatea Comercială \"Electronic BDK\" - S.R.L. din Timişoara în Dosarul nr. 3.140/CA/2001 şi de Societatea Comercială \"Flory\" - S.R.L. din Timişoara în Dosarul nr. 3.357/CA/2001 ale Curţii de Apel Timişoara - Secţia comercială şi contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/1994",
+    "number": "27",
+    "year": "1994",
+    "path": "lege/1994/27"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 62/1998",
+    "number": "62",
+    "year": "1998",
+    "path": "oug/1998/62"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/37195",
+  "text_sha256": "2c4ac6ecf0e603572bfa15acfce3fb953f29be34df93636a8dd8e980afebe1b2",
+  "catalogue_sha256": "2c4ac6ecf0e603572bfa15acfce3fb953f29be34df93636a8dd8e980afebe1b2",
+  "fetched": "2026-11-02T23:22:07Z",
+  "chars": 13220,
+  "portal_id": "37195",
+  "tip": "DECIZIE"
+ }
+}
