@@ -1,0 +1,148 @@
+{
+ "key": "dcc-223-1997",
+ "label": "Decizia CCR nr. 223/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "223",
+ "date": "1997-06-17",
+ "year": "1997",
+ "heading": "DECIZIE nr. 223 din 17 iunie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. 1 din Ordonanţa Guvernului nr. 15/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "294",
+  "bis": false,
+  "date": "1997-10-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Societatea Comercială \"Agromarket\" - S.R.L. Cluj-Napoca împotriva Deciziei Curţii Constituţionale nr. 38 din 26 februarie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "8",
+      "1",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12135",
+  "text_sha256": "470493ee1edcfe548aedaff0d9209a4e2d9557af3772941dd6aa6f123f65be92",
+  "catalogue_sha256": "470493ee1edcfe548aedaff0d9209a4e2d9557af3772941dd6aa6f123f65be92",
+  "fetched": "2026-11-02T22:56:26Z",
+  "chars": 6474,
+  "portal_id": "12135",
+  "tip": "DECIZIE"
+ }
+}
