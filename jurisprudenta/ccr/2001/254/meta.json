@@ -1,0 +1,173 @@
+{
+ "key": "dcc-254-2001",
+ "label": "Decizia CCR nr. 254/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "254",
+ "date": "2001-09-18",
+ "year": "2001",
+ "heading": "DECIZIE nr. 254 din 18 septembrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război şi ale Legii nr. 49/1999 privind pensiile I.O.V.R.",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "837",
+  "bis": false,
+  "date": "2001-09-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 44/1994",
+    "number": "44",
+    "year": "1994",
+    "path": "lege/1994/44"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 49/1999",
+    "number": "49",
+    "year": "1999",
+    "path": "lege/1999/49"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război, excepţie ridicată de Dumitru Burdubus în Dosarul nr. 184/A/2001 al Curţii de Apel Craiova - Secţia de contencios administrativ. 2. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 49/1999 privind pensiile I.O.V.R., excepţie ridicată în acelaşi dosar de acelaşi autor.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 44/1994",
+    "number": "44",
+    "year": "1994",
+    "path": "lege/1994/44"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 49/1999",
+    "number": "49",
+    "year": "1999",
+    "path": "lege/1999/49"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-09-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33103",
+  "text_sha256": "be392b5fa85e1a964ef9e28bea2bc59f7dc47105dcc6a750f3ca0348004b8f93",
+  "catalogue_sha256": "be392b5fa85e1a964ef9e28bea2bc59f7dc47105dcc6a750f3ca0348004b8f93",
+  "fetched": "2026-11-05T13:31:28Z",
+  "chars": 12338,
+  "portal_id": "33103",
+  "tip": "DECIZIE"
+ }
+}
