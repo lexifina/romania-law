@@ -1,0 +1,196 @@
+{
+ "key": "dcc-82-1996",
+ "label": "Decizia CCR nr. 82/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "82",
+ "date": "1996-07-16",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 82*) din 16 iulie 1996",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 50 alin. 1 lit. c) din Decretul nr. 244/1978",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "293",
+  "bis": false,
+  "date": "1996-11-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.735/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 244/1978",
+    "number": "244",
+    "year": "1978",
+    "path": "decret/1978/244"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 50 alin. 1 lit. c) din Decretul nr. 244/1978, invocată de inculpatul Costencu Gheorghe în Dosarul nr. 5.735/1995 al Judecătoriei Tulcea.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 244/1978",
+    "number": "244",
+    "year": "1978",
+    "path": "decret/1978/244"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 12/1990",
+    "number": "12",
+    "year": "1990",
+    "path": "lege/1990/12"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 210/1960",
+    "number": "210",
+    "year": "1960",
+    "path": "decret/1960/210"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8455",
+  "text_sha256": "d284678fb165bf79d77d17d8b7f1f2ed9531a95e5b91feb383b84e9937bd113e",
+  "catalogue_sha256": "d284678fb165bf79d77d17d8b7f1f2ed9531a95e5b91feb383b84e9937bd113e",
+  "fetched": "2026-11-02T22:52:38Z",
+  "chars": 7305,
+  "portal_id": "8455",
+  "tip": "DECIZIE"
+ }
+}
