@@ -1,0 +1,173 @@
+{
+ "key": "dcc-133-1994",
+ "label": "Decizia CCR nr. 133/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "133",
+ "date": "1994-11-29",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 133*) din 29 noiembrie 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 19 din Legea nr. 12/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "252",
+  "bis": false,
+  "date": "1995-11-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.796/1994",
+  "7.249/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1991",
+    "number": "12",
+    "year": "1991",
+    "path": "lege/1991/12"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondate excepţiile de neconstituţionalitate ale art. 19 din Legea nr. 12/1991, ridicate de Societatea Comercială \"Siroimpex\" - S.R.L. Sibiu în Dosarul nr. 4.796/1994 al Judecătoriei Sibiu şi de Societatea Comercială \"Phenix\" - S.R.L. Sibiu în Dosarul nr. 7.249/1994 al Judecătoriei Sibiu.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1991",
+    "number": "12",
+    "year": "1991",
+    "path": "lege/1991/12"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-11-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4546",
+  "text_sha256": "f143dbf7b96f9d013714a4047375b585fe033b0a625ed1bea15245b2a00e603e",
+  "catalogue_sha256": "f143dbf7b96f9d013714a4047375b585fe033b0a625ed1bea15245b2a00e603e",
+  "fetched": "2026-11-02T22:49:15Z",
+  "chars": 8679,
+  "portal_id": "4546",
+  "tip": "DECIZIE"
+ }
+}
