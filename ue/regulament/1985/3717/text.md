@@ -1,0 +1,172 @@
+04/Volumul 01 | RO | Jurnalul Ofícial al Uniunii Europene | 161
+31985R3717
+L 360/14 | JURNALUL OFÍCIAL AL UNIUNII EUROPENE |
+REGULAMENTUL (CEE) NR. 3717/85 AL COMISIEI
+din 27 decembrie 1985
+de stabilire a unor măsuri tehnice și de control referitoare la activitățile de pescuit desfășurate de navele aflate sub pavilionul Portugaliei în apele Spaniei
+COMISIA COMUNITĂȚILOR EUROPENE,
+având în vedere Tratatul de instituire a Comunității Economice Europene,
+având în vedere Actul de aderare a Spaniei și Portugaliei, în special articolul 165 alineatul (7),
+întrucât se impune stabilirea modalităților tehnice în vederea determinării și controlului navelor portugheze autorizate să-și desfășoare activitatea în apele Spaniei;
+întrucât actul de aderare prevede un sistem de liste de nave autorizate să-și desfășoare activitatea, precum și un sistem de comunicare a mișcărilor navelor și de comunicare a capturilor către Comisie, în completarea dispozițiilor prevăzute în Regulamentul (CEE) nr. 2057/82 al Consiliului din 29 iunie 1982 privind stabilirea unor măsuri de control pentru activitățile de pescuit desfășurate de vasele statelor membre(1), astfel cum a fost modificat prin Regulamentul (CEE) nr. 1729/83(2);
+întrucât numărul navelor autorizate să pescuiască ton alb va fi aprobat înainte de 1 martie 1986, potrivit procedurii menționate la articolul 165 alineatul (6) din actul de aderare;
+întrucât este necesar să se adopte unele măsuri tehnice de conservare a resurselor, care se aplică fără a aduce atingere dispozițiilor cuprinse în Regulamentul (CEE) nr. 171/83 al Consiliului din 25 ianuarie 1983 de stabilire a unor măsuri tehnice de conservare a resurselor de pescuit(3), astfel cum a fost modificat ultima dată prin Regulamentul (CEE) nr. 3625/84(4);
+întrucât, conform articolului 2 alineatul (3) din tratatul de aderare, instituțiile Comunităților pot adopta înainte de aderare măsurile prevăzute la articolul 165 din act, aceste măsuri intrând în vigoare în anumite condiții și la data intrării în vigoare a respectivului tratat;
+întrucât Comitetul de gestionare a resurselor de pescuit nu și-a dat avizul în termenul stabilit de către președinte,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Măsurile tehnice și de control cuprinse în prezentul regulament se aplică navelor aflate sub pavilionul Portugaliei, în apele aflate sub suveranitatea sau jurisdicția Spaniei, acoperite de Consiliul Internațional de Explorare a Mării (CIEM), și în apele acoperite de Comitetul pentru Pescuit din Atlanticul de Centru-Est (Copace), pentru care se aplică politica comună a pescuitului.
+Articolul 2
+(1) Autoritățile portugheze transmit Comisiei în fiecare an, cu cel mult o lună înainte de începutul perioadei de autorizare a pescuitului respectiv, listele navelor, denumite „liste de bază”, care pot desfășura activitățile de pescuit prevăzute la articolul 165 alineatul (2) din actul de aderare. Pentru fiecare din categoriile următoare de nave se transmite o listă separată:
+— navele de pescuit merluciu, alte specii demersale și stavrid la nord de frontiera Rio Minho;
+— navele de pescuit merluciu, alte specii demersale și stavrid la est de frontiera Rio Guadiana;
+— navele de pescuit pești migratori mari, alții decât tonul (pește-spadă, rechin albastru, plătică de mare);
+— navele de pescuit ton alb.
+(2) Listele menționate la alineatul (1) pot fi revizuite cu efect începând din prima zi a fiecărei luni; toate modificările operate se aduc la cunoștința Comisiei cel târziu la data de 15 a lunii precedente.
+(3) Listele menționate la alineatul (1) cuprind, pentru fiecare navă, următoarele informații:
+— denumirea navei;
+— numărul de înmatriculare;
+— literele și cifrele de identificare externă;
+— portul de înmatriculare;
+— numele și adresa/adresele proprietarului/proprietarilor sau navlositorului/navlositorilor și, în cazul unei persoane juridice sau al unei asociații, numele reprezentantului/reprezentanților;
+— tonajul brut și lungimea totală;
+— puterea motorului;
+— indicativul de apel și frecvența radio.
+Articolul 3
+(1) Autoritățile portugheze transmit Comisiei și, pentru informare, autorităților de control din Spania, menționate la punctul 7 din anexă, proiectele de liste de nave, numite „liste periodice”, menționate la articolul 165 alineatul (2) din actul de aderare, care stabilesc, aplicând ratele de conversie definite la articolul 158 alineatul (2) din actul de aderare, navele autorizate să desfășoare simultan activități de pescuit, în conformitate cu articolul 165 din actul de aderare.
+Pentru fiecare din categoriile de nave menționate la articolul 2 alineatul (1) se transmite o listă separată.
+(2) Cu excepția listei navelor de pescuit pești migratori mari, alții decât tonul, și a celei cuprinzând navele de pescuit ton alb, listele se transmit prin telex în fiecare săptămână, până joi la ora 12 (GMT). Listele se aplică începând de duminică la ora 00 (GMT) până sâmbăta următoare la ora 24 (GMT).
+Lista navelor de pescuit pești migratori mari, alții decât tonul, și cea cuprinzând navele de pescuit ton alb se transmit cu cel puțin cincisprezece zile lucrătoare înainte de data intrării în vigoare; listele acoperă o perioadă de cel puțin două luni calendaristice. Numărul navelor înscrise pe lista navelor de pescuit ton alb nu poate depăși numărul aprobat de Consiliu potrivit procedurii prevăzute la articolul 165 alineatul (6) din actul de aderare.
+(3) Fiecare din listele periodice cuprinde, pentru fiecare navă, următoarele date:
+— denumirea și numărul de înmatriculare a navei;
+— indicativul de apel;
+— numele și adresa/adresele proprietarului/proprietarilor sau navlositorului/navlositorilor și, în cazul unei persoane juridice sau al unei asociații, numele reprezentantului/reprezentanților;
+— coeficientul menționat la articolul 158 alineatul (2) din actul de aderare;
+— metoda de pescuit stabilită;
+— zona de pescuit stabilită;
+— pentru navele de pescuit ton alb și alți pești migratori mari, perioada pentru care se solicită autorizația de pescuit.
+(4) Comisia examinează proiectele de liste periodice menționate la alineatul (1) și aprobă listele respective, pe care le transmite autorităților portugheze și autorităților de control competente din Spania:
+— înainte de vinerea următoare la ora 12 (GMT), cu excepția listei navelor de pescuit pești migratori mari, alții decât tonul, și a listei navelor de pescuit ton alb;
+— cu cel puțin patru zile lucrătoare înainte de data prevăzută pentru intrarea în vigoare în ceea ce privește lista navelor de pescuit pești migratori mari, alții decât tonul, și a celei cuprinzând navele de pescuit ton alb.
+(5) În cazul în care Comisia nu intră în posesia unor proiecte de noi liste periodice în termenele precizate la alineatul (2), dispozițiile valabile pentru ultima zi a perioadei în curs rămân aplicabile până la adoptarea de noi liste, potrivit procedurii prevăzute în prezentul articol.
+(6) Autoritățile portugheze pot solicita Comisiei înlocuirea unei nave înscrise pe o listă periodică și care, din motive de forță majoră, este în imposibilitatea de a pescui în perioada stabilită, în întregime sau în parte și, în cazul în care lista periodică cuprinde mai puține nave decât numărul maxim autorizat să-și desfășoare simultan activitatea, suplimentarea cu una sau mai multe nave în limita acestui număr maxim.
+Navele de înlocuire sau navele adăugate vor fi înscrise pe listele menționate la articolul 2.
+Cererile de înlocuire sau de completare se transmit Comisiei prin telex, un exemplar fiind trimis autorităților de control din Spania.
+Comisia comunică, în cel mai scurt timp, orice modificare operată în listele periodice autorităților portugheze și autorităților de control din Spania.
+Navele de înlocuire și navele suplimentare nu sunt autorizate să pescuiască decât după data indicată în comunicatul Comisiei.
+Articolul 4
+O navă poate fi înscrisă pe mai mult de una din listele de bază. O navă nu poate fi înscrisă decât pe o singură listă periodică.
+Articolul 5
+(1) Navele autorizate să pescuiască ton alb nu pot deține la bord nici un pește sau produs de pescuit în afară de tonide, cu excepția hamsiei folosite ca momeală vie, în limita cantităților strict necesare în acest scop.
+(2) Navele autorizate să pescuiască plătică de mare nu pot deține la bord nici un pește sau produs de pescuit în afară de această specie, cu excepția speciilor folosite ca momeală vie, în limita cantităților strict necesare în acest scop.
+Articolul 6
+Căpitanii sau, dacă este cazul, proprietarii navelor autorizate să pescuiască vor respecta condițiile speciale prevăzute în anexă. La cererea statului membru interesat, Comisia adaptează desemnarea autorităților de control competente menționate la alineatul (7) din anexă.
+Articolul 7
+Fără a se aduce atingere Regulamentului (CEE) nr. 171/83 și cu excepția navelor de pescuit merluciu, alte specii demersale și stavrid, pentru navele aflate sub pavilion portughez se aplică următoarele măsuri tehnice:
+(a) se interzice pescuitul cu plase cu ochiuri mari;
+(b) navele nu pot deține la bord nici o unealtă de pescuit în afară de cele necesare practicării pescuitului pentru care au fost autorizate;
+(c) navele specializate nu pot arunca decât două paragate pe zi; lungimea maximă a fiecărui paragat se stabilește la 20 de mile marine; distanța dintre cârligele unui carmac nu poate fi mai mică de 2,70 metri;
+(d) navele care pescuiesc plătică de mare nu pot deține la bord nici o unealtă de pescuit în afară de paragate de suprafață.
+Articolul 8
+Autoritățile portugheze vor face cunoscute Comisiei, înainte de data de 15 a fiecărei luni, cantitățile de capturi ale fiecărei nave de pescuit ton alb și cantitățile descărcate de aceste nave în fiecare port în cursul lunii precedente.
+Articolul 9
+Prezentul regulament intră în vigoare la 1 ianuarie 1986, sub rezerva intrării în vigoare a tratatului de aderare a Spaniei și Portugaliei.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 27 decembrie 1985.
+Pentru Comisie
+Frans ANDRIESSEN
+Vicepreședinte
+(1) JO L 220, 29.7.1982, p. 2.
+(2) JO L 169, 28.7.1983, p. 14.
+(3) JO L 24, 27.1.1983, p. 14.
+(4) JO L 335, 22.12.1984, p. 3.
+ANEXĂ
+CONDIȚII SPECIALE IMPUSE NAVELOR DIN PORTUGALIA AUTORIZATE SĂ PESCUIASCĂ ÎN APELE SPANIEI
+A. Condiții impuse tuturor navelor
+1. La bordul navei se va găsi un exemplar al acestor condiții speciale.
+2. Literele și cifrele de identificare externă a navei autorizate să pescuiască vor fi înscrise în clar de o parte și de alta a provei și pe fiecare latură a suprastructurilor, în locul cel mai vizibil.
+Literele și cifrele vor fi înscrise cu o vopsea care va contrasta cu aceea a cocii sau a suprastructurilor și nu vor fi șterse, modificate, acoperite sau ascunse în nici un fel.
+B. Condiții suplimentare impuse tuturor navelor, cu excepția celor autorizate să pescuiască ton alb și pești migratori mari, alții decât tonul
+Toate navele autorizate să pescuiască vor comunica autorităților de control naționale competente menționate la punctul 7, informațiile solicitate la punctul 4 în ritmul următor:
+3.1.1. la fiecare intrare în zonele care se întind până la 200 de mile marine în largul coastelor Spaniei;
+3.1.2. la fiecare ieșire din zonele care se întind până la 200 de mile marine în largul coastelor Spaniei;
+3.1.3. la fiecare schimbare de subdiviziune CIEM sau Copace în cadrul zonelor menționate la punctele 3.1.1 și 3.1.2;
+3.1.4. la fiecare intrare într-un port din Spania;
+3.1.5. la fiecare ieșire dintr-un port din Spania;
+3.1.6. înainte de începerea operațiunilor de pescuit (comunicat „activ”);
+3.1.7. la încheierea operațiunilor de pescuit (comunicat „pasiv”);
+3.1.8. în fiecare săptămână, începând cu data intrării în zonele menționate la punctul 3.1.1 sau începând cu data ieșirii din portul menționat la punctul 3.1.5.
+4. Comunicările transmise conform punctului 3 vor cuprinde următoarele elemente:
+— data și ora transmisiunii;
+— denumirea navei;
+— indicativul radio;
+— literele și numerele de identificare externe;
+— numărul de serie al transmisiunii pentru călătoria în cauză;
+— indicarea tipului de transmisiune conform diferitelor puncte menționate la punctul 3;
+— poziția geografică și caroiajul CIEM sau Copace;
+— cantitățile de capturi pe specii aflate în cale (în kilograme), cu utilizarea codului indicat la punctul 5.3;
+— cantitățile capturate pe specii, începând de la precedenta informare (în kilograme);
+— caroiajul CIEM sau Copace în cadrul căruia s-au efectuat capturile;
+— cantitățile de capturi transbordate pe alte nave, pe specii (în kilograme), începând de la precedenta informare;
+— numele, numărul de apel și, dacă este cazul, identificarea externă a navei pe care s-a efectuat transbordarea;
+— numele căpitanului.
+Comunicările prevăzute la punctele 3 și 4 vor fi transmise în următoarele condiții:
+5.1. Orice mesaj se va transmite printr-o stație radio aflată pe lista de mai jos:
+Nume | Indicativ de apel
+Lisboa | CUL
+S.Miguel | CUG
+Madeira | CUB
+Tarifa | EAC
+Chipiona | Chipiona radio
+Finisterre | EAF
+Coruña | Coruña radio
+Cabo | Peñas EAS
+Machichaco | Machichaco radio
+5.2. În cazul în care, din motive de forță majoră, comunicarea nu poate fi transmisă de către vasul autorizat să pescuiască, mesajul se poate transmite prin intermediul altui vas, în locul primului.
+5.3. Codul pentru indicațiile cantitative vizate la punctul 4(1):
+A. Crevete nordic (Pandalus borealis)
+B. Merluciu (Merluccius merluccius)
+C. Halibut negru (Reinhardtius hippoglossoides)
+D. Cod de Atlantic (Gadus morhua)
+E. Eglefin (Melanogrammus aeglefinus)
+F. Halibut (Hippoglossus hippoglossus)
+G. Macrou de Atlantic (Scomber scombrus)
+H. Stavrid (Trachurus trachurus),
+I. Grenadier de stâncă (Coryphaenoides rupestris)
+J. Cod negru (Pollachius virens)
+K. Merlan (Merlangus merlangus)
+L. Hering (Clupea harengus)
+M. Pește-lance (Ammodytes spp.)
+N. Șprot (Clupea sprattus)
+O. Cambulă (Pleuronectes platessa)
+P. Capelin norvegian (Trisopterus esmarkii)
+Q. Mihalț-de-mare (Molva molva)
+R. Altele
+S. Crevete gri (Pandalidae)
+T. Hamsie (Engraulis encrassicholus)
+U. Porc de mare cu țepi (Sebastes spp.)
+V. Cambulă americană (Hypoglossoides platessoides)
+W. Calmar (Illex)
+X. Limandă cu coadă galbenă (Limanda ferruginea)
+Y. Putasu (Gadus poutassou)
+Z. Specii de ton, tonide (Thunnidae)
+AA. | Mihalț albastru (Molva dypterygia)
+BB. | Brosme (Brosme brosme)
+CC. | Rechin cu țepi (Scyliorhinus retifer)
+DD. | Rechin uriaș (Cetorhinidae)
+EE. | Rechin (Lamna nasus)
+FF. | Calmar comun (Loligo vulgaris)
+GG. | Plătică de mare (Brama brama)
+HH. | Sardină marocană (Sardina pilchardus)
+II. | Crevete gri (Crangon crangon)
+JJ. | Cardină (Lepidorhombus)
+KK. | Pește undițar (Lophius spp.)
+LL. | Langustină (Nephrops norvegicus)
+MM. | Polac (Pollachius pollachius)
+6. Fără a se aduce atingere instrucțiunilor cuprinse în jurnalul de bord al Comunităților Europene, orice mesaj radio transmis conform punctelor 3 și 5 va fi consemnat în respectivul jurnal de bord.
+7. Autoritățile de control competente pentru a primi informațiile specificate la punctele 3 și 4:
+Secretario General de Pesca Maritima (SEGEPESCA)
+C/Ortega y Gasset, 57
+Madrid
+Telex: 47457 SGPM E.
+(1) Lista de mai sus nu înseamnă că speciile menționate pot fi păstrate la bord sau descărcate.
