@@ -1,0 +1,170 @@
+{
+ "key": "dcc-346-2002",
+ "label": "Decizia CCR nr. 346/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "346",
+ "date": "2002-12-10",
+ "year": "2002",
+ "heading": "DECIZIE nr. 346 din 10 decembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 81 din Decretul-lege nr. 115/1938 pentru unificarea dispoziţiilor privitoare la cărţile funciare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "149",
+  "bis": false,
+  "date": "2003-03-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "311/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 81 din Decretul-lege nr. 115/1938 pentru unificarea dispoziţiilor privitoare la cărţile funciare, excepţie ridicată de Sandor Szenntenai şi Rozalia Szenntenai în Dosarul nr. 311/2002 al Tribunalului Braşov.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-03-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/42229",
+  "text_sha256": "2186b8cd090758c5c6bf1d007871de0014428af2ff300d8f04eea88b24db0276",
+  "catalogue_sha256": "2186b8cd090758c5c6bf1d007871de0014428af2ff300d8f04eea88b24db0276",
+  "fetched": "2026-11-04T18:15:01Z",
+  "chars": 8047,
+  "portal_id": "42229",
+  "tip": "DECIZIE"
+ }
+}
