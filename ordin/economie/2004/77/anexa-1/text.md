@@ -1,0 +1,2 @@
+# Anexa nr. 1
+Anexa 1 ──────── (Anexa nr. 1 la norma tehnică) ────────────────────────────── LISTA cuprinzând tipurile de mijloace de joc de bază, care sunt supuse în mod obligatoriu controlului tehnic 1. Mașini de joc tip automat cu câștiguri 2. Sală de joc bingo sau keno 3. Masă tip ruletă 4. Aparat de extragere aleatorie a numerelor 5. Software de joc 6. Suport hardware pentru software de joc 7. Ruletă automată.
