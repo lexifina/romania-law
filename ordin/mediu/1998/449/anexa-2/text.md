@@ -1,0 +1,16 @@
+# Anexa 1
+------- la metodologie --------------
+CERERE pentru atestarea persoanelor fizice (model)
+Domnule președințe al Comisiei de atestare din cadrul Ministerului Apelor, Pădurilor și Protecției Mediului,
+Subsemnatul(a)..........................................................., născut(ă) la data de............... în localitatea..........................., județul..................................., țara............................., având cetățenia.............................................., domiciliat(ă) în localitatea..................., str........................... nr..........., bl........, et......, ap......., sectorul/județul.........................., posesor al diplomei de..................... cu nr................., eliberată de.................................... din localitatea......................., promoția............................., țara.........................., solicit atestarea, în calitate de persoană fizică, în domeniile........................................................................................................
+În susținerea cererii anexez următoarele:
+a) curriculum vitae și lista cu lucrările elaborate sau la care am fost coautor;
+b) acte de studii, titluri științifice, cursuri de perfecționare, în copii legalizate;
+c) copie legalizată de pe carnetul de muncă;
+d) certificatul de cazier judiciar.
+Menționez că îmi desfășor activitatea la..................................., cu sediul în........................., județul/sectorul......................, localitatea........................., str..................................... nr............., telefon..................., fax......................., unde am calitatea de...............................................................
+Declar că am luat cunoștință de obligațiile ce îmi revin potrivit Metodologiei privind atestarea persoanelor fizice și juridice care efectuează studii de teren, elaborează documentații tehnico-economice și execută lucrări de îmbunătățiri funciare în domeniul silvic și înțeleg să le respect întocmai.
+Localitatea.........................
+Data................................
+..............................
+(semnătura)
