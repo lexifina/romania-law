@@ -1,0 +1,208 @@
+{
+ "key": "dcc-477-2003",
+ "label": "Decizia CCR nr. 477/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "477",
+ "date": "2003-12-09",
+ "year": "2003",
+ "heading": "DECIZIE nr. 477 din 9 decembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 52 alin. (2) lit. f) din Legea nr. 521/2002 privind regimul de supraveghere şi autorizare a producţiei, importului şi circulaţiei unor produse supuse accizelor, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "105",
+  "bis": false,
+  "date": "2004-02-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "713/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 521/2002",
+    "number": "521",
+    "year": "2002",
+    "path": "lege/2002/521"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 52 alin. (2) lit. f) din Legea nr. 521/2002 privind regimul de supraveghere şi autorizare a producţiei, importului şi circulaţiei unor produse supuse accizelor, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Comercială \"DO-DEX\" - S.R.L. din Sovata în Dosarul nr. 713/2003 al Judecătoriei Sighişoara.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 521/2002",
+    "number": "521",
+    "year": "2002",
+    "path": "lege/2002/521"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "f",
+      "u"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "6",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "49",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-02-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49554",
+  "text_sha256": "197092bf64accb7bb27d04dc4587175b3da33cfbd03f7a38e6c01a218c7f9dce",
+  "catalogue_sha256": "197092bf64accb7bb27d04dc4587175b3da33cfbd03f7a38e6c01a218c7f9dce",
+  "fetched": "2026-11-02T23:34:32Z",
+  "chars": 10798,
+  "portal_id": "49554",
+  "tip": "DECIZIE"
+ }
+}
