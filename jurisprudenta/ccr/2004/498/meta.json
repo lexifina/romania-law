@@ -1,0 +1,196 @@
+{
+ "key": "dcc-498-2004",
+ "label": "Decizia CCR nr. 498/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "498",
+ "date": "2004-11-16",
+ "year": "2004",
+ "heading": "DECIZIE nr. 498 din 16 noiembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 58/2001 privind organizarea şi finanţarea rezidenţiatului, stagiaturii şi activităţii de cercetare medicală în sectorul sanitar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "59",
+  "bis": false,
+  "date": "2005-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.684/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2001",
+    "number": "58",
+    "year": "2001",
+    "path": "oug/2001/58"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 58/2001 privind organizarea şi finanţarea rezidenţiatului, stagiaturii şi activităţii de cercetare medicală în sectorul sanitar, excepţie ridicată de Delia Dănuţ în Dosarul nr. 1.684/2004 al Tribunalului Maramureş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2001",
+    "number": "58",
+    "year": "2001",
+    "path": "oug/2001/58"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58654",
+  "text_sha256": "1db7e7da0a9990c66e38b80d4aa35d75bd8c40c8565d8615fa0cf779cd94d41d",
+  "catalogue_sha256": "1db7e7da0a9990c66e38b80d4aa35d75bd8c40c8565d8615fa0cf779cd94d41d",
+  "fetched": "2026-11-02T23:52:08Z",
+  "chars": 14849,
+  "portal_id": "58654",
+  "tip": "DECIZIE"
+ }
+}
