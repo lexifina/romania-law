@@ -1,0 +1,175 @@
+{
+ "key": "dcc-153-2001",
+ "label": "Decizia CCR nr. 153/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "153",
+ "date": "2001-05-10",
+ "year": "2001",
+ "heading": "DECIZIE nr. 153 din 10 mai 2001",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 307 din Codul penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "387",
+  "bis": false,
+  "date": "2001-07-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.963/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "307",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 307 alin. 1 din Codul penal, excepţie ridicată de Danut Ionel Stan în Dosarul nr. 2.963/2000 al Judecătoriei Targoviste.  2. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 307 alin. 2-4 din Codul penal, excepţie ridicată în acelaşi dosar de acelaşi autor.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 10 mai 2001.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Doina Suliman  ───────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "307",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "306",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29581",
+  "text_sha256": "7bce47388ead51c95a8288aa96128499656a1d0628295230cc6b5bc4f2a9bf75",
+  "catalogue_sha256": "7bce47388ead51c95a8288aa96128499656a1d0628295230cc6b5bc4f2a9bf75",
+  "fetched": "2026-11-05T06:03:01Z",
+  "chars": 8806,
+  "portal_id": "29581",
+  "tip": "DECIZIE"
+ }
+}
