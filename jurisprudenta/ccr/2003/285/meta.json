@@ -1,0 +1,195 @@
+{
+ "key": "dcc-285-2003",
+ "label": "Decizia CCR nr. 285/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "285",
+ "date": "2003-07-03",
+ "year": "2003",
+ "heading": "DECIZIE nr. 285 din 3 iulie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. IV din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "558",
+  "bis": false,
+  "date": "2003-08-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "13.722/2002",
+  "1.586/2002",
+  "466/2000",
+  "12C/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. IV din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, cu modificările ulterioare, excepţie ridicată de Societatea Comercială \"Sititech\" - S.R.L. din Bucureşti în Dosarul nr. 13.722/2002 al Judecătoriei Sectorului 2 Bucureşti, Societatea Comercială \"F.A.U. Ro Semnal\" - S.R.L. din Reghin în Dosarul nr. 1.586/2002 al Judecătoriei Reghin, Societatea Comercială \"Transtex\" - S.R.L. din Sighisoara în dosarele nr. 2.341/2002 şi 2.342/2002 ale Judecătoriei Sighisoara şi de Societatea Comercială \"Larix Forest\" - S.R.L. din Reghin în Dosarul nr. 466/2000 al Judecătoriei Reghin.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 34/2003",
+    "number": "34",
+    "year": "2003",
+    "path": "og/2003/34"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-08-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/45401",
+  "text_sha256": "5377193b54e6db60edf1e090d0287b97d25a28c35f6b742a0f249c79c5573136",
+  "catalogue_sha256": "5377193b54e6db60edf1e090d0287b97d25a28c35f6b742a0f249c79c5573136",
+  "fetched": "2026-11-02T23:30:40Z",
+  "chars": 7792,
+  "portal_id": "45401",
+  "tip": "DECIZIE"
+ }
+}
