@@ -1,0 +1,225 @@
+{
+ "key": "dcc-83-1997",
+ "label": "Decizia CCR nr. 83/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "83",
+ "date": "1997-04-30",
+ "year": "1997",
+ "heading": "DECIZIE nr. 83 din 30 aprilie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 15 alin. 1, art. 28 alin. 2 lit. b), art. 105 alin. 1-3 şi art. 109 din Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "199",
+  "bis": false,
+  "date": "1997-08-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "6.361/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+    "number": "36",
+    "year": "1995",
+    "path": "lege/1995/36"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Flucus Mariana, Manofu Angela, Ciora Marcela Olivia, Craciun Maria, Sass Luminita şi Vulcu Davel Elena împotriva Deciziei Curţii Constituţionale nr. 90 din 11 septembrie 1996.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+    "number": "36",
+    "year": "1995",
+    "path": "lege/1995/36"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-08-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11520",
+  "text_sha256": "3cb258295729f793c0326da86eca600df57dd096a8ab43e36121f6e836c72e0d",
+  "catalogue_sha256": "3cb258295729f793c0326da86eca600df57dd096a8ab43e36121f6e836c72e0d",
+  "fetched": "2026-11-02T22:55:39Z",
+  "chars": 7705,
+  "portal_id": "11520",
+  "tip": "DECIZIE"
+ }
+}
