@@ -1,0 +1,21 @@
+# DECIZIE nr. 59*) din 26 martie 1997
+referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 alin. 1 din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare
+Notă
+*) Definitivă prin nerecurare.
+Lucian Stangu - preşedinte Romul Petru Vonica - judecător Victor Dan Zlatescu - judecător Doina Suliman - magistrat-asistent Completul de judecată, convocat potrivit art. 24 alin. (2) din Legea nr. 47/1992, constata următoarele:
+Prin Încheierea din 31 octombrie 1996, pronunţată în Dosarul nr. 992/1996, Judecătoria Marghita a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. 1 din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare, invocată de Societatea Comercială "Petrolsub" - S.A.
+În motivarea excepţiei se susţine ca prevederile atacate încalcă art. 41 alin. (7) şi (8) din Constituţie.
+La intervenţia Curţii Constituţionale, instanţa de judecată şi-a exprimat opinia asupra excepţiei de neconstituţionalitate invocate, apreciind ca este neîntemeiată.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, dispoziţiile art. 6 alin. 1 din Ordonanţa Guvernului nr. 15/1996, aprobată şi modificată prin Legea nr. 131/1996, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, retine următoarele:
+În temeiul art. 144 lit. c) din Constituţie şi al art. 23 alin. (1) din Legea nr. 47/1992, Curtea Constituţională este competenţa să soluţioneze excepţia invocată, fiind legal sesizată.
+Potrivit art. 41 alin. (8) din Constituţie, bunurile destinate, folosite sau rezultate din infracţiuni ori din contravenţii pot fi confiscate, în condiţiile legii.
+Ordonanţa Guvernului nr. 15/1996, al carei scop este de a întări disciplina financiară şi de a evita evaziunea fiscală ca urmare a creşterii plăţilor prin decontare bancară şi a limitării plăţilor în numerar, prevede în art. 5 ca persoanele juridice pot efectua plati în numerar numai în limita unui plafon zilnic de 5 milioane lei, depăşirea acestui plafon constituind contravenţie şi se sancţionează cu amendă şi cu confiscarea sumei care depăşeşte plafonul, conform art. 6 alin. 1 din aceasta ordonanţa, a cărui neconstituţionalitate se invoca.
+Autoarea excepţiei considera, invocand prezumţia dobândirii licite a bunurilor, prevăzută de art. 41 alin. (7) din Constituţie, ca măsura confiscării, luată de organul de control, a sumelor ce depaseau plafonul legal ar fi neconstitutionala. Acest text însă este inaplicabil în cauza de faţa, deoarece contravenţia şi măsura confiscării nu se întemeiază pe faptul ca sumele ce depăşesc plafonul ar fi fost dobândite ilicit, ci pe faptul ca ele au fost folosite ilicit, prin depăşirea plafonului legal, astfel încât referirea la art. 41 alin. (7) din Constituţie este nejustificată.
+Cat priveşte prevederile art. 41 alin. (8) din Constituţie, potrivit cărora bunurile folosite pentru săvârşirea de contravenţii pot fi confiscate, sunt aplicabile în aceasta cauza, deoarece dispoziţiile atacate constituie tocmai o aplicare legală a acestor prevederi constituţionale.
+Dispoziţiile art. 6 alin. 1 din Ordonanţa Guvernului nr. 15/1996 au mai făcut obiectul controlului Curţii Constituţionale, care, prin Decizia nr. 6 din 16 ianuarie 1997, publicată în Monitorul Oficial al României, Partea I, nr. 42 din 14 martie 1997, a constatat ca sunt constituţionale.
+Faţa de cele arătate, rezultă ca excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. 1 din Ordonanţa Guvernului nr. 15/1996, aprobată şi modificată prin Legea nr. 131/1996, este vadit nefondata şi urmează să fie respinsă.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 24 alin. (2) şi al art. 25 din Legea nr. 47/1992, în unanimitate, CURTEA În numele legii DECIDE:
+Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. 1 din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare, invocată de Societatea Comercială "Petrolsub" - S.A. în Dosarul nr. 992/1996 al Judecătoriei Marghita.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la data de 26 martie 1997.
+PREŞEDINTE, dr. Lucian Stangu Magistrat-asistent, Doina Suliman

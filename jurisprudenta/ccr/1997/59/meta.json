@@ -1,0 +1,147 @@
+{
+ "key": "dcc-59-1997",
+ "label": "Decizia CCR nr. 59/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "59",
+ "date": "1997-03-26",
+ "year": "1997",
+ "heading": "DECIZIE nr. 59*) din 26 martie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 alin. 1 din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "185",
+  "bis": false,
+  "date": "1997-08-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "992/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. 1 din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare, invocată de Societatea Comercială \"Petrolsub\" - S.A. în Dosarul nr. 992/1996 al Judecătoriei Marghita.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "7",
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-08-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11376",
+  "text_sha256": "20b0e175f01dcfc986fe33ff970a292420362719f0b033fdf5a6bb3c924b4f04",
+  "catalogue_sha256": "20b0e175f01dcfc986fe33ff970a292420362719f0b033fdf5a6bb3c924b4f04",
+  "fetched": "2026-11-02T22:55:33Z",
+  "chars": 4516,
+  "portal_id": "11376",
+  "tip": "DECIZIE"
+ }
+}
