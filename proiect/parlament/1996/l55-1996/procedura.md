@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 1996-02-08: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Document
 - 1998-05-13: documents published: Raport comisie sesizată pe fond
 - 1998-06-09: adopted by the Chamber of Deputies; adopted by the Senate
+- 1998-06-27: promulgated, becomes Legea nr. 138/1998; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -20,3 +21,5 @@ Initiator: Guvernul României.
 - 1996-02-08: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L055EM.PDF
 - 1996-02-08: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L055HG.PDF
 - 1998-05-13: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L055CR.PDF
+- 1998-06-27: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L055DP.PDF
+- 1998-06-27: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L055FP.PDF
