@@ -1,0 +1,2 @@
+# Anexa 2
+PLAN DE RECUPERARE 1. Medical: dispensarizare cu tratament medical, chirurgical, ortopedic, în funcție de afectiunea care a produs handicapul. 2. Social: - internari în centre de tratament și reabilitare; - asistența socială prin consiliile locale, organizații neguvernamentale. 3. Profesional: - unități protejate (centre de integrare prin terapie ocupationala); - încadrarea în unități economice sau în ateliere protejate conform restantului funcțional; - școlarizarea în unități specializate.
