@@ -1,0 +1,183 @@
+{
+ "key": "dcc-81-1995",
+ "label": "Decizia CCR nr. 81/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "81",
+ "date": "1995-09-20",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 81*) din 20 septembrie 1995",
+ "subtitle": "privind excepţia de neconstituţionalitate a prevederilor Legii nr. 4/1994 şi ale Ordonanţei Guvernului nr. 11/1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "287",
+  "bis": false,
+  "date": "1995-12-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.632/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 4/1994",
+    "number": "4",
+    "year": "1994",
+    "path": "lege/1994/4"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 11/1994",
+    "number": "11",
+    "year": "1994",
+    "path": "og/1994/11"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate şi constata ca prevederile art. 1 lit. g) din Legea nr. 4 din 13 ianuarie 1994, în ce priveşte actualizarea începând cu 1 ianuarie 1994 a nivelului de prime şi a limitei de despăgubire la asigurările prin efectul legii de răspundere civilă auto, precum şi ale art. IV alin. 1. din Ordonanţa Guvernului nr. 11 din 14 ianuarie 1994, în ce priveşte intrarea în vigoare a acestei ordonanţe începând cu 1 ianuarie 1994, sunt neconstituţionale pentru perioada cuprinsă între 1 şi 25 ianuarie 1994, data publicării Ordonanţei Guvernului în Monitorul Oficial al României.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 4/1994",
+    "number": "4",
+    "year": "1994",
+    "path": "lege/1994/4"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 11/1994",
+    "number": "11",
+    "year": "1994",
+    "path": "og/1994/11"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 471/1971",
+    "number": "471",
+    "year": "1971",
+    "path": "decret/1971/471"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-12-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6158",
+  "text_sha256": "f1945e3c3acdd3439bbd828b6994ed9a0958dda5867555391a33fc4f616d3161",
+  "catalogue_sha256": "f1945e3c3acdd3439bbd828b6994ed9a0958dda5867555391a33fc4f616d3161",
+  "fetched": "2026-11-02T22:49:34Z",
+  "chars": 9954,
+  "portal_id": "6158",
+  "tip": "DECIZIE"
+ }
+}
