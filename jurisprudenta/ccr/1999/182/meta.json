@@ -1,0 +1,201 @@
+{
+ "key": "dcc-182-1999",
+ "label": "Decizia CCR nr. 182/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "182",
+ "date": "1999-11-16",
+ "year": "1999",
+ "heading": "DECIZIE nr. 182 din 16 noiembrie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 26 alin. (5) din Legea nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului, modificată prin Ordonanţa de urgenta a Guvernului nr. 58/1997 şi prin Legea nr. 99/1999",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "3",
+  "bis": false,
+  "date": "2000-01-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.585/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/1999",
+    "number": "99",
+    "year": "1999",
+    "path": "lege/1999/99"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 26 alin. (5) din Legea nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului, modificată prin Ordonanţa de urgenta a Guvernului nr. 58/1997 şi prin Legea nr. 99/1999, excepţie ridicată de Societatea Comercială \"Agromara\" - S.R.L. Sighetu Marmatiei în Dosarul nr. 1.585/1996 al Tribunalului Maramures - Secţia comercială şi contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/1999",
+    "number": "99",
+    "year": "1999",
+    "path": "lege/1999/99"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedura civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-01-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20540",
+  "text_sha256": "de595b2e4087b63463562057981bff70e5bfcea372d807451607ac0b6a236635",
+  "catalogue_sha256": "de595b2e4087b63463562057981bff70e5bfcea372d807451607ac0b6a236635",
+  "fetched": "2026-11-02T23:06:42Z",
+  "chars": 18121,
+  "portal_id": "20540",
+  "tip": "DECIZIE"
+ }
+}
