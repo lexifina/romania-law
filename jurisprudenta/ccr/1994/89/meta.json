@@ -1,0 +1,173 @@
+{
+ "key": "dcc-89-1994",
+ "label": "Decizia CCR nr. 89/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "89",
+ "date": "1994-10-03",
+ "year": "1994",
+ "heading": "DECIZIA nr. 89 *) din 3 octombrie 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 393 din 20 iulie 1992",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "328",
+  "bis": false,
+  "date": "1994-11-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "464/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 393/1992",
+    "number": "393",
+    "year": "1992",
+    "path": "hg/1992/393"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 393/1992, invocată de Societatea Comercială \"Compania Română de Pescuit Oceanic\" - S.A. Tulcea în Dosarul nr. 464/1994 al Tribunalului Tulcea.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 393/1992",
+    "number": "393",
+    "year": "1992",
+    "path": "hg/1992/393"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-11-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4360",
+  "text_sha256": "d13245b97170064f9e61911151003a9ae847c977a2c49bd334295dd3cbf0a0d9",
+  "catalogue_sha256": "d13245b97170064f9e61911151003a9ae847c977a2c49bd334295dd3cbf0a0d9",
+  "fetched": "2026-11-02T22:46:00Z",
+  "chars": 4335,
+  "portal_id": "4360",
+  "tip": "DECIZIE"
+ }
+}
