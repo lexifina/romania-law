@@ -1,0 +1,186 @@
+{
+ "key": "dcc-169-1998",
+ "label": "Decizia CCR nr. 169/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "169",
+ "date": "1998-12-10",
+ "year": "1998",
+ "heading": "DECIZIE nr. 169 din 10 decembrie 1998",
+ "subtitle": "cu privire la excepţia de neconstituţionalitate a prevederilor art. 36 alin. 3 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată, aprobată şi modificată prin Legea nr. 130/1992, republicată în 1995, şi ale art. 18 alin. 1 din Legea nr. 87/1994 pentru combaterea evaziunii fiscale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "65",
+  "bis": false,
+  "date": "1999-02-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "9.780/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 3/1992",
+    "number": "3",
+    "year": "1992",
+    "path": "og/1992/3"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/1994",
+    "number": "87",
+    "year": "1994",
+    "path": "lege/1994/87"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge ca inadmisibila excepţia de neconstituţionalitate a art. 36 alin. 3 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată, aprobată şi modificată prin Legea nr. 130/1992, ridicată de Societatea Comercială \"Interbrands Marketing &amp;amp; Distribution\" - S.R.L. din Bucureşti în Dosarul nr. 9.780/1997 al Judecătoriei Sectorului 4 Bucureşti. 2. Respinge excepţia de neconstituţionalitate a art. 18 alin. 1 din Legea nr. 87/1994 pentru combaterea evaziunii fiscale, ridicată de Societatea Comercială \"Interbrands Marketing &amp;amp; Distribution\" - S.R.L. Bucureşti în acelaşi dosar.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 3/1992",
+    "number": "3",
+    "year": "1992",
+    "path": "og/1992/3"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/1994",
+    "number": "87",
+    "year": "1994",
+    "path": "lege/1994/87"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-02-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16949",
+  "text_sha256": "828388c7dab97524caa3de61e0296ce7d7a173bc574204f1c05cf410608ed1f2",
+  "catalogue_sha256": "828388c7dab97524caa3de61e0296ce7d7a173bc574204f1c05cf410608ed1f2",
+  "fetched": "2026-11-02T23:02:55Z",
+  "chars": 11810,
+  "portal_id": "16949",
+  "tip": "DECIZIE"
+ }
+}
