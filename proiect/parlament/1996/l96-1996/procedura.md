@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 1996-06-03: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 1996-07-18: documents published: Raport comisie sesizată pe fond
 - 1996-09-10: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 1998-02-05: adopted by the Chamber of Deputies
 
 ## Documents
 
