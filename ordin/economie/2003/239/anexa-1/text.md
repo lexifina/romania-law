@@ -1,0 +1,2 @@
+# ANEXĂ
+PRECIZĂRI METODOLOGICE pentru punerea în aplicare a prevederilor Ordonanței de urgenta a Guvernului nr. 87/2003 privind reglementarea garanțiilor de 10% reținute societăților comerciale furnizoare din valoarea utilajelor, echipamentelor, aparatajului și construcțiilor metalice livrate pentru Combinatul minier de îmbogățire a minereurilor acide cu conținut de fier de la Krivoi-Rog - Ucraina
