@@ -1,0 +1,2 @@
+# Text
+Condițiile minime pe care trebuie să le indeplineasca organismele de inspecție: 1. sa dispună de personal, de mijloace și echipamente adecvate; 2. personalul acestora să aibă competența tehnica, experienta în domeniu și integritate profesionala; 3. să asigure independenta în realizarea inspecțiilor, redactarea și eliberarea avizelor tehnice și/sau a rapoartelor de inspecție; 4. pastrarea de către personal a confidentialitatii datelor și informațiilor; 5. existenta unei asigurări de raspundere civila. --------
