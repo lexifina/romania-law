@@ -1,0 +1,16 @@
+# Anexa 2
+SCHEMELE STANDARD ȘI CONDIȚIILE DE REALIZARE A INSTALAȚIEI DE RACORDARE UTILIZATE LA STABILIREA TARIFELOR DE RACORDARE
+Tarif pentru realizarea instalației de racordare - componenta B
+branșament monofazat radial aerian Branșament realizat din rețea, cu bloc de măsură și protecție echipat cu contor electromagnetic de energie activă cu un singur cadran, fără priză de pământ proprie - cu folosirea prizei de pământ a instalației de utilizare conform normelor
+branșament monofazat radial subteran Branșament realizat din rețea, pe traseu fără subtraversări sau desfaceri și refaceri de pavaje, cu bloc de măsură și protecție echipat cu contor electromagnetic de energie activă cu un singur cadran, fără priză de pământ proprie - cu folosirea prizei de pământ a instalației de utilizare conform normelor
+branșament trifazat radial aerian Branșament realizat din rețea, cu bloc de măsură și protecție echipat cu contor electromagnetic de energie activă cu un singur cadran în montaj direct, fără priză de pământ proprie - cu folosirea prizei de pământ a instalației de utilizare conform normelor
+branșament trifazat radial subteran Branșament realizat din rețea, pe traseu fără subtraversări sau desfaceri și refaceri de pavaje, cu bloc de măsură și protecție echipat cu contor electromagnetic de energie activă cu un singur cadran în montaj direct, fără priză de pământ proprie - cu folosirea prizei de pământ a instalației de utilizare conform normelor
+Racord radial aerian de MT racord realizat din rețea, cu un singur separator, fără descărcătoare, fără priză de pământ la stâlpii fără echipament
+racord radial subteran de MT Racord realizat din rețea sau post de transformare pe un traseu fără subtraversări sau desfaceri și refaceri de pavaje, fără celule de capăt, fără descărcătoare, fără priză de pământ proprie
+Post de transformare aerian MT/JT echipat cu un TR <= 250 kVA post de transformare aerian, pe un stâlp, cu cadru de siguranțe, descărcătoare cu oxizi de zinc, cutie de distribuție
+Post de transformare aerian MT/JT echipat cu un TR 400 kVA post de transformare aerian, pe doi stâlpi, cu cadru de siguranțe, descărcătoare cu oxizi de zinc, cutie de distribuție
+Post de transformare în cabină MT/JT echipat cu un TR 250/400/630 kVA realizat în anvelopă de beton, cu alimentare radială, cu două celule de MT compacte în sistem modular cu izolație SF6 (o celulă de linie echipată cu separator de sarcină și o celulă de transformator echipată cu separator și siguranțe), TR ermetic în ulei și tablou de JT cu măsură
+NOTĂ: În situațiile în care din considerente tehnice sau ca urmare a cerințelor/opțiunilor utilizatorului, în schema și/sau condițiile de realizare a instalației de racordare intervin elemente diferite sau suplimentare față de cele cuprinse în schema standard și/sau condițiile care au stat la baza stabilirii tarifului respectiv, acesta se modifică astfel:
+a) în situația apariției de elemente și/sau condiții suplimentare, tariful se majorează cu costurile acestora, stabilite pe bază de deviz;
+b) în situația înlocuirii unor elemente din schema standard cu alte elemente având alte caracteristici și/sau performanțe, cu sau fără prevederea unor elemente/condiții suplimentare, tariful se recalculează pe bază de deviz general al instalației de racordare.
+----------
