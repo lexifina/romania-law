@@ -1,0 +1,27 @@
+# DECIZIE Nr. 5*) din 17 ianuarie 1994
+referitoare la excepţia de neconstituţionalitate a prevederilor articolului unic al Hotărârii Guvernului nr. 33/1993 privind exceptări şi reduceri de taxe vamale de import, care prelungeşte valabilitatea Hotărârii Guvernului nr. 158/1992
+Notă
+*) Definitivă prin nerecurare.
+Florin Bucur Vasilescu - preşedinte Miklos Fazakas - judecător Victor Dan Zlatescu - judecător Constantin Burada - magistrat-asistent Completul de judecată, convocat potrivit art. 24 alin. (2) din Legea nr. 47/1992, având în vedere actele şi lucrările dosarului, raportul întocmit în cauza de judecătorul delegat în acest scop, retine următoarele:
+Societatea Comercială "Unicarne" - S.A. a formulat o plîngere la Judecătoria Sectorului 1 Bucureşti împotriva soluţiei pronunţate de Direcţia Generală a Vamilor prin care i s-a respins cererea de restituire a unor sume de bani reprezentind taxe vamale plătite fără temei legal, litigiu ce a format obiectul dosarului nr. 4207/1993.
+La termenul de 6 septembrie 1993, Direcţia Generală a Vamilor a invocat excepţia de neconstituţionalitate a prevederilor articolului unic al Hotărârii Guvernului nr. 33/1993 privind exceptari şi reduceri de taxe vamale de import, care prelungeşte valabilitatea Hotărârii Guvernului nr. 158/1992.
+În esenta, se susţine ca Hotărârea Guvernului nr. 158/1992 privind exceptarea de taxe vamale a importurilor de furaje combinate a fost un act normativ temporar care şi-a încetat aplicarea la 31 decembrie 1992, iar Hotărârea Guvernului nr. 33/1993, publicată în Monitorul Oficial al României, Partea I, nr. 22 din 9 februarie 1993, prin care s-a dispus prelungirea termenului de valabilitate a Hotărârii Guvernului nr. 158/1992 până la 15 marie 1993, a intrat în vigoare şi a început să-şi producă efectele de la data publicării ei în Monitorul Oficial al României, respectiv de la 9 februarie 1993. Drept consecinţa, apreciază ca aplicarea retroactivă a Hotărârii Guvernului nr. 33/1993 este contrară atât art. 1 din Codul civil, cît şi prevederilor art. 15 alin. (2) din Constituţia României.
+Judecătoria, prin Încheierea din 6 septembrie 1993, a sesizat Curtea cu soluţionarea excepţiei de neconstituţionalitate, a opinat în sensul că aceasta este intemeiata şi a dispus suspendarea judecaţii.
+În vederea soluţionării excepţiei au fost solicitate, în baza art. 24 alin. (3) din Legea nr. 47/1992, puncte de vedere Senatului, Camerei Deputaţilor şi Guvernului.
+Guvernul, în punctul sau de vedere, apreciază ca prin Hotărârea Guvernului nr. 33/1993 nu au fost lezate interesele individuale, siguranţa drepturilor câştigate, averea, condiţia lor personală, efectele actelor şi contractelor lor, atribute ale principiului neretroactivitatii legilor, iar prin conţinut şi finalitate, nu a fost infrint acest principiu şi, în consecinţa, hotărârea este constituţională.
+Celelalte organe nu şi-au exprimat punctele lor de vedere.
+CURTEA CONSTITUŢIONALĂ constata ca excepţia invocată este nefondata şi urmează a fi respinsă.
+Este de menţionat ca atribuţiile Curţii Constituţionale nu sunt expres şi limitativ prevăzute în Constituţie.
+Articolul 144 din legea fundamentală în care sunt enumerate atribuţiile Curţii, la lit. c) prevede că aceasta "hotărăşte asupra excepţiilor ridicate în faţa instanţelor judecătoreşti privind neconstituţionalitatea legilor şi ordonanţelor", dispoziţie preluată şi în art. 23 alin. (1) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale.
+În raport cu aceste dispoziţii legale care sunt de stricta interpretare, se constată că nu intră în competenţa Curţii soluţionarea excepţiilor de neconstituţionalitate referitoare la hotărârile Guvernului, asupra acestora urmînd să se pronunţe instanţele judecătoreşti ordinare.
+Trebuie reţinut ca termenul lege nu este folosit în textul constituţional amintit în sens larg, cuprinzând actele normative, ci doar în sensul sau strict de act legislativ adoptat de Parlament.
+Un argument în plus îl constituie şi împrejurarea ca textul respectiv nu se referă numai la lege, ci şi la ordonanţele Guvernului, categorie de acte normative având un regim precis determinat.
+A considera ca şi hotărârile Guvernului cad sub incidenţa controlului Curţii Constituţionale înseamnă a adauga la textul din Constituţie ceea ce este interzis, întrucît ne gasim în faţa unei dispoziţii de cea mai stricta interpretare.
+Rezultă deci ca legea fundamentală a înţeles sa supună contenciosului constituţional numai acele acte normative care, într-un fel sau altul, ajung în final să fie supuse dezbaterii şi aprobării Parlamentului, lasind de o parte acele acte ale executivului care fiind date în executarea legii nu mai sunt supuse acestui for.
+Fiind acte administrative, hotărârile Guvernului pot fi atacate doar pe calea contenciosului administrativ în faţa instanţelor ordinare, cu care ocazie se verifica şi conformitatea lor cu legea în temeiul căreia au fost emise.
+Ca atare, în temeiul art. 13 lit. A. c) şi al art. 24 alin. (2) din Legea nr. 47/1992, în unanimitate,
+CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge ca vadit nefondata excepţia de neconstituţionalitate formulată de Direcţia Generală a Vamilor în dosarul nr. 4207/1993 al Judecătoriei Sectorului 1 Bucureşti.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată în şedinţa din 17 ianuarie 1994.
+PREŞEDINTE, Florin Bucur Vasilescu Magistrat-asistent, Constantin Burada --------------------
