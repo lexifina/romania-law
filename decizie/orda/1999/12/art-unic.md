@@ -1,0 +1,3 @@
+# Articolul unic
+Se desemnează Uniunea Compozitorilor și Muzicologilor din România - Asociația Drepturilor de Autor (U.C.M.R.-A.D.A.), cu sediul în municipiul București, Calea Victoriei nr. 141, sectorul 1, sa colecteze sumele datorate de utilizatori, stabilite prin Hotărârea Guvernului nr. 769/1999 pentru aprobarea metodologiilor privind utilizarea repertoriului de opere muzicale al organismelor de gestiune colectivă a drepturilor de autor și a tabelelor cuprinzând drepturile patrimoniale cuvenite autorilor. Directorul general al Oficiul Roman
+pentru Drepturile de Autor, Rodica Parvu --------------
