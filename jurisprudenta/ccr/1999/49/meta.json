@@ -1,0 +1,164 @@
+{
+ "key": "dcc-49-1999",
+ "label": "Decizia CCR nr. 49/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "49",
+ "date": "1999-03-23",
+ "year": "1999",
+ "heading": "DECIZIE nr. 49 din 23 martie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii fondului funciar nr. 18/1991, ale Legii nr. 156/1997 privind acoperirea financiară a datoriilor faţă de stat şi de alte persoane juridice, rămase în urma desfiinţării fostelor cooperative agricole de producţie, şi ale Legii nr. 169/1997 pentru modificarea şi completarea Legii fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "222",
+  "bis": false,
+  "date": "1999-05-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "759/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 156/1997",
+    "number": "156",
+    "year": "1997",
+    "path": "lege/1997/156"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Legii fondului funciar nr. 18/1991, ale Legii nr. 156/1997 privind acoperirea financiară a datoriilor faţă de stat şi de alte persoane juridice, rămase în urma desfiinţării fostelor cooperative agricole de producţie, şi ale Legii nr. 169/1997 pentru modificarea şi completarea Legii fondului funciar nr. 18/1991, excepţie ridicată de Societatea Agricolă Inotesti în Dosarul nr. 759/1998 al Curţii de Apel Ploiesti - Secţia de contencios administrativ şi comercial.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 156/1997",
+    "number": "156",
+    "year": "1997",
+    "path": "lege/1997/156"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18207",
+  "text_sha256": "bd41393a2f8d820b2e4a4fa598d84b104ee92ff6a6c2a41cbdd7f12a8c76a4a4",
+  "catalogue_sha256": "bd41393a2f8d820b2e4a4fa598d84b104ee92ff6a6c2a41cbdd7f12a8c76a4a4",
+  "fetched": "2026-11-02T23:03:50Z",
+  "chars": 6323,
+  "portal_id": "18207",
+  "tip": "DECIZIE"
+ }
+}
