@@ -1,0 +1,255 @@
+{
+ "key": "dcc-473-2003",
+ "label": "Decizia CCR nr. 473/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "473",
+ "date": "2003-12-09",
+ "year": "2003",
+ "heading": "DECIZIE nr. 473 din 9 decembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 141/2002 privind reglementarea depozitării seminţelor de consum, regimul certificatelor de depozit pentru acestea şi constituirea Fondului de garantare pentru certificatele de depozit, aprobată cu modificări şi completări prin Legea nr. 149/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "923",
+  "bis": false,
+  "date": "2003-12-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "278/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 141/2002",
+    "number": "141",
+    "year": "2002",
+    "path": "oug/2002/141"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 141/2002 privind reglementarea depozitării seminţelor de consum, regimul certificatelor de depozit pentru acestea şi constituirea Fondului de garantare pentru certificatele de depozit, aprobată cu modificări şi completări prin Legea nr. 149/2003, excepţie ridicată de Asociaţia Patronală a Angrosiştilor de Cereale din România - ANCER în Dosarul nr. 278/2002 al Curţii de Apel Bucureşti - Secţia contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 141/2002",
+    "number": "141",
+    "year": "2002",
+    "path": "oug/2002/141"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 56/2000",
+    "number": "56",
+    "year": "2000",
+    "path": "og/2000/56"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2000",
+    "number": "109",
+    "year": "2000",
+    "path": "oug/2000/109"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2001",
+    "number": "39",
+    "year": "2001",
+    "path": "lege/2001/39"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 657/2001",
+    "number": "657",
+    "year": "2001",
+    "path": "lege/2001/657"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 149/2003",
+    "number": "149",
+    "year": "2003",
+    "path": "lege/2003/149"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/48885",
+  "text_sha256": "4a7bde6c2394c88b61d752f2405e49796d6054808b0d228ffc1e88f3621778d8",
+  "catalogue_sha256": "4a7bde6c2394c88b61d752f2405e49796d6054808b0d228ffc1e88f3621778d8",
+  "fetched": "2026-11-02T23:33:43Z",
+  "chars": 20843,
+  "portal_id": "48885",
+  "tip": "DECIZIE"
+ }
+}
