@@ -1,0 +1,222 @@
+{
+ "key": "dcc-92-1999",
+ "label": "Decizia CCR nr. 92/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "92",
+ "date": "1999-06-10",
+ "year": "1999",
+ "heading": "DECIZIE nr. 92 din 10 iunie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. 3 lit. a) şi ale art. 9 alin. 6 din Legea nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "352",
+  "bis": false,
+  "date": "1999-07-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. 3 lit. a) şi ale art. 9 alin. 6 din Legea nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, excepţie ridicată de Iosif Balint şi Aurelia Balint în Dosarul nr. 7.310/C/1998 al Curţii de Apel Timişoara - Secţia civilă.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1993",
+    "number": "5",
+    "year": "1993",
+    "path": "lege/1993/5"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18871",
+  "text_sha256": "3b33fe688bfc71a6fc67bcc9fbd5e015e8a2cb9d585c0c25084c9054b025e8c2",
+  "catalogue_sha256": "3b33fe688bfc71a6fc67bcc9fbd5e015e8a2cb9d585c0c25084c9054b025e8c2",
+  "fetched": "2026-11-02T23:04:49Z",
+  "chars": 18014,
+  "portal_id": "18871",
+  "tip": "DECIZIE"
+ }
+}
