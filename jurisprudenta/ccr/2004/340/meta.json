@@ -1,0 +1,276 @@
+{
+ "key": "dcc-340-2004",
+ "label": "Decizia CCR nr. 340/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "340",
+ "date": "2004-09-21",
+ "year": "2004",
+ "heading": "DECIZIE nr. 340 din 21 septembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 519 alin. 2 şi ale art. 521 alin. 1 şi 3 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "928",
+  "bis": false,
+  "date": "2004-10-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "410/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 519 alin. 2 şi ale art. 521 alin. 1 din Codul de procedură penală, excepţie ridicată din oficiu de Judecătoria Slobozia în Dosarul nr. 410/2004. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 521 alin. 3 din Codul de procedură penală, excepţie ridicată de aceeaşi instanţă în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "276",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "277",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 756/2001",
+    "number": "756",
+    "year": "2001",
+    "path": "lege/2001/756"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-10-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/55767",
+  "text_sha256": "00295b3919b2be45aafd6862fab06f6368c80402186484030cacdc58ace78425",
+  "catalogue_sha256": "00295b3919b2be45aafd6862fab06f6368c80402186484030cacdc58ace78425",
+  "fetched": "2026-11-05T07:16:47Z",
+  "chars": 13632,
+  "portal_id": "55767",
+  "tip": "DECIZIE"
+ }
+}
