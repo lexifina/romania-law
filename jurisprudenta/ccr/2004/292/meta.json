@@ -1,0 +1,235 @@
+{
+ "key": "dcc-292-2004",
+ "label": "Decizia CCR nr. 292/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "292",
+ "date": "2004-07-01",
+ "year": "2004",
+ "heading": "DECIZIE nr. 292 din 1 iulie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (5) teza a doua din Ordonanţa de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, aprobată cu modificări şi completări prin Legea nr. 569/2003, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "787",
+  "bis": false,
+  "date": "2004-08-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.275/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 8/2003",
+    "number": "8",
+    "year": "2003",
+    "path": "oug/2003/8"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (5) teza a doua din Ordonanţa de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, aprobată cu modificări şi completări prin Legea nr. 569/2003, excepţie ridicată de Liliana-Adela Vaidner, Maria Colibă, Veronica Ghibirdic, Dumitru Ghibirdic, Liliana-Georgeta Tănase, Petru Marcel Mogoşan, Lucia-Angela Iovan, Nicolae-Remus Bodrean, Lenuţa Stoica, Mariana Dalog, Gheorghe Dubar, Eugenia Gheorghiţanu, Ileana Hodîrnău, Aurelia Paşca, Stelian Racheru, Remus Gherman, Rozalia Nagy, Ioan Andrica, Elena Căinanţ, Sidonia Crăciun, Mariana Cherecheş, Mariana-Elena Negru, Rodica Boacheş, Corina-Agafia Nemeş, Alexandrina-Mariana Anca, Ioan-Petru Certejan, Ioana Maier, Paul Vultur, Ana Vultur în Dosarul nr. 5.275/2003 al Tribunalului Hunedoara - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 8/2003",
+    "number": "8",
+    "year": "2003",
+    "path": "oug/2003/8"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 22/2003",
+    "number": "22",
+    "year": "2003",
+    "path": "oug/2003/22"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "36-9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 565/2003",
+    "number": "565",
+    "year": "2003",
+    "path": "lege/2003/565"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 569/2003",
+    "number": "569",
+    "year": "2003",
+    "path": "lege/2003/569"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-08-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/54849",
+  "text_sha256": "d2030b1db2614b5c04a40689bcd9968b9c7eba556871fe1641e5a9ac17839152",
+  "catalogue_sha256": "d2030b1db2614b5c04a40689bcd9968b9c7eba556871fe1641e5a9ac17839152",
+  "fetched": "2026-11-04T13:03:30Z",
+  "chars": 20520,
+  "portal_id": "54849",
+  "tip": "DECIZIE"
+ }
+}
