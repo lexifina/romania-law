@@ -1,0 +1,157 @@
+{
+ "key": "dcc-88-1995",
+ "label": "Decizia CCR nr. 88/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "88",
+ "date": "1995-10-03",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 88 din 3 octombrie 1995",
+ "subtitle": "referitoare la soluţionarea recursului declarat de Niculescu Vasile împotriva Deciziei nr. 3, pronunţată de Curtea Constituţională la data de 10 ianuarie 1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "245",
+  "bis": false,
+  "date": "1995-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "590/1991"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Niculescu Vasile împotriva Deciziei Curţii Constituţionale nr. 3 din 10 ianuarie 1995.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/1948",
+    "number": "119",
+    "year": "1948",
+    "path": "lege/1948/119"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1991",
+    "number": "58",
+    "year": "1991",
+    "path": "lege/1991/58"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6191",
+  "text_sha256": "7b1135b040f3b90be6ddce63b92a0f882316b32362c96dc3fde1735613c49f53",
+  "catalogue_sha256": "7b1135b040f3b90be6ddce63b92a0f882316b32362c96dc3fde1735613c49f53",
+  "fetched": "2026-11-02T22:49:34Z",
+  "chars": 6087,
+  "portal_id": "6191",
+  "tip": "DECIZIE"
+ }
+}
