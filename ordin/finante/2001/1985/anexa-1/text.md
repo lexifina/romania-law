@@ -1,0 +1,9 @@
+# Anexa 1
+MINISTERUL FINANȚELOR PUBLICE
+REGIM SPECIAL DIRECȚIA GENERALĂ A FINANȚELOR PUBLICE
+Seria....... / Anul 200.......... A JUDEȚULUI..........................
+Nr................................ Administrația finanțelor publice..... Str................ nr.............. Nr.............. /..................
+Către,...........................................................................
+ADRESA DE CONFIRMARE La adresa dvs. nr............. din............ 200.......... va confirmam primirea obligațiilor de plată reprezentând: 1..................... în suma de........... (...................) 2..................... în suma de.......... (...................) 3..................... în suma de.......... (...................) 4..................... în suma de.......... (...................) (se va scrie și în litere) privind pe......., cod numeric personal.........,din........, str......... nr......., bl......, sc......, et....., ap....., cu sediul principal de desfășurare a activității:................................................ va facem cunoscut ca obligațiile sus-menționate au fost înregistrate în fișele "Cont fiscal personal" ale contribuabilului mai sus menționat (s-a întocmit Înștiințarea de plată nr................... din..................... 200...........) Conducătorul unității,
+Contabil,........................................... ──────────────
+M.F. cod 14.13.17.99 Format A4/t1
