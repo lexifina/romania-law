@@ -1,0 +1,2 @@
+# Text
+În baza art. 8 din Legea nr. 101/1998 privind Statutul Băncii Naționale a României, în aplicarea prevederilor Regulamentului Băncii Naționale a României nr. 4/1998 privind regimul rezervelor minime obligatorii, Banca Naționala a României hotărăște: Ratele dobânzilor plătite la rezervele minime obligatorii, aferente lunii ianuarie 1999 - perioada de aplicare - sunt: - 10,55% pentru rezervele minime obligatorii constituite în lei; - 3,55% pentru rezervele minime obligatorii constituite în dolari S.U.A. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, MUGUR ISARESCU ---------
