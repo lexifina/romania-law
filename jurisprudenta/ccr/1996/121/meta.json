@@ -1,0 +1,140 @@
+{
+ "key": "dcc-121-1996",
+ "label": "Decizia CCR nr. 121/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "121",
+ "date": "1996-10-16",
+ "year": "1996",
+ "heading": "DECIZIE nr. 121*) din 16 octombrie 1996",
+ "subtitle": "referitoare la soluţionarea excepţiei de neconstituţionalitate a prevederilor art. 166 alin. (3) din Legea învăţământului nr. 84/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "101",
+  "bis": false,
+  "date": "1997-05-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite în parte excepţia de neconstituţionalitate ridicată de Societatea Comercială \"Aletheia\" - S.A. Bistrita şi de Asociaţia \"Aletheia Privatizare\" Bistrita în Dosarul C nr. 7.569/1995 al Judecătoriei Bistrita şi constata ca prevederile art. 166 alin. (3) din Legea învăţământului nr. 84/1995 sunt constituţionale numai în măsura în care reintegrarea, fără plata, a bazei materiale aferente procesului de instrucţie şi educaţie se referă la imobilele din patrimoniul societăţilor comerciale la care statul deţine majoritatea capitalului social, nu şi la imobilele aparţinând societăţilor comerciale care s-au privatizat în condiţiile legii.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8635",
+  "text_sha256": "802e0c29387c3485717a8e3fd49085acbcd96e48068fdb5f2b3a1baf860415bc",
+  "catalogue_sha256": "802e0c29387c3485717a8e3fd49085acbcd96e48068fdb5f2b3a1baf860415bc",
+  "fetched": "2026-11-04T14:10:26Z",
+  "chars": 8931,
+  "portal_id": "8635",
+  "tip": "DECIZIE"
+ }
+}
