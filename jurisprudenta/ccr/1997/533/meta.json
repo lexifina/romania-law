@@ -1,0 +1,154 @@
+{
+ "key": "dcc-533-1997",
+ "label": "Decizia CCR nr. 533/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "533",
+ "date": "1997-12-02",
+ "year": "1997",
+ "heading": "DECIZIE nr. 533 din 2 decembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 330^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "61",
+  "bis": false,
+  "date": "1998-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.173/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Constata ca recursul declarat de Ivanus Ion, Pavel Matei, Ceauşescu Aurel, Ilie V. Ion, Turturea Anghelina, Ungureanu Ion, Dinca Gheorghe, Ilie Gheorghe, Nedu Petre, Diaconescu Nicolae, Duligean Ion, Sarpe Dumitru, Zisu Eugen, Filip Constantin, Ceauşescu Ionel, Buduran Antonica, Sandru Filimon, Popescu Ion, Grigore Ion, Calugaru Elena, Ceauşescu Petre, Ceauşescu Ştefan, Ionel David, Gheban Gheorghe, Martescu Ion, Diaconescu Gheorghe, Buduran Gheorghe, Buduran Nicolae, Popescu Vasile, Ungureanu T. Ion, Paunescu Constantin, Turturea Ion, Varzaru Valter, Paraschivescu Ion, Paraschivescu Ana, Ungureanu Gheorghe, Gioanca Grigore, Ungureanu Constantin, Ungureanu Gheorghe, Duligean I. Ion, Duligean Gheorghe, Ungureanu Ştefan, Popescu Gh. Gheorghe, Buduran Ion, Diaconescu Pantelimon, Popescu Nicolae, Diaconescu Grigore, Diaconescu Vasile, Diaconescu Dan, Ilie Pantelimon, Pociump Ion, Babu Dumitru, Diaconescu D. Ion şi de Cojocaru I. Ion împotriva Deciziei Curţii Constituţionale nr. 57 din 25 martie 1997 este nul, fiind nemotivat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "303",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1997",
+    "number": "17",
+    "year": "1997",
+    "path": "lege/1997/17"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12995",
+  "text_sha256": "f696ed084a3e742bccf4bcc9ee47ccc9952c6f758b248b9f0d433d9967a7ffb7",
+  "catalogue_sha256": "f696ed084a3e742bccf4bcc9ee47ccc9952c6f758b248b9f0d433d9967a7ffb7",
+  "fetched": "2026-11-02T22:59:21Z",
+  "chars": 4486,
+  "portal_id": "12995",
+  "tip": "DECIZIE"
+ }
+}
