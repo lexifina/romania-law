@@ -1,0 +1,7 @@
+# Anexa nr. 6 la anexa nr. 1
+Anexa 6 la metodologie PROBA PRACTICA din cadrul concursului pentru ocuparea posturilor didactice vacante Palatele și cluburile elevilor Proba practica la palate și cluburi ale copiilor se va desfășura astfel:
+a) pentru ocuparea catedrelor vacante în profilul tehnico-aplicativ și științific, proba practica va consta din:
+● construirea unui subansamblu din componenta unui aparat sau model din domeniul cercului; ● intocmirea unei schite pentru un anumit model ce urmeaza să fie construit în domeniul cercului; ● asamblarea unor piese distincte în realizarea unui aparat sau diferite circuite; ● intocmirea unui proiect de activitate pentru o anumita tema din domeniul cercului; ● prezentarea unei oferte didactice cu privire la activitatea cercului (catedrei) pentru care candideaza;
+b) pentru ocuparea catedrelor vacante în profilul cultural-artistic sunt valabile cerințele prezentate la proba practica din cadrul liceelor vocationale;
+c) pentru ocuparea catedrelor vacante în profilul sportiv-turistic, proba practica va consta din:
+● prezentarea în scris a obiectivelor propuse spre realizare, specifice cercului pentru care concureaza; ● modalități de selecție a copiilor la activitatea de cerc și de participare în competitii; ● cunoasterea Regulamentului de organizare și desfășurare a activității din palate și cluburi ale copiilor; ● descrierea modului de realizare a unei teme sau a unui segment dintr-o activitate specifică cercului (catedrei) vacante.
