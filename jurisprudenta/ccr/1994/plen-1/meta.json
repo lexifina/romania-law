@@ -1,0 +1,180 @@
+{
+ "key": "dcc-plen-1-1994",
+ "label": "Decizia CCR (Plen) nr. 1/1994",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "plen",
+ "number": "1",
+ "date": "1994-02-08",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 1 din 8 februarie 1994",
+ "subtitle": "privind liberul acces la justiţie al persoanelor în apărarea drepturilor, libertăţilor şi intereselor lor legitime",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "69",
+  "bis": false,
+  "date": "1994-03-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "1. Instituirea unei proceduri administrativ-jurisdicţionale nu este contrară principiului prevăzut de art. 21 din Constituţie, privind liberul acces la justiţie, cît timp decizia organului administrativ de jurisdicţie poate fi atacată în faţa unei instanţe judecătoreşti.",
+  "2. Accesul la structurile judecătoreşti şi la mijloacele procedurale, inclusiv la căile de atac, se face cu respectarea regulilor de competenţa şi procedura de judecată stabilite de lege.",
+  "3. Liberul acces la justiţie se realizează numai în respectul egalităţii cetăţenilor în faţa legii şi a autorităţilor publice, astfel încât orice excludere care ar avea semnificatia încălcării egalităţii de tratament juridic este neconstitutionala."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 360/1976",
+    "number": "360",
+    "year": "1976",
+    "path": "decret/1976/360"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 68/1992",
+    "number": "68",
+    "year": "1992",
+    "path": "lege/1992/68"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3779",
+  "text_sha256": "763e7efdb5dc18449a207a16066852622e6dd4d0d429dec0168eb74c767b9dc6",
+  "catalogue_sha256": "763e7efdb5dc18449a207a16066852622e6dd4d0d429dec0168eb74c767b9dc6",
+  "fetched": "2026-11-02T22:44:22Z",
+  "chars": 13823,
+  "portal_id": "3779",
+  "tip": "DECIZIE"
+ }
+}
