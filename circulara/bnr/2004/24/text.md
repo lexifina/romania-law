@@ -1,0 +1,2 @@
+# Text
+Având în vedere prevederile Legii nr. 312/2004 privind Statutul Băncii Naționale a României și ținând seama de evoluțiile macroeconomice și monetare recente, Banca Națională a României hotărăște: Pentru luna octombrie 2004 nivelul ratei dobânzii de referință a Băncii Naționale a României este de 18,75% pe an. p. Guvernatorul Băncii Naționale a României, Emil Iota Ghizari București, 1 octombrie 2004. Nr. 24. ---------
