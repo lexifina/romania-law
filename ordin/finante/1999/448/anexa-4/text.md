@@ -1,0 +1,2 @@
+# Anexa 4
+1. Denumire: Cerere de eliberare a unui certificat de atestare fiscală pentru persoane juridice 2. Cod: 14.13.25.99/a 3. Format: A4/t1 4. Caracteristici de tipărire: file 5. Se difuzează: gratuit 6. Se utilizează la: eliberarea unui certificat de atestare fiscală pentru persoane juridice 7. Se întocmește în: 1 exemplar de: persoana juridică 8. Circula: la organul fiscal 9. Se arhivează: la dosarul fiscal al contribuabilului.
