@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 4 din 27 ianuarie 1993  privind alegerea unor membri ai Consiliului Superior al Magistraturii     EMITENT     PARLAMENT       Publicat în
+			  MONITORUL OFICIAL nr. 17 din 3 februarie 1993     În temeiul  art. 71, 72 şi 124 alin. 2 şi 3 din Legea nr. 92/1992  pentru organizarea judecătorească,  Parlamentul României adopta prezenta hotărîre.
+				 +
+			  Articolul UNIC     Se aleg ca membri ai Consiliului Superior al Magistraturii următorii:      a) dintre procurorii Procuraturii Generale:   ...    1. Simion Grigore - procuror, şef de direcţie;  2. Petru Duda - procuror, şef de serviciu;      b) dintre judecătorii tribunalelor judeţene:   ...    1. Petre Petrisor - vicepreşedinte al Tribunalului judeţului Timiş;      c) dintre procurorii Procuraturii municipiului Bucureşti:   ...    1. Viorel Nicolae Spinu - procuror-şef.  PREŞEDINTELE SENATULUI  prof. univ. OLIVIU GHERMAN  PREŞEDINTELE   CAMEREI DEPUTAŢILOR  ADRIAN NASTASE  -------------
