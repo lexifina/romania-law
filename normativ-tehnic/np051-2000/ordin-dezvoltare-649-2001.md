@@ -1,0 +1,10 @@
+ ORDIN nr. 649 din 25 aprilie 2001  privind aprobarea Normativului pentru adaptarea clădirilor civile şi spaţiului urban aferent la exigenţele persoanelor cu handicap, indicativ NP 051/2000     EMITENT     MINISTERUL LUCRĂRILOR PUBLICE, TRANSPORTURILOR ŞI LOCUINŢEI       Publicat în
+			  MONITORUL OFICIAL nr. 287 din 31 mai 2001     Ministrul lucrărilor publice, transporturilor şi locuinţei,  în temeiul prevederilor  art. 11 şi 12 din Ordonanţa de urgenta a Guvernului nr. 102/1999  privind protecţia specială şi încadrarea în munca a persoanelor cu handicap, cu modificările şi completările ulterioare,  în conformitate cu prevederile  art. 38 alin. (2) din Legea nr. 10/1995  privind calitatea în construcţii,  în temeiul prevederilor  art. 4 alin. (3) din Hotărârea Guvernului nr. 3/2001  privind organizarea şi funcţionarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei,  având în vedere avizul Consiliului tehnico-ştiinţific nr. 151 din 1 septembrie 2000,  emite prezentul ordin.
+				 +
+			  Articolul 1     Se aprobă Normativul pentru adaptarea clădirilor civile şi spaţiului urban aferent la exigenţele persoanelor cu handicap, indicativ NP 051/2000, prevăzut în anexa*) care face parte integrantă din prezentul ordin.
+				 +
+			  Articolul 2     Direcţia generală tehnica în construcţii va aduce la îndeplinire prevederile prezentului ordin.
+				 +
+			  Articolul 3         (1) Prezentul ordin intră în vigoare în termen de 30 de zile de la data publicării lui în Monitorul Oficial al României, Partea I.   ...        (2) La data intrării în vigoare a prezentului ordin îşi încetează aplicabilitatea Normativul pentru adaptarea clădirilor civile şi spaţiului urban aferent la exigenţele persoanelor cu handicap, nepublicat.   ...    ---------
+						Notă   ...
+			  *) Anexa se pune la dispoziţie celor interesaţi, de Institutul de Proiectare, Cercetare şi Tehnica de Calcul în Construcţii - S.A.   Ministrul lucrărilor  publice, transporturilor  şi locuinţei,  Miron Tudor Mitrea  -----------
