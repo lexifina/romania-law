@@ -1,0 +1,207 @@
+{
+ "key": "dcc-86-2000",
+ "label": "Decizia CCR nr. 86/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "86",
+ "date": "2000-05-04",
+ "year": "2000",
+ "heading": "DECIZIE nr. 86 din 4 mai 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 23^5 alin. (1) şi (16) din Ordonanţa de urgenta a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte, modificată şi completată prin Ordonanţa de urgenta a Guvernului nr. 50/1998, precum şi prin Ordonanţa Guvernului nr. 1/1999",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "367",
+  "bis": false,
+  "date": "2000-08-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "13.673/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 82/1997",
+    "number": "82",
+    "year": "1997",
+    "path": "oug/1997/82"
+   },
+   "articles": [
+    {
+     "art": "23-5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 1/1999",
+    "number": "1",
+    "year": "1999",
+    "path": "og/1999/1"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 23^5 alin. (1) şi (16) din Ordonanţa de urgenta a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte, modificată şi completată prin Ordonanţa de urgenta a Guvernului nr. 50/1998, precum şi prin Ordonanţa Guvernului nr. 1/1999, excepţie ridicată de Societatea Comercială \"Ceres\" - S.A. Brăila în Dosarul nr. 13.673/1999 al Judecătoriei Brăila.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 82/1997",
+    "number": "82",
+    "year": "1997",
+    "path": "oug/1997/82"
+   },
+   "articles": [
+    {
+     "art": "23-5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 1/1999",
+    "number": "1",
+    "year": "1999",
+    "path": "og/1999/1"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-08-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23686",
+  "text_sha256": "82f4cd705d0f6181457ed47e54f23ac9e916e40aeea83629f286261443bcbbc9",
+  "catalogue_sha256": "82f4cd705d0f6181457ed47e54f23ac9e916e40aeea83629f286261443bcbbc9",
+  "fetched": "2026-11-02T23:09:56Z",
+  "chars": 15628,
+  "portal_id": "23686",
+  "tip": "DECIZIE"
+ }
+}
