@@ -1,0 +1,183 @@
+{
+ "key": "dcc-164-2002",
+ "label": "Decizia CCR nr. 164/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "164",
+ "date": "2002-06-06",
+ "year": "2002",
+ "heading": "DECIZIE nr. 164 din 6 iunie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 11 alin. (3) din Ordonanţa Guvernului nr. 65/1994 privind organizarea activităţii de expertiza contabila şi a contabililor autorizaţi, modificată şi completată prin Ordonanţa Guvernului nr. 89/1998, aprobată cu modificări şi completări prin Legea nr. 186/1999",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "495",
+  "bis": false,
+  "date": "2002-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "10.322/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 65/1994",
+    "number": "65",
+    "year": "1994",
+    "path": "og/1994/65"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 11 alin. (3) din Ordonanţa Guvernului nr. 65/1994 privind organizarea activităţii de expertiza contabila şi a contabililor autorizaţi, modificată şi completată prin Ordonanţa Guvernului nr. 89/1998, aprobată cu modificări şi completări prin Legea nr. 186/1999, excepţie ridicată de Dumitru Mirica în Dosarul nr. 10.322/2000 al Judecătoriei Galaţi.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 65/1994",
+    "number": "65",
+    "year": "1994",
+    "path": "og/1994/65"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 186/1999",
+    "number": "186",
+    "year": "1999",
+    "path": "lege/1999/186"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/37165",
+  "text_sha256": "ff4f254465a5a71836d3043eed507a8958cfdfec32f676c3a55a78fd9449920b",
+  "catalogue_sha256": "ff4f254465a5a71836d3043eed507a8958cfdfec32f676c3a55a78fd9449920b",
+  "fetched": "2026-11-05T13:49:32Z",
+  "chars": 11431,
+  "portal_id": "37165",
+  "tip": "DECIZIE"
+ }
+}
