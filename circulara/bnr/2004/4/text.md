@@ -1,0 +1,2 @@
+# Text
+Având în vedere prevederile Legii nr. 101/1998 privind Statutul Băncii Naționale a României, cu modificările ulterioare, și ținând seama de evoluțiile macroeconomice și monetare recente, Banca Națională a României hotărăște: Pentru luna martie 2004, nivelul ratei dobânzii de referință a Băncii Naționale a României este de 21,25% pe an. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, MUGUR ISĂRESCU București, 1 martie 2004. Nr. 4. ---------------
