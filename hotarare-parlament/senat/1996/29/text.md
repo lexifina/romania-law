@@ -1,0 +1,4 @@
+ HOTĂRÎRE Nr. 29 din 17 septembrie 1996  privind validarea unui mandat de senator     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL NR. 227 din 23 septembrie 1996     În temeiul art. 67 alin. (1) din Constituţia României, al art. 66 alin. (9) şi al  art. 68 alin. (3) din Legea nr. 68/1992  pentru alegerea Camerei Deputaţilor şi a Senatului, precum şi al art. 11 alin. (2) şi art. 156 alin. (3) din Regulamentul Senatului,  Senatul adoptă prezenta hotărâre:
+				 +
+			  Articolul UNIC     Se validează mandatul de senator al domnului Dumitru Cojocariu, ales în Circumscripţia electorală nr. 24 Iaşi, mandat devenit vacant ca urmare a demisiei domnului senator Romul Petru Vonica, numit judecător la Curtea Constituţională.  PREŞEDINTELE SENATULUI  prof. univ. dr. OLIVIU GHERMAN  -------------------
