@@ -1,0 +1,164 @@
+{
+ "key": "dcc-53-1995",
+ "label": "Decizia CCR nr. 53/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "53",
+ "date": "1995-05-23",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 53*) din 23 mai 1995",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Legii nr. 18/1968",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "172",
+  "bis": false,
+  "date": "1995-08-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1968",
+    "number": "18",
+    "year": "1968",
+    "path": "lege/1968/18"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Legii nr. 18/1968 ridicată de Jahani Farid, Jahani Farhad şi Rapeanu Marta Petruta în Dosarul nr. 1/1995 al Comisiei de cercetare de pe lângă Judecătoria Craiova, alcătuită potrivit art. 4 alin. 1 din Legea nr. 18/1968, Curtea Constituţională nefiind legal sesizată.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1968",
+    "number": "18",
+    "year": "1968",
+    "path": "lege/1968/18"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1993",
+    "number": "54",
+    "year": "1993",
+    "path": "lege/1993/54"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-08-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6047",
+  "text_sha256": "a46cfcfbfef640a9bf4259b9ac4687613123b04f693b13750ad115bf5f1bd9a3",
+  "catalogue_sha256": "a46cfcfbfef640a9bf4259b9ac4687613123b04f693b13750ad115bf5f1bd9a3",
+  "fetched": "2026-11-02T22:48:35Z",
+  "chars": 4522,
+  "portal_id": "6047",
+  "tip": "DECIZIE"
+ }
+}
