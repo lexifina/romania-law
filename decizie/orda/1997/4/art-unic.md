@@ -1,0 +1,2 @@
+# Articolul unic
+Se acorda, începând cu data de 19 septembrie 1996, avizul de funcționare și exercitare a drepturilor ca organism de gestiune colectivă a drepturilor conexe, Centrului Roman pentru Administrarea Drepturilor Artiștilor Interpreți, denumit pe scurt CREDIDAM, având sediul în București, str. Frumoasa nr. 52, cod 78116. Directorul general al Oficiului Roman pentru Drepturile de Autor, Constanta Moisescu ------------------
