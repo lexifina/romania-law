@@ -1,0 +1,133 @@
+{
+ "key": "dcc-163-1998",
+ "label": "Decizia CCR nr. 163/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "163",
+ "date": "1998-11-10",
+ "year": "1998",
+ "heading": "DECIZIE nr. 163 din 10 noiembrie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor cap. III din Decretul nr. 207/1976 privind răspunderea materială a militarilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "489",
+  "bis": false,
+  "date": "1998-12-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 207/1976",
+    "number": "207",
+    "year": "1976",
+    "path": "decret/1976/207"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor cap. III din Decretul nr. 207/1976 privind răspunderea materială a militarilor, ridicată de Buriu Nastase, Aldea Nicolae, Foarfeca Danut, Stoicoci Petre, Alexandru Alexandru, Giman Dan, Bucur Cristina şi Comanescu Elena, în Dosarul nr. 1.057/CA/1998 al Curţii de Apel Constanta - Secţia comercială şi de contencios administrativ.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 207/1976",
+    "number": "207",
+    "year": "1976",
+    "path": "decret/1976/207"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "299",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-12-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16520",
+  "text_sha256": "9105d94a5ae98b37cdf65259bb4ba2f5400f13ecef1d9d60465b02bc4f4c8155",
+  "catalogue_sha256": "9105d94a5ae98b37cdf65259bb4ba2f5400f13ecef1d9d60465b02bc4f4c8155",
+  "fetched": "2026-11-05T06:26:08Z",
+  "chars": 6461,
+  "portal_id": "16520",
+  "tip": "DECIZIE"
+ }
+}
