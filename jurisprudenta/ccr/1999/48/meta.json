@@ -1,0 +1,188 @@
+{
+ "key": "dcc-48-1999",
+ "label": "Decizia CCR nr. 48/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "48",
+ "date": "1999-03-23",
+ "year": "1999",
+ "heading": "DECIZIE nr. 48 din 23 martie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Legea nr. 105/1997 pentru soluţionarea obiectiunilor, contestaţiilor şi a plangerilor asupra sumelor constatate şi aplicate prin actele de control sau de impunere ale organelor Ministerului Finanţelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "323",
+  "bis": false,
+  "date": "1999-07-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.020/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1997",
+    "number": "105",
+    "year": "1997",
+    "path": "lege/1997/105"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Legea nr. 105/1997 pentru soluţionarea obiectiunilor, contestaţiilor şi a plangerilor asupra sumelor constatate şi aplicate prin actele de control sau de impunere ale organelor Ministerului Finanţelor, excepţie ridicată de Societatea Comercială \"Vench Tour\" - S.R.L. în Dosarul nr. 1.020/1998 al Curţii de Apel Targu Mures - Secţia comercială şi contencios administrativ.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1997",
+    "number": "105",
+    "year": "1997",
+    "path": "lege/1997/105"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-07-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18679",
+  "text_sha256": "c2c37b3c3a8fc3f5297ea47bdf1cd2778d7d7cdb556fc639364a38fea18a1bbe",
+  "catalogue_sha256": "c2c37b3c3a8fc3f5297ea47bdf1cd2778d7d7cdb556fc639364a38fea18a1bbe",
+  "fetched": "2026-11-05T05:32:49Z",
+  "chars": 11909,
+  "portal_id": "18679",
+  "tip": "DECIZIE"
+ }
+}
