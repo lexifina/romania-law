@@ -1,0 +1,4 @@
+# Anexa 4
+------- la norma sanitară veterinara ---------------------------- DECLARAȚIE DE CONFORMITATE 1. Numele și prenumele fabricantului............................... 2. Adresa fabricantului............................................ 3. Destinația materialului......................................... 4. Numărul de tip, numărul de model sau numărul de referința....... 5. Numărul în serie................................................ 6. Anul fabricației................................................ 7. Subsemnatul declar că materialul vizat mai sus este conform cu prevederile Normei sanitare veterinare privind echipamentele electromedicale utilizate în medicina veterinara. Întocmit la........................... (semnatura) în.......................................... (numele și prenumele)............. (funcția) --------------
+Notă...
+-------

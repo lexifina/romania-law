@@ -1,0 +1,2 @@
+# Anexa 3
+------- la norma sanitară veterinara ---------------------------- MARCAJ DE CONFORMITATE "CE" Marcajul de conformitate "CE" va consta din initialele "CE", cu următoarea forma: Marcaj - trebuie să se respecte desenul gradat; - dacă marcajul este redus sau largit, proportiile date mai jos trebuie respectate; - componentele variate ale marcajului "CE" trebuie să aibă aceleași dimensiuni verticale, care nu pot fi mai mici de 5 mm. Aceasta dimensiune minima poate fi modificată la dispozitivele de dimensiuni mici.
