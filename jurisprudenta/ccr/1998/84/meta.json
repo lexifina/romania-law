@@ -1,0 +1,140 @@
+{
+ "key": "dcc-84-1998",
+ "label": "Decizia CCR nr. 84/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "84",
+ "date": "1998-05-19",
+ "year": "1998",
+ "heading": "DECIZIE nr. 84 din 19 mai 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Hotărârea Uniunii Centrale a Cooperativelor Meşteşugăreşti nr. 7 din 15 mai 1992",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "218",
+  "bis": false,
+  "date": "1998-06-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.662/1997"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Hotărârea Uniunii Centrale a Cooperativelor Meşteşugăreşti nr. 7 din 15 mai 1992, invocată de Cucu Aglaia în Dosarul nr. 1.662/1997 al Tribunalului Tulcea.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-06-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14911",
+  "text_sha256": "f075cc02df5915426516db0b694d116e57073cce6147e42c1cffdd95ae1916cf",
+  "catalogue_sha256": "f075cc02df5915426516db0b694d116e57073cce6147e42c1cffdd95ae1916cf",
+  "fetched": "2026-11-02T23:00:37Z",
+  "chars": 4480,
+  "portal_id": "14911",
+  "tip": "DECIZIE"
+ }
+}
