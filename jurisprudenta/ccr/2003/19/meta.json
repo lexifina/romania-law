@@ -1,0 +1,208 @@
+{
+ "key": "dcc-19-2003",
+ "label": "Decizia CCR nr. 19/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "19",
+ "date": "2003-01-21",
+ "year": "2003",
+ "heading": "DECIZIE nr. 19 din 21 ianuarie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 20 alin. (1), (2) şi (6) din Legea nr. 146/2002 privind regimul juridic al fundaţiilor judeţene pentru tineret şi a municipiului Bucureşti",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "171",
+  "bis": false,
+  "date": "2003-03-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.598/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/2002",
+    "number": "146",
+    "year": "2002",
+    "path": "lege/2002/146"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 20 alin. (1), (2) şi (6) din Legea nr. 146/2002  privind regimul juridic al fundaţiilor judeţene pentru tineret şi a municipiului Bucureşti, excepţie ridicată de Societatea Comercială \"Juventus\" - S.A. din Iaşi în Dosarul nr. 7.598/2002 al Tribunalului Mures - Secţia comercială şi de contencios administrativ.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 21 ianuarie 2003.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Madalina Stefania Diaconu  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/2002",
+    "number": "146",
+    "year": "2002",
+    "path": "lege/2002/146"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 597/1992",
+    "number": "597",
+    "year": "1992",
+    "path": "hg/1992/597"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 41/2002",
+    "number": "41",
+    "year": "2002",
+    "path": "og/2002/41"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 150/1990",
+    "number": "150",
+    "year": "1990",
+    "path": "decret-lege/1990/150"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-03-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/42408",
+  "text_sha256": "a69df211beea5574f57b81d340dcef9dd27a7751df765009c69e5b1a598bc469",
+  "catalogue_sha256": "a69df211beea5574f57b81d340dcef9dd27a7751df765009c69e5b1a598bc469",
+  "fetched": "2026-11-02T23:27:30Z",
+  "chars": 15887,
+  "portal_id": "42408",
+  "tip": "DECIZIE"
+ }
+}
