@@ -1,0 +1,19 @@
+# DECIZIE Nr. 31*) din 12 aprilie 1994
+referitoare la excepţia de neconstituţionalitate a Decretului nr. 224/1951 privitor la urmărirea imobiliară pentru realizarea creanţelor statului
+Viorel Mihail Ciobanu - preşedinte Mihai Constantinescu - judecător Antonie Iorgovan - judecător Florentina Geangu - magistrat-asistent Completul de judecată, convocat potrivit prevederilor art. 24 alin. (2) din Legea nr. 47/1992, constata următoarele:
+Prin Încheierea din 15 februarie 1994 a Judecătoriei Pascani, Curtea Constituţională a fost sesizată cu excepţia de neconstituţionalitate a Decretului nr. 224/1951 privitor la urmărirea imobiliară pentru realizarea creanţelor statului, invocată de reclamantul Andrii Sava în cauza ce formează obiectul Dosarului nr. 4175/1993 a acestei judecătorii.
+În motivarea excepţiei se menţionează că Decretul nr. 224/1951 este neconstitutional atât în raport cu prevederile constituţionale în vigoare la data când a fost emis, cît şi cu cele ale actualei Constituţii.
+CURTEA CONSTITUŢIONALĂ, luând act de susţinerea reclamantului, de conţinutul raportului întocmit de judecătorul-raportor, având în vedere dispoziţiile Decretului nr. 224/1951, ale art. 144 lit. c) din Constituţie, precum şi prevederile Legii nr. 47/1992, retine următoarele:
+Decretul nr. 224/1951, a cărui neconstituţionalitate se invoca, a fost expres abrogat prin art. 57 din Decretul nr. 221/1960.
+Întrucît controlul de constituţionalitate a legii nu poate privi decît legile în vigoare, scopul sau fiind acela de a împiedica aplicarea lor dacă sunt contrare Constituţiei, intervenţia Curţii Constituţionale în aprecierea unor norme juridice abrogate ar fi contrară nu numai rolului şi atribuţiilor sale stabilite prin Constituţie, ci ar fi şi o încălcare a principiului neretroactivitatii legii, prevăzut de art. 15 alin. (2) al legii fundamentale.
+Totodată, este exclusa incidenţa art. 150 alin. (1) din Constituţie, prin care legile anterioare acesteia sunt abrogate în măsura în care vin în conflict cu prevederile sale, un text abrogat deja nemaiputind fi abrogat a doua oara. În acest sens este şi Decizia Curţii Constituţionale nr. 46 din 10 septembrie 1993, publicată în Monitorul Oficial, Partea I, nr. 283 din 7 decembrie 1993 ce a avut ca obiect soluţionarea tot a unei excepţii referitoare la neconstituţionalitatea Decretului nr. 224/1951, excepţie respinsă pentru considerentul ca decretul era abrogat.
+Ţinând seama de deciziile Curţii Constituţionale nr. 27 din 25 mai 1993 şi nr. 36 din 5 iulie 1993, publicate în Monitorul Oficial, Partea I, nr. 163/1993 şi, respectiv, nr. 230/1993, conform cărora în cazul reiterării unei excepţii de neconstituţionalitate, într-o alta cauza şi de către o altă parte, dacă motivele sunt aceleaşi, soluţia nu poate fi diferita, iar potrivit art. 145 din Constituţie, care prevede că deciziile Curţii sunt obligatorii pentru viitor, de la data publicării lor în Monitorul Oficial al României, rezultă ca soluţia data prin Decizia nr. 46/1993, sus-menţionată, îşi păstrează obligativitatea şi în ce priveşte excepţia de faţa.
+Pe cale de consecinţa, excepţia de neconstituţionalitate ridicată este vadit nefondata, în sensul art. 24 alin. (2) din Legea nr. 47/1992.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) din Constituţie, al art. 13 alin. (1) lit. A.c), art. 24 alin. (2) şi art. 25 alin. (1) din Legea nr. 47/1992, în unanimitate,
+CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge ca vadit nefondata excepţia de neconstituţionalitate a Decretului nr. 224/1951, invocată de Andrii Sava în Dosarul 4175/1993 al Judecătoriei Pascani.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la data de 12 aprilie 1994.
+Notă
+*) Definitivă prin nerecurare.
+PREŞEDINTE, prof. univ. dr. Viorel Mihail Ciobanu Magistrat-asistent, Florentina Geangu ------------------------

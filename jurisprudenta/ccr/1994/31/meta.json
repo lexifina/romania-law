@@ -1,0 +1,151 @@
+{
+ "key": "dcc-31-1994",
+ "label": "Decizia CCR nr. 31/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "31",
+ "date": "1994-04-12",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 31*) din 12 aprilie 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Decretului nr. 224/1951 privitor la urmărirea imobiliară pentru realizarea creanţelor statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "177",
+  "bis": false,
+  "date": "1994-07-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4175/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 224/1951",
+    "number": "224",
+    "year": "1951",
+    "path": "decret/1951/224"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Decretului nr. 224/1951, invocată de Andrii Sava în Dosarul 4175/1993 al Judecătoriei Pascani.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 224/1951",
+    "number": "224",
+    "year": "1951",
+    "path": "decret/1951/224"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 221/1960",
+    "number": "221",
+    "year": "1960",
+    "path": "decret/1960/221"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-07-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4055",
+  "text_sha256": "47ebdaf84fbe07dbb47f217e834f2207669f738a94e649c4347715039b81d52d",
+  "catalogue_sha256": "47ebdaf84fbe07dbb47f217e834f2207669f738a94e649c4347715039b81d52d",
+  "fetched": "2026-11-02T22:44:57Z",
+  "chars": 3887,
+  "portal_id": "4055",
+  "tip": "DECIZIE"
+ }
+}
