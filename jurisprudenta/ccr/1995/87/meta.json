@@ -1,0 +1,148 @@
+{
+ "key": "dcc-87-1995",
+ "label": "Decizia CCR nr. 87/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "87",
+ "date": "1995-10-03",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 87 din 3 octombrie 1995",
+ "subtitle": "referitoare la soluţionarea recursului declarat de Societatea Comercială \"Hercules\" - S.A. Alba Iulia împotriva Deciziei nr. 16, pronunţată de Curtea Constituţională la data de 7 februarie 1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "251",
+  "bis": false,
+  "date": "1995-11-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "706/1994"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Societatea Comercială \"Hercules\" - S.A. Alba Iulia împotriva Deciziei Curţii Constituţionale nr. 16 din 7 februarie 1995.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6187",
+  "text_sha256": "3fe637b1f91ff2674ba55fa70bef3494d7d75492790014438ddea8c972fbd786",
+  "catalogue_sha256": "3fe637b1f91ff2674ba55fa70bef3494d7d75492790014438ddea8c972fbd786",
+  "fetched": "2026-11-02T22:49:14Z",
+  "chars": 6225,
+  "portal_id": "6187",
+  "tip": "DECIZIE"
+ }
+}
