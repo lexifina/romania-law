@@ -1,0 +1,189 @@
+{
+ "key": "dcc-147-2000",
+ "label": "Decizia CCR nr. 147/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "147",
+ "date": "2000-07-14",
+ "year": "2000",
+ "heading": "DECIZIE nr. 147 din 14 iulie 2000",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 162 alin. 3 din Legea nr. 109/1996 privind organizarea şi funcţionarea cooperaţiei de consum şi a cooperaţiei de credit",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "526",
+  "bis": false,
+  "date": "2000-10-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.867/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 109/1996",
+    "number": "109",
+    "year": "1996",
+    "path": "lege/1996/109"
+   },
+   "articles": [
+    {
+     "art": "162",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Societatea Comercială \"Lefcons\" - S.A. din Aiud în Dosarul nr. 5.867/1999 al Curţii de Apel Alba Iulia - Secţia comercială şi de contencios administrativ şi constata ca dispoziţiile  art. 162 alin. 3 din Legea nr. 109/1996  privind organizarea şi funcţionarea cooperaţiei de consum şi a cooperaţiei de credit sunt neconstituţionale în măsura în care obligaţia de restituire a unor bunuri sau de despăgubire, atunci când restituirea nu este posibila, revine persoanelor juridice de drept privat care deţin în proprietatea lor bunurile respective.  Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 14 iulie 2000.  PREŞEDINTELE  CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Doina Suliman  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 109/1996",
+    "number": "109",
+    "year": "1996",
+    "path": "lege/1996/109"
+   },
+   "articles": [
+    {
+     "art": "162",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 103/1966",
+    "number": "103",
+    "year": "1966",
+    "path": "decret/1966/103"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-10-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24737",
+  "text_sha256": "4ecb8868d407b9f35c5f73cd7da7b328d8519633d891227405264226430eb164",
+  "catalogue_sha256": "4ecb8868d407b9f35c5f73cd7da7b328d8519633d891227405264226430eb164",
+  "fetched": "2026-11-05T08:13:51Z",
+  "chars": 9652,
+  "portal_id": "24737",
+  "tip": "DECIZIE"
+ }
+}
