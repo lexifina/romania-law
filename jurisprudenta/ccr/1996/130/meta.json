@@ -1,0 +1,132 @@
+{
+ "key": "dcc-130-1996",
+ "label": "Decizia CCR nr. 130/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "130",
+ "date": "1996-10-29",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 130 din 29 octombrie 1996",
+ "subtitle": "referitoare la pronunţarea asupra recursului declarat de Societatea Comercială \"Agrocom\" - S.A. Bistriţa împotriva Deciziei nr. 76 din 19 iunie 1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "293",
+  "bis": false,
+  "date": "1996-11-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Societatea Comercială \"Agrocom\" - S.A. Bistrita împotriva Deciziei Curţii Constituţionale nr. 76 din 19 iunie 1996.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 13/1995",
+    "number": "13",
+    "year": "1995",
+    "path": "og/1995/13"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 13/1996",
+    "number": "13",
+    "year": "1996",
+    "path": "og/1996/13"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8672",
+  "text_sha256": "b0ec03a36563f2fab0d12ea162c074955ed390d2facb220b9bcada1053298031",
+  "catalogue_sha256": "b0ec03a36563f2fab0d12ea162c074955ed390d2facb220b9bcada1053298031",
+  "fetched": "2026-11-02T22:53:01Z",
+  "chars": 14685,
+  "portal_id": "8672",
+  "tip": "DECIZIE"
+ }
+}
