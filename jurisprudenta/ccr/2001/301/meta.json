@@ -1,0 +1,221 @@
+{
+ "key": "dcc-301-2001",
+ "label": "Decizia CCR nr. 301/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "301",
+ "date": "2001-11-08",
+ "year": "2001",
+ "heading": "DECIZIE nr. 301 din 8 noiembrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 38 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată şi ale art. 28 din Ordonanţa Guvernului nr. 70/1994 privind impozitul pe profit, republicată, modificată şi completată prin Ordonanţa Guvernului nr. 40/1998, aprobată şi modificată prin Legea nr. 249/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "34",
+  "bis": false,
+  "date": "2002-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.427/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 3/1992",
+    "number": "3",
+    "year": "1992",
+    "path": "og/1992/3"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 70/1994",
+    "number": "70",
+    "year": "1994",
+    "path": "og/1994/70"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 38 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată, excepţie ridicată de Societatea Comercială \"LEADER LEASE\" - S.A. în Dosarul nr. 2.427/1998 al Curţii Supreme de Justiţie - Secţia de contencios administrativ. 2. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 28 din Ordonanţa Guvernului nr. 70/1994 privind impozitul pe profit, republicată, modificată şi completată prin Ordonanţa Guvernului nr. 40/1998, aprobată şi modificată prin Legea nr. 249/1998, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 3/1992",
+    "number": "3",
+    "year": "1992",
+    "path": "og/1992/3"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 70/1994",
+    "number": "70",
+    "year": "1994",
+    "path": "og/1994/70"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1997",
+    "number": "105",
+    "year": "1997",
+    "path": "lege/1997/105"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 40/1998",
+    "number": "40",
+    "year": "1998",
+    "path": "og/1998/40"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33403",
+  "text_sha256": "842fb78db327b57af689bc1ac9aec52beb887412b625e39a415eb269b0697b2e",
+  "catalogue_sha256": "842fb78db327b57af689bc1ac9aec52beb887412b625e39a415eb269b0697b2e",
+  "fetched": "2026-11-02T23:18:39Z",
+  "chars": 12955,
+  "portal_id": "33403",
+  "tip": "DECIZIE"
+ }
+}
