@@ -1,0 +1,188 @@
+{
+ "key": "dcc-338-2003",
+ "label": "Decizia CCR nr. 338/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "338",
+ "date": "2003-09-16",
+ "year": "2003",
+ "heading": "DECIZIE nr. 338 din 16 septembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (5) lit. b) şi c) din Legea nr. 137/2002 privind unele măsuri pentru accelerarea privatizării",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "745",
+  "bis": false,
+  "date": "2003-10-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "12.727/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 137/2002",
+    "number": "137",
+    "year": "2002",
+    "path": "lege/2002/137"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (5) lit. b) şi c) din Legea nr. 137/2002, excepţie ridicată de Primăria Municipiului Onesti în Dosarul nr. 12.727/2002 al Tribunalului Bacau - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 137/2002",
+    "number": "137",
+    "year": "2002",
+    "path": "lege/2002/137"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 8/2003",
+    "number": "8",
+    "year": "2003",
+    "path": "oug/2003/8"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "mo: date 2003-10-24 vs catalogue DataVigoare 2003-10-23"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-10-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47187",
+  "text_sha256": "27dc6e9c73a4de12ac211123c11348bac6f4fb21252e33b38c175f22e3c412cc",
+  "catalogue_sha256": "27dc6e9c73a4de12ac211123c11348bac6f4fb21252e33b38c175f22e3c412cc",
+  "fetched": "2026-11-02T23:32:14Z",
+  "chars": 14234,
+  "portal_id": "47187",
+  "tip": "DECIZIE"
+ }
+}
