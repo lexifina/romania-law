@@ -11,7 +11,9 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 1996-06-13: registered at the Senate; documents published: Expunere de motive
+- 1997-01-16: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
 - 1996-06-13: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L110EM.PDF
+- 1997-01-16: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L110FS.PDF
