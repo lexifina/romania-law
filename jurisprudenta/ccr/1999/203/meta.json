@@ -1,0 +1,252 @@
+{
+ "key": "dcc-203-1999",
+ "label": "Decizia CCR nr. 203/1999",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "203",
+ "date": "1999-11-29",
+ "year": "1999",
+ "heading": "DECIZIE nr. 203 din 29 noiembrie 1999",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a dispoziţiilor art. 2 lit. f) din Legea privind accesul la propriul dosar şi deconspirarea securităţii ca poliţie politica",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "603",
+  "bis": false,
+  "date": "1999-12-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "215A/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea privind accesul la propriul dosar şi deconspirarea securităţii ca poliţie politica"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Constata ca dispoziţiile art. 2 lit. f) din Legea privind accesul la propriul dosar şi deconspirarea securităţii ca poliţie politica sunt constituţionale.",
+  "Decizia se comunică Preşedintelui României.",
+  "Definitivă şi obligatorie.",
+  "Dezbaterile au avut loc la data de 29 noiembrie 1999 şi la ele au participat: Lucian Mihai, preşedinte, Costica Bulai, Constantin Doldur, Kozsokar Gabor, Ioan Muraru, Nicolae Popa, Lucian Stangu, Florin Bucur Vasilescu, Romul Petru Vonica, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea Curţii Supreme de Justiţie nr. 56/1993",
+    "number": "56",
+    "year": "1993",
+    "path": "lege/1993/56"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1998",
+    "number": "1",
+    "year": "1998",
+    "path": "lege/1998/1"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 191/1998",
+    "number": "191",
+    "year": "1998",
+    "path": "lege/1998/191"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 14/1992",
+    "number": "14",
+    "year": "1992",
+    "path": "lege/1992/14"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-12-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20210",
+  "text_sha256": "8c50a2e3c36301d1813df96add4f92066f34e484bdf7cb0a846e96cf9a5bf596",
+  "catalogue_sha256": "8c50a2e3c36301d1813df96add4f92066f34e484bdf7cb0a846e96cf9a5bf596",
+  "fetched": "2026-11-02T23:07:04Z",
+  "chars": 30635,
+  "portal_id": "20210",
+  "tip": "DECIZIE"
+ }
+}
