@@ -1,0 +1,120 @@
+{
+ "key": "dcc-62-1993",
+ "label": "Decizia CCR nr. 62/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "62",
+ "date": "1993-10-21",
+ "year": "1993",
+ "heading": "DECIZIA nr. 62 din 21 octombrie 1993",
+ "subtitle": "asupra excepţiei de neconstituţionalitate invocată de Vacca Vicenzo s.a. în dosarul nr. 1/1993 al Tribunalului Municipiului Bucureşti, Secţia contencios administrativ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "49",
+  "bis": false,
+  "date": "1994-02-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 11/1990",
+    "number": "11",
+    "year": "1990",
+    "path": "lege/1990/11"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate privind art. 3 şi 4 din Legea nr. 11/1990 invocată de Vacca Vincenzo, de Rosa Claudia, Salvi Varissa, Meddaloni Rachele, Mutto Ottaviano şi Ana, Dr. Sarletti, Scotto Arturo, Brogi Marco, Lipari Guglielmo, Morelli Renzo şi Loretta, Sestito Salvadore, Calogero Maria, Caccialupi Fausto, Datolo Giovanna, Bertolini Pier Paolo, Giananti Giovanna, Maninni Sandro, Maniconi Aura, Cecchi Celso, Ragazzini Vândă, Lauretti Viller, Pangrazi Daniela, Mendito Francesco, Riganello Maria, Gaetano Romeo, Foresta Carmela, Frederico Carlo, Foresta Anna Maria, Giuseppe Sestito, Castelli Patrizia, Petruci Riccardo, Paclini Maria Cristina, Melone Vincenzo, Fiano Carmen, Bizzari Gulielmo, Martino Rosana, Calbi Francesco şi Disignano şi Calbi Isabella în dosarul nr. 1/1993 al Tribunalului Municipiului Bucureşti, Secţia contencios administrativ, cu care Curtea a fost sesizată prin Încheierea din 15 februarie 1993.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 11/1990",
+    "number": "11",
+    "year": "1990",
+    "path": "lege/1990/11"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-02-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3208",
+  "text_sha256": "762b8a44b6611d95b4ce93a72786f8723e2597544c902ac551d7073f130a9f1c",
+  "catalogue_sha256": "762b8a44b6611d95b4ce93a72786f8723e2597544c902ac551d7073f130a9f1c",
+  "fetched": "2026-11-02T22:44:17Z",
+  "chars": 11586,
+  "portal_id": "3208",
+  "tip": "DECIZIE"
+ }
+}
