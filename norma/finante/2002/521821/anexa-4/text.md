@@ -1,0 +1,8 @@
+# Anexa 3
+CRITERIILE de repartizare a sumelor în cadrul programelor anuale din Fondul special al drumurilor publice
+a) Pentru drumurile naționale din administrarea Administrației Naționala a Drumurilor
+Repartizarea surselor financiare anuale pentru drumurile naționale se face pe luna și activități, în conformitate cu anexa nr. 2 la normele metodologice, în funcție de lungimea rețelei de administrare și de necesitățile rețelei, pe categorii de lucrări.
+b) Pentru drumurile județene și comunale din administrarea consiliilor județene și locale
+Repartizarea surselor financiare anuale se face de către Administrația Naționala a Drumurilor din România, în baza propunerilor consiliilor județene sau locale după caz, în funcție de starea tehnica a rețelei, de datele din recensământul de trafic și lungimea rețelei din administrare, folosind următoarele elemente: K1 = l x mza / L x MZA l = lungimea totală a drumurilor locale de pe raza județului mza = media zilnica anuală (vehicul etalon/24 ore) pe raza județului L = lungimea totală a drumurilor locale din România MZA = media zilnica anuală pe drumurile locale din România. K2 = rezultat în baza stării tehnice a rețelei și a urgentelor stabilite de județe K = K1 x K2. În cadrul cheltuielilor curente se va prevedea o cota de minimum 15% din totalul volumului acestora pentru acțiuni și lucrări privind siguranța circulației rutiere.
+c) Pentru perimetrele destinate construcțiilor de cvartale de locuințe noi în localitățile rurale și urbane
+Repartizarea surselor financiare anuale se face de către direcția de specialitate din Ministerul Lucrărilor Publice, Transporturilor și Locuinței, în funcție de proiectele de viabilizare a respectivelor perimetre.
