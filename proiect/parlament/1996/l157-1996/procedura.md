@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 1996-09-02: registered at the Senate
+- 2001-02-05: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2001-02-05: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L157CR.PDF
