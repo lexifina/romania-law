@@ -1,0 +1,231 @@
+{
+ "key": "dcc-2-1998",
+ "label": "Decizia CCR nr. 2/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "2",
+ "date": "1998-02-03",
+ "year": "1998",
+ "heading": "DECIZIE nr. 2 din 3 februarie 1998",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. 1, art. 5, art. 12, art. 13 alin. 2, 4 şi 5 şi ale art. 24 din Legea nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "146",
+  "bis": false,
+  "date": "1998-04-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.185/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. 1, art. 5, art. 12, art. 13 alin. 2, 4 şi 5 şi ale art. 24 din Legea nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului, ridicată de Schipor Ioana Lucretia în Dosarul nr. 5.185/1997 al Judecătoriei Cluj-Napoca.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-04-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13937",
+  "text_sha256": "a209b535db4cd01669328513172474c41c9b1b7300fb9408aaf93db580a270c1",
+  "catalogue_sha256": "a209b535db4cd01669328513172474c41c9b1b7300fb9408aaf93db580a270c1",
+  "fetched": "2026-11-02T23:00:09Z",
+  "chars": 17843,
+  "portal_id": "13937",
+  "tip": "DECIZIE"
+ }
+}
