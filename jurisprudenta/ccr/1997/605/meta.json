@@ -1,0 +1,130 @@
+{
+ "key": "dcc-605-1997",
+ "label": "Decizia CCR nr. 605/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "605",
+ "date": "1997-12-09",
+ "year": "1997",
+ "heading": "DECIZIE nr. 605 din 9 decembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 şi ale art. 11 din Legea nr. 76/1992 privind măsuri pentru rambursarea creditelor rezultate din acţiunea de compensare, regimul părţilor agenţilor economici, prevenirea incapacităţii de plată şi a blocajului financiar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "80",
+  "bis": false,
+  "date": "1998-02-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1992",
+    "number": "76",
+    "year": "1992",
+    "path": "lege/1992/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul declarat de Societatea Comercială \"Gornesti Muresana\" - S.A. împotriva Deciziei Curţii Constituţionale nr. 65 din 10 aprilie 1997, pe care o desfiinţează şi, pe fond, respinge excepţia de neconstituţionalitate a dispoziţiilor art. 7 şi ale art. 11 din Legea nr. 76/1992.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1992",
+    "number": "76",
+    "year": "1992",
+    "path": "lege/1992/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13224",
+  "text_sha256": "a9bea05975896980c035f975923efd23d5371256eda1a044834c9e5d9ddbf64e",
+  "catalogue_sha256": "a9bea05975896980c035f975923efd23d5371256eda1a044834c9e5d9ddbf64e",
+  "fetched": "2026-11-02T22:59:35Z",
+  "chars": 4817,
+  "portal_id": "13224",
+  "tip": "DECIZIE"
+ }
+}
