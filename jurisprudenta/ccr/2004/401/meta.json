@@ -1,0 +1,187 @@
+{
+ "key": "dcc-401-2004",
+ "label": "Decizia CCR nr. 401/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "401",
+ "date": "2004-10-07",
+ "year": "2004",
+ "heading": "DECIZIE nr. 401 din 7 octombrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor anexei nr. 1 din Legea nr. 81/1993 privind determinarea despăgubirilor în cazul unor pagube produse fondului forestier, vegetaţiei forestiere din afara fondului forestier situate pe terenurile proprietate publică şi privată şi economiei vânatului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1112",
+  "bis": false,
+  "date": "2004-11-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.560/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/1993",
+    "number": "81",
+    "year": "1993",
+    "path": "lege/1993/81"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor anexei nr. 1 din Legea nr. 81/1993 privind determinarea despăgubirilor în cazul unor pagube produse fondului forestier, vegetaţiei forestiere din afara fondului forestier situate pe terenurile proprietate publică şi privată a economiei vânatului, excepţie ridicată de Ion Constandache în Dosarul nr. 2.560/2003 al Tribunalului Tulcea.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/1993",
+    "number": "81",
+    "year": "1993",
+    "path": "lege/1993/81"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1996",
+    "number": "26",
+    "year": "1996",
+    "path": "lege/1996/26"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/2000",
+    "number": "31",
+    "year": "2000",
+    "path": "lege/2000/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-11-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57139",
+  "text_sha256": "a78b13136da68bce91c75fcf011d7cedd4c75bbe2b5ff5a93574618f98b46163",
+  "catalogue_sha256": "a78b13136da68bce91c75fcf011d7cedd4c75bbe2b5ff5a93574618f98b46163",
+  "fetched": "2026-11-04T06:54:20Z",
+  "chars": 14158,
+  "portal_id": "57139",
+  "tip": "DECIZIE"
+ }
+}
