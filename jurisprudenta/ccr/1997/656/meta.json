@@ -1,0 +1,187 @@
+{
+ "key": "dcc-656-1997",
+ "label": "Decizia CCR nr. 656/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "656",
+ "date": "1997-12-16",
+ "year": "1997",
+ "heading": "DECIZIE nr. 656 din 16 decembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 330, art. 330^1, art. 330^2, art. 330^3 şi a art. 330^4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "22",
+  "bis": false,
+  "date": "1998-01-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "3.028/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Brandus Sergiu Mircea împotriva Deciziei Curţii Constituţionale nr. 175 din 4 iunie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "310",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1997",
+    "number": "17",
+    "year": "1997",
+    "path": "lege/1997/17"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-01-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13381",
+  "text_sha256": "eecd2df26d415d24c70b0fcc93010142045abdd595da8262c4675dda22a41af6",
+  "catalogue_sha256": "eecd2df26d415d24c70b0fcc93010142045abdd595da8262c4675dda22a41af6",
+  "fetched": "2026-11-02T22:57:48Z",
+  "chars": 5436,
+  "portal_id": "13381",
+  "tip": "DECIZIE"
+ }
+}
