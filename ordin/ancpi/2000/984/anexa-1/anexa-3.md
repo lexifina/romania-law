@@ -1,0 +1,10 @@
+# Anexa 3
+------- la regulament ------------- RAPORT DE CONTROL
+Notă...
+I. Informații generale 1. Denumirea/numele și sediul/adresa 2. Numărul și data înregistrării la registrul comerțului 3. Codul fiscal 4. Capitalul social 5. Obiectul de activitate 6. Principalele activități privind realizarea sau verificarea unor lucrări de specialitate din domeniile cadastrului, geodeziei și cartografiei 7. Activități de service (propriu sau pe bază de contract) II. Informații privind asigurarea cu personal Personal angajat permanent (nr. total), din care:
+a) personal de conducere;
+b) personal de execuție (nr. total), din care:
+- cu studii superioare de specialitate (inclusiv subingineri); - cu studii medii de specialitate;
+c) persoane fizice autorizate (nr. total), din care:
+- în domeniile A, B, C, D; - în domeniile A, B, C; - în domeniile B, C; - în domeniul C III. Informații privind dotarea tehnica, mijloace fixe, materiale și logistica 1. Sedii și/sau spații (nr. total), din care: - încăperi destinate lucrărilor de specialitate (număr, suprafața); - încăperi destinate arhivelor, bazelor de date și birourilor de documente cu caracter secret (număr, suprafața) 2. Mijloace fixe direct productive sau linii tehnologice (nr. total), din care: - aparatura de măsurat clasica/moderna (număr, denumire, tip, stare, valoare orientativa); - aparatura hardware și mijloace de calcul (număr, denumire, tip, stare, valoare orientativa); - software utilizat (denumire, număr de licențe, producător, destinație, proveniență, performanțe); 3. Alte materiale și logistica de specialitate: borne, semnale, mărci, balize, piramide, mijloace auxiliare de amplasare și măsurare (denumire, tip, stare, destinație, proveniență) 4. Mijloace de transport IV. Respectarea programului de prevenire a scurgerilor de informații V. Constatările privind obiectivele controlului Se vor prezenta constatările controlului privind aspectele prezentate la art. 7. VI. Concluzii și propuneri rezultate în urma controlului
+-------
