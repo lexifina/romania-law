@@ -1,0 +1,138 @@
+{
+ "key": "iccj-alte-1-2004",
+ "label": "Decizia ÎCCJ nr. 1/2004",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "alte",
+ "number": "1",
+ "date": "2004-02-23",
+ "year": "2004",
+ "heading": "DECIZIE nr. 1 din 23 februarie 2004",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "404",
+  "bis": false,
+  "date": "2004-05-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii, declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 14 din Codul de procedură penală şi ale art. 998 din Codul civil, stabileşte că instanţa penală învestită cu judecarea acţiunii penale în cazul infracţiunilor cu efecte complexe, cum sunt cele de ucidere din culpă şi de vătămare corporală din culpă săvârşite de un conducător auto, este învestită să judece acţiunea civilă, alăturată celei penale prin constituirea persoanei vătămate ca parte civilă, atât cu privire la pretenţiile formulate în legătură cu decesul victimei sau cu vătămările corporale suferite, cât şi cu privire la pretenţiile referitoare la bunurile distruse ori deteriorate ca urmare a aceleiaşi fapte.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2004-05-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51712",
+  "text_sha256": "484403846c227f121bb4e0f5c94ed1b105fdbb1e5113949bb6c98d9e90d4c8c9",
+  "catalogue_sha256": "484403846c227f121bb4e0f5c94ed1b105fdbb1e5113949bb6c98d9e90d4c8c9",
+  "fetched": "2026-11-06T03:52:10Z",
+  "chars": 10529,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260304090215/https://legislatie.just.ro/Public/DetaliiDocument/51712",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/51712",
+   "timestamp": "20260304090215",
+   "sha256": "bb289760f84d4070d65047d06d6c9eed8a0dcf091f60a25630f9e232f7557afe"
+  },
+  "portal_id": "51712",
+  "tip": "DECIZIE"
+ }
+}
