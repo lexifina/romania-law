@@ -1,0 +1,158 @@
+{
+ "key": "dcc-341-2004",
+ "label": "Decizia CCR nr. 341/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "341",
+ "date": "2004-09-21",
+ "year": "2004",
+ "heading": "DECIZIE nr. 341 din 21 septembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 112/2001 privind sancţionarea unor fapte săvârşite în afara teritoriului ţării de cetăţeni români sau de persoane fără cetăţenie domiciliate în România, aprobată cu modificări prin Legea nr. 252/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "924",
+  "bis": false,
+  "date": "2004-10-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "215/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 112/2001",
+    "number": "112",
+    "year": "2001",
+    "path": "oug/2001/112"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 112/2001 privind sancţionarea unor fapte săvârşite în afara teritoriului ţării de cetăţeni români sau de persoane fără cetăţenie domiciliate în România, aprobată cu modificări prin Legea nr. 252/2002, excepţie ridicată de Mugurel Sebastian Stroie în Dosarul nr. 215/2004 al Judecătoriei Braşov.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 112/2001",
+    "number": "112",
+    "year": "2001",
+    "path": "oug/2001/112"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 252/2002",
+    "number": "252",
+    "year": "2002",
+    "path": "lege/2002/252"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-10-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/55724",
+  "text_sha256": "6e0b0b796886da951eec39a622a2de02115c411e261ec2613d99ffa0d4b8ef38",
+  "catalogue_sha256": "6e0b0b796886da951eec39a622a2de02115c411e261ec2613d99ffa0d4b8ef38",
+  "fetched": "2026-11-02T23:40:47Z",
+  "chars": 7809,
+  "portal_id": "55724",
+  "tip": "DECIZIE"
+ }
+}
