@@ -1,0 +1,156 @@
+{
+ "key": "dcc-518-2004",
+ "label": "Decizia CCR nr. 518/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "518",
+ "date": "2004-11-25",
+ "year": "2004",
+ "heading": "DECIZIE nr. 518 din 25 noiembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. (1^1) lit. a) şi b) din Ordonanţa Guvernului nr. 25/2002 privind unele măsuri de urmărire a executării obligaţiilor asumate prin contractele de privatizare a societăţilor comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "69",
+  "bis": false,
+  "date": "2005-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.175/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 25/2002",
+    "number": "25",
+    "year": "2002",
+    "path": "og/2002/25"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1-1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. (1^1) lit. a) şi b) din Ordonanţa Guvernului nr. 25/2002 privind unele măsuri de urmărire a executării obligaţiilor asumate prin contractele de privatizare a societăţilor comerciale, excepţie ridicată de Asociaţia Salariaţilor \"Transport Fizicienilor\" PAS în Dosarul nr. 2.175/2004 al Tribunalului Bucureşti - Secţia a VI-a comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 25/2002",
+    "number": "25",
+    "year": "2002",
+    "path": "og/2002/25"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1-1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58714",
+  "text_sha256": "e2ff426bf5afbe051effc4b43e24dccae8017f1a10c1bb48737ebe809294e655",
+  "catalogue_sha256": "e2ff426bf5afbe051effc4b43e24dccae8017f1a10c1bb48737ebe809294e655",
+  "fetched": "2026-11-02T23:52:15Z",
+  "chars": 10807,
+  "portal_id": "58714",
+  "tip": "DECIZIE"
+ }
+}
