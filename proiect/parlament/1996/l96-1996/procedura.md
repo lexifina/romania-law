@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 1996-07-18: documents published: Raport comisie sesizată pe fond
 - 1996-09-10: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 1998-02-05: adopted by the Chamber of Deputies
+- 1998-05-25: promulgated, becomes Legea nr. 100/1998
 
 ## Documents
 
