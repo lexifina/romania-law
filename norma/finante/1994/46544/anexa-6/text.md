@@ -1,0 +1,4 @@
+# Anexa 6
+CAMERA DE COMERȚ SI INDUSTRIE A ROMÂNIEI CERTIFICAT În conformitate cu prevederile Legii nr. 26/1990 privind Registrul comerțului, Noi (Oficiul registrului comerțului de pe lângă Camera de Comerț și Industrie, naționala sau teritorială, certificam prin prezenta ca ofertantul (denumirea și sediul ofertantului) și filialele sale din....................... este înmatriculat la Registrul comerțului sub nr................... având ca activitate competenta a obiectului de activitate:................................... De asemenea, confirmăm ca în Registrul comerțului are înscrise mențiuni: - falimente; - condamnări; - amenzi; - abuz de încredere; - fals; - concurenta neloială; - alte abateri. NOTĂ: Firmele străine vor aduce acte doveditoare ca au firma înscrisă și procuri care vor fi certificate de Ministerul Comerțului sau de alte organe competente.
+Camera de Comerț și Industrie
+Oficiul Registrului comerțului, (semnătura), (ștampila),
