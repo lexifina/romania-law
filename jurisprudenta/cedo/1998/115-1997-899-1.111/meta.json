@@ -1,0 +1,97 @@
+{
+ "key": "cedo-115-1997-899-1.111-1998-09-23",
+ "label": "CEDO, PETRA c. României, 1998-09-23",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "1998-09-23",
+ "year": "1998",
+ "heading": "HOTĂRÂRE*1) din 23 septembrie 1998",
+ "subtitle": "CAZUL PETRA IMPOTRIVA ROMÂNIEI",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "637",
+  "bis": false,
+  "date": "1999-12-27",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "115/1997/899/1.111"
+ ],
+ "case_name": "PETRA",
+ "subjects": [],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. Declara ca a fost încălcat art. 8 din convenţie. 2. Declara ca a fost încălcat art. 25 din convenţie. 3. Declara"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 23/1969",
+    "number": "23",
+    "year": "1969",
+    "path": "lege/1969/23"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 9",
+    "path": null,
+    "slug": "conventia-edo-protocolul-9"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20467",
+  "text_sha256": "90922796fa280934103c1f645070ca8c01adcdc934448503c512fb0d64ef555b",
+  "catalogue_sha256": "90922796fa280934103c1f645070ca8c01adcdc934448503c512fb0d64ef555b",
+  "fetched": "2026-11-02T23:06:27Z",
+  "chars": 43427,
+  "portal_id": "20467",
+  "tip": "HOTĂRÂRE"
+ }
+}
