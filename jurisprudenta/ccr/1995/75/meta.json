@@ -1,0 +1,140 @@
+{
+ "key": "dcc-75-1995",
+ "label": "Decizia CCR nr. 75/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "75",
+ "date": "1995-07-27",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 75*) din 27 iulie 1995",
+ "subtitle": "privind excepţia de neconstituţionalitate a Decretului prezidenţial nr. 186/1989 privind exproprierea unor imobile, demolarea unor construcţii, autorizarea efectuării unor schimburi de imobile, scoaterea din funcţiune a unor fonduri fixe, precum şi realizarea şi desfiinţarea unor artere de circulaţie, situate în judeţul Covasna",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "294",
+  "bis": false,
+  "date": "1995-12-20",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 467/1979",
+    "number": "467",
+    "year": "1979",
+    "path": "decret/1979/467"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "1. Constata ca art. 4 din Decretul nr. 467/1979 privind evaluarea construcţiilor, terenurilor şi plantaţiilor, ce se preiau, cu plata, în proprietatea statului prin expropriere sau în alte cazuri prevăzute de lege, este abrogat de la intrarea în vigoare a Constituţiei, astfel cum s-a reţinut prin Decizia Curţii Constituţionale nr. 1/1993, rămasă definitivă. 2. În consecinţa, respinge ca vadit nefondata excepţia de neconstituţionalitate invocată de Herman Marta, domiciliata în municipiul Oradea, str. Nufarul nr. 13, bl. D137, ap. 8, judeţul Bihor, Kovacs Gizella, domiciliata în municipiul Sfântu Gheorghe, b-dul Grigore Balan nr. 35, bl. 52, sc. C, ap. 6, judeţul Covasna, şi Pataki Ildiko, domiciliata în municipiul Sfântu Gheorghe, str. Nicolae Iorga nr. 59, bl. 10, sc. F, ap. 14, judeţul Covasna, în Dosarul nr. 1.292/R/1994 al Curţii de Apel Braşov.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1974",
+    "number": "58",
+    "year": "1974",
+    "path": "lege/1974/58"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 467/1979",
+    "number": "467",
+    "year": "1979",
+    "path": "decret/1979/467"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-12-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6131",
+  "text_sha256": "44128344be0aaddd4aa044c8d6f262ecbc2acddb187a7ce88f9b42850a129e3c",
+  "catalogue_sha256": "44128344be0aaddd4aa044c8d6f262ecbc2acddb187a7ce88f9b42850a129e3c",
+  "fetched": "2026-11-02T22:49:39Z",
+  "chars": 8184,
+  "portal_id": "6131",
+  "tip": "DECIZIE"
+ }
+}
