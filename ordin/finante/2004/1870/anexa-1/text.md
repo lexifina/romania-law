@@ -1,0 +1,31 @@
+# Anexă
+INSTRUCȚIUNI de completare a numărului de evidență a plății 1. Numărul de evidență a plății are 23 de caractere numerice, cu următoarea structură:
+- cod document fiscal 2 caractere;
+- cod obligație bugetară 3 caractere;
+- categorie fiscală 2 caractere;
+- perioada de raportare (lună, an) 4 caractere;
+- scadență (zi, lună, an) 6 caractere;
+- tip document 1 caracter;
+- secvență 3 caractere;
+- cifra de control 2 caractere. 1.1. Cod document fiscal - se completează din nomenclatorul de documente, cu următoarele valori:
+- 10 pentru declarație/decont;
+- 20 decizie de impunere privind obligațiile fiscale suplimentare stabilite de inspecția fiscală;
+- 22 decizie de impunere pentru amenzi;
+- 24 decizie referitoare la obligațiile de plată accesorii;
+- 30 înștiințare de plată;
+- 40 titlu executoriu;
+- 50 înlesnire la plată;
+- 60 poprire;
+- 70 valorificare. 1.2. Cod obligație bugetară - se completează în conformitate cu nomenclatorul de obligații bugetare prezentat în anexa A. 1.3. Categorie fiscală - se completează cu următoarele valori, care reprezintă:
+- 01 debit;
+- 02 rată debit;
+- 03 dobândă;
+- 04 rată dobândă;
+- 07 penalități;
+- 08 rată penalități;
+- 09 dobândă simplă;
+- 10 rată dobândă simplă;
+- 11 penalitate întârziere;
+- 12 rată penalitate întârziere;
+- 13 titlu executoriu
+Ratele reprezintă sumele înscrise în graficele de eșalonare. 1.4. Perioada de raportare - se completează cu luna și anul pentru care se face declarația: llaa. 1.5. Tip document - se completează cu: - 1 pentru ordin de plată care poate constitui și declarație - în situația în care plata obligației se face la termenul legal; - 0 pentru restul situațiilor. 1.6. Scadența obligației bugetare - se completează cu ziua, luna și anul, în formatul zzllaa. 1.7. Secvența - are valoarea 0 pentru situațiile în care numărul de evidență a plății este generat de programul de asistență și diferit de 0 pentru numerele de evidență a plății generate de organul fiscal pe documentele fiscale. 1.8. Cifrele de control - se calculează automat de programul informatic. 2. Numărul de evidență a plății este generat automat de programele de asistență pentru contribuabili o dată cu editarea documentului fiscal respectiv - declarații și/sau ordine de plată - sau va fi transcris de contribuabili de pe documentul emis de organul fiscal pe ordinul de plată. 3. În situația în care ordinul de plată se întocmește pentru obligații care nu se regăsesc în nomenclatorul prezentat în anexa A, nu se generează numărul de evidență a plății. 4. Numărul de evidență a plății se înscrie în mod obligatoriu pe toate documentele de plată utilizate pentru achitarea obligațiilor fiscale.
