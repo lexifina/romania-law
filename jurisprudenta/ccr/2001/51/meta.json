@@ -1,0 +1,264 @@
+{
+ "key": "dcc-51-2001",
+ "label": "Decizia CCR nr. 51/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "51",
+ "date": "2001-02-20",
+ "year": "2001",
+ "heading": "DECIZIE nr. 51 din 20 februarie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6, art. 11 şi ale art. 25-28 din Legea nr. 60/1991 privind organizarea şi desfăşurarea adunărilor publice, modificată prin Ordonanţa Guvernului nr. 55/1994 privind majorarea limitelor minime şi maxime ale amenzilor contravenţionale stabilite prin acte normative aflate în vigoare la 1 iunie 1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "176",
+  "bis": false,
+  "date": "2001-04-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.734/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/1991",
+    "number": "60",
+    "year": "1991",
+    "path": "lege/1991/60"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 6, art. 11 şi ale  art. 25-28 din Legea nr. 60/1991  privind organizarea şi desfăşurarea adunărilor publice, modificată prin  Ordonanţa Guvernului nr. 55/1994  privind majorarea limitelor minime şi maxime ale amenzilor contravenţionale stabilite prin acte normative aflate în vigoare la 1 iunie 1994, excepţie ridicată de Rodica Neagu în Dosarul nr. 3.734/2000 al Judecătoriei Sectorului 5 Bucureşti.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 20 februarie 2001.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Gabriela Dragomirescu  ────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/1991",
+    "number": "60",
+    "year": "1991",
+    "path": "lege/1991/60"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 55/1994",
+    "number": "55",
+    "year": "1994",
+    "path": "og/1994/55"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-04-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/27824",
+  "text_sha256": "568d5a4bf64adedfd578fd241049611e01d14ffb79b917ef62801ad8a69facfc",
+  "catalogue_sha256": "568d5a4bf64adedfd578fd241049611e01d14ffb79b917ef62801ad8a69facfc",
+  "fetched": "2026-11-02T23:13:40Z",
+  "chars": 14824,
+  "portal_id": "27824",
+  "tip": "DECIZIE"
+ }
+}
