@@ -1,0 +1,6 @@
+# Anexa K
+-------- la prescripția tehnica ---------------------- Model de autorizație pentru responsabilul cu supravegherea și verificarea tehnica a instalațiilor (RSVTI) INSPECȚIA DE STAT PENTRU CONTROLUL CAZANELOR, RECIPIENTELOR SUB PRESIUNE ȘI INSTALAȚIILOR DE RIDICAT ISCIR-INSPECT IT................. AUTORIZAȚIE PENTRU SUPRAVEGHEREA ȘI VERIFICAREA TEHNICA A INSTALAȚIILOR AUTORIZAȚIA Nr.
+a) supravegherea........ din dotarea sau folosință agentului economic.
+Data........... Inspector-șef,.......................... (Semnatura, ștampila) Posesorul autorizației are obligația și răspunderile prevăzute de legislația în vigoare și prevederile prescripțiilor tehnice specifice; răspunde, împreună cu conducerea agentului economic, de luarea măsurilor pentru aplicarea prevederilor prescripțiilor tehnice specifice. Autorizația este valabilă numai în cadrul agentului economic pentru care a fost autorizat personalul. Autorizația poate fi retrasă de ISCIR-INSPECT în baza documentului de constatare a comiterii unor abateri de la prevederile legale. Prezenta autorizație este valabilă până la data de............... --------------
+ISCIR-INSPECT, supra numărul de ordine al autorizației. Exemple: B 175/1; B 275/2; G 1.305/1. instalații sub presiune și de ridicat, recipiente transportabile etc.
+Autorizația se va acorda pentru maximum 2 ani.
