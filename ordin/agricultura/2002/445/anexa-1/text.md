@@ -1,0 +1,2 @@
+# Anexa 1
+LISTA societăților de asigurare și asigurare-reasigurare care practica asigurări pentru culturile agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii, Alimentației și Pădurilor pentru anul agricol 2002/2003 Societatea Comercială AGRAS - OMNIASIG - S.A. Societatea Comercială ASIGURAREA ROMÂNEASCĂ - ASIROM - S.A. Societatea Comercială ALLIANZ TIRIAC ASIGURĂRI - S.A. ──────────────
