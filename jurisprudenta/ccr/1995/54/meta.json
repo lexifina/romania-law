@@ -1,0 +1,159 @@
+{
+ "key": "dcc-54-1995",
+ "label": "Decizia CCR nr. 54/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "54",
+ "date": "1995-05-29",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 54*) din 29 mai 1995",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 385^9 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "226",
+  "bis": false,
+  "date": "1995-10-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.371/1994",
+  "44C/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "385-9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 385 ^9 din Codul de procedură penală, invocată de inculpatii-recurenti Colda Mircea, Covaciu Roman, Dragos Vasile, Santa Iozsef şi Sautiut Daniel în dosarele nr. 1.371/1994, nr. 1.359/1994, nr. 1.310/1994, nr. 281/1994 şi nr. 1.439/1994 ale Curţii de Apel Oradea.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "385-9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38-9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-10-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6051",
+  "text_sha256": "af8c114c4f1363fee14b88681cd0dee8ea1de927b8778e240db0975a85a6598c",
+  "catalogue_sha256": "af8c114c4f1363fee14b88681cd0dee8ea1de927b8778e240db0975a85a6598c",
+  "fetched": "2026-11-02T22:49:03Z",
+  "chars": 11527,
+  "portal_id": "6051",
+  "tip": "DECIZIE"
+ }
+}
