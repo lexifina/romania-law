@@ -1,0 +1,295 @@
+{
+ "key": "dcc-388-2003",
+ "label": "Decizia CCR nr. 388/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "388",
+ "date": "2003-10-16",
+ "year": "2003",
+ "heading": "DECIZIE nr. 388 din 16 octombrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1, art. 2 alin. (1) lit. b) şi ale art. 4 din Ordonanţa de urgenta a Guvernului nr. 102/2002 privind unele măsuri pentru stimularea cererii de atribuire a folosinţei gratuite şi a investiţiilor în imobilele ce fac obiectul Ordonanţei de urgenta a Guvernului nr. 168/2001 privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, ingrasarii şi exploatării animalelor, precum şi a fabricilor de nutreturi combinate dezafectate, aprobată cu modificări şi completări prin Legea nr. 78/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "789",
+  "bis": false,
+  "date": "2003-11-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 102/2002",
+    "number": "102",
+    "year": "2002",
+    "path": "oug/2002/102"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 168/2001",
+    "number": "168",
+    "year": "2001",
+    "path": "oug/2001/168"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (1) lit. b) din Ordonanţa de urgenta a Guvernului nr. 102/2002 privind unele măsuri pentru stimularea cererii de atribuire a folosinţei gratuite şi a investiţiilor în imobilele ce fac obiectul Ordonanţei de urgenta a Guvernului nr. 168/2001 privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, ingrasarii şi exploatării animalelor, precum şi a fabricilor de nutreturi combinate dezafectate, aprobată cu modificări şi completări prin Legea nr. 78/2003, excepţie ridicată de Societatea Comercială \"Pasagro\"-S.R.L. din Craiova în Dosarul nr. 19/F/9/1999 al Tribunalului Dolj - Secţia comercială şi de contencios administrativ. 2. Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi 4 din Ordonanţa de urgenta a Guvernului nr. 102/2002 privind unele măsuri pentru stimularea cererii de atribuire a folosinţei gratuite şi a investiţiilor în imobilele ce fac obiectul Ordonanţei de urgenta a Guvernului nr. 168/2001 privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, ingrasarii şi exploatării animalelor, precum şi a fabricilor de nutreturi combinate dezafectate, aprobată cu modificări şi completări prin Legea nr. 78/2003, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 102/2002",
+    "number": "102",
+    "year": "2002",
+    "path": "oug/2002/102"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 168/2001",
+    "number": "168",
+    "year": "2001",
+    "path": "oug/2001/168"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1718",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-11-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47582",
+  "text_sha256": "b54a93b009c771ede98f4505248a9d4c57c96970abca269c7ebd531e7bae8ea0",
+  "catalogue_sha256": "b54a93b009c771ede98f4505248a9d4c57c96970abca269c7ebd531e7bae8ea0",
+  "fetched": "2026-11-02T23:32:36Z",
+  "chars": 27793,
+  "portal_id": "47582",
+  "tip": "DECIZIE"
+ }
+}
