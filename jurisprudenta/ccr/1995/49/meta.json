@@ -1,0 +1,183 @@
+{
+ "key": "dcc-49-1995",
+ "label": "Decizia CCR nr. 49/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "49",
+ "date": "1995-05-19",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 49*) din 19 mai 1995",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Decretului-lege nr. 126/1990",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "224",
+  "bis": false,
+  "date": "1995-09-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.698/1994",
+  "1.699/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 126/1990",
+    "number": "126",
+    "year": "1990",
+    "path": "decret-lege/1990/126"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Conexarea dosarelor nr. 126 C/1994, nr. 127 C/1994, nr. 12 C/1995 şi nr. 47 C/1995 la Dosarul nr. 104 C/1994. 2. Respinge ca vadit nefondate excepţiile de neconstituţionalitate privind Decretul-lege nr. 126/1990, invocate de Episcopia Română Unita cu Roma Greco-Catolica Oradea şi de Parohia Bisericii Române Unite cu Roma în Dosarul nr. 1.698/1994 al Judecătoriei Oradea, de Episcopia Română Unita cu Roma Greco-Catolica Oradea şi de Parohia Bisericii Române Unite cu Roma Greco-Catolica Marghita în Dosarul nr. 1.700/1994 al Judecătoriei Oradea, de Episcopia Română Unita cu Roma Greco-Catolica Oradea şi Seminarul - Academia Teologica - Institutul Teologic de Grad Universitar al Bisericii Române Unite cu Roma Greco-Catolica Oradea în Dosarul nr. 1.695/1994 al Judecătoriei Oradea, de Episcopia Română Unita cu Roma Greco-Catolica Oradea şi Parohia Română Unita cu Roma Greco-Catolica Oradea - Oraş Nou I în Dosarul nr. 1.699/1994 al Judecătoriei Oradea şi de Episcopia Română Unita cu Roma Greco-Catolica Oradea în Dosarul nr. 1.617/1994.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 126/1990",
+    "number": "126",
+    "year": "1990",
+    "path": "decret-lege/1990/126"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 358/1948",
+    "number": "358",
+    "year": "1948",
+    "path": "decret/1948/358"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 466/1992",
+    "number": "466",
+    "year": "1992",
+    "path": "hg/1992/466"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-09-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6030",
+  "text_sha256": "2c0b992d844f200aeaaf9aebf66a569249ceb9e9c0edf3b78beb18d2ea77dea1",
+  "catalogue_sha256": "2c0b992d844f200aeaaf9aebf66a569249ceb9e9c0edf3b78beb18d2ea77dea1",
+  "fetched": "2026-11-02T22:49:03Z",
+  "chars": 15012,
+  "portal_id": "6030",
+  "tip": "DECIZIE"
+ }
+}
