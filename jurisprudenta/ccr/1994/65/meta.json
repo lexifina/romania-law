@@ -1,0 +1,116 @@
+{
+ "key": "dcc-65-1994",
+ "label": "Decizia CCR nr. 65/1994",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "65",
+ "date": "1994-06-06",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 65 din 6 iunie 1994",
+ "subtitle": "privind constituţionalitatea art. 113 alin. 4 din Regulamentul Camerei Deputaţilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "156",
+  "bis": false,
+  "date": "1994-06-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "1. Textul art. 113 alin. 4 din Regulamentul Camerei Deputaţilor este constituţional numai în măsura în care prin regulament s-ar stabili un termen rezonabil pentru supunerea la vot a problemei aflate în discuţie, destinat să asigure păstrarea actualitatii acestei probleme.",
+  "2. Prezenta decizie se comunică Camerei Deputaţilor şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4255",
+  "text_sha256": "c0dcd6f177a30483e822b1350a0310a92793485b3d248963d6a6de52fcf376d7",
+  "catalogue_sha256": "c0dcd6f177a30483e822b1350a0310a92793485b3d248963d6a6de52fcf376d7",
+  "fetched": "2026-11-02T22:44:49Z",
+  "chars": 10948,
+  "portal_id": "4255",
+  "tip": "DECIZIE"
+ }
+}
