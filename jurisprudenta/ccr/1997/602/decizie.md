@@ -1,0 +1,20 @@
+# DECIZIE nr. 602 din 9 decembrie 1997
+referitoare la excepţia de neconstituţionalitate a art. 330 şi a art. 330^1 din Codul de procedură civilă
+Ioan Muraru - preşedinte Costica Bulai - judecător Florin Bucur Vasilescu - judecător Romul Petru Vonica - judecător Victor Dan Zlatescu - judecător Paula C. Pantea - procuror Maria Bratu - magistrat-asistent Pe rol, pronunţarea asupra recursului declarat de Voiculescu Ion împotriva Deciziei Curţii Constituţionale nr. 56 din 20 martie 1997 *). -------------
+Notă
+*) Decizia Curţii Constituţionale nr. 56 din 20 martie 1997 a fost publicată în Monitorul Oficial al României, Partea I, nr. 306 din 11 noiembrie 1997.
+Dezbaterile au avut loc în şedinţa publică din data de 2 decembrie 1997, în prezenta reprezentantului Ministerului Public şi în lipsa părţilor legal citate, şi au fost consemnate în încheierea de la acea data, când Curtea, având nevoie de timp pentru a delibera, a amânat pronunţarea pentru data de 9 decembrie 1997.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 21 ianuarie 1997, pronunţată în Dosarul nr. 2.283/1996, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a art. 330 şi a art. 330^1 din Codul de procedură civilă, ridicată de Voiculescu Ion.
+Prin Decizia nr. 56 din 20 martie 1997, Curtea Constituţională a respins, ca vadit nefondata, excepţia de neconstituţionalitate a dispoziţiilor art. 330 şi ale art. 330^1 acestea din urma fiind considerate ca lipsite de obiect în urma modificării aduse prin Legea nr. 17/1997 şi a stabilirii termenului de 6 luni pentru declararea recursului în anulare.
+Împotriva decizie a declarat recurs, în termen legal, Voiculescu Ion, care îşi motiveaza recursul cu temeiurile de fapt şi de drept ale acţiunii în revendicarea imobilelor.
+Potrivit art. 24 alin. (3) din Legea nr. 47/1992, întrucât excepţia a fost respinsă ca vadit nefondata, s-au solicitat puncte de vedere celor două Camere ale Parlamentului şi Guvernului.
+Guvernul, în punctul sau de vedere, apreciază ca recursul este neîntemeiat, întrucât, prin Decizia nr. 73 din 4 iunie 1996, rămasă definitivă prin Decizia nr. 96 din 24 septembrie 1996, Curtea Constituţională a constatat ca dispoziţiile art. 330 din Codul de procedură civilă sunt constituţionale, iar în ceea ce priveşte art. 330^1, dispoziţiile acestuia au fost modificate prin Legea nr. 17/1997, introducându-se termenul de 6 luni pentru exercitarea recursului în anulare, astfel ca s-au înlăturat prevederile ce formau obiectivul excepţiei de neconstituţionalitate. Curtea Constituţională, prin deciziile nr. 52 din 8 martie 1997 şi nr. 78 din 22 aprilie 1997, definitive, a stabilit ca excepţiile de neconstituţionalitate referitoare la acest articol sunt lipsite de obiect.
+Camera Deputaţilor şi Senatul nu au comunicat punctele lor de vedere.
+CURTEA, având în vedere decizia atacată, motivele de recurs invocate, punctul de vedere al Guvernului, susţinerile părţilor, concluziile procurorului, raportul întocmit de judecătorul-raportor, prevederile art. 330 şi ale art. 330^1 din Codul de procedură civilă, raportate la dispoziţiile Constituţiei şi ale Legii nr. 47/1992, constata următoarele:
+Analizând, din oficiu, Decizia nr. 56 din 20 martie 1997, potrivit art. 306 alin. 2 şi 3 din Codul de procedură civilă, Curtea retine că nu mai exista nici un motiv de recurs de ordine publică, pe care să-l invoce cu privire la decizia care face obiectul recursului, în vederea casării ei.
+Pentru motivele arătate, în temeiul art. 144 lit. c) şi ale art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 25 şi al art. 26 din Legea nr. 47/1992, CURTEA În numele legii DECIDE:
+Respinge recursul declarat de Voiculescu Ion împotriva Deciziei Curţii Constituţionale nr. 56 din 20 martie 1997.
+Definitivă.
+Pronunţată în şedinţa publică din 9 decembrie 1997.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN MURARU Magistrat-asistent, Maria Bratu -------------
