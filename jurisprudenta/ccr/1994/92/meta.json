@@ -1,0 +1,173 @@
+{
+ "key": "dcc-92-1994",
+ "label": "Decizia CCR nr. 92/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "92",
+ "date": "1994-10-12",
+ "year": "1994",
+ "heading": "DECIZIA NR. 92 *) DIN 12 OCTOMBRIE 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor cap. III secţiunea a 3-a \"Controlul ulterior\" din Legea nr. 94/1992, a Hotărârii Senatului nr. 25 din 15 septembrie 1993 şi a Hotărârii Senatului nr. 5 din 15 februarie 1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "348",
+  "bis": false,
+  "date": "1994-12-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "24/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate invocată de Ministerul Apărării Naţionale şi Arambasa Constantin în Dosarul nr. 24/1994 al Colegiului jurisdicţional al Curţii de Conturi.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/1991",
+    "number": "10",
+    "year": "1991",
+    "path": "lege/1991/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-12-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4371",
+  "text_sha256": "09b851f1ca8efdb5975595352d053d5366035396fde311befe39d487a7a62787",
+  "catalogue_sha256": "09b851f1ca8efdb5975595352d053d5366035396fde311befe39d487a7a62787",
+  "fetched": "2026-11-02T22:46:10Z",
+  "chars": 8225,
+  "portal_id": "4371",
+  "tip": "DECIZIE"
+ }
+}
