@@ -1,0 +1,41 @@
+# Anexă
+REPARTIZAREA PE DIRECȚII SILVICE a volumului maxim de masa lemnoasă pe picior care poate fi recoltat în anul 2002 din pădurile proprietate publică a statului administrate de Regia Naționala a Pădurilor
+Direcția silvică Volum (mii m3)
+Alba 380
+Arad 532
+Argeș 430
+Bacău 697
+Bihor 338
+Bistrița-Năsăud 62
+Botoșani 119
+Brașov 187
+București 196
+Buzău 378
+Caraș-Severin 787
+Cluj-Napoca 224
+Constanța 82
+Covasna 273
+Dâmbovița 315
+Dolj 230
+Gorj 358
+Harghita 262
+Hunedoara 464
+Ialomița 377
+Iași 268
+Maramureș 657
+Mehedinți 299
+Mureș 525
+Neamț 1.067
+Olt 110
+Prahova 389
+Sălaj 92
+Sibiu 193
+Suceava 2.035
+Teleorman 66
+Timiș 297
+Tulcea 156
+Vaslui 182
+Vâlcea 410
+Vrancea 378
+ICAS 385
+TOTAL: 14.200 ────────────
