@@ -1,0 +1,2 @@
+ HOTĂRÎREA nr. 8 din 13 februarie 1992  privind stabilirea termenului pentru prezentarea Raportului Comisiei pentru cercetarea evenimentelor din "Decembrie 1989"      EMITENT     SENAT       Publicat în
+			  MONITORUL OFICIAL nr. 23 din 19 februarie 1992     Senatul hotărăşte:   Se stabileşte ca Raportul Comisiei pentru cercetarea evenimentelor din decembrie 1989, instituită prin Hotărîrea Senatului nr. 11/1991, să fie prezentat pînă la sfîrşitul lucrărilor actualei sesiuni ordinare a Senatului.  PREŞEDINTELE SENATULUI  academician ALEXANDRU BÎRLĂDEANU  -------------------
