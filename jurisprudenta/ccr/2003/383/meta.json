@@ -1,0 +1,171 @@
+{
+ "key": "dcc-383-2003",
+ "label": "Decizia CCR nr. 383/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "383",
+ "date": "2003-10-14",
+ "year": "2003",
+ "heading": "DECIZIE nr. 383 din 14 octombrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 188 din Legea nr. 141/1997 privind Codul vamal al României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "751",
+  "bis": false,
+  "date": "2003-10-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1997",
+    "number": "141",
+    "year": "1997",
+    "path": "lege/1997/141"
+   },
+   "articles": [
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 188 din Legea nr. 141/1997  privind Codul vamal al României, excepţie ridicată de Societatea Comercială \"Nippon Group Product\" - S.R.L. din Bucureşti în Dosarul nr. 164/RCA/2003 al Tribunalului Constanta - Secţia civilă.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 14 octombrie 2003.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent şef,  Doina Suliman  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1997",
+    "number": "141",
+    "year": "1997",
+    "path": "lege/1997/141"
+   },
+   "articles": [
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/1993",
+    "number": "26",
+    "year": "1993",
+    "path": "og/1993/26"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-10-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47241",
+  "text_sha256": "7dd6000985edec775eab23a9b43a5f16009789448a665f9582b576ad15ad09fc",
+  "catalogue_sha256": "7dd6000985edec775eab23a9b43a5f16009789448a665f9582b576ad15ad09fc",
+  "fetched": "2026-11-02T23:32:16Z",
+  "chars": 8511,
+  "portal_id": "47241",
+  "tip": "DECIZIE"
+ }
+}
