@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 57 din 2 noiembrie 1992  privind demisia unor deputaţi     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 277 din 6 noiembrie 1992     În temeiul art. 67 alin. (2) şi art. 68 alin. (2) din Constituţia României, precum şi al art. 166 din Regulamentul Camerei Deputaţilor,  Camera Deputaţilor hotărăşte:
+				 +
+			  Articolul UNIC     Camera Deputaţilor ia act de cererile de demisie prezentate de domnii Marin Ionică, deputat în Circumscripţia electorală nr. 29 Olt, aparţinînd Grupului parlamentar al Frontului Salvării Naţionale, şi Vasile Fudulică, deputat în Circumscripţia electorală nr. 40 Vrancea, aparţinînd Grupului parlamentar al Frontului Democrat al Salvării Naţionale, şi declară vacante locurile de deputaţi deţinute de aceştia.  PREŞEDINTELE CAMEREI DEPUTAŢILOR  ADRIAN NĂSTASE  Bucureşti, 2 noiembrie 1992.  Nr. 57.  -------
