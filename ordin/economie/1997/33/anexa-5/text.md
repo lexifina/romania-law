@@ -1,0 +1,19 @@
+# Anexa 5
+REGIA NAȚIONALĂ A PĂDURILOR
+Direcția silvică..........
+Adresa....................
+Nr........ din...........
+Către
+Ministerul Industriei și Comerțului
+Direcția licențe
+Certificăm prin prezenta că Societatea Comercială........................... având codul fiscal........................, a contractat masa lemnoasă aferentă anului 1997, provenită din:
+● pădurile proprietate publică a statului, administrate de Regia Națională a Pădurilor......................................................................
+● pădurile proprietate privată..............................................
+● pășuni împădurite, aliniamente de arbori și păduri sau terenuri cu vegetație forestieră administrată de persoane juridice, altele decât Regia Națională a Pădurilor.......................................
+Cantitatea de cherestea de fag ce poate fi exportată conform Hotărârii Guvernului nr............ este următoarea:
+● Cherestea de fag............. m3,....................... m3.
+(în cifre)
+(în litere)
+Prezenta certificare este valabilă numai în original.
+Director................................... (ștampila direcției silvice, semnătura și numele persoanei autorizate)
+---------
