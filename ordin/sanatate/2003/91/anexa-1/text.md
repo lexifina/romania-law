@@ -1,0 +1,111 @@
+# Anexa nr. 1
+1. Instituții sanitare publice finanțate integral din venituri proprii 1.1. Spitalele și celelalte unități sanitare publice care își acoperă cheltuielile curente și de capital din veniturile proprii realizate din prestări de servicii medicale, pe bază de contracte, în calitate de furnizori de servicii medicale în cadrul sistemului de asigurări sociale de sănătate, precum și din alte activități funcționează pe principiul finanțării integrale din venituri proprii, incadrandu-se în prevederile art. 62 alin. (1) lit. c) din Legea nr. 500/2002 privind finanțele publice. 1.2. Spitalele și unitățile sanitare publice pot primi sume de la bugetul de stat, bugetele locale sau bugetul Fondului național unic de asigurări sociale de sănătate, care se utilizează, în condițiile legii, numai pentru destinatiile pentru care au fost aprobate. 1.3. Veniturile și cheltuielile spitalelor și ale celorlalte unități sanitare publice prevăzute la alin. (1) se aproba anual prin bugetele de venituri și cheltuieli ce stau la baza funcționarii instituțiilor sanitare în cadrul exercițiului financiar respectiv. 1.4. Bugetul de venituri și cheltuieli se aproba și se executa în conformitate cu prevederile Legii nr. 500/2002, Ordonanței Guvernului nr. 68/2001 pentru modificarea Legii nr. 146/1999 privind organizarea, funcționarea și finanțarea spitalelor și ale Ordonanței Guvernului nr. 70/2002 privind administrarea unităților sanitare publice de interes județean și local, precum și cu alte reglementări în domeniu. 2. Elaborarea și aprobarea proiectului bugetului de venituri și cheltuieli de către instituțiile sanitare publice 2.1. Proiectul bugetului de venituri și cheltuieli se elaborează avându-se în vedere pentru activitatea curenta de acordare a asistenței medicale, atât la venituri, cat și la cheltuieli, estimarea sumelor ce se pot realiza potrivit prevederilor legale în vigoare, iar pentru alte activități ce se desfășoară în cadrul unităților sanitare, baza legală a finanțării acestora. 2.2. Elaborarea proiectului bugetului de venituri și cheltuieli se face pe baza următoarelor elemente de fundamentare:
+a) - dimensionarea veniturilor proprii, pe surse, în concordanta cu volumul prestărilor de servicii medicale și al celorlalte activități, precum și cu contractele de servicii ce se vor încheia, având ca nivel de referința realizarile estimate pentru anul în curs, creșterea sau reducerea capacității unității de a presta servicii medicale, indicele de inflație prognozat de instituțiile abilitate, noi surse de venituri etc.;
+- sumele care pot fi primite în condițiile cap. 1 pct. 1.2; - sumele provenite din valorificarea unor bunuri, donații și sponsorizări cu caracter general sau destinație specială;
+b) dimensionarea cheltuielilor se face pe bază de calcule analitice pentru fiecare articol și alineat de cheltuieli, având ca punct de plecare realizarile estimate ale anului curent, limitarea tuturor categoriilor de cheltuieli la strictul necesar funcționarii unității pentru asigurarea îndeplinirii obligațiilor asumate prin contractul privind serviciile medicale încheiate cu casele de asigurări de sănătate, precum și realizarea unei bune gestiuni a fondurilor publice.
+2.3. Ordonatorii de credite au obligația de a analiza propunerile de venituri și cheltuieli, acordându-se o atenție deosebită pentru ca: - veniturile propuse să asigure acoperirea integrală a cheltuielilor necesare realizării serviciilor medicale care urmează a fi prestate pe bază de contracte; - cheltuielile pe articole și alineate să fie stabilite la strictul necesar al funcționarii instituției sanitare, fiind reduse cele care s-au dovedit ineficiente și inoportune; - să se ia măsurile necesare în vederea asigurării realizării veniturilor, efectuării plăților în limitele aprobate și a disponibilului din cont. În cazul în care veniturile curente nu acoperă cheltuielile curente, diferența rămasă poate fi acoperită din soldul de disponibil rămas la finele anului, urmând ca la finele machetei bugetului de venituri și cheltuieli să se înscrie: total venituri, total cheltuieli, diferența care se acoperă cu soldul din anul precedent. 2.4. Negocierea bugetului de venituri și cheltuieli:
+a) Proiectul bugetului de venituri și cheltuieli întocmit de instituțiile sanitare publice se negociaza de conducerea acestora cu conducerea direcției de sănătate publică sau a ministerului, în funcție de subordonare, și cu conducerea casei de asigurări de sănătate cu care se încheie contractul de furnizare de servicii medicale, potrivit art. 13 din Legea nr. 146/1999 privind organizarea, funcționarea și finanțarea spitalelor, astfel cum a fost modificat prin Ordonanța Guvernului nr. 68/2001.
+b) Proiectul bugetului de venituri și cheltuieli se definitiveaza și se aproba după semnarea contractului de furnizare de servicii medicale cu casa de asigurări de sănătate.
+2.5. Aprobarea bugetului de venituri și cheltuieli al instituției sanitare publice se face după cum urmează:
+a) pentru cele de interes național, de către conducerea acestora, cu acordul ordonatorului principal de credite, respectiv al Ministerului Sănătății și Familiei;
+b) pentru cele de interes local, de către conducerea acestora, după obținerea avizelor conform art. 3 lit. a) și art. 4 lit. a) din Ordonanța Guvernului nr. 70/2002, de la direcțiile de sănătate publică și de la președinții consiliilor județene și primării comunelor, orașelor, municipiilor și ai sectoarelor municipiului București.
+Bugetul de venituri și cheltuieli al instituției sanitare publice poate fi rectificat, în cazuri justificate, de către persoanele care l-au aprobat, prevăzute la lit. a) și b), prin aplicarea acelorași proceduri ca și în cazul bugetului inițial. 3. Structura bugetului de venituri și cheltuieli 3.1. Proiectul bugetului de venituri și cheltuieli al instituțiilor prevăzute la cap. 1 se întocmește conform structurii prevăzute în anexa care face parte integrantă din prezentele norme metodologice.
+a) Veniturile se constituie din:
+- venituri proprii, care provin din veniturile realizate în raport cu serviciile medicale furnizate pe baza contractelor încheiate cu casa de asigurări de sănătate, din sumele încasate potrivit actelor adiționale la contract pentru cheltuieli cu destinație specială și din alte venituri, în care se includ veniturile obținute din serviciile medicale acordate la cererea persoanelor fizice sau juridice, veniturile din chirii, asocieri investitionale în profil medical, precum și alte venituri dobândite în condițiile legii; - venituri din valorificarea unor bunuri; - venituri din donații și sponsorizări; - sume primite cu destinație specială, potrivit legii, din bugetul local sau bugetul de stat, precum și venituri din contravaloarea medicamentelor și materialelor sanitare furnizate de Casa Naționala de Asigurări de Sănătate din bugetul Fondului național unic de asigurări sociale de sănătate, fără plata.
+b) Cheltuielile sunt evidentiate pe total pentru activitatea finanțată din venituri proprii și alte venituri și separat pentru activitățile finanțate din sumele primite de la bugetul local, din contravaloarea medicamentelor și materialelor sanitare furnizate de Casa Naționala de Asigurări de Sănătate din bugetul Fondului național unic de asigurări sociale de sănătate, fără plata, și de la bugetul de stat, conform destinațiilor speciale stabilite de legea care le reglementează.
+3.2. Indicatorii financiari din proiectul de buget au la baza veniturile ce urmează a se incasa din contractele încheiate cu casa de asigurări de sănătate și din celelalte surse de finanțare, precum și cheltuielile unității, fundamentate în conformitate cu normele și normativele aprobate, urmărind realizarea echilibrului financiar, conform machetei prevăzute în anexa. 4. Veniturile instituției sanitare publice 4.1. Veniturile instituției sanitare publice se încasează, se administrează, se utilizează și se contabilizeaza potrivit dispozițiilor legale aplicabile instituțiilor publice finanțate integral din venituri proprii. 4.2. Veniturile instituției sanitare publice aferente activității de acordare a serviciilor medicale se constituie din sumele prevăzute la pct. I, II și VII din macheta de buget. 4.3. Sumele primite de la bugetul local, bugetul de stat și contravaloarea medicamentelor și materialelor sanitare repartizate fără plata de Casa Naționala de Asigurări de Sănătate se cuprind distinct în bugetul de venituri și cheltuieli, conform pct. X din macheta de buget. 5. Cheltuielile instituției sanitare publice 5.1. Cheltuielile instituției sanitare publice aprobate în bugetul de venituri și cheltuieli se efectuează în limita veniturilor realizate, avându-se în vedere următoarele:
+a) Cheltuieli de personal
+Cheltuielile de personal se stabilesc pe baza numărului de posturi pe funcții și a drepturilor salariale, potrivit statului de funcții. Ca regula generală, numărul de angajați trebuie corelat cu necesarul strict de forta de muncă pentru realizarea serviciilor medicale, a celorlalte activități de întreținere și exploatare, actionandu-se pentru rationalizarea serviciilor utilitare, externalizarea acestora în cazul în care se realizează servicii de mai buna calitate și cu costuri mai reduse.
+b) Cheltuieli materiale și servicii
+Unitățile sanitare vor prevedea, pe subdiviziunile clasificației bugetare, cheltuielile, în condițiile legii, cu maximum de eficienta și eficacitate. În cazul unor cheltuieli (medicamente, materiale sanitare și consumabile etc.) pentru eficientizarea activității se vor aproba de către conducerea unității norme interne proprii.
+c) Cheltuieli de capital
+Pentru cheltuielile de capital se va întocmi lista investițiilor ce urmează a fi finanțate în cursul anului, care se aproba o dată cu bugetul de venituri și cheltuieli. Listele de investiții se întocmesc conform Ordinului ministrului finanțelor nr. 2.487/1996 pentru aprobarea Normelor metodologice privind finanțarea investițiilor instituțiilor publice prin trezoreria statului și a Normelor metodologice privind aplicarea de către trezoreriile statului a mecanismului de finanțare a investițiilor instituțiilor publice, publicat în Monitorul Oficial al României, Partea I, nr. 355 din 30 decembrie 1996, modificat și completat prin Ordinul ministrului finanțelor nr. 1.169/1997, publicat în Monitorul Oficial al României, Partea I, nr. 134 din 30 iunie 1997. Aprobarea listelor de investiții se face, în cazul instituțiilor sanitare publice de interes județean și local, de către conducerea instituțiilor respective, cu avizul direcțiilor de sănătate publică și al președinților consiliilor județene sau primarilor comunelor, orașelor, municipiilor și ai sectoarelor municipiului București, după caz, și al Ministerului Sănătății și Familiei pentru instituțiile sanitare de interes public național. 5.2. Din fondurile primite de la bugetul de stat se pot efectua cheltuieli numai pe destinatiile pentru care au fost alocate aceste sume, după cum urmează: - pentru derularea unor activități din programele de sănătate (cheltuieli de personal, materiale și servicii și de capital), conform actelor normative care reglementează derularea acestora; - cheltuieli de personal reprezentând drepturile salariale și contribuțiile aferente rezidenților din anii I și II de studiu; - funcționarea unor unități fără personalitate juridică din structura spitalului (cheltuieli de personal, materiale și servicii și de capital); - cheltuieli de capital pentru expertizarea, proiectarea și consolidarea construcțiilor și pentru achiziționarea aparaturii de înaltă performanta. 5.3. Din fondurile primite de la bugetul local se poate asigura finanțarea pentru finalizarea construcțiilor noi de interes local, precum și a cheltuielilor pentru întreținere și gospodărire, realizarea de reparații curente și capitale, consolidare, extindere și modernizare. 6. Execuția bugetului de venituri și cheltuieli 6.1. Bugetul de venituri și cheltuieli aprobat intră în execuție o dată cu exercițiul financiar, moment în care se încasează venituri, se angajează cheltuieli și se efectuează plati. 6.2. Bugetul de venituri și cheltuieli aprobat se depune, în copie, la unitatea de trezorerie a statului la care instituția sanitară are conturile deschise. Conform prevederilor Legii nr. 500/2002, până la depunerea bugetului de venituri și cheltuieli aprobat nu pot fi dispuse plati. 6.3. Conducerea instituției sanitare publice îndeplinește atribuțiile ordonatorilor terțiari de credite prevăzute de Legea nr. 500/2002 și răspunde pentru: - asigurarea realizării la termen a veniturilor din bugetul propriu care constituie sursa de acoperire a plăților; - prevenirea înregistrării de obligații de plată către furnizori și creditori fără acoperire în bugetul de venituri și cheltuieli; - asigurarea lichidării obligațiilor de plată rămase la încheierea exercițiului financiar, din prevederile bugetului aprobat pentru anul curent; - angajarea, lichidarea și ordonanțarea plăților în limita prevederilor aprobate în bugetul propriu, pe subcapitole, titluri, articole și alineate; - organizarea achizițiilor publice, în conformitate cu dispozițiile legale; - angajarea, lichidarea și ordonanțarea plăților din sumele primite de la alte bugete, respectându-se limita pe fiecare destinație; - organizarea evidentei contabile a execuției bugetului de venituri și cheltuieli, inclusiv a activelor și pasivelor unității, precum și inventarierea patrimoniului; - organizarea în mod distinct a evidentei derulării programelor de sănătate, precum și a indicatorilor specifici aferenți acestora. 6.4. Pentru veniturile încasate și plățile dispuse în limita bugetului de venituri și cheltuieli (pe subdiviziunile acestuia) instituția sanitară publică are deschise la trezoreria statului următoarele conturi: ● contul 5041 "Disponibil din venituri proprii din activitatea sanitară conform Ordonanței de urgenta a Guvernului nr. 150/2002 ", în care se înregistrează: - veniturile proprii încasate din activitatea de prestări de servicii medicale pe bază de contracte și din acte adiționale, încheiate cu casa de asigurări de sănătate, alte venituri din activitatea proprie, precum și veniturile din valorificarea unor bunuri; - plățile dispuse în limita prevederilor bugetului de venituri și cheltuieli; ● contul 5007 "Disponibil din donații și sponsorizări"; ● contul 5047 "Disponibil din alocații bugetare cu destinație specială", în care se înregistrează sumele primite de la bugetul de stat și bugetele locale, precum și plățile dispuse de instituțiile publice sanitare pentru îndeplinirea acțiunilor respective. 6.5. Angajarea, lichidarea, ordonanțarea și efectuarea plăților se vor organiza în fiecare instituție publică de către ordonatorul de credite, în conformitate cu Normele metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor instituțiilor publice, precum și organizarea, evidenta și raportarea angajamentelor bugetare și legale, aprobate prin Ordinul ministrului finanțelor publice nr. 1.792/2002. Ordonatorii de credite terțiari ai instituțiilor sanitare publice vor stabili prin decizie interna: - persoanele angajate care au atribuții și responsabilități pentru compartimentele de specialitate privind operațiunile de angajare, lichidare și ordonantare. Pentru cheltuielile cu procurarea medicamentelor și a materialelor sanitare, documentele privind angajarea, lichidarea și ordonanțarea se emit de secțiile din spital, în calitate de compartiment de specialitate, și se semnează de șeful de secție sau de inlocuitorul acestuia; - persoanele autorizate care efectuează plățile pe baza documentelor ordonanțate de către ordonatorul de credite; - persoanele angajate pentru executarea controlului financiar preventiv. 6.6. Angajarea, lichidarea și ordonanțarea cheltuielilor se efectuează pe parcursul exercițiului financiar, în limita disponibilului de prevederi de cheltuieli la subdiviziunea (subcapitol, titlu, articol și alineat) la care se încadrează plata respectiva. 6.7. Plățile se efectuează de către persoanele care îndeplinesc funcția de contabil, stabilite de conducătorul instituției sanitare publice, în conformitate cu Ordinul ministrului finanțelor publice nr. 1.792/2002. Plățile se efectuează în limita bugetului de venituri și cheltuieli, atât pentru angajamentele aferente activității curente, cat și pentru datoriile aferente anilor anteriori, astfel încât arieratele de la începutul anului să fie mai mici decât cele de la sfârșitul anului. Arieratele anului precedent pot fi plătite din prevederile anului curent, potrivit normelor de aplicare a contractului-cadru și a altor reglementări legale elaborate în acest scop. 6.8. Ordonatorii de credite vor organiza contabilitatea încasărilor și plăților pe subdiviziunile bugetului aprobat (subcapitol, titlu, articol și alineat) în cadrul contului contabil de activ 127 "Disponibil din activitatea sanitară conform Ordonanței de urgenta a Guvernului nr. 150/2002 ", al contului de activ 192 "Disponibil din alocații bugetare cu destinație specială" și al contului de activ 119 "Disponibil din fonduri cu destinație specială", după caz. 6.9. În conformitate cu pct. 5 din normele metodologice aprobate prin Ordinul ministrului finanțelor publice nr. 1.792/2002, ordonatorii de credite terțiari ai instituțiilor sanitare publice au obligația sa organizeze evidenta angajamentelor bugetare și legale cu ajutorul conturilor din afară bilanțului, și anume: - contul 940 "Credite bugetare aprobate"; - contul 950 "Angajamente bugetare"; - contul 960 "Angajamente legale". În instituțiile sanitare evidenta conturilor de angajamente se organizează potrivit structurii bugetului de venituri și cheltuieli, fiecare cont fiind desfășurat pe conturi analitice de gradul II, astfel: 940.01 "Credite bugetare aprobate pentru activitatea realizată din venituri proprii"; 940.02 "Credite bugetare aprobate pentru cheltuielile din sume primite de la alte bugete pentru destinații speciale". Acest cont se desfășoară pe acțiuni și programe; 950.01 "Angajamente bugetare pe seama creditelor bugetare aprobate pentru activitatea realizată din venituri proprii"; 950.02 "Angajamente bugetare pe seama cheltuielilor din sumele primite de la alte bugete pentru destinații speciale (se desfășoară în analitic pe activități și programe)"; 960.01 "Angajamente legale pentru cheltuielile pentru activitatea realizată din venituri proprii"; 960.02 "Angajamente legale pentru cheltuielile din sumele primite de la alte bugete pentru destinații speciale (se desfășoară pe fiecare acțiune și program)". Fiecare cont menționat mai sus se desfășoară pe capitole și în cadrul acestora pe titluri, articole și alineate. Pentru cheltuielile din bugetul de stat, în conturile respective, se desfășoară pe fiecare acțiune și program, pe titluri, articole și alineate. 6.10. Ordonatorii de credite terțiari au obligația de a analiza lunar situația privind execuția cheltuielilor bugetare angajate, conform anexei nr. 4 la normele metodologice aprobate prin Ordinul ministrului finanțelor publice nr. 1.792/2002. Ordonatorii de credite terțiari vor stabili de fiecare data măsuri pentru îmbunătățirea execuției bugetare. 7. Dispoziții finale
+Ordinul ministrului sănătății nr. 441/2000 privind aprobarea Normelor metodologice nr. GH/2.617/2000 de aplicare a Ordonanței Guvernului nr. 22/1992 privind finanțarea ocrotirii sănătății se abroga.
+Anexă
+------- la normele metodologice -----------------------
+Instituția sanitară publică........................
+APROBAT Organ de conducere Acord/Aviz
+BUGETUL DE VENITURI ȘI CHELTUIELI pentru anul..............
+- mii lei -
+Cap./ art. Sub- cap. alin. Titlu art. Alin. Denumirea indicatorilor Program anual din care repartizate pe trimestre
+Trim. I Trim. II Trim. III Trim. IV
+23.03
+VENITURI
+I. VENITURI CURENTE
+I. VENITURI PROPRII
+din care:
+25
+01 Venituri din contractele încheiate cu casele de asigurări de sănătate
+02 Venituri din actele adiționale la contractele încheiate cu casele de asigurări de sănătate pentru cheltuieli cu destinație specială
+30
+Alte venituri în domeniul sănătății
+30.03
+II. VENITURI DE CAPITAL
+Venituri din valorificarea unor bunuri
+01
+Venituri din valorificarea unor bunuri ale instituțiilor publice
+40.03
+VII. DONAȚII ȘI SPONSORIZĂRI
+01
+Donații
+02
+Sponsorizări
+X. SUME PRIMITE CU DESTINAȚIE SPECIALĂ
+POTRIVIT LEGII
+din care:
+a) Sume primite de la bugetul local sume primite pentru:
+01 Întreținere și gospodărire
+02 Reparații curente
+03 Reparații capitale
+04 Consolidare, extindere, modernizare
+b) Contravaloarea medicamentelor și materialelor sanitare specifice din programele naționale de sănătate, furnizate fără plată de CNAS
+01 Medicamente
+02 Materiale sanitare
+c) Sume primite de la bugetul de stat sume primite pentru:
+01 Programele naționale de sănătate
+02 Expertizare, proiectare, construire și consolidare instituții sanitare
+03 Reparații capitale
+04 Cheltuieli de personal pentru rezidenți anii I și II, potrivit legii
+05 Acțiuni sanitare din unitățile fără personalitate juridică din structura spitalului
+06 Aparatură medicală de înaltă performanță
+58.03
+II. CHELTUIELI - TOTAL
+01
+Cheltuieli curente
+02
+Cheltuieli de personal
+20
+Cheltuieli materiale și servicii
+70
+Cheltuieli de capital
+II.1. Cheltuieli din venituri proprii și alte venituri
+01
+Cheltuieli curente
+02
+Cheltuieli de personal
+20
+Cheltuieli materiale și servicii
+70
+Cheltuieli de capital
+II.2. Cheltuieli din sume primite de la alte bugete pentru destinații speciale
+a) Cheltuieli din sumele primite de la bugetul local
+b) Cheltuieli de la bugetul Fondului național unic de asigurări sociale de sănătate pentru medicamentele furnizate fără plată de către CNAS
+c) Cheltuieli din sumele primite de la bugetul de stat
+03
+Spitale
+04
+Sanatorii de recuperare
+08
+Servicii de ambulanță
+09
+Centre de sănătate
+10
+Unități de asistență medicală ambulatorie de specialitate
+50
+Alte instituții și acțiuni sanitare
+-------------
+Notă...
+Notă...
+Notă...
+Notă...
+NOTĂ: Soldul disponibil din contul deschis la Trezoreria statului, rămas la finele anului precedent, poate fi folosit la acoperirea cheltuielilor curente în cazul în care veniturile curente sunt insuficiente. Director general, Director financiar contabil, -------------
