@@ -1,0 +1,135 @@
+{
+ "key": "dcc-59-1999",
+ "label": "Decizia CCR nr. 59/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "59",
+ "date": "1999-04-20",
+ "year": "1999",
+ "heading": "DECIZIE nr. 59 din 20 aprilie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 din Ordonanţa de urgenta a Guvernului nr. 43/1997 pentru întocmirea bilanţului contabil special şi regularizarea unor credite şi dobânzi clasificate în categoria &amp;lt;&amp;lt;pierdere&amp;gt;&amp;gt; la Banca Agricolă - S.A.",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "262",
+  "bis": false,
+  "date": "1999-06-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "811/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "oug/1997/43"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 5 din Ordonanţa de urgenta a Guvernului nr. 43/1997 pentru întocmirea bilanţului contabil special şi regularizarea unor credite şi dobânzi clasificate în categoria &amp;lt;&amp;lt;pierdere&amp;gt;&amp;gt; la Banca Agricolă - S.A., excepţie ridicată de Societatea Comercială \"Bacimpex\" - S.R.L. Miercurea-Ciuc în Dosarul nr. 811/1998 al Tribunalului Harghita.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "oug/1997/43"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-06-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18377",
+  "text_sha256": "0720dd03ddca9ac605879933b4c0aa103aea77775ceeaa78cc5c75e51eba0c5c",
+  "catalogue_sha256": "0720dd03ddca9ac605879933b4c0aa103aea77775ceeaa78cc5c75e51eba0c5c",
+  "fetched": "2026-11-02T23:04:05Z",
+  "chars": 7623,
+  "portal_id": "18377",
+  "tip": "DECIZIE"
+ }
+}
