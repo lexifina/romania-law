@@ -1,0 +1,107 @@
+{
+ "key": "dcc-180-2003",
+ "label": "Decizia CCR nr. 180/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "180",
+ "date": "2003-05-08",
+ "year": "2003",
+ "heading": "DECIZIE nr. 180 din 8 mai 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 pct. 9 din Statutul profesiei de avocat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "356",
+  "bis": false,
+  "date": "2003-05-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.059/2002"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 28 pct. 9 din Statutul profesiei de avocat, excepţie ridicată de Adrian David în Dosarul nr. 1.059/2002 al Curţii de Apel Galaţi - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-05-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/43944",
+  "text_sha256": "707fe0da862ae5bdee67c17eb0206cdabb4697dee7acdadf7270d9fd4a8b0c05",
+  "catalogue_sha256": "707fe0da862ae5bdee67c17eb0206cdabb4697dee7acdadf7270d9fd4a8b0c05",
+  "fetched": "2026-11-02T23:29:10Z",
+  "chars": 4438,
+  "portal_id": "43944",
+  "tip": "DECIZIE"
+ }
+}

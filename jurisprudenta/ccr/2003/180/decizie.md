@@ -1,0 +1,21 @@
+# DECIZIE nr. 180 din 8 mai 2003
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 pct. 9 din Statutul profesiei de avocat
+Costica Bulai - preşedinte Constantin Doldur - judecător Kozsokar Gabor - judecător Petre Ninosu - judecător Şerban Viorel Stanoiu - judecător Lucian Stangu - judecător Ioan Vida - judecător Florentina Balta - procuror Doina Suliman - magistrat-asistent şef Pe rol se afla soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 28 pct. 9 din Statutul profesiei de avocat, excepţie ridicată de Adrian David în Dosarul nr. 1.059/2002 al Curţii de Apel Galaţi - Secţia comercială şi de contencios administrativ.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Reprezentantul Ministerului Public pune concluzii de respingere ca inadmisibila a excepţiei de neconstituţionalitate.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Prin Încheierea din 28 octombrie 2002, pronunţată în Dosarul nr. 1.059/2002, Curtea de Apel Galaţi - Secţia comercială şi de contencios administrativ a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 28 pct. 9 din Statutul profesiei de avocat. Excepţia de neconstituţionalitate a fost ridicată de Adrian David cu ocazia soluţionării acţiunii civile formulate în temeiul Legii contenciosului administrativ nr. 29/1990, în contradictoriu cu Uniunea Avocaţilor din România.
+În motivarea excepţiei de neconstituţionalitate, autorul acesteia susţine ca dispoziţiile legale criticate aduc atingere prevederilor constituţionale ale art. 38, 48 şi celor ale art. 20 alin. (1).
+Instanţa de judecată apreciază ca excepţia de neconstituţionalitate este intemeiata.
+Potrivit prevederilor art. 24 alin. (1) din Legea nr. 47/1992, republicată, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului şi Guvernului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate ridicate, iar în conformitate cu art. 18^1 din Legea nr. 35/1997, a fost solicitat punctul de vedere al instituţiei Avocatul Poporului.
+Preşedintele Camerei Deputaţilor apreciază ca excepţia de neconstituţionalitate este neîntemeiată.
+Guvernul apreciază ca excepţia de neconstituţionalitate este inadmisibila.
+Preşedintele Senatului nu a comunicat punctul sau de vedere asupra excepţiei de neconstituţionalitate ridicate.
+Avocatul Poporului apreciază ca excepţia de neconstituţionalitate este inadmisibila.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al preşedintelui Camerei Deputaţilor, al Guvernului şi al instituţiei Avocatul Poporului, raportul întocmit în cauza de judecătorul-raportor, concluziile procurorului, dispoziţiile legale criticate, raportate la prevederile Constituţiei, precum şi dispoziţiile Legii nr. 47/1992, retine următoarele:
+Statutul profesiei de avocat este un act administrativ, cu caracter normativ, adoptat în baza art. 63 lit. b) din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, republicată. Rezultă ca excepţia de neconstituţionalitate a dispoziţiilor art. 28 pct. 9 din Statutul profesiei de avocat nu se încadrează în prevederile art. 144 lit. c) din Constituţie şi ale art. 23 din Legea nr. 47/1992, republicată. Asa fiind, instanţa de judecată trebuia sa respingă excepţia printr-o încheiere motivată, fără a mai sesiza Curtea Constituţională. Deoarece instanţa de judecată nu a aplicat dispoziţiile art. 23 alin. (1) şi (6) din Legea nr. 47/1992, republicată, excepţia urmează să fie respinsă ca fiind inadmisibila.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) din Constituţie, precum şi al art. 12, art. 13 alin. (1) lit. A.c) şi al art. 23 alin. (1) şi (6) din Legea nr. 47/1992, republicată, CURTEA În numele legii DECIDE:
+Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 28 pct. 9 din Statutul profesiei de avocat, excepţie ridicată de Adrian David în Dosarul nr. 1.059/2002 al Curţii de Apel Galaţi - Secţia comercială şi de contencios administrativ.
+Definitivă şi obligatorie.
+Pronunţată în şedinţa publică din data de 8 mai 2003.
+PREŞEDINTE, prof. univ. dr. COSTICA BULAI Magistrat asistent-şef, Doina Suliman ------------
