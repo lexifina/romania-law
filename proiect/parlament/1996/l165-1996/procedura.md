@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 1997-12-04: documents published: Raport comisie sesizată pe fond
 - 1997-12-30: adopted by the Senate; documents published: Forma adoptată de Senat
 - 1998-01-29: sent for promulgation
+- 1998-02-04: published in the Monitorul Oficial; documents published: Decret de promulgare (day not given by the bill file), Forma promulgată (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Guvernul României.
 - 1997-10-14: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L165HG.PDF
 - 1997-12-04: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L165CR.PDF
 - 1997-12-30: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L165FS.PDF
+- 1998-02-04: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L165DP.PDF (its day is not given by the bill file: shown from the last stage held)
+- 1998-02-04: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L165FP.PDF (its day is not given by the bill file: shown from the last stage held)
