@@ -1,0 +1,77 @@
+{
+ "key": "dcc-338-1997",
+ "label": "Decizia CCR nr. 338/1997",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "tratat",
+ "number": "338",
+ "date": "1997-07-18",
+ "year": "1997",
+ "heading": "DECIZIE nr. 338 din 18 iulie 1997",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate privind Legea pentru ratificarea Tratatului cu privire la relaţiile de buna vecinătate şi cooperare dintre România şi Ucraina",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "163",
+  "bis": false,
+  "date": "1997-07-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea pentru ratificarea Tratatului cu privire la relaţiile de buna vecinătate şi cooperare dintre România şi Ucraina"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Constata ca sesizarea Curţii Supreme de Justiţie privind neconstituţionalitatea Legii pentru ratificarea Tratatului cu privire la relaţiile de buna vecinătate şi cooperare dintre România şi Ucraina este inadmisibila, Curtea Constituţională nefiind legal sesizată."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-07-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12496",
+  "text_sha256": "22963fa4bf5d115f3dbb76e66f4b75c8cf5298bba271ebeb4e305d06f51a251b",
+  "catalogue_sha256": "22963fa4bf5d115f3dbb76e66f4b75c8cf5298bba271ebeb4e305d06f51a251b",
+  "fetched": "2026-11-02T22:55:02Z",
+  "chars": 4738,
+  "portal_id": "12496",
+  "tip": "DECIZIE"
+ }
+}
