@@ -1,0 +1,297 @@
+{
+ "key": "dcc-233-2004",
+ "label": "Decizia CCR nr. 233/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "233",
+ "date": "2004-05-25",
+ "year": "2004",
+ "heading": "DECIZIE nr. 233 din 25 mai 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 48 alin. (1) teza întâi şi ale art. 57 alin. (1) şi (3) din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, republicată, cu modificările şi completările ulterioare, precum şi a dispoziţiilor art. 26 alin. 1 şi 2 şi ale art. 27 din Legea notarilor publici şi a activităţii notariale nr. 36/1995, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "603",
+  "bis": false,
+  "date": "2004-07-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.325/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+    "number": "36",
+    "year": "1995",
+    "path": "lege/1995/36"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 48 alin. (1) teza întâi şi ale art. 57 alin. (1) şi (3) din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, republicată, cu modificările şi completările ulterioare, precum şi a dispoziţiilor art. 26 alin. 1 şi 2 şi ale art. 27 din Legea notarilor publici şi a activităţii notariale nr. 36/1995, cu modificările şi completările ulterioare, excepţie ridicată de Asociaţia \"Figaro Potra\" din Alba Iulia în Dosarul nr. 5.325/2002 al Înaltei Curţi de Casaţie şi Justiţie - Secţia civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+    "number": "36",
+    "year": "1995",
+    "path": "lege/1995/36"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-07-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/53352",
+  "text_sha256": "8f6c741d85c5a9c5edb1b9017ebf49ff75920edccca54aaccdf827c55d6b6aad",
+  "catalogue_sha256": "8f6c741d85c5a9c5edb1b9017ebf49ff75920edccca54aaccdf827c55d6b6aad",
+  "fetched": "2026-11-02T23:38:17Z",
+  "chars": 20167,
+  "portal_id": "53352",
+  "tip": "DECIZIE"
+ }
+}
