@@ -1,0 +1,176 @@
+{
+ "key": "dcc-330-2004",
+ "label": "Decizia CCR nr. 330/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "330",
+ "date": "2004-09-16",
+ "year": "2004",
+ "heading": "DECIZIE nr. 330 din 16 septembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 30 alin. (2) şi ale art. 52 alin. (1) lit. u) şi alin. (2) lit. f) din Legea nr. 521/2002 privind regimul de supraveghere şi autorizare a producţiei, importului şi circulaţiei unor produse supuse accizelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "930",
+  "bis": false,
+  "date": "2004-10-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "784/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 521/2002",
+    "number": "521",
+    "year": "2002",
+    "path": "lege/2002/521"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "u",
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 30 alin. (2) şi ale art. 52 alin. (1) lit. u) şi alin. (2) lit. f) din Legea nr. 521/2002 privind regimul de supraveghere şi autorizare a producţiei, importului şi circulaţiei unor produse supuse accizelor, excepţie ridicată de Societatea Comercială \"La Terazza Comprod Service\" S.R.L. Bucureşti în Dosarul nr. 784/2004 al Judecătoriei Sectorului 2 Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 521/2002",
+    "number": "521",
+    "year": "2002",
+    "path": "lege/2002/521"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "u",
+      "f"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-10-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/55775",
+  "text_sha256": "bad1ee79590ec50263aac828dd1ef6857241ef0877f550c8ada4105046ed018d",
+  "catalogue_sha256": "bad1ee79590ec50263aac828dd1ef6857241ef0877f550c8ada4105046ed018d",
+  "fetched": "2026-11-04T11:13:06Z",
+  "chars": 9406,
+  "portal_id": "55775",
+  "tip": "DECIZIE"
+ }
+}
