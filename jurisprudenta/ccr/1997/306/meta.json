@@ -1,0 +1,189 @@
+{
+ "key": "dcc-306-1997",
+ "label": "Decizia CCR nr. 306/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "306",
+ "date": "1997-07-08",
+ "year": "1997",
+ "heading": "DECIZIE nr. 306*) din 8 iulie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 330 şi următoarele din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "50",
+  "bis": false,
+  "date": "1998-02-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.494/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate invocată de Postolea Gheorghe în Dosarul nr. 2.494/1996 al Curţii Supreme de Justiţie - Secţia civilă, privind: - dispoziţiile art. 330, ale art. 330^2 alin. 2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă; - dispoziţiile art. 330^1 şi ale art 330^2 alin. 1 din Codul de procedură civilă, ca fiind lipsită de obiect.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12395",
+  "text_sha256": "a54c3fd18f1d163afd84437cd14d0ef8f5d6274de2f6ebbb4f672ebadb77f56f",
+  "catalogue_sha256": "a54c3fd18f1d163afd84437cd14d0ef8f5d6274de2f6ebbb4f672ebadb77f56f",
+  "fetched": "2026-11-02T22:59:14Z",
+  "chars": 5637,
+  "portal_id": "12395",
+  "tip": "DECIZIE"
+ }
+}
