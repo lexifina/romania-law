@@ -1,0 +1,10 @@
+# Anexa 1
+ANEXA Nr. 1
+ORDINUL DE PLATA PE SUPORT HÂRTIE
+-
+față--> -
+ANEXA Nr. 2
+ORDINUL DE PLATA PE SUPORT HÂRTIE
+-
+verso--> -
+61 565
