@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 1996-05-08: registered at the Senate
+- 1996-09-19: adopted by the Senate
 
 ## Documents
 
