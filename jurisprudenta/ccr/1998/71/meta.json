@@ -1,0 +1,155 @@
+{
+ "key": "dcc-71-1998",
+ "label": "Decizia CCR nr. 71/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "71",
+ "date": "1998-04-28",
+ "year": "1998",
+ "heading": "DECIZIE nr. 71 din 28 aprilie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 37 lit. b) din Legea nr. 12/1980 privind întărirea autoconducerii muncitoresti şi autogestiunii economico-financiare şi valutare în activitatea de comerţ exterior şi cooperare economică internationala",
+ "issuer": "Curtea Constituţională",
+ "mo": {
+  "number": "209",
+  "bis": false,
+  "date": "1998-06-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "976/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1980",
+    "number": "12",
+    "year": "1980",
+    "path": "lege/1980/12"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibila excepţia de neconstituţionalitate a dispoziţiilor art. 37 lit. b) din Legea nr. 12/1980 privind întărirea autoconducerii muncitoresti şi autogestiunii economico-financiare şi valutare în activitatea de comerţ exterior şi cooperare economică internationala, invocată de Societatea Comercială \"Hidroconstructia\" - S.A., Sucursala Siriu, în Dosarul nr. 976/1996 al Judecătoriei Patarlagele.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1980",
+    "number": "12",
+    "year": "1980",
+    "path": "lege/1980/12"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-06-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14837",
+  "text_sha256": "30dd6b1436976fe12b1aca32aef7afb502bbe020d7251ee13cd998f2d3128ed8",
+  "catalogue_sha256": "30dd6b1436976fe12b1aca32aef7afb502bbe020d7251ee13cd998f2d3128ed8",
+  "fetched": "2026-11-02T23:00:32Z",
+  "chars": 5663,
+  "portal_id": "14837",
+  "tip": "DECIZIE"
+ }
+}
