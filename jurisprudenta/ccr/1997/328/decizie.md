@@ -1,0 +1,19 @@
+# DECIZIE nr. 328*) din 14 iulie 1997
+privind excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 şi ale art. 330^2 din Codul de procedură civilă
+Notă
+*) Definitivă prin nerecurare.
+Lucian Stangu - preşedinte Romul Petru Vonica - judecător
+Victor Dan Zlatescu - judecător Florentina Geangu - magistrat-asistent Completul de judecată, convocat potrivit prevederilor art. 24 alin. (2) din Legea nr. 47/1992, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 8 aprilie 1997, pronunţată în Dosarul nr. 67/1997, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 şi ale art. 330^2 din Codul de procedură civilă, invocată de intimatul-reclamant Ciucu Dan.
+Intimatul-reclamant a susţinut ca dispoziţiile art. 330^1 şi ale art. 330^2 din Codul de procedură civilă sunt neconstituţionale, fără să-şi motiveze excepţia.
+Exprimandu-şi opinia, Curtea Suprema de Justiţie a apreciat ca excepţia este neîntemeiată.
+CURTEA, examinând actele şi lucrările dosarului, încheierea de sesizare, raportul întocmit de judecătorul-raportor, dispoziţiile atacate, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, retine următoarele:
+În temeiul art. 144 lit. c) din Constituţie şi al art. 23 din Legea nr. 47/1992, Curtea este competenţa să soluţioneze excepţia, fiind legal sesizată.
+În ceea ce priveşte dispoziţiile art. 330^1 din Codul de procedură civilă, se constată că prin Legea nr. 17 din 17 februarie 1997, publicată în Monitorul Oficial al României, Partea I, nr. 26 din 18 februarie 1997, acestea au fost modificate în sensul că recursul în anulare nu mai poate fi declarat de procurorul general oricând, ci numai în termen de 6 luni de la data când hotărârea a rămas irevocabilă, pentru motivul prevăzut de art. 330 pct. 1, sau de la data rămânerii definitive a hotărârii de condamnare, pentru motivul prevăzut de art. 330 pct. 2. Astfel, motivul de neconstituţionalitate nu mai poate fi reţinut, excepţia privind acest text de lege fiind în prezent lipsită de obiect. Asupra constituţionalităţii art. 330^2 din Codul de procedură civilă, Curtea Constituţională s-a pronunţat prin Decizia nr. 73 din 4 iunie 1996, rămasă definitivă prin Decizia nr. 96 din 24 septembrie 1996, publicate în Monitorul Oficial al României, Partea I, nr. 251 din 17 octombrie 1996 şi nr. 255 din 22 octombrie 1996 prin care, pe de o parte, s-a constatat ca prevederile art. 330^2 alin. 2 sunt constituţionale, iar pe de altă parte, s-a admis excepţia de neconstituţionalitate a art. 330^2 alin. 1 din Codul de procedură civilă.
+Având în vedere ca un text declarat neconstitutional nu mai poate face obiectul unei noi excepţii de neconstituţionalitate, deoarece, potrivit art. 145 alin. (2) din Constituţie şi art. 26 alin. (5) din Legea nr. 47/1992, deciziile definitive ale Curţii Constituţionale sunt obligatorii, rezultă ca excepţia privind art. 330^2 alin. 1 din Codul de procedură civilă este lipsită de obiect, urmând a fi respinsă.
+De asemenea, urmează a fi respinsă şi excepţia privind art. 330^2 alin. 2 din Codul de procedură civilă, întrucât nu au intervenit elemente noi care să determine schimbarea practicii constante a Curţii Constituţionale.
+Pentru motivele arătate, în temeiul dispoziţiilor art. 144 lit. c) şi ale art. 145 alin. (2) din Constituţie, precum şi ale art. 13 alin. (1) lit. A.c), ale art. 24 alin. (2) şi ale art. 25 din Legea nr. 47/1992, în unanimitate, CURTEA În numele legii DECIDE:
+Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 şi ale art. 330^2 alin. 1 din Codul de procedură civilă, invocată de Ciucu Dan în Dosarul nr. 67/1997 al Curţii Supreme de Justiţie - Secţia civilă.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la data de 14 iulie 1997.
+PREŞEDINTE, prof. univ. dr. Lucian Stangu Magistrat-asistent, Florentina Geangu -------------
