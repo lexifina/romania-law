@@ -1,0 +1,213 @@
+{
+ "key": "dcc-110-2002",
+ "label": "Decizia CCR nr. 110/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "110",
+ "date": "2002-04-02",
+ "year": "2002",
+ "heading": "DECIZIE nr. 110 din 2 aprilie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 38 alin. (2) lit. d) teza a treia din Legea administraţiei publice locale nr. 215/2001, cu modificările ulterioare, şi ale art. 58 din Legea nr. 27/1994 privind impozitele şi taxele locale, republicată, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "409",
+  "bis": false,
+  "date": "2002-06-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/1994",
+    "number": "27",
+    "year": "1994",
+    "path": "lege/1994/27"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 38 alin. (2) lit. d) teza a treia din  Legea administraţiei publice locale nr. 215/2001 , cu modificările ulterioare, şi ale  art. 58 din Legea nr. 27/1994  privind impozitele şi taxele locale, republicată, cu modificările ulterioare, excepţie ridicată de Asociaţia Patronilor din Comerţ, Alimentaţie Publică, Turism din Timişoara în Dosarul nr. 2.564/CA/2001 al Curţii de Apel Timişoara - Secţia comercială şi de contencios administrativ.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 2 aprilie 2002.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Gabriela Dragomirescu  ────────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/1994",
+    "number": "27",
+    "year": "1994",
+    "path": "lege/1994/27"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 62/1998",
+    "number": "62",
+    "year": "1998",
+    "path": "oug/1998/62"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-06-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/36644",
+  "text_sha256": "10ee5d7166342373b41126d3261f76be6206656eb5b3d1f658c149435ea6985f",
+  "catalogue_sha256": "10ee5d7166342373b41126d3261f76be6206656eb5b3d1f658c149435ea6985f",
+  "fetched": "2026-11-02T23:21:30Z",
+  "chars": 12302,
+  "portal_id": "36644",
+  "tip": "DECIZIE"
+ }
+}
