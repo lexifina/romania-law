@@ -1,0 +1,148 @@
+{
+ "key": "dcc-608-1997",
+ "label": "Decizia CCR nr. 608/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "608",
+ "date": "1997-12-09",
+ "year": "1997",
+ "heading": "DECIZIE nr. 608 din 9 decembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 şi ale art. 330^2 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "69",
+  "bis": false,
+  "date": "1998-02-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "2.845/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Parohia Română Unita cu Roma (Greco-Catolica) Arad împotriva Deciziei Curţii Constituţionale nr. 55 din 19 martie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 126/1990",
+    "number": "126",
+    "year": "1990",
+    "path": "decret-lege/1990/126"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13233",
+  "text_sha256": "0ac46382bf69d07bcd6a3d1f8ee42011363c59b1b4038ddfd5d265e6917363f6",
+  "catalogue_sha256": "0ac46382bf69d07bcd6a3d1f8ee42011363c59b1b4038ddfd5d265e6917363f6",
+  "fetched": "2026-11-02T22:59:28Z",
+  "chars": 3742,
+  "portal_id": "13233",
+  "tip": "DECIZIE"
+ }
+}
