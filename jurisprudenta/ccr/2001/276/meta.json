@@ -1,0 +1,189 @@
+{
+ "key": "dcc-276-2001",
+ "label": "Decizia CCR nr. 276/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "276",
+ "date": "2001-10-02",
+ "year": "2001",
+ "heading": "DECIZIE nr. 276 din 2 octombrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. IV pct. 2 şi 3 din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "18",
+  "bis": false,
+  "date": "2002-01-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. IV pct. 2 din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, cu modificările ulterioare, excepţie ridicată de Societatea Comercială \"Rev Comat Inox\" - S.A. din Targu Mures în Dosarul nr. 9.512/R/2001 al Judecătoriei Targu Mures. 2. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. IV pct. 3 din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, cu modificările ulterioare, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1995",
+    "number": "12",
+    "year": "1995",
+    "path": "lege/1995/12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-01-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33235",
+  "text_sha256": "07bbbc1d54876d5aad627dae03415c37fc372b9c9fe39dea35adff78c7f5a58c",
+  "catalogue_sha256": "07bbbc1d54876d5aad627dae03415c37fc372b9c9fe39dea35adff78c7f5a58c",
+  "fetched": "2026-11-02T23:18:27Z",
+  "chars": 12730,
+  "portal_id": "33235",
+  "tip": "DECIZIE"
+ }
+}
