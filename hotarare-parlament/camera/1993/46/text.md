@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 46 din 31 mai 1993  pentru modificarea  Hotărârii Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 121 din 8 iunie 1993     Camera Deputaţilor adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC      Hotărârea Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor se modifică după cum urmează:  - Se completează componenţa Comisiei pentru agricultură, silvicultură, industria alimentară şi servicii specifice (anexa nr. 4) cu domnul deputat Liviu Mladin, din partea Grupului parlamentar al Frontului Democrat al Salvării Naţionale.  PREŞEDINTELE CAMEREI DEPUTAŢILOR  ADRIAN NĂSTASE  Bucureşti. 31 mai 1993.  Nr. 46.  ___________
