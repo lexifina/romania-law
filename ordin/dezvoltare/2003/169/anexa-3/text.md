@@ -1,0 +1,2 @@
+# Anexa 3
+LISTA societăților de clasificare care îndeplinesc criteriile minime stabilite de Uniunea Europeană și ale căror reguli de clasificare sunt recunoscute de Ministerul Lucrărilor Publice, Transporturilor și Locuinței American Bureau of Shipping (ABS) Bureau Veritas (BV) China Classification Society (CCS) Det Norske Veritas (DNV) Germanischer Lloyd (GL) Korean Register of Shipping (KR) Lloyd's Register of Shipping (LR) Nippon Kaiji Kyokai (NK) Registro Italiano Navale (RINA) Russian Maritime Register of Shipping (RS) ---------------
