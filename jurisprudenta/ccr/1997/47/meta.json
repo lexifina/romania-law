@@ -1,0 +1,206 @@
+{
+ "key": "dcc-47-1997",
+ "label": "Decizia CCR nr. 47/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "47",
+ "date": "1997-03-05",
+ "year": "1997",
+ "heading": "DECIZIE nr. 47*) din 5 martie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Legii nr. 76/1994 pentru modificarea şi completarea Legii nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu alta destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "146",
+  "bis": false,
+  "date": "1998-04-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.847/1996",
+  "2.848/1996",
+  "2.849/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 76/1994",
+    "number": "76",
+    "year": "1994",
+    "path": "lege/1994/76"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "1. Conexeaza dosarele nr. 375 C/1996 şi nr. 374 C/1996 la Dosarul nr. 373 C/1996. 2. Respinge ca vadit nefondata excepţia de neconstituţionalitate a art. I pct. 4 din Legea nr. 76/1994, prin care se modifica şi se completează art. 7 din Legea nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu alta destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat, invocată în faţa Judecătoriei Medias de Sas Bazil în Dosarul nr. 2.847/1996, Szempetery Gertrud în Dosarul nr. 2.848/1996 şi de Pop Florica în Dosarul nr. 2.849/1996.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 76/1994",
+    "number": "76",
+    "year": "1994",
+    "path": "lege/1994/76"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 61/1990",
+    "number": "61",
+    "year": "1990",
+    "path": "decret-lege/1990/61"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 93/1977",
+    "number": "93",
+    "year": "1977",
+    "path": "decret/1977/93"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-04-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11297",
+  "text_sha256": "5d95e5db0857360c92616bde8e103af150c78a4efa6f3455171e3fcdbbbe1234",
+  "catalogue_sha256": "5d95e5db0857360c92616bde8e103af150c78a4efa6f3455171e3fcdbbbe1234",
+  "fetched": "2026-11-02T23:00:09Z",
+  "chars": 10159,
+  "portal_id": "11297",
+  "tip": "DECIZIE"
+ }
+}
