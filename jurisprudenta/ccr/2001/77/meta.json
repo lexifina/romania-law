@@ -1,0 +1,155 @@
+{
+ "key": "dcc-77-2001",
+ "label": "Decizia CCR nr. 77/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "77",
+ "date": "2001-03-06",
+ "year": "2001",
+ "heading": "DECIZIE nr. 77 din 6 martie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Legii nr. 105/1997 pentru soluţionarea obiectiunilor, contestaţiilor şi a plangerilor asupra sumelor constatate şi aplicate prin actele de control sau de impunere ale organelor Ministerului Finanţelor, modificată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "235",
+  "bis": false,
+  "date": "2001-05-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 105/1997",
+    "number": "105",
+    "year": "1997",
+    "path": "lege/1997/105"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a prevederilor  Legii nr. 105/1997  pentru soluţionarea obiectiunilor, contestaţiilor şi a plangerilor asupra sumelor constatate şi aplicate prin actele de control sau de impunere ale organelor Ministerului Finanţelor, modificată, excepţie ridicată de Societatea Comercială \"UAMT\"-S.A. din Oradea în Dosarul nr. 9.958/R/2000 al Judecătoriei Oradea.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 6 martie 2001.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Gabriela Dragomirescu  ────────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 105/1997",
+    "number": "105",
+    "year": "1997",
+    "path": "lege/1997/105"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/28325",
+  "text_sha256": "e0a42f266e46beecfe65c8c6dad720ad957a0f6d9947c12c8705ce8369f664ec",
+  "catalogue_sha256": "e0a42f266e46beecfe65c8c6dad720ad957a0f6d9947c12c8705ce8369f664ec",
+  "fetched": "2026-11-02T23:14:07Z",
+  "chars": 10321,
+  "portal_id": "28325",
+  "tip": "DECIZIE"
+ }
+}
