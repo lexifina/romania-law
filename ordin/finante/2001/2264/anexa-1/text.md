@@ -1,0 +1,33 @@
+# Anexa 1
+Furnizor: Societatea Naționala
+Cumpărător....................... a Petrolului "Petrom" - S.A................................... București Sucursala Petrotrans Ploiesti Nr. de înmatriculare în registrul
+Nr. de înmatriculare în registrul comerțului/anul.................. comerțului/anul.................. Codul fiscal.....................
+Codul fiscal..................... Sediul (localitatea, strada,
+Sediul (localitatea, strada, numărul)......................... numărul)......................... Județul..........................
+Județul.......................... Contul...........................
+Contul........................... Banca............................
+Banca............................
+PROCES - VERBAL DE LIVRARE
+Data (ziua/luna/anul)...................
+Începutul pomparii
+Sfârșitul pomparii Data.....................
+Data..................... Ora......................
+Ora......................
+1. Tipul produsului:
+2. Factor de corectie debitmetru:
+3. Volum pompat, la 15°C (l):
+4. Densitatea medie pe pompare la 15°C (kg/mc):
+5. Temperatura medie pe pompare (°C):
+6. Cantitatea pompata (kg):
+7. Preț produs (lei/kg):
+8. Tarif de transport (lei/kg):
+9. Preț unitar total fără T.V.A. (lei/kg):
+10. Valoarea totală fără T.V.A. (lei):
+Comisia de predare
+Comisia de primire Nume, prenume
+Semnatura
+Nume, prenume
+Semnatura........................................................................................................................................................................................................................................................................................
+Parametrii de la pozițiile 3, 4, 5 și 6 au fost determinati cu sistemul de măsurare-contorizare a cantităților de produse petroliere tip SKPP-D, având aprobarea de model RO 19/01, eliberata de Biroul Roman de Metrologie Legală.
+Aprobat prin O.M.F.P. nr. 2.264/2001.
+PETROM 14-31-5/a PROCES - VERBAL DE LIVRARE (cod PETROM 14-31-5/a) Formular cu regim special de tipărire, inseriere și numerotare 1. Servește ca: - document de primire în gestiunea cumpărătorului; - document ce sta la baza întocmirii facturii/notei de debitare-creditare pentru prestația de transport și/sau produse petroliere livrate. 2. Se întocmește în 5 exemplare în mod automat la sfârșitul pomparii, în baza parametrilor tehnici determinati prin sistemul de livrare. 3. Circula: ● la furnizor (Sucursala Petrotrans Ploiesti): - la comisia de predare, pentru semnare de predare (toate exemplarele); - la comisia de primire, pentru semnare de primire (toate exemplarele); - la statia de pompare a produselor petroliere pe conducte magistrale, pentru înregistrarea în evidentele acesteia a cantităților livrate, transferate și transportate (exemplarul 2); - la compartimentul desfacere, pentru înregistrarea în evidentele acestuia a cantităților livrate, transferate și transportate și pentru întocmirea facturii/notei de debitare-creditare (exemplarele 3 și 4); - la compartimentul finaciar-contabil, atasat la factura/nota de debitare-creditare (exemplarul 4); - la comisia de predare din cadrul secției care a efectuat livrarea, transferul și transportul (exemplarul 5); ● la cumpărător: - pentru încărcarea în gestiune a produselor petroliere, după efectuarea recepției de către comisia de primire (exemplarul 1); - la compartimentul aprovizionare, pentru înregistrarea în evidenta acestuia a cantităților aprovizionate (exemplarul 1); - la compartimentul financiar-contabil, pentru înregistrarea în contabilitatea sintetică și analitica, atasat la factura/nota de debitare-creditare (exemplarul 1). 4. Se arhiveaza: ● la furnizor: - la statia de pompare (exemplarul 2); - la compartimentul desfacere (exemplarul 3); - la compartimentul financiar-contabil, atasat la exemplarul 3 al facturii/notei de debitare-creditare (exemplarul 4); - la comisia de predare din cadrul secției care a efectuat livrarea, transferul și transportul (exemplarul 5); ● la cumpărător: - la compartimentul financiar-contabil, atasat la exemplarul 1 al facturii/notei de debitare-creditare (exemplarul 1).
