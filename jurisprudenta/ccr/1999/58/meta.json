@@ -1,0 +1,194 @@
+{
+ "key": "dcc-58-1999",
+ "label": "Decizia CCR nr. 58/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "58",
+ "date": "1999-04-13",
+ "year": "1999",
+ "heading": "DECIZIE nr. 58 din 13 aprilie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. 1 şi ale art. 2 alin. 1 din Legea nr. 105/1997 pentru soluţionarea obiectiunilor, contestaţiilor şi a plangerilor asupra sumelor constatate şi aplicate prin actele de control sau de impunere ale organelor Ministerului Finanţelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "308",
+  "bis": false,
+  "date": "1999-06-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1997",
+    "number": "105",
+    "year": "1997",
+    "path": "lege/1997/105"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 1 alin. 1 şi ale art. 2 alin. 1 din Legea nr. 105/1997 pentru soluţionarea obiectiunilor, contestaţiilor şi plangerilor asupra sumelor constatate şi aplicate prin actele de control sau de impunere ale organelor Ministerului Finanţelor, excepţie ridicată de Societatea Comercială \"Molbas Impex\" - S.R.L. din Onesti în Dosarul nr. 5.072/R/1998 al Judecătoriei Onesti."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1997",
+    "number": "105",
+    "year": "1997",
+    "path": "lege/1997/105"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-06-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18599",
+  "text_sha256": "2da5a394ebc7a2ce382a2474dbf2b40d6618681594d9ce3d38028aad1dd1edfc",
+  "catalogue_sha256": "2da5a394ebc7a2ce382a2474dbf2b40d6618681594d9ce3d38028aad1dd1edfc",
+  "fetched": "2026-11-02T23:04:22Z",
+  "chars": 12930,
+  "portal_id": "18599",
+  "tip": "DECIZIE"
+ }
+}
