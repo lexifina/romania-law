@@ -1,0 +1,209 @@
+{
+ "key": "dcc-317-2002",
+ "label": "Decizia CCR nr. 317/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "317",
+ "date": "2002-11-19",
+ "year": "2002",
+ "heading": "DECIZIE nr. 317 din 19 noiembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "930",
+  "bis": false,
+  "date": "2002-12-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.741/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată, ridicată de Societatea Comercială \"Latina Prodplast\" - S.R.L. din Bucureşti în Dosarul nr. 9.741/2002 al Tribunalului Bucureşti - Secţia comercială.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adiţional nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-12-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/40833",
+  "text_sha256": "e7caed8068acd6055adc88cecdd553ac8e95d7270ecfa63d2d54f179e75fa676",
+  "catalogue_sha256": "e7caed8068acd6055adc88cecdd553ac8e95d7270ecfa63d2d54f179e75fa676",
+  "fetched": "2026-11-02T23:25:47Z",
+  "chars": 14473,
+  "portal_id": "40833",
+  "tip": "DECIZIE"
+ }
+}
