@@ -1,0 +1,114 @@
+{
+ "key": "dcc-4-1994",
+ "label": "Decizia CCR nr. 4/1994",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "4",
+ "date": "1994-01-11",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 4 din 11 ianuarie 1994",
+ "subtitle": "în legătură cu constituţionalitatea Legii privind abilitarea Guvernului de a emite ordonanţe şi autorizarea contractării şi garantarii unor credite externe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "7",
+  "bis": false,
+  "date": "1994-01-13",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "1. Legea privind abilitarea Guvernului de a emite ordonanţe şi autorizarea contractării şi garantarii unor credite externe a fost adoptată cu respectarea prevederilor art. 64 şi ale art. 74 alin. (2) din Constituţie.",
+  "2. Prezenta decizie se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "outcome: not detected",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-01-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3813",
+  "text_sha256": "472b5c36dbe94adc6d574e52519387032314c00d5c16cf61d6d92f472dc10ff3",
+  "catalogue_sha256": "472b5c36dbe94adc6d574e52519387032314c00d5c16cf61d6d92f472dc10ff3",
+  "fetched": "2026-11-02T22:42:34Z",
+  "chars": 9728,
+  "portal_id": "3813",
+  "tip": "DECIZIE"
+ }
+}
