@@ -1,0 +1,164 @@
+{
+ "key": "dcc-24-1997",
+ "label": "Decizia CCR nr. 24/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "24",
+ "date": "1997-02-04",
+ "year": "1997",
+ "heading": "DECIZIE nr. 24 din 4 februarie 1997*)",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 54 din Legea nr. 33/1991 privind activitatea bancară",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "18",
+  "bis": false,
+  "date": "1998-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.662/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1991",
+    "number": "33",
+    "year": "1991",
+    "path": "lege/1991/33"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca nefondata excepţia de neconstituţionalitate privind art. 54 din Legea nr. 33/1991, invocată de Nicorici Mircea şi Societatea de asigurare-reasigurare \"ARDAF\" - S.A. Cluj-Napoca în Dosarul nr. 2.662/1996 al Tribunalului Cluj - Secţia civilă şi de contencios administrativ.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1991",
+    "number": "33",
+    "year": "1991",
+    "path": "lege/1991/33"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11111",
+  "text_sha256": "6db7ba00ace1a5ca73233cebe48af83201f2a1c5701350d18b79333076ca5d4a",
+  "catalogue_sha256": "6db7ba00ace1a5ca73233cebe48af83201f2a1c5701350d18b79333076ca5d4a",
+  "fetched": "2026-11-02T22:57:45Z",
+  "chars": 10790,
+  "portal_id": "11111",
+  "tip": "DECIZIE"
+ }
+}
