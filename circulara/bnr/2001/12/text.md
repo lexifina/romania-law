@@ -1,0 +1,2 @@
+# Text
+În baza art. 8 din Legea nr. 101/1998 privind Statutul Băncii Naționale a României, în aplicarea prevederilor Regulamentului nr. 4/1998 privind regimul rezervelor minime obligatorii, republicat, Banca Naționala a României hotărăște: Începând cu perioada de aplicare 1-15 iulie 2001 ratele rezervelor minime obligatorii sunt următoarele: - 27% pentru mijloacele bănești în lei; - 20% pentru mijloacele bănești în valută. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, MUGUR ISARESCU ----------
