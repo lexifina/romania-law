@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 1997-01-17: registered at the Chamber of Deputies
 - 1997-03-11: adopted by the Chamber of Deputies
 - 1997-05-08: sent for promulgation
+- 1997-05-12: published in the Monitorul Oficial
 
 ## Documents
 
