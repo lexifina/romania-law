@@ -1,0 +1,2 @@
+# Articolul unic
+Se retrage Licenta de emisie nr. S-TV 20 din 18 martie 1999, acordată Societății Comerciale "Logic Mileniul 3" - S.A. pentru postul de televiziune prin satelit MILENIUL 3 din București, începând cu data de 7 aprilie 2001, ora 0,00, în temeiul art. 17 alin. (2) din Legea audiovizualului nr. 48/1992 , pentru nerealizarea statiei în cel mult 18 luni de la data solicitării autorizației. p. PREȘEDINTELE CONSILIULUI NAȚIONAL AL AUDIOVIZUALULUI, MIRCEA DIACONU -----
