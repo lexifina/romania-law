@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 31 din 18 noiembrie 1993  privind majorarea numarului de membri ai unor comisii permanente ale Senatului     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 271 din 24 noiembrie 1993     Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Numărul (minim şi maxim) de membri, stabilit prin  Hotărârea Senatului nr. 38/1992  privind aprobarea numărului şi denumirii comisiilor permanente ale Senatului, precum şi a numărului de membri ai acestora se majorează după cum urmează:  1. la Comisia pentru aparare, ordine publică şi siguranţa naţionala, de la 7-11 la 11-13 membri;  2. la Comisia pentru administratia publică şi organizarea teritoriului, de la 7-11 la 11-13 membri.  PREŞEDINTELE SENATULUI  prof. univ. dr. OLIVIU GHERMAN  Bucureşti, 18 noiembrie 1993  Nr. 31.  ----
