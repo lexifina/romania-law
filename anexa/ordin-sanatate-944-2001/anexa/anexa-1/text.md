@@ -1,0 +1,3 @@
+# Anexa 1
+Anexa 1
+------- la norme -------- EXAMENUL MEDICAL SUPLIMENTAR (caz de supraexpunere, expunere excepționala sau accidentala la radiatii ionizante) Pentru angajații expusi profesional la doze superioare limitelor de doza stabilite de Normele fundamentale de securitate radiologica se asigura o supraveghere medicală specială, în funcție de tipul și de nivelul de expunere, constând în: - examen clinic general; - examen hematologic complet; - analize citogenetice (aberatii cromozomiale); - evaluări de doze prin contorizare de corp uman și teste radiotoxicologice; - alte examene de specialitate necesare precizarii stării de sănătate, recomandate de medicul abilitat. --------
