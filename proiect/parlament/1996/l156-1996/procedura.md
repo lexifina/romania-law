@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 1998-03-11: registered at the Chamber of Deputies
 - 1998-09-21: adopted by the Chamber of Deputies
 - 1998-10-20: sent for promulgation
+- 1998-11-05: promulgated, becomes Legea nr. 208/1998; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Guvernul României.
 - 1997-11-21: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L156CR.PDF
 - 1998-03-10: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L156FS.PDF
 - 1998-03-10: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L156AM.PDF
+- 1998-11-05: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L156DP.PDF
+- 1998-11-05: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L156FP.PDF
