@@ -1,0 +1,33 @@
+# Anexa 2
+------- la norme -------- (fața) ROMÂNIA MINISTERUL LUCRĂRILOR PUBLICE, TRANSPORTURILOR ȘI LOCUINȚEI DIRECȚIA GENERALĂ DE REGLEMENTĂRI ȘI CALITATEA SERVICIILOR ÎN TRANSPORTURILE RUTIERE AUTORIZAȚIE - CENTRUL DE PREGĂTIRE ȘI PERFECȚIONARE A PERSONALULUI DIN DOMENIUL TRANSPORTURILOR RUTIERE - Persoana juridică......................................... este autorizata sa desfășoare activități de pregătire prin cursuri de calificare și recalificare, precum și activități de perfecționare a personalului din domeniul transporturilor rutiere. Valabilă de la..................... până la.................. numai în condițiile vizarii anuale. Data emiterii................... Emitent,....................... Semnatura și ștampila Seria........ nr............ (verso) Vize anuale:
+Valabil până
+la data de
+..........
+Semnatura
+..........
+Valabil până
+la data de
+............
+Semnatura
+............
+Valabil până
+la data de
+...........
+Semnatura
+...........
+Valabil până
+la data de
+............
+Semnatura
+............
+Valabil până
+la data de
+...........
+Semnatura
+...........
+Ștampila
+Ștampila
+Ștampila
+Ștampila
+Ștampila
+Tipul cursului: 1........................................................... 2........................................................... 3........................................................... 4........................................................... 5........................................................... -------
