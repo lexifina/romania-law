@@ -1,0 +1,181 @@
+{
+ "key": "dcc-485-2003",
+ "label": "Decizia CCR nr. 485/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "485",
+ "date": "2003-12-11",
+ "year": "2003",
+ "heading": "DECIZIE nr. 485 din 11 decembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (3) din Ordonanţa Guvernului nr. 7/2001 privind impozitul pe venit",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "30",
+  "bis": false,
+  "date": "2004-01-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 7/2001",
+    "number": "7",
+    "year": "2001",
+    "path": "og/2001/7"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (3) din Ordonanţa Guvernului nr. 7/2001 privind impozitul pe venit, excepţie ridicată de Gabriel Biriş în Dosarul nr. 1.927/CA/2002 al Tribunalului Bucureşti - Secţia a VIII-a pentru conflicte de muncă şi litigii de muncă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 7/2001",
+    "number": "7",
+    "year": "2001",
+    "path": "og/2001/7"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanţelor publice nr. 1/2002",
+    "number": "1",
+    "year": "2002"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-01-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49059",
+  "text_sha256": "10fb9f9fbccfa20bc624b271ba25bc55328afc419ada4dd833ce68da71e4e478",
+  "catalogue_sha256": "10fb9f9fbccfa20bc624b271ba25bc55328afc419ada4dd833ce68da71e4e478",
+  "fetched": "2026-11-02T23:34:05Z",
+  "chars": 8867,
+  "portal_id": "49059",
+  "tip": "DECIZIE"
+ }
+}
