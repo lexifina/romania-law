@@ -1,0 +1,247 @@
+{
+ "key": "dcc-174-2000",
+ "label": "Decizia CCR nr. 174/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "174",
+ "date": "2000-09-26",
+ "year": "2000",
+ "heading": "DECIZIE nr. 174 din 26 septembrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 132 alin. (1) din Codul muncii şi a celor ale art. 11 alin. (1) din Legea nr. 54/1991 cu privire la sindicate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "534",
+  "bis": false,
+  "date": "2000-10-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.439/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1991",
+    "number": "54",
+    "year": "1991",
+    "path": "lege/1991/54"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 132 alin. (1) din Codul muncii, excepţie ridicată de Societatea Comercială \"Transmoldavia\" - S.A. din Piatra-Neamt în Dosarul nr. 7.439/1999 al Judecătoriei Piatra-Neamt. 2. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 11 alin. (1) din Legea nr. 54/1991, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1991",
+    "number": "54",
+    "year": "1991",
+    "path": "lege/1991/54"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 83/1975",
+    "number": "83",
+    "year": "1975",
+    "path": "decret/1975/83"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24828",
+  "text_sha256": "5e2d845a2989f47b452ef3391e1ca133bc2fdda5e23fb1b9bd8a757ad63c33f8",
+  "catalogue_sha256": "5e2d845a2989f47b452ef3391e1ca133bc2fdda5e23fb1b9bd8a757ad63c33f8",
+  "fetched": "2026-11-02T23:11:02Z",
+  "chars": 13411,
+  "portal_id": "24828",
+  "tip": "DECIZIE"
+ }
+}
