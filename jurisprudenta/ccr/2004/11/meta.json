@@ -1,0 +1,153 @@
+{
+ "key": "dcc-11-2004",
+ "label": "Decizia CCR nr. 11/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "11",
+ "date": "2004-01-20",
+ "year": "2004",
+ "heading": "DECIZIE nr. 11 din 20 ianuarie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor pct. 3.4.1 şi 3.4.2 din anexa nr. 2 la Ordonanţa Guvernului nr. 43/1997 privind regimul drumurilor, republicată, modificată şi completată prin Ordonanţa Guvernului nr. 26/2003, aprobată şi modificată prin Legea nr. 227/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "96",
+  "bis": false,
+  "date": "2004-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.012/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor pct. 3.4.1 şi 3.4.2 din anexa nr. 2 la Ordonanţa Guvernului nr. 43/1997 privind regimul drumurilor, republicată, modificată şi completată prin Ordonanţa Guvernului nr. 26/2003, aprobată şi modificată prin Legea nr. 227/2003, excepţie ridicată de Societatea Comercială \"Valmo Prod\" S.R.L. din Câmpina în Dosarul nr. 2.012/2003 al Judecătoriei Slobozia.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 26/2003",
+    "number": "26",
+    "year": "2003",
+    "path": "og/2003/26"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49527",
+  "text_sha256": "cd8781511de2c6d2ffe967c051f4bb09ec5b63c0b3dcd6cf7e1494c48952073c",
+  "catalogue_sha256": "cd8781511de2c6d2ffe967c051f4bb09ec5b63c0b3dcd6cf7e1494c48952073c",
+  "fetched": "2026-11-02T23:34:30Z",
+  "chars": 11326,
+  "portal_id": "49527",
+  "tip": "DECIZIE"
+ }
+}
