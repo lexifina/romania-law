@@ -1,0 +1,248 @@
+{
+ "key": "dcc-56-1999",
+ "label": "Decizia CCR nr. 56/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "56",
+ "date": "1999-04-13",
+ "year": "1999",
+ "heading": "DECIZIE nr. 56 din 13 aprilie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 15 din Ordonanţa Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru tigarete, produse din tutun şi băuturi alcoolice, republicată, şi ale art. I pct. 9 din Ordonanţa de urgenta a Guvernului nr. 17/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 23/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "222",
+  "bis": false,
+  "date": "1999-05-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "14.572/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 23/1995",
+    "number": "23",
+    "year": "1995",
+    "path": "og/1995/23"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 17/1997",
+    "number": "17",
+    "year": "1997",
+    "path": "oug/1997/17"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 15 din Ordonanţa Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru tigarete, produse din tutun şi băuturi alcoolice, republicată, şi ale art. I pct. 9 din Ordonanţa de urgenta a Guvernului nr. 17/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 23/1995, excepţie ridicată de Societatea Comercială \"Actual\" - S.R.L. Constanta în Dosarul nr. 14.572/1998 al Judecătoriei Constanta.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 23/1995",
+    "number": "23",
+    "year": "1995",
+    "path": "og/1995/23"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 17/1997",
+    "number": "17",
+    "year": "1997",
+    "path": "oug/1997/17"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "8",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/1997",
+    "number": "133",
+    "year": "1997",
+    "path": "lege/1997/133"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18208",
+  "text_sha256": "04987acc407ec92731af5d0abf0d2b49b71eb432866ad3c17dc769a3c652b8a5",
+  "catalogue_sha256": "04987acc407ec92731af5d0abf0d2b49b71eb432866ad3c17dc769a3c652b8a5",
+  "fetched": "2026-11-02T23:03:50Z",
+  "chars": 11493,
+  "portal_id": "18208",
+  "tip": "DECIZIE"
+ }
+}
