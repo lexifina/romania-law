@@ -1,0 +1,13 @@
+# Anexă
+LISTA cuprinzând organismele de inspecție desemnate pentru efectuarea inspecțiilor tehnice ale instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzina
+Nr. crt. Organismul de inspecție Adresa Activitățile pentru care a fost desemnat
+1. Societatea Comercială "IPROCHIM" - S.A. - Departamentul utilaje București, Calea Plevnei nr. 137, sectorul 6 Avizarea tehnică a proiectelor și inspecție tehnică în exploatare a instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzină
+Nr. de înregistrare la registrul comerțului J40/6485/1991
+2. Societatea Comercială "PETRODESIGN" - S.A. - Colectivul tehnic autonom de expertizare, autorizare și inspectare - COV București, str. Căderea Bastiliei nr. 56-58, sectorul 1 Avizarea tehnică a proiectelor și inspecție tehnică în exploatare a instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzină
+Nr. de înregistrare la registrul comerțului J40/4079/1992
+3. Societatea Comercială "DEAL IMPEX" - S.R.L. București, calea Floreasca nr. 90-111, bl. F1, sc. 2, ap. 17, sectorul 1 Avizarea tehnică a proiectelor instalațiilor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea și distribuția benzinei la terminale și la stațiile de benzină
+Nr. de înregistrare la registrul comerțului J40/17505/1992
+4. Societatea Comercială "LAJEDO" - S.R.L. Ploiești, Șos. Vestului nr. 24B, bl. 10E, ap. 11, et. 3, județul Prahova Avizarea tehnică a proiectului și inspecție tehnică în exploatare pentru instalațiile de încărcare și depozitare la stațiile de distribuție și la terminale
+Nr. de înregistrare la registrul comerțului J29/2036/1993
+5. Societatea Comercială "IPIP" - S.A. Colectivul "Compuși Organici Volatili" Ploiești, Str. Diligenței nr. 18, județul Prahova Avizarea tehnică a proiectelor și inspecție tehnică în exploatare a instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzină
+Nr. de înregistrare la registrul comerțului J29/386/1991 ────────────────
