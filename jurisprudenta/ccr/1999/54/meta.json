@@ -1,0 +1,158 @@
+{
+ "key": "dcc-54-1999",
+ "label": "Decizia CCR nr. 54/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "54",
+ "date": "1999-04-13",
+ "year": "1999",
+ "heading": "DECIZIE nr. 54 din 13 aprilie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 11/1997 pentru modificarea şi completarea Normelor metodologice privind aplicarea Legii nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului, stabilite prin Hotărârea Guvernului nr. 20/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "308",
+  "bis": false,
+  "date": "1999-06-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.829/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 11/1997",
+    "number": "11",
+    "year": "1997",
+    "path": "hg/1997/11"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 20/1996",
+    "number": "20",
+    "year": "1996",
+    "path": "hg/1996/20"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibila excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 11/1997 pentru modificarea şi completarea Normelor metodologice privind aplicarea Legii nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului, stabilite prin Hotărârea Guvernului nr. 20/1996, excepţie ridicată de Uscoi Ana în Dosarul nr. 1.829/1998 al Judecătoriei Fagaras.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 11/1997",
+    "number": "11",
+    "year": "1997",
+    "path": "hg/1997/11"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 20/1996",
+    "number": "20",
+    "year": "1996",
+    "path": "hg/1996/20"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-06-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18598",
+  "text_sha256": "dcad7b35c032985de531baa4e443d04e20d15cfa980953911c85b60056e5deb6",
+  "catalogue_sha256": "dcad7b35c032985de531baa4e443d04e20d15cfa980953911c85b60056e5deb6",
+  "fetched": "2026-11-02T23:04:19Z",
+  "chars": 7859,
+  "portal_id": "18598",
+  "tip": "DECIZIE"
+ }
+}
