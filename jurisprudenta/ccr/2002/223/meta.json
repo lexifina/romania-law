@@ -1,0 +1,204 @@
+{
+ "key": "dcc-223-2002",
+ "label": "Decizia CCR nr. 223/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "223",
+ "date": "2002-07-11",
+ "year": "2002",
+ "heading": "DECIZIE nr. 223 din 11 iulie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 14 din Decretul nr. 92/1976 privind carnetul de muncă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "750",
+  "bis": false,
+  "date": "2002-10-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.396/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1976",
+    "number": "92",
+    "year": "1976",
+    "path": "decret/1976/92"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată, din oficiu, de Judecătoria Slobozia în Dosarul nr. 1.396/2002 şi constata ca dispoziţiile art. 14 din Decretul nr. 92/1976 privind carnetul de muncă sunt neconstituţionale în măsura în care anumite categorii de persoane sunt excluse de la posibilitatea reconstituirii vechimii în munca, în condiţiile reglementate prin acest decret.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1976",
+    "number": "92",
+    "year": "1976",
+    "path": "decret/1976/92"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 68/1990",
+    "number": "68",
+    "year": "1990",
+    "path": "decret-lege/1990/68"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-10-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38943",
+  "text_sha256": "ebbf56857c85db5415264bd114054f3d3ca0b2e84ea49e51bfea007d0a36002d",
+  "catalogue_sha256": "ebbf56857c85db5415264bd114054f3d3ca0b2e84ea49e51bfea007d0a36002d",
+  "fetched": "2026-11-02T23:24:17Z",
+  "chars": 13007,
+  "portal_id": "38943",
+  "tip": "DECIZIE"
+ }
+}
