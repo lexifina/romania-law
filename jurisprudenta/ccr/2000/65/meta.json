@@ -1,0 +1,229 @@
+{
+ "key": "dcc-65-2000",
+ "label": "Decizia CCR nr. 65/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "65",
+ "date": "2000-04-11",
+ "year": "2000",
+ "heading": "DECIZIE nr. 65 din 11 aprilie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 lit. m) liniuţa întâi şi ale art. 20 din Legea nr. 146/1997 privind taxele judiciare de timbru, precum şi a prevederilor art. 3 alin. (1) şi ale art. 9 alin. (2) din Ordonanţa Guvernului nr. 32/1995 privind timbrul judiciar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "452",
+  "bis": false,
+  "date": "2000-09-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.006/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 32/1995",
+    "number": "32",
+    "year": "1995",
+    "path": "og/1995/32"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 3 lit. m) liniuţa întâi şi ale art. 20 din Legea nr. 146/1997 privind taxele judiciare de timbru, precum şi a prevederilor art. 3 alin. (1) şi ale art. 9 alin. (2) din Ordonanţa Guvernului nr. 32/1995 privind timbrul judiciar, excepţie ridicată de Gheorghe Popa şi Gabriela Dogaru în Dosarul nr. 4.006/1999 al Curţii de Apel Pitesti - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 32/1995",
+    "number": "32",
+    "year": "1995",
+    "path": "og/1995/32"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-09-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24245",
+  "text_sha256": "e3e43dad4f4b53e564645039deb306aa5b251ca2469d32d3ea9ae7a64dd30ff5",
+  "catalogue_sha256": "e3e43dad4f4b53e564645039deb306aa5b251ca2469d32d3ea9ae7a64dd30ff5",
+  "fetched": "2026-11-02T23:10:25Z",
+  "chars": 10351,
+  "portal_id": "24245",
+  "tip": "DECIZIE"
+ }
+}
