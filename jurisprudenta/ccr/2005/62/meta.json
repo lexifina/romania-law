@@ -1,0 +1,122 @@
+{
+ "key": "dcc-62-2005",
+ "label": "Decizia CCR nr. 62/2005",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "alta",
+ "number": "62",
+ "date": "2005-02-01",
+ "year": "2005",
+ "heading": "DECIZIE nr. 62 din 1 februarie 2005",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "153",
+  "bis": false,
+  "date": "2005-02-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "29C/2005"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că dispoziţiile art. 25 din Regulamentul Camerei Deputaţilor sunt neconstituţionale, deoarece prevăd ca propunerea de revocare a preşedintelui Camerei Deputaţilor şi a celorlalţi membri ai Biroului permanent să poată fi făcută şi de alte grupuri parlamentare decât grupul sau grupurile care i-au propus pentru a fi aleşi.",
+  "Definitivă şi obligatorie.",
+  "Decizia se comunică Camerei Deputaţilor şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "2",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-02-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/59384",
+  "text_sha256": "0e228d4782042077a211caf2acf0c5ad6b83d147fa46128be3879b359f316726",
+  "catalogue_sha256": "0e228d4782042077a211caf2acf0c5ad6b83d147fa46128be3879b359f316726",
+  "fetched": "2026-11-06T03:28:08Z",
+  "chars": 21065,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/59384",
+   "timestamp": "20251117191020",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439646378.73/warc/CC-MAIN-20251117175408-20251117205408-00793.warc.gz",
+   "offset": "291438869",
+   "length": "17587",
+   "sha256": "e9b260477e2387ea6ad4333ee682c09fbf868ed689539ff7ff5f41b2b2b891d7"
+  },
+  "portal_id": "59384",
+  "tip": "DECIZIE"
+ }
+}
