@@ -1,0 +1,219 @@
+{
+ "key": "dcc-208-1999",
+ "label": "Decizia CCR nr. 208/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "208",
+ "date": "1999-11-30",
+ "year": "1999",
+ "heading": "DECIZIE nr. 208 din 30 noiembrie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. 2 şi 3 şi ale art. 40 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată şi modificată prin Legea nr. 108/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "4",
+  "bis": false,
+  "date": "2000-01-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.856/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. 2 şi 3 şi ale art. 40 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată şi modificată prin Legea nr. 108/1996, excepţie ridicată de Societatea Comercială \"BOG-SAB\" - S.R.L. din Valea Calugareasca în Dosarul nr. 1.856/1999 al Tribunalului Prahova - Secţia comercială.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "7",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "372",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1997",
+    "number": "105",
+    "year": "1997",
+    "path": "lege/1997/105"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-01-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20533",
+  "text_sha256": "591cec78faecca9e52ce851f4fad7da42e1410901c7b1b4527ec1b791b77ca5d",
+  "catalogue_sha256": "591cec78faecca9e52ce851f4fad7da42e1410901c7b1b4527ec1b791b77ca5d",
+  "fetched": "2026-11-02T23:06:43Z",
+  "chars": 13646,
+  "portal_id": "20533",
+  "tip": "DECIZIE"
+ }
+}
