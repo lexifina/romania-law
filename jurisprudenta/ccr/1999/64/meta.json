@@ -1,0 +1,187 @@
+{
+ "key": "dcc-64-1999",
+ "label": "Decizia CCR nr. 64/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "64",
+ "date": "1999-04-20",
+ "year": "1999",
+ "heading": "DECIZIE nr. 64 din 20 aprilie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 137 din Codul de procedură civilă şi ale art. 14 lit. l) din Legea nr. 37/1990 pentru organizarea şi funcţionarea Guvernului României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "249",
+  "bis": false,
+  "date": "1999-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "308/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "137",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 37/1990",
+    "number": "37",
+    "year": "1990",
+    "path": "lege/1990/37"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 137 din Codul de procedură civilă şi ale art. 14 lit. l) din Legea nr. 37/1990 pentru organizarea şi funcţionarea Guvernului României, ridicată de Aurelian Andreiescu în Dosarul nr. 308/1998 al Curţii Supreme de Justiţie - Secţia de contencios administrativ.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "137",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 37/1990",
+    "number": "37",
+    "year": "1990",
+    "path": "lege/1990/37"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18291",
+  "text_sha256": "134d3ffad0b52f6292e62b99d6bdf2f7b3005c3f68ff8e35ef6d0b91317e5194",
+  "catalogue_sha256": "134d3ffad0b52f6292e62b99d6bdf2f7b3005c3f68ff8e35ef6d0b91317e5194",
+  "fetched": "2026-11-02T23:04:01Z",
+  "chars": 9599,
+  "portal_id": "18291",
+  "tip": "DECIZIE"
+ }
+}
