@@ -1,0 +1,146 @@
+{
+ "key": "dcc-17-1995",
+ "label": "Decizia CCR nr. 17/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "17",
+ "date": "1995-02-07",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 17*) din 7 februarie 1995",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 28 alineatul ultim din Legea fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "294",
+  "bis": false,
+  "date": "1995-12-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.123/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 28 alineatul ultim din Legea fondului funciar nr. 18/1991, ridicată de pârâtul Şerban Vasile în cauza ce formează obiectul Dosarului nr. 4.123/1993 al Judecătoriei Medgidia.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-12-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/5809",
+  "text_sha256": "93e6d0cd503b56f60ff7550b35bf86fa924a3d4514ee725847eb68010a21263b",
+  "catalogue_sha256": "93e6d0cd503b56f60ff7550b35bf86fa924a3d4514ee725847eb68010a21263b",
+  "fetched": "2026-11-02T22:49:40Z",
+  "chars": 6202,
+  "portal_id": "5809",
+  "tip": "DECIZIE"
+ }
+}
