@@ -1,0 +1,197 @@
+{
+ "key": "dcc-339-2004",
+ "label": "Decizia CCR nr. 339/2004",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "339",
+ "date": "2004-09-17",
+ "year": "2004",
+ "heading": "DECIZIE nr. 339 din 17 septembrie 2004",
+ "subtitle": "asupra sesizării de neconstituţionalitate a prevederilor art. 5 alin. (7) din Legea pentru alegerea Camerei Deputaţilor şi a Senatului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "887",
+  "bis": false,
+  "date": "2004-09-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "490A/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea pentru alegerea Camerei Deputaţilor şi a Senatului"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Constată că dispoziţiile art. 5 alin. (7) din Legea pentru alegerea Camerei Deputaţilor şi a Senatului sunt constituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-09-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/55563",
+  "text_sha256": "cd0ff005e6b1d6987bb601176c7df9ba7ce25312f0cfaf2e4a08abfdd8092cb4",
+  "catalogue_sha256": "cd0ff005e6b1d6987bb601176c7df9ba7ce25312f0cfaf2e4a08abfdd8092cb4",
+  "fetched": "2026-11-02T23:40:32Z",
+  "chars": 28189,
+  "portal_id": "55563",
+  "tip": "DECIZIE"
+ }
+}
