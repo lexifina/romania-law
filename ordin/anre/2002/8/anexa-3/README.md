@@ -1,0 +1,7 @@
+# Anexa nr. 3: 1.3 TARIFELE ZI - NOAPTE E 1 și E 2 Valabile după 5 zile de la data publicării Nr. crt. Nivelurile de tensiune egale cu cele din punctele de delimitare a instalațiilor E1 Tarif pentru consumul de ener
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 34899 (https://legislatie.just.ro/Public/DetaliiDocument/34899)
+- sha256 of that document's text as the service returned it: e56185af1ef392e8906622c89994c049abbf7e065eddf60de50861f3ab237895
+- Retrieved: 2026-11-02
