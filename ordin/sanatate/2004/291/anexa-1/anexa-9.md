@@ -1,0 +1,6 @@
+# Anexa nr. 9 la normele metodologice
+SUBCOMISIA NAȚIONALĂ DE ACREDITARE
+A FURNIZORILOR DE DISPOZITIVE MEDICALE
+DECLARAȚIE DE COMPATIBILITATE PENTRU AGREGAREA DATELOR
+Subsemnatul/subsemnata........., angajat/angajată al/a Direcției acreditare din cadrul Casei Naționale de Asigurări de Sănătate, propus/propusă pentru a efectua agregarea datelor și a elabora fișa de evaluare sintetică în cadrul procesului de acreditare a furnizorilor de dispozitive medicale destinate recuperării unor deficiențe organice sau fiziologice, cunoscând prevederile art. 292 din Codul penal, privind falsul în declarații, declar pe propria răspundere că îndeplinesc toate condițiile prevăzute de art. 10 cap. III din Normele metodologice de evaluare pentru acreditarea furnizorilor de dispozitive medicale destinate recuperării unor deficiențe organice sau fiziologice, aprobate prin Ordinul ministrului sănătății nr. 291/2004. Mă oblig să solicit încetarea activității ca persoană desemnată pentru a efectua agregarea datelor în cadrul acreditării furnizorilor de dispozitive medicale destinate recuperării unor deficiențe organice sau fiziologice în cazul în care condițiile de mai sus nu mai sunt satisfăcute și să păstrez confidențialitatea datelor și a formatului de agregare.........................
+Data.............

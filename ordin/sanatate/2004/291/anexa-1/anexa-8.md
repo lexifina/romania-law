@@ -1,0 +1,6 @@
+# Anexa nr. 8 la normele metodologice
+SUBCOMISIA NAȚIONALĂ DE ACREDITARE
+A FURNIZORILOR DE DISPOZITIVE MEDICALE
+DECLARAȚIE DE COMPATIBILITATE PENTRU EVALUARE
+Subsemnatul/subsemnata..........., angajat/angajată al/a Direcției acreditare din cadrul Casei Naționale de Asigurări de Sănătate, propus/propusă ca evaluator pentru acreditarea furnizorilor de dispozitive medicale destinate recuperării unor deficiențe organice sau fiziologice, cunoscând prevederile art. 292 din Codul penal, privind falsul în declarații, declar pe propria răspundere că îndeplinesc toate condițiile prevăzute de art. 4 cap. II din Normele metodologice de evaluare pentru acreditarea furnizorilor de dispozitive medicale destinate recuperării unor deficiențe organice sau fiziologice, aprobate prin Ordinul ministrului sănătății nr. 291/2004. Mă oblig să solicit încetarea calității de evaluator pentru acreditarea furnizorilor de dispozitive medicale destinate recuperării unor deficiențe organice sau fiziologice în cazul în care condițiile de mai sus nu mai sunt satisfăcute..............
+Data............
