@@ -1,0 +1,3 @@
+# Text
+Începînd cu data de 10 septembrie 1992 prevederile pct. 18 și 23, alin. ultim, referitoare la limita pasului de licitație din Normele privind organizarea și funcționarea pieței valutare bancare (anexa nr. 3 la Regulamentul privind efectuarea operațiunilor valutare) nu se mai aplica. Ridicarea acestei restrictii va permite stabilirea libera a cursului leului la nivelul echilibrarii cererii și ofertei pe piața valutară bancară. Ca urmare a celor de mai sus, procedura de stabilire a cursului de echilibru al leului se modifica în mod corespunzător.
+Viceguvernatorul Băncii Naționale a României, Vladimir Soare ----------------------
