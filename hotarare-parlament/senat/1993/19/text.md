@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 19 din 1 septembrie 1993  pentru alegerea secretarilor Senatului     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 220 din 8 septembrie 1993     În temeiul art. 61 alin. (2) şi (5) din Constituţia României şi al art. 16 şi 20 din Regulamentul Senatului,  Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Se aleg în funcţia de secretar al Senatului următorii senatori:  - Mihai Matetovici - Grupul parlamentar al Partidului Democraţiei Sociale din România (P.D.S.R.)  - Voicu Valentin Glodean - Grupul parlamentar al Partidului Naţional Ţărănesc Creştin Democrat (P.N.Ţ.C.D.)  - Gabor Kozsokar - Grupul parlamentar al Uniunii Democrate Maghiare din România (U.D.M.R.)  - Corneliu vadim Tudor - Grupul Parlamentar Partida naţională.  PREŞEDINTELE SENATULUI  prof. univ. dr. OLIVIU GHERMAN  Bucureşti, 1 septembrie 1993.  Nr. 19.  -------
