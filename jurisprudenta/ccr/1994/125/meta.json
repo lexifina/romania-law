@@ -1,0 +1,174 @@
+{
+ "key": "dcc-125-1994",
+ "label": "Decizia CCR nr. 125/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "125",
+ "date": "1994-11-16",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 125 din 16 noiembrie 1994",
+ "subtitle": "referitoare la soluţionarea recursului declarat de Cosmoiu Victoria împotriva Deciziei Curţii Constituţionale nr. 26 din 19 mai 1993",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "31",
+  "bis": false,
+  "date": "1995-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Cosmoiu Victoria împotriva Deciziei Curţii Constituţionale nr. 26 din 19 mai 1993.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 224/1951",
+    "number": "224",
+    "year": "1951",
+    "path": "decret/1951/224"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 221/1960",
+    "number": "221",
+    "year": "1960",
+    "path": "decret/1960/221"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1",
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4514",
+  "text_sha256": "f67eb2a0cfaa8b6499109178773deb26c6b4e384165bdb41cddf3234301d3272",
+  "catalogue_sha256": "f67eb2a0cfaa8b6499109178773deb26c6b4e384165bdb41cddf3234301d3272",
+  "fetched": "2026-11-02T22:46:36Z",
+  "chars": 8160,
+  "portal_id": "4514",
+  "tip": "DECIZIE"
+ }
+}
