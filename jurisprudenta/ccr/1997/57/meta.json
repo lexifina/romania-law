@@ -1,0 +1,267 @@
+{
+ "key": "dcc-57-1997",
+ "label": "Decizia CCR nr. 57/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "57",
+ "date": "1997-03-25",
+ "year": "1997",
+ "heading": "DECIZIE nr. 57*) din 25 martie 1997",
+ "subtitle": "privind excepţiile de neconstituţionalitate a dispoziţiilor art. 330, ale art. 330^1, ale art. 330^2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "333",
+  "bis": false,
+  "date": "1997-11-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.598/1996",
+  "164C/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondate excepţiile de neconstituţionalitate invocate în faţa Curţii Supreme de Justiţie - Secţia civilă de Pătraşcu Neculae, Pătraşcu Vasilica, Konstantin Johanna, Vegh Blanka, Doboly Olga, Balanescu Adrian, Tanasescu Sanda Alice Eugenia, Luca Constantin Octavian, Zamfir Constanta Viorica, Nicolae Doina Mariana, Konstantin Alexander, Constantinescu Viorica Marilena, Crupariu Anca, Popovici Ioana Smaranda, Negulescu Felicia, Visoiu Mihai, Visoiu Cosmin, Zaharescu Lucia Alexandra, Stoenescu D. Mihail, Caruntu Ioana Mihaela, Maria Eugenia Ciordas, Ioana Mariana, Bratu Vladimir, Costin Mircea Dan, Costin Rodica, Chertes Ioan, Chertes Laura, Popa Mihail, Merlescu Georgel, Petrescu Valeriu Athanase, Margaritescu Carmina, Petrescu Mirca, Ivanus Ion, Pavel Matei şi Ceauşescu Aurel în dosarele nr. 493/1996, nr. 2.549/1996, nr. 2.599/1996, nr. 2.632/1996, nr. 2.963/1996, nr. 2.971/1996, nr. 2.878/1996, nr. 2.719/1996, nr. 2.546/1996, nr. 2.545/1996, nr. 2.499/1996, nr. 2.495/1996, nr. 2.598/1996, nr. 3.937/1996, nr. 2.641/1996, nr. 1.257/1996, nr. 3.215/1996, nr. 3.138/1996, nr. 3.026/1996, nr. 2.995/1996, nr. 1.162/1996, nr. 1.156/1996 şi nr. 2.173/1995, privind: - dispoziţiile art. 330, ale art. 330^2 alin. 2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă; - dispoziţiile art. 330^1 şi ale art. 330^2 alin. 1 din Codul de procedură civilă, constatând ca excepţiile invocate în legătură cu aceste prevederi sunt lipsite de obiect.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1997",
+    "number": "17",
+    "year": "1997",
+    "path": "lege/1997/17"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-11-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11364",
+  "text_sha256": "c1ff7b393a1b0d2b1b440b65f92d80875c8d7f6cedf5c6fe29573082b29fbb2b",
+  "catalogue_sha256": "c1ff7b393a1b0d2b1b440b65f92d80875c8d7f6cedf5c6fe29573082b29fbb2b",
+  "fetched": "2026-11-02T22:56:50Z",
+  "chars": 9163,
+  "portal_id": "11364",
+  "tip": "DECIZIE"
+ }
+}
