@@ -1,0 +1,165 @@
+{
+ "key": "dcc-136-1994",
+ "label": "Decizia CCR nr. 136/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "136",
+ "date": "1994-12-07",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 136 din 7 decembrie 1994",
+ "subtitle": "referitoare la soluţionarea recursurilor declarate de către Ministerul Public şi Bozdog Ovidiu Nicolae împotriva Deciziei Curţii Constituţionale nr. 81 din 15 iulie 1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "14",
+  "bis": false,
+  "date": "1995-01-25",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "subjects": [],
+ "operative": [
+  "1. Ia act de retragerea recursului declarat de Ministerul Public împotriva Deciziei Curţii Constituţionale nr. 81 din 15 iulie 1994.",
+  "2. Respinge recursul declarat de Bozdog Ovidiu Nicolae împotriva aceleiaşi decizii.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "outcome: not detected",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-01-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4557",
+  "text_sha256": "1fef37085fe3969a9d60703bd51b49ac211533c914bae27e846e38c4d33f19f4",
+  "catalogue_sha256": "1fef37085fe3969a9d60703bd51b49ac211533c914bae27e846e38c4d33f19f4",
+  "fetched": "2026-11-02T22:46:28Z",
+  "chars": 8975,
+  "portal_id": "4557",
+  "tip": "DECIZIE"
+ }
+}
