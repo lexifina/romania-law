@@ -1,0 +1,227 @@
+{
+ "key": "dcc-71-1994",
+ "label": "Decizia CCR nr. 71/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "71",
+ "date": "1994-07-05",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 71*) din 5 iulie 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 34 din Legea nr. 80/1992 privind pensiile şi alte drepturi de asigurări sociale ale agricultorilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "259",
+  "bis": false,
+  "date": "1994-09-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "12040/1992"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1992",
+    "number": "80",
+    "year": "1992",
+    "path": "lege/1992/80"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1994",
+    "number": "1",
+    "year": "1994",
+    "path": "lege/1994/1"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca lipsită de obiect excepţia de neconstituţionalitate a art. 34 din Legea nr. 80/1992 astfel cum a fost invocată de reclamanta Federala Agricultorilor Privatizati din România, cu sediul în Bucureşti, b-dul Nicolae Balcescu nr. 17-19, sectorul 1, în Dosarul nr. 12040/1992 al Judecătoriei Sectorului 1 Bucureşti.",
+  "Respinge cererea de extindere a excepţiei de neconstituţionalitate asupra art. 34 din Legea nr. 80/1992, astfel cum a fost modificat prin art. 17 din Legea nr. 1/1994, formulată de Federala Agricultorilor Privatizati din România.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1992",
+    "number": "80",
+    "year": "1992",
+    "path": "lege/1992/80"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1994",
+    "number": "1",
+    "year": "1994",
+    "path": "lege/1994/1"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 36/1991",
+    "number": "36",
+    "year": "1991",
+    "path": "lege/1991/36"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "A"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-09-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4288",
+  "text_sha256": "54d5a9b29e97d122ee1d8dc444ccdf3506449cc99049d231e3a07884228135eb",
+  "catalogue_sha256": "54d5a9b29e97d122ee1d8dc444ccdf3506449cc99049d231e3a07884228135eb",
+  "fetched": "2026-11-02T22:45:24Z",
+  "chars": 9666,
+  "portal_id": "4288",
+  "tip": "DECIZIE"
+ }
+}
