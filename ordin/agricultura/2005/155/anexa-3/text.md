@@ -1,0 +1,46 @@
+# Anexa 3
+REPARTIZAREA PE JUDEȚE a volumului maxim de masă lemnoasă pe picior care poate fi recoltată în anul 2005 din vegetația forestieră situată pe terenuri din afara fondului forestier național
+Nr. crt. Județul Volumul (mii m3)
+1. Alba 24,0
+2. Arad 15,9
+3. Argeș 7,5
+4. Bacău 15,0
+5. Bihor 60,0
+6. Bistrița-Năsăud 16,9
+7. Botoșani 5,0
+8. Brașov 46,0
+9. Brăila 3,9
+10. Buzău 20,0
+11. Caraș-Severin 27,9
+12. Călărași 1,5
+13. Cluj 74,2
+14. Constanța 0,7
+15. Covasna 61,0
+16. Dâmbovița 8,3
+17. Dolj 3,0
+18. Galați 2,5
+19. Giurgiu 1,3
+20. Gorj 11,1
+21. Harghita 87,3
+22. Hunedoara 25,2
+23. Ialomița 1,6
+24. Iași 3,0
+25. Ilfov 1,3
+26. Maramureș 18,0
+27. Mehedinți 7,3
+28. Mureș 43,0
+29. Neamț 23,0
+30. Olt 1,0
+31. Prahova 2,1
+32. Satu Mare 19,0
+33. Sălaj 8,2
+34. Sibiu 15,0
+35. Suceava 15,0
+36. Teleorman 2,6
+37. Timiș 1,2
+38. Tulcea 3,8
+39. Vaslui 2,6
+40. Vâlcea 3,1
+41. Vrancea 11,0
+TOTAL: 700
+---------
