@@ -1,0 +1,20 @@
+ ACORD din 10 octombrie 1996  de colaborare interdepartamentala în domeniul arhivistic între Arhivele Naţionale ale României şi Arhivele Iugoslaviei     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 106 din 29 mai 1997     Arhivele Naţionale ale României şi Arhivele Iugoslaviei, denumite în continuare părţi,  animate de nazuinta de dezvoltare şi consolidare a relatiilor de colaborare reciproc avantajoase,  au convenit urmatoarele:
+				 +
+			  Articolul 1     Părţile vor initia şi vor dezvolta schimbul de experienta în domeniile de interes comun ale activităţii arhivistice. În acest sens, părţile vor organiza intilniri, periodic sau ori de cite ori vor considera necesar, între conducătorii instituţiilor de arhiva din România şi din Republica Federala Iugoslavia şi vor realiza anual schimburi de specialisti şi de arhivisti. Cheltuielile de cazare şi de masa vor fi suportate de către partea primitoare, iar cheltuielile de transport international, de către partea trimitatoare. Numărul specialistilor şi arhivistilor, precum şi numărul de zile cit va dura sederea lor în cealalta tara vor fi stabilite de comun acord de către cele doua părţi.  Cu acordul părţilor se vor realiza, de asemenea, şi alte acţiuni, cum ar fi: expozitii arhivistice, simpozioane, conferinte, stagii de studii pentru probleme de legislatie arhivistica, participari la intilniri regionale ale arhivistilor.
+				 +
+			  Articolul 2     Prin specialistii instituţiilor arhivistice, părţile vor actiona şi vor contribui la descoperirea în arhivele celeilalte părţi a documentelor legate de istoria României şi a Republicii Federale Iugoslavia, precum şi de istoria relatiilor dintre cele doua tari. Părţile vor face schimb de copii de pe documentele depistate, în condiţii reciproc acceptabile.
+				 +
+			  Articolul 3     Pentru imbogatirea bazei documentare, părţile vor face schimb de editii de documente, precum şi de literatura arhivistica şi metodico-stiintifica.  Părţile vor studia posibilitatea editarii unor publicatii comune privind istoria relatiilor dintre România şi Republica Federala Iugoslavia.
+				 +
+			  Articolul 4     Fiecare dintre părţi va facilita accesul şi va sprijini pe cercetatorii celeilalte părţi în munca de cercetare a documentelor din arhivele proprii. În acest sens, cercetatorii vor avea acces la materialul informativ, publicat sau nepublicat, care are tangenta cu temele lor de cercetare, în conformitate cu legislatia interna şi cu normele arhivistice internationale în vigoare.
+				 +
+			  Articolul 5     Părţile vor acorda o atenţie deosebită depistarii documentelor de arhiva necesare satisfacerii cererilor de ordin social-juridic ale cetatenilor şi instituţiilor celeilalte părţi, în condiţiile respectarii legislaţiei interne în vigoare şi a normelor arhivistice internationale.
+				 +
+			  Articolul 6     Părţile vor contribui la realizarea unor contracte directe între arhivele celor două tari. Condiţiile concrete ale unei asemenea colaborari vor fi puse de acord între părţi potrivit principiului reciprocitatii.
+				 +
+			  Articolul 7     Colaborarea în cadrul acestui acord nu va împiedica alte forme de contacte şi schimburi în domeniul arhivisticii, realizabile cu acordul reciproc al părţilor.
+				 +
+			  Articolul 8     Fiecare parte, în conformitate cu legile şi reglementarile în vigoare pe teritoriul statului sau, va acorda celeilalte părţi toate facilitatile necesare realizării prevederilor prezentului acord.
+				 +
+			  Articolul 9     Prezentul acord se incheie pe o perioadă de 2 ani şi se poate prelungi automat, pe urmatoarele perioade de 2 ani, dacă nici una dintre cele doua părţi nu va comunică celeilalte părţi, cu cel puţin 6 luni înainte, intentia sa de a denunta acest acord.  Incheiat la Bucureşti la 10 octombrie 1996, în doua exemplare originale, fiecare în limba română şi în limba sârbă, ambele texte fiind egal autentice.  Arhivele Naţionale ale României,  prof. univ. dr. Ioan Scurtu,  director general  Arhivele Iugoslaviei,  Jovan Popovici,  director general  --------------
