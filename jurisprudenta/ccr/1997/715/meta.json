@@ -1,0 +1,186 @@
+{
+ "key": "dcc-715-1997",
+ "label": "Decizia CCR nr. 715/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "715",
+ "date": "1997-12-19",
+ "year": "1997",
+ "heading": "DECIZIE nr. 715 din 19 decembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 24 şi ale art. 33 din Legea bugetului de stat pe anul 1993 nr. 21/1993, precum şi ale Decretului nr. 219/1960 privind obligaţiile organizaţiilor socialiste debitoare ca urmare a prescripţiei extinctive",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "87",
+  "bis": false,
+  "date": "1998-02-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "215/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 219/1960",
+    "number": "219",
+    "year": "1960",
+    "path": "decret/1960/219"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Societatea Comercială \"Rifil\" - S.R.L. Savinesti împotriva Deciziei Curţii Constituţionale nr. 105 din 7 mai 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 21/1993",
+    "number": "21",
+    "year": "1993",
+    "path": "lege/1993/21"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 219/1960",
+    "number": "219",
+    "year": "1960",
+    "path": "decret/1960/219"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 67/1993",
+    "number": "67",
+    "year": "1993",
+    "path": "lege/1993/67"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13521",
+  "text_sha256": "129abe455841ea3215affd6b51a4fb64c5522e8a99d6430abc1f92a2b12a7c92",
+  "catalogue_sha256": "129abe455841ea3215affd6b51a4fb64c5522e8a99d6430abc1f92a2b12a7c92",
+  "fetched": "2026-11-02T22:59:41Z",
+  "chars": 5835,
+  "portal_id": "13521",
+  "tip": "DECIZIE"
+ }
+}
