@@ -1,0 +1,160 @@
+{
+ "key": "dcc-263-2001",
+ "label": "Decizia CCR nr. 263/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "263",
+ "date": "2001-09-25",
+ "year": "2001",
+ "heading": "DECIZIE nr. 263 din 25 septembrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 42 din Ordonanţa de urgenta a Guvernului nr. 63/1998 privind energia electrica şi termica",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "762",
+  "bis": false,
+  "date": "2001-11-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.612/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 63/1998",
+    "number": "63",
+    "year": "1998",
+    "path": "oug/1998/63"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor  art. 42 din Ordonanţa de urgenta a Guvernului nr. 63/1998  privind energia electrica şi termica, excepţie ridicată de Compania Naţionala \"Apele Române\" - S.A. Direcţia Apelor Siret Bacau în Dosarul nr. 8.612/2000 al Tribunalului Bacau - Secţia comercială şi contencios administrativ.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 25 septembrie 2001.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Florentina Geangu  ──────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 63/1998",
+    "number": "63",
+    "year": "1998",
+    "path": "oug/1998/63"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-11-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/32438",
+  "text_sha256": "03a40cd042593c89d8a062ae99f4684fc82d90f2e5f9327e629d569daae10f66",
+  "catalogue_sha256": "03a40cd042593c89d8a062ae99f4684fc82d90f2e5f9327e629d569daae10f66",
+  "fetched": "2026-11-05T05:39:10Z",
+  "chars": 9332,
+  "portal_id": "32438",
+  "tip": "DECIZIE"
+ }
+}
