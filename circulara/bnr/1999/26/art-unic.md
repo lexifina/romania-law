@@ -1,0 +1,2 @@
+# Articolul unic
+Alineatele 1 și 2 ale punctului 26 din Normele privind funcționarea pieței valutare - N.R.V.1 din regulament vor avea următorul cuprins: "În aplicarea prevederilor legale băncile vor raporta Băncii Naționale a României - Direcția politica monetara operațiunile de vânzare și cumpărare de valuta efectuate de rezidenți și nerezidenti. Raportarea se va efectua zilnic între orele 16,00 - 17,00 ale zilei curente pentru ziua curenta de lucru." GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, MUGUR ISARESCU -----------
