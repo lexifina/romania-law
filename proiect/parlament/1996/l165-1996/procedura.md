@@ -11,7 +11,9 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 1996-09-02: first record in the bill file
+- 1996-10-09: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Document
 
 ## Documents
 
-- none held as text
+- 1996-10-09: Forma adoptată de Camera Deputaților (FC): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L165FC.PDF
+- 1996-10-09: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/1996/96L165OG.PDF
