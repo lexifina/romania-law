@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 
 - 1996-06-13: registered at the Senate; documents published: Expunere de motive
 - 1997-01-16: adopted by the Senate; documents published: Forma adoptată de Senat
+- 1997-01-17: registered at the Chamber of Deputies
 
 ## Documents
 
