@@ -1,0 +1,22 @@
+# DECIZIE nr. 113*) din 14 mai 1997
+privind excepţia de neconstituţionalitate a dispoziţiilor art. 330, ale art. 330^1, ale art. 330^2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă
+Notă
+*) Definitivă prin nerecurare.
+Lucian Stangu - preşedinte Romul Petru Vonica - judecător Victor Dan Zlatescu - judecător
+Maria Bratu - magistrat-asistent Completul de judecată, convocat potrivit prevederilor art. 24 alin. (2) din Legea nr. 47/1992, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 11 februarie 1997, pronunţată în Dosarul nr. 3.044/1996 al acestei instanţe, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 330 alin. 1, ale art 330^1 şi următoarele din Codul de procedură civilă, invocată de Minea Şerban Corneliu.
+În motivarea excepţiei se susţine, în esenta, ca aceste dispoziţii contravin prevederilor art. 16 şi 25 din Constituţie.
+Exprimandu-şi opinia, potrivit art. 23 alin. (5) din Legea nr. 47/1992, Curtea Suprema de Justiţie - Secţia civilă apreciază ca excepţia ridicată nu este intemeiata.
+CURTEA, având în vedere actele şi lucrările dosarului, încheierea de sesizare, raportul întocmit de judecătorul-raportor, dispoziţiile atacate, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, constata următoarele:
+Potrivit art. 144 lit. c) din Constituţie şi art. 23 din Legea nr. 47/1992, Curtea Constituţională este competenţa să soluţioneze excepţiile invocate.
+Asupra constituţionalităţii dispoziţiilor art. 330, art. 330^2 alin. 2, art. 330^3 şi ale art. 330^4 din Codul de procedură civilă, Curtea Constituţională s-a pronunţat prin Decizia nr. 73 din 4 iunie 1996, definitivă, publicată în Monitorul Oficial al României, Partea I, nr. 255 din 22 octombrie 1996, statuand ca ele sunt constituţionale. Întrucât nu au intervenit elemente noi care să determine schimbarea soluţiei, excepţia de neconstituţionalitate privind aceste prevederi urmează, potrivit practicii constante a Curţii Constituţionale, să fie respinsă ca vadit nefondata.
+Cu privire la dispoziţiile art. 330^2 alin. 1 din Codul de procedură civilă este de reţinut ca, prin Decizia nr. 73 din 4 iunie 1996, definitivă, Curtea Constituţională a constatat ca acestea sunt neconstituţionale. Având în vedere ca o excepţie de neconstituţionalitate admisă nu mai poate fi reiterata, deoarece, potrivit art. 145 alin. (2) din Constituţie şi art. 26 alin. (5) din Legea nr. 47/1992, deciziile definitive ale Curţii Constituţionale sunt obligatorii erga omnes, excepţia invocată în cauzele de faţa privind prevederile art. 330^2 alin. 1 este lipsită de obiect şi, în consecinţa, urmează a fi, de asemenea, respinsă ca vadit nefondata.
+Referitor la dispoziţiile art. 330^1 din Codul de procedură civilă, se constată că, prin Legea nr. 17 din 17 februarie 1997, publicată în Monitorul Oficial al României, Partea I, nr. 26 din 18 februarie 1997, acestea au fost modificate în sensul că recursul în anulare se poate declara în termen de 6 luni de la data când hotărârea judecătorească a rămas irevocabilă sau de la data rămânerii definitive a hotărârii de condamnare.
+Întrucât în prezent recursul în anulare nu mai poate fi declarat oricând, instituindu-se termenul de 6 luni pentru exercitarea lui, se constată că motivele nu mai subzistă şi, drept consecinţa, excepţia în legătură cu aceste dispoziţii a rămas fără obiect.
+În acelaşi sens Curtea Constituţională s-a pronunţat prin Decizia nr. 37 din 25 februarie 1997, publicată în Monitorul Oficial al României, Partea I, nr. 64 din 15 aprilie 1997.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 24 alin. (2) şi al art. 25 din Legea nr. 47/1992, în unanimitate, CURTEA În numele legii DECIDE:
+Respinge ca vadit nefondata excepţia de neconstituţionalitate invocată de Minea Şerban Corneliu în Dosarul nr. 3.044/1996 al Curţii Supreme de Justiţie - Secţia civilă, privind: - dispoziţiile art. 330 şi ale art. 330^2 alin. 2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă; - dispoziţiile art. 330^1 şi ale art. 330^2 alin. 1 din Codul de procedură civilă, fiind lipsită de obiect.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la data de 14 mai 1997.
+PREŞEDINTE, prof. univ. dr. Lucian Stangu
+Magistrat-asistent, Maria Bratu ----------------
