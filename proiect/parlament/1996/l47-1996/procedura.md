@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 1996-04-04: documents published: Raport comisie sesizată pe fond
 - 1996-05-07: adopted by the Senate; documents published: Forma adoptată de Senat
 - 1996-06-17: registered at the Chamber of Deputies
+- 2004-11-09: rejected by the Chamber of Deputies
 
 ## Documents
 
