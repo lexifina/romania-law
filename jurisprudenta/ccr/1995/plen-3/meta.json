@@ -1,0 +1,260 @@
+{
+ "key": "dcc-plen-3-1995",
+ "label": "Decizia CCR (Plen) nr. 3/1995",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "plen",
+ "number": "3",
+ "date": "1995-10-31",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 3 din 31 octombrie 1995",
+ "subtitle": "privind judecarea constituţionalităţii unei dispoziţii legale modificate ulterior invocarii excepţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "259",
+  "bis": false,
+  "date": "1995-11-09",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "13.987/1993",
+  "23C/1993",
+  "102C/1993",
+  "40C/1993"
+ ],
+ "subjects": [],
+ "operative": [
+  "În cazul în care, după invocarea unei excepţii de neconstituţionalitate în faţa instanţelor judecătoreşti, prevederea legală supusă controlului a fost modificată, Curtea Constituţională se pronunţa asupra constituţionalităţii prevederii legale, în noua sa redactare, numai dacă soluţia legislativă din legea sau ordonanţa modificată este, în principiu, aceeaşi cu cea dinaintea modificării."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1994",
+    "number": "76",
+    "year": "1994",
+    "path": "lege/1994/76"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 61/1990",
+    "number": "61",
+    "year": "1990",
+    "path": "decret-lege/1990/61"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "11",
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1992",
+    "number": "80",
+    "year": "1992",
+    "path": "lege/1992/80"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1994",
+    "number": "1",
+    "year": "1994",
+    "path": "lege/1994/1"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1992",
+    "number": "58",
+    "year": "1992",
+    "path": "lege/1992/58"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 40/1991",
+    "number": "40",
+    "year": "1991",
+    "path": "lege/1991/40"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 52/1991",
+    "number": "52",
+    "year": "1991",
+    "path": "lege/1991/52"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1993",
+    "number": "35",
+    "year": "1993",
+    "path": "lege/1993/35"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/5654",
+  "text_sha256": "fe63778d7414d7da7727c72b3fcd5a2e25bea6f7e0ccf3850fd692b72075a5f8",
+  "catalogue_sha256": "fe63778d7414d7da7727c72b3fcd5a2e25bea6f7e0ccf3850fd692b72075a5f8",
+  "fetched": "2026-11-02T22:49:19Z",
+  "chars": 9980,
+  "portal_id": "5654",
+  "tip": "DECIZIE"
+ }
+}
