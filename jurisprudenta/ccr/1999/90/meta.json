@@ -1,0 +1,165 @@
+{
+ "key": "dcc-90-1999",
+ "label": "Decizia CCR nr. 90/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "90",
+ "date": "1999-06-01",
+ "year": "1999",
+ "heading": "DECIZIE nr. 90 din 1 iunie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor alin. 1 şi ale alin. 2 teza întâi ale art. 12 din Legea nr. 32/1968 privind stabilirea şi sancţionarea contravenţiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "489",
+  "bis": false,
+  "date": "1999-10-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.611/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Direcţia generală a finanţelor publice şi controlului financiar de stat a judeţului Cluj în Dosarul nr. 8.611/1998 al Judecătoriei Cluj-Napoca şi constata ca sunt neconstituţionale dispoziţiile alin. 1 şi ale alin. 2 teza întâi ale art. 12 din Legea nr. 32/1968 privind stabilirea şi sancţionarea contravenţiilor.",
+  "Definitivă şi obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/1997",
+    "number": "26",
+    "year": "1997",
+    "path": "og/1997/26"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedura civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-10-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/19448",
+  "text_sha256": "a17fccd7df6be435310e8818c76077bb0157396ee724cac171b119c3d4d7b77a",
+  "catalogue_sha256": "a17fccd7df6be435310e8818c76077bb0157396ee724cac171b119c3d4d7b77a",
+  "fetched": "2026-11-02T23:05:32Z",
+  "chars": 9958,
+  "portal_id": "19448",
+  "tip": "DECIZIE"
+ }
+}
