@@ -1,0 +1,189 @@
+{
+ "key": "dcc-565-2004",
+ "label": "Decizia CCR nr. 565/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "565",
+ "date": "2004-12-16",
+ "year": "2004",
+ "heading": "DECIZIE nr. 565 din 16 decembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 63/1998 privind energia electrică şi termică",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "76",
+  "bis": false,
+  "date": "2005-01-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 63/1998",
+    "number": "63",
+    "year": "1998",
+    "path": "oug/1998/63"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 63/1998 privind energia electrică şi termică, excepţie ridicată, din oficiu, de Tribunalul Gorj - Secţia comercială şi de contencios administrativ în Dosarul nr. 928/C/2004 al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 63/1998",
+    "number": "63",
+    "year": "1998",
+    "path": "oug/1998/63"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 148/1998",
+    "number": "148",
+    "year": "1998",
+    "path": "lege/1998/148"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii energiei electrice nr. 318/2003",
+    "number": "318",
+    "year": "2003",
+    "path": "lege/2003/318"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 380/2003",
+    "number": "380",
+    "year": "2003",
+    "path": "lege/2003/380"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-01-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58765",
+  "text_sha256": "585001d2dbeeed68b38c3649b8e2d48554abbebc781066f6a507c21110319007",
+  "catalogue_sha256": "585001d2dbeeed68b38c3649b8e2d48554abbebc781066f6a507c21110319007",
+  "fetched": "2026-11-02T23:52:20Z",
+  "chars": 10642,
+  "portal_id": "58765",
+  "tip": "DECIZIE"
+ }
+}
