@@ -1,0 +1,349 @@
+{
+ "key": "dcc-65-2001",
+ "label": "Decizia CCR nr. 65/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "65",
+ "date": "2001-02-27",
+ "year": "2001",
+ "heading": "DECIZIE nr. 65 din 27 februarie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (4) din Ordonanţa de urgenta a Guvernului nr. 198 din 10 decembrie 1999 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri agricole sau terenuri aflate permanent sub luciu de apa şi a dispoziţiilor art. 32^2 din Ordonanţa de urgenta a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, modificată şi completată prin Legea nr. 99/1999 privind unele măsuri pentru accelerarea reformei economice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "289",
+  "bis": false,
+  "date": "2001-06-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "424C/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţiile de neconstituţionalitate a dispoziţiilor art. 3 alin. (4) din Ordonanţa de urgenta a Guvernului nr. 198 din 10 decembrie 1999 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri agricole sau terenuri aflate permanent sub luciu de apa şi excepţiile de neconstituţionalitate a dispoziţiilor art. 32^2 din Ordonanţa de urgenta a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, modificată şi completată prin Legea nr. 99/1999 privind unele măsuri pentru accelerarea reformei economice, ridicate de Societatea de Investiţii Financiare Moldova - S.A. Bacau în dosarele nr. 6.500/COM/2000, 6.634/2000, 6.689/2000, 6.690/2000 şi 6.752/2000 ale Tribunalului Galaţi - Secţia comercială.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 99/1999",
+    "number": "99",
+    "year": "1999",
+    "path": "lege/1999/99"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 198/1999",
+    "number": "198",
+    "year": "1999",
+    "path": "oug/1999/198"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 746/1991",
+    "number": "746",
+    "year": "1991",
+    "path": "hg/1991/746"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privatizării societăţilor comerciale nr. 58/1991",
+    "number": "58",
+    "year": "1991",
+    "path": "lege/1991/58"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 55/1998",
+    "number": "55",
+    "year": "1998",
+    "path": "hg/1998/55"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "210",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 133/1996",
+    "number": "133",
+    "year": "1996",
+    "path": "lege/1996/133"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-06-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/28740",
+  "text_sha256": "2708ce3220b1bc47cb9e64ccf43d9b4c0c334cbd778799c82691a9ecd744a368",
+  "catalogue_sha256": "2708ce3220b1bc47cb9e64ccf43d9b4c0c334cbd778799c82691a9ecd744a368",
+  "fetched": "2026-11-02T23:14:27Z",
+  "chars": 29388,
+  "portal_id": "28740",
+  "tip": "DECIZIE"
+ }
+}
