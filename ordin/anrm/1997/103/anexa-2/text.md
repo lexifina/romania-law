@@ -1,0 +1,19 @@
+# Anexa 2
+REDEVENȚA PETROLIERĂ
+DECONT PE TRIMESTRUL:.............
+─ COD FISCAL PLĂTITOR:
+─ DENUMIRE AGENT ECONOMIC:
+─ LOCALITATE................................. STR.:............................ Nr.................
+─ JUDEȚ (SECTOR)........................ COD POȘTAL................ TEL./FAX.......................
+Producția brută realizată Redevența petrolieră
+Schela petrolieră Cantitatea U.M. Prețul unitar Datorată Predată
+% Cantitatea Valoarea Utilizator Proces-verbal de predare-primire Cantitatea Valoarea
+0 1 2 3 4 5 6 7 8 9 10
+TOTAL:
+Documente de plată ORGAN FISCAL............ COD.......... Nr. ÎNREGISTRARE....................... DATA DEPUNERII......................... PRIMIT.................................
+Tip Nr. Data Suma
+Declar că informațiile din acest decont sunt corecte.
+Numele.............................................. Funcția...................................
+Prenumele........................................... Semnătura și ștampila.....................
+INSTRUCȚIUNI de completare a decontului Decontul se va completa în 3 exemplare, cu următoarea destinație: - originalul rămâne la organul fiscal unde agentul economic este înregistrat ca plătitor de redeventa petroliera; - o copie având confirmarea de primire a organului fiscal se transmite la Agenția Naționala pentru Resurse Minerale; - o copie având confirmarea de primire a organului fiscal rămâne la plătitor. Coloanele formularului de decont se vor completa după cum urmează: - Coloana "0" - se vor evidenția schelele petroliere din componenta agentului economic; - Coloana "1" - se vor înscrie cantitățile brute de petrol extrase la nivelul schelelor petroliere, măsurate la ieșirea din stațiile de separare și tratare a petrolului, exclusiv volumul gazelor reinjectate în zacamant sau al celor extrase concomitent cu țițeiul, neutilizate și nevalorificate de către concesionar, care se predau statului fără plata; - Coloana "2" - se va înscrie unitatea de măsura pentru cantitățile înscrise în coloana "1" (tone sau mc); - Coloana "3" - se vor înscrie prețurile în lei corespunzătoare unităților de măsura din coloana "2", stabilite conform legii și practicate în perioada și pentru sortimentele respective; - Coloanele "4", "5" și "6" - se vor înscrie redevențele petroliere datorate ca procente din producția bruta (coloana "4"), cantitățile (coloana "5") și valorile (coloana "6"), calculate la nivel de schele petroliere ca medii ponderate ale redevențelor stabilite prin acordurile petroliere pentru fiecare zacamant în parte; - Coloanele "7", "8", "9" și "10" - se vor evidenția utilizatorii cantităților de petrol predate, reprezentând redevențe (coloana "7"), numărul și data procesului-verbal de predare-primire (coloana "8"), cantitățile predate (coloana "9") și valoarea încasată (coloana "10"), care se vărsa la bugetul de stat. Prețurile înscrise în coloana "3", precum și valorile înscrise în coloanele "6" și "10" sunt "exclusiv T.V.A.".
+---------
