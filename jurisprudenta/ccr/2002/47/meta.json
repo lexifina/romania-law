@@ -1,0 +1,206 @@
+{
+ "key": "dcc-47-2002",
+ "label": "Decizia CCR nr. 47/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "47",
+ "date": "2002-02-12",
+ "year": "2002",
+ "heading": "DECIZIE nr. 47 din 12 februarie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 17 alin. 1^1 din Legea nr. 92/1992 pentru organizarea judecătorească, republicată, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "158",
+  "bis": false,
+  "date": "2002-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "6.090/2001",
+  "402C/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 17 alin. 1^1 din Legea nr. 92/1992 pentru organizarea judecătorească, republicată, cu modificările şi completările ulterioare, excepţie ridicată de Compania Naţionala \"Romtehnica\" - S.A. din Bucureşti în Dosarul nr. 6.090/2001 al Tribunalului Bucureşti - Secţia a III-a civilă şi, respectiv, de Sandu Gurguiatu în dosarele nr. 1.147/2001 şi nr. 3.501/2001 ale Judecătoriei Focsani.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 179/1999",
+    "number": "179",
+    "year": "1999",
+    "path": "oug/1999/179"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/34377",
+  "text_sha256": "2f054223c6fb0eac12cd81f0009b6c3280cb00740ce1b01d38740219bf391793",
+  "catalogue_sha256": "2f054223c6fb0eac12cd81f0009b6c3280cb00740ce1b01d38740219bf391793",
+  "fetched": "2026-11-02T23:19:34Z",
+  "chars": 12993,
+  "portal_id": "34377",
+  "tip": "DECIZIE"
+ }
+}
