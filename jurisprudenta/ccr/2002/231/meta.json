@@ -1,0 +1,284 @@
+{
+ "key": "dcc-231-2002",
+ "label": "Decizia CCR nr. 231/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "231",
+ "date": "2002-09-10",
+ "year": "2002",
+ "heading": "DECIZIE nr. 231 din 10 septembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 40 din Ordonanţa Guvernului nr. 55/1999 privind executarea silită a creanţelor bancare neperformante preluate la datoria publică interna şi ale art. 25 alin. (1) din Ordonanţa de urgenta a Guvernului nr. 51/1998 privind valorificarea unor active bancare, aprobată cu modificări şi completări prin Legea nr. 409/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "847",
+  "bis": false,
+  "date": "2002-11-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "2.222/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 55/1999",
+    "number": "55",
+    "year": "1999",
+    "path": "og/1999/55"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 51/1998",
+    "number": "51",
+    "year": "1998",
+    "path": "oug/1998/51"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 40 din Ordonanţa Guvernului nr. 55/1999 privind executarea silită a creanţelor bancare neperformante preluate la datoria publică interna, excepţie ridicată de Societatea Comercială \"ITIA\" - S.A. în Dosarul nr. 2.222/2001 al Curţii de Apel Bucureşti - Secţia a V-a comercială. 2. Respinge excepţia de neconstituţionalitate a art. 25 alin. (1) din Ordonanţa de urgenta a Guvernului nr. 51/1998 privind valorificarea unor active bancare, aprobată cu modificări şi completări prin Legea nr. 409/2001, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 55/1999",
+    "number": "55",
+    "year": "1999",
+    "path": "og/1999/55"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 51/1998",
+    "number": "51",
+    "year": "1998",
+    "path": "oug/1998/51"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "279",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "280",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "384",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "420",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 409/2001",
+    "number": "409",
+    "year": "2001",
+    "path": "lege/2001/409"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "401",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-11-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/40095",
+  "text_sha256": "0a8885aaa941987040e1fee162195882729050264bb3c5109436942a61aa5f78",
+  "catalogue_sha256": "0a8885aaa941987040e1fee162195882729050264bb3c5109436942a61aa5f78",
+  "fetched": "2026-11-02T23:25:04Z",
+  "chars": 18544,
+  "portal_id": "40095",
+  "tip": "DECIZIE"
+ }
+}
