@@ -1,0 +1,207 @@
+{
+ "key": "dcc-507-2004",
+ "label": "Decizia CCR nr. 507/2004",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "507",
+ "date": "2004-11-17",
+ "year": "2004",
+ "heading": "DECIZIE nr. 507 din 17 noiembrie 2004",
+ "subtitle": "asupra sesizării de neconstituţionalitate a prevederilor art. 1 alin. (3), art. 7 alin. (5), art. 11 alin. (3), art. 13 alin. (2) şi ale art. 28 alin. (2) din Legea contenciosului administrativ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1154",
+  "bis": false,
+  "date": "2004-12-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "623A/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea contenciosului administrativ"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Constată că dispoziţiile referitoare la Avocatul Poporului din cuprinsul art. 1 alin. (3), art. 7 alin. (5), art. 11 alin. (3), art. 13 alin. (2) şi ale art. 28 alin. (2) din Legea contenciosului administrativ sunt constituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I.",
+  "Dezbaterile au avut loc în şedinţele din data de 10 şi 17 noiembrie 2004 şi la acestea au participat: Ioan Vida, preşedinte, Nicolae Cochinescu, Aspazia Cojocaru, Constantin Doldur, Acsinte Gaspar, Kozsokar Gabor, Petre Ninosu, Ion Predescu şi Şerban Viorel Stănoiu, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57432",
+  "text_sha256": "a0508b76d8c2ed7a4a60922af3f1594e226587622805df311ba7b3cf09de6764",
+  "catalogue_sha256": "a0508b76d8c2ed7a4a60922af3f1594e226587622805df311ba7b3cf09de6764",
+  "fetched": "2026-11-02T23:47:04Z",
+  "chars": 47351,
+  "portal_id": "57432",
+  "tip": "DECIZIE"
+ }
+}
