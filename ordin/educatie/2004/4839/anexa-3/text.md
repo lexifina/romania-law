@@ -1,0 +1,2 @@
+# Anexa 3
+CALENDAR de desfășurare a Programului național de protecție socială "Bani de liceu" Depunerea cererilor pentru Programul național de protecție socială "Bani de liceu" - până la 15 octombrie Evaluarea eligibilității cererilor de către comisii - 1-18 octombrie Centralizarea cererilor în aplicația de colectare - 1-27 octombrie Afișarea pe Internet a listei beneficiarilor - 28 octombrie Depunerea contestațiilor - 28 octombrie - 2 noiembrie Rezolvarea contestațiilor - 2-4 noiembrie
