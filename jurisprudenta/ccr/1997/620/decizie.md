@@ -1,0 +1,22 @@
+# DECIZIE nr. 620 din 9 decembrie 1997
+referitoare la excepţia de neconstituţionalitate a art. 330, art. 330^1 şi art. 330^2 din Codul de procedură civilă
+Ioan Muraru - preşedinte Costica Bulai - judecător Viorel Mihai Ciobanu - judecător Mihai Constantinescu - judecător Victor Dan Zlatescu - judecător Paula C. Pantea - procuror Doina Suliman - magistrat-asistent Pe rol, pronunţarea asupra recursului declarat de Cernescu Caius Iulian Adrian împotriva Deciziei Curţii Constituţionale nr. 176 din 4 iunie 1997.
+Dezbaterile au avut loc în şedinţa publică din 3 decembrie 1997 şi au fost consemnate în încheierea din aceeaşi dată, când, având nevoie de timp pentru a delibera, Curtea a amânat pronunţarea pentru data de 9 decembrie 1997.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 28 martie 1997, pronunţată în Dosarul nr. 3.541/1996, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a art. 330, art. 330^1 şi a art. 330^2 din Codul de procedură civilă, ridicată de Cernescu Caius Iulian Adrian.
+Prin Decizia nr. 176 din 4 iunie 1997, Curtea Constituţională a respins ca vadit nefondata excepţia de neconstituţionalitate, ţinând seama de practica sa jurisdicţională, precum şi de Legea nr. 17/1997 prin care au fost modificate dispoziţiile art. 330^1 din Codul de procedură civilă.
+Împotriva deciziei sus-menţionate, reclamantul-intimaţi a declarat recurs, în termen legal, deoarece considera ca "faptul modificării art. 330^1 din Codul de procedură civilă prin Legea nr. 17/1997 confirma ca acesta contravine dispoziţiilor Constituţiei". De asemenea, se critica instituţia recursului în anulare, care conduce la instabilitatea raporturilor sociale şi afectează autoritatea lucrului judecat. Recurentul considera ca Decretul nr. 92/1950 şi anexele sale sunt inexistente, nefiind publicate.
+Potrivit art. 24 alin. (3) din Legea nr. 47/1992, întrucât excepţia a fost respinsă ca vadit nefondata, s-au solicitat puncte de vedere celor două Camere ale Parlamentului şi Guvernului.
+Guvernul, în punctul sau de vedere, apreciază ca excepţia invocată este nefondata, iar recursul este neîntemeiat.
+Camera Deputaţilor şi Senatul nu au comunicat punctele lor de vedere.
+CURTEA, având în vedere decizia atacată, motivele de recurs invocate, punctul de vedere al Guvernului, raportul întocmit de judecătorul-raportor, prevederile art. 330, art. 330^1 şi ale art. 330^2 din Codul de procedură civilă, raportate la dispoziţiile Constituţiei şi ale Legii nr. 47/1992, constata următoarele:
+Prin Decizia nr. 73 din 4 iunie 1996, rămasă definitivă prin Decizia nr. 96 din 24 septembrie 1996, Curtea Constituţională a constatat ca dispoziţiile art. 330, art. 330^2 alin. 2, art. 330^3 şi ale art. 330^4 din Codul de procedură civilă sunt constituţionale, declarandu-se totodată neconstituţionale dispoziţiile art. 330^2 alin. 2 din acelaşi cod.
+Prevederile art. 330^1 din Codul de procedură civilă au fost modificate prin Legea nr. 17/1997, introducându-se termenul de 6 luni pentru exercitarea recursului în anulare. Astfel s-au înlăturat prevederile ce formau obiectul excepţiei de neconstituţionalitate, care admiteau ca recursul în anulare poate fi introdus oricând. Prin Deciziile nr. 52 din 18 martie 1997 şi nr. 78 din 22 aprilie 1997, rămase definitive, Curtea Constituţională a reţinut ca excepţiile de neconstituţionalitate referitoare la acest articol sunt lipsite de obiect.
+Argumentele aduse prin recurs nu sunt de natura sa schimbe practica constanta a Curţii.
+Decizia atacată nu mai putea să se pronunţe asupra textului art. 330^1 din Codul de procedură civilă în forma iniţială, deoarece acest text a fost modificat, iar Curtea nu se pronunţa asupra textelor ce au fost abrogate sau modificate, soluţionarea făcându-se cu respectarea principiilor succesiunii legilor în timp.
+Cat priveşte dispoziţiile Decretului nr. 92/1950, acestea nu sunt incidente în cauza.
+Pentru motivele arătate, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 25 şi al art. 26 din Legea nr. 47/1992, CURTEA În numele legii DECIDE:
+Respinge recursul declarat de Cernescu Caius Iulian Adrian împotriva Deciziei Curţii Constituţionale nr. 176 din 4 iunie 1997.
+Definitivă.
+Pronunţată în şedinţa publică din 9 decembrie 1997.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof.univ.dr. IOAN MURARU Magistrat-asistent, Doina Suliman ---------
