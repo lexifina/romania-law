@@ -1,0 +1,23 @@
+# Anexa nr. 3 la normele metodologice
+Direcția generală pentru agricultură și industrie alimentară......
+Verificat și aprobat pentru suma de......... lei la data de...........
+Director general, Contabil-șef.....................
+Vizat Vizat
+Consiliul Local........ Asociația.......
+Nr......(Registrul asociațiilor și fundațiilor)......
+CERERE pentru încasarea stimulentelor pentru laptele materie primă livrat, conform Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 29/2000, cu modificările ulterioare
+Subsemnatul/Subsemnata....(numele și prenumele)...., domiciliat/domiciliată în localitatea..(orașul, comuna și satul)..., str......... nr................, județul/sectorul........... posesor/posesoare al/a buletinului/cărții de identitate seria...... nr......., eliberat/ eliberată de....... la data de................, CNP |_|_|_|_|_|_|_|_|_|_|_|_|_|, în calitate de producător de lapte, deținător al unui efectiv de....... vaci și/sau.......... bivolițe, înscrise în Registrul agricol al localității..........., volumul nr........, poziția nr..................., am livrat lapte:
+Nr. crt
+Denumirea agentului economic care a preluat laptele în perioada..............
+Cantitatea de lapte
+Valoarea stimulentului de încasat de la bugetul de stat
+Total livrată
+-litri- din care: cantitatea care îndeplinește condițiile
+STAS 2418-61
+- litri - din care: recalculată la echivalent 3,5% UG
+- litri - pe litru de lapte (1.400- 1.800 lei) totală pentru cantitatea aprobată 0 1 2 3 4 5 6 = 4 x 5
+1.
+2.
+TOTAL GENERAL:
+Declar pe propria răspundere, sub sancțiunea legii, ca până în prezent nu am încasat stimulente de la bugetul de stat pentru aceste cantități, conform Ordonanței de urgență a Guvernului nr. 29/2000, modificată prin Ordonanța de urgență a Guvernului nr. 174/2000, respectiv prin Ordonanța de urgență a Guvernului nr. 18/2002, și am luat cunoștință de faptul că, dacă în urma verificărilor efectuate de organele abilitate datele din prezenta cerere nu corespund cu realitatea, aceasta constituie contravenție care se sancționează cu amendă de la 600.000 lei la 1.200.000 lei și atrage restituirea stimulentelor încasate nejustificat de la bugetul de stat.
+Semnătura............
