@@ -1,0 +1,202 @@
+{
+ "key": "cedo-rotaru-2000-05-04",
+ "label": "CEDO, Rotaru c. României, 2000-05-04",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2000-05-04",
+ "year": "2000",
+ "heading": "HOTĂRÂRE din 4 mai 2000",
+ "subtitle": "în cauza Rotaru împotriva României*)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "19",
+  "bis": false,
+  "date": "2001-01-11",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "case_name": "Rotaru",
+ "subjects": [],
+ "operative": [
+  "CURTEA 1. respinge, în unanimitate, excepţia preliminară a Guvernului de pierdere a calităţii de victima; 2. uneste cu fondul, în unanimitate, excepţia preliminară a Guvernului de neepuizare a căilor de atac interne şi o respinge în unanimitate după examinarea pe fond; 3. decide, cu 16 voturi contra 1, ca a existat o încălcare a art. 8 din convenţie; 4. decide, în unanimitate, ca a existat o încălcare a art. 13 din convenţie; 5. decide, în unanimitate, ca a existat o încălcare a art. 6 alin. 1 din convenţie; 6. decide, în unanimitate",
+  "a) ca statul pârât trebuie să îi plătească reclamantului, în termen de 3 luni, 50.000 (cincizeci mii) franci francezi cu titlu de daune morale şi 13.450 (treisprezece mii patru sute cincizeci) franci francezi cu titlu de taxe şi cheltuieli, minus 9.759,72 (noua mii şapte sute cincizeci şi noua) franci francezi şi 72 (şaptezeci şi doua) centime, sume convertibile în lei româneşti la rata de schimb din ziua în care vor fi plătite;",
+  "b) ca aceste sume vor trebui majorate cu o dobânda simpla de 2,74% pe an, începând cu data expirării termenului menţionat şi până la data la care reclamantul îşi va incasa banii;",
+  "7. respinge, în unanimitate, alte cereri de satisfactie echitabila."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 14/1992",
+    "number": "14",
+    "year": "1992",
+    "path": "lege/1992/14"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret-lege/1954/31"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/1999",
+    "number": "187",
+    "year": "1999",
+    "path": "lege/1999/187"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "cedo: no application number"
+ ],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/25965",
+  "text_sha256": "c111a96a8b658456020c44eb7eb414ca4340222330469955aaae4c8903a520d5",
+  "catalogue_sha256": "c111a96a8b658456020c44eb7eb414ca4340222330469955aaae4c8903a520d5",
+  "fetched": "2026-11-02T23:12:20Z",
+  "chars": 73645,
+  "portal_id": "25965",
+  "tip": "HOTĂRÂRE"
+ }
+}
