@@ -1,0 +1,170 @@
+{
+ "key": "dcc-27-1993",
+ "label": "Decizia CCR nr. 27/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "27",
+ "date": "1993-05-25",
+ "year": "1993",
+ "heading": "DECIZIE nr. 27*) din 25 mai 1993",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Decretului nr. 92/1950 şi a H.C.M. nr. 606/1959",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "163",
+  "bis": false,
+  "date": "1993-07-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Decretului 92/1950 şi a H.C.M. nr. 606/1959, invocată de Buiculescu Mia Armida, prin reprezentantul sau Buiculescu Aurel, domiciliat în Sibiu, str. Axente Sever nr. 29, judeţul Sibiu, în cauza ce formează obiectul dosarului nr. 1435/1992 aflat pe rolul Tribunalului Judeţean Sibiu.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1991",
+    "number": "58",
+    "year": "1991",
+    "path": "lege/1991/58"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-07-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3102",
+  "text_sha256": "844acdf283d296d086cf8a487dfcdd4f7e92ea799f3962ebc3329ec18c960be3",
+  "catalogue_sha256": "844acdf283d296d086cf8a487dfcdd4f7e92ea799f3962ebc3329ec18c960be3",
+  "fetched": "2026-11-02T22:31:23Z",
+  "chars": 8022,
+  "portal_id": "3102",
+  "tip": "DECIZIE"
+ }
+}
