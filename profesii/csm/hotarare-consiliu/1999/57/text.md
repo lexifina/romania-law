@@ -1,0 +1,5 @@
+Consiliul Superior al Magistraturii, în temeiul dispozițiilor art. 132 și 133 din Constituție și al art. 89 din Legea nr. 92/1992 pentru organizarea judecătorească, republicată, în conformitate cu prevederile art. 37 din Regulamentul de funcționare a Consiliului Superior al Magistraturii, adoptat în ședința acestuia din 14 octombrie 1998 și publicat în Monitorul Oficial al României, Partea I, nr. 442 din 20 noiembrie 1998, cu unanimitatea voturilor membrilor săi, hotărăște:
+Articolul 1
+La articolul 5 din Regulamentul de funcționare a Consiliului Superior al Magistraturii, după alineatul 2 se introduce un alineat cu următorul cuprins: "În activitatea sa secretarul general al Consiliului Superior al Magistraturii este ajutat de un secretar general adjunct, ales în prima ședința a sesiunii prin votul a cel puțin două treimi din numărul membrilor."
+Articolul 2
+Prin grija Secretariatului tehnic al Consiliului Superior al Magistraturii prezenta hotărâre va fi înaintată spre publicare în Monitorul Oficial al României, Partea I. Secretarul general al Consiliului Superior al Magistraturii, Ana Boar ---------
