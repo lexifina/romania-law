@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 36 din 27 aprilie 1993  privind modificarea  Hotărârii Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 85 din 5 mai 1993     Camera Deputaţilor adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC      Hotărârea Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor se modifică în sensul că domnul deputat Dumitru Bălăeţ, din Grupul parlamentar socialist, trece de la Comisia pentru cercetarea abuzurilor, corupţiei şi pentru petiţii (anexa nr. 14) la Comisia juridică, de disciplină şi imunităţi (anexa nr. 11).  p. PREŞEDINTELE CAMEREI DEPUTAŢILOR  RADU BERCEANU  Bucureşti, 27 aprilie 1993.  Nr. 36.  -----
