@@ -1,0 +1,10 @@
+# Text
+1. Ca urmare a intrării în vigoare a Normelor Băncii Naționale a României nr. 2*) din 24 februarie 1994 privind fondurile proprii ale societăților bancare, se modifica normele Băncii Naționale a României: nr. 5/1992 privind împrumuturile mari acordate clienților de către societățile bancare (publicate în Monitorul Oficial al României, Partea I, nr. 196 din 13 august 1992), nr. 10/1992 privind împrumuturile acordate debitorilor aflați în relații speciale cu societățile bancare (publicate în Monitorul Oficial al României, Partea I, nr. 290 din 19 noiembrie 1992) și nr. 9 din 28 decembrie 1993 privind supravegherea pozițiilor valutare ale societăților bancare, publicate în Monitorul Oficial al României, Partea I, nr. 315 din 30 decembrie 1993, astfel:
+- noțiunea capital propriu al societății bancare din cuprinsul acestor norme se înlocuiește cu noțiunea fondurile proprii ale societății bancare;
+- determinarea fondurilor proprii ale societății bancare, inclusiv pentru întocmirea raportarilor către Banca Naționala a României, conform normelor de mai sus, efectuează potrivit prevederilor Normelor Băncii Naționale a României nr. 2 din 24 februarie 1994 privind fondurile proprii ale societăților bancare.
+2. Pct. I. 1. din anexa nr. 2 și rindul 1 de la pct. III din anexa nr. 3 la Normele Băncii Naționale a României nr. 4 **) din 24 februarie 1994 privind solvabilitatea societăților bancare se modifica având următoarea formulare:
+"Cambii și alte efecte de comerț acceptate la plata de către societatea bancară și care nu sunt avalizate de alte societăți bancare."
+3. Pct. III. 2. din anexa nr. 2 și rindul 7 de la pct. III din anexa nr. 3 la Normele Băncii Naționale a României nr. 4 din 24 februarie 1994 privind solvabilitatea societăților bancare se modifica, având următoarea formulare:
+"Cambii și alte efecte de comerț acceptate la plata de către societatea bancară și care sunt avalizate de alte societăți bancare."
+* * * Conducătorii societăților bancare vor asigura cunoașterea și aplicarea celor cuprinse în prezenta circulara.
+Guvernatorul Băncii Naționale a României, Mugur Isarescu ---------------
