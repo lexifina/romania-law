@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 11 din 5 martie 1992  privind declararea ca demisionaţi a unor deputaţi     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 39 din 11 martie 1992     În temeiul art. 67 alin. (2) şi art. 68 alin. (2) din Constituţia României şi al art. 153 din Regulamentul Camerei Deputaţilor,  Camera Deputaţilor hotărăşte.
+				 +
+			  Articolul UNIC     Se declară ca demisionaţi din funcţia de deputat, ca urmare a incompatibilitaţii acesteia cu exercitarea funcţiilor publice de autoritate pe care le deţin, următorii:  - Cristea Sorin, aparţinînd Grupului parlamentar al Frontului Salvării Naţionale, Circumscripţia electorală nr. 4 Bacău;  - Teodoriu Bujor Bogdan, apartinând Grupului parlamentar al Frontului Salvării Naţionale, Circumscripţia electorală nr. 34 Suceava.  PREŞEDINTELE CAMEREI DEPUTAŢILOR  MARŢIAN DAN  Bucureşti, 5 martie 1992.  Nr.11  ---------
