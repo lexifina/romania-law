@@ -1,0 +1,155 @@
+{
+ "key": "dcc-186-2000",
+ "label": "Decizia CCR nr. 186/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "186",
+ "date": "2000-10-10",
+ "year": "2000",
+ "heading": "DECIZIE nr. 186 din 10 octombrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (4) din Legea nr. 55/1995 pentru accelerarea procesului de privatizare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "665",
+  "bis": false,
+  "date": "2000-12-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "234/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/1995",
+    "number": "55",
+    "year": "1995",
+    "path": "lege/1995/55"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor  art. 8 alin. (4) din Legea nr. 55/1995  pentru accelerarea procesului de privatizare, excepţie ridicată de Societatea Comercială \"Bermas\"-S.A. Suceava în Dosarul nr. 234/2000 al Tribunalului Suceava - Secţia comercială şi de contencios administrativ.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 10 octombrie 2000.  PREŞEDINTE,  prof. univ. dr. Ioan Muraru  Magistrat-asistent,  Maria Bratu  ───────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/1995",
+    "number": "55",
+    "year": "1995",
+    "path": "lege/1995/55"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/25603",
+  "text_sha256": "8043ddff333bd37f358cf2cc2f8705b0b098f761296c6c96c17f4b7cc3819396",
+  "catalogue_sha256": "8043ddff333bd37f358cf2cc2f8705b0b098f761296c6c96c17f4b7cc3819396",
+  "fetched": "2026-11-02T23:11:58Z",
+  "chars": 5928,
+  "portal_id": "25603",
+  "tip": "DECIZIE"
+ }
+}
