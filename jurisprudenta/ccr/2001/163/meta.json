@@ -1,0 +1,161 @@
+{
+ "key": "dcc-163-2001",
+ "label": "Decizia CCR nr. 163/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "163",
+ "date": "2001-05-22",
+ "year": "2001",
+ "heading": "DECIZIE nr. 163 din 22 mai 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 37 şi ale art. 38 din Codul familiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "453",
+  "bis": false,
+  "date": "2001-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.725/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 37 şi ale art. 38 din Codul familiei, excepţie ridicată de Alexandru Toma în Dosarul nr. 1.725/2000 al Tribunalului Bucureşti - Secţia a IV-a civilă.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 22 mai 2001.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Maria Bratu  ────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/30050",
+  "text_sha256": "7942a7dbee562af4670b210255b4c222ce11adbd8a05c201d6e4f8a17f84436b",
+  "catalogue_sha256": "7942a7dbee562af4670b210255b4c222ce11adbd8a05c201d6e4f8a17f84436b",
+  "fetched": "2026-11-02T23:15:37Z",
+  "chars": 8266,
+  "portal_id": "30050",
+  "tip": "DECIZIE"
+ }
+}
