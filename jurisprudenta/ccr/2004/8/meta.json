@@ -1,0 +1,165 @@
+{
+ "key": "dcc-8-2004",
+ "label": "Decizia CCR nr. 8/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "8",
+ "date": "2004-01-20",
+ "year": "2004",
+ "heading": "DECIZIE nr. 8 din 20 ianuarie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 58 din Codul familiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "81",
+  "bis": false,
+  "date": "2004-01-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.086/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 58 din Codul familiei, excepţie ridicată de Valeria Oprina în Dosarul nr. 3.086/2003 al Tribunalului Prahova - Secţia civilă.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 20 ianuarie 2004.  PREŞEDINTE,  prof. univ. dr. COSTICĂ BULAI  Magistrat-asistent,  Mihaela Senia Costinescu  ──────────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49510",
+  "text_sha256": "ad47c57c632ca34bc802cd888e7f77d3bbdc0ae98c0f00c7ff4b04cbbef6c5ea",
+  "catalogue_sha256": "ad47c57c632ca34bc802cd888e7f77d3bbdc0ae98c0f00c7ff4b04cbbef6c5ea",
+  "fetched": "2026-11-05T13:33:09Z",
+  "chars": 8898,
+  "portal_id": "49510",
+  "tip": "DECIZIE"
+ }
+}
