@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 8 din 14 martie 1995  privind demisia unor deputaţi     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 51 din 20 martie 1995     În temeiul art. 67 alin. (2) din Constituţia României şi al art. 189 din Regulamentul Camerei Deputaţilor,  Camera Deputaţilor hotărăşte:
+				 +
+			  Articolul UNIC     Camera Deputaţilor ia act de cererile de demisie, de la data de 15 martie 1995, prezentate de domnii Constantin Enache, deputat ales în Circumscripţia electorală nr. 4 Bacău, şi Nicolae Şerdin, deputat ales în Circumscripţia electorală nr. 26 Mehedinţi, ambii aparţinând Grupului parlamentar al Partidului Democraţiei Sociale din România, şi declară vacante locurile de deputat deţinute de aceştia.  p. PREŞEDINTELE  CAMEREI DEPUTAŢILOR  IOAN GAVRA  Bucureşti, 14 martie 1995.  Nr. 8.  -----------
