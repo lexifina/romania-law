@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 1998-09-21: adopted by the Chamber of Deputies
 - 1998-10-20: sent for promulgation
 - 1998-11-05: promulgated, becomes Legea nr. 208/1998; documents published: Decret de promulgare, Forma promulgată
+- 1998-11-12: published in the Monitorul Oficial
 
 ## Documents
 
