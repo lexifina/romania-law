@@ -1,0 +1,88 @@
+{
+ "key": "cedo-28342-95-2001-11-28",
+ "label": "CEDO, Brumarescu c. României, 2001-11-28",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2001-11-28",
+ "year": "2001",
+ "heading": "HOTĂRÂREA CURŢII EUROPENE A DREPTURILOR OMULUI",
+ "subtitle": "în cauza Brumarescu împotriva României (Cererea nr. 28.342/95)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "758",
+  "bis": false,
+  "date": "2001-11-28",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "28342/95"
+ ],
+ "case_name": "Brumarescu",
+ "subjects": [],
+ "operative": [
+  "Curtea, în unanimitate, 1. hotărăşte ca statul pârât trebuie să restituie reclamantului, în termen de şase luni, casa în litigiu şi terenul pe care este amplasata, cu excepţia apartamentului şi a părţii de teren care au fost deja restituite; 2. hotărăşte ca, în cazul în care restituirea nu va avea loc, statul pârât va plati reclamantului, în acelaşi termen de 6 luni, 136.205 (o suta treizeci şi şase de mii doua sute cinci) dolari S.U.A., cu titlu de prejudiciu material, urmând să fie plătiţi în lei româneşti, conform ratei de schimb aplicabile la momentul plăţii; 3. hotărăşte ca statul pârât trebuie să plătească reclamantului, în termen de trei luni, următoarele sume ce vor fi plătite în lei româneşti, conform ratei de schimb aplicabile la momentul plăţii",
+  "a) 15.000 (cincisprezece mii) dolari S.U.A., cu titlul de prejudiciu moral;",
+  "b) 2.450 (doua mii patru sute cincizeci) dolari S.U.A., din care se scad 3.900 (trei mii noua sute) franci francezi, primiţi pentru asistenţa juridică, cu titlu de cheltuieli de judecată;",
+  "```\n4. hotărăşte ca pentru sumele menţionate la pct. 2 şi 3 se va percepe o dobânda anuală de 6%, cu începere de la expirarea termenelor până la momentul plăţii;  5. respinge acordarea satisfactiei echitabile pentru celelalte capete de cerere.  Redactată în limbile engleza şi franceza, apoi comunicată în scris la data de 23 ianuarie 2001, în aplicarea art. 77 alin. 2 şi 3 din regulamentul Curţii.  Luzius Wildhaber,  preşedinte  Maud de Boer-Buquiccho,  grefier adjunct  ───────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/32414",
+  "text_sha256": "fa91b98b2058769e3aa3b615a8dc7c6f36ff30746be623df43251b019f8371a8",
+  "catalogue_sha256": "fa91b98b2058769e3aa3b615a8dc7c6f36ff30746be623df43251b019f8371a8",
+  "fetched": "2026-11-02T23:17:33Z",
+  "chars": 18773,
+  "portal_id": "32414",
+  "tip": "HOTĂRÂRE"
+ }
+}
