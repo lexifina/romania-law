@@ -1,0 +1,246 @@
+{
+ "key": "dcc-6-2000",
+ "label": "Decizia CCR nr. 6/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "6",
+ "date": "2000-01-18",
+ "year": "2000",
+ "heading": "DECIZIE nr. 6 din 18 ianuarie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 32^4 din Ordonanţa de urgenta a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, modificată şi completată prin art. I din Legea nr. 99/1999 privind unele măsuri pentru accelerarea reformei economice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "127",
+  "bis": false,
+  "date": "2000-03-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.071/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "32-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/1999",
+    "number": "99",
+    "year": "1999",
+    "path": "lege/1999/99"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 32^4 din Ordonanţa de urgenta a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, modificată şi completată prin art. I din Legea nr. 99/1999 privind unele măsuri pentru accelerarea reformei economice, excepţie ridicată de Societatea Comercială \"Vincon\" - S.A. Vrancea din Focsani în Dosarul nr. 3.071/1998 al Tribunalului Vrancea.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "32-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/1999",
+    "number": "99",
+    "year": "1999",
+    "path": "lege/1999/99"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-03-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/21585",
+  "text_sha256": "b84fa9fd2ccf75951dbffd5e38c2a6117dcd9220f7ad67d2e87e4260ce7b6ef4",
+  "catalogue_sha256": "b84fa9fd2ccf75951dbffd5e38c2a6117dcd9220f7ad67d2e87e4260ce7b6ef4",
+  "fetched": "2026-11-05T05:17:11Z",
+  "chars": 16453,
+  "portal_id": "21585",
+  "tip": "DECIZIE"
+ }
+}
