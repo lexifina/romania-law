@@ -1,0 +1,1005 @@
+# Anexa 2
+CARACTERISTICILE FUNCȚIONAL-COMERCIALE ȘI CRITERIILE MINIME privind clasificarea pe categorii a unităților de alimentație destinate servirii turiștilor I. Caracteristici funcțional-comerciale ale principalelor tipuri de unități de alimentație destinate servirii turiștilor 1. Restaurantul este local public care imbina activitatea de producție cu cea de servire, punând la dispoziția clienților o gama diversificata de preparate culinare, produse de cofetărie-patiserie, băuturi și unele produse pentru fumatori. 1.1. Restaurantul clasic este local public cu profil gastronomic în care se servește un larg sortiment de preparate culinare (gustari calde și reci, preparate lichide calde, mincaruri, minuturi, salate, dulciuri de bucătărie), produse de cofetărie, patiserie, înghețată, fructe, băuturi nealcoolice și alcoolice, produse din tutun etc. Pentru crearea unei atmosfere animate-distractive poate dispune de formație muzicala-artistică. Organizează servicii suplimentare-banchete, recepții etc. 1.2. Restaurantul specializat servește un sortiment specific de preparate culinare și băuturi care se afla permanent în lista de meniu, în condițiile unor amenajări și dotări clasice sau adecvate structurii sortimentale (pescaresc, vânătoresc, rotiserie, zahana, dietetic, lacto-vegetarian, familial, pensiune etc,) care formează obiectul specializării. 1.2.1. Restaurantul pescaresc este o unitate gastronomica ce se caracterizează prin desfacerea, în principal, a unui sortiment variat de preparate culinare din peste. Este decorat cu obiecte sugestive din activitatea de pescuit și de prelucrare a pestelui. 1.2.2. Restaurantul vânătoresc este o unitate gastronomica specializată în producerea și servirea de preparate culinare din vânat (iepure, caprioara, porc și mistreș, urs, gâște, rațe sălbatice etc.), ce este organizată și funcționează pe principii similare restaurantului clasic, având însă prin amenajare, dotare și prezentarea personalului, elemente specifice, particulare. 1.2.3. Rotiseria este un restaurant de mica capacitate (20 - 50 de locuri la mese), în care consumatorii sunt serviti cu produse din carne la frigare-rotisor (pui, muschi de vacă și porc, specialități din carne etc.), chebap cu garnituri, unele gustări reci (pe baza de ouă, brânză, legume etc.), salate, deserturi, precum și băuturi racoritoare, cafea, vin, (în special vin roșu servit în carafe), un sortiment redus de băuturi alcoolice fine. Spațiul de producție se află chiar în interiorul sălii de consumație și este dotat cu rotisor sau frigărui și cu vitrina frigorifică în care se află expuși pui și alte specialități din carne pentru fript în fața consumatorilor. 1.2.4. Restaurant-zahana este unitate gastronomică în care se servesc, la comandă, în tot timpul zilei, produse (specialități din carne de porc, vacă, batal, miel) și subproduse din carne neportionata (ficat, rinichi, inimă, splină, momite, maduvioare etc.),mici, cirnati etc., pregătite la gratar și alese de consumatori din vitrinele de expunere sau platourile prezentate de ospătari la masă. Mai poate oferi: ciorba de burta, ciorba de ciocanele, tuslama, tochitura, salate combinate de sezon, muraturi, dulciuri de bucătărie, băuturi alcoolice (aperitive și vinuri). 1.2.5. Restaurant dietetic este o unitate gastronomica, care oferă consumatorilor sortimente de preparate culinare dietetice (pregătite sub îndrumarea unui cadru medical dietetician) și băuturi nealcoolice. 1.2.6. Restaurant lacto-vegetarian este o unitate gastronomica în care se desfac în exclusivitate sortimente de preparate culinare pe baza de lapte și produse lactate, ouă, paste fainoase, orez, salate din legume, precum și dulciuri de bucătărie, lactate proaspete, produse de patiserie, înghețată și băuturi nealcoolice calde și reci. 1.2.7. Restaurant familial sau pensiune este unitate cu profil gastronomic care oferă, în mai multe variante, meniuri complete la preț accesibil. Preparatele și specialitățile solicitate în afară meniurilor se servesc conform prețurilor stabilite în listele de meniu. Băuturile sunt limitate la sortimente de răcoritoare și ape minerale. Poate funcționa și pe bază de abonament. La nevoie se poate organiza și ca secție în cadrul unui restaurant clasic. De regulă, asemenea unități se organizează în stațiuni turistice sau în pensiuni și în ferme agroturistice. 1.3. Restaurantul cu specific este o unitate de alimentație pentru recreere și divertisment, care, prin dotare, profil, ținuta lucrătorilor, momente recreative și structura sortimentală, trebuie să reprezinte obiceiuri gastronomice locale sau naționale, tradiționale și specifice diferitelor zone. 1.3.1. Crama desface o gamă largă de vinuri. Acestea se pot servi atât imbuteliate, cât și neîmbuteliate. Se realizează și se desface o gamă specifică de preparate culinare: tochitură, preparate din carne la grătar sau trase la tigaie. Vinurile se servesc în carafe sau căni din ceramică. Este dotată cu mobilier din lemn masiv, iar pereții decorați cu scoarțe, ștergare, etc. Poate avea program muzical, tarafuri de muzică populară. 1.3.2. Restaurantul cu specific local pune în valoare bucătăria specifică unor zone geografice din țară sau a unor tipuri tradiționale de unități (crame, colibe, suri etc.). Sunt servite vinuri și alte băuturi din regiunea respectiva, utilizîndu-se ulcioare, carafe, cani etc. Efectul original al acestor unități este realizat prin imbinarea cadrului natural cu cel arhitectural al sistemului constructiv, al finisajelor inspirate după modelul popular, al elementelor de decoratie, al mobilierului și obiectelor de inventar de concepție deosebita, de gama sortimentala a mincarurilor pregătite și prezentarea personalului. La construirea unităților se utilizează materiale prelucrate sumar, specifice regiunii respective, cum sunt: piatra, bolovanii de rîu, lemn (brut sau prelucrat), cărămida, trestie, stuf, răchita etc. Ospătarii au uniforma confecționată în concordanță cu specificul unității (costume de daci, de romani, ciobanesti etc.). 1.3.3. Restaurantul cu specific național pune în valoare tradițiile culinare ale unor națiuni (chinezesc, arăbesc, mexican etc.) servind o gamă diversificată de preparate culinare, băuturi alcoolice și nealcoolice specifice. Ambianță interioară și exterioară a saloanelor, programul muzical, uniformele personalului de servire și celelalte sunt specifice tarii respective. 1.4. Braseria asigură în tot cursul zilei servirea consumatorilor, în principal cu preparate reci, minuturi, un sortiment restrâns de mâncaruri, specialități de cofetărie-patiserie, băuturi nealcoolice calde și reci, băuturi alcoolice de calitate superioară, un bogat sortiment de bere. 1.5. Berăria este o unitate specifică pentru desfacerea berii de mai multe sortimente, în recipienți specifici (tap, halba, cana) de diferite capacități și a unor produse și preparate care se asociază în consum cu aceasta (cremvursti cu hrean, mititei, cirnati, debretini, chifteluțe, foetaje, covrigi, migdale, alune etc.), precum și brânzeturi, gustări calde și reci, minuturi (din ouă, legume), specialități de zahana (1 - 2 preparate), precum și băuturi alcoolice (coniac, rom, sortiment restrâns de vinuri și băuturi nealcoolice). 1.6. Grădina de vară este o unitate amenajată în aer liber, dotată cu mobilier specific "de grădina" și decorată în mod adecvat. Servește un sortiment diversificat de preparate culinare, minuturi, grătar, salate, dulciuri de bucătărie și cofetărie-patiserie, un larg sortiment de băuturi alcoolice (vinuri selecționate de regiune, îmbuteliate sau neîmbuteliate, băuturi spirtoase etc.) și nealcoolice, cafea, fructe, produse din tutun. 2. Barul - unitate de alimentație cu program de zi sau de noapte, în care se servește un sortiment diversificat de băuturi alcoolice și nealcoolice și o gamă restrânsă de produse culinare. Cadrul ambiental este completat cu program artistic, auditii muzicale, video, TV. 2.1. Barul de noapte - unitate cu caracter distractiv, cu un orar de noapte care prezintă un program variat de divertisment de music-ball și dans pentru consumatori și oferă o gama variata de băuturi alcoolice fine, amestecuri de băuturi de bar, băuturi nealcoolice, specialități de cofetărie și înghețată asortate, roast-beef, fripturi reci etc. fructe și salate de fructe (proaspete și din compoturi), cafea, jardiniere cu delicatese. De obicei sunt realizate în amfiteatru, pentru ca de la toate mesele să se poată viziona programul artistic-muzical. Este dotat cu instalații de amplificare a sunetului, orgă de lumini, de proiectie a unor filme. 2.2. Bar de zi - unitate care funcționează, de regulă, în cadrul hotelurilor și restaurantelor sau ca unitate independentă. Oferă consumatorilor o gamă variată de băuturi alcoolice și nealcoolice, simple sau în amestec, și gustări în sortiment restrâns, tartine, foetaje, specialități de cofetărie și înghețată, produse de tutun - țigări - și posibilități de distracție (muzica discretă, televizor, jocuri mecanice etc.). În salonul de servire se afla tejgheaua-bar cu scaune înalte, un număr restrâns de mese cu dimensiuni mici, cu scaunele respective. 2.3. Cafe-bar-cafenea - unitate care imbina activitatea de desfacere a cafelei cu cea recreativă; oferă consumatorilor și gustari calde și reci, minuturi, produse de cofetărie-patiserie, înghețată, băuturi nealcoolice calde (cafea filtru, svart, cafea cu lapte, ciocolatina, ceai etc.), băuturi alcoolice fine (lichioruri, coniac, vermut s.a.). 2.4. Disco-bar (Discoteca-videoteca) - unitate cu profil de divertisment pentru tineret, activitatea comercială fiind axată pe desfacerea de gustări, produse de cofetărie-patiserie, înghețată și, în special, amestecuri de băuturi alcoolice și nealcoolice. Divertismentul este realizat prin intermediul muzicii de auditie și de dans, înregistrată și difuzată prin instalații speciale și prin "disc-jockey", care asigură organizarea și desfășurarea întregii activități. Videoteca este special amenajată cu instalații electronice de redare și vizionare în care se prezintă videoprograme și filme. 2.5. Bufetul-bar oferă un sortiment restrâns de preparate calde și reci (gustari, sandviciuri, minuturi, mincaruri, produse de patiserie) pregătite în bucătăria proprie sau aduse din afară, băuturi nealcoolice calde și reci, băuturi alcoolice (aperitive), bere, vinuri, la pahar. 3. Unități tip Fast Food 3.1. Restaurant-autoservire este o unitate cu desfacere rapid în care consumatorii își aleg și se servesc singuri cu preparatele culinare calde și reci (gustri, produse lactate, băuturi calde nealcoolice, supe-ciorbe-creme preparate din pește, antreuri, preparate de bază, salate, deserturi, fructe) si băuturi alcoolice (bere) și nealcoolice, la sticla, așezate în linii de autoservire cu flux dirijat și cu plata după alegerea produselor. 3.2. Bufet tip expres - unitate cu desfacere rapida, în care fluxul consumatorilor nu este dirijat, servirea se face de către vânzător, iar plata se face anticipat. Unitatea este dotată cu mese tip "express". 3.3. Pizzerie - unitate specializată în desfacerea sortimentelor de pizza. Se mai pot desface gustări, minuturi, salate, produse de patiserie, răcoritoare, bere, vin la pahar sau băuturi slab alcoolizate. 3.4. Snack-bar - unitate caracterizată prin existența unei tejghele-bar, cu un front de servire care să permită accesul unui număr mare de consumatori, serviti direct cu sortimente pregătite total sau parțial în fata lor. Oferă în tot timpul zilei o gama diversificata de preparate culinare (cremvuști, pui fripți, sandvișuri, cârnăciori, unele preparate cu specific), precum și băuturi nealcoolice calde și reci și băuturi alcoolice în sortiment redus. 4. Cofetărie - unitate specializată pentru desfacerea unui sortiment larg de: prajituri, torturi, fursecuri, cozonac, înghețată, bomboane, patiserie fina, băuturi nealcoolice calde și reci și unele băuturi alcoolice fine (coniac, lichioruri). 5. Patiserie - unitate specializată în desfacerea pentru consum pe loc sau la domiciliu a producției proprii specifice, în stare caldă (plăcintă, ștrudele, merdenele, pateuri, covrigi, brânzoaice, gogoși, cornuri etc.). Sortimentul de băuturi include bere la sticlă, băuturi nealcoolice, calde, răcoritoare, vin la pahar, diferite sortimente de produse lactate (iaurt, chefir, lapte bătut etc.). Se poate organiza și cu profil de "plăcintărie", "simigerie", "cofrigărie", "gogoșerie" sau "patibar". II. CRITERII privind clasificarea pe categorii a unităților de alimentație destinate servirii turiștilor ─────────────────────────────────────────────────────────────────────────────── Nr.
+Criteriul
+Restaurant
+Bar de zi,
+Bar
+Unități
+Cofetărie crt. minim cafe-bar, de tip Fast- patiserie disco-bar, noapte
+Food bufet-bar ─────────────────────────────────────────────────────────────────────────────── 0 1
+L I II III L I II III
+L I
+I II III L I II III ─────────────────────────────────────────────────────────────────────────────── I. Construcții, instalații 1. Parcaj auto pro- priu pentru uni- tățile indepen- dente (unități- le existente pot fi exceptate) x - -
+-
+- -
+-
+- x -
+-
+-
+-
+-
+- - - 2. Acces pentru mij- loace auto la intrare x x -
+- x -
+-
+- x x
+-
+-
+- x
+- - - 3. Emblema unității x - -
+- x -
+-
+- x -
+-
+-
+- x
+- - - 4. Firmă luminoasă pentru unități- le independente x x -
+- x x
+-
+- x x x
+-
+- x x - - 5. Firma vizibilă
+- - x x
+- - x x
+- -
+- x x
+-
+- x x 6. La intrare semn distinctiv re- prezentând tipul și categoria unității x x x x x x x x x x x x x x x x x 7. Acces pentru consumatori din holul unității de cazare (pen- tru unitățile situate în uni- tati de cazare) x x -
+- x x
+-
+- x x
+-
+-
+-
+-
+- - - 8. Windfang, uși rotative sau perdea de aer la intrare (unități cu acces direct din afară)1) x x -
+- x x
+-
+- x x x
+-
+- x x - - 9. Acces pentru aprovizionare cu mărfuri si pentru circu- laia perso- nalului printr-o in- trare separa- ta de cea principală x x x x x x
+-
+- x x x
+-
+- x x - - 10.Hol de primire și așteptare a consumato- rilor x x -
+-
+- -
+-
+- x x
+-
+-
+-
+-
+- - - 11.Garderoba 2) x x -
+- x -
+-
+- x x
+-
+-
+- x
+- - - 12.Cuiere în incinta
+- - x x
+- x x x
+- - x x x
+- x x x 13.Priză telefo- nică și tele- fon la dispo- ziția consu- matorilor x - -
+- x -
+-
+- x -
+-
+-
+-
+-
+- - - 14.Grup sanitar cu apă curentă caldă și rece, separat pe sexe, o cabina la... loc 3) 30 30 -
+- 30 40 -
+- 30 40 40
+-
+- 30
+- - - 15.Grup sanitar cu apă curen- ta 4)
+- - x x - - x x
+-
+-
+- x x
+- x4) x4) - 16.Instalatie de aer condițio- nat 5) x - -
+- x - -
+- x
+-
+-
+-
+- x
+- - - 17.Ventilație mecanică in spațiile de servire si producție
+- x x
+- - x x
+-
+- x x x -
+- x x - 18.Ventilație naturala
+- -
+- x - - - x
+-
+-
+-
+- x
+-
+- - x 19.Instalatie de încălzire centrală sau alte surse de căldură admise de
+P.S.I 6)
+- x x x - x x x
+- x x x x
+- x x x 20.Instalație curentă de apă caldă și rece x x x x x x x x x x x x x x x x x 21.Iluminat in toate spa- țiile de servire, producție și anexe x x x x x x x x x x x x x x x x x 22.Saloanele sunt dimen- sionate co- răspunzător în funcție de numărul de locuri și de urmă- torii indi- catori de suprafață... mp/loc masă 1,5 1,3 1,0 0,8 1,3 1,0 0,8 0,8 1,4 1,3 1,2 1,0 0,8 1,4 1,3 1,0 0,8 23.Salon pentru mic dejun (la unități- le din in- cinta unor structuri de pri- mire)7) x x
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- - - - 24.Saloanele sunt izo- late fonic x x
+-
+-
+- x
+-
+- x x
+-
+-
+- x - - - 25.Saloanele cu o capa- citate mai mare de 150-200 de locuri sunt comparți- mentate x x
+-
+-
+-
+-
+-
+- x x
+-
+-
+- x x - - 26.Oficiu os- pătari sau spațiu de distribu- ție 8) x x x x
+-
+-
+-
+- x x x
+-
+- x - - - 27.Acces între oficiu și salon prin uși batante x x x
+-
+-
+-
+-
+- x x x x
+- x - - - 28.Bucătăria cuprinde următoarele secții:
+- bucătărie caldă x x
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- - - -
+- bucătărie rece x x
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- - - -
+- bucătărie caldă și rece
+- - x x
+-
+-
+-
+- x x x x x
+- - - -
+- patiserie x -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- - - -
+- cofetărie x -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- - - -
+- bufet
+- - x x x x x x x x
+-
+-
+-
+- - - -
+- preparări preliminare x x x x
+-
+-
+-
+- x x x x x
+- - - - ------------------------------- 1) Unitățile sezoniere pot fi exceptate. 2) Unitățile (de vara) și cele cu o capacitate de sub 100 de locuri pot fi exceptate, acestea dispunând de cuiere în incinta. 3) Dotat modern inclusiv cu: dozator de săpun lichid, uscator de mâini sau prosop rola din hârtie sau pânză, oglindă la chiuvete, iluminare și aerisire corespunzătoare, hârtie igienică, materiale pentru odorizare și dezinfectare. Pereții vor fi placati cu materiale ceramice, marmura etc. până la tavan, iar pardoseala cu gresie, marmura etc. La categoria a II-a și a III-a se admit și pardoseli de mozaic lustruit prevăzut cu scurgeri corespunzătoare. La cabanele izolate, de creasta de categoria 2 stele și 1 stea, grupul sanitar poate fi comun cu cel al spațiilor de cazare. 4) La patiserie, simigerie etc., grupul sanitar este obligatoriu numai în situația în care se servesc băuturi alcoolice, inclusiv bere. 5) În spații de servire, producție și grupuri sanitare. 6) Cu excepția unităților sezoniere. 7) Servirea se va efectua în stil bufet, dacă structura de primire este de categoria 5, 4 și 3 stele. 8) Restaurantele de mică capacitate (sub 50 de locuri) și restaurantele familiale-pensiune pot fi exceptate. ─────────────────────────────────────────────────────────────────────────────── 0 1
+L I II III L I II III
+L I
+I II III L I II III ─────────────────────────────────────────────────────────────────────────────── 29.Secții bar1) x x x x x x x x x x x x x
+- - - - 30.Laborator pro- priu de cofe- tărie-patise- rie 1)
+- -
+-
+-
+-
+-
+- -
+-
+-
+-
+-
+- x - - - 31.Spălător de veselă 1) x x x x x x x x x x x x x x x x x 32.Spălător de vase 1) x x x x
+-
+-
+- - x x x x x x - - - 33.Depozit pentru alimente si băuturi 1) x x x x x x x x x x x x x x x x x 34.Camera pentru lenjerie1) x x
+-
+-
+-
+-
+- - x x x
+-
+- x - - - 35.Birou șef de unitate x x
+-
+-
+-
+-
+- - x x
+-
+-
+- x - - - 36.Birou bucătar șef x -
+-
+-
+-
+-
+- -
+-
+-
+-
+-
+-
+- - - - 37.Grup social care sa cuprindă:
+-vestiar băr- bați+dușuri+WC x x x
+- x
+-
+- - x x
+-
+-
+- x - - -
+-vestiar fe- mei+dușuri+WC x x x
+- x
+-
+- - x x
+-
+-
+- x - - - 38.Sala de mese pentru per- sonal x -
+-
+-
+-
+-
+- -
+-
+-
+-
+-
+-
+- - - - 39.Spațiu pentru depozitarea ambalajelor+ resturi mena- jere x x x x x x x x x x x x x x x x x
+II. Amenajări și dotări interioare în saloane 1. Pardoseala din marmură, mozaic venețian, pla- caje ceramice de bună cali- tate (cu tra- verse tip co- vor) sau mo- chetată 2) x x
+-
+- x x
+- - x x x
+-
+- x x - - 2. Pardoseală din mozaic sau alte materiale ușor lavabile2)- - x x
+-
+- x x
+-
+-
+- x x
+- - x x 3. Pereți tapisați (material tex- til), placați cu furnir de bună calitate sau zugrăveli moderne deo- sebite x -
+-
+- x
+-
+- - x
+-
+-
+-
+- x - - - 4. Pereți tapeta- ți cu materia- le de calitate superioară sau zugraveli deosebite
+- x
+-
+-
+- x
+- -
+- x x
+-
+-
+- x - - 5. Zugrăveli si vopsitorii obișnuite
+- - x x
+-
+- x x
+-
+-
+- x x
+- - x x 6. Perdele și draperii din țesături fine 3) x -
+-
+- x
+-
+- - x
+-
+-
+-
+- x - - - 7. Perdele si draperii din materiale de buna calita- te 3)
+- x
+-
+-
+- x
+- -
+- x x
+-
+-
+- x - - 8. Perdele 3)
+- - x x
+-
+- x x
+-
+-
+- x x
+- - x x 9. Decorațiuni interioare adecvate specificului unității x x
+-
+- x x
+- - x x x
+-
+- x x - - 10.Mobilier uni- form ca stil și colorit4)
+- de calita- te superioară x -
+-
+- x
+-
+- - x
+-
+-
+-
+- x - - -
+- de calitate - x
+-
+-
+- x
+- -
+- x x
+-
+-
+- x x -
+- în buna stare de fo- losinta
+- - x x
+-
+- x x
+-
+-
+- x x
+- - - - 11.Blatul mese- lor să fie acoperit cu postav x x
+-
+-
+-
+-
+- - x x
+-
+-
+-
+- - - - 12.Gheridoane x -
+-
+-
+-
+-
+- -
+-
+-
+-
+-
+-
+- - - - 13.Fețe de masă
+- din mate- rial textil de calitate superioară x x
+-
+- x
+-
+- - x x x
+-
+- x - - -
+- din mate- rial textil de calitate - - x
+-
+- x x -
+-
+-
+- x
+-
+- x - -
+- în stare buna, adec- vate tipu- lui de uni- tate și spațiului de servire - -
+- x
+-
+-
+- x
+-
+-
+-
+- x
+- - - - 14.Fețe de masă pentru blanchete x x
+-
+-
+-
+-
+- -
+-
+-
+-
+-
+-
+- - - - 15.Șervete de masă din:
+- material textil de calitate superioară x -
+-
+-
+-
+-
+- - x
+-
+-
+-
+-
+- - - -
+- material textil de calitate
+- x
+-
+- x
+-
+- -
+- x
+-
+-
+- x - - - ------------------------------ 1) Amenajată și dotată cu inventar și utilaje specifice. 2) La unitățile cu specific și la grădini de vară se admit și alte materiale adecvate. 3) Pot fi și din alte materiale armonizate cu specificul unității. 4) Mobilierul trebuie să fie adecvat tipului de unitate și spațiului de servire. ─────────────────────────────────────────────────────────────────────────────── 0 1
+L I II III L I II III
+L I
+I II III L I II III ─────────────────────────────────────────────────────────────────────────────── 16.Lista pentru mân- căruri, băuturi și mic dejun1) x x
+-
+- x x
+-
+- x x -
+-
+- x - - - 17.Lista pentru mân- căruri-băuturi, tipărită și dac- tilografiată
+- - x
+-
+-
+- x
+-
+-
+- -
+-
+- - - - - 18.Lista afișată și etichete cu prețurile pre- paratelor și băuturilor oferite
+- -
+- x
+-
+-
+- x
+-
+- x x x - x x x III. Dotarea cu inventar de servire (buc./loc la masă)2) A, Sticlarie (cristal, semicristal, sticla)3) 1. Cupe de șampanie 1,5 1,3 1 - 1,5 1,3 1,2 - 1,7 1,3 -
+-
+- - - - - 2. Carafe de vin x x x
+-
+-
+-
+- -
+-
+- -
+-
+- - - - - 3. Pahare pentru vin roșu 3 2,5 2
+- 1,5 1
+- - 2,5 2,5 x
+-
+- - - - - 4. Pahare pentru vin alb 3 2,5 2 1,5 2,5 2 1,5 1 2,5 2,5 x x x - - - - 5. Pahare pentru apa 3 2,5 2 1,5 2,5 2 1,5 1 2,5 2,5 2,5 1,5 1 3 2,5 1,5 1 6. Pahare pentru aperitiv 3 2,5 1,5 1 2,5 1,5 1 1 2,5 2,5 -
+-
+-
+- - - - 7. Pahare pentru lichior 0,3 0,2 0,1 - 0,5 0,3 0,2 0,1 0,5 0,3 -
+-
+-
+- - - - 8. Pahare pentru coniac 1,5 1,2 0,8 0,5 2 1,5 1 1 2 1,5 -
+-
+-
+- - - - 9. Pahare pentru băuturi in amestec x x x
+- x x x x x x
+-
+-
+-
+- - - - 10.Pahare pentru băuturi raco- ritoare x x
+-
+- x x x x x x x x x x x x x 11.Sonde pentru
+Whisky x x
+-
+- x x x x x x
+-
+-
+-
+- - - - 12.Sonde pentru băuturi raco- ritoare x x
+-
+- x x x x x x
+-
+-
+-
+- - - - 13.Sonde pentru bere4) 2,5 2
+-
+- 1,5 1,2 1 1 1,5 1,2 x
+-
+-
+- - - - 14.Căni, halbe, tapi de bere4)
+- - 1,5 1
+-
+-
+-
+-
+- -
+-
+-
+-
+- - 1,5 2 15.Căni pentru apa
+- -
+-
+-
+-
+-
+-
+-
+- - x x x x x x x 16.Cilindri si pahare gradate x x x x x x x x x x x x x x x x x 17.Solnite 5)
+- - x x
+-
+- x x
+- -
+- x x
+- - - - 18.Presaratori5) x x
+-
+- x x
+-
+- x x x
+-
+-
+- - - - 19.Oliviere x x x
+- x x x
+- x x x
+-
+-
+- - - - 20.Mustariera5) x x x
+- x x x
+- x x x x
+-
+- - - - 21.Compotiera5) x x x
+- x x x
+- x x x
+-
+-
+- - - - 22.Clopot pentru pateuri x x
+-
+- x x
+-
+- x x x
+-
+- x x - - 23.Doze pentru mujdei5) x x x
+-
+-
+-
+-
+-
+- - x x
+-
+- - - - 24.Scrumiere5) x x x x x x x x x x x x x
+- - - - 25.Bol pentru clătirea dege- telor x x
+-
+- x x
+-
+- x x x
+-
+-
+- - - - 26.Fructiera5) x x x
+- x x x
+- x x
+-
+-
+-
+- - - - 27.Platouri de diferite forme și mărimi x x x x x x x x x x x x x x x x x B. Porțelan (buc./loc la masă) 1. Cești cu farfu- rioară pentru cafea6) 3 2,5 2 1,5 3,5 3 2,5 2 3,5 3 x x x 3 2,5 2 1,5 2. Cești cu farfu- rioară pentru cafea cu lapte 2 1,5 1
+- 0,5 0,3
+-
+- 0,5 0,3
+-
+-
+- x x x - 3. Cești cu far- furioară pen- tru ceai 2,5 2 1,5
+- 0,5 0,5
+-
+- 0,5 0,3
+-
+-
+- 2,5 2 1,5 1 4. Cești pentru supe, creme ciorbe, bor- șuri6) 2 2,5 1
+-
+-
+-
+-
+-
+-
+- x x x - - - - 5. Cești pentru consum 6) 3 2,5
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- - - - - ---------------------------------- 1) Tipărite în limba română și în doua limbi de circulație internațională (una dintre ele franceza), Lista de băuturi și lista de vinuri pot fi tipărite separat. 2) Dacă nu este menționat numărul de buc./loc de masă, este obligatorie existenta unui număr minim de obiecte echivalent cu numărul de locuri de masă. 3) La unitățile de categoria "lux" paharele vor fi din sticla cristal, semicristal sau sticla de calitate superioară, cu picior.
+La unitățile de categoria I paharele vor fi din sticla superioară, cu picior.
+La unitățile de categoria a II-a și a III-a paharele vor fi și din sticla obișnuită, fără picior.
+La unitățile cu specific, obiectele pentru servirea băuturilor pot fi realizate și din ceramica smaltuita, faianta colorata, lemn. 4) Numai la unitățile care desfac bere. 5) Sau din portelan ori din ceramica. 6) Pentru unitățile Fast Food în funcție de specificul unității și preparatele oferite. ─────────────────────────────────────────────────────────────────────────────── 0 1
+L I II III L I II III
+L I
+I II III L I II III ─────────────────────────────────────────────────────────────────────────────── 6. Căni cu farfu- rioară pentru lapte 1) x x
+-
+- x -
+-
+- x -
+-
+-
+- x x x - 7. Cafetiere 1) x x
+-
+- x x
+-
+- x x
+-
+-
+- x x - - 8. Zaharnițe 1) x x
+-
+- x x
+-
+- x x
+-
+-
+- x x - - 9. Ceainice 1) x x x
+- x x
+-
+- x x
+-
+-
+- x x x - 10.Supiere x x x
+-
+- -
+-
+-
+- -
+-
+-
+- - - - - 11.Castroane 1) x x x x
+- -
+-
+-
+- -
+-
+-
+- - - - - 12.Farfurii suport mici (jour)2) 3 2
+-
+- 1,3 0,2 -
+- 2 1,5 x
+-
+- 2,5 2 1,5 - 13.Farfurii întin- se mari2) 3,5 3 2,5 2 2 1,5 1 0,8 3 2,5 x x x - - - - 14.Farfurii de- sert 2) 3 2,5 2 1,5 2 1,5 1 0,8 3 2,5 x x x x x x x 15.Farfurii suport mari 2) 3,5 3 2,5 2 2 1,5 1 0,8 3 2,5 2,5 2 1,5 - - - - 16.Furculite si cuțite pentru desert și fructe 2) 3 2,5 2 1,5 2 1,5 1
+- 3 2,5 2 1,5 1 - - - - 17.Tacâmuri pentru fructe de mare x -
+-
+-
+- -
+-
+- x -
+-
+-
+- - - - - 18.Clește pentru gheața x x x
+- x x
+-
+- x x
+-
+-
+- x - - - 19.Capace pentru ochiuri 2) x x
+-
+- x x
+-
+-
+- - x
+-
+- - - - - 20.Galetușă pentru cuburi de gheața x x x
+- x x x
+- x x
+-
+-
+- - - - - 21.Tambale cu capac x x
+-
+-
+- -
+-
+- x x
+-
+-
+- - - - - 22.Sheckere x x
+-
+- x x
+-
+- x x
+-
+-
+- - - - - 23.Foarfece pentru struguri x -
+-
+- x -
+-
+- x -
+-
+-
+- - - - - 24.Frapiere cu suport x x x x
+- -
+-
+-
+- - x
+-
+- - - - - 25.Paleta pentru tort x x x x x x x x x x x x x x x x x 26.Platouri și tăvi de diferite mărimi x x x
+- x x
+-
+- x x x
+-
+- x - - - 27.Frapiere pentru șampanie x -
+-
+- x x
+-
+- x x
+-
+-
+- - - - - 28.Mașini pentru produs cuburi de gheața sterile x x
+-
+- x x
+-
+- x x
+-
+-
+- - - - - IV. Servicii suplimentare oferite turiștilor 1. Organizarea de banchete sau mese festive x x x x
+- -
+-
+-
+- -
+-
+-
+- - - - - 2. Comenzi pentru închirieri taxi- metre x x
+-
+-
+- x x
+- x x
+-
+-
+- x - - - 3. Oferirea în punc- te fixe (grade- roba) sau volan- te de produse din tutun, pliante, obiecte de artizanat x x
+-
+- x x
+-
+- x x
+-
+-
+- x - - - 4. Diverse comisi- oane x x
+-
+- x x
+-
+- x x
+-
+-
+- x - - - 5. La solicitare se rezerva locuri la mese x x
+-
+-
+- -
+-
+- x x
+-
+-
+- - - - - 6. Să ofere în lis- ta-meniu un mi- nimum de prepa- rate dietetice x x
+-
+-
+- -
+-
+-
+- - x x
+- - - - - 7. Asigurarea pazei pentru autovehi- cule parcate3) x -
+-
+- x -
+-
+- x -
+-
+-
+- - - - - 8. Gararea autotu- rismului și res- pectiv predarea lui la plecarea clienților se face de către personalul restaurantului x -
+-
+-
+- -
+-
+- x
+-
+-
+-
+- - - - - V. Alte criterii 1. Servirea se efectuează prin:
+- ospătari5) x x x x x x
+-
+- x x x
+-
+- x x - -
+- vânzători sau autoservire
+- -
+-
+-
+- - x x
+-
+-
+- x x - - x x 2. Personalul de bază din sec- țiile de ser- vire și pro- ducție are în majorita- te:
+- înalt nivel de calificare x x
+-
+- x x
+-
+- x x x
+-
+- x x - -
+- calificare
+- - x x
+- - x x
+-
+-
+- x x - - x x ----------------------------------- 1) La unitățile cu specific. 2) Pentru unitățile Fast Food, în funcție de specificul unității și de preparatele oferite. 3) Numai pentru unitățile cu parcare proprie. 4) Pentru unitățile nou-construite. 5) Se admite și utilizarea unor forme moderne de servire (sistem bufet etc.). La restaurantele de lux cu o capacitate de peste 40 de locuri se va utiliza și funcția de somelier (maitre d'hotel - specializat în recomandarea și servirea vinului). ─────────────────────────────────────────────────────────────────────────────── 0 1
+L I II III L I II III
+L I
+I II III L I II III ─────────────────────────────────────────────────────────────────────────────── 3. Ospătarii trebuie să cunoască cel puțin o limbă străină, iar for- mația de lucru va fi astfel stabi- lită încât într- un singur schimb să se asigure cunoașterea a cel puțin 2-3 limbi de cir- culație inter- națională (%) 80 70
+-
+- 80 70
+-
+- 80 70
+-
+-
+-
+- - - - 4. Portar-ușier 1) x x
+-
+-
+- -
+-
+- x -
+-
+-
+-
+- - - - 5. Uniforme pentru ospătari și ajutor de ospa- tari x x x x x x x x x x x
+-
+- x x - - 6. Uniforme pentru barmani x x x x x x
+-
+- x x x
+-
+-
+- - - - 7. Uniforme pentru formații muzica- le x -
+-
+-
+- -
+- x
+- -
+-
+-
+-
+- - - - 8. Uniforme pentru vinzatori
+- -
+-
+-
+- - x x
+- -
+- x x
+- - x x 9. Uniforme pentru portar-ușier x x
+-
+-
+- -
+-
+- x -
+-
+-
+-
+- - - - 10.Uniforma pentru garderobier x x
+-
+- x -
+-
+- x x
+-
+-
+-
+- - - - 11.Efectuarea zil- nică sau ori de câte ori este nevoie a cură- țeniei în spa- țiile de servi- re, producție, depozitare și la grupurile sociale pentru consumatori si personal x x x x x x x x x x x x x x x x x 12.Spațiile de pro- ducție vor fi astfel realizate și ventilate, încât să nu pă- trundă mirosul de bucătărie în sălile de servire și spa- țiile de cazare x x x x x x x x x x x x x x x x x 16.Farfurii adânci 2) 1,2 1,5 2,0 1,5 - -
+-
+-
+- - x x x
+- - - - 17.Farfurii pen- tru gem, dul- ceață 2) 2,5 1,5 1
+-
+- -
+-
+-
+- - x x x
+- - - - 18.Osiere 2) 2 1,5 0,5 -
+- -
+-
+- 1 0,5 x
+-
+-
+- - - - 19.Raviere 2)
+- -
+- 0,5
+- -
+-
+-
+-
+- x x x
+- - - - 20.Salatiere 2,5 2 1,5 1 0,5 -
+-
+- 1,5 1 1,5 x x x - - - 21.Cocotiere 3) x x
+-
+- x x
+-
+- x x -
+-
+-
+- - - - 22.Sosiere 3) x x x
+- x -
+-
+- x
+- x
+-
+-
+- - - - 23.Platouri de di- ferite forme si dimensiuni 3) x x x x x x
+-
+- x x x x x x x x x 24.Suport pentru scobitori 3) x x x x x x x
+- x x x x x
+- - - - C. Alpaca argintată sau oțel inox (buc./loc masă) 1. Lingurițe pentru ceai x x x
+- x x
+-
+- x x x x
+- x x x x 2. Lingurițe pentru cafea sau mocca x x x x x x x x x x x x
+- x x x x 3. Lingurițe pentru înghețată 1,5 1 1
+- 2 1,5 1
+- 2 1,5 x x
+- 3 2,5 2 1 4. Lingurițe pentru mazagran x x
+-
+- x x x x x x x
+-
+- x - - - 5. Lingurițe pentru sos x x x
+- x -
+-
+- x x x
+-
+-
+- - - - 6. Lingurițe pentru prajituri 3 2,5 2 1,5 2 1,5 1 1 3 2 2 1,5 1 3 2,5 2 1,5 7. Lingurițe pentru consum 3 2,5 -
+-
+- -
+-
+-
+-
+- -
+-
+-
+- - - - 8. Lingură, furcu- lita și cuțit mare 2) 3,5 3 2,5 2 2 1,5 1 1 3 2,5 2,5 2 1,5 - 2,5 1,5 - 9. Furculite si cuțite pentru peste 2) 3 2,5 2 -
+-
+-
+-
+- 2 1,5 2
+-
+- - - - - 10.Cuțite și furcu- lite pentru gustari 2) 3 2,5 2 - 2 1,5
+-
+- 2 1,5 2 1,5
+- - - - - 13.Personalul va fi în permanenta curat, cu parul strins, îmbracă- minte curata, pantofii lus- truiti și fără bijuterii în exces x x x x x x x x x x x x x x x x x ----------------------------------- 1) Cunoscător a unei limbi de circulația internaționala. În unitățile existente pot fi mentinuti maximum 2 ani, cu condiția ca în aceasta perioada să urmeze un curs de limbi străine. 2) Pentru unitățile Fast Food în funcție de specificul unității și de preparatele oferite. 3) La unitățile cu specific. ─────────────────────────────────────────────────────────────────────────────── 0 1
+L I II III L I II III
+L I
+I II III L I II III ─────────────────────────────────────────────────────────────────────────────── 14.Spațiile frigori- fice și celelalte echipamente și u- tilaje din dotare vor fi menținute în perfecta stare de funcționare si curățenie x x x x x x x x x x x x x x x x x 15.Tonalitatea muzi- cii va fi adecva- ta tipului de unități; în sa- loanele de con- sumatie muzica va fi difuzată la o tonalitate care să permită con- versatia la masă și să nu deranje- ze persoanele ca- zate în hotel x x x x x x x x x x x x x x x x x ───────────────────────────────────────────────────────────────────────────────

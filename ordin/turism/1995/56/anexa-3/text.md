@@ -1,0 +1,294 @@
+# Anexa 1.2.
+CRITERII MINIME pentru clasificarea de stele a vilelor și bungalourilor Vilele sunt structuri de primire de capacitate relativ redusă, funcționând în clădiri independente, cu arhitectură specifică, situate în stațiuni balneoclimaterice sau în alte zone și localități de interes turistic, care asigură cazarea turiștilor și prestarea unor servicii specifice. Bungalourile sunt structuri de primire de capacitate redusă, realizate, de regulă, din lemn sau din alte materiale similare. În zonele cu umiditate ridicată (munte-mare) acestea pot fi construite și din zidărie. Sunt amplasate în perimetrul campingurilor, satelor de vacanță, ca unități independente în cadrul unor stațiuni sau zone turistice sau ca spații complementare pe lângă alte structuri de primire turistice. Asigura cazarea turiștilor, precum și celelalte servicii prestate de unitatea de baza. Funcționează, de regulă, cu activitate sezoniera. ───────────────────────────────────────────────────────────────────────────────
+Nr.
+Criteriul
+Vile
+Bungalouri crt. ─────────────────────── ──────────────── 5 4 3 2 1 3 2 1 ─────────────────────────────────────────────────────────────────────────────── 1. Criterii privind construcțiile, instalațiile și spațiile de folosință comună 1.1. Firma cu denumirea unității și însemnul distinctiv privind numărul de stele x x x x x x x x 1.2. Parcare auto x x x
+-
+- x
+-
+- 1.3. Număr maxim de camere 10 15 25 35 40
+-
+-
+- 1.4. Vestibul x x x x
+- x x x 1.5. Salon în suprafaț minimă de... mp/camera dar nu mai mica 4 2,5 2 1,5 1,5
+-
+-
+- de.... mp. 1) 30 30 30 20 10
+-
+-
+- 1.6. Telefon în fiecare cameră sau apartament/garsonieră x x x
+-
+-
+-
+-
+- 1.7. Telefon la recepția de care aparține
+-
+-
+- x x x x x 1.8. Ascensoare la clădirile cu mai mult de.... niveluri
+P+1 P+2 P+3 P+4 P+5
+-
+-
+- ------------------------ 1) Vilele de 1-3 stele, formate din apartamente, se exceptează. ───────────────────────────────────────────────────────────────────────────────
+Nr.
+Criteriul
+Vile
+Bungalouri crt. ─────────────────────── ───────────────── 5 4 3 2 1 3 2 1 ─────────────────────────────────────────────────────────────────────────────── 1.9. Sufragerie pentru servirea mesei x x x
+-
+-
+-
+-
+-
+- salon sufragerie
+-
+-
+-
+-
+- x x
+- 1.10. Spațiu pentru pregătirea mesei, dotat corespunzător, inclusiv frigider 1) x x x
+-
+- x x
+- 1.11. Spații proprii pentru agre- ment și practicarea de acti- vități sportive (cel puțin două din: piscină, saună, sala de gimnastică, jocuri distractive, terenuri de sport etc.) 2) x x
+-
+-
+-
+-
+-
+- 1.12. Sistem de climatizare (la vilele din orașe și de pe
+Litoral) x x
+-
+-
+-
+-
+-
+- 1.13. Încălzire centrală 3) x x
+-
+-
+-
+-
+-
+- 1.14. Încălzire centrală sau cu sobe de teracotă 3)
+-
+- x x x
+-
+-
+- 1.15. Unitățile nou-construite vor dispune de balcoane sau loggii x x x
+-
+- x
+-
+- 1.16. Oficiu cameristă (unu pen- tru maximum 20 de camere) x x x x x x x x 1.17. Numărul maxim de paturi într-o cameră 2 2 2 3 4 2 3 4 1.18. Suprafața minimă a camerelor
+- mp - = în unitățile nou-construite
+- camere cu 1 pat 16 15 14 12 11 12 10 9
+- camere cu 2 paturi 20 18 16 13 12 14 12 10
+- camere cu 3 paturi
+-
+-
+- 18 15
+- 16 14
+- camere cu 4 paturi
+-
+-
+-
+- 20
+-
+- 18
+- salonul din apartament 20 18 16 13 12 14 12
+-
+- dormitorul din apartament20 18 16 13 12 14 12
+-
+- salon sufragerie în su- prafața minimă de... mp/ camera dar nu mai mic
+-
+-
+-
+-
+- 2 1,5
+- de... mp
+-
+-
+-
+-
+- 18 16
+- = în unitățile existente
+- camere cu 1 pat 13 12 11 10 9 10 9 8
+- camere cu 2 paturi 17 17 15 13 12 12 11 10
+- camere cu 3 paturi
+-
+-
+- 18 15
+- 15 13
+- camere cu 4 paturi
+-
+-
+-
+- 18
+-
+- 16
+- salonul din apartament 17 17 15 13 12 10 9
+-
+- dormitorul din apartament17 17 15 13 12 10 9
+-
+- salon sufragerie în su- prafața minimă de... mp/ camera dar nu mai mic
+-
+-
+-
+-
+- 2 1,5
+- de... mp
+-
+-
+-
+-
+- 18 16
+- 1.19. Izolarea fonică a spații- lor 4) x x x x x x x x 1.20. Înălțimea minimă a camere- lor 5) 2,8 2,8 2,5 2,5 2,5 2,5 2,5 2,5 1.21. Suprafața minimă a camerei de baie 6) 4 4 3,5 3
+- 3,5 3
+- 1.22. Camere cu grup sanitar propriu 7) x x x x
+-
+-
+-
+- 1.23. Grup sanitar comun pentru camerele care nu dispun de grup sanitar propriu, sepa- rat pe sexe, astfel: 8)
+- o cabină duș pentru maxi- mum 15 locuri
+-
+-
+-
+- x x x x
+- o cabină WC, lavoar pen- tru maximum 10 locuri
+-
+-
+-
+- x x x x -------------------------------- 1) Apartamentele din cadrul vilei vor dispune fiecare de spațiu distinct pentru pregătirea mesei, dotat corespunzător. 2) Unitățile existente pot fi exceptate, dacă nu există posibilități tehnice de realizare a unor astfel de activități. 3) Se exceptează unitățile sezoniere. 4) Unitățile existente pot fi exceptate până la prima RK sau modernizare. 5) Pentru unitățile existente se admit și înălțimi cu 10% mai mici. 6) La grupurile sanitare cu dus suprafețele pot fi mai mici. 7) Vilele de categoriile 4, 3 și 2 stele și 1 stea, în care spațiul este compus dintr-un apartament (maximum 5 dormitoare), vor avea minimum un grup sanitar la 4 locuri. 8) La bungalourile de 1 stea, grupul sanitar comun poate fi amplasat într-o clădire apropiată, la maximum 50 m. ───────────────────────────────────────────────────────────────────────────────
+Nr.
+Criteriul
+Vile
+Bungalouri crt. ─────────────────────── ────────────────── 5 4 3 2 1 3 2 1 ─────────────────────────────────────────────────────────────────────────────── 1.24. Lavoare cu apă curentă în camerele fără grup sani- tar propriu 1)
+-
+-
+-
+- x
+-
+-
+- 1.25. Iluminatul electric în cameră:
+- o sursă principală x x x x x x x x
+- o sursă individuală pentru fiecare loc x x x x x x x x
+2. Dotare cu mobilier, lenjerie și alte obiecte 2.1. Mobilierul, lenjeria și cele- lalte dotări vor fi:
+- de cea mai bună calitate 2) x x
+-
+-
+-
+-
+-
+-
+- corespunzătoare din punct de vedere al calității și canti- tății 2)
+-
+- x x x x x x 2.2. Salonul
+- pardoselile sunt acoperite cu mocheta sau covoare care atenuează zgomotul 3) x x x x
+-
+-
+-
+-
+- pardoselile sunt acoperite cu covoare sau carpete 3)
+-
+-
+-
+- x
+-
+-
+-
+- canapele sau fotolii x x
+-
+-
+-
+-
+-
+-
+- demifotolii sau scaune tapițate
+-
+- x x x
+-
+-
+-
+- mese de hol x x x x x
+-
+-
+-
+- radio x x x x x
+-
+-
+-
+- televizor x x x
+-
+-
+-
+-
+-
+- corpuri de iluminat (candela- bre, plafoniere, lustre, apli- ce etc.) x x x x x
+-
+-
+-
+- tablouri și elemente decora- tive x x x x
+-
+-
+-
+-
+- perdele obturante și transpa- rente x x x x
+-
+-
+-
+-
+- coșuri pentru hârtii x x x x x
+-
+-
+- 2.3. Holurile etajelor și coridoa- relor:
+- pardoselile sunt acoperite cu mocheta sau covoare care atenuează zgomotul 4) x x x x
+-
+-
+-
+-
+- pardoselile sunt acoperite cu covoare sau carpete 5)
+-
+-
+-
+- x
+-
+-
+-
+- fotolii sau demifotolii 5) x x x
+-
+-
+-
+-
+-
+- masuță joasă 6) x x x
+-
+-
+-
+-
+-
+- tablouri sau alte elemente decorative x x x x
+-
+-
+-
+- 2.4. Sufragerie salon pentru servi- rea mesei:
+- masă și scaune x x x
+-
+- x x
+-
+- servanta-bar pentru pahare și vesela x x x
+-
+- x x
+-
+- aparat radio
+-
+-
+-
+-
+- x x
+-
+- televizor
+-
+-
+-
+-
+- x x
+- ------------------------- 1) La unitățile de categoria 5 stele WC-ul este separat de baie (pot fi exceptate vilele existente). 2) Mobilierul și dotările vor fi unitare ca stil și asortate coloristic în același spațiu. 3) Unitățile existente pot fi exceptate. 4) Pardoselile din marmura sau din alte materiale similare estetice pot fi acoperite doar parțial în scopul atenuării zgomotului. Criteriul se aplica și pentru scările și coridoarele destinate circulației turiștilor. 5) Pardoselile din marmura sau din alte materiale similare estetice pot fi acoperite doar parțial în scopul atenuării zgomotului. 6) Unitățile existente la care spațiul nu permite pot fi exceptate.
+NOTĂ:
+Dotarea spațiilor de cazare și a grupurilor sanitare va fi similară cu cea a hotelurilor, pentru vile, și cu cea a motelurilor pentru bungalouri de aceeași categorie. ───────────────────────────────────────────────────────────────────────────────

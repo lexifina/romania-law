@@ -1,0 +1,105 @@
+# Anexa 1.3.
+CRITERII MINIME privind clasificarea pe stele a cabanelor turistice Cabanele turistice sunt structuri de primire turistice de capacitate relativ redusă, funcționând în clădiri independente, cu arhitectura specifica, care asigură cazarea, alimentația și alte servicii specifice necesare turiștilor aflați în drumetie sau la odihna în zone montane, rezervații naturale, în apropierea stațiunilor balneare sau a altor obiective de interes turistic. Cabanele, funcție de amplasamentul lor, pot fi: 1. cabane situate în locuri ușor accesibile (altitudine sub 1.000 m, cu acces auto pe drumuri publice); 2. cabane situate în zone greu accesibile (zone montane de creasta, izolate, fără acces auto pe drumuri publice). Cabanele din zona de creasta și alte amplasamente izolate, care nu îndeplinesc criteriile minime pentru categoria 1 stea pot fi utilizate ca refugii turistice. Refugiile turistice sunt structuri de primire turistice situate în locuri izolate și greu accesibile din zona montană, de regulă la altitudini mari, având o capacitate redusă, un grad minim de confort și un număr redus de personal de deservire. Acestea nu se clasifică. ─────────────────────────────────────────────────────────────────────────────── Nr.
+Criterii minime
+Categoria (stele) crt. ───────────────────────── 3 2 1 ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 ─────────────────────────────────────────────────────────────────────────────── 1. Criterii privind construcțiile, instalațiile și spațiile de folosință comună 1.1. Firmă de intrare în cabană, cu indicarea categoriei, denumirea cabanei, masivul și altitudinea x x x 1.2. Parcaj la cabanele cu acces auto x x
+- 1.3. Vestibul x x x 1.4. Hol de recepție și așteptare x
+-
+- 1.5. Recepție amenajată în sala de mese
+- x x 1.6. Garderoba pentru echipament sportiv (schiuri,saniute etc.) la cabanele situate în zone unde pot fi practicate sporturi de iarnă x x
+- 1.7. Intrare separată pentru primirea mărfurilor x
+-
+- 1.8. Spațiu pentru administrație și păstrare de valori x x x 1.9. Spațiu pentru păstrat bagajele turiștilor 1) x x x 1.10. Oficiu pentru cameriste (unul pentru maximum 60 locuri) x x x 1.11. Magazie pentru păstrarea lenjeriei și a obiectelor de inventar x x x 1.12. Asigurarea a cel puțin... activități sportive și de agrement (schi, patinaj, terenuri de sport. jocuri dis- tractive, terenuri de joacă pentru copii, piscină, saună, săli de gimnastică, monitor pentru diverse activități sportive și de agrement etc. 3 2 1 1.13. Unitate de alimentație pentru turism.
+La cabanele de categoria 1 stea, situate în zone greu accesibile, se admit și puncte de preparare și servire a mesei x x x 1.14. Club de capacitate corelată cu cea a unității (pentru cele construite după aprobarea prezentelor norme) x
+-
+- 1.15. Încălzire centrală sau cu sobe de teracotă x
+-
+- 1.16. Încălzire cu sobe sau cu alte mijloace admise de P.S.I
+- x x 1.17. Iluminat propriu (din rețeaua publică, generator, sau alte mijloace admise de P.S.I.) x x x 1.18. Telefon la recepție la dispoziția turiștilor. La cabanele de creasta se admit și stații de radio emisie-recepție 2)x x
+- 1.19. Televizor și aparat radio în spațiul comun, la dispoziția turiștilor x x
+- 1.20. Locuința pentru cabanier și familia acestuia x x x 1.21. Camere separate (pe sexe) pentru cazarea personalului (la cabanele izolate) x x x 1.22. Sistem de avertizare luminoasă (girofar) la cabanele situate în locuri greu accesibile. Marcaje reflectorizan- te pe trasee, într-un perimetru de minimum 100 m x x x 1.23. Panou-hartă privind traseele turistice din zona cu indicarea marcajelor, duratelor de parcurs, a gradului de dificultate etc. x x x ------------------------ 1) Inclusiv valorile predate de turist spre păstrare. 2) La cele din zona de creasta sau izolate, stația de radio-emisie-recepție sau telefonul sunt obligatorii și pentru categoria 1 stea. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 ─────────────────────────────────────────────────────────────────────────────── 1.24. Trusa de medicamente și materiale necesare acordării primului ajutor medical x x x 1.25. Numărul maxim de paturi individuale din camera
+- în cabane situate în locuri ușor accesibile 2 4 peste 4
+- în cabane situate în locuri greu accesibile 4 8 peste 8
+- la categoria 1 stea se admit și priciuri
+-
+- x 1.26. Suprafața minima (în mp) a camerei
+- în cabane situate în zone ușor accesibile
+- camere de 1 loc 12 10 9
+- camere de 2 locuri 13 12 11
+- camere de 3 locuri 16 15 14
+- camere de peste 3 locuri (se va asigură minimum 4,5 mp/loc) x x x
+- în cabane situate în zone greu accesibile
+- camere de 1 loc 9 8 7
+- camere de 2 locuri 11 10 9
+- camere de 3 locuri 15 14 12
+- camere de peste 3 locuri (se va asigură minimum 4,5 mp/loc) x x x 1.27. În toate camerele se va asigura un volum de minimum 8 mc pentru un loc x x x Echiparea sanitară 1.28. În cabanele situate în zone ușor accesibile:
+- grup sanitar propriu x x
+-
+- grup sanitar comun separat pe sexe (distinct de cel pentru alimentație):
+- 1 spălător cu un lavoar cu apa curenta calda și rece la 10 locuri 1)
+-
+- x
+- 1 cabină de duș cu apă caldă și rece la 15 locuri
+-
+- x
+- 1 cabină WC la 10 locuri
+-
+- x 1.29. În cabinele situate în zone greu accesibile:
+- grup sanitar propriu cu apă caldă și rece în... din camere 25%
+-
+-
+- grup sanitar comun în incinta cabanei separat pe sexe compus din:
+- 1 cabină duș cu apă caldă și rece la 15 locuri 2) x
+-
+-
+- 1 cabina WC la 10 locuri (separate de cele ale alimentației publice) x x x
+- 1 spălător cu lavoar cu apă curenta calda și rece la 10 locuri 2) x x x 2. Dotarea spațiilor de cazare 2.1. Dotările și mobilierul sunt
+- de cea mai bună calitate x
+-
+-
+- de buna calitate
+- x x 2.2. Pardoseala și tavanul sunt finisate cu materiale fonoi- zolante x x x 2.3. Pardoselile vor fi acoperite cu mochetă sau covoare și leifere de protecție 3) x x
+- 2.4. Pat cu somiera și saltea x
+-
+- 2.5. Pat cu saltea (pot fi și suprapuse)
+- x x 2.6. Noptiera (paturile suprapuse se exceptează) x x
+- 2.7. Veioză sau aplică x x
+- 2.8. Scaun semitapițat sau taburet tapițat 4) x
+-
+- 2.9. Scaun sau taburet 4)
+- x x 2.10. Pled sau patură 2 buc./loc x x x 2.11. Pernă cu fulgi x
+-
+- 2.12. Pernă din melană sau similare
+- x x 2.13. Cearșaf de pat x x x -------------------------------- 1) Spălătoarele vor fi situate în încăperi distincte de cele ale cabinelor WC și dușurilor și vor fi prevăzute cu oglindă, etajeră, portprosop și cuier de perete. 2) La unitățile de categoria 1 stea se admit și WC-uri uscate și spălătoare exterioare alimentate de la surse naturale sau rezervoare. 3) La cabanele de creasta criteriul este facultativ. 4) Se exceptează dormitoarele apartamentelor (garsonierelor). La camerele comune, în funcție de spațiul existent, dau nu mai puțin de 4 bucăți. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 ─────────────────────────────────────────────────────────────────────────────── 2.14. Cearșaf plic pentru pled x x x 2.15. Față de pernă x x x 2.16. Prosop pentru față, prosop pentru baie, numai pentru camerele cu grup sanitar propriu x x
+- 2.17. Pahare -... buc./persoana 2 1
+- 2.18. Dulap sau spațiu amenajat pentru haine x
+-
+- 2.19. Umerase... buc. 3
+-
+- 2.20. Cuier de perete x x x 2.21. Masa (1 bucata la 4 persoane) 1) x x x 2.22. Oglindă înrămată x x x 2.23. Portbagaj x x
+- 2.24. Lampă plafonieră sau aplică x x x 2.25. Perdele obturante sau alte mijloace (jaluzele, transpa- rente etc.) x x x 2.26. Rastele pentru uscat echipamentul turiștilor (la caba- nele de creasta) x x x 3. Dotarea salonului din apartamente și garsoniere
+- Canapea pentru 2-3 persoane x x
+-
+- Fotolii x x
+-
+- Masa joasa x x
+-
+- Frigider x x
+-
+- Masa radio-TV x x
+-
+- Aparat TV și radio x x
+-
+- Tablouri sau alte elemente decorative x x
+-
+- Lustră și lampadar x x
+-
+- Perdele transparente și draperii x x
+-
+- Scrumieră de masă x x
+- 4. Servicii
+- Desfaceri mărfuri de strictă necesitate (cosmetice, ilustrate, hărți turistice, timbre etc.) prin recepție x x x
+- Informații turistice asupra traseelor, obiectivelor, mar- cajelor, orarului mijloacelor de transport, situației si prognozei condițiilor meteorologice. x x x
+- Păstrarea obiectelor de valoare ale turiștilor x x x
+- Închirierea de jocuri distractive, echipament și mate- rial sportiv. x x x 5. Alte criterii 5.1. Anexele gospodărești sunt realizate în construcții care se armonizează cu arhitectura unității și se integrează corespunzător în peisaj. x x x 5.2. Magaziile și celelalte construcții gospodărești vor fi mascate prin mijloace estetice (de regulă garduri vii). x x x 5.3. Grajdurile și cotele pentru creșterea animalelor și pasarilor vor fi amplasate la o distanță corespunză- toare de spațiile de cazare și de alimentație, astfel încât turiștii să nu fie deranjați de noxele emanate de acestea. x x x 5.4. Perimetrul cabanei va fi delimitat prin garduri vii sau alte elemente estetice și eficiente x x x 5.5. WC-urile uscate vor avea pereții văruiti cel puțin o dată pe trimestru sau ori de câte ori este nevoie
+-
+- x 5.6. Spații suplimentare, minim dotate, pentru adăpostirea turiștilor sosiți peste capacitatea de cazare pe timp nefavorabil (la cabane de creasta și izolate). x x x 5.7. Registru pentru declararea traseului (la cabane izolate și de creasta). x x x ------------------ 1) Se exceptează dormitoarele apartamentelor (garsonierelor). ───────────────────────────────────────────────────────────────────────────────

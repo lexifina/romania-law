@@ -1,0 +1,131 @@
+# Anexa 1.4.
+CRITERII MINIME privind clasificarea pe stele a campingurilor Campingurile sunt structuri de primire turistice destinate să asigure cazarea turiștilor în corturi sau rulote, astfel amenajate încât să permită acestora să parcheze mijloacele de transport, să-și pregătească masa și să beneficieze de celelalte servicii specifice acestor tipuri de unități. Campingurile sunt unități cu caracter sezonier. 1. Amplasarea campingului trebuie să fie făcuta în locuri pitoresti, cu microclimat favorabil, ferite de zgomot (inclusiv al arterelor de circulație) sau alte surse de poluare, precum și de orice alte elemente care ar putea pune în pericol sănătatea sau securitatea turiștilor (linii de înalta tensiune, terenuri sub nivelul marii, zone inundabile etc.). 2. În funcție de destinație, campingurile pot fi amplasate în apropierea principalelor trasee turistice (campingurile de tranzit), în perimetrul sau în vecinătatea unor stațiuni balneoclimaterice, în zonele de agrement ale marilor aglomerări urbane sau în alte locuri pitoresti de interes turistic (campingurile de sejur). Terenurile destinate campingurilor trebuie să fie plane și să nu mențină apa chiar și după o ploaie de lungă durata. 3. Elementul de bază al campingului este parcela de campare, aceasta reprezentând o suprafața de teren bine delimitata și marcata, unde se poate marca mijlocul de transport și instala cortul sau rulota, asigurindu-se, totodată, suprafața libera necesară pentru mișcarea și odihna a 4 turiști. Totalitatea parcelelor de campare reprezintă suprafața de campare amenajată. Capacitatea campingului se exprimă în număr de locuri de campare și se determină prin înmulțirea cu 4 a numărului parcelelor de campare, la care se adaugă eventualele locuri de cazare în căsuțele tip camping și/sau bungalourile amplasate în incinta unității. La dimensionarea dotărilor, instalațiilor campingurilor se va avea în vedere capacitatea totală de cazare a campingului (parcele de campare + locuri în căsuțe + locuri în bungalouri). Cel puțin 15% din suprafața campingului trebuie să fie plantata cu arbori sau arbuști. La campingurile de 3 și 4 stele vegetatia trebuie să fie suficient de abundenta pentru a da o umbra confortabilă și o ambianță agreabilă. Accesul în camping trebuie să fie astfel conceput, încât să prevină accidentele de circulație în momentul intrării și iesirii vehiculelor. La campingurile de 3 și 4 stele, căile de acces trebuie să fie suficient de largi pentru a permite incrucisarea ușoară a autovehiculelor cu rulota. Rețeaua de alei trebuie să permită legătura dintre spațiile de campare-cazare și toate celelalte amenajări care asigură servicii (inclusiv cu terenurile pentru agrement). 4. Mărimea campingurilor, amplasamentului, stilul constructiv și coloritul diverselor construcții din cadrul acestuia nu trebuie să aducă nici un fel de prejudicii peisajului sau mediului înconjurător. Toate campingurile trebuie să aibă o împrejmuire care să nu permită accesul în camping decât prin intrările stabilite pentru turiști. Campingurile vor avea paza ziua și noaptea. 5. Alimentarea cu apă potabilă trebuie asigurată prin racordarea la rețeaua publică, iar în lipsa acesteia, prin realizarea de foraje proprii sau a altor lucrări de captare a unor izvoare din zona. Nu este permisă alimentarea cu apa din fintina neacoperita din care apa se scoate cu galeata sau cu alt mijloc similar. Gurile de apă trebuie să fie amplasate rațional pe suprafața campingului, distanța față de cea mai îndepărtată parcela de campare nefiind mai mare de 100 m. Alimentarea cu apă trebuie să asigure pentru fiecare loc de campare-cazare (inclusiv pentru personal) minimum: - 60 l/zi, din care 20 l apa calda, în campingurile de 3 și 4 stele; - 50 l/zi în campingurile de 2 stele și 1 stea. 6. Canalizarea trebuie realizată prin racordarea la rețeaua publica sau la mijloacele proprii de epurare. Toate gurile de apa trebuie să dispună de canale de scurgere. 7. Grupurile sanitare comune trebuie să fie amplasate cât mai central posibil, dar nu mai aproape de 20 m de cel mai apropiat spațiu de cazare (parcela, căsuța sau bungalou) și nu mai departe de 100 m de cel mai îndepărtat spațiu de campare-cazare. Pardoseala la grupurile sanitare și din spațiile amenajate pentru spalatul lenjeriei și, respectiv, pentru pregătirea mesei, trebuie să fie cel puțin mozaicata, cu panta de scurgere corespunzătoare, pentru a fi ușor de întreținut. Lavoarele vor fi prevăzute cu oglindă, policioara și perie de curățat, iar în cazul campingurilor de 4 stele vor fi separate între ele prin pereți despartitori. La campingurile de 4 stele, compartimentul lavoarelor și al dusurilor trebuie să fie separat de cel al cabinelor WC, iar fiecare cabina de dus va trebui să cuprindă, separat de dusul propriu-zis, un compartiment pentru dezbracare-imbracare, echipat cu scaun, oglindă, policioara și cuier. 8. La toate clădirile existente, ferestrele vor avea posibilitatea de aerisire. De asemenea, acestea vor fi astfel realizate, încât să permită montarea cu ușurința a unor plase impotriva insectelor. 9. În campinguri pot fi amplasate căsuțe tip camping și bungalouri. Căsuțele sunt spații de cazare de dimensiuni reduse, realizate din lemn sau din alte materiale similare, compuse, de regulă, dintr-o camera și un mic antreu sau terasa și, uneori, dotate și cu grup sanitar propriu. Distanța între 2 căsuțe nu poate fi mai mica de 3 m, asigurându-se, totodată spațiul pentru parcarea unei mașini. 10. Bungalourile amplasate în interiorul campingurilor se clasifica o data cu acestea, potrivit criteriilor specifice (anexa nr. 1.2.). 11. turiștii cazati în căsuțe și bungalouri beneficiază de toate dotările și instalațiile comune din cadrul campingurilor. 12. Căsuțele amplasate pe terenuri care nu permit și amenajarea unor spații de campare (pentru montarea corturilor sau rulotelor) vor fi clasificate căsuțe tip camping și vor dispune de dotări și servicii identice cu cele ale campingurilor de aceeași categorie. 13. Căsuțele tip camping amplasate pe lângă alte unități de cazare sau de alimentație pentru turism, ca spații complementare, vor dispune de grup sanitar comun, compartimentat pe sexe, construcție închisă, cuprinzând: - un lavoar la 30 de locuri; - o cabina dus la 50 de locuri; - o cabina WC la 30 de locuri. Unitățile existente vor putea funcționa o perioada de 2 ani de la data intrării în vigoare a prezentelor norme, cu WC-uri uscate și fără cabine de dus. Aceste căsuțe nu pot fi clasificate decât la categoria 1 stea. ───────────────────────────────────────────────────────────────────────────────
+Nr.
+Categoria (stele) crt.
+Criterii minime ─────────────────────── 4 3 2 1 ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 ─────────────────────────────────────────────────────────────────────────────── 1. Amenajare teren 1.1. Terenurile pentru campinguri trebuie să fie:
+- bine nivelate, acoperite de gazon și să permită o drenare rapidă a apelor rezultate din ploi x x
+-
+-
+- cât mai plane posibil și să permită eliminarea apelor rezultate din ploi
+-
+- x x 1.2. Capacitatea de cazare a campingurilor să fie de cel puțin... locuri 1) 80 60 20 12 1.3. Ponderea minimă a spațiilor destinate drumurilor și aleilor interioare, zonelor de liniste și re- creere, terenurilor de joaca, sport și agrement, din suprafața totală a campingului 25% 25% 15% 10% 1.4. Suprafața minimă a fiecărei parcele de campare(mp)100 80 80 80
+- Număr maxim de locuri la 1.000 mp suprafața to- tala (parcele, alei + spații verzi și de agrement, clădiri etc.) 20 24 28 32 1.5. Parcelele de campare să fie numerotate, bine deli- mitate și ecranate cu garduri verzi sau alte ma- teriale care asigură o delimitare eficientă și estetică x
+-
+-
+-
+- parcelele de campare să fie numerotate și deli- mitate
+- x x
+- 1.6. Drumuri carosabile amenajate (cu fundație solidă) de acces la spațiile de cazare, parcelele de cam- pare, unitățile de alimentație publică etc.
+- asfaltate sau gudronate x x
+-
+-
+- pietruite, bine întreținute
+-
+- x x 1.7. Alei amenajate între spațiile de cazare și cele de folosința comună
+- asfaltate sau cu dale x x
+-
+-
+- pietruite
+-
+- x x 1.8. Iluminarea:
+- electrică a spațiilor de folosință comună, inclu- siv a parcajelor x x x x
+- iluminarea discretă a căilor de circulație in- terioară x x
+-
+- 1.9. Racord la rețeaua publica de canalizare sau la mijloacele proprii de colectare și epurare x x x x 1.10. Parcare exterioară (pentru vizitatorii sau turiș- tii care sosesc după ora de închidere) x x
+-
+- 2. Echipare sanitară 2.1. Grup sanitar comun, compartimentat pe sexe, în construcție închisă, cuprinzând:
+- lavoare unu la... locuri 10 20 25 30
+- cabine de duș (dușuri închise) la... persoane 2)20 30 40 50
+- cabine WC cu apă curentă 3) la... locuri 20 30 40 50
+- pisoare 1 la... locuri 50 50 60 60
+- spălătoare pentru picioare, câte unu la fiecare grup sanitar (la cele fără dus)
+-
+-
+- x
+- minimum un WC și lavoar special pentru copii, separat pe sexe, la fiecare grup sanitar x x
+-
+-
+- minimum un WC și lavoar special pentru handicapați (la cele de peste 400 de locuri)4) x x
+-
+- 2.2. Prize pentru racordarea rulotelor la rețeaua de alimentație cu energie electrica, minimum... la % din parcele 20 10 10
+- 2.3. Prize pentru barbierit, montate în spalatoarele pentru bărbați, la... locuri 50 50 50
+- 2.4. Pubele acoperite, lavabile, pentru resturi menajere, cu o capacitate de minimum 4 dmc/loc/zi, amplasate în locuri fixe adăpostite x x x x ----------------------------- 1) Capacitățile pot fi mai mici cu până la 25%, cu condiția să se asigure toate serviciile corespunzătoare categoriei. 2) Campingurile de 1 stea existente sunt exceptate pe o perioada de 2 ani de la intrarea în vigoare a prezentelor norme. 3) Campingurile de 1 stea existente pot funcționa și cu WC-uri uscate pe o perioada de 2 ani de la intrarea în vigoare a prezentelor norme. 4) Unitățile existente pot fi exceptate 3 ani de la intrarea în vigoare a prezentelor norme. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 ─────────────────────────────────────────────────────────────────────────────── 3. Alte spații de folosința comună 3.1. Hol de primire x
+-
+-
+- 3.2. Spațiu pentru recepție x x x x 3.3. Spațiu pentru administrație și păstrare valori, inclusiv cele predate de turiști spre păstrare x x x x 3.4. Locuința pentru directorul de camping 1) x x x x 3.5. Unitate de alimentație în incinta sau în imediata apropiere x x x
+- 3.6. Chioșc alimentar
+-
+-
+- x 3.7. Oficiu pentru cameriste, unu la 20 locuri în căsuțe sau bungalouri x x x x 3.8. Magazii pentru lenjerie și materiale de întreținere x x x x 3.9. Spațiu pentru depozitare și închiriere materiale specifice campării, practicării sporturilor, jocuri etc. x x x
+- 3.10.Spațiu amenajat pentru prepararea mesei de către turiști dotat cu... 2) x x x
+-
+- plite electrice, cu gaz sau combustibil solid, una la... locuri 50 60 100
+- 3.11.Spațiu amenajat pentru spălatul și călcatul lenje- riei de către turiști la campingurile de sejur prevăzute cu.... 3) x x x
+-
+- spălătoare speciale din inox, una la... locuri 25 50 50
+-
+- mașina automată de spălat rufe pentru închiriat turiștilor x x x
+- 3.12.Spații de agrement (la campingurile de sejur):
+- terenuri de sport (tenis, volei etc.); x x x
+-
+- locuri amenajate pentru jocuri de copii (dotate cu echipament corespunzător) x x
+-
+-
+- terenuri de joaca pentru copii
+-
+- x
+-
+- sala de reuniuni - club x
+-
+-
+- 4. Alte criterii 4.1. Telefon public (la 4 stele, în cabine fonoizolate) x x
+-
+- 4.2. Telefon la dispoziția turiștilor la recepție - administrație
+-
+- x x 4.3. Firma la intrare x x x x 4.4. Panouri cu schema campingului și informații pentru turiști (regulamentul de ordine interioară, adresa și numărul de telefon ale unei unități sanitare, farmacii, service auto etc.) 4) x x x x 4.5. Cutie poștală la intrare x x
+-
+- 4.6. Păstrarea obiectelor de valoare ale turiștilor x x x x 4.7. Stand la recepție pentru vânzarea mărfurilor de stricta necesitate (cosmetice, tigari, artizanat, timbre și efecte poștale, ziare și reviste etc.) x x x x 4.8. Spații comerciale pentru vânzare de produse alimentare, legume, fructe și articole de plaja la campingurile de sejur cu o capacitate de peste 400 locuri x x
+-
+- 4.9. Închirierea, cu plată, a unor articole de sport, articole de plajă, de uz gospodăresc, inventar moale suplimentar (pleduri, cearșafuri, perne etc.) 5) x x x x 4.10.Trusa sanitară pentru acordarea primului ajutor x x x x 4.11.Directorul de camping dispune de brevet de turism x x x x 4.12.Personalul de la recepție este calificat, cunoscător a 1-2 limbi de circulație internațională 6) x x x
+- 4.13.Evacuarea zilnică a resturilor menajere x x x x 5. Dotarea căsuțelor tip camping
+- număr maxim de paturi
+- 2 2 3
+- măsuță
+- x x x
+- aplică de perete
+- x x x
+- oglindă
+- x x x
+- cuier de perete
+- x x x
+- covoraș
+- x x x
+- pernă cu fulgi
+- x
+-
+-
+- pernă cu melană
+-
+- x x
+- pled de calitate superioară (2 buc./loc)
+- x
+-
+-
+- pled (2 buc./loc)
+-
+- x x
+- cearșaf de pat și cearșaf plic pentru pled
+- x x x
+- fețe pernă
+- x x x
+- saltea relaxa sau similară
+- x
+-
+-
+- saltea
+-
+- x x
+- salteluță de protecție
+- x x x
+- cana pentru apă și 2 pahare
+- x x x -------------------- 1) Criteriu obligatoriu numai pentru unitățile amplasate în locuri izolate. 2) Va mai cuprinde mese de lucru, pubele cu capac. Pereții din vecinătatea resourilor și spalatoarelor vor fi faiantati, iar pardoseala va fi din material ușor lavabil. Unitățile de categoria 2 stele existente pot fi exceptate pe o perioada de 2 ani de la intrarea în vigoare a prezentelor norme. 3) Va mai dispune de masă de călcat rufe, fier de călcat rufe etc. 4) La cele de peste 200 de locuri. 5) Campingurile de tranzit pot fi exceptate. 6) Cel existent poate fi menținut 2 ani, timp în care este obligat să urmeze cursuri de calificare. ───────────────────────────────────────────────────────────────────────────────

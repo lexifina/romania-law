@@ -1,0 +1,1147 @@
+# Anexa 1.1.
+CRITERII MINIME pentru clasificarea pe stele a hotelurilor, hotelurilor-apartamente și motelurilor Hotelul este structura de primire amenajată în clădiri sau corpuri de clădiri, care pune la dispoziția turiștilor camere, garsoniere sau apartamente dotate corespunzător, asigură prestări de servicii specifice și dispune de recepții și spații de alimentație în incinta. Hotelurile compuse din apartamente sau garsoniere, astfel dotate încât să asigure păstrarea, prepararea alimentelor și servirea mesei în incinta acestora, sunt considerate hoteluri-apartamente. Motelul este unitatea hotelieră situată, de regulă, în afară localităților, în imediata apropiere a arterelor intens circulate, dotată și amenajată atât pentru satisfacerea nevoilor de cazare și de masă ale turiștilor, cât și pentru parcarea în siguranța a mijloacelor de transport. ───────────────────────────────────────────────────────────────────────────────
+Hoteluri
+Hoteluri-apartament
+Moteluri Nr.
+Criterii/stele
+Categoria
+Categoria
+Categoria crt. ────────────────────────────────────────────────────── 5 4 3 2 1 5 4 3 2 3 2 1 ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ───────────────────────────────────────────────────────────────────────────────
+1. Criterii privind construcțiile și instalațiile 1.1. Starea și aspectul general al clădirii:
+- foarte bună x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- bună
+-
+- x
+-
+-
+-
+- x
+- x
+-
+-
+- corespunzătoare -
+-
+- x x
+-
+-
+- x
+- x x 1.2. Firmă luminoasa x x x
+-
+- x x x
+- x
+-
+-
+Firma
+-
+-
+- x x
+-
+-
+- x
+- x x
+Însemn distinctiv reprezentând categoria unității x x x x x x x x x x x x 1.3. Garaj-numărul locurilor va fi de minimum...% din numărul camerelor1) 30 20
+-
+-
+- 50 50
+-
+-
+-
+-
+- 1.4. Parcaj auto pro- priu - numărul locurilor va fi de minimum...% din numărul camerelor 1) 30 20 30 20
+- 50 50 30 30 100 100 100 1.5. Intrări separate:
+- pentru turiști x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- pentru bagaje x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- pentru turiști și bagaje
+-
+- x x x
+-
+- x x x x x
+- pentru personal x x x
+-
+- x x x
+-
+-
+-
+-
+- primirea mărfu- rilor x x x x
+- x x x x x x x 1.6. Rampa de acces cărucioare pentru invalizi x x x x
+- x x x x
+-
+-
+- 1.7. Numărul minim al spațiilor de cazare 20 20 15 10 5 10 10 10 5 10 10 5 1.7. Hol de primire în suprafață minimă de... mp/camera2) 2,5 2,5 2 1,5 1 2 1,5 1 1 x x x 1.7.1. Serviciu de recepție3) x x x x x x x x x x x x 1.7.2. Spații comerciale distincte de recepție pentru vânzări mărfuri (articole de strictă necesi- tate; amintiri, ziare, vederi etc.)4) x x x
+-
+- x x x
+- x
+-
+- 1.7.3. Spațiu pentru păstrat baga- jele turiști- lor x x x x x x x x x
+-
+-
+- 1.7.4. Spațiu pentru administrarea și păstrarea valorilor x x x x x x x x x x x x 1.7.5. Cabine WC separat pe sexe 5) x x x x x x x x x x x x 1.7.6. Telefoane pentru con- vorbiri lo- cale și in- terurbane în cabine fonoizolate x x
+-
+-
+- x x
+-
+-
+-
+-
+- 1.7.7. Telefon public in hol, la dispoziția turiștilor -
+- x
+-
+-
+-
+- x
+- x x
+- 1.7.8. Telefon la recepție, la dispo- ziția tu- riștilor
+-
+-
+- x x
+-
+-
+- x
+-
+- x 1.7.9. Fax 6) x x x x
+- x x x x
+-
+-
+- 1.8. Ascensoare la clădirile cu...7)
+P+1 P+2 P+3 P+4 P+5 P+1 P+2 P+3 P+4
+-
+-
+-
+- silențioase și rapide x x x
+-
+- x x x
+-
+-
+-
+-
+- în bună stare de funcționare -
+-
+- x x
+-
+-
+- x
+-
+-
+- ----------------------- 1) Unitățile existente pot fi exceptate, dacă nu exista teren limitat pentru aceasta. 2) În cazul hotelurilor de mare capacitate, suprafața holului poate fi limitată la 500 mp pentru cele de 5 și 4 stele, la 400 mp pentru cele de 3 stele, la 300 mp pentru cele de 2 stele și 1 stea. La cele de mica capacitate (inclusiv moteluri) holul nu poate fi mai mic de 100 mp pentru cele de 4 și 5 stele, 40 mp pentru cele de 2 și 3 stele și 20 mp pentru cele de 1 stea. sunt considerate hoteluri de mare capacitate cele cu peste 200 de camere. La hotelurile existente se admit și holuri cu până la 25% mai mici. 3) În cazul unităților sezoniere de pe Litoral, precum și al acelor formate din mai multe corpuri de clădiri, se admite și recepție comuna. 4) Unitățile existente de 3 stele pot fi exceptate. 5) La unitățile de 3, 2 și 1 stea, pot fi comune cu cele ale restaurantului, dacă sunt legate funcțional de holul de primire; unitățile cu o capacitate mai mica de 40 de locuri, fără spațiu pentru alimentație, se exceptează. 6) Hotelurile urbane de 2 stele, sub 100 de locuri, pot fi exceptate.
+Unitățile sezoniere de 3 și 2 stele se exceptează. 7) Unitățile existente de 2 și 1 stea pot fi exceptate. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ─────────────────────────────────────────────────────────────────────────────── 1.8.1. Ascensoare pentru turiști (minimum 2 ascensoare la unități de 4 și 5 stele, cât si cele de 3 și 2 stele, cu o capa- citate de peste 200 locuri, din care, la hotelu- rile de cură balneară, con- struite după a- probarea prezen- telor norme,
+"indiferent de capacitate" unul va fi de tip sanatorial) x x x x x x x x x
+-
+-
+- 1.8.2. Ascensoare pentru bagajele turiști- lor 1) x x
+-
+-
+- x x
+-
+-
+-
+-
+- 1.8.3. Ascensoare pentru personal, pentru scopuri gospodă- rești și serviciu la camera x x x
+-
+- x x x
+-
+-
+-
+- 1.9. Bar de zi (excep- tând hotelurile de 2 stele din orașe) x x x x
+- x x x
+- x
+-
+- 1.10. Restaurant 2) x x x x
+-
+-
+-
+-
+- x x
+- 1.10.1.Salon mic dejun x x x
+-
+-
+-
+-
+-
+-
+-
+-
+- 1.10.2.Spațiu pentru prepararea și servirea micului dejun 3)
+-
+-
+- x x
+-
+-
+-
+-
+-
+-
+- 1.10.3.Bufet
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- x 1.10.4.Sufragerie salon cu capacitate co- relată cu cea a hotelului-aparta- ment (hotelurile existente pot fi exceptate)
+-
+-
+-
+-
+- x x x
+-
+-
+-
+- 1.10.5.Spațiu pentru păstrarea, pre- pararea alimen- telor în aparta- mente
+-
+-
+-
+-
+- x x x x
+-
+-
+- 1.11. Saloane mulți- functionale pen- tru congrese, recepții, blan- chete, conferin- te, club și cen- tre de presă si afaceri, dotate conform standar- delor interna- ționale 4) x x x
+-
+-
+-
+-
+-
+-
+-
+-
+- 1.12. Spații proprii pentru agre- ment și prac- ticarea de ac- tivități spor- tive (piscină, saună, săli de gimnastică, club, jocuri distractive, terenuri de sport - minimum două asemenea activități)5) x x x
+-
+- x x x
+-
+-
+-
+- ------------------------ 1) Unitățile existente pot fi exceptate. 2) Hotelurile existente de 2 stele, precum și cele de 3 și 2 stele cu o capacitate mai mică de 40 de locuri pot fi exceptate. 3) Unitățile de 2 și 1 stea cu restaurant propriu sunt exceptate, precum și cele fără restaurant până la prima RK, dar nu mai mult de 2 ani de la aprobarea prezentelor norme. 4) Pentru unitățile existente de 3 stele, precum și pentru cele cu o capacitate mai mică de 100 de locuri, criteriul este facultativ. 5) La hotelurile de 3 stele, criteriul este obligatoriu numai la cele din stațiunile turistice. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ─────────────────────────────────────────────────────────────────────────────── 1.13. Spații pentru păstrarea materia- lelor sportive ale turiștilor sau ale unității (la hote- lurile de pe Lito- ral și din zonele montane cu spor- turi de iarnă) x x x x
+- x x x x
+-
+-
+- 1.14. Acces adăpostit la baza de cura balneară (pentru unitățile cu pro- fil de tratament balnear) 1) x x x x
+- x x x x
+-
+-
+- 1.15. Sistem de clima- tizare a tuturor spațiilor 2) x x
+-
+-
+- x x
+-
+-
+-
+-
+- 1.16. Aer condiționat la bazele de tratament ce se vor realiza sau moderniza după aprobarea pre- zentelor norme x x x
+-
+- x x x
+-
+-
+-
+- 1.17. Încălzire cen- trală (la uni- tățile de 2 stele și 1 stea se vor accepta și sobe de te- racotă)
+-
+- x x x
+-
+- x x x x x 1.18. Grup electrogen la hotelurile cu o capacitate de peste.... camere 50 50 100
+-
+- 50 50 100 -
+-
+-
+- 1.19. Oficiu pentru cameriste (minimum 1 pentru maximum 20 camere, dar cel puțin 1 pe etajele cu 10- 30 camere) x x x x x x x x x x x x 1.20. Frizerie, coa- fură, cosmeti- că x x
+-
+-
+- x x
+-
+-
+-
+-
+- 1.21. Camere pentru handicapați, una la..... camere (uni- tățile exis- tente pot fi exceptate pe o perioada de 3 ani) 100 100
+-
+-
+- 100 100
+-
+-
+-
+-
+- 1.22. Spațiile de cazare din unitățile situate în stațiuni vor dispu- ne de bal- coane sau loji 3) x x x x
+- x x x x
+-
+-
+- 1.23. Culoarele si scările vor avea lățimea minimă de 1,40 m (casa scării va fi separată de culoare) x x x x
+- x x x x x x
+- 1.24. Înălțimea spațiilor de cazare4) 2,8 2,8 2,7 2,5 2,5 2,8 2,8 2,7 2,5 2,7 2,5 2,5 1.25. Numărul maxim de paturi într-o ca- meră 2 2 2 3 4 2 2 2 3 2 3 4
+- dormitorul din aparta- ment sau garsonieră 2 2 2 2 2 2 2 2 2 2 2
+- ------------------------ 1) Unitățile de 2 stele existente pot fi exceptate. 2) Hotelurile de 4 stele existente din stațiunile montane pot fi exceptate, cu condiția să dispună de încălzire centrală. 3) La hotelurile de 2 stele, numai pentru cele ce se vor construi după aprobarea prezentelor norme. 4) Pentru unitățile existente se admit și înălțimi cu 10% mai mici. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ─────────────────────────────────────────────────────────────────────────────── 1.26. Suprafața minimă a camerelor: = în unitățile nou- construite
+- camera cu 1 pat 16 15 14 12 11
+-
+-
+-
+- 14 11 10
+- camera cu 2 paturi20 18 16 13 12
+-
+-
+-
+- 14 12 11
+- camera cu 3 paturi -
+-
+- 18 15
+-
+-
+-
+-
+- 16 14
+- camera cu 4 paturi -
+-
+-
+- 20
+-
+-
+-
+-
+-
+- 18
+- salonul din apartament 20 18 16 13 12 20 18 16 13 14 12 11
+- dormitorul din apartament 20 18 16 13 12 20 18 16 13 14 12 11 = în unitățile existente
+- camera cu 1 pat 13 12 11 10 9
+-
+-
+-
+- 10 9 8
+- camera cu 2 paturi17 17 15 13 12
+-
+-
+-
+- 13 12 11
+- camera cu 3 paturi -
+-
+- 18 15
+-
+-
+-
+-
+- 16 14
+- camera cu 4 paturi -
+-
+-
+- 18
+-
+-
+-
+-
+-
+- 16
+- salonul din apartament 17 17 15 13 12 17 17 15 13 14 12 11
+- dormitorul din apartament 17 17 15 13 12 17 17 15 13 14 12 11 1.27. Izolare fonica a spațiilor 1) x x x x x x x x x x x x 1.28. Suprafața minimă a camerei de baie - mp 2) 4 4 3,5 3
+- 4 4 3,5 3 3,5 3
+- 1.29. Camerele dispun de grup sanitar propriu (cadă sau cuva cu duș, lavoar și WC)3) x x x x
+- x x x x x x
+-
+- WC separat de baie 4) x
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- 1.30. Grup sanitar comun, separat pe sexe, pentru camerele care nu dispun de grup sanitar propriu, astfel:
+- sala de baie, cada sau duș pentru maxi- mum 15 locuri
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- cabina WC și la- voar pentru maxi- mum 10 locuri
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x 1.31. Lavoare cu apă curentă caldă si rece în camere fără grup sanitar propriu 5)
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x 1.32. Program permanent de apă caldă 6) x x x x x x x x x x x x
+2. Dotarea cu mobilier, lenjerie și alte obiecte 2.1. Mobilierul, lenjeria și celelalte dotări vor fi:
+- de cea mai bună calitate 7) x x x
+-
+- x x x
+-
+-
+-
+-
+- corespunzătoare din punct de vedere al calității si cantității 7)
+-
+-
+- x x
+-
+-
+- x x x x ------------------------- 1) Unitățile existente pot fi exceptate până la prima RK sau modernizare. 2) La grupurile sanitare cu duș, suprafețele pot fi mai mici. 3) Spațiile fără grup sanitar vor fi încadrate la categoria 1 stea, indiferent de restul dotărilor. 4) Hotelurile existente sunt exceptate. 5) Unitățile existente pot fi exceptate. 6) La unitățile existente de 1 stea se admite și furnizarea apei calde pe baza unui program minim de 3 ore dimineața și 3 ore seara, comunicat în prealabil turiștilor, pe o perioada de 2 ani de la intrarea în vigoare a prezentelor norme. 7) Mobilierul și dotările vor fi unitare ca stil și asortate coloristic în același spațiu.
+NOTĂ:
+La garsonieră, salonul va avea cel puțin 75% din suprafața dormitorului. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ─────────────────────────────────────────────────────────────────────────────── 2.2. Holul de primire a turiștilor
+- pardoselile sunt acoperite cu mochetă sau covoare care atenuează zgomotul1) x x x x
+- x x x x x x
+-
+- pardoselile sunt acoperite cu carpete sau covoare 1)
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- comptoar recepție x x x x x x x x x x x x
+- calculator pentru gestionarea spațiilor de cazare și a ser- viciilor x x x
+-
+- x x x
+-
+-
+-
+-
+- canapele 2) x x x
+-
+- x x x
+- x
+-
+-
+- fotolii x x x
+-
+- x x x
+- x
+-
+-
+- demifotolii
+-
+-
+- x x
+-
+-
+- x
+- x x
+- mese de hol x x x x x x x x x x x x
+- afișier x x x x x x x x x x x x
+- corpuri de iluminat (candelabre, plafo- niere, lustre, aplice etc.) x x x x x x x x x x x x
+- aparate de lustruit încălțăminte 3) x x x
+-
+- x x x
+-
+-
+-
+- 2.3. Salon multifuncțional pentru recepții, ban- chete, congrese, con- ferințe, club
+- instalații și mobi- lier specific pentru conferințe (traducere simultană, ecran mobil etc.) și pentru activități de club 4)x x x
+-
+- x x x
+-
+-
+-
+- 2.4. Holuri și coridoare de etaj
+- pardoselile sunt acoperite cu mochetă sau covoare care ate- nuează zgomotul 5) x x x x
+- x x x x x x
+-
+- pardoselile sunt acoperite cu covoare sau carpete 5)
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- fotolii sau demifotolii 6) x x x
+-
+- x x x
+- x
+-
+-
+- măsuțe joase 6) x x x
+-
+- x x x
+- x
+-
+-
+- aparate de lustruit încălțămintea x x
+-
+-
+- x x
+-
+-
+-
+-
+- 2.5. Dotarea camerelor, apartamentelor și a garsonierelor
+- mochetă sau covoare 7) x x x
+-
+- x x x
+- x
+-
+-
+- covoare sau carpete 7)
+-
+-
+- x x
+-
+-
+- x
+- x x -------------------------- 1) Pardoselile din marmură sau alte materiale similare estetice pot fi acoperite doar parțial, în scopul atenuării zgomotului. Criteriul se aplica și pentru scările destinate circulației turiștilor. Unitățile sezoniere de 2 stele pot fi exceptate, dacă pardoseala este realizată din marmura sau materiale ceramice de calitate. 2) La categoria 3 stele dotarea este facultativă. 3) Unitățile sezoniere de 3 stele pot fi exceptate. 4) Instalațiile pot fi proprii sau închiriate, când este cazul. 5) Pardoselile din marmura, ceramica sau alte materiale similare estetice pot fi acoperite doar parțial, în scopul atenuării zgomotelor. 6) Unitățile existente, la care spațiul nu permite, pot fi exceptate. 7) Pardoselile din marmura, ceramica sau alte materiale similare pot fi acoperite doar parțial. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ───────────────────────────────────────────────────────────────────────────────
+- pat 1) cu somieră și saltea tip relaxa x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- pat 2) cu somiera sau saltea tip relaxa-
+- x x x
+-
+- x x x x x
+- saltea în grosime de 5 cm, din lina 3) x x x
+-
+- x x x
+- x
+-
+-
+- salteluță-husă de protecție 4) x x x x x x x x x x x x
+- noptiere 5) x x x x x x x x x x x x
+- fotoliu 6) (1 pe loc) x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- demifotolii 6) (1 pe loc)
+-
+- x
+-
+-
+-
+- x
+- x
+-
+-
+- scaun semitapițat 6) (1 pe loc)
+-
+-
+- x x
+-
+-
+- x
+- x x
+- șezlong sau mobi- lier de balcon la hotelurile din stațiuni 7) x x x x
+- x x x x
+-
+-
+-
+- dulap sau spațiu amenajat pentru haine și lenjerie, prevăzut cu umerașe (minimum 4 buc./pers.) x x x x x x x x x x x x
+- minibar frigo- rific 8) x x x
+-
+- x x x
+- x
+-
+-
+- masă 9)
+-
+-
+- x x
+-
+-
+- x
+- x
+-
+- masă pentru toale- tă și de scris 10) x x x
+-
+- x x x
+- x
+-
+-
+- mapa pentru scris x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- masuță 10) x x x
+-
+- x x x
+- x
+-
+-
+- scaun tapitat pen- tru masa de scris si toaleta x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- taburet tapitat pentru masa de scris și toaleta
+-
+- x
+-
+-
+-
+- x
+- x
+-
+-
+- oglindă înrămată11)x x x x x x x x x x x x
+- cuier x x x x x x x x x x x x
+- portbagaj sau spațiu pentru bagaje x x x x x x x x x x x x
+- pled de calitate superioară sau plapu- ma de lina sau alt echipament similar ce permite o exploa- tare igienică și confortabilă x x x
+-
+- x x x
+- x
+-
+- --------------------------- 1) Paturile vor fi de tip hotelier, individuale, matrimoniale sau duble, iar lungimea nu poate fi mai mica de 200 cm. Unitățile existente se exceptează până la prima înlocuire a mobilierului (maximum 8 ani). 2) Paturile vor fi de tip hotelier, individuale, matrimoniale sau duble, iar lungimea nu poate fi mai mica de 190 cm la 1 stea și 200 cm la restul categoriilor. 3) Unitățile sezoniere de 3 stele de pe Litoral pot fi exceptate. 4) Salteluta-husa este realizată din material textil lavabil și hidroabsorbant (molton de culoare deschisă, tesatura matlasata etc.). 5) La unitățile de 1 și 2 stele poate fi exceptat. La unitățile existente se admit și noptiere duble (una pentru 2 paturi). 6) Dormitorul din apartament sau garsoniera poate fi exceptat. La unitățile sezoniere se admit și scaune cu impletituri din bambus sau alte materiale similare. 7) Unitățile sezoniere de 2 stele pot fi exceptate. 8) Unitățile de 3 stele existente pot fi exceptate pe o perioada de 2 ani de la intrarea în vigoare a prezentelor norme. 9) La unitățile sezoniere se admit și măsuțe cu 2 taburete, care înlocuiesc scaunele semitapitate. La restul unităților masa poate fi înlocuită cu masuță, dacă în loc de scaune există demifotolii la 2 stele și taburete la 1 stea. 10) Dormitorul din apartament sau garsoniera poate fi exceptat. 11) La unitățile de 1 stea se admite oglindă de la lavoar. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ───────────────────────────────────────────────────────────────────────────────
+- pled
+-
+-
+- x x
+-
+-
+- x
+- x x
+- cearșaf plic pen- tru pled sau plapu- ma 1) x x x x x x x x x x x x
+- cearșaf pentru pat x x x x x x x x x x x x
+- perna mare cu fulgi 2) x x x
+-
+- x x x
+- x
+-
+-
+- perna mare 2)
+-
+-
+- x x
+-
+-
+- x
+- x x
+- perna mica cu fulgi (puisor) x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- față de pernă mare x x x x x x x x x x x x
+- față de pernă mica x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- cuvertura pentru pat x x x
+-
+- x x x
+- x
+-
+-
+- lampa de birou x x x
+-
+- x x x
+-
+-
+-
+-
+- lampadar x
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+-
+- veioză sau aplică la capătul patului (una pe loc) și minimum încă o sur- să de lumina prin- cipala pe camera3) x x x x x x x x x x x x
+- perdele și drape- rii obturante 4) x x x x x x x x x x x x
+- scrumiere de masă x x x x x x x x x x x x
+- vaze pentru flori 5) x x x x x x x x x x x x
+- pahare (1 buc./ pers.) la 5 și 4 stele să fie amba- late x x x x x x x x x x x x
+- perii pentru haine și încălțăminte 6) x x x x x x x x x x x x
+- limba pentru încălțat pantofi x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- tablouri și alte elemente decorative de bun gust x x x x x x x x x x x x
+- trusa pentru cusutx x x
+-
+- x x x
+- x
+-
+-
+- ac și ață
+-
+-
+- x x
+-
+-
+- x
+- x x
+- suport, masă sau alt echipament pen- tru amplasarea televizorului x x x
+-
+- x x x
+- x
+-
+-
+- televizor 7) x x x
+-
+- x x x
+- x
+-
+-
+- aparat radio (poa- te fi încorporat si în televizor) 8) x x x
+-
+- x x x
+- x
+-
+-
+- telefon în camera 9) x x x x
+- x x x x x
+-
+-
+- instalatie automa- tă de trezire x x
+-
+-
+- x x
+-
+-
+-
+-
+- ------------------------ 1) La unitățile sezoniere de pe Litoral se pot utiliza și cearșafuri simple. Unitățile de 3, 4 și 5 stele pot utiliza cearșafuri de mari dimensiuni în locul celor plic. 2) Unitatea va dispune și de un număr de perne cu fibre textile, pentru uzul celor alergici (la cerere). 3) La veioze, lampadare și lâmpi de birou se vor utiliza becuri de 60 W, iar la surse principale de lumină, becuri de 100 W. 4) Se pot folosi și alte mijloace (pelicule reflectorizante etc.). La unitățile sezoniere de pe Litoral de 1 sau 2 stele, dotarea cu perdele transparente este facultativă. 5) La unitățile de 4 și 5 stele vazele vor fi cu flori. 6) La unitățile de 4 și 5 stele, în loc de perii se vor utiliza materiale moderne pentru întreținerea și lustruitul încălțămintei (servetele cu silicon, manusi speciale etc.). 7) Color la unitățile de 3, 4 și 5 stele. La unitățile sezoniere de pe Litoral de 3 stele, proporția dotării cu televizoare color poate fi și de 25% din numărul camerelor. Unitățile sezoniere de pe Litoral pot fi exceptate pe o perioada de 2 ani de la data intrării în vigoare a prezentelor norme. Hotelurile nou-construite de 4 și 5 stele vor dispune de televizoare și în dormitor. 8) Unitățile sezoniere de pe Litoral pot fi exceptate. 9) Se exceptează hotelurile sezoniere de 2 stele, dar nu mai mult de 3 ani de la data intrării în vigoare a prezentelor norme. La hotelurile-apartament va exista minimum un telefon în fiecare apartament. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ─────────────────────────────────────────────────────────────────────────────── 2.6. Salonul din apartamen- te și garsoniere
+- masă de scris (birou) și scaun ta- pitat cu brate (ho- țelurile sezoniere și garsonierele pot fi exceptate) x x x x
+- x x x x
+-
+-
+-
+- masuta x x x x x x x x x x x x
+- pahare pentru apa, vin, coniac, pentru 6 persoane x x x
+-
+- x x x
+-
+-
+-
+-
+- fotolii sau demifotolii x x x x x x x x x x x x
+- canapea pentru 2-3 persoane (la garso- niere este faculta- tiv) x x x x x x x x x x
+-
+-
+- corpuri de iluminat adecvate (lustra, lampadar etc.) x x x x x x x x x x x x
+- lampa de birou x x x x
+- x x x x
+-
+-
+-
+- serviciu de birou x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- vază pentru flori x x x x x x x x x x x x
+- suport, masă sau alt echipament pen- tru amplasarea tele- vizorului x x x x x x x x x x x x
+- televizor x x x x x x x x x x x x
+- frigider sau mini- bar frigorific 1) x x x x x x x x x x x x 2.7. Dotarea grupurilor sanitare
+a) Grupurile sanitare din camere
+- sistem aerisire si de iluminat x x x x
+- x x x x x x
+-
+- prosop plușat fata x x x x x x x x x x x x
+- prosop plușat pen- baie 2) x x x x
+- x x x x x x
+-
+- prosop pentru picioare 2) x x x x
+- x x x x x x
+-
+- halat plusat baie x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- șampon spumant sau gel pentru duș, amba- lat, săpun tip turist, servețele parfumate x x x
+-
+- x x x
+- x
+-
+-
+- periuță și pastă de dinți, casca de baie și săpun baie x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- săpun pentru tu- riști
+-
+-
+- x x
+-
+-
+- x
+- x x
+- pahare pentru apă (fără picior) 1 buc./pers. 3) x x x x x x x x x x x x
+- portsăpun x x x x x x x x x x x x
+- cuier de baie x x x x
+- x x x x x x
+-
+- oglindă la chiuvetax x x x x x x x x x x x
+- suport pentru arti- cole de toaleta la oglindă x x x x x x x x x x x x
+- suport pentru pro- soape x x x x x x x x x x x x
+- coș pentru gunoi x x x x x x x x x x x x
+- perie WC și dezo- dorizant WC x x x x
+- x x x x x x
+- -------------------------- 1) La unitățile de 3, 4 și 5 stele va fi încorporat în mobilier sau va fi placat în lemn furniruit. 2) Si pentru camerele cu grup sanitar propriu din hotelurile de 1 stea. 3) La unitățile de 3, 4 și 5 stele se vor expune ambalate. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ───────────────────────────────────────────────────────────────────────────────
+- covoraș sau alt echipament pentru evitarea alunecării x x x x
+- x x x x x x
+-
+- foehn x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- derivație telefon în baie x
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+-
+- banderole "steril" pe WC și cada/dus x x x x
+- x x x x x x
+-
+- mâner de sprijin pentru intrare-ieșire din cada (unitățile existente se excep- tează) x x x x
+- x x x x x x
+-
+- priză pentru apara- tele de ras x x x x
+- x x x x x x
+-
+b) Grupuri sanitare comune
+- sistem de aerisire și de iluminat
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- însemn pentru marcarea (pe sexe), iluminat pe timpul nopții
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- cuier pentru haine (ferit de stropire) -
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- covoraș sau alt echipament pentru evitarea alunecării -
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- portsăpun
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- portprosop
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- oglindă
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- găleată de toaletă sau alt recipient analog, cu capac
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- dozator de săpun lichid
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- uscator de mâini sau prosop rolă din hârtie sau pânză
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+- priză pentru apa- ratele de ras
+-
+-
+-
+- x
+-
+-
+-
+-
+-
+- x
+3. Servicii minime ofe- rite turiștilor
+- frizerie, coafură cosmetică x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- servicii poștale tele-fax x x x
+-
+- x x x
+-
+-
+-
+-
+- servicii telefonicex x x x x x x x x x x x
+- spălat, curățat, călcat și reparat îm- brăcăminte și len- jerie x x x x
+- x x x x x
+-
+-
+- serviciu pentru curățat și lustruit încălțămintea x x x x x x x x x x x x
+- vânzări de mărfuri, articole de stricta necesitate, amintiri, ziare, vederi x x x x x x x x x x x x
+- rent-a-car x x x
+-
+- x x x
+-
+-
+-
+-
+- room-service x x x
+-
+- x x x
+- x
+-
+-
+- servirea micului dejun în sistem bufetx x x
+-
+- x x x
+- x
+-
+-
+- asigurarea cu um- brele în caz de ploaie x x x
+-
+- x x x
+- x
+-
+-
+- informații turis- tice și culturale x x x x x x x x x x x x
+- păstrarea obiecte- lor de valoare ale turiștilor x x x x x x x x x x x x
+- serviciul pentru transportul bagajelorx x x
+-
+- x x x
+-
+-
+-
+-
+- serviciul comisio- nar-curier x x x
+-
+- x x x
+-
+-
+-
+-
+- acordarea de prim ajutor în caz de ur- gență (trusa medica- la) x x x x x x x x x x x x
+- trezirea clienților la cerere sau sistem automat de trezire x x x x x x x x x x x x
+- primirea și trans- miterea mesajelor și corespondentei pentru turiști x x x x x x x x x x x x
+- rezervarea de bi- lete la mijloace de transport x x x
+-
+- x x x
+- x
+-
+-
+- informații privind orarul mijloacelor de transport x x x x x x x x x x x x
+4. Alte criterii
+- directorul de hotel (motel) să fie deti- nator de brevet de turism x x x x x x x x x x x x
+- întregul personal de la recepție să fie calificat 1) x x x x x x x x x x x x
+- personalul care, prin atribuțiile ce-i revin, are relații directe cu turiștii străini, cunoscător de limbi străine (mi- nimum... limbi) 2) 2 2 2 1
+- 2 2 2 1 1 1
+-
+- portar-ușier 3) x x x
+-
+- x x x
+-
+-
+-
+-
+- bagajist 3) x x x
+-
+- x x x
+-
+-
+-
+-
+- serviciu de secu- ritate și pază 3) x x x
+-
+- x x x
+-
+-
+-
+-
+- comisioner-curier3)x x x
+-
+- x x x
+-
+-
+-
+-
+- parcare cu pază x x x
+-
+- x x x
+- x
+-
+-
+- personalul care vine în contact cu turiștii va avea uniformă, iar restul personalului, echipa- ment de lucru x x x x x x x x x x x x ------------------------- 1) Cel existent poate fi menținut pe o perioadă de maximum 2 ani, timp în care să urmeze cursuri de calificare. 2) Receptioneri, casieri-recepție, concierge, portari-ușieri, comisioneri, curieri, bagajiști, personal rezervari și rent-a-car, schimb-valutar, centre de afaceri, supraveghetoare etaj (housekeeper), operatoare telefonista, telex, fax.
+Personalul de la unitățile existente poate fi menținut maximum 2 ani, timp în care trebuie să urmeze cursuri de limbi străine; 3) La unitățile de 3 stele, criteriul este obligatoriu numai pentru hotelurile cu peste 50 de camere. ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 7 8 9 10 11 12 ───────────────────────────────────────────────────────────────────────────────
+- oficiile cameris- telor vor fi dotate cu echipament pentru preluarea și păstra- rea lenjeriei și a hainelor date la cu- ratat de către turiști, precum și cu materia- le pentru dezinfec- tare x x x x x x x x x x x x
+- grupuri sociale pentru personal: vestiare, dușuri,
+WC-uri, pe sexe x x x x x x x x x x x x
+- sala de mese pen- tru personal la ho- țelurile noi de peste 100 camere x x
+-
+-
+- x x
+-
+-
+-
+-
+-
+- încasarea contrava- lorii serviciilor și pe baza de cărți de credit 1) ─────────────────────────────────────────────────────────────────────────────── 1) Hotelurile existente de 3 și 2 stele se exceptează pe o perioadă de 3 ani. La cele de 2 stele, criteriul este obligatoriu numai pentru hotelurile de tranzit cu peste 150 de locuri, situate în orașe cu peste 150.000 de locuitori.
