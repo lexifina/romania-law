@@ -1,0 +1,2 @@
+# Anexa 1
+CORELAREA CATEGORIILOR DE DRUMURI, DIN PUNCT DE VEDERE FUNCȚIONAL ȘI ADMINISTRATIV, CU CLASELE TEHNICE - se găsește publicată în Monitorul Oficial, al României, Partea I, Nr. 396, la pagina 4. La racordarea drumurilor publice din afară localităților cu cele din interiorul localităților trebuie aplicat principiul conform căruia drumurile publice din afară localităților trebuie să continue cu drumuri de același rang sau de rang superior în traversarea localităților.
