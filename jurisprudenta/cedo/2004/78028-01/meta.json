@@ -1,0 +1,224 @@
+{
+ "key": "cedo-78028-01-2004-06-22",
+ "label": "CEDO, Pini şi Bertani şi Manera şi Atripaldi c. României, 2004-06-22",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2004-06-22",
+ "year": "2004",
+ "heading": "HOTĂRÂRE din 22 iunie 2004",
+ "subtitle": "în cauza Pini şi Bertani şi Manera şi Atripaldi împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "1245",
+  "bis": false,
+  "date": "2004-12-23",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "no-violation"
+ ],
+ "applications": [
+  "78028/01"
+ ],
+ "case_name": "Pini şi Bertani şi Manera şi Atripaldi",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "CURTEA: 1. hotărăşte, cu 5 voturi contra 2, că între reclamanţi şi minorele adoptate de aceştia există o legătură care caracterizează o viaţă de familie, aşa cum prevede articolul 8 alineatul 1 din Convenţie, care este aplicabil în cauză; 2. Hotărăşte, cu 6 voturi contra 1, că nu a fost încălcat articolul 8 din Convenţie; 3. hotărăşte, cu 4 voturi contra 3 că a fost încălcat articolul 6 alineatul 1 din Convenţie; 4. hotărăşte, cu 5 voturi contra 2",
+  "a) că statul pârât va plăti, în 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, următoarele sume:",
+  "i. 12.000 (douăsprezece mii) EUR primilor reclamanţi şi 10.000 (zece mii) EUR celui de-al doilea cuplu de reclamanţi, pentru prejudiciul material şi moral, îi. 7 000 (şapte mii) EUR primilor reclamanţi şi 6000 (şase mii) EUR celui de-al doilea cuplu de reclamanţi, pentru cheltuielile de judecată, iii. orice altă sumă ce ar putea fi percepută cu titlu de impozite aplicat sumelor sus menţionate.",
+  "b) că de la expirarea termenului sus menţionat şi până la momentul efectuării plăţii, aceste sume vor fi majorate cu o dobândă simplă de întârziere egală cu dobânzii pentru facilitatea de credit marginal practicată de Banca centrală europeană, la care se vor adăuga 3 puncte procentuale;",
+  "5. respinge, în unanimitate, cererea de acordare a unei satisfacţii echitabile pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 74
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 25/1997",
+    "number": "25",
+    "year": "1997",
+    "path": "oug/1997/25"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "189",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58311",
+  "text_sha256": "c64f23267e824394fac833c7cc37d5b21b980a36023efa7bad22d76ff7d64201",
+  "catalogue_sha256": "c64f23267e824394fac833c7cc37d5b21b980a36023efa7bad22d76ff7d64201",
+  "fetched": "2026-11-02T23:50:59Z",
+  "chars": 137669,
+  "portal_id": "58311",
+  "tip": "HOTĂRÂRE"
+ }
+}
