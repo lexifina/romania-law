@@ -1,0 +1,33 @@
+02/Volumul 05 | RO | Jurnalul Ofícial al Uniunii Europene | 8
+31992R0396
+L 044/9 | JURNALUL OFÍCIAL AL UNIUNII EUROPENE |
+REGULAMENTUL (CEE) NR. 396/92 AL COMISIEI
+din 18 februarie 1992
+privind clasificarea anumitor mărfuri în Nomenclatura Combinată
+COMISIA COMUNITĂȚILOR EUROPENE,
+având în vedere Tratatul de instituire a Comunității Economice Europene,
+având în vedere Regulamentul (CEE) nr. 2658/87 al Consiliului din 23 iulie 1987 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun(1), astfel cum a fost modificat ultima dată prin Regulamentul (CEE) nr. 3694/91(2), în special articolul 9,
+întrucât, pentru a asigura aplicarea uniformă a Nomenclaturii Combinate anexate la regulamentul menționat anterior, este necesar să fie adoptate dispoziții privind clasificarea mărfurilor prevăzute de anexa la prezentul regulament;
+întrucât Regulamentul (CEE) nr. 2658/87 stabilește regulile generale de interpretare a Nomenclaturii Combinate; întrucât aceste reguli se aplică, de asemenea, oricărei alte nomenclaturi care se bazează pe aceasta, chiar parțial sau, eventual, adăugând subdiviziuni la aceasta, și care se stabilește prin reglementări comunitare specifice, în vederea aplicării unor măsuri tarifare sau de altă natură, în cadrul comerțului cu mărfuri;
+întrucât, în temeiul regulilor generale menționate anterior, mărfurile descrise în coloana 1 a tabelului anexat la prezentul regulament trebuie încadrate la codurile NC corespunzătoare, indicate în coloana 2, în conformitate cu motivele indicate în coloana 3;
+întrucât măsurile prevăzute de prezentul regulament sunt conforme cu avizul Comitetului pentru nomenclatură,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Mărfurile descrise în coloana 1 din tabelul anexat trebuie încadrate în Nomenclatura Combinată la codurile NC corespunzătoare, indicate în coloana 2 din tabelul menționat anterior.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzeci și una zi de la data publicării în Jurnalul Oficial al Comunităților Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 18 februarie 1992.
+Pentru Comisie
+Christiane SCRIVENER
+Membru al Comisiei
+(1) JO L 256, 7.9.1987, p. 1.
+(2) JO L 350, 19.12.1991, p. 17.
+ANEXĂ
+Descrierea mărfurilor | Clasificare Codul NC | Explicație
+(1) | (1) | (2) | (3)
+1. | Sistem multiplex, sub formă de unitate centrală alcătuită din trei circuite imprimate, echipat cu un transformator și cu componente discrete și hibride și cu o serie de subunități. Unitățile permit transmiterea simultană a mai multor semnale diferite prin același cablu. Acest sistem este montat în aeronavele civile pentru informarea sau divertismentul pasagerilor. Acesta permite fiecărui pasager să asculte unul din canale la alegere. | 8517 81 90 | Clasificarea se stabilește în conformitate cu regulile generale 1 și 6 de interpretare a Nomenclaturii Combinate și cu textele codurilor NC 8517, 8517 81 și 8517 81 90.
+2. | Aparat electronic multiplexor în propria carcasă care permite stabilirea unor conexiuni multiple între puncte de racordare diferite ale unei rețele informatizate. Acest aparat, care folosește tehnologia digitală, concentrează și combină mai multe fluxuri de date într-unul singur și îl transmite pe un canal. Semnalele care sunt primite pe un singur canal, sunt distribuite din nou pe mai multe canale de ieșire. | 8517 82 00 | Clasificarea se stabilește în conformitate cu regulile generale 1 și 6 de interpretare a Nomenclaturii Combinate și cu textele codurilor NC 8517 și 8517 82 00.
+3. | Vehicul (lungime 180 cm, lățime 87 cm, înălțime 100 cm), echipat cu organe de comandă, cu motor monocilindric pe benzină în patru timpi (capacitate cilindrică: 400 cm3), cu benă consolidată basculabilă manual cu o sarcină utilă de 400 kg și cu șenile din cauciuc. Acest vehicul, a cărui greutate proprie este de 250 kg, are o viteză maximă de 6,8 km/h și o putere de 5,37 kW și este dotat cu o cutie de viteze cu trei viteze înainte și o viteză înapoi. Este utilizat în special pe șantiere pentru transportul și descărcarea materialelor de construcții, pământ, nisip și altele. | 8074 31 19 | Clasificarea se stabilește în conformitate cu regulile generale 1 și 6 de interpretare a Nomenclaturii Combinate și cu textele codurilor NC 8704, 8704 10 și 8704 10 19. Luând în considerare modul în care este conceput și, în special, prezența benei basculabile și a șenilelor din cauciuc, precum și locul în care se folosește, acest vehicul nu poate fi încadrat la codul NC 8709.
+4. | Vehicul nou (lungime 225 cm, lățime 108 cm, înălțime 128 cm) echipat cu motor monocilindric pe benzină în patru timpi (capacitate cilindrică: 400 cm3), cu benă consolidată basculabilă hidraulic, cu o sarcină utilă de 800 kg, cu pereți laterali și posteriori mobili, cu cabină deschisă cu comenzi și șenile din cauciuc. Acest vehicul atinge o viteză maximă de 8,7 km/h, are o putere de 7,46 kW și este dotat cu o cutie de viteze cu patru viteze înainte și trei viteze înapoi. Este utilizat în special pe șantiere pentru transportul și descărcarea materialelor de construcții, pământ, nisip și altele | 8704 31 91 | Clasificarea se stabilește în conformitate cu regulile generale 1 și 6 de interpretare a Nomenclaturii Combinate și cu textele de la codurile NC 8704, 8704 31 și 8704 31 91. Luând în considerare modul în care este conceput și, în special, prezența benei basculabile și a șenilelor din cauciuc, precum și locul în care se folosește, acest vehicul nu poate fi încadrat la poziția 8709. Flexibilitatea și complexitatea construcției benei basculabile nu permit ca articolul să fie considerat drept o autobasculantă de la poziția 8704 10.
+5. | Sistem complet autonom care permite operatorului să creeze, pe ecran, imagini bi- și tridimensionale. Acesta nu poate îndeplini decât această funcție și nu poate fi programat pentru alte aplicații decât concepția grafică asistată de calculator. Este alcătuit din următoarele elemente: — unitate de procesare, echipată cu un microprocesor, un procesor grafic și o unitate de memorie, — elemente de comandă: tastatură, mouse, taste programabile, tabletă grafică, — monitor pentru vizualizare, denumit ecran stereoscopic. | 9017 10 90 | Clasificarea se stabilește în conformitate cu regulile generale 1 și 6 de interpretare a Nomenclaturii Combinate, cu nota 4 de la secțiunea XVI, nota 5 litera (B) de la capitolul 84 și nota 3 de la capitolul 90 și cu textele codurilor NC 9017, 9017 10 și 9017 10 90. Acest sistem nu poate fi încadrat la codul NC 8471 deoarece exercită o „funcție proprie” în sensul notei 5 litera (B) de la capitolul 84.
