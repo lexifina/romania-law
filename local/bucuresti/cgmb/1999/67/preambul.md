@@ -1,0 +1,3 @@
+Analizand expunerea de motive a Primarului General si Raportul Directiei Generale Buget, Contabilitate, Financiar;
+In conformitate cu prevederile Legeii nr.27/1994 privind impozitele si taxele locale, republicata si modificata prin Ordonantele de Urgenta ale Guvernului nr.62/1998 si 15/1999 si ale Legii nr.184/1998, privind finantele publice locale modificata prin Ordonanta de Urgenta a Guvernului nr.61/1998;
+In temeiul prevederilor art.20(2), lit."f" si art.28(3) din Legea nr.69/1991, republicata privind administratia publica locala, Consiliul General al Municipiului Bucuresti H o t a r a s t e:
