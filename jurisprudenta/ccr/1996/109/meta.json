@@ -1,0 +1,96 @@
+{
+ "key": "dcc-109-1996",
+ "label": "Decizia CCR nr. 109/1996",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "tratat",
+ "number": "109",
+ "date": "1996-10-08",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 109 din 8 octombrie 1996",
+ "subtitle": "privind constituţionalitatea Legii pentru ratificarea Tratatului de înţelegere, cooperare şi buna vecinătate dintre România şi Republica Ungara, semnat la Timişoara la 16 septembrie 1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "250",
+  "bis": false,
+  "date": "1996-10-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca inadmisibila sesizarea grupurilor parlamentare din Senat şi din Camera Deputaţilor ale Partidului Unităţii Naţionale Române cu privire la constituţionalitatea Legii pentru ratificarea Tratatului de înţelegere, cooperare şi buna vecinătate dintre România şi Republica Ungara, semnat la Timişoara la 16 septembrie 1996.",
+  "Prezenta decizie se comunică Preşedintelui României."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-10-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8578",
+  "text_sha256": "66cab263d74402722bd3dd500a19b2bdb0c968d3b196509a1eec83be956fa37c",
+  "catalogue_sha256": "66cab263d74402722bd3dd500a19b2bdb0c968d3b196509a1eec83be956fa37c",
+  "fetched": "2026-11-02T22:52:11Z",
+  "chars": 3564,
+  "portal_id": "8578",
+  "tip": "DECIZIE"
+ }
+}
