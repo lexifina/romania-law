@@ -1,0 +1,13 @@
+# Anexa nr. 5 la anexa nr. 1
+Anexa 5 ──────── la metodologie ────────────── PROBA PRACTICĂ din cadrul concursului pentru ocuparea posturilor didactice vacante Disciplina Arte plastice
+Proba practică va consta dintr-un interviu prin care comisia de concurs va evalua: ● pregătirea metodică, pe baza unui proiect didactic elaborat de candidat în fața comisiei, la alegere, din conținuturile disciplinei Studiul compoziției, disciplină fundamentală din cadrul curriculumului diferențiat, specific învățământului de arte vizuale...................................................... 50 de puncte; ● activitatea în specialitate, pe baza prezentării unui portofoliu de activitate.
+Comisia de concurs va puncta fiecare manifestare artistică sau teoretică publicată, de nivel național, internațional sau local, precum și premiile anuale acordate de uniunile de creație artistică sau filialele acestora din România, premiile internaționale, inițierea/participarea de/la proiecte naționale sau internaționale, precum și orice contribuție teoretică în domeniu, după cum urmează:
+- premii anuale acordate de uniunile de creație sau filialele acestora, precum și premii internaționale acordate de instituții culturale omoloage................................................ 40 de puncte;
+- participări la expozițiile anuale, bienale, trienale etc., naționale și internaționale, creații scenografice sau de costum de scenă, lucrări de artă monumentală, proiecte de arhitectură realizate individual sau în colectiv, creații omologate în diferite domenii ale designului, lucrări de restaurare certificate de comisii de specialitate, literatură de specialitate publicată etc............................ 30 de puncte;
+- coordonare de proiecte naționale sau internaționale....... 40 de puncte;
+- manifestări expoziționale individuale sau de grup: ● în spații administrate de muzee de artă................... 40 de puncte; ● în spații administrate de uniuni de creație............... 30 de puncte; ● în alte locații........................................... 20 de puncte;
+- manifestări expoziționale (jurizate) periodice sau ocazionale............................................................. 30 de puncte;
+- alte manifestări expoziționale ocazionale (nejurizate)............................................................. 20 de puncte;
+- participare în cadrul unor proiecte naționale sau internaționale.............................................. 20 de puncte;
+- contribuții teoretice în domeniu (articole publicate în presă, comunicări științifice, intervenții în cadrul unor seminarii pe teme de specialitate etc.)........................................ 10 puncte.
+Pentru calificativul admis candidatul va trebui să obțină minimum 70 de puncte. ___________
