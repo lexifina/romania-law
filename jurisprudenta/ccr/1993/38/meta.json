@@ -1,0 +1,291 @@
+{
+ "key": "dcc-38-1993",
+ "label": "Decizia CCR nr. 38/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "38",
+ "date": "1993-07-07",
+ "year": "1993",
+ "heading": "DECIZIE nr. 38 din 7 iulie 1993",
+ "subtitle": "referitoare la soluţionarea recursurilor declarate de Procuratura Generală împotriva deciziilor Curţii nr. 9, nr. 10, nr. 11, nr. 12, nr. 13, nr. 16, nr. 17 şi nr. 18/1993 prin care s-au admis excepţiile de neconstituţionalitate vizând poziţiile art. 223, art. 224 şi art. 229 din Codul penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "176",
+  "bis": false,
+  "date": "1993-07-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  }
+ ],
+ "operative": [
+  "Admite în parte recursurile declarate împotriva deciziilor nr. 9/1993, nr. 10/1993, nr. 11/1993, nr. 12/1993, nr. 13/1993, nr. 16/1993, nr. 17/1993 şi nr. 18/1993 pronunţate de aceasta Curte şi le modifica după cum urmează: 1. Admite excepţiile de neconstituţionalitate invocate de: - Popescu Ion, în dosarul nr. 1394/1992, aflat pe rolul Tribunalului Judeţean Constanta, cu privire la art. 223 din Codul penal; - Bechir Magbulea, în dosarul nr. 1077/1992, aflat pe rolul Judecătoriei Medgidia, cu privire la art. 223 din Codul penal; - Dusa Nicolae, în dosarul nr. 730/1992, aflat pe rolul Tribunalului Judeţean Tulcea, cu privire la art. 224 din Codul penal; - Burlacelu Gheorghe, Misea Dumitru şi Danila Mihai, în dosarul nr. 672/1992, aflată pe rolul Tribunalului Judeţean Tulcea, cu privire la art. 224 din Codul penal; - Georgescu Teodor, Bulbuc Aurora Melania şi Bulbuc Cristian Anton, în dosarul nr. 2103/1992, aflat pe rolul Tribunalului Municipiului Bucureşti, Secţia I penală, cu privire la art. 229 din Codul penal; - Marcu Dan, Gheorghe Mihai, Ivanciu Viorel, Miliu Gheorghe, Balanuta Ion şi Spanoaie Dumitru, în dosarul nr. 4321/1992, aflat pe rolul Judecătoriei Tulcea, cu privire la art. 224 din Codul penal; - Ionescu Angela, în dosarul nr. 4782/1991, aflat pe rolul Judecătoriei Tulcea, cu privire la art. 223 din Codul penal; - Baban Nelu, în dosarul nr. 6393/1992, aflat pe rolul Judecătoriei Tulcea, cu privire la art. 223 din Codul penal şi la art. 249 alin. 1 din acelaşi cod, dar în cazul acestuia din urma text numai pentru dispoziţia care vizează paguba adusă avutului obştesc. 2. Se stabileşte termenul de 30 noiembrie 1993 pentru a da Parlamentului posibilitatea modificării dispoziţiilor din Codul penal menţionate la pct. 1, care contravin prevederilor art. 41 alin. (2) din Constituţie. 3. În cazul în care, până la termenul stabilit la pct. 2, nu se adoptă modificările dispoziţiilor din Codul penal menţionate la pct. 1, începând cu 1 decembrie 1993 urmează să-şi producă efectele abrogarea acestora. 4. Până la adoptarea modificărilor de către Parlament, dar nu după data de 30 noiembrie 1993, dispoziţiile legale prevăzute la pct. 1 urmează să se aplice. 5. Se respinge ca nefondata excepţia de neconstituţionalitate invocată de Ionescu Angela, în dosarul nr. 4782/1991, aflat pe rolul Judecătoriei Tulcea, cu privire la art. 289 şi art. 291 din Codul penal.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "223",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "224",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 72
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2",
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 92
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3141",
+  "text_sha256": "c888765bfa39ad77bd112cc0b7f95d539e4f099866d85cc5767fae49454dda53",
+  "catalogue_sha256": "c888765bfa39ad77bd112cc0b7f95d539e4f099866d85cc5767fae49454dda53",
+  "fetched": "2026-11-02T22:31:13Z",
+  "chars": 60683,
+  "portal_id": "3141",
+  "tip": "DECIZIE"
+ }
+}
