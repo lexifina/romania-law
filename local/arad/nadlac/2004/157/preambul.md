@@ -1,0 +1,5 @@
+Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de
+26.10.2004;
+Având în vedere: -referatul nr.9740 din 20.10.2004 a referentului cu probleme sociale și a consilierulului de la compartimentul agricol prin care se propune modificarea criteriilor de acordare a venitului minim garantat; -prevederile art.15 din Normele Metodologice de aplicare a prevederilor Legii 416/2001 privind venitul minim garantat aprobate prin Hotărârea Guvernului României nr.1099/2001; -prevederile art.38(2) lit.s din Legea 215/2001 a administrației publice locale; -avizul favorabil al Comisiei pentru activități economico-financiare, agricultură, juridică și de disciplină; -avizul favorabil al Comisiei pentru activități social-culturale, culte, învățământ, sănătate și familie, muncă și protecție socială, protecție copii, tineret și sport; -votul a 12 consilieri din totalul de 15 consilieri aleși în funcție, fiind prezenți la ședința Consiliului local un număr de 12 consilieri;
+În temeiul art.46(1) din Legea 215/2001 a administrației publice locale
+H O T Ă R Ă Ș T E:
