@@ -1,0 +1,174 @@
+{
+ "key": "dcc-11-1999",
+ "label": "Decizia CCR nr. 11/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "11",
+ "date": "1999-02-09",
+ "year": "1999",
+ "heading": "DECIZIE nr. 11 din 9 februarie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 22 alin. 5 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "136",
+  "bis": false,
+  "date": "1999-04-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "485/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Kessler Walter în Dosarul nr. 485/1998 al Tribunalului Sibiu şi constata ca dispoziţia art. 22 alin. 5 din Codul de procedură civilă, conform căreia termenul pentru exercitarea dreptului de recurs curge de la pronunţarea hotărârii care conţine regulatorul de competenţa, este neconstitutionala.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-04-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/17548",
+  "text_sha256": "f8297d813c0e50197f43cebc1c5ff23f2f45e97ae8e02f975ef0431c7443eead",
+  "catalogue_sha256": "f8297d813c0e50197f43cebc1c5ff23f2f45e97ae8e02f975ef0431c7443eead",
+  "fetched": "2026-11-05T06:55:33Z",
+  "chars": 7656,
+  "portal_id": "17548",
+  "tip": "DECIZIE"
+ }
+}
