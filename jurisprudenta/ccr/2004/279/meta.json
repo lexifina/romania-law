@@ -1,0 +1,224 @@
+{
+ "key": "dcc-279-2004",
+ "label": "Decizia CCR nr. 279/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "279",
+ "date": "2004-06-29",
+ "year": "2004",
+ "heading": "DECIZIE nr. 279 din 29 iunie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. d) şi art. 40^1 din Legea nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului, republicată, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "858",
+  "bis": false,
+  "date": "2004-09-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.612/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "40-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. d) şi art. 40^1 din Legea nr. 64/1995, republicată, cu modificările şi completările ulterioare, excepţie ridicată de Lucian Bagia, mandatar al administratorului Societăţii Comerciale \"Intelmed\" - S.R.L. în Dosarul nr. 7.612/1999 al Tribunalului Bucureşti - Secţia a VII-a comercială.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 38/2002",
+    "number": "38",
+    "year": "2002",
+    "path": "og/2002/38"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2",
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-09-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/55263",
+  "text_sha256": "ad34247eb5c2e1ca824ae9d2ea4f8a83ddcf0117ee32437035c74725e5c875d1",
+  "catalogue_sha256": "ad34247eb5c2e1ca824ae9d2ea4f8a83ddcf0117ee32437035c74725e5c875d1",
+  "fetched": "2026-11-02T23:40:20Z",
+  "chars": 16628,
+  "portal_id": "55263",
+  "tip": "DECIZIE"
+ }
+}
