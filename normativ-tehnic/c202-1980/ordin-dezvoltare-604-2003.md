@@ -1,0 +1,10 @@
+ ORDIN nr. 604 din 21 aprilie 2003  pentru aprobarea reglementării tehnice "Ghid de proiectare şi execuţie a placajelor ceramice exterioare aplicate la clădiri"     EMITENT     MINISTERUL LUCRĂRILOR PUBLICE, TRANSPORTURILOR ŞI LOCUINŢEI       Publicat în
+			  MONITORUL OFICIAL nr. 576 din 12 august 2003     În conformitate cu prevederile  art. 38 alin. 2 din Legea nr. 10/1995  privind calitatea în construcţii, cu modificările ulterioare,  în temeiul prevederilor art. 2 pct. 45 şi ale  art. 4 alin. (3) din Hotărârea Guvernului nr. 3/2001  privind organizarea şi funcţionarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei, cu modificările ulterioare,  având în vedere Procesul-verbal de avizare nr. 69 din 8 octombrie 2002 al Comitetului tehnic de specialitate "Fizica construcţiilor şi cerinţe functionale pentru construcţii",  ministrul lucrărilor publice, transporturilor şi locuinţei emite următorul ordin:
+				 +
+			  Articolul 1     Se aprobă reglementarea tehnica "Ghid de proiectare şi execuţie a placajelor ceramice exterioare aplicate la clădiri", indicativ GP-073-02, elaborata de Institutul Naţional de Cercetare-Dezvoltare în Construcţii şi Economia Construcţiilor - INCERC Bucureşti, prevăzută în anexa*) care face parte integrantă din prezentul ordin.
+				 +
+			  Articolul 2     Prezentul ordin va fi publicat în Monitorul Oficial al României, Partea I.
+				 +
+			  Articolul 3     La data intrării în vigoare a prezentului ordin, Ordinul directorului general al Institutului Central de Cercetare, Proiectare şi Directivare în Construcţii - ICCPDC nr. 101 din 18 noiembrie 1980 pentru aprobarea reglementării tehnice "Instrucţiuni tehnice pentru executarea placajelor exterioare din plăci de argila arsa", indicativ C 202-1980, îşi încetează aplicabilitatea.
+				 +
+			  Articolul 4     Direcţia generală tehnica în construcţii va duce la îndeplinire prevederile prezentului ordin.  p. Ministrul lucrărilor publice,  transporturilor şi locuinţei,  Marius Sorin Ovidiu Bota,  secretar de stat  Bucureşti, 21 aprilie 2003.  Nr. 604.  -----------
