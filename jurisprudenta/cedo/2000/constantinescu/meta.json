@@ -1,0 +1,122 @@
+{
+ "key": "cedo-constantinescu-2000-06-27",
+ "label": "CEDO, Constantinescu c. României, 2000-06-27",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2000-06-27",
+ "year": "2000",
+ "heading": "HOTĂRÂRE din 27 iunie 2000",
+ "subtitle": "cauza Constantinescu împotriva României,",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "279",
+  "bis": false,
+  "date": "2001-05-30",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "no-violation"
+ ],
+ "case_name": "Constantinescu",
+ "subjects": [],
+ "operative": [
+  "CURTEA 1. hotărăşte, în unanimitate, ca reclamantul se poate considera \"victima\" unei încălcări a art. 6 alin. 1 din convenţie în sensul art. 34 din convenţie; 2. hotărăşte, cu 5 voturi pentru şi 2 împotriva, ca reclamantul se poate considera \"victima\" unei încălcări a art. 10 din convenţie în sensul art. 34 din convenţie; 3. hotărăşte, în unanimitate, ca a existat o încălcare a art. 6 alin. 1 din convenţie; 4. hotărăşte, cu 6 voturi pentru şi 1 vot împotriva, că nu a existat o încălcare a art. 10 din convenţie; 5. hotărăşte, în unanimitate",
+  "a) ca statul pârât trebuie să plătească reclamantului, în termen de 3 luni, 15.000 (cincisprezece mii) franci francezi, cu titlu de despăgubiri materiale şi morale, şi 20.000 (douăzeci de mii) franci francezi, cu titlu de cheltuieli de judecată, mai puţin 10.806 FRF şi 10 (zece) centime, convertibili în lei româneşti la rata de schimb de la data efectuării plăţilor;",
+  "b) ca aceste sume vor fi majorate cu o dobânda simpla de 2,47% pe an începând cu data expirării termenului menţionat mai sus şi până la data efectuării plăţilor;",
+  "6. respinge, în unanimitate, celelalte capete de cerere privind acordarea de despăgubiri."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "385-15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "385-16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "cedo: no application number"
+ ],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/28700",
+  "text_sha256": "66a252c5f1419093b0658c710a9113d1b6cd8008b598fd7dc26615c3da725155",
+  "catalogue_sha256": "66a252c5f1419093b0658c710a9113d1b6cd8008b598fd7dc26615c3da725155",
+  "fetched": "2026-11-02T23:14:23Z",
+  "chars": 43926,
+  "portal_id": "28700",
+  "tip": "HOTĂRÂRE"
+ }
+}
