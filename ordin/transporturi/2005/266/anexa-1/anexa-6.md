@@ -1,0 +1,13 @@
+# Anexa 6 la instrucțiuni ---------------
+AGENTUL ECONOMIC TRANSPORTATOR..........
+Nr..............
+DECONTUL biletelor speciale de călătorie pe calea ferată - cod statistic... rezultate din aplicarea Legii nr. 44/1994, republicată, cu modificările și completările ulterioare, în luna..... anul...... ────────────────────────────────────────────────────────────────────────────────
+Societatea
+Călători expediați
+Călători km
+Valoarea prestației (lei) ────────────────────────────────────────────────────────────────────────────────................................................................ Total societate:................................................ ────────────────────────────────────────────────────────────────────────────────
+Director general,.....................
+L.S.
+Semnătura
+DIRECȚIA ECONOMICĂ
+Director..................
