@@ -1,0 +1,341 @@
+{
+ "key": "dcc-70-1999",
+ "label": "Decizia CCR nr. 70/1999",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "alta",
+ "number": "70",
+ "date": "1999-05-05",
+ "year": "1999",
+ "heading": "DECIZIE nr. 70 din 5 mai 1999",
+ "subtitle": "asupra obiectiilor de neconstituţionalitate a dispoziţiilor art. 2 alin. (1), art. 6 alin. (1), art. 9, art. 11 alin. (2), art. 12 alin. (1) lit. B.h), art. 15 alin. (1), art. 17 alin. (1) şi (2), art. 18, art. 30 alin. (2) şi art. 45 din Legea privind organizarea şi desfăşurarea referendumului, adoptată de Camera Deputaţilor şi de Senat în şedinţele din 22 februarie 1999",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "221",
+  "bis": false,
+  "date": "1999-05-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "55A/1999"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Constata ca sunt neconstituţionale dispoziţiile art. 11 alin. (2), în ceea ce priveşte expresia \"anterior luării unor măsuri\", dispoziţiile art. 12 alin. (1) lit. B.h), în ceea ce priveşte expresia \"propuse Parlamentului\", precum şi dispoziţiile art. 45 din Legea privind organizarea şi desfăşurarea referendumului. 2. Constata ca sunt constituţionale dispoziţiile art. 2 alin. (1), ale art. 6 alin. (1), ale art. 9, ale art. 11 alin. (2), în ceea ce priveşte expresia \"caracter facultativ\", ale art. 15 alin. (1), ale art. 17 alin. (1) şi (2), ale art. 18 şi ale art. 30 alin. (2) din aceeaşi lege.",
+  "Decizia se trimite preşedintelui Camerei Deputaţilor şi preşedintelui Senatului, în vederea declanşării procedurii de reexaminare prevăzute la art. 145 alin. (1) din Constituţie.",
+  "Decizia se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "B.h"
+     ]
+    },
+    {
+     "art": "74",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "81",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "g",
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 102
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 68/1992",
+    "number": "68",
+    "year": "1992",
+    "path": "lege/1992/68"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 70/1991",
+    "number": "70",
+    "year": "1991",
+    "path": "lege/1991/70"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 69/1992",
+    "number": "69",
+    "year": "1992",
+    "path": "lege/1992/69"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 62/1992",
+    "number": "62",
+    "year": "1992",
+    "path": "lege/1992/62"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18170",
+  "text_sha256": "6e9a0fe965bcd34a64619138745c3507f500cb6edb6200c567429c90d9443a18",
+  "catalogue_sha256": "6e9a0fe965bcd34a64619138745c3507f500cb6edb6200c567429c90d9443a18",
+  "fetched": "2026-11-05T07:09:16Z",
+  "chars": 60147,
+  "portal_id": "18170",
+  "tip": "DECIZIE"
+ }
+}
