@@ -1,0 +1,175 @@
+{
+ "key": "dcc-440-2003",
+ "label": "Decizia CCR nr. 440/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "440",
+ "date": "2003-11-20",
+ "year": "2003",
+ "heading": "DECIZIE nr. 440 din 20 noiembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 127 din Ordonanţa Guvernului nr. 61/2002 privind colectarea creanţelor bugetare, republicată, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "51",
+  "bis": false,
+  "date": "2004-01-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "297C/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 61/2002",
+    "number": "61",
+    "year": "2002",
+    "path": "og/2002/61"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 127 din Ordonanţa Guvernului nr. 61/2002 privind colectarea creanţelor bugetare, republicată, cu modificările ulterioare, excepţie ridicată de Societatea Comercială \"SHORT PROD COM\" - S.R.L. din Brăila, C.N.M.P.N. \"REMIN\" - S.A. - Sucursala Minieră Baia Mare, Societatea Comercială \"DEMOPAN\" - S.A. din Galaţi, Societatea Comercială \"Predeal\" - S.A. şi Asociaţia Tinerilor Progresişti Argeş în dosarele nr. 2.675/C/2003, 2.442/2003 şi 1.975/C/2003 ale Judecătoriei Galaţi, nr. 3.336/2003 al Tribunalului Maramureş - Secţia Comercială, nr. 4.864/2003 al Judecătoriei Braşov şi nr. 2.982/2003 al Judecătoriei Piteşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 61/2002",
+    "number": "61",
+    "year": "2002",
+    "path": "og/2002/61"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-01-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49305",
+  "text_sha256": "2e38c6f06b21f94e2405491d5f667ca5bf5acdd387841776457557bde137f39a",
+  "catalogue_sha256": "2e38c6f06b21f94e2405491d5f667ca5bf5acdd387841776457557bde137f39a",
+  "fetched": "2026-11-02T23:34:13Z",
+  "chars": 12133,
+  "portal_id": "49305",
+  "tip": "DECIZIE"
+ }
+}
