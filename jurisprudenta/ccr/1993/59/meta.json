@@ -1,0 +1,125 @@
+{
+ "key": "dcc-59-1993",
+ "label": "Decizia CCR nr. 59/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "59",
+ "date": "1993-10-14",
+ "year": "1993",
+ "heading": "DECIZIA nr. 59 din 14 octombrie 1993",
+ "subtitle": "referitoare la soluţionarea recursului declarat de Pop Ileana împotriva Deciziei Curţii Constituţionale nr. 40 din 7 iulie 1993",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "278",
+  "bis": false,
+  "date": "1993-11-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "tardiva"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca tardiv introdus recursul declarat de Pop Ileana, domiciliata în Cluj-Napoca, str. Castanilor nr. 4, judeţul Cluj, împotriva Deciziei nr. 40 din 7 iulie 1993 a Curţii Constituţionale.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei din 1991",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-11-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3198",
+  "text_sha256": "921269c3e2bb37b2d87e4738c2ef365060e58213e9e86ac10059ea50483a8ea5",
+  "catalogue_sha256": "921269c3e2bb37b2d87e4738c2ef365060e58213e9e86ac10059ea50483a8ea5",
+  "fetched": "2026-11-02T22:42:14Z",
+  "chars": 3844,
+  "portal_id": "3198",
+  "tip": "DECIZIE"
+ }
+}
