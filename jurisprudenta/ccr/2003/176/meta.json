@@ -1,0 +1,234 @@
+{
+ "key": "dcc-176-2003",
+ "label": "Decizia CCR nr. 176/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "176",
+ "date": "2003-05-06",
+ "year": "2003",
+ "heading": "DECIZIE nr. 176 din 6 mai 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Ordonanţa de urgenta a Guvernului nr. 174/2001 privind unele măsuri pentru îmbunătăţirea finanţării învăţământului superior",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "400",
+  "bis": false,
+  "date": "2003-06-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 174/2001",
+    "number": "174",
+    "year": "2001",
+    "path": "oug/2001/174"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Ordonanţa de urgenta a Guvernului nr. 174/2001 privind unele măsuri pentru îmbunătăţirea finanţării învăţământului superior, excepţie ridicată de Universitatea \"Titu Maiorescu\" din Bucureşti în Dosarul nr. 2.426/LM/2002 al Tribunalului Bucureşti - Secţia a VIII-a Conflicte de muncă şi litigii de muncă, şi constata ca dispoziţiile menţionate sunt neconstituţionale.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 174/2001",
+    "number": "174",
+    "year": "2001",
+    "path": "oug/2001/174"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-06-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/44364",
+  "text_sha256": "432fb8fe5efee29fd67b84f922427a6067019d7150194b87ea056c404190744e",
+  "catalogue_sha256": "432fb8fe5efee29fd67b84f922427a6067019d7150194b87ea056c404190744e",
+  "fetched": "2026-11-02T23:29:29Z",
+  "chars": 26604,
+  "portal_id": "44364",
+  "tip": "DECIZIE"
+ }
+}
