@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 22 din 16 aprilie 1992  privind demisia unor deputaţi     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 77 din 29 aprilie 1992     În temeiul art. 67 alin. (2) şi art. 68 alin. (2) din Constituţia României, precum şi al art. 166 din Regulamentul Camerei Deputaţilor,  Camera Deputaţilor hotărăşte:
+				 +
+			  Articolul UNIC     Camera Deputaţilor ia act de cererile de demisie prezentate de domnii Tocoian Iosif, deputat în Circumscripţia electorală nr. 5 Bihor, aparţinînd Grupului parlamentar al Frontului Salvării Naţionale, şi Popescu Bejat Ştefan, deputat în Circumscripţia electorală nr. 20 Gorj, aparţinînd Grupului parlamentar al Frontului Salvării Naţionale, şi declară vacante locurile de deputat deţinute de aceştia.  PREŞEDINTELE CAMEREI DEPUTAŢILOR  MARŢIAN DAN  Bucureşti, 16 aprilie 1992.  Nr. 22.  ----------
