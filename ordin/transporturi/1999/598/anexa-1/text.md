@@ -1,0 +1,16 @@
+# Anexa nr. 1
+OBIECTIVELE controlului specific al vehiculelor rutiere, efectuat de către Ministerul Transporturilor la punctele de control pentru trecerea frontierei de stat a României
+Controlul specific al vehiculelor rutiere se execută în cooperare cu Poliția de Frontieră Română pe ambele sensuri de trecere prin punctul de frontieră, în conformitate cu legislația și cu reglementările în vigoare, și are următoarele obiective principale:
+Nr. crt. Obiectivele controlului specific Executantul controlului
+1. Stabilirea categoriei și a tipului de transport Administrația Națională a Drumurilor din România și Autoritatea Rutieră Română - A.R.R.
+2. Îndeplinirea condițiilor de operare a transporturilor rutiere, în conformitate cu prevederile Ordonanței Guvernului nr. 44/1997 privind transporturile rutiere, modificată și completată prin Ordonanța Guvernului nr. 73/1998, prin următoarele verificări:
+- existența la bordul vehiculelor a documentelor prevăzute în anexa nr. 2 la ordin;
+- modul de utilizare a licențelor și de respectare a prevederilor caietelor de sarcini ale acestora;
+- utilizarea de către operatorii de transport români a unor conducători auto străini fără drept de muncă în România; Autoritatea Rutieră Română - A.R.R. în cooperare cu Poliția de Frontieră Română
+- efectuarea de transporturi publice de persoane în trafic internațional numai cu autobuze și cu autocare clasificate pe stele sau pe categorii, după caz;
+- respectarea condițiilor referitoare la conducătorul auto, la marfă și la vehicul, impuse în cazul transporturilor de mărfuri periculoase sau perisabile și de animale vii;
+- respectarea de către conducătorii auto a timpilor de conducere și de repaus, stabiliți conform prevederilor Acordului european privind activitatea echipajelor vehiculelor care efectuează transporturi rutiere internaționale (A.E.T.R.)
+3. Controlul autorizațiilor de transport internațional rutier pentru autovehicule înmatriculate în alte țări și vizarea acestora la fiecare intrare/ieșire în/din România Administrația Națională a Drumurilor din România
+4. Măsurarea și cântărirea autovehiculelor pentru verificarea încadrării acestora în limitele prevăzute de legislația în vigoare Administrația Națională a Drumurilor din România
+5. Stabilirea traseului de parcurs în funcție de destinația transportului (localitatea din România și punctul de control pentru trecerea frontierei - ieșire pentru tranzit), caracteristicile de greutate totală pe osii și dimensiunile de gabarit și de restricțiile de circulație existente pe rețeaua de drumuri naționale. Eliberarea documentului constând în matcă+talon+chitanță (MTC) specifice, care cuprinde caracteristicile transportului, traseul ce urmează a fi parcurs și eventuala tarifare Administrația Națională a Drumurilor din România, la intrarea în România
+6. Verificarea respectării traseului, a distanțelor parcurse pe categorii de drumuri, a caracteristicilor tehnice, cu tratarea corespunzătoare a eventualelor diferențe față de cele constatate la intrare, inclusiv tarifarea acestora, cu reținerea talonului din MTC eliberat la intrare și eliberarea unui alt talon și a unei alte chitanțe la ieșire. Administrația Națională a Drumurilor din România, la ieșirea din România
