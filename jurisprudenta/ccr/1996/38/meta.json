@@ -1,0 +1,187 @@
+{
+ "key": "dcc-38-1996",
+ "label": "Decizia CCR nr. 38/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "38",
+ "date": "1996-04-03",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 38*) din 3 aprilie 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 din Legea nr. 76/1992",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "165",
+  "bis": false,
+  "date": "1996-07-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "10.739/1994",
+  "2.234/1995",
+  "1.874/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1992",
+    "number": "76",
+    "year": "1992",
+    "path": "lege/1992/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Conexeaza dosarele nr. 12 C/1996, nr. 13 C/1996, nr. 20 C/1996 şi nr. 24 C/1996 la Dosarul nr. 3 C/1996. 2. Respinge ca vadit nefondate excepţiile de neconstituţionalitate a dispoziţiilor art. 7 din Legea nr. 76/1992, invocate de Societatea Comercială \"Crisana Comtur\" - S.R.L. în Dosarul nr. 1.594/C/1995 al Curţii de Apel Oradea, de Societatea Comercială \"Bonaluci Prod.\" - S.R.L. Oradea în Dosarul nr. 1.426/C/1995 al Curţii de Apel Oradea, de Pantea Ilie în Dosarul nr. 10.739/1994 al Judecătoriei Oradea, de Tribunalul Ialomita, din oficiu, în Dosarul nr. 2.234/1995 şi de Societatea Comercială \"TVS Holding\" - S.R.L. Oradea în Dosarul nr. 1.874/1995 al Tribunalului Bihor.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1992",
+    "number": "76",
+    "year": "1992",
+    "path": "lege/1992/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8194",
+  "text_sha256": "b304eb8c4c4167055a7b279a19bdfac3d609531e804432a04c56860d4c1681f3",
+  "catalogue_sha256": "b304eb8c4c4167055a7b279a19bdfac3d609531e804432a04c56860d4c1681f3",
+  "fetched": "2026-11-02T22:51:21Z",
+  "chars": 8835,
+  "portal_id": "8194",
+  "tip": "DECIZIE"
+ }
+}
