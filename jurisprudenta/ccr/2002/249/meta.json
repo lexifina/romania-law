@@ -1,0 +1,202 @@
+{
+ "key": "dcc-249-2002",
+ "label": "Decizia CCR nr. 249/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "249",
+ "date": "2002-09-17",
+ "year": "2002",
+ "heading": "DECIZIE nr. 249 din 17 septembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1), (2) şi (4) din Ordonanţa de urgenta a Guvernului nr. 115/2001 privind reglementarea unor măsuri de asigurare a fondurilor necesare în vederea furnizarii energiei termice şi a gazelor naturale pentru populaţie, aprobată şi modificată prin Legea nr. 84/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "745",
+  "bis": false,
+  "date": "2002-10-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "93/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 115/2001",
+    "number": "115",
+    "year": "2001",
+    "path": "oug/2001/115"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1), (2) şi (4) din Ordonanţa de urgenta a Guvernului nr. 115/2001 privind reglementarea unor măsuri de asigurare a fondurilor necesare în vederea furnizarii energiei termice şi a gazelor naturale pentru populaţie, aprobată şi modificată prin Legea nr. 84/2002, excepţie ridicată de Societatea Comercială \"Onedil\" - S.A. din Onesti în Dosarul nr. 93/2002 al Judecătoriei Onesti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 115/2001",
+    "number": "115",
+    "year": "2001",
+    "path": "oug/2001/115"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b",
+      "f"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-10-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38898",
+  "text_sha256": "8a6b9984f1b5ff24669f51e3f1966719ac195b677e02390dc67593b449b80bd9",
+  "catalogue_sha256": "8a6b9984f1b5ff24669f51e3f1966719ac195b677e02390dc67593b449b80bd9",
+  "fetched": "2026-11-02T23:24:11Z",
+  "chars": 17095,
+  "portal_id": "38898",
+  "tip": "DECIZIE"
+ }
+}
