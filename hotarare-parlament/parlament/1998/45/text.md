@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 45 din 26 noiembrie 1998  pentru prorogarea termenului prevăzut în  Hotărârea Parlamentului României nr. 24/1998      EMITENT     PARLAMENTUL       Publicat în
+			  MONITORUL OFICIAL nr. 459 din 30 noiembrie 1998     Parlamentul României adopta prezenta hotărâre.
+				 +
+			  Articolul UNIC     Termenul prevăzut în  Hotărârea Parlamentului României nr. 24/1998  privind mandatul membrilor Consiliului de administraţie al Băncii Naţionale a României, publicată în Monitorul Oficial al României, Partea I, nr. 257 din 9 iulie 1998, se proroga până la 23 decembrie 1998.  Termenul prevăzut la alin. 1 se aplică şi Comisiei de cenzori.  Aceasta hotărâre a fost adoptată de Camera Deputaţilor şi de Senat în şedinţa comuna din 26 noiembrie 1998, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României.  p. PREŞEDINTELE CAMEREI DEPUTAŢILOR,  VASILE LUPU  p. PREŞEDINTELE SENATULUI,  ULM SPINEANU  ---------
