@@ -1,0 +1,273 @@
+{
+ "key": "dcc-449-2004",
+ "label": "Decizia CCR nr. 449/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "449",
+ "date": "2004-10-26",
+ "year": "2004",
+ "heading": "DECIZIE nr. 449 din 26 octombrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 183 alin. (1) lit. a) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1144",
+  "bis": false,
+  "date": "2004-12-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "183",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 183 alin. (1) lit. a) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, excepţie ridicată de Societatea Comercială \"Biarone Tehno\" - S.R.L. din Oradea în Dosarul nr. 9.142/CA/2003 al Tribunalului Bihor - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "178",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "183",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "176",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "179",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-12-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57368",
+  "text_sha256": "d6aa28217e184a9be55794fb70be4fa674001b937f461bfb672c31e8a49e745f",
+  "catalogue_sha256": "d6aa28217e184a9be55794fb70be4fa674001b937f461bfb672c31e8a49e745f",
+  "fetched": "2026-11-02T23:46:56Z",
+  "chars": 11370,
+  "portal_id": "57368",
+  "tip": "DECIZIE"
+ }
+}
