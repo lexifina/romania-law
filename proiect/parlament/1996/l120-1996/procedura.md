@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 1997-11-19: registered at the Chamber of Deputies
 - 1998-02-03: adopted by the Chamber of Deputies
 - 1998-02-23: promulgated, becomes Legea nr. 46/1998; documents published: Decret de promulgare, Forma promulgată
+- 1998-02-25: published in the Monitorul Oficial
 
 ## Documents
 
