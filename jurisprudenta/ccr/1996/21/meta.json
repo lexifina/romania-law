@@ -1,0 +1,116 @@
+{
+ "key": "dcc-21-1996",
+ "label": "Decizia CCR nr. 21/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "21",
+ "date": "1996-02-27",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 21*) din 27 februarie 1996",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 46 din regulamentul aprobat prin H.C.M. nr. 941/1959",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "95",
+  "bis": false,
+  "date": "1996-05-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "949/1995",
+  "4.404/1994"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 46 din regulamentul aprobat prin H.C.M. nr. 941/1959, invocată, din oficiu, de Curtea de Apel Constanta în Dosarul nr. 949/1995.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-05-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8016",
+  "text_sha256": "eefad52bcd549066c8de8b75350605a72d3a6b287f0557e7c41cbd4ebae92f2e",
+  "catalogue_sha256": "eefad52bcd549066c8de8b75350605a72d3a6b287f0557e7c41cbd4ebae92f2e",
+  "fetched": "2026-11-02T22:50:34Z",
+  "chars": 3568,
+  "portal_id": "8016",
+  "tip": "DECIZIE"
+ }
+}
