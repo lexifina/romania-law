@@ -1,0 +1,204 @@
+{
+ "key": "dcc-64-2000",
+ "label": "Decizia CCR nr. 64/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "64",
+ "date": "2000-04-11",
+ "year": "2000",
+ "heading": "DECIZIE nr. 64 din 11 aprilie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor alin. 25^1 al art. 34 din Ordonanţa de urgenta a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte, dispoziţii introduse prin Ordonanţa Guvernului nr. 1/1999, precum şi a dispoziţiilor alin. 26-28 ale aceluiaşi articol, modificate prin Legea nr. 148/1999 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 50/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "332",
+  "bis": false,
+  "date": "2000-07-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.267/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 82/1997",
+    "number": "82",
+    "year": "1997",
+    "path": "oug/1997/82"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor alin. 25^1 al art. 34 din Ordonanţa de urgenta a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte, dispoziţii introduse prin Ordonanţa Guvernului nr. 1/1999, precum şi a dispoziţiilor alin. 26-28 ale aceluiaşi articol, modificate prin Legea nr. 148/1999 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 50/1998, excepţie ridicată de Societatea Comercială \"Scorpion\" - S.R.L. din Anina, judeţul Caraş-Severin, în Dosarul nr. 1.267/1999 al Judecătoriei Oravita.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 82/1997",
+    "number": "82",
+    "year": "1997",
+    "path": "oug/1997/82"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "25-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 50/1998",
+    "number": "50",
+    "year": "1998",
+    "path": "oug/1998/50"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "25"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 1/1999",
+    "number": "1",
+    "year": "1999",
+    "path": "oug/1999/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 82/1997",
+    "number": "82",
+    "year": "1997",
+    "path": "og/1997/82"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "25"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23342",
+  "text_sha256": "6261ab4c5ca48b747779a0b3e680b38236a00195a87a2252532fdb9a8b0da9c3",
+  "catalogue_sha256": "6261ab4c5ca48b747779a0b3e680b38236a00195a87a2252532fdb9a8b0da9c3",
+  "fetched": "2026-11-02T23:09:41Z",
+  "chars": 10090,
+  "portal_id": "23342",
+  "tip": "DECIZIE"
+ }
+}
