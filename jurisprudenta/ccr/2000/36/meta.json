@@ -1,0 +1,200 @@
+{
+ "key": "dcc-36-2000",
+ "label": "Decizia CCR nr. 36/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "36",
+ "date": "2000-02-29",
+ "year": "2000",
+ "heading": "DECIZIE nr. 36 din 29 februarie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei Guvernului nr. 13/1998 privind modificarea şi completarea Codului de procedura civilă, precum şi a dispoziţiilor art. 287 şi 288^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "460",
+  "bis": false,
+  "date": "2000-09-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.089/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 13/1998",
+    "number": "13",
+    "year": "1998",
+    "path": "og/1998/13"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "288-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor Ordonanţei Guvernului nr. 13/1998 privind modificarea şi completarea Codului de procedura civilă, precum şi a dispoziţiilor art. 287 şi 288^1 din Codul de procedură civilă, excepţie ridicată de Oprea Dragomir în Dosarul nr. 3.089/1999 al Tribunalului Teleorman.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 13/1998",
+    "number": "13",
+    "year": "1998",
+    "path": "og/1998/13"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "288-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/1997",
+    "number": "221",
+    "year": "1997",
+    "path": "lege/1997/221"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "t"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-09-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24289",
+  "text_sha256": "ef6a513ea9ecb3c75153779151534e9d537f0464fbbe6a0a4be91422724a2696",
+  "catalogue_sha256": "ef6a513ea9ecb3c75153779151534e9d537f0464fbbe6a0a4be91422724a2696",
+  "fetched": "2026-11-02T23:10:29Z",
+  "chars": 12295,
+  "portal_id": "24289",
+  "tip": "DECIZIE"
+ }
+}
