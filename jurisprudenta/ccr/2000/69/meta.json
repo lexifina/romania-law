@@ -1,0 +1,212 @@
+{
+ "key": "dcc-69-2000",
+ "label": "Decizia CCR nr. 69/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "69",
+ "date": "2000-04-18",
+ "year": "2000",
+ "heading": "DECIZIE nr. 69 din 18 aprilie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. 1 lit. e) din Legea nr. 32/1991 privind impozitul pe salarii, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "334",
+  "bis": false,
+  "date": "2000-07-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "2.685/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1991",
+    "number": "32",
+    "year": "1991",
+    "path": "lege/1991/32"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. 1 lit. e) din Legea nr. 32/1991 privind impozitul pe salarii, republicată, excepţie ridicată de Anton Stoicheci în Dosarul nr. 2.685/1999 al Tribunalului Buzau - Secţia civilă, constatând ca excepţia a devenit inadmisibila.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1991",
+    "number": "32",
+    "year": "1991",
+    "path": "lege/1991/32"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 73/1999",
+    "number": "73",
+    "year": "1999",
+    "path": "og/1999/73"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 566/1996",
+    "number": "566",
+    "year": "1996",
+    "path": "hg/1996/566"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-07-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23602",
+  "text_sha256": "db2d2aa86b1b439778cc4581f696e526104f934c534b6581859c14df7faf81cb",
+  "catalogue_sha256": "db2d2aa86b1b439778cc4581f696e526104f934c534b6581859c14df7faf81cb",
+  "fetched": "2026-11-02T23:09:43Z",
+  "chars": 8776,
+  "portal_id": "23602",
+  "tip": "DECIZIE"
+ }
+}
