@@ -1,0 +1,43 @@
+02/Volumul 08 | RO | Jurnalul Ofícial al Uniunii Europene | 241
+31996R1308
+L 167/19 | JURNALUL OFÍCIAL AL UNIUNII EUROPENE |
+REGULAMENTUL (CE) NR. 1308/96 AL COMISIEI
+din 4 iulie 1996
+privind clasificarea anumitor mărfuri în Nomenclatura Combinată
+COMISIA COMUNITĂȚILOR EUROPENE,
+având în vedere Tratatul de instituire a Comunității Europene,
+având în vedere Regulamentul (CEE) nr. 2658/87 al Consiliului din 23 iulie 1987 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun(1), astfel cum a fost modificat ultima dată prin Regulamentul (CE) nr. 1192/96(2), în special articolul 9,
+întrucât, pentru a asigura aplicarea uniformă a Nomenclaturii Combinate anexate regulamentului menționat anterior, trebuie stabilite dispoziții privind clasificarea mărfurilor incluse în anexa la prezentul regulament;
+întrucât Regulamentul (CEE) nr. 2658/87 a stabilit regulile generale de interpretare a Nomenclaturii Combinate; întrucât aceste reguli se aplică, de asemenea, oricărei alte nomenclaturi care o include pe aceasta, chiar parțial sau, eventual, adăugând-i subdiviziuni și care se stabilește prin reglementări comunitare specifice, în vederea aplicării de măsuri tarifare sau de altă natură, în cadrul schimburilor de mărfuri;
+întrucât, pentru aplicarea regulilor generale menționate, mărfurile descrise în coloana 1 a tabelului inclus în anexa la prezentul regulament trebuie clasificate în codurile NC corespunzătoare, indicate în coloana 2, în conformitate cu explicațiile incluse în coloana 3;
+întrucât este oportun ca, sub rezerva măsurilor în vigoare din Comunitate privind sistemul dublu de control și de supraveghere comunitară preventivă și a posteriori a produselor textile la importul în Comunitate, informațiile tarifare obligatorii, date de autoritățile vamale ale statelor membre în ceea ce privește clasificarea mărfurilor în nomenclatura vamală, care nu sunt conforme cu prezentul regulament, să poată fi în continuare invocate de către titularul acestora, pe o perioadă de 60 de zile, în conformitate cu dispozițiile articolului 12 alineatul (6) din Regulamentul (CEE) nr. 2913/92 al Consiliului din 12 octombrie 1992 de instituire a Codului Vamal Comunitar(3);
+întrucât măsurile prevăzute de prezentul regulament sunt conforme cu avizul Secției pentru Nomenclatura tarifară și statistică a Comitetului pentru Codul Vamal,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Mărfurile descrise în coloana 1 din tabelul inclus în anexă sunt clasificate în Nomenclatura Combinată în codurile NC corespunzătoare, indicate în coloana 2a tabelului menționat.
+Articolul 2
+Sub rezerva măsurilor în vigoare din Comunitate privind sistemul dublu de control și de supraveghere comunitară preventivă și a posteriori a produselor textile la importul în Comunitate, informațiile tarifare obligatorii, date de autoritățile vamale ale statelor membre în ceea ce privește clasificarea mărfurilor în nomenclatura vamală, care nu sunt conforme cu prezentul regulament, pot fi în continuare invocate, în conformitate cu dispozițiile articolului 12 alineatul (6) din Regulamentul (CEE) nr. 2913/92, pe o perioadă de 60 de zile.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzeci și una zi de la data publicării în Jurnalul Oficial al Comunităților Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 4 iulie 1996.
+Pentru Comisie
+Mario MONTI
+Membru al Comisiei
+(1) JO L 256, 7.9.1987, p. 1.
+(2) JO L 156, 29.6.1996, p. 15.
+(3) JO L 302, 19.10.1992, p. 1.
+ANEXĂ
+Descrierea mărfurilor | Clasificare (codul NC) | Explicație
+(1) | (2) | (3)
+1. Articol de îmbrăcăminte din țesătură (100 % bumbac), destinat să acopere partea inferioară a corpului, de la talie până deasupra genunchilor, care îmbracă separat fiecare picior, fără deschidere frontală, cu buzunare pe părțile laterale. La nivelul taliei se strânge cu un elastic și cu o bandă culisantă, cusută pe partea din față, care permite ajustarea acesteia cu ajutorul unei catarame situate pe partea stângă. Acest articol de îmbrăcăminte prezintă, de asemenea, pe partea din față un șliț fals (cusut), cu o clapă suprapusă partea stângă peste partea dreaptă (închidere falsă) (șort). (a se vedea fotografia nr. 547)(1) | 6204 62 90 | Clasificarea este conformă cu dispozițiile cuprinse în regulile generale 1 și 6 de interpretare a Nomenclaturii Combinate, cu nota 8 din capitolul 62, precum și cu textul codurilor NC 6204, 6204 62 și 6204 62 90. Nici șlițul fals, nici poziția cataramei nu permit să se stabilească dacă este vorba de un articol de îmbrăcăminte pentru bărbați sau băieți.
+2. Două articole de îmbrăcăminte ambalate pentru vânzarea cu amănuntul, constând din: | | Clasificarea este conformă cu dispozițiile cuprinse în regulile generale 1 și 6 de interpretare a Nomenclaturii Combinate, cu nota 13 din secțiunea XI, cu nota 5 din capitolul 62 pentru articolul de îmbrăcăminte descris la litera (a), cu nota 8 din capitolul 62, precum și cu textul codurilor NC 6202, 6202 93 00, 6210 și 6210 40 00.
+(a) un articol de îmbrăcăminte în două culori, confecționat din două tipuri de țesături (100 % nailon acoperit cu material plastic vizibil cu ochiul liber), ușor, larg, destinat să acopere partea superioară a corpului și care coboară până deasupra jumătății coapsei. Prezintă o deschidere completă în partea din față, cu închidere cu fermoar și are o clapă de protecție prevăzută cu capse care permite o închidere partea stângă peste partea dreaptă. Acest articol de îmbrăcăminte prezintă, de asemenea, un guler înalt, aplicat prin coasere, o glugă cu șnur reglabil care poate fi introdusă într-un buzunar situat în guler, mâneci lungi cu strângere la capete și două buzunare aplicate pe partea din față, care se închid cu fermoar. Acesta prezintă, de asemenea, elemente de strângere cu șnur culisant la nivelul gulerului, al taliei și la bază, benzi „velcro” (scai) la nivelul gulerului și la capetele mânecilor, o căptușeală parțială în partea superioară a hainei (100 % nailon), un element decorativ aplicat pe mâneca stângă și un logo brodat la nivelul pieptului. (a se vedea fotografia nr. 545 A)(1) | 6210 40 00
+(b) un articol de îmbrăcăminte în două culori, confecționat din două tipuri de țesături (100 % nailon), larg, destinat să acopere partea superioară a corpului, care coboară până deasupra jumătății coapsei, cu deschidere completă pe partea din față, cu închidere cu fermoar. Prezintă mâneci lungi cu borduri tricotate la capete, un guler din catifea, aplicat prin coasere și două buzunare aplicate pe partea din față, care se închid cu fermoar. Acest articol de îmbrăcăminte are, de asemenea, un logo brodat pe partea din față, un element care se strânge pe talie cu șnur culisant și o căptușeală matlasată, prevăzută cu buzunar interior. (a se vedea fotografia nr. 545 B)(1) | 6202 93 00
+Cele două articole de îmbrăcăminte pot fi utilizate separat și pot fi unite cu ajutorul unui sistem de benzi „velcro”(scai) la nivelul gulerului, de capse interioare la capetele mânecilor și fermoar la nivelul deschiderii frontale.
+3. Patru articole de îmbrăcăminte, confecționate din material textil (100 % bumbac), cu un motiv decorativ imprimat, reprodus pe fiecare dintre ele, prezentate în același ambalaj pentru vânzarea cu amănuntul, cuprinzând: | | Clasificarea este conformă cu dispozițiile cuprinse în regulile generale 1 și 6 de interpretare a Nomenclaturii Combinate, cu regula generală 3 litera (b) de interpretare a Nomenclaturii Combinate în ceea ce privește setul menționat la punctul (I), precum și cu textul codurilor NC 6211, 6211 42, 6211 42 10, 6302 și 6302 60 00. Prosopul, neavând o funcție suplimentară celei pe care o au celelalte trei piese, nu poate fi considerat ca făcând parte din set și trebuie clasificat separat. [A se vedea, de asemenea, notele explicative ale Sistemului Armonizat privind regula generală 3 litera (b) de interpretare a Nomenclaturii, punctul (X)].
+I. un set de trei articole, confecționate din aceleași două țesături imprimate multicolore, constând din: (a) o mănușă căptușită cu fibre textile care asigură izolarea termică, prevăzută cu un dispozitiv pentru agățarea ei; (a se vedea fotografia nr. 546 A)(1) (b) o mănușă de protecție, având o formă pătrată, căptușită cu fibre textile, care asigură izolarea termică, prevăzută cu un dispozitiv pentru agățarea ei; (vezi fotografia nr. 546 B)(1) (c) un șorț de bucătărie; (a se vedea fotografia nr. 546 D)(1) | 6211 42 10
+II. un prosop confecționat dintr-o țesătură plușată tip burete, cu franjuri la ambele capete și tivit pe părțile laterale. (a se vedea fotografia nr. 546 C)(1) | 6302 60 00
+[figură]
+[figură]
+(1) Fotografiile au un caracter pur orientativ.
