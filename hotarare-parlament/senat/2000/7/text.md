@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 7 din 3 februarie 2000  privind prelungirea datei depunerii Raportului Comisiei pentru buget, finanţe şi bănci a Senatului privind iniţierea unei anchete (analize) asupra oportunităţii alocării unor fonduri de la bugetul de stat pentru BANCOREX     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 58 din 8 februarie 2000     Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Comisia pentru buget, finanţe şi bănci a Senatului îşi va continua activitatea de ancheta (analiza) asupra oportunităţii alocării unor fonduri de la bugetul de stat pentru BANCOREX, activitate încuviinţată prin  Hotărârea Senatului nr. 10/1999 , iar raportul va fi depus până la data de 30 aprilie 2000.  Aceasta hotărâre a fost adoptată de Senat în şedinţa din 3 februarie 2000, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României.  p. PREŞEDINTELE SENATULUI,  CONSTANTIN DAN VASILIU  ---------------
