@@ -1,0 +1,10 @@
+# HCL Dolhești nr. 13/2004
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Dolhești
+- Decision: nr. 13/2004
+- Adopted: 2004-09-15
+- Record: https://comuna-dolhesti.ro/hcl_2026/
+- Document: https://comuna-dolhesti.ro/wp-content/uploads/2026/04/HCL-nr.-13-15-din-09.04.2026.pdf
+- Document sha256: 4c405ae34ca5c79cba23c550e1690bbce63e198b3d0870781d0df7d2c89fb689
