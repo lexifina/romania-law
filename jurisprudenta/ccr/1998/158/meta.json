@@ -1,0 +1,359 @@
+{
+ "key": "dcc-158-1998",
+ "label": "Decizia CCR nr. 158/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "158",
+ "date": "1998-11-10",
+ "year": "1998",
+ "heading": "DECIZIE nr. 158 din 10 noiembrie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 72 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată şi modificată prin Legea nr. 108/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "77",
+  "bis": false,
+  "date": "1999-02-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "501/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 72 din Ordonanţa Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată şi modificată prin Legea nr. 108/1996, ridicată de Banca Română de Comerţ Exterior - S.A. - Sucursala Lipscani Bucureşti în Dosarul nr. 501/1997 al Tribunalului Constanta - Secţia comercială.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b",
+      "f"
+     ]
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "572",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "573",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "574",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "575",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "576",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "577",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "578",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "579",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "580",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "372",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "409",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/1995",
+    "number": "130",
+    "year": "1995",
+    "path": "lege/1995/130"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1686",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1753",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1687",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1695",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1768",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1778",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1779",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1780",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1781",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1782",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1783",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1784",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1785",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1786",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1787",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1725",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 221/1960",
+    "number": "221",
+    "year": "1960",
+    "path": "decret/1960/221"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-02-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/17006",
+  "text_sha256": "ebc484e637e8b5e3be81f983cfc19435ff621af57448f0c806f92a52dae34297",
+  "catalogue_sha256": "ebc484e637e8b5e3be81f983cfc19435ff621af57448f0c806f92a52dae34297",
+  "fetched": "2026-11-02T23:03:00Z",
+  "chars": 21196,
+  "portal_id": "17006",
+  "tip": "DECIZIE"
+ }
+}
