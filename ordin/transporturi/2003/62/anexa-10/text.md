@@ -1,0 +1,2 @@
+# Anexa J
+OPERAȚIUNILE de tratare pentru promovarea reciclarii componentelor rezultate din dezmembrare 1. Înlăturarea catalizatorilor 2. Înlăturarea componentelor de metal cu conținut de cupru, aluminiu și magneziu, dacă aceste materiale nu sunt separate în procesul de tăiere. 3. Înlăturarea anvelopelor și a părților mari din plastic (bare de protecție, tablouri de bord, containere pentru lichide etc.) 4. Înlăturarea părților de sticlă ──────────────────

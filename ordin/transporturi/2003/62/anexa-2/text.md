@@ -1,0 +1,19 @@
+# Anexa A
+1. ACTIVITĂȚILE DE REPARAȚII ȘI ÎNTREȚINERE PENTRU CARE ESTE NECESARĂ AUTORIZAREA 1.1. Activitățile care constau în repararea, întreținerea și/sau reglari ale ansamblurilor mecanice:
+a) motor și instalațiile anexe de alimentare prin carburatie / injecție mas/mac, de răcire, de evacuare, de pornire integrată și/sau independenta și componentele acestora;
+b) ambreiaj, transmisie, cutie de viteze mecanică/automată și componentele acestora;
+c) sistemul de rulare și componentele acestuia;
+d) sistemul de direcție și componentele acestuia;
+e) sistemul de franare și componentele acestuia.
+1.2. Activitățile care constau în repararea, întreținerea și/sau reglari ale echipamentului electric și/sau electronic:
+a) instalatia electrica de iluminare și semnalizare și componentele acesteia;
+b) instalatia electrica de pornire a motorului, încărcare a bateriilor de acumulatori și componentele acestora;
+c) sistemul de gestiune electronică a motorului și/sau a sistemelor autovehiculului.
+1.3. Activitățile de reparații și/sau redresari ale structurii caroseriei:
+a) reparații ale caroseriei fără structura de rezistenta, care necesita demontarea de componente mecanice și/sau electrice;
+b) reparații ale structurii de rezistenta a caroseriei;
+c) redresarea structurii de rezistenta a caroseriei.
+1.4. Activități de reparare a anvelopelor și camerelor de aer:
+a) la rece;
+b) la cald, prin vulcanizare.
+1.5. Acoperirea de protecție anticorosiva a caroseriei vehiculelor și/sau componentelor acestora (vopsire, terosonare, polisare etc.) 1.6. Activitățile de montare, reparare, verificare a unor componente sau echipamente (vezi anexa H) 1.7. Activitățile de modificări constructive și reconstrucție a vehiculelor rutiere 1.8. La cerere, RAR va putea efectua evaluarea și autorizarea în conformitate cu prezentele norme metodologice pentru repararea componentelor demontate de pe vehicul, altele decât cele prevăzute la pct. 1.1, 1.2 și 1.3. 1.9. Autorizarea se acordă fără discriminare tuturor agenților economici pentru care raportul de evaluare confirma ca îndeplinesc condițiile minimale prezentate în anexa D, aplicabile activităților pentru care solicită autorizarea. 1.10. Autorizarea se acordă pentru una sau mai multe dintre lucrările prezentate la pct. 1.1, 1.2, 1.3, 1.4, 1.5, 1.6 și 1.7 sau pentru operații distincte ale acestora. 2. CLASIFICAREA AGENȚILOR ECONOMICI În funcție de complexitatea activităților de reparații și/sau reglari pe care le executa, de mărcile/tipurile de vehicule, precum și de abilitarea din partea constructorului, agenții economici se clasifica în șase clase: Clasa I - Reparații/montare cu abilitare din partea constructorului Reparare, întreținere și reglare pentru mărci și categorii de vehicule. Clasa II - Reparații/montare fără abilitare din partea constructorului Reparare, întreținere și reglare pentru mărci de vehicule, limitat pe tipuri și/sau pe an de fabricație (dispunând de manuale de reparații și SDV-uri corespunzătoare) Clasa III - Reglari generale Reglari sisteme și/sau componente ale vehiculelor rutiere, schimb de materiale consumabile, prezentate în cataloage și/sau în baze de date ale echipamentelor, manuale de întreținere a vehiculelor, manuale de reparații pe suport de hârtie sau informatic etc.; Clasa IV - Repararea anvelopelor și/sau a camerelor de aer Operațiile de demontare/montare, lipire și/sau vulcanizare a camerelor de aer și/sau anvelopelor, conform condițiilor minimale tehnice și tehnologice emise de factori autorizați, privind repararea anvelopelor și camerelor de aer Clasa V - Acoperirea anticorosiva a caroseriei și componentele acesteia Operațiile de acoperire anticorosiva, conform condițiilor minimale tehnice și tehnologice adecvate Clasa VI - Dezmembrare Operațiile de demontare a unor componente de pe vehicule, conform tehnologiilor specifice adecvate.
