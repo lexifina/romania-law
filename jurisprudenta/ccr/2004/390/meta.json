@@ -1,0 +1,198 @@
+{
+ "key": "dcc-390-2004",
+ "label": "Decizia CCR nr. 390/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "390",
+ "date": "2004-10-05",
+ "year": "2004",
+ "heading": "DECIZIE nr. 390 din 5 octombrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 56^1 alin. (1) lit. a) din Legea nr. 192/2001 privind resursele acvatice vii, pescuitul şi acvacultura, republicată, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "984",
+  "bis": false,
+  "date": "2004-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "246/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2001",
+    "number": "192",
+    "year": "2001",
+    "path": "lege/2001/192"
+   },
+   "articles": [
+    {
+     "art": "56-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 56^1 alin. (1) lit. a) din Legea nr. 192/2001 privind resursele acvatice vii, pescuitul şi acvacultura, republicată, cu modificările şi completările ulterioare, excepţie ridicată de Marcel Paimschi, Andrei Paimschi şi Ionel Paimschi în Dosarul nr. 246/2004 al Judecătoriei Tulcea.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2001",
+    "number": "192",
+    "year": "2001",
+    "path": "lege/2001/192"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "56-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 298/2004",
+    "number": "298",
+    "year": "2004",
+    "path": "lege/2004/298"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/56116",
+  "text_sha256": "94da6d1b2fecfbc96207b75a41413738d6d8cdfaf2fe877ffc07e4f9de61c577",
+  "catalogue_sha256": "94da6d1b2fecfbc96207b75a41413738d6d8cdfaf2fe877ffc07e4f9de61c577",
+  "fetched": "2026-11-02T23:41:16Z",
+  "chars": 11799,
+  "portal_id": "56116",
+  "tip": "DECIZIE"
+ }
+}
