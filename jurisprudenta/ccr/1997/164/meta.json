@@ -1,0 +1,151 @@
+{
+ "key": "dcc-164-1997",
+ "label": "Decizia CCR nr. 164/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "164",
+ "date": "1997-06-04",
+ "year": "1997",
+ "heading": "DECIZIE nr. 164 din 4 iunie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei Guvernului nr. 32/1995 privind timbrul judiciar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "148",
+  "bis": false,
+  "date": "1997-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "784/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 32/1995",
+    "number": "32",
+    "year": "1995",
+    "path": "og/1995/32"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Petrosanu Ionel împotriva Deciziei Curţii Constituţionale nr. 18 din 29 ianuarie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 32/1995",
+    "number": "32",
+    "year": "1995",
+    "path": "og/1995/32"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "260",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.295/1990",
+    "number": "1295",
+    "year": "1990",
+    "path": "hg/1990/1295"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11889",
+  "text_sha256": "4122b2b8b46ff83afdbfe0bb5b332841430321cfa4fac86b10d3376c9aae9a8c",
+  "catalogue_sha256": "4122b2b8b46ff83afdbfe0bb5b332841430321cfa4fac86b10d3376c9aae9a8c",
+  "fetched": "2026-11-02T22:55:04Z",
+  "chars": 7712,
+  "portal_id": "11889",
+  "tip": "DECIZIE"
+ }
+}
