@@ -7,7 +7,7 @@ Ordonanța Guvernului nr. 75/2001 privind organizarea și funcționarea cazierul
 3. Litera b) a alineatului (1) al articolului 8 va avea următorul cuprins:
 "b) la solicitarea înscrierii în Registrul asociațiilor și fundațiilor, a asociațiilor și fundațiilor, de către asociații sau membrii fondatori ai acestora;"
 4. Alineatul (2) al articolului 8 va avea următorul cuprins:
-"(2) Judecătorul delegat, instanțele și organele competente nu dispun, respectiv nu autorizeaza desfășurarea de activități în formele menționate la alin. (1), în cazul în care în cazierul fiscal exista înscrise fapte de natura penală."
+"(2) Judecătorul delegat, instanțele și organele competente nu dispun, respectiv nu autorizează desfășurarea de activități în formele menționate la alin. (1), în cazul în care în cazierul fiscal exista înscrise fapte de natura penală."
 5. Alineatele (2)-(4) ale articolului 9 vor avea următorul cuprins:
 "(2) Eliberarea certificatului de cazier fiscal se face în termen de 10 zile lucrătoare de la data solicitării eliberării.
 (3) Pentru eliberarea certificatului de cazier fiscal se percepe o taxa în suma de 50.000 lei.
