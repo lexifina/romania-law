@@ -1,0 +1,200 @@
+{
+ "key": "dcc-127-2000",
+ "label": "Decizia CCR nr. 127/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "127",
+ "date": "2000-07-04",
+ "year": "2000",
+ "heading": "DECIZIE nr. 127 din 4 iulie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 5 alin. 4 din Ordonanţa Guvernului nr. 19/1994 privind stimularea investiţiilor pentru realizarea unor lucrări publice şi construcţii de locuinţe, aprobată cu modificări şi completări prin Legea nr. 82/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "414",
+  "bis": false,
+  "date": "2000-08-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.202/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 19/1994",
+    "number": "19",
+    "year": "1994",
+    "path": "og/1994/19"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 5 alin. 4 din Ordonanţa Guvernului nr. 19/1994 privind stimularea investiţiilor pentru realizarea unor lucrări publice şi construcţii de locuinţe, aprobată cu modificări şi completări prin Legea nr. 82/1995, excepţie ridicată de Iulian Laurentiu Platica şi Simona Platica în Dosarul nr. 1.202/1996 al Judecătoriei Tulcea.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 19/1994",
+    "number": "19",
+    "year": "1994",
+    "path": "og/1994/19"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 82/1995",
+    "number": "82",
+    "year": "1995",
+    "path": "lege/1995/82"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-08-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24042",
+  "text_sha256": "8e43f41cf55de955e4d3bac7025e8747b5b8122fd7684ea968ebf355c6d9623f",
+  "catalogue_sha256": "8e43f41cf55de955e4d3bac7025e8747b5b8122fd7684ea968ebf355c6d9623f",
+  "fetched": "2026-11-05T13:46:40Z",
+  "chars": 10080,
+  "portal_id": "24042",
+  "tip": "DECIZIE"
+ }
+}
