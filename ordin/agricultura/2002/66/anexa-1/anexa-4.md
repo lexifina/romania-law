@@ -1,0 +1,10 @@
+# Anexa nr. 4 la anexa nr. 1
+Anexa 4 ──────── la norma sanitară veterinara ────────────────────────────── CERINȚELE pentru programele naționale de combatere sau de monitorizare a bolilor animalelor din speciile ovine și caprine 1. Statele care au elaborat astfel de programe trebuie să le trimită Comisiei Europene pentru evaluare, menționând în special date despre:
+a) distribuția bolii în statul respectiv;
+b) motivatia pentru elaborarea acelui program, luându-se în considerare importanța bolii și beneficiile programului în relație cu costurile acestuia;
+c) aria geografică în care este implementat programul;
+d) diferitele categorii de sănătate care sunt acordate exploatațiilor, standardele care trebuie atinse de fiecare categorie și procedeele de testare utilizate;
+e) procedurile de monitorizare a programului;
+f) acțiunile ce trebuie întreprinse dacă, din orice motiv, o exploatatie își pierde statusul de sănătate;
+g) măsurile ce trebuie luate dacă în urma testelor efectuate în concordanta cu prevederile programului exploatatiile sunt pozitive.
+2. Comisia Europeană examinează programul prezentat de România. Programul la care se referă pct. 1 poate fi aprobat în conformitate cu procedura comunitara. După aceeași procedura garanțiile adiționale, generale sau limitate, care pot fi cerute pentru comerțul României cu statele membre ale Comunității Europene vor fi definite în același timp sau după cel mult 3 luni de la aprobarea programului. Asemenea garanții nu trebuie să fie mai severe decât cele pe care le implementeaza un stat membru al Comunității Europene sau România, la nivel național. 3. Programele trimise de România pot fi amendate sau completate în concordanta cu procedura comunitara. Amendamentele sau completările la program, care au fost deja aprobate, sau garanțiile care au fost definite în concordanta cu pct. 2 pot fi aprobate pe baza aceleiași proceduri. 4. Programele aprobate în concordanta cu aceasta anexa trebuie să beneficieze de fonduri naționale prevăzute de legislația privind cheltuielile în domeniul veterinar pentru combaterea bolilor, potrivit condițiilor prevăzute în prezenta anexa, precum și de fonduri comunitare.
