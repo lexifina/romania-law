@@ -1,0 +1,176 @@
+{
+ "key": "dcc-77-2002",
+ "label": "Decizia CCR nr. 77/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "77",
+ "date": "2002-03-14",
+ "year": "2002",
+ "heading": "DECIZIE nr. 77 din 14 martie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 3 lit. a) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii, republicată, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "266",
+  "bis": false,
+  "date": "2002-04-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "18.564/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 3 lit. a) din Legea nr. 50/1991  privind autorizarea executării lucrărilor de construcţii, republicată, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Comercială \"PCH SERANO COM IMPEX\" - S.R.L. din Bucureşti în Dosarul nr. 18.564/2000 al Judecătoriei Sectorului 1 Bucureşti.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 14 martie 2002.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Maria Bratu  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 231/2000",
+    "number": "231",
+    "year": "2000",
+    "path": "oug/2000/231"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-04-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/35457",
+  "text_sha256": "fb1bda00e7b5599fcd2b4d6230b286ecd656dce6605783a3843a5610cd2f39eb",
+  "catalogue_sha256": "fb1bda00e7b5599fcd2b4d6230b286ecd656dce6605783a3843a5610cd2f39eb",
+  "fetched": "2026-11-05T13:31:44Z",
+  "chars": 11822,
+  "portal_id": "35457",
+  "tip": "DECIZIE"
+ }
+}
