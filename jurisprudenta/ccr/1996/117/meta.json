@@ -1,0 +1,147 @@
+{
+ "key": "dcc-117-1996",
+ "label": "Decizia CCR nr. 117/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "117",
+ "date": "1996-10-08",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 117 din 8 octombrie 1996",
+ "subtitle": "referitoare la pronunţarea asupra recursului declarat de Poenaru Ana împotriva Deciziei nr. 58 din 14 mai 1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "324",
+  "bis": false,
+  "date": "1996-12-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "1040/1996",
+  "1.040/1996"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Poenaru Ana împotriva Deciziei Curţii Constituţionale nr. 58 din 14 mai 1996.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-12-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8616",
+  "text_sha256": "2ffab0ab5fba37d54b6c0ec194f2996db27e6f865864d9bbe14b52968c4f68a6",
+  "catalogue_sha256": "2ffab0ab5fba37d54b6c0ec194f2996db27e6f865864d9bbe14b52968c4f68a6",
+  "fetched": "2026-11-05T14:09:20Z",
+  "chars": 6194,
+  "portal_id": "8616",
+  "tip": "DECIZIE"
+ }
+}
