@@ -1,0 +1,2 @@
+# Anexa nr. 2 la anexa nr. 1
+Anexa 2 ────────── la norma sanitară veterinara ────────────────────────────── LISTA cuprinzând țările terțe din care și România autorizeaza importul de material seminal congelat provenit de la animale domestice din specia bovine Australia Canada Republica Ceha Ungaria Israel Noua Zeelanda Polonia Elvetia Republica Slovaca Statele Unite ale Americii Iugoslavia ────────────────────────
