@@ -1,0 +1,2 @@
+# Text
+În baza art. 8 din Legea nr. 101/1998 privind Statutul Băncii Naționale a României, în aplicarea prevederilor Regulamentului nr. 4/1998 privind regimul rezervelor minime obligatorii, Banca Naționala a României hotărăște: Ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii iulie - perioada de aplicare - sunt: - 10,5% pentru rezervele minime obligatorii constituite în lei; - 3,5% pentru rezervele minime obligatorii constituite în dolari S.U.A. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, MUGUR ISARESCU ----------
