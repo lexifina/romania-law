@@ -1,0 +1,22 @@
+# DECIZIE nr. 255*) din 17 iunie 1997
+referitoare la excepţia de neconstituţionalitate a prevederilor art. 1-4 din Codul de procedură civilă
+Notă
+*) Definitivă prin nerecurare.
+Florin Bucur Vasilescu - preşedinte Viorel Mihai Ciobanu - judecător Victor Dan Zlatescu - judecător Claudia Miu - magistrat-asistent
+Completul de judecată, convocat potrivit prevederilor art. 24 alin. (2) din Legea nr. 47/ 1992 privind organizarea şi funcţionarea Curţii Constituţionale, constata următoarele:
+Curtea de Apel Galaţi, prin Încheierea din 7 martie 1997, pronunţată în Dosarul nr. 276/1997, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 1, 2, 3 şi 4 din Codul de procedură civilă, astfel cum au fost modificate prin Legea nr. 59/1993.
+În motivarea excepţiei s-a susţinut, în esenta, ca dispoziţiile atacate sunt în dezacord cu prevederile cuprinse în Constituţia României şi cu Convenţia europeană a drepturilor omului, în sensul că, prin stabilirea judecătoriilor ca instanţe de baza ale sistemului judiciar, care au competenţa soluţionarea şi a cauzelor legate de dreptul de proprietate, se limitează accesul părţilor la Curtea Suprema de Justiţie, astfel încât tribunalele ar trebui să fie instanţe de fond.
+Intimata Weiss Emilia, prin concluziile scrise, depuse la dosar, a susţinut, în combaterea excepţiei, ca aceasta este nefondata.
+Instanţa de judecată şi-a exprimat opinia în sensul că dispoziţiile atacate nu contravin prevederilor art. 21 şi 128 din Constituţie şi nici celor ale Convenţiei europene a drepturilor omului.
+CURTEA, având în vedere încheierea de sesizare, raportul întocmit de judecătorul-raportor, dispoziţiile art. 1, 2, 3 şi 4 din Codul de procedură civilă, modificate prin Legea nr. 59/1993, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, retine următoarele:
+În temeiul art. 144 lit. c) din Constituţie şi al art. 23 şi următoarele din Legea nr. 47/1992, constata ca a fost legal sesizată şi este competenţa să se pronunţe asupra excepţiei, dispoziţiile atacate fiind introduse în Codul de procedură civilă prin Legea nr. 59/1993, deci ulterior adoptării Constituţiei.
+Prevederile art. 1-4 din Codul de procedură civilă, astfel cum au fost modificate, au mai făcut obiectul controlului de constituţionalitate în dosarele nr. 45C/1995, nr. 100C/1995, nr. 114C/1995, nr. 138C/1995 şi nr. 142C/1995.
+Prin deciziile de fond nr. 47 din 3 mai 1995, nr. 114 din 14 noiembrie 1995 şi nr. 3 din 10 ianuarie 1996, excepţiile de neconstituţionalitate au fost respinse ca vadit nefondate, soluţie rămasă definitivă prin deciziile nr. 96 din 24 octombrie 1995 şi nr. 56 din 14 mai 1996, publicate în Monitorul Oficial al României, Partea I, nr. 274 din 24 noiembrie 1995 şi nr. 139 din 4 iulie 1996.
+Pentru a pronunţa aceasta soluţie, Curtea Constituţională a reţinut, în esenta, ca dispoziţiile atacate nu contravin art. 21 din Constituţie, care consacra accesul liber la justiţie, art. 128 din legea fundamentală, care stabileşte ca împotriva hotărârilor judecătoreşti părţile interesate şi Ministerul Public pot exercita căile de atac, în condiţiile legii, şi nici art. 13 din Convenţia europeană a drepturilor omului, care stipulează ca orice persoană ale carei drepturi şi libertăţi recunoscute de aceasta convenţie au fost violate are dreptul la recurs efectiv în faţa unei instanţe naţionale. Nici Constituţia şi nici reglementarea internationala nu cuprind prevederi care să oblige la posibilitatea exercitării recursului la Curtea Suprema de Justiţie, în toate cazurile, ca ultima cale de atac.
+Considerentele care au fundamentat deciziile Curţii, anterior citate, subzistă şi în speta de faţa, neintervenind nici un element nou care să le infirme şi deci să facă necesară reconsiderarea lor.
+Pentru considerentele expuse, în temeiul art. 144 lit. c) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 23 alin. (1), al art. 24 alin. (2) şi al art. 25 alin. (1) din Legea nr. 47/1992, în unanimitate, CURTEA În numele legii DECIDE:
+Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 1, 2, 3 şi 4 din Codul de procedură civilă, modificate prin Legea nr. 59/1993, invocată de Grigore Constantin şi Grigore Neculai în Dosarul nr. 276/1997 al Curţii de Apel Galaţi.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la data de 17 iunie 1997.
+PREŞEDINTE, conf. univ. dr. Florin Bucur Vasilescu
+Magistrat-asistent, Claudia Miu ----------
