@@ -1,0 +1,7 @@
+# Anexa nr. 4: ────── la cererea de eliberare a licenței de utilizare a frecvențelor radioelectrice nr.... din data... ____________ *) Se vor trece numărul de ieșire din registrul de intrări/ieșiri al solicitantului
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 49547 (https://legislatie.just.ro/Public/DetaliiDocument/49547)
+- sha256 of that document's text as the service returned it: 902c315da78ee35280acbb588ba51dd871c65e32dd00bff86bb36aadfa146edd
+- Retrieved: 2026-11-02
