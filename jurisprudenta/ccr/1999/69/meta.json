@@ -1,0 +1,231 @@
+{
+ "key": "dcc-69-1999",
+ "label": "Decizia CCR nr. 69/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "69",
+ "date": "1999-04-27",
+ "year": "1999",
+ "heading": "DECIZIE nr. 69 din 27 aprilie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 19 lit. d) şi ale art. 77 alin. (3) din Legea nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "307",
+  "bis": false,
+  "date": "1999-06-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "34/1997",
+  "57/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibila excepţia de neconstituţionalitate a dispoziţiilor art. 19 lit. d) din Legea nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi, excepţie ridicată din oficiu de Curtea de Apel Oradea în Dosarul nr. 1.937/CA/1998.",
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 77 alin. (3) din Legea nr. 94/1992, ridicată în acelaşi dosar de aceeaşi instanţa de judecată.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "139",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 70/1997",
+    "number": "70",
+    "year": "1997",
+    "path": "og/1997/70"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/1993",
+    "number": "69",
+    "year": "1993",
+    "path": "lege/1993/69"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/1994",
+    "number": "27",
+    "year": "1994",
+    "path": "lege/1994/27"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-06-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18593",
+  "text_sha256": "f757fbad5d59e8576fdf7a72cd1ed77533a680e29d377830367c874f2ac77124",
+  "catalogue_sha256": "f757fbad5d59e8576fdf7a72cd1ed77533a680e29d377830367c874f2ac77124",
+  "fetched": "2026-11-02T23:04:20Z",
+  "chars": 18500,
+  "portal_id": "18593",
+  "tip": "DECIZIE"
+ }
+}
