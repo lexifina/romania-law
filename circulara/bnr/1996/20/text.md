@@ -1,0 +1,10 @@
+# Text
+În baza art. 26 din Legea nr. 34/1991 privind Statutul Băncii Naționale a României, în aplicarea prevederilor art. 3 din Ordonanța Guvernului nr. 15/1996 privind întărirea disciplinei financiare, Consiliul de administrație al Băncii Naționale a României stabilește modificarea și completarea Normelor Băncii Naționale a României nr. 10/1996 privind lichiditatea valutară, după cum urmează: 1. La punctul 1 alineatul 3: - după litera c) se introduce litera c'), care va avea următorul cuprins: "c') plasamente în valută în obligațiuni sau alte forme de credite acordate Ministerului Finanțelor sau garantate de acesta, precum și Băncii Naționale a României;" - litera d) va avea următorul cuprins: "d) soldul net al disponibilităților și plasamentelor la alte bănci de pe teritoriul României sau la Banca Naționala a României. Acesta se determina prin diferența dintre plasamente și resurse (atrageri) și el poate fi pozitiv sau negativ;" 2. La punctul 1 alineatul 4, coeficientul de lichiditate pentru activele în valută de la lit. e)-h) este de 0,3. 3. Punctul 2 alineatul 2 va avea următorul cuprins: "Cursul tuturor valutelor în dolari S.U.A. va fi cel valabil în fiecare zi. La cererea fundamentată a societăților bancare, Banca Naționala a României poate accepta utilizarea unui singur curs valutar - cel în vigoare în ultima zi a lunii anterioare perioadei de aplicare." 4. Gradul de lichiditate valutară prevăzut la punctul 4 este de 0,60 începând de la 1 august 1996, de 0,65 începând de la 1 octombrie 1996 și de 0,75 începând de la 1 ianuarie 1997. 5. Grila de majorare a ratei rezervelor obligatorii prevăzută la punctul 5 se modifica astfel:
+Gradul de lichiditate valutară Procentul de majorare a rezervelor obligatorii
+de la 1 august 1996 de la 1 octombrie 1996 de la 1 ianuarie 1997
+0,55-0,59 0,60-0,64 0,70-0,74 20%
+0,50-0,54 0,55-0,59 0,65-0,69 40%
+0,45-0,49 0,50-0,54 0,60-0,64 60%
+sub 0,45 sub 0,50 sub 0,60 80%
+6. Prezenta circulara intră în vigoare la 1 august 1996 și va fi publicată în Monitorul Oficial al României. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, MUGUR ISARESCU
+-------
