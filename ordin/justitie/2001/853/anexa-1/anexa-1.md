@@ -1,0 +1,2 @@
+# Anexa 1
+--------- la regulament -------------- LISTA cuprinzând organizațiile neguvernamentale care au sprijinit activitatea centrelor experimentale de probațiune 1. Asociația "Grupul Roman pentru Apărarea Drepturilor Omului" București 2. Asociația "Alternative Sociale" Iași 3. Fundația "Prison Fellowship România" Cluj-Napoca 4. Asociația "Stil AlterNativ" Arad 5. Asociația "Sf. Petru și Pavel" Timișoara 6. Asociația "Oameni pentru Oameni" Focsani 7. Fundația "Familia și Ocrotirea Copilului" București 8. Fundația "Pro-Probațiune" Dej.
