@@ -1,0 +1,19 @@
+# Anexa 1
+------- [anexa nr. 3b) la Ordinul președintelui --------------------------------------- Casei Naționale de Asigurări de Sănătate ---------------------------------------- nr. 29/2002] ------------
+CASA DE ASIGURĂRI DE SĂNĂTATE Unitatea sanitară.................
+.......................... Localitatea.......................
+Județul...........................
+DESFĂȘURĂTOR pentru servicii de transport în asistența medicală de urgență prespitalicească
+Luna....................
+Tipul autovehiculului Total km echivalenți Tariful pe km echivalent negociat Total sumă Procent acordat Suma decontată
+Contractați Efectiv parcurși Contractată Realizată
+1 2 3 4 5 = 2 x 4 6 = 3 x 4 7 8 = (5 sau 6) x 7
+Total:
+-------------
+Gradul de realizare a promptitudinii = Numărul de solicitări încadrate în promptitudine x 100 =...
+Numărul total de solicitări
+Procentul de diminuare a sumei decontate =......... %
+Raspundem de realitatea și exactitatea datelor.
+Reprezentant legal,.....................
+NOTĂ: Formularul se întocmește în doua exemplare, din care un exemplar se depune la casa de asigurări de sănătate de către reprezentantul legal al unității sanitare, până la data de 3 a lunii următoare.
+-------------
