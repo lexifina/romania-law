@@ -1,0 +1,2 @@
+# Articolul unic
+Având în vedere renunțarea la activitatea pentru care a primit licenta de emisie, se retrage, la cerere, licenta Societății Comerciale "Everest" - S.R.L. pentru localitatea Bumbesti-Jiu, județul Gorj, cu nr. C 1.295 din 6 martie 1997 și nu licenta nr. C 1.259 din 6 martie 1997, astfel cum este prevăzut în Decizia Consiliului Național al Audiovizualului nr. 90 din 22 iunie 1999, publicată în Monitorul Oficial al României, Partea I, nr. 329 din 12 iulie 1999. PREȘEDINTELE CONSILIULUI NAȚIONAL AL AUDIOVIZUALULUI, MIRCEA SORIN MOLDOVAN -----------
