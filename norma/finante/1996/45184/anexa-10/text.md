@@ -1,0 +1,16 @@
+# Anexa 10
+OFERTANTUL
+(denumirea/numele, sediul/adresa, telefon, fax)
+FORMULAR DE OFERTĂ
+Data........
+Către.................................... (denumirea/numele și sediul/adresa persoanei juridice achizitoare)
+În urma examinării documentelor licitației și a anexelor (nr........) a căror primire este astfel confirmată, noi, subsemnații, reprezentanți ai ofertantului, conform......, ne angajăm să furnizăm și să livrăm/să executăm.......... (cantitatea/volumul, în conformitate cu susnumitele documente de ofertă de prețuri pentru suma anexată, care fac parte din această ofertă).
+Ne obligăm, în cazul în care oferta este acceptată, să începem livrarea/execuția, în curs de...... zile, și să încheiem livrarea/execuția tuturor elementelor specificate în contract, în decurs de......... zile, calculate de la data încheierii contractului, menținând prețurile din ofertă.
+În cazul în care oferta noastră este acceptată, vom obține garanția unei bănci pentru o sumă echivalentă cu minimum.......% din valoarea contractului, în vederea executării corespunzătoare a acestuia.
+Până la definitivarea contractului, această ofertă împreună cu acceptul dumneavoastră în scris și scrisoarea de credit vor constitui un acord de principiu între noi.
+Astăzi.......... 199....
+.............
+(semnătura)
+în calitate de
+.............
+Deplin autorizat să semneze oferta pentru și în numele...........

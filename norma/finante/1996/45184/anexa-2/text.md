@@ -1,0 +1,19 @@
+# Anexa 2
+PERSOANA JURIDICĂ ACHIZITOARE
+(denumirea, sediul, telefon, fax)
+INVITAȚIE
+pentru participare la licitație publică
+.................................
+Data.....................
+1.............................................................. are aprobate
+(persoana juridică achizitoare)
+fonduri pentru achiziția publică a unor bunuri conform listei privind achiziția de bunuri/servicii, care ne sunt strict necesare desfășurării activității.
+În acest scop în perioada imediat următoare urmează să achiziționăm........................................................................................................................................................................
+2.................................................... vă invită la licitație
+(persoana juridică achizitoare)
+publică........................
+3. Dacă sunteți interesat, puteți obține informații suplimentare și documentele licitației la sediul..............................................
+4. Un set din documentele de licitație poate fi cumpărat începând cu data de................... prin depunerea unei cereri în scris la sediul sus-menționat, urmând a achita costul acestuia, potrivit art. 3.8. din regulament.
+Semnătura conducătorului
+persoanei juridice achizitoare
+...........................
