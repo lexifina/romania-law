@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 1997-01-16: adopted by the Senate; documents published: Forma adoptată de Senat
 - 1997-01-17: registered at the Chamber of Deputies
 - 1997-03-11: adopted by the Chamber of Deputies
+- 1997-05-08: sent for promulgation
 
 ## Documents
 
