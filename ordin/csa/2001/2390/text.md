@@ -1,0 +1,13 @@
+# Text
+Articolul 1
+Se aprobă și se dispune aplicarea Reglementărilor contabile specifice domeniului asigurărilor, armonizate cu Directivele europene și Standardele internaționale de contabilitate, anexa*) la prezentul ordin, începând cu data de 1 ianuarie 2002. Reglementările contabile specifice domeniului asigurărilor, armonizate cu Directivele europene și Standardele internaționale de contabilitate, aprobate prin prezentul ordin, sunt obligatorii pentru societățile din domeniul asigurărilor persoane juridice române și pentru sucursalele din România ce aparțin unor asiguratori persoane juridice străine.
+Articolul 2
+Administratorii, directorii financiar-contabili, contabilii-șefi și orice alte persoane care au obligația gestionării societăților din domeniul asigurărilor răspund, potrivit legii, pentru pregătirea, însușirea și aplicarea corecta a acestor reglementări, precum și pentru transpunerea corecta a soldurilor conturilor din balantele de verificare la 31 decembrie 2001 în conturile prevăzute în noul plan de conturi. De asemenea, aceste persoane răspund pentru adaptarea corespunzătoare a programelor informatice utilizate pentru prelucrarea datelor financiar-contabile, precum și pentru exactitatea și realitatea datelor care sunt prelucrate, respectiv înregistrate în contabilitate.
+Articolul 3
+Comisiile de cenzori, numite potrivit legii, precum și experții contabili, contabilii autorizați cu studii superioare și societățile comerciale de expertiza contabila, care certifica bilanțurile contabile ale societăților din domeniul asigurărilor la 31 decembrie 2001, au obligația verificării și certificării transpunerii corecte a soldurilor conturilor din balantele contabile întocmite la acea data în conturile prevăzute în noul plan de conturi.
+Articolul 4
+Comisia de Supraveghere a Asigurărilor, după consultarea cu asociațiile profesionale ale operatorilor din asigurări, actualizează periodic Reglementările contabile specifice domeniului asigurărilor, armonizate cu Directivele europene și Standardele internaționale de contabilitate, în funcție de reglementările ce se adoptă pe parcurs și, în conformitate cu prevederile Legii contabilității nr. 82/1991 , republicată, cu modificările și completările ulterioare, și ale Legii nr. 32/2000 privind societățile de asigurare și supravegherea asigurărilor, le supune aprobării Ministerului Finanțelor Publice în vederea aplicării acestora. -----------------
+Notă
+...
+*) Anexa se publică ulterior.
+Ministrul finanțelor publice, Mihai Nicolae Tanasescu Președintele Comisiei de Supraveghere a Asigurărilor, Nicolae Eugen Crisan --------
