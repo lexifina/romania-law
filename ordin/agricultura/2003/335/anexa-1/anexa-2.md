@@ -1,0 +1,6 @@
+# Anexa 2
+------- la norme -------- GRĂSIMI VEGETALE 1. Grasimile vegetale menționate la art. 4 al cap. II din norme sunt individuale sau în amestec, echivalente ale untului de cacao, și trebuie să respecte următoarele criterii:
+a) sunt grăsimi vegetale nonlaurice, bogate în trigliceride de tipul: palmitic- oleic- palmitic, palmitic- oleic- stearic, stearic- oleic- stearic;
+b) sunt miscibile în orice proporție cu untul de cacao și sunt compatibile cu proprietățile fizice ale acestuia (punct de topire și temperatura de cristalizare, viteza de topire pentru faza de temperare);
+c) sunt obținute numai prin procesul de rafinare și/sau fractionare, care exclud modificările enzimatice ale structurii trigliceridelor.
+2. În conformitate cu criteriile de mai sus, următoarele grăsimi vegetale, obținute din plantele ale căror nume științifice sunt enumerate mai jos, se pot folosi: - illipe, grasime de Borneo sau Tengkawang, obținută din Shorea spp; - ulei de palmier obținut din Elaeis guineensis; Elaeis olifera; - Sal obținută din Shorea robusta; - Shea obținută din Butyrospermum parkii; - Kokum gurgi obținută din Garcinia indica; - samburi de Mango obținuți din Mangifera indica. Se poate folosi și uleiul de cocos pentru producerea ciocolatei utilizate la fabricarea inghetatei și a altor produse similare. -----------
