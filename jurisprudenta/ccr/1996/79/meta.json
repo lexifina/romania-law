@@ -1,0 +1,106 @@
+{
+ "key": "dcc-79-1996",
+ "label": "Decizia CCR nr. 79/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "79",
+ "date": "1996-07-03",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 79*) din 3 iulie 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor H.C.M. nr. 617/1950",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "200",
+  "bis": false,
+  "date": "1996-08-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "544/1995"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a prevederilor H.C.M. nr. 617/1950 privind inzestrarea unor gospodării agricole colective, invocată de reclamanţii Gollner Ioan şi Duma Pavel, în Dosarul nr. 544/1995 al Curţii de Apel Targu Mures.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "A.c"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-08-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8440",
+  "text_sha256": "dfa374a00c23c19a71cd13263bf2add9878406b3d557d0dfadbf06f190acc145",
+  "catalogue_sha256": "dfa374a00c23c19a71cd13263bf2add9878406b3d557d0dfadbf06f190acc145",
+  "fetched": "2026-11-02T22:51:38Z",
+  "chars": 3536,
+  "portal_id": "8440",
+  "tip": "DECIZIE"
+ }
+}
