@@ -1,0 +1,205 @@
+{
+ "key": "dcc-270-2004",
+ "label": "Decizia CCR nr. 270/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "270",
+ "date": "2004-06-22",
+ "year": "2004",
+ "heading": "DECIZIE nr. 270 din 22 iunie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 98/1994 privind stabilirea şi sancţionarea contravenţiilor la normele legale de igienă şi sănătate publică, cu modificările şi completările ulterioare, precum şi ale Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "722",
+  "bis": false,
+  "date": "2004-08-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "477/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 98/1994",
+    "number": "98",
+    "year": "1994",
+    "path": "lege/1994/98"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a prevederilor Legii nr. 98/1994 privind stabilirea şi sancţionarea contravenţiilor la normele legale de igienă şi sănătate publică, cu modificările şi completările ulterioare, precum şi ale Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Comercială \"Mega-Image\" - S.A. din Bucureşti în Dosarul nr. 477/2004 al Judecătoriei Sectorului 6 Bucureşti.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 98/1994",
+    "number": "98",
+    "year": "1994",
+    "path": "lege/1994/98"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-08-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/54283",
+  "text_sha256": "edbce9758d4b0243758b976d6279835464d035ff3094da7c17c7b6d785d15c9b",
+  "catalogue_sha256": "edbce9758d4b0243758b976d6279835464d035ff3094da7c17c7b6d785d15c9b",
+  "fetched": "2026-11-02T23:39:20Z",
+  "chars": 15149,
+  "portal_id": "54283",
+  "tip": "DECIZIE"
+ }
+}
