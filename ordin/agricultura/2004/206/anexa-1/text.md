@@ -1,0 +1,10 @@
+# Anexa
+CERTIFICAT DE SĂNĂTATE pentru importul de fistic și al unor produse derivate din fistic provenite sau importate din Iran
+Codul expedierii de marfă............................. Numărul certi- ficatului de sănătate....................................................
+Aplicabil fisticului încadrat în codul CN 0802 50 00 și fisticului prăjit încadrat în codul CN 2008 19 13 și CN 2008 19 93, care provine din Iran sau care este expediat din Iran....................................................................................................................................................... (Ministerul Sănătății din Iran)
+CERTIFICĂ faptul că fisticul din prezenta expediere de marfă, cu numărul de cod................. compus din:............................................................................................................................. (descrierea expedierii de marfă: produsul, numărul și tipul de ambalaj, greutatea brută sau netă) îmbarcat la............................................................... (locul de îmbarcare) de către.................................................................. (identificarea transportatorului) cu destinația............................................................. (locul și țara de destinație) care provine de la........................................................ (numele și adresa întreprinderii) a fost produs, sortat, manevrat, procesat, ambalat și transportat în conformitate cu practicile igienice.
+Din această expediere de marfă,.......................................... (numărul de probe) probe de fistic au fost preluate la.................. au fost supuse analizei (data) de laborator la................... la........................, pentru a se (data) (numele laboratorului) determina nivelul de contaminare cu aflatoxină B1 și cu totalul de aflatoxină. Detaliile prelevării de probe, ale metodelor de analiză utilizate și toate rezultatele obținute sunt atașate.
+Realizat la..............................la............................. (localitatea) (data)
+Ministerul Sănătății din Iran Ștampila
+Semnătura
+-------
