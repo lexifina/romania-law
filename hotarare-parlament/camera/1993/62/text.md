@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 62 din 4 octombrie 1993  pentru modificarea  Hotărârii Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 242 din 11 octombrie 1993     Camera Deputaţilor adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC      Hotărârea Camerei Deputaţilor nr. 59/1992  privind aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor se modifică după cum urmează:  - domnul deputat Fănică Dănilă din Grupul Parlamentar socialist trece de la Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale la Comisia pentru muncă şi protecţie socială.  p. PREŞEDINTELE CAMEREI DEPUTAŢILOR  RADU BERCEANU  Bucureşti, 4 octombrie 1993.  Nr. 62.  -------
