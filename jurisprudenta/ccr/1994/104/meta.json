@@ -1,0 +1,262 @@
+{
+ "key": "dcc-104-1994",
+ "label": "Decizia CCR nr. 104/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "104",
+ "date": "1994-11-02",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 104*) din 2 noiembrie 1994",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Legii nr. 18/1991, precum şi a hotărârilor Guvernului şi a deciziilor prefecturilor date în baza acestei legi",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "252",
+  "bis": false,
+  "date": "1995-11-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.819/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Legii nr. 18/1991, precum şi a hotărîrilor Guvernului şi a deciziilor prefecturilor date în baza acestei legi, ridicată de recurentul Duta Marin, domiciliat în Ploiesti, str. Cameliei nr. 23 bis, bloc 138, ap. 33, judeţul Prahova, în Dosarul 4.819/1993 al Tribunalului Prahova.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1974",
+    "number": "59",
+    "year": "1974",
+    "path": "lege/1974/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "decret/1990/42"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-11-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4423",
+  "text_sha256": "9141016a7915e5c786e6b8e5e565d360db01c551e6d2998c614d431f44aae440",
+  "catalogue_sha256": "9141016a7915e5c786e6b8e5e565d360db01c551e6d2998c614d431f44aae440",
+  "fetched": "2026-11-02T22:49:14Z",
+  "chars": 6756,
+  "portal_id": "4423",
+  "tip": "DECIZIE"
+ }
+}
