@@ -1,0 +1,178 @@
+{
+ "key": "dcc-119-1994",
+ "label": "Decizia CCR nr. 119/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "119",
+ "date": "1994-11-16",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 119 din 16 noiembrie 1994",
+ "subtitle": "referitoare la pronunţarea asupra recursului declarat de Gurgu Ion împotriva Deciziei Curţii Constituţionale nr. 76 din 13 iulie 1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "10",
+  "bis": false,
+  "date": "1995-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "3176/1993"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Gurgu Ion împotriva Deciziei Curţii Constituţionale nr. 76 din 13 iulie 1994.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1976",
+    "number": "26",
+    "year": "1976",
+    "path": "lege/1976/26"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4490",
+  "text_sha256": "45fde7215044d830d875ac654fb55073f5c95b6f5fc2ff9f22b621a460c1b51c",
+  "catalogue_sha256": "45fde7215044d830d875ac654fb55073f5c95b6f5fc2ff9f22b621a460c1b51c",
+  "fetched": "2026-11-02T22:46:27Z",
+  "chars": 6232,
+  "portal_id": "4490",
+  "tip": "DECIZIE"
+ }
+}
