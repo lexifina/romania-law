@@ -1,0 +1,153 @@
+{
+ "key": "dcc-171-1997",
+ "label": "Decizia CCR nr. 171/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "171",
+ "date": "1997-06-04",
+ "year": "1997",
+ "heading": "DECIZIE nr. 171 din 4 iunie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 330^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "341",
+  "bis": false,
+  "date": "1997-12-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Constata ca recursul declarat de Matei Elvira-Maria şi Matei Alexandru-Nicolae împotriva Deciziei Curţii Constituţionale nr. 145 din 25 noiembrie 1996 este nul, fiind nemotivat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "303",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "306",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 59/1993",
+    "number": "59",
+    "year": "1993",
+    "path": "lege/1993/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-12-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11919",
+  "text_sha256": "3d94811fcb3028db5395ffa7d922ffe0c2b9183be7c1f79f4489768d18ffedbd",
+  "catalogue_sha256": "3d94811fcb3028db5395ffa7d922ffe0c2b9183be7c1f79f4489768d18ffedbd",
+  "fetched": "2026-11-02T22:56:53Z",
+  "chars": 3450,
+  "portal_id": "11919",
+  "tip": "DECIZIE"
+ }
+}
