@@ -1,0 +1,4 @@
+# Text
+Ministru de stat, ministrul finanțelor, în baza Hotărârii Guvernului nr. 788/1992 privind organizarea și funcționarea Ministerului Finanțelor, având în vedere Ordonanța Guvernului nr. 6/1994 referitoare la perfecționarea unor reglementări privind taxa pe valoarea adăugată, emite următorul ordin:
+1. Se aprobă Normele metodologice cu privire la modul de aplicare a taxei pe valoarea adăugată aferentă importurilor de mașini și utilaje tehnologice destinate investițiilor productive, precum și materiilor prime și materialelor destinate producției, emise în baza prevederilor pct. 5 din Ordonanța Guvernului nr. 6 din 14 ianuarie 1994.
+2. Direcția generală a impozitelor indirecte, Direcția Generală a Vamilor și direcțiile generale ale finanțelor publice și controlului financiar de stat județene și a municipiului București vor aduce la îndeplinire prevederile prezentului ordin.
