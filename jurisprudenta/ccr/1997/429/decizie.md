@@ -1,0 +1,23 @@
+# DECIZIE nr. 429 din 30 octombrie 1997
+referitoare la excepţia de neconstituţionalitate a art. 330^1 din Codul de procedură civilă
+Ioan Muraru - preşedinte Costica Bulai - judecător Florin Bucur Vasilescu - judecător Romul Petru Vonica - judecător Victor Dan Zlatescu - judecător Paula C. Pantea - procuror Florentina Geangu - magistrat-asistent Pe rol, pronunţarea asupra recursului declarat de Galgau Radmila împotriva Deciziei Curţii Constituţionale nr. 55 din 19 martie 1997 *).
+Dezbaterile au avut loc în şedinţa publică din 22 octombrie 1997, în prezenta reprezentantului Ministerului Public şi în lipsa părţilor legal citate, şi au fost consemnate în încheierea de la acea data, când Curtea, având nevoie de timp pentru a delibera, a amânat pronunţarea pentru data de 30 octombrie 1997.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 19 decembrie 1996, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a art. 330^1 din Codul de procedură civilă, ridicată de Galgau Radmila.
+Prin Decizia nr. 55 din 19 martie 1997, Curtea Constituţională a respins ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă, constatând ca este lipsită de obiect, în urma modificării acestor prevederi legale prin Legea nr. 17/1997.
+Împotriva acestei decizii a declarat recurs, în termen legal, Galgau Radmila, pentru următoarele motive: neconstituţionalitatea art. 330^1 din Codul de procedură civilă a fost recunoscută prin Legea nr. 17/1997, potrivit căreia, procurorul general nu mai poate face oricând recurs în anulare, ci numai în termen de 6 luni de la data când hotărârea judecătorească a rămas irevocabilă; în cazul sau, recursul în anulare, declarandu-se la un an şi doua luni de la data hotărârii definitive, în mod clar este un abuz.
+Potrivit art. 24 alin. (3) din Legea nr. 47/1992, s-au solicitat puncte de vedere celor două Camere ale Parlamentului şi Guvernului.
+Guvernul, în punctul sau de vedere, apreciază ca recursul este neîntemeiat, întrucât asupra constituţionalităţii art. 330^1 din Codul de procedură civilă Curtea Constituţională s-a pronunţat prin decizii definitive, care sunt obligatorii, conform art. 145 alin. (2) din Constituţie.
+Camera Deputaţilor şi Senatul nu au comunicat punctele lor de vedere.
+CURTEA, având în vedere decizia atacată, motivele de recurs invocate, punctul de vedere al Guvernului, raportul întocmit de judecătorul-raportor, prevederile art. 330^1 din Codul de procedură civilă, raportate la dispoziţiile Constituţiei şi ale Legii nr. 47/1992, constata următoarele:
+Recursul este neîntemeiat şi urmează a fi respins.
+Curtea a fost investită cu soluţionarea excepţiei de neconstituţionalitate art. 330^1 din Codul de procedură civilă în redactarea potrivit căreia recursul în anulare putea fi declarat oricând. Prin Legea nr. 17 din 17 februarie 1997, publicată în Monitorul Oficial al României, Partea I, nr. 26 din 18 februarie 1997, dispoziţiile art. 330^1 au fost modificate, în sensul introducerii termenului de 6 luni, înlăuntrul căruia procurorul general poate declara recurs în anulare.
+Potrivit practicii Curţii Constituţionale, inclusiv Deciziei Plenului nr. III din 31 octombrie 1995 privind judecarea constituţionalităţii unei dispoziţii legale modificate ulterior invocarii excepţiei, publicată în Monitorul Oficial al României, Partea I, nr. 259 din 9 noiembrie 1995, dacă textul atacat a fost între timp modificat, sesizarea rămâne valabilă numai dacă textul, în noua sa redactare, conserva excepţia de neconstituţionalitate.
+În speta, noua redactare a textului art. 330^1 din Codul de procedură civilă inlatura prevederile ce formau obiectul excepţiei de neconstituţionalitate cu care Curtea a fost investită conform art. 23 din Legea nr. 47/1992, astfel ca, în mod întemeiat, în decizia recurată s-a constatat ca aceasta a rămas fără obiect.
+Pentru motivele arătate, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 25 şi al art. 26 din Legea nr. 47/1992, CURTEA În numele legii DECIDE:
+Respinge recursul declarat de Galgau Radmila împotriva Deciziei Curţii Constituţionale nr. 55 din 19 martie 1997.
+Definitivă.
+Pronunţată în şedinţa publică din 30 octombrie 1997. -----------
+Notă
+*) Decizia Curţii Constituţionale nr. 55 din 19 martie 1997 a fost publicată în Monitorul Oficial al României, Partea I, nr. 377 din 24 decembrie 1997.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN MURARU Magistrat-asistent, Florentina Geangu -------------
