@@ -1,0 +1,130 @@
+{
+ "key": "dcc-26-1997",
+ "label": "Decizia CCR nr. 26/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "26",
+ "date": "1997-02-11",
+ "year": "1997",
+ "heading": "DECIZIE nr. 26 din 11 februarie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Decretului nr. 523/1973 privind aprobarea tarifelor-etalon reasezate, precum şi unele măsuri pentru stabilirea tarifelor reasezate, pentru transporturile de mărfuri pe calea ferată şi cu mijloace auto, precum şi a Ordinului S.N.C.F.R. nr. 204/1991, partea a III-a B, cod 56.05",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "36",
+  "bis": false,
+  "date": "1997-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 523/1973",
+    "number": "523",
+    "year": "1973",
+    "path": "decret/1973/523"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Societatea Comercială \"Sidermet\" - S.A. Calan împotriva Deciziei Curţii Constituţionale nr. 108 din 2 octombrie 1996.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 523/1973",
+    "number": "523",
+    "year": "1973",
+    "path": "decret/1973/523"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11130",
+  "text_sha256": "2475e043dc2642ad8f1cefc18e5585427dcc6cbe382d6151a33ea42a23d18e77",
+  "catalogue_sha256": "2475e043dc2642ad8f1cefc18e5585427dcc6cbe382d6151a33ea42a23d18e77",
+  "fetched": "2026-11-02T22:53:41Z",
+  "chars": 5517,
+  "portal_id": "11130",
+  "tip": "DECIZIE"
+ }
+}
