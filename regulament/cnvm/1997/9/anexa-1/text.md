@@ -1,0 +1,13 @@
+# Anexa 1
+------- la regulament
+-------------
+CERERE de autorizare prealabilă ca societate de registru independent privat
+În conformitate cu cele menționate în prezenta cerere și cu informațiile alăturate, va solicitam autorizarea prealabilă în vederea constituirii legale ca societate de registru independent privat și suntem de acord sa ne conformam legilor în vigoare și regulamentelor C.N.V.M.
+................................................................................
+(denumirea solicitantului)
+Reprezentantul legal
+....................................................
+(numele și prenumele) (funcția)
+.........................
+(semnătura)
+Data....................
