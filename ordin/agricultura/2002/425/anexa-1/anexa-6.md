@@ -1,0 +1,18 @@
+# Anexa 6
+-------- la norma sanitară veterinara ---------------------------- METODE de ucidere pentru animalele de blana I. Metode permise: 1. instrumente acționate mecanic care penetreaza creierul; 2. injectarea unei supradoze de medicament cu proprietăți anestezice sau a unui produs autorizat pentru eutanasiere; 3. electrocutarea pentru a provoca stop cardiac; 4. expunerea la monoxid de carbon; 5. expunerea la cloroform; 6. expunerea la dioxid de carbon. Autoritatea competența va stabili cea mai adecvată metoda de ucidere pentru fiecare specie, în conformitate cu prevederile art. 3 din norma sanitară veterinara. II. Cerințe specifice 1. Instrumente acționate mecanic, care penetreaza creierul. Acestea trebuie pozitionate astfel încât să se asigure ca proiectilul pătrunde în cortexul cerebral. Aceasta metoda este permisă numai dacă este urmată imediat de sangerare. 2. Injectarea unei supradoze de medicament cu proprietăți anestezice sau a unui produs autorizat pentru eutanasie. Sunt admise a se folosi numai acele medicamente care cauzează o pierdere imediata a cunostintei, urmată de moarte. 3. Electrocutarea pentru a provoca stop cardiac Electrozii trebuie plasati astfel încât sa cuprindă atât cutia craniana, cat și cutia toracica în zona inimii, iar nivelul minim de curent folosit sa ducă la pierderea imediata a cunostintei și la stop cardiac. Însă, pentru vulpi, la care electrozii se aplică la gura și rect, se va aplica un curent cu o valoare medie de 0,3 amperi, cel puțin 3 secunde. 4. Expunerea la monoxid de carbon:
+a) camera în care animalele sunt expuse la gaz trebuie proiectata, construită și intretinuta astfel încât să se evite ranirea animalelor și să se permită supravegherea acestora;
+b) animalele trebuie introduse numai după ce camera a fost umpluta cu monoxid de carbon la o concentrație de cel puțin 1% din volumul provenit dintr-o sursa de monoxid de carbon 100%;
+c) gazul produs de un motor special adaptat pentru acest scop poate fi folosit pentru uciderea mustelidelor și chinchilelor, cu condiția ca testele sa indice ca gazul:
+- a fost racit corespunzător; - a fost filtrat suficient; - este liber de orice materie sau gaz iritant; - iar animalele nu vor fi introduse în camera până când concentrația de monoxid de carbon nu a atins cel puțin 1% din volum;
+d) când este inhalat, gazul trebuie să induca în primul rând anestezia generală, după care să cauzeze o moarte sigura;
+e) animalele trebuie menținute în camera până când sunt moarte.
+5. Expunerea la cloroform Expunerea la cloroform poate fi folosită pentru a ucide chinchilele, respectându-se următoarele cerințe:
+a) camera în care animalele sunt expuse la gaz să fie proiectata, construită și intretinuta astfel încât să se evite ranirea animalelor și să se permită supravegherea acestora;
+b) animalele să fie introduse în camera numai dacă se asigura o atmosfera saturata în cloroform;
+c) când este inhalat, gazul trebuie să induca în primul rând anestezia generală, după care să cauzeze o moarte sigura;
+d) animalele trebuie menținute în camera până când sunt moarte.
+6. Expunerea la dioxid de carbon. Dioxidul de carbon poate fi folosit pentru a ucide mustelidele și chinchilele, respectându-se următoarele condiții:
+a) camera în care animalele sunt expuse la gaz să fie proiectata, construită și intretinuta astfel încât să se evite ranirea animalelor și să se permită supravegherea acestora;
+b) animalele să fie introduse în camera numai dacă atmosfera conține concentrația maxima de dioxid de carbon, asigurata de o sursa de dioxid de carbon 100%;
+c) când este inhalat, gazul trebuie să induca în primul rând anestezia generală, după care să cauzeze o moarte sigura;
+d) animalele trebuie menținute în camera până când sunt moarte.
