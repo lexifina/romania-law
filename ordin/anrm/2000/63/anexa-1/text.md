@@ -1,0 +1,59 @@
+# Anexă
+LISTA cuprinzând perimetrele de explorare - Runda 11/2000
+Nr. crt. Denumirea perimetrului Localizarea perimetrului (județul) Suprafața (km2) Coordonate - STEREO 70 Resurse
+X Y minerale Observații
+1 2 3 4 5 6 7
+1. GUȘEȚEL III Bistrița- Năsăud 10,03 670 250 466 000 Calcare macrocristaline marmoreene
+670 250 470 000
+688 000 470 000
+668 017 467 591
+667 970 467 470
+667 747 467 321
+667 582 467 262
+667 133 466 679
+667 000 466 000
+2. TĂTĂRUS Bihor 10,71 635 900 290 620 Nisipuri bituminoase și lignit
+635 900 294 200
+632 900 294 060
+632 900 290 500
+3. JIBOU Sălaj 10,00 643 000 364 500 Ape sulfuroase medicinale
+643 000 367 000
+639 000 367 000
+639 000 364 500
+4. IZVERNA Mehedinți 15,51 389 300 309 450 Ape minerale
+394 000 309 450
+394 000 312 750
+389 300 312 750
+5. PĂDUREA CRAIULUI Bihor 10,00 634 500 302 000 Ape minerale
+634 500 306 000
+632 000 306 000
+632 000 302 000
+6. NUCET- MOVILA Dâmbovița 10,00 364 275 539 650 Nisip și pietriș
+364 275 546 000
+362 700 546 000
+362 700 539 650
+7. VALEA PUCIOASA- CEPTURA Prahova 10,38 398 650 603 420 Lignit
+398 750 607 450
+396 180 607 500
+396 050 603 500
+8. PĂCUREȚI- MATIȚA- MĂGURA Prahova 12,0 406 589 588 255 Nisipuri bituminoase
+406 738 594 252
+404 739 594 302
+404 590 588 305
+9. DECEA TERASĂ Alba 10,23 546 000 404 500 Nisip și pietriș
+546 000 406 600
+541 640 406 458
+541 378 405 856
+541 372 405 756
+541 700 404 000
+10. LORĂU Bihor 10,15 606 660 318 650 Calcare dolomitice Cu excepția următorului perimetru
+606 660 321 150
+602 600 321 150
+X Y
+602 600 318 650
+605 822 318 913
+605 914 318 920
+605 915 319 081
+605 823 319 080
+605 810 319 073
+----------------
