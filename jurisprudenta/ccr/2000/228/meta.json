@@ -1,0 +1,172 @@
+{
+ "key": "dcc-228-2000",
+ "label": "Decizia CCR nr. 228/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "228",
+ "date": "2000-11-16",
+ "year": "2000",
+ "heading": "DECIZIE nr. 228 din 16 noiembrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 3/1998 privind modificarea accizelor la produsele petroliere",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "653",
+  "bis": false,
+  "date": "2000-12-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 3/1998",
+    "number": "3",
+    "year": "1998",
+    "path": "oug/1998/3"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 3/1998 privind modificarea accizelor la produsele petroliere, excepţie ridicată de Societatea Comercială \"E.W.B. &amp;amp; Trading\" - S.R.L. Oradea în Dosarul nr. 2.362/CA/1999 al Curţii de Apel Oradea.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 3/1998",
+    "number": "3",
+    "year": "1998",
+    "path": "oug/1998/3"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2000",
+    "number": "27",
+    "year": "2000",
+    "path": "og/2000/27"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 82/1997",
+    "number": "82",
+    "year": "1997",
+    "path": "oug/1997/82"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-12-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/25554",
+  "text_sha256": "f1cfbf0a89ee7f7e67a696c1f9f04e0929956b17a07e63030ef720a9e8659920",
+  "catalogue_sha256": "f1cfbf0a89ee7f7e67a696c1f9f04e0929956b17a07e63030ef720a9e8659920",
+  "fetched": "2026-11-02T23:11:50Z",
+  "chars": 6711,
+  "portal_id": "25554",
+  "tip": "DECIZIE"
+ }
+}
