@@ -1,0 +1,162 @@
+{
+ "key": "dcc-170-2002",
+ "label": "Decizia CCR nr. 170/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "170",
+ "date": "2002-06-11",
+ "year": "2002",
+ "heading": "DECIZIE nr. 170 din 11 iunie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 43 alin. (1) lit. b) din Legea nr. 32/2000 privind societăţile de asigurare şi supravegherea asigurărilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "534",
+  "bis": false,
+  "date": "2002-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.896/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/2000",
+    "number": "32",
+    "year": "2000",
+    "path": "lege/2000/32"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a prevederilor art. 43 alin. (1) lit. b) din Legea nr. 32/2000 privind societăţile de asigurare şi supravegherea asigurărilor, excepţie ridicată de Societatea Comercială \"La Route Impex\" - S.R.L. din comuna Jirlau în Dosarul nr. 3.896/2001 al Tribunalului Brăila - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/2000",
+    "number": "32",
+    "year": "2000",
+    "path": "lege/2000/32"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 7/2001",
+    "number": "7",
+    "year": "2001",
+    "path": "og/2001/7"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/37522",
+  "text_sha256": "db0f58bd9ad2c062a9e017c4e176da2bedf160feb0cf55a3992dec261744c608",
+  "catalogue_sha256": "db0f58bd9ad2c062a9e017c4e176da2bedf160feb0cf55a3992dec261744c608",
+  "fetched": "2026-11-02T23:22:28Z",
+  "chars": 6135,
+  "portal_id": "37522",
+  "tip": "DECIZIE"
+ }
+}
