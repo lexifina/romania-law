@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2001-02-05: documents published: Raport comisie sesizată pe fond
 - 2001-03-01: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2001-03-07: registered at the Chamber of Deputies
+- 2001-06-12: adopted by the Chamber of Deputies
 
 ## Documents
 
