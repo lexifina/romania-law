@@ -1,0 +1,147 @@
+{
+ "key": "dcc-418-2003",
+ "label": "Decizia CCR nr. 418/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "418",
+ "date": "2003-11-11",
+ "year": "2003",
+ "heading": "DECIZIE nr. 418 din 11 noiembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Hotărârii Consiliului de Miniştri nr. 2.282/1969 pentru aprobarea Regulamentului privind executarea unor pedepse şi a măsurii arestării preventive",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "819",
+  "bis": false,
+  "date": "2003-11-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.023/2003"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor  Hotărârii Consiliului de Miniştri nr. 2.282/1969  pentru aprobarea Regulamentului privind executarea unor pedepse şi a măsurii arestării preventive, excepţie ridicată de Nicuşor Lungu în Dosarul nr. 5.023/2003 al Tribunalului Brăila - Secţia penală.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 11 noiembrie 2003.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. COSTICĂ BULAI  Magistrat-asistent,  Doina Suliman  ────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 23/1969",
+    "number": "23",
+    "year": "1969",
+    "path": "lege/1969/23"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "4",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 56/2003",
+    "number": "56",
+    "year": "2003",
+    "path": "oug/2003/56"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47854",
+  "text_sha256": "915cae728c732e91f513af075f1f9a315a777ac804960fc415daf9ed0881fdae",
+  "catalogue_sha256": "915cae728c732e91f513af075f1f9a315a777ac804960fc415daf9ed0881fdae",
+  "fetched": "2026-11-02T23:32:47Z",
+  "chars": 8659,
+  "portal_id": "47854",
+  "tip": "DECIZIE"
+ }
+}
