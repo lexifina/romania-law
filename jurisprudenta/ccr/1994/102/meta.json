@@ -1,0 +1,135 @@
+{
+ "key": "dcc-102-1994",
+ "label": "Decizia CCR nr. 102/1994",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "102",
+ "date": "1994-11-02",
+ "year": "1994",
+ "heading": "DECIZIE Nr. 102 din 2 noiembrie 1994",
+ "subtitle": "referitoare la soluţionarea recursului declarat de Şerban Paulina împotriva Deciziei Curţii Constituţionale nr. 41 din 7 iulie 1993",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "31",
+  "bis": false,
+  "date": "1995-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "tardiva"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca tardiv recursul declarat de Şerban Paulina împotriva Curţii Constituţionale nr. 41 din 7 iulie 1993, pronunţată în Dosarul nr. 31 C/1993.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4415",
+  "text_sha256": "4e4693b659c733ff22dceadd467bf798d5c7689b2f7897190cc8c58062e13146",
+  "catalogue_sha256": "4e4693b659c733ff22dceadd467bf798d5c7689b2f7897190cc8c58062e13146",
+  "fetched": "2026-11-02T22:46:36Z",
+  "chars": 4444,
+  "portal_id": "4415",
+  "tip": "DECIZIE"
+ }
+}
