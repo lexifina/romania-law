@@ -1,0 +1,4 @@
+# Text
+Ministru de stat, ministrul finanțelor, în conformitate cu prevederile art. 33 din Legea nr. 15/1994, precum și ale pct. 6 lit. o) din precizările privind măsurile referitoare la întocmirea bilanțurilor contabile pe anul 1994 la agenții economici, aprobate prin Hotărârea Guvernului nr. 3/1995, având în vedere Hotărârea Guvernului nr. 449/1994 privind organizarea și funcționarea Ministerului Finanțelor, emite următorul ordin:
+1. Se aprobă Normele privind aplicarea, în anul 1995, a prevederilor Legii nr. 15/1994, pentru mijloacele fixe reevaluate în conformitate cu reglementările aprobate prin Hotărârea Guvernului nr. 500/1994.
+2. Prevederile din prezentele norme se aplică începând cu data de 1 ianuarie 1995, în corelatie cu data de aplicare prevăzută de Hotărârea Guvernului nr. 500/1994.
