@@ -1,0 +1,252 @@
+{
+ "key": "dcc-101-2002",
+ "label": "Decizia CCR nr. 101/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "101",
+ "date": "2002-03-26",
+ "year": "2002",
+ "heading": "DECIZIE nr. 101 din 26 martie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 107-112 din Legea nr. 8/1996 privind dreptul de autor şi drepturile conexe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "377",
+  "bis": false,
+  "date": "2002-06-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.181/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a prevederilor art. 107-112 din Legea nr. 8/1996 privind dreptul de autor şi drepturile conexe, excepţie ridicată de Societatea Comercială \"Daewoo Electronics România\" - S.R.L. din Bucureşti în Dosarul nr. 6.181/2000 al Tribunalului Bucureşti - Secţia a V-a civilă şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "lege/1994/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/36393",
+  "text_sha256": "50f30288ef16dd5b845d9847f20451bf0b028433a364959e1b1a61a2a087af67",
+  "catalogue_sha256": "50f30288ef16dd5b845d9847f20451bf0b028433a364959e1b1a61a2a087af67",
+  "fetched": "2026-11-02T23:21:16Z",
+  "chars": 16365,
+  "portal_id": "36393",
+  "tip": "DECIZIE"
+ }
+}
