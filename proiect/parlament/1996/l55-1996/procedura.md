@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 1996-02-08: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Document
 - 1998-05-13: documents published: Raport comisie sesizată pe fond
+- 1998-06-09: adopted by the Chamber of Deputies; adopted by the Senate
 
 ## Documents
 
