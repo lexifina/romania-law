@@ -1,0 +1,164 @@
+{
+ "key": "dcc-22-1993",
+ "label": "Decizia CCR nr. 22/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "22",
+ "date": "1993-04-21",
+ "year": "1993",
+ "heading": "DECIZIE nr. 22 din 21 aprilie 1993",
+ "subtitle": "excepţiei de neconstituţionalitate a prevederilor art. V din Legea nr. 49/1992",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "129",
+  "bis": false,
+  "date": "1993-06-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "429/1992"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 49/1992",
+    "number": "49",
+    "year": "1992",
+    "path": "lege/1992/49"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate formulată de Popescu Corneliu Liviu în faţa Tribunalului municipiului Bucureşti - Secţia contencios-administrativ, cu care Curtea Constituţională a fost sesizată prin Încheierea din 19 noiembrie 1992 a acestui tribunal.",
+  "Constata ca art. V din Legea nr. 49/1992 este neconstitutional.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 49/1992",
+    "number": "49",
+    "year": "1992",
+    "path": "lege/1992/49"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-06-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3073",
+  "text_sha256": "6d643d192304be76fbb47e689f211d5d9ded0ab13b6b9ab5767b347338b61466",
+  "catalogue_sha256": "6d643d192304be76fbb47e689f211d5d9ded0ab13b6b9ab5767b347338b61466",
+  "fetched": "2026-11-05T07:11:16Z",
+  "chars": 6667,
+  "portal_id": "3073",
+  "tip": "DECIZIE"
+ }
+}
