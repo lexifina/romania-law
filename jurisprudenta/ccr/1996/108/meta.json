@@ -1,0 +1,139 @@
+{
+ "key": "dcc-108-1996",
+ "label": "Decizia CCR nr. 108/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "108",
+ "date": "1996-10-02",
+ "year": "1996",
+ "heading": "DECIZIE nr. 108*) din 2 octombrie 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Decretului nr. 523/1973 şi a Ordinului S.N.C.F.R. nr. 204/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "36",
+  "bis": false,
+  "date": "1997-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.028/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 523/1973",
+    "number": "523",
+    "year": "1973",
+    "path": "decret/1973/523"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a prevederilor Decretului nr. 523/1973 şi ale Ordinului S.N.C.F.R. nr. 204/1991, partea a III-a B, cod 56.05, ridicată de Societatea Comercială \"Sidermet\" - S.A. Calan în Dosarul nr. 5.028/1995 al Judecătoriei Hunedoara.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 523/1973",
+    "number": "523",
+    "year": "1973",
+    "path": "decret/1973/523"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8573",
+  "text_sha256": "81ad7f4a8005c418065804413010e4d86212b5eafe0168a78f41e0e36a8194ac",
+  "catalogue_sha256": "81ad7f4a8005c418065804413010e4d86212b5eafe0168a78f41e0e36a8194ac",
+  "fetched": "2026-11-02T22:53:41Z",
+  "chars": 5837,
+  "portal_id": "8573",
+  "tip": "DECIZIE"
+ }
+}
