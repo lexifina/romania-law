@@ -1,0 +1,143 @@
+{
+ "key": "dcc-51-1993",
+ "label": "Decizia CCR nr. 51/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "51",
+ "date": "1993-10-05",
+ "year": "1993",
+ "heading": "DECIZIE nr. 51*) din 5 octombrie 1993",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. 2 lit. b) din Decretul-lege nr. 118/1990",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "12",
+  "bis": false,
+  "date": "1994-01-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondate excepţiile de neconstituţionalitate a art. 1 alin. 2 lit. b) din Decretul-lege nr. 118/1990, invocate de Lokodi Mihaly, în dosarul nr. 4230/1992, de Kilyen Karoly, în dosarul nr. 4364/1992, de Hegedus Vasile, în dosarul nr. 4358/1992 şi de Kercso Ludovic, în dosarul nr. 3740/1992, aflate pe rolul Tribunalului Mures.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-01-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3181",
+  "text_sha256": "9d89f38c10aad3afea9e5bc87b8cfc6cd0903282795b1816f75f66b84e2cbe16",
+  "catalogue_sha256": "9d89f38c10aad3afea9e5bc87b8cfc6cd0903282795b1816f75f66b84e2cbe16",
+  "fetched": "2026-11-02T22:42:38Z",
+  "chars": 5775,
+  "portal_id": "3181",
+  "tip": "DECIZIE"
+ }
+}
