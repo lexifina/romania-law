@@ -1,0 +1,11 @@
+# HCGMB nr. 217/2002
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 217/2002
+- Adopted: 2002-10-17
+- Title: PRIVIND APROBAREA CONTRACTULUI DE ASOCIERE IN PARTICIPATIUNE INTRE CONSILIUL LOCAL AL SECTORULUI 3 SI SC INSTITUTUL DE CERCETARE SI PROIECTARE PENTRU ELECTROTEHNICA SA (ICPE), UNIVERSITATEA POLITEHNICA BUCURESTI, CENTRUL DE TRANSFER TEHNOLOGIC, INCUBARE SI EXCELENTA - CTTIE BUCURESTI SI SC GLOBAL LOGISTIC SRL, IN VEDEREA INFIINTARII "PARCULUI TEHNOLOGIC DESTINAT ACTIVITATILOR DE CERCETARE STIINTIFICA SI UNIVERSITARA, INGINERIE SI TRANSFER TEHNOLOGIC"
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8787
+- Document: https://doc.pmb.ro/legis/acteinterne/2002/8787/h0217_02.pdf
+- Document sha256: 4081f0b1c37a9be954e86d840bb966320ae3a14fc123e6c2a51932be415d5903
