@@ -1,0 +1,227 @@
+{
+ "key": "dcc-19-1995",
+ "label": "Decizia CCR nr. 19/1995",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "19",
+ "date": "1995-02-14",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 19 din 14 februarie 1995",
+ "subtitle": "cu privire la constituţionalitatea Legii pentru interpretarea art. 21 alin. (1) şi alin. (2) din Legea nr. 53/1991 privind indemnizaţiile şi celelalte drepturi ale senatorilor şi deputaţilor, precum şi salarizarea personalului din aparatul Parlamentului României, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "39",
+  "bis": false,
+  "date": "1995-02-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/1991",
+    "number": "53",
+    "year": "1991",
+    "path": "lege/1991/53"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Constata ca diurna de şedinţa a deputaţilor şi senatorilor prevăzută în art. 21 alin. (1) şi alin. (2) din Legea nr. 53/1991 constituie venit supus impozitării, potrivit legii, şi, în consecinţa, Legea pentru interpretarea art. 21 alin. (1) şi alin. (2) din Legea nr. 53/1991 privind indemnizaţiile şi celelalte drepturi ale senatorilor şi deputaţilor, precum şi salarizarea personalului din aparatul Parlamentului României, republicată, este neconstitutionala.",
+  "Prezenta decizie se comunică Preşedintelui României, precum şi preşedintelui Camerei Deputaţilor şi preşedintelui Senatului, în scopul deschiderii procedurii prevăzute de art. 145 alin. (1) din Constituţie, şi se publică în Monitorul Oficial al României, Partea I.",
+  "La deliberare au participat: Vasile Gionea, preşedinte, Viorel Mihai Ciobanu, Mihai Constantinescu, Miklos Fazakas, Ion Filipescu, Ioan Muraru, Antonie Iorgovan, Florin Bucur Vasilescu şi Victor Dan Zlatescu, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/1991",
+    "number": "53",
+    "year": "1991",
+    "path": "lege/1991/53"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 32/1991",
+    "number": "32",
+    "year": "1991",
+    "path": "lege/1991/32"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 40/1991",
+    "number": "40",
+    "year": "1991",
+    "path": "lege/1991/40"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-02-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/5826",
+  "text_sha256": "054bd6b887c283d94f13ae09d405d7d5a0ab21fa4127d513daef2a1c8f2ffc91",
+  "catalogue_sha256": "054bd6b887c283d94f13ae09d405d7d5a0ab21fa4127d513daef2a1c8f2ffc91",
+  "fetched": "2026-11-02T22:47:24Z",
+  "chars": 15461,
+  "portal_id": "5826",
+  "tip": "DECIZIE"
+ }
+}
