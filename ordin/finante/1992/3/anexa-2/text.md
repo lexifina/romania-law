@@ -1,0 +1,19 @@
+# Anexa 2
+INSTRUCȚIUNI privind completarea declarației pentru valoarea în vama
+1. Se înscriu datele de identificare a cumpărătorului (agent economic). 2. Se înscriu datele de identificare a vinzatorului. 3. Se înscriu numărul și data contractului comercial referitor la mărfurile importate. 4. Se înscriu numărul și data facturii sau facturilor privind marfa importata. 5. Se înscriu numărul, data și felul documentului de transport. 6. Se înscrie condiția de livrare a mărfii stabilită prin contract între cei doi parteneri. Se menționează numai initialele condiției de livrare, asa cum sînt ele determinate, potrivit practicii comerciale internaționale (INCOTERMS-1990). 7. Se considera ca exista o legătură între cumpărător și vinzator din punct de vedere al legii în următoarele cazuri:
+a) dacă unul face parte din direcția sau consiliul de administrație al întreprinderii celeilalte și reciproc;
+b) dacă sînt legal recunoscuți ca asociați;
+c) dacă sînt patroni și salariați;
+d) dacă o persoană oarecare poseda, controlează sau deține direct sau indirect 5% sau mai mult din acțiunile sau părțile emise cu drept de vot de una și de către cealaltă;
+e) dacă unul din ei controlează pe celălalt direct sau indirect;
+f) dacă amindoi sînt controlati direct sau indirect de o terta persoana;
+g) dacă împreună controlează direct sau indirect o terta persoana;
+h) dacă sînt membri ai aceleiași familii.
+8. A. Se înscrie prețul net al mărfii - respectiv prețul plătit sau de plătit de către cumpărător vinzatorului sau altei persoane în contul vinzatorului. 8. B. Se înscriu cheltuielile de livrare (cheltuieli de transport pe parcurs extern, cheltuieli de încărcare, descărcare, manipulare, asigurare) în cazul în care aceste cheltuieli nu au fost incluse în preț. 8. C. Se înscriu orice alte cheltuieli suportate de cumpărător aferente mărfurilor importate, cum ar fi:
+a) comisioane, intermedieri, ambalaje etc.;
+b) produse și servicii furnizate de cumpărător fără plata sau cu cost redus, pentru producerea sau vînzarea mărfii;
+c) redevențe și drepturi de licență;
+d) valoarea oricărei părți a unei revinzari, cesiuni sau utilizări ulterioare, ce revine direct sau indirect vinzatorului.
+9. Se menționează denumirea și cursul valutei în care este exprimat prețul la data vamuirii mărfii. 10. Se înscrie valoarea în vama, exprimată în lei, obținută prin însumarea elementelor 8.A, 8.B, 8.C. 11. Se înscriu numele și funcția persoanelor împuternicite sa furnizeze elementele privind valoarea în vama. Acestea semnează și răspund de corectitudinea datelor înscrise în declarație. Cumpărătorul este obligat sa comunice vămii numele și funcția persoanelor care răspund de declararea valorii în vama. Declarația privind valoarea în vama poate fi completată și depusa la vama și de către un declarant sau comisionar în vama, în baza instrucțiunilor date de cumpărător. În aceasta situație, răspunderea privind datele declarate pentru determinarea valorii în vama revine în întregime cumpărătorului. 12. Se menționează vama la care se depune declarația privind valoarea în vama, codul vămii, numărul și data declarației vamale pentru care se depune declarație privind valoarea. În ceea ce privește metoda în evaluarea utilizata, se va menționa, după caz, articolul din Acordul privind aplicarea articolului VII al Acordului general pentru tarife și comerț, în baza căruia a fost determinata valoarea în vama. Declarația privind determinarea valorii în vama se depune la vama într-un singur exemplar, în forma și modelul prezentate în anexa nr. 1, împreună cu declarația vamală de import și cu celelalte documente necesare vamuirii. Depunerea unei declarații privind valoarea în vama nu exclude obligația ce le revine agenților economici de a pune la dispoziția vămii toate elementele documentare de proba necesare justificarii valorii declarate. Obligația tipăririi și prezentării documentului este în sarcina agenților economici.
+--------------
+-------------------------
