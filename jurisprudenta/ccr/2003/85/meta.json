@@ -1,0 +1,272 @@
+{
+ "key": "dcc-85-2003",
+ "label": "Decizia CCR nr. 85/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "85",
+ "date": "2003-02-25",
+ "year": "2003",
+ "heading": "DECIZIE nr. 85 din 25 februarie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Legii nr. 187/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 36/1998 privind unele măsuri de protecţie pentru personalul al cărui contract individual de muncă va fi desfăcut ca urmare a concedierilor colective determinate de reorganizarea Regiei Autonome de Electricitate \"Renel\", Regiei Autonome a Gazelor Naturale \"Romgaz\" Medias şi a Regiei Autonome a Petrolului \"Petrom\" Bucureşti, precum şi a Ordonanţei de urgenta a Guvernului nr. 36/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "243",
+  "bis": false,
+  "date": "2003-04-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.353/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/2001",
+    "number": "187",
+    "year": "2001",
+    "path": "lege/2001/187"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 36/1998",
+    "number": "36",
+    "year": "1998",
+    "path": "oug/1998/36"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a  Legii nr. 187/2001  pentru aprobarea  Ordonanţei de urgenta a Guvernului nr. 36/1998  privind unele măsuri de protecţie pentru personalul al cărui contract individual de muncă va fi desfăcut ca urmare a concedierilor colective determinate de reorganizarea Regiei Autonome de Electricitate \"Renel\", Regiei Autonome a Gazelor Naturale \"Romgaz\" Medias şi a Regiei Autonome a Petrolului \"Petrom\" Bucureşti, precum şi a  Ordonanţei de urgenta a Guvernului nr. 36/1998 , excepţie ridicată de Minela Abagiu în Dosarul nr. 3.353/2002 al Tribunalului Mehedinti - Secţia civilă.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 25 februarie 2003.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent şef,  Gabriela Dragomirescu  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/2001",
+    "number": "187",
+    "year": "2001",
+    "path": "lege/2001/187"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 36/1998",
+    "number": "36",
+    "year": "1998",
+    "path": "oug/1998/36"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 98/1999",
+    "number": "98",
+    "year": "1999",
+    "path": "oug/1999/98"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-04-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/43003",
+  "text_sha256": "1d7f63321e7c7aff8e54ea24bfa64df10c0b7d88539eb801f8dd065d8ae6f748",
+  "catalogue_sha256": "1d7f63321e7c7aff8e54ea24bfa64df10c0b7d88539eb801f8dd065d8ae6f748",
+  "fetched": "2026-11-05T05:07:23Z",
+  "chars": 10216,
+  "portal_id": "43003",
+  "tip": "DECIZIE"
+ }
+}
