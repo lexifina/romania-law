@@ -1,0 +1,256 @@
+{
+ "key": "dcc-105-1996",
+ "label": "Decizia CCR nr. 105/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "105",
+ "date": "1996-10-01",
+ "year": "1996",
+ "heading": "DECIZIE nr. 105*) din 1 octombrie 1996",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi 2 din Hotărârea Guvernului nr. 20/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "25",
+  "bis": false,
+  "date": "1997-02-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.460/1995",
+  "10.812/1995",
+  "203C/1996",
+  "202C/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 20/1996",
+    "number": "20",
+    "year": "1996",
+    "path": "hg/1996/20"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "1. Conexarea Dosarului nr. 203C/1996 la Dosarul nr. 202C/1996. 2. Respinge ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi 2 din Hotărârea Guvernului nr. 20/1996 pentru stabilirea Normelor metodologice privind aplicarea Legii nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului, invocată în faţa Judecătoriei Sectorului 3 Bucureşti de Radu Marvan în Dosarul nr. 9.460/1995 şi de Patrascanu Sorin în Dosarul nr. 10.812/1995.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 20/1996",
+    "number": "20",
+    "year": "1996",
+    "path": "hg/1996/20"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8560",
+  "text_sha256": "8780d152cecae2d01e4406a7d9f544acecbc0871fea8d0be46b32b676a6dbd92",
+  "catalogue_sha256": "8780d152cecae2d01e4406a7d9f544acecbc0871fea8d0be46b32b676a6dbd92",
+  "fetched": "2026-11-02T22:53:40Z",
+  "chars": 5955,
+  "portal_id": "8560",
+  "tip": "DECIZIE"
+ }
+}
