@@ -1,0 +1,5 @@
+# Text
+În legătură cu actualizarea indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995, se precizează următoarele: 1. Cuantumul cheltuielilor de delegare și de detașare, prevăzut în anexa la Hotărârea Guvernului nr. 543/1995, se modifica după cum urmează:
+a) Indemnizația de delegare și de detașare prevăzută la pct. 8 pentru salariații care se deplaseaza în alte localități în interesul serviciului se majorează la 7.500 lei/zi.
+b) În cazul în care delegarea sau detasarea durează, neintrerupt, mai mult de 30 de zile calendaristice în aceeași localitate, indemnizația prevăzută la pct. 11, pentru salariații delegați sau detasati, se majorează la 100.000 lei lunar.
+Aceasta indemnizație se acordă proporțional cu numărul de zile care depășește durata neîntreruptă de 30 de zile calendaristice. 2. Aplicarea noilor cuantumuri stabilite prin prezentele instrucțiuni se face începând cu data publicării acestora în Monitorul Oficial al României.
