@@ -1,0 +1,2 @@
+# Anexa 2
+FORMULAR DE ÎNREGISTRARE A NOTIFICĂRII MINISTERUL SĂNĂTĂȚII Direcția generală de sănătate publică și inspecția sanitară de stat NOTIFICARE Nr..... din.... 1. Notificator (numele, adresa, telefon, fax, nr. de înregistrare la registrul comerțului) 2. Notificare privind produsul (denumirea comercială) 3. Notificare primită pe data de: Director general,..................... _________________
