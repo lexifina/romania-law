@@ -1,0 +1,177 @@
+{
+ "key": "dcc-627-1997",
+ "label": "Decizia CCR nr. 627/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "627",
+ "date": "1997-12-09",
+ "year": "1997",
+ "heading": "DECIZIE nr. 627 din 9 decembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 330, art. 330^1, art. 330^2, art. 330^3 şi a art. 330^4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "23",
+  "bis": false,
+  "date": "1998-01-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "3.252/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Niculescu Liliana Maria-Luiza şi Magdoiu Julieta Aurora-Virginia împotriva Deciziei Curţii Constituţionale nr. 194 din 4 iunie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-01-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13295",
+  "text_sha256": "7544c78f0d38eb9412b7a131361a13b72d4bf09b44142eed719eee916b7d3b0b",
+  "catalogue_sha256": "7544c78f0d38eb9412b7a131361a13b72d4bf09b44142eed719eee916b7d3b0b",
+  "fetched": "2026-11-02T22:57:49Z",
+  "chars": 3453,
+  "portal_id": "13295",
+  "tip": "DECIZIE"
+ }
+}
