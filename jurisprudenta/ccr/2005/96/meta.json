@@ -1,0 +1,426 @@
+{
+ "key": "dcc-96-2005",
+ "label": "Decizia CCR nr. 96/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "96",
+ "date": "2005-02-15",
+ "year": "2005",
+ "heading": "DECIZIE nr. 96 din 15 februarie 2005",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. III al. 2 din Ordonanţa de urgenta a Guvernului nr. 33/2001 privind unele măsuri referitoare la salarizarea functionarilor publici şi a altor categorii de personal din sectorul bugetar, precum şi a personalului din organele autorităţii judecătorești, ale art. 12 al. 4 din Legea nr. 743/2001, ale art. 10 al. 3 din Legea nr. 631/2002, ale art. 7 al. 3 din Legea nr. 632/2002, ale art. 9 al. 7 din Legea nr. 507/2003, precum şi ale art. 8 al. 7 din Legea nr. 511/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "227",
+  "bis": false,
+  "date": "2005-03-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.824/2004",
+  "608D/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 743/2001",
+    "number": "743",
+    "year": "2001",
+    "path": "lege/2001/743"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 631/2002",
+    "number": "631",
+    "year": "2002",
+    "path": "lege/2002/631"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 632/2002",
+    "number": "632",
+    "year": "2002",
+    "path": "lege/2002/632"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 507/2003",
+    "number": "507",
+    "year": "2003",
+    "path": "lege/2003/507"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 511/2004",
+    "number": "511",
+    "year": "2004",
+    "path": "lege/2004/511"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca fiind inadmisibila, excepţia de neconstitutionalitate a dispoziţiilor art. III alin. (2) din Ordonanţa de urgenta a Guvernului nr. 33/2001 privind unele măsuri referitoare la salarizarea functionarilor publici şi a altor categorii de personal din sectorul bugetar, precum şi a personalului din organele autorităţii judecătorești, ale art. 12 alin. (4) din Legea bugetului de stat pe anul 2002 nr. 743/2001, ale art. 10 alin. (3) din Legea bugetului de stat pe anul 2003 nr. 631/2002 şi ale art. 7 alin. (3) din Legea bugetului asigurarilor sociale de stat pe anul 2003 nr. 632/2002, excepţie ridicata de Marian-Gigel Alexandru, Maria Axinte şi altii în Dosarul nr. 2.825 al Tribunalului Tulcea, de Viorica Lungu, Mineta Baleanu şi altii în Dosarul nr. 2.844/2004 a Tribunalului Tulcea, de Elena Vlad, Vasile Grosu şi altii în Dosarul nr. 1.824/2004 al Tribunalului Constanta - Sectia civila, respectiv de Dan Chiujdea, Mihaela Cozmaciuc şi altii în Dosarul nr. 8.273/LM/2004 al Tribunalului Bucureşti - Sectia a VIII-a conflicte de muncă şi litigii de muncă.",
+  "II. Respinge, ca devenita inadmisibila, excepţia de neconstitutionalitate a dispoziţiilor art. 9 alin. (7) din Legea bugetului de stat pe anul 2004 nr. 507/2003, excepţie ridicata de aceiasi autori în aceleasi dosare.",
+  "III. Respinge, ca neintemeiata, excepţia de neconstitutionalitate a dispoziţiilor art. 8 alin. (7) din Legea bugetului de stat pe anul 2005 nr. 511/2004, excepţie ridicata de aceiasi autori în aceleasi dosare.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 507/2003",
+    "number": "507",
+    "year": "2003",
+    "path": "lege/2003/507"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 743/2001",
+    "number": "743",
+    "year": "2001",
+    "path": "lege/2001/743"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 631/2002",
+    "number": "631",
+    "year": "2002",
+    "path": "lege/2002/631"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 632/2002",
+    "number": "632",
+    "year": "2002",
+    "path": "lege/2002/632"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "41-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 237/2000",
+    "number": "237",
+    "year": "2000",
+    "path": "oug/2000/237"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 511/2004",
+    "number": "511",
+    "year": "2004",
+    "path": "lege/2004/511"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 177/2002",
+    "number": "177",
+    "year": "2002",
+    "path": "oug/2002/177"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-03-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/60081",
+  "text_sha256": "019bf7be661c1db654092303fd6d299f9aed295483064472c686de43d3753944",
+  "catalogue_sha256": "019bf7be661c1db654092303fd6d299f9aed295483064472c686de43d3753944",
+  "fetched": "2026-11-04T07:24:55Z",
+  "chars": 30256,
+  "portal_id": "60081",
+  "tip": "DECIZIE"
+ }
+}
