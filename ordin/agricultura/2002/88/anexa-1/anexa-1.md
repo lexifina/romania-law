@@ -1,0 +1,54 @@
+# Anexa 1
+------- la norma sanitară veterinara ----------------------------
+CERTIFICAT DE SĂNĂTATE pentru alimente î n ambalaje î nchise ermetic, pentru animale de companie
+Observație pentru importator:
+Acest certificat este eliberat numai în scop veterinar și originalul trebuie să însoțească transportul până când ajunge la punctul de control la frontieră.
+Țara de destinație:......................................
+Numărul de referință al certificatului de sănătate:.................
+Țara exportatoare:.......................................
+Ministerul de resort:.....................................
+Departamentul de autorizare:................................
+I. Date de identificare a alimentelor pentru animalele de companie
+Alimentele pentru animale au fost obținute din materii prime provenind de la următoarele specii:..............................................................................................
+Natura ambalajului:......................................
+Numărul de bucăți sau pachete:...............................
+Greutatea netă:.........................................
+II. Originea alimentelor pentru animalele de companie
+Adresa și numărul de înregistrare veterinară ale întreprinderii aprobate sau înregistrate:........................................................................................................................................................
+III. Destinația alimentelor pentru animalele de companie
+Alimentele pentru animale vor fi expediate din:.................... (locul de încărcare) către:................................................ (țara și locul de destinație), folosindu-se următoarele mijloace de transport:.....................
+Numărul sigiliului1):.....................................
+Numele și adresa expeditorului:....................................................................................
+Numele și adresa destinatarului:....................................................................................
+IV. Atestare
+Subsemnatul, medic veterinar oficial, adeveresc prin prezenta atestare că alimentele pentru animalele de companie descrise mai sus:
+a) au fost supuse unui tratament termic la o valoare minimă Fc de 3,0 în ambalaje sigilate ermetic;
+b) au fost analizate printr-o eșantionare aleatorie din cel puțin 5 ambalaje pentru fiecare lot prelucrat cu ajutorul unor metode de diagnosticare de laborator pentru a se asigura tratamentul termic adecvat al întregului transport așa cum se prevede la lit. a);
+c) au fost produse folosindu-se proteine provenind de la rumegătoare2);
+au fost produse fără a se folosi proteine provenind de la rumegătoare2);
+d) nu au fost produse de la:
+1. animale crescute pentru producția agricolă care au murit, dar nu au fost tăiate, inclusiv animale născute moarte și nenăscute, și, fără a se prejudicia situațiile de tăiere de urgență din motive de sănătate, animale domestice care au murit în timpul transportului;
+2. animale care au fost ucise în contextul măsurilor de combatere a bolilor fie la ferme, fie în alt loc desemnat de autoritatea competentă;
+3. deșeuri animale, inclusiv sânge, provenind de la animale care au arătat în cursul inspecției veterinare desfășurate la momentul tăierii semne clinice ale unor boli transmisibile la om sau la alte animale;
+4. părțile unui animal tăiat în condiții normale care nu au fost prezentate pentru examinarea după deces, în afară de piei, copite, pene, lână, sânge și produse similare;
+5. carne, carne de pasăre, pește, vânat și alimente de origine animală care s-au alterat;
+6. animale, carne proaspătă, carne de pasăre, pește, vânat și carne și produse lactate, care în decursul inspecțiilor prevăzute în legislația Comunității Europene nu au îndeplinit cerințele veterinare pentru importul în Comunitatea Europeană;
+7. deșeuri animale ce conțin reziduuri de substanțe care au reprezentat un pericol pentru sănătatea oamenilor sau a animalelor și lapte, carne sau produse de origine animală care nu mai sunt comestibile din cauza prezenței acestor reziduuri;
+8. pește sau măruntaie de pește care nu au fost acceptate pentru consumul uman din cauza unor semne clinice ale unei boli infecțioase,
+cu excepția cazului în care proteinele animale mai sus menționate au fost supuse următorului proces de tratament termic într-o uzină înregistrată și aprobată conform Ordinului ministrului agriculturii, alimentației și pădurilor nr. 504/2001, publicat în Monitorul Oficial al României, Partea I, nr. 78 din 1 februarie 2002:
+tratament termic la cel puțin 133°C pentru toată compoziția lor pe o durată minimă de 20 de minute la o presiune de 3 bari, dimensiunea particulelor înainte de prelucrare nefiind mai mare de 5 cm,
+iar eșantionarea aleatorie îndeplinește următoarele standarde3):
+- Clostridium perfrigens: absența într-un gram4);
+- Salmonella: absența în 25 de grame, n = 5, c = 0, m = 0, M = 05);
+- Enterobacteriaceae: n = 5, c = 2, m = 10, M = 3 x 102 în 1 g5);
+e) au fost supuse tuturor măsurilor pentru a se evita o nouă contaminare cu agenți patogeni după tratament.
+Întocmit la.................... (locul) la.................... (data).
+..................................
+Ștampila6) (semnătura medicului veterinar oficial)6)
+................................
+(numele cu majuscule, calificarea și funcția)
+---------------- 1)
+Opțional. 1)Opțional. 2) Ștergeți după cum este cazul. 2)Ștergeți după cum este cazul. 3) unde: 3)unde: n = numărul de unități care formează esantionul; m = valoarea de prag pentru numărul de bacterii; rezultatul este satisfăcător dacă numărul de bacterii în toate unitățile de esantionare nu depășește valoarea lui m; M = valoarea maxima pentru numărul de bacterii; rezultatul este considerat nesatisfăcător dacă numărul de bacterii în una sau mai multe dintre unitățile de esantionare are valoarea lui m sau o depășește pe aceasta; c = numărul unităților de esantionare pentru care numărul bacteriilor se poate situa între m și M, esantionul fiind considerat acceptabil în cazul în care numărul bacteriilor din celelalte unități de esantionare are valoarea lui m sau mai puțin. 4)
+Eșantion luat după tratament. 4)Eșantion luat după tratament. 5)
+Eșantion luat în timpul depozitării în uzina de prelucrare. 5)Eșantion luat în timpul depozitării în uzina de prelucrare. 6)
+Semnătura și ștampila trebuie să aibă altă culoare decât cea a documentului tipărit. 6)Semnătura și ștampila trebuie să aibă altă culoare decât cea a documentului tipărit.
