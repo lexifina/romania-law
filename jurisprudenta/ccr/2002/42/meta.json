@@ -1,0 +1,188 @@
+{
+ "key": "dcc-42-2002",
+ "label": "Decizia CCR nr. 42/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "42",
+ "date": "2002-02-12",
+ "year": "2002",
+ "heading": "DECIZIE nr. 42 din 12 februarie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 66 alin. 2 din Legea nr. 64/1991 privind brevetele de invenţie şi a Regulii nr. 53 din Regulamentul de aplicare a Legii nr. 64/1991, aprobat prin Hotărârea Guvernului nr. 152/1992",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "220",
+  "bis": false,
+  "date": "2002-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.017/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1991",
+    "number": "64",
+    "year": "1991",
+    "path": "lege/1991/64"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 66 alin. (2) din Legea nr. 64/1991 privind brevetele de invenţie, excepţie ridicată de Societatea Comercială \"Hitrom\" - S.A. din Vaslui în Dosarul nr. 6.017/2000 al Curţii Supreme de Justiţie - Secţia civilă.",
+  "II. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a Regulii nr. 53 din Regulamentul de aplicare a Legii nr. 64/1991, aprobat prin Hotărârea Guvernului nr. 152/1992, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1991",
+    "number": "64",
+    "year": "1991",
+    "path": "lege/1991/64"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/1974",
+    "number": "62",
+    "year": "1974",
+    "path": "lege/1974/62"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/34836",
+  "text_sha256": "5d2f19d27023c887494223af377bcd3c233d42d0a076e477f801679382883ac3",
+  "catalogue_sha256": "5d2f19d27023c887494223af377bcd3c233d42d0a076e477f801679382883ac3",
+  "fetched": "2026-11-02T23:20:02Z",
+  "chars": 10717,
+  "portal_id": "34836",
+  "tip": "DECIZIE"
+ }
+}
