@@ -1,0 +1,40 @@
+{
+ "key": "cjue-c-76-00-hotarare-2003-01-09",
+ "label": "CJUE, Hotărârea Curții (camera a cincea) din data de 9 ianuarie 2003., Cauza C-76/00 P.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2003-01-09",
+ "year": "2003",
+ "case": "Cauza C-76/00 P.",
+ "celex": "62000CJ0076",
+ "ecli": "ECLI:EU:C:2003:4",
+ "heading": "Hotărârea Curții (camera a cincea) din data de 9 ianuarie 2003.",
+ "formation": "CHAMB_05_C",
+ "procedure": "APPEAL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": "Petrotub SA și Republica SA împotriva Consiliului Uniunii Europene.",
+ "parties_withheld": false,
+ "keywords": "Recurs - Motivare - Motivare.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62000CJ0076",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-76/00&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
