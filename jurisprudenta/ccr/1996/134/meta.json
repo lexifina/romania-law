@@ -1,0 +1,169 @@
+{
+ "key": "dcc-134-1996",
+ "label": "Decizia CCR nr. 134/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "134",
+ "date": "1996-10-31",
+ "year": "1996",
+ "heading": "DECIZIE nr. 134*) din 31 octombrie 1996",
+ "subtitle": "privind excepţia de neconstituţionalitate a prevederilor Decretului nr. 176/1948 pentru trecerea în proprietatea statului a bunurilor bisericilor congregatiilor, comunităţilor sau particularilor, ce au servit pentru funcţionarea şi întreţinerea instituţiilor de învăţământ general, tehnic sau profesional",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "264",
+  "bis": false,
+  "date": "1997-10-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "120/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 176/1948",
+    "number": "176",
+    "year": "1948",
+    "path": "decret/1948/176"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a prevederilor Decretului nr. 176/1948, invocată de Parohia Româno-Catolica I Targu Mures în Dosarul nr. 120/1995 al Judecătoriei Targu Mures.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 176/1948",
+    "number": "176",
+    "year": "1948",
+    "path": "decret/1948/176"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 134/1949",
+    "number": "134",
+    "year": "1949",
+    "path": "decret/1949/134"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-10-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8685",
+  "text_sha256": "5f698bc0d62eaac49f4f899a86963df20ed5cf204881e32ee286626068dea436",
+  "catalogue_sha256": "5f698bc0d62eaac49f4f899a86963df20ed5cf204881e32ee286626068dea436",
+  "fetched": "2026-11-02T22:56:05Z",
+  "chars": 6975,
+  "portal_id": "8685",
+  "tip": "DECIZIE"
+ }
+}
