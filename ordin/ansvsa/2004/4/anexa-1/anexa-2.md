@@ -1,0 +1,8 @@
+# Anexa 2 la norma veterinară
+AUTORIZAȚIE DE COMERCIALIZARE(Certificat de înregistrare)- produse de uz veterinar -Nr............. din..................
+Având în vedere cererea și documentația înregistrate cu nr............. din.............., în baza Raportului nr............. din..............., prezentat de Institutul pentru Controlul Produselor Biologice și Medicamentelor de Uz Veterinar, privind verificarea documentației tehnice, rezultatele testării și examinării produsului, văzând avizul favorabil și recomandările date de Comitetul pentru Produsele Medicinale Veterinare în ședința din...................................................................., în temeiul................................................................................, produsul................................................................................... forma de prezentare........................................................................ producătorul............................................................................... adresa..................................................................................... persoana responsabilă...................................................................... adresa..................................................................................... se autorizează:
+1. Comercializarea în vederea utilizării în România, în condițiile îndeplinirii și menținerii parametrilor de calitate prevăzuți în documentația tehnică verificată și avizată în prealabil.
+2. Orice modificare a compoziției sau calității produsului atrage anularea înregistrării.
+Prezenta autorizație de comercializare este valabilă 5 ani, până la.......................
+Director general,
+L.S.
