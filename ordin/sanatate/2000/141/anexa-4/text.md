@@ -1,0 +1,2 @@
+# Anexa IV
+ATRIBUȚIILE medicilor stomatologi din cabinetele stomatologice din școli și unități de învățământ superior privind asistența stomatologica curativă 1. Acorda primul ajutor în caz de urgenta. 2. Efectuează intervenții de mica chirurgie stomatologica (extracții de dinți temporari, incizii de abcese dentare). 3. Dispensarizeaza elevi și studenți care prezintă anomalii dento-maxilare și parodontopatii.

@@ -1,0 +1,4 @@
+# Anexa VII
+ATRIBUȚIILE cadrelor medii sanitare din cabinetele stomatologice din școli și unități de învățământ superior privind asistența stomatologica preventivă 1. Desfășoară activitate de medicina preventivă (examinări medicale conform normelor tehnice emise de Ministerul Sănătății, activitate de educație pentru sănătate, controlul aplicării și respectării normelor de igiena buco-dentară, cu accent pe prevenirea cariei dentare). 2. Efectuează și răspund de sterilizarea instrumentarului. 3. Aplica și alte măsuri de igiena și antiepidemice în cadrul cabinetului stomatologic. 4. Efectuează alte activități conexe:
+a) completarea, sub supravegherea medicului, a rapoartelor statistice lunare și anuale;
+b) gestionarea, în condițiile legii și pe baza normelor emise de Ministerul Sănătății, a instrumentarului, materialelor sanitare și medicamentelor din cabinetul stomatologic.
