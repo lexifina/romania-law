@@ -1,0 +1,180 @@
+{
+ "key": "dcc-160-1999",
+ "label": "Decizia CCR nr. 160/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "160",
+ "date": "1999-10-19",
+ "year": "1999",
+ "heading": "DECIZIE nr. 160 din 19 octombrie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 136 alin. (1) teza finala din Codul muncii, adoptat prin Legea nr. 10 din 23 noiembrie 1972",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "610",
+  "bis": false,
+  "date": "1999-12-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "255/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Maria Chiriac în Dosarul nr. 255/1999 al Tribunalului Iaşi şi constata ca sunt contrare Constituţiei şi, în consecinţa, nu mai sunt în vigoare, potrivit art. 150 alin. (1) din Constituţie, dispoziţiile tezei finale a art. 136 alin. (1) din Codul muncii, conform cărora despăgubirea cuvenită salariatului reincadrat în funcţia avută, ca urmare a anulării desfacerii contractului de muncă, este \"calculată pe baza salariului sau mediu realizat în ultimele 3 luni anterioare desfacerii contractului de muncă\".",
+  "Definitivă şi obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-12-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20228",
+  "text_sha256": "0b1d781da2f257a15c2abe6e6e39f5060851a8ee39849d79069c89da55eb910b",
+  "catalogue_sha256": "0b1d781da2f257a15c2abe6e6e39f5060851a8ee39849d79069c89da55eb910b",
+  "fetched": "2026-11-02T23:06:15Z",
+  "chars": 16813,
+  "portal_id": "20228",
+  "tip": "DECIZIE"
+ }
+}
