@@ -1,0 +1,36 @@
+# Anexa 1
+Anexa 1
+la regulament ------------- MINISTERUL AGRICULTURII, ALIMENTAȚIEI ȘI PĂDURILOR DIRECȚIA GENERALĂ ................................ Sediul ........................................... Codul fiscal .....................................
+Se aprobă pentru suma de ............................ lei Ordonatorul principal/secundar de credite, .........................................
+CONVENȚIA Nr. .../.....
+de compensare a obligațiilor de plată reprezentând redevențe datorate și neachitate la termen de către concesionarii terenurilor agricole aflate în administrarea Agenției Domeniilor Statului cu sumele cuvenite acestora cu titlu de sustinere financiară a agriculturii de către stat, în conformitate cu prevederile art. 6 alin. (4) din Legea nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului, astfel cum a fost completată prin Ordonanța de urgenta a Guvernului nr. 1/2002 pentru ......................... *)
+Explicații
+Suma
+- lei -
+1. Ministerul Agriculturii, Alimentației și Pădurilor
+1.1. Suma propusă pentru compensare
+Director general,
+Director economic,
+.....................
+.........................
+2. Agenția Domeniilor Statului
+2.1. Suma reprezentând redeventa datorată și neachitata
+la termen
+Confirmăm realitatea și exactitatea datelor înscrise.
+Director general,
+Director economic,
+...................
+........................
+*) În calitate de concesionar.
+Anexa 2
+------- la regulament -------------
+MINISTERUL AGRICULTURII, ALIMENTAȚIEI ȘI PĂDURILOR
+DIRECȚIA GENERALĂ ................................
+Sediul ...........................................
+Codul fiscal .....................................
+SITUAȚIA cuprinzând beneficiarii sumelor reprezentând susținerea financiară a agriculturii de către stat
+Nr. crt. Denumirea beneficiarului de susținere financiară a agriculturii de către stat Suma cuvenită reprezentând susținerea financiară a statului, în baza ...... (temei legal) Debite din redevențe datorate și neachitate la data de............
+0 1 2 3
+Director general, Debite confirmate de:
+................... Agenția Domeniilor Statului sau filialele județene ale acesteia (persoane autorizate)
+-------------
