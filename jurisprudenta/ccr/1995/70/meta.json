@@ -1,0 +1,131 @@
+{
+ "key": "dcc-70-1995",
+ "label": "Decizia CCR nr. 70/1995",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "70",
+ "date": "1995-07-18",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 70 din 18 iulie 1995",
+ "subtitle": "referitoare la constituţionalitatea unor prevederi ale art. 1 lit. b) din Legea privind abilitarea Guvernului de a emite ordonanţe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "156",
+  "bis": false,
+  "date": "1995-07-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "1. Constata ca prevederile art. 1 lit. b), referitoare la impunerea veniturilor agricole, impozitele şi taxele locale, impozitul pe dividende şi impunerea veniturilor reprezentantelor persoanelor juridice străine, din Legea privind abilitarea Guvernului de a emite ordonanţe sunt constituţionale. 2. Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "r"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-07-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6107",
+  "text_sha256": "d92aa87ac81d207aa7be682351f40b3d0fc0356b0e2e0bfe0dead3db85024c5b",
+  "catalogue_sha256": "d92aa87ac81d207aa7be682351f40b3d0fc0356b0e2e0bfe0dead3db85024c5b",
+  "fetched": "2026-11-02T22:48:30Z",
+  "chars": 9216,
+  "portal_id": "6107",
+  "tip": "DECIZIE"
+ }
+}
