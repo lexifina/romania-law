@@ -1,0 +1,215 @@
+{
+ "key": "dcc-94-1995",
+ "label": "Decizia CCR nr. 94/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "94",
+ "date": "1995-10-17",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 94*) din 17 octombrie 1995",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor Decretului nr. 244/1955 privind reglementarea transmiterii unor bunuri imobile, proprietatea statului, către unităţile cooperatiste",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "287",
+  "bis": false,
+  "date": "1995-12-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.507/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 244/1955",
+    "number": "244",
+    "year": "1955",
+    "path": "decret/1955/244"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata, fiind inadmisibila, excepţia de neconstituţionalitate a prevederilor Decretului nr. 244/1955 ce a fost invocată de Societatea Comercială \"Agrind\" - S.A., cu sediul în Alba Iulia, str. Primaverii nr. 81, în Dosarul nr. 6.507/1993 al Judecătoriei Alba.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 244/1955",
+    "number": "244",
+    "year": "1955",
+    "path": "decret/1955/244"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "948",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 8/1990",
+    "number": "8",
+    "year": "1990",
+    "path": "decret-lege/1990/8"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 10/1990",
+    "number": "10",
+    "year": "1990",
+    "path": "decret-lege/1990/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 10/1989",
+    "number": "10",
+    "year": "1989",
+    "path": "decret-lege/1989/10"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-12-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6220",
+  "text_sha256": "160380f444be5552fe193c3fdf3d3d697b51b0b26a0055bbaa25d418a25ae72a",
+  "catalogue_sha256": "160380f444be5552fe193c3fdf3d3d697b51b0b26a0055bbaa25d418a25ae72a",
+  "fetched": "2026-11-02T22:49:33Z",
+  "chars": 7941,
+  "portal_id": "6220",
+  "tip": "DECIZIE"
+ }
+}
