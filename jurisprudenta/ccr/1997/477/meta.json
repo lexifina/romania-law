@@ -1,0 +1,132 @@
+{
+ "key": "dcc-477-1997",
+ "label": "Decizia CCR nr. 477/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "477",
+ "date": "1997-11-18",
+ "year": "1997",
+ "heading": "DECIZIE nr. 477 din 18 noiembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 330, art. 330^1 şi ale art. 330^2 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "58",
+  "bis": false,
+  "date": "1998-02-10",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.598/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Ia act de retragerea recursului declarat de Caruntu Ioana Mihaela împotriva Deciziei Curţii Constituţionale nr. 57 din 25 martie 1997.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12823",
+  "text_sha256": "689108ffd258df91d81b5c97e6ed4747fa67a7b414bb403a5080487cec195810",
+  "catalogue_sha256": "689108ffd258df91d81b5c97e6ed4747fa67a7b414bb403a5080487cec195810",
+  "fetched": "2026-11-02T22:59:21Z",
+  "chars": 2466,
+  "portal_id": "12823",
+  "tip": "DECIZIE"
+ }
+}
