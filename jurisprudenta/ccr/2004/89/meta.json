@@ -1,0 +1,207 @@
+{
+ "key": "dcc-89-2004",
+ "label": "Decizia CCR nr. 89/2004",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "89",
+ "date": "2004-03-03",
+ "year": "2004",
+ "heading": "DECIZIE nr. 89 din 3 martie 2004",
+ "subtitle": "asupra sesizării de neconstituţionalitate a dispoziţiilor art. I pct. 2, pct. 3, pct. 4, pct. 5, pct. 6 şi art. II din Legea pentru modificarea şi completarea Legii nr. 90/2001 privind organizarea şi funcţionarea Guvernului României şi a ministerelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "226",
+  "bis": false,
+  "date": "2004-03-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "105A/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea pentru modificarea şi completarea Legii nr. 90/2001 privind organizarea şi funcţionarea Guvernului României şi a ministerelor"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Constată că dispoziţiile art. I pct. 2, pct. 3, pct. 4, pct. 5, pct. 6 şi art. II din Legea pentru modificarea şi completarea Legii nr. 90/2001 privind organizarea şi funcţionarea Guvernului României şi a ministerelor sunt constituţionale.",
+  "Definitivă şi obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-03-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/50399",
+  "text_sha256": "189f47932f0c3745e315bdc2d0b4521bb33de6f1a4bf85c6443908bd2ddbc01c",
+  "catalogue_sha256": "189f47932f0c3745e315bdc2d0b4521bb33de6f1a4bf85c6443908bd2ddbc01c",
+  "fetched": "2026-11-02T23:35:24Z",
+  "chars": 18169,
+  "portal_id": "50399",
+  "tip": "DECIZIE"
+ }
+}
