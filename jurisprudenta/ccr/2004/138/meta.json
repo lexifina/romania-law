@@ -1,0 +1,136 @@
+{
+ "key": "dcc-138-2004",
+ "label": "Decizia CCR nr. 138/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "138",
+ "date": "2004-03-23",
+ "year": "2004",
+ "heading": "DECIZIE nr. 138 din 23 martie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Hotărârii Guvernului nr. 1.041/2003 privind unele măsuri de reglementare a facilităţilor acordate pensionarilor din sectorul energiei electrice, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "361",
+  "bis": false,
+  "date": "2004-04-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.041/2003",
+    "number": "1041",
+    "year": "2003",
+    "path": "hg/2003/1041"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Hotărârii Guvernului nr. 1.041/2003 privind unele măsuri de reglementare a facilităţilor acordate pensionarilor din sectorul energiei electrice, cu modificările şi completările ulterioare, excepţie ridicată de Nicolae Anghel în Dosarul nr. 3.095/CM/2003 al Tribunalului Gorj - Secţia litigii şi conflicte de muncă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.041/2003",
+    "number": "1041",
+    "year": "2003",
+    "path": "hg/2003/1041"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-04-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51405",
+  "text_sha256": "8c71c0daab8b379021d2a049b3208cfee36cc248976bc70998494ce022ed6842",
+  "catalogue_sha256": "8c71c0daab8b379021d2a049b3208cfee36cc248976bc70998494ce022ed6842",
+  "fetched": "2026-11-05T05:46:14Z",
+  "chars": 8103,
+  "portal_id": "51405",
+  "tip": "DECIZIE"
+ }
+}
