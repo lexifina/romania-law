@@ -1,0 +1,33 @@
+# Anexa 1
+Anexa 1
+------- la norma --------- DEFINIREA ȘI DENUMIREA SUB CARE SE VAND PRODUSELE 1. Lapte parțial deshidratat (lapte concentrat): produsul lichid, indulcit sau nu, obținut direct prin înlăturarea parțială a apei din lapte, din lapte total sau parțial degresat sau dintr-un amestec al acestor produse, care poate prezenta un adaos de smantana sau de lapte total deshidratat, ori din amândouă aceste produse, adaosul de lapte total deshidratat nedepasind, în produsul finit, 25% din substanța uscata totală din lapte. Sortimente de lapte concentrat neindulcit:
+a) lapte concentrat cu conținut mare de grăsimi: lapte parțial deshidratat cu un conținut masic de minimum 15% grasime și de minimum 26,5% substanța uscata totală din lapte;
+b) lapte concentrat: lapte parțial deshidratat cu un conținut masic de minimum 7,5% grasime și de minimum 25% substanța uscata totală din lapte;
+c) lapte concentrat parțial degresat: lapte parțial deshidratat cu un conținut masic de minimum 1% și mai puțin de 7,5% grasime și de minimum 20% substanța uscata totală din lapte;
+d) lapte concentrat degresat: lapte parțial deshidratat cu un conținut masic de maximum 1% grasime și de minimum 20% substanța uscata totală din lapte.
+Sortimente de lapte concentrat indulcit:
+e) lapte concentrat indulcit: lapte parțial deshidratat cu un adaos de zaharoza (zahăr semialb, zahăr alb sau extraalb) și cu un conținut masic de minimum 8% grasime și de minimum 28% substanța uscata totală din lapte;
+f) lapte concentrat indulcit, parțial degresat: lapte parțial deshidratat cu un adaos de zaharoza (zahăr semialb, zahăr alb sau extraalb) și cu un conținut masic de minimum 1% și mai puțin de 8% grasime și de minimum 24% substanța uscata totală din lapte;
+g) lapte concentrat indulcit, degresat: lapte parțial deshidratat cu un adaos de zaharoza (zahăr semialb, zahăr alb sau extraalb) și cu un conținut masic de maximum 1% grasime și de minimum 24% substanța uscata totală din lapte.
+2. Lapte total deshidratat (lapte praf): produsul solid în care conținutul de apa nu depășește 5% din masa produsului finit, obținut direct prin îndepărtarea apei din lapte, din lapte complet sau parțial degresat, din smantana sau dintr-un amestec al acestor produse, în care conținutul de apa nu depășește 5% din greutatea produsului finit. Sortimente de lapte praf:
+a) lapte deshidratat cu conținut ridicat de grasime sau lapte praf cu conținut ridicat de grasime: lapte deshidratat cu conținut masic de minimum 42% grasime;
+b) lapte deshidratat integral sau lapte praf integral: lapte deshidratat cu conținut masic de minimum 26% și mai puțin de 42% grasime;
+c) lapte deshidratat parțial degresat sau lapte praf parțial degresat: lapte deshidratat cu conținut masic mai mare de 1,5% și mai puțin de 26% grasime;
+d) lapte deshidratat degresat sau lapte praf degresat: lapte deshidratat cu conținut masic de maximum 1,5% grasime.
+3. Tratamente
+a) Se autorizeaza o cantitate suplimentară de lactoza de maximum 0,03% din masa produsului finit pentru producerea produselor definite la pct. 1 lit. e)-g).
+b) Fără a se aduce atingere Ordinului ministrului agriculturii, alimentației și pădurilor nr. 389/2002 de aprobare a Normei sanitare veterinare privind condițiile de sănătate pentru producerea și comercializarea laptelui crud, a laptelui tratat termic și a produselor pe bază de lapte, conservarea produselor menționate la pct. 1 și 2 se realizează prin:
+- tratament termic (sterilizare, UHT etc.) în cazul produselor menționate la pct. 1 lit. a)-d); - adaos de zaharoza, în cazul produselor menționate la pct. 1 lit. e)-g); - deshidratare, în cazul produselor menționate la pct. 2. 4. Adaosuri autorizate Conform art. 2 din norma, Ministerul Sănătății poate autoriza adăugarea unor vitamine în produsele definite în prezenta anexa, cu respectarea prevederilor anexei nr. 2 - Norme metodologice privind etichetarea nutritionala a alimentelor - la Hotărârea Guvernului nr. 106/2002 privind etichetarea alimentelor, publicată în Monitorul Oficial al României, Partea I, nr. 147 din 27 februarie 2002.
+Anexa 2
+------- la norma -------- LISTA denumirilor speciale pentru anumite produse din anexa nr. 1 la norma
+a) Termenul în limba engleza "evaporated milk" se referă la produsul definit în anexa nr. 1 la norma, pct. 1 lit. b), cu un conținut masic de minimum 9% grasime și de 31% substanța uscata totală din lapte.
+b) Termenii în limba franceza "lait demi-ecreme" și "lait demi-ecreme concentre non sucre", termenul în limba spaniola "leche evaporada semidesnatada", termenii în limba olandeza "geOvaporeerde halfvolle melk" și "halfvolle koffie-melk", precum și termenul în limba engleza "evaporated semi-skimmed milk" se referă la produsul definit în anexa nr. 1 la norma, pct. 1 lit. c), cu un conținut masic între 4% și 4,5% grasime și de minimum 24% substanța uscata totală.
+c) Termenul în limba daneza "kondenseret kaffeflyrde" și termenul în limba germană "kondensierte Keffeesahne" se referă la produsul definit în anexa nr. 1 la norma, pct. 1 lit. a).
+d) Termenul în limba daneza "fly rdepulver", termenii în limba germană "Rahmpulver" și "Sahnepulver", termenul în limba franceza "crAme en poudre", termenul în limba daneza "roompoeder", termenul în limba suedeza "greddpul-ver", termenul în limba finlandeza "kermajauhe" se referă la produsul definit în anexa nr. 1 la norma, pct. 2 lit. a).
+e) Termenul în limba franceza "lait demi-ecreme concentre sucre", termenul în limba spaniola "leche condensada semidesnatada" și termenul în limba olandeza "gecondenseerde halfvolle melk met suiker" se referă la produsul definit în anexa nr. 1 la norma, pct. 1 lit. f), cu un conținut masic între 4% și 4,5% grasime și de minimum 28% substanța uscata totală.
+f) Termenul în limba franceza "lait demi-ecreme en poudre", termenul în limba olandeza "halfvolle melkpoeder" și termenii în limba engleza "semi-skimmed milk powder" și "dried semi-skimmed milk" se referă la produsul definit în anexa nr. 1 la norma, pct. 2 lit. c), cu un conținut de grasime cuprins între 14% și 16%.
+g) Termenul în limba portugheză "leite em po meio gordo" se referă la produsul definit în anexa nr. 1 la norma, pct. 2 lit. c), cu un conținut de grasime cuprins între 13% și 26%.
+h) Termenul în limba olandeza "koffiemelk" se referă la produsul definit în anexa nr. 1 la norma, pct. 1 lit. b).
+i) Termenul în limba finlandeza "rasvaton maitojuahe" se referă la produsul definit în anexa nr. 1 la norma, pct. 2 lit. d).
+j) Termenul în limba spaniola "leche en polvo semidesnatada" se referă la produsul definit în anexa nr. 1 la norma, pct. 2 lit. c), cu un conținut de grasime cuprins între 10% și 16%.
+-------------
