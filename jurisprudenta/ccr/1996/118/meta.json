@@ -1,0 +1,124 @@
+{
+ "key": "dcc-118-1996",
+ "label": "Decizia CCR nr. 118/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "118",
+ "date": "1996-10-15",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 118 din 15 octombrie 1996",
+ "subtitle": "referitoare la pronunţarea asupra recursului declarat de Mişcarea Producătorilor Agricoli pentru Drepturile Omului - Făgăraş împotriva Deciziei nr. 83 din 17 iulie 1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "293",
+  "bis": false,
+  "date": "1996-11-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "dossiers": [
+  "360/1995"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Miscarea Producătorilor Agricoli pentru Drepturile Omului - Fagaras împotriva Deciziei Curţii Constituţionale nr. 83 din 17 iulie 1996.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1992",
+    "number": "76",
+    "year": "1992",
+    "path": "lege/1992/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8622",
+  "text_sha256": "62e6151a264c702e4a0cc3cc73af85e4d67bd85df814bdb07978596769050cb5",
+  "catalogue_sha256": "62e6151a264c702e4a0cc3cc73af85e4d67bd85df814bdb07978596769050cb5",
+  "fetched": "2026-11-02T22:53:01Z",
+  "chars": 6086,
+  "portal_id": "8622",
+  "tip": "DECIZIE"
+ }
+}
