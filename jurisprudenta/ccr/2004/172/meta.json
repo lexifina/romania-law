@@ -1,0 +1,171 @@
+{
+ "key": "dcc-172-2004",
+ "label": "Decizia CCR nr. 172/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "172",
+ "date": "2004-04-15",
+ "year": "2004",
+ "heading": "DECIZIE nr. 172 din 15 aprilie 2004",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 1 din Ordonanţa de urgenta a Guvernului nr. 150/2002 privind organizarea şi functionarea sistemului de asigurări sociale de sănătate",
+ "issuer": "CURTEA CONSTITUTIONALA",
+ "mo": {
+  "number": "443",
+  "bis": false,
+  "date": "2004-05-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.553/2003",
+  "5.554/2003",
+  "33D/2004",
+  "32D/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 1 din Ordonanţa de urgenta a Guvernului nr. 150/2002 privind organizarea şi functionarea sistemului de asigurări sociale de sănătate, excepţie ridicata de Mihaela Savu în Dosarul nr. 5.553/2003 şi de Evelina Savu în Dosarul nr. 5.554/2003 ale Tribunalului Alba - Sectia civila.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civila",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 429/2003",
+    "number": "429",
+    "year": "2003",
+    "path": "lege/2003/429"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 221/2000",
+    "number": "221",
+    "year": "2000",
+    "path": "oug/2000/221"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51951",
+  "text_sha256": "dd3d90973b55e9539d19ea31f5e0209abf0421c3ba6d721df01ddb9cb30dcf73",
+  "catalogue_sha256": "dd3d90973b55e9539d19ea31f5e0209abf0421c3ba6d721df01ddb9cb30dcf73",
+  "fetched": "2026-11-02T23:36:57Z",
+  "chars": 14512,
+  "portal_id": "51951",
+  "tip": "DECIZIE"
+ }
+}
