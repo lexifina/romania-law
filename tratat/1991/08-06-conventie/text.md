@@ -1,0 +1,22 @@
+ CONVENŢIE din 6 august 1991  între Guvernul României şi Guvernul Republicii Federative Cehe şi Slovace privind desfiintarea vizelor     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 190 din 23 septembrie 1991     Guvernul României şi Guvernul Republicii Federative Cehe şi Slovace, conduse de dorinţa de a dezvolta relatiile prietenesti dintre cele doua tari, au convenit urmatoarele:
+				 +
+			  Articolul 1     1. Cetatenii statelor contractante, posesori de documente valabile de calatorie, pot intra, fără viza, pe teritoriul celuilalt stat contractant, pentru o sedere de pînă la 30 de zile, care nu serveste unei activităţi ce aduce venit.  2. Pentru o activitate care presupune venit şi pentru o sedere care depăşeşte 30 de zile este nevoie de viza.
+				 +
+			  Articolul 2     1. Posesorii de pasapoarte diplomatice sau de serviciu, româneşti sau cehoslovace, membri ai misiunilor diplomatice sau ai oficiilor consulare ale unui stat contractant în celalalt stat contractant, reprezentantii unui stat contractant în organizaţiile internationale, care au reşedinţa pe teritoriul celuilalt stat contractant sau funcţionarii unor asemenea organizaţii, pot ramine, fără viza, pe teritoriul celuilalt stat contractant, pe toata perioada misiunii lor.  2. Membrii de familie ai persoanelor prevăzute în alin. 1, care traiesc în menaj comun cu acestea, pot ramine fără viza pe teritoriul celuilalt stat contractant dacă sînt posesori de pasapoarte diplomatice sau de serviciu, româneşti sau cehoslovace.
+				 +
+			  Articolul 3     Cetatenii unui stat contractant, care traiesc o perioadă indelungata sau permanent pe teritoriul celuilalt stat contractant, pot calatori, în tara de origine sau într-un stat tert şi reveni în celalalt stat contractant, fără viza, pe baza documentului valabil de calatorie.
+				 +
+			  Articolul 4     Desfiintarea vizelor nu scuteste persoanele la care se referă prezenta convenţie de obligaţia de a respecta legile şi normele în vigoare ale tarii respective privind intrarea, sederea de lunga durata sau permanenta şi angajarea în munca.
+				 +
+			  Articolul 5     Prezenta convenţie nu limiteaza dreptul organelor competente ale statelor contractante de a refuza intrarea sau sederea cetatenilor celuilalt stat contractant, care ar putea pune în pericol securitatea statului sau ordinea publică sau care nu dispun de mijloace suficiente pentru asigurarea sederii lor.
+				 +
+			  Articolul 6     1. Fiecare stat contractant poate, din motive vizind securitatea statului, apararea ordinii publice, sănătatea cetatenilor săi, sau din alte motive grave, sa suspende pentru o anumita perioada, complet sau parţial, indeplinirea prevederilor de mai sus.  2. Aplicarea şi anularea acestor măsuri vor fi comunicate imediat, pe cale diplomatica, celuilalt stat contractant şi intră în vigoare imediat după comunicare.
+				 +
+			  Articolul 7     Statele contractante se angajează sa primeasca pe teritoriul lor, cetatenii proprii, în orice moment şi fără formalitati.
+				 +
+			  Articolul 8     1. Statele contractante, într-o perioadă de 30 de zile inaintea intrarii în vigoare a prezentei conventii, vor face schimb, pe cale diplomatica, de modele de documente de calatorie.  2. În cazul schimbarii documentelor de calatorie, statele contractante îşi vor trimite reciproc, pe cale diplomatica, modelele noilor documente de calatorie, nu mai tirziu de 30 de zile inaintea introducerii lor.
+				 +
+			  Articolul 9     1. Prezenta convenţie intră în vigoare la 30 de zile de la data semnarii.  2. În ziua intrarii în vigoare a prezentei conventii, îşi inceteaza valabilitatea Convenţia dintre Guvernul Republicii Socialiste România şi Guvernul Republicii Socialiste Cehoslovace privind desfiintarea vizelor la calatoriile de serviciu sau particulare, precum şi vizele de tranzit şi Protocolul aditional la aceasta din 26 ianuarie 1968.
+				 +
+			  Articolul 10     Prezenta convenţie se incheie pe o perioadă nedeterminata. Ea poate fi în orice moment denuntata şi îşi inceteaza valabilitatea la trei luni după comunicarea în scris, pe cale diplomatica, a denuntarii.  Întocmită la Bucureşti la 6 august 1991, în doua exemplare originale, fiecare în limba română şi limba ceha, ambele avînd aceeasi valoare.  Pentru Guvernul  României  Teodor Melescanu  Pentru Guvernul  Republicii Federative Cehe şi Slovace  Zdenek Matejka  --------------
