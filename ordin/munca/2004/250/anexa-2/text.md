@@ -1,0 +1,2 @@
+# Anexa 2
+LISTA cuprinzând specializările 1. Automatică și informatică industrială 2. Calculatoare, Inginerie electrică și calculatoare 3. Electronică, Electronică aplicată, Electronică și telecomunicații, Comunicații 4. Matematică, Matematică informatică 5. Informatică, Informatică economică, Informatică aplicată 6. Cibernetică și informatică economică, Cibernetică și previziune economică, Contabilitate și informatică de gestiune. -------------
