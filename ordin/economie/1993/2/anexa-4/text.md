@@ -1,0 +1,2 @@
+# Anexa 4
+LISTA țărilor de la care România are de încasat creanțe în contul și în numele statului, provenite din exporturi pe credit mai mare de un an 1. R.P.Chineza 14. Angola 2. R.P.D.Coreeana 15. Guineea 3. Mongolia 16. Jamahiria Arabă Libiana Populara 4. Vietnam 17. Mozambic 5. Sri Lanka 18. Egipt 6. India 19. Republica Centrafricană 7. Indonezia 20. R.D.Congo 8. Pakistan 21. Somalia 9. Bangladesh 22. Sudan 10. Turcia 23. Zambia 11. Republica Elena 24. Siria 12. Cuba 25. Irak 13. Peru 26. Iran
