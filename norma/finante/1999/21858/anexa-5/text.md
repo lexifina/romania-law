@@ -1,0 +1,23 @@
+# Anexa 4b)
+MINISTERUL TRANSPORTURILOR
+Aprobat
+-------
+Ministru,
+CERERE JUSTIFICATIVĂ privind sumele necesare pentru cheltuielile de capital care se finanțează din Fondul special al aviației civile pentru luna........ anul......
+- mii lei -
+1. Valoarea programului anual aprobat
+2. Valoarea programului cumulat până la finele trimestrului solicitat
+3. Valoarea realizărilor cumulate de la începutul anului până la finele trimestrului raportat
+4. Sumele alocate până la finele trimestrului precedent în baza cererilor justificative anterioare
+5. Sumele necesare (2-4)
+6. Sumele primite în plus față de deconturile justificative
+7. Sumele de alocat (5-6)
+Datele se confirmă pe răspunderea noastră.
+Director general, Director economic,
+...................
+Ministerul Transporturilor
+Avizat
+Secretar de stat, Direcții de specialitate
+.........
+NOTĂ:
+În anexa se va prezenta situația pe obiective.
