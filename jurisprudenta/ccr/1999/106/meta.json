@@ -1,0 +1,149 @@
+{
+ "key": "dcc-106-1999",
+ "label": "Decizia CCR nr. 106/1999",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "106",
+ "date": "1999-07-01",
+ "year": "1999",
+ "heading": "DECIZIE nr. 106 din 1 iulie 1999",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 32 lit. i) din Regulamentul pentru aplicarea Decretului nr. 328/1966 privind circulaţia pe drumurile publice şi pentru stabilirea şi sancţionarea contravenţiilor în acest sector, modificat şi completat prin Hotărârea Guvernului nr. 890/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "358",
+  "bis": false,
+  "date": "1999-07-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.453/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibila excepţia de neconstituţionalitate a dispoziţiilor art. 32 lit. i) din Regulamentul pentru aplicarea Decretului nr. 328/1966 privind circulaţia pe drumurile publice şi pentru stabilirea şi sancţionarea contravenţiilor în acest sector, excepţie ridicată de Eugen Georgescu în Dosarul nr. 6.453/1998 al Judecătoriei Buftea.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-07-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18858",
+  "text_sha256": "abe7dadb188a7a44a1a74f0baf31b84e0db2f790b9295e1bf07ad7606a51d2b3",
+  "catalogue_sha256": "abe7dadb188a7a44a1a74f0baf31b84e0db2f790b9295e1bf07ad7606a51d2b3",
+  "fetched": "2026-11-05T08:25:45Z",
+  "chars": 7398,
+  "portal_id": "18858",
+  "tip": "DECIZIE"
+ }
+}
