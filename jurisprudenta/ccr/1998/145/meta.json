@@ -1,0 +1,163 @@
+{
+ "key": "dcc-145-1998",
+ "label": "Decizia CCR nr. 145/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "145",
+ "date": "1998-10-27",
+ "year": "1998",
+ "heading": "DECIZIE nr. 145 din 27 octombrie 1998",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "502",
+  "bis": false,
+  "date": "1998-12-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "44/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibila excepţia de neconstituţionalitate a dispoziţiilor art. 96 alin. (1) din Legea nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi, ridicată de Societatea Comercială \"Şantierul Naval\" - S.A. din Tulcea în Dosarul nr. 44/1997 al Curţii de Conturi - Camera de conturi - Colegiul jurisdicţional Tulcea.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1993",
+    "number": "54",
+    "year": "1993",
+    "path": "lege/1993/54"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-12-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16461",
+  "text_sha256": "b400fdd8c1844c5ae587d32ba42a4b21c0fe9e6a9e75d334928c0487701c9a67",
+  "catalogue_sha256": "b400fdd8c1844c5ae587d32ba42a4b21c0fe9e6a9e75d334928c0487701c9a67",
+  "fetched": "2026-11-02T23:02:47Z",
+  "chars": 5026,
+  "portal_id": "16461",
+  "tip": "DECIZIE"
+ }
+}
