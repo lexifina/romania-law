@@ -1,0 +1,211 @@
+{
+ "key": "dcc-117-2003",
+ "label": "Decizia CCR nr. 117/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "117",
+ "date": "2003-03-18",
+ "year": "2003",
+ "heading": "DECIZIE nr. 117 din 18 martie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei Guvernului nr. 58/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 21/1992 privind protecţia consumatorilor, aprobată cu modificări prin Legea nr. 37/2002, precum şi a dispoziţiilor art. 7 lit. a) ultima liniuţa din ordonanţa",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "272",
+  "bis": false,
+  "date": "2003-04-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.512/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 58/2000",
+    "number": "58",
+    "year": "2000",
+    "path": "og/2000/58"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a Ordonanţei Guvernului nr. 58/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 21/1992 privind protecţia consumatorilor, aprobată cu modificări prin Legea nr. 37/2002, precum şi a dispoziţiilor art. 7 lit. a) ultima liniuţa din ordonanţa, excepţie ridicată de Societatea Comercială \"PAN CAR\" - S.R.L. din Fundulea în Dosarul nr. 1.512/2002 al Tribunalului Calarasi.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 58/2000",
+    "number": "58",
+    "year": "2000",
+    "path": "og/2000/58"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 98/1994",
+    "number": "98",
+    "year": "1994",
+    "path": "lege/1994/98"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-04-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/43344",
+  "text_sha256": "a06f1d79182037436d91240903d92d97f8b93550c932d1e95a0130bb07a9b926",
+  "catalogue_sha256": "a06f1d79182037436d91240903d92d97f8b93550c932d1e95a0130bb07a9b926",
+  "fetched": "2026-11-02T23:28:28Z",
+  "chars": 13125,
+  "portal_id": "43344",
+  "tip": "DECIZIE"
+ }
+}
