@@ -1,0 +1,220 @@
+{
+ "key": "dcc-127-2004",
+ "label": "Decizia CCR nr. 127/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "127",
+ "date": "2004-03-18",
+ "year": "2004",
+ "heading": "DECIZIE nr. 127 din 18 martie 2004",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 17 alin. (1), (2) şi (3) din Ordonanţa Guvernului nr. 10/2004 privind procedura reorganizarii judiciare şi a falimentului instituţiilor de credit, precum şi a dispoziţiilor art. 23 alin. (1) din Legea nr. 47/1992 privind organizarea şi functionarea Curtii Constitutionale, republicată",
+ "issuer": "CURTEA CONSTITUTIONALA",
+ "mo": {
+  "number": "449",
+  "bis": false,
+  "date": "2004-05-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.041/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 10/2004",
+    "number": "10",
+    "year": "2004",
+    "path": "og/2004/10"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 17 alin. (1), (2) şi (3) din Ordonanţa Guvernului nr. 10/2004 privind procedura reorganizarii judiciare şi a falimentului instituţiilor de credit, excepţie ridicata de Societatea Comerciala \"Smav Exim\" - S.R.L. şi Societatea Comerciala \"G Impex\" - S.R.L. din Cluj-Napoca în Dosarul nr. 8.041/2003 al Tribunalului Cluj - Sectia comerciala şi de contencios administrativ. 2. Respinge, ca fiind inadmisibila, excepţia de neconstitutionalitate a dispoziţiilor art. 23 alin. (1) din Legea nr. 47/1992 privind organizarea şi functionarea Curtii Constitutionale, republicată, excepţie ridicata de aceiasi autori în acelasi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 597/2002",
+    "number": "597",
+    "year": "2002",
+    "path": "lege/2002/597"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 83/1998",
+    "number": "83",
+    "year": "1998",
+    "path": "lege/1998/83"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 10/2004",
+    "number": "10",
+    "year": "2004",
+    "path": "og/2004/10"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52039",
+  "text_sha256": "4993a03a9d01fda97583d67fec589db3fba9e623d7a4ff2e4e96890c24f2162d",
+  "catalogue_sha256": "4993a03a9d01fda97583d67fec589db3fba9e623d7a4ff2e4e96890c24f2162d",
+  "fetched": "2026-11-04T11:51:31Z",
+  "chars": 17341,
+  "portal_id": "52039",
+  "tip": "DECIZIE"
+ }
+}
