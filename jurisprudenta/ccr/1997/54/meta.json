@@ -1,0 +1,221 @@
+{
+ "key": "dcc-54-1997",
+ "label": "Decizia CCR nr. 54/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "54",
+ "date": "1997-03-19",
+ "year": "1997",
+ "heading": "DECIZIE nr. 54 din 19 martie 1997*)",
+ "subtitle": "privind excepţiile de neconstituţionalitate a dispoziţiilor art. 330, ale art. 330^1 şi ale art. 330^2 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "174",
+  "bis": false,
+  "date": "1997-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "122C/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge excepţiile de neconstituţionalitate invocate de Ionescu Rodica, Enescu Georgeta Rodica Alice, Ionescu Marilena, Petanca Elena, Missirliu Alexandru, Veniamin Caterina, Veniamin George, Guliotti Ion Luca, Hariton Ana Maria, Hajnal Margareta, Ciurea Ion Constantin, Rădulescu Vasilichia, Patrascanu Maria Magdalena, Budeanu Radu Constantin Florin, Borsaru Irina Cristina Eugenia, Petculescu Ruxandra Olimpia Maria, Schmidt Carol Henning, Curca Harriet, Iacobescu Frederica Nicoline, Stirbu Constanta Aurelia Georgeta, Solacoglu Emilia, Solacoglu Theodora, Solacoglu Bucur Cristian, Vincenz Elena Elisabeta, Nemitescu Domnica Elena, Baz Svetlana, Coseru (Marcu) Ioana Zoe Dahlia şi Stoianovici Aurora în dosarele nr. 2.630/1996, nr. 2.628/1996, nr. 2.816/1996, nr. 2.631/1996, nr. 2.463/1996, nr. 2.375/1996, nr. 2.368/1996, nr. 2.280/1996, nr. 2.363/1996, nr. 1.155/1996, nr. 2.377/1996, nr. 2.464/1996, nr. 2.276/1996, nr. 1.613/1996, nr. 2.329/1996, nr. 2.332/1996, nr. 2.457/1996, nr. 2.809/1996, nr. 2.964/1996 şi nr. 2.175/1996 ale Curţii Supreme de Justiţie - Secţia civilă, privind: 1. dispoziţiile art. 330 şi ale art. 330^2 alin. 2 din Codul de procedură civilă; 2. dispoziţiile art. 330^1 şi ale art. 330^2 alin. 1 din Codul de procedură civilă, constatând ca excepţiile invocate în legătură cu aceste prevederi sunt lipsite de obiect.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "300",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1997",
+    "number": "17",
+    "year": "1997",
+    "path": "lege/1997/17"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11342",
+  "text_sha256": "8c229ff46e4a28bef315c9c53e5a8bde83fbef3683649953239fa62bb1ac2aca",
+  "catalogue_sha256": "8c229ff46e4a28bef315c9c53e5a8bde83fbef3683649953239fa62bb1ac2aca",
+  "fetched": "2026-11-04T12:54:10Z",
+  "chars": 8049,
+  "portal_id": "11342",
+  "tip": "DECIZIE"
+ }
+}
