@@ -1,0 +1,302 @@
+{
+ "key": "dcc-376-2004",
+ "label": "Decizia CCR nr. 376/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "376",
+ "date": "2004-09-30",
+ "year": "2004",
+ "heading": "DECIZIE nr. 376 din 30 septembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 37 din Legea contabilităţii nr. 82/1991, a Ordonanţei Guvernului nr. 22/1996 privind actualizarea şi completarea regimului general al contabilităţii, a Legii nr. 245/1998 pentru aprobarea cu modificări şi completări a Ordonanţei Guvernului nr. 22/1996, a Ordonanţei Guvernului nr. 61/2001 pentru modificarea şi completarea Legii contabilităţii nr. 82/1991, precum şi a Legii nr. 310/2002 pentru aprobarea cu modificări şi completări a Ordonanţei Guvernului nr. 61/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1015",
+  "bis": false,
+  "date": "2004-11-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "11.463/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contabilităţii nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 22/1996",
+    "number": "22",
+    "year": "1996",
+    "path": "og/1996/22"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 245/1998",
+    "number": "245",
+    "year": "1998",
+    "path": "lege/1998/245"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 61/2001",
+    "number": "61",
+    "year": "2001",
+    "path": "og/2001/61"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 310/2002",
+    "number": "310",
+    "year": "2002",
+    "path": "lege/2002/310"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 37 din Legea contabilităţii nr. 82/1991, a Ordonanţei Guvernului nr. 22/1996 privind actualizarea şi completarea regimului general al contabilităţii, a Legii nr. 245/1998 pentru aprobarea cu modificări şi completări a Ordonanţei Guvernului nr. 22/1996, a Ordonanţei Guvernului nr. 61/2001 pentru modificarea şi completarea Legii contabilităţii nr. 82/1991, precum şi a Legii nr. 310/2002 pentru aprobarea cu modificări şi completări a Ordonanţei Guvernului nr. 61/2001, excepţie ridicată de Societatea Comercială \"Continent Marine Enterprise\" - S.A. în Dosarul nr. 11.463/2003 al Judecătoriei Sectorului 6 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contabilităţii nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 22/1996",
+    "number": "22",
+    "year": "1996",
+    "path": "og/1996/22"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 245/1998",
+    "number": "245",
+    "year": "1998",
+    "path": "lege/1998/245"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 61/2001",
+    "number": "61",
+    "year": "2001",
+    "path": "og/2001/61"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 310/2002",
+    "number": "310",
+    "year": "2002",
+    "path": "lege/2002/310"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-11-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/56361",
+  "text_sha256": "687b45eec2a97875629cb67786bfaf1ff43d395eb76b4a54969d58552bc24499",
+  "catalogue_sha256": "687b45eec2a97875629cb67786bfaf1ff43d395eb76b4a54969d58552bc24499",
+  "fetched": "2026-11-02T23:41:30Z",
+  "chars": 20775,
+  "portal_id": "56361",
+  "tip": "DECIZIE"
+ }
+}
