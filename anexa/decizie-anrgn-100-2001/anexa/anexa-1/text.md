@@ -1,0 +1,10 @@
+# Anexa 1
+Anexa 1
+------- la regulament ------------- MODEL-TIP DE PROCURA SPECIALĂ nr. ....... din data de ......... În temeiul art. 5 lit. a) din Regulamentul privind organizarea și funcționarea corpului auditorilor de terta parte din sectorul gazelor naturale, aprobat prin Decizia președintelui ANRGN nr. 100/2001, se mandatează următoarele persoane, având calitatea de auditori de terta parte:
+a) .................................;
+b) .................................;
+c) ................................ .
+Persoanele nominalizate la paragraful 1 sunt mandatate, în baza autorizației de terta parte și a prezentei procuri speciale, să efectueze, în perioada .............., controale și inspecții la .................., cu sediul/domiciliul în ................, în vederea verificării modului de respectare a reglementărilor emise de ANRGN. Președintele Autorității Naționale de
+Reglementare în Domeniul Gazelor Naturale, ..........................................
+Anexa 2
+-------- la regulament ------------- AUTORIZAȚIE DE AUDITOR DE TERTA PARTE ÎN SECTORUL GAZELOR NATURALE nr. ........... din data de ........... Domnul/Doamna ....................., având calitatea de auditor de terta parte în sectorul gazelor naturale, posesor/posesoare al/a legitimatiei nr. ......., eliberata de ANRGN în data de ........., în conformitate cu prevederile Regulamentului privind organizarea și funcționarea corpului auditorilor de terta parte din sectorul gazelor naturale, aprobat prin Decizia președintelui ANRGN nr. 100/2001, se autorizeaza să efectueze, în vederea verificării modului de respectare a reglementărilor emise de ANRGN, controale și inspecții la agenții economici din sectorul gazelor naturale, precum și la consumatorii de gaze naturale și/sau de gaz petrolier lichefiat - GPL. Autorizația este valabilă pentru o perioadă de 2 ani. Data eliberării ................. Președintele Autorității Naționale de Reglementare în Domeniul Gazelor Naturale, ...................................... ---------------
