@@ -1,0 +1,23 @@
+# DECIZIE nr. 320*) din 8 iulie 1997
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 330 şi următoarele din Codul de procedură civilă
+Notă
+*) Definitivă prin nerecurare.
+Lucian Stangu - preşedinte Romul Petru Vonica - judecător Victor Dan Zlatescu - judecător Claudia Miu - magistrat-asistent Completul de judecată, convocat potrivit art. 24 alin. (2) din Legea nr. 47/1992, fără citarea părţilor, examinând excepţia de neconstituţionalitate, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 16 aprilie 1997, pronunţată în Dosarul nr. 2.970/1996, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 330 şi următoarele din Codul de procedură civilă, invocată de intimaţii-reclamanţi Ciulache Sorica, Ciulache Adriana, Ciulache Grigore-Nicolae şi Ciulache Florin.
+În motivarea excepţiei s-a susţinut ca dispoziţiile atacate contravin prevederilor Convenţiei europene a drepturilor omului.
+Exprimandu-şi opinia, instanţa suprema apreciază ca excepţia este neîntemeiată.
+CURTEA, având în vedere încheierea de sesizare, raportul întocmit de judecătorul-raportor, actele şi lucrările dosarului, dispoziţiile legale atacate, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, retine următoarele:
+În temeiul art. 144 lit. c) din Constituţie şi al art. 23 din Legea nr. 47/1992, Curtea urmează să soluţioneze excepţia referitoare la dispoziţiile art. 330 şi următoarele din Codul de procedură civilă, cu care a fost legal sesizată.
+Curtea s-a pronunţat cu privire la constituţionalitatea art. 330, art. 330^2, art. 330^3 şi a art. 330^4 din Codul de procedură civilă prin Decizia nr. 73 din 4 iunie 1996, rămasă definitivă prin Decizia nr. 96 din 24 septembrie 1996, publicate în Monitorul Oficial al României, Partea I, nr. 251 din 17 octombrie 1996 şi, respectiv, nr. 255 din 22 octombrie 1996, constatând, pe de o parte, ca prevederile art. 330, ale art. 330^2 alin. 2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă sunt constituţionale, iar pe de altă parte, admiţând excepţia de neconstituţionalitate a art. 330^2 alin. 1 din Codul de procedură civilă.
+Având în vedere ca un text declarat neconstitutional nu mai poate face obiectul unei noi excepţii de neconstituţionalitate, pentru ca, potrivit art. 145 alin. (2) din Constituţie şi art. 26 alin. (5) din Legea nr. 47/1992, deciziile definitive ale Curţii Constituţionale sunt obligatorii erga omnes, rezultă ca excepţia privind art. 330^2 alin. 1 din Codul de procedură civilă este lipsită de obiect, urmând să fie respinsă ca vadit nefondata.
+De asemenea, urmează să fie respinsă ca vadit nefondata şi excepţia privind dispoziţiile art. 330, ale art. 330^2 alin. 2, ale art. 330^3, precum şi ale art. 330^4 din Codul de procedură civilă, întrucât nu au intervenit elemente noi care să determine schimbarea practicii constante a Curţii Constituţionale.
+Privitor la constituţionalitatea dispoziţiilor art. 330^1 din Codul de procedură civilă, Curtea constata ca acestea au fost modificate prin Legea nr. 17/1997, publicată în Monitorul Oficial al României, Partea I, nr. 26 din 18 februarie 1997, având următorul cuprins:
+"Pentru motivul prevăzut la art. 330 pct. 1, recursul în anulare se poate declara în termen de 6 luni de la data când hotărârea judecătorească a rămas irevocabilă.
+Pentru motivul prevăzut de art. 330 pct. 2, recursul în anulare se poate declara în termen de 6 luni de la data rămânerii definitive a hotărârii de condamnare".
+Este de reţinut ca a fost astfel înlăturată prevederea potrivit căreia recursul în anulare se putea declara oricând.
+Cum însă autorul excepţiei nu a pus în discuţie caracterul neconstitutional al acestui termen de 6 luni, urmează ca şi excepţia ce vizează prevederile art. 330^1 să fie respinsă ca vadit nefondata.
+Pentru considerentele expuse mai sus, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 24 alin. (2) şi al art. 25 din Legea nr. 47/1992, în unanimitate, CURTEA În numele legii DECIDE:
+Respinge ca vadit nefondata excepţia de neconstituţionalitate, invocată de intimaţii-reclamanţi Ciulache Sorica, Ciulache Adriana, Ciulache Grigore-Nicolae şi Ciulache Florin în Dosarul nr. 2.970/1996 al Curţii Supreme de Justiţie - Secţia civilă, privind: - dispoziţiile art. 330, ale art. 330^1, ale art. 330^2 alin. 2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă; - dispoziţiile art. 330^2 alin. 1 din Codul de procedură civilă, ca fiind lipsită de obiect.
+Cu recurs în termen de 10 zile de la comunicare.
+Pronunţată la data de 8 iulie 1997.
+PREŞEDINTE, prof.univ.dr. Lucian Stangu Magistrat-asistent, Claudia Miu -----------
