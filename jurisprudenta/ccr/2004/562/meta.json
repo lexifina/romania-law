@@ -1,0 +1,302 @@
+{
+ "key": "dcc-562-2004",
+ "label": "Decizia CCR nr. 562/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "562",
+ "date": "2004-12-16",
+ "year": "2004",
+ "heading": "DECIZIE nr. 562 din 16 decembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. III alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 33/2001 privind unele măsuri referitoare la salarizarea funcţionarilor publici şi a altor categorii de personal din sectorul bugetar, precum şi a personalului din organele autorităţii judecătoreşti, ale art. 12 alin. (4) din Legea bugetului de stat pe anul 2002 nr. 743/2001, ale art. 10 alin. (3) din Legea bugetului de stat pe anul 2003 nr. 631/2002 şi ale art. 9 alin. (7) din Legea bugetului de stat pe anul 2004 nr. 507/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "202",
+  "bis": false,
+  "date": "2005-03-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. III alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 33/2001 privind unele măsuri referitoare la salarizarea funcţionarilor publici şi a altor categorii de personal din sectorul bugetar, precum şi a personalului din organele autorităţii judecătoreşti, ale art. 12 alin. (4) din Legea bugetului de stat pe anul 2002 nr. 743/2001 şi ale art. 10 alin. (3) din Legea bugetului de stat pe anul 2003 nr. 631/2002, excepţie ridicată de Hach Elena, Benedek Andreea, Aramă Ionel, Gherţa Constantin, Chindea Codruţa, Darabană Dragoş, Romanescu Adriana, Deneanu Alina, Fleckhammer Robert, Dumitrescu Camelia, Şteff Mihaela, Chichernea Oana, Cardaşol Cristina, Câmpean Daniela, Arsenescu Nadia, Pârlog Bogdan Ciprian, Dinu Irina, Corca Gabriela Sanda, Morar Angela, Gavrilă Eugenia, Narinescu Cornelia, Ferentz Gabriela, Stroie Livia, Jalea (Voicu) Angelica, Paraschiv Simona Manuela, Neagu Mihaela, Moarcăş Alexandra, Lăcan-Rus Elena Mihaela, Nistor Nela Marcela, Răduţoiu Ioan Florin, Comăniciu Anca, Drugă Vasile, Achim Gheorghe, Fulop Eugenia, Matei Maria, Ichim Cristian, Lazăr Ioan, Ungureanu Elena, Ceapă Mihaela, Petrişor Carmen, Chirciu Gabriela, Şerbănucă Mihaela, Bănucu Ana, Şandru Camelia Adriana, Godan Dumitru Ionel, Pielaru Ion, Roncea Elena Mirela, Şofletea Elena Marcela, Opriş Steluţa Camelia, Albu Mariana, Răduleţ Vionela, Hăşfălean Magdalena, Petrescu Camelia, Neagu Creola, Dicu Răzvan Cosmin, Borcoman Cătălin, Cor Alexandru, Coman Luminiţa, Drilea Marian, Neagu Cristina Paula, Glica Ioan, Teleky Lucreţia, Toroiman Alen, Câmpeanu Cristiana, Mateş Daniela Sanda, Căciulă (Bogdan) Ioana, Diaconu Ramona, Scutea Gabriela, Bica Alina, Sulu Marius, Dobrescu Cristina, Fenehciu Elisabeta, Orghidan Liliana, Crăciun Camelia, Cucu Simona, Gigea Calboreanu, Volosciuc Maria, Barbălată Ana Roxana, Şaramet Adrian, Simion Eugeniu, Handrea Ovidiu, Orzea Ilie, Popeneciu Ionel, Băncilă Mădălina, Coliban Irina, Panaitescu Andreea, Benga Sorin, Vasilescu Nicolae, Cârlan Ioan, Juravschi Constantin, Vasilache Sorin, Stoica Gabriel Doru, Şelaru Valentin, Enescu Cristina, Popa Maria, Negulici Victoria, Livadaru Marcela, Haideţ Cristina, Moraru Emilia, Codruz (Stanbeca) Carmen, Barbălată Ana şi Dragomir Marilena în Dosarul nr. 4.166/M/2004 al Tribunalului Braşov - Secţia civilă. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (7) din Legea bugetului de stat pe anul 2004 nr. 507/2003, excepţie ridicată de aceiaşi autori, în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "41-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 743/2001",
+    "number": "743",
+    "year": "2001",
+    "path": "lege/2001/743"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 631/2002",
+    "number": "631",
+    "year": "2002",
+    "path": "lege/2002/631"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 507/2003",
+    "number": "507",
+    "year": "2003",
+    "path": "lege/2003/507"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 237/2000",
+    "number": "237",
+    "year": "2000",
+    "path": "oug/2000/237"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 83/2000",
+    "number": "83",
+    "year": "2000",
+    "path": "og/2000/83"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-03-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/59774",
+  "text_sha256": "a0c3dc0f915544239a074a8176f72e4e0ee8116bc634bb8735348db4d9cbca77",
+  "catalogue_sha256": "a0c3dc0f915544239a074a8176f72e4e0ee8116bc634bb8735348db4d9cbca77",
+  "fetched": "2026-11-02T23:53:50Z",
+  "chars": 21359,
+  "portal_id": "59774",
+  "tip": "DECIZIE"
+ }
+}
