@@ -1,0 +1,60 @@
+# Anexa
+LISTA cu gradatori autorizați
+Nr. crt. Numele Prenumele
+1. Almăjan Maria
+2. Androne Alina-Ionela
+3. Anton Gina-Loredana
+4. Apostu Ovidiu
+5. Bădără Cristinel
+6. Blîndu Cristina
+7. Bocai Eleonor
+8. Bogdănescu Mihai Niculae
+9. Butnariu Dorin
+10. Butucă Adrian
+11. Chițu Dorina
+12. Ciocan Georgeta
+13. Ciripoiu Victorița
+14. Cobzaru Mărăndica
+15. Cotic Rodica
+16. Crăciun Viorel-Antonel
+17. Craioveanu Laurențiu-Cornel
+18. Cristea Anca
+19. Dan Mioara
+20. Derședan Vasile-Lucian
+21. Diaconu Gabriel
+22. Dinu Mariana-Cristina
+23. Dior Dorina
+24. Drăguescu Lucia
+25. Dunose Ionel
+26. Geacarel Florin
+27. Georgescu Matilda
+28. Gheorghe Florina
+29. Gheorghe Florina
+30. Ilie Maria-Cătălina
+31. Ivănuș Alexandru
+32. Lungu Gheorghe
+33. Manea Mariana
+34. Mihai Florentina
+35. Mirea Cătălin
+36. Mitu Dumitru
+37. Moise Constantin
+38. Moraru Cristian-Alexandru
+39. Muscă Luminița-Elena
+40. Negoiță Stoica
+41. Olaru Carmen-Ștefania
+42. Pană Fănica
+43. Pîrvuleț Victoria
+44. Pitru Gheorghe
+45. Schmidt Viorica
+46. Stancu Loredana-Cristina
+47. Ștefan Elena
+48. Stoianof Nicușor
+49. Tănase Tănase
+50. Tone Genica
+51. Tudor Mitică
+52. Turcu Maria
+53. Ungureanu Maria
+54. Ursu Rodica
+55. Zsisku Istvan
+56. Zsurka Renata
+-----------
