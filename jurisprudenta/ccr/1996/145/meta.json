@@ -1,0 +1,289 @@
+{
+ "key": "dcc-145-1996",
+ "label": "Decizia CCR nr. 145/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "145",
+ "date": "1996-11-25",
+ "year": "1996",
+ "heading": "DECIZIE nr. 145*) din 25 noiembrie 1996",
+ "subtitle": "referitoare la excepţiile de neconstituţionalitate a dispoziţiilor art. 330, ale art. 330^1, ale art. 330^2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "53",
+  "bis": false,
+  "date": "1997-03-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "498/1996",
+  "533/1996",
+  "499/1996",
+  "559/1996",
+  "3.419/1996",
+  "494/1996",
+  "3.794/1995",
+  "1.456/1996",
+  "1.372/1996",
+  "1.284/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 59/1993",
+    "number": "59",
+    "year": "1993",
+    "path": "lege/1993/59"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondate excepţiile de neconstituţionalitate invocate de Enescu Maria, Hazarian Saram, Hazarian Anahid Margot, Olteanu Ecaterina, Podgoreanu Zoe, Stoicescu Şerban Dinu, Barbu Mihai, Barbu Tania, Poenaru Nicolae, Corbu Daniela, Matei Elvira Maria, Matei Alexandru Nicolae, Mirica Stefana, Morărescu Olga Melania, Moldoveanu Cornel, Moldoveanu Victor, Sava Maria, Chitu Constantin, Sihota Dorina, Gatej Eugenia, Rivalet Carmen, Chitu Niculina, Oghina Gratiela, Topciu Valentin Sergiu, Topciu Mihail, Stoiculescu Viorica, Stefanescu Aurelia, Angelescu Gafton Victoria şi Turcas Emil, în dosarele nr. 498/1996, nr. 497/1996, nr. 533/1996, nr. 494/1996, nr. 3.794/1995, nr. 1.456/1996, nr. 1.372/1996, nr. 1.284/1996, nr. 3.416/1995, nr. 1.163/1996, nr. 499/1996, nr. 2.246/1996, nr. 2.737/1996, nr. 1.258/1996, nr. 1.237/1996, nr. 559/1996, nr. 1.195/1996 şi nr. 3.419/1996 ale Curţii Supreme de Justiţie - Secţia civilă, privind: 1. Dispoziţiile art. 330, ale art. 330^2 alin. 2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă. 2. Dispoziţiile art. 330^1 din Codul de procedură civilă, constatind ca, prin Decizia nr. 96 din 24 septembrie 1996, Curtea Constituţională a statuat ca prevederile acestui articol sunt neconstituţionale în măsura în care se aplică hotărîrilor pronunţate înainte de 26 iulie 1993, data intrării în vigoare a Legii nr. 59/1993. 3. Dispoziţiile art. 330^2 alin. 1 din Codul de procedură civilă, constatind ca excepţiile invocate în legătură cu aceste prevederi sunt lipsite de obiect.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 59/1993",
+    "number": "59",
+    "year": "1993",
+    "path": "lege/1993/59"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8729",
+  "text_sha256": "df72ec11e3bfbf0476593bed9fd8ae91ed33a32a33b548fca3b633d019424a06",
+  "catalogue_sha256": "df72ec11e3bfbf0476593bed9fd8ae91ed33a32a33b548fca3b633d019424a06",
+  "fetched": "2026-11-02T22:53:52Z",
+  "chars": 11030,
+  "portal_id": "8729",
+  "tip": "DECIZIE"
+ }
+}
