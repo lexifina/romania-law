@@ -1,0 +1,178 @@
+{
+ "key": "dcc-141-1998",
+ "label": "Decizia CCR nr. 141/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "141",
+ "date": "1998-10-27",
+ "year": "1998",
+ "heading": "DECIZIE nr. 141 din 27 octombrie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 din Hotărârea Guvernului nr. 11/1997 pentru modificarea şi completarea Normelor metodologice privind aplicarea Legii nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului, stabilite prin Hotărârea Guvernului nr. 20/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "468",
+  "bis": false,
+  "date": "1998-12-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.254/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 11/1997",
+    "number": "11",
+    "year": "1997",
+    "path": "hg/1997/11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 20/1996",
+    "number": "20",
+    "year": "1996",
+    "path": "hg/1996/20"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibila excepţia de neconstituţionalitate a dispoziţiilor art. 5 din Hotărârea Guvernului nr. 11/1997, ridicată de Parchetul de pe lângă Judecătoria Fagaras în Dosarul nr. 4.254/1997 al Judecătoriei Fagaras.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 11/1997",
+    "number": "11",
+    "year": "1997",
+    "path": "hg/1997/11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 20/1996",
+    "number": "20",
+    "year": "1996",
+    "path": "hg/1996/20"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16317",
+  "text_sha256": "b9fe7c5b39da990304dc429ca28d6e3232a7d3b8b61d835472ee54907b9f1eaa",
+  "catalogue_sha256": "b9fe7c5b39da990304dc429ca28d6e3232a7d3b8b61d835472ee54907b9f1eaa",
+  "fetched": "2026-11-02T23:02:09Z",
+  "chars": 5865,
+  "portal_id": "16317",
+  "tip": "DECIZIE"
+ }
+}
