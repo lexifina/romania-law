@@ -1,0 +1,129 @@
+{
+ "key": "dcc-24-1996",
+ "label": "Decizia CCR nr. 24/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "24",
+ "date": "1996-03-05",
+ "year": "1996",
+ "heading": "DECIZIE Nr. 24*) din 5 martie 1996",
+ "subtitle": "privind excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 756/1994 privind mărfurile exceptate de la plata taxelor vamale de import în temeiul prevederilor Legii nr. 83/1993, modificată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "94",
+  "bis": false,
+  "date": "1996-05-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 756/1994",
+    "number": "756",
+    "year": "1994",
+    "path": "hg/1994/756"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 756/1994, invocată de Societatea Comercială \"Avicola\" - S.A. Iaşi în Dosarul nr. 213/E/1995 al Judecătoriei Iaşi.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 756/1994",
+    "number": "756",
+    "year": "1994",
+    "path": "hg/1994/756"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8051",
+  "text_sha256": "9aa1ae19d83b69fa4df8a355af4326f32fd7dd843ab44b85d313d2573d9a4896",
+  "catalogue_sha256": "9aa1ae19d83b69fa4df8a355af4326f32fd7dd843ab44b85d313d2573d9a4896",
+  "fetched": "2026-11-02T22:50:33Z",
+  "chars": 4418,
+  "portal_id": "8051",
+  "tip": "DECIZIE"
+ }
+}
