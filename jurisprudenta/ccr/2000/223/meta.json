@@ -1,0 +1,217 @@
+{
+ "key": "dcc-223-2000",
+ "label": "Decizia CCR nr. 223/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "223",
+ "date": "2000-11-14",
+ "year": "2000",
+ "heading": "DECIZIE nr. 223 din 14 noiembrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei Guvernului nr. 32/1999 privind instituirea sistemului de cupoane pentru agricultori în anul 1999, aprobată prin Legea nr. 27/2000, a prevederilor Hotărârii Guvernului nr. 102/1999 pentru aprobarea Normelor metodologice privind modul de acordare, distribuire, utilizare şi decontare a cupoanelor pentru agricultori în anul 1999, precum şi plata comisioanelor şi a prevederilor Hotărârii Guvernului nr. 103/1999 pentru stabilirea bunurilor şi serviciilor care pot fi achitate pe bază de cupoane pentru agricultori în anul 1999, precum şi a valorii unui cupon",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "49",
+  "bis": false,
+  "date": "2001-01-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.138/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 32/1999",
+    "number": "32",
+    "year": "1999",
+    "path": "og/1999/32"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 102/1999",
+    "number": "102",
+    "year": "1999",
+    "path": "hg/1999/102"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 103/1999",
+    "number": "103",
+    "year": "1999",
+    "path": "hg/1999/103"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a prevederilor  Ordonanţei Guvernului nr. 32/1999  privind instituirea sistemului de cupoane pentru agricultori în anul 1999, aprobată prin  Legea nr. 27/2000 , a prevederilor  Hotărârii Guvernului nr. 102/1999  pentru aprobarea Normelor metodologice privind modul de acordare, distribuire, utilizare şi decontare a cupoanelor pentru agricultori în anul 1999, precum şi plata comisioanelor şi a prevederilor  Hotărârii Guvernului nr. 103/1999  pentru stabilirea bunurilor şi serviciilor care pot fi achitate pe bază de cupoane pentru agricultori în anul 1999, precum şi a valorii unui cupon, excepţie ridicată de Societatea agricolă Inotesti din comuna Colceag, în Dosarul nr. 4.138/1999 al Curţii de Apel Ploiesti - Secţia de contencios administrativ şi comercial.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 14 noiembrie 2000.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Mihai Paul Cotta  ────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 32/1999",
+    "number": "32",
+    "year": "1999",
+    "path": "og/1999/32"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 102/1999",
+    "number": "102",
+    "year": "1999",
+    "path": "hg/1999/102"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 103/1999",
+    "number": "103",
+    "year": "1999",
+    "path": "hg/1999/103"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-01-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/26372",
+  "text_sha256": "33497bf51d86d36710f4fcb8fd44261c3e4237bc20367e0565010e186bf34242",
+  "catalogue_sha256": "33497bf51d86d36710f4fcb8fd44261c3e4237bc20367e0565010e186bf34242",
+  "fetched": "2026-11-02T23:12:37Z",
+  "chars": 11925,
+  "portal_id": "26372",
+  "tip": "DECIZIE"
+ }
+}
