@@ -1,0 +1,7 @@
+Avand in vedere raportul comun de specialitate nr.13622/26.11.1992 al Directiei generale de programe de dezvoltare economico-sociala si Directiei generale de gospodarie comunala, prin care se propune avizarea noilor tarif pentru serviciile prestate de Regia autonoma de distributia energiei termic in orasul Buftea si comunele Sectorului agricol Ilfov;
+In baza Hotararilor Guvernului Romaniei nr. 211/1991, privind unele ma-suri in domeniul preturilor; nr.464/1991, privind reglementarea regimului preturilor; nr.776/1991, cu privire la regimul de ppreturi si tarife, in conditiile unificarii cursurilor de schimb ale leului si nr.412/1992, cu privire la modul de negociere a preturilor si tarifelor in conditiile libe-ralizarii cursului de schimb al leului;
+In temeiul art. 21 lit."g" si al art. 29 din Legea nr.68/1991 privind administratia publica locala;
+Consiliul local al municipiului Bucuresti, H o t a r a s t e :
+Art.- Se avizeaza noile tarife stabilite de Regia autonoma de distributie a energiei termice pentru serviciile prestate in orasul Buftea si comunele Sectorului Agricol Ilfov, prevazute in anexa, care face parte integranta din prezenta hotarare.
+Art.2- Noile tarife intra in vigoare, pentru agentii economici incepind cu data de 15 octombrie 1992, iar pentru populatie, incepind cu data de 1 noiembrie 1992.
+Art.3- De la data aplicarii noilor tarife, se abroga Decizia nr. 1013/ 1991.
