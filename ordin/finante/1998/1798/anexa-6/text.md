@@ -1,0 +1,13 @@
+# Anexa 3
+Nr. și data înregistrării la autoritatea fiscală (3)..................
+CERERE referitoare la eliberarea Certificatului de rezidență fiscală pentru aplicarea Convenției de evitare a dublei impuneri, încheiată între România și (1)......., pentru persoane fizice române Subsemnatul................, rezident în România, cu domiciliul în localitatea..........., adresa.................., deținătorul buletinului/cărții de identitate seria..... nr......, eliberat(a) de......... la data de........., solicit să mi se elibereze Certificatul de rezidență fiscală pe anul (2)......., pentru a fi prezentat organelor fiscale din (1)......., în vederea aplicării prevederilor Convenției de evitare a dublei impuneri, încheiată între România și (1)............. Se anexează copia de pe buletinul/cartea de identitate.
+Numele și prenumele.............
+Semnătura.......................
+Data..................
+PRECIZĂRI privind completarea cererii referitoare la eliberarea certificatului de rezidență fiscală pentru persoane fizice române
+A) Datele din cuprinsul cererii se dactilografiază de către solicitant.
+B) Explicații privind completarea cererii:
+(1) Se înscrie denumirea statului pentru care se solicită aplicarea convenției de evitare a dublei impuneri.
+(2) Se înscrie anul pentru care se solicită eliberarea certificatului de rezidență fiscală.
+(3) Cererea referitoare la eliberarea certificatului de rezidență fiscală se depune:
+- la administrația financiară, în cazul în care persoana fizică își are domiciliul în raza administrativ-teritorială a acesteia; - la direcția generală a finanțelor publice și controlului financiar de stat județeană, în cazul în care persoana fizică își are domiciliul în altă localitate din raza administrativ-teritorială a județului decât cea pentru care are competența administrația financiară.
