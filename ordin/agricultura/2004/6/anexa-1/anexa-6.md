@@ -1,0 +1,2 @@
+# Anexa 6
+------- la regulament ------------- DOCUMENTAȚIA care se depune de către agenții economici, persoane juridice, în vederea autorizării îngrășămintelor chimice noi 1. Caracterizarea produsului de către producător 2. Acordul producătorului de îngrășăminte pentru distribuitorul care solicită omologarea 3. Informații referitoare la efectele asupra sănătății și a mediului, împreună cu informații de securitate 4. Buletine de analiză referitoare la compoziția fizico-chimică a îngrășămintelor și metodele de analiză utilizate 5. Alte informații considerate utile.
