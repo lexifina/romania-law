@@ -1,0 +1,220 @@
+{
+ "key": "dcc-304-2002",
+ "label": "Decizia CCR nr. 304/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "304",
+ "date": "2002-11-12",
+ "year": "2002",
+ "heading": "DECIZIE nr. 304 din 12 noiembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4^3 alin. (3) şi ale art. 32^31 din Ordonanţa de urgenta a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, modificată prin Legea nr. 99/1999 privind unele măsuri pentru accelerarea reformei economice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "915",
+  "bis": false,
+  "date": "2002-12-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "5.813/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "4-3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32-31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 32^31 din Ordonanţa de urgenta a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, introduse prin Legea nr. 99/1999 privind unele măsuri pentru accelerarea reformei economice, excepţie ridicată de Asociaţia \"Texromed\" din Medias în Dosarul nr. 5.813/2002 al Tribunalului Bucureşti - Secţia comercială. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 4^3 alin. (3) din acelaşi act normativ, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "4-3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32-31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32-28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32-28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 137/2002",
+    "number": "137",
+    "year": "2002",
+    "path": "lege/2002/137"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32-31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/40668",
+  "text_sha256": "63d4a4583e10b28948d03e3575f0a8349a32e558b53750359e939753246c3455",
+  "catalogue_sha256": "63d4a4583e10b28948d03e3575f0a8349a32e558b53750359e939753246c3455",
+  "fetched": "2026-11-05T12:48:02Z",
+  "chars": 12717,
+  "portal_id": "40668",
+  "tip": "DECIZIE"
+ }
+}
