@@ -1,0 +1,26 @@
+# DECIZIE nr. 376 din 14 octombrie 1997
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 330 din Codul de procedură civilă
+Ioan Muraru - preşedinte Costica Bulai - judecător Mihai Constantinescu - judecător
+Romul Petru Vonica - judecător Victor Dan Zlatescu - judecător Raul Petrescu - procuror Claudia Miu - magistrat-asistent Pe rol, pronunţarea asupra recursului declarat de Miletineanu Gheorghe împotriva Decizie Curţii Constituţionale nr. 56 din 20 martie 1997 *). ----------
+Notă
+*) Decizia Curţii Constituţionale nr. 56 din 20 martie 1997 a fost publicată în Monitorul Oficial al României, Partea I, nr. 306 din 11 noiembrie 1997.
+Dezbaterile au avut loc în şedinţa publică din data de 30 septembrie 1997, în prezenta reprezentantului Ministerului Public şi în lipsa părţilor legal citate, şi au fost consemnate în încheierea de la acea data, când Curtea, având nevoie de timp pentru a delibera, a amânat pronunţarea pentru data de 14 octombrie 1997.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 21 ianuarie 1997, pronunţată în Dosarul nr. 2.766/1996 al acestei instanţe, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 330 din Codul de procedură civilă, ridicată de Miletineanu Gheorghe.
+Prin Decizia nr. 56 din 20 martie 1997, Curtea Constituţională a respins ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 330 din Codul de procedură civilă. Aceasta soluţie s-a fundamentat pe practica jurisdicţională a Curţii Constituţionale în materia recursului în anulare.
+Împotriva deciziei sus-menţionate a declarat recurs Miletineanu Gheorghe, în termen legal, pentru următoarele motive: - dispoziţiile art. 330 din Codul de procedură civilă sunt neconstituţionale, pentru ca acestea încalcă principiul constituţional potrivit căruia "în faţa instanţei toţi participanţii unui proces au drepturi şi îndatoriri egale, însă procurorul general, spre deosebire de celelalte părţi în proces, are dreptul sa exercite recursul în anulare, cale de atac care este numai la indemana sa". Se contravine astfel prevederilor art. 128 din Constituţie. Aceleaşi dispoziţii ale art. 330 din Codul de procedură civilă sunt neconstituţionale, se arata în continuare, pentru ca "nu este de conceput ca sa existe o cale de atac în cuprinsul căreia sa nu se prevadă şi termenul de exercitare a acestuia" şi pentru ca textul legal atacat aduce "o puternica uzurpare a stabilitatii raporturilor sociale şi juridice".
+Un alt motiv de recurs se referă la faptul ca prin recursul în anulare procurorul general critica instanţele judecătoreşti pentru ca şi-au depăşit atribuţiile atunci când au reţinut ca sunt competente sa judece şi acţiunile privitoare la imobile trecute în proprietatea statului în temeiul Decretului nr. 223/1974.
+Potrivit art. 24 alin. (3) din Legea nr. 47/1992, întrucât excepţia a fost respinsă ca vadit nefondata, s-au solicitat puncte de vedere celor două Camere ale Parlamentului şi Guvernului.
+Guvernul, în punctul sau de vedere, apreciază ca excepţia de neconstituţionalitate este nefondata, având în vedere practica jurisdicţională a Curţii Constituţionale în materia recursului în anulare.
+Camera Deputaţilor şi Senatul nu au comunicat punctele lor de vedere.
+CURTEA, având în vedere decizia atacat, motivele de recurs invocate, punctul de vedere al Guvernului, raportul întocmit de judecătorul-raportor, prevederile art. 330 din Codul de procedură civilă, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, constata următoarele:
+Recursul este neîntemeiat şi urmează să fie respins.
+Asupra constituţionalităţii dispoziţiilor art. 330 din Codul de procedură civilă, Curtea Constituţională s-a pronunţat prin Decizia nr. 73 din 4 iunie 1996, rămasă definitivă prin Decizia nr. 96 din 24septembrie 1996, publicate în Monitorul Oficial al României, Partea I, nr. 251 din 17 octombrie 1996, şi, respectiv, nr. 255 din 22 octombrie 1996, în sensul că dispoziţiile acestui text de lege sunt constituţionale.
+Pe calea recursului, recurentul invoca aceleaşi argumente ca şi în susţinerea excepţiei de neconstituţionalitate privind dispoziţiile art. 330 din Codul de procedură civilă.
+Exercitarea recursului în anulare de către procurorul general nu este de natura sa aducă atingere principiului egalităţii părţilor în proces, iar competenţa exclusiva a procurorului general de a exercita recursul în anulare se justifica prin interesul pe care îl reprezintă asigurarea separaţiei puterilor în stat, astfel încât recursul în anulare are în vedere interesele generale al societăţii, în scopul apărării ordinii de drept, a drepturilor şi liberatilor cetăţenilor în conformitate cu dispoziţiile art. 125, art. 128 şi ale art. 130 din Constituţie.
+Pentru motivele arătate, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 25 şi al art. 26 din Legea nr. 47/1992, CURTEA În numele legii DECIDE:
+Respinge recursul declarat de Miletineanu Gheorghe împotriva Deciziei Curţii Constituţionale nr. 56 din 20 martie 1997.
+Definitivă.
+Pronunţată în şedinţa publică din 14 octombrie 1997.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN MURARU
+Magistrat-asistent, Claudia Miu ----------
