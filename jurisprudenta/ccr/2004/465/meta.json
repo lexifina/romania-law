@@ -1,0 +1,181 @@
+{
+ "key": "dcc-465-2004",
+ "label": "Decizia CCR nr. 465/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "465",
+ "date": "2004-10-28",
+ "year": "2004",
+ "heading": "DECIZIE nr. 465 din 28 octombrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 27 alin. (5) liniuţa a treia din Legea fondului cinegetic şi a protecţiei vânatului nr. 103/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1229",
+  "bis": false,
+  "date": "2004-12-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "831/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului cinegetic şi a protecţiei vânatului nr. 103/1996",
+    "number": "103",
+    "year": "1996",
+    "path": "lege/1996/103"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 27 alin. (5) liniuţa a treia din Legea fondului cinegetic şi a protecţiei vânatului nr. 103/1996, excepţie ridicată de Bogdan Ianopol în Dosarul nr. 831/2004 al Curţii de Apel Iaşi.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului cinegetic şi a protecţiei vânatului nr. 103/1996",
+    "number": "103",
+    "year": "1996",
+    "path": "lege/1996/103"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58029",
+  "text_sha256": "c9773abb45689ca59ba7d177613d8b878d78002972cb45b94fa2de197a5ae40d",
+  "catalogue_sha256": "c9773abb45689ca59ba7d177613d8b878d78002972cb45b94fa2de197a5ae40d",
+  "fetched": "2026-11-02T23:47:49Z",
+  "chars": 14520,
+  "portal_id": "58029",
+  "tip": "DECIZIE"
+ }
+}
