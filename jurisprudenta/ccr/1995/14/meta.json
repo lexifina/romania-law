@@ -1,0 +1,157 @@
+{
+ "key": "dcc-14-1995",
+ "label": "Decizia CCR nr. 14/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "14",
+ "date": "1995-02-03",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 14*) din 3 februarie 1995",
+ "subtitle": "pentru soluţionarea excepţiei de neconstituţionalitate a art. 14 din Regulamentul privind procedura de constituire, atribuţiile şi funcţionarea comisiilor pentru stabilirea dreptului de proprietate privată asupra terenurilor, a modelului şi a modului de atribuire a titlurilor de proprietate, precum şi punerea în posesie a proprietarilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "135",
+  "bis": false,
+  "date": "1995-07-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2090/1994",
+  "2.090/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate a art. 14 (art. 15 după republicarea în Monitorul Oficial al României) din regulamentul elaborat în baza Legii nr. 18/1991 şi aprobat prin Hotărârea Guvernului nr. 131/1991, invocată de Munteanu Vasile în Dosarul nr. 2.090/1994 al Tribunalului Brăila.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "669",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-07-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/5779",
+  "text_sha256": "c8b2cc4edaae6ed978b44471893a4928b3436496f35e585758b00398d13b5b70",
+  "catalogue_sha256": "c8b2cc4edaae6ed978b44471893a4928b3436496f35e585758b00398d13b5b70",
+  "fetched": "2026-11-02T22:48:18Z",
+  "chars": 4912,
+  "portal_id": "5779",
+  "tip": "DECIZIE"
+ }
+}
