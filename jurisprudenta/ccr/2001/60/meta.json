@@ -1,0 +1,191 @@
+{
+ "key": "dcc-60-2001",
+ "label": "Decizia CCR nr. 60/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "60",
+ "date": "2001-02-22",
+ "year": "2001",
+ "heading": "DECIZIE nr. 60 din 22 februarie 2001",
+ "subtitle": "referitoare le excepţia de neconstituţionalitate a dispoziţiilor art. 37 şi art. 52 din Decretul nr. 328/1966 privind circulaţia pe drumurile publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "220",
+  "bis": false,
+  "date": "2001-04-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "15.956/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 37 alin. 1 şi 2 din Decretul nr. 328/1966 privind circulaţia pe drumurile publice, excepţie ridicată de Vasile-Ovidiu Iftode în Dosarul nr. 15.956/2000 al Judecătoriei Iaşi. 2. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 37 alin. 3 şi ale art. 52 din Decretul nr. 328/1966 privind circulaţia pe drumurile publice, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-04-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/28281",
+  "text_sha256": "4d3516d4c84220df237ce992843fc1e25fde2fbc4fa109b2550a47729a8face2",
+  "catalogue_sha256": "4d3516d4c84220df237ce992843fc1e25fde2fbc4fa109b2550a47729a8face2",
+  "fetched": "2026-11-02T23:14:01Z",
+  "chars": 11594,
+  "portal_id": "28281",
+  "tip": "DECIZIE"
+ }
+}
