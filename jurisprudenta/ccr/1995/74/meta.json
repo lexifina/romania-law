@@ -1,0 +1,206 @@
+{
+ "key": "dcc-74-1995",
+ "label": "Decizia CCR nr. 74/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "74",
+ "date": "1995-07-27",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 74*) din 27 iulie 1995",
+ "subtitle": "privind excepţia de neconstituţionalitate din Legea administraţiei publice locale nr. 69/1991, invocată în Dosarul nr. 38/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "211",
+  "bis": false,
+  "date": "1995-09-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "38/1995"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata, fiind lipsită de obiect, excepţia de neconstituţionalitate a art. 101 alin. 2 din Legea administraţiei publice locale nr. 69/1991 invocată de prefectul judeţului Sibiu, în Dosarul nr. 38/1995 - Contencios administrativ al Tribunalului Sibiu.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-09-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6126",
+  "text_sha256": "783f9a4225c1a46d03c852c29eb4a85530cfb47ba564f98ebc0136c4bf5d43b9",
+  "catalogue_sha256": "783f9a4225c1a46d03c852c29eb4a85530cfb47ba564f98ebc0136c4bf5d43b9",
+  "fetched": "2026-11-02T22:48:57Z",
+  "chars": 8239,
+  "portal_id": "6126",
+  "tip": "DECIZIE"
+ }
+}
