@@ -1,0 +1,2 @@
+# Anexa 2
+DIRECȚIA DE SĂNĂTATE PUBLICĂ..................... SITUAȚIE privind angajamentele bugetare și plățile efectuate pentru cheltuieli materiale și servicii de unitățile sanitare cu paturi din județul................ NOTĂ: Ministerul Sănătății/direcția de sănătate publică județeană, respectiv a municipiului București, după caz, verifică pentru fiecare unitate sanitară, în funcție de subordonare, dacă sunt respectate precizările cuprinse în nota din subsolul anexei nr. 1. _________________

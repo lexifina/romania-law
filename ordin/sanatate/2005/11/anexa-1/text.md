@@ -1,0 +1,2 @@
+# Anexa 1
+SPITALUL................................. SITUAȚIE privind angajamentele legale și plățile efectuate pentru cheltuieli materiale și servicii NOTĂ: 1. Situația se referă numai la titlul II "Cheltuieli materiale și servicii", având ca sursă de finanțare veniturile proprii ale unității sanitare (exclusiv contractele de finanțare a programelor/subprogramelor de sănătate din Fondul național unic de asigurări sociale de sănătate). 2. Datele se raportează cumulat atât la prevederi trimestriale, cât și la plăți.
