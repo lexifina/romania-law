@@ -1,0 +1,159 @@
+{
+ "key": "cedo-31551-96-2004-09-21",
+ "label": "CEDO, Stoicescu c. României, 2004-09-21",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2004-09-21",
+ "year": "2004",
+ "heading": "HOTĂRÂRE din 21 septembrie 2004",
+ "subtitle": "în cauza Stoicescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "1119",
+  "bis": false,
+  "date": "2004-11-29",
+  "part": "I"
+ },
+ "outcome": "inadmissible",
+ "findings": [
+  "inadmissible"
+ ],
+ "applications": [
+  "31551/96",
+  "28342/95"
+ ],
+ "case_name": "Stoicescu",
+ "subjects": [],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. Declară admisibilă cererea de revizuire a hotărârii din 4 martie 2003, formulată de Guvernul pârât; 2. Declară inadmisibilă cererea nr. 31551/96 a domnului Stoicescu; 3. În consecinţă, revizuieşte, în totalitatea sa, hotărârea din 4 martie 2003."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 218/1960",
+    "number": "218",
+    "year": "1960",
+    "path": "decret/1960/218"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 712/1966",
+    "number": "712",
+    "year": "1966",
+    "path": "decret/1966/712"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57122",
+  "text_sha256": "c705064744efca0136d90405ccf2c5c5ffbd6dc89956c1de675fa3c87739b004",
+  "catalogue_sha256": "c705064744efca0136d90405ccf2c5c5ffbd6dc89956c1de675fa3c87739b004",
+  "fetched": "2026-11-02T23:46:34Z",
+  "chars": 25383,
+  "portal_id": "57122",
+  "tip": "HOTĂRÂRE"
+ }
+}
