@@ -1,0 +1,251 @@
+{
+ "key": "dcc-322-2001",
+ "label": "Decizia CCR nr. 322/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "322",
+ "date": "2001-11-20",
+ "year": "2001",
+ "heading": "DECIZIE nr. 322 din 20 noiembrie 2001",
+ "subtitle": "referitoare la excepţiile de neconstituţionalitate a prevederilor art. 17 alin. 1^1 din Legea nr. 92/1992 pentru organizarea judecătorească, republicată, cu modificările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "66",
+  "bis": false,
+  "date": "2002-01-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.656/2001",
+  "947/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţiile de neconstituţionalitate ridicate de Societatea Comercială \"Dan's Oversea Arpinav\" - S.R.L. din Constanta în Dosarul nr. 1.656/2001 al Judecătoriei Constanta, de Societatea Comercială \"Felicitas Marketing România\" - S.R.L. din Bucureşti, în Dosarul nr. 947/2001 al Tribunalului Bucureşti - Secţia a IV-a civilă şi de Societatea Comercială \"Romservice Corporation\" - S.R.L. din Bucureşti în Dosarul nr. 5.628/2001 al Judecătoriei Sectorului 1, municipiul Bucureşti, şi constata ca dispoziţiile art. 17 alin. 1^1 din Legea nr. 92/1992 pentru organizarea judecătorească, republicată, cu modificările ulterioare, prin care se stabileşte ca hotărârile în cauzele privind conflictele şi litigiile de muncă, judecate în prima instanţa, se iau cu majoritatea membrilor completului de judecată, sunt neconstituţionale.",
+  "Prezenta decizie se comunică celor două Camere ale Parlamentului şi Guvernului conform art. 25 alin. (4) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 179/1999",
+    "number": "179",
+    "year": "1999",
+    "path": "oug/1999/179"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33736",
+  "text_sha256": "b4970dd4d2843b49f4ac8c59fc0d82b9b4b871cb3f1a10ffef105873157104aa",
+  "catalogue_sha256": "b4970dd4d2843b49f4ac8c59fc0d82b9b4b871cb3f1a10ffef105873157104aa",
+  "fetched": "2026-11-02T23:18:55Z",
+  "chars": 18678,
+  "portal_id": "33736",
+  "tip": "DECIZIE"
+ }
+}
