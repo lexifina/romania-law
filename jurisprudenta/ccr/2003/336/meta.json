@@ -1,0 +1,289 @@
+{
+ "key": "dcc-336-2003",
+ "label": "Decizia CCR nr. 336/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "336",
+ "date": "2003-09-16",
+ "year": "2003",
+ "heading": "DECIZIE nr. 336 din 16 septembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 şi 16 din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "769",
+  "bis": false,
+  "date": "2003-11-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.601/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 8 şi 16 din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, excepţie ridicată de Dorin Andronic în Dosarul nr. 5.601/2002 al Curţii de Apel Suceava - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "242",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/1993",
+    "number": "56",
+    "year": "1993",
+    "path": "lege/1993/56"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-11-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47391",
+  "text_sha256": "134d163d60f2b538068fc84e06d90610788a345a04a01722d5e4feb6a06b6e1c",
+  "catalogue_sha256": "134d163d60f2b538068fc84e06d90610788a345a04a01722d5e4feb6a06b6e1c",
+  "fetched": "2026-11-05T05:46:07Z",
+  "chars": 19544,
+  "portal_id": "47391",
+  "tip": "DECIZIE"
+ }
+}
