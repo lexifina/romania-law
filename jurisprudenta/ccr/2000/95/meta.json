@@ -1,0 +1,214 @@
+{
+ "key": "dcc-95-2000",
+ "label": "Decizia CCR nr. 95/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "95",
+ "date": "2000-05-11",
+ "year": "2000",
+ "heading": "DECIZIE nr. 95 din 11 mai 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 15 alin. 2 din Ordonanţa Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru tigarete, produse din tutun şi băuturi alcoolice, prevederi modificate şi completate prin Ordonanţa Guvernului nr. 86/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "392",
+  "bis": false,
+  "date": "2000-08-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.141/1999"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 23/1995",
+    "number": "23",
+    "year": "1995",
+    "path": "og/1995/23"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 15 alin. 2 din Ordonanţa Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru tigarete, produse din tutun şi băuturi alcoolice, dispoziţii modificate şi completate prin Ordonanţa Guvernului nr. 86/1998, excepţie ridicată de Societatea Comercială \"Caraiman Com\" - S.R.L. din Cristesti, judeţul Mures, în Dosarul nr. 6.141/1999 al Judecătoriei Targu Mures.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 23/1995",
+    "number": "23",
+    "year": "1995",
+    "path": "og/1995/23"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 86/1998",
+    "number": "86",
+    "year": "1998",
+    "path": "og/1998/86"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 148/1998",
+    "number": "148",
+    "year": "1998",
+    "path": "lege/1998/148"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-08-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23891",
+  "text_sha256": "95aca5a275aa41d499eb47518358bd7f16a73342bf32abd5b2610e0414e0b059",
+  "catalogue_sha256": "95aca5a275aa41d499eb47518358bd7f16a73342bf32abd5b2610e0414e0b059",
+  "fetched": "2026-11-05T08:13:38Z",
+  "chars": 11326,
+  "portal_id": "23891",
+  "tip": "DECIZIE"
+ }
+}
