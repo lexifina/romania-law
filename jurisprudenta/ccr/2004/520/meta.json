@@ -1,0 +1,195 @@
+{
+ "key": "dcc-520-2004",
+ "label": "Decizia CCR nr. 520/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "520",
+ "date": "2004-11-25",
+ "year": "2004",
+ "heading": "DECIZIE nr. 520 din 25 noiembrie 2004",
+ "subtitle": "asupra excepţiei de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) lit. f) din Ordonanţa Guvernului nr. 17/2002 privind stabilirea perioadelor de conducere şi a perioadelor de odihnă ale conducătorilor vehiculelor care efectuează transporturi rutiere naţionale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "67",
+  "bis": false,
+  "date": "2005-01-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.437/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2002",
+    "number": "17",
+    "year": "2002",
+    "path": "og/2002/17"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) lit. f) din Ordonanţa Guvernului nr. 17/2002 privind stabilirea perioadelor de conducere şi a perioadelor de odihnă ale conducătorilor vehiculelor care efectuează transporturi rutiere naţionale, excepţie ridicată de Societatea Comercială \"Tiger Amira Com\" - S.R.L. din Oradea în Dosarul nr. 2.437/2004 al Judecătoriei Satu Mare.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 466/2003",
+    "number": "466",
+    "year": "2003",
+    "path": "lege/2003/466"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2002",
+    "number": "17",
+    "year": "2002",
+    "path": "og/2002/17"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-01-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58702",
+  "text_sha256": "144778c3fd1174918d2f987f5c6377dc14892af8bb4b692a36989777fc2f4bcd",
+  "catalogue_sha256": "144778c3fd1174918d2f987f5c6377dc14892af8bb4b692a36989777fc2f4bcd",
+  "fetched": "2026-11-02T23:52:13Z",
+  "chars": 11039,
+  "portal_id": "58702",
+  "tip": "DECIZIE"
+ }
+}
