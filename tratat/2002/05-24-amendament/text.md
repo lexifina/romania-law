@@ -1,0 +1,4 @@
+ AMENDAMENT din 24 mai 2002  la apendicele anexei la Protocolul din 1988 privind Convenţia internaţională din 1974 pentru ocrotirea vieţii omeneşti pe mare, adoptate de Organizaţia Maritimă Internaţională prin Rezoluţia MSC.124 (75) la Londra la 24 mai 2002     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 518 din 9 iunie 2004
+				 +
+			  Apendice         - Lista echipamentului pentru Certificatul de siguranţă pentru nava de pasageri (formular P)  1. În secţiunea 3, punctele 7 şi 8 împreună cu notele de subsol aferente se elimină.  - Lista echipamentului pentru Certificatul de siguranţă radio pentru nava de marfă (formular R)  2. În secţiunea 2, punctele 7 şi 8 împreună cu notele de subsol aferente se elimină.  3. Secţiunea 4 se elimină.  - Lista echipamentului pentru Certificatul de siguranţă pentru nava de marfă (formular C)  4. În secţiunea 3, punctele 7 şi 8 împreună cu notele de subsol aferente se elimină.  -----
