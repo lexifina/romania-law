@@ -1,0 +1,204 @@
+{
+ "key": "dcc-460-1997",
+ "label": "Decizia CCR nr. 460/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "460",
+ "date": "1997-11-13",
+ "year": "1997",
+ "heading": "DECIZIE nr. 460 din 13 noiembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate art. 330, art. 330^1, art. 330^2, art. 330^3 şi ale art. 330^4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "57",
+  "bis": false,
+  "date": "1998-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "285/1997"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 330, ale art. 330^1, ale art. 330^2, ale art. 330^3 şi ale art. 330^4 din Codul de procedură civilă, ridicată de intimata-reclamanta Buda Aurelia în Dosarul nr. 285/1997 al Curţii Supreme de Justiţie- Secţia civilă.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1997",
+    "number": "17",
+    "year": "1997",
+    "path": "lege/1997/17"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12772",
+  "text_sha256": "3eb7a415bb270c7cf4f5395787e933a929f9f8e7ff4fe8cd02650e206c3646d3",
+  "catalogue_sha256": "3eb7a415bb270c7cf4f5395787e933a929f9f8e7ff4fe8cd02650e206c3646d3",
+  "fetched": "2026-11-02T22:59:20Z",
+  "chars": 6577,
+  "portal_id": "12772",
+  "tip": "DECIZIE"
+ }
+}
