@@ -1,0 +1,24 @@
+# DECIZIE nr. 379 din 14 octombrie 1997
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă
+Mihai Constantinescu - preşedinte Costica Bulai - judecător Florin Bucur Vasilescu - judecător
+Romul Petru Vonica - judecător Victor Dan Zlatescu - judecător Paula C. Pantea - procuror Claudia Miu - magistrat-asistent Pe rol, pronunţarea asupra recursului declarat de Gheorghiu Elisabeta Demetra Eufimia împotriva Decizie Curţii Constituţionale nr. 56 din 20 martie 1997 *). ----------
+Notă
+*) Decizia Curţii Constituţionale nr. 56 din 20 martie 1997 a fost publicată în Monitorul Oficial al României, Partea I, nr. 306 din 11 noiembrie 1997.
+Dezbaterile au avut loc în şedinţa publică din data de 7 octombrie 1997, în prezenta reprezentantului Ministerului Public şi în lipsa părţilor legal citate, şi au fost consemnate în încheierea de la acea data, când Curtea, având nevoie de timp pentru a delibera, a amânat pronunţarea pentru data de 14 octombrie 1997.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 16 ianuarie 1997, pronunţată în Dosarul nr. 1.468/1996 al acestei instanţe, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă, ridicată de Gheorghiu Elisabeta Demetra Eufimia.
+Prin Decizia nr. 56 din 20 martie 1997, Curtea Constituţională a respins ca vadit nefondata excepţia de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă.
+Aceasta soluţie s-a fundamentat pe practica jurisdicţională a Curţii Constituţionale în materia recursului în anulare.
+Împotriva deciziei sus-menţionate a declarat recurs Gheorghiu Demetra Eufimia, în termen legal, pentru următoarele motive: dispoziţiile art. 330^1 din Codul de procedură civilă, în forma anterioară modificării lor, când recursul în anulare se putea exercita oricând de procurorul general, sunt neconstituţionale, pentru ca dacă textul legal "ar fi fost constituţional nu s-ar fi impus ca sa fie modificat prin Legea nr. 17 din 17 februarie 1997", prin care s-a instituit termenul de 6 luni pentru exercitarea acestei cai de atac.
+Potrivit art. 24 alin. (3) din Legea nr. 47/1992, întrucât excepţia a fost respinsă ca vadit nefondata, s-au solicitat puncte de vedere celor două Camere ale Parlamentului şi Guvernului Guvernul, în punctul sau de vedere, apreciază ca excepţia de neconstituţionalitate este nefondata, ţinând seama de practica jurisdicţională a Curţii Constituţionale în materia recursului în anulare.
+Camera Deputaţilor şi Senatul nu au comunicat punctele lor de vedere.
+CURTEA, având în vedere decizia atacat, motivele de recurs invocate, punctul de vedere al Guvernului, raportul întocmit de judecătorul-raportor, prevederile art. 330^1 din Codul de procedură civilă, raportate la prevederile Constituţiei şi ale Legii nr. 47/1992, constata următoarele:
+Motivele de recurs sunt neintemeiate.
+Curtea a fost investită cu soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 330^1 din Codul de procedură civilă, în redactarea potrivit căreia recursul în anulare putea fi declarat oricând. Prin Legea nr. 17 din 17 februarie 1997, publicată în Monitorul Oficial al României, Partea I, nr. 26 din 18 februarie 1997, au fost modificate dispoziţiile art. 330^1 din Codul de procedură civilă, instituindu-se termenul de 6 luni, înlăuntrul căruia procurorul general poate declara recurs în anulare.
+Potrivit practicii jurisdicţionale a Curţii Constituţionale, inclusiv a Deciziei Plenului nr. III din 31 octombrie 1995 privind judecarea constituţionalităţii unei dispoziţii legale modificate ulterior invocarii excepţiei, publicată în Monitorul Oficial al Romanie, Partea I, nr. 259 din 9 noiembrie 1995, dacă textul atacat a fost între timp modificat, sesizarea rămâne valabilă numai dacă textul atacat în noua sa redactare conserva excepţia de neconstituţionalitate.
+Curtea retine ca, în speta, noua redactare a textului art. 330^1 din Codul de procedură civilă inlatura prevederile ce formau obiectul excepţiei de neconstituţionalitate cu care Curtea a fost investită conform art. 23 din Legea nr. 47/1992, astfel ca, prin decizia recurată, în mod întemeiat s-a constatat ca aceasta a rămas fără obiect.
+Pentru motivele arătate, în temeiul art. 144 lit. c) şi al art. 145 alin. (2) din Constituţie, precum şi al art. 13 alin. (1) lit. A.c), al art. 25 şi al art. 26 din Legea nr. 47/1992, CURTEA În numele legii DECIDE:
+Respinge recursul declarat de Gheorghiu Elisabeta Demetra Eufimia împotriva Deciziei Curţii Constituţionale nr. 56 din 20 martie 1997.
+Definitivă.
+Pronunţată în şedinţa publică din 14 octombrie 1997.
+PREŞEDINTE, dr. Mihai Constantinescu Magistrat-asistent, Claudia Miu ----------
