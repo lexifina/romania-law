@@ -1,0 +1,171 @@
+{
+ "key": "dcc-345-1997",
+ "label": "Decizia CCR nr. 345/1997",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "345",
+ "date": "1997-09-30",
+ "year": "1997",
+ "heading": "DECIZIE nr. 345 din 30 septembrie 1997",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 330 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "392",
+  "bis": false,
+  "date": "1997-12-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "appeal": true,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursul declarat de Mandreanu Paul şi Mandreanu Ilie împotriva Deciziei Curţii Constituţionale nr. 110 din 8 octombrie 1996.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-12-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12514",
+  "text_sha256": "5e27b3d0b445cc7fbc71a16e6c4a9b3fb488ba8b299479f40b933026f5ac246b",
+  "catalogue_sha256": "5e27b3d0b445cc7fbc71a16e6c4a9b3fb488ba8b299479f40b933026f5ac246b",
+  "fetched": "2026-11-02T22:57:31Z",
+  "chars": 6727,
+  "portal_id": "12514",
+  "tip": "DECIZIE"
+ }
+}
