@@ -1,0 +1,131 @@
+{
+ "key": "dcc-127-1998",
+ "label": "Decizia CCR nr. 127/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "127",
+ "date": "1998-10-13",
+ "year": "1998",
+ "heading": "DECIZIE nr. 127 din 13 octombrie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a art. 330^4 teza a doua din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "459",
+  "bis": false,
+  "date": "1998-11-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.642/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 330^4 teza a doua din Codul de procedură civilă, invocată de Parchetul de pe lângă Curtea Suprema de Justiţie în Dosarul nr. 3.642/1996 al Curţii Supreme de Justiţie - Secţia civilă.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1998-11-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16271",
+  "text_sha256": "d7c7d819e87713f7125c03a5528ba590ee3fa8dab996b7b0c51075529523ef71",
+  "catalogue_sha256": "d7c7d819e87713f7125c03a5528ba590ee3fa8dab996b7b0c51075529523ef71",
+  "fetched": "2026-11-02T23:02:06Z",
+  "chars": 7695,
+  "portal_id": "16271",
+  "tip": "DECIZIE"
+ }
+}
