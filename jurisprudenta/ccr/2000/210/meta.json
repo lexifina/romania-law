@@ -1,0 +1,220 @@
+{
+ "key": "dcc-210-2000",
+ "label": "Decizia CCR nr. 210/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "210",
+ "date": "2000-10-26",
+ "year": "2000",
+ "heading": "DECIZIE nr. 210 din 26 octombrie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 alin. 1, ale art. 172 alin. 1 şi ale art. 224 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "110",
+  "bis": false,
+  "date": "2001-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 6 alin. 1, ale art. 172 alin. 1 şi ale art. 224 din Codul de procedură penală, excepţie ridicată de Marta Toader şi Oprea Voinea în Dosarul nr. 242/R/2000 al Tribunalului Teleorman - Secţia penală.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 26 octombrie 2000.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  LUCIAN MIHAI  Magistrat-asistent,  Gabriela Dragomirescu  ──────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2001-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/27085",
+  "text_sha256": "2b7045b5387f4a88fc611c1d76ab344751f060a62cfcb1b10bf89724ec673d52",
+  "catalogue_sha256": "2b7045b5387f4a88fc611c1d76ab344751f060a62cfcb1b10bf89724ec673d52",
+  "fetched": "2026-11-02T23:13:04Z",
+  "chars": 15487,
+  "portal_id": "27085",
+  "tip": "DECIZIE"
+ }
+}
