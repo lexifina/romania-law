@@ -1,0 +1,368 @@
+{
+ "key": "dcc-392-1997",
+ "label": "Decizia CCR nr. 392/1997",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "392",
+ "date": "1997-10-15",
+ "year": "1997",
+ "heading": "DECIZIE nr. 392 din 15 octombrie 1997",
+ "subtitle": "referitoare la constituţionalitatea Legii pentru modificarea şi completarea Legii fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "299",
+  "bis": false,
+  "date": "1997-11-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": false,
+ "dossiers": [
+  "542A/1997"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Constata ca adoptarea Legii pentru modificarea şi completarea Legii fondului funciar nr. 18/1991 s-a făcut cu respectarea dispoziţiilor constituţionale. 2. Constata ca prevederile art. 26 alin. (5), introdus prin art. I pct. 17 din Legea pentru modificarea şi completarea Legii fondului funciar nr. 18/1991, sunt constituţionale numai în măsura în care fapta este imputabilă societăţii agricole în cauza, iar constatarea desfiinţării se face în condiţiile legii. 3. Constata ca dispoziţiile art. II din Legea pentru modificarea şi completarea Legii fondului funciar nr. 18/1991 sunt constituţionale numai în măsura în care prin act eliberat se înţelege orice act de constatare a existenţei dreptului de proprietate, emis în condiţiile legii. 4. Constata ca celelalte dispoziţii ale Legii pentru modificarea şi completarea Legii fondului funciar nr. 18/1991, care au făcut obiectul sesizarilor, sunt constituţionale.",
+  "Decizia se comunică Preşedintelui României."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": [
+      "d",
+      "c",
+      "e"
+     ]
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/1945",
+    "number": "187",
+    "year": "1945",
+    "path": "lege/1945/187"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "decret-lege/1990/42"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 36/1991",
+    "number": "36",
+    "year": "1991",
+    "path": "lege/1991/36"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului silvic",
+    "path": "lege/1996/26",
+    "slug": "legea-26-1996"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-11-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12610",
+  "text_sha256": "41351483a76cbf52c0b43921386c31e00db1dc162f6ba10fd8c6f709b58a297c",
+  "catalogue_sha256": "41351483a76cbf52c0b43921386c31e00db1dc162f6ba10fd8c6f709b58a297c",
+  "fetched": "2026-11-02T22:56:28Z",
+  "chars": 52712,
+  "portal_id": "12610",
+  "tip": "DECIZIE"
+ }
+}
