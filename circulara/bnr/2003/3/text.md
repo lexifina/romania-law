@@ -1,0 +1,2 @@
+# Text
+Având în vedere prevederile Legii nr. 101/1998 privind Statutul Băncii Naționale a României, cu modificările ulterioare, și ținând seama de evolutiile macroeconomice și monetare recente, Banca Naționala a României hotărăște: Pentru luna februarie 2003 nivelul ratei dobânzii de referința a Băncii Naționale a României este de 19,2% pe an. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, MUGUR ISARESCU București, 3 februarie 2003. Nr. 3. -------
