@@ -1,0 +1,2 @@
+# Articolul unic
+Se avizează funcționarea ca organism de gestiune colectivă a drepturilor patrimoniale de autor în domeniul muzical a Asociației "Uniunea Compozitorilor și Muzicologilor din România - Asociația pentru Drepturi de Autor", denumita pe scurt UCMR - ADA, având sediul în București, Calea Victoriei nr. 141, cod 71102, începând cu data de 1 ianuarie 1997. Directorul general al Oficiului Roman pentru Drepturile de Autor, Constanta Moisescu --------------------
