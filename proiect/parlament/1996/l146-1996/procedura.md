@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 1996-08-21: registered at the Senate
+- 2000-03-09: adopted by the Chamber of Deputies
 
 ## Documents
 
