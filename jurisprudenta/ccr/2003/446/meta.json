@@ -1,0 +1,220 @@
+{
+ "key": "dcc-446-2003",
+ "label": "Decizia CCR nr. 446/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "446",
+ "date": "2003-11-25",
+ "year": "2003",
+ "heading": "DECIZIE nr. 446 din 25 noiembrie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) şi (4) din Legea nr. 254/2002 privind unele măsuri pentru creşterea atractivităţii la privatizare a societăţilor comerciale cu capital integral sau parţial de stat, ce deţin în administrare terenuri agricole proprietate publică sau privată a statului, modificată şi completată prin Ordonanţa de urgenţă a Guvernului nr. 209/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "46",
+  "bis": false,
+  "date": "2004-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "17.282/2002",
+  "232C/2003",
+  "11.762/2002",
+  "233C/2003",
+  "17.922/2002",
+  "231C/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2002",
+    "number": "254",
+    "year": "2002",
+    "path": "lege/2002/254"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) şi (4) din Legea nr. 254/2002 privind unele măsuri pentru creşterea atractivităţii la privatizare a societăţilor comerciale cu capital integral sau parţial de stat, ce deţin în administrare terenuri agricole proprietate publică sau privată a statului, modificată şi completată prin Ordonanţa de urgenţă a Guvernului nr. 209/2002, excepţie ridicată de Societatea Comercială \"Vitivinicola Basarabi\" - S.A. în dosarele nr. 17.282/2002, nr. 11.762/2002 şi nr. 17.922/2002 ale Judecătoriei Constanţa.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2002",
+    "number": "254",
+    "year": "2002",
+    "path": "lege/2002/254"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 198/1999",
+    "number": "198",
+    "year": "1999",
+    "path": "og/1999/198"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2004-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49229",
+  "text_sha256": "fdc0b37634062acd6977de49f39d645ee8752c64a90203a130b9d91acd1a73fa",
+  "catalogue_sha256": "fdc0b37634062acd6977de49f39d645ee8752c64a90203a130b9d91acd1a73fa",
+  "fetched": "2026-11-02T23:34:11Z",
+  "chars": 16923,
+  "portal_id": "49229",
+  "tip": "DECIZIE"
+ }
+}
