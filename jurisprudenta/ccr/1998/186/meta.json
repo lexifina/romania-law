@@ -1,0 +1,187 @@
+{
+ "key": "dcc-186-1998",
+ "label": "Decizia CCR nr. 186/1998",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "186",
+ "date": "1998-12-17",
+ "year": "1998",
+ "heading": "DECIZIE nr. 186 din 17 decembrie 1998",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. IV pct. 7 din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, aprobată şi modificată prin Legea nr. 12/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "52",
+  "bis": false,
+  "date": "1999-02-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.576/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. IV pct. 7 din Ordonanţa Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenţilor economici, aprobată şi modificată prin Legea nr. 12/1995, excepţie ridicată de Societatea Comercială \"Frigorex România\" - S.R.L. - Timiş în Dosarul nr. 6.576/1998 al Judecătoriei Timişoara.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/1994",
+    "number": "18",
+    "year": "1994",
+    "path": "og/1994/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1992",
+    "number": "76",
+    "year": "1992",
+    "path": "lege/1992/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1999-02-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16904",
+  "text_sha256": "72af0e710297865d368ef162ccdaecf13c0ebef881b43a9644d3c9f432ed764a",
+  "catalogue_sha256": "72af0e710297865d368ef162ccdaecf13c0ebef881b43a9644d3c9f432ed764a",
+  "fetched": "2026-11-02T23:02:51Z",
+  "chars": 9545,
+  "portal_id": "16904",
+  "tip": "DECIZIE"
+ }
+}
