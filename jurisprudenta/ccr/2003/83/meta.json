@@ -1,0 +1,200 @@
+{
+ "key": "dcc-83-2003",
+ "label": "Decizia CCR nr. 83/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "83",
+ "date": "2003-02-25",
+ "year": "2003",
+ "heading": "DECIZIE nr. 83 din 25 februarie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12 alin. (1) lit. a) şi b), precum şi ale art. 13 alin. (1) din Legea nr. 133/1999 privind stimularea întreprinzătorilor privati pentru înfiinţarea şi dezvoltarea întreprinderilor mici şi mijlocii, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "270",
+  "bis": false,
+  "date": "2003-04-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/1999",
+    "number": "133",
+    "year": "1999",
+    "path": "lege/1999/133"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 12 alin. (1) lit. a) şi b), precum şi ale art. 13 alin. (1) din Legea nr. 133/1999 privind stimularea întreprinzătorilor privati pentru înfiinţarea şi dezvoltarea întreprinderilor mici şi mijlocii, cu modificările şi completările ulterioare, excepţie ridicată de Societatea Naţionala \"Radiocomunicatii\" - S.A. - Direcţia de Radio şi Televiziune Timişoara în Dosarul nr. 4.033/C/2002 al Curţii de Apel Timişoara - Secţia civilă.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/1999",
+    "number": "133",
+    "year": "1999",
+    "path": "lege/1999/133"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-04-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/43349",
+  "text_sha256": "4908d6fe97f2d9b8adc5aa02f5396fae59b4e89a6754b0a0546cdc242583325e",
+  "catalogue_sha256": "4908d6fe97f2d9b8adc5aa02f5396fae59b4e89a6754b0a0546cdc242583325e",
+  "fetched": "2026-11-02T23:28:26Z",
+  "chars": 14356,
+  "portal_id": "43349",
+  "tip": "DECIZIE"
+ }
+}
