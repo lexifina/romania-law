@@ -1,0 +1,8 @@
+# Anexa 1
+------- la norme -------- METODA DE PRELEVARE a esantioanelor din alimentele congelate rapid 1. Tipul și cantitatea ambalajelor alese pentru inspecție trebuie să fie astfel selectate încât temperaturile lor sa reprezinte cele mai calde puncte ale lotului de marfa controlat. 2. Esantioanele trebuie să fie alese din mai multe puncte critice ale spațiului de depozitare la rece, ca de exemplu: locul de lângă usa (nivelurile superioare și inferioare), de lângă centrul spațiului de depozitare la rece (nivelurile superioare și inferioare) și de lângă locul de recirculare a aerului în sistemul de răcire, caz în care se va ține seama de durata de păstrare a fiecărui produs (pentru stabilizarea temperaturii). 3. În cazul în care se preleveaza esantioane în timpul transportului, acestea trebuie să fie alese de la vârful și de la baza lotului de marfa aflat lângă marginea de deschidere a fiecărei uși sau perechi de uși. 4. În timpul descărcării trebuie să fie prelevate patru esantioane din următoarele puncte critice:
+a) vârful și baza lotului de marfa situat lângă marginea de deschidere a ușilor;
+b) colturile din marginile superioare ale lotului de marfa, într-un punct cat mai îndepărtat de sistemul de refrigerare;
+c) centrul lotului de marfa;
+d) centrul suprafeței din fața a lotului de marfa, într-un punct cat mai apropiat de sistemul de refrigerare;
+e) colturile de la vârful și de la baza suprafeței din fața a lotului de marfa, într-un punct cat mai apropiat de aerul de recirculare al sistemului de refrigerare.
+5. Pentru recoltare de probe din produsele prezentate spre comercializare în vitrinele de prezentare trebuie să se aleagă câte un esantion din fiecare dintre cele trei locuri care reprezintă cele mai calde puncte ale vitrinei.
