@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 10 din 8 iulie 1991  pentru modificarea anexei la  Hotărîrea Senatului nr. 17/1990  privind aprobarea denumirii, domeniilor de activitate şi numărului membrilor comisiilor permanente ale Senatului     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 147 din 17 iulie 1991     Senatul hotărăşte:
+				 +
+			  Articolul UNIC     Punctul 4, liniuţa a cincea, din anexa la  Hotărîrea Senatului nr. 17/1990  privind aprobarea denumirii, domeniilor de activitate şi numărului membrilor comisiilor permanente ale Senatului se modifică şi va avea următorul cuprins:  "- audierea persoanelor propuse a fi numite în funcţia de ambasadori ai României în străinătate, în urma căreia dă un aviz consultativ."  PREŞEDINTELE SENATULUI  academician ALEXANDRU BÎRLĂDEANU  Bucureşti, 8 iulie 1991  Nr. 10.  -------
