@@ -1,0 +1,160 @@
+{
+ "key": "dcc-75-2000",
+ "label": "Decizia CCR nr. 75/2000",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "75",
+ "date": "2000-04-25",
+ "year": "2000",
+ "heading": "DECIZIE nr. 75 din 25 aprilie 2000",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 178/1934 pentru reglementarea contractului de consignaţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "389",
+  "bis": false,
+  "date": "2000-08-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.499/1999",
+  "8.751/1998"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 178/1934",
+    "number": "178",
+    "year": "1934",
+    "path": "lege/1934/178"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor Legii nr. 178/1934 pentru reglementarea contractului de consignaţie, excepţie ridicată de Maria Selariu în Dosarul nr. 9.499/1999 al Judecătoriei Brăila.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 178/1934",
+    "number": "178",
+    "year": "1934",
+    "path": "lege/1934/178"
+   },
+   "articles": [],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2000-08-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23866",
+  "text_sha256": "511ef373af6bf71ce5610eb01ea3c61cb00e2fd4cd5e22a9a5defc1e70e7e4f5",
+  "catalogue_sha256": "511ef373af6bf71ce5610eb01ea3c61cb00e2fd4cd5e22a9a5defc1e70e7e4f5",
+  "fetched": "2026-11-02T23:10:04Z",
+  "chars": 7773,
+  "portal_id": "23866",
+  "tip": "DECIZIE"
+ }
+}
