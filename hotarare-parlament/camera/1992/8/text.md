@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 8 din 17 februarie 1992  privind validarea mandatelor unor deputati     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 26 din 24 februarie 1992     În temeiul  art. 71 alin. final din Decretul-lege nr. 92/1990  pentru alegerea parlamentului şi a Preşedintelui României şi avînd în vedere Raportul Comisiei de validare,  Camera Deputaţilor hotărăşte:
+				 +
+			  Articolul UNIC     Se validează mandatele următorilor deputaţi:  1. Ardelean Eugen - Circumscripţia electorală nr. 5 Bihor  2. Costin Marius - Circumscripţia electorală nr. 8 Braşov  3. Stefanescu Ion - Circumscripţia electorală nr. 17 Dolj  4. Nicolaescu Leonida Nicolae - Circumscripţia electorală nr. 17 Dolj  5. Sfercoci Gheorghe - Circumscripţia electorală nr. 36 Timiş.  PREŞEDINTELE CAMEREI DEPUTATILOR  MARŢIAN DAN  Bucureşti, 17 februarie 1992.  Nr. 8.  ------------
