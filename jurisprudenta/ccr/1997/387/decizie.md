@@ -1,0 +1,15 @@
+# DECIZIE nr. 387 din 14 octombrie 1997
+referitoare la excepţia de neconstituţionalitate a art. 330, art. 330^1, art. 330^2, art. 330^3 şi a art. 330^4 din Codul de procedură civilă
+Mihai Constantinescu - preşedinte Costica Bulai - judecător Viorel Mihai Ciobanu - judecător Lucian Stangu - judecător Victor Dan Zlatescu - judecător Paula C. Pantea - procuror Doina Suliman - magistrat-asistent Pe rol, pronunţarea asupra recursului declarat de Zarnescu Stelian-Narcis şi Zarnescu Crina-Magdalena împotriva Deciziei Curţii Constituţionale nr. 141 din 26 mai 1997.
+Dezbaterile au avut loc în şedinţa publică din data de 7 octombrie 1997 şi au fost consemnate în încheierea din aceeaşi dată, când Curtea, având nevoie de timp pentru a delibera, a amânat pronunţarea pentru data de 14 octombrie 1997.
+CURTEA, având în vedere actele şi lucrările dosarului, constata următoarele:
+Curtea Suprema de Justiţie - Secţia civilă, prin Încheierea din 5 martie 1997, pronunţată în Dosarul nr. 3.187/1996, a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a art. 330, art. 330^1, art. 330^2, art. 330^3 şi a art. 330^4 din Codul de procedură civilă, ridicată de intimaţii-reclamanţi Zarnescu Stelian-Narcis şi Zarnescu Crina-Magdalena.
+Prin Decizia nr. 141 din 26 mai 1997, Curtea Constituţională a respins ca vadit nefondata excepţia de neconstituţionalitate, retinand ca, asupra constituţionalităţii dispoziţiilor atacate, Curtea s-a pronunţat prin Decizia nr. 73 din 4 iunie 1996, definitivă prin Decizia nr. 96 din 24 septembrie 1996, publicate în Monitorul Oficial al României, Partea I, nr. 251 din 17 octombrie 1996 şi, respectiv, nr. 255 din 22 octombrie 1996, precum şi prin Decizia nr. 37 din 25 februarie 1997, definitivă prin nerecurare, publicată în Monitorul Oficial al României, Partea I, nr. 64 din 15 aprilie 1997, precum şi că nu au intervenit elemente noi care să determine schimbarea practicii jurisdicţionale consacrate prin aceste decizii.
+Împotriva Deciziei Curţii Constituţionale nr. 141 din 26 mai 1997 părţile au declarat recurs, în termen legal, fără însă sa-l motiveze.
+În raport cu prevederile art. 16 şi ale art. 25 alin. (1) din Legea nr. 47/1992, precum şi ale art. 101 alin. 1, ale art. 102 alin. 1 şi ale art. 303 alin. 1 şi 2 din Codul de procedură civilă, se constată că recursul este nul, deoarece, deşi declarat în termen, nu a fost motivat.
+Conform art. 306 din Codul de procedură civilă, instanţa de recurs nu a reţinut nici un motiv de recurs de ordine publică care să poată fi invocat din oficiu cu privire la decizia care face obiectul recursului.
+Faţa de cele arătate, în temeiul art. 144 lit. c) din Constituţie, al art. 13 alin. (1) lit. A.c) şi al art. 25 din Legea nr. 47/1992, în unanimitate, CURTEA În numele legii DECIDE:
+Constata ca recursul declarat de Zarnescu Stelian-Narcis şi Zarnescu Crina-Magdalena împotriva Deciziei Curţii Constituţionale nr. 141 din 26 mai 1997 este nul, nefiind motivat.
+Definitivă.
+Pronunţată în şedinţa publică din 14 octombrie 1997.
+PREŞEDINTE, dr. Mihai Constantinescu Magistrat-asistent, Doina Suliman ----------------
