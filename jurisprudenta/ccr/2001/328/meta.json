@@ -1,0 +1,178 @@
+{
+ "key": "dcc-328-2001",
+ "label": "Decizia CCR nr. 328/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "328",
+ "date": "2001-11-27",
+ "year": "2001",
+ "heading": "DECIZIE nr. 328 din 27 noiembrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 14/1999 pentru modificarea Ordonanţei de urgenta a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "75",
+  "bis": false,
+  "date": "2002-01-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "994/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 14/1999",
+    "number": "14",
+    "year": "1999",
+    "path": "oug/1999/14"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenta a Guvernului nr. 14/1999 pentru modificarea Ordonanţei de urgenta a Guvernului nr. 82/1997 privind regimul accizelor şi al impozitelor indirecte, excepţie ridicată de Societatea Comercială \"Romfar Group\" - S.R.L. Pitesti în Dosarul nr. 994/2000/F-C al Curţii de Apel Pitesti - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 14/1999",
+    "number": "14",
+    "year": "1999",
+    "path": "oug/1999/14"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 82/1997",
+    "number": "82",
+    "year": "1997",
+    "path": "oug/1997/82"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33770",
+  "text_sha256": "a609e318c851482574d0c9cc60d6b14c4b3ca31a8c5072ea9499d4a76064f59b",
+  "catalogue_sha256": "a609e318c851482574d0c9cc60d6b14c4b3ca31a8c5072ea9499d4a76064f59b",
+  "fetched": "2026-11-02T23:18:58Z",
+  "chars": 11380,
+  "portal_id": "33770",
+  "tip": "DECIZIE"
+ }
+}
