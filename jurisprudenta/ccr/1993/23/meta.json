@@ -1,0 +1,253 @@
+{
+ "key": "dcc-23-1993",
+ "label": "Decizia CCR nr. 23/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "23",
+ "date": "1993-04-27",
+ "year": "1993",
+ "heading": "DECIZIE nr. 23 din 27 aprilie 1993",
+ "subtitle": "excepţiei de neconstituţionalitate cu privire la prevederile art. 3 din Decretul-lege nr. 126/1990",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "66",
+  "bis": false,
+  "date": "1995-04-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7967/1992"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 126/1990",
+    "number": "126",
+    "year": "1990",
+    "path": "decret-lege/1990/126"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondate excepţiile de neconstituţionalitate a art. 3 din Decretul-lege nr. 126/1990, ridicate de către Episcopia Română Unita cu Roma (greco-catolica) din Cluj-Napoca, cu sediul în Cluj-Napoca, Str. Motilor nr. 26, în Dosarul nr. 7967/1992 al Judecătoriei Cluj-Napoca şi de către Episcopia Română Unita cu Roma (greco-catolica) Lugoj, cu sediul în Lugoj, str. Ion Pop Banateanu nr. 10, în Dosarul nr. 64C/1993 al Tribunalului Judeţean Timiş.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 126/1990",
+    "number": "126",
+    "year": "1990",
+    "path": "decret-lege/1990/126"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 177/1948",
+    "number": "177",
+    "year": "1948",
+    "path": "decret/1948/177"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 9/1989",
+    "number": "9",
+    "year": "1989",
+    "path": "decret-lege/1989/9"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 358/1948",
+    "number": "358",
+    "year": "1948",
+    "path": "decret/1948/358"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-04-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3080",
+  "text_sha256": "5c4baa307608ab8c7fbbc6c4cffdd5e441b628ce16014717fd3a24be939fd368",
+  "catalogue_sha256": "5c4baa307608ab8c7fbbc6c4cffdd5e441b628ce16014717fd3a24be939fd368",
+  "fetched": "2026-11-02T22:47:38Z",
+  "chars": 29390,
+  "portal_id": "3080",
+  "tip": "DECIZIE"
+ }
+}
