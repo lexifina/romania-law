@@ -1,0 +1,156 @@
+{
+ "key": "dcc-104-1995",
+ "label": "Decizia CCR nr. 104/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "104",
+ "date": "1995-10-31",
+ "year": "1995",
+ "heading": "DECIZIE Nr. 104*) din 31 octombrie 1995",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 11 din Legea nr. 54/1991 cu privire la sindicate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "40",
+  "bis": false,
+  "date": "1996-02-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.657/1994"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1991",
+    "number": "54",
+    "year": "1991",
+    "path": "lege/1991/54"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 11 din Legea nr. 54/1991 cu privire la sindicate, invocată de Societatea de Gospodărie Locală - S.A. Baicoi în Dosarul nr. 2.657/1994 al Tribunalului Prahova - Secţia civilă.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1991",
+    "number": "54",
+    "year": "1991",
+    "path": "lege/1991/54"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1996-02-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6266",
+  "text_sha256": "a7f5b96e2efba67283a38841d94cd01b2a1f456a1a276f4d5fbaee5a63b37fdf",
+  "catalogue_sha256": "a7f5b96e2efba67283a38841d94cd01b2a1f456a1a276f4d5fbaee5a63b37fdf",
+  "fetched": "2026-11-02T22:50:06Z",
+  "chars": 9436,
+  "portal_id": "6266",
+  "tip": "DECIZIE"
+ }
+}
