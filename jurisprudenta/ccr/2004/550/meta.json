@@ -1,0 +1,368 @@
+{
+ "key": "dcc-550-2004",
+ "label": "Decizia CCR nr. 550/2004",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "550",
+ "date": "2004-12-16",
+ "year": "2004",
+ "heading": "DECIZIE nr. 550 din 16 decembrie 2004",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 164, art. 168-170, art. 183 alin. (1) lit. a) şi art. 184 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "93",
+  "bis": false,
+  "date": "2005-01-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "168",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "170",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "I. Respinge ca inadmisibilă excepţia de neconstituţionalitate a prevederilor art. 164 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, excepţie ridicată de Societatea Comercială \"Kronmat\" - S.R.L. din Braşov în Dosarul nr. 1.553/COM/2004 al Tribunalului Braşov - Secţia comercială şi de contencios administrativ.",
+  "II. Respinge ca neîntemeiată excepţia de neconstituţionalitate a prevederilor art. 168-170, art. 183 alin. (1) lit. a) şi ale art. 184 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "162",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "178",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "179",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "170",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "176",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "168",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 174/2004",
+    "number": "174",
+    "year": "2004",
+    "path": "lege/2004/174"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "581",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-01-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58887",
+  "text_sha256": "92bf32d0a0008a0066b62d26934d2b3baea8ee88bdc3e2b768fee0181adc03a2",
+  "catalogue_sha256": "92bf32d0a0008a0066b62d26934d2b3baea8ee88bdc3e2b768fee0181adc03a2",
+  "fetched": "2026-11-05T05:40:44Z",
+  "chars": 19195,
+  "portal_id": "58887",
+  "tip": "DECIZIE"
+ }
+}
