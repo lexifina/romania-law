@@ -1,0 +1,180 @@
+{
+ "key": "dcc-10-1995",
+ "label": "Decizia CCR nr. 10/1995",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "10",
+ "date": "1995-01-24",
+ "year": "1995",
+ "heading": "DECIZIE nr. 10*) din 24 ianuarie 1995",
+ "subtitle": "privind excepția de neconstituționalitate",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "74",
+  "bis": false,
+  "date": "1995-04-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "794/1993"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite în parte excepția de neconstituționalitate ridicată de Societatea Comercială \"Rom-Vial\" - S.A., cu sediul în București, str. Frumoasa nr. 39, sectorul 1, și constata ca prevederile art. 43 alin. 1 lit. c), alin. 2 și alin. 3 din Legea nr. 5/1973, republicată, sunt abrogate potrivit art. 150 alin. (1) din Constituție.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 85/1991",
+    "number": "85",
+    "year": "1991",
+    "path": "hg/1991/85"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1995-04-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/5737",
+  "text_sha256": "1e2a09fd63a04e2b4324454ebbd1ad7d895c573c787fb881582f170b08736736",
+  "catalogue_sha256": "1e2a09fd63a04e2b4324454ebbd1ad7d895c573c787fb881582f170b08736736",
+  "fetched": "2026-11-02T22:47:42Z",
+  "chars": 9355,
+  "portal_id": "5737",
+  "tip": "DECIZIE"
+ }
+}
