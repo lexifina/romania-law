@@ -1,0 +1,145 @@
+{
+ "key": "dcc-87-1994",
+ "label": "Decizia CCR nr. 87/1994",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "87",
+ "date": "1994-09-30",
+ "year": "1994",
+ "heading": "DECIZIE NR. 87 DIN 30 SEPTEMBRIE 1994",
+ "subtitle": "privind constituţionalitatea art. 7 din Regulamentul şedinţelor comune ale Camerei Deputaţilor şi Senatului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "292",
+  "bis": false,
+  "date": "1994-10-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "1. Prevederea de la art. 7 alin. 1 din Regulamentul şedinţelor comune ale Camerei Deputaţilor şi Senatului, referitoare la obligativitatea dezbaterii mesajelor prezentate de Preşedintele României, este neconstitutionala, cu excepţia situaţiilor la care se referă art. 92 alin. (3) din Constituţie. 2. Prezenta decizie se comunică celor două Camere ale Parlamentului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1994",
+    "number": "47",
+    "year": "1994",
+    "path": "lege/1994/47"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "99",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "92",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1994-10-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4353",
+  "text_sha256": "7471cfd9e0302e0b6291febd3af1eb3136469a84e1eaa6a597373dc357b17816",
+  "catalogue_sha256": "7471cfd9e0302e0b6291febd3af1eb3136469a84e1eaa6a597373dc357b17816",
+  "fetched": "2026-11-02T22:45:48Z",
+  "chars": 7061,
+  "portal_id": "4353",
+  "tip": "DECIZIE"
+ }
+}
