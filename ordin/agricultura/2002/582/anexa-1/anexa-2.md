@@ -1,0 +1,2 @@
+# Anexa nr. 2 la anexa nr. 1
+Anexa 2 ──────── la norma sanitară veterinara ──────────────────────────── Carne proaspăta - Norma sanitară veterinara privind condițiile de sănătate pentru producerea și comercializarea carnii proaspete - Norma sanitară veterinara care stabilește condițiile de sănătate a animalelor și de sănătate publică care reglementează comerțul României cu statele membre ale Uniunii Europene și importul în România de produse care nu sunt supuse cerințelor și regulilor specifice ────────────────
