@@ -1,0 +1,6 @@
+ HOTĂRÎRE Nr. 21 din 19 decembrie 1996  privind aprobarea componentei nominale a delegaţiei Parlamentului României la Adunarea Atlanticului de Nord     EMITENT     PARLAMENTUL       Publicat în
+			  MONITORUL OFICIAL NR. 354 din 30 decembrie 1996     Parlamentul României adopta prezenta hotărâre.
+				 +
+			  Articolul UNIC     Se aprobă componenta nominală a delegaţiei Parlamentului României la Adunarea Atlanticului de Nord, potrivit anexei care face parte integrantă din prezenta hotărâre.  PREŞEDINTELE CAMEREI DEPUTAŢILOR  ION DIACONESCU  PREŞEDINTELE SENATULUI  PETRE ROMAN
+				 +
+			  Anexa 1      DELEGAŢIA   Parlamentului României la Adunarea Atlanticului de Nord   1. Ion Ratiu - deputat, Grupul parlamentar al Partidului   Naţional Taranesc Crestin Democrat   şi civic-ecologist  2. Gheorghe Cristea - deputat, Grupul parlamentar al Partidului   Naţional Taranesc Crestin Democrat   şi civic-ecologist  3. Oliviu Gherman - senator, Grupul parlamentar al Partidului   Democraţiei Sociale din România   4. Ioan Mircea Pascu - deputat, Grupul parlamentar al Partidului   Democraţiei Sociale din România   5. Costel Gheorghiu - senator, Grupul parlamentar al Partidului   Democrat   6. Tiberiu Vladislav - senator, Grupul parlamentar al Partidului   Naţional Liberal.   --------------------
