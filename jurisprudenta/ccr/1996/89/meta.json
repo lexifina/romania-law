@@ -1,0 +1,157 @@
+{
+ "key": "dcc-89-1996",
+ "label": "Decizia CCR nr. 89/1996",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "89",
+ "date": "1996-09-11",
+ "year": "1996",
+ "heading": "DECIZIE nr. 89*) din 11 septembrie 1996",
+ "subtitle": "privind soluţionarea excepţiei de neconstituţionalitate a prevederilor art. 4 din Legea nr. 17/1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "25",
+  "bis": false,
+  "date": "1997-02-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "317/1996"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1994",
+    "number": "17",
+    "year": "1994",
+    "path": "lege/1994/17"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca vadit nefondata excepţia de neconstituţionalitate privind prevederile art. 4 din Legea nr. 17/1994, invocată de Slabu Costel în Dosarul nr. 317/1996 al Curţii de Apel Suceava.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1994",
+    "number": "17",
+    "year": "1994",
+    "path": "lege/1994/17"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1992",
+    "number": "17",
+    "year": "1992",
+    "path": "lege/1992/17"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1997-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8492",
+  "text_sha256": "a66c3fb8975b942c6ccaea08fa8a16ec838258ad78ccfaac57b374f717639dec",
+  "catalogue_sha256": "a66c3fb8975b942c6ccaea08fa8a16ec838258ad78ccfaac57b374f717639dec",
+  "fetched": "2026-11-02T22:53:40Z",
+  "chars": 6707,
+  "portal_id": "8492",
+  "tip": "DECIZIE"
+ }
+}
