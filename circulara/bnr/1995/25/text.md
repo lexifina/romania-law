@@ -1,0 +1,2 @@
+# Text
+1. Începând cu data prezentei circulare, Banca de Export-Import a României se exceptează de la prevederile pct. 11 din Circulara Băncii Naționale a României nr. 11/1995 . 2. Banca de Export-Import a României poate menține, cu o singura societate bancară, conturi de corespondent pe care le va comunică în scris Direcției plati și decontări bancare și Direcției de control ale Băncii Naționale a României, în termen de 2 zile de la data prezentei circulare. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, Mugur Isarescu ------------------------
