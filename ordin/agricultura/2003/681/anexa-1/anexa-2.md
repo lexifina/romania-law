@@ -1,0 +1,9 @@
+# Anexa 2
+------- la metodologie -------------- CERERE pentru atestarea persoanelor juridice (model) Nr..../... Domnule președinte al Comisiei de atestare din cadrul Ministerului Agriculturii, Pădurilor, Apelor și Mediului,............../(denumirea persoanei juridice)/.................., având sediul în localitatea...................., str................... nr..., bl..., județul/sectorul................................., înregistrată la oficiul registrului comerțului cu nr..., codul fiscal nr............., telefon..........., fax.........., reprezentată prin......................., în calitate de......................, solicitam atestarea tehnico-profesională în calitate de persoana juridică în domeniul (domeniile)........................................ și grupa (grupele) de lucrări..................., conform art. 6, respectiv art. 8 din metodologia de atestare. În susținerea cererii anexăm următoarele:
+a) memoriu de activitate;
+b) informații privind bonitatea solicitantului;
+c) informații privind dotarea cu utilajele și echipamentele necesare;
+d) copii legalizate de pe documentele de înființare a persoanei juridice;
+e) curriculum vitae și copie legalizată de pe contractul de angajare al reprezentantului legal, abilitat sa reprezinte și să semneze în numele persoanei juridice respective;
+f) copie legalizată de pe contractul individual de muncă pe durata nedeterminată pentru angajații atestați deja conform prevederilor art. 11 lit. c) din metodologie și copii ale atestatelor obținute de aceștia.
+Declaram ca am luat cunoștința de obligațiile ce ne revin potrivit Metodologiei privind atestarea persoanelor fizice și juridice care efectuează studii de teren, elaborează documentații tehnico-economice și executa lucrări de îmbunătățiri funciare în domeniul silvic. Data.................................... (semnatura și ștampila)
