@@ -1,0 +1,145 @@
+{
+ "key": "dcc-45-1993",
+ "label": "Decizia CCR nr. 45/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "45",
+ "date": "1993-07-14",
+ "year": "1993",
+ "heading": "DECIZIE nr. 45*) din 14 iulie 1993",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Decretului prezidenţial nr. 10/1985",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "218",
+  "bis": false,
+  "date": "1993-09-06",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 467/1979",
+    "number": "467",
+    "year": "1979",
+    "path": "decret/1979/467"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "1. Constata ca art. 4 din Decretul nr. 467/1979 privind evaluarea construcţiilor, terenurilor şi plantaţiilor ce se preiau, cu plata, în proprietatea statului prin expropriere sau în alte cazuri prevăzute de lege este abrogat, astfel cum s-a reţinut prin Decizia Curţii Constituţionale nr. 1/1993, rămasă definitivă. 2. În consecinţa, respinge ca vadit nefondate excepţiile de neconstituţionalitate invocate de: - Ilina V. Gheorghe, în dosarul nr. 14607/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Garla Gh. Gheorghe, în dosarul nr. 14609/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Garla Ioana, în dosarul nr. 14612/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Nitu Aurelian şi Nitu Iconia, în dosarul nr. 14613/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Mateescu N. Nicolae, Mateescu Gh. Nicolae şi Mateescu Ioana în dosarul nr. 14615/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Garla A. Gheorghe şi Garla Eufrosina, în dosarul nr. 14617/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Mateescu Grigore şi Mateescu Viorica, în dosarul nr. 14619/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Din C. Constantin, în dosarul nr. 14606/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 209/1987; - Pelmus Ion, în dosarul nr. 14608/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Cioran Gheorghe, în dosarul nr. 14610/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Garla Mihai, în dosarul nr. 14611/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Golescu Ilie, în dosarul nr. 14614/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Garla Gh. Constantin, în dosarul nr. 14616/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Trascau Eutropie, în dosarul nr. 14618/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 10/1985; - Mihalache Ion, în dosarul nr. 9615/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 184/1980; - Mihalache Victoria, în dosarul nr. 9616/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 184/1980; - Mihalache D. Petre, în dosarul nr. 9617/1992, aflat pe rolul Judecătoriei Ramnicu Valcea, cu privire la Decretul prezidential nr. 184/1980.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 467/1979",
+    "number": "467",
+    "year": "1979",
+    "path": "decret/1979/467"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title",
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-09-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3165",
+  "text_sha256": "001ae883ae1c2bd7b386d593938e18bd6f8ee2ee2ac43a23b0ff7bf427e9dcc2",
+  "catalogue_sha256": "001ae883ae1c2bd7b386d593938e18bd6f8ee2ee2ac43a23b0ff7bf427e9dcc2",
+  "fetched": "2026-11-02T22:31:35Z",
+  "chars": 10292,
+  "portal_id": "3165",
+  "tip": "DECIZIE"
+ }
+}
