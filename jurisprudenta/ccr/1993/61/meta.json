@@ -1,0 +1,178 @@
+{
+ "key": "dcc-61-1993",
+ "label": "Decizia CCR nr. 61/1993",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "alta",
+ "number": "61",
+ "date": "1993-10-19",
+ "year": "1993",
+ "heading": "DECIZIE nr. 61 din 19 octombrie 1993",
+ "subtitle": "referitoare la soluţionarea contestaţiei formulate de Petroşanu Ionel împotriva Deciziei Curţii Constituţionale nr. 39 din 7 iulie 1993",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "256",
+  "bis": false,
+  "date": "1993-11-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de incompatibilitate invocată de contestatorul Petrosanu Ionel la termenul din 14 octombrie 1993.",
+  "Respinge ca inadmisibila contestaţia introdusă de Petrosanu Ionel, domiciliat în Bucureşti, str. Compozitorilor nr. 16, bl. 16 S 14, ap. 1, împotriva deciziei Curţii Constituţionale nr. 39 din 7 iulie 1993.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1295/1990",
+    "number": "1295",
+    "year": "1990",
+    "path": "hg/1990/1295"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1993",
+    "number": "59",
+    "year": "1993",
+    "path": "lege/1993/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3205",
+  "text_sha256": "809d1b1a6785b4d633c92ac12b3d947df8b9574d7871078b3f4d1ea655f3368a",
+  "catalogue_sha256": "809d1b1a6785b4d633c92ac12b3d947df8b9574d7871078b3f4d1ea655f3368a",
+  "fetched": "2026-11-02T22:42:04Z",
+  "chars": 10206,
+  "portal_id": "3205",
+  "tip": "DECIZIE"
+ }
+}
