@@ -1,0 +1,247 @@
+{
+ "key": "dcc-336-2002",
+ "label": "Decizia CCR nr. 336/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "336",
+ "date": "2002-12-03",
+ "year": "2002",
+ "heading": "DECIZIE nr. 336 din 3 decembrie 2002",
+ "subtitle": "referitoare la excepţiile de neconstituţionalitate a dispoziţiilor Legii nr. 187/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 36/1998 privind unele măsuri de protecţie pentru personalul al cărui contract individual de muncă va fi desfăcut ca urmare a concedierilor colective determinate de reorganizarea Regiei Autonome de Electricitate \"Renel\", Regiei Autonome a Gazelor Naturale \"Romgaz\" Medias şi a Regiei Autonome a Petrolului \"Petrom\" Bucureşti, a Ordonanţei de urgenta a Guvernului nr. 36/1998 şi a Hotărârii Guvernului nr. 127/1999 pentru aprobarea Normelor de aplicare a Ordonanţei de urgenta a Guvernului nr. 36/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "932",
+  "bis": false,
+  "date": "2002-12-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "371C/2002",
+  "370C/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/2001",
+    "number": "187",
+    "year": "2001",
+    "path": "lege/2001/187"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 36/1998",
+    "number": "36",
+    "year": "1998",
+    "path": "oug/1998/36"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 127/1999",
+    "number": "127",
+    "year": "1999",
+    "path": "hg/1999/127"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibile, excepţiile de neconstituţionalitate a dispoziţiilor  Legii nr. 187/2001  pentru aprobarea  Ordonanţei de urgenta a Guvernului nr. 36/1998  privind unele măsuri de protecţie pentru personalul al cărui contract individual de muncă va fi desfăcut ca urmare a concedierilor colective determinate de reorganizarea Regiei Autonome de Electricitate \"Renel\", Regiei Autonome a Gazelor Naturale \"Romgaz\" Medias şi a Regiei Autonome a Petrolului \"Petrom\" Bucureşti, a  Ordonanţei de urgenta a Guvernului nr. 36/1998  şi a  Hotărârii Guvernului nr. 127/1999  pentru aprobarea Normelor de aplicare a  Ordonanţei de urgenta a Guvernului nr. 36/1998 , excepţii ridicate de Doina Ghiara în Dosarul nr. 1.550/LM/2002 al Curţii de Apel Craiova - Secţia litigii de muncă şi, respectiv, de Nicoleta Schintee în Dosarul nr. 1.551/LM/2002 al aceleiaşi instanţe.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 3 decembrie 2002.  PREŞEDINTE,  prof. univ dr. Costica Bulai  Magistrat-asistent,  Madalina Stefania Diaconu  ────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/2001",
+    "number": "187",
+    "year": "2001",
+    "path": "lege/2001/187"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenta a Guvernului nr. 36/1998",
+    "number": "36",
+    "year": "1998",
+    "path": "oug/1998/36"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 127/1999",
+    "number": "127",
+    "year": "1999",
+    "path": "hg/1999/127"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-12-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/40830",
+  "text_sha256": "ae7d7172bee9c1081460f30aa946e44417c1512a541cd4144b72e0747d9aea40",
+  "catalogue_sha256": "ae7d7172bee9c1081460f30aa946e44417c1512a541cd4144b72e0747d9aea40",
+  "fetched": "2026-11-02T23:25:46Z",
+  "chars": 12154,
+  "portal_id": "40830",
+  "tip": "DECIZIE"
+ }
+}
