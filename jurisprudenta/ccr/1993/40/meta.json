@@ -1,0 +1,169 @@
+{
+ "key": "dcc-40-1993",
+ "label": "Decizia CCR nr. 40/1993",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "40",
+ "date": "1993-07-07",
+ "year": "1993",
+ "heading": "DECIZIA nr. 40 din 7 iulie 1993",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. 3 din Legea nr. 5/1973 privind administrarea fondului locativ şi reglementarea raporturilor dintre proprietari şi chiriaşi",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "278",
+  "bis": false,
+  "date": "1993-11-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constata ca dispoziţiile art. 7 alin. 3 din Legea nr. 5/1973 sunt constituţionale.",
+  "Respinge excepţia de neconstituţionalitate invocată de Pop Ileana, domiciliata în Cluj-Napoca, str. Castanilor nr. 4, judeţul Cluj, în dosarul nr. 9578/1992 al Judecătoriei Cluj.",
+  "Cu recurs în termen de 10 zile de la comunicare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subtitle: from the catalogue title"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "1993-11-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3148",
+  "text_sha256": "8727e23ff0da959d6440df5d31d2b5580fcaef2f0fa887f197c0fdfe3caaa4e1",
+  "catalogue_sha256": "8727e23ff0da959d6440df5d31d2b5580fcaef2f0fa887f197c0fdfe3caaa4e1",
+  "fetched": "2026-11-02T22:42:14Z",
+  "chars": 8432,
+  "portal_id": "3148",
+  "tip": "DECIZIE"
+ }
+}
