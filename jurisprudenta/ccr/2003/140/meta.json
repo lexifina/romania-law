@@ -1,0 +1,162 @@
+{
+ "key": "dcc-140-2003",
+ "label": "Decizia CCR nr. 140/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "140",
+ "date": "2003-04-08",
+ "year": "2003",
+ "heading": "DECIZIE nr. 140 din 8 aprilie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 67 din Legea gospodăriei comunale nr. 4/1981",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "386",
+  "bis": false,
+  "date": "2003-06-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "2.753/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea gospodăriei comunale nr. 4/1981",
+    "number": "4",
+    "year": "1981",
+    "path": "lege/1981/4"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor art. 67 din Legea gospodăriei comunale nr. 4/1981, excepţie ridicată de Sucursala de Exploatare, Transport Tehnologic şi Prelucrare Primara a Lemnului Campina în Dosarul nr. 2.753/2000 al Tribunalului Prahova - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea gospodăriei comunale nr. 4/1981",
+    "number": "4",
+    "year": "1981",
+    "path": "lege/1981/4"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/44150",
+  "text_sha256": "a686c2f2679a74ef57aad1f5a8755e97071dd53d00e2595fcb03a336dd0b2c61",
+  "catalogue_sha256": "a686c2f2679a74ef57aad1f5a8755e97071dd53d00e2595fcb03a336dd0b2c61",
+  "fetched": "2026-11-02T23:29:24Z",
+  "chars": 5400,
+  "portal_id": "44150",
+  "tip": "DECIZIE"
+ }
+}
