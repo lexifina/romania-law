@@ -1,0 +1,38 @@
+# Anexa 3
+Partea 1c) ---------- la norma sanitară veterinara ----------------------------
+Capitolul 1
+Standarde care trebuie întrunite de exploatatiile ce doresc să fie recunoscute ca indeplinind cerințele echivalente cu cele stabilite ca oficial libere de bruceloza caprina și ovina "B. melitensis" din Comunitatea Europeană
+A. Exploatatia trebuie să fie una în care:
+a) toate animalele care sunt sensibile la bruceloza "B. melitensis" au fost libere de semne clinice sau alte semne de bruceloza "B. melitensis" de cel puțin 12 luni;
+b) nu exista nici un animal din speciile ovine și caprine vaccinate împotriva brucelozei "B. melitensis", cu excepția celor vaccinate cu cel puțin 3 ani înainte cu vaccin Rev. 1;
+c) au fost efectuate doua testări separate la un interval de 6 luni sau mai mare, cu rezultate negative pentru toate ovinele și caprinele din exploatatie peste vârsta de 6 luni la momentul testarii; și
+d) ca urmare a primei testări la care se referă lit. c), au fost numai animale din speciile ovine și caprine fatate în exploatatie sau care provin dintr-o exploatatie oficial libera ori libera de bruceloza în condițiile precizate la pct. D și în care sunt îndeplinite cerințele menționate la pct. B.
+B. Exploatatiile care îndeplinesc cerințele prevăzute la pct. A trebuie să trimită un număr reprezentativ de probe de la ovinele și caprinele peste 6 luni pentru testarea anuală. Exploatatia poate să își mențină eligibilitatea sa pentru export numai dacă rezultatul testarilor este negativ. Pentru fiecare exploatatie numărul reprezentativ de animale pentru a fi testate trebuie să fie următorul:
+a) toți masculii necastrati în vârsta de peste 6 luni;
+b) toate animalele introduse în exploatatie de la testarea anterioară;
+c) 25% din femelele care au atins vârsta de reproducție, care sunt mature sexual sau sunt în lactatie, cu un număr minim de 50 de animale/exploatatie, cu excepția celor care au mai puțin de 50 de femele, în care trebuie testate toate acestea.
+C. Cazuri suspecte sau confirmate de bruceloza Atunci când într-o exploatatie:
+a) unul sau mai multe animale din speciile ovine și caprine sunt suspecte ca având bruceloza "B. melitensis"; sau
+b) bruceloza "B. melitensis" este confirmată, nici o oaie sau capra nu poate fi exportata până în momentul în care toate animalele infectate sau toate animalele din speciile sensibile la infectie sunt tăiate, după care se efectuează doua testări la un interval de cel puțin 3 luni sau mai mult; testele sunt efectuate pentru toate animalele din exploatatie în vârsta de peste 6 luni, cu rezultate negative.
+D. Introducerea de animale într-o exploatatie Animalele din speciile ovine și caprine pot fi introduse într-o exploatatie pentru aceste specii, din care sunt exportate ovine și caprine pentru exploatații oficial libere de bruceloza, numai dacă acestea: 1. fie provin dintr-o explotatie care îndeplinește toate cerințele anterioare; sau 2.a) fie provin dintr-o exploatatie ce îndeplinește cerințele prevăzute la cap. II al prezentei părți; și
+b) nu au fost niciodată vaccinate împotriva brucelozei sau, dacă au fost vaccinate, aceasta s-a făcut cu mai mult de 2 ani înaintea introducerii în exploatatie. Totuși, femelele peste vârsta de 2 ani, care au fost vaccinate împotriva brucelozei înaintea vârstei de 7 luni, pot fi introduse în exploatatie; și
+c) au fost izolate, sub supraveghere oficială, în exploatatia de origine și în acea perioada au fost supuse, cu rezultate negative, la doua testări la un interval de cel puțin 6 săptămâni.
+Capitolul 2
+Standarde care trebuie îndeplinite de exploatatiile care doresc să fie recunoscute ca intrunind cerințele echivalente cu cele stabilite ca exploatații libere de bruceloza ovina și caprina "B. melitensis" în Comunitatea Europeană
+I. Orice exploatatie care este în deplina conformitate cu cerințele cap. I; sau II. A.1. Exploatatia trebuie să fie una în care:
+a) toate animalele sensibile la bruceloza "B. melitensis" au fost libere de semne clinice sau de alte semne de bruceloza în ultimele 12 luni;
+b) atunci când toate sau o parte din animalele provenind din speciile ovine și caprine au fost vaccinate cu vaccinul Rev. 1, vaccinarea a fost efectuată înaintea vârstei de 7 luni;
+c) au fost efectuate doua testări la un interval de 6 luni sau mai mare, cu rezultate negative pentru toate animalele din speciile ovine și caprine vaccinate din exploatatie, care sunt peste vârsta de 18 luni în momentul testarii;
+d) au fost efectuate doua testări la un interval de 6 luni, cu rezultate negative pentru toate animalele din speciile ovine și caprine din exploatatie, care nu sunt vaccinate și care sunt peste vârsta de 6 luni în momentul testarii; și
+e) după ce au fost efectuate testarile la care se face referire la lit. c) sau d) toate animalele din speciile ovine și caprine din exploatatie au fost fie născute acolo fie provin dintr-o exploatatie care întrunește condițiile precizate la pct. D al prezentului capitol; și
+2. cerințele menționate la pct. D al prezentului capitol sunt îndeplinite. B. Exploatatiile care îndeplinesc cerințele prevăzute la pct. A trebuie să trimită un număr reprezentativ de probe de la ovinele și caprinele din fiecare exploatatie pentru o testare serologica anuală. Exploatatia poate să își mențină eligibilitatea sa pentru export numai dacă rezultatul testarilor este negativ. Pentru fiecare exploatatie numărul reprezentativ de animale pentru a fi testate trebuie să fie următorul:
+a) toți masculii necastrati în vârsta de peste 6 luni, care nu au fost vaccinati;
+b) toți masculii necastrati peste 18 luni, care au fost vaccinati;
+c) toate animalele introduse în exploatatie de la testarea anterioară;
+d) 25% din numărul femelelor care au atins vârsta de reproducție, care sunt mature sexual sau sunt în lactatie, cu un număr minim de 50 de animale/exploatatie, cu excepția acelor exploatații care au mai puțin de 50 de asemenea femele, în care trebuie testate toate acestea.
+C. Cazuri suspecte sau confirmate de bruceloza Atunci când într-o exploatatie: 1. unul sau mai multe animale din speciile ovine și caprine sunt suspecte ca având bruceloza "B. melitensis"; sau 2. bruceloza "B. melitensis" este confirmată, nici o oaie sau capra nu poate fi exportata până în momentul în care toate animalele din speciile sensibile la infectie sunt tăiate, după care se efectuează doua testări la un interval de cel puțin 3 luni sau mai mult, iar testarile sunt efectuate pentru:
+a) toate animalele vaccinate, în vârsta de peste 18 luni; și
+b) toate animalele nevaccinate, în vârsta de peste 6 luni, ambele cu rezultate negative.
+D. Introducerea de animale într-o exploatatie Numai următoarele animale din speciile ovine și caprine pot fi introduse într-o exploatatie din care acestea pot fi expediate către o exploatatie de ovine și caprine libera de bruceloza "B. melitensis": 1. acestea provin dintr-o exploatatie de ovine și caprine care îndeplinește toate cerințele prevăzute la cap. I și II; sau 2.a) cele care provin dintr-o exploatatie în care toate animalele aparțin speciilor ce sunt sensibile la bruceloza "B. melitensis" nu au prezentat nici un semn clinic sau alte semne de bruceloza "B. melitensis" de cel puțin 12 luni;
+b) (i) acestea sa nu fi fost vaccinate într-o perioadă de 2 ani înaintea introducerii în exploatatie;
+(îi) ele trebuie să fi fost ținute în izolare, sub supraveghere veterinara, în exploatatia de origine, iar în această perioadă trebuie să fi fost supuse, cu rezultate negative, la doua testări la un interval de cel puțin 6 săptămâni; sau (iii) acestea trebuie să fi fost vaccinate cu vaccinul Rev. 1 înaintea vârstei de 7 luni și cu nu mai puțin de 15 zile înaintea intrării în exploatatia de destinație. -------
