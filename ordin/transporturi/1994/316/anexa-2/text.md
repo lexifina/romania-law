@@ -1,0 +1,8 @@
+# Anexa 2
+INSTRUIREA PERSONALULUI 1. În vederea prevenirii evenimentelor rutiere, agenții economici deținători de parc auto au obligația de a asigura pregătirea profesională a personalului cu activități pe linia siguranței circulației, prin instruiri saptaminale care cuprind forme de educare și de instruire audiovizuale.
+2. Educarea și instruirea audiovizuala se realizează prin:
+a) amenajarea, în locul vizibile, la sediile unităților de baza și ale formatiilor fixe de transport auto din afară unității, a unor panouri cu fotografii ale accidentelor de circulație, fotomontaje și articole cu teme legate de siguranță circulației și disciplina muncii;
+b) instalarea, la sediile unităților de baza și ale formatiilor fixe din afară unității, a unor panouri conținând indicatoare de circulație și marcaje, precum și afișe sugestive privind respectarea regulilor de circulație și a proceselor tehnologice de întreținere și reparații, editarea de pliante de alte lucrări având ca tema siguranța circulației;
+c) utilizarea statiilor de radioamplificare pentru difuzarea zilnica, în special dimineata, la plecarea autovehiculelor în cursa, a unor programe de instruire în legătură cu siguranța circulației pe drumurile publice, conducerea autovehiculelor în funcție de starea drumurilor și de condițiile meteorologice;
+d) utilizarea statiilor de radioamplificare din autogări pentru difuzarea unor programe de instruire și îndrumare a publicului călător în legătură cu normele de folosire a mijloacelor de transport și de circulație a pietonilor pe drumurile publice;
+e) lunar, personalul din cadrul compartimentului de prevenire a evenimentelor rutiere va coordona ședința de instruire a soferilor, cu expuneri cu tematica specifică de transporturi auto.
