@@ -1,0 +1,292 @@
+{
+ "key": "dcc-288-2003",
+ "label": "Decizia CCR nr. 288/2003",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "288",
+ "date": "2003-07-03",
+ "year": "2003",
+ "heading": "DECIZIE nr. 288 din 3 iulie 2003",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 17, 18, 19 şi 20 din Ordonanţa Guvernului nr. 102/2000 privind statutul şi regimul refugiatilor în România, aprobată şi modificată prin Legea nr. 323/2001, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "560",
+  "bis": false,
+  "date": "2003-08-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "13.804/2002",
+  "72C/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 102/2000",
+    "number": "102",
+    "year": "2000",
+    "path": "og/2000/102"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor  art. 17, 18, 19 şi 20 din Ordonanţa Guvernului nr. 102/2000  privind statutul şi regimul refugiatilor în România, aprobată şi modificată prin  Legea nr. 323/2001 , cu modificările şi completările ulterioare, excepţie ridicată de Farajollah Nader din Iran în Dosarul nr. 13.804/2002 al Judecătoriei Sectorului 1 Bucureşti, Mohamad Mustafa şi Ali Mahmod Basher din Siria şi Sudad Bahgat Mohamed Salih din Irak în dosarele nr. 683/2003, 684/2003 şi 11.777/2002 ale Judecătoriei Sectorului 6 Bucureşti.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 3 iulie 2003.  PREŞEDINTE,  prof. univ. dr. COSTICA BULAI  Magistrat-asistent şef,  Doina Suliman  ────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 102/2000",
+    "number": "102",
+    "year": "2000",
+    "path": "og/2000/102"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "e"
+     ]
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-08-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/45429",
+  "text_sha256": "e2e833b6850b66641988e58ec79a84ee96cb4bbf1df1e382c344240ffbd9cd5c",
+  "catalogue_sha256": "e2e833b6850b66641988e58ec79a84ee96cb4bbf1df1e382c344240ffbd9cd5c",
+  "fetched": "2026-11-02T23:30:43Z",
+  "chars": 33779,
+  "portal_id": "45429",
+  "tip": "DECIZIE"
+ }
+}
