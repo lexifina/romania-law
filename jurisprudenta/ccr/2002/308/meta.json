@@ -1,0 +1,213 @@
+{
+ "key": "dcc-308-2002",
+ "label": "Decizia CCR nr. 308/2002",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "308",
+ "date": "2002-11-12",
+ "year": "2002",
+ "heading": "DECIZIE nr. 308 din 12 noiembrie 2002",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 7 alin. (1) lit. a) şi alin. (2) din Ordonanţa de urgenta a Guvernului nr. 25/1997 cu privire la regimul juridic al adopţiei, aprobată cu modificări prin Legea nr. 87/1998",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "78",
+  "bis": false,
+  "date": "2003-02-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.834/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 25/1997",
+    "number": "25",
+    "year": "1997",
+    "path": "oug/1997/25"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1993",
+    "number": "15",
+    "year": "1993",
+    "path": "lege/1993/15"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate şi constata ca dispoziţiile art. 7 alin. (1) lit. a) şi alin. (2) din Ordonanţa de urgenta a Guvernului nr. 25/1997 cu privire la regimul juridic al adopţiei, aprobată cu modificări prin Legea nr. 87/1998, sunt neconstituţionale în măsura în care nu prevăd luarea consimţământului oricărei persoane sau al oricărui organism care ar fi abilitat sa exercite drepturile părinteşti, conform art. 5 pct. 1 lit. a) din Convenţia europeană în materia adopţiei de copii, încheiată la Strasbourg la 24 aprilie 1967, la care România a aderat prin Legea nr. 15/1993, excepţie ridicată de Fundaţia \"Casa Copilului\" - Filiala Braşov - Complexul educaţional Poiana Soarelui Braşov în Dosarul nr. 4.834/2001 al Tribunalului Braşov - Secţia civilă.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 25/1997",
+    "number": "25",
+    "year": "1997",
+    "path": "oug/1997/25"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1993",
+    "number": "15",
+    "year": "1993",
+    "path": "lege/1993/15"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2003-02-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/41662",
+  "text_sha256": "eb4caad1ab038cffa56724a8167a0011fe28148793a67c32f8a61b6afff71a2b",
+  "catalogue_sha256": "eb4caad1ab038cffa56724a8167a0011fe28148793a67c32f8a61b6afff71a2b",
+  "fetched": "2026-11-05T08:39:35Z",
+  "chars": 18554,
+  "portal_id": "41662",
+  "tip": "DECIZIE"
+ }
+}
