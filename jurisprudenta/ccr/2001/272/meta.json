@@ -1,0 +1,176 @@
+{
+ "key": "dcc-272-2001",
+ "label": "Decizia CCR nr. 272/2001",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "272",
+ "date": "2001-10-02",
+ "year": "2001",
+ "heading": "DECIZIE nr. 272 din 2 octombrie 2001",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 57 alin. (2) din Legea nr. 3/1977 privind pensiile de asigurări sociale de stat şi asistenţa socială, modificată şi completată prin Legea nr. 86/1997",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "8",
+  "bis": false,
+  "date": "2002-01-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "122/2001"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstituţionalitate a dispoziţiilor  art. 57 alin. (2) din Legea nr. 3/1977  privind pensiile de asigurări sociale de stat şi asistenţa socială, modificată şi completată prin  Legea nr. 86/1997 , excepţie ridicată de Ioachim Toma Naumescu, prin procurator, în Dosarul nr. 122/2001 al Curţii de Apel Bucureşti - Secţia de contencios administrativ.  Definitivă şi obligatorie.  Pronunţată în şedinţa publică din data de 2 octombrie 2001.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  prof. univ. dr. NICOLAE POPA  Magistrat-asistent,  Doina Suliman  ──────────────────\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2002-01-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33161",
+  "text_sha256": "a7ac84909c3a8e0737071ac1df793729ebd8137b71ef98c77e44bbb7719bde74",
+  "catalogue_sha256": "a7ac84909c3a8e0737071ac1df793729ebd8137b71ef98c77e44bbb7719bde74",
+  "fetched": "2026-11-02T23:18:23Z",
+  "chars": 6958,
+  "portal_id": "33161",
+  "tip": "DECIZIE"
+ }
+}
