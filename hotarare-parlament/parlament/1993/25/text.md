@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 25 din 24 februarie 1993  pentru alegerea unor membri ai Consiliului Superior al Magistraturii     EMITENT     Parlament       Publicat în
+			  MONITORUL OFICIAL nr. 45 din 1 martie 1993     În temeiul  art. 71, 72 şi 124 alin. 3 şi 4 din Legea nr. 92/1992  pentru organizarea judecătorească,  Parlamentul României adopta prezenta hotărîre.
+				 +
+			  Articolul UNIC     Se aleg ca membri ai Consiliului Superior al Magistraturii, dintre judecătorii tribunalelor judeţene, următorii:  1. Teodor Petrus - preşedintele Tribunalului Cluj  2. Ilie Zarafiu - vicepreşedinte la Tribunalul municipiului Bucureşti;  3. Cornel Iacob - preşedintele Tribunalului Bacau;  4. Marin Voicu - preşedintele Tribunalului Constanta.  PREŞEDINTELE SENATULUI  prof. univ. OLIVIU GHERMAN  p. PREŞEDINTELE  CAMEREI DEPUTAŢILOR   ION RATIU  --------------
