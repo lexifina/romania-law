@@ -1,0 +1,4 @@
+# Text
+Instrucțiunile comune ale Ministerului Finanțelor și Băncii Naționale a României nr. 13.333/3/1994, elaborate în baza Hotărârii Guvernului nr. 739/1993 , anulează prevederile Circularei Băncii Naționale a României nr. 33/1992 privind încasarea în valută reprezentind îndeplinirea formalităților vamale la transporturile rutiere și comisioanele percepute de Direcția generală a vamilor; de asemenea, se precizează ca prevederile Circularei Băncii Naționale a României nr. 32/1993 privind modificarea Circularei Băncii Naționale a României nr. 3/1993 nu sunt aplicabile încasărilor valutare ale instituțiilor publice.
+Sumele în valută încasate de către instituțiile publice din activitatea acestora vor fi virate la rezerva valutară a statului, în conformitate cu prevederile Instrucțiunilor comune ale Ministerului Finanțelor și Băncii Naționale a României nr. 13.333/3/1994.
+Viceguvernatorul Băncii Naționale a României, Vladimir Soare -----------------
