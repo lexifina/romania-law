@@ -1,0 +1,2 @@
+ AMENDAMENT nr. 24 din 8 decembrie 2004  la Convenţia T.I.R., 1975     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 1.267 din 29 decembrie 2004     ● La articolul 26 paragraful 1 se adaugă o nouă propoziţie la sfârşitul paragrafului şi se va citi după cum urmează:  "În cazul în care sigiliile vamale nu au rămas intacte, autorităţile vamale pot accepta carnetul T.I.R. pentru reluarea transportului T.I.R. conform prevederilor art. 25."  --------
