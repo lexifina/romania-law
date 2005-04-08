@@ -1,0 +1,6 @@
+# Anexa nr. 1
+Anexa 1 ──────── la normă ────────── Instituția de credit/Trezoreria Statului Unitatea.............................................. Codul unității...................................... Telefon/Fax........................................ CERERE pentru retragere de numerar Nr........ din data de.........
+Către B.N.R. - Sucursala................................................................... Se solicită retragerea de numerar în sumă de.................... lei pentru data............ (în cifre și litere)
+Alte detalii.................................
+Semnături autorizate
+L.S.
