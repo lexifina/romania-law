@@ -1,0 +1,2 @@
+# Anexa nr. 3 la anexa nr. 1
+Anexa 3 la procedura de notificare LISTA cuprinzând documentele care trebuie depuse împreună cu formularul de notificare 1. Copie de pe certificatul de acreditare ISO 43-1 2. Prospectul schemei de intercomparare 3. Copie de pe certificatul ISO 9001:2000 al solicitantului 4. Copii de pe certificatele ISO 9001:2000 ale producătorilor/distribuitorilor de materiale de referință și/sau de testare 5. Copie de pe regulamentul de organizare și funcționare sau certificatul de înregistrare la registrul comerțului. --------
