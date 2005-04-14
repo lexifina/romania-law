@@ -1,0 +1,202 @@
+{
+ "key": "dcc-93-2005",
+ "label": "Decizia CCR nr. 93/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "93",
+ "date": "2005-02-10",
+ "year": "2005",
+ "heading": "DECIZIE nr. 93 din 10 februarie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (5) din Regulamentul-cadru de organizare şi funcţionare a consiliilor locale, aprobat prin Ordonanţa Guvernului nr. 35/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "313",
+  "bis": false,
+  "date": "2005-04-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.058/2004"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (5) din Regulamentul-cadru de organizare şi funcţionare a consiliilor locale, aprobat prin Ordonanţa Guvernului nr. 35/2002, excepţie ridicată de Andrei Schaaser în Dosarul nr. 1.017/F/CA/2004 al Curţii de Apel Braşov - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 673/2002",
+    "number": "673",
+    "year": "2002",
+    "path": "lege/2002/673"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 35/2002",
+    "number": "35",
+    "year": "2002",
+    "path": "og/2002/35"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-04-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/60810",
+  "text_sha256": "20b5663384425d434f23850d3d8eec0c909751cc49cdc441272e9996693e33d9",
+  "catalogue_sha256": "20b5663384425d434f23850d3d8eec0c909751cc49cdc441272e9996693e33d9",
+  "fetched": "2026-11-02T23:55:10Z",
+  "chars": 15755,
+  "portal_id": "60810",
+  "tip": "DECIZIE"
+ }
+}
