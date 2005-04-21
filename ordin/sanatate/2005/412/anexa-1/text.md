@@ -1,0 +1,2 @@
+# Anexa nr. 1
+Anexa 1 ──────── (Anexa nr. 56^1 la Ordinul ministrului sănătății nr. 103/2005) ──────────────────────────────────────────────────────────────── Comisia de expertiză medicală și recuperare a capacității de muncă Copreședinți: ────────────── conf. dr. Ciuvică Maria-Magdalena - București dr. Gherman Despina Mihaela - București Membri: ──────── dr. Tudorache Doina Lăcrămioara - București dr. Amărășteanu Silvia - București dr. Tănasie Marina Maria - Dolj dr. Sârbu Livia - Timiș dr. Miclăuș Ștefana - Arad Secretar: ────────── dr. Oancea Corina - București

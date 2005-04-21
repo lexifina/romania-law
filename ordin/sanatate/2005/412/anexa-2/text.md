@@ -1,0 +1,2 @@
+# Anexa nr. 2
+Anexa 2 ──────── (Anexa nr. 56^2 la Ordinul ministrului sănătății nr. 103/2005) ──────────────────────────────────────────────────────────────── Comisia de chirurgie vasculară Copreședinți: ────────────── prof. dr. Aurel Andercou - Cluj-Napoca dr. Marina Păcescu - București Membri: ──────── prof. dr. Crina Sinescu - București dr. Sorin Tuță - București dr. Gheorghe Dumitrașcu - București dr. Radu Soare - Brașov dr. Mioara Cocora - Timișoara dr. Rafael Halpern - București dr. Sorin Băila - București Secretar: ────────── dr. Tiberiu Hânzu - Baia Mare
