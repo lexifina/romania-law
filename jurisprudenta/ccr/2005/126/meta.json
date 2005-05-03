@@ -1,0 +1,186 @@
+{
+ "key": "dcc-126-2005",
+ "label": "Decizia CCR nr. 126/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "126",
+ "date": "2005-03-01",
+ "year": "2005",
+ "heading": "DECIZIE nr. 126 din 1 martie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. h) din Ordonanţa de urgenţă a Guvernului nr. 28/1999 privind obligaţia agenţilor economici de a utiliza aparate de marcat electronice fiscale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "369",
+  "bis": false,
+  "date": "2005-05-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.699/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. h) din Ordonanţa de urgenţă a Guvernului nr. 28/1999 privind obligaţia agenţilor economici de a utiliza aparate de marcat electronice fiscale, excepţie ridicată de Societatea Comercială \"Boroianu &amp;amp; Co\" - S.R.L. din Drobeta-Turnu Severin în Dosarul nr. 5.699/2004 al Tribunalului Mehedinţi - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "g",
+      "h"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 94/2004",
+    "number": "94",
+    "year": "2004",
+    "path": "og/2004/94"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-05-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/61273",
+  "text_sha256": "500c95c94a8781b5e5635f8dbfa1cbb1c7f56c02523b26093d24d0a06dfa8125",
+  "catalogue_sha256": "500c95c94a8781b5e5635f8dbfa1cbb1c7f56c02523b26093d24d0a06dfa8125",
+  "fetched": "2026-11-02T23:55:44Z",
+  "chars": 12316,
+  "portal_id": "61273",
+  "tip": "DECIZIE"
+ }
+}
