@@ -1,0 +1,306 @@
+{
+ "key": "dcc-118-2005",
+ "label": "Decizia CCR nr. 118/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "118",
+ "date": "2005-02-24",
+ "year": "2005",
+ "heading": "DECIZIE nr. 118 din 24 februarie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. III alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 33/2001 privind unele măsuri referitoare la salarizarea funcţionarilor publici şi a altor categorii de personal din sectorul bugetar, precum şi a personalului din organele autorităţii judecătoreşti, ale art. 12 alin. (4) din Legea bugetului de stat pe anul 2002 nr. 743/2001, ale art. 10 alin. (3) din Legea bugetului de stat pe anul 2003 nr. 631/2002, ale art. 9 alin. (7) din Legea bugetului de stat pe anul 2004 nr. 507/2003, precum şi ale art. 8 alin. (7) din Legea bugetului de stat pe anul 2005 nr. 511/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "399",
+  "bis": false,
+  "date": "2005-05-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.068/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. III alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 33/2001 privind unele măsuri referitoare la salarizarea funcţionarilor publici şi a altor categorii de personal din sectorul bugetar, precum şi a personalului din organele autorităţii judecătoreşti, ale art. 12 alin. (4) din Legea bugetului de stat pe anul 2002 nr. 743/2001, ale art. 10 alin. (3) din Legea bugetului de stat pe anul 2003 nr. 631/2002, precum şi ale art. 9 alin. (7) din Legea bugetului de stat pe anul 2004 nr. 507/2003, excepţie ridicată de Tanko Edit, Torok Luiza, Puşcaşu Judit, Mark Zita, Balea Luminiţa-Dorina, Barabas Vilma, Chiţac Mirela, Popovics Erzsebet, Luffy Etelka, Jako Ibolya, Karacsony Ildiko, Arvay Matilda, Papuc Cristina, David Judita, Nagy Emese, Balint Magda, Bodor Ibolya, Rode Edit, Peter Clara, Timar Judith, Beres Ioana, Kasleder Vilma-Olga şi Mitrea Claudia-Florentina în Dosarul nr. 2.068/2004 al Tribunalului Covasna. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (7) din Legea bugetului de stat pe anul 2005 nr. 511/2004, excepţie ridicată de aceiaşi autori în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "41-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 743/2001",
+    "number": "743",
+    "year": "2001",
+    "path": "lege/2001/743"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 631/2002",
+    "number": "631",
+    "year": "2002",
+    "path": "lege/2002/631"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 507/2003",
+    "number": "507",
+    "year": "2003",
+    "path": "lege/2003/507"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 237/2000",
+    "number": "237",
+    "year": "2000",
+    "path": "oug/2000/237"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-05-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/61526",
+  "text_sha256": "c293abec94d501906228552d92f34940f2a41da0a8dae8ef6d45f0209c33bbf3",
+  "catalogue_sha256": "c293abec94d501906228552d92f34940f2a41da0a8dae8ef6d45f0209c33bbf3",
+  "fetched": "2026-11-02T23:56:06Z",
+  "chars": 17916,
+  "portal_id": "61526",
+  "tip": "DECIZIE"
+ }
+}
