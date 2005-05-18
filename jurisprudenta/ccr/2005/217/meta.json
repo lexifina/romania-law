@@ -1,0 +1,320 @@
+{
+ "key": "dcc-217-2005",
+ "label": "Decizia CCR nr. 217/2005",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "217",
+ "date": "2005-04-20",
+ "year": "2005",
+ "heading": "DECIZIE nr. 217 din 20 aprilie 2005",
+ "subtitle": "privind sesizările de neconstituţionalitate a dispoziţiilor art. 2 alin. (2), art. 17 alin. (1) lit. b) şi alin. (4), art. 18 alin. (3), art. 28 alin. (1), art. 30 alin. (1), art. 31 alin. (1), art. 32 şi art. 36 din Legea privind regimul liberei circulaţii a cetăţenilor români în străinătate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "417",
+  "bis": false,
+  "date": "2005-05-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "295A/2005",
+  "309A/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea privind regimul liberei circulaţii a cetăţenilor români în străinătate"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "1. Constată că prevederile art. 28 alin. (1) şi ale art. 36 din Legea privind regimul liberei circulaţii a cetăţenilor români în străinătate sunt neconstituţionale în măsura în care se referă la femeia minoră căsătorită. 2. Constată că dispoziţiile art. 2 alin. (2), art. 17 alin. (1) lit. b) şi alin. (4), art. 18 alin. (3), art. 30 alin. (1), art. 31 alin. (1) şi ale art. 32 din Legea privind regimul liberei circulaţii a cetăţenilor români în străinătate sunt constituţionale.",
+  "Definitivă şi obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedintelui Camerei Deputaţilor, preşedintelui Senatului, primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/61716",
+  "text_sha256": "640ad697302b5bf50a782ea70b6b52da0117cfef8008cea195b3aeb8ca900c04",
+  "catalogue_sha256": "640ad697302b5bf50a782ea70b6b52da0117cfef8008cea195b3aeb8ca900c04",
+  "fetched": "2026-11-02T23:56:22Z",
+  "chars": 36278,
+  "portal_id": "61716",
+  "tip": "DECIZIE"
+ }
+}
