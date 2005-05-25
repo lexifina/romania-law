@@ -1,0 +1,19 @@
+# Anexa nr. 3
+Anexa nr. 3 (Anexa nr. 4 la Ordinul nr. 501/5.253/2003)......................................... (Furnizorul de formare profesională)
+CATALOG cu rezultatele examenului de absolvire a programului de................... pentru calificarea/ocupația/grupul de competențe................., organizat în data de.............
+Nr. crt.
+Numele și prenumele
+Media la proba practică
+Data......
+Media la proba teoretică
+Data.....
+Media generală
+Observații
+Comisia de examinare:
+1.
+Președinte................................
+2.
+Membru....................................
+3.
+Membru....................................
+(semnătura)
