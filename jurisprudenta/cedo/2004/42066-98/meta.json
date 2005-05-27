@@ -1,0 +1,139 @@
+{
+ "key": "cedo-42066-98-2004-10-12",
+ "label": "CEDO, Bursuc c. României, 2004-10-12",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2004-10-12",
+ "year": "2004",
+ "heading": "HOTĂRÂRE din 12 octombrie 2004",
+ "subtitle": "în cauza Bursuc împotriva României (Cererea nr. 42.066/98)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "452",
+  "bis": false,
+  "date": "2005-05-27",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "42066/98"
+ ],
+ "case_name": "Bursuc",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. hotărăşte că a fost încălcat art. 3 din Convenţie, ca urmare a torturii la care a fost supus reclamantul în timpul reţinerii; 2. hotărăşte că a fost încălcat art. 3 din Convenţie, ca urmare a faptului că autorităţile nu au desfăşurat o anchetă amănunţită şi eficientă în legătură cu tratamentul menţionat; 3. hotărăşte că a fost încălcat art. 6 alin. 1 din Convenţie; 4. hotărăşte că",
+  "a) statul pârât trebuie să plătească văduvei reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 alin. 2 din Convenţie, 10.000 (zece mii) euro cu titlu de prejudiciu moral, convertiţi în lei la cursul din ziua efectuării plăţii, precum şi orice eventuală altă sumă care ar putea fi datorată cu titlu de impozit asupra sumei menţionate;",
+  "b) această sumă va fi majorată, începând de la data expirării termenului menţionat până la momentul efectuării plăţii, cu o dobândă simplă de întârziere egală cu dobânda minimă pentru împrumut practicată de Banca Centrală Europeană, valabilă în această perioadă, la aceasta adăugându-se o majorare cu 3 puncte procentuale."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 adiţional la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62012",
+  "text_sha256": "ec1a328ce18009c06d8ff5c28ec6c9d88efb76dabc019cc7aaae5c3c0eaddb26",
+  "catalogue_sha256": "ec1a328ce18009c06d8ff5c28ec6c9d88efb76dabc019cc7aaae5c3c0eaddb26",
+  "fetched": "2026-11-02T23:56:45Z",
+  "chars": 58509,
+  "portal_id": "62012",
+  "tip": "HOTĂRÂRE"
+ }
+}
