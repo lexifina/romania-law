@@ -1,0 +1,223 @@
+{
+ "key": "cedo-32915-96-2003-04-29",
+ "label": "CEDO, Ghiţescu c. României, 2003-04-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2003-04-29",
+ "year": "2003",
+ "heading": "HOTĂRÂRE din 29 aprilie 2003",
+ "subtitle": "în cauza Ghiţescu împotriva României (Cererea nr. 32.915/96)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "452",
+  "bis": false,
+  "date": "2005-05-27",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "no-violation"
+ ],
+ "applications": [
+  "32915/96"
+ ],
+ "case_name": "Ghiţescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 adiţional la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. hotărăşte că a existat o încălcare a art. 6 alin. 1 din Convenţie, în sensul că nu a existat un proces echitabil; 2. hotărăşte că a existat o încălcare a art. 6 alin. 1 din Convenţie, datorită faptului că reclamantului i s-a refuzat dreptul de acces la justiţie; 3. hotărăşte că a existat o încălcare a art. 1 din Protocolul nr. 1 adiţional la Convenţie, în ceea ce priveşte apartamentul nr. 1, pentru perioada 15 decembrie 1995 - 9 octombrie 2000; 4. hotărăşte că nu a existat o încălcare a art. 1 din Protocolul nr. 1 adiţional la Convenţie, în ceea ce priveşte apartamentul nr. 2 şi apartamentul nr. 3; 5. hotărăşte că statul pârât trebuie să plătească reclamantului, în 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 alin. 2 din Convenţie, următoarele sume: (i) 5.000 EUR (cinci mii euro) cu titlu de daune materiale şi morale; (îi) 187 EUR (o sută optzeci şi şapte euro) cu titlu de cheltuieli de judecată; (iii) aceste sume se vor converti în moneda naţională a statului pârât, la cursul aplicabil la data plăţii; 6. hotărăşte că această sumă va fi majorată, începând de la data expirării termenului menţionat până la momentul efectuării plăţii sumelor indicate la pct. 5 (i) şi (îi), cu o dobândă simplă de întârziere egală cu dobânda minimă pentru împrumut practicată de Banca Centrală Europeană, valabilă în această perioadă, la aceasta adăugându-se o majorare cu 3 puncte procentuale; 7. respinge cererea de acordare a unei satisfacţii echitabile pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62007",
+  "text_sha256": "541d72f1b14c8e1f684942bb9793869102d4adb5e82eb4726498e541ae507b14",
+  "catalogue_sha256": "541d72f1b14c8e1f684942bb9793869102d4adb5e82eb4726498e541ae507b14",
+  "fetched": "2026-11-02T23:56:46Z",
+  "chars": 28567,
+  "portal_id": "62007",
+  "tip": "HOTĂRÂRE"
+ }
+}
