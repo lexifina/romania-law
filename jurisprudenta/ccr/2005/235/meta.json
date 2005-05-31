@@ -1,0 +1,373 @@
+{
+ "key": "dcc-235-2005",
+ "label": "Decizia CCR nr. 235/2005",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "235",
+ "date": "2005-05-05",
+ "year": "2005",
+ "heading": "DECIZIE nr. 235 din 5 mai 2005",
+ "subtitle": "privind sesizarea de neconstituţionalitate a prevederilor art. I pct. 2 din Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 103/2004 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 43/2002 privind Parchetul Naţional Anticorupţie, cu referire la art. 13 alin. (1) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "462",
+  "bis": false,
+  "date": "2005-05-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "274A/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 103/2004",
+    "number": "103",
+    "year": "2004",
+    "path": "lege/2004/103"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Constată că prevederile art. I pct. 2 din Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 103/2004 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 43/2002 privind Parchetul Naţional Anticorupţie, cu referire la art. 13 alin. (1) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 43 din 4 aprilie 2002 privind Parchetul Naţional Anticorupţie, prin care se stabileşte că sunt de competenţa Parchetului Naţional Anticorupţie infracţiunile prevăzute în Legea nr. 78/2000, cu modificările şi completările ulterioare, comise de către deputaţi şi senatori, sunt neconstituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedintelui Camerei Deputaţilor, preşedintelui Senatului, primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 103/2004",
+    "number": "103",
+    "year": "2004",
+    "path": "lege/2004/103"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1",
+      "3",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 601/2004",
+    "number": "601",
+    "year": "2004",
+    "path": "lege/2004/601"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea de revizuire a Constituţiei României nr. 429/2003",
+    "number": "429",
+    "year": "2003",
+    "path": "lege/2003/429"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 102/2003",
+    "number": "102",
+    "year": "2003",
+    "path": "oug/2003/102"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "8-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 503/2002",
+    "number": "503",
+    "year": "2002",
+    "path": "lege/2002/503"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2004",
+    "number": "24",
+    "year": "2004",
+    "path": "oug/2004/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/2004",
+    "number": "26",
+    "year": "2004",
+    "path": "lege/2004/26"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62055",
+  "text_sha256": "7b555b66b06242f3ad06509e95b510ed527561f44cd6d50d1567fb55b50eb4a3",
+  "catalogue_sha256": "7b555b66b06242f3ad06509e95b510ed527561f44cd6d50d1567fb55b50eb4a3",
+  "fetched": "2026-11-02T23:56:52Z",
+  "chars": 40937,
+  "portal_id": "62055",
+  "tip": "DECIZIE"
+ }
+}
