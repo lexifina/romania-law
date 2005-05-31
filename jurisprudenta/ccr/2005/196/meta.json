@@ -1,0 +1,199 @@
+{
+ "key": "dcc-196-2005",
+ "label": "Decizia CCR nr. 196/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "196",
+ "date": "2005-04-14",
+ "year": "2005",
+ "heading": "DECIZIE nr. 196 din 14 aprilie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. II alin. (2) din Legea nr. 122/2004 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 97/2000 privind organizaţiile cooperatiste de credit",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "461",
+  "bis": false,
+  "date": "2005-05-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "413/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2004",
+    "number": "122",
+    "year": "2004",
+    "path": "lege/2004/122"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. II alin. (2) din Legea nr. 122/2004 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 97/2000 privind organizaţiile cooperatiste de credit, excepţie ridicată de Casa Teritorială a Cooperativelor de Credit - Banca Populară de Economii din Bucureşti în Dosarul nr. 413/2002 al înaltei Curţi de Casaţie şi Justiţie - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2004",
+    "number": "122",
+    "year": "2004",
+    "path": "lege/2004/122"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 97/2000",
+    "number": "97",
+    "year": "2000",
+    "path": "oug/2000/97"
+   },
+   "articles": [
+    {
+     "art": "202",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62042",
+  "text_sha256": "62c2b1735bb66d7ea36a2a0c343aad1090a445a2acbb9501be87e641f0a213ef",
+  "catalogue_sha256": "62c2b1735bb66d7ea36a2a0c343aad1090a445a2acbb9501be87e641f0a213ef",
+  "fetched": "2026-11-02T23:56:52Z",
+  "chars": 13332,
+  "portal_id": "62042",
+  "tip": "DECIZIE"
+ }
+}
