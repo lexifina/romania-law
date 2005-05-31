@@ -1,0 +1,220 @@
+{
+ "key": "dcc-175-2005",
+ "label": "Decizia CCR nr. 175/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "175",
+ "date": "2005-03-24",
+ "year": "2005",
+ "heading": "DECIZIE nr. 175 din 24 martie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12 alin. (4) din Legea bugetului de stat pe anul 2002 nr. 743/2001, ale art. 10 alin. (3) din Legea bugetului de stat pe anul 2003 nr. 631/2002, ale art. 9 alin. (7) din Legea bugetului de stat pe anul 2004 nr. 507/2003, precum şi cele ale art. 8 alin. (7) din Legea bugetului de stat pe anul 2005 nr. 511/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "460",
+  "bis": false,
+  "date": "2005-05-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.975/2004",
+  "1.976/2004",
+  "1.977/2004",
+  "1.978/2004",
+  "1.979/2004",
+  "1.980/2004",
+  "1.981/2004",
+  "1.983/2004",
+  "1.990/2004",
+  "1.991/2004"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 12 alin. (4) din Legea bugetului de stat pe anul 2002 nr. 743/2001, ale art. 10 alin. (3) din Legea bugetului de stat pe anul 2003 nr. 631/2002, precum şi ale art. 9 alin. (7) din Legea bugetului de stat pe anul 2004 nr. 507/2003, excepţie ridicată în faţa Tribunalului Covasna de Edith-Susana Pascu în Dosarul nr. 1.975/2004, de Viorica Barabas în Dosarul nr. 1.976/2004, de Cseh Eva în Dosarul nr. 1.977/2004, de Judit Dombai în Dosarul nr. 1.978/2004, de Ildiko Fetes în Dosarul nr. 1.979/2004, de Kis Rita în Dosarul nr. 1.980/2004, de Monika Voiculescu în Dosarul nr. 1.981/2004, de Anna-Maria Gavay-Gall în Dosarul nr. 1.983/2004, de Ildiko Csabai în Dosarul nr. 1.990/2004, de Kelemen Erika în Dosarul nr. 1.991/2004, de Olga Elisabeta Bakcsi în Dosarul nr. 1.992/2004, de Eva Todor Boer în Dosarul nr. 1.984/2004, de Aurica Rusu în Dosarul nr. 1.985/2004, de Nicolina Ciulea în Dosarul nr. 2.006/2004, de Edit Cîrstian în Dosarul nr. 1.986/2004, de Nagy Margit în Dosarul nr. 1.987/2004, de Ildiko Olah Ghiurca în Dosarul nr. 1.988/2004 şi de Erzsebet Simon în Dosarul nr. 1.989/2004. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (7) din Legea bugetului de stat pe anul 2005 nr. 511/2004, excepţie ridicată de aceleaşi părţi în aceleaşi dosare ale Tribunalului Covasna.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "41-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 177/2002",
+    "number": "177",
+    "year": "2002",
+    "path": "oug/2002/177"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62056",
+  "text_sha256": "007c22e1c39144cfcbff08bcc845695967e10475a3981231995720d6583318d0",
+  "catalogue_sha256": "007c22e1c39144cfcbff08bcc845695967e10475a3981231995720d6583318d0",
+  "fetched": "2026-11-04T07:10:10Z",
+  "chars": 15689,
+  "portal_id": "62056",
+  "tip": "DECIZIE"
+ }
+}
