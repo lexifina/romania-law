@@ -1,0 +1,145 @@
+{
+ "key": "dcc-219-2005",
+ "label": "Decizia CCR nr. 219/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "219",
+ "date": "2005-04-21",
+ "year": "2005",
+ "heading": "DECIZIE nr. 219 din 21 aprilie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "468",
+  "bis": false,
+  "date": "2005-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.239/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată, excepţie ridicată de Banca Populară Română - Cooperativa de credit, prin lichidatorul judiciar Societatea Comercială \"REAL\" - S.R.L. Bucureşti, în Dosarul nr. 1.239/2004 al Judecătoriei Babadag.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62121",
+  "text_sha256": "b189c12e9401c35dc140ad3786b605016fc9f0a071b6d12d93d6dffd1ee74c8e",
+  "catalogue_sha256": "b189c12e9401c35dc140ad3786b605016fc9f0a071b6d12d93d6dffd1ee74c8e",
+  "fetched": "2026-11-05T06:56:35Z",
+  "chars": 8750,
+  "portal_id": "62121",
+  "tip": "DECIZIE"
+ }
+}
