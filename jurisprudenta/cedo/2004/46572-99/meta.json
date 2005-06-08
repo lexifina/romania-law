@@ -1,0 +1,203 @@
+{
+ "key": "cedo-46572-99-2004-09-28",
+ "label": "CEDO, Sabou şi Pîrcălab c. României, 2004-09-28",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2004-09-28",
+ "year": "2004",
+ "heading": "HOTĂRÂRE din 28 septembrie 2004",
+ "subtitle": "în cauza Sabou şi Pîrcălab împotriva României (Cererea nr. 46.572/99)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "484",
+  "bis": false,
+  "date": "2005-06-08",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "46572/99"
+ ],
+ "case_name": "Sabou şi Pîrcălab",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Curtea hotărăşte să aplice majorări de întârziere echivalente cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, la care se vor adăuga 3 puncte procentuale.",
+  "PENTRU MOTIVELE DE MAI SUS, CURTEA, ÎN UNANIMITATE: 1. hotărăşte că art. 10 din Convenţie a fost încălcat; 2. hotărăşte că art. 8 din Convenţie a fost încălcat în ceea ce îl priveşte pe primul reclamant; 3. hotărăşte că art. 13 din Convenţie a fost încălcat în ceea ce îl priveşte pe primul reclamant; 4. hotărăşte:",
+  "a) că statul pârât trebuie să acorde reclamanţilor, în 3 luni de la rămânerea definitivă a hotărârii, conform art. 44 alin. 2 din Convenţie, sumele de mai jos:",
+  "(i) 1.582,42 euro (o mie cinci sute optzeci şi doi euro şi patruzeci şi doi cenţi) celui de-al doilea reclamant pentru prejudiciul material; (îi) 5.000 euro (cinci mii euro) primului reclamant pentru prejudiciul moral; (iii) 1.000 euro (o mie euro) celui de-al doilea reclamant pentru prejudiciul moral; (iv) 4.000 (patru mii euro) în solidar celor doi reclamanţi cu titlu de cheltuieli de judecată;",
+  "b) că aceste sume sunt convertibile în lei la rata de schimb aplicabilă la data efectuării plăţii;",
+  "c) că, de la data expirării termenului menţionat şi până la efectuarea plăţii, la aceste sume se va aplica o dobândă simplă echivalentă cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, aplicabilă pentru acea perioadă, majorată cu trei puncte procentuale;",
+  "5. respinge restul cererii de reparaţie echitabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 444/1953",
+    "number": "444",
+    "year": "1953",
+    "path": "decret/1953/444"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul prefectului nr. 7.609/1993",
+    "number": "7609",
+    "year": "1993"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 7.609/1993",
+    "number": "7609",
+    "year": "1993"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62204",
+  "text_sha256": "5e5eead49d319a3fcbf620503da65c3d8772af97bc7a2302b109cd7c5888bd9e",
+  "catalogue_sha256": "5e5eead49d319a3fcbf620503da65c3d8772af97bc7a2302b109cd7c5888bd9e",
+  "fetched": "2026-11-02T23:57:03Z",
+  "chars": 44775,
+  "portal_id": "62204",
+  "tip": "HOTĂRÂRE"
+ }
+}
