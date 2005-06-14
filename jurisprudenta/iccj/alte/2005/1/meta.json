@@ -1,0 +1,157 @@
+{
+ "key": "iccj-alte-1-2005",
+ "label": "Decizia ÎCCJ nr. 1/2005",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "alte",
+ "number": "1",
+ "date": "2005-03-28",
+ "year": "2005",
+ "heading": "DECIZIE nr. 1 din 28 martie 2005",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 54 alin. 4 şi ale art. 57 din Legea nr. 136/1995 privind asigurările şi reasigurările în România",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "503",
+  "bis": false,
+  "date": "2005-06-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii, declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 54 alin. 4 şi ale art. 57 din Legea nr. 136/1995 privind asigurările şi reasigurările în România, cu modificările ulterioare, stabileşte:",
+  "Societatea de asigurare participă în procesul penal în calitate de asigurător de răspundere civilă.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1000",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2005-06-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62314",
+  "text_sha256": "b2acc7014974de8e03904f513dda4b0c0ffe7444d9c3720b8f6f6f15005723c5",
+  "catalogue_sha256": "b2acc7014974de8e03904f513dda4b0c0ffe7444d9c3720b8f6f6f15005723c5",
+  "fetched": "2026-11-02T23:57:11Z",
+  "chars": 11093,
+  "portal_id": "62314",
+  "tip": "DECIZIE"
+ }
+}
