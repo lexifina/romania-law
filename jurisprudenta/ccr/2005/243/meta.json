@@ -1,0 +1,206 @@
+{
+ "key": "dcc-243-2005",
+ "label": "Decizia CCR nr. 243/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "243",
+ "date": "2005-05-10",
+ "year": "2005",
+ "heading": "DECIZIE nr. 243 din 10 mai 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 13 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 16/2001 privind gestionarea deşeurilor industriale reciclabile",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "516",
+  "bis": false,
+  "date": "2005-06-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.942/2004",
+  "27D/2005",
+  "5D/2005",
+  "8.029/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 16/2001",
+    "number": "16",
+    "year": "2001",
+    "path": "oug/2001/16"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 13 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 16/2001 privind gestionarea deşeurilor industriale reciclabile, excepţie ridicată de Societatea Comercială \"OCTONAL\" - S.R.L. din Oradea în Dosarul nr. 4.942/2004 al Judecătoriei Oradea şi în Dosarul nr. 8.029/2004 al Judecătoriei Cluj-Napoca.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 16/2001",
+    "number": "16",
+    "year": "2001",
+    "path": "oug/2001/16"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "8",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-06-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62428",
+  "text_sha256": "3002aa0f5ad6469f85545ca24324bb9783cadbbb7248a44347ebe757626cf6ef",
+  "catalogue_sha256": "3002aa0f5ad6469f85545ca24324bb9783cadbbb7248a44347ebe757626cf6ef",
+  "fetched": "2026-11-02T23:57:22Z",
+  "chars": 12613,
+  "portal_id": "62428",
+  "tip": "DECIZIE"
+ }
+}
