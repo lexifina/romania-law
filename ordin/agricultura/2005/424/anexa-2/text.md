@@ -1,0 +1,14 @@
+# Anexa 2
+MINISTERUL AGRICULTURII, PĂDURILOR |MINISTERUL AGRICULTURII, PĂDURILOR ȘI DEZVOLTĂRII RURALE |ȘI DEZVOLTĂRII RURALE | REGIA NAȚIONALĂ A PĂDURILOR - ROMSILVA |REGIA NAȚIONALĂ A PĂDURILOR - ROMSILVA | Direcția silvică........... |Direcția silvică............... Ocolul silvic............. |Ocolul silvic.............. Seria RNP........ Nr....... |Seria RNP........ Nr....... | |
+PERMIS DE PESCUIT |
+PERMIS DE PESCUIT în scop recreativ/sportiv în apele | în scop recreativ/sportiv în de munte | apele de munte | eliberat în data de......... |
+Perioada de valabilitate |
+Perioada de valabilitate....................... |........................ | | Domnul....., cu domiciliul în | localitatea....., str.... nr....,
+Domnul.........................., | județul(sectorul)..., posesor al din localitatea.................., | buletinului/cărții de identitate având calitatea de pescar sportiv, | seria... nr...., emis/emisă de..., a obținut dreptul de a practica | poate exercita pescuitul în scop pescuitul sportiv în scop recreativ/ | recreativ/ sportiv în următoarele sportiv în urmatoarele fonduri de | fonduri de pescuit, administrate pescuit: | direct de Regia Națională a | Pădurilor - Romsilva:................................... |....................................................................... |....................................................................... | Efectuarea pescuitului în scop................................... | recreativ/sportiv se face numai în................................... | condițiile, cu mijloacele și în................................... | perioadele prevăzute de lege.................................... | Posesorul acestui permis este obligat................................... | ca de fiecare dată când practică................................... | pescuitul să aibă asupra sa documen-................................... | tele privind identitatea sa, pentru................................... | a fi prezentate organelor de control, | la cerere. | Nerespectarea prevederilor
+Emitent.......... | referitoare la practicarea pescuitului | în scop recreativ/sportiv atrage | anularea acestui permis, precum și
+Am luat cunoștința de condițiile | răspunderea materială, contraven- în care pot practica pescuitul și | țională sau penală, potrivit legii. ma oblig să le respect. | Pescuitul sportiv în apele de munte | menționate mai sus este permis a se | exercita cu undița sau cu lanseta
+Titular al permisului, | ținută în mână și folosind, în | exclusivitate, momeli artificiale. | Se pot reține numai capturile | (peștii) cu lungimea minimă de 20 cm | la păstrăv, 22 cm la coregon și 25 cm | la lipan. Pescuitul sportiv în apele | de munte este permis numai în timpul | zilei, de la răsăritul până la apusul
+Numele și prenumele........... | soarelui. | | Emitent,
+Semnatura..................... | | Numele și prenumele............ |
+Data.......................... | Semnătura și ștampila..........
+-------------
