@@ -1,0 +1,162 @@
+{
+ "key": "dcc-247-2005",
+ "label": "Decizia CCR nr. 247/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "247",
+ "date": "2005-05-10",
+ "year": "2005",
+ "heading": "DECIZIE nr. 247 din 10 mai 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 134 alin. (1) din Legea nr. 31/1990 privind societăţile comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "544",
+  "bis": false,
+  "date": "2005-06-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 134 alin. (1) din Legea nr. 31/1990 privind societăţile comerciale, excepţie ridicată de Societatea Comercială \"Metex\" - S.A. În Dosarul nr. 647/COM/2004 al Tribunalului Galaţi - Secţia comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62616",
+  "text_sha256": "945332e2fe5af53572ec11473c529a241160c5a861456e233fad47c9ab0f1684",
+  "catalogue_sha256": "945332e2fe5af53572ec11473c529a241160c5a861456e233fad47c9ab0f1684",
+  "fetched": "2026-11-02T23:57:34Z",
+  "chars": 12070,
+  "portal_id": "62616",
+  "tip": "DECIZIE"
+ }
+}
