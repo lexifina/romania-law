@@ -1,0 +1,202 @@
+{
+ "key": "dcc-260-2005",
+ "label": "Decizia CCR nr. 260/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "260",
+ "date": "2005-05-12",
+ "year": "2005",
+ "heading": "DECIZIE nr. 260 din 12 mai 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 82 din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "548",
+  "bis": false,
+  "date": "2005-06-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "680/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 82 din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, excepţie ridicată de Silvian Mihoc în Dosarul nr. 680/2004 al Judecătoriei Salonta.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2004",
+    "number": "255",
+    "year": "2004",
+    "path": "lege/2004/255"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-06-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62672",
+  "text_sha256": "fc503bc27853176b3c42dd5cacf3e2fcaa491b03dd97fab1969753dba8fbe044",
+  "catalogue_sha256": "fc503bc27853176b3c42dd5cacf3e2fcaa491b03dd97fab1969753dba8fbe044",
+  "fetched": "2026-11-02T23:57:39Z",
+  "chars": 14909,
+  "portal_id": "62672",
+  "tip": "DECIZIE"
+ }
+}
