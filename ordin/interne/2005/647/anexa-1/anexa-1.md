@@ -1,0 +1,2 @@
+# Anexa 1
+------- la normele metodologice ------------------------ STRUCTURA-CADRU a planului de urgență internă 1. Lista cu distribuția planului 2. Evidența actualizărilor și revizuirilor 3. Cuprins 4. Generalități 5. Informații despre obiectiv 6. Identificarea și clasificarea evenimentelor 7. Clasificarea urgențelor 8. Notificarea, informarea și alarmarea 9. Organizarea și conducerea acțiunilor de intervenție 10. Comunicațiile 11. Logistica 12. Monitorizarea factorilor de mediu 13. Comunicarea cu mass-media și informarea publică 14. Verificarea planului
