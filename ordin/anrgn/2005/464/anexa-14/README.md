@@ -1,0 +1,7 @@
+# Anexa nr. 14: 2l Tariful reglementat pentru activitatea de distribuție a gazelor naturale realizată de SNGN ROMGAZ S.A. MEDIAȘ Sucursala Ploiești ROL/1000 mc RON/1000 mc 2.491.300 249,13
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 62434 (https://legislatie.just.ro/Public/DetaliiDocument/62434)
+- sha256 of that document's text as the service returned it: f6e241a410cc6c9ed95ae3becb15f2f3a1126312170c94fa9a68824f7807ee9a
+- Retrieved: 2026-11-02
