@@ -1,0 +1,12 @@
+# Anexa 5
+FORMA MODIFICATĂ ȘI COMPLETATĂ a art. 17 din anexa nr. 4 la Ordinul ministrului agriculturii, pădurilor, apelor și mediului nr. 126/2004 Art. 17. - Rezilierea de drept a contractului la inițiativa administratorului se realizează fără sesizarea instanței și fără punere în întârziere, în următoarele cazuri:
+a) gestionarul nu își îndeplinește obligația de plată a tarifului într-o perioadă de 30 de zile de la expirarea termenului contractual și după împlinirea unui termen de 5 zile lucrătoare de la primirea notificării din partea autorității publice centrale care răspunde de silvicultură;
+b) gestionarul nu și-a îndeplinit oricare dintre obligațiile contractuale în termenele prevăzute;
+c) încălcarea gravă, în mod repetat, de către persoanele autorizate de gestionar să practice vânătoarea pe acest fond de vânătoare a regulilor de organizare și practicare a vânătorii sau atunci când se constată că gestionarul este în imposibilitatea de a stăpâni faptele culpabile;
+d) neîndeplinirea obligației prevăzute la art. 19;
+e) scăderea cu peste 20% a efectivelor de vânat evaluate la speciile principale, în condițiile în care aceasta nu este justificată de declanșarea, dovedită cu acte oficiale, a unor epizootii sau a altor factori dăunători faunei sălbatice, dacă răspunderea declanșării acestora nu cade în sarcina gestionarului, sau de eventualele migrări spre fondurile învecinate, dovedite cu acte oficiale;
+f) profilul de activitate al unității s-a schimbat;
+g) 2 ani consecutivi fondul de vânătoare nu face obiectul nici unei teme de cercetare;
+h) se face dovada că fondul de vânătoare a fost folosit în mod repetat în alte scopuri decât cel pentru care a fost atribuit;
+i) în situația în care prin hotărâre judecătorească irevocabilă administratorul este obligat să încheie cu un alt gestionar un contract de gestionare pentru același fond de vânătoare.
+----------
