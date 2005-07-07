@@ -1,0 +1,206 @@
+{
+ "key": "dcc-289-2005",
+ "label": "Decizia CCR nr. 289/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "289",
+ "date": "2005-06-07",
+ "year": "2005",
+ "heading": "DECIZIE nr. 289 din 7 iunie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 92/2004 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pentru anul 2005",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "586",
+  "bis": false,
+  "date": "2005-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "233/2005",
+  "234/2005",
+  "801/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 92/2004",
+    "number": "92",
+    "year": "2004",
+    "path": "oug/2004/92"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 92/2004 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pentru anul 2005, excepţie ridicată de Alina Raluca Horhogea, Julieta Maria Morar şi de Carmen Mihaela Iosup în dosarele nr. 1.057/2005, nr. 1.058/2005 şi nr. 1.059/2005 ale Tribunalului Arad - Secţia comercială şi de contencios administrativ, de Marinela Ciucă, Nicuşor Octavian Maier, Mariana Moldovan, Dorina Ola, Ramona Simon, Maria Beldean, Marius Roşca, Eugenia Marina Popa şi Ioana Silvia Cealera în Dosarul nr. 233/2005 al Tribunalului Mureş şi de Stelian Stoica, Alina Mesaroş, Gabriela Nagy, Crina Ignat, Eniko Eros şi Violeta Bucur în Dosarul nr. 234/2005 al aceleiaşi instanţe, precum şi de Adina Maria Cruciatu în Dosarul nr. 801/2005 al Tribunalului Sibiu - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 92/2004",
+    "number": "92",
+    "year": "2004",
+    "path": "oug/2004/92"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62978",
+  "text_sha256": "7afb13c4254202b77fbe5aef154da8e69af47b397982e76838c1a0d734982393",
+  "catalogue_sha256": "7afb13c4254202b77fbe5aef154da8e69af47b397982e76838c1a0d734982393",
+  "fetched": "2026-11-02T23:58:01Z",
+  "chars": 23862,
+  "portal_id": "62978",
+  "tip": "DECIZIE"
+ }
+}
