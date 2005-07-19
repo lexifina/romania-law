@@ -1,0 +1,2 @@
+# Anexa 2
+CARACTERISTICI DE TIPARIRE Denumire: Proces-verbal de constatare și sanctionare a contraventiilor Seria.... Nr........ Cod M.F.P. 14.13.22.99/1 Fiecare formular se tipareste în 3 exemplare (negru, rosu și verde). Formularele se tiparesc pe hartie de calitate, normala sau autocopiativa care să asigure lizibilitatea scrisului pe fața și pe verso, atât pe original, cat și pe copii. Formularele se broseaza în carnete/blocuri a cate 50 de procese-verbale de constatare și sanctionare a contraventiilor, conținând fiecare cate 150 de file. -----------
