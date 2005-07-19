@@ -1,0 +1,163 @@
+{
+ "key": "dcc-305-2005",
+ "label": "Decizia CCR nr. 305/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "305",
+ "date": "2005-06-09",
+ "year": "2005",
+ "heading": "DECIZIE nr. 305 din 9 iunie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 92/2004 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pentru anul 2005",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "629",
+  "bis": false,
+  "date": "2005-07-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "245/2005",
+  "382D/2005",
+  "246/2005",
+  "284/2005",
+  "383D/2005",
+  "381D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 92/2004",
+    "number": "92",
+    "year": "2004",
+    "path": "oug/2004/92"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 92/2004 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pentru anul 2005, excepţie ridicată de Daniela Constantin, Marius Claudiu Burcea şi Valentin Drăgănescu în dosarele nr. 245/2005, nr. 246/2005 şi nr. 284/2005 ale Tribunalului Călăraşi.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 92/2004",
+    "number": "92",
+    "year": "2004",
+    "path": "oug/2004/92"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-07-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63331",
+  "text_sha256": "6463026d0c93301d8aca4e115c08f24ceb6a7836cb49b40b4fe24b9f0b52ddde",
+  "catalogue_sha256": "6463026d0c93301d8aca4e115c08f24ceb6a7836cb49b40b4fe24b9f0b52ddde",
+  "fetched": "2026-11-02T23:58:27Z",
+  "chars": 16946,
+  "portal_id": "63331",
+  "tip": "DECIZIE"
+ }
+}
