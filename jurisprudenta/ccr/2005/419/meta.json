@@ -1,0 +1,196 @@
+{
+ "key": "dcc-419-2005",
+ "label": "Decizia CCR nr. 419/2005",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "alta",
+ "number": "419",
+ "date": "2005-07-18",
+ "year": "2005",
+ "heading": "DECIZIE nr. 419 din 18 iulie 2005",
+ "subtitle": "asupra modului în care Parlamentul României a pus de acord prevederile Legii privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente cu Decizia Curţii Constituţionale nr. 375 din 6 iulie 2005, publicată în Monitorul Oficial al României, Partea I, nr. 591 din 8 iulie 2005",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "653",
+  "bis": false,
+  "date": "2005-07-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Constată că dispoziţiile din Legea privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, declarate neconstituţionale prin Decizia Curţii Constituţionale nr. 375 din 6 iulie 2005, publicată în Monitorul Oficial al României, Partea I, nr. 591 din 8 iulie 2005, au fost puse de acord cu decizia Curţii prin textele adoptate în şedinţa comună a Camerelor Parlamentului din 13 iulie 2005. 2. Constată că dispoziţiile art. 82 din Legea nr. 303/2004 privind statutul magistraţilor, în redactarea adoptată în şedinţa comună a Camerelor Parlamentului din 13 iulie 2005, sunt constituţionale în sensul că sintagma \"vârsta de pensionare prevăzută de lege\" se referă la o viitoare reglementare şi că magistraţii aflaţi în funcţie la data publicării deciziei Curţii Constituţionale pot fi menţinuţi în activitate, în condiţiile prevăzute de art. 64 din Legea nr. 303/2004 privind statutul magistraţilor, în vigoare la această dată.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedintelui Camerei Deputaţilor, preşedintelui Senatului, primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63454",
+  "text_sha256": "0714fea3d311ac803092976df2073e1998d632dcb18e1412c8053ece1f8d17a2",
+  "catalogue_sha256": "0714fea3d311ac803092976df2073e1998d632dcb18e1412c8053ece1f8d17a2",
+  "fetched": "2026-11-02T23:58:41Z",
+  "chars": 12074,
+  "portal_id": "63454",
+  "tip": "DECIZIE"
+ }
+}
