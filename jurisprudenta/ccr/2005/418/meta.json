@@ -1,0 +1,279 @@
+{
+ "key": "dcc-418-2005",
+ "label": "Decizia CCR nr. 418/2005",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "418",
+ "date": "2005-07-18",
+ "year": "2005",
+ "heading": "DECIZIE nr. 418 din 18 iulie 2005",
+ "subtitle": "asupra sesizării de neconstituţionalitate a Legii privind sănătatea reproducerii şi reproducerea umană asistată medical",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "664",
+  "bis": false,
+  "date": "2005-07-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "545A/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii privind sănătatea reproducerii şi reproducerea umană asistată medical"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "1. Constata ca prevederile art. 2, art. 3 lit. n), o) şi r), art. 5, art. 7 alin. (6), art. 10, art. 12 alin. (1), (2), (3) şi (4), art. 13 alin. (1), art. 15 alin. (2) lit. d), art. 17 lit. a), b), c) şi d), art. 21 alin. (1) lit. a), b), d), e) şi f), art. 22, art. 23 alin. (1) şi (2), art. 24 alin. (1), art. 25 alin. (1), art. 26 alin. (2), (3) şi (4), art. 28 lit. a), art. 29, art. 30 alin. (2), art. 32, art. 35 şi art. 36 alin. (2) din Legea privind sănătatea reproducerii şi reproducerea umană asistată medical sunt neconstituţionale. 2. Constata ca prevederile art. 12 şi art. 27 din legea menţionată sunt neconstituţionale în măsura în care nu prevăd un organism de specialitate, cu atribuţii de control, care să poată fi sesizat de solicitanţii a căror cerere a fost respinsă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedintelui Camerei Deputaţilor, preşedintelui Senatului, primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 301/2004",
+    "number": "301",
+    "year": "2004",
+    "path": "lege/2004/301"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63495",
+  "text_sha256": "dc15806de92a4ff53fa6c7fa710c9010ade477dc372301923b5338e0ed05ddbc",
+  "catalogue_sha256": "dc15806de92a4ff53fa6c7fa710c9010ade477dc372301923b5338e0ed05ddbc",
+  "fetched": "2026-11-02T23:58:46Z",
+  "chars": 37835,
+  "portal_id": "63495",
+  "tip": "DECIZIE"
+ }
+}
