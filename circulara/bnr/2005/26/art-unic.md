@@ -1,0 +1,2 @@
+# Articolul unic
+Începând cu data de 1 august 2005 Circulara Băncii Naționale a României nr. V/200/1991 pentru elaborarea balanței creanțelor și angajamentelor externe, Circulara Băncii Naționale a României nr. 2/1993 pentru elaborarea balanței creanțelor și angajamentelor externe și Circulara Băncii Naționale a României nr. 7/1994 pentru elaborarea balanței de plati externe se abroga. Guvernatorul Băncii Naționale a României, Mugur Constantin Isarescu București, 26 iulie 2005. Nr. 26. ____________
