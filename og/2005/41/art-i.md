@@ -1,0 +1,3 @@
+# Articolul I
+Alineatul (2) al articolului 5 din Ordonanța de urgenta a Guvernului nr. 63/1999 cu privire la gestionarea fondurilor nerambursabile alocate României de către Comunitatea Europeană, precum și a fondurilor de cofinantare aferente acestora, publicată în Monitorul Oficial al României, Partea I, nr. 215 din 17 mai 1999, aprobată prin Legea nr. 22/2000, cu modificările și completările ulterioare, se modifica și va avea următorul cuprins:
+(2) Se autorizeaza Ministerul Finanțelor Publice sa repartizeze și sa introducă în bugetele ordonatorilor principali de credite modificările determinate de utilizarea sumelor prevăzute la alin. (1) și (1^1), precum și să efectueze, după caz, plati direct din aceasta poziție de cheltuieli.

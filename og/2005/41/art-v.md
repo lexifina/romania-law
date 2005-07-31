@@ -1,0 +1,8 @@
+# Articolul V
+Legea nr. 297/2004 privind piața de capital, publicată în Monitorul Oficial al României, Partea I, nr. 571 din 29 iunie 2004, cu modificările și completările ulterioare, se completează după cum urmează:
+1. După articolului 286 se introduce un nou articol, articolul 286^1, cu următorul cuprins:
+Articolul 286^1
+(1) Orice persoană poate dobândi cu orice titlu sau poate deține acțiuni emise de către societățile de investiții financiare rezultate din transformarea fondurilor proprietății private, până în limita de 1% din capitalul social al societăților de investiții financiare.
+(2) Exercițiul dreptului de vot este suspendat pentru acțiunile deținute de acționari care depășesc limita prevăzută la alin. (1).
+(3) În termen de 3 luni de la data depășirii limitei de 1% din capitalul social al societăților de investiții financiare, actionarii aflați în aceasta situație sunt obligați sa vândă acțiunile care depășesc limita de deținere. C.N.V.M. va emite reglementări privind aplicarea prezentului articol.
+2. Societățile de investiții financiare vor lua măsuri de modificare a statutelor sau a actelor constitutive, după caz, în termen de 60 de zile de la data intrării în vigoare a prezentei ordonanțe, în sensul eliminării oricăror prevederi contrare dispozițiilor art. 286^1 din Legea nr. 297/2004 privind piața de capital, cu modificările și completările ulterioare. În cazul în care societățile de investiții financiare nu efectuează modificările în termen de 60 de zile de la data intrării în vigoare a prezentei ordonanțe, statutele sau actele constitutive se considera modificate de drept, în sensul respectării limitei de 1% din capitalul social.

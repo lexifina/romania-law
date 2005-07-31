@@ -1,0 +1,3 @@
+# Articolul II
+La articolul 4 din Ordonanța de urgenta a Guvernului nr. 249/2000 privind constituirea și utilizarea Fondului special pentru produse petroliere, publicată în Monitorul Oficial al României, Partea I, nr. 647 din 12 decembrie 2000, aprobată cu modificări și completări prin Legea nr. 382/2002, după litera a) se introduce o noua litera, litera a^1), cu următorul cuprins:
+a^1) sumele constituite în Fondul special pentru produse petroliere, rămase după stingerea datoriei publice prevăzute la lit. a), se utilizează pentru diminuarea datoriei publice interne, până la incidența echivalentului în lei al sumei de 507.300 mii dolari S.U.A. determinat la cursul valutar valabil la data plății;
