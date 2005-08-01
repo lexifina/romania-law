@@ -1,0 +1,151 @@
+{
+ "key": "dcc-410-2005",
+ "label": "Decizia CCR nr. 410/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "410",
+ "date": "2005-07-14",
+ "year": "2005",
+ "heading": "DECIZIE nr. 410 din 14 iulie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Hotărârii Guvernului nr. 147/1992 privind blocarea, ridicarea, depozitarea şi eliberarea autovehiculelor sau remorcilor stationate neregulamentar pe drumurile publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "691",
+  "bis": false,
+  "date": "2005-08-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 147/1992",
+    "number": "147",
+    "year": "1992",
+    "path": "hg/1992/147"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca fiind inadmisibila excepţia de neconstituţionalitate a dispoziţiilor Hotărârii Guvernului nr. 147/1992 privind blocarea, ridicarea, depozitarea şi eliberarea autovehiculelor sau remorcilor stationate neregulamentar pe drumurile publice, excepţie ridicată de Gheorghe Dobre în Dosarul nr. 393/C/2005 al Tribunalului Gorj - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 147/1992",
+    "number": "147",
+    "year": "1992",
+    "path": "hg/1992/147"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 85/2003",
+    "number": "85",
+    "year": "2003",
+    "path": "hg/2003/85"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-08-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63778",
+  "text_sha256": "5450844ed5d1404d37d5c4b214c6284be0f1f9fa7524d8d71d12b8ba7cbbd7b9",
+  "catalogue_sha256": "5450844ed5d1404d37d5c4b214c6284be0f1f9fa7524d8d71d12b8ba7cbbd7b9",
+  "fetched": "2026-11-02T23:59:07Z",
+  "chars": 8216,
+  "portal_id": "63778",
+  "tip": "DECIZIE"
+ }
+}
