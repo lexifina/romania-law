@@ -1,0 +1,242 @@
+{
+ "key": "dcc-328-2005",
+ "label": "Decizia CCR nr. 328/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "328",
+ "date": "2005-06-21",
+ "year": "2005",
+ "heading": "DECIZIE nr. 328 din 21 iunie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. (5) din Ordonanţa de urgenta a Guvernului nr. 43/2002 privind Parchetul Naţional Anticoruptie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "690",
+  "bis": false,
+  "date": "2005-08-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.678/2004",
+  "87/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibila, excepţia de neconstitutionala a dispoziţiilor art. 28 alin. (5) din Ordonanţa de urgenta a Guvernului nr. 43/2002 privind Parchetul Naţional Anticoruptie, cu modificările şi completările ulterioare, excepţie ridicată de Tulus Andreea Annamaria, Baldean Denisa Livia, Nicorici Silvia, Mora Ioan, Vitos Marta, Repede Adrian, Puscasiu Eugenia, Rodina Alina, Darjan Traian, Crisan Viorica, Niculescu Monica, Saracut Mihaela, Idriceanu Claudia, Ungur Liviu, Ilut Adriana, Cont Carmen Maria, Ionescu Ana, Cotutiu Gheorghe, Puscasu Danusia, Bozesan Ioana, Belean Emil, Lupea Adina, Trofin Monica, Tatu Claudia Oana, Rus Sergiu Leon, Moldovan Emil, Galis Georgeta, Litus Emese, Slesiu Sorina, Barbu Campean, Chis Ioan Daniel, Brehar Paulina Lucia, Ianculescu Janina (Goia), Couti Antoaneta Tania, Pop Anca Adriana, Balint Camelia, Dinca Ioana, Pacurar Iulian, Budisan Anca, Tasca Dan, Fagea Maria, Campean Anamaria, Neamt Alina, Bendea Elena, Bulieris Nicoleta, Ivanescu Simona, Dusa Radu, Iliescu Marin, Lazar Monica, Bujor (Stremtan) Francesca, Kosa Nicoleta, Ceteras Alexandrina, Cimbrudean Corina, Chirila Octavian, Topan Alina, Aldea Ana, Corovei Corina, Tatu Dorin, Alb Angela, Tuka Iustina, Chichisan Augusta, Budiu Mirela Agota, Szabo Simona, Cengher Camelia, Tatar Calin şi Alicu Sever în Dosarul nr. 10.678/2004 al Tribunalului Cluj, precum şi de Marincas Mircea, Papita Chivu, Stana Pompilia Dana, Pop Elena, Budusan Dan, Bologa Crin Nicu, Olar Adrian Claudiu, Balas Angela, Pece Vaida Rodica, Frasineanu Vasile, Bogdan Rodica, Taran Daria Braduta, Matyus Gabriela Elvira, Chis Marta Daniela, Ghiran Alina Andreea, Ciumarnean Isaia Daniel, Rădulescu Teodor şi Miclea Iuliu în Dosarul nr. 87/2005 al Tribunalului Salaj - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 601/2004",
+    "number": "601",
+    "year": "2004",
+    "path": "lege/2004/601"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 543/2002",
+    "number": "543",
+    "year": "2002",
+    "path": "lege/2002/543"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 24/2004",
+    "number": "24",
+    "year": "2004",
+    "path": "oug/2004/24"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-08-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63763",
+  "text_sha256": "95f806dede34dbcd4f6f44149d68c48a198ef3cb1bc94ee0c7ae4d8aa21a511e",
+  "catalogue_sha256": "95f806dede34dbcd4f6f44149d68c48a198ef3cb1bc94ee0c7ae4d8aa21a511e",
+  "fetched": "2026-11-02T23:59:07Z",
+  "chars": 21884,
+  "portal_id": "63763",
+  "tip": "DECIZIE"
+ }
+}
