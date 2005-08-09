@@ -1,0 +1,4 @@
+# Anexa
+LISTA organizațiilor de terță parte desemnate care efectuează încercări nedistructive conform pct. 3.1.3 din anexa nr. 1 la Hotărârea Guvernului nr. 584/2004 privind stabilirea condițiilor de introducere pe piață a echipamentelor sub presiune
+Denumirea și adresa organismului Produsul/grupa de produse care va fi evaluat/evaluată Procedura de evaluare/sarcini specifice Hotărârea Guvernului nr. 584/2004
+Organismul ISIM CERT END din cadrul organizației ISIM CERT, aparținând de Institutul Național de Cercetare-Dezvoltare în Sudură și Încercări de Materiale ISIM Timișoara, bd. Mihai Viteazul nr. 30, cod 300222, municipiul Timișoara, județul Timiș Echipamente sub presiune Certificare personal în metodele "Examinări nedistructive prin metoda cu ultrasunete - UT, prin metoda pulberilor magnetice - MT, prin metoda lichidelor penetrante - PT, prin metoda radiațiilor penetrante - RT" Anexa nr. 1 pct. 3.1.3 Încercări nedistructive ___________
