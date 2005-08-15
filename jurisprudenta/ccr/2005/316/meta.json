@@ -1,0 +1,184 @@
+{
+ "key": "dcc-316-2005",
+ "label": "Decizia CCR nr. 316/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "316",
+ "date": "2005-06-14",
+ "year": "2005",
+ "heading": "DECIZIE nr. 316 din 14 iunie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 9 lit. b) şi d) din Legea nr. 156/2000 privind protecţia cetăţenilor români care lucrează în străinătate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "741",
+  "bis": false,
+  "date": "2005-08-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "11.292/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 156/2000",
+    "number": "156",
+    "year": "2000",
+    "path": "lege/2000/156"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 9 lit. b) şi d) din Legea nr. 156/2000 privind protecţia cetăţenilor români care lucrează în străinătate, excepţie ridicată de Societatea Comercială \"Nadosim M\" - S.R.L. din Bucureşti în Dosarul nr. 11.292/2004 al Judecătoriei Sectorului 6 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 156/2000",
+    "number": "156",
+    "year": "2000",
+    "path": "lege/2000/156"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "b",
+      "d"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "og/2002/43"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-08-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64201",
+  "text_sha256": "fca6b094feaf150d556cb3ac1f49bf8eb3eddbd2fb7e4ab5ff4c663c8ad4b33f",
+  "catalogue_sha256": "fca6b094feaf150d556cb3ac1f49bf8eb3eddbd2fb7e4ab5ff4c663c8ad4b33f",
+  "fetched": "2026-11-02T23:59:42Z",
+  "chars": 17361,
+  "portal_id": "64201",
+  "tip": "DECIZIE"
+ }
+}
