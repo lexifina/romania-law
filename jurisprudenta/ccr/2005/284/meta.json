@@ -1,0 +1,248 @@
+{
+ "key": "dcc-284-2005",
+ "label": "Decizia CCR nr. 284/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "284",
+ "date": "2005-06-07",
+ "year": "2005",
+ "heading": "DECIZIE nr. 284 din 7 iunie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. VI alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 184/2002 pentru modificarea şi completarea Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, precum şi pentru stabilirea unor măsuri pentru accelerarea aplicării acesteia şi a Ordonanţei de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România, aprobată cu modificări şi completări prin Legea nr. 501/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "743",
+  "bis": false,
+  "date": "2005-08-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "14.575/2004",
+  "134D/2005",
+  "60D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 184/2002",
+    "number": "184",
+    "year": "2002",
+    "path": "oug/2002/184"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. VI alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 184/2002 pentru modificarea şi completarea Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989, precum şi pentru stabilirea unor măsuri pentru accelerarea aplicării acesteia şi a Ordonanţei de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România, aprobată cu modificări şi completări prin Legea nr. 501/2002, excepţie ridicată de Consiliul Local al Municipiului Cluj-Napoca în dosarele nr. 14.575/2004, nr. 14.743/2004, nr. 14.735/2004, nr. 15.219/2004, nr. 15.229/2004, nr. 15.222/2004, nr. 15.234/2004, nr. 15.228/2004, nr. 14.537/2004, nr. 14.739/2004, nr. 14.746/2004, nr. 14.747/2004, nr. 15.230/2004, nr. 15.257/2004, nr. 15.224/2004, nr. 15.233/2004, nr. 15.239/2004, nr. 14.538/2004, nr. 15.236/2004, nr. 15.216/2004, nr. 15.226/2004, nr. 14.539/2004, nr. 14.271/2004, nr. 14.742/2004, nr. 14.351/2004, nr. 14.737/2004, nr. 14.738/2004, nr. 15.218/2004, nr. 15.221/2004, nr. 15.231/2004, nr. 14.353/2004, nr. 14.354/2004, nr. 15.235/2004, nr. 15.242/2004, nr. 15.220/2004, nr. 15.232/2004, nr. 15.237/2004, nr. 15.238/2004 şi nr. 15.240/2004 ale Judecătoriei Cluj-Napoca şi de Cornel Moldovean şi Monica Moldovean în Dosarul nr. 15.239/2004 al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 184/2002",
+    "number": "184",
+    "year": "2002",
+    "path": "oug/2002/184"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-08-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64252",
+  "text_sha256": "7af930582fe6736066db7ddd2c2e4359b1d08d937dbad4964b1956c5078efed7",
+  "catalogue_sha256": "7af930582fe6736066db7ddd2c2e4359b1d08d937dbad4964b1956c5078efed7",
+  "fetched": "2026-11-02T23:59:43Z",
+  "chars": 28003,
+  "portal_id": "64252",
+  "tip": "DECIZIE"
+ }
+}
