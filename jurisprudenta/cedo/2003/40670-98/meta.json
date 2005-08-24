@@ -1,0 +1,285 @@
+{
+ "key": "cedo-40670-98-2003-09-30",
+ "label": "CEDO, Todorescu c. României, 2003-09-30",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2003-09-30",
+ "year": "2003",
+ "heading": "HOTĂRÂRE din 30 septembrie 2003",
+ "subtitle": "în cauza Todorescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "770",
+  "bis": false,
+  "date": "2005-08-24",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "40670/98",
+  "36039/97"
+ ],
+ "case_name": "Todorescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. Admite excepţiile ratione temporis ale Guvernului, referitoare la capetele de cerere întemeiate pe art. 2 din Protocolul nr. 4 la Convenţie şi pe art. 8 din Convenţie, şi declară aceste capete de cerere inadmisibile; 2. Declară cererea admisibilă pentru rest; 3. Hotărăşte că a existat o încălcare a art. 6 alin. 1 din Convenţie din cauza absenţei unui proces echitabil; 4. Hotărăşte că a existat o încălcare a art. 6 alin. 1 din Convenţie din cauza refuzului dreptului de acces la justiţie; 5. Hotărăşte că a existat o încălcare a art. 1 din Primul Protocol adiţional la Convenţie; 6. Hotărăşte că statul pârât trebuie să restituie reclamanţilor apartamentul litigios, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie; 7. Hotărăşte că, în cazul în care restituirea nu va avea loc, statul pârât va plăti reclamanţilor, în acelaşi termen de 3 luni, 50.000 EUR pentru prejudiciul material; 8. Hotărăşte că statul pârât va plăti reclamanţilor, în 3 luni de la data rămânerii definitive a hotărârii, 5.000 EUR pentru prejudiciul moral; 9. Hotărăşte că aceste sume urmează să fie plătite în lei, conform ratei de schimb aplicabile la momentul plăţii; 10. Hotărăşte că, începând de la data expirării termenului amintit şi până la momentul efectuării plăţii, sumele menţionate la pct. 7 şi 8 vor fi majorate cu o dobândă simplă egală cu facilitatea de împrumut marginal a Băncii Centrale Europene aplicabile pe parcursul acestei perioade, majorată cu 3 puncte procentuale; 11. Respinge cererea de acordare a unei satisfacţii echitabile pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1974",
+    "number": "58",
+    "year": "1974",
+    "path": "lege/1974/58"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 17/1994",
+    "number": "17",
+    "year": "1994",
+    "path": "lege/1994/17"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64456",
+  "text_sha256": "1d24af40314923d1f07fef8d4fede5d771e2b1a3e5e124049d8a63a5b76379a6",
+  "catalogue_sha256": "1d24af40314923d1f07fef8d4fede5d771e2b1a3e5e124049d8a63a5b76379a6",
+  "fetched": "2026-11-02T23:59:56Z",
+  "chars": 25218,
+  "portal_id": "64456",
+  "tip": "HOTĂRÂRE"
+ }
+}
