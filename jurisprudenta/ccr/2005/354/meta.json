@@ -1,0 +1,241 @@
+{
+ "key": "dcc-354-2005",
+ "label": "Decizia CCR nr. 354/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "354",
+ "date": "2005-07-05",
+ "year": "2005",
+ "heading": "DECIZIE nr. 354 din 5 iulie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3^1 şi art. 20 alin. (1) şi (3) din Legea nr. 146/1997 privind taxele judiciare de timbru",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "771",
+  "bis": false,
+  "date": "2005-08-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.260/2003",
+  "200D/2005",
+  "57D/2005",
+  "78/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 3^1 şi art. 20 alin. (1) şi (3) din Legea nr. 146/1997 privind taxele judiciare de timbru, excepţie ridicată de Marius Damian Burueană în Dosarul nr. 6.260/2003 al Judecătoriei Sectorului 2 Bucureşti, respectiv de Mircea Călugăreanu şi Maria Octavia Călugăreanu în Dosarul nr. 78/2005 al Tribunalului Teleorman - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 30/1999",
+    "number": "30",
+    "year": "1999",
+    "path": "og/1999/30"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "og/1998/12"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 144/1958",
+    "number": "144",
+    "year": "1958",
+    "path": "decret/1958/144"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1077",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-08-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64452",
+  "text_sha256": "3f821c318d887cdcc192e1e2b2c7cd06f101a2ba5f9b055ae53c828526b79a78",
+  "catalogue_sha256": "3f821c318d887cdcc192e1e2b2c7cd06f101a2ba5f9b055ae53c828526b79a78",
+  "fetched": "2026-11-02T23:59:56Z",
+  "chars": 17243,
+  "portal_id": "64452",
+  "tip": "DECIZIE"
+ }
+}
