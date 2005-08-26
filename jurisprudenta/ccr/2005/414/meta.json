@@ -1,0 +1,214 @@
+{
+ "key": "dcc-414-2005",
+ "label": "Decizia CCR nr. 414/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "414",
+ "date": "2005-07-14",
+ "year": "2005",
+ "heading": "DECIZIE nr. 414 din 14 iulie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 50 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 177/2002 privind salarizarea şi alte drepturi ale magistraţilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "780",
+  "bis": false,
+  "date": "2005-08-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.769/2005",
+  "475D/2005",
+  "1.701/2005",
+  "474D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 177/2002",
+    "number": "177",
+    "year": "2002",
+    "path": "oug/2002/177"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 50 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 177/2002 privind salarizarea şi alte drepturi ale magistraţilor, excepţie ridicată în faţa Tribunalului Arad - Secţia civilă de Mihail Decean în Dosarul nr. 1.769/2005 şi de Gudiu Nicolae, Mircea Creţu, Anca Nacu, Constantin Costea, Marian Bratiş, Claudia Rohnean, Petrovan Liliana, Suiu Florin Vivi, Ruxandra Codrea, Romulus Proks, Zorina Horvath, Corina Balcu, Marinela Mihalca, Aurora Bihoi, Emilia Cioabă, Adriana Spătaru, Dana Jebelean, Doina Rizac, Incze Istvan, Puşa Carmen Pârvulescu, Viorica Tortolea, Casiana Seculi, Bugarsky Gheorghe, Eugen Blaga, Mihaela Roibu, Maria Belicariu, Didona Lungulescu, Loredana Neamţu, Carmina Orza, Diaconescu Dănuţ, Miculiţ Mariana, Marghescu Rodica, Popescu Constantin, Mihăieş Aurel, Pokker Adina, Măruşteru Mihaela, Ţiroga Ilie Dorin, Ionescu Victor, Mancaş Ramiro Virgil, Godea Mircea Sandu, Barbă Ionel, Bârcaci Doina, Copoceanu Maria, Catargiu Victoria, Mălescu Magdalena, Muntean Doiniţa, Pistriceanu Ana Maria, Buta Anca, Micu Petruţa, Stoia Liviu Isaia, Damian Dorian, Damşa Virgil, Dincă Ion, Danilov Milan, Graur Ioan, Martinescu Maria, Lăpădat Maria, Sârbu Gabriela, Obeşterescu Gheorghe, Purcăriţa Trandafir, Nistor Erica, Dogaru Florin, Gavrilescu Maria Ofelia, Rambu Rujiţa, Calai Daniela, Moţiu Florin, Barac Lidia, Corhan Adriana, Jivan Ioan, Giurgincă Marinela, Olaru Rodica, Chiu Mircea şi Ionescu Ioan în Dosarul nr. 1.701/2005.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 177/2002",
+    "number": "177",
+    "year": "2002",
+    "path": "oug/2002/177"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "41-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-08-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64556",
+  "text_sha256": "8133798d0321f145ea3922be49cbf6e24700e0fe99f7be2460eaf3c2395e46d2",
+  "catalogue_sha256": "8133798d0321f145ea3922be49cbf6e24700e0fe99f7be2460eaf3c2395e46d2",
+  "fetched": "2026-11-03T00:00:01Z",
+  "chars": 18557,
+  "portal_id": "64556",
+  "tip": "DECIZIE"
+ }
+}
