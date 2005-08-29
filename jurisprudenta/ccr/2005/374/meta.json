@@ -1,0 +1,187 @@
+{
+ "key": "dcc-374-2005",
+ "label": "Decizia CCR nr. 374/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "374",
+ "date": "2005-07-05",
+ "year": "2005",
+ "heading": "DECIZIE nr. 374 din 5 iulie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. VI alin. (3) cuprins în titlul II din Ordonanţa de urgenţă a Guvernului nr. 184/2002 pentru modificarea şi completarea Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989, precum şi pentru stabilirea unor măsuri pentru accelerarea aplicării acesteia şi a Ordonanţei de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România, aprobată cu modificări şi completări prin Legea nr. 501/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "782",
+  "bis": false,
+  "date": "2005-08-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "14.532/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 184/2002",
+    "number": "184",
+    "year": "2002",
+    "path": "oug/2002/184"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. VI alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 184/2002 pentru modificarea şi completarea Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989, precum şi pentru stabilirea unor măsuri pentru accelerarea aplicării acesteia şi a Ordonanţei de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România, aprobată cu modificări şi completări prin Legea nr. 501/2002, excepţie ridicată de Consiliul Local al Municipiului Cluj-Napoca în Dosarul nr. 14.532/2004 al Judecătoriei Cluj-Napoca.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 184/2002",
+    "number": "184",
+    "year": "2002",
+    "path": "oug/2002/184"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-08-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64558",
+  "text_sha256": "bd5ee2553b612aaa4558ffa196234d6c5cd31dab75f7b5a5b67e100585676034",
+  "catalogue_sha256": "bd5ee2553b612aaa4558ffa196234d6c5cd31dab75f7b5a5b67e100585676034",
+  "fetched": "2026-11-03T00:00:03Z",
+  "chars": 14617,
+  "portal_id": "64558",
+  "tip": "DECIZIE"
+ }
+}
