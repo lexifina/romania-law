@@ -1,0 +1,2 @@
+# Articolul unic
+Se retrage, cu respectarea prevederilor legale în vigoare, autorizația de funcționare a Societății Comerciale "General Risk Services" - S.R.L., având în vedere că lichidarea societății are la bază un act voluntar al asociaților, care se va efectua în conformitate cu art. 252-263 din Legea nr. 31/1990 privind societățile comerciale, republicată. Președintele Comisiei de Supraveghere a Asigurărilor, Nicolae Eugen Crișan București, 16 mai 2005. Nr. 3.880. ___________
