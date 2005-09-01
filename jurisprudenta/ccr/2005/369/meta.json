@@ -1,0 +1,175 @@
+{
+ "key": "dcc-369-2005",
+ "label": "Decizia CCR nr. 369/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "369",
+ "date": "2005-07-05",
+ "year": "2005",
+ "heading": "DECIZIE nr. 369 din 5 iulie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (4) din Regulamentul-cadru de organizare şi funcţionare a consiliilor locale, aprobat prin Ordonanţa Guvernului nr. 35/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "794",
+  "bis": false,
+  "date": "2005-09-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (4) din Regulamentul-cadru de organizare şi funcţionare a consiliilor locale, aprobat prin Ordonanţa Guvernului nr. 35/2002, excepţie ridicată de Filiala Teritorială Argeş a Partidului Naţional Liberal în Dosarul nr. 1.592/CAF/2005 al Tribunalului Argeş - Secţia civilă, Complet specializat de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 429/2003",
+    "number": "429",
+    "year": "2003",
+    "path": "lege/2003/429"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-09-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64680",
+  "text_sha256": "db43a0325aeef5c659b5053af81010571dfa59455b49e77b5452e84f7949ae20",
+  "catalogue_sha256": "db43a0325aeef5c659b5053af81010571dfa59455b49e77b5452e84f7949ae20",
+  "fetched": "2026-11-03T00:00:08Z",
+  "chars": 14923,
+  "portal_id": "64680",
+  "tip": "DECIZIE"
+ }
+}
