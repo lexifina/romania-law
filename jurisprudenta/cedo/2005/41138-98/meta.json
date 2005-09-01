@@ -1,0 +1,117 @@
+{
+ "key": "cedo-41138-98-2005-07-05",
+ "label": "CEDO, Moldovan şi alţii c. României, 2005-07-05",
+ "court": "cedo",
+ "kind": "hotarare",
+ "number": "1",
+ "date": "2005-07-05",
+ "year": "2005",
+ "heading": "HOTĂRÂRE nr. 1 din 5 iulie 2005",
+ "subtitle": "în cauza Moldovan şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "796",
+  "bis": false,
+  "date": "2005-09-01",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "41138/98"
+ ],
+ "case_name": "Moldovan şi alţii",
+ "subjects": [],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. decide scoaterea cauzelor de pe rol cu privire la Bazil Sami Lăcătuş, Adrian Moldovan şi soţia sa, Silvia Moldovan, Ferdinand Lăcătuş, Ghioloanca Lăcătuş, Lucaci Moldovan, Octavian Rostaş şi soţia sa, Eleonora Rostaş, Lucreţia Rostaş, Adrian Moldovan (casa nr. 195 A), Mariana Moldovan, Maria Lăcătuş, Petru \"Gălbinuş\" Lăcătuş, Persida Dorina Rostaş, Valentina Rostaş, Petru \"Petrişor\" Lăcătuş, Bazil Moldovan şi soţia sa, Lucreţia Moldovan; 2. ia act de angajamentele părţilor de a nu solicita trimiterea cauzei în faţa Marii Camere; 3. decide disjungerea şi amânarea soluţionării cererilor reclamanţilor Iulius Moldovan, Melenuţa Moldovan, Maria Moldovan, Petru \"Gruia\" Lăcătuş, Petru \"Dîgăla\" Lăcătuş, Otilia Rostaş şi Maria Floarea Zoltan."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64700",
+  "text_sha256": "51d0f873f99b45319e65b22b48c99dcc70d646f93ec54c8225c95b2ab5396b9a",
+  "catalogue_sha256": "51d0f873f99b45319e65b22b48c99dcc70d646f93ec54c8225c95b2ab5396b9a",
+  "fetched": "2026-11-03T00:00:10Z",
+  "chars": 23498,
+  "portal_id": "64700",
+  "tip": "HOTĂRÂRE"
+ }
+}
