@@ -1,0 +1,19 @@
+# Anexa 3.1
+Exemplar 1 _________
+Exemplarul 1 se comunică, după caz, la instanța judecătorească sau la filiala Uniunii Naționale a Practicienilor în Reorganizare și Lichidare unde este înscris administratorului judiciar sau lichidatorul judiciar numit.
+MINISTERUL JUSTIȚIEI
+Oficiul Național al Registrului Comerțului
+Oficiul Registrului Comerțului de pe lângă
+Tribunalul...............................
+Sediu....................................
+Dovadă privind îndeplinirea procedurii de citare [] comunicare [] notificare [] convocare [] nr......, emisă la: ziua..... luna......, anul......
+Către,....................................................................... (dupa caz, instanta judecatoreasca sau filiala Uniunii Nationale a
+Practicienilor in Reorganizare si Lichidare)
+Sediu:..............................;............................
+Prin prezenta, Oficiul Național al Registrului Comerțului, prin Oficiul
+Registrului Comerțului de pe lângă Tribunalul......................... reprezentat de............., având de publicat în Buletinul procedurilor de reorganizare judiciară și faliment................................. citatia/comunicarea/notificarea/convocarea/hotărârea judecătorească/alte acte, nr......... din data....... emisă de.......................... (dupa caz, instanța judecatoreasca administratorul sau lichidatorul numit) în dosarul nr........ înregistrat pe rolul Tribunalului/Curții de
+Apel........., Secția..........., cu termen de judecată la data de.................., privind debitorul...................................................., cu sediul în........................................................., cod unic de înregistrare......., număr de ordine in registrul comerțului
+J / F / C......./....../.......
+Certifică faptul că................................................... (după caz, citatia, comunicarea, notificarea, convocarea, hotărârea judecătorească, alte acte) este publicată în Buletinul procedurilor de reorganizare judiciara și faliment nr............ din data de...........
+Director
+Consilier juridic, (ștampilă)
