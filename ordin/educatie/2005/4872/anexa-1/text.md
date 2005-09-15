@@ -1,0 +1,26 @@
+# Anexa 1
+CALENDARUL examenului de bacalaureat - 2006 ● sesiunea iunie-iulie 2006 2-12 mai 2006
+- Înscrierea candidaților 16 iunie 2006
+- Încheierea cursurilor pentru clasa a XII-a 26-27 iunie 2006
+- Limba și literatura română - probă orală 28-29 iunie 2006
+- Limba și literatura modernă - probă orală 30 iunie-1 iulie 2006 - Limba și literatura maternă - probă orală 3 iulie 2006
+- Limba și literatura română - probă scrisă 4 iulie 2006
+- Limba și literatura maternă - probă scrisă 5 iulie 2006
+- Proba obligatorie a profilului - probă scrisă 6 iulie 2006
+- O probă la alegere din aria curriculară corespunzătoare specializării - probă scrisă sau practică 7 iulie 2006
+- O probă la alegere dintre disciplinele din celelalte arii curriculare - probă scrisă sau practică 10 iulie 2006
+- Afișarea rezultatelor (până la ora 16,00) și depunerea contestațiilor (orele 16,00-20,00) 11-13 iulie 2006
+- Rezolvarea contestațiilor 14 iulie 2006
+- Afișarea rezultatelor finale. ● sesiunea septembrie 2006 17-21 iulie 2006
+- Înscrierea candidaților 21-22 august 2006
+- Limba și literatura română - probă orală 23-24 august 2006
+- Limba și literatura modernă - probă orală 25-26 august 2006
+- Limba și literatura maternă - probă orală 28 august 2006
+- Limba și literatura română - probă scrisă 29 august 2006
+- Limba și literatura maternă - probă scrisă 30 august 2006
+- Proba obligatorie a profilului - probă scrisă 31 august 2006
+- O probă la alegere din aria curriculară corespunzătoare specializării - probă scrisă sau practică 1 septembrie 2006
+- O probă la alegere dintre disciplinele din celelalte arii curriculare - probă scrisă sau practică 4 septembrie 2006
+- Afișarea rezultatelor (până la ora 16,00) și depunerea contestațiilor (orele 16,00-20,00) 5-6 septembrie 2006
+- Rezolvarea contestațiilor 7 septembrie 2006
+- Afișarea rezultatelor finale.
