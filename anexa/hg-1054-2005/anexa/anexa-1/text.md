@@ -1,0 +1,3 @@
+# Anexa 1
+Anexa
+la regulament Instituțiile și structurile asociative reprezentate în COJES 1. Direcția de muncă, solidaritate socială și familie 2. Agenția județeană pentru ocuparea forței de muncă 3. Inspectoratul teritorial de muncă 4. Inspectoratul școlar județean 5. Direcția județeană de sănătate publică 6. Direcția pentru cultură, culte și patrimoniul cultural național 7. Direcția județeană de statistică 8. Inspectoratul județean de poliție 9. Instituția prefectului 10-14. Reprezentanți ai confederațiilor sindicale 15-19. Reprezentanți ai confederațiilor patronale 20-22. Reprezentanți ai organizațiilor neguvernamentale ---------
