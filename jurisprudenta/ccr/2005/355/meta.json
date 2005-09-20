@@ -1,0 +1,179 @@
+{
+ "key": "dcc-355-2005",
+ "label": "Decizia CCR nr. 355/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "355",
+ "date": "2005-07-05",
+ "year": "2005",
+ "heading": "DECIZIE nr. 355 din 5 iulie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. V alin. (4) din cap. II secţiunea a 3-a din Ordonanţa Guvernului nr. 86/2003 privind unele reglementări în domeniul financiar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "850",
+  "bis": false,
+  "date": "2005-09-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 86/2003",
+    "number": "86",
+    "year": "2003",
+    "path": "og/2003/86"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. V alin. (4) din cap. II secţiunea a 3-a din Ordonanţa Guvernului nr. 86/2003 privind unele reglementări în domeniul financiar, excepţie ridicată de Societatea Comercială \"Marex\" - S.A. din Brăila în Dosarul nr. 986/C+C/2004 al Curţii de Apel Galaţi - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 86/2003",
+    "number": "86",
+    "year": "2003",
+    "path": "og/2003/86"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2005",
+    "number": "26",
+    "year": "2005",
+    "path": "oug/2005/26"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 609/2003",
+    "number": "609",
+    "year": "2003",
+    "path": "lege/2003/609"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-09-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/65118",
+  "text_sha256": "50aeb2b5e8ab5f45a52c9e649ef56196b11dc50bc23bd0a5a6f54e0274d4ffaf",
+  "catalogue_sha256": "50aeb2b5e8ab5f45a52c9e649ef56196b11dc50bc23bd0a5a6f54e0274d4ffaf",
+  "fetched": "2026-11-03T00:00:53Z",
+  "chars": 11076,
+  "portal_id": "65118",
+  "tip": "DECIZIE"
+ }
+}
