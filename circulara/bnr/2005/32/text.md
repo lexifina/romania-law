@@ -1,0 +1,6 @@
+# Text
+Articolul UNIC
+Începând cu perioada de aplicare 24 septembrie - 23 octombrie 2005, următoarele rate ale dobânzilor practicate de Banca Națională a României pentru rezervele minime obligatorii se stabilesc astfel:
+a) rata dobânzii plătită pentru rezervele minime obligatorii constituite în monedă națională: 1,50% pe an; ...
+b) rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională: 21% pe an. ...
+Președintele Consiliului de administrație al Băncii Naționale a României, Mugur Constantin Isărescu București, 21 septembrie 2005. Nr. 32. ----
