@@ -1,0 +1,155 @@
+{
+ "key": "iccj-su-2-2005",
+ "label": "Decizia ÎCCJ nr. II/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "2",
+ "number_printed": "II",
+ "date": "2005-05-23",
+ "year": "2005",
+ "heading": "DECIZIA NR. II din 23 mai 2005",
+ "subtitle": "privind dispoziţiile art. 33 lit. b) din Codul penal, referitoare la concursul de infracţiuni",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "867",
+  "bis": false,
+  "date": "2005-09-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "197",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "203",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 33 lit. b) din Codul penal, referitoare la concursul de infracţiuni, stabilesc:",
+  "Raportul sexual cu o persoană de sex diferit, care este rudă în linie directă sau frate ori soră, prin constrângerea acesteia sau profitând de imposibilitatea ei de a se apăra ori de a-şi exprima voinţa, constituie atât infracţiunea de viol prevăzută de art. 197 alin. 1 din Codul penal şi alin. 2 lit. b^1) din acelaşi articol (dacă victima locuieşte şi gospodăreşte împreună cu făptuitorul), cât şi infracţiunea de incest prevăzută de art. 203 din Codul penal, în concurs ideal.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "197",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b-1"
+     ]
+    },
+    {
+     "art": "203",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b-1"
+     ]
+    },
+    {
+     "art": "149-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2005-09-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/65295",
+  "text_sha256": "4d6c5ad105bb67d44cbbbf40bf0cadea07e1ae67ff29dd48e188b4ce7da65478",
+  "catalogue_sha256": "4d6c5ad105bb67d44cbbbf40bf0cadea07e1ae67ff29dd48e188b4ce7da65478",
+  "fetched": "2026-11-03T00:01:05Z",
+  "chars": 8733,
+  "portal_id": "65295",
+  "tip": "DECIZIE"
+ }
+}
