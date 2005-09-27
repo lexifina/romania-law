@@ -1,0 +1,138 @@
+{
+ "key": "iccj-su-3-2005",
+ "label": "Decizia ÎCCJ nr. III/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "3",
+ "number_printed": "III",
+ "date": "2005-05-23",
+ "year": "2005",
+ "heading": "DECIZIA Nr. III din 23 mai 2005",
+ "subtitle": "cu privire la înţelesul ce trebuie atribuit actelor la care se referă art. 197 alin. 1 şi art. 198, precum şi art. 201 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "867",
+  "bis": false,
+  "date": "2005-09-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "198",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 197 alin. 1, cu referire la art. 198 şi 201 din Codul penal, stabilesc: 1. Prin act sexual de orice natură, susceptibil a fi încadrat în infracţiunea de viol prevăzută de art. 197 din Codul penal, se înţelege orice modalitate de obţinere a unei satisfacţii sexuale prin folosirea sexului sau acţionând asupra sexului, între persoane de sex diferit sau de acelaşi sex, prin constrângere sau profitând de imposibilitatea persoanei de a se apăra ori de a-şi exprima voinţa. 2. Prin acte de perversiune sexuală, în accepţiunea prevederilor art. 201 din Codul penal, se înţelege orice alte modalităţi de obţinere a unei satisfacţii sexuale decât cele arătate la pct. 1.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "198",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2005-09-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/65296",
+  "text_sha256": "38c5ca61a12956218bc7c03213f28d98b0c33f439db065ec6aefad3855c0b8a6",
+  "catalogue_sha256": "38c5ca61a12956218bc7c03213f28d98b0c33f439db065ec6aefad3855c0b8a6",
+  "fetched": "2026-11-03T00:01:05Z",
+  "chars": 9468,
+  "portal_id": "65296",
+  "tip": "DECIZIE"
+ }
+}
