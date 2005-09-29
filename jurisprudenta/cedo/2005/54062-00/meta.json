@@ -1,0 +1,170 @@
+{
+ "key": "cedo-54062-00-2005-06-06",
+ "label": "CEDO, Androne c. României, 2005-06-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-06-06",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 6 iunie 2005",
+ "subtitle": "din 22 decembrie 2004, definitivă la 6 iunie 2005, în Cauza Androne împotriva României - (Cererea nr. 54.062/00)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "875",
+  "bis": false,
+  "date": "2005-09-29",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "54062/00",
+  "28342/1995",
+  "48553/99"
+ ],
+ "case_name": "Androne",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 6 alin. 1 din Convenţie; 3. hotărăşte că a fost încălcat art. 1 din Primul Protocol; 4. hotărăşte că statul pârât trebuie să restituie reclamanţilor, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, casa în litigiu şi terenul pe care este construită; 5. hotărăşte că, în lipsa restituirii în natură, statul pârât trebuie să plătească reclamanţilor, împreună, în termenul de 3 luni prevăzut mai sus, 60.000 EUR (şaizeci mii euro) cu titlu de prejudiciu material; 6. hotărăşte că statul pârât trebuie să plătească reclamanţilor, împreună, în termenul menţionat de 3 luni, următoarele sume",
+  "a) 6.000 EUR (şase mii euro) cu titlu de prejudiciu moral;",
+  "b) 6.054 EUR (şase mii cincizeci şi patru euro) cu titlu de cheltuieli de judecată;",
+  "7. hotărăşte că sumele vor fi convertite în moneda naţională a statului pârât, la nivelul ratei de schimb aplicabile la data plăţii; 8. hotărăşte că, începând de la data expirării termenului respectiv până la momentul plăţii, sumele indicate la pct. 5 şi 6 a) şi b) vor fi majorate cu o dobândă simplă a cărei rată este egală cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, la care se vor adăuga 3 puncte procentuale; 9. respinge restul cererii de acordare a unei satisfacţii echitabile."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "324",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "271",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/65337",
+  "text_sha256": "1a20c5599b434bff2030b8879fc62b1771aac69961cbd8b392cffbda34e52b07",
+  "catalogue_sha256": "1a20c5599b434bff2030b8879fc62b1771aac69961cbd8b392cffbda34e52b07",
+  "fetched": "2026-11-03T00:01:08Z",
+  "chars": 35097,
+  "portal_id": "65337",
+  "tip": "HOTĂRÂRE"
+ }
+}
