@@ -1,0 +1,176 @@
+{
+ "key": "dcc-447-2005",
+ "label": "Decizia CCR nr. 447/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "447",
+ "date": "2005-09-15",
+ "year": "2005",
+ "heading": "DECIZIE nr. 447 din 15 septembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Parchetul Naţional Anticorupţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "879",
+  "bis": false,
+  "date": "2005-09-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.525/2005",
+  "506D/2005",
+  "1.237/2005",
+  "553D/2005",
+  "2.556/2005",
+  "473D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Parchetul Naţional Anticorupţie, excepţie ridicată în faţa Tribunalului Mehedinţi - Secţia civilă de Ivaşcu Sabin, Bărbănţan Lucia, Popescu Norel, Nicolae Mirela, Crivineanu Grigore, Dumitraşcu Sever, Micu Pătru, Mihai Fulga, Curelea Ion, Stoenescu Cristina, Nişulescu Dorina, Pavelescu Cornel, Orfescu Aristică, Negreanu Victoria, ţamblac Ionela, Ghenciu Mariana, Iordache Mariana, Sfinţescu Liliana, Păun Sanda, Tudor Eugenia, Ghenciu Petria, Băluţă Clara Daniela, Chiş Titi, Burtea Cristina, Geamănă Alexandru, Bărbulescu Adi, Bejinaru Florica, Popa Statie, Radoslav Narcisa, Dragomir Liliana, Radu Gheorghe, Novăcescu Virginia, Pavelescu Anica, Stancu Marian, Acsinte Mihai, Arbănaşi Petrică şi Popescu Cerasela în Dosarul nr. 1.525/2005 şi de Băran Lona, Birău Monica şi Grecescu Cristian în Dosarul nr. 1.237/2005, precum şi în faţa Tribunalului Cluj - Secţia litigii de muncă, asigurări sociale şi contencios administrativ de Andrieş Dorel, Ban Tiberiu, Meteş Dorel, Lukacs Emil şi Pop Marius Liviu în Dosarul nr. 2.556/2005.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-09-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/65362",
+  "text_sha256": "4a9247e03953f720c8036347ad6f87ae9e2f7733aa7ac803aab9136f2fe9eab7",
+  "catalogue_sha256": "4a9247e03953f720c8036347ad6f87ae9e2f7733aa7ac803aab9136f2fe9eab7",
+  "fetched": "2026-11-03T00:01:12Z",
+  "chars": 15477,
+  "portal_id": "65362",
+  "tip": "DECIZIE"
+ }
+}
