@@ -1,0 +1,44 @@
+# Anexa 3.22.
+Prețurile finale reglementate pentru furnizarea gazelor naturale în regim reglementat realizată de S.C. CONGAZ S.A. CONSTANȚA
+Categoria de consumatori
+ROL/1000 mc
+RON/1000 mc
+A. Consumatori finali conectați direct la sistemul de transport
+A.1. cu un consum anual de până la 124.000 mc
+0
+0,00
+A.2. cu un consum anual între 124.000 mc și
+1.240.000 mc
+0
+0,00
+A.3. cu un consum anual între 1.240.000 mc și
+12.400.000 mc
+0
+0,00
+A.4. cu un consum anual între 12.400.000 mc și
+124.000.000 mc
+0
+0,00
+B. Consumatori finali conectați la sistemul de distribuție
+B.1. cu un consum anual de până la 2.400 mc
+6.323.900
+632,39
+B.2. cu un consum anual între 2.400 mc și
+12.4000 mc
+6.307.000
+630,70
+B.3. cu un consum anual între 12.400 mc și
+124.000 mc
+6.258.200
+625,82
+B.4. cu un consum anual între 124.000 mc și
+1.240.000 mc
+6.117.100
+611,71
+B.5. cu un consum anual între 1.240.000 mc și
+12.400.000 mc
+5.899.700
+589,97
+B.6. cu un consum anual de peste 12.400.000 mc
+0
+0,00
