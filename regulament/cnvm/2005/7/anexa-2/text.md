@@ -1,0 +1,13 @@
+# Anexa 2 la regulament
+COMISIA NAȚIONALĂ A VALORILOR MOBILIARE
+ATESTAT
+D-lui/D-nei..........................................................
+C.N.P............................., ca urmare a promovării examenului
+aferent cursului
+......................................................................
+organizat de.........................................................
+în perioada......................................., i se recunoaște
+pregătirea corespunzătoare cursului urmat.
+PREȘEDINTE,
+Nr........... Data................
+---------
