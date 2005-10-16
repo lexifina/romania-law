@@ -1,0 +1,7 @@
+# Anexa nr. 1: 1 SECTOARELE de drumuri naționale europene (E) restricționate din punct de vedere al circulației vehiculelor rutiere cu masa totală maximă autorizată mai mare de 7,5 tone, altele decât cele destinate
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 31643 (https://legislatie.just.ro/Public/DetaliiDocument/31643)
+- sha256 of that document's text as the service returned it: 2ce3b0329ebc6fe1047114698632364dfaeb7f9e70333b5d2bb74c07edd3fc2e
+- Retrieved: 2026-11-03
