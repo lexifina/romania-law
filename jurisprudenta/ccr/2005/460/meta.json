@@ -1,0 +1,272 @@
+{
+ "key": "dcc-460-2005",
+ "label": "Decizia CCR nr. 460/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "460",
+ "date": "2005-09-20",
+ "year": "2005",
+ "heading": "DECIZIE nr. 460 din 20 septembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Parchetul Naţional Anticorupţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "933",
+  "bis": false,
+  "date": "2005-10-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.500/2005",
+  "411D/2005",
+  "410D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Parchetul Naţional Anticorupţie, excepţie ridicată de Corneliu Popescu şi de Cristina Mazilescu, Gina Rolea, Stelian Aurelian Cadea, Magdalena Tinca, Dumitru Popescu, Elena Sârbu, Alin Ghimpău, Alina Mihaela Crăiniceanu, Claudia Marian Ghilă, Elena Ciupitu, Liliana Grigorescu, Tatiana Toşa, Dorinel Zoican, Alina Tudosie, Magdalena Aldea, Mihaela Popescu, Adela Barbu, Dumitru Guran, Camelia Zoican, Sorina Nicoleta Căpitănescu, Laura Victoria Epure, Aurora Ioana Mihăiţă, Carmen Mihaela Olaru, Daniela Toader, Magdalena Cristina Cocor, Ştefania Gherănescu în dosarele nr. 1.500/2005 şi nr. 1.504/2005 ale Tribunalului Mehedinţi - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 601/2004",
+    "number": "601",
+    "year": "2004",
+    "path": "lege/2004/601"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 543/2002",
+    "number": "543",
+    "year": "2002",
+    "path": "lege/2002/543"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 365/2004",
+    "number": "365",
+    "year": "2004",
+    "path": "lege/2004/365"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/2002",
+    "number": "27",
+    "year": "2002",
+    "path": "lege/2002/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2004",
+    "number": "24",
+    "year": "2004",
+    "path": "oug/2004/24"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-10-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/31858",
+  "text_sha256": "cec7c8c053e4c5ac6fc31d56d5b170af61b84fc14293408af79176084ac53b1e",
+  "catalogue_sha256": "cec7c8c053e4c5ac6fc31d56d5b170af61b84fc14293408af79176084ac53b1e",
+  "fetched": "2026-11-03T00:01:42Z",
+  "chars": 16987,
+  "portal_id": "31858",
+  "tip": "DECIZIE"
+ }
+}
