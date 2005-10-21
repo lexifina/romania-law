@@ -1,0 +1,28 @@
+ ÎNŢELEGERE din 8 aprilie 2005  privind aplicarea Acordului din 8 aprilie 2005 dintre România şi Republica Federală Germania privind securitatea socială     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 942 din 21 octombrie 2005     Guvernul României şi Guvernul Republicii Federale Germania,  în baza art. 24 alin. 1 al Acordului din 8 aprilie 2005 dintre România şi Republica Federală Germania privind securitatea socială, denumit în continuare Acord,  au convenit după cum urmează:
+				 +
+			  Partea I   Dispoziţii generale
+				 +
+			  Articolul 1     Definiţii  În prezenta înţelegere, termenii definiţi în Acord se folosesc cu semnificaţia atribuită de acesta.
+				 +
+			  Articolul 2     Obligaţii de informare  Organismele de legătură desemnate în conformitate cu art. 24 alin. 2 din Acord şi organismele desemnate de autorităţile competente în conformitate cu art. 11 din Acord sunt obligate, în cadrul atribuţiilor lor, să asigure informarea generală a persoanelor interesate privind drepturile şi obligaţiile acestora conform Acordului.
+				 +
+			  Articolul 3     Obligaţii de comunicare      (1) Organismele menţionate la art. 24 alin. 2 şi 5 şi la art. 17 din Acord, în cadrul atribuţiilor lor, îşi vor comunică reciproc, precum şi persoanelor interesate situaţiile de fapt şi vor pune la dispoziţie mijloacele de probă necesare pentru păstrarea drepturilor şi obligaţiilor care rezultă din legislaţia menţionată la art. 2 alin. 1 din Acord, precum şi din Acord şi din prezenta înţelegere.   ...        (2) Dacă, în conformitate cu legislaţia menţionată la art. 2 alin. 1 din Acord, cu Acordul sau cu prezenta înţelegere, o persoană este obligată să comunice instituţiei sau altui organism anumite situaţii de fapt, această obligaţie există şi în privinţa unor situaţii de fapt corespunzătoare, existente pe teritoriul celuilalt stat contractant sau în conformitate cu legislaţia acestuia. Acest lucru este valabil şi în cazul în care o persoană este obligată să pună la dispoziţie anumite mijloace de probă.   ...
+				 +
+			  Articolul 4     Adeverinţa privind legislaţia aplicabilă      (1) În cazurile art. 7, 10 şi 11 din Acord, organismul competent al statului contractant a cărui legislaţie urmează a fi aplicată va elibera la cerere, în privinţa respectivei activităţi, o adeverinţă care atestă că persoana angajată şi angajatorul sau persoana menţionată la art. 9 din Acord sunt supuse acestei legislaţii. În cazurile art. 7 şi 11 din Acord, această adeverinţă trebuie să poarte menţiunea unei perioade determinate de valabilitate.   ...        (2) În cazul în care legislaţia germană urmează a fi aplicată, această adeverinţă va fi eliberată de instituţia de asigurări de sănătate către care sunt virate contribuţiile pentru asigurarea pentru pensii în cazurile art. 7 şi 10 din Acord, iar în celelalte cazuri, de Asigurarea Germană pentru Pensii - Federaţie, Berlin. În cazurile menţionate la art. 11 din Acord, adeverinţa va fi eliberată de Organismul German de Legătură pentru Asigurări de Sănătate în Străinătate (DVKA), Bonn.   ...        (3) În cazul în care legislaţia română urmează a fi aplicată, această adeverinţă va fi eliberată de Casa Naţională de Pensii şi Alte Drepturi de Asigurări Sociale (CNPAS) cu sediul în Bucureşti.   ...        (4) În cazul în care există îndoieli cu privire la adeverinţa eliberată, organismul emitent o va reexamina, la cerere.   ...
+				 +
+			  Articolul 5     Modalităţile de plată  Prestaţiile în bani acordate beneficiarilor aflaţi pe teritoriul celuilalt stat contractant pot fi plătite în mod direct sau prin intermediul organismelor de legătură.
+				 +
+			  Partea a II-a   Dispoziţii speciale
+				 +
+			  Secţiunea 1   Asigurarea contra accidentelor
+				 +
+			  Articolul 6     Raportarea unui accident de muncă      (1) În vederea raportării accidentului de muncă sau a bolii profesionale va fi aplicată legislaţia statului contractant în baza căreia persoana este asigurată.   ...        (2) Raportul va fi prezentat instituţiei competente. În cazul în care instituţia locului de reşedinţă primeşte un raport, aceasta îl va transmite neîntârziat instituţiei competente.   ...
+				 +
+			  Secţiunea a 2-a   Diverse
+				 +
+			  Articolul 7     Statistici  Organismele de legătură desemnate în conformitate cu art. 24 alin. 2 din Acord vor elabora anual, data de referinţă fiind 31 decembrie, statistici privind plăţile de pensii efectuate înspre teritoriul celuilalt stat contractant.  Datele urmează să cuprindă, în măsura posibilului, numărul şi suma totală a pensiilor şi indemnizaţiilor împărţite după categorii de pensii. Se va efectua schimbul de statistici.
+				 +
+			  Partea a III-a   Dispoziţii finale
+				 +
+			  Articolul 8     Intrarea în vigoare şi valabilitatea prezentei înţelegeri      (1) Prezenta înţelegere va intra în vigoare în ziua în care cele două guverne îşi vor comunică îndeplinirea procedurilor legale interne pentru intrarea în vigoare a acesteia. Decisivă în acest sens este ziua primirii ultimei notificări.   ...        (2) Prezenta înţelegere va fi aplicată din ziua intrării în vigoare a Acordului şi va fi valabilă pentru aceeaşi perioadă de timp.   ...    Semnată la Bucureşti la 8 aprilie 2005, în două exemplare originale, fiecare în limbile română şi germană, ambele texte fiind egal autentice.  Pentru Guvernul României,  Gheorghe Barbu,  ministrul muncii, solidarităţii sociale şi familiei  Pentru Guvernul Republicii Federale Germania,  Norman Walter,  însărcinat cu afaceri,  Ambasada Republicii Federale Germania la Bucureşti  Klaus Theo Schroder,  secretar de stat la Ministerul Federal  pentru Sănătate şi Securitate Socială  ---------
