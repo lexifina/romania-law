@@ -1,0 +1,2 @@
+ REZOLUTIE MEPC.111(50) din 4 decembrie 2003  privind acceptarea amendamentele la anexa la Protocolul din 1978 referitor la Convenţia internaţională din 1973 pentru prevenirea poluării de către nave (Amendamente la Regula 13G, completarea cu noua regulă 13H şi amendamente corespunzătoare la suplimentul la Certificatul IOPP din anexa nr. I la MARPOL 73/78)     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 1.029 din 21 noiembrie 2005       AMENDAMENT 04/12/2003
