@@ -1,0 +1,129 @@
+{
+ "key": "dcc-499-2005",
+ "label": "Decizia CCR nr. 499/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "499",
+ "date": "2005-10-04",
+ "year": "2005",
+ "heading": "DECIZIE nr. 499 din 4 octombrie 2005",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a prevederilor art. 23 alin. (1) din Ordonanţa de urgenta a Guvernului nr. 40/1999 privind protectia chiriasilor şi stabilirea chiriei pentru spatiile cu destinaţia de locuinte",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1036",
+  "bis": false,
+  "date": "2005-11-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "19.922/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a prevederilor art. 23 alin. (1) din Ordonanţa de urgenta a Guvernului nr. 40/1999 privind protectia chiriasilor şi stabilirea chiriei pentru spatiile cu destinaţia de locuinte, excepţie ridicata de Elena Dunarintu în Dosarul nr. 19.922/2004 al Judecatoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenta a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66103",
+  "text_sha256": "fbcdd202a093144c152c93dc0e55bb512abe1153c24644f1c04a158bad3b4bce",
+  "catalogue_sha256": "fbcdd202a093144c152c93dc0e55bb512abe1153c24644f1c04a158bad3b4bce",
+  "fetched": "2026-11-03T00:02:31Z",
+  "chars": 12598,
+  "portal_id": "66103",
+  "tip": "DECIZIE"
+ }
+}
