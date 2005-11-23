@@ -1,0 +1,174 @@
+{
+ "key": "dcc-545-2005",
+ "label": "Decizia CCR nr. 545/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "545",
+ "date": "2005-10-18",
+ "year": "2005",
+ "heading": "DECIZIE nr. 545 din 18 octombrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 pct. 2 din Ordonanţa Guvernului nr. 102/2000 privind statutul şi regimul refugiaţilor în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1042",
+  "bis": false,
+  "date": "2005-11-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "14.797/2004",
+  "608D/2005",
+  "609D/2005",
+  "455D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 102/2000",
+    "number": "102",
+    "year": "2000",
+    "path": "og/2000/102"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 5 pct. 2 din Ordonanţa Guvernului nr. 102/2000 privind statutul şi regimul refugiaţilor în România, excepţie ridicată de Guo Wangzhen, Xu Jian şi Wang Jianwu, Wang Xinqun, Yu Xiaolei, Zhao Zehua şi Pan Mingfen în dosarele nr. 1.4797/2004, nr. 2.397/2005, nr. 3.333/2005, nr. 1.143/RF/2005, nr. 1.140/RF/2005 şi, respectiv, nr. 891/RF/2005 ale Judecătoriei Sectorului 5 Bucureşti şi ale Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 102/2000",
+    "number": "102",
+    "year": "2000",
+    "path": "og/2000/102"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-11-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66133",
+  "text_sha256": "e5589b33d1349f4fcbf97f2cded35f1db2a23e58d3925058424a719a2c0215fe",
+  "catalogue_sha256": "e5589b33d1349f4fcbf97f2cded35f1db2a23e58d3925058424a719a2c0215fe",
+  "fetched": "2026-11-03T00:02:32Z",
+  "chars": 16250,
+  "portal_id": "66133",
+  "tip": "DECIZIE"
+ }
+}
