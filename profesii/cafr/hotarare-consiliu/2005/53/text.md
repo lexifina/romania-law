@@ -1,0 +1,5 @@
+În temeiul prevederilor art. 26 alin. (2) din Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, aprobat prin Hotărârea Guvernului nr. 983/2004 , publicată în Monitorul Oficial al României, Partea I, nr. 634 din 13 iulie 2004, modificat prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 52/2005 privind modificarea și completarea Regulamentului de organizare și funcționare a Camerei Auditorilor Financiari din România, publicată în Monitorul Oficial al României, Partea I, nr. 901 din 7 octombrie 2005, Consiliul Camerei Auditorilor Financiari din România, întrunit în ședința din 26 octombrie 2005, hotărăște:
+Articolul 1
+Se stabilește ziua de 26 octombrie ca Zi națională a auditorului financiar din România.
+Articolul 2
+Prezenta hotărâre se va publică în Monitorul Oficial al României, Partea I, potrivit prevederilor art. 6 alin. (5) din Ordonanța de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar, republicată, cu modificările și completările ulterioare. Președintele Camerei Auditorilor Financiari din România, Ion Mihăilescu București, 26 octombrie 2005. Nr. 53. ------------
