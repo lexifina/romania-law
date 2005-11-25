@@ -1,0 +1,169 @@
+{
+ "key": "cedo-67289-01-2005-03-24",
+ "label": "CEDO, Şandor c. României, 2005-03-24",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-03-24",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 24 martie 2005",
+ "subtitle": "definitivă la 24 iunie 2005, în Cauza Şandor împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "1048",
+  "bis": false,
+  "date": "2005-11-25",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "67289/01",
+  "48102/99",
+  "48939/99",
+  "22774/93",
+  "8415/02",
+  "41510/98",
+  "31107/96",
+  "43622/98",
+  "37095/97"
+ ],
+ "case_name": "Şandor",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA: 1. declară, cu şase voturi contra unul, cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 alin. 1 din Convenţie (acces la justiţie) şi pe art. 1 din Primul Protocol adiţional la Convenţie şi inadmisibilă pentru rest; 2. hotărăşte, cu şase voturi contra unul, că a fost încălcat art. 6 alin. 1 din Convenţie; 3. hotărăşte, cu şase voturi contra unul, că a fost încălcat art. 1 din Primul Protocol adiţional la Convenţie; 4. hotărăşte, cu şase voturi contra unul",
+  "a) că statul pârât trebuie să plătească reclamantei, în 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, 6.500 euro (şase mii cinci sute euro) pentru prejudiciul material şi moral, precum şi 160 euro (o sută şaizeci euro) pentru cheltuielile de judecată, plus orice sumă putând fi datorată cu titlu de impozit;",
+  "b) că, începând de la expirarea acestui termen şi până la efectuarea plăţii, aceste sume vor fi majorate cu o dobândă simplă egală cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, majorată cu trei procente;",
+  "5. respinge, cu şase voturi contra unul, cererea de acordare a unei satisfacţii echitabile pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66192",
+  "text_sha256": "24660bccd720ed16846a2cd87c74f3ac9b5db8d5cb4b18d7f7dd02920e7e298d",
+  "catalogue_sha256": "24660bccd720ed16846a2cd87c74f3ac9b5db8d5cb4b18d7f7dd02920e7e298d",
+  "fetched": "2026-11-03T00:02:38Z",
+  "chars": 23995,
+  "portal_id": "66192",
+  "tip": "HOTĂRÂRE"
+ }
+}
