@@ -1,0 +1,208 @@
+{
+ "key": "cedo-57808-00-2005-04-28",
+ "label": "CEDO, Albina c. României, 2005-04-28",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-04-28",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 28 aprilie 2005",
+ "subtitle": "definitivă la 28 iulie 2005, în Cauza Albina împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "1049",
+  "bis": false,
+  "date": "2005-11-25",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "57808/00",
+  "47287/99",
+  "30544/96",
+  "32492/96",
+  "40490/98"
+ ],
+ "case_name": "Albina",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. hotărăşte că a fost încălcat art. 6 alin. 1 din Convenţie; 2. hotărăşte că nu este cazul să examineze capătul de cerere întemeiat pe art. 1 din Protocolul 1; 3. hotărăşte că",
+  "a) statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, suma de 5.000 euro (cinci mii euro) pentru prejudiciul material şi moral, şi 477,65 euro (patru sute şaptezeci şi şapte euro şi şaizeci şi cinci de cenţi), cu titlu de cheltuieli de judecată, sumă ce urmează a fi plătită în moneda naţională a statului pârât, la nivelul ratei de schimb aplicabile la momentul plăţii;",
+  "b) începând de la data expirării termenului amintit şi până la momentul efectuării plăţii, aceste sume vor fi majorate cu o dobândă simplă a cărei rată este egală cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, la care se vor adăuga 3 puncte procentuale;",
+  "4. respinge celelalte capete de cerere de acordare a unei reparaţii echitabile."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 20/1996",
+    "number": "20",
+    "year": "1996",
+    "path": "hg/1996/20"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 11/1997",
+    "number": "11",
+    "year": "1997",
+    "path": "hg/1997/11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 139/1940",
+    "number": "139",
+    "year": "1940",
+    "path": "lege/1940/139"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66186",
+  "text_sha256": "147105be03d94fa856d93cd605464e897a154ff101e9ec41896318f2ae8bc20f",
+  "catalogue_sha256": "147105be03d94fa856d93cd605464e897a154ff101e9ec41896318f2ae8bc20f",
+  "fetched": "2026-11-03T00:02:38Z",
+  "chars": 34993,
+  "portal_id": "66186",
+  "tip": "HOTĂRÂRE"
+ }
+}
