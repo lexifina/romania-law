@@ -1,0 +1,2 @@
+# Articolul unic
+De la data intrării în vigoare a prezentei decizii un asigurător și/sau reasigurător care solicită autorizarea conform prevederilor art. 12 din Legea nr. 32/2000 privind societățile de asigurare și supravegherea asigurărilor, cu modificările și completările ulterioare, achită la depunerea cererii de autorizare o taxă de autorizare de 25.000 lei (RON). Președintele Comisiei de Supraveghere a Asigurărilor, Nicolae Eugen Crișan București, 21 noiembrie 2005. Nr. 4.527. ___________
