@@ -1,0 +1,300 @@
+{
+ "key": "dcc-568-2005",
+ "label": "Decizia CCR nr. 568/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "568",
+ "date": "2005-11-02",
+ "year": "2005",
+ "heading": "DECIZIE nr. 568 din 2 noiembrie 2005",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 25 şi pct. 39 din Legea nr. 163/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2004 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, prin care au fost introduse dispoziţiile art. 77^1 şi art. 77^2 în Legea nr. 571/2003 şi, respectiv, au fost modificate dispoziţiile art. III din Ordonanţa de urgenţă a Guvernului nr. 138/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1060",
+  "bis": false,
+  "date": "2005-11-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 163/2005",
+    "number": "163",
+    "year": "2005",
+    "path": "lege/2005/163"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "77-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 138/2004",
+    "number": "138",
+    "year": "2004",
+    "path": "oug/2004/138"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite, în parte, excepţia de neconstituţionalitate ridicată direct de Avocatul Poporului şi constată că: - dispoziţiile art. I pct. 39 din Legea nr. 163/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2004 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, referitoare la dispoziţiile art. III alin. (1) lit. a) şi b) din Ordonanţa de urgenţă a Guvernului nr. 138/2004, sunt neconstituţionale, deoarece contravin prevederilor art. 78 din Constituţie; - dispoziţiile art. I pct. 25 din Legea nr. 163/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2004 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, referitoare la dispoziţiile art. 77^1 şi art. 77^2 din Legea nr. 571/2003, sunt constituţionale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 163/2005",
+    "number": "163",
+    "year": "2005",
+    "path": "lege/2005/163"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 138/2004",
+    "number": "138",
+    "year": "2004",
+    "path": "oug/2004/138"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-11-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66254",
+  "text_sha256": "b5e14431e3887cc063c20006adce6d956474f062f1d5bd6fdf4df8b3ce526d3d",
+  "catalogue_sha256": "b5e14431e3887cc063c20006adce6d956474f062f1d5bd6fdf4df8b3ce526d3d",
+  "fetched": "2026-11-05T05:08:16Z",
+  "chars": 23473,
+  "portal_id": "66254",
+  "tip": "DECIZIE"
+ }
+}
