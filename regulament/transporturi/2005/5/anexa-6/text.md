@@ -1,0 +1,5 @@
+# Anexa 6 la Regulamentul nr. 005
+PROCENTELE DE MASĂ FRÂNATĂ ÎN FUNCȚIE DE PANTĂ,
+PENTRU MENȚINEREA PE LOC A TRENURILOR CU FRÂNELE DE MÂNĂ
+Panta caracteristică (%o)
+Procentul de masă frânată 0-3 3 4-5 4 6-7 6 8-9 7 10-11 8 12- 13 9 14-15 10 16- 17 11 18 - 19 12 20-21 14 22-23 15 24 - 25 16 26-27 17 28-29 18 30 19

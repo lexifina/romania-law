@@ -1,0 +1,19 @@
+# Anexa 5 la Regulamentul nr. 005
+„NOTĂ DE FRÂNE”
+Unitatea..................
+Trenul........................ data......................... (zi, luna, an)
+Nr. crt.
+Numărul vagonului
+Frâne automate
+Frâne de mână defecte bune izolate defecte 0 1 2 3 4 1 2 3
+În compunerea trenului sunt vagoane cu:
+Nr. Crt. saboți din materiale compozite tip K sau L-L frână nemoderabilă la slăbire frână cu disc roți mici pentru transport automobile
+Legat locomotiva de remorcare la tren, ora:......
+Proba frânelor terminată, ora:.......
+Revizorii tehnici de vagoane s-au întâlnit cu proba frânelor la vagonul: [][][][][][][][][][][][]
+Revizor tehnic de vagoane (agent autorizat)
+Primit,
+1...................................
+2...................................
+Agent OTF.........................
+Nota:
