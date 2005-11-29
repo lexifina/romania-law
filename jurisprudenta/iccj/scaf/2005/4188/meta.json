@@ -1,0 +1,132 @@
+{
+ "key": "iccj-scaf-4188-2005",
+ "label": "Decizia ÎCCJ nr. 4188/2005 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "4188",
+ "date": "2005-07-01",
+ "year": "2005",
+ "heading": "DECIZIE nr. 4.188 din 1 iulie 2005",
+ "subtitle": "Şedinţa publică din 1 iulie 2005",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "1072",
+  "bis": false,
+  "date": "2005-11-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "Admite recursul declarat de Federaţia Sindicatelor din Învăţământ Spiru Haret Bucureşti împotriva Sentinţei civile nr. 245 din 15 februarie 2005 a Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Modifică sentinţa atacată în sensul admiterii acţiunii formulate de reclamanta Federaţia Sindicatelor din Învăţământ Spiru Haret.",
+  "Anulează Ordinul nr. 4.209 din 8 iulie 2004, emis de Ministerul Educaţiei şi Cercetării.",
+  "Obligă pârâtul să emită un nou ordin prin care să acorde drepturile băneşti solicitate de reclamant."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 128/1997",
+    "number": "128",
+    "year": "1997",
+    "path": "lege/1997/128"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "50",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 123/2003",
+    "number": "123",
+    "year": "2003",
+    "path": "oug/2003/123"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "13",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2005-11-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66301",
+  "text_sha256": "bddb6b0aefb3817068691b4ea2420d2c4d0ef518e6008334d2cbe7f758a434d6",
+  "catalogue_sha256": "bddb6b0aefb3817068691b4ea2420d2c4d0ef518e6008334d2cbe7f758a434d6",
+  "fetched": "2026-11-04T11:52:18Z",
+  "chars": 7088,
+  "portal_id": "66301",
+  "tip": "DECIZIE"
+ }
+}
