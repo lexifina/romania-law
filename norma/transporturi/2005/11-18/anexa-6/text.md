@@ -1,0 +1,10 @@
+# Anexa 6
+Anexa nr. 9 la Norme
+METODOLOGIA DEPUNCTARE
+1. La criteriul nr. I din anexa nr. 8 se acordă puncte pentru fiecare vehicul care va fi utilizat la executarea traseului. Punctele se cumulează și apoi se face media aritmetică. Numărul de ani se stabilește în funcție de anul de fabricație înscris în certificatul de înmatriculare sau în cartea de identitate a vehiculului, rară a se lua în considerare luna din an.
+2. La criteriul nr. 2 din anexa nr. 8 se acordă puncte pentru fiecare vehicul care va fi utilizat la executarea traseului. Punctele se cumulează și apoi se face media aritmetică.
+3. La acordarea punctelor în funcție de critețiul nr. 3 din anexa nr.8 se procedează astfel:
+a) La acordarea punctelor pentru vechimea pe traseu se vor lua în considerare luna și anul de când operatorul de transport rutier a deținut licența pentru traseul respectiv; Aceeași modalitate de stabilire a vechimii pe traseu se aplică și în cazul în care operatorul de transport rutier a făcut parte, înainte de data apariției prezentelor Norme, dintr-o asociație de operatori de transport rutier care a deținut licență pentru traseul în cauză.
+b) Pentru traseele pe care se efectuează curse care nu au un caracter permanent pe tot cuprinsul anului, vechimea se calculează astfel: 1 sezon= 1 an.
+4. Punctajul obținut la criteriile de evaluare 1.,2.și 3. menționate în anexa nr.8 se cumulează. Din suma astfel obținută se scade punctajul rezultat la criteriul 4., obținându-se punctajul general.
+5. În caz de egalitate de puncte la punctajul general, licența de traseu se atribuie operatorului de transport rutier care a obținut punctajul cel mai mare Ia criteriul nr. 3 din anexa nr. 8, iar în cazul în care egalitatea se menține, operatorului de transport rutier care a obținut punctajul cel mai mare Ia criteriul nr. 1 &#39;din anexa nr. 8 sau, în cazul în care egalitatea se menține,. operatorului de trapsport rutier care a obținut punctajul cel mai mare la criteriul nr. 2 din anexa nr. 8. In cazul în care egalitatea se menține, licența de traseu se acordă în mod echitabil solicitanților.
