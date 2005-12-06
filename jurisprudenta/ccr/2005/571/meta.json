@@ -1,0 +1,188 @@
+{
+ "key": "dcc-571-2005",
+ "label": "Decizia CCR nr. 571/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "571",
+ "date": "2005-11-03",
+ "year": "2005",
+ "heading": "DECIZIE nr. 571 din 3 noiembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 71 alin. (1) lit. e) din Legea educaţiei fizice şi sportului nr. 69/2000",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1100",
+  "bis": false,
+  "date": "2005-12-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.170/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educaţiei fizice şi sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "71",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 71 alin. (1) lit. e) din Legea educaţiei fizice şi sportului nr. 69/2000, excepţie ridicată de Societatea Comercială \"Gool Game\" - S.R.L. din Timişoara în Dosarul nr. 3.170/2004 al Tribunalului Timiş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educaţiei fizice şi sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "71",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 699/2005",
+    "number": "699",
+    "year": "2005",
+    "path": "hg/2005/699"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66511",
+  "text_sha256": "6ac83e389d824299eea253a664cb2cc6bd61def9235b1e20f631e0b59f10919f",
+  "catalogue_sha256": "6ac83e389d824299eea253a664cb2cc6bd61def9235b1e20f631e0b59f10919f",
+  "fetched": "2026-11-03T00:03:05Z",
+  "chars": 13144,
+  "portal_id": "66511",
+  "tip": "DECIZIE"
+ }
+}
