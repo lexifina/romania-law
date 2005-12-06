@@ -1,0 +1,182 @@
+{
+ "key": "dcc-577-2005",
+ "label": "Decizia CCR nr. 577/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "577",
+ "date": "2005-11-03",
+ "year": "2005",
+ "heading": "DECIZIE nr. 577 din 3 noiembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 13 alin. (1) din Legea nr. 570/2004 privind unele măsuri pentru privatizarea societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice \"Electrica Dobrogea\" - S.A. şi \"Electrica Banat\" - S.A., precum şi unele măsuri pentru reglementarea activităţilor societăţilor comerciale din domeniul distribuţiei de energie electrică",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1099",
+  "bis": false,
+  "date": "2005-12-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 570/2004",
+    "number": "570",
+    "year": "2004",
+    "path": "lege/2004/570"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 13 alin. (1) din Legea nr. 570/2004 privind unele măsuri pentru privatizarea societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice \"Electrica Dobrogea\" - S.A. şi \"Electrica Banat\" - S.A., precum şi unele măsuri pentru reglementarea activităţilor societăţilor comerciale din domeniul distribuţiei de energie electrică, excepţie ridicată de Municipiul Medgidia, prin primar, în Dosarul nr. 279/COM/2005 al Tribunalului Constanţa - Secţia comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 570/2004",
+    "number": "570",
+    "year": "2004",
+    "path": "lege/2004/570"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 42/2003",
+    "number": "42",
+    "year": "2003",
+    "path": "og/2003/42"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66504",
+  "text_sha256": "9361c032a331540fa39d7a4306818e8ce543119d64bd1850f430354d13947afb",
+  "catalogue_sha256": "9361c032a331540fa39d7a4306818e8ce543119d64bd1850f430354d13947afb",
+  "fetched": "2026-11-03T00:03:05Z",
+  "chars": 15924,
+  "portal_id": "66504",
+  "tip": "DECIZIE"
+ }
+}
