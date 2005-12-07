@@ -1,0 +1,46 @@
+# Anexa
+NORMA DE METROLOGIE LEGALĂ NML 076-05 "Conductometre pentru determinarea conductivitatii electrolitice a soluțiilor apoase"
+1. Domeniu de aplicare 1.1. Prezenta norma de metrologie legală stabilește cerințele metrologice și tehnice și modalitățile de atestare a legalității, specifice conductometrelor utilizate la determinarea conductivitatii electrolitice a soluțiilor apoase în domeniul de măsurare (20... 200.000) æS/cm în scopul asigurării corectitudinii masurarilor în laboratoarele de analiza a calității apelor poluate, laboratoarele de biologie etc. Pentru a putea fi introduse pe piața, puse în funcțiune sau utilizate în masurarile de interes public, conductometrele trebuie să îndeplinească atât cerințele metrologice și tehnice prevăzute în prezenta norma de metrologie legală cat și cerințele aplicabile din norma de metrologie legală NML 001-05 "Cerințe metrologice și tehnice comune mijloacelor de măsurare supuse controlului metrologic legal". Aplicabilitatea cerințelor din normele mai sus menționate rezultă din tabelul 2. 1.2. Terminologie În sensul prezentei norme de metrologie legală, termenii specifici sunt definiți după cum urmează: 1.2.1. Conductometre: aparate pentru măsurarea conductivitatii electrolitice alcătuite din modulul electronic și celula de conductivitate electrolitica. După modul lor de utilizare conductometrele se clasifica în conductometre portabile și conductometre stationare (de laborator și de proces). 2. Cerințe metrologice și tehnice specifice conductometrelor 2.1. Cerințe metrologice 2.1.1. Erori maxime tolerate Erorile determinate în condiții nominale de funcționare și în absenta oricărei perturbatii trebuie să fie mai mici decât erorile maxime tolerate specificate de producător, dar nu pot depăși valorile prevăzute în tabelul 1. Tabelul 1 Erori maxime tolerate
+Interval de măsurare, æS/cm
+Eroarea tolerată, æS/cm
+20... 200
+±6
+200... 2.000
+±60
+2.000... 20.000
+±600
+20.000... 200.000
+±6.000
+2.1.2. Repetabilitatea indicațiilor aparatelor nu trebuie să depășească 1/2 din valoarea erorii maxime tolerate specificate în tabelul 1. 2.1.3. Eroarea de măsurare a temperaturii trebuie să nu depășească ±1°C în domeniul de temperatura pentru care se realizează compensarea automată a conductivitatii electrolitice cu variatia temperaturii soluției de măsurat. 2.1.4. Eroarea de măsurare la compensarea automată a conductivitatii electrolitice cu variatia temperaturii soluției de măsurare trebuie să nu depășească ±5% din valoarea maxima a fiecărui interval de măsurare specificat în tabelul 1. Eroarea de măsurare a conductometrului trebuie să se încadreze în erorile specificate la punctele 2.1.3. și 2.1.4. în următoarele condiții: 2.1.5. - variatia temperaturii mediului ambiant: (5,0... 30,0)°C; 2.1.6. - după probele de vibratii și zdruncinari; 2.1.7. - după proba de funcționare continua (200 ore pentru aparate stationare și 48 ore pentru aparate portabile) 2.2. Cerințe tehnice 2.2.1. Aparatele trebuie să corespundă constructiv cu documentația tehnica a producătorului. 2.2.2. Părțile constituente ale aparatelor trebuie să nu prezinte urme de lovituri, pete de coroziune, deformari vizibile. Celula de conductivitate trebuie să nu prezinte fisuri ale corpului celulei sau deteriorări ale suprafețelor electrozilor. Cablul de conectare a celulei de conductivitate electrolitica la conductometru trebuie să nu prezinte deteriorări mecanice sau întreruperi pe circuit. 2.3. Protecția împotriva interventiilor neautorizate și a degradării informatiei 2.3.1. Conductometrele trebuie să fie prevăzute cu mijloace de protecție/sigilare concepute astfel încât sa prevină demontarea, modificarea sau reglarea, fără distrugerea acestor mijloace de protecție. 2.3.2. În cazul în care accesul la parametrii care influențează rezultatele masurarii nu este protejat prin mijloace de sigilare mecanice, protecția trebuie să îndeplinească simultan următoarele doua condiții: - accesul trebuie să fie permis numai persoanelor autorizate, prin utilizarea unor coduri (parole) sau a unui dispozitiv special (cheie hard); sistemul trebuie să permită schimbarea codului; - dacă este posibila memorarea mai multor intervenții și dacă este atinsa capacitatea maxima de memorare, o înregistrare noua trebuie să se poată face după ștergerea celei mai vechi dintre intervențiile anterioare. 2.3.3. În cazul aparatelor cu părți componente interschimbabile care pot fi deconectate de către utilizator, trebuie să fie îndeplinite simultan următoarele condiții: - accesul, prin deconectarea părților componente interschimbabile, nu trebuie să fie posibil dacă nu sunt îndeplinite prevederile punctului 2.3.3.; - interpunerea oricărui dispozitiv care poate influența exactitatea trebuie să fie prevenita prin mijloace de securitate electronice și informatice, sau, dacă aceasta nu este posibil, prin mijloace mecanice. 2.4. Unități de măsura: æS/cm sau mS/cm 3. Atestarea legalității 3.1. Atestarea legalității unui aparat se realizează numai după demonstrarea conformitatii acestuia cu cerințele metrologice și tehnice aplicabile prevăzute în tabelul 2. Tabelul 2 Cerințe metrologice și tehnice specifice modalităților de control metrologic legal ┌────┬────────────────────────────────-┬────────────────-┬──────────────────────────────-┐ │ │ │ │
+Modalități de control │ │Nr. │
+Cerința metrologica │Punctul din norma├────────┬──────────────────────┤ │crt.│ sau tehnica │ de metrologie │Aprobare│Verificare metrologica│ │ │ │ legală │de model├──────────┬──────────-┤ │ │ │ │ │ inițială │ periodică │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 1 │Adecvare │ 2.7/NML 001-05 │
+X │ │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 2 │Informații furnizate de mijlocul │ 2.9/NML 001-05 │
+X │
+X │
+X │ │ │de măsurare și informații │ │ │ │ │ │ │insotitoare │ │ │ │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 3 │Indicarea rezultatului masurarii │2.10/NML 001-05 │
+X │ │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 4 │Posibilitatea evaluării │2.12/NML 001-05 │
+X │ │ │ │ │conformitatii │ │ │ │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 5 │Erori maxime tolerate │2.1.1/NML 076-05 │
+X │
+X │
+X │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 6 │Repetabilitatea indicațiilor │2.1.2/NML 076-05 │
+X │
+X │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 7 │Eroarea de măsurare a │2.1.3/NML 076-05 │
+X │
+X │
+X │ │ │temperaturii │ │ │ │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 8 │Eroarea de măsurare la │2.1.4/NML 076-05 │
+X │
+X │
+X │ │ │compensarea automată a │ │ │ │ │ │ │conductivitatii cu variatia │ │ │ │ │ │ │temperaturii │ │ │ │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 9 │Eroarea de măsurare în domeniul │2.1.5/NML 076-05 │
+X │
+X │ │ │ │de temperatura al mediului │ │ │ │ │ │ │ambiant de (5... 30)°C │ │ │ │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 10 │Eroarea de măsurare după vibratii│2.1.6/NML 076-05 │
+X │ │ │ │ │și zdruncinari │ │ │ │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 11 │Eroarea de măsurare după proba │2.1.7/NML 076-05 │
+X │ │ │ │ │de funcționare continua │ │ │ │ │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 12 │Corespondenta cu documentația │2.2.1/NML 076-05 │
+X │
+X │
+X │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 13 │Integritatea aparatului │2.2.2/NML 076-05 │
+X │
+X │
+X │ ├────┼────────────────────────────────-┼────────────────-┼────────┼──────────┼──────────-┤ │ 14 │Protecția împotriva │ 2.8/NML 001-05 │
+X │
+X │
+X │ │ │interventiilor neautorizate și a │ 2.3/NML 076-05 │ │ │ │ │ │degradării informatiei │ │ │ │ │ └────┴────────────────────────────────-┴────────────────-┴────────┴──────────┴──────────-┘ 3.2. Conformitatea unui mijloc de măsurare cu toate cerințele prevăzute în prezenta norma se atesta prin marcaje metrologice: marcajul aprobării de model și marcajul de verificare metrologica. Marcajele metrologice pot fi însoțite, după caz, de documente specifice: certificate de aprobare de model și buletine de verificare metrologica. 3.3. Marcajul aprobării de model se aplică în conformitate cu prevederile certificatului aprobării de model. Marcajul de verificare metrologica se aplică, de către laboratorul care a efectuat verificarea metrologica. Totodată se aplică o sigilare prin utilizarea unor mijloace și metode destinate sa împiedice intervențiile neautorizate asupra mijlocului de măsurare verificat. 3.4. Este interzisă aplicarea marcajelor într-o maniera care ar putea sa provoace confuzii privind semnificatia, forma, vizibilitatea sau claritatea lor. 3.5. În cazul unui mijloc de măsurare constituit dintr-un set de dispozitive și/sau subansambluri care funcționează împreună, marcajele se aplică pe dispozitivul/subansamblul principal al mijlocului de măsurare. -----------
