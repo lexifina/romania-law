@@ -1,0 +1,10 @@
+ ORDIN nr. 2.055 din 29 noiembrie 2005  pentru aprobarea Reglementării tehnice "Normativ privind calculul termotehnic al elementelor de construcţie ale clădirilor", indicativ C 107-2005     EMITENT     MINISTERUL TRANSPORTURILOR, CONSTRUCŢIILOR ŞI TURISMULUI       Publicat în
+			  MONITORUL OFICIAL nr. 1.124 din 13 decembrie 2005     În conformitate cu prevederile  art. 38 alin. 2 din Legea nr. 10/1995  privind calitatea în construcţii, cu modificările ulterioare,  în temeiul art. 2 pct. 45 şi al  art. 5 alin. (4) din Hotărârea Guvernului nr. 412/2004  privind organizarea şi funcţionarea Ministerului Transporturilor, Construcţiilor şi Turismului, cu modificările şi completările ulterioare,  având în vedere procesele-verbale de avizare nr. 1, 2, 3, 4 şi 5 din 23 noiembrie 2005 ale comitetelor tehnice de specialitate - CTS 11 şi CTS 12 şi Procesul-verbal de avizare nr. 3 din 28 noiembrie 2005 al Comitetului Tehnic de Coordonare Generală,  ministrul transporturilor, construcţiilor şi turismului emite următorul ordin:
+				 +
+			  Articolul 1     Se aprobă Reglementarea tehnică "Normativ privind calculul termotehnic al elementelor de construcţie ale clădirilor", indicativ C 107-2005, prevăzută în anexa*) care face parte integrantă din prezentul ordin.
+				 +
+			  Articolul 2     Prezentul ordin se publică în Monitorul Oficial al României, Partea I.
+				 +
+			  Articolul 3     La data intrării în vigoare a prezentului ordin,  Ordinul ministrului lucrărilor publice şi amenajării teritoriului nr. 24/N/1997 , publicat în Buletinul Construcţiilor nr. 13 şi 14 din 1998 şi nr. 1 din 1999, precum şi orice alte dispoziţii contrare îşi încetează aplicabilitatea.  -------------
+						Notă   ...
+			  *) Anexa se publică ulterior în Monitorul Oficial al României, Partea I, nr. 1.124 bis în afara abonamentului, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti, şos. Panduri nr. 1.   Ministrul transporturilor,  construcţiilor şi turismului,  Gheorghe Dobre  Bucureşti, 29 noiembrie 2005.  Nr. 2.055.  ---------------
