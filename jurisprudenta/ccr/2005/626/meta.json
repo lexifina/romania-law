@@ -1,0 +1,123 @@
+{
+ "key": "dcc-626-2005",
+ "label": "Decizia CCR nr. 626/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "626",
+ "date": "2005-11-17",
+ "year": "2005",
+ "heading": "DECIZIE nr. 626 din 17 noiembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Decretului Consiliului de Stat al Republicii Socialiste România nr. 154/1982 privind exproprierea unor terenuri şi construcţii, scoaterea din funcţiune şi demolarea unor construcţii, precum şi realizarea şi desfiinţarea unor artere de circulaţie, situate în municipiul Botoşani, judeţul Botoşani",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1127",
+  "bis": false,
+  "date": "2005-12-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Decretului Consiliului de Stat al Republicii Socialiste România nr. 154/1982 privind exproprierea unor terenuri şi construcţii, scoaterea din funcţiune şi demolarea unor construcţii, precum şi realizarea şi desfiinţarea unor artere de circulaţie, situate în municipiul Botoşani, judeţul Botoşani, excepţie ridicată de Romică Atudoroaie şi Teodora Cazimir în Dosarul nr. 200/C/2005 al Tribunalului Botoşani - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 154/1982",
+    "number": "154",
+    "year": "1982",
+    "path": "decret/1982/154"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-12-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66850",
+  "text_sha256": "a4ad4647f7a601786fd68f1978748171fc3bd101f9dd8e72b4113c1daaf94afd",
+  "catalogue_sha256": "a4ad4647f7a601786fd68f1978748171fc3bd101f9dd8e72b4113c1daaf94afd",
+  "fetched": "2026-11-05T05:36:37Z",
+  "chars": 8465,
+  "portal_id": "66850",
+  "tip": "DECIZIE"
+ }
+}
