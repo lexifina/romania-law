@@ -1,0 +1,213 @@
+{
+ "key": "dcc-606-2005",
+ "label": "Decizia CCR nr. 606/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "606",
+ "date": "2005-11-15",
+ "year": "2005",
+ "heading": "DECIZIE nr. 606 din 15 noiembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Ordonanţa de urgenţă a Guvernului nr. 92/2004 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pentru anul 2005, precum şi a ordonanţei în integralitate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1156",
+  "bis": false,
+  "date": "2005-12-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "451D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 92/2004",
+    "number": "92",
+    "year": "2004",
+    "path": "oug/2004/92"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Ordonanţa de urgenţă a Guvernului nr. 92/2004 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pentru anul 2005, precum şi a ordonanţei în integralitate, excepţie ridicată de Constantina Gurănoiu, Emanuel Andi Georgescu şi Marian Sevastian Popescu în dosarele nr. 749/CA/2005, nr. 751/CA/2005 şi nr. 755/CA/2005 ale Tribunalului Dolj - Secţia comercială şi de contencios administrativ, respectiv de Daniela Pavel şi Mihaela Maria Mihai în dosarele nr. 886/2005 şi nr. 882/2005 ale Tribunalului Sibiu - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 92/2004",
+    "number": "92",
+    "year": "2004",
+    "path": "oug/2004/92"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2005-12-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/67124",
+  "text_sha256": "330087599713fbc60bba48dc13d85a5feb4458b9043493a8111f8fa5d7fd53aa",
+  "catalogue_sha256": "330087599713fbc60bba48dc13d85a5feb4458b9043493a8111f8fa5d7fd53aa",
+  "fetched": "2026-11-03T00:03:41Z",
+  "chars": 22155,
+  "portal_id": "67124",
+  "tip": "DECIZIE"
+ }
+}
