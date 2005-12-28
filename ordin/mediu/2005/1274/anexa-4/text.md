@@ -1,0 +1,13 @@
+# Anexa 4
+MINISTERUL MEDIULUI ȘI GOSPODARIRII APELOR
+AGENTIA PENTRU PROTECTIA MEDIULUI.........................
+AVIZ DE MEDIU la încetarea activității nr.......... din..............
+Ca urmare a cererii nr.......... din.......... adresata de..........., cu sediul în județul...................., localitatea............, str............ nr.........., înregistrată la nr...... din........, în urma analizei documentatiei depuse și a situației din teren, în baza prevederi- lor Legii nr. 137/1995 privind protectia mediului, cu modificările și completările ulterioare și ale Hotărârii Guvernului nr. 349/2005 privind depozitarea deseurilor/Hotărârii Guvernului nr. 128/2002 privind incinera- rea deseurilor, modificata și completata prin Hotărârea Guvernului nr. 268/2005, și ale Hotărârii Guvernului nr. 408/2004 privind organizarea și functionarea Ministerului Mediului și Gospodăririi Apelor, cu modificările și completările ulterioare se emite urmatorul aviz:
+În vederea stabilirii obligațiilor privind refacerea calității mediului în zona de impact a activităților desfășurate pe amplasamentul.......... din localitatea...................., str............. nr.........., județul....................
+Oblibațiile de mediu, programul pentru conformare și sursele potentiale de raspundere pentru daune aduse mediului, pentru acest obiectiv, sunt cele cuprinse în anexa alaturata, care face parte integrantă din prezentul aviz.
+Prezentul aviz se emite cu urmatoarele condiții:
+a) titularul notifica, în scris agentiei judetene pentru protectia mediului stadiul realizării fiecarei măsuri din programul pentru conformare stabili- te în anexa la avizul de mediu;
+b) la finalizarea tuturor termenelor de realizare a masurilor stabilite în programul pentru conformare, titularul notifica agentia judeteana pentru protectia mediului în scopul efectuării controlului de specialitate fina- lizat printr-un proces verbal care să certifice stadiul realizării tuturor masurilor cuprinse în avizul de mediu.
+Director Executiv,
+Sef Serviciu autorizari și controlul conformarii,........................................................
+Întocmit,
