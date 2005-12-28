@@ -1,0 +1,11 @@
+# Anexa 6
+Anexa nr. 6 la norma sanitară veterinară
+Condiții minime de sănătate a animalelor pentru autorizarea de ,,centre de import autorizate&quot; pentru procesarea peștelui de acvacultură
+A. Prevederi generale
+1. Autoritatea Națională Sanrtară Veterinară și pentru Siguranța Alimentelor trebuie să autorizeze numai unități, precum centrele de import pentru procesare ulterioară de pește viu de acvacultură importat și produse ale acestuia, cu condiția să existe la centrul de import astfel de condiții care să evite riscul contaminării peștelui în apele României cu agenți patogeni capabili să cauzeze un impact semnificativ asupra efectivelor de pește, cu descărcări a apelor uzate sau alte deșeuri sau prin alte mijloace.
+2. Nu trebuie să fie permisă unităților autorizate ca ncentre de import autorizate&quot; mișcarea peștilor vii în afara unității.
+3. În plus față de prevederile de sănătate publică corespunzătoare stabilite în baza Normei sanitare veterinare privind condițiile sanitare veterinare pentru producerea și comercializarea produselor din pescuit, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 329/2002 ce transpune în legislația națională Directiva Consiliului 91/493/CE, pentru orice unități, precum și reguli de sănătate stabilite de legislația națională transpusă în conformltate cu cerințele Uniunii Europene referitoare la subproduse de origine animală destinate pentru consum uman, trebuie să se aplice condițiile minime de sănătate a animalelor ca cele stabilite mai jos.
+B. Prevederi în materie de management
+1. Centrele de import autorizate trebuie să fie supuse tot timpul inspecției și controlului de către autoritatea competentă.
+2. Centrele de import autorizate trebuie să aibă un sistem de control și monitorizare a bolii. În aplicarea Normei sanitare veterinare cu privire la măsurile minime pentru controlul anumitor boli ale peștilor, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 241/2002 ce transpune în legislația națională Directiva Consiliului 93/53/CEE , trebuie să fie investigate cazuri de boli suspecte și mortalități.
+Analiza și tratamentul necesare trebuie să fie efectuate in consultare cu și sub controlul autorității competente, ținând cont de cerința art. 3 alin. (1) lit. (a) al Normei sanitare
