@@ -1,0 +1,164 @@
+{
+ "key": "iccj-su-4-2005",
+ "label": "Decizia ÎCCJ nr. IV/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "4",
+ "number_printed": "IV",
+ "date": "2005-09-26",
+ "year": "2005",
+ "heading": "DECIZIE nr. IV din 26 septembrie 2005",
+ "subtitle": "privind examinarea recursului în interesul legii cu privire la problema dacă sunt aplicabile dispozițiile de agravare ale art. 75 alin. 1 lit. b) teza a II-a din Codul penal în cazul infracțiunii de omor calificat prevăzute de art. 175 alin. 1 lit. c) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIILE UNITE",
+ "mo": {
+  "number": "15",
+  "bis": false,
+  "date": "2006-01-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "174",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "Stabilește că, în cazul infracțiunii de omor calificat prevăzute de art. 174 alin. 1, raportat la art. 175 alin. 1 lit. c) din Codul penal, nu sunt aplicabile dispozițiile art. 75 alin. 1 lit. b) din același cod privind circumstanța agravantă ce se referă la săvârșirea infracțiunii \"prin violențe asupra membrilor familiei\".",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "174",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "149-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-01-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/67745",
+  "text_sha256": "d6faf697d94b14c514ee5128b5702342fd32224f2a8d9bcb4ae710e0cffa17ca",
+  "catalogue_sha256": "d6faf697d94b14c514ee5128b5702342fd32224f2a8d9bcb4ae710e0cffa17ca",
+  "fetched": "2026-11-03T00:04:31Z",
+  "chars": 7988,
+  "portal_id": "67745",
+  "tip": "DECIZIE"
+ }
+}
