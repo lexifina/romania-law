@@ -1,0 +1,2 @@
+# Text
+Având în vedere prevederile Legii nr. 312/2004 privind Statutul Băncii Naționale a României și ținând seama de evoluțiile macroeconomice și monetare recente, Banca Națională a României hotărăște: Pentru luna ianuarie 2006 nivelul ratei dobânzii de referință a Băncii Naționale a României este de 7,5% pe an. p. Guvernatorul Băncii Naționale a României, Florin Georgescu București, 3 ianuarie 2006. Nr. 1. ----
