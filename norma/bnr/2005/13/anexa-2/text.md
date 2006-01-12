@@ -1,0 +1,19 @@
+# Anexa 2
+ANTET oficial
+Nr. înregistrare/Data
+Către BANCA NAȚIONALĂ A ROMÂNIEI
+Domnului(nei).......
+Director
+Direcția Operațiuni de Piață
+LISTA CU SPECIMENELE DE SEMNĂTURI ale persoanelor desemnate să angajeze............. în operațiunile cu titluri de stat derulate pe piața primară...........(denumirea completă a dealerului primar)......... desemnează pe fiecare din următoarele persoane ca având semnatură autorizată pentru a angaja......(denumirea completă a dealerului primar)..... în legătură cu operațiunile aferente pieței primare a titlurilor de stat lansate de către Ministerul Finanțelor Publice și certifica faptul că specimenul de semnătură din dreptul fiecărui nume de persoană este original.
+Nume
+Prenume
+Funcție
+Semnătură
+Titulari.....................................................................................................................
+Înlocuitori.....................................................................................................................
+Corespondența în legătură cu operațiunile pieței primare a titlurilor de stat va fi adresata d-lui (dnei)...... funcția......, departament.........., telefon...... fax....... (Semnături autorizate și ștampila)
+Nume:.......
+Nume:......... (LS) (LS)
+Funcția.........
+Funcția..............
