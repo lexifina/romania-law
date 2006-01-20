@@ -1,0 +1,166 @@
+{
+ "key": "dcc-654-2005",
+ "label": "Decizia CCR nr. 654/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "654",
+ "date": "2005-12-08",
+ "year": "2005",
+ "heading": "DECIZIE nr. 654 din 8 decembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) şi (2) din Legea nr. 190/2004 privind stimularea privatizării şi dezvoltării societăţilor comerciale din domeniul agriculturii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "57",
+  "bis": false,
+  "date": "2006-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "529/2005",
+  "471D/2005",
+  "645D/2005",
+  "470D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 190/2004",
+    "number": "190",
+    "year": "2004",
+    "path": "lege/2004/190"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) şi (2) din Legea nr. 190/2004 privind stimularea privatizării şi dezvoltării societăţilor comerciale din domeniul agriculturii, excepţie ridicată de Societatea Comercială \"Vitivinicola Basarabi\" - S.A. din Basarabi în dosarele nr. 529/2005 şi nr. 620/2005 ale Tribunalului Constanţa - Secţia civilă şi în Dosarul nr. 55/CA/2005 al Curţii de Apel Constanţa - Secţia comercială, maritimă şi fluvială, precum şi pentru cauze de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 190/2004",
+    "number": "190",
+    "year": "2004",
+    "path": "lege/2004/190"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2005",
+    "number": "26",
+    "year": "2005",
+    "path": "oug/2005/26"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68111",
+  "text_sha256": "dec2c2c003b0cf25c633a817bc07fd6a16eac86ad2e55fcb1b5970fa99130866",
+  "catalogue_sha256": "dec2c2c003b0cf25c633a817bc07fd6a16eac86ad2e55fcb1b5970fa99130866",
+  "fetched": "2026-11-03T00:05:24Z",
+  "chars": 7514,
+  "portal_id": "68111",
+  "tip": "DECIZIE"
+ }
+}
