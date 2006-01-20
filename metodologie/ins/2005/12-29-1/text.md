@@ -1,0 +1,267 @@
+# Text
+1. Cadrul general 1.1. Obiectivele cercetării statistice Obiectivul principal al cercetării statistice privind "Efectivele de animale existente la 1 decembrie și producția animala obținută", îl constituie obținerea de date statistice referitoare la: - efectivele de animale pentru fiecare specie; - numărul de animale sacrificate; - greutatea în viu a animalelor sacrificate; - greutatea în carcasa a animalelor sacrificate; - toate tipurile de lapte; - toate produsele lactate procesate din toate tipurile de lapte; - cantitatea de lapte produs; - cantitatea de lapte integral și smantana livrate unităților de prelucrare a laptelui; - cantitatea de lapte vândut direct consumatorilor sau comercianților cu amănuntul; - cantitatea de lapte folosită în consumul uman din exploatatia agricolă; - cantitatea de lapte folosită în hrana animatelor din exploatatia agricolă; - cantitatea de lapte prelucrata în exploatatia agricolă. 1.2. Cadrul legal Realizarea cercetării statistice privind efectivele de animale existente la 1 decembrie și producția animala obținută are la baza Directivele Consiliului nr 93/23-24-25/CEE din 1 iunie 1993, Directiva Consiliului nr. 97/77/CE din 16 decembrie 1997, Directiva Consiliului nr. 96/16/CE din 19 martie 1996, cu privire la realizarea cercetărilor statistice pentru efectivele de animale și producția animala și Ordinul Președintelui Institutului Național de Statistica nr. 1221 din 29 decembrie 2005 . Cercetarea statistica privind efectivele de animale și producția obținută se efectuează în România din anul 2004. 1.3. Concepte și definiții de baza Exploatații agricole cu personalitate juridică:
+a) Societate/ asociație agricolă - Legea nr. 36/1991
+Sunt cuprinse unitățile cu personalitate juridică care se afla sub administrarea unei societăți sau asociații agricole, constituite conform Legii nr. 36/1991 , cu capital variabil și un număr nelimitat și variabil de asociați, având ca obiect de baza: - utilizarea terenurilor, mașinilor și echipamentelor agricole; - creșterea animalelor; - realizarea de investiții de interes agricol. Societatea agricolă de acest tip are personalitate juridică, dar nu are caracter comercial.
+b) Societate comercială - Legea nr. 31/1990 republicată, cu modificările ulterioare
+Sunt cuprinse unitățile cu personalitate juridică care se afla sub administrarea unei societăți comerciale, constituite conform Legii nr. 31/1990 republicată, cu modificările ulterioare, și care, pe lângă activități neagricole, pot desfășura și activități agricole. Sodetatile comerciale pot fi: - societate în nume colectiv; - societate în comandită simpla; - societate pe acțiuni; - societate în comandită pe acțiuni; - societate cu răspundere limitată. Societățile comerciale care fac obiectul cercetării statistice sunt numai acelea care desfășoară și o activitate agricolă. Societățile cu răspundere limitată, înființate conform Legii nr. 31/1990 republicată, cu modificările ulterioare, care desfășoară o activitate agricolă, ca și fostele unități agricole de stat transformate în societăți comerciale, fac parte din această categorie.
+c) Unitate a administrației publice
+Sunt cuprinse unitățile cu personalitate juridică care se afla în subordinea unităților administrației publice centrale sau locale și care desfășoară activități agricole și care, potrivit Legii nr. 213/1998 , cu modificările și completările ulterioare, fac parte din domeniul public județean sau local. De asemenea, sunt incluse cele aflate sub administrarea altor instituții publice de interes național: ministere, unități de cercetare și producție agricolă, stațiuni didactice, instituții de învățământ, spitale, etc.
+d) Unitate cooperatista
+Sunt cuprinse unitățile cu personalitate juridică care se afla sub administrarea unei unități cu capital integral cooperatist, organizată în baza Legii nr. 109/1996 , cu modificările ulterioare, și care desfășoară activități agricole.
+e) Alte tipuri - fundații, așezăminte religioase etc.
+Sunt cuprinse unitățile cu personalitate juridică care se afla sub administrarea așezămintelor religioase - manastiri, biserici, schituri, etc. sau a altor organizații neguvernamentale - fundații, asociații non-profit, etc. numai dacă desfășoară și activități agricole. Exploatatiile agricole individuale Unitățile de observare statistica sunt alcătuite din una sau mai multe persoane, având, în general legături de rudenie, care utilizează împreună terenurile și/ sau cresc animale, ce pot aparține unuia sau mai multor membri. Se includ: ● unități care obțin produse agricole destinate, în principal sau exclusiv, consumului propriu; ● unități care realizează o producție agricolă ce poate depăși nevoile consumului propriu, surplusul fiind destinat vânzării. Carcasa reprezintă greutatea animalului obținută prin sacrificare după ce s-au îndepărtat pielea, capul, picioarele, organele, sangele. Randamentul se stabilește de regula pe bază de coeficienți obținuți prin raportarea greutatii animalelor după sacrificare la greutatea animalelor înaintea sacrificarii. 2. Descrierea cercetării statistice 2.1. Sfera de cuprindere În cercetarea statistica sunt cuprinse exploatatiile agricole care dețin cel puțin un animal și/sau realizează producție agricolă animala, asa cum au fost definite la Recensământul General Agricol, realizat în anul 2002. Acestea sunt: ● exploatatiile agricole cu personalitate juridică; ● exploatatiile agricole individuale. 2.2. Principalele variabile studiate și chestionarul cercetării statistice Potrivit Directivelor Consiliului nr. 93/23-24-25/CEE din 1 iunie 1993, Directivei Consiliului nr. 97/77/CE din 16 decembrie 1997 și Directivei Consiliului nr. 96/15/CE din 19 martie 1996, principalele variabile studiate sunt următoarele: - Bovine - Total - totalitatea taurinelor și bubalinelor; I. Taurine Taurine sub un an: - Viței pentru sacrificare - tineret taurin, în vârsta de mai puțin de 12 luni, cu o greutate în viu sub 300 kg, care nu are încă a doua serie de dinti - destinat producerii carnii; - Alte taurine sub 1 an - pentru reproducție: - masculi; ~ femele. Taurine între 1 și 2 ani - total: - Masculi; - Femele: - pentru sacrificare: - altele - pentru reproducție. Taurine de 2 ani și peste: - Masculi: - pentru reproducție - animale pentru reproducție; - pentru sacrificare - animale crescute pentru producția de carne; - pentru munca - animale folosite exclusiv pentru munca. - Femele: - juninci total - femele la prima gestatie: - pentru sacrificare - vitele montate care n-au rămas gestante; - juninci pentru reproducție - femele de 2 ani și peste, care nu au avut nici o fatare și sunt diagnosticate ca gestante. - vaci - femele care au fatat deja: - vaci pentru lapte, animale folosite pentru producția de lapte, care au fatat deja; - alte vaci: în general folosite pentru producția de carne, vaci reformate și vaci care nu se mulg. II. Bubaline - Bivolite - femele pentru reproducție - animale folosite pentru producția de lapte; care au fatat deja - Alte bubaline, masculi sau femele, în afară de femelele pentru reproducție. ● Porcine - Total - totalitatea porcinelor; - Purcei sub 20 kg - purcei sugari cu o greutate în viu de până la 20 kg; - Purcei cu o greutate în viu între 20 și 50 kg; - Porcine pentru ingrasat - total, inclusiv vieri și scroafe reformate, cu o greutate în viu de: - 50-80 kg; - 81-110 kg; - peste 110 kg. - Porcine pentru reproducție cu o greutate în viu de 50 kg și peste: - Vieri - masculi cu o greutate în viu de 50 kg și peste folosiți pentru reproducție; - Scroafe de prasila, total - femele cu o greutate în viu de 60 kg și peste folosite pentru reproducție: - scroafe montate - femele montate, din care: - scroafe la prima monta; - scroafe nemontate - femele nemontate, din care: - scrofite nemontate. ● Ovine și Caprine - Total - totalitatea ovinelor și caprinelor I. Ovine - Total - Oi fatatoare și mioare montate - oi care au fatat și tineret la prima monta: - oi pentru lapte; - mioare montate prima data. - Berbeci reproducatori - masculi folosiți efectiv pentru monta; - Alte ovine. II. Caprine - Total - Capre care au fatat deja și capre montate: - capre care au fatat deja; - capre montate pentru prima data. - Alte caprine; ● Lapte muls: se referă la cantitatea totală de lapte obținut prin muls, inclusiv colostru, fără laptele supt direct, dar incluzandu-l pe acela folosit în hrana animalelor; ● Lapte pentru consum: lapte integral consumat de exploatatia agricolă, pentru consum uman; ● Lapte vândut direct pe piața: lapte integral pentru consum uman vândut direct consumatorilor; ● Lapte pentru unt și smantana, branza sau iaurt laptele utilizat pentru obținerea produselor lactate pentru consum uman; ● Lapte pentru hrana animalelor, lapte integral utilizat în exploatatia agricolă pentru hrana animalelor, sub orice formă, fără laptele supt direct; ● Lapte livrat către unitatiie de prelucrare a laptelui, care cuprinde: - toate tipurile de lapte integrat de vacă, bivolita, oaie și capra, livrat către unitățile de prelucrare a laptelui; - livrările de smantana exprimate în echivalent lapte. Suplimentar, pentru satisfacerea cerințelor informationale naționale, au fost incluse și următoarele variabile: ● Păsări - Total - totalitatea pasarilor adulte și ținere, femele și masculi, din toate speciile domestice care sunt crescute în țara noastră, din care: - păsări ouatoare adulte - păsările în vârsta de peste 24 de săptămâni folosite pentru producția de oua, ● Cabaline - Total - totalitatea cabalinelor de reproducție, de muncă, precum și cele din herghelii, din care: - cabaline de muncă. ● Iepuri - Total - totalitatea iepurilor de casa crescuti pentru carne și blana; ● Familii de albine - totalitatea familiilor de albine din stupi; ● Sacrificarile de animale pe specii și destinația producției de carne - reprezintă producția de carne destinată autoconsumului și vânzărilor directe; ● Oua total - reprezintă numărul total al oualor obținute de la toate speciile de păsări domestice și destinația economică a acestora; ● Lana total - cuprinde întreaga cantitate de lana obținută din tunderea ovinelor; ● Miere și ceara - este cantitatea de miere și respectiv ceara extrasa din stupi, iar pentru miere se va preciza și destinația economică a acesteia; ● Pielicele caracul și blanuri - sunt obținute prin sacrificarea animalelor de blana: oi, nutrii, nurci, vulpi și iepuri; ● Gunoi de grajd - reprezintă cantitatea obținută de la toate animalele, indiferent de specie. Culegerea datelor din teren se realizează pe chestionarul statistic, editat pe suport de hârtie, format A4. Chestionarul este structurat pe cinci capitole: ● Capitolul I - "Informații generale privind unitatea de observare statistica", care cuprinde caracteristici de identificare specifice formei de proprietate și formei juridice de organizare a exploatatiei agricole; ● Capitolul II - "Efectivele de animale la 1 decembrie", care cuprinde elemente de cuantificare și de evoluție a variabilelor studiate; ● Capitolul III - "Sacrificarile de animale și destinația producției de carne", care cuprinde elemente de cuantificare și destinația producției de carne; ● Capitolul IV - "producția și utilizarea laptelui", care cuprinde elemente de cuantificare a producției de lapte de toate tipurile și produsele lactate obținute; ● Capitolul V - "Producția animala", care cuprinde elemente de cuantificare a producției obținute. 2.3. Clasificari și nomenclatoare utilizate În scopul prelucrării datelor în profil teritorial se utilizează Nomenclatorul localităților din România - SIRUTA și nomenclatorul Regiunilor de dezvoltare - NUTS 2. 3. Esantionul cercetării statistice 3.1. Baza de sondaj Baza de sondaj este constituită pe baza informațiilor conținute în Registrul Statistic al Exploatațiilor Agricole. Din acesta sunt extrase exploatatiile agricole care dețin cel puțin un animal și/sau realizează producție agricolă animala. Registrul Statistic al Exploatațiilor Agricole a fost constituit pe baza informațiilor obținute la Recensământul General Agricol realizat în anul 2002 și este actualizat anual cu datele rezultate din anchetele structurale în agricultura și cercetările statistice curente. 3.2. Planul de sondaj Esantionul cercetării statistice este extras din baza de sondaj potrivit metodei sondajului stratificat, cu selecție simpla aleatoare și alocare optimala Neyman. Straturile de selecție sunt determinate de următoarele caracteristici de clasificare: - județul, echivalent nivelului de clasificare - NUTS 3; - clasele de mărime ale exploatațiilor agricole în funcție de efectivele de animale: Clase de mărime a efectivelor de bovine
+┌──────┬──────────────────────┬──────────────────────┬─────────────────────┐ │Câte- │ Nr. Bovine/deținător │ Nr. vaci de lapte/
+│
+Nr. alte vaci/
+│ │gorii │
+│
+deținător
+│
+deținător
+│ ├──────┼──────────────────────┼──────────────────────┼─────────────────────┤ │ I
+│
+1-2
+│
+1-2
+│
+1-2
+│ │
+│
+│
+│
+│ │ II
+│
+3-9
+│
+3-9
+│
+3-9
+│ │
+│
+│
+│
+│ │ III │
+10-19
+│
+10-19
+│
+10-19
+│ │ IV
+│
+20-29
+│
+20-29
+│
+20-29
+│ │ V
+│
+30-49
+│
+30-49
+│
+30-49
+│ │ VI
+│
+50-99
+│
+50-99
+│
+50-99
+│ │ VII │ 100-199 ─┐
+│ 100-199 ─┐
+│ 100-199 ─┐
+│ │ VIII │ 200-299 │ ≥ 100
+│ 200-299 │ ≥ 100
+│ 200-299 │ ≥ 100
+│ │ IX
+│ 300-499 │
+│ 300-499 │
+│ 300-499 │
+│ │ X
+│
+≥ 500 ─┘
+│
+≥ 500 ─┘
+│
+≥ 500 ─┘
+│ └──────┴──────────────────────┴──────────────────────┴─────────────────────┘ Clase de mărime a efectivelor de porcine
+┌──────┬──────────────────────┬──────────────────────┬─────────────────────┐ │Câte- │
+Nr. porcine/
+│
+Scroafe ≥ 50
+│Porcine la ingrasat ≥│ │gorii │
+deținător
+│
+kg/deținător
+│ 50 kg/deținător
+│ ├──────┼──────────────────────┼──────────────────────┼─────────────────────┤ │ I
+│
+1-2 ─┐
+│
+1-2 ─┐
+│
+1-2 ─┐
+│ │
+│
+│ 1-9
+│
+│ 1-9
+│
+│ 1-9
+│ │ II
+│
+3-9 ─┘
+│
+3-9 ─┘
+│
+3-9 ─┘
+│ │
+│
+│
+│
+│ │ III │
+10-49
+│
+10-49
+│
+10-49
+│ │ IV
+│
+50-99
+│
+50-99
+│
+50-99
+│ │ V
+│ 100-199
+│ 100-199
+│ 100-199
+│ │ VI
+│ 200-399
+│ 200-399
+│ 200-399
+│ │ VII │ 400-999
+│ 400-999
+│ 400-999
+│ │ VIII │ 1000-1999 ─┐
+│ 1000-1999 ─┐
+│ 1000-1999 ─┐
+│ │ IX
+│ 2000-4999 ─┘ ≥ 1000 │ 2000-4999 ─┘ ≥ 1000 │ 2000-4999 ─┘ ≥ 1000 │ │ X
+│
+≥ 5000
+│
+≥ 5000
+│
+≥ 5000
+│ └──────┴──────────────────────┴──────────────────────┴─────────────────────┘ Clase de mărime a efectivelor de ovine
+┌──────┬──────────────────────┬──────────────────────┬─────────────────────┐ │Câte- │ Nr. ovine/deținător │ Oi și mioare montate/│ Alte oi și mioare/ │ │gorii │
+│
+deținător
+│
+deținător
+│ ├──────┼──────────────────────┼──────────────────────┼─────────────────────┤ │ I
+│
+1-9
+│
+1-9
+│
+1-9
+│ │
+│
+│
+│
+│ │ II
+│
+10-19
+│
+10-19
+│
+10-19
+│ │
+│
+│
+│
+│ │ III │
+20-49
+│
+20-49
+│
+20-49
+│ │ IV
+│
+50-99
+│
+50-99
+│
+50-99
+│ │ V
+│ 100-199 ─┐
+│ 100-199 ─┐
+│ 100-199 ─┐
+│ │ VI
+│ 200-499 │ ≥ 100
+│ 200-499 │ ≥ 100
+│ 200-499 │ ≥ 100
+│ │ VII │ 500-999 ─┘
+│ 500-999 ─┘
+│ 500-999 ─┘
+│ │ VIII │
+≥ 1000
+│
+≥ 1000
+│
+≥ 1000
+│ └──────┴──────────────────────┴──────────────────────┴─────────────────────┘ Clase de mărime a efectivelor de caprine
+┌───────┬─────────────────────────┬─────────────────────────┐ │Câte- │
+Nr. caprine/
+│ Nr. capre care au
+│ │gorii │
+deținător
+│ deja iezi/ deținător
+│ ├───────┼─────────────────────────┼─────────────────────────┤ │ I
+│
+1-9
+│
+1-9
+│ │
+│
+│
+│ │ II
+│
+10-19
+│
+10-19
+│ │
+│
+│
+│ │ III
+│
+20-49
+│
+20-49
+│ │ IV
+│
+50-99
+│
+50-99
+│ │ V
+│
+100-199 ─┐
+│
+100-199 ─┐
+│ │ VI
+│
+200-499 │ ≥ 100
+│
+200-499 │ ≥ 100
+│ │ VII
+│
+500-999 ─┘
+│
+500-999 ─┘
+│ │ VIII │
+≥ 1000
+│
+≥ 1000
+│ └───────┴─────────────────────────┴─────────────────────────┘ Exploatatiile agricole cercetate exhaustiv se afla în una din situațiile de mai jos: - sunt societăți / asociații agricole - Legea nr. 36/1991 ; - sunt societăți comerciale - Legea nr. 31/1990 , republicată, cu modificările ulterioare; - sunt unități cooperatiste; - sunt avicole sau sunt specializate în sericicultura; - dețin bovine în număr de 20 sau peste; - dețin ovine în număr de 300 sau peste; - dețin caprine în număr de 40 sau peste; - dețin porcine în număr de 100 sau peste; - dețin păsări în nunnar de 300 sau peste; - dețin cabaline în număr de 10 sau peste; - dețin iepuri de casa în număr de 100 sau peste; - dețin cel puțin 1 animal de blana; - dețin cel puțin 200 de familii de albine. Esantionul asigura o acoperire de cel puțin 70% din efectivele de animale. De regula, în condițiile respectării gradului minim de acoperire, mărimea esantionului este de aproximativ 60000 de exploatații agricole, din care circa 55000 de exploatații agricole individuale și circa 5000 de exploatații agricole cu personalitate juridică. Mărimea esantionului este calculată la un coeficient de încredere de minim 68% și erorile relative pentru estimatiile la nivel național nu vor depăși: - ± 2% pentru estimarea numărului total de porcine; - ± 1% pentru estimarea numărului total de bovine și + 1,5% pentru estimarea numărului total de vaci; - ± 2% pentru estimarea numărului total de ovine și caprine. 4. Organizarea culegerii și prelucrării datelor 4.1. Metoda de înregistrare Chestionarele cercetării statistice sunt completate prin auto-înregistrare de către exploatatiile agricole cu personalitate juridică și prin interviu fața în fața, folosind operatori de teren, pentru exploatatiile agricole individuale. 4.2. Momentul/ perioada de referința și de înregistrare Momentul de referința este 1 decembrie al fiecărui an, pentru efectivele de animale și anul calendaristic pentru producția animala, iar perioada de înregistrare este cuprinsă între 1-28 decembrie. 4.3. Personalul cercetării statistice Personalul cercetării statistice este recomandabil să fie alcătuit din specialiști agricoli, recrutati și instruiti de către Direcțiile teritoriale de statistica. Fiecărui operator de teren i se arondeaza un număr de exploatații agricole, avându-se în vedere o încărcare echilibrata, urmărindu-se obținerea unor date relevante. 4.4. Prelucrarea datelor Exploatatiile agricole cu personalitate juridică transmit chestionarele completate la Direcție teritoriale de statistica până la data de 28 decembrie. Operatorii de teren depun chestionarele completate pentru exploatatiile agricole individuale la Direcțiile teritoriale de statistica până la data de 28 decembrie. Introducerea datelor, verificarea și validarea acestora la nivel de chestionar, operarea corectiilor primare și reluarea controlului automat se realizează la Direcțiile teritoriale de statistica. Direcțiile teritoriale de statistica transmit fișierele de date la Institutul Național de Statistica până la data de 23 ianuarie a anului urnnator. La nivel central, după receptionarea fisierelor, se procedează la reluarea controlului automat, operarea corectiilor necesare, tratarea non-raspunsurilor parțiale și totale și calculul coeficienților finali de extindere. 5. Prezentarea și utilizarea rezultatelor cercetării statistice 5.1. Principalii indicatori rezultați Prelucrarea datelor se concretizează în estimarea: - numărului de animale pe specii, categorii de vârsta, grupe de greutate și destinație economică; - evoluției efectivelor de animale în perioada 1 ianuarie -1 decembrie; - sacrificarilor de animale în perioada 1 ianuarie - 31 decembrie; - producției de lapte în perioada 1 ianuarie - 31 decembrie; - producției animale în perioada 1 ianuarie - 31 decembrie. 5.2. Forme de prezentare a rezultatelor Rezultatele obținute prezintă efectivele de animale existente la 1 decembrie și producția animala obținută, pe specii, categorii de vârsta, grupe de greutate și destinație economică, la nivel național, regiuni de dezvoltare și județe. În anii pari rezultatele finale prezintă și efectivele de animale, pe clasele de mărime expuse la punctul 3.2, la nivel național. Rezultatele cercetării statistice se regăsesc în publicația "Efectivele de animale existente la 1 decembrie și producția animala obținută" și pe site-ul Institutului Național de Statistica. Beneficiarii rezultatelor sunt: - interni: Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale, Ministerul Integrării Europene, alți utilizatori la cerere; - externi: Eurostat. 6. Limitări Rezultatele cercetării statistice sunt reprezentative numai la nivel național, regiuni de dezvoltare și județe, în limitele de încredere și precizie a estimatiilor expuse la punctul 3.2. Culegerea datelor este realizată pe baza declarațiilor respondentilor. ---------
