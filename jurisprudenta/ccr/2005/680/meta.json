@@ -1,0 +1,323 @@
+{
+ "key": "dcc-680-2005",
+ "label": "Decizia CCR nr. 680/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "680",
+ "date": "2005-12-15",
+ "year": "2005",
+ "heading": "DECIZIE nr. 680 din 15 decembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 15 din Ordonanţa Guvernului nr. 21/1992 privind protecţia consumatorilor, precum şi ale art. 371^2 alin. 3, art. 401 alin. 1^1 şi ale art. 403 alin. 4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "59",
+  "bis": false,
+  "date": "2006-01-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.427/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "371-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "401",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 15 din Ordonanţa Guvernului nr. 21/1992 privind protecţia consumatorilor, precum şi ale art. 371^2 alin. 3, art. 401 alin. 1^1 şi ale art. 403 alin. 4 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Ley Impex\" - S.R.L. din Suceava în Dosarul nr. 2.427/2005 al Judecătoriei Suceava.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "371-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": [
+      "1",
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "401",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 11/1994",
+    "number": "11",
+    "year": "1994",
+    "path": "lege/1994/11"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 58/2000",
+    "number": "58",
+    "year": "2000",
+    "path": "og/2000/58"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 37/2000",
+    "number": "37",
+    "year": "2000",
+    "path": "lege/2000/37"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-01-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68229",
+  "text_sha256": "3906da2504b1844d3dc88176f1a80fbe4f996296d50fe5cea2543db24a4023f4",
+  "catalogue_sha256": "3906da2504b1844d3dc88176f1a80fbe4f996296d50fe5cea2543db24a4023f4",
+  "fetched": "2026-11-03T00:05:27Z",
+  "chars": 14642,
+  "portal_id": "68229",
+  "tip": "DECIZIE"
+ }
+}
