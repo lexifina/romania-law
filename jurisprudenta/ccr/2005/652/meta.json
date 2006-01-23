@@ -1,0 +1,200 @@
+{
+ "key": "dcc-652-2005",
+ "label": "Decizia CCR nr. 652/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "652",
+ "date": "2005-12-08",
+ "year": "2005",
+ "heading": "DECIZIE nr. 652 din 8 decembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 244 din Codul de procedură civila şi a Legii nr. 64/1995 privind procedura reorganizarii judiciare şi a falimentului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "60",
+  "bis": false,
+  "date": "2006-01-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civila",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 244 din Codul de procedură civila şi a Legii nr. 64/1995 privind procedura reorganizarii judiciare şi a falimentului, excepţie ridicata de Georgeta Ion şi Tarek Hassan Abdel Hady Hassan, prin procurator Liga Democratica pentru Dreptate din România, în Dosarul nr. 1.939/JS/2000 al Tribunalului Ialomita - Judecatorul-sindic.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civila",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1718",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-01-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68138",
+  "text_sha256": "1634ba09fb528011630fd7d8ed48617aee38a97d36802e09287d4579773f0c85",
+  "catalogue_sha256": "1634ba09fb528011630fd7d8ed48617aee38a97d36802e09287d4579773f0c85",
+  "fetched": "2026-11-03T00:05:27Z",
+  "chars": 9958,
+  "portal_id": "68138",
+  "tip": "DECIZIE"
+ }
+}
