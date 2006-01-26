@@ -1,0 +1,2 @@
+# Anexa V
+Lista substanțelor care nu fac obiectul prezentei reglementări Stronțiul și compușii săi, cu excepția lactatului de stronțiu, azotatului de stronțiu și policarboxilatului de stronțiu conținuți în Anexa II, sulfitului de stronțiu, clorurii de stronțiu, acetatului de stronțiu, hidroxidului de stronțiu, peroxidului de stronțiu, în condițiile exprimate în Anexa III Partea 1, și sărurile, pigmenții și lacurile coloranților cu referință(3), cuprinși în Anexa IV Partea 1 a prezentei reglementări.
