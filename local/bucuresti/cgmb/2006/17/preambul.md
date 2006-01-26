@@ -1,0 +1,6 @@
+Avand in vedere Expunerea de motive a Primarului General al Municipiului Bucuresti si Raportul de specialitate al Directiei Resurse Umane prin care se propune aprobarea Regulamentului privind organizarea concursurilor pentru angajarea si promovarea personalului in cadrul institutiilor publice de cultura din subordinea Consiliului General al Municipiului Bucuresti, cu exceptia conducatorilor acestora;
+Vazand avizele comisiilor de specialitate ale Consiliului General al Municipiului Bucuresti;
+In conformitate cu prevederile Legii nr.154/1998 privind sistemul de stabilire a salariilor de baza in sectorul bugetar si a indemnizatiilor de conducere pentru persoane care ocupa functii de demnitate publica;
+In baza prevederilor Metodologiei pentru stabilirea normelor de evaluare a performantelor profesionale individuale si de aplicare a criteriilor de stabilire a salariilor de baza intre limite pentru institutiile publice de cultura, aprobate prin Hotararea Guvernului Romaniei nr.125/1999, in baza prevederilor art.30 din Legea nr.53/2003-Codul Muncii cu modificarile si completarile ulterioare, precum si a prevederilor Ordonantei Guvernului nr.26/2005;
+In temeiul art.38(1) si (2) lit.i si art.46 (1) din Legea nr.215/2001 privind administratia publica locala, cu modificarile si completarile ulterioare,
+CONSILIUL GENERAL AL MUNICIPIULUI BUCURESTI H O T A R A S T E:
