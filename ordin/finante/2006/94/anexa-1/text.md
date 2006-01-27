@@ -1,0 +1,9 @@
+# Anexa 1A
+ROMÂNIA - Ministerul Finanțelor Publice [SIGLA]
+AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ........................................ (organul fiscal emitent)
+Nr.......... data.................
+ANUNȚ INDIVIDUAL
+În temeiul art. 44 alin. (3) din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare, comunicăm că a fost emis/emisă.......(denumirea actului administrativ fiscal, numărul și data emiterii)..... pe numele........ (numele și prenumele sau denumirea contribuabilului)........... cu domiciliul fiscal.....(domiciliul fiscal al contribuabilului)......
+Actul administrativ fiscal poate fi consultat de titularul acestuia la sediul organului fiscal emitent.
+Prezentul act administrativ fiscal se consideră comunicat în termen de 15 zile de la data afișării anunțului, respectiv......(data afișării).....
+Dacă aveți nelămuriri în legătură cu acest anunț, îl/o puteți contacta pe domnul/doamna......(numele și prenumele)..., la sediul nostru sau la numărul de telefon....................... Șeful compartimentului,.................................. (numele, prenumele și semnătura)
