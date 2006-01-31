@@ -1,0 +1,164 @@
+{
+ "key": "dcc-699-2005",
+ "label": "Decizia CCR nr. 699/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "699",
+ "date": "2005-12-20",
+ "year": "2005",
+ "heading": "DECIZIE nr. 699 din 20 decembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 47 alin. (3) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicaţiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "89",
+  "bis": false,
+  "date": "2006-01-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.867/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 79/2002",
+    "number": "79",
+    "year": "2002",
+    "path": "oug/2002/79"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 47 alin. (3) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicaţiilor, excepţie ridicată de Societatea Comercială BV - S.R.L. Giurgiu în Dosarul nr. 2.867/2005 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 79/2002",
+    "number": "79",
+    "year": "2002",
+    "path": "oug/2002/79"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 239/2005",
+    "number": "239",
+    "year": "2005",
+    "path": "lege/2005/239"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68399",
+  "text_sha256": "342061bf7adb8af89f39a703fb5b226d82e791c81a73c58145e30510a461096d",
+  "catalogue_sha256": "342061bf7adb8af89f39a703fb5b226d82e791c81a73c58145e30510a461096d",
+  "fetched": "2026-11-03T00:05:44Z",
+  "chars": 8182,
+  "portal_id": "68399",
+  "tip": "DECIZIE"
+ }
+}
