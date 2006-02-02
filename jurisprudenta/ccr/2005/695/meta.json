@@ -1,0 +1,179 @@
+{
+ "key": "dcc-695-2005",
+ "label": "Decizia CCR nr. 695/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "695",
+ "date": "2005-12-20",
+ "year": "2005",
+ "heading": "DECIZIE nr. 695 din 20 decembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. 3 lit. a) din Ordonanţa Guvernului nr. 20/1992 privind activitatea de metrologie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "102",
+  "bis": false,
+  "date": "2006-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 20/1992",
+    "number": "20",
+    "year": "1992",
+    "path": "og/1992/20"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. 3 lit. a) din Ordonanţa Guvernului nr. 20/1992 privind activitatea de metrologie, excepţie ridicată de Societatea Comercială \"F.E.A.\" - S.A. din Bucureşti în Dosarul nr. 9.249/CV/2004 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 20/1992",
+    "number": "20",
+    "year": "1992",
+    "path": "og/1992/20"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 98/2004",
+    "number": "98",
+    "year": "2004",
+    "path": "lege/2004/98"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68636",
+  "text_sha256": "56e6cc272942cbb2dc930402370b2747527c4ccec192e64dcef40330b3663e0f",
+  "catalogue_sha256": "56e6cc272942cbb2dc930402370b2747527c4ccec192e64dcef40330b3663e0f",
+  "fetched": "2026-11-03T00:05:51Z",
+  "chars": 13227,
+  "portal_id": "68636",
+  "tip": "DECIZIE"
+ }
+}
