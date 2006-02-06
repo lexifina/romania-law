@@ -1,0 +1,165 @@
+{
+ "key": "dcc-677-2005",
+ "label": "Decizia CCR nr. 677/2005",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "677",
+ "date": "2005-12-15",
+ "year": "2005",
+ "heading": "DECIZIE nr. 677 din 15 decembrie 2005",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 134 alin. (1) din Legea nr. 31/1990 privind societăţile comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "110",
+  "bis": false,
+  "date": "2006-02-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.364/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 134 alin. (1) din Legea nr. 31/1990 privind societăţile comerciale, excepţie ridicată de Societatea Comercială Romarta Steilmann - S.A. din Bucureşti în Dosarul nr. 4.364/2005 al Tribunalului Bucureşti - Secţia a VI-a comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-02-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68676",
+  "text_sha256": "b3a7e76ffafaba65724b509ea11374e3dcbd6e5011a9fdda0f1eab0f673e308f",
+  "catalogue_sha256": "b3a7e76ffafaba65724b509ea11374e3dcbd6e5011a9fdda0f1eab0f673e308f",
+  "fetched": "2026-11-03T00:05:54Z",
+  "chars": 8280,
+  "portal_id": "68676",
+  "tip": "DECIZIE"
+ }
+}
