@@ -1,0 +1,179 @@
+{
+ "key": "iccj-su-15-2005",
+ "label": "Decizia ÎCCJ nr. XV/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "15",
+ "number_printed": "XV",
+ "date": "2005-11-21",
+ "year": "2005",
+ "heading": "DECIZIE Nr. XV din 21 noiembrie 2005",
+ "subtitle": "privind aplicarea dispoziţiilor art. 14 alin. 3 lit. a) din Codul de procedură penală şi a dispoziţiilor art. 184 din Codul de procedură civilă - Dosar nr. 14/2005",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "119",
+  "bis": false,
+  "date": "2006-02-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "14/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 14 alin. 3 lit. a) din Codul de procedură penală şi a dispoziţiilor art. 184 din Codul de procedură civilă, stabilesc: 1. În cauzele în care acţiunea penală s-a stins în faza de urmărire penală, printr-o soluţie de netrimitere în judecată, adoptată de procuror, acesta are calitatea de a exercita în faţa instanţei civile acţiunea pentru desfiinţarea totală sau parţială a unui înscris falsificat, numai în cazurile prevăzute de art. 45 alin. 1 din Codul de procedură civilă. 2. În celelalte cazuri, aceeaşi acţiune aparţine părţilor.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "170",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-02-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68769",
+  "text_sha256": "bf32da3caa241f98947d4f5b0bfac2898eadb3b2cbeda93b7d5070b7aeeac6f2",
+  "catalogue_sha256": "bf32da3caa241f98947d4f5b0bfac2898eadb3b2cbeda93b7d5070b7aeeac6f2",
+  "fetched": "2026-11-03T00:05:58Z",
+  "chars": 8555,
+  "portal_id": "68769",
+  "tip": "DECIZIE"
+ }
+}
