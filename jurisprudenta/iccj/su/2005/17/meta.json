@@ -1,0 +1,111 @@
+{
+ "key": "iccj-su-17-2005",
+ "label": "Decizia ÎCCJ nr. XVII/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "17",
+ "number_printed": "XVII",
+ "date": "2005-11-21",
+ "year": "2005",
+ "heading": "DECIZIE Nr. XVII din 21 noiembrie 2005",
+ "subtitle": "privind aplicarea dispoziţiilor art. 309 din Codul de procedură penală - Dosar nr. 29/2005",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "119",
+  "bis": false,
+  "date": "2006-02-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "29/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 309 din Codul de procedură penală, stabilesc:",
+  "În cazurile în care judecătorul sau instanţa se pronunţă prin încheiere asupra măsurilor preventive este obligatorie întocmirea unei minute, sub sancţiunea nulităţii absolute.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-02-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68770",
+  "text_sha256": "e90b0f9114caa5bf9f61e1ea1a060c451fc1d1e36fa662f8335215d533a206e6",
+  "catalogue_sha256": "e90b0f9114caa5bf9f61e1ea1a060c451fc1d1e36fa662f8335215d533a206e6",
+  "fetched": "2026-11-03T00:05:58Z",
+  "chars": 5578,
+  "portal_id": "68770",
+  "tip": "DECIZIE"
+ }
+}
