@@ -1,0 +1,193 @@
+{
+ "key": "iccj-su-12-2005",
+ "label": "Decizia ÎCCJ nr. XII/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "12",
+ "number_printed": "XII",
+ "date": "2005-11-21",
+ "year": "2005",
+ "heading": "DECIZIE Nr. XII din 21 noiembrie 2005",
+ "subtitle": "privind aplicarea dispoziţiilor art. 140^3 alin. 1 şi ale art. 141 din Codul de procedură penală - Dosar nr. 12/2005",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "119",
+  "bis": false,
+  "date": "2006-02-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "12/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "140-3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 140^3 alin. 1 şi ale art. 141 din Codul de procedură penală, stabilesc: 1. Încheierea prin care se dispune, în cursul urmăririi penale, respingerea cererii de revocare, înlocuire sau încetare a arestării preventive nu poate fi atacată, separat, cu recurs. 2. Încheierea dată în primă instanţă şi în apel, prin care se dispune respingerea cererii de revocare, înlocuire sau încetare a arestării preventive nu poate fi atacată, separat, cu recurs.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "140-3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "149-1",
+     "alin": [
+      "13"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-02-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68766",
+  "text_sha256": "d58af435b55daf279282b909193ea76a6fdfe5dff4362080a342a4ec1702e352",
+  "catalogue_sha256": "d58af435b55daf279282b909193ea76a6fdfe5dff4362080a342a4ec1702e352",
+  "fetched": "2026-11-03T00:05:58Z",
+  "chars": 9128,
+  "portal_id": "68766",
+  "tip": "DECIZIE"
+ }
+}
