@@ -1,0 +1,109 @@
+{
+ "key": "iccj-su-13-2005",
+ "label": "Decizia ÎCCJ nr. XIII/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "13",
+ "number_printed": "XIII",
+ "date": "2005-11-21",
+ "year": "2005",
+ "heading": "DECIZIE Nr. XIII din 21 noiembrie 2005",
+ "subtitle": "privind aplicarea dispoziţiilor art. 278^1 din Codul de procedură penală - Dosar nr. 23/2005",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "119",
+  "bis": false,
+  "date": "2006-02-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "23/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 278^1 din Codul de procedură penală, stabilesc:",
+  "Plângerea adresată direct instanţei de judecată împotriva rezoluţiei de neîncepere a urmăririi penale sau a ordonanţei ori, după caz, a rezoluţiei de clasare, de scoatere de sub urmărire penală sau de încetare a urmăririi penale, dată de procuror, fără ca acestea să fie atacate, în prealabil, conform art. 278 din Codul de procedură penală, la procurorul ierarhic superior, este inadmisibilă.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-02-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68767",
+  "text_sha256": "90e9fc457810b96967d69550bb44136d693843a78dcb1809c92e6494b999038e",
+  "catalogue_sha256": "90e9fc457810b96967d69550bb44136d693843a78dcb1809c92e6494b999038e",
+  "fetched": "2026-11-03T00:05:58Z",
+  "chars": 6997,
+  "portal_id": "68767",
+  "tip": "DECIZIE"
+ }
+}
