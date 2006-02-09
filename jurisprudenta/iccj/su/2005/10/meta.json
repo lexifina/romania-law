@@ -1,0 +1,178 @@
+{
+ "key": "iccj-su-10-2005",
+ "label": "Decizia ÎCCJ nr. X/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "10",
+ "number_printed": "X",
+ "date": "2005-10-24",
+ "year": "2005",
+ "heading": "DECIZIE nr. X din 24 octombrie 2005",
+ "subtitle": "privind aplicarea dispozițiilor art. 34, cu referire la art. 120 din Codul penal - Dosar nr. 10/2005",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIILE UNITE",
+ "mo": {
+  "number": "123",
+  "bis": false,
+  "date": "2006-02-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "10/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "În aplicarea dispozițiilor art. 34, cu referire la art. 120 din Codul penal, stabilesc:",
+  "1. În caz de concurs de infracțiuni, dintre care pentru unele s-au stabilit pedepse ce intră sub incidența grațierii, dispozițiile referitoare la contopire se aplică numai cu privire la pedepsele executabile ce nu au făcut obiectul grațierii sau care au fost grațiate parțial.",
+  "2. Grațierea individuală, în cazul concursului de infracțiuni, vizează numai pedeapsa rezultantă.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 546/2002",
+    "number": "546",
+    "year": "2002",
+    "path": "lege/2002/546"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-02-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68821",
+  "text_sha256": "341834a10786be35438e4d4dc58e1055b4f85598fe9a8ece96ec5e906b6e156b",
+  "catalogue_sha256": "341834a10786be35438e4d4dc58e1055b4f85598fe9a8ece96ec5e906b6e156b",
+  "fetched": "2026-11-03T00:06:02Z",
+  "chars": 9697,
+  "portal_id": "68821",
+  "tip": "DECIZIE"
+ }
+}
