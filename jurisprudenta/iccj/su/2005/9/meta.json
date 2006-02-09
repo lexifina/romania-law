@@ -1,0 +1,183 @@
+{
+ "key": "iccj-su-9-2005",
+ "label": "Decizia ÎCCJ nr. IX/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "9",
+ "number_printed": "IX",
+ "date": "2005-10-24",
+ "year": "2005",
+ "heading": "DECIZIE nr. IX din 24 octombrie 2005",
+ "subtitle": "privind aplicarea dispoziţiilor art. 215 din Codul penal - Dosar nr. 7/2005",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "123",
+  "bis": false,
+  "date": "2006-02-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "7/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1934",
+    "number": "59",
+    "year": "1934",
+    "path": "lege/1934/59"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 215 din Codul penal, stabilesc: 1. Fapta de emitere a unui cec asupra unei instituţii de credit sau asupra unei persoane, ştiind că pentru valorificarea lui nu există provizia sau acoperirea necesară, precum şi fapta de a retrage, după emitere, provizia, în totul sau în parte, ori de a interzice trasului de a plăti înainte de expirarea termenului de prezentare, în scopul de a obţine pentru sine sau pentru altul un folos material injust, dacă s-a produs o pagubă posesorului cecului, constituie infracţiunea de înşelăciune prevăzută în art. 215 alin. 4 din Codul penal. 2. Dacă beneficiarul cecului are cunoştinţă, în momentul emiterii, că nu există disponibilul necesar acoperirii acestuia la tras, fapta constituie infracţiunea prevăzută de art. 84 alin. 1 pct. 2 din Legea nr. 59/1934.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1934",
+    "number": "59",
+    "year": "1934",
+    "path": "lege/1934/59"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "553",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 140/1996",
+    "number": "140",
+    "year": "1996",
+    "path": "lege/1996/140"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-02-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68820",
+  "text_sha256": "2ac9afa6165324f0572bd564e17f9f91f36d45b99ce6819cf859e2ba29635305",
+  "catalogue_sha256": "2ac9afa6165324f0572bd564e17f9f91f36d45b99ce6819cf859e2ba29635305",
+  "fetched": "2026-11-03T00:06:01Z",
+  "chars": 11859,
+  "portal_id": "68820",
+  "tip": "DECIZIE"
+ }
+}
