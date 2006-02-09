@@ -1,0 +1,221 @@
+{
+ "key": "iccj-alte-5-2005",
+ "label": "Decizia ÎCCJ nr. V/2005",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "alte",
+ "number": "5",
+ "number_printed": "V",
+ "date": "2005-09-26",
+ "year": "2005",
+ "heading": "DECIZIE nr. V din 26 septembrie 2005",
+ "subtitle": "privind aplicarea dispozițiilor art. 57 din Legea nr. 304/2004 privind organizarea judiciară, modificată și completată prin Legea nr. 247/2005 - Dosarele nr. 9/2005, nr. 15/2005 și nr. 18/2005",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE",
+ "mo": {
+  "number": "123",
+  "bis": false,
+  "date": "2006-02-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "18/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "În aplicarea dispozițiilor art. 57 din Legea nr. 304/2004 privind organizarea judiciară, modificată și completată prin Legea nr. 247/2005, stabilesc:",
+  "1. Infracțiunile prevăzute în Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție, precum și orice alte cauze derivate din cele prevăzute în această lege se judecă în primă instanță, la judecătorii, tribunale și curțile de apel, de complete formate dintr-un singur judecător.",
+  "2. În cazul infracțiunilor de corupție săvârșite de alte persoane decât cele menționate în Legea nr. 78/2000, completele de judecată se constituie potrivit dispozițiilor cu caracter general cuprinse în art. 57 din Legea nr. 304/2004, modificată și completată prin Legea nr. 247/2005.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XIII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "149-1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2003",
+    "number": "109",
+    "year": "2003",
+    "path": "oug/2003/109"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-02-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68818",
+  "text_sha256": "dbb6b260042c4e99da93ee448ccd9ff084ae669555857c30c1498eeb74dd3879",
+  "catalogue_sha256": "dbb6b260042c4e99da93ee448ccd9ff084ae669555857c30c1498eeb74dd3879",
+  "fetched": "2026-11-03T00:06:02Z",
+  "chars": 14434,
+  "portal_id": "68818",
+  "tip": "DECIZIE"
+ }
+}
