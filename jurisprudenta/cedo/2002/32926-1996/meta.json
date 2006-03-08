@@ -1,0 +1,213 @@
+{
+ "key": "cedo-32926-1996-2002-11-26",
+ "label": "CEDO, Canciovici şi alţii c. României, 2002-11-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2002-11-26",
+ "year": "2002",
+ "heading": "HOTĂRÂRE din 26 noiembrie 2002",
+ "subtitle": "din 26 noiembrie 2002, definitivă la 24 septembrie 2003, în Cauza Canciovici şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "210",
+  "bis": false,
+  "date": "2006-03-08",
+  "part": "I"
+ },
+ "outcome": "inadmissible",
+ "findings": [
+  "inadmissible"
+ ],
+ "applications": [
+  "32926/1996",
+  "28342/1995",
+  "3109/1996",
+  "25497/1994",
+  "33071/1996"
+ ],
+ "case_name": "Canciovici şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. respinge excepţia preliminară privind neepuizarea căilor de atac interne, invocată de Guvern; 2. admite excepţia ratione materiae a Guvernului referitoare la plângerea privind art. 1 din Primul Protocol la Convenţie şi declară inadmisibil acest capăt de cerere; 3. declară admisibil capătul de cerere întemeiat pe art. 6 alin. 1 din Convenţie referitor la lipsa de acces la instanţă; 4. hotărăşte că s-a încălcat art. 6 alin. 1 din Convenţie, în temeiul refuzului accesului la instanţă; 5. hotărăşte că statul pârât trebuie să plătească împreună reclamanţilor 6.000 EUR (şase mii euro) cu titlu de prejudiciu moral, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie. Suma respectivă va fi convertită în moneda naţională a statului pârât, la nivelul ratei de schimb aplicabile la data plăţii; 6. hotărăşte că, de la data expirării termenului respectiv până la momentul plăţii, suma indicată la pct. 5 va fi majorată cu o dobândă simplă a cărei rată este egală cu rata dobânzii pentru facilitarea de credit marginal practicată de Banca Centrală Europeană, la care se vor adăuga trei puncte procentuale; 7. respinge restul cererii de acordare a unei satisfacţii echitabile."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/69601",
+  "text_sha256": "71aba32573d1139fdc4ccd27165cea3e7223b16840df292c5de2d42f01e55b9b",
+  "catalogue_sha256": "71aba32573d1139fdc4ccd27165cea3e7223b16840df292c5de2d42f01e55b9b",
+  "fetched": "2026-11-03T00:06:48Z",
+  "chars": 29716,
+  "portal_id": "69601",
+  "tip": "HOTĂRÂRE"
+ }
+}
