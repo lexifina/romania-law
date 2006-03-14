@@ -1,0 +1,111 @@
+{
+ "key": "dcc-82-2006",
+ "label": "Decizia CCR nr. 82/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "82",
+ "date": "2006-02-07",
+ "year": "2006",
+ "heading": "DECIZIE nr. 82 din 7 februarie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Deciziei ministrului finanţelor publice nr. 3/2002 pentru aprobarea soluţiilor referitoare la aplicarea unor prevederi privind impozitul pe profit şi taxa pe valoarea adăugată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "231",
+  "bis": false,
+  "date": "2006-03-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.721/2004"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor Deciziei ministrului finanţelor publice nr. 3/2002 pentru aprobarea soluţiilor referitoare la aplicarea unor prevederi privind impozitul pe profit şi taxa pe valoarea adăugată, excepţie ridicată de Societatea Comercială \"Direct Leasing\" - S.A. din Cluj-Napoca în Dosarul nr. 8.721/2004 al Tribunalului Cluj - Secţia litigii de muncă, asigurări sociale şi contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-03-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/69803",
+  "text_sha256": "fcb17c0e61c32ed9fb1f692f00fb1a7a195e76bfdbc9c43e0147fdae5384c9e6",
+  "catalogue_sha256": "fcb17c0e61c32ed9fb1f692f00fb1a7a195e76bfdbc9c43e0147fdae5384c9e6",
+  "fetched": "2026-11-03T00:07:00Z",
+  "chars": 5695,
+  "portal_id": "69803",
+  "tip": "DECIZIE"
+ }
+}
