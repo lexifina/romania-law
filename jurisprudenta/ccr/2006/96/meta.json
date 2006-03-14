@@ -1,0 +1,165 @@
+{
+ "key": "dcc-96-2006",
+ "label": "Decizia CCR nr. 96/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "96",
+ "date": "2006-02-09",
+ "year": "2006",
+ "heading": "DECIZIE nr. 96 din 9 februarie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 48 din Ordonanţa de urgenţă a Guvernului nr. 26/2004 privind unele măsuri pentru finalizarea privatizării societăţilor comerciale aflate în portofoliul Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului şi consolidarea unor privatizări, modificate prin articolul unic al Ordonanţei de urgenţă a Guvernului nr. 54/2005",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "231",
+  "bis": false,
+  "date": "2006-03-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2004",
+    "number": "26",
+    "year": "2004",
+    "path": "oug/2004/26"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 48 din Ordonanţa de urgenţă a Guvernului nr. 26/2004 privind unele măsuri pentru finalizarea privatizării societăţilor comerciale aflate în portofoliul Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului şi consolidarea unor privatizări, modificate prin articolul unic al Ordonanţei de urgenţă a Guvernului nr. 54/2005, excepţie ridicată de Wittstock Eberhard Wolfgang, Wittstock Rohtraut Maria, Philippi Fridrich Georg, Philippi Kurt Wilhelm, Depner Marie Friederike, Gross Depner Christa Maria şi Depner Wilhelm Wolfgang în Dosarul nr. 852/R/2005 al Curţii de Apel Braşov - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2004",
+    "number": "26",
+    "year": "2004",
+    "path": "oug/2004/26"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 54/2005",
+    "number": "54",
+    "year": "2005",
+    "path": "oug/2005/54"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-03-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/69807",
+  "text_sha256": "50de05a6edec782eca846a7e83fb85ff67c6bcba7ead4b76780615be4b66a8fe",
+  "catalogue_sha256": "50de05a6edec782eca846a7e83fb85ff67c6bcba7ead4b76780615be4b66a8fe",
+  "fetched": "2026-11-03T00:07:00Z",
+  "chars": 10129,
+  "portal_id": "69807",
+  "tip": "DECIZIE"
+ }
+}
