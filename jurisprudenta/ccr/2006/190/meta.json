@@ -1,0 +1,173 @@
+{
+ "key": "dcc-190-2006",
+ "label": "Decizia CCR nr. 190/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "190",
+ "date": "2006-03-02",
+ "year": "2006",
+ "heading": "DECIZIE nr. 190 din 2 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 48 din Ordonanţa de urgenţă a Guvernului nr. 26/2004 privind unele măsuri pentru finalizarea privatizării societăţilor comerciale aflate în portofoliul Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului şi consolidarea unor privatizări",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "258",
+  "bis": false,
+  "date": "2006-03-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2004",
+    "number": "26",
+    "year": "2004",
+    "path": "oug/2004/26"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 48 din Ordonanţa de urgenţă a Guvernului nr. 26/2004 privind unele măsuri pentru finalizarea privatizării societăţilor comerciale aflate în portofoliul Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului şi consolidarea unor privatizări, excepţie ridicată de Societatea Comercială \"Magnum\" - S.A. din Focşani în Dosarul nr. 1.361/C/2005 al Judecătoriei Zărneşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2004",
+    "number": "26",
+    "year": "2004",
+    "path": "oug/2004/26"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-03-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70076",
+  "text_sha256": "f43cfbaba1aa0ce21e69a1e4e18cfb0d5dbac136f98dd5c75b914dd3a769d3c4",
+  "catalogue_sha256": "f43cfbaba1aa0ce21e69a1e4e18cfb0d5dbac136f98dd5c75b914dd3a769d3c4",
+  "fetched": "2026-11-03T00:07:12Z",
+  "chars": 9082,
+  "portal_id": "70076",
+  "tip": "DECIZIE"
+ }
+}
