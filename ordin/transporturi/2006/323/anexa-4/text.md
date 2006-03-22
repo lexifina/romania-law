@@ -1,0 +1,7 @@
+# Anexa 4
+MĂSURI puse la dispoziție ANR în cazul unei amenințări pentru siguranța navigației și protecția mediului, în conformitate cu art. 19 alin. (1) Atunci când, ca urmare a unui incident ori accident sau în situațiile prevăzute la art. 17 alin. (1), o nava este afectată și ANR considera, în conformitate cu dreptul internațional, ca este necesar sa prevină, sa limiteze sau sa îndepărteze o amenințare iminenta și grava în apele naționale navigabile asupra activităților ce se desfășoară în acestea și a comunităților locale, asupra siguranței altor nave, echipajelor și pasagerilor acestora ori asupra protecției mediului marin, ANR poate, printre altele:
+a) sa restrictioneze miscarea navei sau sa o directioneze să urmeze o anumită ruta. Aceasta cerința nu limitează răspunderea comandantului pentru manevrarea în siguranța a navei sale;
+b) sa notifice în mod oficial comandantul navei pentru ca acesta sa ia măsurile imediate și necesare de îndepărtare a pericolelor sau de încetare a activităților care pun în pericol mediul ori siguranța navigației;
+c) sa trimită o echipa de evaluare la bordul navei, care să aprecieze gradul de risc, sa îl sprijine pe comandant pentru remedierea situației și sa informeze autoritățile competente despre acestea;
+d) sa îl instructioneze pe comandant să între într-un loc de refugiu în cazul unui pericol iminent sau sa dea dispozițiile necesare pentru ca nava să fie pilotata ori remorcata, după caz.
+_________
