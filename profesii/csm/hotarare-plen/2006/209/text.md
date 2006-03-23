@@ -1,0 +1,54 @@
+În temeiul dispozițiilor art. 133 alin. (5) și (7) din Constituția României, republicată, și al art. 23 alin. (1) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, republicată, având în vedere prevederile art. 17 și ale art. 94 alin. (2) din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea, cu modificările și completările ulterioare, Plenul Consiliului Superior al Magistraturii hotărăște:
+Articolul UNIC
+Regulamentul de organizare și funcționare a Școlii Naționale de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 94/2005 , publicată în Monitorul Oficial al României, Partea I, nr. 266 din 31 martie 2005, se completează după cum urmează: - După articolul 57 se introduce un nou capitol, capitolul VIII^1, intitulat "Ocuparea posturilor de personal contractual", cu următorul cuprins: "CAPITOLUL VIII^1 Ocuparea posturilor de personal contractual Secțiunea 1 Dispoziții generale Art. 57^1. - Ocuparea posturilor de personal contractual în cadrul Școlii Naționale de Grefieri se realizează prin concurs sau examen organizat de această instituție. Art. 57^2. - (1) Poate ocupa un post de personal contractual în cadrul Școlii Naționale de Grefieri persoana care îndeplinește următoarele condiții:
+a) este cetățean român cu domiciliul în România și are capacitate deplină de exercițiu;
+b) are studii ce corespund funcției;
+c) nu are antecedente penale și se bucură de o bună reputație;
+d) este aptă din punct de vedere medical pentru exercitarea funcției;
+e) a promovat concursul sau examenul organizat potrivit prezentului regulament.
+(2) Angajarea pe posturi de personal contractual a persoanelor care îndeplinesc condițiile prevăzute la alin. (1) se face potrivit dispozițiilor Codului muncii și ale prezentului regulament.
+Art. 57^3. - (1) Pentru înscrierea la concurs sau examen candidații vor prezenta:
+a) cerere-tip;
+b) copie de pe actul de identitate;
+c) copie de pe certificatul de naștere și de pe certificatul de căsătorie;
+d) copie de pe actul doveditor al studiilor urmate;
+e) certificatul de cazier judiciar;
+f) certificatul de cazier fiscal;
+g) curriculum vitae;
+h) copie de pe carnetul de muncă;
+i) două fotografii tip buletin.
+(2) Candidații vor depune și o recomandare de la ultimul loc de muncă privind profilul profesional și moral. Candidații care nu au mai fost angajați anterior vor depune o recomandare de la ultima instituție de învățământ absolvită.
+Secțiunea a 2-a Organizarea concursului sau examenului Art. 57^4. - (1) Examinarea candidaților se face prin susținerea unei probe scrise de verificare a cunoștințelor teoretice sau a unei probe practice, precum și a unui interviu.
+(2) Materiile de concurs sau examen, tematica și bibliografia se propun de șefii compartimentelor în care se află postul vacant și se înaintează Biroului resurse umane, care le supune spre aprobare directorului Școlii Naționale de Grefieri.
+(3) Data și locul susținerii concursului sau examenului, numărul posturilor vacante și termenul pentru depunerea actelor de înscriere la concurs sau examen se aprobă de către directorul Școlii Naționale de Grefieri și se aduc la cunoștință celor interesați prin afișare la sediul școlii, prin intermediul mass-media și prin publicarea pe pagina de Internet a Școlii Naționale de Grefieri cu cel puțin 30 de zile înainte de data concursului sau examenului.
+(4) Cererile pentru înscrierea la concurs sau examen se adresează directorului Școlii Naționale de Grefieri și se depun cu cel puțin 5 zile înainte de data concursului sau examenului la secretariatul școlii.
+Art. 57^5. - (1) Pentru fiecare probă de concurs sau examen, în funcție de numărul candidaților, prin decizie a directorului Școlii Naționale de Grefieri, se numesc comisiile de verificare a cunoștințelor teoretice, practice și de interviu, precum și comisiile de soluționare a contestațiilor.
+(2) Comisia de verificare a cunoștințelor teoretice, practice și de interviu este alcătuită din 3 membri și efectuează activități de elaborare a subiectelor și baremelor, de corectare a lucrărilor și de intervievare a candidaților.
+(3) Subiectele probei de verificare a cunoștințelor teoretice se întocmesc, cu o zi înainte de data desfășurării concursului sau examenului, în 3 variante de subiecte pentru fiecare materie de concurs sau examen, care vor fi puse în plicuri separate și sigilate.
+(4) Cele 3 plicuri sigilate vor fi prezentate de un delegat al comisiei de examinare, în ziua concursului sau examenului, în sala în care acesta se desfășoară.
+(5) Un reprezentant al candidaților va proceda la tragerea la sorți a plicului cu subiecte, care va fi desigilat și prezentat de delegatul comisiei de examinare. Delegatul comisiei de examinare comunică subiectele, ora de începere și ora de încheiere a concursului sau examenului.
+Art. 57^6. - (1) Lucrarea scrisă la fiecare dintre materiile de concurs sau examen se notează cu note de la 1 la 10.
+(2) Nota lucrării scrise de verificare a cunoștințelor teoretice este media aritmetică a notelor obținute la fiecare dintre materiile de concurs.
+Art. 57^7. - Pentru a fi declarați admiși la proba scrisă de verificare a cunoștințelor teoretice candidații trebuie să obțină cel puțin media 6. Art. 57^8. - (1) Candidații nemulțumiți de notele acordate la proba de verificare a cunoștințelor teoretice pot depune contestație la Biroul resurse umane din cadrul Școlii Naționale de Grefieri, în termen de 48 de ore de la data afișării rezultatelor.
+(2) Comisia de soluționare a contestațiilor este alcătuită din 3 membri.
+(3) Comisia de soluționare a contestațiilor va comunică rezultatele în urma recorectării lucrărilor, în termen de 48 de ore de la expirarea termenului prevăzut la alin. (1).
+(4) Notele finale ale candidaților vor fi comunicate Biroului resurse umane din cadrul Școlii Naționale de Grefieri, în vederea afișării acestora la sediul instituției și pe pagina de Internet, după expirarea termenului prevăzut la alin. (3).
+Art. 57^9. - Pentru posturile ce presupun desfășurarea unei activități de secretariat, administrativă, de gospodărire, de întreținere-reparații și de deservire, concursul sau examenul va consta într-o probă practică și un interviu. Art. 57^10. - (1) În urma susținerii probei practice candidatul va fi declarat admis sau respins.
+(2) Criteriile de evaluare a candidaților la proba practică se stabilesc de comisia de examinare, în funcție de natura posturilor vacante scoase la concurs sau examen.
+(3) Nu se admit contestații cu privire la rezultatele obținute la proba practică.
+Art. 57^11. - (1) Candidații care au fost declarați admiși la proba de verificare a cunoștințelor teoretice sau, după caz, la proba practică vor susține interviul.
+(2) Interviul se notează cu note de la 1 la 10 de către fiecare membru al comisiei de examinare.
+(3) Nota finală la proba orală o reprezintă media aritmetică a notelor acordate de către fiecare membru al comisiei de examinare.
+(4) Nu se admit contestații cu privire la notele obținute la interviu.
+Art. 57^12. - (1) Media generală de promovare a concursului sau examenului este de cel puțin 6.
+(2) Media generală a concursului sau examenului este media aritmetică a notelor obținute la proba scrisă de verificare a cunoștințelor teoretice, respectiv la proba practică și la proba orală.
+Art. 57^13. - Timpul destinat pentru elaborarea lucrării scrise este stabilit de comisia de verificare a cunoștințelor teoretice, în funcție de complexitatea subiectelor, fără a depăși 3 ore. Secțiunea a 3-a Desfășurarea concursului sau examenului Art. 57^14. - (1) Intrarea candidaților în sălile de concurs sau examen se va face pe baza listei nominale întocmite pentru fiecare sală și a buletinului/cărții de identitate. După verificarea identității, fiecare candidat va păstra pe bancă buletinul/cartea de identitate până la predarea lucrării scrise. Pe lista nominală se va menționa prezența pentru fiecare candidat.
+(2) Candidații care nu se află în sală în momentul deschiderii plicului cu subiecte pierd dreptul de a mai susține proba scrisă.
+Art. 57^15. - Înainte de a se dicta subiectele, candidații înscriu numele, prenumele și județul pe colțul foii ce urmează a fi lipit, după care se aplică ștampila Școlii Naționale de Grefieri. Art. 57^16. - Pe toată durata desfășurării probei scrise, în sălile de concurs sau examen au acces numai membrii comisiei de verificare a cunoștințelor teoretice și persoanele care supraveghează desfășurarea probei scrise. Art. 57^17. - (1) În vederea elaborării lucrării scrise candidații vor primi coli de hârtie având ștampila Școlii Naționale de Grefieri.
+(2) Pentru elaborarea lucrării scrise candidații vor putea folosi numai cerneală de culoare albastră sau pix cu pastă de culoare albastră. La cerere, se pot pune la dispoziție, în mod suplimentar, coli de hârtie, iar dacă este necesar, cerneală sau pixuri.
+Art. 57^18. - (1) La expirarea timpului prevăzut la art. 57^13, lucrările candidaților vor fi strânse în ordinea predării lor, sub semnătura acestora și cu consemnarea într-un borderou a numărului de pagini pentru fiecare lucrare.
+(2) Dacă examinarea se face în mai multe săli, se va întocmi un borderou pentru lucrările din fiecare sală.
+(3) Borderoul de predare a lucrărilor și lucrările candidaților vor fi predate comisiei de verificare a cunoștințelor teoretice.
+Art. 57^19. - Pe toată durata desfășurării probei scrise de verificare a cunoștințelor teoretice este interzisă părăsirea sălii de concurs sau examen de către candidați. În cazuri excepționale, părăsirea temporară a sălii de concurs sau examen se va putea face numai cu însoțitor. Art. 57^20. - Orice fraudă dovedită se sancționează cu eliminarea din concurs sau examen. În aceste cazuri se întocmește un proces-verbal, iar lucrarea se anulează cu mențiunea «fraudă». Art. 57^21. - (1) În termen de cel mult 10 zile lucrătoare de la data finalizării concursului sau examenului, comisiile de examinare vor preda întregul material de concurs Biroului resurse umane, care va redacta deciziile de încadrare pentru candidații declarați admiși.
+(2) Repartizarea candidaților declarați admiși la concurs sau examen se face în ordinea descrescătoare a mediilor obținute, în limita posturilor vacante pentru care s-a organizat concursul sau examenul.
+Art. 57^22. - Lucrările scrise și procesele-verbale privind rezultatele concursului sau examenului vor fi anexate la dosarele profesionale ale candidaților declarați admiși, cărora li s-a emis decizie de încadrare. Art. 57^23. - Dosarele de concurs sau examen, lucrările scrise și celelalte documente întocmite pentru concurs sau examen se arhivează și se păstrează potrivit nomenclatorului arhivistic." Președintele Consiliului Superior al Magistraturii, Iulian Gîlcă București, 9 martie 2006. Nr. 209. __________
