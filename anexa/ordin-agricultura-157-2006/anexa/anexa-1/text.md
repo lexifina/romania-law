@@ -1,0 +1,78 @@
+# Anexa 1
+Anexa 1
+la normele metodologice CONSILIUL LOCAL AL COMUNEI*) ................... Nr. ............ din ...................... 2006 Avizat - Agenția SAPARD Director general Director - Direcția selectare contractare CERERE PREALABILĂ pentru solicitare de fonduri Către Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale Domnule ministru, Consiliul Local al Comunei*) ........................., cu sediul în ........................, județul ...................., regiunea ........................., vă roagă să aprobați alocarea sumei de .................. lei din fondurile cuprinse în bugetul de stat al Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale, pentru studiul de fezabilitate aferent obiectivului de investiții**) ........................................................................................................., al cărui amplasament este în sate cu gradul de afectare mai mare de 5%, conform anexei nr. 1 la Hotărârea Guvernului nr. 1.512/2005 pentru declararea ca zone calamitate a localităților afectate de inundațiile din perioada aprilie-septembrie 2005, și care - a fost declarat eligibil și fără finanțare de către Agenția SAPARD; - este un obiectiv nou. Consiliul Local al Comunei*) ........................... se angajează să elaboreze/actualizeze studiul de fezabilitate pentru obiectivul de investiție menționat până la data de ...................... . Declarăm pe propria răspundere că serviciul de proiectare a studiului de fezabilitate pentru care se solicită suma va fi achiziționat în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 60/2001 privind achizițiile publice, aprobată cu modificări prin Legea nr. 212/2002 , cu modificările și completările ulterioare. Cu stimă, Consiliul Local al Comunei*) .................... Primar, .............................. Serviciul contabilitate Contabil-șef, ...................... -----------
+Notă
+...
+*) Reprezentantul legal al unei asocieri cu statut juridic dintre consiliile locale ale comunelor.
+Notă
+...
+**) Obiectiv de investiție poate fi:
+1. construirea de drumuri de interes local noi și modernizarea drumurilor de interes local existente; 2. construirea unor lucrări noi de alimentare cu apă, extinderea și/sau modernizarea lucrărilor existente; 3. construirea unor lucrări noi de canalizare, extinderea și/sau modernizarea lucrărilor existente. Toate obiectivele vor fi amplasate în zona rurală.
+Anexa 2
+la normele metodologice CONSILIUL LOCAL AL COMUNEI*) ............... Nr. ............ din .................. 2006 Avizat - Agenția SAPARD Director general Director - Direcția selectare contractare CERERE-TIP pentru solicitare de fonduri Către Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale Domnule ministru, Consiliul Local al Comunei*) ......................., cu sediul în ........................, județul ............., regiunea ......................., în calitate de beneficiar al fondurilor alocate din bugetul de stat prin bugetul Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale, pentru elaborarea/actualizarea studiului de fezabilitate conform Cererii prealabile pentru solicitare de fonduri nr. ..................., solicit decontarea cheltuielilor efectuate cu elaborarea/actualizarea studiului de fezabilitate pentru obiectivul de investiții**) ......................................................................................................................, aferent proiectului din cadrul măsurii 2.1 "Dezvoltarea și îmbunătățirea infrastructurii rurale" din Programul SAPARD, în sumă de ........................ lei. Suma va fi virată în contul de virament nr. ....................., deschis la Trezoreria ...................... cu această destinație. Consiliul Local al Comunei*) .......................... se obligă să gestioneze suma potrivit normelor legale în vigoare și să înregistreze în contabilitatea proprie primirea și utilizarea sumei. Declarăm pe propria răspundere că serviciul de proiectare a studiului de fezabilitate pentru care se solicită decontarea a fost achiziționat în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 60/2001 privind achizițiile publice, aprobată cu modificări prin Legea nr. 212/2002 , cu modificările și completările ulterioare. Anexăm documentele justificative solicitate potrivit anexei nr. 4 la normele metodologice. Consiliul Local al Comunei*) ........... Serviciul contabilitate Primar, Contabil-șef, ................... ........................
+Anexa 3
+la normele metodologice CONSILIUL LOCAL AL COMUNEI*) ............ Nr. .......... din ................. 2006 AVIZAT - Agenția SAPARD Director general Director - Direcția selectare contractare DECONT privind cheltuielile efectuate cu elaborarea/actualizarea studiului de fezabilitate pentru obiectivul de investiții**) ................................... din fondurile alocate prin Ordonanța Guvernului nr. 12/2006 pentru aprobarea măsurilor privind susținerea finanțării documentațiilor tehnice pentru proiectele din cadrul măsurii 2.1 "Dezvoltarea și îmbunătățirea infrastructurii rurale" din Programul SAPARD, de la bugetul de stat
+- lei -
+┌────┬─────────────────┬─────────────┬──────────┬─────────┬────────┬──────────┐ │
+│ Valoarea maximă │
+Valoarea │ Valoarea │ Numărul/│
+│
+│ │Nr. │
+aprobată
+│ prevăzută │solicitată│ data
+│Valoarea│Observații│ │crt.│ de către MAPDR │în contractul│ pentru │facturii │facturii│
+│ │
+│
+│de proiectare│decontare │
+│
+│
+│ ├────┼─────────────────┼─────────────┼──────────┼─────────┼────────┼──────────┤ ├────┼─────────────────┼─────────────┼──────────┼─────────┼────────┼──────────┤ ├────┴─────────────────┴─────────────┴──────────┴─────────┼────────┼──────────┤ │
+Total valoare solicitată pentru decontare
+│
+│
+│ └─────────────────────────────────────────────────────────┴────────┴──────────┘ Consiliul Local al Comunei*) ........................
+Primar, Numele și prenumele ............... Semnătura și ștampila ................
+Viza CFP .................
+Director economic, Numele și prenumele ................... Semnătura .......................
+-----------
+Notă
+...
+*) Reprezentantul legal al unei asocieri cu statut juridic dintre consiliile locale ale comunelor.
+Notă
+...
+**) Obiectiv de investiție poate fi:
+1. construirea de drumuri de interes local noi și modernizarea drumurilor de interes local existente; 2. construirea unor lucrări noi de alimentare cu apă, extinderea și/sau modernizarea lucrărilor existente; 3. construirea unor lucrări noi de canalizare, extinderea și/sau modernizarea lucrărilor existente. Toate obiectivele vor fi amplasate în zona rurală.
+Anexa 4
+la normele metodologice LISTA cuprinzând documentele solicitate de Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale pentru decontarea cheltuielilor efectuate cu elaborarea/actualizarea studiilor de fezabilitate din fondurile alocate prin Ordonanța Guvernului nr. 12/2006 pentru aprobarea măsurilor privind susținerea finanțării documentațiilor tehnice pentru proiectele din cadrul măsurii 2.1 "Dezvoltarea și îmbunătățirea infrastructurii rurale" din Programul SAPARD, de la bugetul de stat 1. Cerere prealabilă pentru solicitare de fonduri conform anexei nr. 1 2. Cerere-tip pentru solicitare de fonduri conform anexei nr. 2 3. Decont privind cheltuielile efectuate cu elaborarea studiului de fezabilitate conform anexei nr. 3 4. Fișa de verificare a conformității administrative (M2.1-E2.1), semnată de BRIPS, ca dovadă că s-a depus proiectul pentru finanțare prin Programul SAPARD 5. Copia procesului-verbal de predare a documentației tehnico-economice, faza studiu de fezabilitate, încheiat între consiliul local comunal și proiectant, semnată și ștampilată pentru conformitate cu originalul de către primar 6. Copia contractului de proiectare, semnată și ștampilată, pentru conformitate cu originalul, de către primar 7. Copia facturilor emise de proiectant, însușite de consiliul local comunal prin semnăturile autorizate. Copia va fi semnată și ștampilată pentru conformitate cu originalul de către primar și va avea viza "Control financiar preventiv" în original. NOTĂ: - Decontarea se va face după transmiterea la Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale a procesului-verbal de verificare a studiului de fezabilitate din punctul de vedere al cerințelor Programului SAPARD de către SVT-BRIPS. - Responsabilitatea stabilirii conformității documentelor solicitate în copie cu originalele revine BRIPS.
+Anexa 5
+la normele metodologice ADMINISTRAȚIA NAȚIONALĂ A ÎMBUNĂTĂȚIRILOR FUNCIARE Nr. .............. din ...................... 2006 AVIZAT - Agenția SAPARD Director general Director - Direcția selectare contractare CERERE PREALABILĂ pentru solicitare de fonduri Către Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale Domnule ministru, Administrația Națională a Îmbunătățirilor Funciare, cu sediul în ..................., județul .............., regiunea ..................., vă roagă să aprobați alocarea sumei de .................. lei din fondurile cuprinse în bugetul de stat al Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale, pentru elaborarea/actualizarea proiectului tehnic, inclusiv studiile de specialitate aferente obiectivului de investiții .............................................................................................................., care este prevăzut în anexa nr. 2 la Hotărârea Guvernului nr. 1.512/2005 pentru declararea ca zone calamitate a localităților afectate de inundațiile din perioada aprilie-septembrie 2005. Administrația Națională a Îmbunătățirilor Funciare se angajează să elaboreze/actualizeze proiectul tehnic, inclusiv studiile de specialitate pentru obiectivul de investiție menționat, până la data de ............... . Declarăm pe propria răspundere că serviciul de proiectare a proiectului tehnic, inclusiv a studiilor de specialitate pentru care se solicită suma, va fi achiziționat în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 60/2001 privind achizițiile publice, aprobată cu modificări prin Legea nr. 212/2002 , cu modificările și completările ulterioare. Cu stimă, Director general, .................... Director economic, .................... Șef Serviciu tehnic, ....................
+Anexa 6
+la normele metodologice ADMINISTRAȚIA NAȚIONALĂ A ÎMBUNĂTĂȚIRILOR FUNCIARE Nr. .......... din ........................ 2006 AVIZAT - Agenția SAPARD Director general Director - Direcția selectare contractare CERERE-TIP pentru solicitare de fonduri Către Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale Domnule ministru, Administrația Națională a Îmbunătățirilor Funciare, cu sediul în ........................, județul ...................., regiunea .................................., în calitate de beneficiar al fondurilor alocate din bugetul de stat prin bugetul Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale, conform Cererii prealabile pentru solicitare de fonduri nr. ..............., solicit decontarea cheltuielilor efectuate cu elaborarea/actualizarea proiectului tehnic, inclusiv a studiilor de specialitate pentru obiectivul de investiții .......................................................................................................... din cadrul măsurii 2.1 "Dezvoltarea și îmbunătățirea infrastructurii rurale" din Programul SAPARD, în sumă de ............ lei. Suma va fi virată în contul de virament nr. ................, deschis la Trezoreria .................. cu această destinație. Administrația Națională a Îmbunătățirilor Funciare se obligă să gestioneze suma potrivit normelor legale în vigoare și să înregistreze în contabilitatea proprie primirea și utilizarea sumei. Declarăm pe propria răspundere că serviciul de proiectare a studiului de fezabilitate pentru care se solicită decontarea a fost achiziționat în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 60/2001 privind achizițiile publice, aprobată cu modificări prin Legea nr. 212/2002 , cu modificările și completările ulterioare. Anexăm documentele justificative solicitate potrivit anexei nr. 8. Director general, ..................... Director economic, ..................... Șef Serviciu tehnic, .....................
+Anexa 7
+la normele metodologice ADMINISTRAȚIA NAȚIONALĂ A ÎMBUNĂTĂȚIRILOR FUNCIARE Nr. ........... din ....................... 2006 AVIZAT - Agenția SAPARD Director general Director - Direcția selectare contractare DECONT privind cheltuielile efectuate cu elaborarea/actualizarea proiectelor tehnice, inclusiv a studiilor de specialitate pentru obiectivul de investiții .................................. din fondurile alocate prin Ordonanța Guvernului nr. 12/2006 pentru aprobarea măsurilor privind susținerea finanțării documentațiilor tehnice pentru proiectele din cadrul măsurii 2.1 "Dezvoltarea și îmbunătățirea infrastructurii rurale" din Programul SAPARD, de la bugetul de stat
+- lei -
+┌────┬─────────────────┬─────────────┬──────────┬─────────┬────────┬──────────┐ │
+│ Valoarea maximă │
+Valoarea │ Valoarea │ Numărul/│
+│
+│ │Nr. │
+aprobată
+│ prevăzută │solicitată│ data
+│Valoarea│Observații│ │crt.│ de către MAPDR │în contractul│ pentru │facturii │facturii│
+│ │
+│
+│de proiectare│decontare │
+│
+│
+│ ├────┼─────────────────┼─────────────┼──────────┼─────────┼────────┼──────────┤ ├────┼─────────────────┼─────────────┼──────────┼─────────┼────────┼──────────┤ ├────┴─────────────────┴─────────────┴──────────┴─────────┼────────┼──────────┤ │
+Total valoare solicitată pentru decontare
+│
+│
+│ └─────────────────────────────────────────────────────────┴────────┴──────────┘
+Director general, .................
+Director economic, .................... Șef Serviciu tehnic, ....................
+ANEXA 8 la normele metodologice
+LISTA cuprinzând documentele solicitate de Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale pentru decontarea cheltuielilor efectuate cu elaborarea/actualizarea proiectelor tehnice, inclusiv a studiilor de specialitate, din fondurile alocate prin Ordonanța Guvernului nr. 12/2006 pentru aprobarea măsurilor privind susținerea finanțării documentațiilor tehnice pentru proiectele din cadrul măsurii 2.1 "Dezvoltarea și îmbunătățirea infrastructurii rurale" din Programul SAPARD, de la bugetul de stat
+1. Cerere prealabilă pentru solicitare de fonduri conform anexei nr. 5 2. Cerere-tip pentru solicitare de fonduri conform anexei nr. 6 3. Decont privind cheltuielile efectuate cu elaborarea/ actualizarea proiectului tehnic conform anexei nr. 7 4. Fișa de verificare a conformității administrative (M2.1-E2.1), semnată de BRIPS, ca dovadă că s-a depus proiectul pentru finanțare prin Programul SAPARD 5. Copia procesului-verbal de predare a documentației tehnico-economice, faza proiect tehnic, încheiat între Administrația Națională a Îmbunătățirilor Funciare și proiectant, semnată și ștampilată pentru conformitate de directorul general 6. Copia contractului de proiectare, semnată și ștampilată pentru conformitate cu originalul de către directorul general 7. Copia facturilor emise de proiectant, însușite de Administrația Națională a Îmbunătățirilor Funciare prin semnăturile autorizate. Copia va fi semnată și ștampilată pentru conformitate cu originalul de către directorul general și va avea viza "Control financiar preventiv" în original.
+NOTĂ: - Decontarea se va face după transmiterea la Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale a procesului-verbal de verificare a studiului de fezabilitate din punctul de vedere al cerințelor Programului SAPARD de către SVT - BRIPS. - Responsabilitatea stabilirii conformității documentelor solicitate în copie cu originalele revine BRIPS.
+-----------
