@@ -1,0 +1,204 @@
+{
+ "key": "dcc-144-2006",
+ "label": "Decizia CCR nr. 144/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "144",
+ "date": "2006-02-23",
+ "year": "2006",
+ "heading": "DECIZIE nr. 144 din 23 februarie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 219/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2000 pentru modificarea şi completarea Codului de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "272",
+  "bis": false,
+  "date": "2006-03-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.093/2005",
+  "2.681/2005",
+  "2.566/2005",
+  "859/2005",
+  "740D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 219/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2000 pentru modificarea şi completarea Codului de procedură civilă, excepţie ridicată de Dumitru Alexe în Dosarul nr. 1.093/2005 al Curţii de Apel Galaţi - Secţia civilă, de Maria Păduraru în Dosarul nr. 2.681/2005, de Ludovic Varga şi Angela Varga în Dosarul nr. 2.566/2005, de Elena Ionescu şi Stela Eugenia Simionescu în Dosarul nr. 859/2005 ale Curţii de Apel Bucureşti - Secţia a III-a civilă şi pentru cauze cu minori şi familie, de Elena Frâncu în Dosarul nr. 972/R/2005 al Curţii de Apel Braşov - Secţia civilă, de Banca Populară Română - Cooperativa de Credit Tulcea, prin lichidator judiciar Societatea Comercială \"Real - Reorganizare, Administrare, Lichidare\" - S.R.L. Bucureşti - Agenţia Tulcea în Dosarul nr. 1.088/C/2005 al Curţii de Apel Constanţa - Secţia civilă şi de Maria Paşcalău în Dosarul nr. 7.831/C/2005 al Curţii de Apel Timişoara - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-03-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70171",
+  "text_sha256": "967c201faeb574e3a8756fbd6ed7a442df5b5b4c22f470faafe4e15f73cc2ebf",
+  "catalogue_sha256": "967c201faeb574e3a8756fbd6ed7a442df5b5b4c22f470faafe4e15f73cc2ebf",
+  "fetched": "2026-11-03T00:07:21Z",
+  "chars": 16847,
+  "portal_id": "70171",
+  "tip": "DECIZIE"
+ }
+}
