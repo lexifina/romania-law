@@ -1,0 +1,161 @@
+{
+ "key": "dcc-216-2006",
+ "label": "Decizia CCR nr. 216/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "216",
+ "date": "2006-03-07",
+ "year": "2006",
+ "heading": "DECIZIE nr. 216 din 7 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. b) şi ale art. 15 lit. e) din Ordonanţa Guvernului nr. 17/2002 privind stabilirea perioadelor de conducere şi a perioadelor de odihnă ale conducătorilor vehiculelor care efectuează transporturi rutiere şi organizarea timpului de muncă al lucrătorilor mobili în transportul rutier de mărfuri şi persoane",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "283",
+  "bis": false,
+  "date": "2006-03-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.891/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2002",
+    "number": "17",
+    "year": "2002",
+    "path": "og/2002/17"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. b) şi ale art. 15 lit. e) din Ordonanţa Guvernului nr. 17/2002 privind stabilirea perioadelor de conducere şi a perioadelor de odihnă ale conducătorilor vehiculelor care efectuează transporturi rutiere şi organizarea timpului de muncă al lucrătorilor mobili în transportul rutier de mărfuri şi persoane, excepţie ridicată de Societatea Comercială \"Total Freight Transport\" - S.R.L. din Constanţa în Dosarul nr. 1.891/2005 al Tribunalului Călăraşi.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2002",
+    "number": "17",
+    "year": "2002",
+    "path": "og/2002/17"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-03-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70264",
+  "text_sha256": "41801d4c87e08bedac94548f716bdf170024552d3aca1a658d060b10fe5d2501",
+  "catalogue_sha256": "41801d4c87e08bedac94548f716bdf170024552d3aca1a658d060b10fe5d2501",
+  "fetched": "2026-11-03T00:07:28Z",
+  "chars": 9608,
+  "portal_id": "70264",
+  "tip": "DECIZIE"
+ }
+}
