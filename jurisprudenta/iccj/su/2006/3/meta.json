@@ -1,0 +1,310 @@
+{
+ "key": "iccj-su-3-2006",
+ "label": "Decizia ÎCCJ nr. III/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "3",
+ "number_printed": "III",
+ "date": "2006-01-16",
+ "year": "2006",
+ "heading": "DECIZIE nr. III din 16 ianuarie 2006",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 9 lit. b) din Legea nr. 80/1995 privind Statutul cadrelor militare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "284",
+  "bis": false,
+  "date": "2006-03-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "25/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/1997",
+    "number": "145",
+    "year": "1997",
+    "path": "lege/1997/145"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 270/1999",
+    "number": "270",
+    "year": "1999",
+    "path": "hg/1999/270"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 677/2003",
+    "number": "677",
+    "year": "2003",
+    "path": "hg/2003/677"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 9 lit. b) din Legea nr. 80/1995 privind Statutul cadrelor militare, cu modificările şi completările ulterioare, precum şi ale art. 28 alin. (1) lit. c) din Legea nr. 360/2002 privind Statutul poliţistului, stabilesc:",
+  "Atât cadrele militare active, cât şi poliţiştii beneficiază de asistenţă medicală gratuită şi de medicamente gratuite, potrivit reglementărilor din legile speciale, numai dacă au fost respectate dispoziţiile cu caracter general cuprinse în Legea nr. 145/1997 şi, respectiv, în Ordonanţa de urgenţă a Guvernului nr. 150/2002, privind achitarea cotelor de contribuţie lunară la Fondul asigurărilor sociale de sănătate, la care se face referire în Hotărârea Guvernului nr. 270/1999 şi în Hotărârea Guvernului nr. 677/2003.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/1997",
+    "number": "145",
+    "year": "1997",
+    "path": "lege/1997/145"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 270/1999",
+    "number": "270",
+    "year": "1999",
+    "path": "hg/1999/270"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 677/2003",
+    "number": "677",
+    "year": "2003",
+    "path": "hg/2003/677"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2005",
+    "number": "107",
+    "year": "2005",
+    "path": "oug/2005/107"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 56/1998",
+    "number": "56",
+    "year": "1998",
+    "path": "og/1998/56"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-03-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70339",
+  "text_sha256": "5d0bcd34e12ea6677a75ee88b1fdc8b87a560a4c6e9ec9a9a0c95c9e66072860",
+  "catalogue_sha256": "5d0bcd34e12ea6677a75ee88b1fdc8b87a560a4c6e9ec9a9a0c95c9e66072860",
+  "fetched": "2026-11-03T00:07:26Z",
+  "chars": 13234,
+  "portal_id": "70339",
+  "tip": "DECIZIE"
+ }
+}
