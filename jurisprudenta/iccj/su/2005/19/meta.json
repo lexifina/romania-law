@@ -1,0 +1,95 @@
+{
+ "key": "iccj-su-19-2005",
+ "label": "Decizia ÎCCJ nr. XIX/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "19",
+ "number_printed": "XIX",
+ "date": "2005-12-12",
+ "year": "2005",
+ "heading": "DECIZIE nr. XIX din 12 decembrie 2005",
+ "subtitle": "privind data de la care amânarea executării pedepsei închisorii produce efecte",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "284",
+  "bis": false,
+  "date": "2006-03-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "19/2005"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Stabilesc că amânarea executării pedepsei închisorii îşi produce efectele începând cu data rămânerii definitive a hotărârii judecătoreşti de admitere a cererii.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "350",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-03-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70332",
+  "text_sha256": "ca963f75a4c7e8b715b96b33153eb5a647a9fb1d8a57889e7615b20b8739b1b7",
+  "catalogue_sha256": "ca963f75a4c7e8b715b96b33153eb5a647a9fb1d8a57889e7615b20b8739b1b7",
+  "fetched": "2026-11-03T00:07:26Z",
+  "chars": 5095,
+  "portal_id": "70332",
+  "tip": "DECIZIE"
+ }
+}
