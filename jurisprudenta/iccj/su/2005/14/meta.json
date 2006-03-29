@@ -1,0 +1,164 @@
+{
+ "key": "iccj-su-14-2005",
+ "label": "Decizia ÎCCJ nr. XIV/2005 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "14",
+ "number_printed": "XIV",
+ "date": "2005-11-21",
+ "year": "2005",
+ "heading": "DECIZIE nr. XIV din 21 noiembrie 2005",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 120 alin. 2 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "284",
+  "bis": false,
+  "date": "2006-03-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "24/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 120 alin. 2 din Codul penal, stabilesc:",
+  "Efectele graţierii condiţionate asupra pedepselor a căror executare este suspendată condiţionat, constând în reducerea termenului de încercare prevăzut în art. 82 din Codul penal cu durata pedepsei graţiate, se produc imediat şi nu după împlinirea termenului condiţie prevăzut de legea de graţiere, care se referă exclusiv la pedepsele executabile. La împlinirea termenului de încercare astfel redus cel condamnat este reabilitat de drept dacă sunt îndeplinite condiţiile prevăzute de art. 86 din Codul penal.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 546/2002",
+    "number": "546",
+    "year": "2002",
+    "path": "lege/2002/546"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-03-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70328",
+  "text_sha256": "3a04665f6ac359a501be9658fdf060d51dba1ba880293c2ac95663547fb4fd12",
+  "catalogue_sha256": "3a04665f6ac359a501be9658fdf060d51dba1ba880293c2ac95663547fb4fd12",
+  "fetched": "2026-11-03T00:07:25Z",
+  "chars": 7897,
+  "portal_id": "70328",
+  "tip": "DECIZIE"
+ }
+}
