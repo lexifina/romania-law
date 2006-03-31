@@ -1,0 +1,132 @@
+{
+ "key": "iccj-su-1-2006",
+ "label": "Decizia ÎCCJ nr. I/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "1",
+ "number_printed": "I",
+ "date": "2006-01-16",
+ "year": "2006",
+ "heading": "DECIZIE nr. I din 16 ianuarie 2006",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 47 alin. 2 din Codul de procedură penală referitoare la compatibilitatea judecătorului de a participa la judecarea cauzei în care a dispus prin încheiere, pronunţată înainte de soluţionarea acesteia în fond, schimbarea încadrării juridice a faptei ce face obiectul actului de sesizare a instanţei",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "291",
+  "bis": false,
+  "date": "2006-03-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "26/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 47 alin. 2 din Codul de procedură penală, stabilesc:",
+  "Schimbarea încadrării juridice a faptei ce face obiectul actului de sesizare a instanţei, prin încheiere pronunţată înainte de soluţionarea cauzei, nu atrage incompatibilitatea judecătorului care a făcut parte din completul de judecată.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "334",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "302",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "286",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70375",
+  "text_sha256": "3fd7f14f8e7369d385659d73de5e095088bd104b45a28df8306edeb53db1dd27",
+  "catalogue_sha256": "3fd7f14f8e7369d385659d73de5e095088bd104b45a28df8306edeb53db1dd27",
+  "fetched": "2026-11-03T00:07:31Z",
+  "chars": 9591,
+  "portal_id": "70375",
+  "tip": "DECIZIE"
+ }
+}
