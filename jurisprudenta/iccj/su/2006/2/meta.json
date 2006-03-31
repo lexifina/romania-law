@@ -1,0 +1,148 @@
+{
+ "key": "iccj-su-2-2006",
+ "label": "Decizia ÎCCJ nr. II/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "2",
+ "number_printed": "II",
+ "date": "2006-01-16",
+ "year": "2006",
+ "heading": "DECIZIE nr. II din 16 ianuarie 2006",
+ "subtitle": "cu privire la încadrarea juridică a faptei de însușire pe nedrept de cabluri, linii, echipamente și instalații de telecomunicații, radiocomunicații, precum și componente de comunicații",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIILE UNITE",
+ "mo": {
+  "number": "291",
+  "bis": false,
+  "date": "2006-03-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "30/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "209",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție. În aplicarea dispozițiilor art. 209 alin. 3 lit. h) din Codul penal, stabilesc:",
+  "Fapta de însușire pe nedrept de cabluri, linii, echipamente și instalații de telecomunicații, radiocomunicații, precum și componente de comunicații constituie infracțiunea de furt calificat prevăzută de textul de lege menționat numai dacă, în momentul sustragerii, acestea erau efectiv integrate într-o rețea sau într-un sistem de comunicații aflat sau nu în funcțiune.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "209",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "208",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "217",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "276",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70376",
+  "text_sha256": "ed806fbee4d6d8e6074f33b8ea5c2bd4663926b6e97e323aa692ab125a9a3302",
+  "catalogue_sha256": "ed806fbee4d6d8e6074f33b8ea5c2bd4663926b6e97e323aa692ab125a9a3302",
+  "fetched": "2026-11-03T00:07:33Z",
+  "chars": 7860,
+  "portal_id": "70376",
+  "tip": "DECIZIE"
+ }
+}
