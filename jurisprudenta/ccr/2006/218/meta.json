@@ -1,0 +1,216 @@
+{
+ "key": "dcc-218-2006",
+ "label": "Decizia CCR nr. 218/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "218",
+ "date": "2006-03-07",
+ "year": "2006",
+ "heading": "DECIZIE nr. 218 din 7 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12 lit. A din Ordonanţa de urgenţă a Guvernului nr. 158/2005 privind concediile şi indemnizaţiile de asigurări sociale de sănătate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "293",
+  "bis": false,
+  "date": "2006-03-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.509/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 158/2005",
+    "number": "158",
+    "year": "2005",
+    "path": "oug/2005/158"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 12 lit. A din Ordonanţa de urgenţă a Guvernului nr. 158/2005 privind concediile şi indemnizaţiile de asigurări sociale de sănătate, excepţie ridicată de Societatea Comercială \"Safir\" - S.R.L. din Văleni în Dosarul nr. 3.509/2005 al Tribunalului Vaslui.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 158/2005",
+    "number": "158",
+    "year": "2005",
+    "path": "oug/2005/158"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 338/2002",
+    "number": "338",
+    "year": "2002",
+    "path": "lege/2002/338"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2003",
+    "number": "107",
+    "year": "2003",
+    "path": "oug/2003/107"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70385",
+  "text_sha256": "2e2932877f52d388af938a7a43fce73e52fa8af53bccc1ca1613ada0905a475a",
+  "catalogue_sha256": "2e2932877f52d388af938a7a43fce73e52fa8af53bccc1ca1613ada0905a475a",
+  "fetched": "2026-11-03T00:07:31Z",
+  "chars": 10932,
+  "portal_id": "70385",
+  "tip": "DECIZIE"
+ }
+}
