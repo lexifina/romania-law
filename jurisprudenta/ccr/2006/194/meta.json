@@ -1,0 +1,213 @@
+{
+ "key": "dcc-194-2006",
+ "label": "Decizia CCR nr. 194/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "194",
+ "date": "2006-03-02",
+ "year": "2006",
+ "heading": "DECIZIE nr. 194 din 2 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 27 din Ordonanţa Guvernului nr. 3/2006 privind creşterile salariale ce se vor acorda în anul 2006 personalului bugetar salarizat potrivit Ordonanţei de urgenţă a Guvernului nr. 24/2000 privind sistemul de stabilire a salariilor de bază pentru personalul contractual din sectorul bugetar şi personalului salarizat potrivit anexelor nr. II şi III la Legea nr. 154/1998 privind sistemul de stabilire a salariilor de bază în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupă funcţii de demnitate publică",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "295",
+  "bis": false,
+  "date": "2006-04-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.470/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 3/2006",
+    "number": "3",
+    "year": "2006",
+    "path": "og/2006/3"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 154/1998",
+    "number": "154",
+    "year": "1998",
+    "path": "lege/1998/154"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 27 din Ordonanţa Guvernului nr. 3/2006 privind creşterile salariale ce se vor acorda în anul 2006 personalului bugetar salarizat potrivit Ordonanţei de urgenţă a Guvernului nr. 24/2000 privind sistemul de stabilire a salariilor de bază pentru personalul contractual din sectorul bugetar şi personalului salarizat potrivit anexelor nr. II şi III la Legea nr. 154/1998 privind sistemul de stabilire a salariilor de bază în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupă funcţii de demnitate publică, excepţie ridicată de Alexandru Ioan Piţu în Dosarul nr. 6.470/2005 al Tribunalului Alba - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 9/2005",
+    "number": "9",
+    "year": "2005",
+    "path": "og/2005/9"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 154/1998",
+    "number": "154",
+    "year": "1998",
+    "path": "lege/1998/154"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 3/2006",
+    "number": "3",
+    "year": "2006",
+    "path": "og/2006/3"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 9/1992",
+    "number": "9",
+    "year": "1992",
+    "path": "og/1992/9"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-04-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70428",
+  "text_sha256": "b609a63193c7ce45c94e42b5e5f141de2e9e47da833f02852834ae2f12fde313",
+  "catalogue_sha256": "b609a63193c7ce45c94e42b5e5f141de2e9e47da833f02852834ae2f12fde313",
+  "fetched": "2026-11-03T00:07:34Z",
+  "chars": 10242,
+  "portal_id": "70428",
+  "tip": "DECIZIE"
+ }
+}
