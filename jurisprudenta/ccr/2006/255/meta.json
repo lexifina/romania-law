@@ -1,0 +1,249 @@
+{
+ "key": "dcc-255-2006",
+ "label": "Decizia CCR nr. 255/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "255",
+ "date": "2006-03-14",
+ "year": "2006",
+ "heading": "DECIZIE nr. 255 din 14 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 248^1 din Codul penal, precum şi a dispoziţiilor art. 272 pct. 2 din Legea nr. 31/1990 privind societăţile comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "300",
+  "bis": false,
+  "date": "2006-04-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "16.749/2002"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "248-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 248^1 din Codul penal, excepţie ridicată de Elena Condea în Dosarul nr. 16.749/2002 al Judecătoriei Timişoara. 2. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 272 pct. 2 din Legea nr. 31/1990 privind societăţile comerciale, invocată de acelaşi autor în dosarul aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "248-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1",
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-04-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70468",
+  "text_sha256": "83a6e6e7929a8abbd03f91e672c0573498ac8657b96fbb11d30c070c12e34149",
+  "catalogue_sha256": "83a6e6e7929a8abbd03f91e672c0573498ac8657b96fbb11d30c070c12e34149",
+  "fetched": "2026-11-03T00:07:38Z",
+  "chars": 11100,
+  "portal_id": "70468",
+  "tip": "DECIZIE"
+ }
+}
