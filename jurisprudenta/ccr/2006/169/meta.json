@@ -1,0 +1,155 @@
+{
+ "key": "dcc-169-2006",
+ "label": "Decizia CCR nr. 169/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "169",
+ "date": "2006-02-28",
+ "year": "2006",
+ "heading": "DECIZIE nr. 169 din 28 februarie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 112/2001 privind sancţionarea unor fapte săvârşite în afara teritoriului ţării de cetăţeni români sau de persoane fără cetăţenie domiciliate în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "300",
+  "bis": false,
+  "date": "2006-04-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.482/2005",
+  "937D/2005",
+  "5.301/2005",
+  "936D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 112/2001",
+    "number": "112",
+    "year": "2001",
+    "path": "oug/2001/112"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 112/2001 privind sancţionarea unor fapte săvârşite în afara teritoriului ţării de cetăţeni români sau de persoane fără cetăţenie domiciliate în România, excepţie ridicată de Călin Ioan Dragomir şi Ioana Monica Otilia Codaţ în dosarele nr. 8.482/2005 şi nr. 5.301/2005 ale Judecătoriei Baia Mare.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 112/2001",
+    "number": "112",
+    "year": "2001",
+    "path": "oug/2001/112"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-04-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70466",
+  "text_sha256": "164ac1d838cbe3dfc9fdd4935c6612a4c57e80d351f75eb487f99d28cb7831b8",
+  "catalogue_sha256": "164ac1d838cbe3dfc9fdd4935c6612a4c57e80d351f75eb487f99d28cb7831b8",
+  "fetched": "2026-11-03T00:07:36Z",
+  "chars": 8586,
+  "portal_id": "70466",
+  "tip": "DECIZIE"
+ }
+}
