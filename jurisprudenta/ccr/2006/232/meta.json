@@ -1,0 +1,182 @@
+{
+ "key": "dcc-232-2006",
+ "label": "Decizia CCR nr. 232/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "232",
+ "date": "2006-03-09",
+ "year": "2006",
+ "heading": "DECIZIE nr. 232 din 9 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 3 alin. (2) teza întâi din Ordonanţa de urgenţă a Guvernului nr. 55/2002 privind regimul de deţinere al câinilor periculoşi sau agresivi",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "302",
+  "bis": false,
+  "date": "2006-04-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.475/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 55/2002",
+    "number": "55",
+    "year": "2002",
+    "path": "oug/2002/55"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 3 alin. (2) teza întâi din Ordonanţa de urgenţă a Guvernului nr. 55/2002 privind regimul de deţinere al câinilor periculoşi sau agresivi, excepţie ridicată de Aurel Bocancea în Dosarul nr. 7.475/2005 al Judecătoriei Buzău.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 55/2002",
+    "number": "55",
+    "year": "2002",
+    "path": "oug/2002/55"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 55/2002",
+    "number": "55",
+    "year": "2002",
+    "path": "og/2002/55"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-04-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70487",
+  "text_sha256": "305553dfef7f4ce7a74c6f50aa634271752b432db57f2b84660cbad605c7b36e",
+  "catalogue_sha256": "305553dfef7f4ce7a74c6f50aa634271752b432db57f2b84660cbad605c7b36e",
+  "fetched": "2026-11-04T12:52:40Z",
+  "chars": 8616,
+  "portal_id": "70487",
+  "tip": "DECIZIE"
+ }
+}
