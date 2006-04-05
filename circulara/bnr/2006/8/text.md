@@ -1,0 +1,2 @@
+# Text
+Având în vedere prevederile Legii nr. 312/2004 privind Statutul Băncii Naționale a României și ținând seama de evoluțiile macroeconomice și monetare recente, Banca Națională a României hotărăște: Pentru luna aprilie 2006, nivelul ratei dobânzii de referință a Băncii Naționale a României este de 8,5% pe an. GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI, MUGUR ISĂRESCU București, 3 aprilie 2006. Nr. 8. ----
