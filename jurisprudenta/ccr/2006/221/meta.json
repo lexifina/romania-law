@@ -1,0 +1,210 @@
+{
+ "key": "dcc-221-2006",
+ "label": "Decizia CCR nr. 221/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "221",
+ "date": "2006-03-07",
+ "year": "2006",
+ "heading": "DECIZIE nr. 221 din 7 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 219/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2000 pentru modificarea şi completarea Codului de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "330",
+  "bis": false,
+  "date": "2006-04-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.887/2005",
+  "41D/2006",
+  "51D/2006",
+  "34D/2006",
+  "1.648/2005",
+  "8.721/2005",
+  "10.178/2005",
+  "3.241/2005",
+  "4.829/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 219/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2000 pentru modificarea şi completarea Codului de procedură civilă, excepţie ridicată de Lidia Niculescu Ştefănescu în Dosarul nr. 2.887/2005 al Curţii de Apel Bucureşti - Secţia a IV-a civilă, de Vasile Macovei şi Ionela Macovei în Dosarul nr. 1.129/2005 al Curţii de Apel Galaţi - Secţia civilă, de Nicu Mazere şi Gabriela Mazere în Dosarul nr. 1.094/2005 al Curţii de Apel Galaţi - Secţia civilă, de Mihaela Popa şi Elenuţa Popa în Dosarul nr. 1.648/2005 al Curţii de Apel Galaţi - Secţia civilă, de Societatea Comercială \"Argeşul\" - S.R.L din Eforie Nord în Dosarul nr. 1.509/C/2005 al Curţii de Apel Constanţa - Secţia civilă, de Rodica Boiciuc în Dosarul nr. 8.721/2005 al Curţii de Apel Ploieşti - Secţia civilă, de Rozalia Popov şi Constantin Popov în Dosarul nr. 10.178/2005 al Curţii de Apel Timişoara - Secţia civilă, de Lidia Ardelean şi Daniel Ardelean în Dosarul nr. 5.249/2005 al Curţii de Apel Alba Iulia - Secţia civilă, de Mihaela Prundean în Dosarul nr. 5.167/2005 al Curţii de Apel Alba Iulia - Secţia civilă, de Lucia Becsan în Dosarul nr. 5.197/2005 al Curţii de Apel Alba Iulia - Secţia civilă, de Societatea Comercială \"Agropol Popeşti Leordeni\" - S.A. în Dosarul nr. 3.241/2005 al Curţii de Apel Bucureşti - Secţia a IV-a civilă, de Liviu Popa în Dosarul nr. 4.829/2005 al Curţii de Apel Iaşi - Secţia civilă şi de Aurica Crişan în Dosarul nr. 2.857/2005 al Curţii de Apel Bucureşti - Secţia a III-a civilă şi pentru cauze cu minori şi de familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "3",
+      "4",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 195/2004",
+    "number": "195",
+    "year": "2004",
+    "path": "lege/2004/195"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-04-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70721",
+  "text_sha256": "aa74ce8ead60c1c8b1c3493ade8daf620293dce4d1ce6ce768a1218b10ee6245",
+  "catalogue_sha256": "aa74ce8ead60c1c8b1c3493ade8daf620293dce4d1ce6ce768a1218b10ee6245",
+  "fetched": "2026-11-03T00:07:49Z",
+  "chars": 19224,
+  "portal_id": "70721",
+  "tip": "DECIZIE"
+ }
+}
