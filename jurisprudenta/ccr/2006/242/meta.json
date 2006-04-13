@@ -1,0 +1,114 @@
+{
+ "key": "dcc-242-2006",
+ "label": "Decizia CCR nr. 242/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "242",
+ "date": "2006-03-09",
+ "year": "2006",
+ "heading": "DECIZIE nr. 242 din 9 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Statutului profesiei de consilier juridic, în ansamblu, cu referire specială la prevederile art. 15 şi art. 22 din acest statut",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "332",
+  "bis": false,
+  "date": "2006-04-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor Statutului profesiei de consilier juridic, în ansamblu, cu referire specială la prevederile art. 15 şi 22 din acest statut, excepţie ridicată de Cătălina Preda şi Societatea Comercială \"Dacia Invest\" - S.R.L. în Dosarul nr. 1.538/R/2005 al Curţii de Apel Braşov - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-04-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70795",
+  "text_sha256": "457ff7548393363676e6b248a6b5dc78b5655cc7d147bdc9b7406fe7f5432f0d",
+  "catalogue_sha256": "457ff7548393363676e6b248a6b5dc78b5655cc7d147bdc9b7406fe7f5432f0d",
+  "fetched": "2026-11-03T00:07:54Z",
+  "chars": 7105,
+  "portal_id": "70795",
+  "tip": "DECIZIE"
+ }
+}
