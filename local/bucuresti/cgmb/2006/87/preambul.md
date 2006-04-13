@@ -1,0 +1,4 @@
+Avand in vedere Expunerea de motive a Primarului General al municipiului Bucuresti si Raportul de specialitate al Directiei de Transporturi, Drumuri si Sistematizarea Circulatiei;
+Vazand avizele comisiilor de specialitate ale Consiliului General al Municipiului Bucuresti, In conformitate cu prevederile Legii nr.326/2001 a serviciilor publice de gospodarie comunala, actualizata, cu prevederile Legii nr. 284/2002 pentru aprobarea O.G. nr.86/30.08.2001 privind serviciile de transport public local de calatori si O.G. nr.60/2001 privind achizitiile publice, aprobata prin Legea 212/2002 cu modificarile si completarile ulterioare;
+In conformitate cu prevederile art. 38 (1), (3) si art. 46 (1) din Legea nr. 215/2001 privind administratia publica locala cu modificarile si completarile ulterioare,
+CONSILIUL GENERAL AL MUNICIPIULUI BUCURESTI H O T A R A S T E:
