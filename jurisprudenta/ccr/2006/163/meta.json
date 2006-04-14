@@ -1,0 +1,211 @@
+{
+ "key": "dcc-163-2006",
+ "label": "Decizia CCR nr. 163/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "163",
+ "date": "2006-02-28",
+ "year": "2006",
+ "heading": "DECIZIE nr. 163 din 28 februarie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 30 alin. (1) şi (2) şi ale art. 31 alin. (1) din Legea nr. 359/2004 privind simplificarea formalităţilor la înregistrarea în registrul comerţului a persoanelor fizice, asociaţiilor familiale şi persoanelor juridice, înregistrarea fiscală a acestora, precum şi la autorizarea funcţionării persoanelor juridice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "340",
+  "bis": false,
+  "date": "2006-04-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "862/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 359/2004",
+    "number": "359",
+    "year": "2004",
+    "path": "lege/2004/359"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 30 alin. (1) şi (2) şi ale art. 31 alin. (1) din Legea nr. 359/2004 privind simplificarea formalităţilor la înregistrarea în registrul comerţului a persoanelor fizice, asociaţiilor familiale şi persoanelor juridice, înregistrarea fiscală a acestora, precum şi la autorizarea funcţionării persoanelor juridice, excepţie ridicată de Societatea Comercială \"Artum\" - S.R.L. din Sighişoara în Dosarul nr. 862/2005/CCA al Curţii de Apel Târgu Mureş - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 359/2004",
+    "number": "359",
+    "year": "2004",
+    "path": "lege/2004/359"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-04-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70826",
+  "text_sha256": "cbe36103ab8d118e91c19e9b86b4e6fc662135ff5539df1f397ae08b49d3df41",
+  "catalogue_sha256": "cbe36103ab8d118e91c19e9b86b4e6fc662135ff5539df1f397ae08b49d3df41",
+  "fetched": "2026-11-03T00:07:56Z",
+  "chars": 12046,
+  "portal_id": "70826",
+  "tip": "DECIZIE"
+ }
+}
