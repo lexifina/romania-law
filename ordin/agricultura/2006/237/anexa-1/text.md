@@ -1,0 +1,7 @@
+# Anexa 2
+DECLARAȚIE privind suprafața în exploatare și respectarea legislației în domeniul organismelor modificate genetic
+Subsemnatul........., cu domiciliul în localitatea........., str....... nr....., județul/sectorul......., posesor/posesoare al/a
+B.I./C.I. seria...... nr......, emis/emisă de......... la data de......., CNP.........., declar pe propria răspundere că exploatez suprafața de...... ha, în localitatea......, județul.............
+De asemenea, am luat cunoștință și mă angajez să respect prevederile legislației în vigoare în domeniul organismelor modificate genetic.
+Data
+Semnătura................................. (și ștampila - pentru persoanele juridice)
