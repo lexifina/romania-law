@@ -1,0 +1,165 @@
+{
+ "key": "dcc-240-2006",
+ "label": "Decizia CCR nr. 240/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "240",
+ "date": "2006-03-09",
+ "year": "2006",
+ "heading": "DECIZIE nr. 240 din 9 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 lit. c) şi d) din Ordonanţa Guvernului nr. 99/2000 privind comercializarea produselor şi serviciilor de piaţă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "349",
+  "bis": false,
+  "date": "2006-04-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 4 lit. c) şi d) din Ordonanţa Guvernului nr. 99/2000 privind comercializarea produselor şi serviciilor de piaţă, excepţie ridicată de Societatea Comercială \"Valrom Industrie\" - S.R.L. în Dosarul nr. 8.244/CV/2005 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-04-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70891",
+  "text_sha256": "dccd3d7d6a1516b2273fba0aebbdc3c1a039f09b5a774c1fbf4b6dd0f18f2303",
+  "catalogue_sha256": "dccd3d7d6a1516b2273fba0aebbdc3c1a039f09b5a774c1fbf4b6dd0f18f2303",
+  "fetched": "2026-11-03T00:08:00Z",
+  "chars": 8190,
+  "portal_id": "70891",
+  "tip": "DECIZIE"
+ }
+}
