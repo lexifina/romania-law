@@ -1,0 +1,2 @@
+# Anexa 4
+DECLARAȚIE Subsemnatul.....(numele și prenumele)........, angajat la...(instituția, organizația)...... în funcția de..................., declar pe propria răspundere, cunoscând prevederile art. 292 din Codul penal privind falsul în declarații, că nu mă aflu în situația de conflict de interese prevăzută la art......... din Ordinul nr............... Data......................... Semnătura...................... -----------
