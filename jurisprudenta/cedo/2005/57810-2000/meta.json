@@ -1,0 +1,119 @@
+{
+ "key": "cedo-57810-2000-2005-05-26",
+ "label": "CEDO, Costin c. României, 2005-05-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-05-26",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 26 mai 2005",
+ "subtitle": "definitivă la 26 august 2005, în Cauza Costin împotriva României (Cererea nr. 57.810/2000)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "367",
+  "bis": false,
+  "date": "2006-04-27",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "57810/2000"
+ ],
+ "case_name": "Costin",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 6 alin. 1 din Convenţie; 3. hotărăşte",
+  "a) că statul pârât trebuie să-i plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, 3.000 euro (trei mii euro) pentru prejudiciul moral şi 100 euro (o sută euro) pentru cheltuieli, plus orice sumă care ar putea fi datorată cu titlu de impozit;",
+  "b) că, începând de la expirarea acestui termen şi până la efectuarea plăţii, aceste sume vor fi majorate cu o dobândă simplă egală cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, majorată cu trei procente;",
+  "4. respinge cererea de acordare a unei satisfacţii echitabile pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/71098",
+  "text_sha256": "2cb1afe57ec49c4f73456ae4bf0ecc469e4cacf145f13aae6b570cbbee9ec307",
+  "catalogue_sha256": "2cb1afe57ec49c4f73456ae4bf0ecc469e4cacf145f13aae6b570cbbee9ec307",
+  "fetched": "2026-11-03T00:08:10Z",
+  "chars": 20338,
+  "portal_id": "71098",
+  "tip": "HOTĂRÂRE"
+ }
+}
