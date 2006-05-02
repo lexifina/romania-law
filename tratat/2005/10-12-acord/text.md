@@ -1,0 +1,28 @@
+ ACORD din 12 octombrie 2005  între Guvernul României şi Guvernul Republicii Italiene privind reglementarea şi gestionarea fluxurilor migratorii în scop lucrativ     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 375 din 2 mai 2006     Guvernul României şi Guvernul Republicii Italiene, denumite în continuare părţi contractante,  subliniind importanţa relaţiilor de prietenie şi cooperare dintre cele două state,  în scopul consolidării raporturilor de cooperare deja existente între părţile contractante şi pentru promovarea unei gestionări coordonate şi eficiente a fluxurilor de lucrători între cele două state, inclusiv în vederea prevenirii imigraţiei ilegale,  au convenit asupra celor ce urmează:
+				 +
+			  Articolul 1     În scopul prezentului acord, autorităţile competente sunt:  - pentru Guvernul României, Ministerul Muncii, Solidarităţii Sociale şi Familiei;  - pentru Guvernul Republicii Italiene, Ministerul Muncii şi Politicilor Sociale.
+				 +
+			  Articolul 2     Autorităţile competente vor colabora pentru reglementarea fluxurilor de lucrători angajaţi pe perioadă nedeterminată şi determinată, inclusiv de lucrători sezonieri, între cele două state. Prin intermediul propriilor organisme competente, acestea vor facilita accesul pe piaţa muncii al cetăţenilor statului celeilalte părţi contractante, ţinând cont de condiţiile de pe piaţa naţională a muncii şi în conformitate cu legislaţia în vigoare în domeniul accesului pe piaţa muncii al cetăţenilor străini.
+				 +
+			  Articolul 3     Părţile contractante vor face în mod periodic schimb de informaţii cu privire la disponibilitatea de forţă de muncă din statul de origine, ofertele de locuri de muncă în statul primitor, precum şi domeniile profesionale solicitate pe respectivele pieţe ale muncii.
+				 +
+			  Articolul 4     Autorităţile competente se angajează să colaboreze în vederea facilitării întâlnirii cererii şi ofertei de muncă, prin modalităţile care vor fi stabilite în protocolul de aplicare prevăzut la art. 10 al prezentului acord, precum şi a schimbului de experienţă şi de bune practici dintre organismele competente în materie.
+				 +
+			  Articolul 5     1. Părţile contractante, conform propriei legislaţii naţionale, vor facilita participarea la cursuri de formare profesională şi de limbă a potenţialilor candidaţi, în vederea accesului pe piaţa muncii.  2. Modalităţile de aprobare şi de realizare a programelor de formare vor fi stabilite prin protocolul de aplicare prevăzut la art. 10 din prezentul acord.
+				 +
+			  Articolul 6     1. Intrarea, şederea şi activitatea de muncă a lucrătorului migrant se vor efectua în conformitate cu legislaţia în vigoare în statul primitor.  2. Părţile contractante se angajează să ia, în conformitate cu propria legislaţie, toate măsurile necesare pentru a se asigura că lucrătorii nu prezintă elemente care să prejudicieze siguranţa şi ordinea publică a statului primitor.  3. Salarizarea lucrătorului migrant, precum şi condiţiile de muncă din contractul individual de muncă vor fi cele prevăzute în contractele colective de referinţă sau, în lipsa acestora, de legislaţia în vigoare pentru lucrătorii, cetăţeni ai statului primitor, având aceeaşi calificare profesională.
+				 +
+			  Articolul 7     Lucrătorii migranţi, care au intrat şi se află în statul primitor în scop lucrativ, îşi pot transfera câştigurile lor în statul de origine în conformitate cu legislaţia în vigoare în statul primitor.
+				 +
+			  Articolul 8     Cetăţenii celor două state care exercită o activitate în scop lucrativ în celălalt stat se bucură de aceleaşi drepturi şi de aceeaşi protecţie de care se bucură lucrătorii statului primitor, în ceea ce priveşte condiţiile de muncă, salarizarea, protecţia socială şi drepturile fundamentale ale lucrătorilor, în conformitate cu legislaţia în vigoare a statului primitor.
+				 +
+			  Articolul 9     Autorităţile competente se vor consulta periodic cu privire la:  ● urmărirea aplicării prezentului acord şi propunerea oricărei măsuri care poate asigura buna sa derulare;  ● efectuarea unei evaluări periodice a prezentului acord;  ● soluţionarea dificultăţilor de ordin practic care pot împiedica aplicarea prezentului acord;  ● propuneri în vederea modificării prezentului acord.
+				 +
+			  Articolul 10     Modalităţile de aplicare a prezentului acord vor fi stabilite într-un protocol de aplicare.
+				 +
+			  Articolul 11     Părţile contractante pot să modifice, de comun acord, prezentul acord prin protocoale adiţionale care vor fi parte integrantă a prezentului acord. Protocoalele adiţionale vor intra în vigoare în conformitate cu procedura prevăzută la art. 13 din prezentul acord.
+				 +
+			  Articolul 12     Părţile contractante se angajează să mediatizeze într-o măsură cât mai extinsă conţinutul prezentului acord.
+				 +
+			  Articolul 13     1. Prezentul acord se încheie pe o perioadă nedeterminată, în afară de cazul în care una dintre părţile contractante notifică celeilalte părţi contractante, pe cale diplomatică, denunţarea acestuia. Denunţarea îşi produce efecte la 60 de zile de la data notificării.  2. Prezentul acord intră în vigoare în prima zi a celei de-a doua luni care urmează datei primirii ultimei notificări prin care părţile contractante îşi comunică, pe cale diplomatică, îndeplinirea procedurilor interne necesare pentru intrarea sa în vigoare.  Drept care, subsemnaţii reprezentanţi, pe deplin autorizaţi de către guvernele lor, au semnat prezentul acord.  Semnat la Roma la 12 octombrie 2005, în două exemplare originale, în limbile română şi italiană, ambele texte fiind egal autentice.  Pentru Guvernul României,  Gheorghe Barbu  Pentru Guvernul Republicii Italiene,  Roberto Maroni  -----------
