@@ -1,0 +1,12 @@
+# Anexa 1b
+Cerere de înscriere în Registrul de evidență
+Subsemnatul/subsemnații________________________________________________ (numele și prenumele) în calitate de reprezentant/reprezentanți legal/legali al/ai _______________________________________________________________________ (denumirea casei de ajutor reciproc/casei de amanet pentru care se solicită înscrierea în Registrul de evidență) solicit/solicităm înscrierea în Registrul de evidență a _______________________________________________________________________ (denumirea casei de ajutor reciproc/casei de amanet pentru care se solicită înscrierea în Registrul de evidență)
+În susținerea cererii mele/noastre anexez/anexăm următoarea documentație, în conformitate cu prevederile Normelor privind procedura de notificare și înscrierea în registre a instituțiilor financiare nebancare * _______________________________________________________________________ _______________________________________________________________________ _______________________________________________________________________ _______________________________________________________________________
+Adresa noastră de contact este_________________________________________
+Telefon____________________
+Fax________________________
+Data_______________________
+Semnătura________________
+Cererea va fi adresată Băncii Naționale a României - Direcția
+Reglementare și Autorizare
+* În cazul neprezentării unor documente, prezentării unor documente necorespunzătoare sau al existenței altor deficiențe se vor face precizări suplimentare.

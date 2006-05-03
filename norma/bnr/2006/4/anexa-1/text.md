@@ -1,0 +1,11 @@
+# Anexa 1
+Cerere de înscriere în Registrul general
+Subsemnatul/subsemnații _____________________________________________ (numele și prenumele) în calitate de reprezentant/reprezentanți legal/legali al/ai _________________________________________________________________________ (denumirea instituției financiare nebancare pentru care se solicită înscrierea în Registrul general) solicit/solicităm înscrierea în Registrul general a societății comerciale _________________________________________________________________________ (denumirea instituției financiare nebancare pentru care se solicită înscrierea în Registrul de general)
+În susținerea cererii mele/noastre anexez/anexăm următoarea documentație, în conformitate cu prevederile Normelor privind procedura de notificare și înscrierea în registre a instituțiilor financiare nebancare _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________
+Adresa noastră de contact este_______________________________________
+Telefon________________
+Fax____________________
+Data___________________
+Semnătura_____________
+Cererea va fi adresată Băncii Naționale a României - Direcția
+Reglementare și Autorizare
