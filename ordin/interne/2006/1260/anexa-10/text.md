@@ -1,0 +1,12 @@
+# Anexa 9
+Unicat
+Valabil numai în
+ROMÂNIA
+DOVADA
+Seria_______nr.________________
+Permis de conducere categoria_____________nr.____________________________
+Certificat de înmatriculare seria_______al autovehiculului nr.___________ aparținând_______________________________________________________________ a fost reținut pentru (motivul și locul)_________________________________ _________________________________________________________________________ _________________________________________________________________________
+Prezenta s-a eliberat la data de_______________________________ora_______
+Cu valabilitate până la__________________________________________________
+Agent constatator_________________________________ecuson nr._____________ (numele în clar și semnătura) (ștampila emitent)
+Semnătura,
