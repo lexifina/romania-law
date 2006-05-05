@@ -1,0 +1,498 @@
+{
+ "key": "dcc-241-2006",
+ "label": "Decizia CCR nr. 241/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "241",
+ "date": "2006-03-09",
+ "year": "2006",
+ "heading": "DECIZIE nr. 241 din 9 martie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 26, art. 30 şi ale art. 31 alin. (2) din Legea nr. 359/2004 privind simplificarea formalităţilor la înregistrarea în registrul comerţului a persoanelor fizice, asociaţiilor familiale şi persoanelor juridice, înregistrarea fiscală a acestora, precum şi la autorizarea funcţionării persoanelor juridice, ale art. 233 din Legea nr. 31/1990 privind societăţile comerciale, ale art. 6 alin. (1), ale art. 9 alin. (1), ale art. 25 şi art. 26 alin. (2) din Legea nr. 26/1990 privind registrul comerţului, ale art. 95 şi ale art. 97 din Legea nr. 303/2004 privind statutul judecătorilor şi procurorilor şi ale art. 28 alin. 2 şi 3, ale art. 31 alin. 1, 2 şi 3, ale art. 34 alin. 2, ale art. 183 şi ale art. 244 alin. 1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "387",
+  "bis": false,
+  "date": "2006-05-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.932/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 359/2004",
+    "number": "359",
+    "year": "2004",
+    "path": "lege/2004/359"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "233",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge ca inadmisibilă excepţia de neconstituţionalitate a prevederilor art. 28 alin. 2 şi 3, ale art. 31 alin. 1, 2 şi 3, ale art. 34 alin. 2, ale art. 183 şi ale art. 244 alin. 1 din Codul de procedură civilă şi celor ale art. 95 şi ale art. 97 din Legea nr. 303/2004 privind statutul judecătorilor şi procurorilor, excepţie ridicată de Societatea Comercială \"Royal International\" - S.R.L. din Iaşi, prin administrator Emil Balaure, în Dosarul nr. 2.932/2005 al Curţii de Apel Iaşi - Secţia comercială şi de contencios administrativ. 2. Respinge ca neîntemeiată excepţia de neconstituţionalitate a prevederilor art. 26, 30 şi ale art. 31 alin. (2) din Legea nr. 359/2004 privind simplificarea formalităţilor la înregistrarea în registrul comerţului a persoanelor fizice, asociaţiilor familiale şi persoanelor juridice, înregistrarea fiscală a acestora, precum şi la autorizarea funcţionării persoanelor juridice, ale art. 233 din Legea nr. 31/1990 privind societăţile comerciale, ale art. 6 alin. (1), ale art. 9 alin. (1), ale art. 25 şi ale art. 26 alin. (2) din Legea nr. 26/1990 privind registrul comerţului, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 359/2004",
+    "number": "359",
+    "year": "2004",
+    "path": "lege/2004/359"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "233",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "93-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 129/2002",
+    "number": "129",
+    "year": "2002",
+    "path": "oug/2002/129"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 76/2001",
+    "number": "76",
+    "year": "2001",
+    "path": "oug/2001/76"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 208/1950",
+    "number": "208",
+    "year": "1950",
+    "path": "decret/1950/208"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-05-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/71303",
+  "text_sha256": "2a37fcd3ae4206403bd3af8e327cae789c9c359b292603de1fd6e7cc32f28a51",
+  "catalogue_sha256": "2a37fcd3ae4206403bd3af8e327cae789c9c359b292603de1fd6e7cc32f28a51",
+  "fetched": "2026-11-03T00:08:23Z",
+  "chars": 21867,
+  "portal_id": "71303",
+  "tip": "DECIZIE"
+ }
+}
