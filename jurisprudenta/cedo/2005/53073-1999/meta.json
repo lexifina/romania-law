@@ -1,0 +1,219 @@
+{
+ "key": "cedo-53073-1999-2005-06-28",
+ "label": "CEDO, Virgil Ionescu c. României, 2005-06-28",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-06-28",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 28 iunie 2005",
+ "subtitle": "definitivă la 28 septembrie 2005, în cauza Virgil Ionescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "396",
+  "bis": false,
+  "date": "2006-05-08",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "53073/1999",
+  "53037/1999"
+ ],
+ "case_name": "Virgil Ionescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. hotărăşte că a fost încălcat art. 6 alin. 1 din Convenţie, sub aspectul echităţii procedurii vizând reactualizarea creanţei reclamantului; 2. hotărăşte că a fost încălcat art. 6 alin. 1 din Convenţie, sub aspectul încălcării dreptului de acces la justiţie; 3. hotărăşte că s-a încălcat art. 1 din Protocolul nr. 1; 4. hotărăşte că nu are competenţa pentru a examina noile plângeri formulate de reclamant după decizia asupra admisibilităţii; 5. hotărăşte",
+  "a) că statul pârât trebuie să-i plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, 7.500 euro (şapte mii cinci sute euro) cu titlu de prejudiciu material şi moral, sumă ce urmează a fi plătită în moneda naţională a statului pârât, la nivelul ratei de schimb aplicabile la momentul plăţii;",
+  "b) că începând de la data expirării termenului amintit şi până la momentul efectuării plăţii, suma respectivă va fi majorată cu o dobândă simplă, a cărei rată este egală cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, la care se vor adăuga 3 puncte procentuale;",
+  "6. respinge cererea de acordare a unei satisfacţii echitabile pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "112",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "371-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/71372",
+  "text_sha256": "a068e87f1d29e5de076b12709ed127412e528e3b0d54c38b86d05261805451bc",
+  "catalogue_sha256": "a068e87f1d29e5de076b12709ed127412e528e3b0d54c38b86d05261805451bc",
+  "fetched": "2026-11-03T00:08:28Z",
+  "chars": 39731,
+  "portal_id": "71372",
+  "tip": "HOTĂRÂRE"
+ }
+}
