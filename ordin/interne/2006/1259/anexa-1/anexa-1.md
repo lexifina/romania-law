@@ -1,0 +1,2 @@
+# Anexa nr. 1 la anexa nr. 1
+Anexa 1 ──────── la norme ──────── SCHEMA DE PRINCIPIU CU ORGANIZAREA ȘI ASIGURAREA INSTIINTARII ȘI ALARMARII LA NIVEL NAȚIONAL NOTĂ CTCE Reprezentarea grafica a schemei de principiu cu organizarea și asigurarea înștiințării și alarmarii la nivel național, se găsește în Monitorul Oficial al României, Partea I, Nr. 349 din 18 aprilie 2006, la pagina 14, a se vedea imaginea asociata.

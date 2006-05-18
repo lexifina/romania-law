@@ -1,0 +1,2 @@
+# Anexa nr. 2 la anexa nr. 1
+Anexa 2 ──────── la norme ────────── SCHEMA DE PRINCIPIU CU ORGANIZAREA ȘI ASIGURAREA INSTIINTARII ȘI ALARMARII LA NIVEL JUDETEAN
