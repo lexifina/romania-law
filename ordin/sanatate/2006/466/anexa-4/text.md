@@ -1,0 +1,2 @@
+# Anexa 4
+COMPONENȚA NOMINALĂ a Comisiei naționale de transparență 1. Acad. prof. univ. dr. Constantin Bălăceanu Stolnici, București 2. Acad. prof. univ. dr. Constantin Popa, București 3. Acad. prof. univ. dr. Victor Voicu, București 4. Prof. univ. dr. Nicolae Ghilezan, Cluj-Napoca 5. Prof. univ. dr. Radu Căpâlneanu, Cluj-Napoca 6. Prof. univ. dr. Petru Boișteanu, Iași 7. Prof. univ. dr. Cezar Macarie, București 8. Prof. univ. dr. Radu Deac, Târgu Mureș 9. Conf. univ. dr. Petru Calistru, București

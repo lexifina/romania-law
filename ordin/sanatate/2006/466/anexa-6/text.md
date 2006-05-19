@@ -1,0 +1,2 @@
+# Anexa 6
+ANGAJAMENT DE CONFIDENȚIALITATE al membrilor comisiilor consultative Subsemnatul/Subsemnata............................, având profesia de.................... la........................., membru al Comisiei de strategie terapeutică, mă angajez prin prezentul angajament să păstrez confidențialitatea tuturor documentelor discutate în cadrul comisiei, cu excepția celor care devin publice prin publicare sau prin ordin al ministrului sănătății. Data.................. Semnătura............ ----------
