@@ -1,3 +1,2 @@
 # Articolul III
-La articolul 29 din Ordonanța de urgenta a Guvernului nr. 66/2005 cu privire la rectificarea bugetului de stat pe anul 2005, publicată în Monitorul Oficial al României, Partea I, nr. 577 din 5 iulie 2005, cu modificările și completările ulterioare, după alineatul (3) se introduce un alineat nou, alineatul (4), cu urmatorul cuprins:
-"(4) În cazuri temeinic justificate, altele decat cele prevăzute la alin. (2), la solicitarea ministrului educatiei și cercetării, ministrului sănătății, respectiv a presedintelui Casei Naționale de Asigurari de Sănătate, ministrul finanțelor publice poate aproba achizitii de mobilier necesar desfășurării în bune condiții a activității instituțiilor publice din domeniul învățământului și sănătății, cu încadrare în bugetul aprobat pe anul 2005."
+Abrogat.
