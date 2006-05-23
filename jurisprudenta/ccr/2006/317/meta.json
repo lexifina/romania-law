@@ -1,0 +1,431 @@
+{
+ "key": "dcc-317-2006",
+ "label": "Decizia CCR nr. 317/2006",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "317",
+ "date": "2006-04-13",
+ "year": "2006",
+ "heading": "DECIZIE nr. 317 din 13 aprilie 2006",
+ "subtitle": "privind constituţionalitatea unor dispoziţii din Regulamentul Senatului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "446",
+  "bis": false,
+  "date": "2006-05-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "940C/2005"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Constată că art. 5 alin. (2), în măsura în care se referă la numărul membrilor partidelor, organizaţiilor cetăţenilor aparţinând minorităţilor naţionale, alianţelor politice sau alianţelor electorale, iar nu la configuraţia politică rezultată din alegeri, conform art. 64 alin. (5) din Constituţie, art. 45 alin. (1), în măsura în care atribuie liderului de grup, iar nu grupului parlamentar, dreptul de a face propuneri privitoare la înlocuirea unui membru dintr-o comisie parlamentară, art. 67 lit. d), art. 76 alin. (1), art. 76 alin. (6), art. 79 alin. (1) şi (2), art. 189, 190, 191 şi 193 din Regulamentul Senatului sunt neconstituţionale. 2. Constată că, în ceea ce priveşte art. 7 alin. (7), art. 11, art. 16 alin. (2), art. 22, art. 28 alin. (2), art. 36 alin. (1) lit. s), art. 37 alin. (1), art. 42 alin. (1) lit. c), art. 46 alin. (3), art. 48 alin. (2), art. 50 alin. (2), art. 51 alin. (1), art. 51 alin. (3), art. 60 alin. (1), art. 60 alin. (2), art. 61 alin. (1), art. 66 alin. (4), art. 82 alin. (2), art. 88 alin. (1), art. 89 alin. (4), art. 90 alin. (1) lit. b), art. 102, art. 104, art. 125 alin. (2), art. 136 alin. (3), art. 136 alin. (5), art. 138 alin. (1), art. 145 alin. (5), art. 146 alin. (1), art. 149, art. 155 alin. (3), art. 160 alin. (2), art. 160 alin. (4), art. 161 alin. (1) teza întâi, art. 166 alin. (5) şi (6), art. 172 alin. (2), art. 174-185, art. 174 alin. (2), art. 204 alin. (2), art. 205 şi art. 208 alin. (4) din acelaşi regulament, sesizarea este neîntemeiată.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedintelui Senatului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "5",
+      "4",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "s"
+     ]
+    },
+    {
+     "art": "46",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "89",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 70
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-05-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/71994",
+  "text_sha256": "5995b91ca36b0d47ac73d7bb59df4841ebfa3e0fc8727416236668a9956e15b4",
+  "catalogue_sha256": "5995b91ca36b0d47ac73d7bb59df4841ebfa3e0fc8727416236668a9956e15b4",
+  "fetched": "2026-11-05T13:37:26Z",
+  "chars": 57382,
+  "portal_id": "71994",
+  "tip": "DECIZIE"
+ }
+}
