@@ -1,0 +1,195 @@
+{
+ "key": "iccj-su-7-2006",
+ "label": "Decizia ÎCCJ nr. VII/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "7",
+ "number_printed": "VII",
+ "date": "2006-02-20",
+ "year": "2006",
+ "heading": "DECIZIE nr. VII din 20 februarie 2006",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 140 alin. 1 lit. a) din Codul de procedură penală, referitoare la încetarea de drept a măsurilor preventive",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "475",
+  "bis": false,
+  "date": "2006-06-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "40/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "140",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "160",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 140 alin. 1 lit. a) din Codul de procedură penală, stabilesc:",
+  "Neverificarea de către instanţă, în cursul judecăţii, a legalităţii şi temeiniciei arestării preventive a inculpatului major înainte de împlinirea duratei de 60 de zile, la care se referă art. 160^b alin. 1 din Codul de procedură penală, a inculpatului minor cu vârsta între 14 şi 16 ani înainte de expirarea duratei de 30 de zile prevăzute în art. 160^h alin. 2 din Codul de procedură penală, iar a inculpatului minor mai mare de 16 ani înainte de expirarea duratei de 40 de zile prevăzute în art. 160^h alin. 3 din Codul de procedură penală atrage încetarea de drept a măsurii arestării preventive luate faţă de inculpaţi şi punerea lor de îndată în libertate.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "140",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "160",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-06-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/72269",
+  "text_sha256": "fe4a230f4a4571e1de09e6f8ac9421379ae1b3d150fa4bcd7aa06bebce3cf24f",
+  "catalogue_sha256": "fe4a230f4a4571e1de09e6f8ac9421379ae1b3d150fa4bcd7aa06bebce3cf24f",
+  "fetched": "2026-11-03T00:09:23Z",
+  "chars": 10653,
+  "portal_id": "72269",
+  "tip": "DECIZIE"
+ }
+}
