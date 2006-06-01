@@ -1,0 +1,164 @@
+{
+ "key": "iccj-su-8-2006",
+ "label": "Decizia ÎCCJ nr. VIII/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "8",
+ "number_printed": "VIII",
+ "date": "2006-03-20",
+ "year": "2006",
+ "heading": "DECIZIE nr. VIII din 20 martie 2006",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 450 alin. 2 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "475",
+  "bis": false,
+  "date": "2006-06-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "38/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "450",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabilesc:",
+  "Fixarea termenului de reînnoire în cazul respingerii cererii sau al propunerii de liberare condiţionată se impune în toate cazurile în care soluţia se întemeiază pe neîndeplinirea cumulativă a condiţiilor cerute de textele art. 59 şi următoarele din Codul penal, inclusiv în situaţia în care perioada rămasă de executat până la împlinirea fracţiunii legale este mai mică sau egală cu un an.",
+  "În cazul în care cererea sau propunerea de liberare condiţionată se respinge pentru neîndeplinirea condiţiei privitoare la fracţiunea prevăzută de art. 59 şi următoarele din Codul penal, iar perioada rămasă de executat până la împlinirea acestei fracţiuni este mai mare de un an, instanţa va stabili ca cererea sau propunerea să fie reînnoită potrivit art. 450 alin. 2 din Codul de procedură penală, în termen de un an de la data împlinirii fracţiunii prevăzute de art. 59 şi următoarele din Codul penal.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "450",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-06-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/72268",
+  "text_sha256": "67093d8ee226459868c46a44b574d2b9950c0ac3f7de1b358d792a66e6d77ebc",
+  "catalogue_sha256": "67093d8ee226459868c46a44b574d2b9950c0ac3f7de1b358d792a66e6d77ebc",
+  "fetched": "2026-11-03T00:09:21Z",
+  "chars": 8750,
+  "portal_id": "72268",
+  "tip": "DECIZIE"
+ }
+}
