@@ -1,0 +1,34 @@
+ ACORD din 2 februarie 2006  între Guvernul României şi Cabinetul de Miniştri al Ucrainei cu privire la punctele de trecere a frontierei de stat româno-ucrainene     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 486 din 5 iunie 2006     Guvernul României şi Cabinetul de Miniştri al Ucrainei, denumite în continuare părţi,  animate de dorinţa de a perfecţiona relaţiile bilaterale în domeniul circulaţiei internaţionale a persoanelor şi a mărfurilor peste frontiera de stat româno-ucraineană, denumită în continuare frontieră de stat,  hotărâte să creeze condiţiile corespunzătoare de trecere a frontierei de stat de către persoane, mijloace de transport, mărfuri şi alte bunuri,  în conformitate cu prevederile tratatelor internaţionale şi ale altor documente internaţionale la care statul fiecărei părţi este parte,  au convenit următoarele:
+				 +
+			  Articolul 1     1. Trecerea frontierei de stat de către persoane, mijloace de transport, mărfuri şi alte bunuri se efectuează prin punctele de trecere care sunt deschise traficului internaţional, denumite în continuare puncte de trecere, prevăzute în anexa care face parte integrantă din prezentul acord.  2. Trecerea frontierei de stat, prin punctele de trecere, de către persoane, mijloace de transport, mărfuri şi alte bunuri se efectuează permanent (24 de ore din 24), în conformitate cu legislaţia în vigoare a statelor părţilor, pe baza documentelor întocmite corespunzător.
+				 +
+			  Articolul 2     În scopul dezvoltării relaţiilor în domeniul transporturilor de persoane şi mărfuri peste frontiera de stat, părţile, de comun acord, vor deschide noi puncte de trecere.
+				 +
+			  Articolul 3     Deschiderea noilor puncte de trecere a frontierei de stat, precum şi schimbarea caracterului transportului, a categoriei, regimului de funcţionare şi a orarului de lucru al punctelor de trecere existente se efectuează prin schimb de note verbale, cu respectarea legislaţiei în vigoare a statelor părţilor.
+				 +
+			  Articolul 4     Controlul persoanelor, mijloacelor de transport, mărfurilor şi al altor bunuri pe timpul trecerii frontierei de stat prin punctele de trecere se efectuează în conformitate cu legislaţia în vigoare a statelor părţilor.
+				 +
+			  Articolul 5     Trecerea frontierei de stat prin punctele de trecere pentru transporturi auto se poate efectua de persoane pe jos, dacă aceste puncte de trecere sunt amenajate cu treceri speciale pentru pietoni. Părţile, prin căi diplomatice, vor conveni cu privire la amenajarea punctelor de trecere cu treceri speciale pentru pietoni.
+				 +
+			  Articolul 6     1. Părţile pot, temporar, să sisteze sau să limiteze traficul în anumite puncte de trecere, din motive de ordine publică şi siguranţă naţională, din cauze sanitar-epidemiologice, epizootice, fitosanitare, ecologice sau în cazul calamităţilor naturale.  2. Partea care are intenţia de a sista sau de a limita temporar traficul prin punctele de trecere a frontierei de stat va informa cealaltă parte despre aceasta, prin căi diplomatice, cu cel puţin 48 de ore înaintea sistării sau limitării traficului.  3. În situaţii excepţionale, legate de cazurile despre care se menţionează la pct. 1 al acestui articol, fiecare parte poate, imediat, să sisteze sau să limiteze traficul în punctele de trecere a frontierei de stat. Totodată, autorităţile competente ale statului părţii care sistează sau limitează astfel traficul informează imediat, dar nu mai târziu de 30 de minute după sistarea sau limitarea traficului, autorităţile competente ale statului celeilalte părţi, cu confirmarea ulterioară a acestei informări, prin căi diplomatice, în decurs de 48 de ore.  4. Despre sistarea sau limitarea temporară a traficului peste frontiera de stat, legat de activităţile planificate de reparaţie sau modernizare a punctelor de trecere, precum şi a căilor de acces spre acestea, părţile se informează reciproc, prin căi diplomatice, nu mai târziu de 3 luni înaintea sistării sau limitării acestui trafic, cu precizarea unui termen estimativ de reluare a acestuia.  5. Părţile se vor informa reciproc, prin căi diplomatice, despre reluarea traficului prin punctele de trecere a frontierei de stat şi despre măsurile luate cu privire la aceasta.
+				 +
+			  Articolul 7     1. Autorităţile competente ale statului părţilor cu privire la punerea în aplicare a prezentului acord sunt:  - din partea română: Ministerul Administraţiei şi Internelor al României - Inspectoratul General al Poliţiei de Frontieră şi Ministerul Finanţelor Publice - Autoritatea Naţională a Vămilor;  - din partea ucraineană: Administraţia Serviciului de Stat al Frontierei de Stat a Ucrainei şi Serviciul Vamal de Stat al Ucrainei.  2. Problemele care vor apărea în legătură cu punerea în aplicare a prezentului acord vor fi soluţionate de autorităţile competente ale statului fiecăreia dintre părţi sau pe căi diplomatice.
+				 +
+			  Articolul 8     Dispoziţiile prezentului acord nu afectează drepturile şi obligaţiile părţilor rezultate din tratatele internaţionale bilaterale sau multilaterale la care statul fiecărei părţi este parte.
+				 +
+			  Articolul 9     1. Prezentul acord se încheie pentru o perioadă nedeterminată şi intră în vigoare în a 30-a (treizecea) zi de la data primirii ultimei notificări prin care părţile se informează despre îndeplinirea procedurilor interne necesare intrării în vigoare a prezentului acord.  2. De comun acord, părţile pot aduce modificări şi completări prezentului acord, care vor intra în vigoare conform pct. 1 al prezentului articol.  3. Prezentul acord iese din vigoare după 6 luni de la primirea notificării prin care una dintre părţi informează, prin căi diplomatice, cealaltă parte despre intenţia de a determina încetarea valabilităţii acestuia.  Semnat la Kiev la 2 februarie 2006, în două exemplare originale, fiecare în limbile română şi ucraineană, ambele texte fiind egal autentice.  Pentru Guvernul României,  Mihai Răzvan Ungureanu  Pentru Cabinetul de Miniştri al Ucrainei,  Boris Tarasiuk
+				 +
+			  Anexa       Punctele de trecere peste frontiera de stat româno-ucraineană deschise traficului internaţional:
+
+				  1.  Halmeu-Diacove  -  transport auto de pasageri şi de mărfuri şi feroviar de pasageri şi de mărfuri
+
+				  2.  Siret-Porubne  -  transport auto de pasageri şi de mărfuri
+
+				  3.  Valea Vişeului-Dilove  -  transport feroviar de pasageri şi de mărfuri
+
+				  4.  Câmpulung la Tisa-Teresva  -  transport feroviar de pasageri şi de mărfuri
+
+				  5.  Vicşani-Vadul Siret  -  transport feroviar de pasageri şi de mărfuri
+
+				  6.  Sighetu Marmaţiei-Solotvino  -  pietoni, transport auto de pasageri şi transport auto de mărfuri cu greutate de până la 3,5 tone      NOTĂ:  Trecerea prin punctul frontierei de stat Sighetu Marmaţiei-Solotvino se va realiza după terminarea lucrărilor de construcţie şi amenajare şi darea lui în folosinţă.  --------
