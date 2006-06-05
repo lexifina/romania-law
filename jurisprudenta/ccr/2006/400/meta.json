@@ -1,0 +1,185 @@
+{
+ "key": "dcc-400-2006",
+ "label": "Decizia CCR nr. 400/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "400",
+ "date": "2006-05-09",
+ "year": "2006",
+ "heading": "DECIZIE nr. 400 din 9 mai 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) lit. c) din Ordonanţa Guvernului nr. 17/2002 privind stabilirea perioadelor de conducere şi a perioadelor de odihnă ale conducătorilor vehiculelor care efectuează transporturi rutiere şi organizarea timpului de muncă al lucrătorilor mobili în transportul rutier de mărfuri şi persoane",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "485",
+  "bis": false,
+  "date": "2006-06-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "50/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2002",
+    "number": "17",
+    "year": "2002",
+    "path": "og/2002/17"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) lit. c) din Ordonanţa Guvernului nr. 17/2002 privind stabilirea perioadelor de conducere şi a perioadelor de odihnă ale conducătorilor vehiculelor care efectuează transporturi rutiere şi organizarea timpului de muncă al lucrătorilor mobili în transportul rutier de mărfuri şi persoane, excepţie ridicată de Societatea Comercială \"Antares Transport\" - S.A. din Râmnicu Vâlcea în Dosarul nr. 50/2006 al Judecătoriei Chişineu Criş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2002",
+    "number": "17",
+    "year": "2002",
+    "path": "og/2002/17"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 335/2005",
+    "number": "335",
+    "year": "2005",
+    "path": "lege/2005/335"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/72363",
+  "text_sha256": "934baabf498bc7bdb21055f37ee5da8f316c87c34a2bf8a8b6c52be277a09216",
+  "catalogue_sha256": "934baabf498bc7bdb21055f37ee5da8f316c87c34a2bf8a8b6c52be277a09216",
+  "fetched": "2026-11-03T00:09:37Z",
+  "chars": 10457,
+  "portal_id": "72363",
+  "tip": "DECIZIE"
+ }
+}
