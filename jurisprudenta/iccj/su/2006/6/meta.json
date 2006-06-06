@@ -1,0 +1,113 @@
+{
+ "key": "iccj-su-6-2006",
+ "label": "Decizia ÎCCJ nr. VI/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "6",
+ "number_printed": "VI",
+ "date": "2006-02-20",
+ "year": "2006",
+ "heading": "DECIZIE nr. VI din 20 februarie 2006",
+ "subtitle": "privind aplicarea dispoziţiilor art. 52 alin. 5 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "488",
+  "bis": false,
+  "date": "2006-06-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 52 alin. 5 din Codul de procedură penală, stabilesc:",
+  "Neindicarea concretă, în cuprinsul cererii de recuzare care priveşte întreaga instanţă, a cazului de incompatibilitate în care se află fiecare judecător atrage respingerea cererii ca nefondată.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-06-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/72379",
+  "text_sha256": "5edacb5178a078ef44cdd1430963486b8b090519bb4b659aaafe9758cc228b1b",
+  "catalogue_sha256": "5edacb5178a078ef44cdd1430963486b8b090519bb4b659aaafe9758cc228b1b",
+  "fetched": "2026-11-03T00:09:38Z",
+  "chars": 5988,
+  "portal_id": "72379",
+  "tip": "DECIZIE"
+ }
+}
