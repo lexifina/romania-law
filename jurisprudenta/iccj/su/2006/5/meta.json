@@ -1,0 +1,138 @@
+{
+ "key": "iccj-su-5-2006",
+ "label": "Decizia ÎCCJ nr. V/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "5",
+ "number_printed": "V",
+ "date": "2006-02-20",
+ "year": "2006",
+ "heading": "DECIZIE nr. V din 20 februarie 2006",
+ "subtitle": "cu privire la aplicarea dispozițiilor art. 176 alin. 1 lit. b) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIILE UNITE",
+ "mo": {
+  "number": "492",
+  "bis": false,
+  "date": "2006-06-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "32/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "176",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "Stabilesc că actele de violență cu intenția de a ucide, săvârșite în aceeași împrejurare asupra a două persoane, dintre care una a decedat, constituie atât infracțiunea de omor - simplu, calificat sau deosebit de grav - comisă asupra unei singure persoane, cât și tentativa de omor, după caz, simplu, calificat sau deosebit de grav, aflate în concurs.",
+  "Agravanta prevăzută în art. 176 alin. 1 lit. b) din Codul penal nu este aplicabilă în cazul faptelor menționate.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "176",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/72403",
+  "text_sha256": "905e4d9932d6bf73f7c61d94a321dc41770adb9dab58b2228d85e5238e023f84",
+  "catalogue_sha256": "905e4d9932d6bf73f7c61d94a321dc41770adb9dab58b2228d85e5238e023f84",
+  "fetched": "2026-11-03T00:09:43Z",
+  "chars": 7380,
+  "portal_id": "72403",
+  "tip": "DECIZIE"
+ }
+}
