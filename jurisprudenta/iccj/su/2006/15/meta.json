@@ -1,0 +1,140 @@
+{
+ "key": "iccj-su-15-2006",
+ "label": "Decizia ÎCCJ nr. XV/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "15",
+ "number_printed": "XV",
+ "date": "2006-05-22",
+ "year": "2006",
+ "heading": "DECIZIE nr. XV din 22 mai 2006",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 278^1 alin. 8 lit. c) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "509",
+  "bis": false,
+  "date": "2006-06-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "8"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 278^1 alin. 8 lit. c) din Codul de procedură penală, stabilesc: judecătorul care, prin încheiere, admite plângerea, desfiinţează rezoluţia sau ordonanţa atacată şi reţine cauza spre judecare, apreciind că probele existente la dosar sunt suficiente pentru judecarea cauzei, devine incompatibil să soluţioneze fondul acesteia.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "8",
+      "7"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-06-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/72523",
+  "text_sha256": "843a932ea61a82927d2312c2b6fd465cadc51a657639962bc2ac76ddb30f50e2",
+  "catalogue_sha256": "843a932ea61a82927d2312c2b6fd465cadc51a657639962bc2ac76ddb30f50e2",
+  "fetched": "2026-11-03T00:09:48Z",
+  "chars": 8453,
+  "portal_id": "72523",
+  "tip": "DECIZIE"
+ }
+}
