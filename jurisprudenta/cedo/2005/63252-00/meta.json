@@ -1,0 +1,274 @@
+{
+ "key": "cedo-63252-00-2005-12-01",
+ "label": "CEDO, Păduraru c. României, 2005-12-01",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-12-01",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 1 decembrie 2005",
+ "subtitle": "definitivă la 1 martie 2006, în Cauza Păduraru împotriva României*) (Cererea nr. 63.252/00)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "514",
+  "bis": false,
+  "date": "2006-06-14",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "63252/00"
+ ],
+ "case_name": "Păduraru",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA HOTĂRĂŞTE: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte că aplicabilitatea art. 41 din Convenţie nu se află în stare de judecată; prin urmare",
+  "a) o amână în întregime;",
+  "b) invită Guvernul şi reclamantul să îi prezinte, în scris, într-un termen de 6 luni de la data la care hotărârea a rămas definitivă, conform art. 44 paragraful 2 din Convenţie, observaţiile lor asupra prezentei chestiuni şi, în special, să îi aducă la cunoştinţă orice acord la care vor ajunge;",
+  "c) amână procedura ulterioară şi deleagă preşedintelui camerei sarcina de a stabili o dată în caz de nevoie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 20/1996",
+    "number": "20",
+    "year": "1996",
+    "path": "hg/1996/20"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 11/1997",
+    "number": "11",
+    "year": "1997",
+    "path": "hg/1997/11"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1899",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1898",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 498/2003",
+    "number": "498",
+    "year": "2003",
+    "path": "hg/2003/498"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/72598",
+  "text_sha256": "a7096d695d34a07309e4c56b45cdaf9255008689090030734293a930b12a2ff2",
+  "catalogue_sha256": "a7096d695d34a07309e4c56b45cdaf9255008689090030734293a930b12a2ff2",
+  "fetched": "2026-11-03T00:09:51Z",
+  "chars": 84787,
+  "portal_id": "72598",
+  "tip": "HOTĂRÂRE"
+ }
+}
