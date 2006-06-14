@@ -1,0 +1,33 @@
+# Anexa 3 ──────── la instrucțiuni ────────────────
+Datele de identificare a producătorului validat
+Nr. de înregistrare............/..............
+NOTĂ DE ACCEPTARE
+I. Prin prezenta se confirmă înscrierea în programul instituit prin
+Ordonanța de urgență a Guvernului nr. 38/2006 privind reluarea pentru anul 2006 a Programului de stimulare a înnoirii Parcului național auto, a: doamnei/domnului...................................................... (numele și prenumele)
+Adresa...................................................................
+În calitate de proprietar/moștenitor*1) al autoturismului:
+Marca*2):.................................................
+Tipul*2):.................................................
+Numărul de identificare (seria caroseriei/șasiului)*2):..................
+Seria motorului (după caz)*2),*3):.........................
+Anul de fabricație*2):.....................................
+Numărul de înmatriculare*2):............................... _______
+*1) Se anulează mențiunea inutilă.
+*2) Se menționează aceste date conform certificatului de înmatriculare.
+*3) Se completează dacă seria motorului este menționată în certificatul de înmatriculare.
+II. Prezenta notă de acceptare garantează accesul doamnei/domnului....../......... (numele și prenumele) la facilitățile oferite prin programul instituit prin Ordonanța de urgență a Guvernului nr. 38/2006 privind reluarea pentru anul 2006 a Programului de stimulare a înnoirii Parcului național auto de achiziționare a unui autoturism nou:
+Marca:............
+Tipul:..........., comercializat prin Societatea Comercială................, cu condiția predării spre casare a autoturismului precizat la pct. I, având o vechime mai mare sau egală cu 12 ani de la data fabricației, care conține cumulativ următoarele componente esențiale: motorul, transmisia, trenul de rulare, caroseria, șasiul, precum și echipamentele electronice de gestionare a funcțiilor vehiculului și dispozitivul catalizator, dacă acestea au fost prevăzute din fabricație, și a radierii acestuia.
+În baza prezentării următoarelor documente într-un interval de 30 de zile de la data eliberării prezentei note de acceptare [dar fără a se depăși data de 5 septembrie 2006]:
+a) actul de identitate al persoanei beneficiare, în copie;
+b) certificatul de înmatriculare a autoturismului uzat, în copie legalizată;
+c) certificatul de distrugere a autoturismului uzat, în copie legalizată;
+d) certificatul de radiere a autoturismului uzat, în original;
+e) certificatul de moștenitor, în copie legalizată, pentru cazul în care persoana fizică beneficiară este moștenitoarea proprietarului (inclusiv, dacă este cazul, certificatele de căsătorie sau documentele de schimbare a numelui, în copii legalizate). Atunci când certificatul de moștenitor atestă că sunt mai mulți moștenitori, este necesară și o declarație notarială a celorlalți moștenitori prin care se acceptă ca persoana beneficiară, în calitate de moștenitor, să poată beneficia de Program, în original;
+f) prezenta notă de acceptare, în original.
+Subsemnatul............, în calitate de proprietar/moștenitor al autoturismului uzat descris mai sus, cunoscând prevederile art. 7 din
+Ordonanța de urgență a Guvernului nr. 38/2006 privind reluarea pentru anul 2006 a Programului de stimulare a înnoirii Parcului național auto, conform căreia nu pot beneficia de suma de 3.000 lei (RON) decât o singură dată pentru achiziționarea unui singur autoturism nou, declar pe propria răspundere că nu m-am înscris pe listele altui producător validat. __________
+În caz de redistribuire, valabilitatea notei de acceptare este 5 decembrie 2006.
+Semnăturile autorizate ale producătorului validat............................
+L.S.
+Beneficiar,..........................
