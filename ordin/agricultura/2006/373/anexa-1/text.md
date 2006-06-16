@@ -1,0 +1,533 @@
+# Anexa
+LISTA CENTRELOR DE INTERVENTIE PENTRU CEREALE
+JUDETUL/CENTRUL DE INTERVENTIE
+GRAU COMUN
+GRAU DUR
+ORZ
+PORUMB
+SORG
+1. ALBA
+BLAJ
+-
++
+-
+SEBES
+-
++
+-
+ALBA IULIA
+-
+-
+-
+2. ARAD
+ARAD
++
++
+PECICA
+-
++
+CHISINAU-CRIS
+-
++
+-
+PANCOTA
+-
++
+-
+3. ARGES
+MIROSI
+-
++
+-
+BASCOV
+-
++
+-
+TOPOLOVENI
+-
+-
+-
+4. BACAU
+TRAIAN
+-
++
+-
+SASCUT
+-
++
+-
+PARINCEA
+-
+-
+-
+5. BIHOR
+ORADEA
+-
++
+-
+SALONTA
+-
++
+-
+MARGHITA
+-
++
+-
+SĂCUIENI
+-
++
+-
+6. BISTRITA NASAUD
+LECHINTA
+-
+-
+-
+7. BOTOSANI
+SAVENI
+-
++
+-
+BOTOSANI
+-
++
+-
+DOROHOI
+-
++
+-
+TRUSESTI
+-
++
+-
+8. BRAILA
+FAUREI
++
++
+INSURATEI
++
++
+BRAILA
+-
++
+-
+MOVILA MIRESEI
+-
++
+-
+9. BRASOV
+CODLEA
+-
+-
+-
+RUPEA
+-
+-
+-
+10. BUZAU
+POGOANELE
+-
++
+BUZAU
+-
++
+-
+RAMNICU SARAT
+-
++
+-
+MIHAILESTI
+-
++
+-
+11. CARAS-SEVERIN
+CARANSEBES
+-
+-
+-
+GRADINARI
+-
+-
+-
+12. CALARASI
+CALARASI
++
++
+FUNDULEA
++
++
+LEHLIU
+-
++
+-
+VLAD TEPES
+-
++
+-
+13. CLUJ
+GHERLA
+-
+-
+-
+TURDA
+-
+-
+-
+14. CONSTANTA
+MEDGIDIA
++
++
+COBADIN
+-
++
+-
+N. BALCESCU
+-
++
+NEGRU VODA
++
++
+CASIMCEA
+-
++
+-
+15. COVASNA
+COVASNA
+-
+-
+-
+TG. SECUIESC
+-
++
+-
+OZUN
+-
+-
+-
+16. DAMBOVITA
+TITU
+-
++
+-
+GAIESTI
+-
++
+-
+RACARI
+-
++
+-
+TARGOVISTE
+-
++
+-
+17. DOLJ
+BAILESTI
++
++
+LEU
++
++
+DOBRESTI
+-
++
+-
+MOTATEI
+-
++
+-
+FILIASI
+-
++
+PORTARESTI
++
++
+18. GALATI
+TECUCI
+-
+-
+-
+INDEPENDENTA
+-
++
+-
+GALATI
+-
++
+-
+BERESTI
+-
+-
+-
+MATCA
+-
++
+-
+19. GIURGIU
+GIURGIU
+-
++
+-
+MIHAILESTI
++
++
+BANEASA
+-
++
+IZVOARELE
+-
++
+-
+20. GORJ
+TG. CARBUNESTI
+-
+-
+-
+21. HARGHITA
+SANSIMION
+-
+-
+-
+22. HUNEDOARA
+HATEG
+-
+-
+-
+23. IALOMITA
+TANDAREI
++
++
+FETESTI
++
++
+SLOBOZIA
+-
++
+-
+URZICENI
+-
++
+FIERBINTI
+-
++
+-
+24. IASI
+TG. FRUMOS
+-
++
+-
+PASCANI
+-
++
+-
+IASI
+-
++
+-
+25. ILFOV
+BALOTESTI
+-
++
+-
+DRAGOMIRESTI VALE
+-
++
+-
+26. MARAMURES
+ULMENI
+-
+-
+-
+27. MEHEDINTI
+PRUNISOR
+-
++
+-
+VANJU MARE
++
+-
+28. MURES
+LUDUS
+-
+-
+-
+TG. MURES
+-
+-
+-
+29. NEAMT
+ROMAN
+-
+-
+-
+ROZNOV
+-
+-
+-
+30. OLT
+DRAGANESTI OLT
++
++
+CARACAL
++
++
+PIATRA OLT
+-
++
+-
+SLATINA
+-
++
+-
+CORABIA
++
++
+31. PRAHOVA
+MIZIL
+-
+-
+-
+PLOIESTI
+-
+-
+-
+GHERGHITA
+-
++
+-
+32. SATU MARE
+CAREI
+-
++
+SATU MARE
+-
++
+-
+TASNAD
+-
++
+-
+SANISLAU
+-
++
+-
+33. SALAJ
+JIBOU
+-
+-
+-
+34. SIBIU
+SIBIU
+-
+-
+-
+AGNITA
+-
+-
+-
+MEDIAS
+-
+-
+-
+35. SUCEAVA
+FALTICENI
+-
+-
+-
+SUCEAVA
+-
+-
+-
+36. TELEORMAN
+VIDELE
+-
++
+-
+DRAGANESTI VLASCA
++
++
+ALEXANDRIA
++
++
+ROSIORII DE VEDE
+-
++
+-
+DOBROTESTI
+-
++
+-
+TURNU MAGURELE
+-
++
+37. TIMIS
+TIMISOARA
+-
++
+-
+LUGOJ
+-
++
+-
+DETA
++
++
+SANICOLAU MARE
++
++
+TOPOLOVATU MARE
+-
++
+-
+ORTISOARA
+-
++
+-
+38. TULCEA
+TULCEA
+-
++
+-
+BABADAG
+-
++
+CATALOI
+-
++
+-
+BAIA
++
++
+39. VASLUI
+BARLAD
+-
+-
+-
+VASLUI
+-
+-
+-
+HUSI
+-
+-
+-
+40. VALCEA
+DRAGASANI
+-
+-
+-
+41. VRANCEA
+FOCSANI
+-
+-
+-
+GUGESTI
+-
+-
+-
+PADURENI
+-
+-
+-
+_________
+1. Semnul + semnifica centrul de interventie pentru cereala în cauza
+2. Semnul - precizeaza ca locul indicat nu este centru de interventie pentru cereala în cauza __________
