@@ -1,0 +1,2 @@
+# Anexa 4
+1. Denumire: Cerere de eliberare a unui certificat de atestare privind obligațiile la Fondul pentru mediu 2. Format: A4 3. Caracteristici de tipărire: se tipareste pe o singura fața 4. Se utilizează: pentru eliberarea unui certificat de atestare a obligațiilor la Fondul pentru mediu 5. Se întocmește: de solicitant, în doua exemplare 6. Circula: un exemplar la contribuabil și un exemplar la Administrația Fondului pentru Mediu 7. Se arhiveaza: la dosarul fiscal al contribuabilului.

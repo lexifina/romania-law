@@ -1,0 +1,2 @@
+# Anexa 2
+1. Denumire: Certificat de atestare privind obligațiile la Fondul pentru mediu 2. Format: A4 3. Caracteristici de tipărire: se tipareste pe o singura fața 4. Se utilizează: la atestarea obligațiilor de plată la bugetul Fondului pentru mediu ale persoanelor juridice 5. Se întocmește: de Administrația Fondului pentru Mediu, în doua exemplare 6. Circula: originalul la contribuabil; copia la Administrația Fondului pentru Mediu 7. Se arhiveaza: la dosarul fiscal al contribuabilului.
