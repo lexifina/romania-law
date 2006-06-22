@@ -1,0 +1,114 @@
+{
+ "key": "dcc-455-2006",
+ "label": "Decizia CCR nr. 455/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "455",
+ "date": "2006-05-30",
+ "year": "2006",
+ "heading": "DECIZIE nr. 455 din 30 mai 2006",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 82 alin. (2) din Legea nr. 303/2004 privind statutul judecatorilor şi procurorilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2006-06-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.245/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 82 alin. (2) din Legea nr. 303/2004 privind statutul judecatorilor şi procurorilor, excepţie ridicata de Aurelia Motoarca în Dosarul nr. 8.245/2005 al Tribunalului Cluj - Sectia litigii de muncă, asigurări sociale şi contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/72825",
+  "text_sha256": "89693f4373f665211141ff0938d9ca302152dbca91419e069fbef9cf37e207fc",
+  "catalogue_sha256": "89693f4373f665211141ff0938d9ca302152dbca91419e069fbef9cf37e207fc",
+  "fetched": "2026-11-03T00:10:04Z",
+  "chars": 9264,
+  "portal_id": "72825",
+  "tip": "DECIZIE"
+ }
+}
