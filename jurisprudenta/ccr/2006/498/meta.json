@@ -1,0 +1,255 @@
+{
+ "key": "dcc-498-2006",
+ "label": "Decizia CCR nr. 498/2006",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "498",
+ "date": "2006-06-08",
+ "year": "2006",
+ "heading": "DECIZIE nr. 498 din 8 iunie 2006",
+ "subtitle": "cu privire la constituţionalitatea Legii privind respingerea Ordonanţei de urgenţă a Guvernului nr. 99/2005 pentru modificarea şi completarea Legii nr. 3/2000 privind organizarea şi desfăşurarea referendumului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "554",
+  "bis": false,
+  "date": "2006-06-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.181A/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind respingerea Ordonanţei de urgenţă a Guvernului nr. 99/2005",
+    "number": "99",
+    "year": "2005",
+    "path": "lege/2005/99"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constată că Legea privind respingerea Ordonanţei de urgenţă a Guvernului nr. 99/2005 pentru modificarea şi completarea Legii nr. 3/2000 privind organizarea şi desfăşurarea referendumului este constituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind respingerea Ordonanţei de urgenţă a Guvernului nr. 99/2005",
+    "number": "99",
+    "year": "2005",
+    "path": "lege/2005/99"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "B.h"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 99/2005",
+    "number": "99",
+    "year": "2005",
+    "path": "oug/2005/99"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2002",
+    "number": "3",
+    "year": "2002",
+    "path": "lege/2002/3"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2003",
+    "number": "2",
+    "year": "2003",
+    "path": "lege/2003/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2004",
+    "number": "24",
+    "year": "2004",
+    "path": "lege/2004/24"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73155",
+  "text_sha256": "7c147deb0364f6f8909d4940b4f65ff93878aa52f606b74a8992c6b5defc8f42",
+  "catalogue_sha256": "7c147deb0364f6f8909d4940b4f65ff93878aa52f606b74a8992c6b5defc8f42",
+  "fetched": "2026-11-03T00:10:12Z",
+  "chars": 20947,
+  "portal_id": "73155",
+  "tip": "DECIZIE"
+ }
+}
