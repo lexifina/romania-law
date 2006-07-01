@@ -1,0 +1,2 @@
+# Anexa 4
+CERERE pentru retragerea de numerar Tipul operațiunii Referință mesaj Codul participantului care transmite cererea de retragere Sediul Băncii Naționale a României de la care se va efectua retragerea Codul participantului care dispune transmiterea cererii de retragere Codul participantului al cărui cont va fi debitat pentru retragere Codul transportatorului Data retragerii Valoarea totală a retragerii Valuta la zi Codul unității participantului care ridică numerarul Valoarea totală a retragerii Valuta la zi
