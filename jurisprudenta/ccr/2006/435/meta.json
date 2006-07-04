@@ -1,0 +1,169 @@
+{
+ "key": "dcc-435-2006",
+ "label": "Decizia CCR nr. 435/2006",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "435",
+ "date": "2006-05-26",
+ "year": "2006",
+ "heading": "DECIZIE nr. 435 din 26 mai 2006",
+ "subtitle": "asupra cererii formulate de preşedintele Consiliului Superior al Magistraturii de soluţionare a conflictului juridic de natură constituţională dintre autoritatea judecătorească, pe de o parte, şi Preşedintele României şi primul-ministru, pe de altă parte",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "576",
+  "bis": false,
+  "date": "2006-07-04",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "544E/2006"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că declaraţiile Preşedintelui României, domnul Traian Băsescu, şi ale primului-ministru, domnul Călin Popescu-Tăriceanu, nu au dat naştere unui conflict juridic de natură constituţională între autorităţile publice - autoritatea judecătorească, pe de o parte, şi Preşedintele României şi primul-ministru, pe de altă parte - în înţelesul prevederilor art. 146 lit. e) din Constituţie.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, primului-ministru şi Consiliului Superior al Magistraturii şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-07-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73150",
+  "text_sha256": "4e45794ef7aa5300889fac91679c9ae641f2926871ea9427e1d195dfc83f19f6",
+  "catalogue_sha256": "4e45794ef7aa5300889fac91679c9ae641f2926871ea9427e1d195dfc83f19f6",
+  "fetched": "2026-11-03T00:10:26Z",
+  "chars": 35787,
+  "portal_id": "73150",
+  "tip": "DECIZIE"
+ }
+}
