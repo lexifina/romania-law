@@ -1,0 +1,26 @@
+# Anexa 11
+SCRISOARE -COMANDĂ*1) (model)
+Agentul economic.................................................
+Adresa/sediul....................................................
+Codul fiscal.....................................................
+Autorizația nr...................................................
+Cont.............................................................
+Banca............................................................
+Telefon/fax......................................................
+Agenția Națională pentru Resurse Minerale
+Având în vedere prevederile Legii minelor nr. 85/2003, cu modificările ulterioare, ale Hotărârii Guvernului nr. 1.208/2003 privind aprobarea
+Normelor pentru aplicarea Legii minelor nr. 85/2003, cu modificările ulterioare, și ale instrucțiunilor specifice emise de Agenția Națională pentru Resurse Minerale, vă transmitem anexat documentația tehnico- economică necesară în vederea obținerii...................*2) pentru perimetrul..................*3).
+Tariful perceput de Agenția Națională pentru Resurse Minerale pentru emiterea actului menționat va fi achitat..................*4) la data eliberării acestuia.
+Prezenta scrisoare ține loc de comandă fermă.
+Director general,
+Director economic,............................................... (semnătura și ștampila) (semnătura)
+Încadrarea documentației*5)
+Documentația se încadrează în gradul de complexitate........ și se tarifează cu suma de........ lei, conform anexei nr........... la
+Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 129/2006, publicat în Monitorul Oficial al României, Partea I, nr. 575 din 4 iulie 2006...................
+Director, (data).............. ____________
+*1) Se completează și se transmite Agenției Naționale pentru Resurse
+Minerale în cazul solicitării eliberării actelor prevăzute în anexa nr. 1.
+*2) Se completează cu una dintre denumirile actului solicitat, conform anexei nr. 1.
+*3) Se completează cu tipul perimetrului: prospecțiune/explorare/ exploatare, după caz, și cu denumirea acestuia.
+*4) Se menționează "în numerar" sau "transfer bancar", după caz. Actele vor fi eliberate numai după ce solicitantul prezintă factura emisă de Agenția Națională pentru Resurse Minerale care dovedește achitarea tarifului corespunzător.
+*5) Se completează de Agenția Națională pentru Resurse Minerale. __________

@@ -1,0 +1,67 @@
+# Anexa 9
+FUNDAMENTAREA tarifelor pentru actele eliberate de Agenția Națională pentru Resurse Minerale, prevăzute în anexa nr. 1 pct. A3 lit. a)
+a) Tarife practicate substanțelor prevăzute de Legea minelor nr. 85/2003, cu excepția apelor geotermale, bazelor care le însoțesc, apelor minerale naturale și terapeutice
+Nr. crt. Grad de complexitate Număr ore Cost oră (lei/oră) Tarif (lei) Tarif rotunjit (lei)
+Clasa I-a
+1 I-1 II-1 III-1 114 40,75 4.645,50 4.650,00
+2 I-1 II-1 III-2 127 40,75 5.175,25 5.175,00
+3 I-1 II-1 III-3 152 40,75 6.194,00 6.190,00
+4 I-1 II-2 III-1 127 40,75 5.175,25 5.175,00
+5 I-1 II-2 III-2 139 40,75 5.664,25 5.660,00
+6 I-1 II-2 III-3 165 40,75 6.723,75 6.720,00
+7 I-1 II-3 III-1 152 40,75 6.194,00 6.190,00
+8 I-1 II-3 III-2 165 40,75 6.723,75 6.720,00
+9 I-1 II-3 III-3 190 40,75 7.742,50 7.740,00
+Clasa a II-a
+10 I-2 II-1 III-1 127 40,75 5.175,25 5.175,00
+11 I-2 II-1 III-2 139 40,75 5.664,25 5.660,00
+12 I-2 II-1 III-3 165 40,75 6.723,75 6.720,00
+13 I-2 II-2 III-1 139 40,75 5.664,25 5.660,00
+14 I-2 II-2 III-2 152 40,75 6.194,00 6.190,00
+15 I-2 II-2 III-3 177 40,75 7.212,75 7.210,00
+16 I-2 II-3 III-1 165 40,75 6.723,75 6.720,00
+17 I-2 II-3 III-2 177 40,75 7.212,75 7.210,00
+18 I-2 II-3 III-3 203 40,75 8.272,25 8.270,00
+Clasa a III-a
+19 I-3 II-1 III-1 152 40,75 6.194,00 6.190,00
+20 I-3 II-1 III-2 165 40,75 6.723,75 6.720,00
+21 I-3 II-1 III-3 190 40,75 7.742,50 7.740,00
+22 I-3 II-2 III-1 165 40,75 6.723,75 6.720,00
+23 I-3 II-2 III-2 177 40,75 7.212,75 7.210,00
+24 I-3 II-2 III-3 203 40,75 8.272,25 8.270,00
+25 I-3 II-3 III-1 190 40,75 7.742,50 7.740,00
+26 I-3 II-3 III-2 203 40,75 8.272,25 8.270,00
+27 I-3 II-3 III-3 228 40,75 9.291,00 9.290,00
+b) Tarife practicate apelor geotermale, gazelor care le însoțesc, apelor minerale naturale și terapeutice.
+Nr. crt. Grad de complexitate Număr ore Cost oră (lei/oră) Tarif (lei) Tarif rotunjit (lei)
+Clasa I-a
+1 I-1 II-1 III-1 114 40,75 4.645,50 4.650,00
+2 I-1 II-1 III-2 127 40,75 5.175,25 5.175,00
+3 I-1 II-1 III-3 152 40,75 6.194,00 6.190,00
+4 I-1 II-2 III-1 127 40,75 5.175,25 5.175,00
+5 I-1 II-2 III-2 139 40,75 5.664,25 5.660,00
+6 I-1 II-2 III-3 165 40,75 6.723,75 6.720,00
+7 I-1 II-3 III-1 152 40,75 6.194,00 6.190,00
+8 I-1 II-3 III-2 165 40,75 6.723,75 6.720,00
+9 I-1 II-3 III-3 190 40,75 7.742,50 7.740,00
+Clasa a II-a
+10 I-2 II-1 III-1 127 40,75 5.175,25 5.175,00
+11 I-2 II-1 III-2 139 40,75 5.664,25 5.660,00
+12 I-2 II-1 III-3 165 40,75 6.723,75 6.720,00
+13 I-2 II-2 III-1 139 40,75 5.664,25 5.660,00
+14 I-2 II-2 III-2 152 40,75 6.194,00 6.190,00
+15 I-2 II-2 III-3 177 40,75 7.212,75 7.210,00
+16 I-2 II-3 III-1 165 40,75 6.723,75 6.720,00
+17 I-2 II-3 III-2 177 40,75 7.212,75 7.210,00
+18 I-2 II-3 III-3 203 40,75 8.272,25 8.270,00
+Clasa a III-a
+19 I-3 II-1 III-1 152 40,75 6.194,00 6.190,00
+20 I-3 II-1 III-2 165 40,75 6.723,75 6.720,00
+21 I-3 II-1 III-3 190 40,75 7.742,50 7.740,00
+22 I-3 II-2 III-1 165 40,75 6.723,75 6.720,00
+23 I-3 II-2 III-2 177 40,75 7.212,75 7.210,00
+24 I-3 II-2 III-3 203 40,75 8.272,25 8.270,00
+25 I-3 II-3 III-1 190 40,75 7.742,50 7.740,00
+26 I-3 II-3 III-2 203 40,75 8.272,25 8.270,00
+27 I-3 II-3 III-3 228 40,75 9.291,00 9.290,00 _________
+Dacă perioada de concesionare este cuprinsa între 10 ani și 15 ani tariful se majoreaza cu 25%. Dacă perioada de concesionare este cuprinsa între 15 ani și 20 ani tariful se majoreaza cu 50%.
