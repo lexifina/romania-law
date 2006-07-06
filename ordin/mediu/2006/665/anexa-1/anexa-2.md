@@ -1,0 +1,10 @@
+# Anexa 2
+------- la regulament -------------- PROCES-VERBAL pentru atestarea tehnico-profesională a...................................... din data de.............. Comisia de atestare în domeniul meteorologiei, numită prin Ordinul ministrului mediului și gospodăririi apelor nr............, având următoarea componență: 1........................................... președinte; 2........................................... vicepreședinte; 3........................................... membru; 4........................................... membru; 5........................................... membru; 6........................................... membru; 7........................................... secretar, a supus examinării dosarul tehnic al persoanei fizice/juridice înscrise pentru atestarea de competență/prelungirea valabilității atestării de competență în domeniul................ La solicitarea............, depusă la Administrația Națională de Meteorologie, examinarea din data de........ s-a desfășurat în......... și a constat în analizarea și evaluarea următoarelor documente:........................................................................................................................................ Persoana fizică/juridică solicitantă........................... a obținut următoarele rezultate: ─────────────────────────────────────────────────────────────────────────────── Nr.
+Numele și
+Propunere
+Rezultat
+Alte probe
+Rezultat
+Obs. crt. prenumele
+Dosar tehnic final solicitantului ─────────────────────────────────────────────────────────────────────────────── 0 1 2 3 4 5 6 ───────────────────────────────────────────────────────────────────────────────
+În urma rezultatelor obținute.................... se declară Atestat/Neatestat de către Comisia de atestare în domeniul meteorologiei, în conformitate cu prevederile Regulamentului privind organizarea și funcționarea Comisiei de atestare în domeniul meteorologiei, aprobat prin Ordinul ministrului mediului și gospodăririi apelor nr. 665/2006. Data........... Comisia de atestare în domeniul meteorologiei,...................................
