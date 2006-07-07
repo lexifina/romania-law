@@ -1,0 +1,235 @@
+{
+ "key": "dcc-497-2006",
+ "label": "Decizia CCR nr. 497/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "497",
+ "date": "2006-06-08",
+ "year": "2006",
+ "heading": "DECIZIE nr. 497 din 8 iunie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 14 lit. c) şi art. 26 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase, aliajelor acestora şi pietrelor preţioase în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "589",
+  "bis": false,
+  "date": "2006-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "22.653/2/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 14 lit. c) şi art. 26 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase, aliajelor acestora şi pietrelor preţioase în România, excepţie ridicată de Silvia Adriana Juvara şi Mircea Casassovici în Dosarul nr. 22.653/2/2005 (nr. vechi 2.362/2005) al Curţii de Apel Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.344/2003",
+    "number": "1344",
+    "year": "2003",
+    "path": "hg/2003/1344"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73261",
+  "text_sha256": "bd4d5db9b897e824c59b13f7a6e38bd0b6c8953bb7ca9da7402fedcef5c28287",
+  "catalogue_sha256": "bd4d5db9b897e824c59b13f7a6e38bd0b6c8953bb7ca9da7402fedcef5c28287",
+  "fetched": "2026-11-03T00:10:32Z",
+  "chars": 19738,
+  "portal_id": "73261",
+  "tip": "DECIZIE"
+ }
+}
