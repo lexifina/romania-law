@@ -1,0 +1,165 @@
+{
+ "key": "dcc-503-2006",
+ "label": "Decizia CCR nr. 503/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "503",
+ "date": "2006-06-13",
+ "year": "2006",
+ "heading": "DECIZIE nr. 503 din 13 iunie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 720^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "599",
+  "bis": false,
+  "date": "2006-07-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.923/3/2006",
+  "6.837/3/2006",
+  "13.802/301/2005",
+  "14.394/301/2005",
+  "14.419/301/2005",
+  "673D/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 720^1 din Codul de procedură civilă, excepţie ridicată în faţa Tribunalului Bucureşti - Secţia comercială de Stelian Pepenescu în Dosarul nr. 6.923/3/2006, de Ion Barbu în Dosarul nr. 6.837/3/2006, de Gherghina Anagnostopulos în Dosarul nr. 13.802/301/2005, de Ion Tănase în Dosarul nr. 14.394/301/2005 şi de Camelia Gabăr în Dosarul nr. 14.419/301/2005.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-07-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73401",
+  "text_sha256": "0a12f5af1c5d888f6fa5940c215e84fdb3e81367d42e667194dcfa3e3192af6b",
+  "catalogue_sha256": "0a12f5af1c5d888f6fa5940c215e84fdb3e81367d42e667194dcfa3e3192af6b",
+  "fetched": "2026-11-03T00:10:37Z",
+  "chars": 10211,
+  "portal_id": "73401",
+  "tip": "DECIZIE"
+ }
+}
