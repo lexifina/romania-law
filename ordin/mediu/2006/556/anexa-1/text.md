@@ -1,0 +1,2 @@
+# Anexă
+Simbolul indică faptul că echipamentele electrice și electronice sunt introduse pe piață după 31 decembrie 2006. Simbolul trebuie să fie tipărit vizibil, lizibil și durabil. Simbolul constă dintr-un dreptunghi a cărui înălțime (h) este mai mare sau egală cu 0,3 a sau 1 mm, unde "a" reprezintă înălțimea pubelei. Dreptunghiul trebuie să însoțească imaginea pubelei și nu va conține alte informații sau imagini. Simbolul trebuie să respecte relațiile dimensionale din imagine. ------------
