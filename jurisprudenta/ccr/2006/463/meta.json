@@ -1,0 +1,153 @@
+{
+ "key": "dcc-463-2006",
+ "label": "Decizia CCR nr. 463/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "463",
+ "date": "2006-06-06",
+ "year": "2006",
+ "heading": "DECIZIE nr. 463 din 6 iunie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 13 alin. (2) din Legea pentru serviciul universal şi drepturile utilizatorilor cu privire la reţelele şi serviciile de comunicaţii electronice nr. 304/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "612",
+  "bis": false,
+  "date": "2006-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "38.086/2/2005"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 13 alin. (2) din Legea pentru serviciul universal şi drepturile utilizatorilor cu privire la reţelele şi serviciile de comunicaţii electronice nr. 304/2003, excepţie ridicată de Compania Naţională de Transport al Energiei Electrice \"Transelectrica\" - S.A. din Bucureşti în Dosarul nr. 38.086/2/2005 (număr în format vechi 4.681/2005) al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2003",
+    "number": "304",
+    "year": "2003",
+    "path": "lege/2003/304"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73487",
+  "text_sha256": "15a215eff1e4a0c869f0cc20132cbf6abcba855dd9d50e75ea23af5ba9b2c423",
+  "catalogue_sha256": "15a215eff1e4a0c869f0cc20132cbf6abcba855dd9d50e75ea23af5ba9b2c423",
+  "fetched": "2026-11-03T00:10:45Z",
+  "chars": 12021,
+  "portal_id": "73487",
+  "tip": "DECIZIE"
+ }
+}
