@@ -1,0 +1,49 @@
+# Anexa 2
+CHESTIONAR de raportare a datelor rezultând din aplicarea prevederilor Hotărârii Guvernului nr. 201/2002 pentru aprobarea Normelor tehnice privind calitatea apelor pentru moluste, care transpune Directiva Consiliului 79/923/CEE
+PUNCTUL 1
+Rezumat național
+1. Denumirea statului membru......................
+2. Anul de raportare......................
+3. (a) Nr. total de desemnari.......................
+4. Nr. de desemnari conforme*1).......................
+5. (a) A fost transpusa directiva în legislația.................... naționala a statului membru?
+Da*2)
+Nu*2) (b) Dacă răspunsul este da, enumerati actele legislative relevante.....................................................................
+6. (a) Statul membru a stabilit valori limita?
+Da*2)
+Nu*2) (b) Dacă răspunsul este da, furnizati informații detaliate ────────────────────┬────┬────┬────┬────┬────┬───┬────┬────┬───┬────┬────┬─────
+Parametri │ 1 │ 2 │ 3 │ 4 │ 5 │ 6 │ 7 │ 8 │ 9 │ 10 │ 11 │ 12 ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Valoarea I │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Valoarea G │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Parametri │ │ │ │ │ │ │ │ │ │ │ │ suplimentari │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Valoarea │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Valoarea G │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┴────┴────┴────┴────┴────┴───┴────┴────┴───┴────┴────┴─────
+---------
+*1) Aceste informații pot fi furnizate sub forma de harti.
+*2) Stergeti răspunsul care nu se aplică.
+PUNCTUL 2 Detalii geografice pentru orice desemnare
+1. Denumirea statului membru.......................
+2. Desemnarea nr........................
+3. Regiunea.......................
+4. Denumirea apei.......................
+5. Informații asupra locatiei geografice*1).......................
+6. Informații asupra ariei desemnării*1).......................
+7. Data desemnării.......................
+PUNCTUL 3
+Detaliile pentru conformitatea oricărei desemnari
+1. Denumirea statului membru.........................
+2. Desemnarea nr..........................
+3. Anul de monitorizare.........................
+4. Conformitatea*1)......................... ────────────────────┬────┬────┬────┬────┬────┬───┬────┬────┬───┬────┬────┬─────
+Parametri │ 1 │ 2 │ 3 │ 4 │ 5 │ 6 │ 7 │ 8 │ 9 │ 10 │ 11 │ 12 ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Parametri │ │ │ │ │ │ │ │ │ │ │ │ monitorizati │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Conformitatea │ │ │ │ │ │ │ │ │ │ │ │ cu I │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Respectarea G │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Parametrii de la│ │ │ │ │ │ │ │ │ │ │ │ care s-a derogat│ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Parametri │ │ │ │ │ │ │ │ │ │ │ │ suplimentari │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Parametri │ │ │ │ │ │ │ │ │ │ │ │ monitorizati │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Conformitatea │ │ │ │ │ │ │ │ │ │ │ │ cu I │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Respectarea G │ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┼────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼────┼─────
+Parametrii de la│ │ │ │ │ │ │ │ │ │ │ │ care s-a derogat│ │ │ │ │ │ │ │ │ │ │ │ ────────────────────┴────┴────┴────┴────┴────┴───┴────┴────┴───┴────┴────┴─────
+5. (a) Motivele neconformitatii......................... (b) Motivele derogarii......................... (c) Măsurile anticipate pentru programele......................... de ameliorare -----------
+*1) Aceste informații pot fi furnizate sub forma de harti.
