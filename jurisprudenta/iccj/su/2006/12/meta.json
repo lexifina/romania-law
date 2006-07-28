@@ -1,0 +1,193 @@
+{
+ "key": "iccj-su-12-2006",
+ "label": "Decizia ÎCCJ nr. XII/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "12",
+ "number_printed": "XII",
+ "date": "2006-03-20",
+ "year": "2006",
+ "heading": "DECIZIE nr. XII din 20 martie 2006",
+ "subtitle": "cu privire la dispoziţiile legale aplicabile, în materia reorganizării judiciare şi a falimentului, în cazul creanţelor preluate de Autoritatea pentru Valorificarea Activelor Statului",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "656",
+  "bis": false,
+  "date": "2006-07-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "27/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de Colegiul de conducere al Curţii de Apel Bucureşti şi stabilesc:",
+  "Dispoziţiile art. 83 alin. (2) din Legea nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului, republicată, sunt aplicabile şi în cazul creanţelor preluate de Autoritatea pentru Valorificarea Activelor Statului.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 51/1998",
+    "number": "51",
+    "year": "1998",
+    "path": "oug/1998/51"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 95/2003",
+    "number": "95",
+    "year": "2003",
+    "path": "oug/2003/95"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-07-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73904",
+  "text_sha256": "5648604eaecdae6c1af78210101b4cd1181728b50709738dd3e9698be1a00b91",
+  "catalogue_sha256": "5648604eaecdae6c1af78210101b4cd1181728b50709738dd3e9698be1a00b91",
+  "fetched": "2026-11-03T00:11:07Z",
+  "chars": 11344,
+  "portal_id": "73904",
+  "tip": "DECIZIE"
+ }
+}
