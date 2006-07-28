@@ -1,0 +1,185 @@
+{
+ "key": "iccj-su-11-2006",
+ "label": "Decizia ÎCCJ nr. XI/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "11",
+ "number_printed": "XI",
+ "date": "2006-03-20",
+ "year": "2006",
+ "heading": "DECIZIE nr. XI din 20 martie 2006",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 6 alin. (4) şi ale art. 9 alin. (2) din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată, în cazul cererii de învestire cu formulă executorie a ordonanţei de admitere a somaţiei de plată",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "656",
+  "bis": false,
+  "date": "2006-07-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 6 alin. (4) şi art. 9 alin. (2) din Ordonanţa Guvernului nr. 5/2001, stabileşte:",
+  "Cererea de învestire cu formulă executorie a ordonanţei de admitere, în tot sau în parte, a somaţiei de plată nu este admisibilă dacă aceasta nu a fost comunicată prin scrisoare recomandată cu confirmare de primire.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "92-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "376",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2006-07-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73903",
+  "text_sha256": "343fbea83104fef4a387c46f8575536d58af88a3121280406515a329793464da",
+  "catalogue_sha256": "343fbea83104fef4a387c46f8575536d58af88a3121280406515a329793464da",
+  "fetched": "2026-11-03T00:11:07Z",
+  "chars": 9575,
+  "portal_id": "73903",
+  "tip": "DECIZIE"
+ }
+}
