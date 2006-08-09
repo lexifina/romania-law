@@ -1,0 +1,175 @@
+{
+ "key": "cedo-22687-03-2005-12-01",
+ "label": "CEDO, Societatea Comercială \"Maşinexportimport Industrial Group\" - S.A. c. României, 2005-12-01",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-12-01",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 1 decembrie 2005",
+ "subtitle": "definitivă la 1 martie 2006, în Cauza Societatea Comercială \"Maşinexportimport Industrial Group\" - S.A. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "682",
+  "bis": false,
+  "date": "2006-08-09",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "22687/03"
+ ],
+ "case_name": "Societatea Comercială \"Maşinexportimport Industrial Group\" - S.A.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc o încălcare a art. 6 alin. 1 din Convenţie; 3. hotărăşte că a avut loc o încălcare a art. 1 din Protocolul nr. 1; 4. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantei, în termen de 3 luni începând din ziua în care hotărârea va deveni definitivă în conformitate cu art. 44 alin. 2 din Convenţie, 5.000 EUR (cinci mii de euro) pentru prejudiciul moral, plus orice sumă care poate fi datorată cu titlu de impozit;",
+  "b) că, începând de la expirarea respectivului termen şi până la plată, această sumă va fi majorată cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, aplicabilă în timpul acestei perioade, majorată cu 3 procente;",
+  "5. respinge cererea de satisfacţie echitabilă pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/74154",
+  "text_sha256": "d99b3f2142b49a64a0350d97ae6159a91878a98947bc121b392705201f112364",
+  "catalogue_sha256": "d99b3f2142b49a64a0350d97ae6159a91878a98947bc121b392705201f112364",
+  "fetched": "2026-11-03T00:11:26Z",
+  "chars": 30324,
+  "portal_id": "74154",
+  "tip": "HOTĂRÂRE"
+ }
+}
