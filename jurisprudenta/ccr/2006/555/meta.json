@@ -1,0 +1,307 @@
+{
+ "key": "dcc-555-2006",
+ "label": "Decizia CCR nr. 555/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "555",
+ "date": "2006-07-06",
+ "year": "2006",
+ "heading": "DECIZIE nr. 555 din 6 iulie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 581 şi art. 582 din Codul de procedură civilă, ale art. 61, art. 62, art. 133 alin. (1) şi (2) şi art. 231 alin. (3) din Legea nr. 31/1990 privind societăţile comerciale, precum şi ale art. 29 alin. (6) teza întâi din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "683",
+  "bis": false,
+  "date": "2006-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "552D/2006",
+  "546D/2006",
+  "7.977/3/2006",
+  "7.235/3/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "581",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "582",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "231",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 581 şi art. 582 din Codul de procedură civilă, ale art. 61, art. 62, art. 133 alin. (1) şi (2) şi art. 231 alin. (3) din Legea nr. 31/1990 privind societăţile comerciale, excepţie ridicată de Societatea Comercială \"Tofan Grup\" - S.A. în dosarele nr. 7.977/3/2006 şi nr. 7.235/3/2006 ale Tribunalului Bucureşti - Secţia a VI-a comercială. 2. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 29 alin. (6) teza întâi din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, excepţie ridicată de acelaşi autor în aceleaşi dosare.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "581",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "582",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "231",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/74121",
+  "text_sha256": "baf7aead8a42f0f211f3aefec23ee2a99a1d83c2202aa5b0b0f6f39a9df67038",
+  "catalogue_sha256": "baf7aead8a42f0f211f3aefec23ee2a99a1d83c2202aa5b0b0f6f39a9df67038",
+  "fetched": "2026-11-03T00:11:25Z",
+  "chars": 17617,
+  "portal_id": "74121",
+  "tip": "DECIZIE"
+ }
+}
