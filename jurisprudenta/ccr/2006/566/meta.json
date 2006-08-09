@@ -1,0 +1,136 @@
+{
+ "key": "dcc-566-2006",
+ "label": "Decizia CCR nr. 566/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "566",
+ "date": "2006-07-11",
+ "year": "2006",
+ "heading": "DECIZIE nr. 566 din 11 iulie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (5) şi ale art. 10 alin. (2) din Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989 nr. 341/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "682",
+  "bis": false,
+  "date": "2006-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.062D/2006"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (5) şi ale art. 10 alin. (2) din Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989 nr. 341/2004, excepţie ridicată de Gheorghe Victor Ion, Ilie Mardale, Sorin Cernăianu, Dumitru Zaharia, Dan Gheorghe, Nicolae Radu, Neculai Şerban, Virgil Miu, Gheorghe Ene, Ion Porumbelu, Doiniţa Bălăuţă, Paul Doru, Constantin Anastase Burciu, Aurel Botez, Aurel Zamfir, Vasile Gligor, Ion Bădaie, Ion Călugăroiu, Mihai Cojocaru, Adrian Ciurariu, Ştefan Constantin, Vasile Scriban, Puiu Neacşu, Constantin Badea, Nicolae Petre, Gligore Brânduşescu, Aurel Vasile, Viorică Fulga, Ioan Constantin Borha, Brancu Ghiorcea, Toma Kozma, Mihai Dumitru, Constantin Ivanciu, Vasile Mărgărit, Florea Cernescu, Constantin Paul Iorga, Marin Stănilă, Vasilică Niţă, Ion Ghiţă, Eugenia Petroşeneanu, Eugen Peride, Florin Antonescu, Alexandru Niculau, Ştefan Moholiţchi, Florian Sideriaş, Aurel Stoicescu, Marian Dănuţ Ioniţă, Mihaela Violeta Niţă, Andrei Constantin, Ion Toma, Tănase Năstase, Georgeta Cojocaru, Alexandru Diomid Voica, Iosif Sutru, Dumitru Mihalache, Mihai Negru, Pavel Dumitru, Victor Cosacenco, Constantin Mihai, Niculae Gheorghe, Florea Oancea, Aurică Manea, Paul Popa, Gheorghe Grigore, Mihai Sianu, Dorin Popescu, Ştefan Senteş, Romică Bejinariu, Vasile Zamfir, Ioana Necula, Ion Elisei, Constantin Dănilă, Nicolae Tomegea, Ştefan Matei, Ion Dinu, Mihail Ruşescu, Pavel Dan, Marin Dinu, Vasile Arabaciu, George Costin, Constantin Gherase, Adrian Simion, Ion Baban, Dumitru Nan, Gilbert Enache, Gheorghe Anghel, Dumitru Căruceriu, Ana Blănaru, Lajos Sztoska, Dumitru Secu, Mircea Bolea, Sava Petre, Vasile Florea, Vasile Nedelcu şi Gheorghe Lepădat în dosarele nr. 37.004/2, 3.850, 37.250/2, 37.252/2, 37.255/2 37.264/2, 37.181/2, 37.180/2, 37.272/2, 37.189/2, 37.231/2, 37.239/2, 37.285/2, 39.558/2, 36.816/2, 36.756/2, 36.801/2, 36.788/2, 36.772/2, 36.776/2, 36.700/2, 36.705/2, 36.704/2, 36.820/2, 36.823/2, 36.814/2, 36.892/2, 36.980/2, 36.971/2, 36.988/2, 39.562/2, 39.561/2, 37.014/2, 39.567/2, 37.039/2, 37.017/2, 37.042/2, 37.040/2, 37.075/2, 37.057/2, 37.087/2, 37.076/2, 36.785/2, 36.780/2, 36.803/2, 36.752/2, 36.717/2, 36.740/2, 36.743/2, 37.243/2, 37.248/2, 36.714/2, 36.624/2, 3.853, 36.699/2, 36.694/2, 36.703/2, 36.913/2, 36.909/2, 36.967/2, 36.954/2, 36.969/2, 37.101/2, 37.099/2, 37.118/2, 37.117/2, 37.128/2, 37.126/2, 37.199/2, 37.132/2, 37.213/2, 37.209/2, 37.217/2, 37.228/2, 37.142/2, 37.190/2, 37.168/2, 37.145/2, 36.718/2, 37.175/2, 36.727/2, 36.719/2, 36.747/2, 36.741/2, 36.578/2, 36.755/2, 36.852/2, 3.834, 36.876/2, 36.862/2, 36.833/2, 36.889/2, 36.840/2, 36.846/2 şi nr. 36.901/2, toate din anul 2005, ale Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 566/1996",
+    "number": "566",
+    "year": "1996",
+    "path": "hg/1996/566"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/74144",
+  "text_sha256": "2e5885bdefe32bc94cd95fc2d426eadd196abe0f5ef41f2532fa2318e8ed39e2",
+  "catalogue_sha256": "2e5885bdefe32bc94cd95fc2d426eadd196abe0f5ef41f2532fa2318e8ed39e2",
+  "fetched": "2026-11-03T00:11:25Z",
+  "chars": 18590,
+  "portal_id": "74144",
+  "tip": "DECIZIE"
+ }
+}
