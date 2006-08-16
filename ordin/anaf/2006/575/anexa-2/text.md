@@ -1,0 +1,3 @@
+# Anexa 2
+AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ LISTA contribuabililor declarați inactivi începând cu data de............
+Nr. crt. Codul unic de înregistrare Denumirea contribuabilului Domiciliul fiscal Organul fiscal care a întocmit dosarul de declarare ca inactiv
