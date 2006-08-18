@@ -1,0 +1,198 @@
+{
+ "key": "cedo-33176-1996-2002-11-26",
+ "label": "CEDO, Moşteanu şi alţii c. României, 2002-11-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2002-11-26",
+ "year": "2002",
+ "heading": "HOTĂRÂRE din 26 noiembrie 2002",
+ "subtitle": "definitivă la 26 februarie 2003, în Cauza Moşteanu şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECTIA A DOUA",
+ "mo": {
+  "number": "710",
+  "bis": false,
+  "date": "2006-08-18",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "no-violation"
+ ],
+ "applications": [
+  "33176/1996",
+  "29053/1995",
+  "7984/1977",
+  "57381/2000"
+ ],
+ "case_name": "Moşteanu şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA ÎN UNANIMITATE: 1. hotărăşte că a fost încălcat art. 6 alin. 1 din Convenţie sub aspectul dreptului de acces la justiţie; 2. hotărăşte că nu a fost încălcat art. 6 alin. 1 din Convenţie sub aspectul lipsei de independenţă şi de imparţialitate a instanţelor interne; 3. hotărăşte că nu a fost încălcat art. 1 din Protocolul nr. 1 la Convenţie; 4. hotărăşte că statul pârât trebuie să plătească reclamantelor, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, următoarele sume ce urmează a fi convertite în moneda naţională a statului pârât la nivelul ratei de schimb aplicabile la data plăţii: (i) 4.000 euro (patru mii euro) cu titlu de prejudiciu moral; (îi) 710 euro (şapte sute zece euro) cu titlu de cheltuieli; 5. hotărăşte că, începând de la data expirării termenului amintit până la momentul efectuării plăţii, sumele menţionate la pct. 4 vor fi majorate cu o dobândă simplă a cărei rată este egală cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, la care se vor adăuga trei puncte procentuale; 6. respinge celelalte capete de cerere de acordare a unei reparaţii echitabile."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 11 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/74387",
+  "text_sha256": "99e9571ea8ea66913b0dbb83f6188e09544ac5b838785a0c67dd207eac1e7214",
+  "catalogue_sha256": "99e9571ea8ea66913b0dbb83f6188e09544ac5b838785a0c67dd207eac1e7214",
+  "fetched": "2026-11-03T00:11:39Z",
+  "chars": 36079,
+  "portal_id": "74387",
+  "tip": "HOTĂRÂRE"
+ }
+}
