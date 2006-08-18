@@ -1,0 +1,2 @@
+# Anexa
+LISTA standardelor naționale armonizate pentru materialele forestiere de reproducere 1. STAS 1808/2004 "Semințe de arbori și arbuști pentru culturi forestiere. Reguli de eșantionare" 2. STAS 1908/2004 "Semințe de arbori și arbuști pentru culturi forestiere. Metode de analiză" 3. STAS 1347/2004 "Puieți forestieri cu talie mică, semimijlocie și mijlocie" 4. STAS 2104/2004 "Butași de arbori și arbuști" ----------
