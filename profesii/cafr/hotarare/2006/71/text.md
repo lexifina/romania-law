@@ -1,0 +1,3 @@
+Având în vedere prevederile art. 6 alin. (5) din Ordonanța de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar, republicată în Monitorul Oficial al României, Partea I, nr. 598 din 22 august 2003, cu modificările ulterioare, Consiliul Camerei Auditorilor Financiari din România, întrunit în ședința din 14 august 2006, hotărăște:
+Articolul UNIC
+Perioada de înscriere la examenul de aptitudini profesionale pentru atribuirea calității de auditor financiar, sesiunea septembrie-octombrie 2006, se prelungește de la data de 10 august 2006 până la data de 31 august 2006, ora 16,00. p. Președintele Camerei Auditorilor Financiari din România, Marius Burdușel București, 18 august 2006. Nr. 71. -------
