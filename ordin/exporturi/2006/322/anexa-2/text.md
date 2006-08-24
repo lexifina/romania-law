@@ -1,0 +1,14 @@
+# Anexa 2
+ANGAJAMENT Subsemnatul................., având funcția de................................., acționând în calitate de reprezentant legal (împuternicit) al societății................................, solicitant al autorizației pentru efectuarea de operațiuni de comerț exterior cu produse militare, pentru care am depus Cererea nr................. din.........................., mă oblig să asigur:
+a) respectarea dispozițiilor Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare, aprobată cu modificări și completări prin Legea nr. 595/2004;
+b) respectarea întocmai a cerințelor și recomandărilor Agenției Naționale de Control al Exporturilor (ANCEX) în legătură cu termenele, condițiile și restricțiile în derularea operațiunilor de comerț exterior cu produse militare, pentru care am obținut autorizația;
+c) protecția fizică a produselor militare care reclamă astfel de măsuri, potrivit prevederilor legale;
+d) protecția fizică a tuturor documentelor de lucru legate de sau cu referire directă la aceste operațiuni și să respect reglementările legale în vigoare privind evidența, păstrarea și manipularea acestor documente, inclusiv a celor care conțin informații secret de serviciu sau secret de stat;
+e) ținerea evidenței documentelor care cuprind informații suficiente pentru a identifica destinația, cantitatea, utilizarea finală și utilizatorul final al produselor militare, numele și adresa exportatorului și ale destinatarului;
+f) dovedirea bunei-credințe și promovarea dialogului și transparenței în relația cu ANCEX în toate etapele (autorizare, prelicențiere, licențiere, postlicențiere și postlivrare), punând la dispoziția acesteia toate informațiile relevante solicitate de aceasta cu privire la operațiunile controlate;
+g) informarea cu privire la noutățile apărute în sistemul național de control al exporturilor, importurilor și altor operațiuni cu produse militare și al embargourilor privind exporturile de arme, inclusiv prin accesarea site-urilor ANCEX și consultarea materialelor documentare elaborate de aceasta;
+h) participarea la activitățile organizate de ANCEX pentru informarea periodică asupra obligațiilor ce ne revin în aplicarea legilor în vigoare;
+i) neutilizarea autorizației în relațiile cu terții ca o garanție de bonitate și nici ca un mijloc de obținere a unor avantaje;
+j) negarantarea în relațiile cu terții, pe baza autorizației, că alte operațiuni de comerț exterior cu produse militare vor fi autorizate în viitor prin licență;
+k) notificarea imediată a ANCEX asupra oricărei schimbări în documentele sau faptele care fac obiectul autorizării.
+Nerespectarea prezentului angajament va fi sancționată conform prevederilor legale în vigoare. Data....................... Semnătura și ștampila.................... -----------

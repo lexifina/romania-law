@@ -1,0 +1,15 @@
+# Anexa 1
+Numărul și data Numărul și data înregistrării înregistrării la solicitant la Agenția Națională de Control al Exporturilor........................................................................... CERERE de eliberare a autorizației pentru efectuarea de operațiuni de comerț exterior cu produse militare Subsemnatul................, având funcția de.............., acționând în calitate de reprezentant legal (împuternicit) al societății............., cu sediul în............., str......... nr......, bl......, sc......, ap......, sectorul/județul............, telefon............, fax..............., e-mail........., website..........., înregistrată sub codul unic de înregistrare R nr.............. și având nr. de ordine în registrul comerțului J..............., solicit eliberarea unei autorizații pentru efectuarea următoarelor operațiuni de comerț exterior cu produse militare, cu termen de valabilitate.....................:...............(se menționează operațiunile și categoriile de produse strategice, conform actelor normative în vigoare).................................................................................................................................................................................. Anexez următoarele documente prevăzute în Normele metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare, aprobată cu modificări și completări prin Legea nr. 595/2004, aprobate prin Ordinul președintelui Agenției Naționale de Control al Exporturilor nr. 59/2005:
+a) împuternicire pentru semnarea cererii, dacă este cazul;
+b) angajament;
+c) curriculum vitae pentru persoana care semnează cererea de autorizare și angajamentul;
+d) avizul Ministerului Apărării - Oficiul de Control al Importurilor și Exporturilor de Produse Speciale, în copie;
+e) împuternicirile persoanelor de contact cu Agenția Națională de Control al Exporturilor, datele de identificare, curriculum vitae;
+f) certificatul de înregistrare la Oficiul Național al Registrului Comerțului, în copie;
+g) certificatul constatator eliberat de Oficiul Național al Registrului Comerțului;
+h) documentele de înființare și funcționare, precum și actele adiționale întocmite ulterior;
+i) certificatul fiscal, din care să rezulte situația la zi a plăților către bugetul de stat;
+j) raportul de gestiune și ultimul bilanț contabil, în copie;
+k) numerele conturilor bancare în lei și în valută;
+l) alte documente relevante necesare pentru evaluarea oportunității eliberării autorizației:
+........................................................................................................................................................................................... Declar că operațiunile menționate vor fi efectuate cu respectarea strictă a legilor în vigoare și a angajamentului anexat. Data.................... Funcția................................ Numele și prenumele.................... Semnătura.............................. Ștampila...............................
