@@ -1,0 +1,152 @@
+{
+ "key": "dcc-547-2006",
+ "label": "Decizia CCR nr. 547/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "547",
+ "date": "2006-07-06",
+ "year": "2006",
+ "heading": "DECIZIE nr. 547 din 6 iulie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 9 alin. 8 din Legea nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "725",
+  "bis": false,
+  "date": "2006-08-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.167/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 9 alin. 8 din Legea nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului, excepţie ridicată de Marioara Pătcaş şi Teodor Pătcaş în Dosarul nr. 4.167/2005 al Judecătoriei Oradea.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-08-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/74566",
+  "text_sha256": "1199237e5aec6954a2bc1035080d2ecd0a3c8c0e2254ce3d924c34cf1ec34d7f",
+  "catalogue_sha256": "1199237e5aec6954a2bc1035080d2ecd0a3c8c0e2254ce3d924c34cf1ec34d7f",
+  "fetched": "2026-11-03T00:11:53Z",
+  "chars": 6599,
+  "portal_id": "74566",
+  "tip": "DECIZIE"
+ }
+}
