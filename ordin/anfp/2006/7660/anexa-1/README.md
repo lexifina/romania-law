@@ -1,0 +1,7 @@
+# Anexa nr. 1: 1 INSTRUCȚIUNI pentru elaborarea Planului de ocupare a funcțiilor publice
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Archived copy of the official portal's page (Internet Archive, 20250407063042): https://web.archive.org/web/20250407063042id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/74751
+- sha256 of the text read from that archived page: b1929c1bd3d88764920824e541c885549a3546c8aa95197004c2811622a43450
+- Retrieved: 2026-11-06
