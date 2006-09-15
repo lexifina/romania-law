@@ -1,0 +1,193 @@
+{
+ "key": "cedo-4596-03-2006-02-16",
+ "label": "CEDO, Porţeanu c. României, 2006-02-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-02-16",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 16 februarie 2006",
+ "subtitle": "definitivă la 16 mai 2006, în Cauza Porţeanu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A II-A",
+ "mo": {
+  "number": "783",
+  "bis": false,
+  "date": "2006-09-15",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "4596/03"
+ ],
+ "case_name": "Porţeanu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE: 1. declară cererea admisibilă; 2. hotărăşte că a existat o încălcare a art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte",
+  "a) că statul pârât trebuie să restituie reclamantei apartamentul nr. 3, situat la primul etaj al imobilului în cauză, în termen de 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 paragraful 2 din Convenţie;",
+  "b) că, în lipsa unei asemenea restituiri, statul pârât trebuie să plătească reclamantei, în acelaşi termen de 3 luni, 60.000 EUR (şaizeci de mii de euro) cu titlu de prejudiciu material, plus orice sumă putând fi datorată cu titlu de impozit, convertită în lei la cursul aplicabil la data plăţii;",
+  "c) că, începând de la data expirării termenului menţionat până la momentul efectuării plăţii, această sumă va fi majorată, cu o dobândă simplă de întârziere egală cu dobânda minimă pentru împrumut practicată de Banca Centrală Europeană, valabilă în această perioadă, la aceasta adăugându-se o majorare cu 3 puncte procentuale;",
+  "4. respinge cererea de acordare a unei satisfacţii echitabile pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 139/1940",
+    "number": "139",
+    "year": "1940",
+    "path": "lege/1940/139"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1991",
+    "number": "58",
+    "year": "1991",
+    "path": "lege/1991/58"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/75135",
+  "text_sha256": "2a3c285342de7254953d82054a8b3cb1e4656719b8af2eeb1e320ecfbaa171e6",
+  "catalogue_sha256": "2a3c285342de7254953d82054a8b3cb1e4656719b8af2eeb1e320ecfbaa171e6",
+  "fetched": "2026-11-03T00:12:25Z",
+  "chars": 27105,
+  "portal_id": "75135",
+  "tip": "HOTĂRÂRE"
+ }
+}
