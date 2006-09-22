@@ -1,0 +1,4 @@
+# Anexa 5
+------- la norma sanitară veterinara ---------------------------- METODE de ucidere pentru controlul unor boli Metode permise: 1. orice metoda descrisă în anexa nr. 3 la norma sanitară veterinara, care să cauzeze o moarte sigura; 2. în plus, Autoritatea Naționala Sanitară Veterinara și pentru Siguranța Alimentelor poate permite folosirea altor metode pentru uciderea animalelor constiente, conform prevederilor art. 3 din norma sanitară veterinara, cu condiția ca, în special:
+a) dacă metodele folosite nu produc moartea imediata (de exemplu, impuscarea cu bolt captiv), să se ia măsuri adecvate pentru a ucide animalele cat mai curând posibil și, în orice caz, înainte ca acestea să își recapete cunoștința;
+b) sa nu se acționeze deloc asupra animalului până când nu s-a constatat ca este mort.
