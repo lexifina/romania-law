@@ -1,0 +1,6 @@
+# Anexa 3
+------ la reglementări --------------- MINISTERUL SĂNĂTĂȚII PUBLICE AGENȚIA NAȚIONALĂ A MEDICAMENTULUI Str. Av. Sănătescu nr. 48, sectorul 1 011478 București Tel.: 317.11.02; Fax: 316.34.97 CERTIFICAT care atestă calitatea de persoană calificată Se certifică prin prezentul că domnul/doamna........., profesia........, îndeplinește condițiile prevăzute de titlul XVII "Medicamentul" din Legea nr. 95/2006 privind reforma în domeniul sănătății, cu modificările ulterioare, pentru exercitarea funcției de persoană calificată în unitățile de fabricație/import a medicamentelor de uz uman.
+Data emiterii............
+Președinte,
+.....................
+Semnătura și ștampila
