@@ -1,0 +1,2 @@
+# Anexa
+DECIZIA Comisiei fiscale centrale nr. 5 din 26 iulie 2006 Solicitarea de rambursare a soldului negativ de taxă pe valoarea adăugată, formulată după data depunerii decontului de TVA, dar până la expirarea termenului legal de depunere a acestuia, produce efectele exprimării opțiunii de rambursare la momentul depunerii inițiale a decontului. Solicitarea se efectuează conform procedurii prevăzute pentru îndreptarea erorilor materiale din deconturile de TVA. -------
