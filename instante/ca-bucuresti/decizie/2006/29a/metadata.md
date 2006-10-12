@@ -1,0 +1,13 @@
+# Decizia Curții de Apel București nr. 29a/2006
+
+The record of this decision.
+
+- Court: Curtea de Apel București
+- Section: SECŢIA a IX-a CIVILA ŞI PENTRU CAUZE PRIVIND PROPRIETATEA INTELECTUALĂ
+- Kind: decizie
+- Number: 29a
+- Date: 2006-03-07
+- Published: Monitorul Oficial, Partea I, nr. 841 of 2006-10-12
+- Outcome: rules on a collective copyright-management methodology (arbitral decision appeal)
+- Service document: 75900
+- Source: http://legislatie.just.ro/Public/DetaliiDocument/75900
