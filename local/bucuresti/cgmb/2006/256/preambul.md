@@ -1,0 +1,6 @@
+Avand in vedere Expunerea de motive a consilierilor generali;
+Vazand Raportul ARBAC, prin care Consiliul General al Municipiului Bucuresti este informat despre necesitatea compensarii clientilor S.C. APA NOVA BUCURESTI S.A., utilizatori ai serviciilor publice de alimentare cu apa si de canalizare din Municipiul Bucuresti, printr-o Ajustare Tarifara Extraordinara (ExTa) negativa, corespunzatoare scaderii cheltuielilor concesionarului de asigurare a nivelelor de servicii si de prestare a serviciilor, datorata investitiilor Municipalitatii in aria de responsabilitate contractuala a concesionarului, care au loc de la data licitatiei si pana la finele anului 2005, in aplicarea prevederilor clauzei
+5.2.(i), alin. 2 si 3 din Caietul de Sarcini al Contractului de Concesiune (CC) dintre Municipiul Bucuresti si SC APA Nova SA, cu privire la furnizarea de servicii de alimentare cu apa si canalizare pentru Municipiul Bucuresti;
+In conformitate cu prevederile O.U.G. nr.34/2006 privind atribuirea contractelor de achizitii publica, a contractelor de concesiune de lucrari publice si a contractelor de concesiune de servicii;
+In temeiul prevederilor art. 38, alin 2 lit.c, alin.5 lit.a, b si art. 46 alin. 2, din Legea nr.215/2001 privind administratia publica locala, modificata si completata prin Legea 286/2006,
+H O T A R A S T E:
