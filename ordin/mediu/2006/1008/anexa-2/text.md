@@ -1,0 +1,15 @@
+# Anexa 2
+CATEGORII DE ACTIVITĂȚI/INSTALAȚII 1. Instalațiile sau părți ale instalațiilor folosite pentru cercetare-dezvoltare și testare de noi produse și procese nu intră sub incidența prezentei proceduri. 2. Limitele prezentate mai jos se referă, în general, la capacități de producție sau rezultate. În cazul în care un operator desfășoară mai multe activități prevăzute la același subsector, în aceeași instalație sau pe același amplasament, capacitățile acestor activități se însumează. ──────────────────────────────────────────────────────────────────────────────
+Activități/instalații
+Emisii de gaze cu efect de seră ────────────────────────────────────────────────────────────────────────────── 1. Activități în domeniul energetic 1.1. a) Instalații de ardere cu o putere termică nominală mai mare de 20 MW (cu excepția
+Dioxid de carbon instalațiilor pentru deșeuri periculoase și municipale) 1.1. b) Instalații de ardere cu o putere termică nominală mai mare de 20 MW (cu excepția
+Dioxid de carbon instalațiilor pentru deșeuri periculoase și municipale) din alte sectoare decât sectorul energetic 1.2. Instalații pentru rafinarea țițeiului
+Dioxid de carbon 1.3. Cuptoare de cocs
+Dioxid de carbon ────────────────────────────────────────────────────────────────────────────── 2. Producția și prelucrarea metalelor feroase 2.1. Instalații de prăjire sau sinterizare a minereului metalic (inclusiv a minereului
+Dioxid de carbon cu conținut de sulf) 2.2. Instalații pentru producerea fontei sau a oțelului (topire primară ori secundară), inclusiv instalații pentru turnarea continuă,
+Dioxid de carbon cu o capacitate de producție mai mare de 2,5 tone/oră ────────────────────────────────────────────────────────────────────────────── 3. Industria mineralelor 3.1. Instalații pentru producerea clincherului de ciment în cuptoare rotative cu o capacitate
+Dioxid de carbon de producție mai mare de 500 tone/zi, instalații pentru producerea varului în cuptoare rotative cu o capacitate de producție mai mare de 50 tone/zi sau în alte tipuri de cuptoare, nerotative, cu o capacitate de producție mai mare de 50 tone/zi 3.2. Instalații pentru fabricarea sticlei, inclusiv a fibrei de sticlă, cu o capacitate de topire
+Dioxid de carbon mai mare de 20 tone/zi 3.3. Instalații pentru fabricarea produselor ceramice prin ardere, în special a țiglelor,
+Dioxid de carbon cărămizilor, cărămizilor refractare, dalelor, plăcilor de gresie sau de faianță, cu o capaci- tate de producție mai mare de 75 tone/zi și/sau cu o capacitate a cuptorului mai mare de 4 mc și cu o densitate stabilită pentru fiecare cuptor mai mare de 300 kg/mc ────────────────────────────────────────────────────────────────────────────── 4. Alte activități 4.1. Instalații industriale pentru producerea de: 4.1. a) celuloză din lemn sau din alte materiale fibroase
+Dioxid de carbon 4.1. b) hârtie și carton, având o capacitate de producție mai mare de 20 tone/zi
+Dioxid de carbon ──────────────────────────────────────────────────────────────────────────────
