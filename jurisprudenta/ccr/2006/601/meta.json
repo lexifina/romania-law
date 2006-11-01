@@ -1,0 +1,200 @@
+{
+ "key": "dcc-601-2006",
+ "label": "Decizia CCR nr. 601/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "601",
+ "date": "2006-09-21",
+ "year": "2006",
+ "heading": "DECIZIE nr. 601 din 21 septembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 214/1999 privind acordarea calităţii de luptător în rezistenţa anticomunistă persoanelor condamnate pentru infracţiuni săvârşite din motive politice, persoanelor împotriva cărora au fost dispuse, din motive politice, măsuri administrative abuzive, precum şi persoanelor care au participat la acţiuni de împotrivire cu arme şi de răsturnare prin forţă a regimului comunist instaurat în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "889",
+  "bis": false,
+  "date": "2006-11-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 214/1999",
+    "number": "214",
+    "year": "1999",
+    "path": "oug/1999/214"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 214/1999 privind acordarea calităţii de luptător în rezistenţa anticomunistă persoanelor condamnate pentru infracţiuni săvârşite din motive politice, persoanelor împotriva cărora au fost dispuse, din motive politice, măsuri administrative abuzive, precum şi persoanelor care au participat la acţiuni de împotrivire cu arme şi de răsturnare prin forţă a regimului comunist instaurat în România, excepţie ridicată de Sultana Ianuşi şi Iancu Caciauna în Dosarul nr. 289/CA/2005 al Curţii de Apel Constanţa - Secţia comercială, maritimă şi fluvială, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 214/1999",
+    "number": "214",
+    "year": "1999",
+    "path": "oug/1999/214"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 568/2001",
+    "number": "568",
+    "year": "2001",
+    "path": "lege/2001/568"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 64/2002",
+    "number": "64",
+    "year": "2002",
+    "path": "og/2002/64"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 670/2002",
+    "number": "670",
+    "year": "2002",
+    "path": "lege/2002/670"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/76405",
+  "text_sha256": "9ea558ed6fd28b6617cc148e1cd16529f19d78d9fc067ef95965fb8dca3d8047",
+  "catalogue_sha256": "9ea558ed6fd28b6617cc148e1cd16529f19d78d9fc067ef95965fb8dca3d8047",
+  "fetched": "2026-11-03T00:13:30Z",
+  "chars": 12926,
+  "portal_id": "76405",
+  "tip": "DECIZIE"
+ }
+}
