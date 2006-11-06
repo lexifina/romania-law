@@ -1,0 +1,244 @@
+{
+ "key": "dcc-617-2006",
+ "label": "Decizia CCR nr. 617/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "617",
+ "date": "2006-10-03",
+ "year": "2006",
+ "heading": "DECIZIE nr. 617 din 3 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 219/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2000 pentru modificarea şi completarea Codului de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "901",
+  "bis": false,
+  "date": "2006-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "30.302/2/2005",
+  "910D/2006",
+  "30.585/2/2005",
+  "30.633/20/2005",
+  "33.675/2/2005",
+  "1.850D/2006",
+  "958D/2006",
+  "1.358D/2006",
+  "1.018D/2006",
+  "1.568D/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 219/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2000 pentru modificarea şi completarea Codului de procedură civilă, excepţie ridicată de Eugen Popp, Elena Simona Luncă, Ştefan Prodescu şi Elena Prodescu, Răzvan-Alexandru Predulea, Silvestru Georgeta Năstase, Mihai Vodă şi, respectiv, Vasile Predulea şi Teodora Cornelia Predulea în dosarele nr. 30.302/2/2005 (3.470/2005), nr. 31.301/2/2005 (3.638/2005), nr. 38.664/2/2005 (4.078/2005), nr. 32.253/2/2005 (3.701/2005), nr. 30.585/2/2005 (3.535/2005), nr. 30.762/2/2005 (3.574/2005) şi, respectiv, nr. 24.677/2/2004 (4.045/2004) ale Curţii de Apel Bucureşti - Secţia a IV-a civilă, de Gheorghe Iancu, Costa Iancu, Zoiţa Carataş, Steliana Iancu şi Mioara Nicoleta Olteanu în Dosarul nr. 120/C/2006 al Curţii de Apel Constanţa - Secţia civilă, de Emilian Alexe în Dosarul nr. 28.880/2/2005 (3.199/2005) al Curţii de Apel Bucureşti - Secţia a III-a civilă şi pentru cauze cu minori şi de familie, de Gheorghe Vaida şi Maria Vaida în Dosarul nr. 30.633/20/2005 (1.199/2005) al Curţii de Apel Bucureşti - Secţia a IX-a civilă şi pentru cauze privind proprietatea intelectuală, precum şi de Ştefan Vinţan şi Marietta Vinţan în Dosarul nr. 33.675/2/2005 (3.332/2005) al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 138/2000",
+    "number": "138",
+    "year": "2000",
+    "path": "oug/2000/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/76512",
+  "text_sha256": "c1ad5c89d468c84f5c85d669a7183502a3ddb2d30d5820b1581d12b963cee003",
+  "catalogue_sha256": "c1ad5c89d468c84f5c85d669a7183502a3ddb2d30d5820b1581d12b963cee003",
+  "fetched": "2026-11-03T00:13:36Z",
+  "chars": 19651,
+  "portal_id": "76512",
+  "tip": "DECIZIE"
+ }
+}
