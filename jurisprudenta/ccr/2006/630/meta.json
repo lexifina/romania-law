@@ -1,0 +1,178 @@
+{
+ "key": "dcc-630-2006",
+ "label": "Decizia CCR nr. 630/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "630",
+ "date": "2006-10-03",
+ "year": "2006",
+ "heading": "DECIZIE nr. 630 din 3 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12^2 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 95/2002 privind industria de apărare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "903",
+  "bis": false,
+  "date": "2006-11-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.058/2005",
+  "1.708D/2006",
+  "3/57/2006",
+  "1.205D/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 95/2002",
+    "number": "95",
+    "year": "2002",
+    "path": "oug/2002/95"
+   },
+   "articles": [
+    {
+     "art": "12-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 12^2 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 95/2002 privind industria de apărare, excepţie ridicată de Ioan Vulcu în Dosarul nr. 8.058/2005 al Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale, respectiv de Constantin Bîrsan în Dosarul nr. 3/57/2006 al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 22/2004",
+    "number": "22",
+    "year": "2004",
+    "path": "oug/2004/22"
+   },
+   "articles": [
+    {
+     "art": "12-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 95/2002",
+    "number": "95",
+    "year": "2002",
+    "path": "oug/2002/95"
+   },
+   "articles": [
+    {
+     "art": "12-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-11-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/76567",
+  "text_sha256": "0b34cb102ee69d9f4be5b1ab48961b593ff06b2c6cc0bb76e2b6963e7db6c26a",
+  "catalogue_sha256": "0b34cb102ee69d9f4be5b1ab48961b593ff06b2c6cc0bb76e2b6963e7db6c26a",
+  "fetched": "2026-11-05T05:46:38Z",
+  "chars": 11396,
+  "portal_id": "76567",
+  "tip": "DECIZIE"
+ }
+}
