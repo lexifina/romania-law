@@ -1,0 +1,37 @@
+# Anexa 3 la contractul-cadru
+UNITATEA................
+PROGRAM DE TRANSPORT pentru anul...............
+-tone-
+Nr.
+crt
+Punc-
+tul
+de
+pri-
+mire
+Sor-
+ti-
+men-
+tul
+Punc-
+tul
+de
+pre-
+dare
+To-
+tal
+an
+Ian
+Feb
+Mart
+Apr
+Mai
+Iun
+Iul
+Aug
+Sept
+Oct
+Noi.
+Dec
+EXPEDITOR,
+TRANSPORTATOR,................................
