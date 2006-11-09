@@ -1,0 +1,192 @@
+{
+ "key": "dcc-588-2006",
+ "label": "Decizia CCR nr. 588/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "588",
+ "date": "2006-09-19",
+ "year": "2006",
+ "heading": "DECIZIE nr. 588 din 19 septembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate şi ale Ordonanţei Guvernului nr. 56/1998 privind înfiinţarea, organizarea şi funcţionarea Casei Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranţei Naţionale şi Autorităţii Judecătoreşti",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "912",
+  "bis": false,
+  "date": "2006-11-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "44.993/3/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 56/1998",
+    "number": "56",
+    "year": "1998",
+    "path": "og/1998/56"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate, excepţie ridicată de Adrian Stan şi alţii în Dosarul nr. 44.993/3/2005 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal.",
+  "II. Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 56/1998 privind înfiinţarea, organizarea şi funcţionarea Casei Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranţei Naţionale şi Autorităţii Judecătoreşti, excepţie ridicată de aceiaşi autori în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 56/1998",
+    "number": "56",
+    "year": "1998",
+    "path": "og/1998/56"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "317",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 148/1998",
+    "number": "148",
+    "year": "1998",
+    "path": "lege/1998/148"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/76685",
+  "text_sha256": "a323213c8c0f6e6e4a679f2327b1438c66efd13b8f877196f7ecfeed72c78c0e",
+  "catalogue_sha256": "a323213c8c0f6e6e4a679f2327b1438c66efd13b8f877196f7ecfeed72c78c0e",
+  "fetched": "2026-11-03T00:13:42Z",
+  "chars": 9710,
+  "portal_id": "76685",
+  "tip": "DECIZIE"
+ }
+}
