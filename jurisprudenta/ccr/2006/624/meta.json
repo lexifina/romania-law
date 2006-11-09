@@ -1,0 +1,192 @@
+{
+ "key": "dcc-624-2006",
+ "label": "Decizia CCR nr. 624/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "624",
+ "date": "2006-10-03",
+ "year": "2006",
+ "heading": "DECIZIE nr. 624 din 3 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 34 alin. 2, art. 304^1 şi art. 305 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "914",
+  "bis": false,
+  "date": "2006-11-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 34 alin. 2, ale art. 304^1 şi ale art. 305 din Codul de procedură civilă, excepţie ridicată de Elena Bulbucan şi Gheorghe Ilie în Dosarul nr. 6.037/Cv/2005 al Tribunalului Argeş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 138/2000",
+    "number": "138",
+    "year": "2000",
+    "path": "oug/2000/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/76637",
+  "text_sha256": "cf105a74baa29865e39642d58a83233e1a77bd904f4e6bec6228e945ac77bcde",
+  "catalogue_sha256": "cf105a74baa29865e39642d58a83233e1a77bd904f4e6bec6228e945ac77bcde",
+  "fetched": "2026-11-03T00:13:43Z",
+  "chars": 8826,
+  "portal_id": "76637",
+  "tip": "DECIZIE"
+ }
+}
