@@ -1,0 +1,341 @@
+{
+ "key": "dcc-621-2006",
+ "label": "Decizia CCR nr. 621/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "621",
+ "date": "2006-10-03",
+ "year": "2006",
+ "heading": "DECIZIE nr. 621 din 3 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7^3, art. 8, art. 9 alin. (1) şi art. 79 din Legea nr. 192/2001 privind resursele acvatice vii, pescuitul şi acvacultura, precum şi ale art. I pct. 22^1 şi art. II^1 din Ordonanţa de urgenţă a Guvernului nr. 69/2004 pentru modificarea şi completarea Legii nr. 192/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "917",
+  "bis": false,
+  "date": "2006-11-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2001",
+    "number": "192",
+    "year": "2001",
+    "path": "lege/2001/192"
+   },
+   "articles": [
+    {
+     "art": "7-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 69/2004",
+    "number": "69",
+    "year": "2004",
+    "path": "oug/2004/69"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 7^3, art. 8 şi art. 9 alin. (1) din Legea nr. 192/2001 privind resursele acvatice vii, pescuitul şi acvacultura, precum şi ale art. I pct. 22^1 şi art. II^1 din Ordonanţa de urgenţă a Guvernului nr. 69/2004 pentru modificarea şi completarea Legii nr. 192/2001, excepţie ridicată de Asociaţia Judeţeană a Vânătorilor şi Pescarilor Sportivi Suceava în Dosarul nr. 111/COM/2006 al Curţii de Apel Suceava - Secţia comercială, contencios administrativ şi fiscal.",
+  "II. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 79 din Legea nr. 192/2001 privind resursele acvatice vii, pescuitul şi acvacultura, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2001",
+    "number": "192",
+    "year": "2001",
+    "path": "lege/2001/192"
+   },
+   "articles": [
+    {
+     "art": "7-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 69/2004",
+    "number": "69",
+    "year": "2004",
+    "path": "oug/2004/69"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 113/2005",
+    "number": "113",
+    "year": "2005",
+    "path": "lege/2005/113"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-11-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/76659",
+  "text_sha256": "9e8538edcb3d802bb9337530741544a58050bbca5e4f80c4e37da71ad32075c0",
+  "catalogue_sha256": "9e8538edcb3d802bb9337530741544a58050bbca5e4f80c4e37da71ad32075c0",
+  "fetched": "2026-11-05T05:41:22Z",
+  "chars": 19932,
+  "portal_id": "76659",
+  "tip": "DECIZIE"
+ }
+}
