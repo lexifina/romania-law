@@ -1,0 +1,180 @@
+{
+ "key": "dcc-676-2006",
+ "label": "Decizia CCR nr. 676/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "676",
+ "date": "2006-10-10",
+ "year": "2006",
+ "heading": "DECIZIE nr. 676 din 10 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 313/1879 pentru anularea clauzei penale din oarecare contracte şi pentru adaosul unui alineat la art. 1089 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "915",
+  "bis": false,
+  "date": "2006-11-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.074/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 313/1879",
+    "number": "313",
+    "year": "1879",
+    "path": "lege/1879/313"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1089",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 313/1879 pentru anularea clauzei penale din oarecare contracte şi pentru adaosul unui alineat la art. 1089 din Codul civil, excepţie ridicată de Banca Populară Română Cooperativa de Credit - Agenţia Tulcea, prin lichidator judiciar Societatea Comercială \"Real - Reorganizare, Administrare, Lichidare\" - S.R.L. Bucureşti în Dosarul nr. 1.074/2006 al Judecătoriei Tulcea.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 313/1879",
+    "number": "313",
+    "year": "1879",
+    "path": "lege/1879/313"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1089",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1589",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1084",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-11-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/76683",
+  "text_sha256": "4bfc79af54a316d16c346b4004470668d55395089c8eae83f0fc04c2b1cbd1ee",
+  "catalogue_sha256": "4bfc79af54a316d16c346b4004470668d55395089c8eae83f0fc04c2b1cbd1ee",
+  "fetched": "2026-11-03T00:13:45Z",
+  "chars": 7963,
+  "portal_id": "76683",
+  "tip": "DECIZIE"
+ }
+}
