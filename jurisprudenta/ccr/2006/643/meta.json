@@ -1,0 +1,233 @@
+{
+ "key": "dcc-643-2006",
+ "label": "Decizia CCR nr. 643/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "643",
+ "date": "2006-10-05",
+ "year": "2006",
+ "heading": "DECIZIE nr. 643 din 5 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. II alin. (3) din Legea nr. 219/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2000 pentru modificarea şi completarea Codului de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "956",
+  "bis": false,
+  "date": "2006-11-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "30.108/2/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. II alin. (3) din Legea nr. 219/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2000 pentru modificarea şi completarea Codului de procedură civilă, excepţie ridicată de Gheorghe Garoafă şi Rădiţa Garoafă în Dosarul nr. 30.108/2/2005 al Curţii de Apel Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "299",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-11-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/77190",
+  "text_sha256": "8db1acccfefd7860bfa6ae9f398ca8845f7af1b05d184fb387c813f5d1344e2b",
+  "catalogue_sha256": "8db1acccfefd7860bfa6ae9f398ca8845f7af1b05d184fb387c813f5d1344e2b",
+  "fetched": "2026-11-03T00:14:16Z",
+  "chars": 8215,
+  "portal_id": "77190",
+  "tip": "DECIZIE"
+ }
+}
