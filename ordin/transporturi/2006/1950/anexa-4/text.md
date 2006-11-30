@@ -1,0 +1,2 @@
+# Anexa 4
+LISTA cuprinzând drumurile publice cu masele și dimensiunile maxime admise prevăzute pentru categoria de drum modernizat (M.) Drumurile care nu sunt cuprinse în anexele nr. 1-3, altele decat cele pietruite. Limitele maselor și dimensiunilor maxime admise sunt cele prevăzute pentru categoria de drum modernizat (M) din anexa nr. 2 la Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare.
