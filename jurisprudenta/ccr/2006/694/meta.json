@@ -1,0 +1,242 @@
+{
+ "key": "dcc-694-2006",
+ "label": "Decizia CCR nr. 694/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "694",
+ "date": "2006-10-17",
+ "year": "2006",
+ "heading": "DECIZIE nr. 694 din 17 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 91 alin. (3) lit. b), art. 93 alin. (1), art. 94 alin. (1) lit. a) şi art. 99 alin. (5) din Legea nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului, precum şi a dispoziţiilor art. 123 pct. 2 din Legea nr. 85/2006 privind procedura insolvenţei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "971",
+  "bis": false,
+  "date": "2006-12-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "93",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "99",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 91 alin. (3) lit. b), art. 93 alin. (1) şi art. 99 alin. (5) din Legea nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului, excepţie ridicată de Silvian Gospodaru în Dosarul nr. 1.353/F/2005 al Tribunalului Neamţ - Secţia comercială şi contencios administrativ. 2. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 94 alin. (1) lit. a) din Legea nr. 64/1995 privind procedura reorganizării judiciare şi a falimentului, excepţie ridicată de acelaşi autor în acelaşi dosar. 3. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 123 pct. 2 din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "93",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "99",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-12-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/77405",
+  "text_sha256": "726dffb41659d76fe5f573504cdc5e37cc3ac0d140848bd58dd08473b4a3d828",
+  "catalogue_sha256": "726dffb41659d76fe5f573504cdc5e37cc3ac0d140848bd58dd08473b4a3d828",
+  "fetched": "2026-11-03T00:14:29Z",
+  "chars": 10815,
+  "portal_id": "77405",
+  "tip": "DECIZIE"
+ }
+}
