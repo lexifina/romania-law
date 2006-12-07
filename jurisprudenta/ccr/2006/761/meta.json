@@ -1,0 +1,140 @@
+{
+ "key": "dcc-761-2006",
+ "label": "Decizia CCR nr. 761/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "761",
+ "date": "2006-10-31",
+ "year": "2006",
+ "heading": "DECIZIE nr. 761 din 31 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 89/2004 privind vânzarea bunurilor imobile în care se desfăşoară activităţi de asistenţă sanitar-veterinară",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "980",
+  "bis": false,
+  "date": "2006-12-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 89/2004",
+    "number": "89",
+    "year": "2004",
+    "path": "oug/2004/89"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 89/2004 privind vânzarea bunurilor imobile în care se desfăşoară activităţi de asistenţă sanitar-veterinară, excepţie ridicată de Ştefan Nicolae Băbeanu şi Genegreb Bejan în Dosarul nr. 20.058/2//2005 (2.032/2005) al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 89/2004",
+    "number": "89",
+    "year": "2004",
+    "path": "oug/2004/89"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/77491",
+  "text_sha256": "697a4e2715712b6551566aaa40cb5c55057fd6147c3d5461c9f2b0e93e08ced2",
+  "catalogue_sha256": "697a4e2715712b6551566aaa40cb5c55057fd6147c3d5461c9f2b0e93e08ced2",
+  "fetched": "2026-11-03T00:14:34Z",
+  "chars": 10183,
+  "portal_id": "77491",
+  "tip": "DECIZIE"
+ }
+}
