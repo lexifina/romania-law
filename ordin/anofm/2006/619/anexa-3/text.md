@@ -1,0 +1,2 @@
+# Anexa 3
+CARACTERISTICI DE TIPĂRIRE Denumire: A. Proces-verbal de constatare și sancționare a contravențiilor: Seria................ nr................... Regim special B. Înștiințare de plată pentru debitorul: Seria................ nr................. Regim special Fiecare formular se tipărește în 3 exemplare, pe format standard A4, de culori diferite. Formularele se tipăresc pe hârtie de calitate, care să asigure lizibilitatea scrisului, atât pe original, cât și pe copii. Formularele se broșează în carnete conținând câte 120 de file fiecare -------
