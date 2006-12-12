@@ -1,0 +1,403 @@
+{
+ "key": "dcc-748-2006",
+ "label": "Decizia CCR nr. 748/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "748",
+ "date": "2006-10-26",
+ "year": "2006",
+ "heading": "DECIZIE nr. 748 din 26 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 25 lit. c) şi art. 77-85 din Legea nr. 85/2006 privind procedura insolvenţei, ale art. 43 şi art. 44 din Codul comercial, precum şi a dispoziţiilor art. 1019-1021 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "990",
+  "bis": false,
+  "date": "2006-12-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.722/1/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1019",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1020",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1021",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 25 lit. c) şi art. 77-85 din Legea nr. 85/2006 privind procedura insolvenţei, ale art. 43 şi art. 44 din Codul comercial, precum şi a dispoziţiilor art. 1019-1021 din Codul civil, excepţie ridicată de Societatea Comercială \"DD International\" - S.R.L. în Dosarul nr. 1.722/1/2006 al Curţii de Apel Bacău - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1019",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1020",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1021",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "975",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-12-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/77607",
+  "text_sha256": "afc6cb23f7ff0f2adfb684c34553ae2250e70649a50c5b486bf595a7c635cae1",
+  "catalogue_sha256": "afc6cb23f7ff0f2adfb684c34553ae2250e70649a50c5b486bf595a7c635cae1",
+  "fetched": "2026-11-04T03:49:38Z",
+  "chars": 10186,
+  "portal_id": "77607",
+  "tip": "DECIZIE"
+ }
+}
