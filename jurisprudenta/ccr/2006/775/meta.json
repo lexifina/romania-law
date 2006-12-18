@@ -1,0 +1,245 @@
+{
+ "key": "dcc-775-2006",
+ "label": "Decizia CCR nr. 775/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "775",
+ "date": "2006-11-07",
+ "year": "2006",
+ "heading": "DECIZIE nr. 775 din 7 noiembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 alin. (1) şi art. 20 lit. b) din Legea nr. 416/2001 privind venitul minim garantat, ale art. 10 alin. (1) şi art. 37 alin. (1) lit. c) din Normele metodologice de aplicare a prevederilor Legii nr. 416/2001, aprobate prin Hotărârea Guvernului nr. 1.010/2006, precum şi Dispoziţia primarului municipiului Reşiţa nr. 364/2.02.2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1006",
+  "bis": false,
+  "date": "2006-12-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.896/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 416/2001",
+    "number": "416",
+    "year": "2001",
+    "path": "lege/2001/416"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 10 alin. (1) şi art. 20 lit. b) din Legea nr. 416/2001 privind venitul minim garantat, excepţie ridicată de Sofia Damian în Dosarul nr. 1.896/2006 al Tribunalului Caraş-Severin.",
+  "II. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 10 alin. (1) şi art. 37 alin. (1) lit. c) din Normele metodologice de aplicare a prevederilor Legii nr. 416/2001, aprobate prin Hotărârea Guvernului nr. 1.010/2006, precum şi a Dispoziţiei primarului municipiului Reşiţa nr. 364/2.02.2006, excepţie ridicată de acelaşi autor, în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 416/2001",
+    "number": "416",
+    "year": "2001",
+    "path": "lege/2001/416"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.099/2001",
+    "number": "1099",
+    "year": "2001",
+    "path": "hg/2001/1099"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-12-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/77841",
+  "text_sha256": "1dbd577a4ce52c10095937296096ac18c3ddf028bdd557c582cbfc4be03f3ee0",
+  "catalogue_sha256": "1dbd577a4ce52c10095937296096ac18c3ddf028bdd557c582cbfc4be03f3ee0",
+  "fetched": "2026-11-03T00:14:59Z",
+  "chars": 11656,
+  "portal_id": "77841",
+  "tip": "DECIZIE"
+ }
+}
