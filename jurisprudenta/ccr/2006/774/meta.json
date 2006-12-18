@@ -1,0 +1,207 @@
+{
+ "key": "dcc-774-2006",
+ "label": "Decizia CCR nr. 774/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "774",
+ "date": "2006-11-07",
+ "year": "2006",
+ "heading": "DECIZIE nr. 774 din 7 noiembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. (3) şi (4) din Ordonanţa Guvernului nr. 86/2001 privind serviciile regulate de transport public local de călători",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1006",
+  "bis": false,
+  "date": "2006-12-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.866/2/2006",
+  "1.550D/2006",
+  "1.851D/2006",
+  "2.867/2/2006",
+  "2.019D/2006",
+  "2.868/2/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 86/2001",
+    "number": "86",
+    "year": "2001",
+    "path": "og/2001/86"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. (3) şi (4) din Ordonanţa Guvernului nr. 86/2001 privind serviciile regulate de transport public local de călători, excepţie ridicată de Societatea Comercială \"Da-Rel Trans\" - S.R.L., Societatea Comercială \"Anelis Transcom Impex\" - S.R.L., Societatea Comercială \"Ovidiu şi Dorel Impex\" - S.R.L., Societatea Comercială \"Milenium Expo 2000\" - S.R.L., Societatea Comercială \"Trans City 2002\" - S.R.L., Societatea Comercială \"Vretas Impex\" - S.R.L., Societatea Comercială \"And Trans\" - S.R.L., Societatea Comercială \"Betel\" - S.R.L., Societatea Comercială \"Nelma Tour\" - S.R.L., Societatea Comercială \"Romtransport\" - S.R.L., Societatea Comercială \"Ionadi Prodcom\" - S.R.L., Societatea Comercială \"CSL Trans\" - S.R.L., Societatea Comercială \"Georgio Trans\" - S.R.L. şi Societatea Comercială \"Anbo\" - S.R.L. în Dosarul nr. 2.866/2/2006 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, de Societatea Comercială \"Allegro Maxi Taxi - S.A., Societatea Comercială \"Millenium Trans Impex\" - S.R.L., Societatea Comercială \"Simpa Trans\" - S.R.L. Mangalia, Societatea Comercială \"Omerta\" - S.R.L., Societatea Comercială \"C&amp;amp;I Comserv\" - S.R.L., Societatea Comercială \"C&amp;amp;I Grup International\" - S.R.L., Societatea Comercială \"Ridm Impex\" - S.R.L., Societatea Comercială \"Condor Impex\" - S.R.L., Societatea Comercială \"Leon Trans\" - S.R.L., Societatea Comercială \"Axi Tours IZI\" - S.R.L., Societatea Comercială \"Do &amp;amp; Do\" - S.R.L. şi Societatea Comercială \"Amic Transport\" - S.R.L. în Dosarul nr. 2.867/2/2006 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, precum şi de Societatea Comercială \"Groupe Prodimex\" - S.R.L., Societatea Comercială \"Mototolea Com Serv\" - S.N.C., Societatea Comercială \"Mihai Tours International\" - S.R.L., Societatea Comercială \"Nikarom Group\" - S.R.L., Societatea Comercială \"G&amp;amp;S Tours\" - S.R.L., Societatea Comercială \"G&amp;amp;S Trans\" - S.R.L., Societatea Comercială \"Prodcom Impex Sildancris\" - S.R.L., Societatea Comercială \"Matrix Impex\" - S.R.L., Societatea Comercială \"Aby Ştef Trans\" - S.R.L., Societatea Comercială \"Pistol PM Impex\" - S.R.L. şi Societatea Comercială \"Transvib Serv\" - S.R.L. în Dosarul nr. 2.868/2/2006 al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 86/2001",
+    "number": "86",
+    "year": "2001",
+    "path": "og/2001/86"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 6/2006",
+    "number": "6",
+    "year": "2006",
+    "path": "oug/2006/6"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-12-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/77844",
+  "text_sha256": "7ebad3612e72b730acafbab5637ad78772a8bbc704c4240910710c5f89e4942f",
+  "catalogue_sha256": "7ebad3612e72b730acafbab5637ad78772a8bbc704c4240910710c5f89e4942f",
+  "fetched": "2026-11-04T04:40:52Z",
+  "chars": 22228,
+  "portal_id": "77844",
+  "tip": "DECIZIE"
+ }
+}
