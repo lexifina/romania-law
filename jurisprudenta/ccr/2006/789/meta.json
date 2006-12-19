@@ -1,0 +1,153 @@
+{
+ "key": "dcc-789-2006",
+ "label": "Decizia CCR nr. 789/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "789",
+ "date": "2006-11-07",
+ "year": "2006",
+ "heading": "DECIZIE nr. 789 din 7 noiembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 37/2004 privind măsuri de diminuare a arieratelor din economie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1007",
+  "bis": false,
+  "date": "2006-12-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.547/3/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 37/2004",
+    "number": "37",
+    "year": "2004",
+    "path": "oug/2004/37"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 37/2004 privind măsuri de diminuare a arieratelor din economie, excepţie ridicată de Regia Autonomă de Distribuţie a Energiei Termice Bucureşti în Dosarul nr. 7.547/3/2006 al Tribunalului Bucureşti - Secţia a VI-a comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 37/2004",
+    "number": "37",
+    "year": "2004",
+    "path": "oug/2004/37"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2006-12-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/77846",
+  "text_sha256": "2a6c63d88ed0fc98567fa1f082dda014eceab357fe8aad52c94bb3344df2a306",
+  "catalogue_sha256": "2a6c63d88ed0fc98567fa1f082dda014eceab357fe8aad52c94bb3344df2a306",
+  "fetched": "2026-11-04T08:19:41Z",
+  "chars": 8587,
+  "portal_id": "77846",
+  "tip": "DECIZIE"
+ }
+}
