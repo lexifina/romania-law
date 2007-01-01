@@ -1,0 +1,6 @@
+# Anexa 2
+------- la norma sanitară veterinara ---------------------------- 1. Marca de sănătate pentru carnea proaspăta trebuie să poarte o cruce în diagonala, constituit din două linii drepte care se intersectează la centrul ștampilei dar permitand informatiei din cadrul acesteia sa rămână lizibila. 2. Marca menționată la punctul 1 poate fi aplicată de asemenea, folosind o singura ștampila ovala, cu o latime de 6,5 cm și cu o înălțime de 4,5 cm iar pe marca trebuie să apară, într-o formă perfect lizibila, următoarele informații.
+a) în partea superioară, numele sau codul ISO al statului membru cu majuscule: AT, BE, DE, DK, FI, FR, GR, IE, IT, LU, NL, PT, SE, UK și RO.
+b) în partea centrala, numărul de aprobare veterinara a abatorului,
+c) în partea inferioară, una dintre următoarele seturi de inițiale: CE, EC, EF, EG, EK sau EY.
+d) doua linii drepte care se intersectează în centrul ștampilei astfel încât informațiile de pe ștampila sa nu fie acoperite; literele trebuie să fie de cel puțin 0,8, iar cifrele de cel puțin 1 cm înălțime. Ștampila trebuie să poarte informații prin care medicul veterinar care a efectuat inspecția carnii să poată fi identificat. Marca trebuie să fie aplicată sub supravegherea directa a medicului veterinar oficial care controlează implementarea cerințelor de sănătate animala.
