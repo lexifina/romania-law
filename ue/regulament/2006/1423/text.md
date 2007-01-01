@@ -1,0 +1,54 @@
+01/Volumul 06 | RO | Jurnalul Ofícial al Uniunii Europene | 196
+32006R1423
+L 269/10 | JURNALUL OFÍCIAL AL UNIUNII EUROPENE |
+REGULAMENTUL (CE) NR. 1423/2006 AL COMISIEI
+din 26 septembrie 2006
+de stabilire a unui mecanism privind măsurile corespunzătoare în domeniul cheltuielilor agricole în ceea ce privește Bulgaria și România
+COMISIA COMUNITĂȚILOR EUROPENE,
+având în vedere Tratatul de aderare a Bulgariei și României și, în special, articolul 4 alineatul (3) al acestuia,
+având în vedere Actul de aderare a Bulgariei și României și, în special, articolul 37 al acestuia,
+întrucât:
+(1) În conformitate cu articolul 2 din Actul de aderare, dispozițiile actelor adoptate de către instituții înainte de aderare sunt obligatorii pentru Bulgaria și România și se aplică statelor membre în cauză în conformitate cu condițiile prevăzute de tratate și de actul menționat anterior.
+(2) Articolul 37 din Actul de aderare autorizează Comisia să adopte măsurile corespunzătoare în cazul în care Bulgaria sau România nu și-au îndeplinit angajamentele adoptate în cadrul negocierilor de aderare și astfel provoacă sau riscă să provoace în scurt timp o dereglare gravă a pieței interne.
+(3) Articolul 17 din Regulamentul (CE) nr. 1782/2003 al Consiliului din 29 septembrie 2003 de stabilire a normelor comune pentru schemele de sprijin direct în cadrul politicii agricole comune și de stabilire a anumitor scheme de sprijin pentru agricultori și de modificare a Regulamentelor (CEE) nr. 2019/93, (CE) nr. 1452/2001, (CE) nr. 1453/2001, (CE) nr. 1454/2001, (CE) nr. 1868/94, (CE) nr. 1251/1999, (CE) nr. 1254/1999, (CE) nr. 1673/2000, (CEE) nr. 2358/71 și (CE) nr. 2529/2001(1) prevede obligația fiecărui stat membru de a crea un sistem integrat de gestiune și control, denumit în continuare „SIGC”.
+(4) La momentul aderării, Bulgaria și România trebuie să fi pus în aplicare un SIGC pentru a controla o mare parte din ajutorul agricol comunitar în fiecare dintre țările în cauză. Pe baza informațiilor comunicate de Bulgaria și România până la data adoptării prezentului regulament și pe baza propriilor verificări, Comisia a stabilit că există un risc real în ceea ce privește existența și funcționalitatea SIGC în țările în cauză.
+(5) Deficiențele grave ale SIGC din Bulgaria sau România ar determina o situație în care plățile ajutoarelor agricole, care ar trebui controlate prin sistemul în cauză, să nu fie controlate deloc sau să nu fie controlate în mod corespunzător. Prin urmare, ar exista un risc semnificativ ca producătorii care nu sunt total sau parțial admisibili pentru acordarea ajutorului comunitar să beneficieze de ajutorul în cauză și să se regăsească într-o situație mai favorabilă decât cea prevăzută de legislația comunitară. Pentru fiecare dintre aceste state, cheltuielile pentru plățile directe și dezvoltarea rurală controlate de SIGC se vor ridica la aproximativ 80 % din cheltuielile agricole și vor reprezenta sume importante care ajung la mai multe sute de milioane de euro. Aceasta demonstrează importanța unei funcționări corespunzătoare a SIGC pentru introducerea politicii agricole comune în cele două țări și pentru buna funcționare a pieței interne comunitare. Având în vedere faptul că această situație mai favorabilă, la care se adaugă valoarea ajutoarelor de care vor beneficia aceste țări, va avea probabil o incidență asupra comerțului cu produse agricole pe piața internă, acest fapt ar risca să provoace, în scurt timp, o dereglare gravă a pieței respective.
+(6) Având în vedere natura sistemelor și a procedurilor prevăzute de dispozițiile menționate anterior, nu se poate combate eficient riscul respectiv numai prin aplicarea articolelor 17 și 27 din Regulamentul (CE) nr. 1290/2005 al Consiliului din 21 iunie 2005 privind finanțarea politicii agricole comune(2). Din acest motiv este necesar să se recurgă la articolul 37 din Actul de aderare, care autorizează Comisia să adopte măsurile corespunzătoare în vederea eliminării riscului.
+(7) După aderare, pe baza unui raport elaborat de un organism independent, Bulgaria și România ar trebui să adreseze o declarație Comisiei, prin care să indice dacă există un SIGC care funcționează în fiecare dintre țările în cauză. În cazul unor deficiențe, este necesar ca statele respective să remedieze situația fără întârziere.
+(8) În cazul în care Comisia, pe baza declarației adresate de Bulgaria și România sau pe baza raportului elaborat de organismul independent sau a propriilor concluzii de audit, constată persistența unor deficiențe atât de grave încât afectează buna funcționare a întregului sistem de management și control al cheltuielilor agricole acoperite de SIGC și că, prin urmare, persistă riscul iminent al dereglării grave a pieței interne, aceasta ar trebui să reducă provizoriu, pe o perioadă determinată de un an, plățile lunare și intermediare destinate Bulgariei și României în conformitate cu articolele 14 și 26 din Regulamentul (CE) nr. 1290/2005. Reducerea provizorie trebuie să corespundă procentajului aplicat de Comisie în conformitate cu propriile linii directoare în cadrul verificării conformității în cazul în care sistemul de control al unui stat membru prezintă deficiențe grave și se descoperă existența unor nereguli considerabile. Reducerea provizorie este necesară pentru ca statul respectiv să remedieze deficiențele SIGC în vederea prevenirii sau a detectării plăților necorespunzătoare și a practicilor frauduloase și a recuperării sumelor plătite necorespunzător și, astfel, a eliminării riscului apariției unei dereglări grave a pieței interne.
+(9) După douăsprezece luni, Comisia ar trebui să analizeze dacă este necesar sau nu să mențină reducerea provizorie a plăților lunare și intermediare.
+(10) Reducerea provizorie se aplică numai măsurilor de sprijin care sunt gestionate și controlate de SIGC.
+(11) Este necesar ca reducerea provizorie să fie urmărită în cadrul procedurii de verificare a conformității prevăzute la articolul 31 din Regulamentul (CE) nr. 1290/2005 și aplicată fără a aduce atingere deciziilor adoptate în contextul respectiv,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+(1) În trei luni de la aderare, Bulgaria și România formulează fiecare câte o declarație la nivel ministerial, adresată Comisiei, care să indice:
+(a) dacă elementele sistemului integrat de gestiune și control, denumit în continuare „SIGC”, prevăzute la articolul 18 din Regulamentul (CE) nr. 1782/2003, au fost înființate pe teritoriile lor respective în conformitate cu legislația comunitară relevantă, în măsura în care aceste elemente se referă la gestiunea și controlul regimurilor de ajutor aplicabile în Bulgaria și România;
+(b) dacă SIGC și celelalte elemente necesare pentru asigurarea plății corecte a ajutorului prevăzut la articolul 3 din prezentul regulament sunt funcționale pe teritoriile lor respective.
+(2) Declarația prevăzută la alineatul (1) se formulează pe baza unui raport realizat de un organism care deține competența necesară și care este independent de agenția de plată și de organismul coordonator, prevăzute la articolul 6 alineatul (1) și respectiv la articolul 6 alineatul (3) din Regulamentul (CE) nr. 1290/2005. Bulgaria și România desemnează fiecare organismul însărcinat să elaboreze raportul.
+Raportul indică dacă sunt îndeplinite cerințele prevăzute la alineatul (1). Raportul este pus la dispoziția Comisiei.
+Articolul 2
+(1) Comisia adoptă o decizie care reduce provizoriu, cu 25 %, plățile lunare și intermediare prevăzute la articolele 14 și 26 din Regulamentul (CE) nr. 1290/2005 în cazul în care, pe baza declarației sau a raportului menționat la articolul 1 din prezentul regulament sau pe baza propriilor concluzii de audit și după ce a acordat statului membru în cauză posibilitatea de a prezenta observații într-un termen rezonabil, a ajuns la concluzia că:
+(a) Bulgaria sau România nu respectă obligațiile care îi revin în temeiul articolului 1 alineatele (1) și (2);
+(b) elementele prevăzute la articolul 1 alineatul (1) litera (a) nu au fost înființate;
+(c) cu toate că elementele prevăzute la articolul 1 alineatul (1) litera (a) au fost înființate, SIGC și celelalte elemente necesare pentru asigurarea plății corecte a ajutorului prevăzut la articolul 3 sunt atât de ineficiente încât afectează funcționarea corespunzătoare a întregului sistem.
+Bulgaria și România adoptă toate măsurile necesare pentru a remedia fără întârziere toate neajunsurile identificate.
+(2) Reducerea provizorie se aplică plăților lunare și intermediare efectuate între 1 decembrie 2007 și 30 noiembrie 2008.
+(3) Comisia prelungește reducerea provizorie cu alte termene de câte douăsprezece luni în cazul în care una sau mai multe dintre condițiile prevăzute la alineatul (1) continuă să fie neîndeplinite.
+(4) Reducerea provizorie se aplică fără a aduce atingere altor reduceri sau suspendări, în conformitate cu articolele 17 și 27 din Regulamentul (CE) nr. 1290/2005.
+Articolul 3
+Reducerea provizorie prevăzută la articolul 2 se aplică ajutorului acordat în cadrul următoarelor măsuri:
+(a) ajutorul pentru venituri simplificat și tranzitoriu destinat agricultorilor din noile state membre, prevăzut la articolul 143 b din Regulamentul (CE) nr. 1782/2003 sau regimurile de ajutor prevăzute în titlurile III și IV din regulamentul în cauză;
+(b) plățile directe naționale suplimentare, prevăzute la articolul 143 c din Regulamentul (CE) nr. 1782/2003, finanțate în conformitate cu subsecțiunea E din secțiunea I din Anexa VIII la Actul de aderare;
+(c) plățile prevăzute la articolul 36 litera (a) punctele (i) - (v) și la articolul 36 litera (b) punctele (i) - (v) din Regulamentul (CE) nr. 1698/2005 al Consiliului(3), cu excepția celor care se referă la măsurile prevăzute la articolul 39 alineatul (5) din regulamentul în cauză și la măsurile prevăzute la articolul 36 litera (b) punctele (i) și (iii), în măsura în care este vorba de costuri de instalare.
+Articolul 4
+Deciziile adoptate în conformitate cu prezentul regulament sau absența unor astfel de decizii nu aduc atingere verificării conformității prevăzute la articolul 31 din Regulamentul (CE) nr. 1290/2005.
+Articolul 5
+Prezentul regulament intră în vigoare sub rezerva și la data intrării în vigoare a Tratatului de aderare a Bulgariei și României la Uniunea Europeană.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 26 septembrie 2006.
+Pentru Comisie
+Mariann FISCHER BOEL
+Membru al Comisiei
+(1) JO L 270, 21.10.2003, p. 1. Regulament astfel cum a fost modificat ultima dată prin Regulamentul (CE) nr. 1156/2006 al Comisiei (JO L 208, 29.7.2006, p. 3).
+(2) JO L 209, 11.8.2005, p. 1. Regulament astfel cum a fost modificat ultima dată prin Regulamentul (CE) nr. 320/2006 (JO L 58, 28.2.2006, p. 42).
+(3) JO L 227, 21.10.2005, p. 1.
