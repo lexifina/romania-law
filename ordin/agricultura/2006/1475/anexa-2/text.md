@@ -1,0 +1,2 @@
+# Anexa 2
+REGULAMENT 13/10/2006
