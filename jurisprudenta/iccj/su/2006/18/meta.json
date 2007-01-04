@@ -1,0 +1,155 @@
+{
+ "key": "iccj-su-18-2006",
+ "label": "Decizia ÎCCJ nr. XVIII/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "18",
+ "number_printed": "XVIII",
+ "date": "2006-06-12",
+ "year": "2006",
+ "heading": "DECIZIE nr. XVIII din 12 iunie 2006",
+ "subtitle": "privind aplicarea dispoziţiilor art. 385^1 alin. 1 lit. e) teza finală din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "6",
+  "bis": false,
+  "date": "2007-01-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "6/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "385-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 385^1 alin. 1 lit. e) teza finală din Codul de procedură penală, stabilesc:",
+  "Deciziile pronunţate în apel, prin care s-a dispus rejudecarea cauzei, pot fi atacate cu recurs numai cu privire la măsurile preventive, în condiţiile art. 141 din Codul de procedură penală raportat la art. 160^b alin. 4 din acelaşi cod.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-01-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/78298",
+  "text_sha256": "af2e71f5cc39d958547d98b4168c11ff9e4ec04afeaa769ca851c31663cc4320",
+  "catalogue_sha256": "af2e71f5cc39d958547d98b4168c11ff9e4ec04afeaa769ca851c31663cc4320",
+  "fetched": "2026-11-04T04:40:54Z",
+  "chars": 7549,
+  "portal_id": "78298",
+  "tip": "DECIZIE"
+ }
+}
