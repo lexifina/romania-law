@@ -1,0 +1,186 @@
+{
+ "key": "dcc-740-2006",
+ "label": "Decizia CCR nr. 740/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "740",
+ "date": "2006-10-26",
+ "year": "2006",
+ "heading": "DECIZIE nr. 740 din 26 octombrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 alin. 1 şi 4 din Legea arendării nr. 16/1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "8",
+  "bis": false,
+  "date": "2007-01-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.839/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea arendării nr. 16/1994",
+    "number": "16",
+    "year": "1994",
+    "path": "lege/1994/16"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 6 alin. 1 şi 4 din Legea arendării nr. 16/1994, excepţie ridicată de Societatea Comercială \"TCE 3 BRAZI\" - S.R.L. din Piatra-Neamţ în Dosarul nr. 3.839/2005 (număr unic 26020/3/2005) al Tribunalului Bucureşti - Secţia a VI-a comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea arendării nr. 16/1994",
+    "number": "16",
+    "year": "1994",
+    "path": "lege/1994/16"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "948",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-01-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/78393",
+  "text_sha256": "0acedbb9c5e487977bd397348cda4d4768fedf9a3893ef5c2fb4a3cfeab1d667",
+  "catalogue_sha256": "0acedbb9c5e487977bd397348cda4d4768fedf9a3893ef5c2fb4a3cfeab1d667",
+  "fetched": "2026-11-05T06:57:19Z",
+  "chars": 8968,
+  "portal_id": "78393",
+  "tip": "DECIZIE"
+ }
+}
