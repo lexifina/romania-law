@@ -1,0 +1,3 @@
+# Anexa 5
+------- la norme -------- DEPARTAMENTUL ECONOMIC Către Departamentul inspecție farmaceutică Vă informăm că pentru avizarea declarației/declarațiilor de export al produsului/produselor...........................................................,................................................................................................, depusă/depuse de unitatea.........., s-a încasat suma de......, cu extrasul de cont din....................... Suma a fost plătită în totalitate conform adresei dumneavoastră nr.......... Șeful Departamentului economic,
+Întocmit,................................................... --------
