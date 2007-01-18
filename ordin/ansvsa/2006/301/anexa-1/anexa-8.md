@@ -1,0 +1,13 @@
+# Anexa 8 la norma sanitară veterinara și pentru siguranța alimentelor
+AUTORITATEA NAȚIONALA
+SANITARĂ VETERINARA ȘI
+PENTRU SIGURANTA ALIMENTELOR
+Direcția Sanitară Veterinara și pentru Siguranța Alimentelor............................
+PROCES-VERBAL DE CONSTATARE
+Subsemnații..................... și..................... inspector pentru siguranța alimentelor din cadrul Direcției Sanitare Veterinare și pentru
+Siguranța Alimeiitelor............................., respectiv a municipiului
+București, în urma controlului efectuat la unitatea...................situata unic de înregistrare (CUI)............, pendinte de............... cu sediul sector (județ)........... în prezenta domnului/doamnei..............................., în calitate de............. am constatat următoarele:........................................................................................................................................................................................................................................................................................................................
+În urma celor constatate și în conformitate cu legislația specifică în vigoare se aplică următoarele măsuri și recomandări se vor specifică expres prevederile actelor normative care nu au fost respectate:..........................................................................................................................................................................................................................................
+Prezentul proces verbal de constatare conține.......... pagini și a fost întocmit în doua exemplare, dintre care unul rămâne la.......................
+Medici veterinari/Inspectori
+Proprietar/Reprezentantul legal al unității
