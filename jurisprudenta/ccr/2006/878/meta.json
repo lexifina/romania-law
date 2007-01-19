@@ -1,0 +1,206 @@
+{
+ "key": "dcc-878-2006",
+ "label": "Decizia CCR nr. 878/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "878",
+ "date": "2006-11-30",
+ "year": "2006",
+ "heading": "DECIZIE nr. 878 din 30 noiembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 720^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "40",
+  "bis": false,
+  "date": "2007-01-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "14.398/301/2005",
+  "20.865/301/2005",
+  "11.863/301/2005",
+  "25.264/3/2006",
+  "17.240/2005",
+  "9.281/2005",
+  "9.262/2005",
+  "9.142/2005",
+  "4.581/301/2006",
+  "4.575/301/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 720^1 din Codul de procedură civilă, excepţie ridicată în faţa Tribunalului Bucureşti - Secţia a VI-a comercială de Vasile Nicolae în Dosarul nr. 14.398/301/2005, de Ioana Cristina Meterez în Dosarul nr. 20.865/301/2005, de Tudor Chican în Dosarul nr. 11.863/301/2005 şi de Gheorghe Zisu în Dosarul nr. 25.264/3/2006, şi în faţa Judecătoriei Sectorului 3 Bucureşti de Anica Coman în Dosarul nr. 17.240/2005 (nr. unic 21.714/301/2005), de Maria Soare şi Alexandru Soare în Dosarul nr. 9.281/2005 (nr. unic 11.880/301/2005), de Iuliana Şipoş în Dosarul nr. 9.262/2005 (nr. unic 11.861/301/2005), de Georgeta Cioarec în Dosarul nr. 9.142/2005 (nr. unic 11.740/301/2005), de Ştefan Toth în Dosarul nr. 4.581/301/2006, de Iosif Cornel Farcaş în Dosarul nr. 4.575/301/2006, de Dumitru Paraschiv în Dosarul nr. 14.976/2005 (nr. unic 18.940/301/2005) şi de Silvia Chindruş în Dosarul nr. 21.088/301/2005 (nr. dosar vechi 16.703/2005).",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-01-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/78909",
+  "text_sha256": "6d329f1ab194f67d3c84339b144c64ff69375f00e01ae84940fcbe51a1907be1",
+  "catalogue_sha256": "6d329f1ab194f67d3c84339b144c64ff69375f00e01ae84940fcbe51a1907be1",
+  "fetched": "2026-11-03T00:16:06Z",
+  "chars": 12292,
+  "portal_id": "78909",
+  "tip": "DECIZIE"
+ }
+}
