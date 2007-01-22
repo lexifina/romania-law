@@ -1,0 +1,233 @@
+{
+ "key": "dcc-835-2006",
+ "label": "Decizia CCR nr. 835/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "835",
+ "date": "2006-11-16",
+ "year": "2006",
+ "heading": "DECIZIE nr. 835 din 16 noiembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 386, art. 387, art. 390, art. 391 şi art. 392 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "46",
+  "bis": false,
+  "date": "2007-01-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.190/84/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "386",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "387",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "390",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "391",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 386, 387, 390, 391 şi 392 din Codul de procedură penală, excepţie ridicată de Marin Stănciulescu în Dosarul nr. 1.190/84/2006 (nr. vechi 1.190/2006) al Tribunalului Sălaj - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "386",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "387",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "390",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "391",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-14",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-01-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/78972",
+  "text_sha256": "2de7f0c34455d267b6dd2c25f73b2df9dac041792a1dbc366dc5b3adf882fc49",
+  "catalogue_sha256": "2de7f0c34455d267b6dd2c25f73b2df9dac041792a1dbc366dc5b3adf882fc49",
+  "fetched": "2026-11-03T00:16:09Z",
+  "chars": 11983,
+  "portal_id": "78972",
+  "tip": "DECIZIE"
+ }
+}
