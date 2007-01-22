@@ -1,0 +1,162 @@
+{
+ "key": "dcc-863-2006",
+ "label": "Decizia CCR nr. 863/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "863",
+ "date": "2006-11-28",
+ "year": "2006",
+ "heading": "DECIZIE nr. 863 din 28 noiembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 167 alin. 1 şi art. 305 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "45",
+  "bis": false,
+  "date": "2007-01-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "39.839/3/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "167",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 167 alin. 1 şi art. 305 din Codul de procedură civilă, excepţie ridicată de Joe Ken în Dosarul nr. 39.839/3/2005 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "167",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 138/2000",
+    "number": "138",
+    "year": "2000",
+    "path": "oug/2000/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-01-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/78951",
+  "text_sha256": "73e66688883e3b597932934ddde1e303f5dfdad066f9d8217e1814efec1f23bb",
+  "catalogue_sha256": "73e66688883e3b597932934ddde1e303f5dfdad066f9d8217e1814efec1f23bb",
+  "fetched": "2026-11-03T00:16:09Z",
+  "chars": 7769,
+  "portal_id": "78951",
+  "tip": "DECIZIE"
+ }
+}
