@@ -1,0 +1,168 @@
+{
+ "key": "dcc-887-2006",
+ "label": "Decizia CCR nr. 887/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "887",
+ "date": "2006-11-30",
+ "year": "2006",
+ "heading": "DECIZIE nr. 887 din 30 noiembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 118/2004 privind acordarea unor drepturi salariale personalului Ministerului Administraţiei şi Internelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "54",
+  "bis": false,
+  "date": "2007-01-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 118/2004",
+    "number": "118",
+    "year": "2004",
+    "path": "oug/2004/118"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca fiind inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 118/2004 privind acordarea unor drepturi salariale personalului Ministerului Administraţiei şi Internelor, excepţie ridicată de Ioan-Nicolae Aciu şi alţii în Dosarul nr. 1.468/C/2006 al Tribunalului Caraş-Severin - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 118/2004",
+    "number": "118",
+    "year": "2004",
+    "path": "oug/2004/118"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-01-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79142",
+  "text_sha256": "3d5d899bb2b2ca103bc0ef86724f4b4b30a1ae24de7a1dfed5898d9a92611618",
+  "catalogue_sha256": "3d5d899bb2b2ca103bc0ef86724f4b4b30a1ae24de7a1dfed5898d9a92611618",
+  "fetched": "2026-11-04T11:54:26Z",
+  "chars": 7088,
+  "portal_id": "79142",
+  "tip": "DECIZIE"
+ }
+}
