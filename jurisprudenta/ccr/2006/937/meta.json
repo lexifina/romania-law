@@ -1,0 +1,189 @@
+{
+ "key": "dcc-937-2006",
+ "label": "Decizia CCR nr. 937/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "937",
+ "date": "2006-12-19",
+ "year": "2006",
+ "heading": "DECIZIE nr. 937 din 19 decembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 148/2005 privind susţinerea familiei în vederea creşterii copilului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "64",
+  "bis": false,
+  "date": "2007-01-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "607/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 148/2005",
+    "number": "148",
+    "year": "2005",
+    "path": "oug/2005/148"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 148/2005 privind susţinerea familiei în vederea creşterii copilului, excepţie ridicată de Froni Daniela Sofia în Dosarul nr. 607/2006 al Tribunalului Brăila - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 148/2005",
+    "number": "148",
+    "year": "2005",
+    "path": "oug/2005/148"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 44/2006",
+    "number": "44",
+    "year": "2006",
+    "path": "oug/2006/44"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 61/1993",
+    "number": "61",
+    "year": "1993",
+    "path": "lege/1993/61"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-01-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/78959",
+  "text_sha256": "f333a16827e338a06a2b72bfc5b9eada02be7a1548a513493aefa8ad117b5af0",
+  "catalogue_sha256": "f333a16827e338a06a2b72bfc5b9eada02be7a1548a513493aefa8ad117b5af0",
+  "fetched": "2026-11-03T00:16:17Z",
+  "chars": 8589,
+  "portal_id": "78959",
+  "tip": "DECIZIE"
+ }
+}
