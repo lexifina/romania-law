@@ -1,0 +1,184 @@
+{
+ "key": "dcc-16-2007",
+ "label": "Decizia CCR nr. 16/2007",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "16",
+ "date": "2007-01-10",
+ "year": "2007",
+ "heading": "DECIZIE nr. 16 din 10 ianuarie 2007",
+ "subtitle": "referitoare la constituţionalitatea Legii privind înfiinţarea Autorităţii Naţionale pentru Turism, în subordinea Guvernului României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "66",
+  "bis": false,
+  "date": "2007-01-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.374A/2006"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că Legea privind înfiinţarea Autorităţii Naţionale pentru Turism, în subordinea Guvernului României, este neconstituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "117",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 11/2004",
+    "number": "11",
+    "year": "2004",
+    "path": "oug/2004/11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 228/2004",
+    "number": "228",
+    "year": "2004",
+    "path": "lege/2004/228"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "o"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-01-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79028",
+  "text_sha256": "554575c6f0a0d138c568e4b6d6974c5a7bc55f75aab5e8e38e84d4220e15b03c",
+  "catalogue_sha256": "554575c6f0a0d138c568e4b6d6974c5a7bc55f75aab5e8e38e84d4220e15b03c",
+  "fetched": "2026-11-03T00:16:20Z",
+  "chars": 15478,
+  "portal_id": "79028",
+  "tip": "DECIZIE"
+ }
+}
