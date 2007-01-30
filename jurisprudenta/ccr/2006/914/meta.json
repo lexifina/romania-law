@@ -1,0 +1,140 @@
+{
+ "key": "dcc-914-2006",
+ "label": "Decizia CCR nr. 914/2006",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "914",
+ "date": "2006-12-14",
+ "year": "2006",
+ "heading": "DECIZIE nr. 914 din 14 decembrie 2006",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 2 pct. 1 lit. a) şi lit. b) şi ale art. 282^1 din Codul de procedură civila",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "71",
+  "bis": false,
+  "date": "2007-01-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.631/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civila",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "282-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 2 pct. 1 lit. a) şi lit. b) şi ale art. 282^1 din Codul de procedură civila, excepţie ridicata de Societatea Comerciala \"Fructexport International\" - S.R.L. din Bucureşti în Dosarul nr. 3.631/2005 al Tribunalului Dambovita - Sectia comerciala şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civila",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "282-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79098",
+  "text_sha256": "efca989e24c4e52f78a0a1df5802adf86240830821ff345a2e6a1fb3fc390a70",
+  "catalogue_sha256": "efca989e24c4e52f78a0a1df5802adf86240830821ff345a2e6a1fb3fc390a70",
+  "fetched": "2026-11-04T04:32:22Z",
+  "chars": 10705,
+  "portal_id": "79098",
+  "tip": "DECIZIE"
+ }
+}
