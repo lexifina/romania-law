@@ -1,0 +1,404 @@
+{
+ "key": "dcc-8-2007",
+ "label": "Decizia CCR nr. 8/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "8",
+ "date": "2007-01-09",
+ "year": "2007",
+ "heading": "DECIZIE nr. 8 din 9 ianuarie 2007",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 340-368 din Codul de procedură civila",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "73",
+  "bis": false,
+  "date": "2007-01-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.364/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civila",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "350",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "351",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "352",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "353",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "354",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "355",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "356",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "358",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "359",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "360",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "362",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "363",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "364",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "365",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "366",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "368",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 340-368 din Codul de procedură civila, excepţie ridicata de Maricel Ochisor şi Culina Ochisor în Dosarul nr. 4.364/2006 al Tribunalului Iasi - Sectia contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civila",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "350",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "351",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "352",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "353",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "354",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "355",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "356",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "358",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "359",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "360",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "362",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "363",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "364",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "365",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "366",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "368",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79099",
+  "text_sha256": "a47498ae4425c0614ca8e8fe2e67572466e5739ee8d4e72a91ffcfe2e8571e86",
+  "catalogue_sha256": "a47498ae4425c0614ca8e8fe2e67572466e5739ee8d4e72a91ffcfe2e8571e86",
+  "fetched": "2026-11-03T00:16:23Z",
+  "chars": 8171,
+  "portal_id": "79099",
+  "tip": "DECIZIE"
+ }
+}
