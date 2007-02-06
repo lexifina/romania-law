@@ -1,0 +1,195 @@
+{
+ "key": "dcc-40-2007",
+ "label": "Decizia CCR nr. 40/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "40",
+ "date": "2007-01-11",
+ "year": "2007",
+ "heading": "DECIZIE nr. 40 din 11 ianuarie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 11 din Legea nr. 51/1991 privind siguranţa naţională a României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "94",
+  "bis": false,
+  "date": "2007-02-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.790/45/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 11 din Legea nr. 51/1991 privind siguranţa naţională a României, excepţie ridicată din oficiu de instanţa de judecată, precum şi de Haddad Aquil Jamil Aiman în Dosarul nr. 1.790/45/2006 (nr. vechi 1.790/2006) al Curţii de Apel Iaşi - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului adiţional nr. 4",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-02-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79277",
+  "text_sha256": "364b597eb8a97a44bf1ec3c57804d0a286ece95962cf35828d2d4852ad3e7e70",
+  "catalogue_sha256": "364b597eb8a97a44bf1ec3c57804d0a286ece95962cf35828d2d4852ad3e7e70",
+  "fetched": "2026-11-03T00:16:35Z",
+  "chars": 8544,
+  "portal_id": "79277",
+  "tip": "DECIZIE"
+ }
+}
