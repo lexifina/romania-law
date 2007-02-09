@@ -1,0 +1,301 @@
+{
+ "key": "cedo-63108-00-2006-07-11",
+ "label": "CEDO, fără nume c. României, 2006-07-11",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2006-07-11",
+ "year": "2006",
+ "heading": "DECIZIE din 11 iulie 2006",
+ "subtitle": "privind cererile nr. 63.108/00, 62.595/00, 63.117/00, 63.118/00, 63.119/00, 63.121/00, 63.122/00, 63.816/00, 63.827/00, 63.829/00, 63.830/00, 63.837/00, 63.854/00, 63.857/00 şi 70.551/01, formulate de organizaţia religioasă \"Martorii lui Iehova - România\" şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA a III-A",
+ "mo": {
+  "number": "101",
+  "bis": false,
+  "date": "2007-02-09",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "63108/00"
+ ],
+ "subjects": [],
+ "operative": [
+  "CURTEA, În unanimitate hotărăşte să conexeze cererile; hotărăşte să scoată cererile de pe rol.",
+  "Bostjan M. Zupancic, preşedinte Vincent Berger, grefier --------"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 27/1994",
+    "number": "27",
+    "year": "1994",
+    "path": "lege/1994/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 177/1948",
+    "number": "177",
+    "year": "1948",
+    "path": "decret/1948/177"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 21/1924",
+    "number": "21",
+    "year": "1924",
+    "path": "lege/1924/21"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia din 1991",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 2.657/2003",
+    "number": "2657",
+    "year": "2003"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/1996",
+    "number": "46",
+    "year": "1996",
+    "path": "lege/1996/46"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "354",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 36/2002",
+    "number": "36",
+    "year": "2002",
+    "path": "og/2002/36"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului culturii şi cultelor nr. 2.657/2003",
+    "number": "2657",
+    "year": "2003"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.278/2002",
+    "number": "1278",
+    "year": "2002",
+    "path": "hg/2002/1278"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "504",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "505",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "506",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 618/1997",
+    "number": "618",
+    "year": "1997",
+    "path": "hg/1997/618"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "cedo: no case name"
+ ],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79406",
+  "text_sha256": "92237d8b8079589e67ff98dc64de477c2c7e7e330223e3523167553f3b330f63",
+  "catalogue_sha256": "92237d8b8079589e67ff98dc64de477c2c7e7e330223e3523167553f3b330f63",
+  "fetched": "2026-11-03T00:16:41Z",
+  "chars": 48888,
+  "portal_id": "79406",
+  "tip": "DECIZIE"
+ }
+}
