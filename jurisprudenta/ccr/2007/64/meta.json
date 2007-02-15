@@ -1,0 +1,197 @@
+{
+ "key": "dcc-64-2007",
+ "label": "Decizia CCR nr. 64/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "64",
+ "date": "2007-01-25",
+ "year": "2007",
+ "heading": "DECIZIE nr. 64 din 25 ianuarie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 26 din Legea nr. 122/2006 privind azilul în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "114",
+  "bis": false,
+  "date": "2007-02-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.311/302/2006",
+  "2.043D/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 26 din Legea nr. 122/2006 privind azilul în România, excepţie ridicată de Hua Xiaobin, Li Youying, Huang Yihua, Li Luyong în dosarele nr. 6.311/302/2006, nr. 9.198/302/2006, nr. 12.472/302/2006 şi nr. 7.108/302/2006 (7.604/2005) ale Judecătoriei Sectorului 5 Bucureşti şi de Wang Lumei, Xu Yian şi Wang Jian Wu în dosarele nr. 2.712/4/2004 şi nr. 2.383/302/2005 ale Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 102/2000",
+    "number": "102",
+    "year": "2000",
+    "path": "og/2000/102"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79531",
+  "text_sha256": "e28289ffe8e665485e2e0589745d954476acc1952e78ffe97d91d9fda11fab67",
+  "catalogue_sha256": "e28289ffe8e665485e2e0589745d954476acc1952e78ffe97d91d9fda11fab67",
+  "fetched": "2026-11-03T00:16:49Z",
+  "chars": 11952,
+  "portal_id": "79531",
+  "tip": "DECIZIE"
+ }
+}
