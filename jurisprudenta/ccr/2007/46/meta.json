@@ -1,0 +1,163 @@
+{
+ "key": "dcc-46-2007",
+ "label": "Decizia CCR nr. 46/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "46",
+ "date": "2007-01-11",
+ "year": "2007",
+ "heading": "DECIZIE nr. 46 din 11 ianuarie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 141 alin. (4) din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "117",
+  "bis": false,
+  "date": "2007-02-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.200/42/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 141 alin. (4) din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Andco\" - S.R.L. din Adunaţi în Dosarul nr. 3.327/F/C/2006 al Tribunalului Prahova - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-02-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79567",
+  "text_sha256": "9e8f25ec2b951573a552947f2f05d29a8833fb81a148b2e9e9dcfe153bc701e6",
+  "catalogue_sha256": "9e8f25ec2b951573a552947f2f05d29a8833fb81a148b2e9e9dcfe153bc701e6",
+  "fetched": "2026-11-05T05:37:08Z",
+  "chars": 6625,
+  "portal_id": "79567",
+  "tip": "DECIZIE"
+ }
+}
