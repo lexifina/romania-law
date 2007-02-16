@@ -1,0 +1,12 @@
+# Anexa 4
+------- la instrucțiuni --------------- NOTE EXPLICATIVE pentru documentele de transport și etichete
+a) Documentele de transport sunt produse de către autoritățile competente din statul membru de origine, pe baza modelului prezentat în anexa nr. 1 la instrucțiuni și ținând seama de speciile lotului, precum și de statutul locului de destinație.
+b) Originalul fiecărui document de transport consta într-o pagina simpla, recto verso. În cazul în care sunt necesare mai multe pagini, acestea trebuie să fie legate într-un ansamblu integrat și indivizibil.
+Fiecare pagina a documentului trebuie să poarte, sus și la dreapta, mențiunea "Original", însoțită de un cod specific eliberat de autoritatea competentă. Toate paginile titlului de transport sunt numerotate după următorul format: (numărul paginii) pe (numărul total de pagini).
+c) Originalul documentului de transport și etichetele menționate în modelul de document de transport sunt redactate în cel puțin o limbă oficială a statului membru de destinație. Statele membre sunt, cu toate acestea, libere sa autorizeze alte limbi, după caz, însoțite de o traducere oficială.
+d) Originalul documentului de transport trebuie să fie completat în ziua încărcării lotului, prevăzut cu o ștampila oficială și semnat de un inspector oficial desemnat de autoritatea competentă. Astfel, autoritatea competentă a statului membru de origine se asigura să fie aplicate norme de certificare echivalente cu cele stabilite de Directiva 96/93/CE.
+Semnatura și ștampila (în afară de cazul în care este vorba de un timbru sec) trebuie să fie de o culoare diferita de cea a textului imprimat.
+e) În cazul în care descrierea conținutului lotului impune foi suplimentare pentru documentul de transport, acestea sunt considerate ca un element constitutiv al originalului și trebuie să fie prevăzute cu ștampila și semnatura inspectorului oficial însărcinat cu certificarea.
+f) Originalul documentului de transport trebuie să însoțească lotul până la locul de destinație.
+g) Odată emis, documentul de transport este valabil timp de 10 zile. În cazul unui transport cu vaporul, această perioadă de valabilitate se prelungește cu durata transportului maritim.
+h) Animalele acvatice, icrele și gametii lor nu trebuie să fie transportate cu alte animale acvatice cu un statut sanitar inferior și nici cu icrele și gametii acestora. De asemenea, ele nu trebuie în niciun caz să fie transportate în alte condiții susceptibile sa modifice statutul lor sanitar sau sa compromita statutul sanitar al locului de destinație.
