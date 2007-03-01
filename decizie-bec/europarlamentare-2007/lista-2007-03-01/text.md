@@ -1,0 +1,2 @@
+LISTĂ din 1 martie 2007  semnelor electorale depuse de partidele politice, alianţele politice, alianţele electorale, organizaţiile cetăţenilor aparţinând minorităţilor naţionale şi candidaţii independenţi la alegerile pentru membrii din România în Parlamentul European din 13 mai 2007     EMITENT     BIROUL ELECTORAL CENTRAL       Publicat în
+			  MONITORUL OFICIAL nr. 149 din 1 martie 2007     - completare -  1. Partidul Noua Generaţie-Creştin Democrat  2. Partidul Liberal Democrat      --------
