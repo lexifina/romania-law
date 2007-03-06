@@ -1,0 +1,6 @@
+ HOTĂRÂRE nr. 12 din 1 martie 2007  pentru modificarea  Hotărârii Parlamentului României nr. 52/2006  privind constituirea Comisiei pentru afaceri europene a Parlamentului României     EMITENT     PARLAMENTUL       Publicat în
+			  MONITORUL OFICIAL nr. 157 din 6 martie 2007     În temeiul prevederilor art. 64 alin. (4) din Constituţia României, republicată,  Parlamentul României adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Se aprobă înlocuirea domnului deputat Hogea Vlad Gabriel cu domnul senator Iorga Nicolae Marian, aparţinând Grupului parlamentar al P.R.M., în componenţa nominală a Comisiei pentru afaceri europene a Parlamentului României.*)  _____________
+						Notă   ...
+			  *) Componenţa nominală a Comisiei pentru afaceri europene a Parlamentului României este aceea aprobată prin  Hotărârea Parlamentului României nr. 2/2005 , publicată în Monitorul Oficial al României, Partea I, nr. 175 din 1 martie 2005.   Această hotărâre a fost adoptată de Camera Deputaţilor şi de Senat în şedinţa comună din data de 1 martie 2007, cu respectarea prevederilor art. 76 alin. (2) din Constituţia României, republicată.  PREŞEDINTELE CAMEREI DEPUTAŢILOR  BOGDAN OLTEANU  p. PREŞEDINTELE SENATULUI,  ALEXANDRU PEREŞ  Bucureşti, 1 martie 2007.  Nr. 12.  -----
