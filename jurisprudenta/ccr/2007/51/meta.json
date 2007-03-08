@@ -1,0 +1,183 @@
+{
+ "key": "dcc-51-2007",
+ "label": "Decizia CCR nr. 51/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "51",
+ "date": "2007-01-16",
+ "year": "2007",
+ "heading": "DECIZIE nr. 51 din 16 ianuarie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 907 şi art. 908 din Codul comercial",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "166",
+  "bis": false,
+  "date": "2007-03-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.334/3/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [
+    {
+     "art": "907",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "908",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 907 şi 908 din Codul comercial, excepţie ridicată de Societatea Comercială \"Prod Export Matca\" - S.R.L. în Dosarul nr. 1.334/3/2006 al Tribunalului Bucureşti - Secţia a VI-a comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [
+    {
+     "art": "907",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "908",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "456",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-03-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80074",
+  "text_sha256": "569bfca7210ff11f7d8a3095c27c78b268ea8e8b7b8b1ead0dab1f062ad5af99",
+  "catalogue_sha256": "569bfca7210ff11f7d8a3095c27c78b268ea8e8b7b8b1ead0dab1f062ad5af99",
+  "fetched": "2026-11-03T00:17:19Z",
+  "chars": 7997,
+  "portal_id": "80074",
+  "tip": "DECIZIE"
+ }
+}
