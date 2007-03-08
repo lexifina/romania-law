@@ -1,0 +1,2 @@
+# Text
+Având în vedere prevederile Legii nr. 312/2004 privind Statutul Băncii Naționale a României și ținând seama de evoluțiile macroeconomice și monetare recente, Banca Națională a României hotărăște: Pentru luna martie 2007, nivelul ratei dobânzii de referință a Băncii Naționale a României este de 8,08 la sută pe an. Președintele Consiliului de administrație al Băncii Naționale a României, Mugur Constantin Isărescu București, 1 martie 2007. Nr. 5. ----
