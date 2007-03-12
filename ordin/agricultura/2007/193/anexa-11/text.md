@@ -1,0 +1,3 @@
+# Anexa 10
+-------- la anexa F ---------- Direcția pentru Agricultură și Dezvoltare Rurală......... SITUAȚIA JUSTIFICATIVĂ a sumelor reprezentând sprijinul financiar pentru motorina acordată în luna........... 2007 Volumul sprijinului financiar estimat......................... mii lei Volumul sprijinului financiar acordat......................... mii lei Plățile efectuate.................... mii lei Rest de acoperit..................... mii lei Director executiv,
+Director executiv adjunct,....................................................
