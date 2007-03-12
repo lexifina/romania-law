@@ -1,0 +1,2 @@
+LISTĂ din 12 martie 2007  semnelor electorale depuse de partidele politice, alianţele politice, alianţele electorale, organizaţiile cetăţenilor aparţinând minorităţilor naţionale şi candidaţii independenţi la alegerile pentru membrii din România în Parlamentul European din 13 mai 2007     EMITENT     BIROUL ELECTORAL CENTRAL       Publicat în
+			  MONITORUL OFICIAL nr. 170 din 12 martie 2007     - completare -  1. Uniunea Populară Social Creştină    -------
