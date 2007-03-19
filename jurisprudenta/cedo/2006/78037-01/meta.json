@@ -1,0 +1,140 @@
+{
+ "key": "cedo-78037-01-2006-06-29",
+ "label": "CEDO, Caracas c. României, 2006-06-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-06-29",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 29 iunie 2006",
+ "subtitle": "în Cauza Caracas împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "189",
+  "bis": false,
+  "date": "2007-03-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "no-violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "78037/01"
+ ],
+ "case_name": "Caracas",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA,  ÎN UNANIMITATE:  1. hotărăşte că a fost încălcat art. 6 alin. 1 din Convenţie;  2. hotărăşte că nu a fost încălcat art. 1 din Primul Protocol adiţional la Convenţie;  3. hotărăşte:\n```",
+  "a) ca statul pârât să achite reclamanţilor în solidar, în termen de 3 luni de la data la care hotărârea a rămas definitivă conform art. 44 alin. 2 din Convenţie, 5.000 euro (cinci mii de euro) pentru prejudiciu moral şi 1.000 euro (o mie de euro) pentru cheltuieli de judecată, plus orice sumă care ar putea fi datorată cu titlu de impozit, sume care urmează să fie plătite în lei, conform ratei de schimb aplicabile la data plăţii;",
+  "b) că, începând de la expirarea acestui termen şi până la efectuarea plăţii, aceste sume vor fi majorate cu o dobândă simplă egală cu rata dobânzii pentru facilitatea de împrumut marginal a Băncii Centrale Europene, aplicabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de satisfacţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80376",
+  "text_sha256": "8def4382aca2f34fca38bc31d4938e461ad2aba263b06730dbb97ba8bc29691a",
+  "catalogue_sha256": "8def4382aca2f34fca38bc31d4938e461ad2aba263b06730dbb97ba8bc29691a",
+  "fetched": "2026-11-03T00:17:36Z",
+  "chars": 23947,
+  "portal_id": "80376",
+  "tip": "HOTĂRÂRE"
+ }
+}
