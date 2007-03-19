@@ -1,0 +1,159 @@
+{
+ "key": "iccj-su-24-2006",
+ "label": "Decizia ÎCCJ nr. XXIV/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "24",
+ "number_printed": "XXIV",
+ "date": "2006-09-18",
+ "year": "2006",
+ "heading": "DECIZIA Nr. XXIV din 18 septembrie 2006",
+ "subtitle": "privind examinarea recursului în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie cu privire la consecinţele lipsei din dispozitivul hotărârii a menţiunii \"pronunţată în şedinţă publică\".",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "188",
+  "bis": false,
+  "date": "2007-03-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "12/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "310",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "357",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "358",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea prevederilor art. 310, art. 357 alin. 4 şi ale art. 358 din Codul de procedură penală, stabilesc:",
+  "Dispozitivul hotărârii trebuie să cuprindă menţiunea că pronunţarea acesteia s-a făcut în şedinţă publică.",
+  "Nerespectarea acestei cerinţe atrage nulitatea hotărârii, în condiţiile reglementate prin art. 197 alin. 1 şi 4 din Codul de procedură penală, numai atunci când se dovedeşte că s-a adus o vătămare care nu poate fi înlăturată decât prin anularea acelui act, iar anularea actului este necesară pentru aflarea adevărului şi pentru justa soluţionare a cauzei.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "357",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "310",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "358",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-03-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80354",
+  "text_sha256": "3d283628563e525133a54ecad09b859d6056a272b64b76b8b90ec9b0d6abc71f",
+  "catalogue_sha256": "3d283628563e525133a54ecad09b859d6056a272b64b76b8b90ec9b0d6abc71f",
+  "fetched": "2026-11-03T22:25:16Z",
+  "chars": 7050,
+  "portal_id": "80354",
+  "tip": "DECIZIE"
+ }
+}
