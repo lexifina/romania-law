@@ -1,0 +1,131 @@
+{
+ "key": "iccj-su-27-2006",
+ "label": "Decizia ÎCCJ nr. XXVII/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "27",
+ "number_printed": "XXVII",
+ "date": "2006-09-18",
+ "year": "2006",
+ "heading": "DECIZIE nr. XXVII din 18 septembrie 2006",
+ "subtitle": "privind recursul în interesul legii, declarat de procurorul general al Parchetului de pe lângă Înaltă Curte de Casaţie şi Justiţie, cu privire la aplicarea dispoziţiilor art. 11 pct. 2 lit. b) raportat la art. 10 alin. 1 lit. h) teza a II-a din Codul de procedură penală, referitoare la exprimarea acordului de voinţa al părţilor de a se împacă, în cazurile prevăzute de lege",
+ "issuer": "INALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "190",
+  "bis": false,
+  "date": "2007-03-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "15/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înaltă Curte de Casaţie şi Justiţie.",
+  "În aplicarea prevederilor art. 11 pct. 2 lit. b), cu referire la art. 10 alin. 1 lit. h) teza a II-a din Codul de procedură penală, stabilesc:",
+  "Încetarea procesului penal în cazul infracţiunilor pentru care împăcarea părţilor inlatura răspunderea penală poate fi dispusă de instanţa numai atunci când aceasta constata nemijlocit acordul de voinţa al inculpatului şi al persoanei vătămate de a se împacă total, necondiţionat şi definitiv, exprimat în şedinţa de judecată de aceste părţi, personal sau prin persoane cu mandat special, ori prin înscrisuri autentice.",
+  "Obligatorie potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-03-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80412",
+  "text_sha256": "fa991041d47f375a0d2553b1aa3f6beff6511ff8fff8f874b7e4096f7ea46a7f",
+  "catalogue_sha256": "fa991041d47f375a0d2553b1aa3f6beff6511ff8fff8f874b7e4096f7ea46a7f",
+  "fetched": "2026-11-03T00:17:37Z",
+  "chars": 6950,
+  "portal_id": "80412",
+  "tip": "DECIZIE"
+ }
+}
