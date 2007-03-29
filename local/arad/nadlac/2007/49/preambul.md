@@ -1,0 +1,6 @@
+Consiliul Local al orașului Nădlac, întrunit în ședința ordinară din data de
+29.03.2007,
+Având în vedere :
+Referatul primarului orașului Nădlac nr.4307/2007 referatul compartimentului administrarea patrimoniului local din cadrul primariei nr.4412/2007 Hotărârea Consiliului Local Nădlac nr.63/23.05.2006 privind trecerea în proprietatea privată a orașului Nădlac a terenului în suprafață de 719 mp, înscris în CF nr.8707 Nădlac, parcela nr. topo. 13691/106/1 Hotărârea Consiliului Local Nădlac nr.140/15.12.2006 privind aprobarea vânzării prin licitație publică a terenului în suprafață totală de 917 mp prevederile art.36(2), lit.c, (5), lit.b și art.123(1), (2) din Legea nr.215/2001 privind administrația publică locală, republicata avizul favorabil al comisiei pentru activități economicofinanciare, agricultură, juridică și de disciplină avizul favorabil al comisiei pentru amenajarea teritoriului și urbanism, protecție mediu și turism, administrație publică locală votul a 14 consilieri din totalul de 15 consilieri în funcție, fiind prezenți la ședința Consiliului local un număr de 14 consilieri
+În temeiul art.45 (21) din Legea nr.215/2001 privind administrația publică locală, republicata,
+HOTĂRĂȘTE :
