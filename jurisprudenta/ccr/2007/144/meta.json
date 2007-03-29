@@ -1,0 +1,195 @@
+{
+ "key": "dcc-144-2007",
+ "label": "Decizia CCR nr. 144/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "144",
+ "date": "2007-02-20",
+ "year": "2007",
+ "heading": "DECIZIE nr. 144 din 20 februarie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 pct. IV^1 şi ale art. 86 alin. (7) din Legea nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "215",
+  "bis": false,
+  "date": "2007-03-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.921/100/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 5 pct. IV^1 şi ale art. 86 alin. (7) din Legea nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă, excepţie ridicată de Societatea Comercială \"Hochwald\" - S.R.L. din Baia Mare în Dosarul nr. 2.921/100/2005 (nr. vechi 4.341/2005) al Tribunalului Maramureş - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "86",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 144/2005",
+    "number": "144",
+    "year": "2005",
+    "path": "oug/2005/144"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 114/2005",
+    "number": "114",
+    "year": "2005",
+    "path": "oug/2005/114"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-03-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80729",
+  "text_sha256": "fc9fda8e57334de5cfedb88533710bb6f4475e6cf93641345ab555966a79197a",
+  "catalogue_sha256": "fc9fda8e57334de5cfedb88533710bb6f4475e6cf93641345ab555966a79197a",
+  "fetched": "2026-11-03T00:17:55Z",
+  "chars": 10549,
+  "portal_id": "80729",
+  "tip": "DECIZIE"
+ }
+}
