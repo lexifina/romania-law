@@ -1,0 +1,224 @@
+{
+ "key": "dcc-104-2007",
+ "label": "Decizia CCR nr. 104/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "104",
+ "date": "2007-02-13",
+ "year": "2007",
+ "heading": "DECIZIE nr. 104 din 13 februarie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 45 alin. (5) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "237",
+  "bis": false,
+  "date": "2007-04-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "12.563/4/2005",
+  "30.262/3/2005",
+  "2.370/306/2006",
+  "2.181D/2006",
+  "2.225D/2006",
+  "2.282D/2006",
+  "2.404D/2006",
+  "2.470D/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 45 alin. (5) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989, excepţie ridicată de Margareta Avramescu, Ioan Alexandru Huzum, Iuliana Viorica Huzum şi Gheorghiu Venera în Dosarul 12.563/4/2005 al Tribunalului Bucureşti - Secţia a III-a civilă, de Beatrice Louise Vianu în Dosarul nr. 30.262/3/2005 al Tribunalului Bucureşti - Secţia a V-a civilă, de Elena Horodniceanu în dosarele nr. 5.275/302/2006 şi nr. 5.661/302/2006 ale Judecătoriei Sectorului 5 Bucureşti, de Agnes Wilhelmina Schwertner şi Elisabeta Schwertner în Dosarul nr. 5.324/C/2006 al Tribunalului Timiş - Secţia civilă şi de Wolfgang Dankwart Meister în Dosarul nr. 2.370/306/2006 al Judecătoriei Sibiu.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-04-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80974",
+  "text_sha256": "0bc057f105b3a448f73f97d3a8e3759794ad806cf6b63cb3f44041c7a1cddca6",
+  "catalogue_sha256": "0bc057f105b3a448f73f97d3a8e3759794ad806cf6b63cb3f44041c7a1cddca6",
+  "fetched": "2026-11-03T00:18:10Z",
+  "chars": 14189,
+  "portal_id": "80974",
+  "tip": "DECIZIE"
+ }
+}
