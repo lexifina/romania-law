@@ -1,0 +1,2 @@
+# Anexa
+1. Formularul 200 "Declarație specială privind veniturile realizate", cod 14.13.01.13; 2. Ghidul pentru completarea și depunerea declarației de venit pentru anul fiscal 2006; 3. scrisoarea adresată contribuabililor, semnată de președintele Agenției Naționale de Administrare Fiscală; 4. plicul "CR", destinat transmiterii declarației de venit de către contribuabili; 5. plicul exterior pentru transmiterile documentelor pachetului informațional către contribuabili.
