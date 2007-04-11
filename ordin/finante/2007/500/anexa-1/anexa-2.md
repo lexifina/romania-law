@@ -1,0 +1,6 @@
+# Anexa 2
+------- la norme --------
+CERTIFICAT de amânare de la plata în vamă a taxei pe valoarea adăugată în baza prevederilor art. 157 alin. (4) din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare nr.......... data..........
+Se acordă prezentul certificat...................................................................... (denumirea persoanei impozabile, înregistrată în scopuri de TVA) adresa...................., codul de înregistrare în scopuri de TVA în conformitate cu prevederile art. 153 din Codul fiscal.................
+Prezentul certificat este valabil pentru operațiunile de import cu punere în liberă circulație de bunuri pe teritoriul României până la data de......... inclusiv............................. (conducătorul unității emitente)
+------------------
