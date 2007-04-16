@@ -1,0 +1,223 @@
+{
+ "key": "dcc-137-2007",
+ "label": "Decizia CCR nr. 137/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "137",
+ "date": "2007-02-20",
+ "year": "2007",
+ "heading": "DECIZIE nr. 137 din 20 februarie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (2) din Legea nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi şi ale art. 4 din Ordonanţa de urgenţă a Guvernului nr. 117/2003 privind preluarea activităţii jurisdicţionale şi a personalului instanţelor Curţii de Conturi de către instanţele judecătoreşti",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "251",
+  "bis": false,
+  "date": "2007-04-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.678/45/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 117/2003",
+    "number": "117",
+    "year": "2003",
+    "path": "oug/2003/117"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (2) din Legea nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi şi ale art. 4 din Ordonanţa de urgenţă a Guvernului nr. 117/2003 privind preluarea activităţii jurisdicţionale şi a personalului instanţelor Curţii de Conturi de către instanţele judecătoreşti, excepţie ridicată din oficiu de către Curtea de Apel Iaşi - Secţia contencios administrativ şi fiscal în Dosarul nr. 3.678/45/2006.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 117/2003",
+    "number": "117",
+    "year": "2003",
+    "path": "oug/2003/117"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2006",
+    "number": "43",
+    "year": "2006",
+    "path": "oug/2006/43"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-04-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81186",
+  "text_sha256": "ae9d0505c2b93e683a58fdcd74407e2a4e60648b45465d70c320455304c8d2d3",
+  "catalogue_sha256": "ae9d0505c2b93e683a58fdcd74407e2a4e60648b45465d70c320455304c8d2d3",
+  "fetched": "2026-11-03T00:18:22Z",
+  "chars": 12195,
+  "portal_id": "81186",
+  "tip": "DECIZIE"
+ }
+}
