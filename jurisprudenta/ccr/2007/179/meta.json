@@ -1,0 +1,171 @@
+{
+ "key": "dcc-179-2007",
+ "label": "Decizia CCR nr. 179/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "179",
+ "date": "2007-03-06",
+ "year": "2007",
+ "heading": "DECIZIE nr. 179 din 6 martie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. I punctul 39 cuprins în titlul VI al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "253",
+  "bis": false,
+  "date": "2007-04-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.252D/2006",
+  "2.248D/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. I punctul 39 cuprins în titlul VI al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, excepţie ridicată de Maria Cojocaru, Vasile Crudu, Emilia Ciobanu, Ana Cîrjă şi Vasile Cîrjă, Dumitru Ignat, Ana Cîrjă, Virginia Bobescu şi Constantin Dunăroaia, Toader Ciucanu, Elena Ignat, Petrea Tănase şi Ana Tănase, Petru Bălănescu, Mihai Valica, Zenovia Cojocaru, Elisabeta Iosub, Vasile Lupu şi, respectiv, Gheorghe Nevoie, prin procurator Mihaela Nevoie, în dosarele nr. 1.570/RC/2006, nr. 1.439/RC/2006, nr. 1.449/RC/2006, nr. 1.447/RC/2006, nr. 1.464/RC/2006, nr. 1.674/RC/2006, nr. 1.753/RC/2006, nr. 1.525/RC/2006, nr. 1.470/RC/2006, nr. 1.568/RC/2006, nr. 1.459/RC/2006, nr. 2.038/RC/2006, nr. 1.761/RC/2006, nr. 1.193/RC/2006, şi, respectiv, nr. 1.476/RC/2006 ale Tribunalului Neamţ - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/1945",
+    "number": "187",
+    "year": "1945",
+    "path": "lege/1945/187"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-04-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81182",
+  "text_sha256": "e906573f1cb6d45a4de1dffed6fc7121b0006f4cf9c1efd78f005c9a4b19a55e",
+  "catalogue_sha256": "e906573f1cb6d45a4de1dffed6fc7121b0006f4cf9c1efd78f005c9a4b19a55e",
+  "fetched": "2026-11-05T05:14:58Z",
+  "chars": 10946,
+  "portal_id": "81182",
+  "tip": "DECIZIE"
+ }
+}
