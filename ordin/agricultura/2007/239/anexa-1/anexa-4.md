@@ -1,0 +1,6 @@
+# Anexa 4 la normele metodologice
+SITUAȚIA privind activitățile desfășurate în domeniul îmbunătățirilor funciare
+Persoana juridică...................
+Anul Lucrarea Capacități puse în funcțiune Valoarea totală a investiției/valoarea realizată direct de persoana juridică Alte elemente specifice Observații
+Data completării......................................................... (numele, prenumele, semnătura autorizată și ștampila) _____________
+Notă...
