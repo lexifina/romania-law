@@ -1,0 +1,57 @@
+# Anexa 1
+390 DECLARAȚIE RECAPITULATIVĂ PRIVIND LIVRĂRILE/ACHIZIȚIILE SIGLĂ
+VIE INTRACOMUNITARE DE BUNURI
+PERIOADA DE RAPORTARE
+ANUL
+PERIOADA:
+Perioada trimestrială: T1, T2, T3 sau T4
+FELUL DECLARAȚIEI
+DECLARAȚIE INIȚIALĂ
+DECLARAȚIE RECTIFICATIVĂ
+DATE DE IDENTIFICARE
+COD DE IDENTIFICARE FISCALĂ RO
+DENUMIRE/NUME, PRENUME
+DOMICILIUL FISCAL
+JUDEȚ
+SECTOR
+LOCALITATE
+STRADĂ
+COD POȘTAL
+NR.
+BLOC
+SCARĂ
+ETAJ
+AP.
+TELEFON
+FAX
+E-MAIL
+REZUMAT DECLARAȚIE
+NUMĂR TOTAL PAGINI ANEXĂ LA DECLARAȚIE
+NUMĂRUL TOTAL AL OPERATORILOR INTRACOMUNITARI
+SUMA LIVRĂRILOR/ACHIZIȚIILOR INTRACOMUNITARE DE BUNURI
+LIVRĂRI
+ACHIZIȚII
+LIVRĂRI ÎN CADRUL UNEI OPERAȚIUNI TRIUNGHIULARE
+Sub sancțiunile aplicate faptei de fals în acte publice, declar că datele înscrise în acest formular sunt corecte și complete
+Numele persoanei care face declarația
+Funcția
+Ștampila
+Semnătura
+Se completează de personalul organului fiscal
+Organ fiscal
+Număr înregistrare
+Dată înregistrare
+/
+/
+Numele persoanei care a verificat
+Cod MFP: 14.13.01.02/r
+COD RO
+ANUL
+PERIOADA
+PAG.
+LISTA OPERAȚIUNILOR INTRACOMUNITARE
+ȚARA COD OPERATOR INTRACOMUNITAR DENUMIRE/NUME, PRENUME OPERATOR INTRACOMUNITAR TIP (A/L/T) BAZA IMPOZABILĂ
+TOTAL pagină
+TOTAL GENERAL
+----------
+TIP operațiune se completeaza cu: A achizitie și achizitie în cadrul unei operațiuni triunghiulare, L livrare, T livrari în cadrul unei operațiuni triunghiulare.
