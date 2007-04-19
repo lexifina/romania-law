@@ -1,0 +1,194 @@
+{
+ "key": "cedo-77048-01-2006-10-12",
+ "label": "CEDO, Ţovaru c. României, 2006-10-12",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-10-12",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 12 octombrie 2006",
+ "subtitle": "în Cauza Ţovaru împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "264",
+  "bis": false,
+  "date": "2007-04-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "77048/01"
+ ],
+ "case_name": "Ţovaru",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în privinţa capătului de cerere întemeiat pe art. 1 din Protocolul nr. 1 şi inadmisibilă pentru rest; 2. hotărăşte că a existat o încălcare a art. 1 din Protocolul nr. 1; 3. hotărăşte că nu este cazul să examineze capătul de cerere întemeiat pe art. 13 din Convenţie; 4. hotărăşte",
+  "a) că statul pârât trebuie să restituie reclamantului apartamentul nr. 1 din imobilul aflat în municipiul Bucureşti, strada Donici nr. 11 bis, în termen de 3 luni începând de la data la care hotărârea va deveni definitivă conform art. 44 alin. 2 din Convenţie;",
+  "b) că, în lipsa unei asemenea restituiri, statul pârât trebuie să plătească reclamantului, în acelaşi termen de 3 luni, 50.000 de euro (cincizeci de mii de euro) cu titlu de prejudiciu material, plus orice sumă care ar putea fi datorată cu titlu de impozit;",
+  "5. hotărăşte că statul pârât trebuie să plătească reclamantului, în acelaşi termen de 3 luni, 3.000 de euro (trei mii de euro) cu titlu de prejudiciu moral; 6. hotărăşte că statul pârât trebuie să plătească reclamantului, în acelaşi termen de 3 luni, 1.300 de euro (o mie trei sute de euro), cu titlu de cheltuieli de judecată; 7. hotărăşte că sumele menţionate vor fi convertite în moneda statului pârât, conform ratei de schimb aplicabile la data efectuării plăţii; 8. hotărăşte că, începând de la expirarea termenului de mai sus şi până la plata efectivă, aceste sume vor fi majorate cu o dobândă simplă egală cu rata dobânzii la împrumutul marginal practicată de Banca Centrală Europeană în această perioadă, majorată cu 3 puncte procentuale; 9. respinge cererea de satisfacţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81278",
+  "text_sha256": "74556dae37aa622965e459f27a0014726de32b47deab8dd3b30a12eeea8b078e",
+  "catalogue_sha256": "74556dae37aa622965e459f27a0014726de32b47deab8dd3b30a12eeea8b078e",
+  "fetched": "2026-11-03T00:18:29Z",
+  "chars": 27197,
+  "portal_id": "81278",
+  "tip": "HOTĂRÂRE"
+ }
+}
