@@ -1,0 +1,180 @@
+{
+ "key": "dcc-200-2007",
+ "label": "Decizia CCR nr. 200/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "200",
+ "date": "2007-03-13",
+ "year": "2007",
+ "heading": "DECIZIE nr. 200 din 13 martie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 3 lit. c) şi ale art. 39 din Legea nr. 273/2004 privind regimul juridic al adopţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "276",
+  "bis": false,
+  "date": "2007-04-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.156/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 3 lit. c) şi ale art. 39 din Legea nr. 273/2004 privind regimul juridic al adopţiei, excepţie ridicată de Johann Adam în Dosarul nr. 7.156/2006 al Tribunalului Arad - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-04-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81457",
+  "text_sha256": "e886e7e94cf66f285fbbeb9ba5ec8d91bc759a15523ad4f40581a3339f4cdca3",
+  "catalogue_sha256": "e886e7e94cf66f285fbbeb9ba5ec8d91bc759a15523ad4f40581a3339f4cdca3",
+  "fetched": "2026-11-03T00:18:37Z",
+  "chars": 7337,
+  "portal_id": "81457",
+  "tip": "DECIZIE"
+ }
+}
