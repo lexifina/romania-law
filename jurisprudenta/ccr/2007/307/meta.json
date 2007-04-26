@@ -1,0 +1,240 @@
+{
+ "key": "dcc-307-2007",
+ "label": "Decizia CCR nr. 307/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "307",
+ "date": "2007-03-29",
+ "year": "2007",
+ "heading": "DECIZIE nr. 307 din 29 martie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (4), art. 11 şi art. 15 din Ordonanţa Guvernului nr. 27/2002 privind reglementarea activităţii de soluţionare a petiţiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "279",
+  "bis": false,
+  "date": "2007-04-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "24.563/2/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2002",
+    "number": "27",
+    "year": "2002",
+    "path": "og/2002/27"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (4), art. 11 şi art. 15 din Ordonanţa Guvernului nr. 27/2002 privind reglementarea activităţii de soluţionare a petiţiilor, excepţie ridicată de Costin ţugui în Dosarul nr. 24.563/2/2005 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2002",
+    "number": "27",
+    "year": "2002",
+    "path": "og/2002/27"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-04-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81497",
+  "text_sha256": "3971f56bde0f786a423df6eb3343dc3a79c522229838ecda10d76f7c4b9cfa0d",
+  "catalogue_sha256": "3971f56bde0f786a423df6eb3343dc3a79c522229838ecda10d76f7c4b9cfa0d",
+  "fetched": "2026-11-03T00:18:43Z",
+  "chars": 10255,
+  "portal_id": "81497",
+  "tip": "DECIZIE"
+ }
+}
