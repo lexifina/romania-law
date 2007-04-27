@@ -1,0 +1,204 @@
+{
+ "key": "dcc-286-2007",
+ "label": "Decizia CCR nr. 286/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "286",
+ "date": "2007-03-22",
+ "year": "2007",
+ "heading": "DECIZIE nr. 286 din 22 martie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 66 alin. (1) şi (4) din Legea nr. 122/2006 privind azilul în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "283",
+  "bis": false,
+  "date": "2007-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "12.122/302/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 66 alin. (1) şi (4) din Legea nr. 122/2006 privind azilul în România, excepţie ridicată de Muhammad Nasim Tarik în Dosarul nr. 12.122/302/2006 al Judecătoriei Sectorului 5 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 102/2000",
+    "number": "102",
+    "year": "2000",
+    "path": "og/2000/102"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/1991",
+    "number": "46",
+    "year": "1991",
+    "path": "lege/1991/46"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81525",
+  "text_sha256": "81efad45ebbe0958807c41f199130457dd357cc2637d177eec712b7911ff7190",
+  "catalogue_sha256": "81efad45ebbe0958807c41f199130457dd357cc2637d177eec712b7911ff7190",
+  "fetched": "2026-11-03T00:18:44Z",
+  "chars": 8656,
+  "portal_id": "81525",
+  "tip": "DECIZIE"
+ }
+}
