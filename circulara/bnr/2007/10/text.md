@@ -1,0 +1,2 @@
+# Text
+Având în vedere prevederile Legii nr. 312/2004 privind Statutul Băncii Naționale a României și ținând seama de evoluțiile macroeconomice și monetare recente, Banca Națională a României hotărăște: Pentru luna mai 2007, nivelul ratei dobânzii de referință a Băncii Naționale a României este de 7,50% pe an. Președintele Consiliului de administrație al Băncii Naționale a României, Mugur Constantin Isărescu București, 2 mai 2007. Nr. 10. -------
