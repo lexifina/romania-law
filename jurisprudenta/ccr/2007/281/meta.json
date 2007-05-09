@@ -1,0 +1,143 @@
+{
+ "key": "dcc-281-2007",
+ "label": "Decizia CCR nr. 281/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "281",
+ "date": "2007-03-22",
+ "year": "2007",
+ "heading": "DECIZIE nr. 281 din 22 martie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Decretului nr. 513/1956",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "308",
+  "bis": false,
+  "date": "2007-05-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "11.771/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 513/1956",
+    "number": "513",
+    "year": "1956",
+    "path": "decret/1956/513"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor Decretului nr. 513/1956, excepţie ridicată de Rodica I. Grumeza şi Mihai I. Grumeza în Dosarul nr. 11.771/2005 al Tribunalului Iaşi.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 513/1956",
+    "number": "513",
+    "year": "1956",
+    "path": "decret/1956/513"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81798",
+  "text_sha256": "5a45a82d148d0a29f304d48f2a28832837f7a63de69123ee50179dd2ad39301e",
+  "catalogue_sha256": "5a45a82d148d0a29f304d48f2a28832837f7a63de69123ee50179dd2ad39301e",
+  "fetched": "2026-11-05T08:42:21Z",
+  "chars": 6259,
+  "portal_id": "81798",
+  "tip": "DECIZIE"
+ }
+}
