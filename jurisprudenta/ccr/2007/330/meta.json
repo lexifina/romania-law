@@ -1,0 +1,230 @@
+{
+ "key": "dcc-330-2007",
+ "label": "Decizia CCR nr. 330/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "330",
+ "date": "2007-04-03",
+ "year": "2007",
+ "heading": "DECIZIE nr. 330 din 3 aprilie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 141 alin. 1 teza a doua din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "317",
+  "bis": false,
+  "date": "2007-05-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "28.692/3/2006",
+  "2.224D/2006",
+  "2.352D/2006",
+  "2.212D/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 141 alin. 1 teza a doua din Codul de procedură penală, excepţie ridicată de Gabriel Becheanu, Iulian Drosu şi Mihaela Angela Spătaru, respectiv Kamel Ahmed Abdrabo Mohammed, în dosarele nr. 28.692/3/2006, nr. 9.169/2/2006 şi nr. 9.133/2/2006 ale Curţii de Apel Bucureşti - Secţia a II-a penală şi pentru cauze cu minori şi familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140-3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "149-1",
+     "alin": [
+      "13"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "7",
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adiţional nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-05-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81897",
+  "text_sha256": "14c8cf7cbfc9c43b10fa7fc37634fc3e9154effb8322efa54a00b456eeea4e02",
+  "catalogue_sha256": "14c8cf7cbfc9c43b10fa7fc37634fc3e9154effb8322efa54a00b456eeea4e02",
+  "fetched": "2026-11-03T00:19:05Z",
+  "chars": 16668,
+  "portal_id": "81897",
+  "tip": "DECIZIE"
+ }
+}
