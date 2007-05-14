@@ -1,0 +1,194 @@
+{
+ "key": "dcc-376-2007",
+ "label": "Decizia CCR nr. 376/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "376",
+ "date": "2007-04-17",
+ "year": "2007",
+ "heading": "DECIZIE nr. 376 din 17 aprilie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12 alin. (1) lit. d) din Legea nr. 544/2001 privind liberul acces la informaţiile de interes public",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "321",
+  "bis": false,
+  "date": "2007-05-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.129/44/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 12 alin. (1) lit. d) din Legea nr. 544/2001 privind liberul acces la informaţiile de interes public, excepţie ridicată de Victor Belcin în Dosarul nr. 2.129/44/2006 al Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 380/2006",
+    "number": "380",
+    "year": "2006",
+    "path": "lege/2006/380"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 677/2001",
+    "number": "677",
+    "year": "2001",
+    "path": "lege/2001/677"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-05-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82020",
+  "text_sha256": "11b8dfc4aeb78c2aaf1d5f56d547698d4367bb906f965c88ad54d5c537390755",
+  "catalogue_sha256": "11b8dfc4aeb78c2aaf1d5f56d547698d4367bb906f965c88ad54d5c537390755",
+  "fetched": "2026-11-03T00:19:14Z",
+  "chars": 9752,
+  "portal_id": "82020",
+  "tip": "DECIZIE"
+ }
+}
