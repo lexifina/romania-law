@@ -1,0 +1,224 @@
+{
+ "key": "dcc-356-2007",
+ "label": "Decizia CCR nr. 356/2007",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "356",
+ "date": "2007-04-05",
+ "year": "2007",
+ "heading": "DECIZIE nr. 356 din 5 aprilie 2007",
+ "subtitle": "asupra cererii de soluţionare a conflictului juridic de natură constituţională dintre Preşedintele României şi Guvernul României, formulată de primul-ministru Călin Popescu-Tăriceanu",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "322",
+  "bis": false,
+  "date": "2007-05-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "343E/2007"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că refuzul Preşedintelui României de a numi un membru al Guvernului la propunerea primului-ministru a declanşat un conflict juridic de natură constituţională, care a încetat să mai subziste ca urmare a emiterii decretelor prezidenţiale nr. 193/12 martie 2007, 237/22 martie 2007 şi 379/4 aprilie 2007.",
+  "În exercitarea atribuţiilor prevăzute de art. 85 alin. (2) din Constituţie, Preşedintele României nu are un drept de veto, dar poate cere primului-ministru să renunţe la propunerea făcută, atunci când constată că persoana propusă nu îndeplineşte condiţiile legale pentru exercitarea funcţiei de membru al Guvernului.",
+  "Definitivă.",
+  "Decizia se comunică Preşedintelui României şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-05-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81978",
+  "text_sha256": "b1a626a96fb555e5f1a52c778d0863d887eeaa84b51de710f1c6fd85522811c4",
+  "catalogue_sha256": "b1a626a96fb555e5f1a52c778d0863d887eeaa84b51de710f1c6fd85522811c4",
+  "fetched": "2026-11-03T00:19:12Z",
+  "chars": 40373,
+  "portal_id": "81978",
+  "tip": "DECIZIE"
+ }
+}
