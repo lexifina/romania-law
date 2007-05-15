@@ -1,0 +1,5 @@
+# Anexa 1
+CRITERIILE DE ÎNCADRARE și delimitarea unităților administrativ-teritoriale în zona montană defavorizată 1. Zonele montane defavorizate sunt acele zone, delimitate la nivel de unitate administrativ-teritorială, care se caracterizează prin limitarea considerabilă a posibilităților de utilizare a terenului și prin creșterea apreciabilă a costurilor lucrărilor acestuia, datorate:
+a) existenței unor altitudini medii de peste 600 m, care determină condiții climatice deosebit de dificile, al căror efect este scurtarea substanțială a sezonului de vegetație; sau
+b) prezenței la o altitudine medie între 400 și 600 m, care determină condiții climatice dificile, a unor pante medii de peste 15%, care fac imposibilă mecanizarea sau necesită utilizarea unor echipamente specifice costisitoare.
+2. Delimitarea la nivel de unitate administrativ-teritorială, potrivit criteriilor stabilite la pct. 1, s-a realizat pe baza suprapunerii hărții conținând limitele unităților administrativ-teritoriale cu harta conținând modelul digital al terenului (DTM). Prezentarea grafica a unităților administrativ-teritoriale în zona montana defavorizata
