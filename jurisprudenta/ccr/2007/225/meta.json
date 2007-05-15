@@ -1,0 +1,168 @@
+{
+ "key": "dcc-225-2007",
+ "label": "Decizia CCR nr. 225/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "225",
+ "date": "2007-03-13",
+ "year": "2007",
+ "heading": "DECIZIE nr. 225 din 13 martie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 lit. e) şi art. 6 din Legea nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "325",
+  "bis": false,
+  "date": "2007-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.999/320/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1990",
+    "number": "12",
+    "year": "1990",
+    "path": "lege/1990/12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 lit. e) şi art. 6 din Legea nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite, excepţie ridicată de Societatea Comercială \"Taxtomato Pres\" - S.R.L. din Târgu Mureş în Dosarul nr. 2.999/320/2006 al Judecătoriei Târgu Mureş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1990",
+    "number": "12",
+    "year": "1990",
+    "path": "lege/1990/12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82032",
+  "text_sha256": "fe895ef6369941cb90abf84965e5a155e90f57bb0066b1c3d648d9061b7d911e",
+  "catalogue_sha256": "fe895ef6369941cb90abf84965e5a155e90f57bb0066b1c3d648d9061b7d911e",
+  "fetched": "2026-11-03T00:19:17Z",
+  "chars": 9632,
+  "portal_id": "82032",
+  "tip": "DECIZIE"
+ }
+}
