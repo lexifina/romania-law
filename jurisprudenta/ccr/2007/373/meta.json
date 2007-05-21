@@ -1,0 +1,171 @@
+{
+ "key": "dcc-373-2007",
+ "label": "Decizia CCR nr. 373/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "373",
+ "date": "2007-04-17",
+ "year": "2007",
+ "heading": "DECIZIE nr. 373 din 17 aprilie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 73-75 din Hotărârea Guvernului nr. 52/2005 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2005",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "342",
+  "bis": false,
+  "date": "2007-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.670/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 52/2005",
+    "number": "52",
+    "year": "2005",
+    "path": "hg/2005/52"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 73-75 din Hotărârea Guvernului nr. 52/2005 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2005, excepţie ridicată de Ion Nedelcu în Dosarul nr. 3.670/2006 al Tribunalului Prahova - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 52/2005",
+    "number": "52",
+    "year": "2005",
+    "path": "hg/2005/52"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82215",
+  "text_sha256": "e768edfd771cdd4f2259fc47cad34209f0a1e3d9ab54da9acac724fa6c774e7f",
+  "catalogue_sha256": "e768edfd771cdd4f2259fc47cad34209f0a1e3d9ab54da9acac724fa6c774e7f",
+  "fetched": "2026-11-03T00:19:25Z",
+  "chars": 6106,
+  "portal_id": "82215",
+  "tip": "DECIZIE"
+ }
+}
