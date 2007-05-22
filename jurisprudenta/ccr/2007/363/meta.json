@@ -1,0 +1,172 @@
+{
+ "key": "dcc-363-2007",
+ "label": "Decizia CCR nr. 363/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "363",
+ "date": "2007-04-17",
+ "year": "2007",
+ "heading": "DECIZIE nr. 363 din 17 aprilie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 403 alin. 4 şi art. 581 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "346",
+  "bis": false,
+  "date": "2007-05-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.330D/2006",
+  "2.192D/2006",
+  "8.046/2006",
+  "8.258/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "403",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "581",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 403 alin. 4 şi art. 581 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Indian England NV\" din Amsterdam, Olanda, în dosarele nr. 8.046/2006 şi nr. 8.258/2006 ale Judecătoriei Râmnicu Vâlcea.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "403",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "581",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "582",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-05-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82256",
+  "text_sha256": "fe5ac7a52fbed7ea6ae06d2afc435903d672de0fae983ba6fedc83ebb56141de",
+  "catalogue_sha256": "fe5ac7a52fbed7ea6ae06d2afc435903d672de0fae983ba6fedc83ebb56141de",
+  "fetched": "2026-11-03T00:19:27Z",
+  "chars": 11272,
+  "portal_id": "82256",
+  "tip": "DECIZIE"
+ }
+}
