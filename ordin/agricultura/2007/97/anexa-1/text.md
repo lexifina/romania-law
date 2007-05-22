@@ -1,0 +1,15 @@
+# Anexa 1
+I. Structura serviciilor specifice și a tarifelor prin care se constituie veniturile proprii ale Agenției Naționale de Consultanță Agricolă și ale unităților subordonate acesteia, cuantumul tarifelor, modalitățile de încasare și de utilizare a fondurilor pentru anul 2007
+Nr. crt. Servicii Tarif - lei -
+1. Servicii acordate firmelor care comercializează inputuri în agricultură pentru participare în cadrul târgurilor și expozițiilor organizate de către Agenția Națională de Consultanță Agricolă și rețeaua sa teritorială între 100 și 300
+2. Servicii acordate firmelor distribuitoare de inputuri pentru organizarea de către Agenția Națională de Consultanță Agricolă prin rețeaua sa teritorială de loturi demonstrative și ferme pilot, pentru care vor primi la sfârșitul perioadei de contractare un raport detaliat asupra rezultatelor obținute între 200 și 500
+3. Servicii acordate diverselor firme pentru promovarea produselor comercializate de către acestea, în ziarele editate de către oficiile județene de consultanță agricolă 0,75/cm2
+4. Servicii de multiplicare a materialelor informative de specialitate 0,75/pagină
+5. Servicii privind elaborarea documentației pentru accesarea de fonduri de la Uniunea Europeană pentru proiecte cu cofinanțare publică în valoare de peste 10.000 euro între 1% și 5% din valoarea proiectului
+6. Organizarea de cursuri de pregătire profesională a adulților tarif de înscriere tarif pentru eliberare certificat de calificare profesională tarif pentru eliberare carnet conducere tractor în brazdă 20/cursant 40/cursant 60/cursant
+7. Servicii pentru realizarea de cursuri finanțate de Agenția Națională pentru Ocuparea Forței de Muncă și alte instituții interesate între 30% și 50% din valoarea cursului
+8. Organizarea de cursuri de pregătire profesională a adulților Cursuri autorizate de Consiliul Național de Formare Profesională a Adulților 100/cursant
+9. Servicii de asistență tehnică pentru întocmirea documentației necesare constituirii de forme asociative 300/documentație
+10. Servicii de contabilitate pentru ferme 300/trimestru
+11. Servicii de închiriere a proprietății publice, a bunurilor imobile aflate în administrare _____________
+II. Modalitățile de încasare a tarifelor percepute pentru serviciile prestate sunt prevăzute în Legea contabilității nr. 82/1991, republicată, cu modificările și completările ulterioare, respectiv factură fiscală și chitanță fiscală. III. Modalități de utilizare a fondurilor rezultate din veniturile proprii ale Agenției Naționale de Consultanță Agricolă și ale unităților subordonate acesteia, în anul 2007 1. Completarea sumelor alocate prin Ordonanța Guvernului nr. 61/1998 privind finanțarea acțiunilor de consultanță și formare profesională destinate agricultorilor pentru derularea acțiunilor de consultanță agricolă și formare profesională (seminarii, târguri și expoziții interne și internaționale); 2. Cheltuieli curente (materiale) și de capital în limita sumelor neacoperite din bugetul de stat, conform legilor în vigoare.
