@@ -1,0 +1,171 @@
+{
+ "key": "dcc-364-2007",
+ "label": "Decizia CCR nr. 364/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "364",
+ "date": "2007-04-17",
+ "year": "2007",
+ "heading": "DECIZIE nr. 364 din 17 aprilie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. 1, 1^1 şi 1^2 din Ordonanţa Guvernului nr. 25/2002 privind unele măsuri pentru monitorizarea postprivatizare a contractelor de vânzare-cumpărare de acţiuni deţinute de stat la societăţile comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "353",
+  "bis": false,
+  "date": "2007-05-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.536/3/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 25/2002",
+    "number": "25",
+    "year": "2002",
+    "path": "og/2002/25"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. 1, 1^1 şi 1^2 din Ordonanţa Guvernului nr. 25/2002 privind unele măsuri pentru monitorizarea postprivatizare a contractelor de vânzare-cumpărare de acţiuni deţinute de stat la societăţile comerciale, excepţie ridicată de Asociaţia Salariaţilor şi Membrilor Conducerii Societăţii Comerciale \"Crinul\" - S.A. în Dosarul nr. 6.536/3/2005 al Curţii de Apel Bucureşti - Secţia a V-a comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 25/2002",
+    "number": "25",
+    "year": "2002",
+    "path": "og/2002/25"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-05-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82285",
+  "text_sha256": "a471f8cf0e184a23a4a19c40434cd307a5e8a343cb369141f2ee74485f9c33d3",
+  "catalogue_sha256": "a471f8cf0e184a23a4a19c40434cd307a5e8a343cb369141f2ee74485f9c33d3",
+  "fetched": "2026-11-03T00:19:30Z",
+  "chars": 9707,
+  "portal_id": "82285",
+  "tip": "DECIZIE"
+ }
+}
