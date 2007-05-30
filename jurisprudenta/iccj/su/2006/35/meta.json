@@ -1,0 +1,170 @@
+{
+ "key": "iccj-su-35-2006",
+ "label": "Decizia ÎCCJ nr. XXXV/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "35",
+ "number_printed": "XXXV",
+ "date": "2006-11-06",
+ "year": "2006",
+ "heading": "DECIZIE nr. XXXV din 6 noiembrie 2006",
+ "subtitle": "privind examinarea recursului în interesul legii, declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie, cu privire la aplicarea sancţiunilor cu caracter administrativ faptelor concurente în cazul când sunt incidente dispoziţiile art. 18^1 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "368",
+  "bis": false,
+  "date": "2007-05-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "25/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 18^1 din Codul penal, stabilesc:",
+  "În cazul săvârşirii de către aceeaşi persoană a unor fapte concurente care, în accepţiunea textului de lege menţionat, nu prezintă gradul de pericol social al unor infracţiuni, se va aplica o singură sancţiune cu caracter administrativ, conform dispoziţiilor art. 91 din Codul penal.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b-1",
+      "a"
+     ]
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82458",
+  "text_sha256": "ee633d72f15760cf2ad8450592273db05de05532de7df0650d575335f7ee7115",
+  "catalogue_sha256": "ee633d72f15760cf2ad8450592273db05de05532de7df0650d575335f7ee7115",
+  "fetched": "2026-11-03T00:19:39Z",
+  "chars": 7189,
+  "portal_id": "82458",
+  "tip": "DECIZIE"
+ }
+}
