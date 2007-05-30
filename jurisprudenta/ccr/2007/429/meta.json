@@ -1,0 +1,137 @@
+{
+ "key": "dcc-429-2007",
+ "label": "Decizia CCR nr. 429/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "429",
+ "date": "2007-05-10",
+ "year": "2007",
+ "heading": "DECIZIE nr. 429 din 10 mai 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 117/2003 privind preluarea activităţii jurisdicţionale şi a personalului instanţelor Curţii de Conturi de către instanţele judecătoreşti",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "367",
+  "bis": false,
+  "date": "2007-05-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.221/84/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 117/2003",
+    "number": "117",
+    "year": "2003",
+    "path": "oug/2003/117"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 117/2003 privind preluarea activităţii jurisdicţionale şi a personalului instanţelor Curţii de Conturi de către instanţele judecătoreşti, excepţie ridicată de Liliana Maria Neaga din Zalău în Dosarul nr. 2.221/84/2006 al Tribunalului Sălaj - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 117/2003",
+    "number": "117",
+    "year": "2003",
+    "path": "oug/2003/117"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82441",
+  "text_sha256": "8583c3933ee7034cb2bc285d2eaf008e19835259ad711e3670159a7798565e1f",
+  "catalogue_sha256": "8583c3933ee7034cb2bc285d2eaf008e19835259ad711e3670159a7798565e1f",
+  "fetched": "2026-11-03T00:19:39Z",
+  "chars": 7657,
+  "portal_id": "82441",
+  "tip": "DECIZIE"
+ }
+}
