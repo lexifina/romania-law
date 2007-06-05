@@ -1,0 +1,2 @@
+# Anexa 3
+COMPONENȚA Comisiei de soluționare a contestațiilor Președinte - director adjunct al Oficiului de Plăți și Contractare PHARE din cadrul Ministerului Finanțelor Publice Membru - director adjunct al Oficiului de Plăți și Contractare PHARE din cadrul Ministerului Finanțelor Publice Membru - director adjunct al Oficiului de Plăți și Contractare PHARE din cadrul Ministerului Finanțelor Publice _______
