@@ -1,0 +1,5 @@
+În temeiul art. 379, 384, 406 și 408 din Legea nr. 95/2006 privind reforma în domeniul sănătății, cu modificările și completările ulterioare, Consiliul național al Colegiului Medicilor din România decide:
+Articolul I
+Decizia Consiliului național al Colegiului Medicilor din România nr. 8/2006 privind punerea în aplicare a unor dispoziții legale, publicată în Monitorul Oficial al României, Partea I, nr. 700 din 16 august 2006, se modifică după cum urmează: 1. La articolul 3 se introduce un alineat nou, alineatul (2), cu următorul cuprins: "(2) Dispozițiile alin. (1) se vor aplica și medicilor rezidenți." 2. La articolul 5 se introduce un alineat nou, alineatul (2), cu următorul cuprins: "(2) Pentru medicii rezidenți care obțin certificatul de membru al Colegiului Medicilor din România, la rubrica «specialitate» se vor înscrie calitatea de rezident a titularului și specialitatea în care urmează rezidențiatul."
+Articolul II
+Prezenta decizie se publică în Monitorul Oficial al României, Partea I. Președintele Colegiului Medicilor din România, Mircea Cinteză București, 27 aprilie 2007. Nr. 14. --------
