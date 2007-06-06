@@ -1,0 +1,67 @@
+# Text
+Notă
+...
+Conținută de DECIZIA nr. 192 din 24 mai 2007 , publicată în Monitorul Oficial al României, Partea I, nr. 382 din 6 iunie 2007.
+1.
+(1)
+Utilizatorii, persoane fizice autorizate sau juridice, care reproduc fonograme publicate în scop comercial sau reproduceri ale acestora în scopul comunicării publice au obligația să obțină din partea organismului de gestiune colectivă a drepturilor conexe ale producătorilor de fonograme o licență neexclusivă pentru reproducerea fonogramelor în schimbul unei remunerații.
+(2)
+Persoana juridică se consideră licențiată exclusiv pentru activitatea angajaților săi de reproducere a fonogramelor publicate în scop comercial sau a reproducerilor acestora în scopul comunicării publice.
+(3)
+Licența neexclusivă este personală și nu poate fi cesionată unui terț.
+(4)
+Reproducerea menționată la subpct. (1) este destinată exclusiv comunicării publice a fonogramelor în scop ambiental sau lucrativ.
+(5)
+Remunerația menționată la subpct. (1) se constituie într-o sumă forfetară de 1.200 lei/an, indiferent de numărul fonogramelor reproduse din repertoriul organismului de gestiune colectivă al producătorilor de fonograme, și va fi indexată anual ținându-se cont de indicele de inflație. La această sumă se adaugă TVA.
+2.
+Comunicarea publică a fonogramelor reproduse de către utilizatori se poate face exclusiv în spațiile pentru care s-a obținut, din partea organismelor de gestiune colectivă a drepturilor conexe ale artiștilor interpreți sau executanți sau ale producătorilor de fonograme, licența neexclusivă pentru utilizarea fonogramelor în scop ambiental și/sau lucrativ și pentru care s-a achitat remunerația aferentă acestei utilizări. Totodată, deținătorul cu orice titlu al spațiului în care are loc comunicarea publică va interzice accesul utilizatorilor prevăzuți la pct. 1 subpct. (1) care nu dețin licența neexclusivă din partea organismului de gestiune colectivă a drepturilor conexe ale producătorilor de fonograme pentru reproducerea acestora.
+3.
+Utilizarea în spații publice a fonogramelor reproduse, în lipsa licenței neexclusive privind pachetul de fonograme obținute din partea organismului de gestiune colectivă al producătorilor de fonograme, atrage aplicarea sancțiunilor prevăzute de lege.
+4.
+Licențierea reproducerii fonogramelor se solicită de către utilizator anual înainte de începerea activității, inițial în baza unei liste provizorii de fonograme, ce va cuprinde mențiunile referitoare la titlul fonogramei, artist interpret/formație, producător/coproducător, anul primei publicări, țara și numărul de catalog, depusă la sediul organismului de gestiune colectivă, urmând ca pe parcursul sau la sfârșitul anului în curs să fie declarată lista completă a fonogramelor reproduse cu aceleași mențiuni în format electronic cu o adresă de înaintare semnată și ștampilată de reprezentantul legal.
+5.
+(1)
+Reproducerea fonogramelor se poate face pe orice tip de suport, precizat la obținerea licenței.
+(2)
+Este interzisă distribuirea cu titlu oneros sau gratuit a suporturilor pe care a fost reprodus pachetul de fonograme.
+6.
+(1)
+Reproducerea unui pachet de fonograme în scopul comercializării aparaturii audio (tonomate, MP3, karaoke etc.) prevăzută cu pachet de fonograme se poate face numai în urma obținerii licenței neexclusive din partea organismului de gestiune colectivă a drepturilor conexe ale producătorilor de fonograme, în schimbul unei remunerații.
+(2)
+Remunerația menționată la subpct. (1) este stabilită conform tabelului următor și va fi indexată anual ținându-se cont de indicele de inflație: Tabelul nr. 1
+Numar fonograme
+Valoare/fonogramă
+interval 1-1.000 fonograme interval 1.001-2.500 fonograme peste 2.500 fonograme
+1 leu/fonogramă 0,75 lei/fonogramă 0,5 lei/fonogramă
+La aceste sume se adaugă TVA.
+(3)
+Licența neexclusivă pentru reproducerea pachetului de fonograme în cazul subpct. (1) va fi acordată pentru fiecare aparat comercializat care se va individualiza prin seria și numărul unității de memorie.
+7.
+Licențierea reproducerii pachetului de fonograme conform pct. 6 subpct. (1) se realizează de către utilizator pentru respectivul pachet, în baza listei de fonograme, ce va cuprinde mențiunile referitoare la titlul fonogramei, artist interpret/formație, producător/coproducător, anul primei publicări, țara și numărul de catalog, depusă la sediul organismului de gestiune colectivă.
+8.
+Organismul de gestiune colectivă desemnat de Oficiul Român pentru Drepturile de Autor drept colector pentru drepturile producătorilor de fonograme poate numi unul sau 2 delegați pentru monitorizarea utilizării fonogramelor reproduse în scop ambiental ori lucrativ, având acces liber în spațiile închise sau deschise unde se realizează comunicarea publică, în baza legitimațiilor emise de organismul de gestiune colectivă sau a altor documente doveditoare (delegație), putând utiliza echipamente de înregistrare audio și/sau video portabile.
+9.
+Remunerațiile stabilite se pot modifica anual, începând cu prima lună a anului următor celui în care s-a publicat prezenta metodologie, de către organismul de gestiune colectivă desemnat de Oficiul Român pentru Drepturile de Autor drept colector unic pentru drepturile producătorilor de fonograme, pe baza indicelui de inflație stabilit la nivel național.
+10.
+Aceste modificări se depun la Oficiul Român pentru Drepturile de Autor, urmând a fi publicate în Monitorul Oficial al României, Partea I, pe cheltuiala organismului de gestiune colectivă, prin decizie a directorului general al Oficiului Român pentru Drepturile de Autor, emisă în termen de 5 zile de la data depunerii.
+11.
+Modificările devin efective începând cu luna următoare publicării.
+12.
+Prezenta metodologie intră în vigoare în termen de 30 de zile de la publicarea în Monitorul Oficial al României, Partea I.
+Unitatea Producătorilor de Fonograme din România (UPFR)
+Andreea Sîrbu,
+avocat
+George Cracea,
+avocat
+Tedy Crestin,
+director executiv UPFR
+PrinsArt
+Bogdan Sartori,
+director tehnic
+Splendid Services
+Constantin Constantin,
+director general
+Sound&amp;amp;Decor Party
+Cătălin Apostol,
+administrator
+-----
