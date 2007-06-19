@@ -1,0 +1,250 @@
+{
+ "key": "dcc-491-2007",
+ "label": "Decizia CCR nr. 491/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "491",
+ "date": "2007-05-29",
+ "year": "2007",
+ "heading": "DECIZIE nr. 491 din 29 mai 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 57^2 lit. a), art. 57^4 alin. (1) lit. a), art. 58 lit. g) şi art. 59 alin. (3) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere, aşa cum a fost modificată prin Legea nr. 102/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "409",
+  "bis": false,
+  "date": "2007-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.053/2003"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "57-2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "57-4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "59",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 57^2 lit. a) şi ale art. 57^4 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere, aşa cum a fost modificată prin Legea nr. 102/2006, excepţie ridicată de Societatea Comercială \"Dominus Rei\" - S.R.L. Constanţa în Dosarul nr. 1.053/2003 al Tribunalului Constanţa - Secţia civilă. 2. Respinge ca devenită inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 58 lit. g) şi ale art. 59 alin. (3) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere, aşa cum a fost modificată prin Legea nr. 102/2006, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "57-2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "57-4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": [
+      "g",
+      "q"
+     ]
+    },
+    {
+     "art": "59",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "70",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 44/1997",
+    "number": "44",
+    "year": "1997",
+    "path": "og/1997/44"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 102/2006",
+    "number": "102",
+    "year": "2006",
+    "path": "lege/2006/102"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82972",
+  "text_sha256": "d0a3d973d157c78e534636658cf1e8cd4fae69be7b3ee2da6fa10c62bb80dd8e",
+  "catalogue_sha256": "d0a3d973d157c78e534636658cf1e8cd4fae69be7b3ee2da6fa10c62bb80dd8e",
+  "fetched": "2026-11-03T00:20:07Z",
+  "chars": 13935,
+  "portal_id": "82972",
+  "tip": "DECIZIE"
+ }
+}
