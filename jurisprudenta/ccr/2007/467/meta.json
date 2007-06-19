@@ -1,0 +1,166 @@
+{
+ "key": "dcc-467-2007",
+ "label": "Decizia CCR nr. 467/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "467",
+ "date": "2007-05-17",
+ "year": "2007",
+ "heading": "DECIZIE nr. 467 din 17 mai 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. I pct. 5 din Legea nr. 236/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical, precum şi a Legii nr. 236/2006 în ansamblul ei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "410",
+  "bis": false,
+  "date": "2007-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.052/102/2006",
+  "96D/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 236/2006",
+    "number": "236",
+    "year": "2006",
+    "path": "lege/2006/236"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. I pct. 5 din Legea nr. 236/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical, precum şi a Legii nr. 236/2006 în ansamblul ei, excepţie invocată de Consiliul Local al Oraşului Miercurea Nirajului în Dosarul nr. 2.052/102/2006 (număr în format vechi 5.142/2006) al Tribunalului Mureş - Secţia civilă şi de Consiliul Local al Oraşului Miercurea Nirajului şi Primăria Oraşului Miercurea Nirajului în dosarele nr. 2.467/102/2006 (număr în format vechi 5.650/2006), nr. 2.470/102/2006 (număr în format vechi 5.653/2006), nr. 2.469/102/2006 (număr în format vechi 5.652/2006) şi nr. 2.468/102/2006 (număr în format vechi 5.651/2006) ale aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 236/2006",
+    "number": "236",
+    "year": "2006",
+    "path": "lege/2006/236"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 199/1997",
+    "number": "199",
+    "year": "1997",
+    "path": "lege/1997/199"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82905",
+  "text_sha256": "b8543a31d86c5689951ec148b05a5bced82200e7d430210f527a3588a8ee89ba",
+  "catalogue_sha256": "b8543a31d86c5689951ec148b05a5bced82200e7d430210f527a3588a8ee89ba",
+  "fetched": "2026-11-03T00:20:07Z",
+  "chars": 13869,
+  "portal_id": "82905",
+  "tip": "DECIZIE"
+ }
+}
