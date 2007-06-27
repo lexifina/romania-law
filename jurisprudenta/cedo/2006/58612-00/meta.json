@@ -1,0 +1,151 @@
+{
+ "key": "cedo-58612-00-2006-10-12",
+ "label": "CEDO, Sebastian Taub c. României, 2006-10-12",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-10-12",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 12 octombrie 2006",
+ "subtitle": "în cauza Sebastian Taub împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A III-a",
+ "mo": {
+  "number": "429",
+  "bis": false,
+  "date": "2007-06-27",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "58612/00"
+ ],
+ "case_name": "Sebastian Taub",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA HOTĂRĂŞTE ÎN UNANIMITATE: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) ca statul pârât să-i restituie reclamantului apartamentul nr. 3 situat în Bucureşti, str. Romniceanu nr. 36, în cel mult 3 luni de la data la care hotărârea va rămâne definitivă conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa acestei restituiri, statul pârât să-i plătească reclamantului, în acelaşi termen de 3 luni, 125.000 euro (unasutădouăzecişicincimii euro) cu titlu de daune materiale, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "4. hotărăşte ca statul pârât să-i plătească reclamantului, în acelaşi termen de 3 luni, 5.000 euro (cincimii euro) cu titlu de daune morale; 5. hotărăşte ca statul pârât să-i plătească reclamantului, în acelaşi termen de 3 luni, 500 euro (cincisute euro) drept cheltuieli de judecată; 6. hotărăşte ca sumele în discuţie să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii; 7. hotărăşte ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de preţ marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu 3 puncte procentuale; 8. respinge cererea de satisfacţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83164",
+  "text_sha256": "8f34cf67cfba01cf7c31d145a15dfa2c2d85b2cb9ab23bc31ec79890b4246af2",
+  "catalogue_sha256": "8f34cf67cfba01cf7c31d145a15dfa2c2d85b2cb9ab23bc31ec79890b4246af2",
+  "fetched": "2026-11-03T00:20:21Z",
+  "chars": 26874,
+  "portal_id": "83164",
+  "tip": "HOTĂRÂRE"
+ }
+}
