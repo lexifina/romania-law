@@ -1,0 +1,173 @@
+{
+ "key": "dcc-584-2007",
+ "label": "Decizia CCR nr. 584/2007",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "584",
+ "date": "2007-06-13",
+ "year": "2007",
+ "heading": "DECIZIE nr. 584 din 13 iunie 2007",
+ "subtitle": "referitoare la constituţionalitatea Legii privind aprobarea Ordonanţei de urgenţa a Guvernului nr. 17/2007 pentru trecerea Centrului Medical de Diagnostic, Tratament Ambulatoriu şi Medicina Preventiva din subordinea Ministerului Apararii în subordinea Academiei Române şi pentru stabilirea unor măsuri organizatorice aferente acesteia",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "457",
+  "bis": false,
+  "date": "2007-07-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "791A/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţa a Guvernului nr. 17/2007",
+    "number": "17",
+    "year": "2007",
+    "path": "lege/2007/17"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constata ca Legea privind aprobarea Ordonanţei de urgenţa a Guvernului nr. 17/2007 pentru trecerea Centrului Medical de Diagnostic, Tratament Ambulatoriu şi Medicina Preventiva din subordinea Ministerului Apararii în subordinea Academiei Române şi pentru stabilirea unor măsuri organizatorice aferente acesteia, precum şi ordonanţă de urgenţă, sub aspectele criticate, sunt constituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţa a Guvernului nr. 17/2007",
+    "number": "17",
+    "year": "2007",
+    "path": "lege/2007/17"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţa a Guvernului nr. 17/2007",
+    "number": "17",
+    "year": "2007",
+    "path": "oug/2007/17"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 39/2002",
+    "number": "39",
+    "year": "2002",
+    "path": "og/2002/39"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotarârea Guvernului nr. 493/2007",
+    "number": "493",
+    "year": "2007",
+    "path": "hg/2007/493"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-07-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83420",
+  "text_sha256": "b851cfa8c12d6110e1c277398af3e86404b90a4f02a36ccd3752edc61c037caa",
+  "catalogue_sha256": "b851cfa8c12d6110e1c277398af3e86404b90a4f02a36ccd3752edc61c037caa",
+  "fetched": "2026-11-03T00:20:38Z",
+  "chars": 20776,
+  "portal_id": "83420",
+  "tip": "DECIZIE"
+ }
+}
