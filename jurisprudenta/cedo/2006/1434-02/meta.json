@@ -1,0 +1,174 @@
+{
+ "key": "cedo-1434-02-2006-12-14",
+ "label": "CEDO, Lupaş şi alţii c. României, 2006-12-14",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-12-14",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 14 decembrie 2006",
+ "subtitle": "în Cauza Lupaş şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "464",
+  "bis": false,
+  "date": "2007-07-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "1434/02",
+  "35370/02",
+  "1385/03"
+ ],
+ "case_name": "Lupaş şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA HOTĂRĂŞTE ÎN UNANIMITATE: 1. decide să unească cererile; 2. declară cererile admisibile în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1 din Convenţie, în măsura în care se referă la dreptul de acces la o instanţă, şi inadmisibile în rest; 3. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să plătească, în cel mult 3 luni de la data la care hotărârea va rămâne definitivă conform art. 44 § 2 din Convenţie:",
+  "(i) 1.000 EUR (unamie euro) fiecăruia dintre reclamanţi; (îi) 6.000 EUR (şase mii euro) în comun celor 19 reclamanţi cu titlu de cheltuieli de judecată; (iii) orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "b) ca sumele în discuţie să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de preţ marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu trei puncte procentuale;",
+  "5. respinge cererea de satisfacţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 102/1950",
+    "number": "102",
+    "year": "1950",
+    "path": "decret/1950/102"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83475",
+  "text_sha256": "d691769926fc5bcd736978207e9217a39cbef8a9811521cb26fd1fd8323a7762",
+  "catalogue_sha256": "d691769926fc5bcd736978207e9217a39cbef8a9811521cb26fd1fd8323a7762",
+  "fetched": "2026-11-03T00:20:41Z",
+  "chars": 46683,
+  "portal_id": "83475",
+  "tip": "HOTĂRÂRE"
+ }
+}
