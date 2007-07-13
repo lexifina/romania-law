@@ -1,0 +1,191 @@
+{
+ "key": "cedo-58472-00-2006-11-16",
+ "label": "CEDO, Dima c. României, 2006-11-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-11-16",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 16 noiembrie 2006",
+ "subtitle": "privind cauza Dima împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA I",
+ "mo": {
+  "number": "473",
+  "bis": false,
+  "date": "2007-07-13",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "58472/00"
+ ],
+ "case_name": "Dima",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, îN UNANIMITATE, 1. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 2. hotărăşte că nu este necesar să analizeze şi capătul de cerere întemeiat pe art. 6 § 1 referitor la pretinsa aplicare retroactivă a Legii nr. 8/1996; 3. hotărăşte",
+  "a) că statul pârât trebuie să îi plătească reclamantului, în cel mult 3 luni de la data la care hotărârea va rămâne definitivă conform art. 44 § 2 din Convenţie, suma de 2.000 euro (două mii euro) cu titlu de daune morale, ce va fi convertită în lei româneşti la nivelul ratei de schimb aplicabile la data plăţii, plus orice sumă ce ar putea fi datorată cu titlu de impozit la această sumă;",
+  "b) că, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă va fi majorată cu o dobândă simplă a cărei rată este egală cu rata dobânzii pentru facilitatea de credit marginal a Băncii Centrale Europene, valabilă în această perioadă, la care se vor adăuga 3 puncte procentuale;",
+  "4. respinge restul cererii de acordare a unei satisfacţii echitabile."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 102/1992",
+    "number": "102",
+    "year": "1992",
+    "path": "lege/1992/102"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 321/1956",
+    "number": "321",
+    "year": "1956",
+    "path": "decret/1956/321"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83582",
+  "text_sha256": "c52eaac0d2a014a0cb0b47fd4b72946e1eeb7ee97bf313fd61f0f27e28105c80",
+  "catalogue_sha256": "c52eaac0d2a014a0cb0b47fd4b72946e1eeb7ee97bf313fd61f0f27e28105c80",
+  "fetched": "2026-11-03T00:20:47Z",
+  "chars": 30647,
+  "portal_id": "83582",
+  "tip": "HOTĂRÂRE"
+ }
+}
