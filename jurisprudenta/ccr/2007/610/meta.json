@@ -1,0 +1,268 @@
+{
+ "key": "dcc-610-2007",
+ "label": "Decizia CCR nr. 610/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "610",
+ "date": "2007-06-20",
+ "year": "2007",
+ "heading": "DECIZIE nr. 610 din 20 iunie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. III alin. (2) şi (3) din Legea nr. 356/2006 pentru modificarea şi completarea Codului de procedură penală, precum şi pentru modificarea altor legi",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "474",
+  "bis": false,
+  "date": "2007-07-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "76/2006",
+  "49/2006",
+  "123/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate a dispoziţiilor art. III alin. (2) şi alin. (3) teza întâi din Legea nr. 356/2006 pentru modificarea şi completarea Codului de procedură penală, precum şi pentru modificarea altor legi, excepţie invocată de Daniel Popa, Daniel Andrei, Petre Baciu, Cristian Cărămizaru, Adrian Cornel Dumitrescu, Marin Cristian Ene, Iulian Ene, Marius Grosu, Marius Hambic, Ion Neacşu, Gheorghe Şerban, Liviu Ştefănescu, Mihai Tăbăroiu, Silviu Nicuşor Tripon, Dănuţ Cătălin Brâncoveanu, Dumitrache Gaiu, Monel Gabriel Meiţoiu, Dorel Mihai şi Costel Ionescu în dosarele nr. 76/2006, nr. 49/2006 şi, respectiv, nr. 123/2006 ale Curţii Militare de Apel şi constată că aceste dispoziţii sunt neconstituţionale. 2. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. III alin. (3) teza finală din Legea nr. 356/2006 pentru modificarea şi completarea Codului de procedură penală, invocată de Costel Ionescu în Dosarul nr. 123/2006 al Curţii Militare de Apel.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "30-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83603",
+  "text_sha256": "abf17bc0030c4c1b9914088845e654e50534aac9b1e15e8519ab93db51b4fa41",
+  "catalogue_sha256": "abf17bc0030c4c1b9914088845e654e50534aac9b1e15e8519ab93db51b4fa41",
+  "fetched": "2026-11-04T04:32:02Z",
+  "chars": 19365,
+  "portal_id": "83603",
+  "tip": "DECIZIE"
+ }
+}
