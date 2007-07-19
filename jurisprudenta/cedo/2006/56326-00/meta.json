@@ -1,0 +1,140 @@
+{
+ "key": "cedo-56326-00-2006-06-15",
+ "label": "CEDO, Cârstea şi Grecu c. României, 2006-06-15",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-06-15",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 15 iunie 2006",
+ "subtitle": "în Cauza Cârstea şi Grecu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "485",
+  "bis": false,
+  "date": "2007-07-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "56326/00"
+ ],
+ "case_name": "Cârstea şi Grecu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 2. hotărăşte că este necesar să statueze separat asupra temeiniciei capătului de cerere referitor la continuitatea completului de judecată; 3. hotărăşte",
+  "a) ca statul pârât să plătească, în cel mult trei luni de la data la care hotărârea va rămâne definitivă conform art. 44 § 2 din Convenţie, 1.400 de euro (unamiepatrusute euro) cu titlu de daune morale fiecăreia dintre reclamante şi 300 de euro (treisute euro) împreună, cu titlu de cheltuieli de judecată;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă, având o rată egală cu cea a facilităţii de preţ marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu trei puncte procentuale;",
+  "4. respinge cererea de satisfacţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1970",
+    "number": "1",
+    "year": "1970",
+    "path": "lege/1970/1"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83710",
+  "text_sha256": "2bd68abf607b57da8651a28e5ea35c17ca379ec5b68083b41ea11126147410e1",
+  "catalogue_sha256": "2bd68abf607b57da8651a28e5ea35c17ca379ec5b68083b41ea11126147410e1",
+  "fetched": "2026-11-03T00:20:53Z",
+  "chars": 29019,
+  "portal_id": "83710",
+  "tip": "HOTĂRÂRE"
+ }
+}
