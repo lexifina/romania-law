@@ -1,0 +1,7 @@
+În temeiul art. 6 alin. (1) și (4) din Ordonanța Guvernului nr. 124/1998 privind organizarea și funcționarea cabinetelor medicale, republicată, cu modificările și completările ulterioare, precum și al Ordinului ministrului sănătății și familiei nr. 153/2003 pentru aprobarea Normelor metodologice privind înființarea, organizarea și funcționarea cabinetelor medicale, cu modificările ulterioare, și ținând seama de curricula de pregătire universitară a medicului dentist, Consiliul național al Colegiului Medicilor Dentiști din România decide:
+Articolul 1
+Medicul dentist care posedă autorizație de liberă practică, prin curricula universitară, are pregătirea necesară pentru efectuarea și interpretarea diagnosticului în radiologia dentară, retroalveolară, ortopantomografie, panoramică, teleradiografie și sistemul radioviziograf, fără a fi nevoie de competență suplimentară.
+Articolul 2
+Cabinetele medicale, indiferent de forma lor de organizare, pot desfășura activități conform art. 1, cu avizarea Comisiei Naționale pentru Controlul Activităților Nucleare și a Ministerului Sănătăți Publice.
+Articolul 3
+La data intrării în vigoare a prezentei decizii, Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 5/2005 privind radiologia în specialitatea dentară, publicată în Monitorul Oficial al României, Partea I, nr. 915 din 13 octombrie 2005, se abrogă. Președintele Colegiului Medicilor Dentiști din România, Liviu Zetu București, 16 iunie 2007. Nr. 6. -------
