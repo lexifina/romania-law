@@ -1,0 +1,5 @@
+Conferința ordinară a Camerei Auditorilor Financiari din România, întrunită în baza prevederilor art. 11 din Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, aprobat prin Hotărârea Guvernului nr. 983/2004 , publicată în Monitorul Oficial al României, Partea I, nr. 634 din 13 iulie 2004, având în vedere prevederile art. 12 alin. (1) lit. f) din Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, hotărăște:
+Articolul 1
+Conferința împuternicește Consiliul Camerei să adopte normele de reprezentare la Conferința ordinară a Camerei Auditorilor Financiari din România, cu respectarea prevederilor Ordonanței de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar, republicată, cu modificările ulterioare, și ale legislației în vigoare.
+Articolul 2
+Prezenta hotărâre se va publică în Monitorul Oficial al României, Partea I, potrivit prevederilor art. 6 alin. (5) din Ordonanța de urgență a Guvernului nr. 75/1999 , republicată, cu modificările ulterioare. Președintele Camerei Auditorilor Financiari din România, Ion Mihăilescu București, 21 aprilie 2007. Nr. 95. ----------
