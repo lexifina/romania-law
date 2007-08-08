@@ -1,0 +1,16 @@
+# Anexa 22 la regulament
+ROMÂNIA
+BIROUL NOTARULUI PUBLIC
+Sediul............................
+ÎNCHEIERE de legalizare de semnătură nr....................
+Anul........... luna............. ziua.........
+În fața mea,................................., notar public, la sediul biroului/locul unde s-a îndeplinit actul pentru motivul..................., s-a/s-au prezentat:........................................, cu domiciliul în....................., identificat/identificați prin..................*1), și a/au semnat cele............... exemplare ale înscrisului al cărui conținut îi/le este cunoscut.
+În temeiul art. 8 lit. e) din Legea nr. 36/1995, cu modificările și completările ulterioare, se legalizează semnătura de pe acest înscris.
+S-a perceput onorariul de............................... lei, cu chitanță/ bon fiscal/ordin de plată nr................................
+Notar public,
+L.S.................
+--------
+*1) a) cunoscut personal de notar;
+b) act de identitate;
+c) atestarea avocatului care îl asistă;
+d) doi martori.
