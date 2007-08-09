@@ -1,0 +1,18 @@
+# Anexa 2 la procedură
+INSPECTORATUL DE STAT ÎN CONSTRUCȚII
+INSPECTORATUL TERITORIAL ÎN CONSTRUCȚII........................
+INSPECTORATUL JUDEȚEAN ÎN CONSTRUCȚII........................./
+INSPECTORATUL ÎN CONSTRUCȚII AL MUNICIPIULUI BUCUREȘTI
+ACORD
+Nr.........../.................
+Ca urmare a Cererii nr.............. din................................, formulată de......................................, în calitate/reprezentată de..........................., cu domiciliul/sediul în....................., str........................... nr....., bl....., sc......, ap..........., județul/sectorul......, telefon.................................., B.I./C.I. seria........ nr.................., cod numeric personal.................. /număr de înmatriculare........................................, cod fiscal..................................., a documentației tehnice depuse și a Certificatului de urbanism nr.................../.................., emis de............................, potrivit dispozițiilor art. 11 lit. l) din Regulamentul privind controlul de stat al calității în construcții, aprobat prin Hotărârea Guvernului nr. 272/1994, având în vedere prevederile Ordinului ministrului dezvoltării, lucrărilor publice și locuințelor și al inspectorului general de stat al Inspectoratului de Stat în Construcții nr. 486/500/2007 pentru aprobarea Procedurii privind emiterea acordului de către Inspectoratul de Stat în Construcții - I.S.C. pentru intervenții în timp asupra construcțiilor existente,
+Inspectoratul Județean în Construcții....................., respectiv Inspectoratul în Construcții al Municipiului București emite acordul cu privire la intervențiile solicitate în vederea obținerii autorizației de construire, potrivit documentației depuse, la construcția din localitatea.............., str.......................... nr......, bl....., sc....., ap......, județul/sectorul................................
+Lucrările de intervenții, potrivit documentației, sunt următoarele:..................................................................................................................................................................................................................................
+Documentația tehnică se restituie, având vizat spre neschimbare memoriul tehnic de rezistență.
+Alte mențiuni:.................................................................................................................................................................................................................................................................................................................................................................................
+După obținerea autorizației de construire aveți următoarele obligații:
+a) de a respecta soluția propusă de expertul tehnic atestat;
+b) de a anunța în scris începerea lucrărilor la inspectoratul județean în construcții, respectiv la Inspectoratul în Construcții al Municipiului București;
+c) de a afișa, pe șantier, la loc vizibil, panoul de identificare a lucrării;
+d) de a achita cotele legale în conformitate cu prevederile Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, cu modificările și completările ulterioare, și ale Legii nr. 10/1995 privind calitatea în construcții, cu modificările ulterioare.
+Inspector-șef județean/Inspector-șef,............................................................................................................... construcția din localitatea................, str..................... nr....., bl......, sc......, ap......, județul/sectorul.......... --------
