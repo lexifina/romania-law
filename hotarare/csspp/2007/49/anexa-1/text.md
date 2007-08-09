@@ -1,0 +1,6 @@
+# Anexa 1
+Anexa
+NORMA Nr. 20/2007
+pentru modificarea Normei nr. 1/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii facultative Având în vedere prevederile art. 79 alin. (4), art. 80 alin. (2), art. 83 lit. a) și ale art. 84 din Legea nr. 204/2006 privind pensiile facultative, în temeiul dispozițiilor art. 23 lit. f) din Ordonanța de urgență a Guvernului nr. 50/2005 privind înființarea, organizarea și funcționarea Comisiei de Supraveghere a Sistemului de Pensii Private, aprobată cu modificări și completări prin Legea nr. 313/2005 , Comisia de Supraveghere a Sistemului de Pensii Private, denumită în continuare Comisie, emite prezenta normă.
+Articolul UNIC
+Norma nr. 1/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii facultative, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 2/2007 , publicată în Monitorul Oficial al României, Partea I, nr. 82 din 3 februarie 2007, se modifică după cum urmează: - La articolul 3 alineatul (2), punctul 1 se modifică și va avea următorul cuprins: "1. piață reglementată - sistem pentru tranzacționarea instrumentelor financiare autorizat ca atare de către instituția de supraveghere a pieței de capital din țara de origine în care funcționează aceasta;". -------
