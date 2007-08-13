@@ -1,0 +1,2 @@
+ AMENDAMENTE din 10 decembrie 2004  la Codul internaţional pentru aplicarea metodelor de încercare la foc (Codul FTP)     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 550 din 13 august 2007     Anexa 1 - Metode de încercare la foc  Partea 2 - Încercarea la fum şi toxicitate  2.6 Criterii de clasificare  2.6.2 Toxicitate  În tabelul cu valorile limită, după "SO(2) 120 ppm" se introduce următorul text: "(200 ppm pentru acoperirile podelei)".  ------
