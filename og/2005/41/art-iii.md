@@ -6,6 +6,5 @@ Ordonanța de urgenta a Guvernului nr. 119/2001 privind unele măsuri pentru pri
 2. Alineatul (3) al articolului 11 va avea urmatorul cuprins:
 (3) Pentru ratele de capital, inclusiv dobânzile și comisioanele plătite de Ministerul Finanțelor Publice în cadrul creditelor externe contractate cu garanția statului de către societate, aceasta va plăti Ministerului Finanțelor Publice, începând cu data de 1 ianuarie 2005, o dobândă anuală de 7,24%, plus o marjă de 1% aplicată la aceste sume.
 3. Alineatul (4) al articolului 11 va avea urmatorul cuprins:
-"(4) În cazul în care societatea nu respectă oricare dintre termenele de plată prevăzute în acordurile de eșalonare încheiate, aceasta este obligată la plata accesoriilor, de la data scadenței până la plata integrală a debitului, conform Ordonanței Guvernului nr. 92/2003
-privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare."
+"(4) În cazul în care societatea nu respectă oricare dintre termenele de plată prevăzute în acordurile de eșalonare încheiate, aceasta este obligată la plata accesoriilor, de la data scadenței până la plata integrală a debitului, conform Ordonanței Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare."
 4. Alineatele (1) și (2) ale articolului 11 se abrogă.
