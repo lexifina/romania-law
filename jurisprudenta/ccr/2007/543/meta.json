@@ -1,0 +1,180 @@
+{
+ "key": "dcc-543-2007",
+ "label": "Decizia CCR nr. 543/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "543",
+ "date": "2007-06-07",
+ "year": "2007",
+ "heading": "DECIZIE nr. 543 din 7 iunie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 7 din Legea petrolului nr. 238/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "554",
+  "bis": false,
+  "date": "2007-08-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.212/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea petrolului nr. 238/2004",
+    "number": "238",
+    "year": "2004",
+    "path": "lege/2004/238"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 7 din Legea petrolului nr. 238/2004, excepţie ridicată de Societatea Comercială \"Conpet\" - S.A. din Ploieşti în Dosarul nr. 5.212/2006 al Judecătoriei Ploieşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea petrolului nr. 238/2004",
+    "number": "238",
+    "year": "2004",
+    "path": "lege/2004/238"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea petrolului nr. 134/1995",
+    "number": "134",
+    "year": "1995",
+    "path": "lege/1995/134"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "1",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-08-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84428",
+  "text_sha256": "db0ada5c613700e121ff22fade6814d75469146a41dd3fe9e83529ff5b1c23fc",
+  "catalogue_sha256": "db0ada5c613700e121ff22fade6814d75469146a41dd3fe9e83529ff5b1c23fc",
+  "fetched": "2026-11-03T00:21:38Z",
+  "chars": 11934,
+  "portal_id": "84428",
+  "tip": "DECIZIE"
+ }
+}
