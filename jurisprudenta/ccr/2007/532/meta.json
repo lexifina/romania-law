@@ -1,0 +1,192 @@
+{
+ "key": "dcc-532-2007",
+ "label": "Decizia CCR nr. 532/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "532",
+ "date": "2007-05-31",
+ "year": "2007",
+ "heading": "DECIZIE nr. 532 din 31 mai 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (2) şi (3), art. 2, art. 4 şi art. 5 din Ordonanţa de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "554",
+  "bis": false,
+  "date": "2007-08-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.406/90/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (2) şi (3), art. 2, art. 4 şi art. 5 din Ordonanţa de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical, excepţie invocată de Consiliul Local al comunei Ioneşti în Dosarul nr. 6.406/90/2006 al Tribunalului Vâlcea - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-08-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84418",
+  "text_sha256": "f47d010cb1f7d049699309240d595237d7ec039e75451e504d875907dab5f292",
+  "catalogue_sha256": "f47d010cb1f7d049699309240d595237d7ec039e75451e504d875907dab5f292",
+  "fetched": "2026-11-03T00:21:37Z",
+  "chars": 13952,
+  "portal_id": "84418",
+  "tip": "DECIZIE"
+ }
+}
