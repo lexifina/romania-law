@@ -1,0 +1,112 @@
+{
+ "key": "dcc-547-2007",
+ "label": "Decizia CCR nr. 547/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "547",
+ "date": "2007-06-07",
+ "year": "2007",
+ "heading": "DECIZIE nr. 547 din 7 iunie 2007",
+ "subtitle": "referitoare la excepţia de neconstitutionalitate a dispoziţiilor art. 454 alin. 1 din Codul de procedură civila",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "554",
+  "bis": false,
+  "date": "2007-08-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "522/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civila",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "454",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstitutionalitate a dispoziţiilor art. 454 alin. 1 din Codul de procedură civila, excepţie ridicata de Societatea Comerciala \"Cribo Impex\" - S.R.L. din Sighisoara în Dosarul nr. 522/2006 al Judecatoriei Sighisoara.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civila",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "454",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-08-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84436",
+  "text_sha256": "39c41a7eeaa5089fa7bf35472c027b9c7c774a6c170886dd96f632ca7e08011f",
+  "catalogue_sha256": "39c41a7eeaa5089fa7bf35472c027b9c7c774a6c170886dd96f632ca7e08011f",
+  "fetched": "2026-11-03T00:21:38Z",
+  "chars": 6418,
+  "portal_id": "84436",
+  "tip": "DECIZIE"
+ }
+}
