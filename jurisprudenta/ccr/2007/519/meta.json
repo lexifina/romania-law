@@ -1,0 +1,144 @@
+{
+ "key": "dcc-519-2007",
+ "label": "Decizia CCR nr. 519/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "519",
+ "date": "2007-05-31",
+ "year": "2007",
+ "heading": "DECIZIE nr. 519 din 31 mai 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 31 alin. 3 din Anexa nr. 2 (Regulamentul-cadru al asociaţiilor de proprietari) la Legea locuinţei nr. 114/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "559",
+  "bis": false,
+  "date": "2007-08-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.558/280/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 31 alin. 3 din Anexa nr. 2 (Regulamentul-cadru al asociaţiilor de proprietari) la Legea locuinţei nr. 114/1996, excepţie ridicată de Elena Viorica Mavhima în Dosarul nr. 7.558/280/2005 al Judecătoriei Piteşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-08-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84497",
+  "text_sha256": "6eee14b6f359b8a9f87ee03c247c6d961441b8bab323fe755675c78468c59576",
+  "catalogue_sha256": "6eee14b6f359b8a9f87ee03c247c6d961441b8bab323fe755675c78468c59576",
+  "fetched": "2026-11-03T00:21:39Z",
+  "chars": 9940,
+  "portal_id": "84497",
+  "tip": "DECIZIE"
+ }
+}
