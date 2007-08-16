@@ -1,0 +1,147 @@
+{
+ "key": "cedo-77517-01-2005-08-04",
+ "label": "CEDO, Stoianova şi Nedelcu c. României, 2005-08-04",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-08-04",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 4 august 2005",
+ "subtitle": "în Cauza Stoianova şi Nedelcu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A III-A",
+ "mo": {
+  "number": "562",
+  "bis": false,
+  "date": "2007-08-16",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "77517/01"
+ ],
+ "case_name": "Stoianova şi Nedelcu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară admisibil restul cererilor; 2. hotărăşte că a avut loc încălcarea art. 6 alin. 1 din Convenţie; 3. hotărăşte",
+  "a) ca statul pârât să plătească fiecărui reclamant, în cel mult 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 alin. 2 din Convenţie, 3.500 euro (trei mii cinci sute euro) pentru prejudiciul moral, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea termenului respectiv şi până la plata efectivă, această sumă să fie purtătoare de dobândă simplă, a cărei rată să fie egală cu cea a facilităţii de preţ marginal a Băncii Centrale Europene, aplicabilă în această perioadă, majorată cu trei puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "260",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "220",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "270",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84533",
+  "text_sha256": "721549a0b6b4613a486ba863e6a40d330038c0ed082d28d950b72e53df980059",
+  "catalogue_sha256": "721549a0b6b4613a486ba863e6a40d330038c0ed082d28d950b72e53df980059",
+  "fetched": "2026-11-03T00:21:44Z",
+  "chars": 15005,
+  "portal_id": "84533",
+  "tip": "HOTĂRÂRE"
+ }
+}
