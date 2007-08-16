@@ -1,0 +1,223 @@
+{
+ "key": "dcc-646-2007",
+ "label": "Decizia CCR nr. 646/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "646",
+ "date": "2007-06-28",
+ "year": "2007",
+ "heading": "DECIZIE nr. 646 din 28 iunie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4, 8 şi 14 din Ordonanţa de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical, ale Ordonanţei de urgenţă a Guvernului nr. 110/2005, precum şi ale Legii nr. 236/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 110/2005, în ansamblul lor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "564",
+  "bis": false,
+  "date": "2007-08-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.790/117/2006",
+  "9.792/117/2006",
+  "2.862/102/2006",
+  "323D/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 236/2006",
+    "number": "236",
+    "year": "2006",
+    "path": "lege/2006/236"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 4, 8 şi 14 din Ordonanţa de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical, ale Ordonanţei de urgenţă a Guvernului nr. 110/2005, precum şi ale Legii nr. 236/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 110/2005, în ansamblul lor, excepţie invocată de Consiliul Local al Comunei Cuzdrioara, judeţul Cluj în Dosarul nr. 9.790/117/2006 al Tribunalului Cluj - Secţia mixtă de contencios administrativ şi fiscal, de conflicte de muncă şi asigurări sociale, de Consiliul Local al Comunei Luna, judeţul Cluj în Dosarul nr. 9.792/117/2006 al aceleiaşi instanţe şi, respectiv, de Consiliul Local al Oraşului Miercurea Nirajului şi Primăria Oraşului Miercurea Nirajului în Dosarul nr. 2.862/102/2006 (număr în format vechi 6.084/2006) al Tribunalului Mureş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 236/2006",
+    "number": "236",
+    "year": "2006",
+    "path": "lege/2006/236"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 199/1997",
+    "number": "199",
+    "year": "1997",
+    "path": "lege/1997/199"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-08-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84509",
+  "text_sha256": "c99bf3a3845b4b4ce441abb2d78074a33826649a9f9beef55ff3d70b5e2ac77e",
+  "catalogue_sha256": "c99bf3a3845b4b4ce441abb2d78074a33826649a9f9beef55ff3d70b5e2ac77e",
+  "fetched": "2026-11-03T00:21:44Z",
+  "chars": 19981,
+  "portal_id": "84509",
+  "tip": "DECIZIE"
+ }
+}
