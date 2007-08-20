@@ -1,0 +1,261 @@
+{
+ "key": "dcc-647-2007",
+ "label": "Decizia CCR nr. 647/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "647",
+ "date": "2007-06-28",
+ "year": "2007",
+ "heading": "DECIZIE nr. 647 din 28 iunie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 13 alin. (1^2) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "569",
+  "bis": false,
+  "date": "2007-08-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.102/1/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 13 alin. (1^2) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie, excepţie ridicată de Gilio Giuzepe Roza în Dosarul nr. 9.102/1/2006 al Înaltei Curţi de Casaţie şi Justiţie - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1997",
+    "number": "141",
+    "year": "1997",
+    "path": "lege/1997/141"
+   },
+   "articles": [
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "178",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-08-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84608",
+  "text_sha256": "f02b1cf566ca3bdd32b766229b76cc7f625ba44d30134de005d56b696d000eab",
+  "catalogue_sha256": "f02b1cf566ca3bdd32b766229b76cc7f625ba44d30134de005d56b696d000eab",
+  "fetched": "2026-11-03T00:21:47Z",
+  "chars": 12455,
+  "portal_id": "84608",
+  "tip": "DECIZIE"
+ }
+}
