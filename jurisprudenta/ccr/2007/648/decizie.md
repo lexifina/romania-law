@@ -1,0 +1,28 @@
+# DECIZIE nr. 648 din 28 iunie 2007
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii locuinţei nr. 114/1996
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Kozsokar Gabor - judecător Petre Ninosu - judecător Ion Predescu - judecător Şerban Viorel Stănoiu - judecător Antonia Constantin - procuror Irina Loredana Gulie - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a prevederilor Legii locuinţei nr. 114/1996, excepţie invocată de Niculae Grigore Fărtătescu în Dosarul nr. 13.702/303/2006 al Judecătoriei Sectorului 6 Bucureşti.
+La apelul nominal răspunde autorul excepţiei, personal. Lipsesc celelalte părţi. Procedura de citare este legal îndeplinită.
+Având cuvântul pe fond, autorul excepţiei solicită admiterea acesteia, invocând aspecte legate de fondul cauzei deduse soluţionării instanţei de judecată. De asemenea, arată că neconstituţionalitatea Legii locuinţei nr. 114/1996 derivă din încălcarea dreptului de dispoziţie al proprietarului asupra utilităţilor consumate şi a art. 26 alin. (2) din Legea fundamentală privind dreptul persoanei fizice de a dispune de ea însăşi. Depune concluzii scrise, precizând că acestea le înlocuiesc pe cele anexate la dosar în data de 27 iunie 2007.
+Reprezentantul Ministerului Public solicită respingerea excepţiei ca inadmisibilă, arătând că principalul argument invocat în susţinerea neconstituţionalităţii actului normativ criticat este o pretinsă libertate constituţională "de a consuma", astfel că excepţia este în fapt nemotivată.
+CURTEA, având în vedere actele şi lucrările dosarului, constată următoarele:
+Prin Încheierea din 28 februarie 2007, pronunţată în Dosarul nr. 13.702/303/2006, Judecătoria Sectorului 6 Bucureşti a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor Legii locuinţei nr. 114/1996.
+Excepţia a fost ridicată de Niculae Grigore Fărtătescu într-o cauză având ca obiect judecarea acţiunii în pretenţii privind obligarea la plata cotelor de întreţinere restante către asociaţia de proprietari ai unui imobil de locuinţe.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia nu aduce niciun argument privind neconstituţionalitatea actului normativ criticat, invocând aspecte ce ţin de fondul cauzei deduse soluţionării instanţei de judecată.
+Judecătoria Sectorului 6 Bucureşti apreciază că excepţia este neîntemeiată.
+Potrivit art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Guvernul consideră că excepţia de neconstituţionalitate este neîntemeiată.
+Avocatul Poporului consideră că textele de lege criticate sunt în deplină concordanţă cu dispoziţiile constituţionale invocate.
+Preşedinţii celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere cu privire la excepţia de neconstituţionalitate ridicată.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale Guvernului şi Avocatului Poporului, raportul întocmit de judecătorul-raportor, susţinerile autorului excepţiei, concluziile procurorului, dispoziţiile legale criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei îl constituie prevederile Legii locuinţei nr. 114/1996, republicată în Monitorul Oficial al României, Partea I, nr. 393 din 31 decembrie 1997.
+În opinia autorului excepţiei, Legea locuinţei nr. 114/1996 contravine libertăţii constituţionale "de a consuma".
+Analizând excepţia, Curtea reţine că autorul excepţiei nu aduce niciun argument privind neconstituţionalitatea actului normativ criticat, invocând o pretinsă "libertate de a consuma", nemenţionată ca atare în titlul II din Constituţie - Drepturile, libertăţile şi îndatoririle fundamentale.
+Curtea constată astfel că excepţia este nemotivată, ceea ce contravine prevederilor art. 10 cuprins în capitolul III - Competenţa Curţii Constituţionale din Legea nr. 47/1992, potrivit cărora "Sesizările trebuie făcute în formă scrisă şi motivate".
+Aşadar, Curtea nu se poate substitui autorului excepţiei în ceea ce priveşte invocarea unor texte constituţionale pretins încălcate şi a unor motive de neconstituţionalitate, astfel încât, în temeiul art. 10 alin. (2) din legea sa de organizare şi funcţionare, Curtea nu este competentă să se pronunţe asupra unei excepţii nemotivate.
+În ceea ce priveşte invocarea, în şedinţa publică, a dispoziţiilor constituţionale cuprinse în art. 26 alin. (2) referitoare la dreptul persoanei fizice de a dispune de ea însăşi, acestea nu sunt relevante în cauză.
+Pentru considerentele expuse, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor Legii locuinţei nr. 114/1996, excepţie invocată de Niculae Grigore Fărtătescu în Dosarul nr. 13.702/303/2006 al Judecătoriei Sectorului 6 Bucureşti.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 28 iunie 2007.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Irina Loredana Gulie -----------
