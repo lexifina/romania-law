@@ -1,0 +1,137 @@
+{
+ "key": "cedo-2608-02-2006-10-12",
+ "label": "CEDO, Ruxanda Ionescu c. României, 2006-10-12",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-10-12",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 12 octombrie 2006",
+ "subtitle": "în Cauza Ruxanda Ionescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "570",
+  "bis": false,
+  "date": "2007-08-20",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "2608/02"
+ ],
+ "case_name": "Ruxanda Ionescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) că statul pârât trebuie să restituie reclamantei apartamentul nr. 3, situat la primul etaj al imobilului în chestiune, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie; că, în lipsa restituirii, statul pârât trebuie să plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, suma de 87.000 EUR (optzeci şi şapte mii de euro) cu titlu de daune materiale; că, în orice caz, statul pârât trebuie să plătească reclamantei suma de 3.000 EUR (trei mii de euro) pentru prejudiciul moral, la care se adaugă sumele datorate cu titlu de impozit, convertite în lei la rata de schimb aplicabilă în ziua plăţii;",
+  "b) că, începând de la data expirării termenului amintit şi până la momentul efectuării plăţii, aceste sume vor fi majorate cu o dobândă simplă a cărei rată este egală cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, la care se vor adăuga trei puncte procentuale;",
+  "4. respinge cererea de satisfacţie echitabilă pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84585",
+  "text_sha256": "d7e54e30328034dc0487dc4c782de8784e1e0c6980066a71a4d29c9437e026ca",
+  "catalogue_sha256": "d7e54e30328034dc0487dc4c782de8784e1e0c6980066a71a4d29c9437e026ca",
+  "fetched": "2026-11-03T00:21:47Z",
+  "chars": 25055,
+  "portal_id": "84585",
+  "tip": "HOTĂRÂRE"
+ }
+}
