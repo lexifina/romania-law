@@ -1,0 +1,2 @@
+# Anexa 2
+COMPONENȚA COMISIEI DE SELECȚIE Comisia de selecție este formată din: președinte: Corina Marin, director general, Direcția generală managementul resurselor umane; secretar: Paraschiva Dobre, expert, Direcția relații internaționale; membri: - Corina Cherteș, consilier al ministrului educației, cercetării și tineretului; - Ionela Dabija, director, Institutul Limbii Române; - Valentin Popescu director, Direcția rețea și politici de personal. -------
