@@ -1,0 +1,35 @@
+# DECIZIE nr. 637 din 26 iunie 2007
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 41 alin. (3) din Legea nr. 53/2003 - Codul muncii
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Kozsokar Gabor - judecător Ion Predescu - judecător Şerban Viorel Stănoiu - judecător Tudorel Toader - judecător Antonia Constantin - procuror Mihai Paul Cotta - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 41 alin. (3) din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Autoritatea Feroviară Română în Dosarul nr. 13.469/3/2006 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare a fost legal îndeplinită.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate ca neîntemeiată, arătând că dispoziţiile criticate sunt constituţionale, art. 53 din Constituţie, invocat în susţinerea excepţiei, nefiind incident în cauză.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 31 ianuarie 2007, pronunţată în Dosarul nr. 13.469/3/2006, Tribunalul Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 41 alin. (3) din Codul muncii, excepţie ridicată de Autoritatea Feroviară Română în cauza ce are ca obiect judecarea acţiunii de contencios administrativ în contradictoriu cu Guvernul.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că dispoziţiile legale criticate restrâng exerciţiul unor drepturi ale acestuia fără să fie întrunite condiţiile prevăzute de art. 53 din Constituţie, deoarece prevăd că modificarea contractului individual de muncă poate fi făcută numai cu acordul părţilor, fiind, astfel, exclusă posibilitatea ca angajatorul să-şi retragă propriul act de numire.
+Tribunalul Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal apreciază că dispoziţiile legale criticate sunt constituţionale, având în vedere că un contract individual de muncă nu este un act unilateral, ci reprezintă voinţa şi legea părţilor, fiind normal ca modificarea acestuia să poată fi făcută numai prin acordul părţilor.
+În conformitate cu prevederile art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi formula punctele de vedere asupra excepţiei de neconstituţionalitate.
+Guvernul apreciază că excepţia de neconstituţionalitate este inadmisibilă, întrucât prerogativa reglementării aspectelor învederate în motivarea excepţiei aparţine Parlamentului.
+Avocatul Poporului consideră că textul de lege criticat este constituţional, întrucât acesta se referă la modificarea unor elemente esenţiale ale contractului individual de muncă, iar nu la restrângerea exerciţiului unor drepturi sau libertăţi fundamentale, în sensul art. 53 din Constituţie.
+Preşedinţii celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate ridicate.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale Guvernului şi Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile legale criticate raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 41 alin. (3) din Legea nr. 53/2003 - Codul muncii, publicată în Monitorul Oficial al României, Partea I, nr. 72 din 5 februarie 2003.
+Potrivit acestor dispoziţii legale:
+"(3) Modificarea contractului individual de muncă se referă la oricare dintre următoarele elemente:
+a) durata contractului;
+b) locul muncii;
+c) felul muncii;
+d) condiţiile de muncă;
+e) salariul;
+f) timpul de muncă şi timpul de odihnă."
+Posibilitatea modificării contractului individual de muncă numai prin acordul părţilor este prevăzută de alin. (1) al aceluiaşi articol.
+În opinia autorului excepţiei, dispoziţiile legale criticate contravin prevederilor art. 53 din Constituţie referitoare la restrângerea exerciţiului unor drepturi sau al unor libertăţi.
+Examinând excepţia de neconstituţionalitate, Curtea constată următoarele:
+Contractul individual de muncă nu este un act de administrare unilateral al angajatorului, ci o convenţie bilaterală, exprimând manifestarea acordului de voinţă al celor două părţi ale raportului juridic de muncă, angajator şi salariat. Astfel, interesul legitim legat de stabilitatea raporturilor de muncă impune ca modificarea contractului individual de muncă să se facă în aceleaşi condiţii în care acesta a fost încheiat, respectiv prin acordul ambelor părţi.
+Sunt şi situaţii în care angajatorul poate dispune unilateral modificarea contractului individual de muncă sau chiar şi încetarea raporturilor de muncă, dar aceste situaţii şi motivele pentru care pot fi dispuse asemenea măsuri, motive legate sau nu de persoana salariatului, sunt riguros şi limitativ prevăzute de legislaţia muncii.
+Faţă de cele arătate, Curtea constată că prevederile art. 53 din Constituţie nu sunt incidente în cauză, deoarece modificarea unilaterală a contractului individual de muncă nu constituie un drept fundamental al angajatorului.
+Curtea nu poate primi nici susţinerea autorului excepţiei referitoare la faptul că textul legal criticat nu prevede şi posibilitatea angajatorului de a revoca un salariat numit în funcţie de conducere, întrucât potrivit art. 2 alin. (3) din Legea nr. 47/1992, "Curtea Constituţională se pronunţă numai asupra constituţionalităţii actelor cu privire la care a fost sesizată, fără a putea modifica sau completa prevederile supuse controlului." Potrivit considerentelor expuse, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 41 alin. (3) din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Autoritatea Feroviară Română în Dosarul nr. 13.469/3/2006 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 26 iunie 2007.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Mihai Paul Cotta -----------
