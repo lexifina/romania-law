@@ -1,0 +1,186 @@
+{
+ "key": "cedo-78047-01-2005-04-07",
+ "label": "CEDO, Dragne şi alţii c. României, 2005-04-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-04-07",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 7 aprilie 2005",
+ "subtitle": "în Cauza Dragne şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A iii-a",
+ "mo": {
+  "number": "574",
+  "bis": false,
+  "date": "2007-08-22",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "78047/01"
+ ],
+ "case_name": "Dragne şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA 1. declară, în unanimitate, cererea admisibilă; 2. hotărăşte, cu şase voturi la unu, că a avut loc încălcarea art. 6 alin. 1 din Convenţie; 3. hotărăşte, cu şase voturi la unu, că a avut loc încălcarea art. 1 din Protocolul nr. 1; 4. hotărăşte, în unanimitate, că problema aplicării art. 41 din Convenţie nu se află în stare de judecată în ceea ce priveşte stabilirea reparaţiei pentru încălcările constatate în cauză; prin urmare",
+  "a) o rezervă în întregime;",
+  "b) invită Guvernul şi reclamanţii să-i transmită în scris, în termen de cel mult 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 alin. 2 din Convenţie, observaţiile lor asupra acestei chestiuni şi, în special, să-i aducă la cunoştinţă orice acord la care au ajuns;",
+  "c) rezervă procedura ulterioară şi deleagă preşedintelui camerei sarcina de a o stabili, în caz de nevoie;",
+  "5. hotărăşte, în unanimitate,",
+  "a) că statul pârât trebuie să plătească reclamanţilor, în termen de 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 alin. 2 din Convenţie, suma de 20 EUR (douăzeci euro) cu titlu de cheltuieli de judecată suportate în faţa instanţelor interne, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "b) că, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă va fi majorată cu o dobândă simplă având o rată egală cu cea a facilităţii de preţ marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu trei puncte procentuale."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84649",
+  "text_sha256": "3ec63b817e307d8a52aed9d4008fd0dd7903e801d1a48f695b038e8b425c26af",
+  "catalogue_sha256": "3ec63b817e307d8a52aed9d4008fd0dd7903e801d1a48f695b038e8b425c26af",
+  "fetched": "2026-11-03T00:21:54Z",
+  "chars": 24669,
+  "portal_id": "84649",
+  "tip": "HOTĂRÂRE"
+ }
+}
