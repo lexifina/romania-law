@@ -1,0 +1,218 @@
+{
+ "key": "cedo-63945-00-2006-05-24",
+ "label": "CEDO, Weissman şi alţii c. României, 2006-05-24",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-05-24",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 24 mai 2006",
+ "subtitle": "în Cauza Weissman şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A III-A",
+ "mo": {
+  "number": "588",
+  "bis": false,
+  "date": "2007-08-27",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "63945/00"
+ ],
+ "case_name": "Weissman şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. hotărăşte că a avut loc o încălcare a art. 6 alin. 1 din Convenţie; 2. hotărăşte că a avut loc o încălcare a art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamanţilor, împreună, în termen de 3 luni, începând cu ziua în care hotărârea va deveni definitivă, conform art. 44 alin. 2 din Convenţie, 40.000 EUR (patru zeci de mii de euro) cu titlu de daune materiale, la care se adaugă suma care poate fi datorată cu titlu de impozit;",
+  "b) că, începând cu expirarea termenului amintit şi până la data plăţii efective, această sumă va fi majorată cu o dobândă simplă egală cu dobânda facilităţii de împrumut marginal a Băncii Centrale Europene, aplicabilă în decursul acestei perioade, majorată cu trei puncte procentuale;",
+  "4. hotărăşte că stabilirea încălcării reprezintă prin ea însăşi o satisfacţie echitabilă suficientă pentru daunele morale suferite de reclamanţi; 5. respinge cererea de satisfacţie echitabilă pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 115/1990",
+    "number": "115",
+    "year": "1990",
+    "path": "hg/1990/115"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 30/1990",
+    "number": "30",
+    "year": "1990",
+    "path": "decret-lege/1990/30"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "485",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "487",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84791",
+  "text_sha256": "22016ba3d6ae7df064a7523b76bfd26959ab73915809691d3c82bf5961f6eb68",
+  "catalogue_sha256": "22016ba3d6ae7df064a7523b76bfd26959ab73915809691d3c82bf5961f6eb68",
+  "fetched": "2026-11-03T00:21:57Z",
+  "chars": 37653,
+  "portal_id": "84791",
+  "tip": "HOTĂRÂRE"
+ }
+}
