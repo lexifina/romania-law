@@ -1,0 +1,174 @@
+{
+ "key": "cedo-71649-01-2006-06-27",
+ "label": "CEDO, Petre c. României, 2006-06-27",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-06-27",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 27 iunie 2006",
+ "subtitle": "în Cauza Petre împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A II-A",
+ "mo": {
+  "number": "591",
+  "bis": false,
+  "date": "2007-08-28",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "71649/01"
+ ],
+ "case_name": "Petre",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară plângerea admisibilă în ceea ce priveşte capătul de cerere referitor la durata excesivă a procedurii şi inadmisibilă pentru rest; 2. hotărăşte că a avut loc o încălcare a art. 6 alin. 1 din Convenţie; 3. hotărăşte",
+  "a) că statul pârât trebuie să plătească, în termen de 3 luni începând din ziua în care hotărârea va rămâne definitivă conform dispoziţiilor art. 44 alin. 2 din Convenţie, fiecărui reclamant, 3.000 EUR (trei mii de euro), cu titlu de daune morale, şi 1.000 EUR (o mie de euro), cu titlu de costuri şi cheltuieli, plus orice sumă care ar trebui datorată cu titlu de impozit; aceste sume vor fi convertite în lei româneşti la rata de schimb aplicabilă la data plăţii;",
+  "b) că, începând de la expirarea termenului de mai sus şi până la plata efectivă, aceste sume vor fi majorate cu o dobândă simplă egală cu rata dobânzii la împrumutul marginal practicată de Banca Centrală Europeană în această perioadă, majorată cu trei puncte procentuale;",
+  "4. respinge restul cererii de satisfacţie echitabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/1972",
+    "number": "7",
+    "year": "1972",
+    "path": "lege/1972/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 65/1997",
+    "number": "65",
+    "year": "1997",
+    "path": "og/1997/65"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84803",
+  "text_sha256": "b7c63eeb42fde2d3beb9500a57eeb232dd71cf5aae4400d2e47adcbb952b162b",
+  "catalogue_sha256": "b7c63eeb42fde2d3beb9500a57eeb232dd71cf5aae4400d2e47adcbb952b162b",
+  "fetched": "2026-11-03T00:21:59Z",
+  "chars": 23728,
+  "portal_id": "84803",
+  "tip": "HOTĂRÂRE"
+ }
+}
