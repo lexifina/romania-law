@@ -1,0 +1,285 @@
+{
+ "key": "cedo-25632-02-2006-02-23",
+ "label": "CEDO, Stere şi alţii c. României, 2006-02-23",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-02-23",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 23 februarie 2006",
+ "subtitle": "în Cauza Stere şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA a III-a",
+ "mo": {
+  "number": "600",
+  "bis": false,
+  "date": "2007-08-30",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "25632/02"
+ ],
+ "case_name": "Stere şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 şi inadmisibilă pentru rest; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) ca statul pârât să plătească fiecărui reclamant, în termen de 3 luni de la data rămânerii definitive a hotărârii, conform articolului 44 § 2 din Convenţie, 1.000 euro (o mie euro) cu titlu de prejudiciu moral, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să fie majorată cu o dobândă simplă având o rată egală cu cea a facilităţii de preţ marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale.",
+  "4. respinge cererea de satisfacţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 7/1998",
+    "number": "7",
+    "year": "1998",
+    "path": "og/1998/7"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "lege/1999/138"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 73/1999",
+    "number": "73",
+    "year": "1999",
+    "path": "og/1999/73"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "og/1999/138"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/1998",
+    "number": "138",
+    "year": "1998",
+    "path": "lege/1998/138"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2000",
+    "number": "136",
+    "year": "2000",
+    "path": "lege/2000/136"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.066/1999",
+    "number": "1066",
+    "year": "1999",
+    "path": "hg/1999/1066"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84898",
+  "text_sha256": "4c8aea90b6bc3c38a325d79edaf1b0b4ac6d66659119e918bd15d0e029590002",
+  "catalogue_sha256": "4c8aea90b6bc3c38a325d79edaf1b0b4ac6d66659119e918bd15d0e029590002",
+  "fetched": "2026-11-03T00:22:03Z",
+  "chars": 36284,
+  "portal_id": "84898",
+  "tip": "HOTĂRÂRE"
+ }
+}
