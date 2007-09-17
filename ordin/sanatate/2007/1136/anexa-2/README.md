@@ -1,0 +1,7 @@
+# Anexa nr. 2: 2 NORME DE IGIENĂ pentru serviciile din cabinetele de piercing și tatuaj
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 83699 (https://legislatie.just.ro/Public/DetaliiDocument/83699)
+- sha256 of that document's text as the service returned it: 2febefc055ac2cce52bb43b28fc15fb42fce9fdd4d22dd0359e2aacd04e6988b
+- Retrieved: 2026-11-03
