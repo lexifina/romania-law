@@ -1,0 +1,158 @@
+ REZOLUTIE MEPC. nr. 144(54) din 24 martie 2006  Amendamente la Codul pentru construcţia şi echipamentul navelor pentru transportul în vrac al produselor chimice periculoase (Codul BCH)     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 642 din 20 septembrie 2007     Comitetul pentru Protecţia Mediului Marin,  amintind articolul 38(a) din Convenţia privind crearea Organizaţiei Maritime Internaţionale, referitor la funcţiile Comitetului pentru Protecţia Mediului Marin (Comitetul), conferite acestuia prin convenţiile internaţionale pentru prevenirea şi controlul poluării marine,  amintind, de asemenea, Rezoluţia MEPC.20(22), prin care Comitetul a adoptat Codul pentru construcţia şi echipamentul navelor pentru transportul în vrac al produselor chimice periculoase (Codul BCH),  luând notă de articolul 16 din Convenţia internaţională din 1973 pentru prevenirea poluării de către nave (denumită în continuare Convenţia din 1973) şi articolul VI din Protocolul din 1978 referitor la Convenţia din 1973 (denumit în continuare Protocolul din 1978), care specifică împreună procedura de amendare a Protocolului din 1978 şi conferă organismului competent al Organizaţiei Maritime Internaţionale funcţia de examinare şi adoptare a amendamentelor la Convenţia din 1973, modificată prin Protocolul din 1978 (MARPOL 73/78),  luând în considerare faptul că se doreşte foarte mult ca prevederile Codului BCH, care sunt obligatorii conform MARPOL 73/78 şi recomandabile din punctul de vedere al siguranţei, să rămână identice, aşa cum au fost adoptate de Comitet,  analizând amendamentele propuse la Codul BCH:  1. adoptă, în conformitate cu articolul 16(2)(b), (c) şi (d) din Convenţia din 1973, amendamentele la Codul BCH al căror text este prevăzut în anexa la prezenta rezoluţie;  2. stabileşte, în conformitate cu articolul 16(2)(f)(iii) din Convenţia din 1973, că amendamentele la Codul BCH se vor considera ca fiind acceptate la 1 februarie 2007, cu excepţia cazului în care înainte de această dată cel puţin o treime din părţi sau părţile ale căror flote comerciale reprezintă în total nu mai puţin de 50% din tonajul brut al flotei comerciale mondiale vor fi notificat Organizaţiei Maritime Internaţionale (Organizaţia) obiecţiile lor la aceste amendamente;  3. invită părţile să ia notă de faptul că, în conformitate cu articolul 16(2)(g)(îi) din Convenţia din 1973, amendamentele la Codul BCH vor intra în vigoare la 1 august 2007, după acceptarea lor în conformitate cu paragraful 2 de mai sus;  4. invită, de asemenea, Comitetul Securităţii Maritime să ia act de prezenta rezoluţie şi măsurile pe care le consideră corespunzătoare;  5. solicită secretarului general, în conformitate cu articolul 16(2)(e) din Convenţia din 1973, să transmită tuturor părţilor la MARPOL 73/78 copii certificate ale prezentei rezoluţii şi textul amendamentelor la Codul BCH conţinut în anexă; şi  6. solicită în plus secretarului general să transmită tuturor membrilor Organizaţiei care nu sunt părţi la MARPOL 73/78 copii ale prezentei rezoluţii şi ale anexei sale.
+				 +
+			  Anexa       ──────  la Rezoluţia MEPC.144(54)  ─────────────────────────  AMENDAMENTE  la Codul pentru construcţia şi echipamentul navelor pentru transportul în vrac al produselor chimice periculoase (codul BCH)  Codul BCH se amendează după cum urmează:  Introducere  1. Se adaugă următorul paragraf nou:  "7. Codul a fost revizuit pentru a reflecta revizuirea 2007 la Anexa II la MARPOL."
+				 +
+			  Capitolul I   Generalităţi   1.1. Domeniul de aplicare  2. În cea de a doua frază, cuvintele "aşa cum s-a definit la regula 1(1) din Anexa II la MARPOL" sunt eliminate şi referirile la (Categoria de poluare) "A, B sau C" sunt înlocuite cu "X, Y sau Z".  1.4. Definiţii  3. Paragraful 1.4.16A se înlocuieşte cu următorul:  "1.4.16A. Substanţă lichidă nocivă înseamnă orice substanţă menţionată în coloana "Categoria de poluare" de la capitolul 17 sau 18 din Codul internaţional pentru produse chimice în vrac sau în circulara în vigoare MEPC.2/Circular ori care este clasată cu titlu provizoriu, conform prevederilor regulii 6.3 din amendamentele la anexa Protocolului din 1978 la Convenţia internaţională din 1973 pentru prevenirea poluării de către nave, ca intrând în Categoria X, Y sau Z."  4. În paragraful 1.4.16B se elimină textul existent şi se introduc cuvintele "Se elimină".  5. Numărul paragrafului cuprinzând definiţia expresiei "data de aniversare", care a fost adoptat ca "1.4.16C" prin Rezoluţia MEPC.41(29), se înlocuieşte cu numărul "1.4.16D".  1.7. Data intrării în vigoare  6. În cea de a doua frază din paragraful 1.7.2, referirea la "regula 1(12)" se înlocuieşte cu "regula 1.17".  1.8. Produse noi  7. În prima frază din paragraful 1.8, referirea la (Categoria de poluare) "A, B sau C" se înlocuieşte cu "X, Y sau Z".
+				 +
+			  Capitolul II   Stocarea mărfii   G - MATERIALE DE CONSTRUCŢIE  2.17. Generalităţi  8. Textul existent se înlocuieşte după cum urmează:  "2.17.1. Materialele de construcţie folosite la execuţia tancului, precum şi a tubulaturii, pompelor, valvulelor, aerisirilor şi materialele îmbinărilor aferente acestora trebuie să reziste la temperatura şi presiunea mărfii transportate, în conformitate cu standardele recunoscute. Se consideră că oţelul este materialul obişnuit de construcţie.  2.17.2. După caz, la alegerea materialului de construcţie se va ţine cont de următoarele elemente:  1. rezistenţa la efectul de crestătură, la temperatura de exploatare;  2. efectul de coroziune al mărfii; şi  3. posibilitatea apariţiei unor reacţii periculoase între marfă şi materialul de construcţie.  2.17.3. Expeditorul mărfii este responsabil de asigurarea informaţiilor despre compatibilitatea materialelor pentru operatorul navei şi/sau comandant. Acest lucru se va face în timp util, înaintea transportării produsului. Marfa va fi compatibilă cu toate materialele de construcţie, astfel încât:  1. să nu existe vreo deteriorare în ceea ce priveşte integritatea materialelor de construcţie; şi  2. să nu se producă nicio reacţie periculoasă sau potenţial periculoasă.  2.17.4. Dacă un produs este prezentat la IMO pentru evaluare şi compatibilitatea cu materialele menţionate la paragraful 2.17 necesită condiţii speciale, formularul pentru raportarea datelor cu privire la produs GESAMP/EHS va asigura informaţiile cu privire la materialele de construcţie cerute. Aceste cerinţe se vor reflecta în capitolul IV şi, respectiv, în coloana o din capitolul 17 al Codului IBC. Acest formular va indica, de asemenea, dacă sunt necesare cerinţe speciale. Fabricantul produsului este responsabil de asigurarea informaţiilor corecte."  2.18. Cerinţe suplimentare  9. În paragraful 2.18, textul existent se elimină şi se introduc cuvintele "Se elimină".
+				 +
+			  Capitolul III   Echipamentul de siguranţă şi consideraţii în legătură cu acesta   E - PROTECŢIA CONTRA INCENDIULUI  10. După titlu se introduce următorul text:  "(Regulile SOLAS la care se face referire în Partea E înseamnă, în afară de cazul în care se prevede în mod expres altfel, regulile din capitolul II-2 din Convenţia internaţională din 1974 pentru ocrotirea vieţii omeneşti pe mare şi amendamentele sale relevante adoptate înainte de Rezoluţia MSC.99(73))".  3.13. Instalaţii de protecţie contra incendiului  11. La paragraful 3.13.3 se elimină textul existent şi se introduc cuvintele "Se elimină".  12. Se adaugă următorul nou paragraf, paragraful 3.13.5:  "3.13.5. Următoarele cerinţe din capitolul II-2 SOLAS, aşa cum s-au adoptat prin MSC.99(73), se vor aplica:  (a) dispozitivele prevăzute la regulile II-2/4.5.10.1.1 şi II-2/4.5.10.1.4, precum şi o instalaţie pentru supravegherea continuă a concentraţiei de vapori inflamabili vor fi instalate la bordul navelor cu un tonaj brut mai mare sau egal cu 500 înainte de data primei andocări planificate după 1 august 2007, dar nu mai târziu de 1 august 2010. Punctele de prelevare a probelor sau capetele detectorului trebuie situate în poziţii corespunzătoare, pentru ca scurgerile potenţial periculoase să fie imediat depistate. În cazul în care concentraţia de vapori inflamabili atinge un nivel prestabilit, care nu va fi mai mare de 10% din limita inferioară de inflamabilitate, se va declanşa automat o alarmă vizuală şi acustică în compartimentul pompelor şi în postul de supraveghere marfă pentru a alerta personalul asupra potenţialului pericol. Totuşi, pot fi acceptate instalaţiile existente de supraveghere deja montate care au un nivel prestabilit nu mai mare de 30% din limita inferioară de inflamabilitate. În pofida prevederilor de mai sus, Administraţia poate excepta navele care nu efectuează voiaje internaţionale de la aceste cerinţe;  (b) prevederile regulilor 13.3.4.2-13.3.4.5 şi 13.4.3 trebuie aplicate navelor cu un tonaj brut mai mare sau egal cu 500;  (c) prevederile regulilor din Partea E a capitolului II-2 din Convenţia SOLAS, cu excepţia acelora ale regulilor 16.3.2.2 şi 16.3.2.3, trebuie aplicate tuturor navelor, indiferent de dimensiunile lor;  (d) dacă este instalat un echipament nou pentru gătit, trebuie aplicate prevederile regulii 10.6.4; şi  (e) nicio instalaţie nouă pentru stingerea incendiului cu Halon 1211, 1301 sau 2402 ori cu perfluorcarbon nu trebuie să fie instalată, deoarece acest lucru se interzice prin regula 10.4.1.3".  F - PROTECŢIA PERSONALULUI  13. După titlu se introduce următorul text:  "(Regulile SOLAS la care se face referire în Partea F înseamnă, în afară de cazul în care se prevede în mod expres altfel, regulile din capitolul II-2 din Convenţia internaţională din 1974 pentru ocrotirea vieţii omeneşti pe mare şi amendamentele sale relevante adoptate înainte de Rezoluţia MSC.99(73))".
+				 +
+			  Capitolul IV   Cerinţe speciale   4.12. Materiale de construcţie  14. În paragraful 4.12, textul existent se elimină şi se introduc cuvintele "Se elimină".  4.15. Contaminarea mărfii  15. În paragraful 4.15.1, textul existent se elimină şi se introduc cuvintele "Se elimină".
+				 +
+			  Capitolul V   Cerinţe privind exploatarea   5.2. Informaţii asupra mărfii  16. În paragraful 5.2.5, valoarea vâscozităţii mărfii de "25 mPa", care apare de două ori, se înlocuieşte cu valoarea "50 mPa".  17. În paragraful 5.2.6, textul existent se elimină şi se introduc cuvintele "Se elimină".  18. În paragraful 5.2.7, textul existent se elimină şi se introduc cuvintele "Se elimină".
+				 +
+			  Capitolul V A   Măsuri suplimentare pentru protecţia mediului marin   19. Textul existent se elimină şi se introduc cuvintele "Se elimină".
+				 +
+			  Capitolul VI   Sumarul de cerinţe minime   20. Referirile la prevederile din Codul IBC/Codul BCH care figurează la "Materialele de construcţie" (coloana m), precum şi referirile care figurează la "Cerinţele speciale" (coloana o) se elimină:  "Referire la Codul IBC Referire la Codul BCH  15.16.1 4.15.1  16.2.7 5.2.6  16.2.8 5.2.7  16A.2.2 5A.2.2"
+				 +
+			  Capitolul VIII   Transportul deşeurilor chimice lichide   21. În paragraful 8.3.2.2, referirea la "capitolul 19" din Codul IBC se înlocuieşte cu "capitolul 20".
+				 +
+			  Apendice         Modelul de Certificat de conformitate pentru transportul în vrac al produselor chimice periculoase  22. Formularul existent se înlocuieşte cu următorul:  "MODELUL  de Certificat de conformitate pentru transportul în vrac al produselor chimice periculoase  CERTIFICAT DE CONFORMITATE  pentru transportul în vrac al produselor chimice periculoase  (Sigiliul oficial)  Emis în conformitate cu prevederile Codului pentru construcţia  şi echipamentul navelor pentru transportul în vrac al  produselor chimice periculoase  (Rezoluţiile MEPC.9(53) şi MSC.20(22), astfel cum au fost  amendate)  sub autoritatea Guvernului ......./(denumirea oficială completă a ţării).... de către ...../(titlul oficial complet al persoanei competente sau al organizaţiei recunoscute de către Administraţie) ......  Caracteristicile navei*1)  Numele navei .........................................  Numărul sau literele distinctive .....................  Portul de înmatriculare ..............................  Tonajul brut .........................................  Tipul navei (paragraful 2.2.4 din Cod) ...............  Numărul IMO*2) .......................................  Data la care s-a pus chila sau nava a fost într-un stadiu similar de construcţie sau (în cazul unei nave transformate) data la care s-au început lucrările pentru conversia la o navă cisternă pentru produse chimice .........  De asemenea, nava îndeplineşte pe deplin următoarele amendamente la Cod:  ..................................................................  ..................................................................  __________  *1) În mod alternativ, caracteristicile navei se pot trece orizontal, în casete.  *2) În conformitate cu Schema cu numerele IMO de identificare a navelor, adoptată de Organizaţie prin Rezoluţia A.600(15).  Nava este exceptată de la conformitatea cu următoarele prevederi din Cod:  ..................................................................  Se certifică prin prezentul că:  1. nava a fost inspectată în conformitate cu prevederile secţiunii 1.6 din Cod;  2. în urma inspecţiei s-a constatat ca fiind satisfăcătoare din toate punctele de vedere construcţia, echipamentul navei, precum şi starea tehnică a acesteia şi că această navă:  1. corespunde prevederilor relevante ale Codului aplicabile navelor la care se referă paragraful 1.7.2;  2. corespunde prevederilor relevante ale Codului aplicabile navelor la care se referă paragraful 1.7.3;  3. nava a fost dotată cu un manual în conformitate cu Apendicele 4 din Anexa II la MARPOL, aşa cum se prevede în regula 14 din anexă, şi că instalaţiile şi echipamentul navei prevăzute în manual sunt satisfăcătoare din toate punctele de vedere;  4. nava respectă cerinţele pentru transportul în vrac al următoarelor produse, cu condiţia respectării tuturor prevederilor relevante din Cod şi din Anexa II la MARPOL privind exploatarea:
+
+
+
+
+
+
+
+
+
+				  Produse  Condiţii de transport  (numerele tancurilor etc.)  Categoria de poluare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				  Se va continua pe o pagină semnată şi datată, numită Suplimentul 13).
+
+				  Numerele tancurilor indicate în această listă corespunde planului tancului, care trebuie semnat, datat şi numit Suplimentul 2.      5. în conformitate cu paragrafele 1.7.3/2.2.53), prevederile din Cod sunt modificate în raport cu nava astfel: .......................................  6. nava trebuie încărcată:  1. conform condiţiilor de încărcare prevăzute în Manualul de încărcare aprobat, ştampilat, datat ....... şi semnat de un inspector responsabil al Administraţiei sau de o organizaţie recunoscută de către Administraţie*3);  2. conform condiţiilor limitelor de încărcare anexate la prezentul certificat*3).  Dacă este necesar să se încarce nava în alt mod decât cel corespunzător instrucţiunilor menţionate mai sus, calculele necesare pentru justificarea condiţiilor de încărcare propuse trebuie comunicate Administraţiei care a emis certificatul şi care poate autoriza în scris adoptarea condiţiilor de încărcare propuse*4).  Prezentul certificat este valabil până la ......*5), sub rezerva inspecţiilor prevăzute conform secţiunii 1.6 din Cod.  Data de finalizare a inspecţiei pe care se bazează acest certificat: ....../(zz/ll/aaaa)  _________  *3) Se elimină, după caz.  *4) În loc să fie încorporat în certificat, acest text poate fi anexat, cu condiţia să fie semnat şi ştampilat.  *5) Se introduc data de expirare stabilită de către Administraţie în conformitate cu prevederile paragrafului 1.6.6.1 din Cod, ziua şi luna corespunzătoare datei de aniversare, aşa cum s-a definit în paragraful 1.4.16D din Cod, în afară de cazul în care această dată este modificată în conformitate cu aplicarea prevederilor paragrafului 1.6.6.8 din Cod.                Emis la ........................                      (Locul emiterii certificatului)        ................       ..............................      (Data emiterii)       (Semnătura persoanei oficiale                             autorizate să emită certificatul)               (Sigiliul sau ştampila autorităţii, după caz)   NOTE ASUPRA MODULUI DE COMPLETARE A CERTIFICATULUI  1. Certificatul poate fi emis numai navelor care sunt autorizate să arboreze pavilioanele statelor care sunt părţi la MARPOL 73/78.  2. Tipul navei: Menţiunile din această coloană trebuie să se refere la toate recomandările relevante; de exemplu, menţiunea "tip 2" desemnează o navă conformă din toate punctele de vedere cu prevederile Codului referitor la tipul 2. Această coloană nu se va aplica în mod normal navelor existente şi, în acest caz, ar trebui notat "A se vedea paragraful 2.2".  3. Produse: Produsele incluse în capitolul 17 din Cod sau cele care au fost evaluate de către Administraţie în conformitate cu paragraful 1.8 din Cod trebuie menţionate. Pentru aceasta din urmă categorie de produse "noi" se va menţiona orice cerinţă specială prescrisă provizoriu.  4. Produse: Lista produselor pe care nava este aptă să le transporte va include substanţele lichide nocive din categoria Z care nu sunt incluse în Cod şi se identifică prin "capitolul 18 categoria Z".  5. Se elimină.  6. Condiţii de transport: Dacă un certificat este emis unei nave care a fost modificată conform prevederilor regulii 1(12) din Anexa II la MARPOL, certificatul trebuie să indice la începutul tabelului pentru produse şi condiţii de transport următoarele: "Această navă este certificată numai pentru transportul produselor chimice poluante periculoase."  Produse Condiţii de transport (numerele tancurilor etc.) Categoria de poluare  ATESTAREA INSPECŢIILOR ANUALE ŞI INTERMEDIARE  Se certifică prin prezentul că, în urma inspecţiei efectuate conform paragrafului 1.6.2 din Cod, s-a constatat că nava îndeplineşte prevederile relevante ale Codului.       Inspecţia anuală                     Semnat .................                                           (Semnătura persoanei                                           oficiale autorizate)                                           Locul ..................                                           Data (zz/ll/aaaa) ...........             (Sigiliul sau ştampila autorităţii, după caz)        Inspecţia anuală*3)/intermediară     Semnat ................                                           (Semnătura persoanei                                           oficiale autorizate)                                           Locul .................                                           Data (zz/ll/aaaa) ............             (Sigiliul sau ştampila autorităţii, după caz)        Inspecţia anuală*3)/intermediară     Semnat ................                                           (Semnătura persoanei                                           oficiale autorizate)                                           Locul .................                                           Data (zz/ll/aaaa) ............             (Sigiliul sau ştampila autorităţii, după caz)          Inspecţia anuală                    Semnat ................                                           (Semnătura persoanei                                           oficiale autorizate)                                           Locul .................                                           Data (zz/ll/aaaa) ............             (Sigiliul sau ştampila autorităţii, după caz)   ATESTAREA INSPECŢIEI ANUALE/INTERMEDIARE, ÎN CONFORMITATE  CU PARAGRAFUL 1.6.6.8.3  Se certifică prin prezentul că, în urma inspecţiei anuale/intermediare*3) efectuate conform prevederilor paragrafului 1.6.6.8.3 din Cod, s-a constatat că nava îndeplineşte prevederile  relevante ale Convenţiei.  _________  *3) Se elimină, după caz.        Inspecţia anuală                    Semnat ................                                           (Semnătura persoanei                                           oficiale autorizate)                                           Locul .................                                           Data (zz/ll/aaaa) ............   CONFIRMAREA  pentru extinderea valabilităţii certificatului, dacă acesta este valabil mai puţin de 5 ani, atunci când se aplică prevederile paragrafului 1.6.6.3  Nava îndeplineşte cerinţele relevante ale Convenţiei şi prezentul certificat trebuie să fie acceptat, în conformitate cu paragraful 1.6.6.3 din Cod, ca fiind valabil până la ................................... .  Semnat ...........................  (Semnătura persoanei oficiale autorizate)  Locul ............................  Data (zz/ll/aaaa) ................  (Sigiliul sau ştampila autorităţii, după caz)  CONFIRMAREA  pentru extinderea valabilităţii certificatului în cazul în care s-a finalizat inspecţia de reînnoire şi atunci când se aplică prevederile paragrafului 1.6.6.4  Nava îndeplineşte cerinţele relevante ale Convenţiei şi prezentul certificat trebuie să fie acceptat, în conformitate cu paragraful 1.6.6.4 din Cod, ca fiind valabil până la ........................... .       Inspecţia anuală:         Semnat ..............................                                (Semnătura persoanei oficiale autorizate)                                Locul ................                                Data (zz/ll/aaaa) ....................                (Sigiliul sau ştampila autorităţii, după caz)   CONFIRMAREA  pentru extinderea valabilităţii certificatului până când nava ajunge în portul de inspecţie sau pentru o perioadă de graţie, când se aplică prevederile paragrafului 1.6.6.5 sau 1.6.6.6  Prezentul certificat trebuie să fie acceptat, în conformitate cu prevederile paragrafului 1.6.6.5/1.6.6.63) din Cod, ca fiind valabil până la ............ .  Semnat .........................  (Semnătura persoanei oficiale autorizate)  Locul ..........................  Data (zz/ll/aaaa) ..............  (Sigiliul sau ştampila autorităţii, după caz)  CONFIRMAREA  pentru modificarea datei de aniversare, atunci când se aplică prevederile paragrafului 1.6.6.8  În conformitate cu prevederile paragrafului 1.6.6.8 din Cod, noua dată de aniversare este .................................................... .  Semnat .......................  (Semnătura persoanei oficiale autorizate)  Locul ........................  Data (zz/ll/aaaa) ............  (Sigiliul sau ştampila autorităţii, după caz)  În conformitate cu prevederile paragrafului 1.6.6.8 din Cod, noua dată de aniversare este ..................................................... .  Semnat .......................  (Semnătura persoanei oficiale autorizate)  Locul ........................  Data (zz/ll/aaaa) ............  (Sigiliul sau ştampila autorităţii, după caz)  SUPLIMENTUL 1  la Certificatul de conformitate pentru transportul în vrac al produselor chimice periculoase  Continuarea listei de produse specificate în secţiunea 3 şi condiţiile de transport ale acestora.
+
+
+
+
+
+
+
+
+
+				  Produse  Condiţii de transport (numerele tancurilor etc.)  Categoria de poluare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				      Data ................................  (identică cu cea din certificat)  ........................................  (Semnătura persoanei oficiale care emite  certificatul şi/sau sigiliul autorităţii  emitente)  SUPLIMENTUL 2  la Certificatul de conformitate pentru transportul în vrac al produselor chimice periculoase  Planul tancului (specimen)  Numele navei ...............................  Numărul sau literele distinctive ......................       Data ................................  (identică cu cea din certificat)  .................................................  (semnătura persoanei oficiale care emite  certificatul şi/sau sigiliul autorităţii emitente)  ____________
