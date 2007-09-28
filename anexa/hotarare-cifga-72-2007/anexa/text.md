@@ -1,0 +1,157 @@
+# Text
+Articolul 1
+Banca de Export-Import a României EXIMBANK SA., denumită în continuare EXIMBANK, acordă operatorilor economici credite în lei cu dobândă subvenționată, destinate creșterii competitivității acestora și susținerii mediului de afaceri românesc.
+Articolul 2
+(1) Prezentele norme reglementează acordarea de către EXIMBANK a unor produse de finanțare care înglobează o componentă de ajutor de minimis. Ajutorul de minimis se acordă sub forma subvenției de dobândă și a garanției pentru microcreditele pentru IMM.
+(2) Prezentele norme aplică o schemă transparentă de ajutor de minimis, care respectă criteriile prevăzute de Regulamentul Comisiei Europene nr.1998/2006 privind ajutorul de minimis.
+Articolul 3
+EXIMBANK, în calitate de administrator al Fondului destinat stimulării operațiunilor de comerț exterior, precum și pentru finanțarea, cofinanțarea și refinanțarea activităților de dezvoltare a infrastructurii, a utilităților de interes public, dezvoltare regională, susținere a activității de cercetaredezvoltare, protecția mediului înconjurător, ocupare și formare a personalului, susținere și dezvoltare a întreprinderilor mici și mijlocii și a tranzacțiilor internaționale, potrivit art. 10 lit. c) din Legea nr. 96/2000 , republicată, are și calitatea de furnizor de ajutor de stat în cadrul schemei instituite prin prezentele norme.
+Capitolul II
+Definiții
+Articolul 4
+În sensul prezentelor norme, următoarele noțiuni se definesc astfel:
+a) contract de credit - contractul încheiat între operatorul economic și EXIMBANK, referitor la creditul în lei, cu dobândă subvenționată, acordat de EXIMBANK, în numele și în contul statului, operatorului economic;
+b) transport rutier - transportul de marfă și transportul de pasageri pe cale rutieră;
+c) tranzacții imobiliare - cumpărarea/construirea de imobile în scopul vânzării/închirierii;
+d) produse agricole - produsele enumerate în anexa nr. 1 la Tratatul instituind Comunitatea Europeană, cu excepția produselor din pescuit;
+e) IMM - persoane juridice, așa cum sunt definite în Regulamentul CE nr. 70/2001 privind aplicarea art. 87 și 88 din Tratatul instituind Comunitatea Europeană privind ajutorul de stat pentru întreprinderile mici și mijlocii, cu modificările și completările ulterioare*4).
+---- *4) Publicat în Jurnalul Oficial al Uniunii Europene nr. 10 din 13 ianuarie 2001, seria L.
+f) IMM nou-înființată (start-up) - IMM înregistrată la registrul comerțului cu cel mult 12 luni înainte de data solicitării, care prezintă cel puțin o situație financiară semestrială/anuală depusă la administrația fiscală (financiară);
+g) rata de dobândă - rata dobânzii creditului contractat, fixă pe toată durata contractului de credit;
+h) rata de subvenție - rata cu care se subvenționează rata dobânzii la creditul contractat; aceasta se aprobă prin hotărâre a C.I.F.G.A. și se publică în Monitorul Oficial al României, Partea I;
+i) rata de referință - rata de actualizare a fluxurilor de dobândă calculate pe toată durata de creditare, comunicată de Comisia Europeană.
+Capitolul III
+Bugetul și durata schemei
+Articolul 5
+Bugetul total al schemei pe perioada de implementare 2007-2010, defalcat pe ani, este de următorul:
+- milioane lei -
+2007 2008 2009 2010
+Fonduri pentru finanțări cu dobândă subvenționată 100,0 200,0 200,0 200,0
+Total ajutor de minimis pentru subvenție de dobândă*) 14,0 28,0 28,0 28,0
+Total ajutor de minimis pentru garanții*) 1,5 3,0 3,0 3,0
+Număr estimat de beneficiari 200 400 600 600
+----
+Notă
+...
+*) Ajutorul de minimis nu implică un transfer efectiv de fonduri către beneficiari.
+Articolul 6
+Pentru facilitățile acordate conform prezentei scheme, EXIMBANK acționează în numele și în contul statului. Sursa de finanțare a acestor operațiuni este, potrivit art. 10 lit. c) din Legea nr. 96/2000 , republicată, Fondul destinat stimulării operațiunilor de comerț exterior, precum și pentru finanțarea, cofinanțarea și refinanțarea activităților de dezvoltare a infrastructurii, a utilităților de interes public, dezvoltare regională, susținere a activității de cercetare-dezvoltare, protecția mediului înconjurător, ocupare și formare a personalului, susținere și dezvoltare a întreprinderilor mici și mijlocii și a tranzacțiilor internaționale.
+Capitolul IV
+Beneficiari și criterii de eligibilitate
+Articolul 7
+(1) Un operator economic este eligibil pentru a beneficia de finanțare și de ajutor de stat în cadrul prezentei scheme dacă, la data depunerii cererii de finanțare, îndeplinește cumulativ următoarele criterii:
+a) nu înregistrează pierdere, conform rezultatelor financiare de la sfârșitul anului anterior solicitării finanțării. Acest criteriu nu se aplică în cazul IMM-urilor nou-înființate (start-up);
+b) nu înregistrează capital propriu negativ, conform rezultatelor financiare de la sfârșitul anului anterior solicitării finanțării. Acest criteriu nu se aplică în cazul IMM-urilor nouînființate (start-up);
+c) nu este în dificultate, în sensul Orientărilor privind ajutorul de stat pentru salvarea și restructurarea firmelor în dificultate*5);
+---- *5) Publicate în Jurnalul Oficial al Uniunii Europene nr. 244 din 1 octombrie 2004, seria C.
+d) nu s-a instituit procedura insolvenței prevăzută de legislația în vigoare;
+e) prezintă garanții colaterale pentru garantarea creditului solicitat, conform reglementărilor interne ale EXIMBANK, excluzând garanții ale statului. Pentru garantarea microcreditului pentru IMM se solicită numai garanția personală a cel puțin unuia dintre acționari/asociați/administratori, materializată prin avalizarea de către acționari/asociați/administratori a unui bilet la ordin emis de împrumutat;
+f) contribuie din surse proprii la finanțarea proiectului de investiții cu cel puțin 20% din costul total al acestuia. Acest criteriu se aplică doar operatorilor economici care solicită credite de investiții;
+g) nu figurează cu credite restante în baza de date a Centralei Riscurilor Bancare (CRB)*6);
+---- *6) În cazul în care din verificarea CRB rezultă existența unui credit restant, iar solicitantul creditului prezintă documente din care să reiasă că a achitat restanța, se consideră criteriul îndeplinit.
+h) nu figurează cu incidente majore cu cecuri și bilete la ordin în ultimele 12 luni în baza de date a Centralei Incidentelor de Plăți (CIP);
+i) nu înregistrează datorii restante către bugetul general consolidat, al căror mod de plată nu a fost reglementat (convenții de eșalonare, amânare, compensare cu TVA de recuperat etc.);
+j) în cazul în care a fost emisă o decizie de recuperare a unui ajutor de stat împotriva sa, aceasta a fost deja executată, creanța fiind integral recuperată;
+k) nu se află în litigiu, în calitate de pârât, cu instituțiile statului, inclusiv cu EXIMBANK;
+l) suma ajutoarelor de minimis de care a beneficiat într-o perioadă de 3 ani fiscali (2 ani fiscali anteriori plus anul curent), inclusiv ajutorul de minimis solicitat conform prezentei scheme, nu depășește echivalentul în lei a 200.000 euro (100.000 euro pentru operatorii economici care își desfășoară activitatea în sectorul de transport rutier).
+(2) Sunt eligibili a fi selectați în cadrul prezentei scheme operatorii economici care activează în toate sectoarele economice, cu excepția:
+a) pescuitului și acvaculturii, acoperite de Regulamentul CE nr.104/2000*7);
+---- *7) Publicat în Jurnalul Oficial al Uniunii Europene nr. 17 din 21 ianuarie 2000, seria L. producătorii primari sau puse pe piață de operatorii economici respectivi;
+b) producției primare a produselor agricole enumerate în anexa nr. 1 la Tratatul instituind Comunitatea Europeană;
+c) procesării și marketingului produselor agricole listate în anexa nr. 1 la Tratatul instituind Comunitatea Europeană, în următoarele cazuri:
+- când cuantumul ajutorului este stabilit pe baza prețului sau a cantității produselor de acest tip cumpărate de la - când ajutorul este condiționat de a fi parțial sau integral cedat producătorilor primari (fermieri);
+d) sectorului carbonifer, așa cum este definit în Regulamentul CE nr. 1.407/2002*8);
+---- *8) Publicat în Jurnalul Oficial al Uniunii Europene nr. 205 din 2 august 2002, seria L.
+e) activităților legate de exportul către state terțe sau state membre ale Uniunii Europene, respectiv legate direct de cantitățile exportate, de organizarea și funcționarea rețelei de distribuție sau de alte cheltuieli curente legate de activitatea de export;
+f) activităților care favorizează utilizarea produselor naționale în detrimentul celor din import;
+g) producției de armament;
+h) jocurilor de noroc;
+i) comerțului cu ridicata și cu amănuntul;
+j) producției produselor din alcool și tutun;
+k) tranzacțiilor imobiliare;
+l) achiziției de mijloace de transport utilizate pentru transport rutier de marfă pentru terți;
+m) achiziției de mijloace de transport de persoane, cu o capacitate de până la 8 persoane.
+Capitolul V
+Măsuri de sprijin
+Articolul 8
+În cadrul schemei se acordă sprijin financiar sub forma subvenției de dobândă la creditele contractate și a garanției pentru microcreditele pentru IMM.
+Articolul 9
+(1) Subvenția de dobândă se acordă pentru următoarele tipuri de credite (de investiții/pe obiect):
+a) credit de dezvoltare pentru IMM - pentru finanțarea proiectelor de investiții (incluzând o componentă de finanțare pentru capital de lucru de maximum 40% din valoarea creditului):
+- suma creditului: maximum 1.500.000 euro în echivalent lei; - perioada creditului: maximum 5 ani;
+b) credit pentru capital de lucru - pentru finanțarea activității curente a IMM, cu destinație bine determinată (plata furnizorilor de materii prime și servicii, plata salariilor etc.):
+- suma creditului: maximum 300.000 euro în echivalent lei; - perioada creditului: maximum un an;
+c) microcredit pentru IMM - pentru proiecte de investiții și/sau activitate curentă:
+- suma creditului: minimum 10.000 euro în echivalent lei, maximum 35.000 euro în echivalent lei; - perioada de creditare: maximum un an pentru activitatea curentă/maximum 5 ani pentru proiecte de investiții;
+d) credit pentru domenii prioritare - destinat operatorilor economici pentru finanțarea proiectelor din domeniile prioritare de dezvoltare stabilite prin Legea nr. 96/2000 , republicată:
+- suma creditului: maximum 1.500.000 euro în echivalent lei; - perioada de creditare: maximum 5 ani.
+(2) Gradul minim de acoperire cu garanții colaterale a creditelor cu dobândă subvenționată enumerate la alin. (1) lit. a), b) și d) este de 100%. Pentru microcreditul pentru IMM gradul minim de acoperire cu garanții colaterale este de 20%.
+Articolul 10
+(1) Valoarea ajutorului se determină ex ante, pentru toată perioada de creditare, prin însumarea fluxurilor actualizate de dobândă aferente angajamentului total la data acordării creditului.
+(2) Actualizarea fluxurilor de dobândă se efectuează la momentul acordării creditului, folosind rata de referință comunicată de Comisia Europeană, conform formulei:
+nz(i;i-1)
+1 Subvenție dobândă = f2Σ Sold(i;i-1) x r(s) x ───────── x ─────────────── i
+360
+nz(i;0) ─────── 360 (1+r(a)) unde: Sold(i;i-1) = soldul zilnic al creditului (între data "i"de plată a dobânzii și data imediat anterioară "i-1" de plată a dobânzii; nz(i;i-1) = perioada de fructificare a soldului creditului (numărul de zile calendaristice dintre data "i" de plată a dobânzii și data imediat anterioară "i-1" de plată a dobânzii); nz(i;0) = perioada de actualizare (numărul de zile calendaristice dintre data "i" de plată a dobânzii și data de acordare a creditului); r(s) = rata de subvenție; r(a) = rata de referință (actualizare).
+(3) Valoarea ajutorului de stat pentru microcreditul pentru IMM se determină prin însumarea valorii subvenției de dobândă cu echivalentul subvenției brute aferente exceptării de garanții colaterale reale. Echivalentul subvenției brute pentru garanția oferită de EXIMBANK se determină conform următoarei formule:
+80% x Valoare credit (principal) x 200.000 Echivalent subvenție
+= ────────────────────────────────────────── brută pentru garanție
+1.500.000
+Articolul 11
+Valoarea maximă a ajutorului obținut de un beneficiar în cadrul prezentei scheme nu poate să depășească echivalentul în lei a 200.000 euro (100.000 euro pentru operatorii economici care activează în domeniul transportului rutier) pe o perioadă de până la 3 ani fiscali.
+Capitolul VI
+Regula de cumul
+Articolul 12
+(1) Ajutorul de minimis nu va fi cumulat cu niciun alt ajutor de stat acordat pentru aceleași costuri eligibile (legate de același proiect de investiții), în cazul în care un asemenea cumul ar duce la depășirea intensității maxime admise prevăzute în legislația specifică aplicabilă, după caz.
+(2) Ajutorul de minimis va fi acordat numai după ce EXIMBANK a verificat respectarea regulii cumulului, pe baza declarației pe propria răspundere a operatorului economic.
+(3) În cazul în care valoarea totală a ajutorului acordat unui operator economic depășește plafoanele ajutorului de minimis, acest ajutor nu poate fi acordat nici chiar pentru o fracție ce nu depășeste aceste plafoane.
+Capitolul VII
+Documentația necesară pentru cererea de finanțare
+Articolul 13
+Solicitanții vor depune la EXIMBANK documentația cuprinzând:
+a) cererea de acordare a finanțării cu dobândă subvenționată;
+b) dosarul solicitării: juridic, financiar, proiectul de finanțat, garanții propuse;
+c) declarația pe propria răspundere a operatorului economic, referitoare la:
+- cuantumul ajutoarelor de minimis primite într-o perioadă de 3 ani fiscali (2 ani fiscali anteriori plus anul curent); - faptul că nu a fost emisă o decizie de recuperare a unui ajutor de stat împotriva sa ori, dacă a fost emisă, s-a executat; - faptul că la data solicitării nu se află în litigiu, în calitate de pârât, cu instituțiile statului, inclusiv cu EXIMBANK; - încadrarea în categoria întreprinderi mici și mijlocii (IMM), după caz;
+d) alte documente solicitate de EXIMBANK, în funcție de specificul finanțării;
+e) dovada plății comisionului de analiză a cererii de acordare a finanțării cu dobândă subvenționată.
+Articolul 14
+Documentația pentru acordarea finanțării cu dobândă subvenționată se depune la sucursalele EXIMBANK și se înregistrează în Registrul unic al finanțărilor cu dobândă subvenționată, în ordinea cronologică a primirii dosarelor complete.
+Articolul 15
+Operatorii economici care solicită finanțare cu dobândă subvenționată au obligația deschiderii unui cont curent la EXIMBANK.
+Articolul 16
+Pentru finanțarea cu dobândă subvenționată, operatorul economic va plăti EXIMBANK comisioane conform Caietului de comisioane al EXIMBANK.
+Capitolul VIII
+Analiza cererilor de finanțare
+Articolul 17
+Cererea de finanțare cu dobândă subvenționată se analizează de EXIMBANK conform reglementărilor sale interne.
+Articolul 18
+În urma procesului de analiză, EXIMBANK va întocmi un referat prin care va propune acordarea sau respingerea finanțării.
+Articolul 19
+În baza hotărârii C.I.F.G.A. de aprobare a finanțării cu dobândă subvenționată, EXIMBANK va redacta contractul de credit și va comunică operatorului economic valoarea maximă a ajutorului și caracterul de ajutor de minimis al acestuia.
+Capitolul IX
+Monitorizarea și raportarea ajutorului de minimis
+Articolul 20
+(1) În cazul în care, ulterior acordării finanțării cu dobândă subvenționată, se constată că au fost încălcate condițiile prevăzute de legislația în domeniul ajutorului de minimis și/sau nu au fost respectate obligațiile contractuale, EXIMBANK va lua toate măsurile necesare pentru recuperarea sumelor acordate.
+(2) În cazul în care împrumutatul nu achită datoriile sale față de EXIMBANK, în cel mult 45 de zile calendaristice, contractul de credit se consideră reziliat de plin drept, fără a mai fi necesară îndeplinirea vreunei alte formalități, fără punerea în întârziere și fără intervenția instanțelor judecătorești, declarându-se creditul scadent și exigibil cu toate dobânzile și celelalte sume datorate.
+(3) Recuperarea prin executare silită se efectuează prin Corpul executorilor fiscali al EXIMBANK, potrivit dispozițiilor legale în vigoare privind Codul de procedură fiscală și prevederilor normelor interne privind recuperarea creanțelor administrate de EXIMBANK în numele și în contul statului.
+Articolul 21
+EXIMBANK va păstra evidența ajutoarelor acordate în baza prezentei scheme și informațiile referitoare la acestea, pe o perioadă de 10 ani de la data ultimei alocări specifice de ajutor în cadrul acesteia, pentru a stabili dacă sunt respectate toate condițiile prevăzute de Regulamentul Comisiei Europene nr. 1998/2006 privind ajutorul de minimis.
+Articolul 22
+EXIMBANK va transmite anual Consiliului Concurenței un raport cu privire la implementarea schemei în forma prevăzută în cap. III din Regulamentul (CE) nr. 794/2004 *9). ---- *9) Regulamentul Comisiei (CE) nr. 794/2004 cu privire la implementarea Regulamentului Consiliului (CE) nr. 659/1999 referitor la aplicarea art. 93 al Tratatului CE, publicat în Jurnalul Oficial al Uniunii Europene nr. L 140 din 30 aprilie 2004.
+Articolul 23
+Operatorii economici beneficiari de ajutor de stat vor ține o evidență specifică a ajutoarelor primite, în conformitate cu legislația în domeniul ajutorului de stat.
+Articolul 24
+În vederea asigurării transparenței și a unui control eficient al ajutoarelor de minimis, EXIMBANK va aplica prevederile art. 6 din Ordonanța de urgență a Guvernului nr. 117/2006 privind procedurile naționale în domeniul ajutorului de stat, aprobată cu modificări prin Legea nr. 137/2007 , referitoare la schemele de minimis, și va transmite spre informare Consiliului Concurenței prezenta schemă de ajutor de minimis în termen de 15 zile de la data adoptării.
+Articolul 25
+Prezenta schemă va fi publicată integral pe site-ul EXIMBANK, la adresa web http://www.eximbank.ro.
+Articolul 26
+EXIMBANK va furniza Consiliului Concurenței toate informațiile solicitate de Comisia Europeană cu privire la prezenta schemă de ajutor de minimis, pentru a fi transmise acesteia, în termen de 20 de zile lucrătoare de la primirea solicitării.
+Capitolul X
+Dispoziții finale
+Articolul 27
+Valoarea maximă a subvenției de dobândă care poate fi acordată în cadrul schemei se actualizează automat la modificarea pragului de minimis al ajutorului de stat.
+Articolul 28
+În scopul aplicării prezentelor norme, EXIMBANK va emite proceduri interne de lucru, care vor fi supuse aprobării C.I.F.G.A.
+Articolul 29
+Prezentele norme intră în vigoare la data publicării în Monitorul Oficial al României, Partea I, dată la care se abrogă Normele de finanțare cu dobândă subvenționată a operatorilor economici în numele și în contul statului (NI-FIN-06-I/0), aprobate prin Hotărârea Comitetului Interministerial de Finanțări, Garanții și Asigurări nr. 29/2007, publicată în Monitorul Oficial al României, Partea I, nr. 541 din 8 august 2007. -----
