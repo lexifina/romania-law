@@ -1,0 +1,5 @@
+În temeiul art. 483, 484, 500 și al art. 502 alin. (1) lit. a) din Legea nr. 95/2006 privind reforma în domeniul sănătății, cu modificările și completările ulterioare, Consiliul național al Colegiului Medicilor Dentiști din România decide:
+Articolul 1
+Medicii dentiști, membri ai Colegiului Medicilor Dentiști din România, care au împlinit vârsta de pensionare își pot continua activitatea în sectorul privat pe baza avizului anual acordat, în condițiile legii, de Colegiul Medicilor Dentiști din România, prin colegiile teritoriale.
+Articolul 2
+Medicii dentiști pensionari care au obținut dreptul de practică în condițiile art. 1 pot desfășura activități de medicină dentară, conform pregătirii profesionale, în sectorul privat, fie ca angajați, fie ca titulari sau asociați ai cabinetelor de practică medico-dentară independentă, în sistemul de asigurări sociale de sănătate și în colaborare cu furnizori de servicii medico-dentare. Președintele Colegiului Medicilor Dentiști din România, Liviu Zetu București, 22 septembrie 2007. Nr. 7. _________
