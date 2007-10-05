@@ -1,0 +1,17 @@
+# Anexa nr. 2 (la contract)
+Atribuțiile specifice directorului medical sunt: 1. în calitate de președinte al consiliului medical coordonează și răspunde de elaborarea la termen a propunerilor privind planul de dezvoltare a spitalului, planul anual de servicii medicale, planul anual de achiziții publice cu privire la achiziția de aparatură și echipamente medicale, medicamente și materiale sanitare, bugetul de venituri și cheltuieli;
+2. monitorizează calitatea serviciilor medicale acordate la nivelul spitalului, inclusiv prin evaluarea satisfacției pacienților, și elaborează, împreună cu șefii de secții, propuneri de îmbunătățire a activității medicale;
+3. aprobă protocoale de practică medicală la nivelul spitalului și monitorizează procesul de implementare a protocoalelor și ghidurilor de practică medicală la nivelul întregului spital;
+4. răspunde de coordonarea și corelarea activităților medicale desfășurate la nivelul secțiilor pentru asigurarea tratamentului adecvat pentru pacienții internați;
+5. coordonează implementarea programelor de sănătate la nivelul spitalului;
+6. întocmește planul de formare și perfecționare a personalului medical, la propunerea șefilor de secții, laboratoare și servicii;
+7. avizează utilizarea bazei de date medicale a spitalului pentru activități de cercetare medicală, în condițiile legii;
+8. asigură respectarea normelor de etică profesională și deontologie medicală la nivelul spitalului, colaborând cu Colegiul Medicilor din România;
+9. răspunde de acreditarea personalului medical al spitalului și de acreditarea activităților medicale desfășurate în spital, în conformitate cu legislația în vigoare;
+10. analizează și ia decizii în situația existenței unor cazuri medicale deosebite (de exemplu, cazuri foarte complicate care necesită o durată de spitalizare mult prelungită, morți subite etc.);
+11. participă, alături de manager, la organizarea asistenței medicale în caz de dezastre, epidemii și în alte situații speciale, în conformitate cu prevederile legale în vigoare;
+12. stabilește coordonatele principale privind consumul de medicamente și materiale sanitare la nivelul spitalului, în vederea unei utilizări judicioase a fondurilor spitalului, prevenirii polipragmaziei și a rezistenței la medicamente;
+13. supervizează respectarea prevederilor în vigoare referitoare la documentația medicală a pacienților tratați, asigurarea confidențialității datelor medicale, constituirea arhivei spitalului;
+14. răspunde de utilizarea în activitatea curentă, la toate componentele activităților medicale de prevenție, diagnostic, tratament și recuperare a procedurilor și tehnicilor prevăzute în protocoalele unității, a standardelor de sterilizare și sterilitate, asepsie și antisepsie, respectiv a normelor privind cazarea, alimentația și condițiile de igienă oferite pe perioada îngrijirilor acordate;
+15. coordonează activitatea de informatică în scopul înregistrării corecte a datelor în documentele medicale, gestionării și utilizării eficiente a acestor date;
+16. ia măsurile necesare, potrivit dispozițiilor legale și contractului colectiv de muncă aplicabil, pentru asigurarea condițiilor corespunzătoare de muncă, prevenirea accidentelor și îmbolnăvirilor profesionale.
