@@ -1,0 +1,2 @@
+# Anexa nr. 1 la anexa nr. 1
+Anexa ───── la norme ───────── GUVERNUL ROMÂNIEI [STEMA ROMÂNIEI] MINISTERUL TRANSPORTURILOR CERTIFICAT DE AGREARE Nr....../....... Unitatea......, situată în localitatea.........., str....... nr......, județul............, este agreată să efectueze examinări medicale/psihologice pentru persoanele cu funcții care concură la siguranța circulației rutiere. Prezentul certificat este valabil de la data de............... până la data de.........., cu avizare anuală. Secretar general,................... _________
