@@ -1,0 +1,2 @@
+LISTA din 17 octombrie 2007  semnelor electorale depuse de partidele politice, alianţele politice, alianţele electorale, organizaţiile cetăţenilor aparţinând minorităţilor naţionale şi candidaţii independenţi la alegerile pentru membrii din România în Parlamentul European din 25 noiembrie 2007     EMITENT     BIROUL ELECTORAL CENTRAL       Publicat în
+			  MONITORUL OFICIAL nr. 699 din 17 octombrie 2007     - completare -  1. Partidul Verde  2. Partidul Iniţiativa Naţională  3. Partidul Alianţa Socialistă        -----------
