@@ -1,0 +1,180 @@
+{
+ "key": "dcc-797-2007",
+ "label": "Decizia CCR nr. 797/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "797",
+ "date": "2007-09-27",
+ "year": "2007",
+ "heading": "DECIZIE nr. 797 din 27 septembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. (3) şi (7) din Legea contenciosului administrativ nr. 554/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "707",
+  "bis": false,
+  "date": "2007-10-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.791/109/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge ca neîntemeiată excepţia de neconstituţionalitate a prevederilor art. 7 alin. (3) din Legea contenciosului administrativ nr. 554/2004, excepţie ridicată de Mihaela Florea în Dosarul nr. 3.791/109/2006 al Curţii de Apel Piteşti - Secţia comercială şi de contencios administrativ şi fiscal. 2. Admite excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. (7) din Legea contenciosului administrativ nr. 554/2004, ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe, şi constată că textul de lege este neconstituţional în măsura în care termenul de 6 luni de la data emiterii actului se aplică plângerii prealabile formulate de persoana vătămată într-un drept al său sau într-un interes legitim, printr-un act administrativ cu caracter individual, adresat altui subiect de drept decât destinatarul actului.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 262/2007",
+    "number": "262",
+    "year": "2007",
+    "path": "lege/2007/262"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-10-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86218",
+  "text_sha256": "eb75f8c38ebb07585197b42cd1cde9ac14aac4b62fd30a5e324db3133f5be782",
+  "catalogue_sha256": "eb75f8c38ebb07585197b42cd1cde9ac14aac4b62fd30a5e324db3133f5be782",
+  "fetched": "2026-11-03T00:23:17Z",
+  "chars": 16794,
+  "portal_id": "86218",
+  "tip": "DECIZIE"
+ }
+}
