@@ -1,0 +1,188 @@
+{
+ "key": "dcc-685-2007",
+ "label": "Decizia CCR nr. 685/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "685",
+ "date": "2007-09-11",
+ "year": "2007",
+ "heading": "DECIZIE nr. 685 din 11 septembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 38 lit. a) şi art. 52 din Legea nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "711",
+  "bis": false,
+  "date": "2007-10-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.656/30/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2005",
+    "number": "248",
+    "year": "2005",
+    "path": "lege/2005/248"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 38 lit. a) din Legea nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate, excepţie ridicată de Ioana Gorovei în Dosarul nr. 4.656/30/2006 al Tribunalului Timiş - Secţia civilă. 2. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 52 din Legea nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2005",
+    "number": "248",
+    "year": "2005",
+    "path": "lege/2005/248"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 157/2005",
+    "number": "157",
+    "year": "2005",
+    "path": "lege/2005/157"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-10-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86256",
+  "text_sha256": "4629c0f680053aea5fa30419f2d839d07d0f89062240334455ee85977903c63d",
+  "catalogue_sha256": "4629c0f680053aea5fa30419f2d839d07d0f89062240334455ee85977903c63d",
+  "fetched": "2026-11-03T00:23:20Z",
+  "chars": 11010,
+  "portal_id": "86256",
+  "tip": "DECIZIE"
+ }
+}
