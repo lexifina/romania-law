@@ -1,0 +1,188 @@
+{
+ "key": "dcc-838-2007",
+ "label": "Decizia CCR nr. 838/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "838",
+ "date": "2007-10-02",
+ "year": "2007",
+ "heading": "DECIZIE nr. 838 din 2 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (2) lit. A pct. 15 din Legea nr. 543/2002 privind graţierea unor pedepse şi înlăturarea unor măsuri şi sancţiuni",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "721",
+  "bis": false,
+  "date": "2007-10-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "877/99/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 543/2002",
+    "number": "543",
+    "year": "2002",
+    "path": "lege/2002/543"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (2) lit. A pct. 15 din Legea nr. 543/2002 privind graţierea unor pedepse şi înlăturarea unor măsuri şi sancţiuni, excepţie invocată de Daniel Olariu în Dosarul nr. 877/99/2007 al Tribunalului Iaşi - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 543/2002",
+    "number": "543",
+    "year": "2002",
+    "path": "lege/2002/543"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-10-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86567",
+  "text_sha256": "e5d1ade4575e79630fb099a5f06124b584cc75e2ca395eec712ab05eef63e113",
+  "catalogue_sha256": "e5d1ade4575e79630fb099a5f06124b584cc75e2ca395eec712ab05eef63e113",
+  "fetched": "2026-11-04T17:35:45Z",
+  "chars": 7840,
+  "portal_id": "86567",
+  "tip": "DECIZIE"
+ }
+}
