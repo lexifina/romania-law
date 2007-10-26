@@ -1,0 +1,19 @@
+# Anexa 6
+MODEL DE ANGAJAMENT pentru formarea soldaților și gradaților rezerviști voluntari ROMÂNIA NESECRET MINISTERUL INTERNELOR ȘI REFORMEI ADMINISTRATIVE Exemplar nr................... UNITATEA MILITARĂ................... Nr............... Data................... ANGAJAMENT 1. Încheiat între Ministerul Internelor și Reformei Administrative, reprezentat de..................., comandantul Unității Militare........................., și dl........................, domiciliat în..................., strada............... nr..., bloc......., scara..., etaj..., apartament....., județul (sectorul)....., telefon fix........., telefon mobil..........., având cartea de identitate seria.... nr................, eliberată de................... 2. Scopul angajamentului: participarea dlui................. pentru o perioadă de 4 luni la instruirea centralizată, organizată de Unitatea Militară............................., în scopul formării ca rezervist voluntar. 3. Perioada pentru care se încheie angajamentul este de 4 luni, de la.....(an, lună, zi).... până la......(an, lună, zi).... 4. Clauzele angajamentului sunt:
+a) Ministerul Internelor și Reformei Administrative se obligă să asigure:
+- condițiile de pregătire și acordarea drepturilor bănești și materiale prevăzute în dispozițiile în vigoare pe întreaga perioadă de pregătire.
+b) Subsemnatul............... declar că doresc să urmez cursul de formare a soldaților și gradaților voluntari și mă oblig:
+- să-mi însușesc cunoștințele și să-mi formez deprinderile ca soldat/gradat rezervist voluntar; - să respect prevederile legilor țării, regulamentelor militare și ale celorlalte acte normative în vigoare care reglementează activitatea în centrele de pregătire; - să manifest în toate împrejurările o comportare demnă și civilizată, să apăr onoarea și demnitatea de militar, să am o ținută militară regulamentară și să nu săvârșesc abateri disciplinare; - să folosesc cu eficiență baza materială de învățământ, celelalte bunuri materiale de instruire existente în instituția militară și să le păstrez în stare de funcționare; - după absolvirea cursului de formare să închei contract în calitate de rezervist voluntar cu unitatea militară pentru care am fost selecționat; - să restitui cheltuielile efectuate de Ministerul Internelor și Reformei Administrative pe timpul instruirii dacă: - voi întrerupe angajamentul înainte de termen; - nu promovez examenul susținut la sfârșitul cursului, din motive imputabile mie; - sunt condamnat prin hotărâre judecătorească definitivă la pedeapsa închisorii cu executarea acesteia; - sunt condamnat prin hotărâre judecătorească definitivă pentru infracțiuni săvârșite cu intenție sau din culpă, fără a fi privat de libertate; - săvârșesc abateri grave de la prevederile regulamentelor militare sau de la alte dispoziții legale, incompatibile cu calitatea de militar, potrivit legii. Drept care s-a încheiat prezentul angajament, în două exemplare, astăzi,....., din care un exemplar rămâne la unitate, iar al doilea la soldatul/gradatul rezervist voluntar.
+COMANDANTUL UNITĂȚII MILITARE Nr...................
+............................
+(grad, prenume, nume)
+........................
+(ștampila și semnătura)
+Consilier juridic,
+......................
+(grad, prenume, nume)
+....................................
+(numele și prenumele participantului)
+................................................
+(semnătura) (semnătura)
+Prezentul angajament s-a înregistrat sub numărul.......... din.........., după ce în prealabil s-a verificat identitatea soldatului/gradatului rezervist voluntar.
