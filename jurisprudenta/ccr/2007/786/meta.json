@@ -1,0 +1,222 @@
+{
+ "key": "dcc-786-2007",
+ "label": "Decizia CCR nr. 786/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "786",
+ "date": "2007-09-20",
+ "year": "2007",
+ "heading": "DECIZIE nr. 786 din 20 septembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 din Legea nr. 130/1999 privind unele măsuri de protecţie a persoanelor încadrate în muncă şi ale art. II alin. (5) din Legea nr. 403/2005 pentru modificarea şi completarea Legii nr. 130/1999 privind unele măsuri de protecţie a persoanelor încadrate în muncă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "730",
+  "bis": false,
+  "date": "2007-10-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.348/225/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/1999",
+    "number": "130",
+    "year": "1999",
+    "path": "lege/1999/130"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 403/2005",
+    "number": "403",
+    "year": "2005",
+    "path": "lege/2005/403"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 7 din Legea nr. 130/1999 privind unele măsuri de protecţie a persoanelor încadrate în muncă şi ale art. II alin. (5) din Legea nr. 403/2005 pentru modificarea şi completarea Legii nr. 130/1999 privind unele măsuri de protecţie a persoanelor încadrate în muncă, excepţie ridicată de Societatea Comercială \"Agenţia de pază Professional Style\" - S.R.L. din Drobeta-Turnu Severin în Dosarul nr. 1.348/225/2007 al Judecătoriei Drobeta-Turnu Severin.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/1999",
+    "number": "130",
+    "year": "1999",
+    "path": "lege/1999/130"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 403/2005",
+    "number": "403",
+    "year": "2005",
+    "path": "lege/2005/403"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86765",
+  "text_sha256": "82eab3dfab294a7c7389682a4d109293d0189c945266617346dfe2dc57fff9cb",
+  "catalogue_sha256": "82eab3dfab294a7c7389682a4d109293d0189c945266617346dfe2dc57fff9cb",
+  "fetched": "2026-11-05T12:51:06Z",
+  "chars": 8802,
+  "portal_id": "86765",
+  "tip": "DECIZIE"
+ }
+}
