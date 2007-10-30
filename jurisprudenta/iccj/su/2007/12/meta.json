@@ -1,0 +1,217 @@
+{
+ "key": "iccj-su-12-2007",
+ "label": "Decizia ÎCCJ nr. XII/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "12",
+ "number_printed": "XII",
+ "date": "2007-02-05",
+ "year": "2007",
+ "heading": "DECIZIE nr. XII din 5 februarie 2007",
+ "subtitle": "privind aplicabilitatea dispoziţiilor art. 37 alin. (2) teza I din Ordonanţa Guvernului nr. 38/2003 privind salarizarea şi alte drepturi ale poliţiştilor, aprobată cu modificări prin Legea nr. 353/2003, cu modificările şi completările ulterioare, referitoare la acordarea primei de concediu de odihnă.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "733",
+  "bis": false,
+  "date": "2007-10-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "30/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 37 alin. (2) teza I din Ordonanţa Guvernului nr. 38/2003 privind salarizarea şi alte drepturi ale poliţiştilor, aprobată cu modificări prin Legea nr. 353/2003, cu modificările şi completările ulterioare, stabilesc:",
+  "Prima de concediu, respectiv o sumă egală cu salariul de bază din luna anterioară plecării în concediu, pe lângă indemnizaţia de concediu, se cuvine pentru perioada anilor 2004-2006, astfel cum a fost reglementată prin dispoziţia legală menţionată.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 507/2003",
+    "number": "507",
+    "year": "2003",
+    "path": "lege/2003/507"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 511/2004",
+    "number": "511",
+    "year": "2004",
+    "path": "lege/2004/511"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 379/2005",
+    "number": "379",
+    "year": "2005",
+    "path": "lege/2005/379"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "oug/2003/38"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86512",
+  "text_sha256": "498b67d561ef419c5e4c00c6f13887bfcac30cd70e1ca061da37b1b1bdfa92b4",
+  "catalogue_sha256": "498b67d561ef419c5e4c00c6f13887bfcac30cd70e1ca061da37b1b1bdfa92b4",
+  "fetched": "2026-11-04T13:17:48Z",
+  "chars": 9814,
+  "portal_id": "86512",
+  "tip": "DECIZIE"
+ }
+}
