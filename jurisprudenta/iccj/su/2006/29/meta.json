@@ -1,0 +1,167 @@
+{
+ "key": "iccj-su-29-2006",
+ "label": "Decizia ÎCCJ nr. XXIX/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "29",
+ "number_printed": "XXIX",
+ "date": "2006-10-09",
+ "year": "2006",
+ "heading": "DECIZIE nr. XXIX din 9 octombrie 2006",
+ "subtitle": "privind data de la care se socoteşte termenul de declarare a apelului pentru inculpatul care a lipsit atât de la dezbateri, cât şi de la pronunţare, în situaţia când apărătorul acestuia a fost prezent la unul dintre cele două momente procesuale.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "732",
+  "bis": false,
+  "date": "2007-10-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "18/2006"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admit recursul în interesul legii, declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Stabilesc că termenul de declarare a apelului şi recursului pentru inculpatul care a lipsit atât de la dezbateri, cât şi de la pronunţare, chiar dacă a fost reprezentat de apărător, curge de la comunicare.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "360",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "363",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 281/2003",
+    "number": "281",
+    "year": "2003",
+    "path": "lege/2003/281"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86492",
+  "text_sha256": "20cd3ad9fdd3e4f6c7b8e8fc5415fabf56b283f989e6aa72be6cbda5728b19dd",
+  "catalogue_sha256": "20cd3ad9fdd3e4f6c7b8e8fc5415fabf56b283f989e6aa72be6cbda5728b19dd",
+  "fetched": "2026-11-03T00:23:32Z",
+  "chars": 10732,
+  "portal_id": "86492",
+  "tip": "DECIZIE"
+ }
+}
