@@ -1,0 +1,180 @@
+{
+ "key": "iccj-su-11-2007",
+ "label": "Decizia ÎCCJ nr. XI/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "11",
+ "number_printed": "XI",
+ "date": "2007-02-05",
+ "year": "2007",
+ "heading": "DECIZIE nr. XI din 5 februarie 2007",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 13 din Legea nr. 18/1991, republicată, referitoare la posibilitatea repunerii în termenul de acceptare a succesiunii a succesibililor care au renunţat la moştenire",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "733",
+  "bis": false,
+  "date": "2007-10-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "29/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "700",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 8 şi art. 13 alin. (2) din Legea nr. 18/1991, republicată, stabilesc:",
+  "Beneficiază de repunerea în termenul de acceptare a succesiunii numai moştenitorii care nu au acceptat succesiunea în termenul prevăzut de art. 700 din Codul civil, iar nu şi cei care au renunţat la moştenire.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "700",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "696",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86495",
+  "text_sha256": "0d275ee6aed59b5c4c75cdfa35e82e484a68365bb7f03f28e95241702a8f0a97",
+  "catalogue_sha256": "0d275ee6aed59b5c4c75cdfa35e82e484a68365bb7f03f28e95241702a8f0a97",
+  "fetched": "2026-11-03T00:23:34Z",
+  "chars": 8452,
+  "portal_id": "86495",
+  "tip": "DECIZIE"
+ }
+}
