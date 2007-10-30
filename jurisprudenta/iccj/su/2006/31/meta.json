@@ -1,0 +1,136 @@
+{
+ "key": "iccj-su-31-2006",
+ "label": "Decizia ÎCCJ nr. 31/2006 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "31",
+ "date": "2006-10-09",
+ "year": "2006",
+ "heading": "DECIZIE nr. 31 din 9 octombrie 2006",
+ "subtitle": "cu privire la aplicarea dispoziţiilor art. 5 din Ordonanţa de urgenţă a Guvernului nr. 112 din 30 august 2001, în cazul condamnării inculpatului pentru infracţiunile prevăzute în art. 1-3 din această ordonanţă.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "732",
+  "bis": false,
+  "date": "2007-10-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "20/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 112/2001",
+    "number": "112",
+    "year": "2001",
+    "path": "oug/2001/112"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 5 din Ordonanţa de urgenţă a Guvernului nr. 112/2001, stabilesc:",
+  "În cazul hotărârii de condamnare pronunţate în temeiul art. 1-3 din Ordonanţa de urgenţă a Guvernului nr. 112/2001, măsurile prevăzute în art. 5 din acelaşi act normativ sunt duse la îndeplinire de către Direcţia Generală de Paşapoarte, Inspectoratul General al Poliţiei de Frontieră şi de Serviciul Public Comunitar pentru Eliberarea şi Evidenţa Paşapoartelor, cărora le revine această atribuţie specifică, pe baza comunicării de către instanţă a dispozitivului hotărârii de condamnare.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 112/2001",
+    "number": "112",
+    "year": "2001",
+    "path": "oug/2001/112"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86493",
+  "text_sha256": "6c41f4c0ca8cec85666d88db22ae27462e7dc5eac2d6d496cfccc26144fd6817",
+  "catalogue_sha256": "6c41f4c0ca8cec85666d88db22ae27462e7dc5eac2d6d496cfccc26144fd6817",
+  "fetched": "2026-11-03T00:23:34Z",
+  "chars": 7118,
+  "portal_id": "86493",
+  "tip": "DECIZIE"
+ }
+}
