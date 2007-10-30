@@ -1,0 +1,122 @@
+{
+ "key": "iccj-su-7-2007",
+ "label": "Decizia ÎCCJ nr. VII/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "7",
+ "number_printed": "VII",
+ "date": "2007-02-05",
+ "year": "2007",
+ "heading": "DECIZIE nr. VII din 5 februarie 2007",
+ "subtitle": "privind propunerea de arestare preventivă ori de prelungire a arestării preventive, de a participa la soluţionarea unui nou recurs având ca obiect o altă încheiere prin care s-a dispus cu privire la măsurile preventive în aceeaşi cauză.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "732",
+  "bis": false,
+  "date": "2007-10-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 48 alin. 1 lit. a) teza ultimă din Codul de procedură penală, stabilesc:",
+  "Judecătorul care a participat la judecarea recursului împotriva încheierii prin care s-a dispus luarea ori prelungirea măsurii arestării preventive, în cursul urmăririi penale, nu devine incompatibil să judece un nou recurs, având ca obiect o altă încheiere, prin care s-a dispus în aceeaşi fază de urmărire penală cu privire la măsura arestării preventive în aceeaşi cauză.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "385-15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86491",
+  "text_sha256": "2f810bbb5c849fd7224d5b532d5ddfd2f834cea2bb3ddad4e3c46adc5a8659e3",
+  "catalogue_sha256": "2f810bbb5c849fd7224d5b532d5ddfd2f834cea2bb3ddad4e3c46adc5a8659e3",
+  "fetched": "2026-11-03T00:23:32Z",
+  "chars": 6995,
+  "portal_id": "86491",
+  "tip": "DECIZIE"
+ }
+}
