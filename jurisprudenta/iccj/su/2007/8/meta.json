@@ -1,0 +1,229 @@
+{
+ "key": "iccj-su-8-2007",
+ "label": "Decizia ÎCCJ nr. VIII/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "8",
+ "number_printed": "VIII",
+ "date": "2007-02-05",
+ "year": "2007",
+ "heading": "DECIZIE nr. VIII din 5 februarie 2007",
+ "subtitle": "privind recursul în interesul legii, declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie, cu privire la aplicarea legii penale mai favorabile în cazul pedepselor definitive, stabilite pentru infracţiuni care au produs consecinţe deosebit de grave.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "733",
+  "bis": false,
+  "date": "2007-10-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "33/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabilesc:",
+  "Instanţa, învestită, în baza art. 461 alin. 1 lit. d) teza penultimă din Codul de procedură penală, în cadrul contestaţiei la executare în care se invocă modificarea înţelesului noţiunii de \"consecinţe deosebit de grave\", potrivit art. 146 din Codul penal, nu poate schimba încadrarea juridică dată faptei prin hotărârea judecătorească rămasă definitivă şi, apoi, reduce pedeapsa aplicată în cauză, întrucât modificarea înţelesului noţiunii de \"consecinţe deosebit de grave\", prevăzută de textul sus-menţionat, nu este identică cu cerinţa de a fi intervenit o lege care prevede o pedeapsă mai uşoară, la care se referă textele art. 14 şi 15 din Codul penal, pentru a fi incidente dispoziţiile art. 458 şi, respectiv, art. 461 alin. 1 lit. d) teza penultimă din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "458",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 207/2000",
+    "number": "207",
+    "year": "2000",
+    "path": "oug/2000/207"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 456/2001",
+    "number": "456",
+    "year": "2001",
+    "path": "lege/2001/456"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 278/2006",
+    "number": "278",
+    "year": "2006",
+    "path": "lege/2006/278"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86494",
+  "text_sha256": "01672ba16c7e12ac70f7a104e038d9e90d888c4819a638b3b508f7ea302c2d9f",
+  "catalogue_sha256": "01672ba16c7e12ac70f7a104e038d9e90d888c4819a638b3b508f7ea302c2d9f",
+  "fetched": "2026-11-03T00:23:34Z",
+  "chars": 8599,
+  "portal_id": "86494",
+  "tip": "DECIZIE"
+ }
+}
