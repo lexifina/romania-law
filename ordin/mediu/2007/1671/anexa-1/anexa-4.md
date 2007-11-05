@@ -1,0 +1,6 @@
+# Anexa 4
+------- la regulament ------------- SITUAȚIE privind dotarea cu echipamente, instalații și utilaje specifice pentru desfășurarea activității INSTITUȚIA PUBLICĂ/PRIVATĂ:...........
+Nr. crt. Denumirea și marca instalațiilor și utilajelor Anul fabricației Starea tehnică (gradul de uzură)* Modul de deținere (proprietate/închiriere)
+------------------
+Notă...
+Data completării....................................... (Semnătura autorizată)
