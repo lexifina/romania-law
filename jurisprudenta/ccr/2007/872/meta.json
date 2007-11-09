@@ -1,0 +1,132 @@
+{
+ "key": "dcc-872-2007",
+ "label": "Decizia CCR nr. 872/2007",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "872",
+ "date": "2007-10-09",
+ "year": "2007",
+ "heading": "DECIZIE nr. 872 din 9 octombrie 2007",
+ "subtitle": "asupra cererii formulate de preşedintele Camerei Deputaţilor pentru \"verificarea\" Hotărârii Camerei Deputaţilor nr. 36 din 25 septembrie 2007 referitoare la raportul Subcomisiei de anchetă parlamentară privind cercetarea legalităţii retrocedării Castelului Bran şi a procedurii de scoatere la vânzare a acestuia",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "760",
+  "bis": false,
+  "date": "2007-11-09",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.369E/2007",
+  "4.551/2006"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că examinarea problemelor menţionate în cererea formulată de preşedintele Camerei Deputaţilor pentru \"verificarea\" Hotărârii Camerei Deputaţilor nr. 36 din 25 septembrie 2007 referitoare la raportul Subcomisiei de anchetă parlamentară privind cercetarea legalităţii retrocedării Castelului Bran şi a procedurii de scoatere la vânzare a acestuia nu intră în competenţa Curţii Constituţionale.",
+  "Definitivă.",
+  "Decizia se comunică preşedintelui Camerei Deputaţilor şi Guvernului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 85/2007",
+    "number": "85",
+    "year": "2007",
+    "path": "hg/2007/85"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 422/2001",
+    "number": "422",
+    "year": "2001",
+    "path": "lege/2001/422"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86816",
+  "text_sha256": "888b26881219638123627be5af86f3e6d7ca95a0c6be04565c54e146c9c483bc",
+  "catalogue_sha256": "888b26881219638123627be5af86f3e6d7ca95a0c6be04565c54e146c9c483bc",
+  "fetched": "2026-11-03T00:23:54Z",
+  "chars": 14200,
+  "portal_id": "86816",
+  "tip": "DECIZIE"
+ }
+}
