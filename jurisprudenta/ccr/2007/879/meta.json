@@ -1,0 +1,201 @@
+{
+ "key": "dcc-879-2007",
+ "label": "Decizia CCR nr. 879/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "879",
+ "date": "2007-10-16",
+ "year": "2007",
+ "heading": "DECIZIE nr. 879 din 16 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 48/2006 privind comercializarea mărfurilor în regim de duty-free şi duty-paid",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "760",
+  "bis": false,
+  "date": "2007-11-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "7.430/2/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 48/2006",
+    "number": "48",
+    "year": "2006",
+    "path": "oug/2006/48"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 48/2006 privind comercializarea mărfurilor în regim de duty-free şi duty-paid, excepţie ridicată de Societatea Comercială \"Euro Trade Invest\" - S.A. din Bucureşti în Dosarul nr. 7.430/2/2006 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 48/2006",
+    "number": "48",
+    "year": "2006",
+    "path": "oug/2006/48"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/2007",
+    "number": "141",
+    "year": "2007",
+    "path": "lege/2007/141"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 52/2003",
+    "number": "52",
+    "year": "2003",
+    "path": "lege/2003/52"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenţei nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86817",
+  "text_sha256": "2c926b692b3c03862f3960a8c35f4c160fd06e43dbd5fa242c1e77bcbba647d4",
+  "catalogue_sha256": "2c926b692b3c03862f3960a8c35f4c160fd06e43dbd5fa242c1e77bcbba647d4",
+  "fetched": "2026-11-03T00:23:54Z",
+  "chars": 7957,
+  "portal_id": "86817",
+  "tip": "DECIZIE"
+ }
+}
