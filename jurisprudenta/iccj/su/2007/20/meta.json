@@ -1,0 +1,176 @@
+{
+ "key": "iccj-su-20-2007",
+ "label": "Decizia ÎCCJ nr. XX/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "20",
+ "number_printed": "XX",
+ "date": "2007-03-19",
+ "year": "2007",
+ "heading": "DECIZIE nr. XX din 19 martie 2007",
+ "subtitle": "examinarea recursului în interesul legii, cerând să se decidă în sensul că instanța de judecată este competentă să judece pe fond contestația formulată împotriva deciziei/dispoziției de respingere a cererilor prin care se solicită restituirea în natură a imobilelor preluate abuziv sau în cazul refuzului nejustificat al entității deținătoare de a răspunde la notificare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIILE UNITE",
+ "mo": {
+  "number": "764",
+  "bis": false,
+  "date": "2007-11-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "37/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "În aplicarea dispozițiilor art. 26 alin. (3) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989, republicată, stabilesc:",
+  "Instanța de judecată este competentă să soluționeze pe fond nu numai contestația formulată împotriva deciziei/dispoziției de respingere a cererilor prin care s-a solicitat restituirea în natură a imobilelor preluate abuziv, ci și acțiunea persoanei îndreptățite în cazul refuzului nejustificat al entității deținătoare de a răspunde la notificarea părții interesate.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-11-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86835",
+  "text_sha256": "bf17e66484406b4e3f5a243e61d690c236edcef060cd37d095bad8ac9fb92b67",
+  "catalogue_sha256": "bf17e66484406b4e3f5a243e61d690c236edcef060cd37d095bad8ac9fb92b67",
+  "fetched": "2026-11-03T00:23:55Z",
+  "chars": 12943,
+  "portal_id": "86835",
+  "tip": "DECIZIE"
+ }
+}
