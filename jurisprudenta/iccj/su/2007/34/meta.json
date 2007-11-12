@@ -1,0 +1,193 @@
+{
+ "key": "iccj-su-34-2007",
+ "label": "Decizia ÎCCJ nr. XXXIV/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "34",
+ "number_printed": "XXXIV",
+ "date": "2007-05-07",
+ "year": "2007",
+ "heading": "DECIZIE nr. XXXIV din 7 mai 2007",
+ "subtitle": "examinarea recursului în interesul legii, punând concluzii pentru a fi admis în sensul de a se stabili că, în materia reabilitării, hotărârile pronunţate anterior intrării în vigoare a Legii nr. 356/2006 sunt supuse atât apelului, cât şi recursului, iar cele pronunţate după această dată sunt supuse numai căii ordinare de atac a recursului",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "764",
+  "bis": false,
+  "date": "2007-11-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "5/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "501",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 501 din Codul de procedură penală se interpretează în sensul că: 1. hotărârile pronunţate anterior intrării în vigoare a Legii nr. 356/2006 sunt supuse atât apelului, cât şi recursului; 2. hotărârile pronunţate după intrarea în vigoare a Legii nr. 356/2006 sunt supuse numai căii ordinare de atac a recursului, în condiţiile art. 385^1 alin. 1 lit. f) din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "501",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 358/2006",
+    "number": "358",
+    "year": "2006",
+    "path": "lege/2006/358"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1968",
+    "number": "31",
+    "year": "1968",
+    "path": "lege/1968/31"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-11-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86836",
+  "text_sha256": "a68e9946cc5e771189efa71e52374de952090c4a7f2335d00cd44fae96669333",
+  "catalogue_sha256": "a68e9946cc5e771189efa71e52374de952090c4a7f2335d00cd44fae96669333",
+  "fetched": "2026-11-04T04:00:38Z",
+  "chars": 7876,
+  "portal_id": "86836",
+  "tip": "DECIZIE"
+ }
+}
