@@ -1,0 +1,161 @@
+{
+ "key": "iccj-su-51-2007",
+ "label": "Decizia ÎCCJ nr. LI/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "51",
+ "number_printed": "LI",
+ "date": "2007-06-04",
+ "year": "2007",
+ "heading": "DECIZIE nr. LI(51) din 4 iunie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii, cu privire la aplicarea pedepsei accesorii a interzicerii drepturilor în cazul condamnării inculpaţilor minori",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "769",
+  "bis": false,
+  "date": "2007-11-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "23/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "71",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "a",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Pedeapsa accesorie prevăzută de art. 71 raportat la art. 64 lit. a) şi b) şi art. 71 alin. 3 cu referire la art. 64 lit. d) din Codul penal este aplicabilă şi inculpaţilor minori, pedeapsă a cărei executare va începe la împlinirea vârstei de 18 ani, atunci când minorul urmează să devină major în cursul procesului penal sau în timpul executării pedepsei.",
+  "Obligatorie, pentru instanţe, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "71",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 278/2006",
+    "number": "278",
+    "year": "2006",
+    "path": "lege/2006/278"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-11-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86888",
+  "text_sha256": "4aca53a69c76de4f33d20c5167ae3a301f2ae4b2e8b2f7a127ab28405fed7466",
+  "catalogue_sha256": "4aca53a69c76de4f33d20c5167ae3a301f2ae4b2e8b2f7a127ab28405fed7466",
+  "fetched": "2026-11-03T00:23:57Z",
+  "chars": 7037,
+  "portal_id": "86888",
+  "tip": "DECIZIE"
+ }
+}
