@@ -1,0 +1,203 @@
+{
+ "key": "iccj-scaf-2970-2007",
+ "label": "Decizia ÎCCJ nr. 2970/2007 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "2970",
+ "date": "2007-06-11",
+ "year": "2007",
+ "heading": "DECIZIE nr. 2.970 din 11 iunie 2007",
+ "subtitle": "privind examinarea recursului declarat de Sorin Simion împotriva Sentinţei civile nr. 2.984 din 15 noiembrie 2006 a Curţii de Apel Bucureşti - Secţia a VIII-a de contencios administrativ şi fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "768",
+  "bis": false,
+  "date": "2007-11-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "7.820/2/2006"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite recursul declarat de Sorin Simion împotriva Sentinţei civile nr. 2.984 din 15 noiembrie 2006 a Curţii de Apel Bucureşti - Secţia a VIII-a de contencios administrativ şi fiscal, pe care o modifică în tot, în sensul că: - admite acţiunea formulată de reclamantul Sorin Simion; - anulează ordinele nr. 576/2006 şi nr. 180/2006, emise de ministrul sănătăţii.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătăţii nr. 576/2006",
+    "number": "576",
+    "year": "2006"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 180/2006",
+    "number": "180",
+    "year": "2006"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 270/2003",
+    "number": "270",
+    "year": "2003",
+    "path": "lege/2003/270"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 576/2006",
+    "number": "576",
+    "year": "2006"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul a fost emis în baza Legii nr. 95/2006",
+    "number": "95",
+    "year": "2006"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 576/2006",
+    "number": "576",
+    "year": "2006"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 180/2006",
+    "number": "180",
+    "year": "2006"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-11-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86892",
+  "text_sha256": "901afc50c5d60aa463fc5d614c7eebb2a08753f32ca9f9c5f1d520556551c307",
+  "catalogue_sha256": "901afc50c5d60aa463fc5d614c7eebb2a08753f32ca9f9c5f1d520556551c307",
+  "fetched": "2026-11-03T00:23:57Z",
+  "chars": 12370,
+  "portal_id": "86892",
+  "tip": "DECIZIE"
+ }
+}
