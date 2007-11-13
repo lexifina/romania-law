@@ -1,0 +1,4 @@
+HOTĂRÂRE nr. 20 din 7 noiembrie 2007  privind posibilitatea punerii la dispoziţia reprezentanţilor partidelor politice participante la alegerile pentru Parlamentul European a datelor de pe listele electorale suplimentare     EMITENT     BIROUL ELECTORAL CENTRAL       Publicat în
+			  MONITORUL OFICIAL nr. 768 din 13 noiembrie 2007     În temeiul  art. 23 alin. (1) din Legea nr. 33/2007  privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European, cu modificările şi completările ulterioare,  Biroul Electoral Central hotărăşte:
+				 +
+			  Articolul UNIC     Reprezentanţilor partidelor politice care participă la alegeri li se pot pune la dispoziţie, la cerere, pe cheltuiala acestora, în sediul secţiei de votare, până la încheierea votării, datele din lista electorală suplimentară.  Preşedintele Biroului Electoral Central,  judecător Gheorghe Florea  Bucureşti, 7 noiembrie 2007.  Nr. 20.  _________
