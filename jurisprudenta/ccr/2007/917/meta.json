@@ -1,0 +1,182 @@
+{
+ "key": "dcc-917-2007",
+ "label": "Decizia CCR nr. 917/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "917",
+ "date": "2007-10-18",
+ "year": "2007",
+ "heading": "DECIZIE nr. 917 din 18 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 3 pct. 1 din Legea nr. 85/2006 privind procedura insolvenţei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "773",
+  "bis": false,
+  "date": "2007-11-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "333/43/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 3 pct. 1 din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de Societatea Comercială \"Transilvania Nord Product\" - S.R.L. în Dosarul nr. 333/43/2007 al Curţii de Apel Târgu Mureş - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87128",
+  "text_sha256": "b91e2ddb62bad6e366ece4acf70512c9ac87c68d47c6411dbed86d9a99f8c812",
+  "catalogue_sha256": "b91e2ddb62bad6e366ece4acf70512c9ac87c68d47c6411dbed86d9a99f8c812",
+  "fetched": "2026-11-03T00:23:57Z",
+  "chars": 8751,
+  "portal_id": "87128",
+  "tip": "DECIZIE"
+ }
+}
