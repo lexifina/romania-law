@@ -1,0 +1,161 @@
+{
+ "key": "dcc-868-2007",
+ "label": "Decizia CCR nr. 868/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "868",
+ "date": "2007-10-09",
+ "year": "2007",
+ "heading": "DECIZIE nr. 868 din 9 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 din Hotărârea Guvernului nr. 1.725/2004 privind transmiterea suprafeţelor rutiere aeronautice şi a terenurilor aferente zonelor de siguranţă ale Aeroportului Bacău din domeniul public al statului şi din administrarea Consiliului Judeţean Bacău, respectiv a Ministerului Apărării Naţionale, în domeniul public al judeţului Bacău şi în administrarea Consiliului Judeţean Bacău, pentru Regia Autonomă \"Aeroportul Bacău\"",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "771",
+  "bis": false,
+  "date": "2007-11-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.482/110/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.725/2004",
+    "number": "1725",
+    "year": "2004",
+    "path": "hg/2004/1725"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 2 din Hotărârea Guvernului nr. 1.725/2004 privind transmiterea suprafeţelor rutiere aeronautice şi a terenurilor aferente zonelor de siguranţă ale Aeroportului Bacău din domeniul public al statului şi din administrarea Consiliului Judeţean Bacău, respectiv a Ministerului Apărării Naţionale, în domeniul public al judeţului Bacău şi în administrarea Consiliului Judeţean Bacău, pentru Regia Autonomă \"Aeroportul Bacău\", excepţie ridicată de Regia Autonomă \"Aeroportul Bacău\" în Dosarul nr. 3.482/110/2006 al Tribunalului Bacău - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.725/2004",
+    "number": "1725",
+    "year": "2004",
+    "path": "hg/2004/1725"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86895",
+  "text_sha256": "7215628466323ac656034c80227f8e1d0f8a0c09ffb6b0801b3cee48af70cd87",
+  "catalogue_sha256": "7215628466323ac656034c80227f8e1d0f8a0c09ffb6b0801b3cee48af70cd87",
+  "fetched": "2026-11-03T00:23:57Z",
+  "chars": 8314,
+  "portal_id": "86895",
+  "tip": "DECIZIE"
+ }
+}
