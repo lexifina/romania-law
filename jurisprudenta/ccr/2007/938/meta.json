@@ -1,0 +1,164 @@
+{
+ "key": "dcc-938-2007",
+ "label": "Decizia CCR nr. 938/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "938",
+ "date": "2007-10-18",
+ "year": "2007",
+ "heading": "DECIZIE nr. 938 din 18 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 16 din Regulamentul-cadru al asociaţiilor de proprietari, cuprins în anexa nr. 2 a Legii locuinţei nr. 114/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "773",
+  "bis": false,
+  "date": "2007-11-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.582/289/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 16 din Regulamentul-cadru al asociaţiilor de proprietari, cuprins în anexa nr. 2 a Legii locuinţei nr. 114/1996, excepţie ridicată de Societatea Comercială \"Seka Limited Company\" - S.R.L. din Reghin în Dosarul nr. 1.582/289/2006 (număr în format vechi 2.956/2006) al Judecătoriei Reghin.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87130",
+  "text_sha256": "50192a633d91a40579367f862396cf700c30d04487485a659828f3861c6eb611",
+  "catalogue_sha256": "50192a633d91a40579367f862396cf700c30d04487485a659828f3861c6eb611",
+  "fetched": "2026-11-03T00:23:57Z",
+  "chars": 7062,
+  "portal_id": "87130",
+  "tip": "DECIZIE"
+ }
+}
