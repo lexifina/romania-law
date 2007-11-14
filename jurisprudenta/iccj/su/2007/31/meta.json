@@ -1,0 +1,146 @@
+{
+ "key": "iccj-su-31-2007",
+ "label": "Decizia ÎCCJ nr. XXXI/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "31",
+ "number_printed": "XXXI",
+ "date": "2007-04-16",
+ "year": "2007",
+ "heading": "DECIZIE nr. XXXI din 16 aprilie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii, cu privire la încadrarea juridică a faptei de pătrundere, în orice mod, într-o locuinţă sau dependinţe ale acesteia ori într-o curte sau într-un loc împrejmuit ce ţine de domiciliul persoanei, urmată de săvârşirea unei tâlhării",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "772",
+  "bis": false,
+  "date": "2007-11-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "56/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": [
+      "2-1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabilesc: 1. Fapta de pătrundere, în orice mod, într-o locuinţă sau dependinţe ale acesteia, urmată de săvârşirea unei tâlhării constituie un concurs real între infracţiunea de violare de domiciliu prevăzută de art. 192 din Codul penal şi infracţiunea de tâlhărie prevăzută de art. 211 alin. 2^1 lit. c) din Codul penal. 2. Fapta de pătrundere, în orice mod, într-o curte sau într-un loc împrejmuit ce ţine de domiciliul persoanei, urmată de săvârşirea unei tâlhării constituie un concurs real între infracţiunea de violare de domiciliu prevăzută de art. 192 din Codul penal şi infracţiunea de tâlhărie prevăzută de art. 211 din Codul penal, cu excepţia circumstanţei incriminate în art. 211 alin. 2^1 lit. c) din Codul penal.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": [
+      "21",
+      "2-1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "192",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-11-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86955",
+  "text_sha256": "61ebdc15b196e54c7b6c680400cd380c093cd6bc457e38cd46e650f1f44d36bf",
+  "catalogue_sha256": "61ebdc15b196e54c7b6c680400cd380c093cd6bc457e38cd46e650f1f44d36bf",
+  "fetched": "2026-11-03T00:24:01Z",
+  "chars": 12028,
+  "portal_id": "86955",
+  "tip": "DECIZIE"
+ }
+}
