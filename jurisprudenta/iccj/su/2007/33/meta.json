@@ -1,0 +1,153 @@
+{
+ "key": "iccj-su-33-2007",
+ "label": "Decizia ÎCCJ nr. XXXIII/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "33",
+ "number_printed": "XXXIII",
+ "date": "2007-04-16",
+ "year": "2007",
+ "heading": "DECIZIE nr. XXXIII din 16 aprilie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii, cu privire la admisibilitatea recursului declarat împotriva deciziilor pronunţate de instanţele de apel prin care s-au anulat în tot sau în parte procedura urmată şi hotărârea apelată, cu reţinerea cauzei spre judecare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "772",
+  "bis": false,
+  "date": "2007-11-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "299",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "297",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 299 alin. 1 raportat la art. 297 alin. 2 teza finală din Codul de procedură civilă, stabilesc:",
+  "Recursul declarat împotriva hotărârilor judecătoreşti pronunţate de instanţele de apel, prin care s-au anulat în tot sau în parte procedura urmată, precum şi hotărârea apelată, cu reţinerea cauzei spre judecare, cu excepţia cazului în care instanţa de apel a constatat propria sa competenţă, este inadmisibil.",
+  "Aceste hotărâri pot fi atacate cu recurs numai odată cu deciziile pronunţate asupra fondului, după judecarea cauzelor în apel.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "299",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "297",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-11-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86957",
+  "text_sha256": "7f0afec5d1959484729e45b024bb4976c6548b79f1053aafa81a69e74478231a",
+  "catalogue_sha256": "7f0afec5d1959484729e45b024bb4976c6548b79f1053aafa81a69e74478231a",
+  "fetched": "2026-11-03T00:24:01Z",
+  "chars": 11114,
+  "portal_id": "86957",
+  "tip": "DECIZIE"
+ }
+}
