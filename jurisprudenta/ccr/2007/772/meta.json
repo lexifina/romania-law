@@ -1,0 +1,187 @@
+{
+ "key": "dcc-772-2007",
+ "label": "Decizia CCR nr. 772/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "772",
+ "date": "2007-09-20",
+ "year": "2007",
+ "heading": "DECIZIE nr. 772 din 20 septembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 7 lit. e) şi art. 8 alin. (1) din Legea nr. 213/1998 privind proprietatea publică şi regimul juridic al acesteia",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "774",
+  "bis": false,
+  "date": "2007-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "32.990/2/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 7 lit. e) şi art. 8 alin. (1) din Legea nr. 213/1998 privind proprietatea publică şi regimul juridic al acesteia, excepţie ridicată de Fundaţia \"Dinu Pescariu\" în Dosarul nr. 32.990/2/2005 (nr. vechi 3.247/2005) al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87044",
+  "text_sha256": "703d27cc712d1b97d6eb5d15539c7de5bb6a73481e711a380de7d044eb321be0",
+  "catalogue_sha256": "703d27cc712d1b97d6eb5d15539c7de5bb6a73481e711a380de7d044eb321be0",
+  "fetched": "2026-11-03T00:24:01Z",
+  "chars": 10686,
+  "portal_id": "87044",
+  "tip": "DECIZIE"
+ }
+}
