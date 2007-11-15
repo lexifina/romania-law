@@ -1,0 +1,187 @@
+{
+ "key": "dcc-809-2007",
+ "label": "Decizia CCR nr. 809/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "809",
+ "date": "2007-09-27",
+ "year": "2007",
+ "heading": "DECIZIE nr. 809 din 27 septembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (3) şi art. 5 din Legea nr. 421/2002 privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparţinând domeniului public sau privat al statului ori al unităţilor administrativ-teritoriale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "775",
+  "bis": false,
+  "date": "2007-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "561/114/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 421/2002",
+    "number": "421",
+    "year": "2002",
+    "path": "lege/2002/421"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (3) şi art. 5 din Legea nr. 421/2002 privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparţinând domeniului public sau privat al statului ori al unităţilor administrativ-teritoriale, excepţie ridicată de Teodor Buzia în Dosarul nr. 561/114/2007 al Tribunalului Buzău - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 421/2002",
+    "number": "421",
+    "year": "2002",
+    "path": "lege/2002/421"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87159",
+  "text_sha256": "bbdb9805f1becedc40157865bc65a76068919aa6c3655a5ea1fb4cb1c95099b1",
+  "catalogue_sha256": "bbdb9805f1becedc40157865bc65a76068919aa6c3655a5ea1fb4cb1c95099b1",
+  "fetched": "2026-11-03T00:24:01Z",
+  "chars": 6977,
+  "portal_id": "87159",
+  "tip": "DECIZIE"
+ }
+}
