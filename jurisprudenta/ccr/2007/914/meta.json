@@ -1,0 +1,207 @@
+{
+ "key": "dcc-914-2007",
+ "label": "Decizia CCR nr. 914/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "914",
+ "date": "2007-10-18",
+ "year": "2007",
+ "heading": "DECIZIE nr. 914 din 18 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 969, art. 970, art. 977, art. 978, art. 979, art. 982 şi art. 984 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "775",
+  "bis": false,
+  "date": "2007-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "26.373/3/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "970",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "977",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "978",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "979",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "982",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "984",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 969, art. 970, art. 977, art. 978, art. 979, art. 982 şi art. 984 din Codul civil, excepţie ridicată de Societatea Comercială \"Rompac International\" - S.A. din Bucureşti în Dosarul nr. 26.373/3/2006 al Tribunalului Bucureşti - Secţia a VI-a comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "970",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "977",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "978",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "979",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "982",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "984",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87161",
+  "text_sha256": "49779721b2250c08bb3d3abdfccec91a00fa6555a0a8cbd923fa34342987c3ff",
+  "catalogue_sha256": "49779721b2250c08bb3d3abdfccec91a00fa6555a0a8cbd923fa34342987c3ff",
+  "fetched": "2026-11-03T00:24:01Z",
+  "chars": 6323,
+  "portal_id": "87161",
+  "tip": "DECIZIE"
+ }
+}
