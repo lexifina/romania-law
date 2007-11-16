@@ -1,0 +1,172 @@
+{
+ "key": "dcc-877-2007",
+ "label": "Decizia CCR nr. 877/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "877",
+ "date": "2007-10-16",
+ "year": "2007",
+ "heading": "DECIZIE nr. 877 din 16 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 10 alin. (1) din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "779",
+  "bis": false,
+  "date": "2007-11-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.510/30/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 10 alin. (1) din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, excepţie ridicată de Florin Marcel Toderaş în Dosarul nr. 4.510/30/2006 al Tribunalului Timiş - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87192",
+  "text_sha256": "95f92d6a1450c599fabf64c3a803d1277d77f4a19833e526543e6cdbcb00a325",
+  "catalogue_sha256": "95f92d6a1450c599fabf64c3a803d1277d77f4a19833e526543e6cdbcb00a325",
+  "fetched": "2026-11-03T00:24:05Z",
+  "chars": 9866,
+  "portal_id": "87192",
+  "tip": "DECIZIE"
+ }
+}
