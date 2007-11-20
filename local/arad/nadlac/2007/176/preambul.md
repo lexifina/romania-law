@@ -1,0 +1,6 @@
+Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de
+20.11.2007,
+Având în vedere:
+Referatul primarului orașului Nădlac nr.16686/2007 referatul compartimentului administrarea patrimoniului local din cadrul primăriei nr.15478/2007 prevederile Titlului IX art.283, alin.1 din Legea nr.571/2003 Codul Fiscal, cu modificările și completările ulterioare prevederile art.25, art.36(2), lit.b, (4), lit.c din Legea nr.215/2001 privind administrația publică locală, republicată Hotărârea Consiliului Local Nădlac nr.92/31.05.2007 privind stabilirea nivelurilor valorilor impozabile, a impozitelor și taxelor locale și a altor taxe asimilate, precum și a amenzilor aplicabile în anul fiscal 2008 avizul favorabil al comisiei pentru activități economicofinanciare, agricultură, juridică și de disciplină avizul favorabil al comisiei pentru amenajarea teritoriului și urbanism, protecție mediu și turism, administrație publică locală avizul favorabil al comisiei pentru activități socialculturale, culte, învățământ, sănătate și familie, muncă și protecție socială, protecție copii, tineret și sport votul „pentru” a 15 consilieri din totalul de 15 consilieri în funcție, fiind prezenți la ședința Consiliului local un număr de 15 consilieri
+În temeiul art.45 din Legea nr.215/2001 privind administrația publică locală, republicată
+HOTĂRĂȘTE:
