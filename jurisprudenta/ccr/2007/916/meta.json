@@ -1,0 +1,212 @@
+{
+ "key": "dcc-916-2007",
+ "label": "Decizia CCR nr. 916/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "916",
+ "date": "2007-10-18",
+ "year": "2007",
+ "heading": "DECIZIE nr. 916 din 18 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 26 din Ordonanţa Guvernului nr. 71/2001 privind organizarea şi exercitarea activităţii de consultanţă fiscală şi art. 4 din Hotărârea Guvernului nr. 1.052/2006 privind aprobarea Regulamentului de organizare şi funcţionare al Camerei Consultanţilor Fiscali",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "790",
+  "bis": false,
+  "date": "2007-11-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "271/88/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 71/2001",
+    "number": "71",
+    "year": "2001",
+    "path": "og/2001/71"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.052/2006",
+    "number": "1052",
+    "year": "2006",
+    "path": "hg/2006/1052"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 26 din Ordonanţa Guvernului nr. 71/2001 privind organizarea şi exercitarea activităţii de consultanţă fiscală, excepţie ridicată de Societatea de expertiză contabilă N.A.M. - S.R.L. din Tulcea în Dosarul nr. 271/88/2007 al Tribunalului Tulcea - Secţia civilă.",
+  "II. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 4 din Hotărârea Guvernului nr. 1.052/2006 privind aprobarea Regulamentului de organizare şi funcţionare al Camerei Consultanţilor Fiscali, excepţie invocată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 71/2001",
+    "number": "71",
+    "year": "2001",
+    "path": "og/2001/71"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.052/2006",
+    "number": "1052",
+    "year": "2006",
+    "path": "hg/2006/1052"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 65/1994",
+    "number": "65",
+    "year": "1994",
+    "path": "og/1994/65"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87244",
+  "text_sha256": "90ab9d48c2687876bb347b2c9cb8009e70a529290996ad4575fca7b0f32f9b91",
+  "catalogue_sha256": "90ab9d48c2687876bb347b2c9cb8009e70a529290996ad4575fca7b0f32f9b91",
+  "fetched": "2026-11-03T00:24:12Z",
+  "chars": 9298,
+  "portal_id": "87244",
+  "tip": "DECIZIE"
+ }
+}
