@@ -1,0 +1,179 @@
+{
+ "key": "dcc-931-2007",
+ "label": "Decizia CCR nr. 931/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "931",
+ "date": "2007-10-18",
+ "year": "2007",
+ "heading": "DECIZIE nr. 931 din 18 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (2) din Ordinul preşedintelui Comisiei de Supraveghere a Asigurărilor nr. 3.108/2004 pentru punerea în aplicare a Normelor privind aplicarea legii în domeniul asigurărilor obligatorii de răspundere civilă pentru pagube produse terţilor prin accidente de autovehicule şi autorizarea asigurătorilor pentru practicarea asigurării obligatorii de răspundere civilă pentru pagube produse terţilor prin accidente de autovehicule",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "790",
+  "bis": false,
+  "date": "2007-11-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "9.235/233/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Comisiei de Supraveghere a Asigurărilor nr. 3.108/2004",
+    "number": "3108",
+    "year": "2004"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (2) din Ordinul preşedintelui Comisiei de Supraveghere a Asigurărilor nr. 3.108/2004 pentru punerea în aplicare a Normelor privind aplicarea legii în domeniul asigurărilor obligatorii de răspundere civilă pentru pagube produse terţilor prin accidente de autovehicule şi autorizarea asigurătorilor pentru practicarea asigurării obligatorii de răspundere civilă pentru pagube produse terţilor prin accidente de autovehicule, excepţie ridicată de Adrian Gabriel Elefteriu în Dosarul nr. 9.235/233/2006 al Judecătoriei Galaţi.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Comisiei de Supraveghere a Asigurărilor nr. 3.108/2004",
+    "number": "3108",
+    "year": "2004"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 3.108/2004",
+    "number": "3108",
+    "year": "2004"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87247",
+  "text_sha256": "a0707638d6b66cd04ecb97bf29700e4cb2ba8d489d5558efd0618cea2d9a562a",
+  "catalogue_sha256": "a0707638d6b66cd04ecb97bf29700e4cb2ba8d489d5558efd0618cea2d9a562a",
+  "fetched": "2026-11-05T12:51:26Z",
+  "chars": 7948,
+  "portal_id": "87247",
+  "tip": "DECIZIE"
+ }
+}
