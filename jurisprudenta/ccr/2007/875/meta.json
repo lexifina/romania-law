@@ -1,0 +1,249 @@
+{
+ "key": "dcc-875-2007",
+ "label": "Decizia CCR nr. 875/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "875",
+ "date": "2007-10-16",
+ "year": "2007",
+ "heading": "DECIZIE nr. 875 din 16 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 14 alin. (3) din Ordonanţa Guvernului nr. 124/1998 privind organizarea şi funcţionarea cabinetelor medicale şi ale art. 1, 3, 4, 11 şi 27 din Ordonanţa de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical, aprobată cu modificări şi completări prin Legea nr. 236/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "804",
+  "bis": false,
+  "date": "2007-11-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "9.244/108/2006",
+  "9.244/108/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 124/1998",
+    "number": "124",
+    "year": "1998",
+    "path": "og/1998/124"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 1, 3, 4, 11 şi 27 din Ordonanţa de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical, aprobată cu modificări şi completări prin Legea nr. 236/2006, excepţie ridicată de Consiliul Local al Comunei Cărand, judeţul Arad, în Dosarul nr. 9.244/108/2006 al Tribunalului Arad - Secţia comercială şi de contencios administrativ şi fiscal. 2. Respinge ca neîntemeiată excepţia de neconstituţionalitate a prevederilor art. 14 alin. (3) din Ordonanţa Guvernului nr. 124/1998 privind organizarea şi funcţionarea cabinetelor medicale, ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 124/1998",
+    "number": "124",
+    "year": "1998",
+    "path": "og/1998/124"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-11-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87302",
+  "text_sha256": "acb63c587bc74df47263a481e4f28e74204d41bafcaca1c1cbb8e4a575ffeb7f",
+  "catalogue_sha256": "acb63c587bc74df47263a481e4f28e74204d41bafcaca1c1cbb8e4a575ffeb7f",
+  "fetched": "2026-11-03T00:24:20Z",
+  "chars": 19281,
+  "portal_id": "87302",
+  "tip": "DECIZIE"
+ }
+}
