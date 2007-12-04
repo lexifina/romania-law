@@ -1,0 +1,280 @@
+{
+ "key": "dcc-971-2007",
+ "label": "Decizia CCR nr. 971/2007",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "971",
+ "date": "2007-10-31",
+ "year": "2007",
+ "heading": "DECIZIE nr. 971 din 31 octombrie 2007",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a Legii pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 24/2007 privind stabilirea unor măsuri de reorganizare în cadrul administraţiei publice centrale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "828",
+  "bis": false,
+  "date": "2007-12-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.408A/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 24/2007",
+    "number": "24",
+    "year": "2007",
+    "path": "lege/2007/24"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constată că Legea pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 24/2007 privind stabilirea unor măsuri de reorganizare în cadrul administraţiei publice centrale este neconstituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului, primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 24/2007",
+    "number": "24",
+    "year": "2007",
+    "path": "lege/2007/24"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "5",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2007",
+    "number": "24",
+    "year": "2007",
+    "path": "oug/2007/24"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 29/2007",
+    "number": "29",
+    "year": "2007",
+    "path": "oug/2007/29"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 30/2007",
+    "number": "30",
+    "year": "2007",
+    "path": "oug/2007/30"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 47/2007",
+    "number": "47",
+    "year": "2007",
+    "path": "oug/2007/47"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 78/2007",
+    "number": "78",
+    "year": "2007",
+    "path": "oug/2007/78"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-12-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87505",
+  "text_sha256": "92f8231b644251147618bbc49b3b5f876004c9760ed5b6ad347cd5bf14efb2f4",
+  "catalogue_sha256": "92f8231b644251147618bbc49b3b5f876004c9760ed5b6ad347cd5bf14efb2f4",
+  "fetched": "2026-11-03T00:24:33Z",
+  "chars": 18685,
+  "portal_id": "87505",
+  "tip": "DECIZIE"
+ }
+}
