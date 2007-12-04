@@ -1,0 +1,191 @@
+{
+ "key": "dcc-991-2007",
+ "label": "Decizia CCR nr. 991/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "991",
+ "date": "2007-11-06",
+ "year": "2007",
+ "heading": "DECIZIE nr. 991 din 6 noiembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 300 alin. 2 şi art. 403 alin. 3 şi 4 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "826",
+  "bis": false,
+  "date": "2007-12-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "21.237/3/2007",
+  "3.077/2/2007",
+  "1.128D/2007",
+  "1.096D/2007",
+  "3077/2/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "300",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 300 alin. 2 şi art. 403 alin. 3 şi 4 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"GETAX\" - S.R.L. din Bucureşti în Dosarul nr. 21.237/3/2007 al Tribunalului Bucureşti - Secţia a VI-a comercială şi de Constantina Nasta, Alexandra Liliana Nasta, Victor Nasta şi Niculae Nasta în Dosarul nr. 3.077/2/2007 al Curţii de Apel Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "300",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-12-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87563",
+  "text_sha256": "0bfd5b45db44fe4e62d0913b37f068a9ef3f3578fd6daecefbf69806b1be940d",
+  "catalogue_sha256": "0bfd5b45db44fe4e62d0913b37f068a9ef3f3578fd6daecefbf69806b1be940d",
+  "fetched": "2026-11-03T00:24:34Z",
+  "chars": 11536,
+  "portal_id": "87563",
+  "tip": "DECIZIE"
+ }
+}
