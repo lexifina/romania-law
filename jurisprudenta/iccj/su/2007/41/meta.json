@@ -1,0 +1,143 @@
+{
+ "key": "iccj-su-41-2007",
+ "label": "Decizia ÎCCJ nr. XLI/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "41",
+ "number_printed": "XLI",
+ "date": "2007-05-07",
+ "year": "2007",
+ "heading": "DECIZIE nr. XLI (41) din 7 mai 2007",
+ "subtitle": "în vederea examinării recursului în interesul legii, cu privire la persoanele care beneficiază de măsurile reparatorii prevăzute în art. 1 lit. c) din Ordonanța Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice, aprobată cu modificări și completări prin Legea nr. 189/2000.",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIILE UNITE",
+ "mo": {
+  "number": "833",
+  "bis": false,
+  "date": "2007-12-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "11/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 105/1999",
+    "number": "105",
+    "year": "1999",
+    "path": "og/1999/105"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "În aplicarea dispozițiilor art. 1 lit. c) din Ordonanța Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice, aprobată cu modificări și completări prin Legea nr. 189/2000, stabilește:",
+  "Cetățenii români, indiferent de naționalitate, care au fost persecutați din motive etnice de regimurile instaurate în perioada 6 septembrie 1940 - 6 martie 1945, indiferent dacă la data strămutării aveau domiciliul pe teritoriul statului român sau pe teritoriile românești aflate sub ocupația altor state și indiferent dacă localitatea în care au fost strămutați ori s-au refugiat se afla sub jurisdicție românească ori sub administrația unui alt stat, beneficiază de măsurile reparatorii prevăzute de textul de lege mai sus menționat.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 105/1999",
+    "number": "105",
+    "year": "1999",
+    "path": "og/1999/105"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 586/2002",
+    "number": "586",
+    "year": "2002",
+    "path": "lege/2002/586"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-12-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87553",
+  "text_sha256": "7d635df63d58e8639f10a0ca625fd33b16cccea4e3df9177b08e81ff52ab6107",
+  "catalogue_sha256": "7d635df63d58e8639f10a0ca625fd33b16cccea4e3df9177b08e81ff52ab6107",
+  "fetched": "2026-11-03T00:24:37Z",
+  "chars": 10711,
+  "portal_id": "87553",
+  "tip": "DECIZIE"
+ }
+}
