@@ -1,0 +1,154 @@
+{
+ "key": "iccj-su-39-2007",
+ "label": "Decizia ÎCCJ nr. XXXIX/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "39",
+ "number_printed": "XXXIX",
+ "date": "2007-05-07",
+ "year": "2007",
+ "heading": "DECIZIE nr. XXXIX din 7 mai 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii, cu privire la consecinţele lipsei semnăturii părţii de pe cererea de recurs.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "833",
+  "bis": false,
+  "date": "2007-12-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "8/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "302-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "316",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 302^1 alin. 1 lit. d), raportate la art. 316 din Codul de procedură civilă, se interpretează în sensul că:",
+  "Cererea de recurs trebuie să cuprindă semnătura părţii.",
+  "Nerespectarea acestei cerinţe poate fi împlinită în condiţiile art. 133 alin. 2 din Codul de procedură civilă.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "302-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "316",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "287",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "239",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-12-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87550",
+  "text_sha256": "b91d039b34063250459ea41e226b79bb1db70fc21c80b818586dfa7cd312ce06",
+  "catalogue_sha256": "b91d039b34063250459ea41e226b79bb1db70fc21c80b818586dfa7cd312ce06",
+  "fetched": "2026-11-03T00:24:35Z",
+  "chars": 5841,
+  "portal_id": "87550",
+  "tip": "DECIZIE"
+ }
+}
