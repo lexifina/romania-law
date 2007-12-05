@@ -1,0 +1,136 @@
+{
+ "key": "iccj-su-22-2007",
+ "label": "Decizia ÎCCJ nr. XXII/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "22",
+ "number_printed": "XXII",
+ "date": "2007-03-19",
+ "year": "2007",
+ "heading": "DECIZIE nr. XXII din 19 martie 2007",
+ "subtitle": "privind examinarea recursului în interesul legii, referitor la consecinţele nerespectării cerinţelor înscrise în art. 16 alin. (7) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări prin Legea nr. 180/2002, cu modificările şi completările ulterioare.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "833",
+  "bis": false,
+  "date": "2007-12-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "39/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 16 alin. (7) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată prin Legea nr. 180/2002, stabileşte:",
+  "Nerespectarea cerinţelor înscrise în art. 16 alin. (7) din actul normativ menţionat atrage nulitatea relativă a procesului-verbal de constatare a contravenţiei.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "239",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2007-12-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87549",
+  "text_sha256": "b2e86ccf27d7dbc5d93999abf30fd636190c7eb0506d670f2e61f18ebb36579b",
+  "catalogue_sha256": "b2e86ccf27d7dbc5d93999abf30fd636190c7eb0506d670f2e61f18ebb36579b",
+  "fetched": "2026-11-03T00:24:35Z",
+  "chars": 9861,
+  "portal_id": "87549",
+  "tip": "DECIZIE"
+ }
+}
