@@ -1,0 +1,205 @@
+{
+ "key": "dcc-1101-2007",
+ "label": "Decizia CCR nr. 1101/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1101",
+ "date": "2007-11-22",
+ "year": "2007",
+ "heading": "DECIZIE nr. 1.101 din 22 noiembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 51 alin. (1) lit. A pct. d) din Ordonanţa de urgenţă a Guvernului nr. 78/2000 privind regimul deşeurilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "847",
+  "bis": false,
+  "date": "2007-12-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.119/212/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "oug/2000/78"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 51 alin. (1) lit. A pct. d) din Ordonanţa de urgenţă a Guvernului nr. 78/2000 privind regimul deşeurilor, excepţie ridicată de Societatea Comercială \"Soti Comprest\" - S.R.L. cu sediul în Mihail Kogălniceanu, judeţul Constanţa, în Dosarul nr. 4.119/212/2006 al Judecătoriei Constanţa - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "oug/2000/78"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/2007",
+    "number": "27",
+    "year": "2007",
+    "path": "lege/2007/27"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-12-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87737",
+  "text_sha256": "ab1dd68fcf9a34def2e72711a5b1c1440c8a287593104939a8649d79859dae10",
+  "catalogue_sha256": "ab1dd68fcf9a34def2e72711a5b1c1440c8a287593104939a8649d79859dae10",
+  "fetched": "2026-11-03T00:24:46Z",
+  "chars": 16192,
+  "portal_id": "87737",
+  "tip": "DECIZIE"
+ }
+}
