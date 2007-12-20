@@ -1,0 +1,177 @@
+{
+ "key": "dcc-997-2007",
+ "label": "Decizia CCR nr. 997/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "997",
+ "date": "2007-11-06",
+ "year": "2007",
+ "heading": "DECIZIE nr. 997 din 6 noiembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 5 din Ordonanţa de urgenţă a Guvernului nr. 18/1998 cu privire la modificarea şi completarea unor reglementări referitoare la accize şi la taxa pe valoarea adăugată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "872",
+  "bis": false,
+  "date": "2007-12-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.058/2/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 18/1998",
+    "number": "18",
+    "year": "1998",
+    "path": "oug/1998/18"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 5 din Ordonanţa de urgenţă a Guvernului nr. 18/1998 cu privire la modificarea şi completarea unor reglementări referitoare la accize şi la taxa pe valoarea adăugată, excepţie ridicată de Societatea Comercială \"GFS Investments România\" - S.R.L. din Bucureşti în Dosarul nr. 1.058/2/2006 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 18/1998",
+    "number": "18",
+    "year": "1998",
+    "path": "oug/1998/18"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/1998",
+    "number": "50",
+    "year": "1998",
+    "path": "oug/1998/50"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2007-12-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88146",
+  "text_sha256": "4477bac2cf96d684f3a7ecd38c721e3c28e62987caa48cf707c72513a370b987",
+  "catalogue_sha256": "4477bac2cf96d684f3a7ecd38c721e3c28e62987caa48cf707c72513a370b987",
+  "fetched": "2026-11-03T00:25:08Z",
+  "chars": 7742,
+  "portal_id": "88146",
+  "tip": "DECIZIE"
+ }
+}
