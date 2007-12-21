@@ -1,0 +1,2 @@
+# Anexa nr. 1
+Anexa (Anexa nr. 3 la Decizia nr. 311/2005) EVALUAREA formulei elementelor generatoare de costuri - EGC în a doua perioadă de reglementare 2008-2012 Valoarea elementelor generatoare de costuri - EGC în a doua perioadă de reglementare 2008-2012 se stabilește la valoarea 0 pentru toate activitățile reglementate. Toate investițiile efectuate de operatori într-o manieră prudentă vor fi recunoscute prin componenta de corecție pentru capitalul investit - Delta(inv). ------
