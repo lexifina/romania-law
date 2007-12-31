@@ -1,0 +1,160 @@
+{
+ "key": "cedo-9405-02-2007-05-24",
+ "label": "CEDO, Păun c. României, 2007-05-24",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-05-24",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 24 mai 2007",
+ "subtitle": "în Cauza Păun împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA a III-a",
+ "mo": {
+  "number": "901",
+  "bis": false,
+  "date": "2007-12-31",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "9405/02"
+ ],
+ "case_name": "Păun",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) ca statul pârât să îi restituie reclamantei imobilul litigios compus dintr-o casă şi terenul aferent, situat în Bucureşti, str. Ghica Tei nr. 45, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa acestei restituiri, statul pârât să îi plătească reclamantei, în acelaşi termen de 3 luni, suma de 150.000 EUR (una sută cincizeci mii euro) cu titlu de daune materiale;",
+  "c) ca, în orice caz, statul pârât să îi plătească reclamantei suma de 5.000 EUR (cinci mii euro) cu titlu de daune morale şi 900 EUR (nouă sute euro) cu titlu de cheltuieli de judecată, din care 850 EUR (opt sute cincizeci euro) vor trebui plătite direct avocatului reclamantei;",
+  "d) ca sumele în discuţie să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii şi ca la acestea să fie adăugată orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de preţ marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de satisfacţie echitabilă pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88313",
+  "text_sha256": "54312b80f7de65a0b3ba9ac639f67826f9dba0b707917334d5eb4bf43dabd5a1",
+  "catalogue_sha256": "54312b80f7de65a0b3ba9ac639f67826f9dba0b707917334d5eb4bf43dabd5a1",
+  "fetched": "2026-11-03T00:25:25Z",
+  "chars": 19714,
+  "portal_id": "88313",
+  "tip": "HOTĂRÂRE"
+ }
+}
