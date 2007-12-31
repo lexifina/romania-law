@@ -1,0 +1,131 @@
+{
+ "key": "cedo-32494-03-2007-05-24",
+ "label": "CEDO, Aslan c. României, 2007-05-24",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-05-24",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 24 mai 2007",
+ "subtitle": "în Cauza Aslan împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA a III-a",
+ "mo": {
+  "number": "901",
+  "bis": false,
+  "date": "2007-12-31",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "32494/03"
+ ],
+ "case_name": "Aslan",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) ca statul pârât să-i restituie reclamantei imobilul situat în Bucureşti, str. Mihăileanu nr. 36, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa acestei restituiri, statul pârât să-i plătească reclamantei, în acelaşi termen de 3 luni, suma de 270.000 EUR (două sute şaptezeci mii euro) cu titlu de daune materiale;",
+  "c) ca, în orice caz, statul pârât să-i plătească reclamantei suma de 8.000 EUR (opt mii euro) cu titlu de daune morale;",
+  "d) ca sumele în discuţie să fie convertite în moneda statului pârât, la cursul de schimb valabil la data plăţii, şi că la acestea trebuie adăugată orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de preţ marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu trei puncte procentuale."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88312",
+  "text_sha256": "1eb62e879f54959f5214a003704dc8783799e86da80beb3157d857fb96f4db2f",
+  "catalogue_sha256": "1eb62e879f54959f5214a003704dc8783799e86da80beb3157d857fb96f4db2f",
+  "fetched": "2026-11-03T00:25:25Z",
+  "chars": 16800,
+  "portal_id": "88312",
+  "tip": "HOTĂRÂRE"
+ }
+}
