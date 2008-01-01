@@ -1,0 +1,16 @@
+# Anexa 11
+ZONE ORARE PENTRU TARIFELE E1 ȘI E2 (VALABILE PENTRU TOȚI FURNIZORII IMPLICIȚI ȘI PENTRU FURNIZORII DE ULTIMĂ OPȚIUNE)
+TARIFELE E1
+TARIFUL E2
+Zona de zi
+Zona de noapte
+Zona de zi
+Zona de noapte
+7:00-22:00
+22:00-7:00
+și
+de vineri de la ora 22:00 până
+luni ora 07:00
+7:00-22:00
+22:00-7:00
+-------
