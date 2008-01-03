@@ -1,0 +1,121 @@
+{
+ "key": "dcc-951-2007",
+ "label": "Decizia CCR nr. 951/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "951",
+ "date": "2007-10-30",
+ "year": "2007",
+ "heading": "DECIZIE nr. 951 din 30 octombrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. (1) lit. b) şi art. 22 alin. (1) din Normele privind circulaţia materialelor lemnoase şi controlul circulaţiei acestora şi al instalaţiilor de transformat lemn rotund, aprobate prin Hotărârea Guvernului nr. 427 din 23 martie 2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "2",
+  "bis": false,
+  "date": "2008-01-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "908/288/2006"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. (1) lit. b) şi art. 22 alin. (1) din Normele privind circulaţia materialelor lemnoase şi controlul circulaţiei acestora şi al instalaţiilor de transformat lemn rotund, aprobate prin Hotărârea Guvernului nr. 427 din 23 martie 2004, excepţie ridicată de Dorel Fetele în Dosarul nr. 908/288/2006 al Judecătoriei Râmnicu-Vâlcea.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-01-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88316",
+  "text_sha256": "3ebc1d86143058dc06a796489c8cbf86a14443e4125324c5fac368b8ef0a7384",
+  "catalogue_sha256": "3ebc1d86143058dc06a796489c8cbf86a14443e4125324c5fac368b8ef0a7384",
+  "fetched": "2026-11-03T00:25:26Z",
+  "chars": 8036,
+  "portal_id": "88316",
+  "tip": "DECIZIE"
+ }
+}
