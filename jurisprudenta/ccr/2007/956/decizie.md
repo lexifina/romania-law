@@ -1,0 +1,28 @@
+# DECIZIE nr. 956 din 30 octombrie 2007
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Ninosu - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Augustin Zegrean - judecător Antonia Constantin - procuror Cristina Cătălina Turcu - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată, excepţie ridicată de Societatea Comercială "Lucky Octopus" - S.R.L. din Piteşti în Dosarul nr. 1.578/280/2007 al Judecătoriei Piteşti - Secţia civilă.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Preşedintele constată cauza în stare de judecată şi acordă cuvântul pe fond.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate, apreciind că se impune păstrarea jurisprudenţei Curţii Constituţionale în materie.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 3 aprilie 2007, pronunţată în Dosarul nr. 1.578/280/2007, Judecătoria Piteşti - Secţia civilă a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată.
+Excepţia a fost ridicată într-o cauză având ca obiect emiterea unei ordonanţe care să conţină o somaţie de plată.
+În motivarea excepţiei de neconstituţionalitate se arată că dispoziţiile Ordonanţei Guvernului nr. 5/2001 sunt neconstituţionale, întrucât prin acestea se limitează dreptul debitorului de a se folosi de toate mijloacele de probă în apărarea sa.
+Judecătoria Piteşti - Secţia civilă opinează că excepţia de neconstituţionalitate este neîntemeiată în sensul celor statuate de Curtea Constituţională în jurisprudenţa sa.
+Potrivit dispoziţiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Guvernul consideră că excepţia de neconstituţionalitate este neîntemeiată pentru motivele care au fost reţinute de Curte în jurisprudenţa sa.
+Avocatul Poporului apreciază că actul normativ criticat este constituţional, invocând în acest sens jurisprudenţa Curţii în materie.
+Preşedinţii celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate ridicate.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale Guvernului şi Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile legale criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi celor ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie prevederile Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată, publicată în Monitorul Oficial al României, Partea I, nr. 422 din 30 iulie 2001.
+Excepţia este raportată la dispoziţiile art. 21 alin. (1)-(3) referitoare la accesul liber la justiţie şi ale art. 24 alin. (1) privind dreptul la apărare.
+Examinând excepţia, Curtea Constituţională constată că asupra constituţionalităţii actului normativ criticat s-a mai pronunţat, de exemplu, prin Decizia nr. 222 din 13 martie 2007, publicată în Monitorul Oficial al României, Partea I, nr. 283 din 27 aprilie 2007.
+Cu acel prilej, Curtea a reţinut că procedura somaţiei de plată este o procedură specială în materia executării creanţelor, legiuitorul având, conform atribuţiilor stabilite de art. 126 din Constituţie, dreptul exclusiv de a reglementa prin lege procedura de judecată şi competenţa instanţelor judecătoreşti, cu condiţia respectării celorlalte dispoziţii din Constituţie.
+Curtea mai observă că limitarea mijloacelor de probă doar la înscrisuri, completate cu explicaţii şi lămuriri date de părţi, a fost determinată tocmai de caracterul special al procedurii ce se aplică în scopul realizării de bunăvoie sau prin executare silită a creanţelor certe, lichide şi exigibile ce reprezintă obligaţii de plată a unor sume de bani, asumate prin contract constatat printr-un înscris ori determinate potrivit unui statut, regulament sau altui înscris, însuşit de părţi prin semnătură ori în alt mod admis de lege.
+Aşa fiind, prevederile actului normativ criticat nu aduc atingere art. 21 alin. (1)-(3) şi art. 24 alin. (1) din Constituţie.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată, excepţie ridicată de Societatea Comercială "Lucky Octopus" - S.R.L. din Piteşti în Dosarul nr. 1.578/280/2007 al Judecătoriei Piteşti Secţia civilă.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 30 octombrie 2007.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Cristina Cătălina Turcu -----
