@@ -1,0 +1,146 @@
+{
+ "key": "dcc-1157-2007",
+ "label": "Decizia CCR nr. 1157/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1157",
+ "date": "2007-12-11",
+ "year": "2007",
+ "heading": "DECIZIE nr. 1.157 din 11 decembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 2 alin. (1) din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între comercianţi şi consumatori",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "5",
+  "bis": false,
+  "date": "2008-01-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.097/260/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a prevederilor art. 2 alin. (1) din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între comercianţi şi consumatori, excepţie ridicată de Societatea Comercială \"Mopal\" - S.R.L din Comăneşti în Dosarul 1.097/260/2006 (număr în format vechi 5.042/2006) al Judecătoriei Moineşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-01-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88355",
+  "text_sha256": "5e6784cb89c5510087e6a030b30615bd58ad1f44f0cefa969b5d6706c58471d4",
+  "catalogue_sha256": "5e6784cb89c5510087e6a030b30615bd58ad1f44f0cefa969b5d6706c58471d4",
+  "fetched": "2026-11-03T00:25:28Z",
+  "chars": 8475,
+  "portal_id": "88355",
+  "tip": "DECIZIE"
+ }
+}
