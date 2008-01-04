@@ -1,0 +1,171 @@
+{
+ "key": "dcc-1060-2007",
+ "label": "Decizia CCR nr. 1060/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1060",
+ "date": "2007-11-20",
+ "year": "2007",
+ "heading": "DECIZIE nr. 1.060 din 20 noiembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 37 alin. (1) şi ale art. 52 alin. (1) din Legea fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "6",
+  "bis": false,
+  "date": "2008-01-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.604/212/2006",
+  "1.230D/2007",
+  "434/2007",
+  "9.371/212/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 37 alin. (1) şi ale art. 52 alin. (1) din Legea fondului funciar nr. 18/1991, excepţie ridicată de Societatea Comercială \"Ilser Oltenia\"-S.R.L., Societatea Comercială \"Ripekady Com\" - S.R.L., Societatea Comercială \"Gedora Com\" - S.R.L. şi Societatea Comercială \"Serproduct\" - S.R.L în Dosarul nr. 9.604/212/2006 al Tribunalului Constanţa - Secţia civilă şi în Dosarul nr. 9.371/212/2006 al Judecătoriei Constanţa- Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-01-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88371",
+  "text_sha256": "a5b343698e153a5513203b4666c50145241f0ef1dcf4642b96b5b8eec6bd5e0a",
+  "catalogue_sha256": "a5b343698e153a5513203b4666c50145241f0ef1dcf4642b96b5b8eec6bd5e0a",
+  "fetched": "2026-11-03T00:25:29Z",
+  "chars": 11276,
+  "portal_id": "88371",
+  "tip": "DECIZIE"
+ }
+}
