@@ -1,0 +1,193 @@
+{
+ "key": "dcc-1206-2007",
+ "label": "Decizia CCR nr. 1206/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1206",
+ "date": "2007-12-13",
+ "year": "2007",
+ "heading": "DECIZIE nr. 1.206 din 13 decembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) lit. b), e) şi f) din Ordonanţa Guvernului nr. 17/2002 privind stabilirea perioadelor de conducere şi a perioadelor de odihnă ale conducătorilor vehiculelor care efectuează transporturi rutiere şi organizarea timpului de muncă al lucrătorilor mobili în transportul rutier de mărfuri şi persoane",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "14",
+  "bis": false,
+  "date": "2008-01-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.392D/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2002",
+    "number": "17",
+    "year": "2002",
+    "path": "og/2002/17"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) lit. b), e) şi f) din Ordonanţa Guvernului nr. 17/2002 privind stabilirea perioadelor de conducere şi a perioadelor de odihnă ale conducătorilor vehiculelor care efectuează transporturi rutiere şi organizarea timpului de muncă al lucrătorilor mobili în transportul rutier de mărfuri şi persoane, excepţie ridicată de Societatea Comercială \"Nordiana Nis\" - S.R.L., Societatea Comercială \"Cristinel Trans\" - S.R.L. şi Societatea Comercială \"Analog Trans\" - S.R.L. în dosarele nr. 2.844/1.748/2007, nr. 2.335/256/2007 şi nr. 5.246/182/2007 ale Judecătoriei Cornetu, Judecătoriei Medgidia şi, respectiv, Judecătoriei Baia Mare.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2002",
+    "number": "17",
+    "year": "2002",
+    "path": "og/2002/17"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 335/2005",
+    "number": "335",
+    "year": "2005",
+    "path": "lege/2005/335"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 37/2007",
+    "number": "37",
+    "year": "2007",
+    "path": "og/2007/37"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-01-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88494",
+  "text_sha256": "07c48b6274e5a2fc981f1e517fccc68e4868328ff7a745348506200eb648c284",
+  "catalogue_sha256": "07c48b6274e5a2fc981f1e517fccc68e4868328ff7a745348506200eb648c284",
+  "fetched": "2026-11-03T00:25:33Z",
+  "chars": 8883,
+  "portal_id": "88494",
+  "tip": "DECIZIE"
+ }
+}
