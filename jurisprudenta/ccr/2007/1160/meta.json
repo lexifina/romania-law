@@ -1,0 +1,208 @@
+{
+ "key": "dcc-1160-2007",
+ "label": "Decizia CCR nr. 1160/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1160",
+ "date": "2007-12-11",
+ "year": "2007",
+ "heading": "DECIZIE nr. 1.160 din 11 decembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 63 alin. 1, art. 64 alin. 1, art. 90 alin. 2 şi art. 215 alin. 4 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "14",
+  "bis": false,
+  "date": "2008-01-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.730/266/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 63 alin. 1, art. 64 alin. 1, art. 90 alin. 2 şi art. 215 alin. 4 din Codul de procedură penală, excepţie invocată de Ioan Cionca şi Vasile Ion Rob în Dosarul nr. 1.730/266/2006 al Judecătoriei Negreşti Oaş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-01-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88490",
+  "text_sha256": "bf0b92022578865319677056256c3255a970cf06f0a599cec345962463ca9313",
+  "catalogue_sha256": "bf0b92022578865319677056256c3255a970cf06f0a599cec345962463ca9313",
+  "fetched": "2026-11-05T08:42:39Z",
+  "chars": 10392,
+  "portal_id": "88490",
+  "tip": "DECIZIE"
+ }
+}
