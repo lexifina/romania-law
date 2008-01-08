@@ -1,0 +1,186 @@
+{
+ "key": "dcc-1042-2007",
+ "label": "Decizia CCR nr. 1042/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1042",
+ "date": "2007-11-13",
+ "year": "2007",
+ "heading": "DECIZIE nr. 1.042 din 13 noiembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 13 lit. f) şi j) şi ale art. 20 alin. (1) şi (2) din Legea securităţii şi sănătăţii în muncă nr. 319/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "12",
+  "bis": false,
+  "date": "2008-01-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.276/296/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea securităţii şi sănătăţii în muncă nr. 319/2006",
+    "number": "319",
+    "year": "2006",
+    "path": "lege/2006/319"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 13 lit. f) şi j) şi ale art. 20 alin. (1) şi (2) din Legea securităţii şi sănătăţii în muncă nr. 319/2006, excepţie ridicată de Societatea Comercială \"Vegas Company\" - S.R.L. din Iaşi în Dosarul nr. 3.276/296/2007 al Judecătoriei Satu Mare.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea securităţii şi sănătăţii în muncă nr. 319/2006",
+    "number": "319",
+    "year": "2006",
+    "path": "lege/2006/319"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "f",
+      "j"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-01-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88440",
+  "text_sha256": "70ee8aaffd2d783d78bff17a69425ce1efaa5f700b05b7391f15d30ce8abc478",
+  "catalogue_sha256": "70ee8aaffd2d783d78bff17a69425ce1efaa5f700b05b7391f15d30ce8abc478",
+  "fetched": "2026-11-03T00:25:33Z",
+  "chars": 13484,
+  "portal_id": "88440",
+  "tip": "DECIZIE"
+ }
+}
