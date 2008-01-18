@@ -1,0 +1,224 @@
+{
+ "key": "dcc-1183-2007",
+ "label": "Decizia CCR nr. 1183/2007",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1183",
+ "date": "2007-12-13",
+ "year": "2007",
+ "heading": "DECIZIE nr. 1.183 din 13 decembrie 2007",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 286/2006 pentru modificarea şi completarea Legii administraţiei publice locale nr. 215/2001 şi ale Legii nr. 393/2004 privind Statutul aleşilor locali",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "42",
+  "bis": false,
+  "date": "2008-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "13.760/54/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 286/2006",
+    "number": "286",
+    "year": "2006",
+    "path": "lege/2006/286"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor Legii nr. 286/2006 pentru modificarea şi completarea Legii administraţiei publice locale nr. 215/2001 şi ale Legii nr. 393/2004 privind Statutul aleşilor locali, excepţie ridicată de Alexandru Ciobanu în Dosarul nr. 13.760/54/2006 al Curţii de Apel Timişoara - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 286/2006",
+    "number": "286",
+    "year": "2006",
+    "path": "lege/2006/286"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea de revizuire a Constituţiei nr. 429/2003",
+    "number": "429",
+    "year": "2003",
+    "path": "lege/2003/429"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88903",
+  "text_sha256": "36172eae63b65dbfc17e9b9548b1fa4093ae78a81dd435f5e0ca14fda161c6dd",
+  "catalogue_sha256": "36172eae63b65dbfc17e9b9548b1fa4093ae78a81dd435f5e0ca14fda161c6dd",
+  "fetched": "2026-11-04T04:34:47Z",
+  "chars": 11402,
+  "portal_id": "88903",
+  "tip": "DECIZIE"
+ }
+}
