@@ -1,0 +1,26 @@
+# DECIZIE nr. 1.121 din 27 noiembrie 2007
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 189 alin. 1 pct. 1 din Codul de procedură civilă
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Ninosu - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Augustin Zegrean - judecător Antonia Constantin - procuror Cristina Cătălina Turcu - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 189 alin. 1 pct. 1 din Codul de procedură civilă, excepţie ridicată de Florea Moţ în Dosarul nr. 430/292/2007 al Judecătoriei Roşiori de Vede.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Preşedintele constată cauza în stare de judecată şi acordă cuvântul pe fond.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate, apreciind că se impune păstrarea jurisprudenţei Curţii în materie.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 14 iunie 2007, pronunţată în Dosarul nr. 430/292/2007, Judecătoria Roşiori de Vede a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 189 alin. 1 pct. 1 din Codul de procedură civilă.
+Excepţia a fost ridicată într-o cauză având ca obiect o acţiune de divorţ.
+În motivarea excepţiei de neconstituţionalitate se arată că dispoziţiile legale criticate sunt neconstituţionale, întrucât, prin limitarea impusă în ce priveşte audierea martorilor rude şi afini până la gradul al treilea inclusiv, restrânge posibilitatea părţilor de a-şi proba cererea.
+Judecătoria Roşiori de Vede opinează că excepţia de neconstituţionalitate este neîntemeiată, cu referire la jurisprudenţa Curţii Constituţionale.
+Potrivit dispoziţiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Guvernul consideră că excepţia de neconstituţionalitate este neîntemeiată, în sensul în care s-a statuat în jurisprudenţa Curţii Constituţionale.
+Avocatul Poporului apreciază că prevederile legale criticate sunt constituţionale pentru aceleaşi motive care au stat la baza deciziei pronunţate de Curtea Constituţională în materie.
+Preşedinţii celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate ridicate.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale Guvernului şi Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile legale criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi celor ale art. 1 alin. (2), art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 189 alin. 1 pct. 1 din Codul de procedură civilă, care au următorul conţinut: "Nu pot fi ascultaţi ca martori: 1. rudele şi afinii până la gradul al treilea inclusiv;".
+Excepţia este raportată la prevederile constituţionale ale art. 21 privind accesul liber la justiţie şi art. 53 referitoare la restrângerea exerciţiului unor drepturi sau al unor libertăţi.
+Examinând excepţia, Curtea observă că prin Decizia nr. 80 din 8 februarie 2007, publicată în Monitorul Oficial al României, Partea I, nr. 120 din 19 februarie 2007, a respins excepţia de neconstituţionalitate a textului de lege criticat. Cu acel prilej, a reţinut, în esenţă, că interdicţia consacrată de art. 189 alin. 1 pct. 1 din Codul de procedură civilă se întemeiază pe o prezumţie de parţialitate şi subiectivism al rudelor şi afinilor până la gradul al treilea în relatarea faptelor de care au cunoştinţă. Astfel, prin instituirea acestei interdicţii se asigură de plano echilibrul procesual al părţilor în litigiu şi se respectă unul dintre principiile fundamentale ale dreptului procesual - principiul aflării adevărului, statuat la art. 129 alin. 5 din Codul de procedură civilă.
+Aşa fiind, Curtea constată că prevederile legale criticate nu aduc atingere dispoziţiilor art. 21 din Constituţie şi, în consecinţă, prevederile art. 53 din Legea fundamentală nu sunt incidente în cauză.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 189 alin. 1 pct. 1 din Codul de procedură civilă, excepţie ridicată de Florea Moţ în Dosarul nr. 430/292/2007 al Judecătoriei Roşiorii de Vede.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 27 noiembrie 2007.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Cristina Cătălina Turcu -----
