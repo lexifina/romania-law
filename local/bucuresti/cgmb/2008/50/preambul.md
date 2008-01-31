@@ -1,0 +1,4 @@
+Avand On vedere expunerea de motive a Primarului General al Municipiului Bucuregti gi raportul Directiei Investitii;
+Vazand raportul Comisiei de Urbanism i Amenajarea Teritoriului gi avizul Comisiei Juridice gi de Disciplina din cadrul Consiliului General al Municipilllui Bucuregti;
+In conformitate cu prevedeiile-art.4 alin (3), lit. d) din Ordonanta Guvernului nr.2011994 privind masuri pentru reducerea riscului seismic al constructiilor existente, republicata, precum gi cu art.3 din Ordinul Comun M.A. I. - M.T.C.T. nr. 171131 912007 privind unele mgsuri pentru avertizarea populafiei din zonele expuse riscului la cutremure. h temeiul prevederilor art.36 alin.(6) lit. a), pct.8 gi pct.19, art.45 alin.(l) i art.81 alin.(4) din Legea nr.21512001 privind administratia publica local& republicata;
+CONSlLlUL GENERAL AL MUNlClPlULUl BUCURESTI HOTARASTE
