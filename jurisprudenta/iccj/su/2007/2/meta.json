@@ -1,0 +1,125 @@
+{
+ "key": "iccj-su-2-2007",
+ "label": "Decizia ÎCCJ nr. II/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "2",
+ "number_printed": "II",
+ "date": "2007-01-15",
+ "year": "2007",
+ "heading": "DECIZIE nr. II din 15 ianuarie 2007",
+ "subtitle": "pentru a examina recursul în interesul legii, cu privire la compatibilitatea de a participa la judecarea cererii de revizuire sau a contestaţiei în anulare a judecătorului care a soluţionat anterior fondul cauzei",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "81",
+  "bis": false,
+  "date": "2008-02-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "27/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii, declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 24 din Codul de procedură civilă stabilesc:",
+  "Judecătorul care soluţionează fondul cauzei nu devine incompatibil să soluţioneze cererea de revizuire sau contestaţia în anulare.",
+  "Obligatorie, pentru instanţe, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89249",
+  "text_sha256": "801943fa27a5c8e402c1fea138472812382a95beedc33eea1847741384e17bdd",
+  "catalogue_sha256": "801943fa27a5c8e402c1fea138472812382a95beedc33eea1847741384e17bdd",
+  "fetched": "2026-11-03T00:26:21Z",
+  "chars": 6871,
+  "portal_id": "89249",
+  "tip": "DECIZIE"
+ }
+}
