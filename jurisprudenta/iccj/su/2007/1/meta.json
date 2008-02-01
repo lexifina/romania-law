@@ -1,0 +1,183 @@
+{
+ "key": "iccj-su-1-2007",
+ "label": "Decizia ÎCCJ nr. I/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "1",
+ "number_printed": "I",
+ "date": "2007-01-15",
+ "year": "2007",
+ "heading": "DECIZIE nr. I din 15 ianuarie 2007",
+ "subtitle": "pentru a examina recursul în interesul legii, cu privire la încadrarea juridică a faptei de ucidere din culpă, săvârşită cu ocazia conducerii pe drumurile publice a unui autovehicul sau tramvai, comisă de către un conducător având o îmbibaţie alcoolică sub limita legală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "81",
+  "bis": false,
+  "date": "2008-02-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "17/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "178",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie. 1. Stabilesc că faptele de conducere pe drumurile publice a unui autovehicul sau tramvai de către o persoană având în sânge o îmbibaţie alcoolică ce depăşeşte limita legală şi de ucidere din culpă cu această ocazie a unei persoane constituie o singură infracţiune, complexă, de ucidere din culpă, prevăzută la art. 178 alin. 3 teza I din Codul penal, în care este absorbită infracţiunea prevăzută la art. 87 alin. 1 din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, republicată, cu modificările şi completările ulterioare. 2. Uciderea unei persoane în aceleaşi împrejurări, comisă de către un conducător auto având o îmbibaţie alcoolică sub limita legală, dar care se află în stare de ebrietate constatată clinic sau prin orice alt mijloc de probă, constituie infracţiunea unică de ucidere din culpă, prevăzută de art. 178 alin. 3 teza a II-a din Codul penal. 3. Uciderea unei persoane în aceleaşi împrejurări, comisă de către un conducător auto având o îmbibaţie alcoolică sub limita legală, dar căruia nu i s-a stabilit prin alt mijloc de probă starea de ebrietate, constituie infracţiunea unică de ucidere din culpă, prevăzută de art. 178 alin. 2 din Codul penal.",
+  "Obligatorie, potrivit art. 414^2 alin. 2 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "178",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89248",
+  "text_sha256": "1b9e75e231417b0e31bf33d5b45dca59b6b19c38d405cd1462b90e43fec237db",
+  "catalogue_sha256": "1b9e75e231417b0e31bf33d5b45dca59b6b19c38d405cd1462b90e43fec237db",
+  "fetched": "2026-11-03T00:26:21Z",
+  "chars": 10656,
+  "portal_id": "89248",
+  "tip": "DECIZIE"
+ }
+}
