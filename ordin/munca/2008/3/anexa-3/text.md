@@ -1,0 +1,17 @@
+# Anexa 3
+REGULILE DE ELIGIBILITATE privind cheltuielile aferente managementului și implementării POSDRU Normă generală 1.1. Sunt considerate eligibile cheltuielile de personal, inclusiv contribuțiile salariale suportate de către angajat și angajator, ale personalului de conducere și de execuție încadrat cu contract individual de muncă pe durată determinată sau nedeterminată, cu normă parțială sau întreagă de lucru, având atribuții în procesul de gestionare a POSDRU, încadrat în următoarele structuri:
+a) Autoritatea de management pentru Programul operațional sectorial pentru dezvoltarea resurselor umane;
+b) organism intermediar regional pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Regiunea Nord-Est;
+c) organism intermediar regional pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Regiunea Sud-Est;
+d) organism intermediar regional pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Regiunea Sud Muntenia;
+e) organism intermediar regional pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Regiunea Sud-Vest Oltenia;
+f) organism intermediar regional pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Regiunea Vest;
+g) organism intermediar regional pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Regiunea Nord-Vest;
+h) organism intermediar regional pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Regiunea Centru;
+i) organism intermediar regional pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Regiunea București-Ilfov;
+j) organism intermediar pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Ministerul Educației, Cercetării și Tineretului;
+k) organism intermediar pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Agenția Națională pentru Ocuparea Forței de Muncă;
+l) organism intermediar pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Centrul Național de Dezvoltare a Învățământului Profesional și Tehnic;
+m) două organisme intermediare pentru Programul operațional sectorial pentru dezvoltarea resurselor umane, care urmează să fie desemnate prin licitație publică, cu respectarea legislației naționale și a reglementărilor comunitare;
+n) structuri din cadrul Ministerului Muncii, Familiei și Egalității de Șanse cu rol de control și/sau audit.
+1.2. Sunt considerate eligibile cheltuielile de personal, inclusiv contribuțiile salariale suportate de către angajat și angajator, ale personalului încadrat cu contract individual de muncă pe durată determinată sau nedeterminată, cu normă parțială sau întreagă de lucru, pentru activitățile adiacente de natură tehnică, financiară, contabilă, juridică sau audit, încadrat în structurile precizate la pct. 1.1. 1.3. Cheltuielile de personal prevăzute la pct. 1.1 și 1.2 se decontează conform contractului de muncă sau proporțional cu procentul prevăzut în fișa postului/foaia de prezență, aferent atribuțiilor specifice gestionării POSDRU sau activităților adiacente gestionării POSDRU. 1.4. Sunt considerate eligibile cheltuielile privind intervențiile experților și ale altor participanți la reuniunile comitetelor de monitorizare, inclusiv participanți provenind din state membre, în cazul în care președintele acestor comitete consideră necesară prezența acestora (cazare, transport și diurnă/onorarii). 1.5. Sunt considerate eligibile cheltuielile detaliate în anexa nr. 7.
