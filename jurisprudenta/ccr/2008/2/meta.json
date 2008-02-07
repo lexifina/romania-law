@@ -1,0 +1,202 @@
+{
+ "key": "dcc-2-2008",
+ "label": "Decizia CCR nr. 2/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "2",
+ "date": "2008-01-15",
+ "year": "2008",
+ "heading": "DECIZIE nr. 2 din 15 ianuarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 30-35 din Decretul nr. 32/1954 pentru punerea în aplicare a Codului Familiei şi a Decretului privitor la persoanele fizice şi persoanele juridice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "98",
+  "bis": false,
+  "date": "2008-02-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "245/325/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 32/1954",
+    "number": "32",
+    "year": "1954",
+    "path": "decret/1954/32"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 30-35 din Decretul nr. 32/1954 pentru punerea în aplicare a Codului Familiei şi a Decretului privitor la persoanele fizice şi persoanele juridice, excepţie ridicată de Vica Rodica Covalciuc în Dosarul nr. 245/325//2007 al Judecătoriei Timişoara.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 32/1954",
+    "number": "32",
+    "year": "1954",
+    "path": "decret/1954/32"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-02-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89380",
+  "text_sha256": "b96b5655adfef3f4107ab38ecfc12bc055a9aa90c5c528b60e5c77bfc5a25022",
+  "catalogue_sha256": "b96b5655adfef3f4107ab38ecfc12bc055a9aa90c5c528b60e5c77bfc5a25022",
+  "fetched": "2026-11-03T00:26:28Z",
+  "chars": 7650,
+  "portal_id": "89380",
+  "tip": "DECIZIE"
+ }
+}
