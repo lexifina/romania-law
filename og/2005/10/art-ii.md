@@ -6,3 +6,8 @@ Ordonanța Guvernului nr. 75/2001 privind organizarea și funcționarea cazierul
 2. Articolul 5 se abrogă.
 3. După alineatul (4) al articolului 9 se introduce un nou alineat, alineatul (4^1), cu următorul cuprins:
 "(4^1) Pentru eliberarea cazierului fiscal necesar înregistrării în registrul comerțului a persoanelor fizice și asociațiilor familiale care desfășoară activități economice în mod independent, potrivit procedurii speciale în domeniu, se percepe o taxă de 50.000 lei."
+"Art. 9
+(1) Certificatul de cazier fiscal este valabil 30 de zile de la data emiterii și numai în scopul în care a fost eliberat.
+(2) Eliberarea certificatului de cazier fiscal se face de îndată, în prezența contribuabilului sau a reprezentantului acestuia.
+(3) Pentru eliberarea certificatului de cazier fiscal sau pentru transmiterea electronică a informațiilor din cazierul fiscal se percepe o taxă în sumă de 20 lei pentru fiecare persoană.
+(4) Taxa prevazută la alin. (3) se face venit la bugetul de stat și se plătește la unitățile de trezorerie și contabilitate publică sau la Oficiul Național al Registrului Comerțului, după caz."
