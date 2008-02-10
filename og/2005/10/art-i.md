@@ -7,3 +7,5 @@ Ordonanța de urgență a Guvernului nr. 146/2002 privind formarea și utilizare
 "a) acordarea de împrumuturi pentru răscumpărarea la scadență sau înainte de scadență, după caz, a împrumuturilor de stat emise pentru finanțarea sau refinanțarea datoriei publice, cu condiția asigurării disponibilităților necesare pentru efectuarea cheltuielilor aprobate potrivit legii;".
 3. La articolul 8, litera b) va avea următorul cuprins:
 "b) atragerea de depozite pe termen scurt de la bănci sau alte instituții financiare, la nivelul cel mai avantajos al ratei dobânzii pentru trezorerie, stabilit în condițiile cererii și ofertei pieței monetare;"
+"Art. 8. - (1) Asigurarea permanentă a echilibrului dintre resursele contului curent general al trezoreriei statului și necesitățile de finanțare se poate realiza prin utilizarea instrumentelor de administrare a lichidităților și fluxului de numerar.
+(2) Instrumentele prevăzute la alin. (1) se stabilesc prin normele emise în aplicarea prevederilor prezentei ordonanțe de urgență."
