@@ -1,0 +1,186 @@
+{
+ "key": "dcc-36-2008",
+ "label": "Decizia CCR nr. 36/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "36",
+ "date": "2008-01-15",
+ "year": "2008",
+ "heading": "DECIZIE nr. 36 din 15 ianuarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 88^1 alin. (2), art. 90 alin. (6) şi art. 91 alin. (1) din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "103",
+  "bis": false,
+  "date": "2008-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.868/33/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "88-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 88^1 alin. (2), art. 90 alin. (6) şi art. 91 alin. (1) din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală, excepţie ridicată de Liviu Pop în Dosarul nr. 1.868/33/2007 al Curţii de Apel Cluj - Secţia penală şi de minori.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "88-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89463",
+  "text_sha256": "31b8ed249801a04a1b882754ff4308f7afb3d7f6751f5d3005d551e21d578202",
+  "catalogue_sha256": "31b8ed249801a04a1b882754ff4308f7afb3d7f6751f5d3005d551e21d578202",
+  "fetched": "2026-11-03T00:26:31Z",
+  "chars": 11234,
+  "portal_id": "89463",
+  "tip": "DECIZIE"
+ }
+}
