@@ -1,0 +1,10 @@
+# HCGMB nr. 65/2008
+
+Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 65/2008
+- Adopted: 2008-02-13
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/22742
+- Document: https://doc.pmb.ro/legis/acteinterne/2008/22742/H065_08.pdf
+- Document sha256: 17b91ba13afd82c93d9f2bbab68c7c54f1473319f5c9276bd189b920905a2043
