@@ -1,0 +1,233 @@
+{
+ "key": "iccj-su-21-2007",
+ "label": "Decizia ÎCCJ nr. XXI/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "21",
+ "number_printed": "XXI",
+ "date": "2007-03-19",
+ "year": "2007",
+ "heading": "DECIZIE nr. XXI din 19 martie 2007",
+ "subtitle": "pentru a examina recursul în interesul legii, referitor la aplicarea dispoziţiilor art. 8 alin. (2) din Legea nr. 9/1998",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "113",
+  "bis": false,
+  "date": "2008-02-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "38/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "lege/1998/9"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 286/2004",
+    "number": "286",
+    "year": "2004",
+    "path": "hg/2004/286"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 8 alin. (2) din Legea nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940, republicată, precum şi ale art. 5 din Hotărârea Guvernului nr. 286/2004, stabilesc:",
+  "Data stabilirii compensaţiilor este aceea a emiterii hotărârii comisiei judeţene, respectiv a municipiului Bucureşti, pentru aplicarea dispoziţiilor Legii nr. 9/1998.",
+  "Validarea de către Cancelaria Primului-Ministru a hotărârilor comisiilor teritoriale, cu depăşirea termenului de 60 de zile prevăzut în art. 7 alin. (3) din aceeaşi lege, atrage actualizarea întregii sume în raport cu indicele de creştere a preţurilor.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "lege/1998/9"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 286/2004",
+    "number": "286",
+    "year": "2004",
+    "path": "hg/2004/286"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 94/2004",
+    "number": "94",
+    "year": "2004",
+    "path": "og/2004/94"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 361/2005",
+    "number": "361",
+    "year": "2005",
+    "path": "hg/2005/361"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 753/1998",
+    "number": "753",
+    "year": "1998",
+    "path": "hg/1998/753"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-02-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89503",
+  "text_sha256": "cbabbeeccc45e6688a7f390f1a08d16e8b46453eba4fc0abd7ddfa03027607e4",
+  "catalogue_sha256": "cbabbeeccc45e6688a7f390f1a08d16e8b46453eba4fc0abd7ddfa03027607e4",
+  "fetched": "2026-11-04T04:19:44Z",
+  "chars": 15612,
+  "portal_id": "89503",
+  "tip": "DECIZIE"
+ }
+}
