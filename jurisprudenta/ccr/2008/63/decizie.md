@@ -1,0 +1,32 @@
+# DECIZIE nr. 63 din 31 ianuarie 2008
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 138 alin. (1) din Legea nr. 85/2006 privind procedura insolvenţei
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Acsinte Gaspar - judecător Petre Ninosu - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Augustin Zegrean - judecător Ion Tiucă - procuror Doina Suliman - magistrat-asistent-şef Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 138 alin. (1) din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de Societatea Comercială "Stejarul Nou" - S.R.L. din Iaşi în Dosarul nr. 0160/99/2005 al Curţii de Apel Iaşi - Secţia comercială.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Cauza se află în stare de judecată.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate ca fiind inadmisibilă.
+CURTEA, având în vedere actele şi lucrările dosarului, constată următoarele:
+Prin Încheierea din 12 noiembrie 2007, pronunţată în Dosarul nr. 0160/99/2005, Curtea de Apel Iaşi - Secţia comercială a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 138 alin. (1) din Legea nr. 85/2006 privind procedura insolvenţei.
+Excepţia a fost ridicată de Societatea Comercială "Stejarul Nou" - S.R.L. din Iaşi cu ocazia soluţionării recursului formulat împotriva Sentinţei nr. 392/S din 12 decembrie 2006 pronunţate de Tribunalul Iaşi - Judecător-sindic într-o cauză comercială având ca obiect falimentul.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că dispoziţiile de lege criticate contravin prevederilor constituţionale ale art. 21 şi 44, "deoarece atragerea răspunderii personale se poate face numai la cererea administratorului judiciar sau a lichidatorului, fără ca acest drept să aparţină tuturor creditorilor falitului".
+Curtea de Apel Iaşi - Secţia comercială apreciază că excepţia de neconstituţionalitate este neîntemeiată, deoarece dispoziţiile de lege criticate nu contravin prevederilor constituţionale invocate.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului, invocând jurisprudenţa în materie a Curţii Constituţionale, consideră că textul de lege criticat este constituţional.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit în cauză de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate cu care a fost sesizată.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 138 alin. (1) din Legea nr. 85/2006 privind procedura insolvenţei, publicată în Monitorul Oficial al României, Partea I, nr. 359 din 21 aprilie 2006, cu următorul conţinut: "La cererea administratorului judiciar sau a lichidatorului, judecătorul-sindic poate dispune ca o parte a pasivului debitorului, persoană juridică, ajuns în stare de insolvenţă, să fie suportată de membrii organelor de supraveghere din cadrul societăţii sau de conducere, precum şi de orice altă persoană care a cauzat starea de insolvenţă a debitorului, prin una dintre următoarele fapte:
+a) au folosit bunurile sau creditele persoanei juridice în folosul propriu sau în cel al unei alte persoane;
+b) au făcut acte de comerţ în interes personal, sub acoperirea persoanei juridice;
+c) au dispus, în interes personal, continuarea unei activităţi care ducea, în mod vădit, persoana juridică la încetarea de plăţi;
+d) au ţinut o contabilitate fictivă, au făcut să dispară unele documente contabile sau nu au ţinut contabilitatea în conformitate cu legea;
+e) au deturnat sau au ascuns o parte din activul persoanei juridice ori au mărit în mod fictiv pasivul acesteia;
+f) au folosit mijloace ruinătoare pentru a procura persoanei juridice fonduri, în scopul întârzierii încetării de plăţi;
+g) în luna precedentă încetării plăţilor, au plătit sau au dispus să se plătească cu preferinţă unui creditor, în dauna celorlalţi creditori."
+În susţinerea neconstituţionalităţii acestor dispoziţii legale, autorul excepţiei invocă încălcarea prevederilor constituţionale ale art. 21 privind liberul acces la justiţie şi art. 44 privind dreptul de proprietate privată.
+Examinând excepţia de neconstituţionalitate, Curtea constată că aceasta este inadmisibilă, deoarece critica se referă la omisiunea reglementării ipotezei în care creditorii "să se adreseze judecătorului-sindic pentru atragerea răspunderii membrilor organelor de supraveghere din cadrul societăţii sau de conducere, precum şi a oricăror alte persoane care au cauzat starea de insolvenţă a persoanei juridice".
+Or, controlul de constituţionalitate nu poate privi omisiuni de reglementare, deoarece, potrivit art. 2 alin. (3) din Legea nr. 47/1992, "Curtea Constituţională se pronunţă numai asupra constituţionalităţii actelor cu care a fost sesizată, fără a putea modifica sau completa prevederile supuse controlului".
+Pentru considerentele expuse, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 138 alin. (1) din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de Societatea Comercială "Stejarul Nou" - S.R.L. din Iaşi în Dosarul nr. 0160/99/2005 al Curţii de Apel Iaşi - Secţia comercială.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 31 ianuarie 2008.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent-şef, Doina Suliman --------
