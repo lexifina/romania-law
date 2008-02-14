@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-33-07-concluzii-2008-02-14",
+ "label": "CJUE, Concluziile avocatului general Mazák prezentate la data de 14 februarie 2008., Cauza C-33/07.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2008-02-14",
+ "year": "2008",
+ "case": "Cauza C-33/07.",
+ "celex": "62007CC0033",
+ "ecli": "ECLI:EU:C:2008:92",
+ "heading": "Concluziile avocatului general Mazák prezentate la data de 14 februarie 2008.",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere având ca obiect pronunțarea unei hotărâri preliminare: Tribunalul Dâmboviţa - România.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Cetățenia Uniunii - Articolul 18 CE - Directiva 2004/38/CE - Dreptul la liberă circulație și ședere pe teritoriul statelor membre al cetățenilor Uniunii și al membrilor familiilor lor.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62007CC0033",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-33/07&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/172fd7e7-3f5c-4ffa-9cd7-4f2920b8d70a.0022.02/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "500576b17900ddc9138931194c7cf967931d28e4fc01d4f4da7ea07b0ac9cde8"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
