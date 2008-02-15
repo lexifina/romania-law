@@ -1,0 +1,221 @@
+{
+ "key": "dcc-39-2008",
+ "label": "Decizia CCR nr. 39/2008",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "39",
+ "date": "2008-01-30",
+ "year": "2008",
+ "heading": "DECIZIE nr. 39 din 30 ianuarie 2008",
+ "subtitle": "referitoare la sesizările de neconstituţionalitate a Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 30/2007 privind organizarea şi funcţionarea Ministerului Internelor şi Reformei Administrative şi a Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 77/2007 pentru modificarea şi completarea Legii nr. 164/2001 privind pensiile militare de stat, precum şi pentru modificarea Legii nr. 80/1995 privind statutul cadrelor militare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "122",
+  "bis": false,
+  "date": "2008-02-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "20A/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 30/2007",
+    "number": "30",
+    "year": "2007",
+    "path": "lege/2007/30"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 77/2007",
+    "number": "77",
+    "year": "2007",
+    "path": "lege/2007/77"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Constată că Legea pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 30/2007 privind organizarea şi funcţionarea Ministerului Internelor şi Reformei Administrative este constituţională. 2. Constată că Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 77/2007 pentru modificarea şi completarea Legii nr. 164/2001 privind pensiile militare de stat, precum şi pentru modificarea Legii nr. 80/1995 privind statutul cadrelor militare este constituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 30/2007",
+    "number": "30",
+    "year": "2007",
+    "path": "lege/2007/30"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 77/2007",
+    "number": "77",
+    "year": "2007",
+    "path": "lege/2007/77"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 77/2007",
+    "number": "77",
+    "year": "2007",
+    "path": "oug/2007/77"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 415/2002",
+    "number": "415",
+    "year": "2002",
+    "path": "lege/2002/415"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89619",
+  "text_sha256": "f3861066f6abc5deae28f3e7285bcd198597a20b9a0870fa3b4942e7108ea754",
+  "catalogue_sha256": "f3861066f6abc5deae28f3e7285bcd198597a20b9a0870fa3b4942e7108ea754",
+  "fetched": "2026-11-05T12:51:36Z",
+  "chars": 13111,
+  "portal_id": "89619",
+  "tip": "DECIZIE"
+ }
+}
