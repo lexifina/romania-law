@@ -1,0 +1,34 @@
+# DECIZIE nr. 17 din 15 ianuarie 2008
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 394 alin. 1 raportate la art. 278^1 din Codul de procedură penală
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Augustin Zegrean - judecător Iuliana Nedelcu - procuror Afrodita Laura Tutunaru - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 394 alin. 1, raportate la art. 278^1 din Codul de procedură penală, excepţie ridicată de Eugen Lăcustă în Dosarul nr. 3.458/233/2007 al Judecătoriei Galaţi.
+La apelul nominal se prezintă personal autorul excepţiei şi lipseşte cealaltă parte, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza se află în stare de judecată.
+Autorul excepţiei pune concluzii de admitere a acesteia, reluând, în esenţă, motivele invocate în notele scrise.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate ca neîntemeiată.
+CURTEA, având în vedere actele şi lucrările dosarului, constată următoarele:
+Prin Încheierea din 12 iulie 2007, pronunţată în Dosarul nr. 3.458/233/2007, Judecătoria Galaţi a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 394 alin. 1, raportate la art. 278^1 din Codul de procedură penală, excepţie ridicată de Eugen Lăcustă în dosarul de mai sus având ca obiect soluţionarea unei cereri de revizuire.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că prevederile legale menţionate încalcă dispoziţiile constituţionale ale art. 1, 4, 11, 15, 20, 21, 16, 24, 53, 124 şi 126, precum şi ale art. 6, 14 şi 17 din Convenţia pentru apărarea drepturilor şi libertăţilor fundamentale ale omului şi ale art. 1, 2, 6, 7, 8, 10, 11 şi 30 din Declaraţia Universală a Drepturilor Omului, deoarece nu asigură justiţiabilului petent, căruia i s-a respins plângerea în procedura prevăzută de art. 278^1 din Codul de procedură penală, posibilitatea de a exercita şi calea de atac a revizuirii acestei hotărâri.
+Judecătoria Galaţi opinează că excepţia de neconstitu ţionalitate este neîntemeiată, sens în care face trimitere la jurisprudenţa Curţii Constituţionale în materie.
+Potrivit art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Guvernul apreciază că excepţia de neconstituţionalitate este neîntemeiată, deoarece prevederile legale criticate nu contravin dispoziţiilor fundamentale şi convenţionale invocate.
+Avocatul Poporului consideră că excepţia de neconstituţionalitate este neîntemeiată, întrucât dispoziţiile legale criticate nu contravin prevederilor art. 16, 21, 24 şi art. 126 alin. (2) din Constituţie şi nici celor ale art. 6 din Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale.
+Celelalte dispoziţii indicate de autorul excepţiei din Constituţie şi din instrumentele juridice internaţionale nu au incidenţă în cauză.
+Preşedinţii celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale Guvernului şi Avocatului Poporului, raportul întocmit de judecătorul-raportor, susţinerile autorului excepţiei, concluziile procurorului, dispoziţiile legale criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională constată că a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 394 alin. 1, cu denumirea marginală Cazurile de revizuire, raportate la art. 278^1, cu denumirea marginală Plângerea în faţa judecătorului împotriva rezoluţiilor sau ordonanţelor procurorului de netrimitere în judecată, ambele din Codul de procedură penală.
+Articolul 394 alin. 1 din Codul de procedură penală are următorul conţinut:
+"Revizuirea poate fi cerută când:
+a) s-au descoperit fapte sau împrejurări ce nu au fost cunoscute de instanţă la soluţionarea cauzei;
+b) un martor, un expert sau un interpret a săvârşit infracţiunea de mărturie mincinoasă în cauza a cărei revizuire se cere;
+c) un înscris care a servit ca temei al hotărârii a cărei revizuire se cere a fost declarat fals;
+d) un membru al completului de judecată, procurorul ori persoana care a efectuat acte de cercetare penală a comis o infracţiune în legătură cu cauza a cărei revizuire se cere;
+e) când două sau mai multe hotărâri judecătoreşti definitive nu se pot concilia."
+Examinând excepţia de neconstituţionalitate, Curtea constată că dispoziţiile legale criticate au mai fost supuse instanţei de contencios constituţional prin raportare la aceleaşi prevederi. Astfel, prin Decizia nr. 234 din 20 martie 2007, publicată în Monitorul Oficial al României, Partea I, nr. 266 din 20 aprilie 2007, Curtea Constituţională a respins ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 raportat la art. 394 alin. 2 din Codul de procedură penală, pentru considerentele acolo arătate.
+Deoarece până în prezent nu au intervenit elemente noi, care să justifice schimbarea acestei jurisprudenţe, considerentele deciziei mai sus menţionate îşi păstrează valabilitatea şi în prezenta cauză.
+Distinct de aceste argumente, Curtea mai reţine că, în realitate, critica autorului excepţiei vizează şi aspecte ce ţin de interpretarea şi aplicarea legii. Or, problema supusă controlului a fost soluţionată de Înalta Curte de Casaţie şi Justiţie - Secţiile Unite în şedinţa din 19 martie 2007, când, prin Decizia nr. XVII, s-a admis recursul în interesul legii şi s-a stabilit că cererea de revizuire îndreptată împotriva unei hotărâri judecătoreşti definitive pronunţate în temeiul art. 278^1 alin. 8 lit. a) şi b) din Codul de procedură penală este inadmisibilă.
+Pentru considerentele expuse, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 394 alin. 1, raportate la art. 278^1 din Codul de procedură penală, excepţie ridicată de Eugen Lăcustă în Dosarul nr. 3.458/233/2007 al Judecătoriei Galaţi.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 15 ianuarie 2008.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Afrodita Laura Tutunaru _________
