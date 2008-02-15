@@ -1,0 +1,348 @@
+{
+ "key": "dcc-38-2008",
+ "label": "Decizia CCR nr. 38/2008",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "38",
+ "date": "2008-01-30",
+ "year": "2008",
+ "heading": "DECIZIE nr. 38 din 30 ianuarie 2008",
+ "subtitle": "referitoare la constituţionalitatea art. 13 şi a art. 18^1 din Legea privind aprobarea Ordonanţei Guvernului nr. 28/2007 pentru modificarea Ordonanţei Guvernului nr. 19/2002 privind unele măsuri pentru constituirea şi utilizarea fondului locativ de protocol, proprietate publică a statului, şi pentru vânzarea unor imobile, proprietate privată a statului, aflate în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "122",
+  "bis": false,
+  "date": "2008-02-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.836A/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind aprobarea Ordonanţei Guvernului nr. 28/2007",
+    "number": "28",
+    "year": "2007",
+    "path": "lege/2007/28"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constată că dispoziţiile referitoare la \"vânzarea prin negociere directă\" din art. 13, prevăzut la art. I pct. 3, şi dispoziţiile cuprinse la art. I pct. 6 referitoare la art. 18^1 din Legea privind aprobarea Ordonanţei Guvernului nr. 28/2007 pentru modificarea Ordonanţei Guvernului nr. 19/2002 privind unele măsuri pentru constituirea şi utilizarea fondului locativ de protocol, proprietate publică a statului, şi pentru vânzarea unor imobile, proprietate privată a statului, aflate în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", sunt neconstituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedintelui Camerei Deputaţilor, preşedintelui Senatului, primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind aprobarea Ordonanţei Guvernului nr. 28/2007",
+    "number": "28",
+    "year": "2007",
+    "path": "lege/2007/28"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 61/1990",
+    "number": "61",
+    "year": "1990",
+    "path": "decret-lege/1990/61"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 19/2002",
+    "number": "19",
+    "year": "2002",
+    "path": "og/2002/19"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1997",
+    "number": "114",
+    "year": "1997",
+    "path": "lege/1997/114"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1996",
+    "number": "26",
+    "year": "1996",
+    "path": "lege/1996/26"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 182/2000",
+    "number": "182",
+    "year": "2000",
+    "path": "lege/2000/182"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89618",
+  "text_sha256": "bb0b840d9d1fb9e1b1683b198c76bfd7c0fd4333214440314eee8fa552ca28f0",
+  "catalogue_sha256": "bb0b840d9d1fb9e1b1683b198c76bfd7c0fd4333214440314eee8fa552ca28f0",
+  "fetched": "2026-11-03T00:26:42Z",
+  "chars": 24866,
+  "portal_id": "89618",
+  "tip": "DECIZIE"
+ }
+}
