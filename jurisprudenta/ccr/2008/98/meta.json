@@ -1,0 +1,182 @@
+{
+ "key": "dcc-98-2008",
+ "label": "Decizia CCR nr. 98/2008",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "98",
+ "date": "2008-02-07",
+ "year": "2008",
+ "heading": "DECIZIE nr. 98 din 7 februarie 2008",
+ "subtitle": "asupra cererii de soluţionare a conflictului juridic de natură constituţională dintre Preşedintele României şi Guvernul României, formulată de primul-ministru Călin Popescu-Tăriceanu",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "140",
+  "bis": false,
+  "date": "2008-02-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "102E/2008"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Curtea Constituţională constată existenţa unui conflict juridic de natură constituţională între Guvern şi Preşedintele României, în legătură cu numirea doamnei Norica Nicolai în funcţia de ministru al justiţiei. 2. În exercitarea atribuţiilor prevăzute de art. 85 alin. (2) din Constituţie, Preşedintele României poate refuza, o singură dată, motivat, propunerea primului-ministru de numire a unei persoane în funcţia vacantă de ministru. Primul-ministru este obligat să propună o altă persoană.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-02-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89814",
+  "text_sha256": "86d8ef7d5758bc8f74b3cce5fccab9eb90299b398e78e134ff8ee67bca7d8ff2",
+  "catalogue_sha256": "86d8ef7d5758bc8f74b3cce5fccab9eb90299b398e78e134ff8ee67bca7d8ff2",
+  "fetched": "2026-11-03T00:26:54Z",
+  "chars": 27042,
+  "portal_id": "89814",
+  "tip": "DECIZIE"
+ }
+}
