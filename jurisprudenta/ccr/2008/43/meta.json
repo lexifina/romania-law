@@ -1,0 +1,202 @@
+{
+ "key": "dcc-43-2008",
+ "label": "Decizia CCR nr. 43/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "43",
+ "date": "2008-01-31",
+ "year": "2008",
+ "heading": "DECIZIE nr. 43 din 31 ianuarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. VI din Ordonanţa de urgenţă a Guvernului nr. 88/2006 pentru modificarea şi completarea unor acte normative prin care se acordă drepturi sociale, precum şi unele măsuri în domeniul cheltuielilor de personal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "142",
+  "bis": false,
+  "date": "2008-02-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "444/2/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 88/2006",
+    "number": "88",
+    "year": "2006",
+    "path": "oug/2006/88"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a prevederilor art. VI din Ordonanţa de urgenţă a Guvernului nr. 88/2006 pentru modificarea şi completarea unor acte normative prin care se acordă drepturi sociale, precum şi unele măsuri în domeniul cheltuielilor de personal, excepţie ridicată de Federaţia Sindicatelor Libere din Învăţământ şi Federaţia Sindicatelor din Învăţământ \"Spiru Haret\" în Dosarul nr. 444/2/2007 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 88/2006",
+    "number": "88",
+    "year": "2006",
+    "path": "oug/2006/88"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 262/2007",
+    "number": "262",
+    "year": "2007",
+    "path": "lege/2007/262"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-02-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89839",
+  "text_sha256": "ed26939fd1b2abf9ae6461e53831dfce7703b286bf9ede6dee685bc621a663da",
+  "catalogue_sha256": "ed26939fd1b2abf9ae6461e53831dfce7703b286bf9ede6dee685bc621a663da",
+  "fetched": "2026-11-03T00:26:55Z",
+  "chars": 11474,
+  "portal_id": "89839",
+  "tip": "DECIZIE"
+ }
+}
