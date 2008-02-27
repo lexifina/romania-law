@@ -1,0 +1,188 @@
+{
+ "key": "dcc-105-2008",
+ "label": "Decizia CCR nr. 105/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "105",
+ "date": "2008-02-14",
+ "year": "2008",
+ "heading": "DECIZIE nr. 105 din 14 februarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 48^1 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicaţiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "150",
+  "bis": false,
+  "date": "2008-02-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.087/2/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 79/2002",
+    "number": "79",
+    "year": "2002",
+    "path": "oug/2002/79"
+   },
+   "articles": [
+    {
+     "art": "48-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 48^1 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicaţiilor, excepţie ridicată de Societatea Comercială \"Touring Europabus România\" - S.R.L. din Bucureşti în Dosarul nr. 2.087/2/2007 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 79/2002",
+    "number": "79",
+    "year": "2002",
+    "path": "oug/2002/79"
+   },
+   "articles": [
+    {
+     "art": "48-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 239/2005",
+    "number": "239",
+    "year": "2005",
+    "path": "lege/2005/239"
+   },
+   "articles": [
+    {
+     "art": "48-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 70/2006",
+    "number": "70",
+    "year": "2006",
+    "path": "oug/2006/70"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-02-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89883",
+  "text_sha256": "f563b3cd7d1e353a1e64d10e75b16757527048dfbeeec9a5ab2878a7199911eb",
+  "catalogue_sha256": "f563b3cd7d1e353a1e64d10e75b16757527048dfbeeec9a5ab2878a7199911eb",
+  "fetched": "2026-11-04T06:27:31Z",
+  "chars": 11408,
+  "portal_id": "89883",
+  "tip": "DECIZIE"
+ }
+}
