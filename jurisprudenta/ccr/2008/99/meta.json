@@ -1,0 +1,204 @@
+{
+ "key": "dcc-99-2008",
+ "label": "Decizia CCR nr. 99/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "99",
+ "date": "2008-02-14",
+ "year": "2008",
+ "heading": "DECIZIE nr. 99 din 14 februarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 10 din Ordonanţa Guvernului nr. 27/2002 privind reglementarea activităţii de soluţionare a petiţiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "154",
+  "bis": false,
+  "date": "2008-02-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.058D/2007",
+  "1.057D/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2002",
+    "number": "27",
+    "year": "2002",
+    "path": "og/2002/27"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 10 din Ordonanţa Guvernului nr. 27/2002 privind reglementarea activităţii de soluţionare a petiţiilor, excepţie ridicată de Partidul Solidarităţii Democratice pentru Şanse Egale şi o Societate Mai Bună, prin preşedintele său, Ioan Antonescu, şi de membrii fondatori: Steluţa Safta Lambru, Livia Dima, Elena Lupu, Marcel Coandă, Cătălina Coandă, Roxana Oprea, Viorica Ştefania Oprea şi Ştefan Oprea în dosarele Tribunalului Bucureşti - Secţia a IV-a civilă nr. 28/P/2000 (număr unic 360/3/2005) şi nr. 27/P/2000 (număr unic 4/3/2000).",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2002",
+    "number": "27",
+    "year": "2002",
+    "path": "og/2002/27"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 334/2006",
+    "number": "334",
+    "year": "2006",
+    "path": "lege/2006/334"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 233/2002",
+    "number": "233",
+    "year": "2002",
+    "path": "lege/2002/233"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89997",
+  "text_sha256": "d6da5d07d515d013d0bea34788f6fb9933abbf3069a1bf927dbcbb6e9564c7a7",
+  "catalogue_sha256": "d6da5d07d515d013d0bea34788f6fb9933abbf3069a1bf927dbcbb6e9564c7a7",
+  "fetched": "2026-11-03T00:27:00Z",
+  "chars": 13634,
+  "portal_id": "89997",
+  "tip": "DECIZIE"
+ }
+}
