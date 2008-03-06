@@ -1,0 +1,226 @@
+{
+ "key": "dcc-130-2008",
+ "label": "Decizia CCR nr. 130/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "130",
+ "date": "2008-02-19",
+ "year": "2008",
+ "heading": "DECIZIE nr. 130 din 19 februarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 alin. (5) din titlul XIII al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "172",
+  "bis": false,
+  "date": "2008-03-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.608/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 4 alin. (5) din titlul XIII al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, excepţie ridicată de Fundaţia Obştea Sătească Belceşti-Pereşti în Dosarul nr. 1.608/2007 (număr în format vechi 7.515/90/2006) al Tribunalului Mureş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "202",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "203",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "210",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "212",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-03-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/90141",
+  "text_sha256": "2a641fdce4e07400a9914296e985c134bb68d59abf7b5a90d01356cbe0acec35",
+  "catalogue_sha256": "2a641fdce4e07400a9914296e985c134bb68d59abf7b5a90d01356cbe0acec35",
+  "fetched": "2026-11-04T12:41:41Z",
+  "chars": 7762,
+  "portal_id": "90141",
+  "tip": "DECIZIE"
+ }
+}
