@@ -1,0 +1,5 @@
+Partea I: Avocații pensionari aflați în continuarea activitãții dupã pensionare au dreptul sã candideze și sã fie aleși în organele de conducere ale profesiei? Cum se aplicã art. 61 din Statutul profesiei de avocat în ipoteza în care Consiliul baroului nu avizeazã continuarea exercitãrii profesiei deoarece avizul medical anual prevãzut la art. 61 alin. (2) din Statutul profesiei de avocat nu atestã menținerea capacitãții fizice și psihice necesare exercitãrii profesiei de avocat ?
+
+Partea II: Care sunt „limitele activitãții” în care avocații strãini înscriși în Tabloul avocaților strãini ([…] care provin din țãrile Uniunii Europene și ale Spațiului Economic European, și din alte țãri, pot exercita activitãțile prevãzute de art. 3 din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat.
+
+Partea III: Existã „posibilitatea statutarã ca membrul unui barou, avocat definitiv, sã încheie contracte de colaborare cu vreuna dintre formele de exercitare a profesiei de avocat înființate de membrii altui barou din țarã” ? Ce condiții trebuie îndeplinite de avocații aflați în situația de mai sus ?
