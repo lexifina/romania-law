@@ -1,0 +1,32 @@
+REGULAMENTUL (CE) NR. 155/2008 AL COMISIEI
+din 21 februarie 2008
+privind clasificarea anumitor mărfuri în Nomenclatura Combinată
+COMISIA COMUNITĂȚILOR EUROPENE,
+având în vedere Tratatul de instituire a Comunității Europene,
+având în vedere Regulamentul (CEE) nr. 2658/87 al Consiliului din 23 iulie 1987 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun (1), în special articolul 9 alineatul (1) litera (a),
+întrucât:
+(1) Pentru a asigura aplicarea uniformă a Nomenclaturii Combinate anexate la Regulamentul (CEE) nr. 2658/87, este necesar să fie adoptate măsuri privitoare la clasificarea mărfurilor avute în vedere în anexa la acest regulament.
+(2) Regulamentul (CEE) nr. 2658/87 a fixat regulile generale pentru interpretarea Nomenclaturii Combinate. Aceste reguli se aplică și în cazul oricărei alte nomenclaturi care se bazează pe ea, total sau parțial, sau care îi adaugă unele subdiviziuni suplimentare și care este stabilită prin regulamente comunitare specifice, în vederea aplicării de măsuri tarifare sau de alt tip, în cadrul schimbului de mărfuri.
+(3) În aplicarea acestor reguli generale, mărfurile descrise în coloana 1 a tabelului ce figurază în anexă trebuie să fie clasificate la codurile NC indicate în coloana 2, în baza motivelor indicate în coloana 3 a acelui tabel.
+(4) Trebuie menționat că, sub rezerva măsurilor în vigoare în Comunitate, privitoare la sistemele de dublu control și de supraveghere comunitară prealabilă și a posteriori a produselor textile la importul în Comunitate, informațiite tarifare obligatorii, eliberate de către autoritățile vamale ale statelor membre referitoare la clasificarea mărfurilor în Nomenclatura Combinată și care nu sunt în concordanță cu cele stabilite prin acest regulament vor putea fi invocate în continuare de către titularul lor pe o perioadă de 60 de zile, conform dispozițiilor articolului 12 alineatul (6) din Regulamentul (CEE) nr. 2913/92 al Consiliului din 12 octombrie 1992 de instituire a Codului Vamal Comunitar (2).
+(5) Comitetul Codului Vamal nu a emis un aviz în termenul stabilit de președinte,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Marfa descrisă în coloana 1 a tabelului prezentat în anexă se clasifică în Nomenclatura Combinată la codul NC indicat în coloana 2 a acestui tabel.
+Articolul 2
+Sub rezerva măsurilor în vigoare în Comunitate, privitoare la sistemul de dublu control și la supravegherea comunitară prealabilă și a posteriori a produselor textile la importul în Comunitate, informațiile tarifare obligatorii eliberate de autoritățile vamale ale statelor membre, care nu sunt în concordanță cu acest regulament, pot fi invocate în continuare pe o perioadă de 60 de zile, conform dispozițiilor articolului 12 alineatul (6) din Regulamentul (CEE) nr. 2913/92.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 21 februarie 2008.
+Pentru Comisie
+László KOVÁCS
+Membru al Comisiei
+(1) JO L 256, 7.9.1987, p. 1. Regulament modificat ultima dată prin Regulamentul (CE) nr. 1352/2007 al Comisiei (JO L 303, 21.11.2007, p. 3).
+(2) JO L 302, 19.10.1992, p. 1. Regulament modificat ultima dată prin Regulamentul (CE) nr. 1791/2006 (JO L 363, 20.12.2006, p. 1).
+ANEXĂ
+Descrierea mărfurilor | Clasificare Codul NC | Explicație
+(1) | (2) | (3)
+Articol compus din două cupe preformate din material plastic celular moale, acoperite pe ambele fețe cu material tricotat. Benzi din material tricotat sunt cusute de jur împrejurul cupelor pentru a întări forma ovală a acestora. Cupele sunt unite cu ajutorul unei cleme metalice magnetice. Interiorul fiecărei cupe este acoperit cu un gel adeziv protejat cu o folie de material plastic. După îndepărtarea foliei de material plastic, gelul adeziv permite fixarea cupelor pe sâni în momentul contactului direct cu pielea. Acest articol este conceput pentru a fi purtat direct pe piele. (sutien) (A se vedea fotografiile nr. 643 A și 643 B)(*1) | 6212 10 90 | Clasificarea este determinată în conformitate cu regulile generale 1 și 6 pentru interpretarea Nomenclaturii Combinate, nota 2 litera (a) punctul 5 de la capitolul 59 și nota 2 litera (a) de la capitolul 61 și textul pozițiilor NC 5903 , 6212 și al subpozițiilor 6212 10 și 6212 10 90 . Întrucât materialul plastic celular al cupelor este combinat cu material textil pe ambele fețe, materialul textil este considerat ca având o funcție care depășește rolul de simplu suport, în sensul notei 2 litera (a) punctul 5 de la capitolul 59. Acesta conferă materialului combinat al cupelor caracterul esențial de material textil și, în consecință, acest material textil este considerat materialul constitutiv al articolului [a se vedea, de asemenea, notele explicative din Sistemul armonizat de la capitolul 39, Considerații generale, „Materiale plastice combinate cu materiale textile”, litera (d) și al șaptelea paragraf]. Astfel, produsul este un articol textil din secțiunea XI și nu un articol de îmbrăcăminte din material plastic de la subpoziția 3926 20 . Articolul are caracteristicile unui sutien, deoarece cupele preformate, de forma ovală, din material plastic celular, întărite de jur împrejur și reunite cu ajutorul clemei metalice, susțin sânii. În locul bretelelor clasice prinse la spate, acest articol se lipește de corp prin intermediul unui gel adeziv, care acoperă interiorul cupelor. Datorită grosimii cupelor din material plastic celular, în momentul fixării lor pe partea inferioară a sânilor, articolul îi susține și îi ridică. Mai mult, la punerea articolului, partea superioară a cupelor se fixează cât mai sus cu putință pe pielea de deasupra sânilor și, în consecință, sânii care sunt în interioarul cupelor sunt ridicați și susținuți. Prin urmare, articolul este de tipul celor „concepute pentru a fi purtate ca articol de îmbrăcăminte cu rol de susținere a unei părți a corpului”, în sensul notelor explicative din Sistemul armonizat de la poziția 6212 primul paragraf. Mai mult decât atât, asemenea altor sutiene, acest articol este conceput pentru a fi purtat direct pe piele. Articolul este clasificat ca sutien la poziția 6212 , deoarece această poziție include sutienele de toate tipurile (a se vedea, de asemenea, notele explicative de la Sistemul armonizat de la poziția 6212 al doilea paragraf punctul 1).
+[figură] | [figură]
+(*1) Fotografiile au caracter strict informativ.
