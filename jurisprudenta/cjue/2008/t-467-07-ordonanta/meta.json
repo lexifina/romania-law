@@ -1,0 +1,42 @@
+{
+ "key": "cjue-t-467-07-ordonanta-2008-03-14",
+ "label": "CJUE, Ordonanța președintelui Tribunalului de Primă Instanță din 14 martie 2008, Cauza T-467/07 R",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2008-03-14",
+ "year": "2008",
+ "case": "Cauza T-467/07 R",
+ "celex": "62007TO0467",
+ "ecli": "ECLI:EU:T:2008:78",
+ "heading": "Ordonanța președintelui Tribunalului de Primă Instanță din 14 martie 2008",
+ "formation": "PRESID_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Procedură privind măsurile provizorii – Directiva 91/414/CEE – Cerere de suspendare a executării – Admisibilitate – Lipsa urgenței",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62007TO0467",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-467/07&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/56f219bb-cf8a-4983-ab74-f2306e1106c2.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "cf482e19c2a53bdb54220914af454379a0c6a0b1026bb9c33e49ffaad7f0e0fe"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
