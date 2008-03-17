@@ -1,0 +1,256 @@
+{
+ "key": "dcc-167-2008",
+ "label": "Decizia CCR nr. 167/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "167",
+ "date": "2008-02-26",
+ "year": "2008",
+ "heading": "DECIZIE nr. 167 din 26 februarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 2 alin. (3) lit. g) teza finală din Legea nr. 188/1999 privind Statutul funcţionarilor publici, precum şi ale art. 2 teza întâi şi art. 3 alin. (1) din Legea nr. 514/2003 privind organizarea şi exercitarea profesiei de consilier juridic",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "204",
+  "bis": false,
+  "date": "2008-03-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.816/314/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 514/2003",
+    "number": "514",
+    "year": "2003",
+    "path": "lege/2003/514"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 2 alin. (3) lit. g) teza finală din Legea nr. 188/1999 privind Statutul funcţionarilor publici, precum şi ale art. 2 teza întâi şi art. 3 alin. (1) din Legea nr. 514/2003 privind organizarea şi exercitarea profesiei de consilier juridic, excepţie ridicată de Carmen Brătescu în Dosarul nr. 2.816/314/2007 al Judecătoriei Suceava.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 514/2003",
+    "number": "514",
+    "year": "2003",
+    "path": "lege/2003/514"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 143/1955",
+    "number": "143",
+    "year": "1955",
+    "path": "decret/1955/143"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-03-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/90388",
+  "text_sha256": "d1da65369d7aa4cf9caf4b40c7435381172a32b35b22224204152e926c4297d8",
+  "catalogue_sha256": "d1da65369d7aa4cf9caf4b40c7435381172a32b35b22224204152e926c4297d8",
+  "fetched": "2026-11-04T13:08:05Z",
+  "chars": 16459,
+  "portal_id": "90388",
+  "tip": "DECIZIE"
+ }
+}
