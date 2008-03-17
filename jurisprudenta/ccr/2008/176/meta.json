@@ -1,0 +1,173 @@
+{
+ "key": "dcc-176-2008",
+ "label": "Decizia CCR nr. 176/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "176",
+ "date": "2008-02-26",
+ "year": "2008",
+ "heading": "DECIZIE nr. 176 din 26 februarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Hotărârii Guvernului nr. 677/2003 privind condiţiile de acordare în mod gratuit a asistenţei medicale şi psihologice, a medicamentelor şi protezelor pentru poliţişti",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "204",
+  "bis": false,
+  "date": "2008-03-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.514/105/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 677/2003",
+    "number": "677",
+    "year": "2003",
+    "path": "hg/2003/677"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor Hotărârii Guvernului nr. 677/2003 privind condiţiile de acordare în mod gratuit a asistenţei medicale şi psihologice, a medicamentelor şi protezelor pentru poliţişti, excepţie ridicată de Ion Savu, Alexandru Iliescu, Cristian Bălan, Cristian Cramar, Elena Olaru, Elena Ionescu, Tudor Mihai, Florian Ioniţă, Marius Iordache, Justin Grigore, Georgian Vintilă, Claudiu Bita, Dumitru Negoiţă, Adrian Mihăilescu, Vasile Luncanu, Mihail Adrian Fati, Mădălina Ionela Creţu, Elena Antoanela Sfântu, Georgiana Cristina Petruşca, Izabela Laura Piscociu, Cornelia Mareş, Gabriel Marius Ursoiu, Marius Daniel Văcaru, Mirela Drăgoi, Emilia Lizica Soare şi Dorinel Sandu în Dosarul nr. 7.514/105/2005 (număr în format vechi 7.518/2005) al Tribunalului Prahova - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 677/2003",
+    "number": "677",
+    "year": "2003",
+    "path": "hg/2003/677"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 270/1999",
+    "number": "270",
+    "year": "1999",
+    "path": "hg/1999/270"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-03-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/90391",
+  "text_sha256": "8b0d89efec4b4f99d960ae1a67b7959a890f69600921a11fad7e271d9f789ba1",
+  "catalogue_sha256": "8b0d89efec4b4f99d960ae1a67b7959a890f69600921a11fad7e271d9f789ba1",
+  "fetched": "2026-11-03T00:27:27Z",
+  "chars": 10401,
+  "portal_id": "90391",
+  "tip": "DECIZIE"
+ }
+}
