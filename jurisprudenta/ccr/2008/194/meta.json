@@ -1,0 +1,178 @@
+{
+ "key": "dcc-194-2008",
+ "label": "Decizia CCR nr. 194/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "194",
+ "date": "2008-02-28",
+ "year": "2008",
+ "heading": "DECIZIE nr. 194 din 28 februarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 447 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "222",
+  "bis": false,
+  "date": "2008-03-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.739/324/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "447",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 447 din Codul de procedură penală, excepţie ridicată de Cristian Potîrniche în Dosarul nr. 1.739/324/2007 al Judecătoriei Tecuci.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "447",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86-4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-03-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/90575",
+  "text_sha256": "77b8c82248331a96022177a9a075210a6f6ad4b73acb6f8ab6a1b6d09ffe3c3e",
+  "catalogue_sha256": "77b8c82248331a96022177a9a075210a6f6ad4b73acb6f8ab6a1b6d09ffe3c3e",
+  "fetched": "2026-11-03T00:27:36Z",
+  "chars": 8159,
+  "portal_id": "90575",
+  "tip": "DECIZIE"
+ }
+}
