@@ -1,0 +1,75 @@
+# Anexa
+----- (Anexa nr. 1 la regulament) --------------------------- JUDEȚELE din raza teritorială a oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație
+Nr.
+crt.
+Oficiul teritorial
+Județele
+1.
+Bacău
+Suceava
+Bacău
+Neamț
+2.
+Brașov
+Covasna
+Brașov
+Sibiu
+3.
+București
+București
+Ilfov
+4.
+Cluj-Napoca
+Bistrița-Năsăud
+Cluj
+Sălaj
+5.
+Constanța
+Brăila
+Constanța
+Tulcea
+6.
+Craiova
+Dolj
+Gorj
+Mehedinți
+Olt
+Vâlcea
+7.
+Galați
+Galați
+Vrancea
+Buzău
+8.
+Iași
+Botoșani
+Iași
+Vaslui
+9.
+Ploiești
+Prahova
+Călărași
+Ialomița
+10.
+Satu Mare
+Bihor
+Maramureș
+Satu Mare
+11.
+Târgoviște
+Argeș
+Dâmbovița
+Giurgiu
+Teleorman
+12.
+Târgu Mureș
+Alba
+Harghita
+Mureș
+13.
+Timișoara
+Arad
+Caraș-Severin
+Hunedoara
+Timiș
+-----------
