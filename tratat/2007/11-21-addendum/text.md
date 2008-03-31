@@ -1,0 +1,10 @@
+ ADDENDUM din 21 noiembrie 2007  la Acordul de finanţare privind Programul PHARE naţional 2005 pentru România RO 2005/017-553     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 247 din 31 martie 2008     În cadrul asistenţei PHARE pentru România, addendumul de mai jos a fost încheiat pe baza bugetului PHARE 2005, 2005/017-553.
+				 +
+			  Articolul 1     Natura şi obiectul  Acordul de finanţare privind Programul 2005/017-553, semnat la 27 iulie 2006, se modifică după cum urmează:  Perioada de execuţie a contractului pentru Proiectul 2005/017-553.03.01 "Îmbunătăţirea capacităţii administrative a Ministerului Finanţelor Publice şi Curţii de Conturi din România" se extinde cu 19 luni până la 30 iunie 2010.  Perioada de contractare pentru Proiectul 2005/017-553.03.04 "Întărirea managementului şi controlului frontierei" se extinde cu 3 luni până la 29 februarie 2008.  Perioada de execuţie a contractului pentru acelaşi proiect se extinde cu 3 luni până la 28 februarie 2009.  Perioada de contractare pentru Proiectul 2005/017-553.04.01 "Sectorul coeziune economică şi socială - Partea 1, Îmbunătăţirea infrastructurii, îmbunătăţirea accesului la educaţie şi instruire, susţinerea IMM-urilor şi protecţia mediului" se extinde cu 4 luni până la 31 martie 2008.
+				 +
+			  Articolul 2     Toate celelalte prevederi şi condiţii ale Acordului de finanţare privind Programul 2005/017-553 rămân neschimbate.
+				 +
+			  Articolul 3     Acest addendum la Acordul de finanţare privind Programul 2005/017-553 este redactat în două exemplare, în limba engleză.
+				 +
+			  Articolul 4     Intrarea în vigoare  Acest addendum la Acordul de finanţare privind Programul 2005/017-553 va intra în vigoare la data semnării de către ambele părţi.  Bucureşti, 21 noiembrie 2007.  Pentru destinatar,  Eugen Teodorovici,  secretar de stat,  Ministerul Economiei  şi Finanţelor,  coordonator naţional  al asistenţei  Pentru Comunitatea Europeană,  Donato Chiarini,  şeful Reprezentanţei  Comisiei Europene în România  __________
