@@ -1,0 +1,427 @@
+{
+ "key": "dcc-183-2008",
+ "label": "Decizia CCR nr. 183/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "183",
+ "date": "2008-02-26",
+ "year": "2008",
+ "heading": "DECIZIE nr. 183 din 26 februarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 268 şi ale art. 282 din Legea nr. 571/2003 - Codul fiscal, ale art. 30 din Legea nr. 273/2006 privind finanţele publice locale şi ale art. 9 alin. (1) lit. b) şi c), ale art. 13 lit. i), ale art. 14 alin. (3), ale art. 15, ale art. 26 alin. (3) lit. b), ale art. 27 alin. (3) lit. h), ale art. 28 alin. (1) şi (2), ale art. 31 alin. (3), ale art. 37 lit. d), ale art. 54, ale art. 62 şi ale art. 66 din Legea nr. 38/2003 privind transportul în regim de taxi şi în regim de închiriere",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "255",
+  "bis": false,
+  "date": "2008-04-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.259/99/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "lege/2003/38"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 27 alin. (3) lit. h), ale art. 54 şi ale art. 62 din Legea nr. 38/2003 privind transportul în regim de taxi şi în regim de închiriere, excepţie ridicată de Andrei Victor şi Societatea Comercială \"Visairi\" - S.R.L. din Iaşi în Dosarul nr. 4.259/99/2006 al Curţii de Apel Iaşi - Secţia contencios administrativ şi fiscal. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 268 şi ale art. 282 din Legea nr. 571/2003 - Codul fiscal, ale art. 30 din Legea nr. 273/2006 privind finanţele publice locale şi ale art. 9 alin. (1) lit. b) şi c), ale art. 13 lit. i), ale art. 14 alin. (3), ale art. 15, ale art. 26 alin. (3) lit. b), ale art. 28 alin. (1) şi (2), ale art. 31 alin. (3), ale art. 37 lit. d) şi ale art. 66 din Legea nr. 38/2003 privind transportul în regim de taxi şi în regim de închiriere, excepţie ridicată de aceiaşi autori în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 45/2003",
+    "number": "45",
+    "year": "2003",
+    "path": "oug/2003/45"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "lege/2003/38"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "h",
+      "i"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-04-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/90941",
+  "text_sha256": "db804e40caf5cc93d24cc32ce4a60bdad6af571ebcdcaad51efad70b4e1b9ac2",
+  "catalogue_sha256": "db804e40caf5cc93d24cc32ce4a60bdad6af571ebcdcaad51efad70b4e1b9ac2",
+  "fetched": "2026-11-03T00:28:00Z",
+  "chars": 31243,
+  "portal_id": "90941",
+  "tip": "DECIZIE"
+ }
+}
