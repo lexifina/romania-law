@@ -1,0 +1,264 @@
+{
+ "key": "dcc-277-2008",
+ "label": "Decizia CCR nr. 277/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "277",
+ "date": "2008-03-11",
+ "year": "2008",
+ "heading": "DECIZIE nr. 277 din 11 martie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. II alin. (2) din Legea nr. 56/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România, coroborate cu dispoziţiile art. 55 alin. (1), (2), (3) şi alin. (5) teza a doua şi cu cele ale art. 98 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 194/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "260",
+  "bis": false,
+  "date": "2008-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.967/2/2006",
+  "1.377D/2007",
+  "1.235D/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/2007",
+    "number": "56",
+    "year": "2007",
+    "path": "lege/2007/56"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "98",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. II alin. (2) din Legea nr. 56/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România, coroborate cu dispoziţiile art. 55 alin. (1), (2), (3) şi alin. (5) teza doua şi cu cele ale art. 98 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 194/2002, excepţie ridicată de Zheng Xiaofang, Jiang Lujun, Ye Jinkui şi Chen Lincong în dosarele nr. 1.967/2/2006, nr. 8.456/2/2006, nr. 10.002/2/2006 şi, respectiv, nr. 9.518/2/2006 ale Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/2007",
+    "number": "56",
+    "year": "2007",
+    "path": "lege/2007/56"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "98",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 55/2007",
+    "number": "55",
+    "year": "2007",
+    "path": "oug/2007/55"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/90958",
+  "text_sha256": "5a3d9cedbd79bd1b24c4e961bc9f2ca91021e93f76b6bdf95db274cee1c74a8d",
+  "catalogue_sha256": "5a3d9cedbd79bd1b24c4e961bc9f2ca91021e93f76b6bdf95db274cee1c74a8d",
+  "fetched": "2026-11-03T00:28:01Z",
+  "chars": 21331,
+  "portal_id": "90958",
+  "tip": "DECIZIE"
+ }
+}
