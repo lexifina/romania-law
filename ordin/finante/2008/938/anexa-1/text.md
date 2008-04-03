@@ -1,0 +1,2 @@
+# Anexa
+1. Senatul României 2. Camera Deputaților 3. Curtea Constituțională 4. Serviciul de Informații Externe 5. Serviciul Român de Informații - structuri centrale și unitățile teritoriale ale acestuia 6. Ministerul Apărării - pentru personalul Direcției generale de informații a apărării și structurile din subordinea acesteia 7. Ministerul Internelor și Reformei Administrative - pentru personalul Direcției generale de informații și protecție internă și personalul Serviciului investigatori acoperiți 8. Consiliul Economic și Social. _________
