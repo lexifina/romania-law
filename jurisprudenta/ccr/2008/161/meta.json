@@ -1,0 +1,163 @@
+{
+ "key": "dcc-161-2008",
+ "label": "Decizia CCR nr. 161/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "161",
+ "date": "2008-02-26",
+ "year": "2008",
+ "heading": "DECIZIE nr. 161 din 26 februarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 41 din Legea nr. 168/1999 privind soluţionarea conflictelor de muncă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "263",
+  "bis": false,
+  "date": "2008-04-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.134/105/2007",
+  "1.550D/2007",
+  "4.607/105/2007",
+  "1550D/2007",
+  "1.300D/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 41 din Legea nr. 168/1999 privind soluţionarea conflictelor de muncă, excepţie ridicată de Sindicatul \"Tesad\" din Societatea Comercială \"Cablul Românesc\" - S.A., cu sediul în Ploieşti, în Dosarul nr. 5.134/105/2007 al Tribunalului Prahova şi în Dosarul nr. 4.607/105/2007 al Curţii de Apel Ploieşti - Secţia conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-04-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/91027",
+  "text_sha256": "9a49c7e6d22c5d4d82adcceeb2e30a47a1d648e7219553d5d7292ffa3d0c74f3",
+  "catalogue_sha256": "9a49c7e6d22c5d4d82adcceeb2e30a47a1d648e7219553d5d7292ffa3d0c74f3",
+  "fetched": "2026-11-03T00:28:03Z",
+  "chars": 11274,
+  "portal_id": "91027",
+  "tip": "DECIZIE"
+ }
+}
