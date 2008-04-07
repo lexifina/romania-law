@@ -1,0 +1,24 @@
+# DECIZIE nr. 367 din 20 martie 2008
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 274 alin. 1 din Codul de procedură civilă
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Ninosu - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Simona Ricu - procuror Doina Suliman - magistrat-asistent-şef Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 274 alin. 1 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială "Itancar Trading Co 97" - S.R.L. din Bucureşti în Dosarul nr. 1.358/303/2007 al Judecătoriei Sectorului 6 Bucureşti - Secţia civilă.
+La apelul nominal lipsesc autorul excepţiei şi celelalte părţi, faţă de care procedura de citare este legal îndeplinită.
+Cauza este în stare de judecată.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate ca fiind neîntemeiată.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 10 decembrie 2007, pronunţată în Dosarul nr. 1.358/303/2007, Judecătoria Sectorului 6 Bucureşti - Secţia civilă a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 274 alin. 1 din Codul de procedură civilă.
+Excepţia a fost ridicată de Societatea Comercială "Itancar Trading Co 97" - S.R.L. din Bucureşti într-o cauză civilă având ca obiect pretenţii.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că textul de lege criticat contravine prevederilor constituţionale ale art. 1 alin. (3) şi ale art. 53, deoarece instituie o adevărată excepţie de la principiul de drept, consacrat de art. 973 din Codul civil, conform căruia convenţiile nu produc efecte decât între părţile contractante, prin obligarea părţii aflate în culpă procesuală de a suporta şi onorariile avocaţilor angajaţi de partea care a câştigat procesul.
+Judecătoria Sectorului 6 Bucureşti - Secţia civilă apreciază că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că textul de lege criticat este constituţional.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 274 alin. 1 din Codul de procedură civilă, dispoziţii care au următorul conţinut: "Partea care cade în pretenţiuni va fi obligată, la cerere, să plătească cheltuielile de judecată." În susţinerea neconstituţionalităţii acestui text de lege, autorul excepţiei invocă încălcarea prevederilor constituţionale ale art. 1 alin. (3) privind statul de drept, democratic şi social şi ale art. 53 referitoare la restrângerea exerciţiului unor drepturi sau al unor libertăţi.
+Examinând excepţia de neconstituţionalitate, Curtea reţine că obligativitatea plăţii cheltuielilor de judecată, incluzând taxele de timbru şi onorariile avocaţilor, de către partea ale cărei pretenţii nu au fost admise de instanţa de judecată are la bază ideea de culpă procesuală a acesteia şi nu contravine acestor prevederi constituţionale.
+De altfel, analizând domeniul de reglementare a textelor constituţionale de referinţă, Curtea observă că nici unul dintre acestea nu poate fi considerat relevant pentru soluţionarea excepţiei de neconstituţionalitate.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 274 alin. 1 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială "Itancar Trading Co 97" - S.R.L. din Bucureşti în Dosarul nr. 1.358/303/2007 al Judecătoriei Sectorului 6 Bucureşti - Secţia civilă.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 20 martie 2008.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent-şef, Doina Suliman _________
