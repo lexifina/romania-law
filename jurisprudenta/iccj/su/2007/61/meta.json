@@ -1,0 +1,247 @@
+{
+ "key": "iccj-su-61-2007",
+ "label": "Decizia ÎCCJ nr. LXI/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "61",
+ "number_printed": "LXI",
+ "date": "2007-09-24",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXI(61) din 24 septembrie 2007",
+ "subtitle": "pentru a examina recursul în interesul legii, cu privire la aplicarea dispoziţiilor art. 190 alin. (1) lit. c) din Codul de procedură fiscală, raportate la art. 191 alin. (2) din acelaşi cod",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "274",
+  "bis": false,
+  "date": "2008-04-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "28/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "og/2003/92",
+    "slug": "og-92-2003"
+   },
+   "articles": [
+    {
+     "art": "190",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "220",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [
+    {
+     "art": "191",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 190 alin. (1) lit. c) [devenit art. 220 alin. (1) lit. c)] din Codul de procedură fiscală, republicat, raportate la prevederile art. 191 alin. (2) [devenit art. 221 alin. (2)] din acelaşi cod, se interpretează în sensul că persoana care nu are calitatea de antrepozitar sau comerciant nu este subiect activ al contravenţiei de deţinere în afara antrepozitului fiscal ori de comercializare a produselor accizabile supuse marcării, fără a fi marcate sau marcate necorespunzător ori cu marcaje false, potrivit titlului VII din Codul fiscal.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "og/2003/92",
+    "slug": "og-92-2003"
+   },
+   "articles": [
+    {
+     "art": "190",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "220",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "191",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [
+    {
+     "art": "191",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "190",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "219",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "163",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-04-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/91089",
+  "text_sha256": "597c91354a7b6d59f1c3682a4a1b1e76c9ef5637489587fd624678a3859b23ee",
+  "catalogue_sha256": "597c91354a7b6d59f1c3682a4a1b1e76c9ef5637489587fd624678a3859b23ee",
+  "fetched": "2026-11-03T00:28:07Z",
+  "chars": 10661,
+  "portal_id": "91089",
+  "tip": "DECIZIE"
+ }
+}
