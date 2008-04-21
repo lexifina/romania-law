@@ -1,0 +1,11 @@
+# HCGMB nr. 178/2008
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 178/2008
+- Adopted: 2008-04-21
+- Title: PRIVIND APROBAREA REGULAMENTULUI-CADRU, A CAIETULUI DE SARCINI SI A CONTRACTULUI DE ATRIBUIRE IN GESTIUNE DELEGATA PENTRU ORGANIZAREA SI EXECUTAREA SERVICIULUI PUBLIC DE TRANSPORT LOCAL IN REGIM DE TAXI SE ANULEAZA IN PARTE HCGMB NR. 178/2008, RESPECTIV ANULEAZA ART. 46 LIT. B) ALIN. 2) DIN ANEXA NR. 1. SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 626/2017 SE ANULEAZA IN PARTE HCGMB NR. 178/2008, RESPECTIV ANULEAZA ANEXA NR.1, RESPECTIV ART. 46 LIT. B) ALIN. 2) DIN ANEXA NR. 1 LA HCGMB NR. 178/2008 IN CEEA CE PRIVESTE SINTAGMA "ARE DATORII LA BUGETUL LOCAL SAU DE STAT"
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/23720
+- Document: https://doc.pmb.ro/legis/acteinterne/2008/23720/H178_08.pdf
+- Document sha256: 51602dfccdb04dacac3d241be4ef55c2301ae33abbe7a46d7b94e9811b604df5
