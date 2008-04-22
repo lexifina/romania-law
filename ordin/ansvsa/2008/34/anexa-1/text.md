@@ -1,0 +1,2 @@
+# ANEXĂ
+NORMĂ SANITARĂ VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR privind acordarea de derogări unităților care realizează produse alimentare ce prezintă caracteristici tradiționale de la cerințele menționate în Regulamentul Parlamentului European și al Consiliului nr. 852/2004/CE privind igiena produselor alimentare, precum și de stabilire a procedurii de acordare a derogărilor și de înregistrare sanitară veterinară și pentru siguranța alimentelor a unităților în care se realizează produse alimentare ce prezintă caracteristici tradiționale
