@@ -1,0 +1,146 @@
+{
+ "key": "cedo-12728-03-2006-06-29",
+ "label": "CEDO, Jujescu c. României, 2006-06-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-06-29",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 29 iunie 2006",
+ "subtitle": "în Cauza Jujescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "314",
+  "bis": false,
+  "date": "2008-04-22",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "12728/03"
+ ],
+ "case_name": "Jujescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) ca statul pârât să-i restituie reclamantei apartamentul nr. 1 situat în Bucureşti, Bd. Eroilor Sanitari nr. 35, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa acestei restituiri, statul pârât să-i plătească reclamantei, în acelaşi termen de 3 luni, 100.000 EUR (una sută mii euro) cu titlu de daune materiale, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "4. hotărăşte ca statul pârât să-i plătească reclamantei, în acelaşi termen de 3 luni, următoarele sume:",
+  "a) 3.000 EUR (trei mii euro) cu titlu de daune morale;",
+  "b) 900 EUR (nouă sute euro) cu titlu de cheltuieli de judecată;",
+  "5. hotărăşte ca sumele respective să fie convertite în moneda statului pârât, la cursul de schimb valabil la data plăţii; 6. hotărăşte ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu trei puncte procentuale; 7. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/91645",
+  "text_sha256": "42707f0500807e76c496672c4ab1b0c2c7c5d70b82be306cf77b56db9df37939",
+  "catalogue_sha256": "42707f0500807e76c496672c4ab1b0c2c7c5d70b82be306cf77b56db9df37939",
+  "fetched": "2026-11-03T00:28:33Z",
+  "chars": 25644,
+  "portal_id": "91645",
+  "tip": "HOTĂRÂRE"
+ }
+}
