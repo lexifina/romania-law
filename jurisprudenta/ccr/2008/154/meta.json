@@ -1,0 +1,244 @@
+{
+ "key": "dcc-154-2008",
+ "label": "Decizia CCR nr. 154/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "154",
+ "date": "2008-02-26",
+ "year": "2008",
+ "heading": "DECIZIE nr. 154 din 26 februarie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. VI alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 41/2004 pentru modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996, a prevederilor art. 97 lit. b) din Legea nr. 188/1999 privind Statutul funcţionarilor publici, precum şi a prevederilor art. 17 alin. (1) din Hotărârea Guvernului nr. 1.210/2004 privind organizarea şi funcţionarea Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "324",
+  "bis": false,
+  "date": "2008-04-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "13.674/54/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2004",
+    "number": "41",
+    "year": "2004",
+    "path": "oug/2004/41"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.210/2004",
+    "number": "1210",
+    "year": "2004",
+    "path": "hg/2004/1210"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. VI alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 41/2004 pentru modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996, a prevederilor art. 97 lit. b) din Legea nr. 188/1999 privind Statutul funcţionarilor publici, precum şi a prevederilor art. 17 alin. (1) din Hotărârea Guvernului nr. 1.210/2004 privind organizarea şi funcţionarea Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară, excepţie ridicată de Simona Chioţan în Dosarul nr. 13.674/54/2006 (nr. în format vechi 2.755/CAF/2006) al Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2004",
+    "number": "41",
+    "year": "2004",
+    "path": "oug/2004/41"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.210/2004",
+    "number": "1210",
+    "year": "2004",
+    "path": "hg/2004/1210"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-04-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/91713",
+  "text_sha256": "d34015b2910b03b4cbd4d7503d2dad1f877e2936319cdc71a5c8f7ed5e7380e0",
+  "catalogue_sha256": "d34015b2910b03b4cbd4d7503d2dad1f877e2936319cdc71a5c8f7ed5e7380e0",
+  "fetched": "2026-11-03T00:28:36Z",
+  "chars": 10416,
+  "portal_id": "91713",
+  "tip": "DECIZIE"
+ }
+}
