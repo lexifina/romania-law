@@ -1,0 +1,179 @@
+{
+ "key": "dcc-272-2008",
+ "label": "Decizia CCR nr. 272/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "272",
+ "date": "2008-03-11",
+ "year": "2008",
+ "heading": "DECIZIE nr. 272 din 11 martie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 105/2006 pentru modificarea Legii tinerilor nr. 350/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "332",
+  "bis": false,
+  "date": "2008-04-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.068/2/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 105/2006",
+    "number": "105",
+    "year": "2006",
+    "path": "oug/2006/105"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 105/2006 pentru modificarea Legii tinerilor nr. 350/2006, excepţie ridicată de Fundaţia Naţională pentru Tineret în Dosarul nr. 1.068/2/2007 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal. Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 105/2006",
+    "number": "105",
+    "year": "2006",
+    "path": "oug/2006/105"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 350/2006",
+    "number": "350",
+    "year": "2006",
+    "path": "lege/2006/350"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.603/2004",
+    "number": "1603",
+    "year": "2004",
+    "path": "hg/2004/1603"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-04-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/91858",
+  "text_sha256": "b830f24dffb9fdaec8668d112a26a8ed026dd78d10ae57ca8cfbfbd5d9a1f338",
+  "catalogue_sha256": "b830f24dffb9fdaec8668d112a26a8ed026dd78d10ae57ca8cfbfbd5d9a1f338",
+  "fetched": "2026-11-03T00:28:40Z",
+  "chars": 13186,
+  "portal_id": "91858",
+  "tip": "DECIZIE"
+ }
+}
