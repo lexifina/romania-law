@@ -1,0 +1,220 @@
+{
+ "key": "dcc-273-2008",
+ "label": "Decizia CCR nr. 273/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "273",
+ "date": "2008-03-11",
+ "year": "2008",
+ "heading": "DECIZIE nr. 273 din 11 martie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 din Ordonanţa Guvernului nr. 9/2000 privind nivelul dobânzii legale pentru obligaţii băneşti, aprobată prin Legea nr. 356/2002, şi a art. 1 din Legea nr. 313/1879 pentru anularea clauzei penale din oarecare contracte şi pentru adaosul unui alineat la articolul 1089 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "332",
+  "bis": false,
+  "date": "2008-04-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "75/308/2007",
+  "1.106D/2007",
+  "1.025D/2007",
+  "1.149/306/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 9/2000",
+    "number": "9",
+    "year": "2000",
+    "path": "og/2000/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 313/1879",
+    "number": "313",
+    "year": "1879",
+    "path": "lege/1879/313"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1089",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 1 din Ordonanţa Guvernului nr. 9/2000 privind nivelul dobânzii legale pentru obligaţii băneşti, aprobată prin Legea nr. 356/2002, şi a art. 1 din Legea nr. 313/1879 pentru anularea clauzei penale din oarecare contracte şi pentru adaosul unui alineat la articolul 1089 din Codul civil, excepţie ridicată de Cristian Daniel Toth în Dosarul nr. 75/308/2007 al Judecătoriei Sighişoara şi de Andreea Dana Popovici în Dosarul nr. 1.149/306/2007 al Judecătoriei Sibiu.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 9/2000",
+    "number": "9",
+    "year": "2000",
+    "path": "og/2000/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 313/1879",
+    "number": "313",
+    "year": "1879",
+    "path": "lege/1879/313"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1089",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1589",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-04-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/91859",
+  "text_sha256": "2eff31333b3054b1ccf47987aebffafa2e2dad2c3b6f3d7a4fcd4383b1fd1f11",
+  "catalogue_sha256": "2eff31333b3054b1ccf47987aebffafa2e2dad2c3b6f3d7a4fcd4383b1fd1f11",
+  "fetched": "2026-11-03T00:28:40Z",
+  "chars": 10323,
+  "portal_id": "91859",
+  "tip": "DECIZIE"
+ }
+}
