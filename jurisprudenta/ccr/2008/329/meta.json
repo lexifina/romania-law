@@ -1,0 +1,185 @@
+{
+ "key": "dcc-329-2008",
+ "label": "Decizia CCR nr. 329/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "329",
+ "date": "2008-03-13",
+ "year": "2008",
+ "heading": "DECIZIE nr. 329 din 13 martie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (2) din Legea nr. 130/1999 privind unele măsuri de protecţie a persoanelor încadrate în muncă şi art. 21 din Legea nr. 108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "335",
+  "bis": false,
+  "date": "2008-04-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.242/225/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/1999",
+    "number": "130",
+    "year": "1999",
+    "path": "lege/1999/130"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 108/1999",
+    "number": "108",
+    "year": "1999",
+    "path": "lege/1999/108"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (2) din Legea nr. 130/1999 privind unele măsuri de protecţie a persoanelor încadrate în muncă şi art. 21 din Legea nr. 108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii, excepţie ridicată de Societatea Comercială \"Agenţia de Pază Professional Style\" - S.R.L. din Drobeta-Turnu Severin în Dosarul nr. 8.242/225/2007 al Judecătoriei Drobeta-Turnu Severin.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/1999",
+    "number": "130",
+    "year": "1999",
+    "path": "lege/1999/130"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 108/1999",
+    "number": "108",
+    "year": "1999",
+    "path": "lege/1999/108"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-04-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/91932",
+  "text_sha256": "3be7de0b7ca4f94e25d6c423ae0f9451d4a27e7edda439952411634279316695",
+  "catalogue_sha256": "3be7de0b7ca4f94e25d6c423ae0f9451d4a27e7edda439952411634279316695",
+  "fetched": "2026-11-03T00:28:42Z",
+  "chars": 7676,
+  "portal_id": "91932",
+  "tip": "DECIZIE"
+ }
+}
