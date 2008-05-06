@@ -1,0 +1,25 @@
+# DECIZIE nr. 212 din 28 februarie 2008
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 305 din Codul de procedură civilă
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Ninosu - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Augustin Zegrean - judecător Ion Tiucă - procuror Cristina Cătălina Turcu - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a prevederilor art. 305 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială "Mebis" - S.A. din Bistriţa în Dosarul nr. 10.322/3/2006 al Înaltei Curţi de Casaţie şi Justiţie - Secţia comercială.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Preşedintele constată cauza în stare de judecată şi acordă cuvântul pe fond.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate ca neîntemeiată.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 24 octombrie 2007, pronunţată în Dosarul nr. 10.322/3/2006, Înalta Curte de Casaţie şi Justiţie - Secţia comercială a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 305 din Codul de procedură civilă.
+Excepţia de neconstituţionalitate a fost ridicată într-o cauză având ca obiect un recurs.
+În motivarea excepţiei se consideră că dispoziţiile legale criticate sunt neconstituţionale, întrucât nu permit administrarea de probe noi în recurs, cu excepţia înscrisurilor.
+Înalta Curte de Casaţie şi Justiţie - Secţia comercială opinează că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit dispoziţiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Guvernul consideră că excepţia de neconstituţionalitate este neîntemeiată, făcând referire la jurisprudenţa Curţii în materie.
+Avocatul Poporului apreciază că textul de lege criticat este constituţional, sens în care a statuat Curtea în jurisprudenţa sa.
+Preşedinţii celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate ridicate.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale Guvernului şi Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile legale criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi celor ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 305 din Codul de procedură civilă, având următorul conţinut: "În instanţa de recurs nu se pot produce probe noi, cu excepţia înscrisurilor, care pot fi depuse până la închiderea dezbaterilor." Excepţia este raportată la prevederile art. 21 din Constituţie privind accesul liber la justiţie.
+Examinând excepţia, Curtea constată că textul legal criticat a mai fost supus controlului de constituţionalitate. Astfel, prin Decizia nr. 475 din 8 iunie 2006, publicată în Monitorul Oficial al României, Partea I, nr. 545 din 23 iunie 2006, Curtea s-a pronunţat în sensul respingerii acesteia, reţinând, în esenţă, că instituirea unor reguli speciale de procedură, inclusiv în ceea ce priveşte căile de atac, nu este contrară principiului liberului acces la justiţie, atât timp cât ele asigură egalitatea juridică a cetăţenilor în utilizarea lor. Atât în sistemul nostru procesual, cât şi în alte ţări, legea poate exclude folosirea unor căi de atac sau poate limita posibilitatea folosirii anumitor instrumente procesuale aflate la îndemâna părţilor, cum sunt probele, fără ca prin aceasta să se încalce litera sau spiritul Legii fundamentale.
+Întrucât nu au intervenit elemente noi, de natură a determina reconsiderarea jurisprudenţei în materie a Curţii Constituţionale, argumentele şi soluţia reţinute în decizia de mai sus îşi menţin valabilitatea şi în prezenta cauză.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 305 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială "Mebis" - S.A. din Bistriţa în Dosarul nr. 10.322/3/2006 al Înaltei Curţi de Casaţie şi Justiţie - Secţia comercială.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 28 februarie 2008.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Cristina Cătălina Turcu ---------
