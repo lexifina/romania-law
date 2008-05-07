@@ -1,0 +1,11 @@
+# Text
+Art. 1. - Prezentul ordin stabilește forma și conținutul formularului de raportare aferent expunerilor mari la nivel individual și, după caz, consolidat, de către instituțiile de credit prevăzute la art. 1 alin. (2) din Regulamentul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 16/21/2006 privind expunerile mari ale instituțiilor de credit și ale firmelor de investiții, aprobat prin Ordinul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/110/2006.
+Art. 2. - Instituțiile de credit prevăzute la art. 1 transmit Băncii Naționale a României formularul de raportare care face obiectul prezentului ordin prin intermediul rețelei de comunicații interbancare, precum și în formă letrică, după cum urmează:
+a) pentru raportările transmise la nivel individual, în termen de cel mult 30 de zile calendaristice de la sfârșitul perioadei pentru care acestea se întocmesc;
+b) pentru raportările transmise la nivel consolidat, pentru sfârșitul exercițiului financiar, până la data de 15 iunie a exercițiului financiar următor;
+c) pentru raportările transmise la nivel consolidat, întocmite pentru sfârșitul primului semestru al exercițiului financiar, până la data de 30 septembrie a respectivului exercițiu financiar.
+Art. 3. - Casele centrale ale cooperativelor de credit completează formularul de raportare prevăzut în anexă atât pe bază individuală, cât și la nivelul rețelei cooperatiste de credit din care fac parte.
+Art. 4. - În cadrul formularului de raportare prezentat în anexă, instituțiile de credit completează și raportează doar pozițiile evidențiate în alb.
+Art. 5. - Prima raportare la nivel individual aferentă anului 2008 va fi transmisă în termen de cel mult 45 de zile calendaristice de la sfârșitul perioadei pentru care aceasta se întocmește.
+Art. 6. - Nerespectarea prevederilor prezentului ordin atrage aplicarea măsurilor și/sau a sancțiunilor prevăzute la art. 226, respectiv la art. 229 din Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007.
+Art. 7. - Anexa face parte integrantă din prezentul ordin.
