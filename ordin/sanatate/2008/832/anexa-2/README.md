@@ -1,0 +1,7 @@
+# Anexa nr. 2: 2 NORME METODOLOGICE privind utilizarea și modul de completare a formularelor de prescripție medicală cu regim special pentru medicamente cu și fără contribuție personală
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 92704 (https://legislatie.just.ro/Public/DetaliiDocument/92704)
+- sha256 of that document's text as the service returned it: 1b67626bffe69055e15cfbe761fdb40d62a3206c161eb04ddeee474077035246
+- Retrieved: 2026-11-03
