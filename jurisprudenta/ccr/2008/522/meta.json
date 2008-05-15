@@ -1,0 +1,192 @@
+{
+ "key": "dcc-522-2008",
+ "label": "Decizia CCR nr. 522/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "522",
+ "date": "2008-05-08",
+ "year": "2008",
+ "heading": "DECIZIE nr. 522 din 8 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 48 alin. (2) din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, republicată, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "370",
+  "bis": false,
+  "date": "2008-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.064/200/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 67/2004",
+    "number": "67",
+    "year": "2004",
+    "path": "lege/2004/67"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 48 alin. (2) din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, republicată, cu modificările şi completările ulterioare, excepţie ridicată de Emil Moise în Dosarul nr. 3.064/200/2008 al Judecătoriei Buzău - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 67/2004",
+    "number": "67",
+    "year": "2004",
+    "path": "lege/2004/67"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 32/2008",
+    "number": "32",
+    "year": "2008",
+    "path": "oug/2008/32"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "mo: date 2008-05-15 vs catalogue DataVigoare 2008-05-18"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/92847",
+  "text_sha256": "3eef58c217be1ca99b51ae6c05765e35f2df6d1a309dc86f3774ab2240ca0f52",
+  "catalogue_sha256": "3eef58c217be1ca99b51ae6c05765e35f2df6d1a309dc86f3774ab2240ca0f52",
+  "fetched": "2026-11-04T12:20:40Z",
+  "chars": 8646,
+  "portal_id": "92847",
+  "tip": "DECIZIE"
+ }
+}
