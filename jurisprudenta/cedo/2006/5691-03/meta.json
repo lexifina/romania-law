@@ -1,0 +1,140 @@
+{
+ "key": "cedo-5691-03-2006-06-29",
+ "label": "CEDO, Togănel şi Grădinaru c. României, 2006-06-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-06-29",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 29 iunie 2006",
+ "subtitle": "în Cauza Togănel şi Grădinaru împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "379",
+  "bis": false,
+  "date": "2008-05-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "5691/03"
+ ],
+ "case_name": "Togănel şi Grădinaru",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA ÎN UNANIMITATE 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) ca statul pârât să le restituie reclamanţilor apartamentul compus din două camere (47,37 mp), situat în Eforie Sud, str. Mircea cel Bătrân nr. 3, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa acestei restituiri, statul pârât să le plătească reclamanţilor, împreună, în acelaşi termen de 3 luni, 14.000 EUR (paisprezece mii euro) cu titlul de daune materiale, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "4. hotărăşte ca statul pârât să le plătească reclamanţilor, în acelaşi termen de 3 luni, suma de 1.400 EUR (una mie patru sute euro) cu titlul de daune morale; 5. hotărăşte ca sumele respective să fie convertite în moneda statului pârât, la cursul de schimb valabil la data plăţii; 6. hotărăşte ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu trei puncte procentuale; 7. respinge cererea de reparaţie echitabilă pentru rest. Redactată în limba franceză, apoi comunicată în scris, la data de 29 iunie 2006, în conformitate cu art. 77 §§ 2 şi 3 din Regulament.",
+  "Bostjan M. Zupancic, preşedinte Vincent Berger, grefier ----"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93056",
+  "text_sha256": "20062d98497e5cc0b06805748fe071e9ce1a266f5bc9470400daf3319a2424ba",
+  "catalogue_sha256": "20062d98497e5cc0b06805748fe071e9ce1a266f5bc9470400daf3319a2424ba",
+  "fetched": "2026-11-03T00:29:06Z",
+  "chars": 19299,
+  "portal_id": "93056",
+  "tip": "HOTĂRÂRE"
+ }
+}
