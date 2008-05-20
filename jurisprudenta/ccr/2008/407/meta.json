@@ -1,0 +1,153 @@
+{
+ "key": "dcc-407-2008",
+ "label": "Decizia CCR nr. 407/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "407",
+ "date": "2008-04-10",
+ "year": "2008",
+ "heading": "DECIZIE nr. 407 din 10 aprilie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 36 alin. (2) teza finală din Ordonanţa de urgenţă a Guvernului nr. 27/2006 privind salarizarea şi alte drepturi ale judecătorilor, procurorilor şi altor categorii de personal din sistemul justiţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "381",
+  "bis": false,
+  "date": "2008-05-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "10.163/2/2006",
+  "1.774D/2007",
+  "2.870/2/2007",
+  "1.714D/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 36 alin. (2) teza finală din Ordonanţa de urgenţă a Guvernului nr. 27/2006 privind salarizarea şi alte drepturi ale judecătorilor, procurorilor şi altor categorii de personal din sistemul justiţiei, excepţie ridicată de Mihaela Gabriela Zuleanu în Dosarul nr. 10.163/2/2006 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal şi de Vasile Luha, Gheorghe Fiţ, Augustin Lazăr, Maria Nicula, Cornel Herlea, Nicolae Paştiu, Ilie Nariţa, Ioan Berghezan, Carmen Maria Capră, Valentin Trif, Eugen Fulop, Ilie Olivian Oană, Neta Felicia Cărpinean, Daniela Filip, Marius Ungureanu, Niculae Păcurar, Mihaela Chicea (Istrate), Marian Ioan Banea, Monica Berghian, Stelian Ioan Cioca, Nicolae Cean, Mugurel Pamfil, Adela Corodeanu, Cristian Florea, Ioan Daniel Suciu, Alina Oană (Rasovan), Maria Cetean, Angelica Elena Moldovan, Cosmina Gligor Lungan, Costel Daniel Chirilă, Mihaela Beschiu (Dreghici), Dan Ştefan Cioancă, Liana Boer, Octavian Hârceagă, Cosmin Stroe, Iustin Bic, Sorin Samfir, Paul Ernest Szucs, Răzvan Filip, Ioan Popa, Liliana Simu, Victor Liloiu şi Ionela Florea în Dosarul nr. 2.870/2/2007 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93100",
+  "text_sha256": "9b230f0b79116acf5e5cbc11f0169adedc07604682feb5b626d8aa7c0265d4eb",
+  "catalogue_sha256": "9b230f0b79116acf5e5cbc11f0169adedc07604682feb5b626d8aa7c0265d4eb",
+  "fetched": "2026-11-05T05:15:32Z",
+  "chars": 14081,
+  "portal_id": "93100",
+  "tip": "DECIZIE"
+ }
+}
