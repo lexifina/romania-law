@@ -1,0 +1,203 @@
+{
+ "key": "dcc-413-2008",
+ "label": "Decizia CCR nr. 413/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "413",
+ "date": "2008-04-10",
+ "year": "2008",
+ "heading": "DECIZIE nr. 413 din 10 aprilie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 151 pct. 1 şi ale art. 155 din Legea nr. 105/1992 cu privire la reglementarea raporturilor de drept internaţional privat şi ale art. 607 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "386",
+  "bis": false,
+  "date": "2008-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "14.478/302/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1992",
+    "number": "105",
+    "year": "1992",
+    "path": "lege/1992/105"
+   },
+   "articles": [
+    {
+     "art": "151",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "607",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 151 pct. 1 şi ale art. 155 din Legea nr. 105/1992 cu privire la reglementarea raporturilor de drept internaţional privat, excepţie ridicată de Cătălina Ioana Barbu în Dosarul nr. 14.478/302/2006 al Tribunalului Bucureşti - Secţia a III-a civilă. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 607 din Codul de procedură civilă, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1992",
+    "number": "105",
+    "year": "1992",
+    "path": "lege/1992/105"
+   },
+   "articles": [
+    {
+     "art": "151",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "607",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93156",
+  "text_sha256": "37c609b8554ab3bdcdb6b075ac6593b099c07c6613836964c4b7c3940ce70531",
+  "catalogue_sha256": "37c609b8554ab3bdcdb6b075ac6593b099c07c6613836964c4b7c3940ce70531",
+  "fetched": "2026-11-03T00:29:10Z",
+  "chars": 10360,
+  "portal_id": "93156",
+  "tip": "DECIZIE"
+ }
+}
