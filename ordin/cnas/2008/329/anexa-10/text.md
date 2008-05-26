@@ -1,0 +1,6 @@
+# Anexa 1-j
+Casa de asigurări de sănătate.............................. Furnizorul de servicii medicale....... Reprezentantul legal al Localitate.......................... furnizorului............................ Județ................................ Medic de familie............ (nume prenume) CNP medic de familie......... FORMULARUL ACTIVITĂȚII LUNARE A MEDICULUI DE FAMILIE NOU VENIT* LUNA...........ANUL.........
+Numar zile lucrătoare din luna......
+Număr zile lucrate de medicul
+de familie nou venit
+Răspundem de realitatea și exactitatea datelor Reprezentantul legal al furnizorului.................................. Notă: Formularul din Anexa 1-j se întocmește în două exemplare din care unul se depune la casa de asigurări de sănătate, de către reprezentantul legal al furnizorului de servicii medicale în primele 3 zile lucrătoare ale lunii următoare.
