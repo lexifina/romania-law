@@ -1,0 +1,149 @@
+{
+ "key": "dcc-477-2008",
+ "label": "Decizia CCR nr. 477/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "477",
+ "date": "2008-05-06",
+ "year": "2008",
+ "heading": "DECIZIE nr. 477 din 6 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 34 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "397",
+  "bis": false,
+  "date": "2008-05-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "10.581/301/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 34 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere, excepţie ridicată de Societatea Comercială \"Serviciul Transport Voluntari\" - S.R.L. (fosta Societatea Comercială \"Salubritate, Apă şi Canal\" - S.R.L. din Voluntari) în Dosarul nr. 10.581/301/2007 al Judecătoriei Sectorului 3 Bucureşti - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93393",
+  "text_sha256": "ed572568215d94f21113249adac043845daa8936c8f6fb44ddd9b629ceaabf9a",
+  "catalogue_sha256": "ed572568215d94f21113249adac043845daa8936c8f6fb44ddd9b629ceaabf9a",
+  "fetched": "2026-11-03T00:29:18Z",
+  "chars": 9970,
+  "portal_id": "93393",
+  "tip": "DECIZIE"
+ }
+}
