@@ -1,0 +1,154 @@
+{
+ "key": "dcc-372-2008",
+ "label": "Decizia CCR nr. 372/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "372",
+ "date": "2008-03-25",
+ "year": "2008",
+ "heading": "DECIZIE nr. 372 din 25 martie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei Guvernului nr. 60/2004 privind reglementările referitoare la construirea, întreţinerea, repararea şi exploatarea căilor ferate, altele decât cele administrate de Compania Naţională de Căi Ferate \"C.F.R.\" - S.A.",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "408",
+  "bis": false,
+  "date": "2008-05-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.009/114/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 60/2004",
+    "number": "60",
+    "year": "2004",
+    "path": "og/2004/60"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor Ordonanţei Guvernului nr. 60/2004 privind reglementările referitoare la construirea, întreţinerea, repararea şi exploatarea căilor ferate, altele decât cele administrate de Compania Naţională de Căi Ferate \"C.F.R.\" - S.A., excepţie ridicată de Societatea Comercială \"Albirom\" - S.R.L. din Buzău în Dosarul nr. 3.009/114/2007 al Tribunalului Buzău - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 60/2004",
+    "number": "60",
+    "year": "2004",
+    "path": "og/2004/60"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "581",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93529",
+  "text_sha256": "f7a6ac0586891a231e2a5079c723f94efb34ee74c08ba61c66aba0e03eab4f0b",
+  "catalogue_sha256": "f7a6ac0586891a231e2a5079c723f94efb34ee74c08ba61c66aba0e03eab4f0b",
+  "fetched": "2026-11-03T00:29:25Z",
+  "chars": 7455,
+  "portal_id": "93529",
+  "tip": "DECIZIE"
+ }
+}
