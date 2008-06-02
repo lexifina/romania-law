@@ -1,0 +1,138 @@
+{
+ "key": "dcc-375-2008",
+ "label": "Decizia CCR nr. 375/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "375",
+ "date": "2008-03-25",
+ "year": "2008",
+ "heading": "DECIZIE nr. 375 din 25 martie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 10 din Legea nr. 31/1990 privind societăţile comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "411",
+  "bis": false,
+  "date": "2008-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.052/83/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 10 din Legea nr. 31/1990 privind societăţile comerciale, excepţie ridicată de Societatea Comercială \"GLG Mioriţa\" - S.R.L. din Satu Mare în Dosarul nr. 7.052/83/2006 al Curţii de Apel Oradea - Secţia comercială, de contencios administrativ şi fiscal. Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93588",
+  "text_sha256": "2b49b54a53bfea12fbba5ad22b098869510c4e5ca98f8c58c3b135fa3abddb94",
+  "catalogue_sha256": "2b49b54a53bfea12fbba5ad22b098869510c4e5ca98f8c58c3b135fa3abddb94",
+  "fetched": "2026-11-03T00:29:26Z",
+  "chars": 9294,
+  "portal_id": "93588",
+  "tip": "DECIZIE"
+ }
+}
