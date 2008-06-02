@@ -1,0 +1,167 @@
+{
+ "key": "dcc-506-2008",
+ "label": "Decizia CCR nr. 506/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "506",
+ "date": "2008-03-06",
+ "year": "2008",
+ "heading": "DECIZIE nr. 506 din 6 martie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 36 alin. 1 lit. e) din Legea nr. 80/1995 privind statutul cadrelor militare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "412",
+  "bis": false,
+  "date": "2008-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.106/54/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 36 alin. 1 lit. e) din Legea nr. 80/1995 privind statutul cadrelor militare, excepţie ridicată de Florin Ciulu în Dosarul nr. 2.106/54/2007 al Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie. Pronunţată în şedinţa publică din data de 6 mai 2008."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "mo: date 2008-06-02 vs catalogue DataVigoare 2008-06-05"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93595",
+  "text_sha256": "8957b5f724d4c271b692a1b098100887b996b6bc569f3b7ae141ecf423ef2aff",
+  "catalogue_sha256": "8957b5f724d4c271b692a1b098100887b996b6bc569f3b7ae141ecf423ef2aff",
+  "fetched": "2026-11-03T00:29:26Z",
+  "chars": 6788,
+  "portal_id": "93595",
+  "tip": "DECIZIE"
+ }
+}
