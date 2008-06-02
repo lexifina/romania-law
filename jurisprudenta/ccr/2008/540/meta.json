@@ -1,0 +1,150 @@
+{
+ "key": "dcc-540-2008",
+ "label": "Decizia CCR nr. 540/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "540",
+ "date": "2008-05-13",
+ "year": "2008",
+ "heading": "DECIZIE nr. 540 din 13 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 23 din Legea nr. 178/1934 pentru reglementarea contractului de consignaţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "412",
+  "bis": false,
+  "date": "2008-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.371/22/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 178/1934",
+    "number": "178",
+    "year": "1934",
+    "path": "lege/1934/178"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 23 din Legea nr. 178/1934 pentru reglementarea contractului de consignaţie, excepţie ridicată de Nela Tomescu în Dosarul nr. 8.371/22/2007 (2.769/2007) al Curţii de Apel Bucureşti - Secţia I penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 178/1934",
+    "number": "178",
+    "year": "1934",
+    "path": "lege/1934/178"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93601",
+  "text_sha256": "7eda19309b74dc3766f36ee70830256801ae2c33cf1ff8ce604ca2db1eb64cf3",
+  "catalogue_sha256": "7eda19309b74dc3766f36ee70830256801ae2c33cf1ff8ce604ca2db1eb64cf3",
+  "fetched": "2026-11-03T00:29:26Z",
+  "chars": 7330,
+  "portal_id": "93601",
+  "tip": "DECIZIE"
+ }
+}
