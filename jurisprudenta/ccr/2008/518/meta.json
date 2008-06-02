@@ -1,0 +1,179 @@
+{
+ "key": "dcc-518-2008",
+ "label": "Decizia CCR nr. 518/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "518",
+ "date": "2008-05-08",
+ "year": "2008",
+ "heading": "DECIZIE nr. 518 din 8 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 116^2 din Legea nr. 84/1995 - Legea învăţământului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "412",
+  "bis": false,
+  "date": "2008-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "209D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "116-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 116^2 din Legea nr. 84/1995 - Legea învăţământului, excepţie ridicată de Georgiana-Olivia Călinescu, Marta Iuliana Vicol, Sebastian Năstuţă, Alina Elena Chistol (Panţâru), Eugen Popescu Neagu, Emil Luchian, Lăcrămioara Mocanu, Constantin Manolache, Florin Adrian Micu Iliescu, Manuela Mândru, Constantin Iulian Negulescu, Daniela Rusu, Ica Dioşteanu şi Gheorghe Chelmuş în dosarele nr. 1.616/99/2007, nr. 1.621/99/2007, nr. 1.611/99/2007, nr. 1.623/99/2007, nr. 1.618/99/2007, nr. 1.624/99/2007, nr. 1.622/99/2007, nr. 1.614/99/2007, nr. 1.615/99/2007, nr. 1.612/99/2007, nr. 1.613/99/2007, nr. 1.619/99/2007, nr. 1.620/99/2007 şi nr. 1.617/99/2007 ale Tribunalului Iaşi - Secţia civilă litigii de muncă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "116-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93599",
+  "text_sha256": "03890229ebfaf40b8305eea23c7b3ecc283477211deafaa063f08d818164794a",
+  "catalogue_sha256": "03890229ebfaf40b8305eea23c7b3ecc283477211deafaa063f08d818164794a",
+  "fetched": "2026-11-03T00:29:26Z",
+  "chars": 11834,
+  "portal_id": "93599",
+  "tip": "DECIZIE"
+ }
+}
