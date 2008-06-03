@@ -1,0 +1,205 @@
+{
+ "key": "cedo-23878-02-2005-09-29",
+ "label": "CEDO, Strungariu c. României, 2005-09-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-09-29",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 29 septembrie 2005",
+ "subtitle": "în Cauza Strungariu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "415",
+  "bis": false,
+  "date": "2008-06-03",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "23878/02"
+ ],
+ "case_name": "Strungariu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1 din Convenţie şi inadmisibilă în rest; 2. hotărăşte că nu a avut loc încălcarea art. 6 § 1 din Convenţie în ceea ce priveşte plata salariilor către reclamant; 3. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie în ceea ce priveşte executarea obligaţiei de reîncadrare a reclamantului în postul său; 4. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, suma de 400 EUR (patru sute euro) cu titlu de daune morale, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu trei puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "66",
+      "33"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93624",
+  "text_sha256": "6e28d4ce7ceb847099aaa4c7d47e8e406312c8de4c179098e5b7ceb552b8a3af",
+  "catalogue_sha256": "6e28d4ce7ceb847099aaa4c7d47e8e406312c8de4c179098e5b7ceb552b8a3af",
+  "fetched": "2026-11-03T00:29:31Z",
+  "chars": 37932,
+  "portal_id": "93624",
+  "tip": "HOTĂRÂRE"
+ }
+}
