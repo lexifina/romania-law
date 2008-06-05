@@ -1,0 +1,152 @@
+{
+ "key": "dcc-467-2008",
+ "label": "Decizia CCR nr. 467/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "467",
+ "date": "2008-04-22",
+ "year": "2008",
+ "heading": "DECIZIE nr. 467 din 22 aprilie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 50 alin. (2) teza a doua din Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "422",
+  "bis": false,
+  "date": "2008-06-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "25.393/245/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate a prevederilor art. 50 alin. (2) teza a doua din Legea cadastrului şi a publicităţii imobiliare nr. 7/1996 şi constată că acestea sunt neconstituţionale în măsura în care nu permit accesul direct al contestatorului şi la instanţa de judecată competentă. Excepţia a fost ridicată de Daniel Chiriluţă şi Alina Chiriluţă în Dosarul nr. 25.393/245/2007 al Judecătoriei Iaşi - Secţia civilă.",
+  "Prezenta decizie se comunică celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93676",
+  "text_sha256": "8d44c8ad853dd5349262e052528530df6ca2981dc90f79b568eb7aabcfd45bb0",
+  "catalogue_sha256": "8d44c8ad853dd5349262e052528530df6ca2981dc90f79b568eb7aabcfd45bb0",
+  "fetched": "2026-11-05T07:31:25Z",
+  "chars": 7812,
+  "portal_id": "93676",
+  "tip": "DECIZIE"
+ }
+}
