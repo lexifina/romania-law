@@ -1,0 +1,202 @@
+{
+ "key": "dcc-554-2008",
+ "label": "Decizia CCR nr. 554/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "554",
+ "date": "2008-05-15",
+ "year": "2008",
+ "heading": "DECIZIE nr. 554 din 15 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 332 alin. 4, art. 361 alin. 2 şi art. 385^1 alin. 2 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "423",
+  "bis": false,
+  "date": "2008-06-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.208/111/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "332",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 332 alin. 4, art. 361 alin. 2 şi art. 385^1 alin. 2 din Codul de procedură penală, excepţie invocată de Eugenia Mariana Ladar şi Viorica Iancu în Dosarul nr. 5.208/111/2007 al Tribunalului Bihor - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "332",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93759",
+  "text_sha256": "faf4886f5d8ede87c3e837cbb86e513035a8877a68fe4dc389fa2a5a9ab8274b",
+  "catalogue_sha256": "faf4886f5d8ede87c3e837cbb86e513035a8877a68fe4dc389fa2a5a9ab8274b",
+  "fetched": "2026-11-05T14:25:17Z",
+  "chars": 7499,
+  "portal_id": "93759",
+  "tip": "DECIZIE"
+ }
+}
