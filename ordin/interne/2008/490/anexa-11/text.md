@@ -1,0 +1,5 @@
+# Anexa 11
+AGENȚIA NAȚIONALĂ ANTIDROG
+Emblema Agenției Naționale Antidrog din cadrul Ministerului Internelor și Reformei Administrative se prezintă după cum urmează: pe centru, într-un oval negru, ajurat verde și plasat oblic spre dreapta, o compoziție cuprinzând literele A N A negre, dispuse în ligatură pe litera N, înclinată, de asemenea, spre dreapta. Ovalul broșează, în partea inferioară, la stânga, pe porțiunea de jos a barei laterale din stânga a literei N. La rândul său, porțiunea de sus a barei laterale din dreapta a literei amintite broșează pe același oval. În exergă, legenda scrisă cu litere albe pe figura geometrică menționată: * ROMÂNIA * AGENTIA NAȚIONALA ANTIDROG. Semnificația elementelor însumate:
+a) N - reprezintă siglele cuvintelor ce compun denumirea unității, dispuse în ligatură, anume: prima deschizătură din stânga se consideră litera A (Agenția), urmează N (Națională) și ultima deschizătură, cea din dreapta, litera A (Antidrog) întoarsă;
+b) ovalul - curaj, autodisciplină, influență, intuiție; un gând liber, concentrarea, creația; în cazul de față reprezintă și voința lucrătorilor din unitate de a acționa împotriva drogurilor.

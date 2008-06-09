@@ -1,0 +1,5 @@
+# Anexa 3
+INSPECTORATUL GENERAL AL POLIȚIEI ROMÂNE
+Însemnul heraldic al Inspectoratului General al Poliției Române va păstra în compoziție elemente din stema Ministerului Internelor și Reformei Administrative, după cum urmează: în scut exterior, pe albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o sabie de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei se află un alt scut albastru, încărcat în partea superioară cu o balanță de aur cu talgerele în echilibru, iar în cea inferioară, cu două securi consulare române naturale, încrucișate în săritoare. În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: LEX ET HONOR (LEGE ȘI ONOARE). Semnificația elementelor însumate:
+a) balanța - echilibru, justiție, echitate - evidențiind în stema de față atributul unității privind supravegherea aplicării legilor;
+b) securile consulare române - evocă atribuțiile Ministerului Internelor și Reformei Administrative în statul de drept, de garant al ordinii publice.

@@ -1,0 +1,7 @@
+# Anexa 21
+GRUPUL SPECIAL DE PROTECȚIE ȘI INTERVENȚIE "ACVILA" I. EMBLEMA OFICIALĂ Emblema oficială a Grupului Special de Protecție și Intervenție "Acvila" aparținând Ministerului Internelor și Reformei Administrative se prezintă după cum urmează: în centrul compoziției, pe negru, o acvilă de argint, cu ciocul și ghearele roșii, în poziție de atac. În exergă, între două cercuri liniare argintii, legenda scrisă cu litere de același metal, tot pe fond negru: * ROMÂNIA * GRUPUL SPECIAL DE PROTECTIE ȘI INTERVENTIE "ACVILA". Semnificația elementelor însumate:
+a) acvila de argint - comunicarea, înțelepciunea, forța și tenacitatea, autoritatea și puterea; misiunea de observație aeriană;
+b) ciocul și ghearele - forța corpului;
+c) culoarea roșie a ciocului și ghearelor - acțiune, cutezanță, dorința de a servi patria, sinceritate și voință.
+II. EMBLEMA TACTICĂ Emblema tactică a Grupului Special de Protecție și Intervenție "Acvila" aparținând Ministerului Internelor și Reformei Administrative se prezintă după cum urmează: în centrul compoziției, pe argint, o acvilă neagră, în poziție de atac. În exergă, între două cercuri liniare negre, legenda scrisă cu litere de aceeași culoare, tot pe fond argint: * ROMÂNIA * GRUPUL SPECIAL DE PROTECTIE ȘI INTERVENTIE "ACVILA". Semnificația elementelor însumate:
+a) acvila neagră pe câmp de argint - curaj, demnitate, putere, stabilitate, zbor spre înălțimi; misiune de observație aeriană.

@@ -1,0 +1,5 @@
+# Anexa 2
+APARATUL CENTRAL AL MINISTERULUI INTERNELOR ȘI REFORMEI ADMINISTRATIVE
+Însemnul heraldic al unităților aparatului central al Ministerului Internelor și Reformei Administrative va păstra în compoziție elemente din stema Ministerului Internelor și Reformei Administrative, după cum urmează: în scut, pe albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o sabie de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei, un alt scut de dimensiuni mai mici, în câmpul căruia, pe albastru, două ramuri de stejar, de aur, încrucișate în talpă în săritoare, având între ele literele M I R A, din același metal. Sub acvilă, pe o eșarfă albă, deviza scrisă cu litere negre: PRO PATRIA ET ORDINE IURIS (PENTRU PATRIE ȘI ORDINEA DE DREPT). Semnificația elementelor însumate:
+a) literele M I R A - sigla Ministerului Internelor și Reformei Administrative;
+b) ramurile de stejar încrucișate - forța, puterea și o autoritate veche.

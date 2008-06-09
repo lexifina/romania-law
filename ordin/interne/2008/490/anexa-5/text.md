@@ -1,0 +1,6 @@
+# Anexa 5
+INSPECTORATUL GENERAL AL POLIȚIEI DE FRONTIERĂ
+Însemnul heraldic al Inspectoratului General al Poliției de Frontieră va păstra în compoziție elemente din stema Ministerului Internelor și Reformei Administrative, după cum urmează: în scutul exterior, pe albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o sabie de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei se află un scut verde, mobilat cu o bornă de hotar, de argint, având în partea superioară două spade albastre, încrucișate în săritoare, iar în cea de jos o ancoră neagră. Borna are ca suporți doi lei de aur, limbați roșu, afrontați. În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: PATRIA ET HONOR (PATRIE ȘI ONOARE). Semnificația elementelor însumate:
+a) borna cu ancora - individualizează menirea unității, evocând ideea de pază și control pentru granițele țării;
+b) spadele încrucișate - capacitatea de a judeca, de a separa vinovăția de inocență, sugerând în ansamblu ideea de străjuire permanentă a hotarelor țării;
+c) leu - putere, autoritate, forță, înțelepciune, energie în serviciul binelui.
