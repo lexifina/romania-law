@@ -1,0 +1,172 @@
+{
+ "key": "dcc-487-2008",
+ "label": "Decizia CCR nr. 487/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "487",
+ "date": "2008-05-06",
+ "year": "2008",
+ "heading": "DECIZIE nr. 487 din 6 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 19 alin. (2) lit. e) din Legea serviciului de salubrizare a localităţilor nr. 101/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "446",
+  "bis": false,
+  "date": "2008-06-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.891/30/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de salubrizare a localităţilor nr. 101/2006",
+    "number": "101",
+    "year": "2006",
+    "path": "lege/2006/101"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 19 alin. (2) lit. e) din Legea serviciului de salubrizare a localităţilor nr. 101/2006, excepţie ridicată de Societatea Comercială \"G. H. M. Tox Insect\" -S.R.L. din Timişoara în Dosarul nr. 3.891/30/2007 al Tribunalului Timiş - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de salubrizare a localităţilor nr. 101/2006",
+    "number": "101",
+    "year": "2006",
+    "path": "lege/2006/101"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 87/2001",
+    "number": "87",
+    "year": "2001",
+    "path": "og/2001/87"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-06-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/94026",
+  "text_sha256": "e66d003af42fa68a48c872ba85755ef8027b2c563af8c21e2c459f28a397fccc",
+  "catalogue_sha256": "e66d003af42fa68a48c872ba85755ef8027b2c563af8c21e2c459f28a397fccc",
+  "fetched": "2026-11-04T04:39:37Z",
+  "chars": 8274,
+  "portal_id": "94026",
+  "tip": "DECIZIE"
+ }
+}
