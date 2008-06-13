@@ -1,0 +1,64 @@
+# Anexa 2
+------- la normă -------- ACT-CADRU DE ADERARE
+Nr. deciziei de autorizare ca administrator..................................
+Nr. deciziei de autorizare a prospectului schemei de pensii private..........
+Nr. deciziei de autorizare a fondului de pensii administrat privat...........
+Numele și prenumele participantului:.........................................
+Cod numeric personal.................... B.I./C.I. seria........ nr........
+data nașterii: zz/ll/aaaa:..............
+Adresa de domiciliu............. (localitate, județ/sector)(strada, număr,
+bloc, scară, etaj, apartament, cod poștal)............
+Adresa de corespondență......... (localitate, județ/sector)(strada, număr,
+bloc, scară, etaj, apartament, cod poștal)..........
+Numărul de telefon:................. adresa e-mail..........................
+Denumirea fondului de pensii administrat privat..............................
+Administrat de...............(denumirea administratorului)...................
+Adresa de corespondență a administratorului.................(localitate,
+județ/sector)(strada, număr, bloc, scară, etaj, apartament, cod poștal)
+...................
+Denumirea angajatorului........................ CUI.........................
+Conform prevederilor Legii nr. 411/2004 privind fondurile de pensii adminis-
+trate privat, republicată, cu modificările și completările ulterioare,
+"administratorului, agentului de marketing și persoanelor afiliate acestora
+le este interzis:
+1. să ofere beneficii colaterale în scopul de a convinge o persoană să adere
+la un fond de pensii sau să rămână participant la acesta;
+2. să acorde foloase pentru facilitarea aderării potențialilor participanți."
+Declarația participantului:
+1. Declar pe propria răspundere că mă aflu la prima aderare la un fond de
+pensii administrat privat și că nu am mai semnat un alt act individual de
+aderare la un astfel de fond. []
+(Se marchează cu X de către participant numai în situația în care se află la
+prima aderare)
+2. Declar pe propria răspundere că am semnat acest act individual de aderare
+în vederea transferului meu de la un alt fond de pensii administrat privat.[]
+(Se marchează cu X de către participant numai în situația în care se transferă
+de la un alt fond de pensii administrat privat.)
+3. Am luat cunoștință de prevederile prospectului schemei de pensii private
+și sunt de acord să fiu parte la contractul de societate civilă și la
+contractul de administrare al fondului de pensii administrat privat.
+Conform Legii nr. 677/2001 pentru protecția persoanelor cu privire la prelu-
+crarea datelor cu caracter personal și libera circulație a acestor date, cu
+modificările și completările ulterioare, participantul beneficiază de dreptul
+de acces, de intervenție, de a nu fi supus unei decizii individuale și de a se
+adresa justiției. Participantul are dreptul de a se opune prelucrării datelor
+personale care îl privesc și de a solicita ștergerea datelor, printr-o cerere
+scrisă, datată și semnată, adresată............(denumirea administratorului)
+............. care prelucrează datele participantului conținute în prezenta
+anexă, în scopul prevăzut de Legea nr. 411/2004, republicată, cu modificările
+și completările ulterioare.
+Administrator,
+Participant,
+...................................
+(numele și prenumele)
+Reprezentant legal,
+.....................................
+(numele, prenumele, (semnătura)
+semnătura și ștampila)
+Data........
+Broker de pensii private.........(denumirea).........
+Agent,
+Nr. de Registru agent
+......................................
+(numele, prenumele
+și semnătura)
