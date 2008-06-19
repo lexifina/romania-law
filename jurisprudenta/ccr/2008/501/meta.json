@@ -1,0 +1,474 @@
+{
+ "key": "dcc-501-2008",
+ "label": "Decizia CCR nr. 501/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "501",
+ "date": "2008-05-06",
+ "year": "2008",
+ "heading": "DECIZIE nr. 501 din 6 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 146/1997 privind taxele judiciare de timbru, ale Ordonanţei Guvernului nr. 11/1998 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru, ale Ordonanţei Guvernului nr. 30/1999 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru şi a Ordonanţei Guvernului nr. 12/1998 privind taxele de timbru pentru activitatea notarială, ale Ordonanţei Guvernului nr. 34/2001 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru, ale Legii nr. 203/2002 pentru modificarea şi completarea Legii nr. 64/1991 privind brevetele de invenţie, ale Legii nr. 571/2003 privind Codul fiscal, ale Normelor metodologice din 13 noiembrie 2002 pentru aplicarea Ordonanţei Guvernului nr. 36/2002 privind impozitele şi taxele locale, ale Hotărârii Guvernului nr. 561/2003 privind modificarea şi completarea Normelor metodologice pentru aplicarea Ordonanţei Guvernului nr. 36/2002 privind impozitele şi taxele locale, aprobate prin Hotărârea Guvernului nr. 1.278/2002, ale Ordonanţei de urgenţă a Guvernului nr. 58/2003 privind modificarea şi completarea Codului de procedură civilă, ale Normelor metodologice de aplicare a Legii nr. 571/2003 privind Codul fiscal, ale Legii nr. 195/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 58/2003 privind modificarea şi completarea Codului de procedură civilă, ale Hotărârii Guvernului nr. 783/2004 privind aprobarea nivelurilor pentru valorile impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, precum şi pentru amenzile care se indexează/ajustează/ actualizează anual pe baza ratei inflaţiei, aplicabile în anul fiscal 2005, ale Ordonanţei Guvernului nr. 12/2005 pentru completarea art. 15 din Legea nr. 146/1997 privind taxele judiciare de timbru şi ale Hotărârii Guvernului nr. 797/2005 privind aprobarea nivelurilor pentru valorile impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, precum şi pentru amenzile care se indexează anual pe baza ratei inflaţiei, aplicabile în anul fiscal 2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "459",
+  "bis": false,
+  "date": "2008-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.097/2/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 11/1998",
+    "number": "11",
+    "year": "1998",
+    "path": "og/1998/11"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 30/1999",
+    "number": "30",
+    "year": "1999",
+    "path": "og/1999/30"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "og/1998/12"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 34/2001",
+    "number": "34",
+    "year": "2001",
+    "path": "og/2001/34"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 203/2002",
+    "number": "203",
+    "year": "2002",
+    "path": "lege/2002/203"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 36/2002",
+    "number": "36",
+    "year": "2002",
+    "path": "og/2002/36"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 561/2003",
+    "number": "561",
+    "year": "2003",
+    "path": "hg/2003/561"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 195/2004",
+    "number": "195",
+    "year": "2004",
+    "path": "lege/2004/195"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 783/2004",
+    "number": "783",
+    "year": "2004",
+    "path": "hg/2004/783"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 12/2005",
+    "number": "12",
+    "year": "2005",
+    "path": "og/2005/12"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 797/2005",
+    "number": "797",
+    "year": "2005",
+    "path": "hg/2005/797"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Normelor metodologice din 13 noiembrie 2002 pentru aplicarea Ordonanţei Guvernului nr. 36/2002 privind impozitele şi taxele locale, ale Hotărârii Guvernului nr. 561/2003 privind modificarea şi completarea Normelor metodologice pentru aplicarea Ordonanţei Guvernului nr. 36/2002 privind impozitele şi taxele locale, aprobate prin Hotărârea Guvernului nr. 1.278/2002, ale Normelor metodologice de aplicare a Legii nr. 571/2003 privind Codul fiscal, ale Hotărârii Guvernului nr. 783/2004 privind aprobarea nivelurilor pentru valorile impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, precum şi pentru amenzile care se indexează/ajustează/actualizează anual pe baza ratei inflaţiei, aplicabile în anul fiscal 2005, şi ale Hotărârii Guvernului nr. 797/2005 privind aprobarea nivelurilor pentru valorile impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, precum şi pentru amenzile care se indexează anual pe baza ratei inflaţiei, aplicabile în anul fiscal 2006, excepţie ridicată de Leon Nica în Dosarul nr. 10.097/2/2006 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 146/1997 privind taxele judiciare de timbru, ale Ordonanţei Guvernului nr. 11/1998 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru, ale Ordonanţei Guvernului nr. 30/1999 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru şi a Ordonanţei Guvernului nr. 12/1998 privind taxele de timbru pentru activitatea notarială, ale Ordonanţei Guvernului nr. 34/2001 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru, ale Legii nr. 203/2002 pentru modificarea şi completarea Legii nr. 64/1991 privind brevetele de invenţie, ale Legii nr. 571/2003 privind Codul fiscal, ale Ordonanţei de urgenţă a Guvernului nr. 58/2003 privind modificarea şi completarea Codului de procedură civilă, ale Legii nr. 195/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 58/2003 privind modificarea şi completarea Codului de procedură civilă şi ale Ordonanţei Guvernului nr. 12/2005 pentru completarea art. 15 din Legea nr. 146/1997 privind taxele judiciare de timbru, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 11/1998",
+    "number": "11",
+    "year": "1998",
+    "path": "og/1998/11"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 30/1999",
+    "number": "30",
+    "year": "1999",
+    "path": "og/1999/30"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "og/1998/12"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 34/2001",
+    "number": "34",
+    "year": "2001",
+    "path": "og/2001/34"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 203/2002",
+    "number": "203",
+    "year": "2002",
+    "path": "lege/2002/203"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 36/2002",
+    "number": "36",
+    "year": "2002",
+    "path": "og/2002/36"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 561/2003",
+    "number": "561",
+    "year": "2003",
+    "path": "hg/2003/561"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 195/2004",
+    "number": "195",
+    "year": "2004",
+    "path": "lege/2004/195"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 783/2004",
+    "number": "783",
+    "year": "2004",
+    "path": "hg/2004/783"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 12/2005",
+    "number": "12",
+    "year": "2005",
+    "path": "og/2005/12"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 797/2005",
+    "number": "797",
+    "year": "2005",
+    "path": "hg/2005/797"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/94343",
+  "text_sha256": "b8dd1c61684a593879dd10a6d977e80fb9e3f56bcfa3ef1e528763bd79ccee13",
+  "catalogue_sha256": "b8dd1c61684a593879dd10a6d977e80fb9e3f56bcfa3ef1e528763bd79ccee13",
+  "fetched": "2026-11-03T00:29:52Z",
+  "chars": 20993,
+  "portal_id": "94343",
+  "tip": "DECIZIE"
+ }
+}
