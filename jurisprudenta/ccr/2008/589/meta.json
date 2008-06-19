@@ -1,0 +1,188 @@
+{
+ "key": "dcc-589-2008",
+ "label": "Decizia CCR nr. 589/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "589",
+ "date": "2008-05-20",
+ "year": "2008",
+ "heading": "DECIZIE nr. 589 din 20 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 236/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "459",
+  "bis": false,
+  "date": "2008-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "4.410/86/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 236/2006",
+    "number": "236",
+    "year": "2006",
+    "path": "lege/2006/236"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 236/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical, excepţie ridicată de primarul comunei Vadu Moldovei în Dosarul nr. 4.410/86/2007 al Tribunalului Suceava - Secţia comercială, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 236/2006",
+    "number": "236",
+    "year": "2006",
+    "path": "lege/2006/236"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/2002",
+    "number": "47",
+    "year": "2002",
+    "path": "lege/2002/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/94354",
+  "text_sha256": "f0c17fee3e15e15324ae59058908392949d6b5bb5318eaaaebabaedc890692fe",
+  "catalogue_sha256": "f0c17fee3e15e15324ae59058908392949d6b5bb5318eaaaebabaedc890692fe",
+  "fetched": "2026-11-03T00:29:52Z",
+  "chars": 8827,
+  "portal_id": "94354",
+  "tip": "DECIZIE"
+ }
+}
