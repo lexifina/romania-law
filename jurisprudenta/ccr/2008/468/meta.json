@@ -1,0 +1,190 @@
+{
+ "key": "dcc-468-2008",
+ "label": "Decizia CCR nr. 468/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "468",
+ "date": "2008-04-22",
+ "year": "2008",
+ "heading": "DECIZIE nr. 468 din 22 aprilie 2008",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "507",
+  "bis": false,
+  "date": "2008-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.301/1/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 40 alin. 4 din Codul de procedură civilă, excepţie ridicată de Ordinul \"Sfântul Vasile cel Mare\" Provincia \"Sfinţii Apostoli Petru şi Pavel\" în Dosarul nr. 7.301/1/2007 al Înaltei Curţi de Casaţie şi Justiţie - Secţia civilă şi de proprietate intelectuală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95340",
+  "text_sha256": "828406364a7d37ee37d874461f8a3a5358dd845baee86ecbba756833b06e34a8",
+  "catalogue_sha256": "828406364a7d37ee37d874461f8a3a5358dd845baee86ecbba756833b06e34a8",
+  "fetched": "2026-11-06T03:40:19Z",
+  "chars": 5864,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406065247/https://legislatie.just.ro/Public/DetaliiDocumentAfis/95340",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/95340",
+   "timestamp": "20250406065247",
+   "sha256": "54d7d634fe3bec2551d955fac7aacbb74f3e211677e3e32ea40af2e5d27d7861"
+  },
+  "portal_id": "95340",
+  "tip": "DECIZIE"
+ }
+}
