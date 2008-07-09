@@ -1,0 +1,181 @@
+{
+ "key": "dcc-642-2008",
+ "label": "Decizia CCR nr. 642/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "642",
+ "date": "2008-06-10",
+ "year": "2008",
+ "heading": "DECIZIE nr. 642 din 10 iunie 2008",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 34 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere, aprobată prin Legea nr. 102/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "518",
+  "bis": false,
+  "date": "2008-07-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.153/299/2007",
+  "52D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 34 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere, aprobată cu modificări şi completări prin Legea nr. 102/2006, excepţie ridicată de Societatea Comercială \"Salubritate, Apă şi Canal\" Voluntari - S.R.L. în dosarele nr. 3.982/301/2007, nr. 3.983/301/2007, nr. 7.146/299/2007, nr. 7.147/299/2007, nr. 7.152/299/2007, nr. 7.153/299/2007, nr. 9.079/300/2007, nr. 9.081/300/2007 şi, respectiv, nr. 9.160/300/2007 ale Tribunalului Bucureşti - Secţia a IX-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95413",
+  "text_sha256": "a01f76e9752f5a1608f602c08f8e85a13cea41a1da4b0ef39e3757b9e6a54e0c",
+  "catalogue_sha256": "a01f76e9752f5a1608f602c08f8e85a13cea41a1da4b0ef39e3757b9e6a54e0c",
+  "fetched": "2026-11-04T04:39:36Z",
+  "chars": 10650,
+  "portal_id": "95413",
+  "tip": "DECIZIE"
+ }
+}
