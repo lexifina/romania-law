@@ -1,0 +1,2 @@
+# Anexa
+COMPONENȚA Comisiei de asistență pentru auditul de supraveghere a siguranței aviației 1. Irina Iliescu - AACR 2. Valentin Gvinda - AACR 3. Tudorel Roman - AACR 4. Claudia Vârlan - AACR 5. Ovidiu Trăichioiu - AACR 6. Mihai Drăghici - AACR 7. Laura Mădălina Catrina - AACR 8. Mihaela Rotariu - AACR 9. Cristian Olinescu - AACR 10. Carmen Stochirlea - AACR 11. Ciprian Drumea-Dita, exclusiv pentru anexa 13 la Convenția de la Chicago 12. Tudor Tănase - ROMATSA, exclusiv pentru anexa 12 la Convenția de la Chicago ----------
