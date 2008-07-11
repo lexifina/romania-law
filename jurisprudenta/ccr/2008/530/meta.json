@@ -1,0 +1,221 @@
+{
+ "key": "dcc-530-2008",
+ "label": "Decizia CCR nr. 530/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "530",
+ "date": "2008-05-13",
+ "year": "2008",
+ "heading": "DECIZIE nr. 530 din 13 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 44 lit. i) din Legea nr. 119/1996 cu privire la actele de stare civilă şi ale art. 4 alin. (2) lit. l) din Ordonanţa Guvernului nr. 41/2003 privind dobândirea şi schimbarea pe cale administrativă a numelor persoanelor fizice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "526",
+  "bis": false,
+  "date": "2008-07-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.723/197/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/1996",
+    "number": "119",
+    "year": "1996",
+    "path": "lege/1996/119"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 41/2003",
+    "number": "41",
+    "year": "2003",
+    "path": "og/2003/41"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 44 lit. i) din Legea nr. 119/1996 cu privire la actele de stare civilă şi ale art. 4 alin. (2) lit. l) din Ordonanţa Guvernului nr. 41/2003 privind dobândirea şi schimbarea pe cale administrativă a numelor persoanelor fizice, excepţie ridicată, din oficiu, de Judecătoria Braşov în Dosarul nr. 1.723/197/2007.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/1996",
+    "number": "119",
+    "year": "1996",
+    "path": "lege/1996/119"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 41/2003",
+    "number": "41",
+    "year": "2003",
+    "path": "og/2003/41"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95525",
+  "text_sha256": "c83ae13efaa775954e412e1abd7815f832ff47fb187a59a31bb894e7568e1b3e",
+  "catalogue_sha256": "c83ae13efaa775954e412e1abd7815f832ff47fb187a59a31bb894e7568e1b3e",
+  "fetched": "2026-11-03T00:30:34Z",
+  "chars": 10704,
+  "portal_id": "95525",
+  "tip": "DECIZIE"
+ }
+}
