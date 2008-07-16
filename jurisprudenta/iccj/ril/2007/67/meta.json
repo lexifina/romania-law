@@ -1,0 +1,249 @@
+{
+ "key": "iccj-ril-67-2007",
+ "label": "Decizia ÎCCJ nr. LXVII/2007 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "67",
+ "number_printed": "LXVII",
+ "date": "2007-10-15",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXVII (67) din 15 octombrie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii cu privire la stabilirea momentului îndeplinirii cumulative a tuturor condiţiilor prevăzute de lege pentru admiterea cererii de liberare condiţionată",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "537",
+  "bis": false,
+  "date": "2008-07-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "37/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "450",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 59-61 din Codul penal, ale art. 75-77 din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal, precum şi ale art. 450 din Codul de procedură penală se interpretează în sensul că:",
+  "Cererea de liberare condiţionată va fi examinată de instanţă, sub aspectul îndeplinirii tuturor condiţiilor legale, la momentul judecării acesteia, şi nu la momentul introducerii ei.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "306",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "307",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "310",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "497",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "450",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95691",
+  "text_sha256": "bdcd8ef34a432f0f02cb868d9979afcb3443492c74ad0a1c6f468c6d4da5fd08",
+  "catalogue_sha256": "bdcd8ef34a432f0f02cb868d9979afcb3443492c74ad0a1c6f468c6d4da5fd08",
+  "fetched": "2026-11-03T00:30:43Z",
+  "chars": 6175,
+  "portal_id": "95691",
+  "tip": "DECIZIE"
+ }
+}
