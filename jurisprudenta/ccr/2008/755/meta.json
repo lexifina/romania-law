@@ -1,0 +1,163 @@
+{
+ "key": "dcc-755-2008",
+ "label": "Decizia CCR nr. 755/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "755",
+ "date": "2008-06-24",
+ "year": "2008",
+ "heading": "DECIZIE nr. 755 din 24 iunie 2008",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. II din Legea nr. 288/2007 pentru modificarea și completarea Legii nr. 4/1953 - Codul familiei",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "537",
+  "bis": false,
+  "date": "2008-07-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "220/258/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2007",
+    "number": "288",
+    "year": "2007",
+    "path": "lege/2007/288"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite e x cepția de neconstituționalitate a prevederilor art. II din Legea nr. 288/2007 pentru modificarea și completarea Legii nr. 4/1953 - Codul familiei și constată că sintagma \"Dispozițiile prezentei legi privind acțiunea în tăgăduirea paternității, [...], sunt aplicabile și în cazul copiilor născuți înainte de intrarea sa în vigoare, chiar dacă cererea este în curs de judecată\" este neconstituțională, e x cepție ridicată, din oficiu, de Judecătoria Miercurea-Ciuc în Dosarul nr. 220/258/2008.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului și Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2007",
+    "number": "288",
+    "year": "2007",
+    "path": "lege/2007/288"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95656",
+  "text_sha256": "69b4aa9b627d52672c3d7cb4d8c55b980bd83f8d24769fb9abb364eda1bab0c7",
+  "catalogue_sha256": "69b4aa9b627d52672c3d7cb4d8c55b980bd83f8d24769fb9abb364eda1bab0c7",
+  "fetched": "2026-11-03T00:30:43Z",
+  "chars": 12130,
+  "portal_id": "95656",
+  "tip": "DECIZIE"
+ }
+}
