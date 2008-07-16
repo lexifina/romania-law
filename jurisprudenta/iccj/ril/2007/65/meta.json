@@ -1,0 +1,156 @@
+{
+ "key": "iccj-ril-65-2007",
+ "label": "Decizia ÎCCJ nr. LXV/2007 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "65",
+ "number_printed": "LXV",
+ "date": "2007-10-15",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXV (65) din 15 octombrie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii cu privire la durata maximă a măsurii arestării preventive ce poate fi dispusă în cazul reluării urmăririi penale",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "537",
+  "bis": false,
+  "date": "2008-07-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "35/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "332",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "13"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea dispoziţiilor art. 332 din Codul de procedură penală, cu referire la art. 159 alin. 13 ultima teză din Codul de procedură penală, stabilesc că, în situaţia restituirii cauzei la procuror pentru refacerea urmăririi penale, durata maximă a arestării preventive nu poate depăşi 180 de zile, calculată prin adiţionarea tuturor perioadelor anterioare din cursul urmăririi penale şi ulterioare restituirii cauzei la procuror.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "159",
+     "alin": [
+      "13"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "332",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95689",
+  "text_sha256": "c6e0c6b7fba7b322a9fc9b46025ae76a7b58e568b0a316ec059af94032151fe2",
+  "catalogue_sha256": "c6e0c6b7fba7b322a9fc9b46025ae76a7b58e568b0a316ec059af94032151fe2",
+  "fetched": "2026-11-03T00:30:43Z",
+  "chars": 7094,
+  "portal_id": "95689",
+  "tip": "DECIZIE"
+ }
+}
