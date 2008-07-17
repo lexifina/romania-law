@@ -1,0 +1,136 @@
+{
+ "key": "iccj-su-17-2007",
+ "label": "Decizia ÎCCJ nr. XVII/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "17",
+ "number_printed": "XVII",
+ "date": "2007-03-19",
+ "year": "2007",
+ "heading": "DECIZIE nr. XVII din 19 martie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii cu privire la admisibilitatea căii extraordinare de atac a revizuirii împotriva hotărârilor judecătoreşti definitive, pronunţate în temeiul art. 278^1 alin. 8 lit. a) şi b) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "542",
+  "bis": false,
+  "date": "2008-07-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "35/2006"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admit recursul în interesul legii, declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Stabilesc că cererea de revizuire îndreptată împotriva unei hotărâri judecătoreşti definitive, pronunţată în temeiul art. 278^1 alin. 8 lit. a) şi b) din Codul de procedură penală, este inadmisibilă.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "393",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": [
+      "8"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95695",
+  "text_sha256": "128e3119c6166c18352f36abbbdce43bf3099a76a8975abe30d3a7361e9611b3",
+  "catalogue_sha256": "128e3119c6166c18352f36abbbdce43bf3099a76a8975abe30d3a7361e9611b3",
+  "fetched": "2026-11-03T00:30:45Z",
+  "chars": 7610,
+  "portal_id": "95695",
+  "tip": "DECIZIE"
+ }
+}
