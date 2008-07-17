@@ -1,0 +1,128 @@
+{
+ "key": "iccj-ril-71-2007",
+ "label": "Decizia ÎCCJ nr. LXXI/2007 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "71",
+ "number_printed": "LXXI",
+ "date": "2007-10-15",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXXI (71) din 15 octombrie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii cu privire stabilirea competenţei de soluţionare a plângerii formulată în temeiul art. 168 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2008-07-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "41/2007"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabilesc:",
+  "Competenţa de a soluţiona plângerea formulată în temeiul art. 168 din Codul de procedură penală revine procurorului în cursul urmăririi penale şi, respectiv, instanţei de judecată în cursul judecăţii.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "168",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 281/2003",
+    "number": "281",
+    "year": "2003",
+    "path": "lege/2003/281"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95715",
+  "text_sha256": "b4930ab4d5278ae505ca8887873a7112ff98b76d81735fc08b0afb311d251410",
+  "catalogue_sha256": "b4930ab4d5278ae505ca8887873a7112ff98b76d81735fc08b0afb311d251410",
+  "fetched": "2026-11-03T00:30:45Z",
+  "chars": 7586,
+  "portal_id": "95715",
+  "tip": "DECIZIE"
+ }
+}
