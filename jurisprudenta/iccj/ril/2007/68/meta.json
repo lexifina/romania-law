@@ -1,0 +1,133 @@
+{
+ "key": "iccj-ril-68-2007",
+ "label": "Decizia ÎCCJ nr. LXVIII/2007 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "68",
+ "number_printed": "LXVIII",
+ "date": "2007-10-15",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXVIII (68) din 15 octombrie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii cu privire la calea de atac ce poate fi exercitată împotriva hotărârilor pronunţate în temeiul art. 285 teza I din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2008-07-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "38/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "332",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabilesc:",
+  "Hotărârile pronunţate în temeiul art. 285 teza I din Codul de procedură penală, prin care instanţa sesizată în mod greşit cu o plângere prealabilă o trimite organului competent, sunt sentinţe supuse recursului, în condiţiile art. 332 alin. 4 din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "285",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "332",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "311",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95712",
+  "text_sha256": "3c7140cfd443046f19730d5f8d8d7803c776780929c7986f3530f88fbbe0ed07",
+  "catalogue_sha256": "3c7140cfd443046f19730d5f8d8d7803c776780929c7986f3530f88fbbe0ed07",
+  "fetched": "2026-11-03T00:30:43Z",
+  "chars": 6704,
+  "portal_id": "95712",
+  "tip": "DECIZIE"
+ }
+}
