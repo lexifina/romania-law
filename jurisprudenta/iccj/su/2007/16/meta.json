@@ -1,0 +1,185 @@
+{
+ "key": "iccj-su-16-2007",
+ "label": "Decizia ÎCCJ nr. XVI/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "16",
+ "number_printed": "XVI",
+ "date": "2007-03-19",
+ "year": "2007",
+ "heading": "DECIZIE nr. XVI din 19 martie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii cu privire la raportul dintre infracţiunile de proxenetism prevăzută în art. 329 din Codul penal şi de trafic de persoane prevăzută în art. 12 din Legea nr. 678/2001, respectiv, dacă sunt în concurs real sau ideal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "542",
+  "bis": false,
+  "date": "2008-07-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "32/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 678/2001",
+    "number": "678",
+    "year": "2001",
+    "path": "lege/2001/678"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii, declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor incriminatorii ale art. 329 din Codul penal şi ale art. 12 şi 13 din Legea nr. 678/2001 privind prevenirea şi combaterea traficului de persoane, stabilesc: 1. Distincţia dintre infracţiunea de trafic de persoane prevăzută de art. 12 şi, respectiv, art. 13 din Legea nr. 678/2001 şi cea de proxenetism prevăzută de art. 329 alin. 1 din Codul penal este dată de obiectul juridic generic diferit al celor două incriminări, respectiv de valoarea socială diferită, protejată de legiuitor prin textele incriminatorii ale celor două legi: în cazul infracţiunilor prevăzute de Legea nr. 678/2001 aceasta fiind apărarea dreptului la libertatea de voinţă şi acţiune a persoanei, iar în cazul infracţiunii de proxenetism prevăzute de art. 329 din Codul penal, apărarea bunelor moravuri în relaţiile de convieţuire socială şi de asigurare licită a mijloacelor de existenţă. 2. Drept urmare, în cazul în care o persoană, fără a întrebuinţa constrângeri, îndeamnă sau înlesneşte practicarea prostituţiei ori trage foloase de pe urma practicării prostituţiei de către persoane majore, săvârşeşte infracţiunea de proxenetism prevăzută de art. 329 alin. 1 din Codul penal. 3. În cazul în care o persoană, fără a întrebuinţa constrângerea, recrutează persoane majore pentru prostituţie ori trafichează persoane majore în acest scop, fapta întruneşte elementele constitutive ale infracţiunii de proxenetism, prevăzută de art. 329 alin. 2 tezele I şi II din Codul penal. 4. În situaţia unor acte de recrutare, transportare, transferare, cazare sau primire a unei persoane, prin ameninţare, violenţă, răpire, fraudă ori înşelăciune, abuz de autoritate sau prin alte forme de constrângere ori profitând de imposibilitatea acelei persoane de a-şi exprima voinţa sau prin oferirea, darea, acceptarea sau primirea de bani ori de alte foloase pentru obţinerea consimţământului persoanei care are autoritate asupra altei persoane, în scopul exploatării acestei persoane, fapta întruneşte elementele constitutive ale infracţiunii de trafic de persoane, prevăzută de art. 12 din Legea nr. 678/2001. 5. În cazul în care o persoană acţionează asupra altei persoane prin modalităţile arătate la pct. 2 şi 3, îndemnând, înlesnind sau trăgând foloase ori recrutând sau traficând persoane majore în vederea practicării de bunăvoie a prostituţiei, iar ulterior acţionează asupra aceleiaşi persoane şi prin modalităţile arătate în conţinutul textului art. 12 din Legea nr. 678/2001, se va reţine săvârşirea atât a infracţiunii prevăzute de art. 329 alin. 1 din Codul penal sau art. 329 alin. 2 tezele I şi II din Codul penal, după caz, cât şi a infracţiunii prevăzute de art. 12 din Legea nr. 678/2001, în concurs real.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 678/2001",
+    "number": "678",
+    "year": "2001",
+    "path": "lege/2001/678"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95694",
+  "text_sha256": "fc094c73034e99ce7f53dcea3e29622b92e50f826c737f9efccc1347aa53c02a",
+  "catalogue_sha256": "fc094c73034e99ce7f53dcea3e29622b92e50f826c737f9efccc1347aa53c02a",
+  "fetched": "2026-11-03T00:30:45Z",
+  "chars": 15052,
+  "portal_id": "95694",
+  "tip": "DECIZIE"
+ }
+}
