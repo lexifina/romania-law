@@ -1,0 +1,129 @@
+{
+ "key": "iccj-su-18-2007",
+ "label": "Decizia ÎCCJ nr. 18/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "18",
+ "date": "2007-03-19",
+ "year": "2007",
+ "heading": "DECIZIE nr. 18 din 19 martie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii cu privire la aplicarea dispoziţiilor art. 37 lit. b), în concurs cu cele ale art. 37 lit. a) din Codul penal, atunci când prima condamnare a fost avută în vedere ca prim termen al recidivei postexecutorii în cauza care atrage aplicarea art. 37 lit. a) din acelaşi cod",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "542",
+  "bis": false,
+  "date": "2008-07-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "36/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Stabilesc că în cazul săvârşirii unei noi infracţiuni de către o persoană condamnată definitiv la mai multe pedepse, dintre care unele au fost executate, iar pentru altele durata pedepsei nu s-a împlinit, trebuie să se reţină că acea infracţiune a fost săvârşită atât în condiţiile stării de recidivă postcondamnatorie, cât şi în cele ale stării de recidivă postexecutorie, ceea ce atrage aplicarea concomitentă a dispoziţiilor art. 37 lit. a) şi b) din Codul penal.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "mo: date 2008-07-17 vs catalogue DataVigoare 2008-03-28"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95696",
+  "text_sha256": "b4871b3ee7a220a9527fb0357d4c5ab45c087e96b146b258047cd6e2c2958476",
+  "catalogue_sha256": "b4871b3ee7a220a9527fb0357d4c5ab45c087e96b146b258047cd6e2c2958476",
+  "fetched": "2026-11-03T00:30:45Z",
+  "chars": 11029,
+  "portal_id": "95696",
+  "tip": "DECIZIE"
+ }
+}
