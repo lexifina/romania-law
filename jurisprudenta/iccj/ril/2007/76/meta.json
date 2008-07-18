@@ -1,0 +1,144 @@
+{
+ "key": "iccj-ril-76-2007",
+ "label": "Decizia ÎCCJ nr. LXXVI/2007 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "76",
+ "number_printed": "LXXVI",
+ "date": "2007-11-05",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXXVI (76) din 5 noiembrie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii privind la aplicarea dispoziţiilor art. 145 şi 145^1 din Codul de procedură penală, în cazul măsurilor preventive constând în obligarea de a nu părăsi localitatea sau ţara",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "545",
+  "bis": false,
+  "date": "2008-07-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "49/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 145 şi 145^1 din Codul de procedură penală se interpretează în sensul că:",
+  "Măsurile preventive referitoare la obligarea de a nu părăsi localitatea sau ţara dispuse ori prelungite fie de procuror, fie de judecător, în cursul urmăririi penale, după sesizarea instanţei prin rechizitoriu, nu pot fi prelungite sau menţinute de către instanţa de judecată, urmând a fi discutată luarea acestora, dacă sunt întrunite condiţiile prevăzute în art. 143 alin. 1 din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95773",
+  "text_sha256": "c2a40345f8e9be739acf1594d8aeb50d1f0fdcb91dc626681fd6353621fe4987",
+  "catalogue_sha256": "c2a40345f8e9be739acf1594d8aeb50d1f0fdcb91dc626681fd6353621fe4987",
+  "fetched": "2026-11-03T00:30:47Z",
+  "chars": 9074,
+  "portal_id": "95773",
+  "tip": "DECIZIE"
+ }
+}
