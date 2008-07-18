@@ -1,0 +1,152 @@
+{
+ "key": "iccj-ril-75-2007",
+ "label": "Decizia ÎCCJ nr. LXXV/2007 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "75",
+ "number_printed": "LXXV",
+ "date": "2007-11-05",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXXV (75) din 5 noiembrie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii privind compunerea termenului de încercare al suspendării sub supraveghere a executării pedepsei aplicate minorului",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "545",
+  "bis": false,
+  "date": "2008-07-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "46/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "110-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 110^1 alin. 1 din Codul penal se interpretează în sensul că în cazul suspendării executării pedepsei închisorii sub supraveghere sau sub control aplicate inculpatului minor, instanţa va stabili un termen de încercare în condiţiile art. 110 din acelaşi cod, şi nu potrivit art. 86^2 alin. 1 din Codul penal.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "110-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95772",
+  "text_sha256": "23640c998f68617fa15aaf8bd6fea22f318bc189b4d43f5eb0762950d7d4d85d",
+  "catalogue_sha256": "23640c998f68617fa15aaf8bd6fea22f318bc189b4d43f5eb0762950d7d4d85d",
+  "fetched": "2026-11-03T00:30:47Z",
+  "chars": 7981,
+  "portal_id": "95772",
+  "tip": "DECIZIE"
+ }
+}
