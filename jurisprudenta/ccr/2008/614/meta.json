@@ -1,0 +1,183 @@
+{
+ "key": "dcc-614-2008",
+ "label": "Decizia CCR nr. 614/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "614",
+ "date": "2008-05-27",
+ "year": "2008",
+ "heading": "DECIZIE nr. 614 din 27 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 108 alin. 4, art. 268 alin. 3 şi art. 723 alin. 1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "550",
+  "bis": false,
+  "date": "2008-07-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "723",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 108 alin. 4, art. 268 alin. 3 şi art. 723 alin. 1 din Codul de procedură civilă, excepţie ridicată de Gheorghiţa Stan în Dosarul nr. 4.616,1/42/2006 al Curţii de Apel Ploieşti - Secţia civilă şi pentru cauze cu minori şi de familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "723",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95798",
+  "text_sha256": "bf9b5a29858ec14984f726d9b633fe5e26e5bfd9a335327280b8796e032cd913",
+  "catalogue_sha256": "bf9b5a29858ec14984f726d9b633fe5e26e5bfd9a335327280b8796e032cd913",
+  "fetched": "2026-11-03T00:30:47Z",
+  "chars": 10194,
+  "portal_id": "95798",
+  "tip": "DECIZIE"
+ }
+}
