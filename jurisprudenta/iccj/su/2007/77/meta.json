@@ -1,0 +1,281 @@
+{
+ "key": "iccj-su-77-2007",
+ "label": "Decizia ÎCCJ nr. LXXVII/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "77",
+ "number_printed": "LXXVII",
+ "date": "2007-11-05",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXXVII (77) din 5 noiembrie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii, cu privire la aplicabilitatea dispoziţiilor art. 34 alin. (2) din Legea nr. 188/1999 privind statutul funcţionarilor publici",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "553",
+  "bis": false,
+  "date": "2008-07-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "43/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 34 alin. (2) [(devenit art. 35 alin. 2)] din Legea nr. 188/1999 privind statutul funcţionarilor publici, republicată, se interpretează în sensul că:",
+  "Prima de concediu, reprezentând o sumă egală cu salariul de bază din luna anterioară plecării în concediu, se cuvenea acestei categorii de personal.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 744/2001",
+    "number": "744",
+    "year": "2001",
+    "path": "lege/2001/744"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 631/2002",
+    "number": "631",
+    "year": "2002",
+    "path": "lege/2002/631"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 507/2003",
+    "number": "507",
+    "year": "2003",
+    "path": "lege/2003/507"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 511/2004",
+    "number": "511",
+    "year": "2004",
+    "path": "lege/2004/511"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95829",
+  "text_sha256": "4431e9859d5bc12610b8315a6c8da301132741ec292407479334a66c36e7fc29",
+  "catalogue_sha256": "4431e9859d5bc12610b8315a6c8da301132741ec292407479334a66c36e7fc29",
+  "fetched": "2026-11-03T00:30:50Z",
+  "chars": 8200,
+  "portal_id": "95829",
+  "tip": "DECIZIE"
+ }
+}
