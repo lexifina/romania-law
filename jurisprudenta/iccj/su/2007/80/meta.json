@@ -1,0 +1,193 @@
+{
+ "key": "iccj-su-80-2007",
+ "label": "Decizia ÎCCJ nr. LXXX/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "80",
+ "number_printed": "LXXX",
+ "date": "2007-11-05",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXXX(80) din 5 noiembrie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii, declarat de Colegiul de conducere al Curţii de Apel Alba Iulia, cu privire la aplicarea dispoziţiilor art. 30 alin. (1) şi (2) din Legea nr. 359/2004 privind simplificarea formalităţilor la înregistrarea în registrul comerţului a persoanelor fizice, asociaţiilor familiale şi persoanelor juridice, înregistrarea fiscală a acestora, precum şi la autorizarea funcţionării persoanelor juridice, coroborate cu prevederile art. 236 alin. (1) din Legea nr. 31/1990 privind societăţile comerciale",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "553",
+  "bis": false,
+  "date": "2008-07-22",
+  "part": "I"
+ },
+ "outcome": "other",
+ "partly": false,
+ "dossiers": [
+  "51/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 359/2004",
+    "number": "359",
+    "year": "2004",
+    "path": "lege/2004/359"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "236",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Resping recursul în interesul legii declarat de Colegiul de conducere al Curţii de Apel Alba Iulia cu privire la aplicarea dispoziţiilor art. 30 alin. (1) şi (2) din Legea nr. 359/2004 privind simplificarea formalităţilor la înregistrarea în registrul comerţului a persoanelor fizice, asociaţiilor familiale şi persoanelor juridice, înregistrarea fiscală a acestora, precum şi la autorizarea funcţionării persoanelor juridice, coroborate cu prevederile art. 236 alin. (1) din Legea nr. 31/1990 privind societăţile comerciale, republicată, cu modificările şi completările ulterioare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 359/2004",
+    "number": "359",
+    "year": "2004",
+    "path": "lege/2004/359"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "236",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 441/2006",
+    "number": "441",
+    "year": "2006",
+    "path": "lege/2006/441"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "outcome: not detected"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/95831",
+  "text_sha256": "b65e181dca96cd669b725b3e008dc1a725c30d10c1240edfd4d15477013ac2ba",
+  "catalogue_sha256": "b65e181dca96cd669b725b3e008dc1a725c30d10c1240edfd4d15477013ac2ba",
+  "fetched": "2026-11-03T00:30:50Z",
+  "chars": 12001,
+  "portal_id": "95831",
+  "tip": "DECIZIE"
+ }
+}
