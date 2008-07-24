@@ -1,0 +1,204 @@
+{
+ "key": "cedo-10443-03-2007-12-20",
+ "label": "CEDO, Iosif şi alţii c. României, 2007-12-20",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-12-20",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 20 decembrie 2007",
+ "subtitle": "în Cauza Iosif şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA a III-a",
+ "mo": {
+  "number": "561",
+  "bis": false,
+  "date": "2008-07-24",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "10443/03"
+ ],
+ "case_name": "Iosif şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 § 1 din Convenţie privind dreptul de acces la o instanţă şi pe art. 1 din Protocolul nr. 1 la Convenţie şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie din cauza anulării acţiunii reclamanţilor pentru neplata cauţiunii; 3. hotărăşte că nu este cazul să statueze asupra capătului de cerere întemeiat pe art. 6 § 1 din Convenţie referitor la refuzul Curţii Supreme de Justiţie de a trimite dosarul în faţa Curţii Constituţionale; 4. hotărăşte că nu este cazul să statueze asupra capătului de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie; 5. hotărăşte",
+  "a) ca statul pârât să asigure redeschiderea procedurii în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, dacă reclamanţii doresc acest lucru, şi să le plătească simultan următoarele sume:",
+  "(i) 5.000 EUR (cinci mii euro) cu titlu de daune morale; (îi) 2.500 EUR (două mii cinci sute euro) cu titlu de cheltuieli de judecată;",
+  "b) ca sumele respective să fie convertite în moneda statului pârât, la cursul de schimb valabil la data plăţii, la care să fie adăugată orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "6. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 51/1998",
+    "number": "51",
+    "year": "1998",
+    "path": "oug/1998/51"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96006",
+  "text_sha256": "343a83d4c57431e0a7c9972621b8abd28cf4df4f67188501fd6946d576404ef2",
+  "catalogue_sha256": "343a83d4c57431e0a7c9972621b8abd28cf4df4f67188501fd6946d576404ef2",
+  "fetched": "2026-11-03T00:30:58Z",
+  "chars": 41275,
+  "portal_id": "96006",
+  "tip": "HOTĂRÂRE"
+ }
+}
