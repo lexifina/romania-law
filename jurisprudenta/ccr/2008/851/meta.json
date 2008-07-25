@@ -1,0 +1,280 @@
+{
+ "key": "dcc-851-2008",
+ "label": "Decizia CCR nr. 851/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "851",
+ "date": "2008-07-08",
+ "year": "2008",
+ "heading": "DECIZIE nr. 851 din 8 iulie 2008",
+ "subtitle": "referitoare la respingerea excepţiei de neconstituţionalitate a dispoziţiilor art. 26 alin. (1) şi (1^2) din Ordonanţa de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase şi pietrelor preţioase în România şi ale art. 3 din Decretul nr. 167/1958 privind prescripţia extinctivă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "563",
+  "bis": false,
+  "date": "2008-07-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "427/302/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 26 alin. (1) şi (1^2) din Ordonanţa de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase şi pietrelor preţioase în România, excepţie ridicată de Iosif Jager în Dosarul nr. 427/302/2007 al Tribunalului Bucureşti - Secţia a IV-a civilă. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 3 din Decretul nr. 167/1958 privind prescripţia extinctivă, excepţie ridicată de acelaşi autor în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 638/1946",
+    "number": "638",
+    "year": "1946",
+    "path": "lege/1946/638"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 284/1947",
+    "number": "284",
+    "year": "1947",
+    "path": "lege/1947/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 83/1949",
+    "number": "83",
+    "year": "1949",
+    "path": "decret/1949/83"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 111/1951",
+    "number": "111",
+    "year": "1951",
+    "path": "decret/1951/111"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 210/1960",
+    "number": "210",
+    "year": "1960",
+    "path": "decret/1960/210"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 302/1965",
+    "number": "302",
+    "year": "1965",
+    "path": "decret/1965/302"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 244/1978",
+    "number": "244",
+    "year": "1978",
+    "path": "decret/1978/244"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96013",
+  "text_sha256": "b624261a9f20a7dee1175a512ee9f6f2fa11884f3d544bc432df4d36463fa460",
+  "catalogue_sha256": "b624261a9f20a7dee1175a512ee9f6f2fa11884f3d544bc432df4d36463fa460",
+  "fetched": "2026-11-03T00:31:02Z",
+  "chars": 12076,
+  "portal_id": "96013",
+  "tip": "DECIZIE"
+ }
+}
