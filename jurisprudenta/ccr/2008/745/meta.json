@@ -1,0 +1,166 @@
+{
+ "key": "dcc-745-2008",
+ "label": "Decizia CCR nr. 745/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "745",
+ "date": "2008-06-24",
+ "year": "2008",
+ "heading": "DECIZIE nr. 745 din 24 iunie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare şi a tarifului de trecere pe reţeaua de drumuri naţionale din România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "569",
+  "bis": false,
+  "date": "2008-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "16.022/212/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare şi a tarifului de trecere pe reţeaua de drumuri naţionale din România, excepţie ridicată de Societatea Comercială \"Rodicaz Trans\" - S.R.L. din Comuna Cobadin, judeţul Constanţa, în Dosarul nr. 16.022/212/2007 al Judecătoriei Constanţa - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 415/2004",
+    "number": "415",
+    "year": "2004",
+    "path": "lege/2004/415"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2007",
+    "number": "101",
+    "year": "2007",
+    "path": "lege/2007/101"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 157/2007",
+    "number": "157",
+    "year": "2007",
+    "path": "oug/2007/157"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96169",
+  "text_sha256": "3f39aa9a34d9cc7233716f6842adc470ae8be2c435105db451694610b74cb5c0",
+  "catalogue_sha256": "3f39aa9a34d9cc7233716f6842adc470ae8be2c435105db451694610b74cb5c0",
+  "fetched": "2026-11-03T00:31:09Z",
+  "chars": 9551,
+  "portal_id": "96169",
+  "tip": "DECIZIE"
+ }
+}
