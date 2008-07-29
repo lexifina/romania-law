@@ -1,0 +1,128 @@
+{
+ "key": "iccj-su-28-2007",
+ "label": "Decizia ÎCCJ nr. XXVIII/2007 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "28",
+ "number_printed": "XXVIII",
+ "date": "2007-04-16",
+ "year": "2007",
+ "heading": "DECIZIE nr. XXVIII (28) din 16 aprilie 2007",
+ "subtitle": "pentru examinarea recursului în interesul legii, cu privire la admisibilitatea căii de atac a recursului declarat împotriva hotărârii instanţei de fond prin care s-a dispus restituirea dosarului la procuror",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "570",
+  "bis": false,
+  "date": "2008-07-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "53/2006"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Stabilesc că hotărârea instanţei de fond prin care s-a dispus restituirea dosarului procurorului, în vederea refacerii actului de sesizare, în temeiul art. 300 alin. 2 din Codul de procedură penală, este supusă căii ordinare de atac a recursului într-un termen de 3 zile de la pronunţare pentru cei prezenţi şi de la comunicare pentru cei lipsă, potrivit art. 332 alin. 4 din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "300",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "332",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96129",
+  "text_sha256": "eb6b30174603bc5e769e0e3a0602bdcf3e38ff356661fcc6a3e038b548a42c16",
+  "catalogue_sha256": "eb6b30174603bc5e769e0e3a0602bdcf3e38ff356661fcc6a3e038b548a42c16",
+  "fetched": "2026-11-03T00:31:07Z",
+  "chars": 9243,
+  "portal_id": "96129",
+  "tip": "DECIZIE"
+ }
+}
