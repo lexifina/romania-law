@@ -1,0 +1,2 @@
+# Anexa 6.1
+PROGRESIE ATELAJE
