@@ -1,0 +1,213 @@
+{
+ "key": "dcc-697-2008",
+ "label": "Decizia CCR nr. 697/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "697",
+ "date": "2008-06-17",
+ "year": "2008",
+ "heading": "DECIZIE nr. 697 din 17 iunie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "570",
+  "bis": false,
+  "date": "2008-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.335/42/2007",
+  "3.809/2/2007",
+  "1.387/259/2007",
+  "10.365/1/2007",
+  "2.359/54/2007",
+  "1.476/44/2007",
+  "12D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 din Codul de procedură penală, excepţie ridicată de Societatea Agricolă \"Inoteşti\" din comuna Colceag, judeţul Prahova, în Dosarul nr. 1.335/42/2007 al Curţii de Apel Ploieşti - Secţia penală şi pentru cauze cu minori şi de familie, de Constantin Virgil Manea în Dosarul nr. 3.809/2/2007 (nr. în format vechi 1.351/2007) al Curţii de Apel Bucureşti - Secţia I penală, de Marin Duţă şi de Societatea Agricolă \"Inoteşti\" din comuna Colceag, judeţul Prahova, în Dosarul nr. 1.387/259/2007 al Tribunalului Prahova - Secţia penală, de Constantin Virgil Manea în Dosarul nr. 10.365/1/2007, de Marin Duţă în dosarele nr. 6.793/1/2007 şi nr. 6.795/1/2007, de Ion Mladin în Dosarul nr. 2.359/54/2007 şi de Societatea Comercială \"Cătălina Impex\" - S.R.L. din Vaslui, judeţul Vaslui, în Dosarul nr. 1.476/44/2007, toate aceste din urmă dosare fiind ale Înaltei Curţi de Casaţie şi Justiţie - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96189",
+  "text_sha256": "c281b269d2e10655632886d52054dba5f16c9396037fa21ff02722e3c05b14b8",
+  "catalogue_sha256": "c281b269d2e10655632886d52054dba5f16c9396037fa21ff02722e3c05b14b8",
+  "fetched": "2026-11-03T00:31:10Z",
+  "chars": 20552,
+  "portal_id": "96189",
+  "tip": "DECIZIE"
+ }
+}
