@@ -1,0 +1,165 @@
+{
+ "key": "dcc-792-2008",
+ "label": "Decizia CCR nr. 792/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "792",
+ "date": "2008-07-03",
+ "year": "2008",
+ "heading": "DECIZIE nr. 792 din 3 iulie 2008",
+ "subtitle": "referitoare la respingerea excepţiei de neconstituţionalitate a dispoziţiilor art. 12 şi art. 13 din Ordonanţa de urgenţă a Guvernului nr. 115/2004 privind salarizarea şi alte drepturi ale personalului contractual din unităţile sanitare publice din sectorul sanitar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "571",
+  "bis": false,
+  "date": "2008-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.658/63/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 115/2004",
+    "number": "115",
+    "year": "2004",
+    "path": "oug/2004/115"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 12 şi art. 13 din Ordonanţa de urgenţă a Guvernului nr. 115/2004 privind salarizarea şi alte drepturi ale personalului contractual din unităţile sanitare publice din sectorul sanitar, excepţie ridicată de Oana Dana Panait în Dosarul nr. 5.658/63/2007 al Curţii de Apel Craiova - Secţia conflicte de muncă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 115/2004",
+    "number": "115",
+    "year": "2004",
+    "path": "oug/2004/115"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96126",
+  "text_sha256": "4819be7cbdae13e4c296bdd07edc1bf8bf249a7dd6a5c5a3dd722320e1755dbb",
+  "catalogue_sha256": "4819be7cbdae13e4c296bdd07edc1bf8bf249a7dd6a5c5a3dd722320e1755dbb",
+  "fetched": "2026-11-03T00:31:09Z",
+  "chars": 14460,
+  "portal_id": "96126",
+  "tip": "DECIZIE"
+ }
+}
