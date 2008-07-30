@@ -1,0 +1,188 @@
+{
+ "key": "dcc-813-2008",
+ "label": "Decizia CCR nr. 813/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "813",
+ "date": "2008-07-03",
+ "year": "2008",
+ "heading": "DECIZIE nr. 813 din 3 iulie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 lit. c) din Legea nr. 146/1997 privind taxele judiciare de timbru",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "574",
+  "bis": false,
+  "date": "2008-07-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.370/299/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 3 lit. c) din Legea nr. 146/1997 privind taxele judiciare de timbru, excepţie ridicată de Alina Cosette Grecu în Dosarul nr. 3.370/299/2008 al Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-07-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96232",
+  "text_sha256": "b8980ffdfe0a5d0564e11558e433f36dd2e9b3cf54ff96ae5a45dd97a40c1316",
+  "catalogue_sha256": "b8980ffdfe0a5d0564e11558e433f36dd2e9b3cf54ff96ae5a45dd97a40c1316",
+  "fetched": "2026-11-03T00:31:12Z",
+  "chars": 13189,
+  "portal_id": "96232",
+  "tip": "DECIZIE"
+ }
+}
