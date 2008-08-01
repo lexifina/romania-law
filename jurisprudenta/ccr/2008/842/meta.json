@@ -1,0 +1,219 @@
+{
+ "key": "dcc-842-2008",
+ "label": "Decizia CCR nr. 842/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "842",
+ "date": "2008-07-08",
+ "year": "2008",
+ "heading": "DECIZIE nr. 842 din 8 iulie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 48 din Legea fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "580",
+  "bis": false,
+  "date": "2008-08-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.242/190/2007",
+  "917D/2008",
+  "1.143D/2008",
+  "1.192D/2008",
+  "1.133D/2008",
+  "1.177D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a art. 48 din Legea fondului funciar nr. 18/1991, excepţie ridicată de Gobbel Horst, Reinhardt Thomas Gobbel, Neff Iosef, Jahraus Johann, Erdelyi Helene Margaretha Esthera, Ducker Eduard, precum şi de Judecătoria Arad - Secţia civilă şi de Tribunalul Timiş - Secţia civilă, din oficiu, în dosarele nr. 3.242/190/2007, nr. 3.243/190/2007 al Judecătoriei Bistriţa - Secţia civilă, nr. 4.097/325/2006 şi nr. 394/220/2007, ale Tribunalului Timiş - Secţia civilă, nr. 1.431/55/2008, nr. 1.165/55/2008 şi nr. 523/55/2008 ale Judecătoriei Arad - Secţia civilă, precum şi nr. 3.077/325/2007 al Judecătoriei Timişoara.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/1945",
+    "number": "187",
+    "year": "1945",
+    "path": "lege/1945/187"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-08-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96316",
+  "text_sha256": "8fcea13928c114e3c112100dcf3cd37502209eeca9b9ee610255e837541913c3",
+  "catalogue_sha256": "8fcea13928c114e3c112100dcf3cd37502209eeca9b9ee610255e837541913c3",
+  "fetched": "2026-11-03T00:31:20Z",
+  "chars": 13734,
+  "portal_id": "96316",
+  "tip": "DECIZIE"
+ }
+}
