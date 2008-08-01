@@ -1,0 +1,201 @@
+{
+ "key": "dcc-572-2008",
+ "label": "Decizia CCR nr. 572/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "572",
+ "date": "2008-05-15",
+ "year": "2008",
+ "heading": "DECIZIE nr. 572 din 15 mai 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 317, art. 318 alin. 1 şi art. 320 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "580",
+  "bis": false,
+  "date": "2008-08-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.629/1/2007",
+  "10.944/193/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "318",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "320",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 318 alin. 1 şi art. 320 alin. 3 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Cristescu Oil\" - S.R.L. din Cornea în Dosarul nr. 5.629/1/2007 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal, şi a prevederilor art. 317, art. 318 alin. 1 şi art. 320, excepţie ridicată de Sergiu Ciobanu în Dosarul nr. 10.944/193/2007 al Judecătoriei Botoşani.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "318",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "320",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 138/2000",
+    "number": "138",
+    "year": "2000",
+    "path": "oug/2000/138"
+   },
+   "articles": [
+    {
+     "art": "318",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-08-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96401",
+  "text_sha256": "1280096f7e5318fb48b899dc0023fd39ea4400aa15ab8518d8b64afccc2060b4",
+  "catalogue_sha256": "1280096f7e5318fb48b899dc0023fd39ea4400aa15ab8518d8b64afccc2060b4",
+  "fetched": "2026-11-05T07:31:33Z",
+  "chars": 12825,
+  "portal_id": "96401",
+  "tip": "DECIZIE"
+ }
+}
