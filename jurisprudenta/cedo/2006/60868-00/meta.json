@@ -1,0 +1,234 @@
+{
+ "key": "cedo-60868-00-2006-06-08",
+ "label": "CEDO, Vlasia Grigore Vasilescu c. României, 2006-06-08",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-06-08",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 8 iunie 2006",
+ "subtitle": "în Cauza Vlasia Grigore Vasilescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA ÎNTÂI",
+ "mo": {
+  "number": "587",
+  "bis": false,
+  "date": "2008-08-05",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "60868/00"
+ ],
+ "case_name": "Vlasia Grigore Vasilescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 2. hotărăşte că nu este cazul să analizeze dacă a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte că nu este cazul să acorde nicio sumă în temeiul art. 41 din Convenţie. Redactată în limba franceză, apoi comunicată în scris la data de 8 iunie 2006, în conformitate cu art. 77 §§ 2 şi 3 din Regulament.",
+  "Christos Rozakis, preşedinte Soren Nielsen, grefier ----"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 218/1960",
+    "number": "218",
+    "year": "1960",
+    "path": "decret/1960/218"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 712/1966",
+    "number": "712",
+    "year": "1966",
+    "path": "decret/1966/712"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96252",
+  "text_sha256": "05f321a8306ec908d898ab6be39edf030ee3af3fb34c41d5d6b4e186f60a73fa",
+  "catalogue_sha256": "05f321a8306ec908d898ab6be39edf030ee3af3fb34c41d5d6b4e186f60a73fa",
+  "fetched": "2026-11-03T00:31:21Z",
+  "chars": 26346,
+  "portal_id": "96252",
+  "tip": "HOTĂRÂRE"
+ }
+}
