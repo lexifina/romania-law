@@ -1,0 +1,245 @@
+{
+ "key": "dcc-866-2008",
+ "label": "Decizia CCR nr. 866/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "866",
+ "date": "2008-07-10",
+ "year": "2008",
+ "heading": "DECIZIE nr. 866 din 10 iulie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 317 şi ale art. 337 alin. 1 din Codul de procedură penală şi ale art. I pct. 158 din Legea nr. 356/2006 pentru modificarea şi completarea Codului de procedură penală, precum şi pentru modificarea altor legi",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "590",
+  "bis": false,
+  "date": "2008-08-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.608/311/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 317 şi ale art. 337 alin. 1 din Codul de procedură penală şi ale art. I pct. 158 din Legea nr. 356/2006 pentru modificarea şi completarea Codului de procedură penală, precum şi pentru modificarea altor legi, excepţie ridicată de Viorel Stoican şi Iuliana Neaga în Dosarul nr. 5.608/311/2006 al Curţii de Apel Craiova - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "333",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "332",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-08-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96417",
+  "text_sha256": "ced2ce68df9ef6e8cd4ca6687a15f9107b060eb8415775b2124ca2f621e06b54",
+  "catalogue_sha256": "ced2ce68df9ef6e8cd4ca6687a15f9107b060eb8415775b2124ca2f621e06b54",
+  "fetched": "2026-11-03T00:31:25Z",
+  "chars": 11582,
+  "portal_id": "96417",
+  "tip": "DECIZIE"
+ }
+}
