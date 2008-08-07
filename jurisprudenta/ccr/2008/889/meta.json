@@ -1,0 +1,173 @@
+{
+ "key": "dcc-889-2008",
+ "label": "Decizia CCR nr. 889/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "889",
+ "date": "2008-07-10",
+ "year": "2008",
+ "heading": "DECIZIE nr. 889 din 10 iulie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 5 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 214/1999 privind acordarea calităţii de luptător în rezistenţa anticomunistă persoanelor condamnate pentru infracţiuni săvârşite din motive politice, persoanelor împotriva cărora au fost dispuse, din motive politice, măsuri administrative abuzive, precum şi persoanelor care au participat la acţiuni de împotrivire cu arme şi de răsturnare prin forţă a regimului comunist instaurat în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "593",
+  "bis": false,
+  "date": "2008-08-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "740/45/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 214/1999",
+    "number": "214",
+    "year": "1999",
+    "path": "oug/1999/214"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 5 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 214/1999 privind acordarea calităţii de luptător în rezistenţa anticomunistă persoanelor condamnate pentru infracţiuni săvârşite din motive politice, persoanelor împotriva cărora au fost dispuse, din motive politice, măsuri administrative abuzive, precum şi persoanelor care au participat la acţiuni de împotrivire cu arme şi de răsturnare prin forţă a regimului comunist instaurat în România, excepţie ridicată de Ioan Brăescu, Ioan Iulian Brăescu şi Daniel Brăescu în Dosarul nr. 740/45/2007 al Curţii de Apel Iaşi - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 214/1999",
+    "number": "214",
+    "year": "1999",
+    "path": "oug/1999/214"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 173/2006",
+    "number": "173",
+    "year": "2006",
+    "path": "lege/2006/173"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-08-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96451",
+  "text_sha256": "a58560574f18738c391a069cc50006f15a13cde629cd096fde591adcb0435b85",
+  "catalogue_sha256": "a58560574f18738c391a069cc50006f15a13cde629cd096fde591adcb0435b85",
+  "fetched": "2026-11-03T00:31:26Z",
+  "chars": 11054,
+  "portal_id": "96451",
+  "tip": "DECIZIE"
+ }
+}
