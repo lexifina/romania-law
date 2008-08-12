@@ -1,0 +1,13 @@
+# Anexa 4
+DECLARAȚIE PE PROPRIA RĂSPUNDERE DE CONFORMITATE cu privire la ingredientele utilizate în procesul de fabricație a produselor din tutun
+Subsemnatul/Subsemnata,.................................................., (numele și prenumele declarantului) având cartea de identitate/ buletinul de identitate seria..... nr........., eliberată/eliberat de.................... la data de......................, cu funcția de........................... la..............................., (producătorul sau importatorul produsului din tutun) în conformitate cu prevederile art. 8 alin. 1 din Ordinul ministrului sănătății publice nr. 1.349/2008, declar pe propria răspundere că:
+1. listele cuprinse în dosarul produsului din tutun sunt completate în mod real și complet, pe baza tuturor informațiilor disponibile la momentul depunerii dosarului;
+2. produsul din tutun este conform cu informațiile cuprinse în dosar;
+3. am luat cunoștință de faptul că declararea de date nereale, incomplete sau greșite atrage răspunderea penală și se pedepsește conform art. 292 din
+Codul penal.
+Declarația de mai sus este valabilă pentru următoarele produse din tutun: (Se vor menționa numele produselor din tutun pentru care se depun dosarele, în funcție de tip și marcă.)
+-.......................................................................
+-.......................................................................
+-.......................................................................
+Data declarației
+Semnătura declarantului...................................................
