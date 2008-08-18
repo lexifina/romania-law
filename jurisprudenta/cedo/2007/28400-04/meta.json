@@ -1,0 +1,222 @@
+{
+ "key": "cedo-28400-04-2007-10-11",
+ "label": "CEDO, Fischer c. României, 2007-10-11",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-10-11",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 11 octombrie 2007",
+ "subtitle": "Cauza Fischer împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "609",
+  "bis": false,
+  "date": "2008-08-18",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "28400/04"
+ ],
+ "case_name": "Fischer",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 alin. 1 din Convenţie în ceea ce priveşte echitatea procedurii; 3. hotărăşte că nu este necesar să analizeze capătul de cerere întemeiat pe art. 6 alin. 1 din Convenţie în ceea ce priveşte durata procedurii; 4. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 5. hotărăşte",
+  "a) ca statul pârât să îi restituie reclamantului imobilul situat în Alba Iulia, str. Gheorghe Doja nr. 3b în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 alin. 2 din Convenţie;",
+  "b) ca, în lipsa acestei restituiri, statul pârât să îi plătească reclamantului, în acelaşi termen de 3 luni, 95.000 EUR (nouăzeci şi cinci mii euro) cu titlu de daune materiale;",
+  "c) ca, în orice caz, statul pârât să îi plătească reclamantului suma de 5.000 EUR (cinci mii euro) cu titlu de daune morale, precum şi suma de 2.000 EUR (două mii euro) cu titlu de cheltuieli de judecată, plus orice sumă ce ar putea fi datorată cu titlu de impozit pentru sumele menţionate mai sus;",
+  "d) ca sumele respective să fie convertite în dolari americani, la cursul de schimb valabil la data plăţii, la care să fie adăugată orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "6. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96604",
+  "text_sha256": "cd1db6873c4feec697778ad8e82a7a06779ae22cd84d1a1a5310d35e7a94193e",
+  "catalogue_sha256": "cd1db6873c4feec697778ad8e82a7a06779ae22cd84d1a1a5310d35e7a94193e",
+  "fetched": "2026-11-03T00:31:36Z",
+  "chars": 39510,
+  "portal_id": "96604",
+  "tip": "HOTĂRÂRE"
+ }
+}
