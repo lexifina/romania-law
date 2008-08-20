@@ -1,0 +1,161 @@
+{
+ "key": "cedo-20517-02-2008-02-07",
+ "label": "CEDO, Buttu şi Bobulescu c. României, 2008-02-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-02-07",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 7 februarie 2008",
+ "subtitle": "în Cauza Buttu şi Bobulescu împotriva României (nr. 1)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "613",
+  "bis": false,
+  "date": "2008-08-20",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "20517/02"
+ ],
+ "case_name": "Buttu şi Bobulescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "ÎN UNANIMITATE, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte",
+  "a) ca statul pârât să restituie reclamanţilor partea din apartament compusă din 108,11 mp, suprafaţă locuibilă, şi 21,212 mp de teren aferent, situată în Bucureşti, bd. Hristo Botev nr. 13, la parter, în cel mult 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 alin. 2 din Convenţie;",
+  "b) ca, în lipsa acestei restituiri, statul pârât să le plătească împreună reclamanţilor, în acelaşi termen de 3 luni, 126.458 EUR (una sută douăzeci şi şase mii patru sute cincizeci şi opt euro) cu titlu de daune materiale;",
+  "c) ca, în orice caz, statul pârât să le plătească reclamanţilor suma de 2.000 EUR (două mii euro) cu titlu de daune morale;",
+  "d) ca la sumele de mai sus să fie adăugată orice sumă ce ar putea fi datorată cu titlu de impozit şi ca aceste sume să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu trei puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 139/1940",
+    "number": "139",
+    "year": "1940",
+    "path": "lege/1940/139"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96727",
+  "text_sha256": "34abe0ff622120b2046db1a0a9398a207b1a834251f476bb0bcb215f5a005fe7",
+  "catalogue_sha256": "34abe0ff622120b2046db1a0a9398a207b1a834251f476bb0bcb215f5a005fe7",
+  "fetched": "2026-11-03T00:31:40Z",
+  "chars": 19107,
+  "portal_id": "96727",
+  "tip": "HOTĂRÂRE"
+ }
+}
