@@ -1,0 +1,192 @@
+{
+ "key": "cedo-30658-05-2007-12-06",
+ "label": "CEDO, Beian c. României, 2007-12-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-12-06",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 6 decembrie 2007",
+ "subtitle": "în Cauza Beian împotriva României (nr. 1)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "616",
+  "bis": false,
+  "date": "2008-08-21",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "30658/05"
+ ],
+ "case_name": "Beian",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA, ÎN UNANIMITATE, 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 alin. 1 din Convenţie şi pe art. 1 din Protocolul nr. 1 la Convenţie coroborat cu art. 14 din Convenţie şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 alin. 1 din Convenţie; 3. hotărăşte că nu se impune să examineze şi capătul de cerere întemeiat pe art. 6 alin. 1 din Convenţie referitor la pretinsa lipsă de independenţă şi imparţialitate a instanţelor interne; 4. hotărăşte că a avut loc încălcarea art. 14 din Convenţie coroborat cu art. 1 din Protocolul nr. 1 la Convenţie; 5. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 alin. 2 din Convenţie, 5.000 EUR (cinci mii euro) pentru toate prejudiciile suferite;",
+  "b) ca suma respectivă să fie convertită în moneda statului pârât, la cursul de schimb valabil la data plăţii, la care se va adăuga orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu trei puncte procentuale;",
+  "6. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 309/2002",
+    "number": "309",
+    "year": "2002",
+    "path": "lege/2002/309"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96741",
+  "text_sha256": "27ce4a76cd84609bae0e529aea94de917bf4da17235669bf1324648e10985864",
+  "catalogue_sha256": "27ce4a76cd84609bae0e529aea94de917bf4da17235669bf1324648e10985864",
+  "fetched": "2026-11-03T00:31:42Z",
+  "chars": 32771,
+  "portal_id": "96741",
+  "tip": "HOTĂRÂRE"
+ }
+}
