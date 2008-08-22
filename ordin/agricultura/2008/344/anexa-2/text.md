@@ -1,0 +1,6 @@
+# Anexa 2
+Filiala A.N.P.A............. Nr....../......./........... NOTĂ DE CONSTATARE Încheiată azi...../....../....... Subsemnatul,........, având funcția de......., verificând autenticitatea și realitatea documentelor, instalațiilor și uneltelor de pescuit în vederea înscrierii în Fișierul navelor și ambarcațiunilor de pescuit, în conformitate cu..................., am constatat următoarele:.............................................................................................................................................................................................................................. Față de cele prezentate consider că:.............................................................................................................................................................................................................................. _________ [] îndeplinește [] nu îndeplinește condițiile pentru înscrierea în Fișierul navelor și ambarcațiunilor de pescuit. Șef serviciu/birou filială,
+Consilier/Referent,................................................... (numele și prenumele) (numele și prenumele)
+Semnătura.............
+Semnătura.....................
+L.S.
