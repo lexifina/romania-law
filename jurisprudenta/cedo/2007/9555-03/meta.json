@@ -1,0 +1,134 @@
+{
+ "key": "cedo-9555-03-2007-10-11",
+ "label": "CEDO, Ştefanescu c. României, 2007-10-11",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-10-11",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 11 octombrie 2007",
+ "subtitle": "în Cauza Ştefanescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "617",
+  "bis": false,
+  "date": "2008-08-22",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "9555/03"
+ ],
+ "case_name": "Ştefanescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "ÎN UNANIMITATE, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 alin. 1 (dreptul de acces la o instanţă) şi pe preambulul Convenţiei şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 alin. 1 din Convenţie (acces la o instanţă); 3. hotărăşte că nu este necesar să analizeze restul capătului de cerere întemeiat pe art. 6 alin. 1 din Convenţie şi nici capătul de cerere întemeiat pe preambulul Convenţiei; 4. hotărăşte",
+  "a) ca statul pârât să execute Decizia din data de 1 februarie 1999 şi să plătească despăgubirile aferente în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 alin. 2 din Convenţie;",
+  "b) ca, în lipsa acestei executări, statul pârât să îi plătească reclamantului, în acelaşi termen de 3 luni, suma de 2.500 EUR (două mii cinci sute euro), cu titlu de daune materiale, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "c) ca, în orice caz, statul pârât să îi plătească reclamantului, în acelaşi termen de 3 luni, suma de 3.500 EUR (trei mii cinci sute euro), cu titlu de daune morale, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "d) ca sumele respective să fie convertite în lei româneşti noi (RON) la cursul de schimb valabil la data plăţii;",
+  "e) ca, începând de la expirarea acestui termen şi până la data plăţii, aceste sume să fie majorate cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 263/1999",
+    "number": "263",
+    "year": "1999",
+    "path": "hg/1999/263"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 3/2001",
+    "number": "3",
+    "year": "2001",
+    "path": "hg/2001/3"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96803",
+  "text_sha256": "a68d0a5b3970063368b942e5cdcc214ee5bddc00fe6e353caef4839934e839a2",
+  "catalogue_sha256": "a68d0a5b3970063368b942e5cdcc214ee5bddc00fe6e353caef4839934e839a2",
+  "fetched": "2026-11-03T00:31:44Z",
+  "chars": 20374,
+  "portal_id": "96803",
+  "tip": "HOTĂRÂRE"
+ }
+}
