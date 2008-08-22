@@ -1,0 +1,225 @@
+{
+ "key": "cedo-27086-02-2007-03-08",
+ "label": "CEDO, Popescu şi Toader c. României, 2007-03-08",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-03-08",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 8 martie 2007",
+ "subtitle": "în Cauza Popescu şi Toader împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "618",
+  "bis": false,
+  "date": "2008-08-22",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "27086/02",
+  "68479/01"
+ ],
+ "case_name": "Popescu şi Toader",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "ÎN UNANIMITATE, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte că nu este necesar să examineze pe fond capătul de cerere întemeiat pe art. 6 alin. 1 din Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să le plătească reclamanţilor împreună, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 alin. 2 din Convenţie:",
+  "(i) 20.000 EUR (douăzeci mii euro) cu titlu de daune materiale şi morale; (îi) 250 EUR (două sute cincizeci euro) cu titlu de cheltuieli de judecată; (iii) orice sumă ce ar putea fi datorată cu titlu de impozit pentru sumele menţionate mai sus;",
+  "b) ca sumele respective să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1950",
+    "number": "92",
+    "year": "1950",
+    "path": "decret/1950/92"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1994",
+    "number": "17",
+    "year": "1994",
+    "path": "lege/1994/17"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2001",
+    "number": "241",
+    "year": "2001",
+    "path": "lege/2001/241"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/96819",
+  "text_sha256": "2f330a03b469c4480bd9fadfbdf155ec9fb368e6ceed91d536b8e8e2ca15f8ef",
+  "catalogue_sha256": "2f330a03b469c4480bd9fadfbdf155ec9fb368e6ceed91d536b8e8e2ca15f8ef",
+  "fetched": "2026-11-03T00:31:46Z",
+  "chars": 26295,
+  "portal_id": "96819",
+  "tip": "HOTĂRÂRE"
+ }
+}
