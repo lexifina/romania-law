@@ -1,0 +1,2 @@
+# Anexa
+LISTA localităților cu condiții deosebite de muncă sau unde atragerea personalului se face cu greutate, în care se află unități sanitare 1. Județul Botoșani - localitatea Podriga 2. Județul Brașov - localitatea Victoria - localitatea Vulcan 3. Județul Dâmbovița - localitatea Moroeni 4. Județul Gorj - localitatea Runcu 5. Județul Hunedoara - localitatea Zam 6. Județul Maramureș - localitatea Poienile de sub Munte 7. Județul Olt - localitatea Schitu Greci 8. Județul Tulcea - localitatea Sulina -----------
