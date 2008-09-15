@@ -1,0 +1,27 @@
+# Anexa 2
+PRINCIPIILE care stau la baza unei alimentații sănătoase pentru copii și adolescenți 1. Caracteristici în alimentația copilului
+a) Nevoile nutriționale ale copiilor diferă în funcție de vârstă.
+b) Un copil crește în salturi, ceea ce se reflectă prin nevoi energetice diferite.
+c) Aportul alimentar este adecvat dacă asigură o creștere staturală și ponderală normală, evidențiată prin compararea parametrilor creșterii cu curbele standard.
+2. Principii în alimentația copilului Alimentația sănătoasă pentru copilul mai mare de 24 de luni implică respectarea unor principii de bază, și anume:
+a) asigurarea unei diversități alimentare, ceea ce înseamnă consumul pe parcursul unei zile de alimente din toate grupele și subgrupele alimentare
+b) asigurarea unei proporționalități între grupele și subgrupele alimentare, adică un aport mai mare de fructe, legume, cereale integrale, lapte și produse lactate, comparativ cu alimentele cu un conținut crescut de grăsimi și adaos de zahăr
+c) consumul moderat al unor produse alimentare, adică alegerea unor alimente cu un aport scăzut de grăsimi saturate (unt, untură, carne grasă) și de zahăr adăugat
+3. Reguli generale privind alimentația copiilor în creșe, unități de învățământ sau alte tipuri de colectivități 1. Conducerile creșelor, unităților de învățământ sau ale oricăror alte tipuri de colectivități de copii și tineri vor asigura o alimentație colectivă adaptată vârstei și stării de sănătate, specificului activității și anotimpului. 2. Meniurile vor asigura un aport caloric și nutritiv în conformitate cu recomandările cuprinse în anexele nr. 3 și 4, proporțional cu timpul petrecut de copil în colectivitate. De exemplu, pentru un program școlar de 6 ore, se recomandă o gustare care să asigure 10% din rația energetică zilnică. 3. În alcătuirea meniului unui copil de peste 2 ani se va utiliza piramida alimentară, cuprinsă în anexa nr. 5.
+a) Piramida alimentară este alcătuită din grupe de alimente cu o repartiție a cantității recomandate a fi consumate sub denumirea de porție nutritivă.
+b) O porție nutritivă este recomandarea cantitativă a unui aliment exprimată în grame sau folosind ca unitate de măsură ceașca.
+c) În cadrul piramidei alimentare, numărul de porții nutritive dintr-o anumită grupă se stabilește în funcție de necesarul de calorii al copilului, care la rândul său depinde de vârstă, sex, dezvoltarea corporală și gradul de activitate.
+4. Se va evita asocierea alimentelor din aceeași grupă la felurile de mâncare servite (de exemplu, la micul dejun nu se va servi ceai cu pâine cu gem, ci cu preparate din carne sau cu derivate lactate; în schimb, se poate folosi lapte cu pâine cu gem sau cu biscuiți; la masa de prânz nu se vor servi felurile 1 și 2 preponderent cu glucide din cereale, de exemplu, supă cu găluște și friptură cu garnitură din paste făinoase, ci din legume). 5. Se vor evita la cină mâncărurile care solicită un efort digestiv puternic sau care au efect excitant ori a căror combinație produce efecte digestive nefavorabile (de exemplu, iahnie de fasole cu iaurt sau cu compot). 6. Mâncărurile gen tocături sunt acceptate numai dacă sunt prelucrate termic prin fierbere sau la cuptor. Ouăle se recomandă a fi servite ca omletă la cuptor și nu ca ochiuri românești sau prăjite. 7. Meniul va fi îmbogățit cu vitamine și săruri minerale prin folosire de salate din crudități și adăugare de legume-frunze în supe și ciorbe. 8. Se interzice folosirea cremelor cu ouă și frișcă, a maionezelor, indiferent de anotimp. 4. Alimentația copilului preșcolar trebuie să respecte următoarele reguli:
+a) Alimentația trebuie să cuprindă o varietate largă de alimente din grupele de bază: pâine, cereale, orez și paste făinoase, vegetale, fructe, lapte, brânză și iaurt, carne, pui, pește și ouă.
+b) Masa trebuie să se servească înainte de a-i fi foarte foame copilului, de a fi obosit sau iritat.
+c) Trebuie să se ofere câteva variante de alimente la alegere și cel puțin un aliment favorit.
+d) Pentru asigurarea rației zilnice de nutrienți, mesele principale vor fi completate cu gustări formate din cereale cu lapte, sandvișuri, fructe, sucuri de fructe, iaurt simplu sau iaurt cu fructe, brânză cu conținut scăzut de sare și grăsimi.
+e) Alimentele din meniu pot să aibă consistență și culori diferite, în vederea stimulării poftei de mâncare.
+f) Cantitatea de mâncare trebuie să fie adecvată vârstei copilului; o modalitate practică de stabilire a cantității de mâncare la copilul mic, în lipsa tabelelor și a graficelor, este de a-i servi o lingură din fiecare grup alimentar pentru fiecare an de vârstă al copilului.
+g) Masa trebuie să se încheie când copilul s-a săturat, devine neliniștit sau nu manifestă interes.
+5. Alimentația copilului școlar trebuie să respecte cu precădere următoarele reguli:
+a) să asigure un necesar de calorii și micronutrienți conform vârstei și ritmului de creștere;
+b) să asigure un aport corespunzător de proteine/zi, prin consumul de carne, ouă, produse lactate, dar și din surse vegetale incluzând fasolea, lintea, produse din soia,
+c) să asigure un aport de fier de 8-15 mg de fier/zi, prin consumul de carne de vacă, pasăre și porc, legumele - inclusiv fasole și alune, cerealele integrale sau fortifiate, vegetale cu frunze verzi;
+d) gustarea să fie formată din fructe, lapte și produse lactate cu un conținut scăzut de grăsime;
+e) să asigure o hidratare corespunzătoare vârstei.
