@@ -1,0 +1,7 @@
+# Anexa nr. 12
+Anexa 12 ──────── (Anexa nr. 45 la Ordinul nr. 490/2008) ────────────────────────────────────── ȘCOALA DE PERFECȚIONARE A CADRELOR POLIȚIEI DE FRONTIERĂ ORȘOVA Însemnul heraldic al Școlii de Perfecționare a Cadrelor Poliției de Frontieră Orșova din cadrul Inspectoratului General al Poliției de Frontieră va păstra în compoziție elemente din stema Ministerului Internelor și Reformei Administrative, după cum urmează: în scutul exterior, pe albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei se află un scut tăiat în furcă răsturnată: în cartierul 1, pe roșu, o albină de argint; în cartierul 2, pe albastru, o carte deschisă, de asemenea, de argint, iar în cartierul 3, pe verde, o bornă de hotar, din același metal, având în partea superioară două spade albastre, încrucișate în săritoare, iar în cea inferioară o ancoră neagră. În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: VIRTUTE ET SAPIENTIA (VIRTUTE ȘI ÎNȚELEPCIUNE) 19-94. Semnificația elementelor însumate:
+a) borna cu ancora - evocă ideea de pază și control pentru granițele țării;
+b) spadele încrucișate - capacitatea de a judeca, de a separa vinovăția de inocență, sugerând în ansamblu ideea de străjuire permanentă a hotarelor țării;
+c) albina de argint - inteligență și îndemânare;
+d) cartea - știință, învățământ, individualizând menirea unității;
+e) 1994 - anul de fondare a unității.

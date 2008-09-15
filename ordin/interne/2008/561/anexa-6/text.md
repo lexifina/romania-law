@@ -1,0 +1,5 @@
+# Anexa nr. 6
+Anexa 6 ─────── (Anexa nr. 39 la Ordinul nr. 490/2008) ────────────────────────────────────── DIRECȚIA GENERALĂ DE JANDARMI A MUNICIPIULUI BUCUREȘTI Însemnul heraldic al Direcției Generale de Jandarmi a Municipiului București din cadrul Inspectoratului General al Jandarmeriei Române va păstra în compoziție elemente din stema Ministerului Internelor și Reformei Administrative, după cum urmează: în scut albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei, un alt scut de dimensiuni mai mici, în al cărui câmp, pe argint, o bandă albastră încărcată cu o spadă de argint, având în cartierul stâng superior și în cartierul drept inferior câte o stea roșie. Semnificația elementelor însumate:
+a) banda - apărare, protecție; ordine;
+b) spada - capacitatea de a judeca, de a separa vinovăția de inocență; justiția; curaj, vitejie;
+c) stelele roșii - oamenii.
