@@ -1,0 +1,187 @@
+{
+ "key": "dcc-991-2008",
+ "label": "Decizia CCR nr. 991/2008",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "991",
+ "date": "2008-10-01",
+ "year": "2008",
+ "heading": "DECIZIE nr. 991 din 1 octombrie 2008",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a Legii pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "682",
+  "bis": false,
+  "date": "2008-10-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.886A/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi, republicată"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Constată că Legea pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi, republicată, este constituţională.",
+  "Dezbaterile au avut loc la data de 1 octombrie 2008 şi la acestea au participat: Ioan Vida, preşedinte, Nicolae Cochinescu, Aspazia Cojocaru, Acsinte Gaspar, Petre Lăzăroiu, Ion Predescu, Puskâs Valentin Zoltân şi Augustin Zegrean, judecători.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-10-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/97809",
+  "text_sha256": "10fab9c7b3666173777543a25bd1ef6110f5020ebf8114a0151ea803df18df81",
+  "catalogue_sha256": "10fab9c7b3666173777543a25bd1ef6110f5020ebf8114a0151ea803df18df81",
+  "fetched": "2026-11-03T00:32:39Z",
+  "chars": 21443,
+  "portal_id": "97809",
+  "tip": "DECIZIE"
+ }
+}
