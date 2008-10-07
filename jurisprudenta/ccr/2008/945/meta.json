@@ -1,0 +1,199 @@
+{
+ "key": "dcc-945-2008",
+ "label": "Decizia CCR nr. 945/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "945",
+ "date": "2008-09-23",
+ "year": "2008",
+ "heading": "DECIZIE nr. 945 din 23 septembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2, art. 6, art. 171 alin. 1, art. 172 alin. 1 şi art. 224 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "685",
+  "bis": false,
+  "date": "2008-10-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "725/44/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 2, art. 6, art. 171 alin. 1, art. 172 alin. 1 şi art. 224 din Codul de procedură penală, excepţie ridicată de Petru Blăniţă în Dosarul nr. 725/44/2007 al Curţii de Apel Galaţi - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 57/2008",
+    "number": "57",
+    "year": "2008",
+    "path": "lege/2008/57"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-10-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/97853",
+  "text_sha256": "0f86cda27e666e7acb5a50aced2af9b27aa1f5589c17a536226cb3bbf955e3a9",
+  "catalogue_sha256": "0f86cda27e666e7acb5a50aced2af9b27aa1f5589c17a536226cb3bbf955e3a9",
+  "fetched": "2026-11-03T00:32:40Z",
+  "chars": 7219,
+  "portal_id": "97853",
+  "tip": "DECIZIE"
+ }
+}
