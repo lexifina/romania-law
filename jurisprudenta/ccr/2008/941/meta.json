@@ -1,0 +1,151 @@
+{
+ "key": "dcc-941-2008",
+ "label": "Decizia CCR nr. 941/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "941",
+ "date": "2008-09-23",
+ "year": "2008",
+ "heading": "DECIZIE nr. 941 din 23 septembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 140 alin. 2 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "696",
+  "bis": false,
+  "date": "2008-10-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "140",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 140 alin. 2 din Codul de procedură penală, excepţie ridicată de Silvia Clopotar, Andrei Becherliu, Rozalia Becherliu, Ileana Romanta Clopotar, Constanţa Clopotar, Caslaro Bucureşteanu, Teofil Clopotar şi Sevastian Caldararu în Dosarul nr. 329/1.372/2006 al Tribunalului pentru minori şi familie Braşov.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "140",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-10-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/97994",
+  "text_sha256": "b181132611871f61d95d7b36381d4da4f295ff7defea983c56a390e2f3c0f0dd",
+  "catalogue_sha256": "b181132611871f61d95d7b36381d4da4f295ff7defea983c56a390e2f3c0f0dd",
+  "fetched": "2026-11-03T00:32:47Z",
+  "chars": 7355,
+  "portal_id": "97994",
+  "tip": "DECIZIE"
+ }
+}
