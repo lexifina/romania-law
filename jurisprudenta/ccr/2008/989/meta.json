@@ -1,0 +1,143 @@
+{
+ "key": "dcc-989-2008",
+ "label": "Decizia CCR nr. 989/2008",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "989",
+ "date": "2008-10-01",
+ "year": "2008",
+ "heading": "DECIZIE nr. 989 din 1 octombrie 2008",
+ "subtitle": "privind constituţionalitatea dispoziţiilor art. 155 alin. (3) din Regulamentul Camerei Deputaţilor, republicat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "716",
+  "bis": false,
+  "date": "2008-10-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.633C/2008"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că prevederile art. 155 alin. (3) din Regulamentul Camerei Deputaţilor, aprobat prin Hotărârea Camerei Deputaţilor nr. 8 din 24 februarie 1994, republicată în Monitorul Oficial al României, Partea I, nr. 35 din 16 ianuarie 2006, sunt neconstituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedintelui Camerei Deputaţilor şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-10-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/98362",
+  "text_sha256": "e04a693218bf6d5663522157e7fdf5ab290f2b0dc46d1a61509ccb38c014ae7f",
+  "catalogue_sha256": "e04a693218bf6d5663522157e7fdf5ab290f2b0dc46d1a61509ccb38c014ae7f",
+  "fetched": "2026-11-03T00:33:08Z",
+  "chars": 17368,
+  "portal_id": "98362",
+  "tip": "DECIZIE"
+ }
+}
