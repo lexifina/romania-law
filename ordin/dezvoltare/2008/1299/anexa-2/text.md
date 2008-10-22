@@ -1,0 +1,16 @@
+# Anexa nr. 2
+Anexa 2 la procedură INSPECTORATUL DE STAT ÎN CONSTRUCȚII - I.S.C. INSPECTORATUL TERITORIAL ÎN CONSTRUCȚII......................... ACORD Nr....../.............
+Ca urmare a Cererii nr.......... din........................., formulată de........................................, în calitate/reprezentată de......................., cu domiciliul/sediul în........................, str.................................... nr......., bl....., sc......, ap......., județul/sectorul................., telefon....................,
+B.I./C.I. seria...... nr........, cod numeric personal............/număr de înmatriculare.................., cod fiscal........................., a documentației tehnice depuse și a Certificatului de urbanism nr......../................, emis de.............................., potrivit dispozițiilor art. 11 lit. l) din Regulamentul privind controlul de stat al calității în construcții, aprobat prin Hotărârea Guvernului nr. 272/1994,
+Inspectoratul Teritorial în Construcții.................... emite acordul de modificare a construcției existente situate în localitatea.............., str....................... nr......., bl...., sc....., ap....., județul/sectorul................................
+Prezentul acord se referă exclusiv la următoarele lucrări de intervenție solicitate în vederea obținerii autorizației de construire, potrivit documentației depuse:..........................................................................................................................................................
+Documentația tehnică se restituie având vizat spre neschimbare memoriul tehnic de rezistență.
+Prin prezentul acord sunt acceptate soluțiile tehnice propuse prin expertiza tehnică sau prin acordul justificat al proiectantului inițial al construcției și nu dă dreptul titularului la efectuarea de lucrări de construire înainte de obținerea autorizației de construire.
+Alte mențiuni:......................................................................................................................................................
+După obținerea autorizației de construire aveți următoarele obligații:
+a) de a respecta soluția propusă de expertul tehnic atestat;
+b) de a anunța în scris începerea lucrărilor la inspectoratul teritorial în construcții;
+c) de a afișa, pe șantier, la loc vizibil, panoul de identificare a lucrării;
+d) de a achita cotele legale în conformitate cu prevederile Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare, și ale Legii nr. 10/1995 privind calitatea în construcții, cu modificările ulterioare.
+Inspector-șef teritorial,................................................................................................... construcția din localitatea......................, str................. nr....., bl....., sc....., ap...., județul/sectorul.................
+----------
