@@ -1,0 +1,191 @@
+{
+ "key": "dcc-924-2008",
+ "label": "Decizia CCR nr. 924/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "924",
+ "date": "2008-09-16",
+ "year": "2008",
+ "heading": "DECIZIE nr. 924 din 16 septembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. VI din Ordonanţa de urgenţă a Guvernului nr. 50/2006 privind unele măsuri pentru asigurarea bunei funcţionări a instanţelor judecătoreşti şi parchetelor şi pentru prorogarea unor termene",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "731",
+  "bis": false,
+  "date": "2008-10-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "237/866/2007",
+  "237/866/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2006",
+    "number": "50",
+    "year": "2006",
+    "path": "oug/2006/50"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. VI din Ordonanţa de urgenţă a Guvernului nr. 50/2006 privind unele măsuri pentru asigurarea bunei funcţionări a instanţelor judecătoreşti şi parchetelor şi pentru prorogarea unor termene, excepţie ridicată de Gheorghe Chelariu Bahnă şi Silvia Chelariu Bahnă în Dosarul nr. 237/866/2007 al Tribunalului Iaşi - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2006",
+    "number": "50",
+    "year": "2006",
+    "path": "oug/2006/50"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 301/2004",
+    "number": "301",
+    "year": "2004",
+    "path": "lege/2004/301"
+   },
+   "articles": [
+    {
+     "art": "512",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 294/2004",
+    "number": "294",
+    "year": "2004",
+    "path": "lege/2004/294"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 73/2008",
+    "number": "73",
+    "year": "2008",
+    "path": "oug/2008/73"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/98590",
+  "text_sha256": "f99d1b6489a307ae5e24551f7c65e08ee63b355cf0cf6923b6b08415bb7ab069",
+  "catalogue_sha256": "f99d1b6489a307ae5e24551f7c65e08ee63b355cf0cf6923b6b08415bb7ab069",
+  "fetched": "2026-11-03T00:33:27Z",
+  "chars": 8510,
+  "portal_id": "98590",
+  "tip": "DECIZIE"
+ }
+}
