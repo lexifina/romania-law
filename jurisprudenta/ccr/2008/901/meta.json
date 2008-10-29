@@ -1,0 +1,280 @@
+{
+ "key": "dcc-901-2008",
+ "label": "Decizia CCR nr. 901/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "901",
+ "date": "2008-09-16",
+ "year": "2008",
+ "heading": "DECIZIE nr. 901 din 16 septembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 alin. 1 şi 2 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "731",
+  "bis": false,
+  "date": "2008-10-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.688/315/2007",
+  "4.695/105/2007",
+  "12.068/245/2007",
+  "10.554/245/2007",
+  "15.742/325/2007",
+  "15.331/325/2007",
+  "14.563/325/2007",
+  "803D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 alin. 1 şi 2 din Codul de procedură penală, excepţie ridicată de Ministerul Public - Parchetul de pe lângă Judecătoria Târgovişte în Dosarul nr. 6.688/315/2007 al Judecătoriei Târgovişte, de Horia Gheorghe Marinescu în Dosarul nr. 4.695/105/2007 al Tribunalului Prahova - Secţia penală, de Societatea Comercială \"Cetăţuia\" - S.R.L. Iaşi în Dosarul nr. 12.068/245/2007 şi de Grigore Abuhnoaie în Dosarul nr. 10.554/245/2007, ambele dosare ale Tribunalului Iaşi - Secţia penală, de Societatea Comercială \"Tehnic B\" - S.R.L. Timişoara în Dosarul nr. 15.742/325/2007, de Paraschiva Schmidt în Dosarul nr. 15.331/325/2007 şi de Veronica Văran în Dosarul nr. 14.563/325/2007, toate trei dosare ale Tribunalului Timiş - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "277",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/98587",
+  "text_sha256": "b13dc2beed2dc1527a22482b318599533f516ecfaae85c28f2de3eeafcbac7ba",
+  "catalogue_sha256": "b13dc2beed2dc1527a22482b318599533f516ecfaae85c28f2de3eeafcbac7ba",
+  "fetched": "2026-11-03T00:33:27Z",
+  "chars": 21313,
+  "portal_id": "98587",
+  "tip": "DECIZIE"
+ }
+}
