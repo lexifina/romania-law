@@ -1,0 +1,187 @@
+{
+ "key": "dcc-1016-2008",
+ "label": "Decizia CCR nr. 1016/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1016",
+ "date": "2008-10-07",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.016 din 7 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 1.344/2003 pentru aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanţei de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase şi pietrelor preţioase în România, cu modificările şi completările ulterioare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "745",
+  "bis": false,
+  "date": "2008-11-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "185/44/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.344/2003",
+    "number": "1344",
+    "year": "2003",
+    "path": "hg/2003/1344"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a Hotărârii Guvernului nr. 1.344/2003 pentru aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanţei de urgenţă a Guvernului nr. 190/2000 privind regimul metalelor preţioase şi pietrelor preţioase în România, cu modificările şi completările ulterioare, excepţie ridicată de Crăciun Gheorghe în Dosarul nr. 185/44/2008 al Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.344/2003",
+    "number": "1344",
+    "year": "2003",
+    "path": "hg/2003/1344"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/98798",
+  "text_sha256": "2be20b156497a96991f372ccc89316e6c9defc8ee261d9214194faaac71354ae",
+  "catalogue_sha256": "2be20b156497a96991f372ccc89316e6c9defc8ee261d9214194faaac71354ae",
+  "fetched": "2026-11-03T00:33:37Z",
+  "chars": 6764,
+  "portal_id": "98798",
+  "tip": "DECIZIE"
+ }
+}
