@@ -1,0 +1,172 @@
+{
+ "key": "dcc-974-2008",
+ "label": "Decizia CCR nr. 974/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "974",
+ "date": "2008-09-30",
+ "year": "2008",
+ "heading": "DECIZIE nr. 974 din 30 septembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor pct. 2.1 din anexa nr. 4 la Ordonanţa de urgenţă a Guvernului nr. 107/2002 privind înfiinţarea Administraţiei Naţionale \"Apele Române\"",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "747",
+  "bis": false,
+  "date": "2008-11-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "825/118/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2002",
+    "number": "107",
+    "year": "2002",
+    "path": "oug/2002/107"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor pct. 2.1 din anexa nr. 4 la Ordonanţa de urgenţă a Guvernului nr. 107/2002 privind înfiinţarea Administraţiei Naţionale \"Apele Române\", excepţie ridicată de Compania Naţională \"Administraţia Canalelor Navigabile\" - S.A. din Constanţa în Dosarul nr. 825/118/2007 al Tribunalului Constanţa - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 400/2005",
+    "number": "400",
+    "year": "2005",
+    "path": "lege/2005/400"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 73/2005",
+    "number": "73",
+    "year": "2005",
+    "path": "oug/2005/73"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 79/2000",
+    "number": "79",
+    "year": "2000",
+    "path": "og/2000/79"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2002",
+    "number": "107",
+    "year": "2002",
+    "path": "oug/2002/107"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/98894",
+  "text_sha256": "61f605d5f2a97567b5ff75072860289e59f606eca596dcb08adb7c5c75adb34d",
+  "catalogue_sha256": "61f605d5f2a97567b5ff75072860289e59f606eca596dcb08adb7c5c75adb34d",
+  "fetched": "2026-11-03T00:33:43Z",
+  "chars": 10470,
+  "portal_id": "98894",
+  "tip": "DECIZIE"
+ }
+}
