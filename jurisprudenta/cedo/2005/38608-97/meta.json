@@ -1,0 +1,80 @@
+{
+ "key": "cedo-38608-97-2005-11-10",
+ "label": "CEDO, Ionescu c. României, 2005-11-10",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2005-11-10",
+ "year": "2005",
+ "heading": "HOTĂRÂRE din 10 noiembrie 2005",
+ "subtitle": "în Cauza Ionescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "764",
+  "bis": false,
+  "date": "2008-11-12",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "38608/97"
+ ],
+ "case_name": "Ionescu",
+ "subjects": [],
+ "operative": [
+  "ÎN UNANIMITATE, CURTEA hotărăşte: 1. ca statul pârât să îi restituie reclamantului, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, imobilul în litigiu şi terenul aferent; 2. ca, în lipsa acestei restituiri, statul pârât să îi plătească reclamantului, în acelaşi termen de 3 luni, suma de 100.000 EUR (una sută mii euro) cu titlu de daune materiale; 3. ca statul pârât să îi plătească reclamantului, în acelaşi termen de 3 luni, suma de 7.500 EUR (şapte mii cinci sute euro) cu titlu de daune morale; 4. ca sumele respective să fie convertite în moneda statului pârât, la cursul de schimb valabil la data plăţii, 5. ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale; 6. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99093",
+  "text_sha256": "7e304d461c9875c85026a0a118c20205820e11a4c4af795ac9f64d87590daefe",
+  "catalogue_sha256": "7e304d461c9875c85026a0a118c20205820e11a4c4af795ac9f64d87590daefe",
+  "fetched": "2026-11-03T00:33:56Z",
+  "chars": 10874,
+  "portal_id": "99093",
+  "tip": "HOTĂRÂRE"
+ }
+}
