@@ -1,0 +1,133 @@
+{
+ "key": "dcc-1054-2008",
+ "label": "Decizia CCR nr. 1054/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1054",
+ "date": "2008-10-09",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.054 din 9 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Hotărârii Guvernului nr. 322/2008 privind acordarea de facilităţi pentru actualizarea obiectului de activitate potrivit Clasificării activităţilor din economia naţională - CAEN Rev. 2",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "767",
+  "bis": false,
+  "date": "2008-11-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "144.900/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 322/2008",
+    "number": "322",
+    "year": "2008",
+    "path": "hg/2008/322"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Hotărârii Guvernului nr. 322/2008 privind acordarea de facilităţi pentru actualizarea obiectului de activitate potrivit Clasificării activităţilor din economia naţională - CAEN Rev. 2, excepţie ridicată de Societatea Comercială \"Aladin Net\" - S.R.L. din Bucureşti în Dosarul nr. 144.900/2008 al Oficiului Registrului Comerţului de pe lângă Tribunalul Bucureşti - judecătorul-delegat.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 322/2008",
+    "number": "322",
+    "year": "2008",
+    "path": "hg/2008/322"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99189",
+  "text_sha256": "f383e58844fc491eafb6fdca223de6e839d99d657b24702ec15a82a0d3bde896",
+  "catalogue_sha256": "f383e58844fc491eafb6fdca223de6e839d99d657b24702ec15a82a0d3bde896",
+  "fetched": "2026-11-05T13:56:12Z",
+  "chars": 6844,
+  "portal_id": "99189",
+  "tip": "DECIZIE"
+ }
+}
