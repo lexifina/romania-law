@@ -1,0 +1,53 @@
+# DECIZIE nr. 1.053 din 9 octombrie 2008
+Ioan Vida - preşedinte
+Nicolae Cochinescu - judecător
+Aspazia Cojocaru - judecător
+Acsinte Gaspar - judecător
+Petre Lăzăroiu - judecător
+Ion Predescu - judecător
+Tudorel Toader - judecător
+Puskas Valentin Zoltan - judecător
+Augustin Zegrean - judecător
+Marinela Mincă - procuror
+Ioana Marilena Chiorean - magistrat-asistent
+Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 10 din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, excepţie ridicată de David Brumă în Dosarul nr. 2.192/271/P/2005 al Curţii de Apel Oradea - Secţia penală şi pentru cauze cu minori.
+La apelul nominal răspunde, pentru autorul excepţiei de neconstituţionalitate, avocatul Mircea Ursuţa, cu împuternicire avocaţială la dosar, lipsă fiind celelalte părţi, faţă de care procedura de citare este legal îndeplinită.
+Preşedintele dispune a se face apelul şi în Dosarul nr. 1.615D/2008, având ca obiect o excepţie de neconstituţionalitate identică, ridicată de Andrei Lăcrămioara, Daniel Alexandru Trandafirescu, Barbu Costel Stângă şi Sandu Nicolae în Dosarul nr. 5.842/4/2004 al Tribunalului Bucureşti - Secţia a II-a penală.
+La apelul nominal răspunde partea Cătălin Paraschiv, lipsind celelalte părţi, faţă de care procedura de citare a fost legal îndeplinită.
+Curtea, din oficiu, pune în discuţie conexarea dosarelor nr. 1.516D/2008 şi nr. 1.615D/2008, având în vedere identitatea de obiect a acestora.
+Avocatul autorului excepţiei David Brumă şi partea Cătălin Paraschiv nu se opun conexării.
+Reprezentantul Ministerului Public arată că este de acord cu conexarea cauzelor.
+Curtea, în temeiul dispoziţiilor art. 53 alin. (5) din Legea nr. 47/1992, dispune conexarea Dosarului nr. 1.615D/2008 la Dosarul nr. 1.516D/2008, care este primul înregistrat.
+Cauza fiind în stare de judecată, apărătorul ales al autorului excepţiei David Brumă solicită admiterea acesteia astfel cum a fost formulată, apreciind că dispoziţiile de lege criticate sunt neconstituţionale, deoarece cuantumul prejudiciului nu este cunoscut şi stabilit de către instanţa de judecată. În acest sens, depune concluzii scrise.
+Partea Cătălin Paraschiv solicită admiterea excepţiei de neconstituţionalitate.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate.
+CURTEA, având în vedere actele şi lucrările dosarelor, constată următoarele:
+Prin Încheierea din 12 iunie 2008, pronunţată în Dosarul nr. 2.192/271/P/2005, Curtea de Apel Oradea - Secţia penală şi pentru cauze cu minori a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 10 din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale. Excepţia de neconstituţionalitate a fost ridicată de David Brumă într-o cauză penală.
+Prin Încheierea din 16 iunie 2008, pronunţată în Dosarul nr. 5.842/4/2004 Tribunalul Bucureşti - Secţia a II-a penală a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 10 din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale. Excepţia de neconstituţionalitate a fost ridicată de Andrei Lăcrămioara, Daniel Alexandru Trandafirescu, Barbu Costel Stângă şi Sandu Nicolae într-o cauză penală.
+În motivarea excepţiei de neconstituţionalitate autorii acesteia susţin că dispoziţiile de lege criticate sunt neconstituţionale, deoarece instituie discriminări faţă de alte categorii de inculpaţi, de exemplu cei care au fost trimişi în judecată şi au avut primul termen de judecată înainte de intrarea în vigoare a Legii nr. 241/2005. Mai arată că, prin reglementarea criticată se îngrădeşte accesul liber la justiţie, de vreme ce nu poate beneficia de accesul la o instanţă care să se pronunţe asupra cuantumului prejudiciului stabilit. Astfel, susţin că textul de lege criticat este neconstituţional în măsura în care nu se aplică acelaşi tratament juridic şi inculpatului care în cursul judecăţii, până la pronunţarea unei hotărâri definitive în cauză, a acoperit aproape integral prejudiciul cauzat.
+Curtea de Apel Oradea - Secţia penală şi pentru cauze cu minori şi Tribunalul Bucureşti - Secţia a II-a penală consideră că dispoziţiile de lege criticate sunt constituţionale.
+Potrivit dispoziţiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierile de sesizare au fost comunicate preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că dispoziţiile de lege criticate sunt constituţionale, cu referire la jurisprudenţa Curţii Constituţionale.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat Curţii Constituţionale punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierile de sesizare, punctele de vedere ale Avocatului Poporului, rapoartele întocmite de judecătorul-raportor, susţinerile părţilor prezente, concluziile procurorului, dispoziţiile de lege criticate raportate la prevederile Constituţiei, precum şi dispoziţiile Legii nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 10 din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, publicată în Monitorul Oficial al României, Partea I, nr. 672 din 27 iulie 2005, cu următorul conţinut:
+"(1) În cazul săvârşirii unei infracţiuni de evaziune fiscală prevăzute de prezenta lege, dacă în cursul urmăririi penale sau al judecăţii, până la primul termen de judecată, învinuitul ori inculpatul acoperă integral prejudiciul cauzat, limitele pedepsei prevăzute de lege pentru fapta săvârşită se reduc la jumătate. Dacă prejudiciul cauzat şi recuperat în aceleaşi condiţii este de până la 100.000 euro, în echivalentul monedei naţionale, se poate aplica pedeapsa cu amendă. Dacă prejudiciul cauzat şi recuperat în aceleaşi condiţii este de până la 50.000 euro, în echivalentul monedei naţionale, se aplică o sancţiune administrativă, care se înregistrează în cazierul judiciar.
+(2) Dispoziţiile prevăzute la alin. (1) nu se aplică dacă făptuitorul a mai săvârşit o infracţiune prevăzută de prezenta lege într-un interval de 5 ani de la comiterea faptei pentru care a beneficiat de prevederile alin. (1)."
+Excepţia de neconstituţionalitate se raportează la prevederile constituţionale ale art. 4 alin. (2) privind egalitatea între cetăţeni, ale art. 16 alin. (1) privind egalitatea în faţa legii, ale art. 21 alin. (3) privind dreptul la un proces echitabil, ale art. 23 alin. (11) privind prezumţia de nevinovăţie şi ale art. 24 privind dreptul la apărare. De asemenea, sunt invocate prevederile art. 6 paragraful 1 din Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale, referitoare la dreptul la un proces echitabil.
+Examinând excepţia de neconstituţionalitate, Curtea reţine că s-a pronunţat în numeroase cauze asupra constituţionalităţii prevederilor art. 10 din Legea nr. 241/2005. De exemplu, prin Decizia nr. 802/2008, publicată în Monitorul Oficial al României, Partea I, nr. 580 din 1 august 2008, Curtea a statuat că legiuitorul este liber să aprecieze atât pericolul social în funcţie de care urmează să stabilească natura juridică a faptei incriminate, cât şi condiţiile răspunderii juridice pentru această faptă.
+Totodată, principiul egalităţii în drepturi nu implică tratarea juridică uniformă a tuturor infracţiunilor, iar reglementarea unui regim sancţionator în funcţie de acoperirea prejudiciului cauzat prin infracţiunea săvârşită este expresia firească a principiului constituţional menţionat, care impune ca la aceleaşi situaţii juridice să se aplice acelaşi regim, iar la situaţii juridice diferite tratamentul juridic să fie diferenţiat.
+De asemenea, prin Decizia nr. 318/2006, publicată în Monitorul Oficial al României, Partea I, nr. 400 din 9 mai 2006, Curtea a reţinut că faptul că de reducerea limitelor pedepsei prevăzute de lege beneficiază numai învinuitul ori inculpatul care acoperă integral prejudiciul cauzat, în cursul urmăririi penale sau al judecăţii, până la primul termen de judecată, nu are semnificaţia îngrădirii liberului acces la justiţie. Cel în cauză are posibilitatea de a se adresa instanţelor judecătoreşti în cazul în care consideră că drepturile, libertăţile sau interesele sale legitime au fost încălcate şi de a beneficia de toate garanţiile procesuale prevăzute de lege, inclusiv în ceea ce priveşte latura civilă a cauzei, în deplină concordanţă cu imperativele dreptului la un proces echitabil.
+Referitor la susţinerile autorului excepţiei privind încălcarea prevederilor art. 23 alin. (11) din Constituţie, Curtea a reţinut că acestea sunt neîntemeiate, deoarece, dacă este îndeplinită condiţia prevăzută de textul criticat, "limitele pedepsei prevăzute de lege pentru fapta săvârşită se reduc la jumătate", urmând ca instanţa de judecată, în caz de condamnare, să stabilească pedeapsa în cadrul acestor limite. Prin urmare, nu se poate susţine că inculpatul este obligat să se declare vinovat, nesocotindu-se astfel prezumţia de nevinovăţie, şi să accepte necondiţionat pretenţiile părţii civile.
+Cât priveşte dispoziţiile art. 24 privind dreptul la apărare, Curtea a constatat că acestea nu au incidenţă în cauza de faţă.
+Neintervenind elemente noi, de natură a determina schimbarea jurisprudenţei Curţii, atât soluţiile, cât şi considerentele cuprinse în aceste decizii îşi păstrează valabilitatea şi în prezenta cauză.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992,
+CURTEA CONSTITUŢIONALĂ
+În numele legii
+DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 10 din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, excepţie ridicată de David Brumă în Dosarul nr. 2.192/271/P/2005 al Curţii de Apel Oradea - Secţia penală şi pentru cauze cu minori şi de Andrei Lăcrămioara, Daniel Alexandru Trandafirescu, Barbu Costel Stângă şi Sandu Nicolae în Dosarul nr. 5.842/4/2004 al Tribunalului Bucureşti - Secţia a II-a penală.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 9 octombrie 2008.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA
+Magistrat-asistent,
+Ioana Marilena Chiorean

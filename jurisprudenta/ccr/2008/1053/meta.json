@@ -1,0 +1,175 @@
+{
+ "key": "dcc-1053-2008",
+ "label": "Decizia CCR nr. 1053/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1053",
+ "date": "2008-10-09",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.053 din 9 octombrie 2008",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "767",
+  "bis": false,
+  "date": "2008-11-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.615D/2008",
+  "5.842/4/2004",
+  "1.516D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 10 din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, excepţie ridicată de David Brumă în Dosarul nr. 2.192/271/P/2005 al Curţii de Apel Oradea - Secţia penală şi pentru cauze cu minori şi de Andrei Lăcrămioara, Daniel Alexandru Trandafirescu, Barbu Costel Stângă şi Sandu Nicolae în Dosarul nr. 5.842/4/2004 al Tribunalului Bucureşti - Secţia a II-a penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99188",
+  "text_sha256": "47c2f56d42650c042e11471c9da5d2f405448708ecb4c38037314341b54867ca",
+  "catalogue_sha256": "47c2f56d42650c042e11471c9da5d2f405448708ecb4c38037314341b54867ca",
+  "fetched": "2026-11-06T03:36:22Z",
+  "chars": 10786,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/99188",
+   "timestamp": "20240530153229",
+   "crawl": "CC-MAIN-2024-22",
+   "filename": "crawl-data/CC-MAIN-2024-22/segments/1715971668873.95/warc/CC-MAIN-20240530145337-20240530175337-00059.warc.gz",
+   "offset": "308420569",
+   "length": "14623",
+   "sha256": "e2158d905470494dd1dc649ee7295efacf5be8ac43f6f88ae068af34df3a77bd"
+  },
+  "portal_id": "99188",
+  "tip": "DECIZIE"
+ }
+}
