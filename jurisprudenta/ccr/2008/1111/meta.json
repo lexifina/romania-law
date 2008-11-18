@@ -1,0 +1,154 @@
+{
+ "key": "dcc-1111-2008",
+ "label": "Decizia CCR nr. 1111/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1111",
+ "date": "2008-10-06",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.111 din 6 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 alin. (4) din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "772",
+  "bis": false,
+  "date": "2008-11-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.690/327/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a prevederilor art. 6 alin. (4) din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată, excepţie ridicată de Societatea Comercială \"Aquaserv\" - S.A. din Tulcea în Dosarul nr. 1.690/327/2007 al Tribunalului Tulcea - Secţia civilă, comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99265",
+  "text_sha256": "2c6bfb32c8d081c00e67f6ca1ed577498f7f6048686bf5fdd83292439393d030",
+  "catalogue_sha256": "2c6bfb32c8d081c00e67f6ca1ed577498f7f6048686bf5fdd83292439393d030",
+  "fetched": "2026-11-03T00:34:04Z",
+  "chars": 5900,
+  "portal_id": "99265",
+  "tip": "DECIZIE"
+ }
+}
