@@ -1,0 +1,159 @@
+{
+ "key": "dcc-1001-2008",
+ "label": "Decizia CCR nr. 1001/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1001",
+ "date": "2008-10-07",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.001 din 7 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 7 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 119/2007 privind măsurile pentru combaterea întârzierii executării obligaţiilor de plată rezultate din contracte comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "774",
+  "bis": false,
+  "date": "2008-11-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "10.183/3/2008",
+  "1.217D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 119/2007",
+    "number": "119",
+    "year": "2007",
+    "path": "oug/2007/119"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 7 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 119/2007 privind măsurile pentru combaterea întârzierii executării obligaţiilor de plată rezultate din contracte comerciale, excepţie ridicată, din oficiu, de Tribunalul Bucureşti - Secţia a VI-a comercială în dosarele nr. 10.183/3/2008, nr. 9.308/3/2008 şi nr. 15.055/3/2008.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 119/2007",
+    "number": "119",
+    "year": "2007",
+    "path": "oug/2007/119"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99247",
+  "text_sha256": "673058421fe9b62e9ae35c0d782e358e3725d49020a00dde5b365d3f93d862a3",
+  "catalogue_sha256": "673058421fe9b62e9ae35c0d782e358e3725d49020a00dde5b365d3f93d862a3",
+  "fetched": "2026-11-05T06:36:56Z",
+  "chars": 9254,
+  "portal_id": "99247",
+  "tip": "DECIZIE"
+ }
+}
