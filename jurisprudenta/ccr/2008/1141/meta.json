@@ -1,0 +1,186 @@
+{
+ "key": "dcc-1141-2008",
+ "label": "Decizia CCR nr. 1141/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1141",
+ "date": "2008-10-16",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.141 din 16 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor anexei nr. I lit. A nr. crt. 39-44 şi nota explicativă indice 5 din Ordonanţa Guvernului nr. 17/2008 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 115/2004 privind salarizarea şi alte drepturi ale personalului contractual din unităţile sanitare publice din sectorul sanitar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "779",
+  "bis": false,
+  "date": "2008-11-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.879/99/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2008",
+    "number": "17",
+    "year": "2008",
+    "path": "og/2008/17"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor anexei nr. I lit. A nr. crt. 39-44 şi nota explicativă indice 5 din Ordonanţa Guvernului nr. 17/2008 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 115/2004 privind salarizarea şi alte drepturi ale personalului contractual din unităţile sanitare publice din sectorul sanitar, excepţie ridicată de Viorica Bejan şi alţii în Dosarul nr. 1.879/99/2008 al Tribunalului Iaşi - Secţia civilă şi litigii de muncă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 17/2008",
+    "number": "17",
+    "year": "2008",
+    "path": "og/2008/17"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99363",
+  "text_sha256": "564d869ca29a7fe78b8a16e27a9244dfe90be4014b2ba547047a500c2a8f76a2",
+  "catalogue_sha256": "564d869ca29a7fe78b8a16e27a9244dfe90be4014b2ba547047a500c2a8f76a2",
+  "fetched": "2026-11-03T00:34:10Z",
+  "chars": 8912,
+  "portal_id": "99363",
+  "tip": "DECIZIE"
+ }
+}
