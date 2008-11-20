@@ -1,0 +1,161 @@
+{
+ "key": "dcc-1143-2008",
+ "label": "Decizia CCR nr. 1143/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1143",
+ "date": "2008-10-16",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.143 din 16 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (3) din Legea nr. 38/2003 privind transportul în regim de taxi şi în regim de închiriere",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "779",
+  "bis": false,
+  "date": "2008-11-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.765/62/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "lege/2003/38"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (3) din Legea nr. 38/2003 privind transportul în regim de taxi şi în regim de închiriere, excepţie ridicată de Societatea Comercială \"Eco - Tehnic\" - S.R.L. Braşov în Dosarul nr. 1.765/62/2008 al Tribunalului Braşov - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "lege/2003/38"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99364",
+  "text_sha256": "e10f955955a72b8f2e660b7f4b561224a6725510efa81cd12fc8e53daefc7b3c",
+  "catalogue_sha256": "e10f955955a72b8f2e660b7f4b561224a6725510efa81cd12fc8e53daefc7b3c",
+  "fetched": "2026-11-03T00:34:10Z",
+  "chars": 8559,
+  "portal_id": "99364",
+  "tip": "DECIZIE"
+ }
+}
