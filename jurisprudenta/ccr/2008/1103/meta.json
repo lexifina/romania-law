@@ -1,0 +1,146 @@
+{
+ "key": "dcc-1103-2008",
+ "label": "Decizia CCR nr. 1103/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1103",
+ "date": "2008-10-16",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.103 din 16 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 alin. 8 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "778",
+  "bis": false,
+  "date": "2008-11-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.915/1/2007",
+  "1.908D/2008",
+  "952D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 alin. 8 din Codul de procedură penală, excepţie ridicată de Societatea Comercială D&amp;amp;S - S.R.L. Timişoara în Dosarul nr. 10.915/1/2007 al Înaltei Curţi de Casaţie şi Justiţie - Secţia penală şi de Viorica Luca în Dosarul nr. 1.400/35/P/2007 al Curţii de Apel Oradea - Secţia penală şi pentru cauze cu minori.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99372",
+  "text_sha256": "bfb2b135a53f6efd6ebc1903b86b0e966709a7581f911da879b54af1e6d41eac",
+  "catalogue_sha256": "bfb2b135a53f6efd6ebc1903b86b0e966709a7581f911da879b54af1e6d41eac",
+  "fetched": "2026-11-03T00:34:08Z",
+  "chars": 9068,
+  "portal_id": "99372",
+  "tip": "DECIZIE"
+ }
+}
