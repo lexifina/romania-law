@@ -1,0 +1,133 @@
+{
+ "key": "dcc-1146-2008",
+ "label": "Decizia CCR nr. 1146/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1146",
+ "date": "2008-10-16",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.146 din 16 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor alin. (1) al articolului unic din Legea nr. 455/2006 pentru stabilirea unor măsuri privind acţiunile şi cererile în justiţie formulate de cultele religioase recunoscute din România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "778",
+  "bis": false,
+  "date": "2008-11-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.552/301/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 455/2006",
+    "number": "455",
+    "year": "2006",
+    "path": "lege/2006/455"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor alin. (1) al articolului unic din Legea nr. 455/2006 pentru stabilirea unor măsuri privind acţiunile şi cererile în justiţie formulate de cultele religioase recunoscute din România, excepţie ridicată de Viorica Albu în Dosarul nr. 4.552/301/2008 al Judecătoriei Sectorului 3 Bucureşti - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 455/2006",
+    "number": "455",
+    "year": "2006",
+    "path": "lege/2006/455"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99376",
+  "text_sha256": "59adca33d5a5b182324e541ff60fcafa6359dda100b0f5b96afa95b247f82d49",
+  "catalogue_sha256": "59adca33d5a5b182324e541ff60fcafa6359dda100b0f5b96afa95b247f82d49",
+  "fetched": "2026-11-05T12:33:29Z",
+  "chars": 7240,
+  "portal_id": "99376",
+  "tip": "DECIZIE"
+ }
+}
