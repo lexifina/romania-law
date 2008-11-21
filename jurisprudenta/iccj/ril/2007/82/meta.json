@@ -1,0 +1,152 @@
+{
+ "key": "iccj-ril-82-2007",
+ "label": "Decizia ÎCCJ nr. LXXXII/2007 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "82",
+ "number_printed": "LXXXII",
+ "date": "2007-12-10",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXXXII (82) din 10 decembrie 2007",
+ "subtitle": "pentru a examina recursul în interesul legii cu privire la interpretarea şi aplicarea unitară a dispoziţiilor art. 192 alin. 2 din Codul de procedură penală în cazul respingerii plângerii formulate în condiţiile art. 278^1 din acelaşi cod",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "780",
+  "bis": false,
+  "date": "2008-11-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "56/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "192",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 192 alin. 2 din Codul de procedură penală se interpretează în sensul că:",
+  "În cazul respingerii plângerii formulate în condiţiile art. 278^1 din Codul de procedură penală împotriva rezoluţiei sau ordonanţei procurorului de netrimitere în judecată ori a dispoziţiei de netrimitere în judecată cuprinse în rechizitoriu, cheltuielile judiciare ocazionate de judecarea acesteia vor fi suportate de către persoana căreia i s-a respins plângerea.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "192",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": [
+      "1",
+      "8"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "343",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-11-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99406",
+  "text_sha256": "72dae6eab653a8e53e2ef53e4fb27d29e43083b58bc1936af36d1764575e34c3",
+  "catalogue_sha256": "72dae6eab653a8e53e2ef53e4fb27d29e43083b58bc1936af36d1764575e34c3",
+  "fetched": "2026-11-03T00:34:11Z",
+  "chars": 8545,
+  "portal_id": "99406",
+  "tip": "DECIZIE"
+ }
+}
