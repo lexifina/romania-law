@@ -1,0 +1,128 @@
+{
+ "key": "iccj-ril-81-2007",
+ "label": "Decizia ÎCCJ nr. LXXXI/2007 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "81",
+ "number_printed": "LXXXI",
+ "date": "2007-12-10",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXXXI (81) din 10 decembrie 2007",
+ "subtitle": "pentru a examina recursul în interesul legii cu privire la stabilirea pedepsei ce se execută în cazul infracţiunii de evadare, conform art. 269 alin. 3 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "780",
+  "bis": false,
+  "date": "2008-11-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "54/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Sintagma \"pedeapsa ce se execută\", conţinută în dispoziţiile art. 269 alin. 3 din Codul penal, se interpretează în sensul că se referă la pedeapsa rămasă de executat din pedeapsa în a cărei executare se afla condamnatul la momentul evadării.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-11-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99405",
+  "text_sha256": "edcee794dd8e02235b92ed3d801b329cc6dae9067ee9796e241d627daab90879",
+  "catalogue_sha256": "edcee794dd8e02235b92ed3d801b329cc6dae9067ee9796e241d627daab90879",
+  "fetched": "2026-11-03T00:34:11Z",
+  "chars": 6244,
+  "portal_id": "99405",
+  "tip": "DECIZIE"
+ }
+}
