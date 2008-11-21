@@ -1,0 +1,221 @@
+{
+ "key": "cedo-32030-02-2008-04-29",
+ "label": "CEDO, Spînu c. României, 2008-04-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-04-29",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 29 aprilie 2008",
+ "subtitle": "în Cauza Spînu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "780",
+  "bis": false,
+  "date": "2008-11-21",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "32030/02"
+ ],
+ "case_name": "Spînu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1, în ceea ce priveşte condamnarea reclamantei de către Curtea Supremă de Justiţie fără să fi fost audiată personal şi fără administrarea directă a probelor, şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 3. hotărăşte ca",
+  "a) statul pârât să îi plătească reclamantei, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, suma de 5.000 EUR (cinci mii euro) cu titlu de daune morale, sumă ce va fi convertită în lei româneşti la cursul de schimb valabil la data plăţii, plus suma ce ar putea fi datorată cu titlu de impozit la suma de mai sus;",
+  "b) începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "176",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "312",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 466/1979",
+    "number": "466",
+    "year": "1979",
+    "path": "decret/1979/466"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "385-14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "385-15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "385-6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "408-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99408",
+  "text_sha256": "461bf681d01f59dde8fd4391fc2d7a5ec4c051990b8826a81f6ad84f8b4de2e4",
+  "catalogue_sha256": "461bf681d01f59dde8fd4391fc2d7a5ec4c051990b8826a81f6ad84f8b4de2e4",
+  "fetched": "2026-11-03T00:34:19Z",
+  "chars": 43661,
+  "portal_id": "99408",
+  "tip": "HOTĂRÂRE"
+ }
+}
