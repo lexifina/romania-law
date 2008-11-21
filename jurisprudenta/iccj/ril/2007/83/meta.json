@@ -1,0 +1,116 @@
+{
+ "key": "iccj-ril-83-2007",
+ "label": "Decizia ÎCCJ nr. LXXXIII/2007 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "83",
+ "number_printed": "LXXXIII",
+ "date": "2007-12-10",
+ "year": "2007",
+ "heading": "DECIZIE nr. LXXXIII (83) din 10 decembrie 2007",
+ "subtitle": "pentru a examina recursul în interesul legii cu privire la interpretarea şi aplicarea unitară a dispoziţiilor art. 494 fraza I din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "780",
+  "bis": false,
+  "date": "2008-11-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "57/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 494 teza I din Codul de procedură penală se interpretează în sensul că:",
+  "În caz de modificare a normelor de competenţă, cererea de reabilitare va fi soluţionată de instanţa competentă să judece cauza în primă instanţă, potrivit legii în vigoare la momentul introducerii cererii.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-11-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99407",
+  "text_sha256": "d4ce37d87b0b2bdee15da8d48d3e9c930d3b9d331c900e4996b1887936c26d56",
+  "catalogue_sha256": "d4ce37d87b0b2bdee15da8d48d3e9c930d3b9d331c900e4996b1887936c26d56",
+  "fetched": "2026-11-03T00:34:19Z",
+  "chars": 5868,
+  "portal_id": "99407",
+  "tip": "DECIZIE"
+ }
+}
