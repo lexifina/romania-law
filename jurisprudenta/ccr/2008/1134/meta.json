@@ -1,0 +1,180 @@
+{
+ "key": "dcc-1134-2008",
+ "label": "Decizia CCR nr. 1134/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1134",
+ "date": "2008-10-16",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.134 din 16 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 138 alin. (1) lit. d) şi alin. (4) şi art. 139 din Legea nr. 85/2006 privind procedura insolvenţei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "783",
+  "bis": false,
+  "date": "2008-11-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.530D/2008",
+  "1.488D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 138 alin. (1) lit. d) şi alin. (4) şi art. 139 din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de Corina Eugenia Tinca şi Eugenia Păcurar în Dosarul nr. 64/1.371/2006 al Tribunalului Comercial Mureş - Falimente şi de Vasile Blaga în Dosarul nr. 1.229/1.371/2007 al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99499",
+  "text_sha256": "6fd922a7cf53f62825c69059defd5cb7a14f08f04dbf8e5d2a9c6fe8144f8952",
+  "catalogue_sha256": "6fd922a7cf53f62825c69059defd5cb7a14f08f04dbf8e5d2a9c6fe8144f8952",
+  "fetched": "2026-11-05T12:52:50Z",
+  "chars": 15477,
+  "portal_id": "99499",
+  "tip": "DECIZIE"
+ }
+}
