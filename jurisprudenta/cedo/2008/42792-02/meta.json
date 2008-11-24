@@ -1,0 +1,190 @@
+{
+ "key": "cedo-42792-02-2008-02-07",
+ "label": "CEDO, Gâgă c. României, 2008-02-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-02-07",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 7 februarie 2008",
+ "subtitle": "în Cauza Gâgă împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "782",
+  "bis": false,
+  "date": "2008-11-24",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "42792/02"
+ ],
+ "case_name": "Gâgă",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "ÎN UNANIMITATE, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie din cauza încălcării principiului securităţii raporturilor juridice; 3. hotărăşte că a avut loc încălcarea art. 1 al Protocolului nr. 1 la Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să le plătească împreună reclamanţilor, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, suma de 3.000 EUR (trei mii euro), cu titlu de daune morale, şi suma de 550 EUR (cinci sute cincizeci euro), cu titlu de cheltuieli de judecată;",
+  "b) ca sumele respective să fie convertite în moneda statului pârât, la cursul de schimb valabil la data plăţii, la care să fie adăugată orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99504",
+  "text_sha256": "980c600c58787b951a4b2040f87547bd7b0b7c854e4a42dedd4a61f7de41cc68",
+  "catalogue_sha256": "980c600c58787b951a4b2040f87547bd7b0b7c854e4a42dedd4a61f7de41cc68",
+  "fetched": "2026-11-03T00:34:17Z",
+  "chars": 16486,
+  "portal_id": "99504",
+  "tip": "HOTĂRÂRE"
+ }
+}
