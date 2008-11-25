@@ -1,0 +1,5 @@
+Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință ordinară în data de 25.11.2008;
+Având în vedere Expunerea de motive nr.11942/2008 a Primarului orașului, Raportul de specialitate nr.11943/2008 al Biroul buget, finanțe, contabilitate, Avizul Comisiei pentru programe de dezvoltare economică și socială, buget, finanțe, servicii, comerț și agricultură și Avizul Comisiei de administratie publică locală, juridică și de disciplină, apărarea ordinii și liniștii publice, respectarea drepturilor omului, culte și problemele minorităților ale Consiliului Local;
+În baza prevederilor art.12 din O.G. nr.10/2008 privind nivelul salariilor de bază și al altor drepturi ale personalului bugetar salarizat potrivit Ordonanței de urgență a Guvernului nr. 24/2000 și ale art.36 alin.2 lit.a din Legea nr.215/2001, republicată, cu modificările și completările ulterioare;
+În temeiul art.45 alin.1 si 2 din Legea nr.215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare,
+HOTĂRĂȘTE :
