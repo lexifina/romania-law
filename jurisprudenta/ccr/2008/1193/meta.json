@@ -1,0 +1,236 @@
+{
+ "key": "dcc-1193-2008",
+ "label": "Decizia CCR nr. 1193/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1193",
+ "date": "2008-11-11",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.193 din 11 noiembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 alin. (1) şi (2) din Legea contenciosului administrativ nr. 554/2004 şi ale art. II alin. (2) şi art. III din Legea nr. 262/2007 pentru modificarea şi completarea Legii contenciosului administrativ nr. 554/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "789",
+  "bis": false,
+  "date": "2008-11-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.357D/2008",
+  "9.054/1/2007",
+  "1.366D/2008",
+  "8.611/118/2007",
+  "1.384D/2008",
+  "349/57/2008",
+  "1.514D/2008",
+  "1.586D/2008",
+  "1.317D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 262/2007",
+    "number": "262",
+    "year": "2007",
+    "path": "lege/2007/262"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 4 alin. (1) şi (2) din Legea contenciosului administrativ nr. 554/2004 şi ale art. II alin. (2) şi art. III din Legea nr. 262/2007 pentru modificarea şi completarea Legii contenciosului administrativ nr. 554/2004, excepţie ridicată de Fundaţia \"Ronald's Lauder România\" în Dosarul nr. 8.197/3/CA/2008 al Tribunalului Bucureşti - Secţia a IX-a de contencios administrativ şi fiscal, de Ministerul Transporturilor în Dosarul nr. 9.054/1/2007 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal, de Alina Maftei şi Liviu Maftei în Dosarul nr. 8.611/118/2007 al Tribunalului Constanţa - Secţia de contencios administrativ şi fiscal, de Curtea de Apel Alba Iulia - Secţia de contencios administrativ şi fiscal în Dosarul său nr. 349/57/2008, precum şi de Societatea Comercială \"Foricon\" - S.A. din Deva, în acelaşi dosar al Curţii de Apel Alba Iulia, precum şi, din oficiu, de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul său nr. 1.509/54/2007 şi Tribunalul Bucureşti - Secţia a IX-a de contencios administrativ şi fiscal în Dosarul său nr. 2.023/3/2008.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 262/2007",
+    "number": "262",
+    "year": "2007",
+    "path": "lege/2007/262"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99671",
+  "text_sha256": "7bd77cdf654482dc60c35c14090177decdd6b215d11f628e12046ca4d9b25485",
+  "catalogue_sha256": "7bd77cdf654482dc60c35c14090177decdd6b215d11f628e12046ca4d9b25485",
+  "fetched": "2026-11-03T00:34:24Z",
+  "chars": 16740,
+  "portal_id": "99671",
+  "tip": "DECIZIE"
+ }
+}
