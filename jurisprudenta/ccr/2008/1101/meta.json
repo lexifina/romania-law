@@ -1,0 +1,216 @@
+{
+ "key": "dcc-1101-2008",
+ "label": "Decizia CCR nr. 1101/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1101",
+ "date": "2008-10-16",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.101 din 16 octombrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 139^6 alin. (2) şi art. 139^9 din Legea nr. 8/1996 privind drepturile de autor şi drepturile conexe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "789",
+  "bis": false,
+  "date": "2008-11-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.870/30/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "139-6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139-9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 139^6 alin. (2) şi art. 139^9 din Legea nr. 8/1996 privind drepturile de autor şi drepturile conexe, cu modificările ulterioare, excepţie ridicată de Angelica Luminiţa Sarbolandi, Farzin Sarbolandi şi Ciprian Marişescu în Dosarul nr. 7.870/30/2007 al Tribunalului Timiş - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "139-6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139-9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 329/2006",
+    "number": "329",
+    "year": "2006",
+    "path": "lege/2006/329"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-11-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99752",
+  "text_sha256": "549083556955e60f54e0f266ee6fe9cebe638fa6f77ed90261c7b95fadd0ab07",
+  "catalogue_sha256": "549083556955e60f54e0f266ee6fe9cebe638fa6f77ed90261c7b95fadd0ab07",
+  "fetched": "2026-11-03T00:34:24Z",
+  "chars": 11827,
+  "portal_id": "99752",
+  "tip": "DECIZIE"
+ }
+}
