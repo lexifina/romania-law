@@ -1,0 +1,11 @@
+# HCGMB nr. 348/2008
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 348/2008
+- Adopted: 2008-11-25
+- Title: PRIVIND SCHIMBAREA DENUMIRII TEATRULUI DE MARIONETE SI PAPUSI "TANDARICA" IN TEATRUL DE ANIMATIE "TANDARICA", INCADRAREA ACESTUIA IN CATEGORIA INSTITUTIILOR DE SPECTACOLE DE REPERTORIU, PRECUM SI APROBAREA ORGANIGRAMEI, NUMARULUI DE POSTURI, STATULUI DE FUNCTII SI REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE INSTITUTIEI ABROGA HCGMB NR. 182/1999 PRECUM SI ANEXA 2.8 LA HCGMB NR. 326/2001 ART. 4, ART.5 SI ANEXA NR. 3 SE ABROGA PRIN HCGMB NR. 219/2009 SE MODIFICA PRIN HCGMB NR. 7/2010 ART. 4 SI 5 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 305/2013
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/24535
+- Document: https://doc.pmb.ro/legis/acteinterne/2008/24535/H348_08.pdf
+- Document sha256: f7ea6fe479f642c4f2c68f24e5de5feddc91b2fa4f9e7afb3bd1b27777ed24ee
