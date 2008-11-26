@@ -1,0 +1,23 @@
+# Anexa 4
+MINISTERUL MUNCII, FAMILIEI ȘI EGALITĂȚII DE ȘANSE INSPECȚIA SOCIALĂ Inspectoratul Social Regional.............. Str.......... nr... localitatea........... județul/sectorul........... Tel.......... Fax.........
+Regim special
+Seria I.S. nr. 0000001
+ÎNȘTIINȚARE DE PLATĂ pentru debitorul:
+Persoană juridică/fizică................................, cu sediul/domiciliul în...................., str.......................... nr...., bl....., sc...., ap...., județul/sectorul........................, constituită în baza........................................., având codul fiscal......................, cont nr.................. la.............., reprezentată legal prin dl/dna................................, în calitate de.............., domiciliat /domiciliată în............., str......., bl......, sc...., ap...., județul/sectorul........., având BI/CI seria.... nr.........., eliberat/eliberată............ la data de.......... CNP...................,
+În baza Procesului-verbal de constatare și sancționare a contravenției seria:..... nr......., încheiat în ziua...., luna...., anul....., vă comunicăm prezenta înștiințare de plată pentru suma totală de.............. lei, constituită debit la instituția noastră pe numele dvs.
+După trecerea termenului-limită prevăzut în procesul-verbal sus-menționat, acesta devine titlu executoriu, fără nicio altă formalitate, și se supune executării silite, în condițiile dispozițiilor legale imperative privind executarea silită a creanțelor bugetare.
+Amenda se va achita în contul..............................,deschis la Trezoreria...................., iar documentul doveditor al plății va fi prezentat sau comunicat prin poștă Inspecției Sociale, la adresa....................., în termen de 15 zile de la înmânarea/comunicarea procesului-verbal de constatare și sancționare a contravenției, precum și a înștiințării de plată.
+Această înștiințare de plată se comunică dvs., în calitate de debitor bugetar, conform actelor normative în vigoare, pentru opozabilitate, împreună cu procesul-verbal în cauză.
+Contravenientul nu se află de față/refuză să semneze/nu poate să semneze prezenta înștiințare de plată.
+(Se barează cu o linie continuă situațiile care nu corespund.)
+Se confirmă de martorul:
+Numele și prenumele..............................., prenumele părinților................ și..............., data și locul nașterii................, domiciliul actual stabil.............................., CNP...................., BI/CI, seria..., nr...... emis(ă) de Poliția........., la data de........, ocupația........., locul de muncă............
+Prezenta înștiințare de plată face parte integrantă din Procesul-verbal de constatare și sancționare a contravențiilor cu seria... nr.......... din data de............
+Alte mențiuni......................................................................................................
+Inspector/inspectori social/sociali
+Mi s-a înmânat și am primit o copie
+constatator/constatatori, Martor, a Înștiințării de plată, astăzi,
+..................
+ziua..., luna..., anul.....
+.........................................................
+(numele, prenumele și semnătura contravenientului)
