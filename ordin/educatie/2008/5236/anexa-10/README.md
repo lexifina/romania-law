@@ -1,0 +1,7 @@
+# Anexa nr. 10: 10 PROGRAMĂ ȘCOLARĂ "GEOGRAFIE ȘI ISTORIE LOCALĂ" Nivelul V (Cls. a IV-a) Învățământ special NOTĂ DE PREZENTARE Disciplina de Geografie și istorie locală presupune studiul domeniului istoriei și al ge
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial. Its tables are shown row by row as the official text draws them.
+
+- Official web service (FreeWebService) document: 99740 (https://legislatie.just.ro/Public/DetaliiDocument/99740)
+- sha256 of that document's text as the service returned it: 02dcb31c97528a83fe88c4f49d80b8aea91156c7084a6996343c292c19daa34d
+- Retrieved: 2026-11-03
