@@ -1,0 +1,216 @@
+{
+ "key": "dcc-1217-2008",
+ "label": "Decizia CCR nr. 1217/2008",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "1217",
+ "date": "2008-11-12",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.217 din 12 noiembrie 2008",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a prevederilor articolului unic punctul 8 din Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 7/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, precum şi pentru modificarea Legii nr. 328/2006 pentru aprobarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "808",
+  "bis": false,
+  "date": "2008-12-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.004A/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 7/2008",
+    "number": "7",
+    "year": "2008",
+    "path": "lege/2008/7"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constată că dispoziţiile articolului unic punctul 8 din Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 7/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, precum şi pentru modificarea Legii nr. 328/2006 pentru aprobarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia sunt constituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 7/2008",
+    "number": "7",
+    "year": "2008",
+    "path": "lege/2008/7"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 530/1991",
+    "number": "530",
+    "year": "1991",
+    "path": "hg/1991/530"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 67/1997",
+    "number": "67",
+    "year": "1997",
+    "path": "oug/1997/67"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 39/2005",
+    "number": "39",
+    "year": "2005",
+    "path": "og/2005/39"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 7/2008",
+    "number": "7",
+    "year": "2008",
+    "path": "oug/2008/7"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99743",
+  "text_sha256": "c84eb9dc3381f3ef74cf52c2d3a406b9f2fb144cbd1bee8b7138969763a22a22",
+  "catalogue_sha256": "c84eb9dc3381f3ef74cf52c2d3a406b9f2fb144cbd1bee8b7138969763a22a22",
+  "fetched": "2026-11-03T00:34:36Z",
+  "chars": 20193,
+  "portal_id": "99743",
+  "tip": "DECIZIE"
+ }
+}
