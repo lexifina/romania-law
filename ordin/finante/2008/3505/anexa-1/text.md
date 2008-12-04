@@ -1,0 +1,3 @@
+# Anexa
+DECIZIA Nr. 1/2008
+În înțelesul prevederilor art. 104 alin. (5) lit. c) și ale art. 109 alin. (3) din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare: Persoanele juridice care au optat inițial pentru plata impozitului pe veniturile microîntreprinderilor, care își schimbă obiectul de activitate în cursul anului fiscal, respectiv desfășoară activitățile prevăzute la art. 104 alin. (5) lit. c) din Codul fiscal, plătesc impozitul pe profit potrivit dispozițiilor titlului II din Codul fiscal, începând cu trimestrul în care produc efecte licențele pentru desfășurarea activităților în domeniul jocurilor de noroc, emise de Comisia de autorizare a jocurilor de noroc din cadrul Ministerului Economiei și Finanțelor. ----------
