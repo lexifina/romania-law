@@ -1,0 +1,237 @@
+{
+ "key": "dcc-1172-2008",
+ "label": "Decizia CCR nr. 1172/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1172",
+ "date": "2008-11-06",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.172 din 6 noiembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 39 din Legea fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "832",
+  "bis": false,
+  "date": "2008-12-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "18.543/212/2007",
+  "9.371/212/2006",
+  "1.541D/2008",
+  "1.537D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 39 din Legea fondului funciar nr. 18/1991, excepţie ridicată de Societatea Comercială \"Ilser Oltenia\" - S.R.L. din Constanţa în Dosarele nr. 18.543/212/2007 şi nr. 9.371/212/2006 (număr în format vechi nr. 2.632/R/2006) ale Judecătoriei Constanţa.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/1945",
+    "number": "187",
+    "year": "1945",
+    "path": "lege/1945/187"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României din 1991",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 83/1949",
+    "number": "83",
+    "year": "1949",
+    "path": "decret/1949/83"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100202",
+  "text_sha256": "2a7f055d875064566d37c474d0a7a0ff1de182153416cb8decfc751b44b50c9d",
+  "catalogue_sha256": "2a7f055d875064566d37c474d0a7a0ff1de182153416cb8decfc751b44b50c9d",
+  "fetched": "2026-11-03T00:35:00Z",
+  "chars": 8704,
+  "portal_id": "100202",
+  "tip": "DECIZIE"
+ }
+}
