@@ -1,0 +1,180 @@
+{
+ "key": "dcc-1227-2008",
+ "label": "Decizia CCR nr. 1227/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1227",
+ "date": "2008-11-18",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.227 din 18 noiembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 105 alin. (1) şi art. 106 alin. (1) lit. c) din Ordonanţa de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "838",
+  "bis": false,
+  "date": "2008-12-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.274/64/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 105 alin. (1) şi art. 106 alin. (1) lit. c) din Ordonanţa de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România, excepţie ridicată de Ion Baleca în Dosarul nr. 1.274/64/2007 al Curţii de Apel Braşov - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100240",
+  "text_sha256": "d3f2eb1b53a35de8ceda57b992288c35f25eaf437625d8ea6d6e9c9a7d693584",
+  "catalogue_sha256": "d3f2eb1b53a35de8ceda57b992288c35f25eaf437625d8ea6d6e9c9a7d693584",
+  "fetched": "2026-11-05T14:25:31Z",
+  "chars": 7392,
+  "portal_id": "100240",
+  "tip": "DECIZIE"
+ }
+}
