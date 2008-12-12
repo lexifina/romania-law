@@ -1,0 +1,257 @@
+{
+ "key": "iccj-alte-16-2008",
+ "label": "Decizia ÎCCJ nr. 16/2008",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "alte",
+ "number": "16",
+ "date": "2008-02-18",
+ "year": "2008",
+ "heading": "DECIZIE nr. 16 din 18 februarie 2008",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "837",
+  "bis": false,
+  "date": "2008-12-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "72/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 5 alin. (1) pct. II, art. 94 alin. (1) lit. d) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, cu modificările şi completările ulterioare, raportate la dispoziţiile art. 36 din Legea nr. 393/2004 privind statutul aleşilor locali, modificată şi completată, se interpretează în sensul că:",
+  "Persoanele alese în funcţii de consilieri locali pot cumula pensia de invaliditate de gradul II cu indemnizaţia corespunzătoare funcţiei elective.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100274",
+  "text_sha256": "4dd0d745fd6926015e81660c4f15a09b73c074282949f6a70dafd290a3c2456c",
+  "catalogue_sha256": "4dd0d745fd6926015e81660c4f15a09b73c074282949f6a70dafd290a3c2456c",
+  "fetched": "2026-11-06T04:03:43Z",
+  "chars": 11409,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406003235/https://legislatie.just.ro/Public/DetaliiDocumentAfis/100274",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/100274",
+   "timestamp": "20250406003235",
+   "sha256": "b66120ab33ac7ac69230e1c005d55a514dbc114c148fa56e650cf0805581168e"
+  },
+  "portal_id": "100274",
+  "tip": "DECIZIE"
+ }
+}
