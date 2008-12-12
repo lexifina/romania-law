@@ -1,0 +1,139 @@
+{
+ "key": "dcc-1204-2008",
+ "label": "Decizia CCR nr. 1204/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1204",
+ "date": "2008-11-11",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.204 din 11 noiembrie 2008",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 18 din Decretul Consiliului de Stat nr. 466/1970",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "839",
+  "bis": false,
+  "date": "2008-12-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "712/64/2007"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 18 din Decretul Consiliului de Stat al Republicii Socialiste România nr. 466/1970 privind exproprierea şi trecerea în proprietatea statului a unor imobile, precum şi scoaterea din producţia agricolă a unor terenuri, excepţie ridicată Nagy Borbala, Marko Almos, Sukei Eva, Mathe Agnes, Bartha Francisk, Kolumban Sigismund, Kolumban Ludovic, Marko Zoltan, Gaspar Gyula Szilveszter, Gaspar Andras, Boros Anna, Molnar Simon, Lorincz Judit, Balazsi Sandor, Marko Endre, Farkas Gyula, Tokos Vilmos şi Consiliul Local al comunei Varghis în Dosarul nr. 712/64/2007 al Curţii de Apel Braşov - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100272",
+  "text_sha256": "fd22d7f5a312961961b0dcd55cb62652824807276410ab134c47d17d54d885b5",
+  "catalogue_sha256": "fd22d7f5a312961961b0dcd55cb62652824807276410ab134c47d17d54d885b5",
+  "fetched": "2026-11-03T00:35:06Z",
+  "chars": 9029,
+  "portal_id": "100272",
+  "tip": "DECIZIE"
+ }
+}
