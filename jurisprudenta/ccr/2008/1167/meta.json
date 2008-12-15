@@ -1,0 +1,190 @@
+{
+ "key": "dcc-1167-2008",
+ "label": "Decizia CCR nr. 1167/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1167",
+ "date": "2008-11-06",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.167 din 6 noiembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (1) lit. c) şi art. 26^2 din Ordonanţa Guvernului nr. 25/2002 privind unele măsuri de urmărire a executării obligaţiilor asumate prin contractele de privatizare a societăţilor comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "840",
+  "bis": false,
+  "date": "2008-12-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "38.433/3/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 25/2002",
+    "number": "25",
+    "year": "2002",
+    "path": "og/2002/25"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "26-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (1) lit. c) şi art. 26^2 din Ordonanţa Guvernului nr. 25/2002 privind unele măsuri de urmărire a executării obligaţiilor asumate prin contractele de privatizare a societăţilor comerciale, excepţie ridicată de Societatea Comercială \"Romferchim\" - S.A. din Bucureşti în Dosarul nr. nr. 38.433/3/2007 al Tribunalului Bucureşti - Secţia a VI-a comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 25/2002",
+    "number": "25",
+    "year": "2002",
+    "path": "og/2002/25"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "26-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100568",
+  "text_sha256": "f68dd4c77369a31d69fa881b65543d885daeb90e43e579fcb09dc2a42b2b4795",
+  "catalogue_sha256": "f68dd4c77369a31d69fa881b65543d885daeb90e43e579fcb09dc2a42b2b4795",
+  "fetched": "2026-11-03T00:35:10Z",
+  "chars": 12474,
+  "portal_id": "100568",
+  "tip": "DECIZIE"
+ }
+}
