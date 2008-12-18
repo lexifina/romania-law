@@ -1,0 +1,229 @@
+# Anexa 3
+STAT DE FUNCȚII al Oficiului Național al Denumirilor de Origine pentru Vinuri (ONDOV)
+Nr.
+crt.
+Funcția de execuție
+Funcția de
+conducere
+Codul
+funcției
+COR
+Studii
+medii/
+superi-
+oare
+Ocupat/
+vacant
+1
+CONSILIER INGINER HORTICOL
+DIRECTOR
+GENERAL
+221305
+S
+ocupat
+2
+CONSILIER ECONOMIC
+CONTABIL-ȘEF
+111019
+S
+ocupat
+3
+INSPECTOR DE SPECIALITATE
+ȘEF SERVICIU
+221307
+S
+ocupat
+4
+CONSILIER JURIDIC
+ȘEF SERVICIU
+S
+vacant
+5
+SPECIALIST ÎN RELAȚII PUBLICE
+ȘEF SERVICIU
+S
+vacant
+6
+CONSILIER JURIDIC
+-
+242103
+S
+ocupat
+7
+INSPECTOR DE SPECIALITATE (Dealu
+Mare)
+-
+215206
+S
+ocupat
+8
+CONSILIER ECONOMIC
+-
+111019
+S
+ocupat
+9
+CONSILIER INGINER CHIMIST
+-
+214604
+S
+ocupat
+10
+CONSILIER INGINER HORTICOL
+-
+221305
+S
+ocupat
+11
+CONSILIER INGINER HORTICOL
+-
+221305
+S
+vacant
+12
+CONSILIER ECONOMIC
+-
+111019
+S
+vacant
+13
+AUDITOR INTERN
+-
+111019
+S
+vacant
+14
+EXPERT ACHIZIȚII
+-
+S
+vacant
+15
+SPECIALIST ÎN RELAȚII PUBLICE
+-
+S
+vacant
+16
+SPECIALIST RESURSE UMANE
+-
+S
+vacant
+17
+INSPECTOR PROTECȚIA MUNCII
+-
+S
+vacant
+18
+INSPECTOR DE SPECIALITATE (Vrancea)
+-
+221307
+S
+ocupat
+19
+INSPECTOR DE SPECIALITATE (Banat-
+Crișana)
+-
+221307
+S
+ocupat
+20
+INSPECTOR DE SPECIALITATE (Tulcea)
+-
+221307
+S
+ocupat
+21
+INSPECTOR DE SPECIALITATE (Iași)
+-
+221307
+S
+ocupat
+22
+INSPECTOR DE SPECIALITATE (Alba)
+-
+221307
+S
+ocupat
+23
+INSPECTOR DE SPECIALITATE (Dealu
+Mare)
+-
+221307
+S
+ocupat
+24
+INSPECTOR DE SPECIALITATE
+(Drăgășani)
+-
+221307
+S
+ocupat
+25
+INSPECTOR DE SPECIALITATE
+(Constanța)
+-
+221307
+S
+ocupat
+26
+INSPECTOR DE SPECIALITATE (Oltenia)
+-
+221307
+S
+ocupat
+27
+INSPECTOR DE SPECIALITATE (Iași)
+-
+221307
+S
+ocupat
+28
+INSPECTOR DE SPECIALITATE (Vrancea)
+-
+221307
+S
+ocupat
+29
+INSPECTOR DE SPECIALITATE (Galați)
+-
+215206
+S
+ocupat
+30
+INSPECTOR DE SPECIALITATE
+(Constanța)
+-
+221307
+S
+vacant
+31
+INSPECTOR DE SPECIALITATE (Dealu
+Mare)
+-
+221307
+S
+vacant
+32
+FUNCȚIONAR ECONOMIC
+-
+412202
+M
+ocupat
+33
+ȘOFER DE AUTOTURISME ȘI CAMIONETE
+-
+832201
+M
+ocupat
+34
+SECRETARĂ
+-
+411501
+M
+ocupat
+35
+MENAJERĂ
+-
+313101
+M
+ocupat
+Total: 35 posturi, din care: - de conducere 5 posturi, din care 3 posturi ocupate și două posturi vacante. - de execuție 30 posturi, din care 21 posturi ocupate și 9 posturi vacante. -------
