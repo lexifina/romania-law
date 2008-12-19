@@ -1,0 +1,115 @@
+{
+ "key": "iccj-su-2-2008",
+ "label": "Decizia ÎCCJ nr. 2/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "2",
+ "date": "2008-01-21",
+ "year": "2008",
+ "heading": "DECIZIE nr. 2 din 21 ianuarie 2008",
+ "subtitle": "privind recursul în interesul legii referitor la încadrarea juridică a primului act de tăinuire şi a celor ulterioare dacă, după primul act, tăinuitorul a lăsat să se înţeleagă că va asigura mai departe valorificarea bunurilor sustrase",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "859",
+  "bis": false,
+  "date": "2008-12-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "61/2007"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În situaţia existenţei unui prim act de tăinuire, urmat de o altă acţiune a aceluiaşi tăinuitor care promite că va asigura valorificarea în continuare şi a altor bunuri sustrase, sunt întrunite elementele constitutive ale complicităţii la infracţiunea de furt în formă simplă sau continuată, după caz, în concurs real cu infracţiunea de tăinuire, chiar dacă promisiunea anticipată de tăinuire a bunurilor nu a fost îndeplinită.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100505",
+  "text_sha256": "4528370c3117bad0f360161a5179ca173c661efef54cec713d8b8e5e9cbf3160",
+  "catalogue_sha256": "4528370c3117bad0f360161a5179ca173c661efef54cec713d8b8e5e9cbf3160",
+  "fetched": "2026-11-03T00:35:23Z",
+  "chars": 9328,
+  "portal_id": "100505",
+  "tip": "DECIZIE"
+ }
+}
