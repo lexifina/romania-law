@@ -1,0 +1,130 @@
+{
+ "key": "iccj-su-19-2008",
+ "label": "Decizia ÎCCJ nr. 19/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "19",
+ "date": "2008-03-10",
+ "year": "2008",
+ "heading": "DECIZIE nr. 19 din 10 martie 2008",
+ "subtitle": "privind examinarea recursului în interesul legii, în legătură cu stabilirea termenului în vederea audierii persoanei solicitate, arestată conform art. 89 alin. (3) din Legea nr. 302/2004, modificată şi completată prin Legea nr. 224/2006",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "861",
+  "bis": false,
+  "date": "2008-12-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 90 alin. (1) din Legea nr. 302/2004 se interpretează în sensul că:",
+  "Termenul de cel mult 48 de ore pentru audierea persoanei solicitate se va stabili prin aceeaşi încheiere prin care s-a dispus măsura arestării.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "88-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100685",
+  "text_sha256": "600497a47d72b4506f59cb5e73b4c5c676f6e67c597ef38ed8da9583505bbe49",
+  "catalogue_sha256": "600497a47d72b4506f59cb5e73b4c5c676f6e67c597ef38ed8da9583505bbe49",
+  "fetched": "2026-11-03T00:35:30Z",
+  "chars": 8543,
+  "portal_id": "100685",
+  "tip": "DECIZIE"
+ }
+}
