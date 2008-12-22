@@ -1,0 +1,220 @@
+{
+ "key": "dcc-1222-2008",
+ "label": "Decizia CCR nr. 1222/2008",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "1222",
+ "date": "2008-11-12",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.222 din 12 noiembrie 2008",
+ "subtitle": "asupra cererii de soluţionare a conflictului juridic de natură constituţională dintre Preşedintele României, pe de o parte, şi puterea judecătorească, reprezentată de Înalta Curte de Casaţie şi Justiţie, pe de altă parte",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "864",
+  "bis": false,
+  "date": "2008-12-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.912E/2008"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Curtea Constituţională constată că există un conflict juridic de natură constituţională între Preşedintele României, pe de o parte, şi puterea judecătorească, reprezentată de Înalta Curte de Casaţie şi Justiţie, pe de altă parte, în sensul art. 146 lit. e) din Constituţie şi al practicii instanţei de contencios constituţional în materie, produs în condiţiile neluării în considerare de către Înalta Curte de Casaţie şi Justiţie a Deciziei Curţii Constituţionale nr. 384 din 4 mai 2006, publicată în Monitorul Oficial al României, Partea I, nr. 451 din 24 mai 2006, precum şi a dispoziţiilor legale în vigoare. 2. Curtea Constituţională constată că Decizia nr. 2.289 din 2 mai 2007, pronunţată de Înalta Curte de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal în Dosarul nr. 34.763/2/2005 nu este opozabilă Preşedintelui României, care nu a fost parte în proces. 3. Curtea Constituţională constată că, potrivit art. 94 lit. b) din Constituţie, acordarea gradului de general reprezintă o atribuţie exclusivă a Preşedintelui României.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi Înaltei Curţi de Casaţie şi Justiţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": [
+      "e-1"
+     ]
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "oug/2001/90"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": null,
+     "lit": [
+      "e-1"
+     ]
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/2007",
+    "number": "81",
+    "year": "2007",
+    "path": "lege/2007/81"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "281-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100631",
+  "text_sha256": "76e94f205250279b3b3785ccaece0e96552a66ede5c694620fa451ea5a8df441",
+  "catalogue_sha256": "76e94f205250279b3b3785ccaece0e96552a66ede5c694620fa451ea5a8df441",
+  "fetched": "2026-11-03T00:35:31Z",
+  "chars": 23429,
+  "portal_id": "100631",
+  "tip": "DECIZIE"
+ }
+}
