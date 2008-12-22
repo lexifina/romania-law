@@ -1,0 +1,342 @@
+{
+ "key": "iccj-su-4-2008",
+ "label": "Decizia ÎCCJ nr. 4/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "4",
+ "date": "2008-01-21",
+ "year": "2008",
+ "heading": "DECIZIE nr. 4 din 21 ianuarie 2008",
+ "subtitle": "pentru examinarea recursului în interesul legii, cu privire la încadrarea juridică a faptei de efectuare a unor înregistrări inexacte sau de a omite înregistrările în contabilitate, respectiv, la raportul dintre infracţiunea de evaziune fiscală prevăzută de art. 9 alin. (1) lit. b) şi c) din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale şi aceea de fals intelectual prevăzută la art. 43 din Legea contabilităţii nr. 82/1991.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "868",
+  "bis": false,
+  "date": "2008-12-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "65/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contabilităţii nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/1994",
+    "number": "87",
+    "year": "1994",
+    "path": "lege/1994/87"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Stabilesc că fapta de omisiune, în tot sau în parte, ori evidenţierea în actele contabile sau în alte documente legale a operaţiunilor comerciale efectuate sau a veniturilor realizate ori evidenţierea în actele contabile sau în alte documente legale a cheltuielilor care nu au la bază operaţiuni reale ori evidenţierea altor operaţiuni fictive constituie infracţiunea complexă de evaziune fiscală, prevăzută de art. 9 alin. (1) lit. b) şi c) din Legea nr. 241/2005 [fost art. 11 lit. c), fost art. 13 din Legea nr. 87/1994], nefiind incidente dispoziţiile art. 43 (fost art. 37, fost art. 40) din Legea nr. 82/1991 - Legea contabilităţii, raportat la art. 289 din Codul penal, aceste activităţi fiind cuprinse în conţinutul constitutiv al laturii obiective a infracţiunii de evaziune fiscală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contabilităţii nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/1994",
+    "number": "87",
+    "year": "1994",
+    "path": "lege/1994/87"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 61/2001",
+    "number": "61",
+    "year": "2001",
+    "path": "og/2001/61"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 70/2004",
+    "number": "70",
+    "year": "2004",
+    "path": "og/2004/70"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 259/2007",
+    "number": "259",
+    "year": "2007",
+    "path": "lege/2007/259"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2003",
+    "number": "241",
+    "year": "2003",
+    "path": "lege/2003/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100674",
+  "text_sha256": "cf1e200cb433eec937f4a6ce610644377a968c9efdcce2d6e31907fb52547500",
+  "catalogue_sha256": "cf1e200cb433eec937f4a6ce610644377a968c9efdcce2d6e31907fb52547500",
+  "fetched": "2026-11-04T11:35:21Z",
+  "chars": 12675,
+  "portal_id": "100674",
+  "tip": "DECIZIE"
+ }
+}
