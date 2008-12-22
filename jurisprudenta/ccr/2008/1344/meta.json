@@ -1,0 +1,210 @@
+{
+ "key": "dcc-1344-2008",
+ "label": "Decizia CCR nr. 1344/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1344",
+ "date": "2008-12-09",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.344 din 9 decembrie 2008",
+ "subtitle": "referitoare la respingerea excepţiei de neconstituţionalitate a prevederilor art. 11 din Ordonanţa de urgenţă a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "866",
+  "bis": false,
+  "date": "2008-12-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.731/108/2008",
+  "3.209/30/2008",
+  "2.562/108/2008",
+  "2.053D/2008",
+  "2.151D/2008",
+  "1.989D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 11 din Ordonanţa de urgenţă a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule, excepţie ridicată de Ionel Trebuie în Dosarul nr. 2.731/108/2008 al Tribunalului Arad - Secţia de contencios administrativ şi fiscal, litigii de muncă şi asigurări sociale, din oficiu în dosarele nr. 1.666/90/2008, nr. 1.943/90/2008, nr. 1.992/90/2008, nr. 2.115/90/2008, nr. 2.116/90/2008, nr. 2.033/90/2008, nr. 2.034/90/2008 şi nr. 2.853/90/2008 ale Tribunalului Vâlcea - Secţia comercială şi contencios administrativ fiscal, din oficiu în dosarele nr. 1.866/98/2008 (nr. în format vechi 1.351/2008) şi nr. 2.008/98/2008 (nr. în format vechi 1.435/2008) ale Tribunalului Ialomiţa - Secţia civilă, de Societatea Comercială \"Adriana Distribution\" - S.R.L., din judeţul Timiş, în Dosarul nr. 3.209/30/2008 al Tribunalului Timiş - Secţia comercială şi de contencios administrativ, de Raul Flavius Tătar în Dosarul nr. 2.562/108/2008 al Tribunalului Arad - Secţia de contencios administrativ şi fiscal, litigii de muncă şi asigurări sociale, din oficiu în dosarele nr. 1.262/108/2008, nr. 2.589/108/2008, nr. 2.668/108/2008, nr. 3.253/108/2008, nr. 3.113/108/2008 şi nr. 2.757/108/2008 ale Tribunalului Arad - Secţia de contencios administrativ şi fiscal, litigii de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [
+    {
+     "art": "214-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 343/2006",
+    "number": "343",
+    "year": "2006",
+    "path": "lege/2006/343"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101292",
+  "text_sha256": "4e323654df6d409192c335323a3c1fa6613c6e32e9d7d68a6e06f9e1e3a7d8b0",
+  "catalogue_sha256": "4e323654df6d409192c335323a3c1fa6613c6e32e9d7d68a6e06f9e1e3a7d8b0",
+  "fetched": "2026-11-03T00:35:35Z",
+  "chars": 15758,
+  "portal_id": "101292",
+  "tip": "DECIZIE"
+ }
+}
