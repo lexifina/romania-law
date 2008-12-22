@@ -1,0 +1,252 @@
+{
+ "key": "iccj-ril-8-2008",
+ "label": "Decizia ÎCCJ nr. 8/2008 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "8",
+ "date": "2008-01-21",
+ "year": "2008",
+ "heading": "DECIZIE nr. 8 din 21 ianuarie 2008",
+ "subtitle": "privind examinarea recursului în interesul legii, prevăzute de art. 10 din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, în ipoteza situaţiilor tranzitorii generate de săvârşirea faptelor sub imperiul legii vechi în materie (Legea nr. 87/1994) şi judecarea acestora după intrarea în vigoare a legii noi",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "866",
+  "bis": false,
+  "date": "2008-12-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "48/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/1994",
+    "number": "87",
+    "year": "1994",
+    "path": "lege/1994/87"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie, şi stabilesc:",
+  "În cazul faptelor săvârşite sub imperiul Legii nr. 87/1994 şi al judecării lor după intrarea în vigoare a Legii nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, pot beneficia de cauzele de impunitate sau de reducere a pedepsei reglementate de art. 10 din această lege numai cei în sarcina cărora s-a reţinut, prin aplicarea art. 13 din Codul penal, săvârşirea unei infracţiuni fiscale prevăzute de art. 9 din Legea nr. 241/2005.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/1994",
+    "number": "87",
+    "year": "1994",
+    "path": "lege/1994/87"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "280",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101295",
+  "text_sha256": "4ec6e5086dce390a4a5af41ba49a2cb1fe47982eb4863c4e24608e4491a73056",
+  "catalogue_sha256": "4ec6e5086dce390a4a5af41ba49a2cb1fe47982eb4863c4e24608e4491a73056",
+  "fetched": "2026-11-03T00:35:35Z",
+  "chars": 11436,
+  "portal_id": "101295",
+  "tip": "DECIZIE"
+ }
+}
