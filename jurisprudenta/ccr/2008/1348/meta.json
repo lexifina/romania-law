@@ -1,0 +1,175 @@
+{
+ "key": "dcc-1348-2008",
+ "label": "Decizia CCR nr. 1348/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1348",
+ "date": "2008-12-09",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.348 din 9 decembrie 2008",
+ "subtitle": "referitoare la respingerea excepţiei de neconstituţionalitate a prevederilor art. 68 alin. (2) şi (3) şi art. 69 alin. (3) din Legea nr. 272/2004 privind protecţia şi promovarea drepturilor copilului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "866",
+  "bis": false,
+  "date": "2008-12-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "29.695/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 68 alin. (2) şi (3) şi art. 69 alin. (3) din Legea nr. 272/2004 privind protecţia şi promovarea drepturilor copilului, excepţie ridicată de Veronica Motoc şi Petrică Motoc în Dosarul nr. 29.695/3/2008 al Tribunalului Bucureşti - Secţia a V-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101293",
+  "text_sha256": "0d2d1ec276188389555a31898b731f24c9bafc6e0c3f363f48d8a3c528aa7ae0",
+  "catalogue_sha256": "0d2d1ec276188389555a31898b731f24c9bafc6e0c3f363f48d8a3c528aa7ae0",
+  "fetched": "2026-11-03T00:35:35Z",
+  "chars": 8411,
+  "portal_id": "101293",
+  "tip": "DECIZIE"
+ }
+}
