@@ -1,0 +1,128 @@
+{
+ "key": "iccj-su-3-2008",
+ "label": "Decizia ÎCCJ nr. 3/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "3",
+ "date": "2008-01-21",
+ "year": "2008",
+ "heading": "DECIZIE nr. 3 din 21 ianuarie 2008",
+ "subtitle": "pentru examinarea recursului în interesul legii, privind admisibilitatea cererii de executare a mandatului european de arestare, emisă anterior datei de 1 ianuarie 2007 de către autorităţile competente ale unui stat membru solicitant, însă transmisă autorităţii judiciare de executare a statului român după aderarea României la Uniunea Europeană.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "868",
+  "bis": false,
+  "date": "2008-12-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "62/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În vederea interpretării şi aplicării unitare a dispoziţiilor art. 108 din Legea nr. 302/2004, stabilesc că sintagma \"care se emit ulterior intrării sale în vigoare\" din conţinutul acestui text de lege se referă la mandatele europene de arestare emise de autorităţile române după data de 1 ianuarie 2007, iar nu la cele emise de autorităţile străine şi transmise României spre executare.",
+  "În consecinţă, cererile de executare a mandatelor europene de arestare emise de autorităţile competente ale unui stat membru solicitant şi transmise spre executare autorităţilor judiciare române sunt admisibile.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "mo: date 2008-12-22 vs catalogue DataVigoare 2008-03-28"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100673",
+  "text_sha256": "5522ead6ff8cebd6a180117e81c7188fedecbcc83f06a0e1835c90704d831a47",
+  "catalogue_sha256": "5522ead6ff8cebd6a180117e81c7188fedecbcc83f06a0e1835c90704d831a47",
+  "fetched": "2026-11-04T03:25:30Z",
+  "chars": 8592,
+  "portal_id": "100673",
+  "tip": "DECIZIE"
+ }
+}
