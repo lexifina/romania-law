@@ -1,0 +1,169 @@
+{
+ "key": "iccj-ril-12-2008",
+ "label": "Decizia ÎCCJ nr. 12/2008 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "12",
+ "date": "2008-02-18",
+ "year": "2008",
+ "heading": "DECIZIE nr. 12 din 18 februarie 2008",
+ "subtitle": "privind examinarea recursului în interesul legii, în legătură cu consecinţele modificării (în sensul majorării) preţului mediu al unui metru cub de masă lemnoasă pe picior, în cazul infracţiunilor ce aduc atingere fondului forestier",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "866",
+  "bis": false,
+  "date": "2008-12-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "71/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Modificarea, în sensul majorării preţului mediu al unui metru cub de masă lemnoasă pe picior, intervenită ulterior comiterii faptei, conduce, în cazul infracţiunilor ce aduc atingere fondului forestier, la lipsa unuia dintre elementele constitutive ale infracţiunii, ceea ce atrage incidenţa dispoziţiilor art. 10 lit. d) din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1996",
+    "number": "26",
+    "year": "1996",
+    "path": "lege/1996/26"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "98",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "b"
+     ]
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101296",
+  "text_sha256": "1d5e9af71e652393f90358dbdcda04cc29174bfe4462e0db827adc3169c36db4",
+  "catalogue_sha256": "1d5e9af71e652393f90358dbdcda04cc29174bfe4462e0db827adc3169c36db4",
+  "fetched": "2026-11-03T00:35:35Z",
+  "chars": 11389,
+  "portal_id": "101296",
+  "tip": "DECIZIE"
+ }
+}
