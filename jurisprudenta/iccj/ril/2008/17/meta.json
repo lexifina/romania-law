@@ -1,0 +1,176 @@
+{
+ "key": "iccj-ril-17-2008",
+ "label": "Decizia ÎCCJ nr. 17/2008 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "17",
+ "date": "2008-03-10",
+ "year": "2008",
+ "heading": "DECIZIE nr. 17 din 10 martie 2008",
+ "subtitle": "privind examinarea recursului în interesul legii, în legătură cu stabilirea încadrării juridice a pluralităţii de acte sexuale săvârşite în realizarea aceleiaşi rezoluţii infracţionale atunci când victima este membru al familiei, prin constrângerea acesteia sau profitând de imposibilitatea ei de a se apăra ori de a-şi exprima voinţa, atât înainte, cât şi după ce aceasta a împlinit 15 ani",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "866",
+  "bis": false,
+  "date": "2008-12-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "74/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "b-1"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "203",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie. 1. Raportul sexual săvârşit în realizarea aceleiaşi rezoluţii infracţionale, atunci când victima este membru al familiei, prin constrângerea acesteia sau profitând de imposibilitatea ei de a se apăra ori de a-şi exprima voinţa, atât înainte, cât şi după ce aceasta a împlinit 15 ani, întruneşte elementele constitutive ale infracţiunii de viol prevăzute de art. 197 alin. 1 raportat la alin. 2 lit. b^1) şi alin. 3 teza I, cu aplicarea art. 41 alin. 2 din Codul penal. 2. Infracţiunea de viol, în modalitatea raportului sexual, prevăzută de art. 197 alin. 1 din Codul penal raportat la alin. 2 lit. b^1) şi alin. 3 teza I din Codul penal, cu aplicarea art. 41 alin. 2 din Codul penal, se va reţine în concurs cu infracţiunea de incest prevăzută de art. 203 din Codul penal, cu aplicarea art. 41 alin. 2 din Codul penal.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "b-1"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "203",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "149-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 89/2001",
+    "number": "89",
+    "year": "2001",
+    "path": "oug/2001/89"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101298",
+  "text_sha256": "b1650242f3ad15683f4aa8d210adf976dc3d20c6938224c2fcef1d127ce41100",
+  "catalogue_sha256": "b1650242f3ad15683f4aa8d210adf976dc3d20c6938224c2fcef1d127ce41100",
+  "fetched": "2026-11-03T00:35:35Z",
+  "chars": 13379,
+  "portal_id": "101298",
+  "tip": "DECIZIE"
+ }
+}
