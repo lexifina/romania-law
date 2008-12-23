@@ -1,0 +1,24 @@
+# DECIZIE nr. 1.326 din 4 decembrie 2008
+referitoare la respingerea excepţiei de neconstituţionalitate a dispoziţiilor art. 506 alin. 1 şi 2 din Codul de procedură penală
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Augustin Zegrean - judecător Antonia Constantin - procuror Afrodita Laura Tutunaru - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 506 alin. 1 şi 2 din Codul de procedură penală, excepţie ridicată de Gheorghe Silviu Trifănescu în Dosarul nr. 7.728/63/2008 al Tribunalului Dolj - Secţia civilă.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza se află în stare de judecată.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate ca neîntemeiată, sens în care face trimitere la jurisprudenţa Curţii Constituţionale în materie.
+CURTEA, având în vedere actele şi lucrările dosarului, constată următoarele:
+Prin Încheierea din 27 iunie 2008, pronunţată în Dosarul nr. 7.728/63/2008, Tribunalul Dolj - Secţia civilă a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 506 alin. 1 şi 2 din Codul de procedură penală, excepţie ridicată de Gheorghe Silviu Trifănescu în dosarul de mai sus.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că dispoziţiile legale atacate contravin prevederilor art. 11, 16, 20, 21 şi 44 din Constituţia României, precum şi ale art. 6 din Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale, deoarece îi exclude din categoria persoanelor care pot continua acţiunea în repararea de către stat a pagubei suferite pe moştenitorii persoanei condamnate pe nedrept - alţii decât cei care se aflau în îngrijirea acesteia.
+Tribunalul Dolj - Secţia civilă opinează că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că dispoziţiile legale atacate nu contravin Constituţiei.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile legale criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională constată că a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 506 alin. 1 şi 2 din Codul de procedură penală, cu denumirea marginală Acţiunea pentru repararea pagubei, dispoziţii care au următorul cuprins:
+"Acţiunea pentru repararea pagubei poate fi pornită de persoana îndreptăţită, potrivit art. 504, iar după moartea acesteia poate fi continuată sau pornită de către persoanele care se aflau în întreţinerea sa.
+Acţiunea poate fi introdusă în termen de 18 luni de la data rămânerii definitive, după caz, a hotărârilor instanţei de judecată sau a ordonanţelor procurorului, prevăzute în art. 504." Examinând excepţia de neconstituţionalitate, Curtea constată că asupra dispoziţiilor legale criticate s-a pronunţat prin Decizia nr. 351 din 20 martie 2008, publicată în Monitorul Oficial al României, Partea I, nr. 303 din 17 aprilie 2008, statuând că, din perspectiva criticilor, excepţia apare ca inadmisibilă.
+Deoarece până în prezent nu au intervenit elemente noi, de natură să determine schimbarea acestei jurisprudenţe, considerentele deciziei sus-menţionate îşi păstrează valabilitatea şi în prezenta cauză.
+Pentru considerentele expuse, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art.11 alin. (1) lit. A. d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 506 alin. 1 şi 2 din Codul de procedură penală, excepţie ridicată de Gheorghe Silviu Trifănescu în Dosarul nr. 7.728/63/2008 al Tribunalului Dolj - Secţia civilă.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 4 decembrie 2008.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Afrodita Laura Tutunaru -----
