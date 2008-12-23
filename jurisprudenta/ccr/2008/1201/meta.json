@@ -1,0 +1,158 @@
+{
+ "key": "dcc-1201-2008",
+ "label": "Decizia CCR nr. 1201/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1201",
+ "date": "2008-11-11",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.201 din 11 noiembrie 2008",
+ "subtitle": "privind respingerea excepţiei de neconstituţionalitate a dispoziţiilor art. 3 din Decretul-lege nr. 126/1990 privind unele măsuri referitoare la Biserica Română Unită cu Roma (greco-catolică), astfel cum au fost modificate prin Ordonanţa Guvernului nr. 64/2004, aprobată cu modificări şi completări prin Legea nr. 182/2005",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "873",
+  "bis": false,
+  "date": "2008-12-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "486/100/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 126/1990",
+    "number": "126",
+    "year": "1990",
+    "path": "decret-lege/1990/126"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 3 din Decretul-lege nr. 126/1990 privind unele măsuri referitoare la Biserica Română Unită cu Roma (greco-catolică), astfel cum au fost modificate prin Ordonanţa Guvernului nr. 64/2004, aprobată cu modificări şi completări prin Legea nr. 182/2005, excepţie ridicată de Parohia Ortodoxă Română Siseşti, în Dosarul nr. 486/100/2008 al Tribunalului Maramureş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 126/1990",
+    "number": "126",
+    "year": "1990",
+    "path": "decret-lege/1990/126"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 64/2004",
+    "number": "64",
+    "year": "2004",
+    "path": "og/2004/64"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101208",
+  "text_sha256": "cc0424933ce9fb3bcd7833d60e81c4dc44c596f26d10e47319caff68d358f747",
+  "catalogue_sha256": "cc0424933ce9fb3bcd7833d60e81c4dc44c596f26d10e47319caff68d358f747",
+  "fetched": "2026-11-03T00:35:40Z",
+  "chars": 9618,
+  "portal_id": "101208",
+  "tip": "DECIZIE"
+ }
+}
