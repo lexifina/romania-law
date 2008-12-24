@@ -1,0 +1,141 @@
+{
+ "key": "dcc-1365-2008",
+ "label": "Decizia CCR nr. 1365/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1365",
+ "date": "2008-12-11",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.365 din 11 decembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 282 alin. 2 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "876",
+  "bis": false,
+  "date": "2008-12-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "289/3/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "282",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 282 alin. 2 din Codul de procedură civilă, excepţie ridicată de Ioan Onofriciuc din Bucureşti în Dosarul nr. 289/3/2000 al Curţii de Apel Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "282",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100805",
+  "text_sha256": "a15bd10829093c07772f62ead0b8f22f730916c2e419e315424c1a82b2ef473e",
+  "catalogue_sha256": "a15bd10829093c07772f62ead0b8f22f730916c2e419e315424c1a82b2ef473e",
+  "fetched": "2026-11-03T00:35:47Z",
+  "chars": 5735,
+  "portal_id": "100805",
+  "tip": "DECIZIE"
+ }
+}
