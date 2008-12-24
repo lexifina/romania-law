@@ -1,0 +1,4 @@
+# Text
+Art. II. – (1) CNPR are obligația de a transmite ANC, în vederea aprobării, în termen de 60 de zile de la data intrării în vigoare a prezentei decizii, regulile aplicabile furnizării serviciilor poștale din sfera serviciului universal pe care are obligația să le presteze, precum și, în vederea avizării, contractul-cadru de furnizare a acestor servicii, cu respectarea tuturor dispozițiilor Deciziei președintelui Autorității Naționale de Reglementare în Comunicații nr. 88/EN/2004, cu modificările ulterioare și cu modificările aduse prin prezenta decizie.
+(2) Prevederile art. 11 alin. (2) din Decizia președintelui Autorității Naționale de Reglementare în Comunicații nr. 88/EN/2004, cu modificările ulterioare, se aplică în mod corespunzător.
+Art. III. – Prezenta decizie se publică în Monitorul Oficial al României, Partea I.
