@@ -1,0 +1,169 @@
+{
+ "key": "cedo-33945-04-2008-02-07",
+ "label": "CEDO, Şerbănescu c. României, 2008-02-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-02-07",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 7 februarie 2008",
+ "subtitle": "În Cauza Şerbănescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "886",
+  "bis": false,
+  "date": "2008-12-29",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "33945/04"
+ ],
+ "case_name": "Şerbănescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie, din cauza nerespectării principiului securităţii raporturilor juridice; 3. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 4. hotărăşte",
+  "a) ca statul pârât să îi restituie reclamantului imobilul situat în Sinaia, str. Cuza Vodă nr. 7, compus dintr-o casă cu 3 niveluri şi terenul aferent în suprafaţă de 1.146 mp, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa acestei restituiri, statul pârât să îi plătească reclamantului, în acelaşi termen de 3 luni, suma de 575.000 EUR (cinci sute şaptezeci şi cinci mii euro) cu titlu de daune materiale;",
+  "c) ca, în orice caz, statul pârât să îi plătească reclamantului suma de 2.500 EUR (două mii cinci sute euro) cu titlu de daune morale, plus orice sumă ce ar putea fi datorată cu titlu de impozit pentru sumele menţionate mai sus, sume ce vor fi convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "d) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a dobânzii facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101320",
+  "text_sha256": "6dc154fe51d7948fc4c1e51687bd0db221d398947f6a79a5b5603dcab5499d6b",
+  "catalogue_sha256": "6dc154fe51d7948fc4c1e51687bd0db221d398947f6a79a5b5603dcab5499d6b",
+  "fetched": "2026-11-03T00:35:52Z",
+  "chars": 27452,
+  "portal_id": "101320",
+  "tip": "HOTĂRÂRE"
+ }
+}
