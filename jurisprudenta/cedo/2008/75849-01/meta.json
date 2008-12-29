@@ -1,0 +1,215 @@
+{
+ "key": "cedo-75849-01-2008-02-07",
+ "label": "CEDO, Tarik c. României, 2008-02-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-02-07",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 7 februarie 2008",
+ "subtitle": "în Cauza Tarik împotriva României - (Cererea nr. 75.849/01)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "890",
+  "bis": false,
+  "date": "2008-12-29",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "75849/01",
+  "68479/01"
+ ],
+ "case_name": "Tarik",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 2. hotărăşte că nu este cazul să analizeze pe fond capătul de cerere întemeiat pe art. 6 § 1 din Convenţie; 3. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantei, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, 8.000 EUR (opt mii euro) cu titlu de daune materiale şi morale, precum şi orice sumă care ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu trei puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1994",
+    "number": "17",
+    "year": "1994",
+    "path": "lege/1994/17"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2001",
+    "number": "241",
+    "year": "2001",
+    "path": "lege/2001/241"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100944",
+  "text_sha256": "c596813fb71450cdc96892b74c8cdecfde15df63cc093c72017e10549f6e7ecf",
+  "catalogue_sha256": "c596813fb71450cdc96892b74c8cdecfde15df63cc093c72017e10549f6e7ecf",
+  "fetched": "2026-11-03T00:35:51Z",
+  "chars": 39353,
+  "portal_id": "100944",
+  "tip": "HOTĂRÂRE"
+ }
+}
