@@ -1,0 +1,195 @@
+{
+ "key": "dcc-1311-2008",
+ "label": "Decizia CCR nr. 1311/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1311",
+ "date": "2008-12-02",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.311 din 2 decembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1, art. 4 alin. (1) şi (3), art. 5 şi art. 9 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 130/2004 privind unele măsuri pentru vânzarea de către societăţile comerciale, companiile şi societăţile naţionale din sectorul energiei, petrolului, gazelor naturale, resurselor minerale şi al industriei de apărare, precum şi de către alţi agenţi economici din subordinea Ministerului Economiei şi Comerţului a locuinţelor pe care aceştia le au în patrimoniu personalului propriu, titularilor contractelor de închiriere, pensionarilor sau disponibilizaţilor cu ultimul loc de muncă la aceşti agenţi economici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "884",
+  "bis": false,
+  "date": "2008-12-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.460/233/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 130/2004",
+    "number": "130",
+    "year": "2004",
+    "path": "oug/2004/130"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 1, art. 4 alin. (1) şi (3), art. 5 şi art. 9 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 130/2004 privind unele măsuri pentru vânzarea de către societăţile comerciale, companiile şi societăţile naţionale din sectorul energiei, petrolului, gazelor naturale, resurselor minerale şi al industriei de apărare, precum şi de către alţi agenţi economici din subordinea Ministerului Economiei şi Comerţului a locuinţelor pe care aceştia le au în patrimoniu personalului propriu, titularilor contractelor de închiriere, pensionarilor sau disponibilizaţilor cu ultimul loc de muncă la aceşti agenţi economici, excepţie ridicată de Florentina (Deceanu) Lefter din Galaţi în Dosarul nr. 2.460/233/2007 al Judecătoriei Ploieşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 130/2004",
+    "number": "130",
+    "year": "2004",
+    "path": "oug/2004/130"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 189/2005",
+    "number": "189",
+    "year": "2005",
+    "path": "lege/2005/189"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101301",
+  "text_sha256": "edd6bee1e48912f4405b5994a76d014f2117b663984e7e601d254c3b5784d526",
+  "catalogue_sha256": "edd6bee1e48912f4405b5994a76d014f2117b663984e7e601d254c3b5784d526",
+  "fetched": "2026-11-03T00:35:51Z",
+  "chars": 9151,
+  "portal_id": "101301",
+  "tip": "DECIZIE"
+ }
+}
