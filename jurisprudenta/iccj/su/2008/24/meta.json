@@ -1,0 +1,245 @@
+{
+ "key": "iccj-su-24-2008",
+ "label": "Decizia ÎCCJ nr. 24/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "24",
+ "date": "2008-05-12",
+ "year": "2008",
+ "heading": "DECIZIE nr. 24 din 12 mai 2008",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "894",
+  "bis": false,
+  "date": "2008-12-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "7/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 8/2007",
+    "number": "8",
+    "year": "2007",
+    "path": "og/2007/8"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabilesc:",
+  "Dispoziţiile art. 19 alin. (3) din Legea nr. 50/1996 privind salarizarea şi alte drepturi ale personalului din organele autorităţii judecătoreşti, republicată, şi ale art. 3 alin. (8) din Ordonanţa Guvernului nr. 8/2007 privind salarizarea personalului auxiliar din cadrul instanţelor judecătoreşti şi al parchetelor de pe lângă acestea, precum şi din cadrul altor unităţi din sistemul justiţiei se interpretează în sensul că indemnizaţia lunară de 10% din salariul de bază nu se cuvine decât categoriilor de grefieri expres şi limitativ prevăzute de normele mai sus menţionate.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 8/2007",
+    "number": "8",
+    "year": "2007",
+    "path": "og/2007/8"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 284/1973",
+    "number": "284",
+    "year": "1973",
+    "path": "decret/1973/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100939",
+  "text_sha256": "70434639b1b377918771edaa755c18a3e720261a2db1a378537c0348e31ca34a",
+  "catalogue_sha256": "70434639b1b377918771edaa755c18a3e720261a2db1a378537c0348e31ca34a",
+  "fetched": "2026-11-06T03:58:13Z",
+  "chars": 19410,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406113424/https://legislatie.just.ro/Public/DetaliiDocumentAfis/100939",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/100939",
+   "timestamp": "20250406113424",
+   "sha256": "0bc814850814f4ddd749c5b204ca6602a25a10b5fd8a168415d2f68a7f55269b"
+  },
+  "portal_id": "100939",
+  "tip": "DECIZIE"
+ }
+}
