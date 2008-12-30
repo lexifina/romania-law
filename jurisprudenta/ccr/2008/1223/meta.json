@@ -1,0 +1,330 @@
+{
+ "key": "dcc-1223-2008",
+ "label": "Decizia CCR nr. 1223/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1223",
+ "date": "2008-11-18",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.223 din 18 noiembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 278 şi 278^1 din Codul de procedură penală şi ale art. 29 alin. (3) şi (6) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "893",
+  "bis": false,
+  "date": "2008-12-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.264/259/2007",
+  "7.565/245/2008",
+  "12.917/245/2007",
+  "25.069/245/2007",
+  "14.681/245/2007",
+  "619/245/2008",
+  "18.468/325/2007",
+  "10.838/325/2006",
+  "5.710/325/2008",
+  "18.460/325/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 29 alin. (3) şi (6) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, excepţie ridicată de Societatea Agricolă Inoteşti din Comuna Colceag, Judeţul Prahova, în Dosarul nr. 1.264/259/2007 al Tribunalului Prahova - Secţia penală.",
+  "II. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 278 şi 278^1 din Codul de procedură penală, excepţie ridicată de Societatea Agricolă Inoteşti din Comuna Colceag, Judeţul Prahova, în Dosarul nr. 1.264/259/2007 al Tribunalului Prahova - Secţia penală, de Eugenia Arnăutu în Dosarul nr. 7.565/245/2008 şi de Grigore Abuhnoaie în Dosarul nr. 12.917/245/2007, ambele dosare ale Judecătoriei Iaşi - Secţia penală, de Compania Naţională Poşta Română - Direcţia Regională de Poştă Iaşi în Dosarul nr. 25.069/245/2007, de Maria Georgescu în Dosarul nr. 14.681/245/2007 şi de Constantin Ovidiu Fedor în Dosarul nr. 619/245/2008, toate trei dosare ale Tribunalului Iaşi - Secţia penală, de Lucian Valeriu Moşoni în Dosarul nr. 18.468/325/2007 şi de Volumeia Elena Leucă în Dosarul nr. 10.838/325/2006, ambele dosare ale Tribunalului Timiş - Secţia penală, de Societatea Comercială \"Romel Interests Production and Services\" - S.A. Timişoara în Dosarul nr. 5.710/325/2008 şi de Marcel Şerban şi Aurica Şerban în Dosarul nr. 18.460/325/2007, ambele dosare ale Judecătoriei Timişoara, de Ioan Dimeny în Dosarul nr. 2.495/305/2007 al Judecătoriei Sfântu Gheorghe, de Societatea Agricolă Inoteşti din Comuna Colceag, Judeţul Prahova, în Dosarul nr. 450/42/2008 al Curţii de Apel Ploieşti - Secţia penală şi pentru cauze cu minori şi de familie, de Nicolae Ştefan în Dosarul nr. 2.595/302/2008 al Judecătoriei Sectorului 5 Bucureşti - Secţia I penală, de Marin Oprea în Dosarul nr. 652/292/2008 al Judecătoriei Roşiorii de Vede, de Ovidiu Nicodim în Dosarul nr. 1.139/279/2008 al Tribunalului Neamţ - Secţia penală, de Tudoriţa Minciu în Dosarul nr. 153/36/2008 al Curţii de Apel Constanţa - Secţia penală şi pentru cauze penale cu minori şi de familie, de Mina Cornaciu în Dosarul nr. 7.587/212/2008 al Judecătoriei Constanţa - Secţia penală, de Tiziano Chiarotto şi Bianca Olivia Turdean (fostă Brînzeu) în Dosarul nr. 2.399/30/2008 al Curţii de Apel Timişoara - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": [
+      "2",
+      "6",
+      "1",
+      "8",
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "277",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "276",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 60
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 480/2004",
+    "number": "480",
+    "year": "2004",
+    "path": "lege/2004/480"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2008-12-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101315",
+  "text_sha256": "e73dcff6af34837a946df55a69b694d60f6be51669e64c9f91735dc59e5781e4",
+  "catalogue_sha256": "e73dcff6af34837a946df55a69b694d60f6be51669e64c9f91735dc59e5781e4",
+  "fetched": "2026-11-03T00:35:58Z",
+  "chars": 44143,
+  "portal_id": "101315",
+  "tip": "DECIZIE"
+ }
+}
