@@ -1,0 +1,383 @@
+{
+ "key": "iccj-su-23-2008",
+ "label": "Decizia ÎCCJ nr. 23/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "23",
+ "date": "2008-05-12",
+ "year": "2008",
+ "heading": "DECIZIE nr. 23 din 12 mai 2008",
+ "subtitle": "privind examinarea recursului în interesul legii, cu privire la aplicarea dispoziţiilor art. 40 şi 41 din Ordonanţa de urgenţă a Guvernului nr. 92/2004 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pe anul 2005, aprobată cu modificări şi completări prin Legea nr. 76/2005, ale art. 42 din Ordonanţa Guvernului nr. 2/2006 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pentru anul 2006, aprobată cu modificări şi completări prin Legea nr. 417/2006, şi ale art. 41 din Ordonanţa Guvernului nr. 6/2007 privind unele măsuri de reglementare a drepturilor salariale şi a altor drepturi ale funcţionarilor publici până la intrarea în vigoare a legii privind sistemul unitar de salarizare şi alte drepturi ale funcţionarilor publici, precum şi creşterile salariale care se acordă funcţionarilor publici în anul 2007, aprobată cu modificări şi completări prin Legea nr. 232/2007, referitor la posibilitatea funcţionarilor publici din cadrul instanţelor şi parchetelor de a beneficia, începând cu data de 1 ianuarie 2005, de anumite drepturi băneşti reglementate de legislaţia specifică personalului auxiliar de specialitate",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "895",
+  "bis": false,
+  "date": "2008-12-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "6/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 92/2004",
+    "number": "92",
+    "year": "2004",
+    "path": "oug/2004/92"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2006",
+    "number": "2",
+    "year": "2006",
+    "path": "og/2006/2"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 6/2007",
+    "number": "6",
+    "year": "2007",
+    "path": "og/2007/6"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 40 şi 41 din Ordonanţa de urgenţă a Guvernului nr. 92/2004 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pe anul 2005, aprobată cu modificări şi completări prin Legea nr. 76/2005, ale art. 42 din Ordonanţa Guvernului nr. 2/2006 privind reglementarea drepturilor salariale şi a altor drepturi ale funcţionarilor publici pentru anul 2006, aprobată cu modificări şi completări prin Legea nr. 417/2006, şi ale art. 41 din Ordonanţa Guvernului nr. 6/2007 privind unele măsuri de reglementare a drepturilor salariale şi a altor drepturi ale funcţionarilor publici până la intrarea în vigoare a legii privind sistemul unitar de salarizare şi alte drepturi ale funcţionarilor publici, precum şi creşterile salariale care se acordă funcţionarilor publici în anul 2007, aprobată cu modificări şi completări prin Legea nr. 232/2007, se interpretează în sensul că:",
+  "Funcţionarii publici din cadrul instanţelor şi parchetelor nu beneficiază de drepturile băneşti reglementate de legislaţia specifică personalului auxiliar de specialitate din cadrul instanţelor şi al parchetelor de pe lângă acestea.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 92/2004",
+    "number": "92",
+    "year": "2004",
+    "path": "oug/2004/92"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2006",
+    "number": "2",
+    "year": "2006",
+    "path": "og/2006/2"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 6/2007",
+    "number": "6",
+    "year": "2007",
+    "path": "og/2007/6"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 245/2000",
+    "number": "245",
+    "year": "2000",
+    "path": "oug/2000/245"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 725/2001",
+    "number": "725",
+    "year": "2001",
+    "path": "lege/2001/725"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 192/2002",
+    "number": "192",
+    "year": "2002",
+    "path": "oug/2002/192"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 123/2003",
+    "number": "123",
+    "year": "2003",
+    "path": "oug/2003/123"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 10/2004",
+    "number": "10",
+    "year": "2004",
+    "path": "oug/2004/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 82/2004",
+    "number": "82",
+    "year": "2004",
+    "path": "oug/2004/82"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 52/1991",
+    "number": "52",
+    "year": "1991",
+    "path": "lege/1991/52"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/1996",
+    "number": "56",
+    "year": "1996",
+    "path": "lege/1996/56"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 177/2002",
+    "number": "177",
+    "year": "2002",
+    "path": "oug/2002/177"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 8/2007",
+    "number": "8",
+    "year": "2007",
+    "path": "og/2007/8"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2008-12-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/100940",
+  "text_sha256": "5c7a49dd3e0643cf54985d44f6a5a3df4f9e8b41c10c9b6dfa486a18582e449f",
+  "catalogue_sha256": "5c7a49dd3e0643cf54985d44f6a5a3df4f9e8b41c10c9b6dfa486a18582e449f",
+  "fetched": "2026-11-04T04:31:01Z",
+  "chars": 27550,
+  "portal_id": "100940",
+  "tip": "DECIZIE"
+ }
+}
