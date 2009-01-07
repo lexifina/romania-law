@@ -1,0 +1,82 @@
+# Anexa 1
+Anexa nr. 2 la Ghid LISTA REGLEMENTARILOR, ACORDURILOR ȘI CONVENȚIILOR ÎN DOMENIUL
+NUCLEAR
+Legea nr. 111/1996
+Ref. [1] Legea nr. 111/1996 privind desfășurarea în siguranța, reglementarea, autorizarea
+și controlul activităților nucleare, republicată.
+Norme privind securitatea radiologica
+Ref. [2] Normele Fundamentale de Securitate Radiologica, aprobate prin Ordinul Președintelui CNCAN nr. 14/2000, publicat în Monitorul Oficial al României, Partea I nr. 404 si 404 bis din 29 august 2000.
+Ref. [3] Norme de Securitate Radiologică privind radioprotecția operațională a lucrătorilor externi, aprobate prin Ordinul Președintelui CNCAN nr. 353/2001, publicat în Monitorul Oficial al României, Partea I, nr. 764 si 764 bis din 30 noiembrie 2001.
+Ref. [4] Normele de securitate radiologica - Proceduri de autorizare, aprobate prin Ordinul Președintelui CNCAN nr. 366/2001, publicat în Monitorul Oficial al României , Partea I nr. 764 din 30 noiembrie 2001.
+Ref. [5] Normele privind radioprotecția persoanelor în cazul expunerilor medicale, aprobate prin Ordinul Ministrului Sănătății și Familiei și al Președintelui CNCAN, nr. 285/79/2002, publicat în Monitorul Oficial al României, Partea I, nr. 446 si 449 bis din 25 iunie 2002, cu completările ulterioare.
+Ref. [6] Norme de dozimetrie individuala, aprobate prin Ordinul Președintelui CNCAN nr. 180/2002, publicat în Monitorul Oficial al României, Partea I nr. 769 și 769 bis din 22 octombrie 2002.
+Ref. [7] Norme de Securitate Radiologică - Proceduri de Acceptare a Întreprinderilor Externe, aprobate prin Ordinul Președintelui CNCAN nr. 228/2002, publicat în Monitorul Oficial al României, Partea I, nr. 50 si 50 bis din 29 ianuarie 2003.
+Ref. [8] Norma de securitate radiologică în practicile de radiologie de diagnostic și radiologie intervențională, aprobată prin ordinul Președintelui CNCAN nr. 173/2003, publicat în Monitorul Oficial al României, Partea I, nr. 924 din 23 decembrie 2003.
+Ref. [9] Norma de securitate radiologică în practica de radioterapie, aprobată prin Ordinul Președintelui CNCAN nr. 94/2004, publicat în Monitorul Oficial al României, Partea I, nr. 532 și 532 bis din 14 iunie 2004, cu modificările și completările ulterioare.
+Ref. [10] Normativ de acordare și de utilizare a echipamentului individual de protecție la radiații ionizante, aprobat prin Ordinul Președintelui CNCAN nr. 421/2004, publicat în Monitorul Oficial al României, Partea I nr. 107 din 02 februarie 2005.
+Ref. [11] Normele privind sursele orfane și controlul surselor închise de mare activitate, aprobate prin Ordinul Președintelui CNCAN nr. 356/2005, publicat în Monitorul Oficial al României, Partea I, nr. 1109 din 08 decembrie 2005.
+Ref. [12] Normele privind expertul în fizică medicală aprobate prin Ordinul Ministrului Sănătății Publice și al Președintelui CNCAN nr. 1272/266/ 2006 publicat în Monitorul Oficial al României, Partea I nr. 906 din 07 noiembrie 2006
+Norme privind securitatea nucleară
+Ref. [13] Normele republicane de securitate nucleară – reactori nucleari și centrale nuclearoelectrice, aprobate prin Ordinul Președintelui Comitetului de Stat pentru Energia Nucleară nr. 317/1975, publicat în Buletinul Oficial al R.S.R. nr. 90 din 11 august 1975.
+Ref. [14] Norme privind evaluările probabilistice de securitate nucleară pentru centralele nuclearoelectrice, aprobate prin Ordinul Președintelui CNCAN nr. 316/2006, publicat în Monitorul Oficial al României, Partea I nr. 980 din 07 decembrie 2006.
+Ref. [15] Norme privind protecția centralelor nuclearoelectrice împotriva incendiilor și exploziilor interne aprobate prin Ordinul Președintelui CNCAN nr. 141/2006, publicat în Monitorul Oficial al României, Partea I nr. 500 din 09 iunie 2006.
+Ref. [16] Norme privind revizuirea periodică a securității nucleare pentru centralele nuclearoelectrice aprobate prin Ordinul Președintelui CNCAN nr. 135/2006, publicat în Monitorul Oficial al României, Partea I nr. 439 din 22 mai 2006.
+Ref. [17] Norme privind sistemul de răcire la avarie a zonei active pentru centralele nuclearoelectrice de tip CANDU aprobate prin Ordinul Președintelui CNCAN nr. 136/2006, publicat în Monitorul Oficial al României, Partea I nr. 444 din 23 mai 2006.
+Ref. [18] Norme privind sistemul anvelopei pentru centralele nuclearoelectrice de tip CANDU aprobate prin Ordinul Președintelui CNCAN nr. 364/2005, publicat în Monitorul Oficial al României, Partea I nr. 1097 din 06 decembrie 2005.
+Ref. [19] Norme privind sistemele de oprire rapidă pentru centralele nuclearo-electrice de tip CANDU aprobate prin Ordinul Președintelui CNCAN nr. 365/2005, publicat în Monitorul Oficial al României, Partea I nr. 1084 din 02 decembrie 2005.
+Ref. [20] Norme privind eliberarea permiselor de exercitare pentru personalul operator, personalul de conducere și personalul de pregătire specifică din centralele nuclearoelectrice, reactorii de cercetare și din alte instalații nucleare aprobate prin Ordinul Președintelui CNCAN nr. 368/2004, publicat în Monitorul Oficial al României, Partea I nr. 118 din 07 februarie 2005.
+Ref. [21] Norme de dezafectare a obiectivelor și instalațiilor nucleare aprobate prin Ordinul Președintelui CNCAN nr. 181/2002, publicat în Monitorul Oficial al României, Partea I nr. 867 si 867 bis din 02 decembrie 2002.
+Norme privind garanțiile nucleare
+Ref. [22] Norme de control de garanții în domeniul nuclear, aprobate prin Ordinul Președintelui CNCAN nr. 363/2001, publicat în Monitorul Oficial al României, Partea I, nr. 766 si 766 bis din 30 noiembrie 2001.
+Ref. [23] Lista detaliată a materialelor, dispozitivelor, echipamentelor și informațiilor pertinente pentru proliferarea armelor nucleare și a altor dispozitive nucleare explosive, aprobata prin Hotărârea Guvernului nr. 916/2002, publicată în Monitorul Oficial al României, Partea I, nr. 687 din 18 septembrie 2002.
+Ref. [24] Norma privind procedurile de autorizare pentru activități din domeniul nuclear care implică materiale, dispozitive, echipamente și informațiile aferente, pertinente pentru proliferarea armelor nucleare și a altor dispozitive nucleare explosive, aprobată prin Ordinul Președintelui CNCAN nr. 419/2004, publicat în Monitorul Oficial al României, Partea I, nr. 110 din 03 februarie 2005.
+Norme privind protecția fizică
+Ref. [25] Norme de protecție fizica în domeniul nuclear, aprobate prin Ordinul Președintelui CNCAN nr. 382/2001, publicat în Monitorul Oficial al României, Partea I nr. 766 și 766 bis din 30 noiembrie 2001.
+Ref. [26] Norme privind cerințele pentru calificarea personalului care asigură paza și protecția materialelor și instalațiilor protejate în domeniul nuclear, aprobate prin Ordinul Președintelui CNCAN nr. 106/2002, publicat în Monitorul Oficial al României, Partea I nr. 407 din 12 iunie 2002.
+Ref. [27] Norma privind avizarea personalului care desfășoară activități profesionale, cu caracter permanent sau temporar, în punctele de lucru vitale din cadrul instalațiilor
+nucleare sau care are acces la informații secrete de stat, aprobată prin Ordinul Președintelui CNCAN nr. 8/2006, publicat în Monitorul Oficial al României, Partea I, nr. 138 din 14 februarie 2006.
+Norme privind mineritul radioactiv
+Ref. [28] Normele de securitate radiologica privind radioprotecția operațională în mineritul și prepararea minereurilor de uraniu și toriu aprobate prin Ordinul Președintelui CNCAN nr. 127/2002, publicat în Monitorul Oficial al României, Partea I nr. 677 din 12 septembrie 2002, cu modificările și completările ulterioare.
+Ref. [29] Normele de securitate radiologica privind gospodărirea deșeurilor radioactive provenite de la mineritul și prepararea minereurilor de uraniu și toriu, aprobate prin Ordinul Președintelui CNCAN nr. 192/2002, publicat în Monitorul Oficial al României, Partea I nr. 867 și 867 bis din 02 decembrie 2002.
+Ref. [30] Norma de securitate radiologica privind dezafectarea instalațiilor de minerit și/sau preparare a minereurilor de uraniu și/sau toriu, aprobată prin Ordinul Președintelui CNCAN nr. 184/2006, publicat în Monitorul Oficial al României, Partea I, nr. 734 din 28 august 2006.
+Ref. [31] Norme de securitate radiologica – Proceduri de autorizare a activităților de minerit și preparare a minereurilor de uraniu și toriu, de prelucrare a materiilor prime nucleare și de producere a combustibilului nuclear, aprobate prin Ordinul Președintelui CNCAN nr. 171/2004, publicat în Monitorul Oficial al României, Partea I nr. 530 din 14 iunie 2004.
+Norme privind transportul materialelor radioactive
+Ref. [32] Normele pentru transportul materialelor radioactive, aprobate prin Ordinul Președintelui CNCAN nr. 357/2005, publicat în Monitorul Oficial al României, Partea I nr. 152 din 20 decembrie 2005.
+Ref. [33] Instrucțiuni referitoare la crearea cadrului legal pentru aplicarea Regulamentului Consiliului (Euratom) nr. 1.493/93 din 8 iunie 1993 privind expedițiile de substanțe radioactive între statele membre, aprobate prin ordinul Președintelui CNCAN nr. 329/2006, publicat în Monitorul Oficial al României, Partea I nr. 980 din 07 decembrie 2006 . .
+Ref. [34] Normă privind controlul și supravegherea expedierilor internaționale de deșeuri radioactive implicând teritoriul României, aprobată prin ordinul Președintelui CNCAN nr. 274/2005, publicat în Monitorul Oficial al României, Partea I nr. 967 din
+01 noiembrie 2005, completat prin Ordinul Președintelui CNCAN nr. 322/2006, publicat în Monitorul Oficial al României, Partea I nr. 970 din 05 decembrie 2006.
+Norme privind deșeurile radioactive
+Ref. [35] Norme fundamentale pentru gospodărirea în siguranța a deșeurilor radioactive, aprobate prin Ordinul Președintelui CNCAN nr. 56/2004, publicat în Monitorul Oficial al României, Partea I nr. 393 din 04 mai 2004.
+Ref. [36] Norme privind eliberarea de sub regimul de autorizare a materialelor rezultate din practici autorizate în domeniul nuclear, aprobate prin Ordinul Președintelui CNCAN nr. 62/2004, publicat în Monitorul Oficial al României, Partea I nr. 393 din 04 mai 2004.
+Ref. [37] Norme privind clasificarea deșeurilor radioactive, aprobate prin Ordinul Președintelui CNCAN nr. 156/2005, publicat în Monitorul Oficial al României, Partea I, nr. 571 din 04 iulie 2005.
+Ref. [38] Normele privind limitarea eliberărilor de efluenți radioactivi în mediu, aprobate prin Ordinul Președintelui CNCAN nr. 221/2005, publicat în Monitorul Oficial al României, Partea I, nr. 820 din 09 septembrie 2005.
+Ref. [39] Norme privind depozitarea la suprafața a deșeurilor radioactive, aprobate prin Ordinul Președintelui CNCAN nr. 400/2005, publicat în Monitorul Oficial al României, Partea I nr. 345 din 17 aprilie 2006.
+Norme privind managementul calității
+Ref. [40] Norme privind cerințele generale pentru sistemele de management al calității aplicate la realizarea, funcționarea și dezafectarea instalațiilor nucleare, aprobate prin Ordinul Președintelui CNCAN nr. 66/2003, publicat în Monitorul Oficial al României, Partea I, nr. 681 si 681 bis din 26 septembrie 2003, cu modificările ulterioare.
+Norme privind construcțiile nucleare
+Ref. [41] Normele privind autorizarea executării construcțiilor cu specific nuclear aprobate prin Ordinul Președintelui CNCAN nr. 407/2005, publicat în Monitorul Oficial al României, Partea I, nr. 193 din 01 martie 2006.
+GHIDURI
+Ref. [42] Ghidul privind cerințe tehnice pentru proiectarea, amplasarea, construcția, funcționarea, închiderea și dezafectarea incintelor amenajate pentru depozitarea minereurilor de uraniu și/sau toriu și a deșeurilor rezultate de la prepararea minereurilor de uraniu și/sau toriu, aprobat prin Ordinul Președintelui CNCAN nr.
+213/2006, publicat în Monitorul Oficial al României, Partea I, nr. 757 din 06 septembrie 2006.
+Ref. [43] Ghidul privind iluminarea exterioara a instalațiilor nucleare, aprobat prin Ordinul Președintelui CNCAN nr. 154/2006, publicat în Monitorul Oficial al României, Partea I, nr. 510 din 13 iunie 2006.
+Ref. [44] Ghidul privind protecția instalațiilor nucleare împotriva unui sabotaj din interior, aprobat prin Ordinul Președintelui CNCAN nr. 85/2006, publicat în Monitorul Oficial al României, Partea I, nr. 366 din 26 aprilie 2006.
+Ref. [45] Ghidul privind protecția preventiva a instalațiilor nucleare aprobat prin Ordinul Președintelui CNCAN nr. 304/2007 publicat în Monitorul Oficial al României, Partea I, nr. 636 din 17 septembrie 2007.
+Ref. [46] Ghidul privind verificarea periodica a sistemelor de protecție fizica a instalațiilor nucleare aprobat prin Ordinul Președintelui CNCAN nr. 305/2007, publicat în Monitorul Oficial al României, Partea I, nr. 652 din 25 septembrie 2007.
+Ref. [47] Ghidul privind protecția fizica a materialelor nucleare in timpul transportului aprobat prin Ordinul Președintelui CNCAN nr. 303/2007, publicat în Monitorul Oficial al României, Partea I, nr. 657 din 26 septembrie 2007.
+Alte legi/acorduri/convenții
+Ref. [48] Legea nr. 590/2003 privind tratatele, publicată în Monitorul Oficial al României, Partea I nr. 23 din 12 ianuarie 2004.
+Ref. [49] ACORD din 08 martie 1972 între Guvernul Republicii Socialiste România și Agenția Internațională pentru Energia Atomică referitor la aplicarea garanțiilor în cadrul Tratatului cu privire la neproliferarea armelor nucleare, publicat în Buletinul Oficial nr. 123 din 08 noiembrie 1972.
+Ref. [50] Convenția de la Viena privind dreptul tratatelor între state și organizații internaționale sau între organizații internaționale, din 21 martie 1986.
+Ref. [51] Convenția ONU cu privire la dreptul tratatelor, adoptată la Viena, la 23 mai 1969, publicată în Broșură din 23 mai 1969.
+Ref. [52] Convenția ONU privind succesiunea statelor la tratate, din 23 august 1978, publicată în Broșură din 01 ianuarie 2001.
+Ref. [53] Protocolul între România și Agenția Internațională pentru Energie Atomică, adițional la Acordul dintre Republica Socialistă România și Agenția Internațională pentru Energie Atomică pentru aplicarea garanțiilor în legătură cu Tratatul de
+neproliferare a armelor nucleare publicat în Monitorul Oficial al României, Partea I nr. 295 din 29 iunie 2000, ratificat prin Legea 100/2000.
+Ref. [54] Convenția privind răspunderea civilă pentru daune nucleare, adoptată la Viena la 21 mai 1963, adoptata prin Legea 106/1992, publicată în Monitorul Oficial al României, Partea I nr. 258 din 15 octombrie 1992.
+Ref. [55] Convenția privind protecția fizică a materialelor nucleare și a instalațiilor nucleare, semnată la Viena la 3 martie 1980 ratificată prin Lege nr. 78/1993, publicată în Monitorul Oficial al României, Partea I nr. 265 din 15 noiembrie 1993, cu modificările ulterioare.
+Ref. [56] Convenție privind securitatea nucleară adoptata la Viena la 17.06.1994, ratificată prin Legea nr. 43/1995, publicată în Monitorul Oficial al României, Partea I nr. 104 din 29 mai 1995.
+Ref. [57] Protocolul de amendare a Convenției de la Viena privind răspunderea civilă pentru daune nucleare, adoptat la Viena la 12 septembrie 1997, ratificat prin Legea nr. 203/1998, publicată în Monitorul Oficial al României, Partea I nr. 438 din 18 noiembrie 1998.
+Ref. [58] Convenția privind compensațiile suplimentare pentru daune nucleare, adoptată la Viena la 12 septembrie 1997, ratificată prin Legea nr. 5/1999, publicată în Monitorul Oficial al României, Partea I nr. 9 din 18 ianuarie 1999.
+Ref. [59] Convenția comună asupra gospodăririi în siguranță a combustibilului uzat și asupra gospodăririi în siguranță a deșeurilor radioactive, adoptată la Viena la 5 septembrie 1997, ratificată prin Legea nr. 105/1999, publicată în Monitorul Oficial al României, Partea I nr. 283 din 21 iunie 1999.
+Ref. [60] Convenție internațională privind reprimarea actelor de terorism nuclear, semnata la New York la 14 septembrie 2005, ratificata prin Legea nr. 369/2006, publicată în Monitorul Oficial al României, Partea I nr. 847 din 16 octombrie 2006.
+Ref. [61] Amendamentul la Convenția privind protecția fizică a materialelor nucleare, adoptat la Viena prin actul final al conferinței pentru analiza și adoptarea amendamentelor propuse pentru convenția privind protecția fizica a materialelor nucleare, semnat de România la Viena la 8 iulie 2005 ratificat prin Legea nr. 419/2006, publicată în Monitorul Oficial al României, Partea I nr. 1008 din 19 decembrie 2006.
+Ref. [62] Decretul nr. 124/1957, privind ratificarea Statutului Agenției Internaționale pentru Energia Atomică, semnat la New York la 26 octombrie 1956 publicat în Buletinul Oficial, Partea I nr. 13 din 26 aprilie 1957.
