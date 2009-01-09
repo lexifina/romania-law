@@ -1,0 +1,2 @@
+ AMENDAMENTE din 13 iulie 2007  la anexa I la Marpol (Instalaţii de primire situate în afara zonelor speciale)     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 17 din 9 ianuarie 2009     Regula 38.2.5 se modifică după cum urmează:  "toate porturile, pentru ape de santină cu hidrocarburi şi alte reziduuri, care nu pot fi evacuate în conformitate cu regulile 15 şi 34 din prezenta anexă; şi".  -----------
