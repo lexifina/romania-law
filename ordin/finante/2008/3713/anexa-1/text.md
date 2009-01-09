@@ -1,0 +1,2 @@
+# Anexa 1
+------- LISTA instituțiilor publice exceptate de la prevederile art. 5 și 6 din Ordonanța de urgență a Guvernului nr. 149/2007 privind aprobarea unor măsuri în domeniul finanțelor publice 1. Senatul României 2. Camera Deputaților 3. Curtea Constituțională 4. Serviciul de Informații Externe 5. Serviciul Român de Informații - structuri centrale și unități teritoriale 6. Consiliul Economic și Social
