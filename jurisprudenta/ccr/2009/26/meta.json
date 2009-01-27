@@ -1,0 +1,168 @@
+{
+ "key": "dcc-26-2009",
+ "label": "Decizia CCR nr. 26/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "26",
+ "date": "2009-01-13",
+ "year": "2009",
+ "heading": "DECIZIE nr. 26 din 13 ianuarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 138/2004 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi a Legii nr. 343/2006 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "49",
+  "bis": false,
+  "date": "2009-01-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 138/2004",
+    "number": "138",
+    "year": "2004",
+    "path": "oug/2004/138"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 343/2006",
+    "number": "343",
+    "year": "2006",
+    "path": "lege/2006/343"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 138/2004 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi a Legii nr. 343/2006 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, excepţie ridicată de Mihai Doru Băjan în Dosarul nr. 45.977/3/CA/2007 al Tribunalului Bucureşti Secţia a IX-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 138/2004",
+    "number": "138",
+    "year": "2004",
+    "path": "oug/2004/138"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 343/2006",
+    "number": "343",
+    "year": "2006",
+    "path": "lege/2006/343"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-01-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101682",
+  "text_sha256": "59560642f78bfdccba953fe6b3c8a94c04376c3b8d004804c61a35c427ce8f48",
+  "catalogue_sha256": "59560642f78bfdccba953fe6b3c8a94c04376c3b8d004804c61a35c427ce8f48",
+  "fetched": "2026-11-03T00:36:30Z",
+  "chars": 7138,
+  "portal_id": "101682",
+  "tip": "DECIZIE"
+ }
+}
