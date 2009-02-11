@@ -1,0 +1,183 @@
+# Anexa 1
+NORME de dotare cu mobilier și obiecte de inventar pentru spații cu destinație de birou
+Denumirea funcției Denumirea materialelor Cantitatea
+I. Ministru, secretar de stat, secretar general, secretar general adjunct - Birou cu 2 corpuri 1 buc.
+- Scaun ergonomic tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 15 persoane
+- Scaune tapițate pentru masa de consiliu maximum 15 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc., respectiv 1 buc.
+- Comodă TV 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor plușat, carpetă plușată cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier de perete 1 buc.
+- Aparat de aer condiționat 1 buc.
+II. Consilier ministru, consilier secretar de stat, consilier secretar general - Birou cu 2 corpuri 1 buc.
+- Scaun ergonomic tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 12 persoane
+- Scaune tapițate pentru masa de consiliu maximum 12 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor plușat, carpetă plușată cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier de perete 1 buc.
+- Aparat de aer condiționat 1 buc.
+III. Președinte (similari) agenție națională, inspector general, prefect, subprefect, director general, director (similari) - Birou cu 2 corpuri 1 buc.
+- Scaun ergonomic tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 10 persoane
+- Scaune tapițate pentru masa de consiliu maximum 10 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Bibliotecă 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor plușat, carpetă plușată cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier de perete 1 buc.
+- Aparat de aer condiționat 1 buc.
+IV. Inspector-șef inspectorat județean, inspector-șef Inspectoratul pentru Situații de Urgență al Municipiului București, șef sector poliție din municipiul București, director (rector, comandant, șef) unitate de învățământ, centru de perfecționare și pregătire a personalului, centru chinologic, comandant (șef) brigadă jandarmi și poliție, director (șef) bază de reparații, aprovizionare și depozitare (similari), șef centru de monitorizare a situației operative - Birou cu 2 corpuri 1 buc.
+- Scaun ergonomic tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 10 persoane
+- Scaune tapițate pentru masa de consiliu maximum 10 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Bibliotecă 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor plușat, carpetă plușată cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier de perete 1 buc.
+- Aparat de aer condiționat 1 buc.
+V. Adjuncții nominalizați prin statul de funcții, pentru cadrele cu funcții de conducere prevăzute la pct. III și IV - Birou cu 2 corpuri 1 buc.
+- Scaun ergonomic tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 10 persoane
+- Scaune tapițate pentru masa de consiliu maximum 10 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Bibliotecă 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor, mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier de perete 1 buc.
+- Aparat de aer condiționat 1 buc.
+VI. Prorector, decan și prodecan facultate din instituțiile de învățământ, redactor-șef și redactor adjunct publicație, șef serviciu (similari) din direcțiile generale din aparatul central, direcțiile generale și direcțiile din inspectoratele generale - Birou cu 2 corpuri 1 buc.
+- Scaun ergonomic tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 8 persoane
+- Scaune tapițate pentru masa de consiliu maximum 8 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Bibliotecă 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor, mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier de perete 1 buc.
+- Aparat de aer condiționat 1 buc.
+VII. Comandant garnizoană, comandant unitate specială de aviație, director direcție județeană a Arhivelor Naționale, șef Centrul Național pentru Securitate la Incendiu și Protecție Civilă - Birou cu 2 corpuri 1 buc.
+- Scaun tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 6 persoane
+- Scaune tapițate pentru masa de consiliu maximum 6 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Bibliotecă 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor, mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier de perete 1 buc.
+- Aparat de aer condiționat 1 buc.
+VIII. Șef centru primire, triere și cazare refugiați, șef centru primire și cazare azilanți, șef centru cazare a străinilor luați în custodie publică, șef bază logistică - Birou cu 2 corpuri 1 buc.
+- Scaun tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 6 persoane
+- Scaune tapițate pentru masa de consiliu maximum 6 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Bibliotecă 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor, mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier-pom 1 buc.
+- Aparat de aer condiționat 1 buc.
+IX. Adjuncții nominalizați prin statul de funcții, pentru cadrele cu funcții de conducere prevăzute la pct. VII și VIII - Birou cu 2 corpuri 1 buc.
+- Scaun tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 6 persoane
+- Scaune tapițate pentru masa de consiliu maximum 6 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Bibliotecă 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor, mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier-pom 1 buc.
+- Aparat de aer condiționat 1 buc.
+X. Șef catedră din unitățile de învățământ și centrele de perfecționare și pregătire a cadrelor, șef poliție municipală, orășenească și secție de poliție (inclusiv secție regională de poliție transporturi), șef serviciu (similari) din alte direcții decât cele prevăzute la pct. VI, șef grup nave din poliția de frontieră, comandant grup intervenție, detașament, secție de pompieri, comandant batalion (similari), detașament, secție de jandarmi, șef sector, detașament poliție de frontieră, președinte și vicepreședinte club sportiv, șef sector teritorial pentru audit intern, șef centru medical județean - Birou cu 2 corpuri 1 buc.
+- Scaun tapițat 1 buc.
+- Masă de consiliu 1 buc. pentru maximum 6 persoane
+- Scaune tapițate pentru masa de consiliu maximum 6 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Covor, mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier-pom 1 buc.
+- Aparat de aer condiționat 1 buc.
+XI. Comandant stație pompieri, comandant post de jandarmi, instructor superior și instructor (similari) din unitățile de învățământ, șef punct poliție de frontieră, șef post poliție, contabil șef, șef birou, medic șef cabinet și medic șef secție (laborator), șef secție sportivă din cadrul cluburilor și asociațiilor sportive - Birou 1 buc.
+- Scaun tapițat 1 buc.
+- Canapea tapițată 1 buc. pentru 3 persoane
+- Fotolii tapițate 2 buc.
+- Comodă TV 1 buc.
+- Dulap metalic 1 buc.
+- Măsuță de telefon 1 buc.
+- Mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier-pom 1 buc.
+XII. Personal de execuție de specialitate cu activitate de birou din minister, inspectorate generale, agenții naționale, direcții generale, precum și din unitățile subordonate acestora - Birou 1 buc. pentru fiecare persoană
+- Scaun tapițat 1 buc. pentru fiecare persoană + 2 buc. rezervă la 1 cameră
+- Dulap metalic 1 buc. la 2 persoane
+- Măsuță de telefon 1 buc. la 1 cameră
+- Măsuță pentru mașina de calculat 1 buc. la 1 mașină
+- Mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier-pom 1 buc. la 5 persoane sau 1 cameră
+- Aparat de aer condiționat 1 buc. la 1 cameră (doar pentru cele cu tehnică IT)
+XIII. Personal de execuție de specialitate cu activitate permanentă de inspecție și control din minister, inspectorate generale, agenții naționale, direcții generale, precum și din unitățile subordonate acestora - Birou 1 buc. pentru fiecare persoană
+- Scaun tapițat 1 buc. pentru fiecare persoană + 2 buc. rezervă la 1 cameră
+- Dulap metalic 1 buc. la 4 persoane
+- Măsuță de telefon 1 buc. la 1 cameră
+- Mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier-pom 1 buc. la 5 persoane sau la 1 cameră
+XIV. Personal de execuție de specialitate cu activitate de birou din inspectorate județene, prefecturi, direcții județene ale Arhivelor Naționale, centre medicale județene, secții regionale de poliție transporturi, grupuri de nave din poliția de frontieră, grupuri de intervenție pompieri, brigăzi de jandarmi și poliție, sectoare din poliția de frontieră, sectoare teritoriale pentru audit intern - Birou 1 buc. pentru fiecare persoană
+- Scaun tapițat 1 buc. pentru fiecare persoană + 2 buc. rezervă la 1 cameră
+- Dulap metalic 1 buc. la 4 persoane
+- Măsuță de telefon 1 buc. la 1 cameră
+- Mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier-pom 1 buc. la 5 persoane sau la 1 cameră
+- Aparat de aer condiționat 1 buc. la 1 cameră (doar pentru cele cu tehnică IT)
+XV. Personal de execuție de specialitate cu activitate de birou din unități de învățământ, centre de perfecționare și pregătire a personalului, poliția municipală și orășenească, direcții, altele decât cele prevăzute la pct. VI, detașamente de pompieri, jandarmi și poliție de frontieră, baze logistice, baze de reparații, cluburi și asociații sportive, centre de primire, triere și cazare pentru refugiați, azilanți și străini luați în custodie publică - Birou - masă de lucru 1 buc. pentru fiecare persoană
+- Scaun tapițat 1 buc. pentru fiecare persoană + 2 buc. rezervă la 1 cameră
+- Dulap metalic 1 buc. la 2 persoane
+- Măsuță de telefon 1 buc. la 1 cameră
+- Măsuță pentru mașina de calculat 1 buc. la 1 mașină
+- Mochetă cca 90% din suprafața camerei
+- Galerie, perdele, draperie la fiecare fereastră
+- Cuier-pom 1 buc. la 5 persoane sau la 1 cameră
+- Aparat de aer condiționat 1 buc. la 1 cameră (doar pentru cele cu tehnică IT)
