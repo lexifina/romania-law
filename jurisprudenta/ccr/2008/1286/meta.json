@@ -1,0 +1,177 @@
+{
+ "key": "dcc-1286-2008",
+ "label": "Decizia CCR nr. 1286/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1286",
+ "date": "2008-12-02",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.286 din 2 decembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 12 şi art. 14 din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "96",
+  "bis": false,
+  "date": "2009-02-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.967/301/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 12 şi art. 14 din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe, excepţie ridicată de Tudoriţa Dinu în Dosarul nr. 3.967/301/2007 al Tribunalului Bucureşti - Secţia a III-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-02-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102432",
+  "text_sha256": "06633ec2d1f16ceab9610e149600b2b2918634157aa0f5514a26593e1a2019fd",
+  "catalogue_sha256": "06633ec2d1f16ceab9610e149600b2b2918634157aa0f5514a26593e1a2019fd",
+  "fetched": "2026-11-03T00:37:08Z",
+  "chars": 9778,
+  "portal_id": "102432",
+  "tip": "DECIZIE"
+ }
+}
