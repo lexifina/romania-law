@@ -1,0 +1,189 @@
+{
+ "key": "cedo-30502-03-2007-10-11",
+ "label": "CEDO, Puşcaş c. României, 2007-10-11",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-10-11",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 11 octombrie 2007",
+ "subtitle": "în Cauza Puşcaş împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "100",
+  "bis": false,
+  "date": "2009-02-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "30502/03"
+ ],
+ "case_name": "Puşcaş",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 § 1 din Convenţie referitor la încălcarea principiului securităţii raporturilor juridice şi pe art. 1 din Protocolul nr. 1 referitor la încălcarea dreptului de proprietate asupra apartamentului nr. 1 şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 3. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 4. hotărăşte",
+  "a) ca statul pârât să îi restituie reclamantului apartamentul nr. 1 din casa situată în Braşov, Calea Stejărişului nr. 22, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) ca în lipsa acestei restituiri statul pârât să îi plătească reclamantului, în acelaşi termen de 3 luni, 55.000 EUR (cincizeci şi cinci mii euro) cu titlu de daune materiale;",
+  "c) ca, în orice caz, statul pârât să îi plătească reclamantului suma de 7.000 EUR (şapte mii euro) cu titlu de daune morale şi 400 EUR (patru sute euro) cu titlu de cheltuieli de judecată;",
+  "d) ca sumele respective să fie convertite în moneda statului pârât, la cursul de schimb valabil la data plăţii, la care să fie adăugată orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 20/1996",
+    "number": "20",
+    "year": "1996",
+    "path": "hg/1996/20"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102520",
+  "text_sha256": "288fc27d60916457b13d537b8f562be03076ecb21612f6347776c0ff78915605",
+  "catalogue_sha256": "288fc27d60916457b13d537b8f562be03076ecb21612f6347776c0ff78915605",
+  "fetched": "2026-11-03T00:37:13Z",
+  "chars": 43768,
+  "portal_id": "102520",
+  "tip": "HOTĂRÂRE"
+ }
+}
