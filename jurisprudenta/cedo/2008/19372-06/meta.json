@@ -1,0 +1,225 @@
+{
+ "key": "cedo-19372-06-2008-02-07",
+ "label": "CEDO, Silimon şi Gross c. României, 2008-02-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-02-07",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 7 februarie 2008",
+ "subtitle": "în Cauza Silimon şi Gross împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "107",
+  "bis": false,
+  "date": "2009-02-23",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "19372/06"
+ ],
+ "case_name": "Silimon şi Gross",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie şi inadmisibilă pentru rest; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte",
+  "a) ca statul pârât să le restituie reclamanţilor casa situată în Braşov, str. Retezat nr. 8, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa acestei restituiri, statul pârât să le plătească împreună reclamanţilor, în acelaşi termen de 3 luni, 120.000 EUR (o sută douăzeci mii euro) cu titlu de daune materiale;",
+  "c) ca, în orice caz, statul pârât să le plătească împreună reclamanţilor, în acelaşi termen de 3 luni, suma de 4.000 EUR (patru mii euro) cu titlu de daune morale;",
+  "d) ca, la sumele menţionate mai sus, să se adauge orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu trei puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 139/1940",
+    "number": "139",
+    "year": "1940",
+    "path": "lege/1940/139"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102630",
+  "text_sha256": "72ad73de4d19995b5bbea55a5cad60e46872abd8ad8d9218da2073bbc19fa330",
+  "catalogue_sha256": "72ad73de4d19995b5bbea55a5cad60e46872abd8ad8d9218da2073bbc19fa330",
+  "fetched": "2026-11-03T00:37:16Z",
+  "chars": 25745,
+  "portal_id": "102630",
+  "tip": "HOTĂRÂRE"
+ }
+}
