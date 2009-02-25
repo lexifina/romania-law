@@ -1,0 +1,191 @@
+{
+ "key": "dcc-1302-2008",
+ "label": "Decizia CCR nr. 1302/2008",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1302",
+ "date": "2008-12-02",
+ "year": "2008",
+ "heading": "DECIZIE nr. 1.302 din 2 decembrie 2008",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 16 alin. (1) din Ordonanţa Guvernului nr. 8/2007 privind salarizarea personalului auxiliar din cadrul instanţelor judecătoreşti şi al parchetelor de pe lângă acestea, precum şi din cadrul altor unităţi din sistemul justiţiei şi ale prevederilor art. 4 din Ordonanţa de urgenţă a Guvernului nr. 27/2006 privind salarizarea şi alte drepturi ale judecătorilor, procurorilor şi altor categorii de personal din sistemul justiţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "113",
+  "bis": false,
+  "date": "2009-02-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.266/99/2007",
+  "1.539D/2008",
+  "1.421D/2008",
+  "6.654/121/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 8/2007",
+    "number": "8",
+    "year": "2007",
+    "path": "og/2007/8"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 16 alin. (1) din Ordonanţa Guvernului nr. 8/2007 privind salarizarea personalului auxiliar din cadrul instanţelor judecătoreşti şi al parchetelor de pe lângă acestea, precum şi din cadrul altor unităţi din sistemul justiţiei şi ale prevederilor art. 4 din Ordonanţa de urgenţă a Guvernului nr. 27/2006 privind salarizarea şi alte drepturi ale judecătorilor, procurorilor şi altor categorii de personal din sistemul justiţiei, excepţie ridicată de Doina Spătaru, Teodora Dediu, Angelica Gavriloaia, Maria Pânzaru, Didona Pintilie, Rodica Iosub, Waltraude Vasiliu, Mariana Maftei, Cristina-Florentina Ichim, Doina Oloieriu, Florentina Olăeru, Otilia Ciocoiu, Liliana Iacob, Crenguţa Alexa, Coca Popovici, Doina Duduman, Rodica Rusu, Paula Ocheană, Lăcrămioara Gavril, Liliana Cozma, Silvia Apopei, Rodica Bucătaru, Maria Alexa, Mariana Cojocaru, Leliana Butnaru, Ana Adamovici şi Silviu Simireanu în Dosarul nr. 8.266/99/2007 al Curţii de Apel Iaşi - Secţia litigii de muncă şi asigurări sociale şi de Lenuţa Maftei, Veta Pâslaru, Violeta Marin, Luminiţa Oprea, Marghioala Gavriliţă, Carmen Iftimie, Antonia Ştefan, Florentina Chirilă, Beatrisa Cocos, Mariana Ifrim, Zizi Ilie, Cateluţa Pâslaru, Lizica Daniela Copăceanu, Gabriela Turcu, Valentina-Beatrice Turcu, Ciobotaru Silvia, Tudoriţa Banea, Viorica-Monica Trifan, Maria Mihai, Rodica Drăgan, Nicoleta Ianuş, Cătălin Nedelcu, Monica Trifan, Maria Mihai, Dorina Iorga şi Dumitru Chircă în Dosarul nr. 6.654/121/2007 al Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 8/2007",
+    "number": "8",
+    "year": "2007",
+    "path": "og/2007/8"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-02-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102693",
+  "text_sha256": "bb4a7fa5b700772374ae02c11aac5439ad73415b86d31703f3762636527f7df4",
+  "catalogue_sha256": "bb4a7fa5b700772374ae02c11aac5439ad73415b86d31703f3762636527f7df4",
+  "fetched": "2026-11-05T07:01:19Z",
+  "chars": 13595,
+  "portal_id": "102693",
+  "tip": "DECIZIE"
+ }
+}
