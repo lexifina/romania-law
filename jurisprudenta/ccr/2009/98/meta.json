@@ -1,0 +1,186 @@
+{
+ "key": "dcc-98-2009",
+ "label": "Decizia CCR nr. 98/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "98",
+ "date": "2009-01-20",
+ "year": "2009",
+ "heading": "DECIZIE nr. 98 din 20 ianuarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (4) din Legea administraţiei publice locale nr. 215/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "119",
+  "bis": false,
+  "date": "2009-02-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.818/104/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (4) din Legea administraţiei publice locale nr. 215/2001, excepţie ridicată de Călin Valeriu în Dosarul nr. 2.818/104/2008 al Tribunalului Olt - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 20/2008",
+    "number": "20",
+    "year": "2008",
+    "path": "oug/2008/20"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-02-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102808",
+  "text_sha256": "373c32890826b2bd0a35349138a8bb15ede312d29d7420a1c1cf5c4ca2d4ff74",
+  "catalogue_sha256": "373c32890826b2bd0a35349138a8bb15ede312d29d7420a1c1cf5c4ca2d4ff74",
+  "fetched": "2026-11-03T00:37:27Z",
+  "chars": 8943,
+  "portal_id": "102808",
+  "tip": "DECIZIE"
+ }
+}
