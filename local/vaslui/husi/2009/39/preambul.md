@@ -1,0 +1,6 @@
+Consiliul local al municipiului Husi judetul Vaslui ;
+Avand in vedere expunerea de motive pentru aprobarea Regulamentului privind stabilirea unor masuri pentru gospodarirea municipiului Husi, precum si constatarea si sanctionarea faptelor ce constituie contraventii;
+In conformitate cu prevederile Ordonantei Guvernului nr.2/2001 privind regimul juridic al contraventiilor, modificata si compeltata si Ordonantei Guvernului nr.2/2002 privind gospodarirea localitatilor urbane si rurale, aprobata si modificata prin Legea nr.515/2002 si cu respectarea prevederilor Legii nr.52/2003 privind transparenta decizionala in administratia publica; ale art.7 si art.14 litera ”d” din Legea nr. 371/2004 privind infiintarea, organizarea si functionarea Politiei Comunitare, cu modificarile si completarile ulterioare, ale art.32 litera ”h” din HG nr.2295/2004 pentru aprobarea Regulamentului-cadru de organizare si functionare a Politiei Comunitare; Ordonantei Guvernului nr. 2/2001 privind regimul juridic al contraventiilor, modificatã si completatã;
+In temeiul art.36 alin.(1) si (2) litera ”a” si art.45 alin.(1) din Legea nr.
+215/2001 privind administratia publica locala, republicata, cu modificarile si completarile ulterioare;
+H O T A R A S T E:
