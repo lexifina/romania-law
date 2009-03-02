@@ -1,0 +1,238 @@
+{
+ "key": "dcc-107-2009",
+ "label": "Decizia CCR nr. 107/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "107",
+ "date": "2009-02-03",
+ "year": "2009",
+ "heading": "DECIZIE nr. 107 din 3 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 şi art. 34 alin. (1^1) şi (2) din Legea nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "125",
+  "bis": false,
+  "date": "2009-03-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.822/278/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 4 şi art. 34 alin. (1^1) şi (2) din Legea nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă, excepţie ridicată de Mariana Fulop în Dosarul nr. 6.822/278/2007 al Tribunalului Hunedoara - Secţia litigii de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102913",
+  "text_sha256": "84f4e9a746a9198bcf102e1550fc8e99dd29405b36001a464deeff580a97f85f",
+  "catalogue_sha256": "84f4e9a746a9198bcf102e1550fc8e99dd29405b36001a464deeff580a97f85f",
+  "fetched": "2026-11-03T00:37:34Z",
+  "chars": 8805,
+  "portal_id": "102913",
+  "tip": "DECIZIE"
+ }
+}
