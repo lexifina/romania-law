@@ -1,0 +1,240 @@
+{
+ "key": "dcc-88-2009",
+ "label": "Decizia CCR nr. 88/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "88",
+ "date": "2009-01-20",
+ "year": "2009",
+ "heading": "DECIZIE nr. 88 din 20 ianuarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 52 şi art. 53 din Legea nr. 29/2000 privind sistemul naţional de decoraţii al României şi ale art. 17-19 din Ordonanţa de urgenţă a Guvernului nr. 11/1998 privind reinstituirea Ordinului naţional Steaua României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "131",
+  "bis": false,
+  "date": "2009-03-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.468/2/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/2000",
+    "number": "29",
+    "year": "2000",
+    "path": "lege/2000/29"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 11/1998",
+    "number": "11",
+    "year": "1998",
+    "path": "oug/1998/11"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 52 şi art. 53 din Legea nr. 29/2000 privind sistemul naţional de decoraţii al României şi ale art. 17-19 din Ordonanţa de urgenţă a Guvernului nr. 11/1998 privind reinstituirea Ordinului naţional Steaua României, excepţie ridicată de Tudor Corneliu Vadim în Dosarul nr. 4.468/2/2007 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/2000",
+    "number": "29",
+    "year": "2000",
+    "path": "lege/2000/29"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 11/1998",
+    "number": "11",
+    "year": "1998",
+    "path": "oug/1998/11"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 567/2007",
+    "number": "567",
+    "year": "2007",
+    "path": "decret/2007/567"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102935",
+  "text_sha256": "bb036f74f26e8f0d5c03a79a21afe0b0ffc6bdc688825230b966f5f91961f780",
+  "catalogue_sha256": "bb036f74f26e8f0d5c03a79a21afe0b0ffc6bdc688825230b966f5f91961f780",
+  "fetched": "2026-11-03T00:37:35Z",
+  "chars": 18378,
+  "portal_id": "102935",
+  "tip": "DECIZIE"
+ }
+}
