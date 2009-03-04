@@ -1,0 +1,174 @@
+{
+ "key": "dcc-114-2009",
+ "label": "Decizia CCR nr. 114/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "114",
+ "date": "2009-02-03",
+ "year": "2009",
+ "heading": "DECIZIE nr. 114 din 3 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 32 alin. (1) şi art. 34 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "135",
+  "bis": false,
+  "date": "2009-03-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.791D/2008",
+  "1.790D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 32 alin. (1) şi art. 34 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere, excepţie ridicată de Societatea Comercială \"Salubritate, Apă şi Canal Voluntari\" - S.R.L. în dosarele nr. 3.929/301/CV/2007 şi nr. 14.541/301/CV/2007 ale Tribunalului Bucureşti - Secţia a IX-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102982",
+  "text_sha256": "1182218e0d595e79dede97df139beffdd1b40039ddf6075cc9fad33ea7bc4e4c",
+  "catalogue_sha256": "1182218e0d595e79dede97df139beffdd1b40039ddf6075cc9fad33ea7bc4e4c",
+  "fetched": "2026-11-05T06:21:51Z",
+  "chars": 8902,
+  "portal_id": "102982",
+  "tip": "DECIZIE"
+ }
+}
