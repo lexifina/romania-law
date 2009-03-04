@@ -1,0 +1,160 @@
+{
+ "key": "dcc-132-2009",
+ "label": "Decizia CCR nr. 132/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "132",
+ "date": "2009-02-03",
+ "year": "2009",
+ "heading": "DECIZIE nr. 132 din 3 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (1)-(5) din Ordonanţa Guvernului nr. 36/2006 privind instituirea preţurilor locale de referinţă pentru energia termică furnizată populaţiei prin sisteme centralizate, aprobată cu modificări prin Legea nr. 483/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "135",
+  "bis": false,
+  "date": "2009-03-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.566/302/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 36/2006",
+    "number": "36",
+    "year": "2006",
+    "path": "og/2006/36"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (1)-(5) din Ordonanţa Guvernului nr. 36/2006 privind instituirea preţurilor locale de referinţă pentru energia termică furnizată populaţiei prin sisteme centralizate, aprobată cu modificări prin Legea nr. 483/2006, excepţie ridicată de Asociaţia de proprietari din blocul D2, str. Izvorul Crişului nr. 8, sectorul 4, Bucureşti, în Dosarul nr. 4.566/302/2008 al Judecătoriei Sectorului 5 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 36/2006",
+    "number": "36",
+    "year": "2006",
+    "path": "og/2006/36"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102974",
+  "text_sha256": "bb452899ab8c9f4890ec9ac01feb96aa14a1da68f479b60023a23b581edf33a6",
+  "catalogue_sha256": "bb452899ab8c9f4890ec9ac01feb96aa14a1da68f479b60023a23b581edf33a6",
+  "fetched": "2026-11-03T00:37:37Z",
+  "chars": 8702,
+  "portal_id": "102974",
+  "tip": "DECIZIE"
+ }
+}
