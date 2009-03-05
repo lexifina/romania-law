@@ -1,0 +1,155 @@
+{
+ "key": "dcc-48-2009",
+ "label": "Decizia CCR nr. 48/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "48",
+ "date": "2009-01-13",
+ "year": "2009",
+ "heading": "DECIZIE nr. 48 din 13 ianuarie 2009",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (3) din Legea nr. 213/1998 privind proprietatea publică şi regimul juridic al acesteia",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "138",
+  "bis": false,
+  "date": "2009-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.626/2/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 alin. (3) din Legea nr. 213/1998 privind proprietatea publică şi regimul juridic al acesteia, excepţie ridicată de Constantin Moraru, Floarea Moraru, Dan Tudorache şi Doina Tudorache în Dosarul nr. 4.626/2/2007 al Înaltei Curţi de Casaţie şi Justiţie - Secţia civilă şi de proprietate intelectuală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103085",
+  "text_sha256": "9c941e8b7dd40a14a33371453743bb679055de59cd79b0ffbffb8b9a1ed39c84",
+  "catalogue_sha256": "9c941e8b7dd40a14a33371453743bb679055de59cd79b0ffbffb8b9a1ed39c84",
+  "fetched": "2026-11-03T00:37:42Z",
+  "chars": 6135,
+  "portal_id": "103085",
+  "tip": "DECIZIE"
+ }
+}
