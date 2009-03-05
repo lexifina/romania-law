@@ -1,0 +1,388 @@
+{
+ "key": "cedo-1477-02-2008-06-03",
+ "label": "CEDO, Societatea Comercială \"Pilot Service\" - S.A. Constanţa c. României, 2008-06-03",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-06-03",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 3 iunie 2008",
+ "subtitle": "în Cauza Societatea Comercială \"Pilot Service\" - S.A. Constanţa împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "137",
+  "bis": false,
+  "date": "2009-03-05",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "1477/02"
+ ],
+ "case_name": "Societatea Comercială \"Pilot Service\" - S.A. Constanţa",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. uneşte cu fondul excepţia preliminară a Guvernului întemeiată pe necompetenţa ratione materiae şi o respinge; 2. declară cererea admisibilă; 3. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie şi art. 1 din Protocolul nr. 1 din cauza neexecutării deciziilor din 6 februarie 2001 şi 22 octombrie 2002 ale Curţii Supreme de Justiţie; 4. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie şi art. 1 din Protocolul nr. 1 din cauza anulării deciziei din 10 iunie 2002 a Curţii de Apel Ploieşti; 5. hotărăşte că problema aplicării art. 41 din Convenţie nu se află în stare de judecată; prin urmare",
+  "a) o rezervă în întregime;",
+  "b) invită Guvernul şi societatea reclamantă să îi adreseze în scris, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, observaţiile lor cu privire la această chestiune şi, în special, să îi aducă la cunoştinţă orice acord la care ar putea eventual să ajungă;",
+  "c) rezervă procedura ulterioară şi îi deleagă preşedintelui camerei sarcina de a o stabili în funcţie de necesităţi."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului transporturilor nr. 508/1999",
+    "number": "508",
+    "year": "1999"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 508/1999",
+    "number": "508",
+    "year": "1999"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor nr. 508/1999",
+    "number": "508",
+    "year": "1999"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 22/1999",
+    "number": "22",
+    "year": "1999",
+    "path": "og/1999/22"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 42/1997",
+    "number": "42",
+    "year": "1997",
+    "path": "og/1997/42"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 508/1999",
+    "number": "508",
+    "year": "1999"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 595/2000",
+    "number": "595",
+    "year": "2000"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului transporturilor nr. 595/2000",
+    "number": "595",
+    "year": "2000"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul precedent nr. 508/1999",
+    "number": "508",
+    "year": "1999"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 595/2000",
+    "number": "595",
+    "year": "2000"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului lucrărilor publice, transporturilor şi locuinţei nr. 1.867/2002",
+    "number": "1867",
+    "year": "2002"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor nr. 595/2000",
+    "number": "595",
+    "year": "2000"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul transporturilor nr. 595/2000",
+    "number": "595",
+    "year": "2000"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.867/2002",
+    "number": "1867",
+    "year": "2002"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului lucrărilor publice, transporturilor şi locuinţei nr. 287/2003",
+    "number": "287",
+    "year": "2003"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 287/2003",
+    "number": "287",
+    "year": "2003"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 167/2000",
+    "number": "167",
+    "year": "2000",
+    "path": "hg/2000/167"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 19/1991",
+    "number": "19",
+    "year": "1991",
+    "path": "hg/1991/19"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103054",
+  "text_sha256": "9a8db6b9d5ad16d52b978c4e1b4b2e1c752a8674e23b19f7af59e64655b1f8f3",
+  "catalogue_sha256": "9a8db6b9d5ad16d52b978c4e1b4b2e1c752a8674e23b19f7af59e64655b1f8f3",
+  "fetched": "2026-11-03T00:37:42Z",
+  "chars": 85108,
+  "portal_id": "103054",
+  "tip": "HOTĂRÂRE"
+ }
+}
