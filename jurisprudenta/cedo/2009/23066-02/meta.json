@@ -1,0 +1,169 @@
+{
+ "key": "cedo-23066-02-2009-01-13",
+ "label": "CEDO, Faimblat c. României, 2009-01-13",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-01-13",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 13 ianuarie 2009",
+ "subtitle": "în Cauza Faimblat împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "141",
+  "bis": false,
+  "date": "2009-03-06",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "23066/02"
+ ],
+ "case_name": "Faimblat",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 3. hotărăşte că nu este necesar să analizeze capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să le plătească împreună reclamanţilor, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, sumele de mai jos, care vor fi convertite în moneda statului pârât la cursul de schimb valabil la data plăţii:",
+  "(i) 6.000 EUR (şase mii euro) pentru daune morale, la care se adaugă orice sumă care ar putea fi datorată cu titlu de impozit; şi (îi) 200 EUR (două sute euro) pentru cheltuieli de judecată, la care se adaugă orice sumă care ar putea fi datorată cu titlu de impozit de către reclamanţi;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a dobânzii facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103097",
+  "text_sha256": "30c04ebc287b2805050ce99d4607722686787167447c4267066e79eac8ec38b8",
+  "catalogue_sha256": "30c04ebc287b2805050ce99d4607722686787167447c4267066e79eac8ec38b8",
+  "fetched": "2026-11-03T00:37:44Z",
+  "chars": 37557,
+  "portal_id": "103097",
+  "tip": "HOTĂRÂRE"
+ }
+}
