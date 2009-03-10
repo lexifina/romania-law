@@ -1,0 +1,171 @@
+{
+ "key": "dcc-64-2009",
+ "label": "Decizia CCR nr. 64/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "64",
+ "date": "2009-01-15",
+ "year": "2009",
+ "heading": "DECIZIE nr. 64 din 15 ianuarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 60 alin. (4) şi (5), precum şi ale art. 91 alin. (2) din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanţelor judecătoreşti şi al parchetelor de pe lângă acestea",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "148",
+  "bis": false,
+  "date": "2009-03-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.965/88/2007",
+  "1.709D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 60 alin. (4) şi (5), precum şi ale art. 91 alin. (2) din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanţelor judecătoreşti şi al parchetelor de pe lângă acestea, excepţie ridicată din oficiu de instanţa de judecată în dosarele nr. 1.965/88/2007, nr. 9.646/118/2007 şi nr. 1.873/36/2008 ale Curţii de Apel Constanţa - Secţia civilă, pentru cauze cu minori şi de familie, precum şi pentru cauze privind conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103178",
+  "text_sha256": "4ae89e3d54e7a05492d4667cbb39671dae048976179640df7342294566d8b11e",
+  "catalogue_sha256": "4ae89e3d54e7a05492d4667cbb39671dae048976179640df7342294566d8b11e",
+  "fetched": "2026-11-03T00:37:49Z",
+  "chars": 8535,
+  "portal_id": "103178",
+  "tip": "DECIZIE"
+ }
+}
