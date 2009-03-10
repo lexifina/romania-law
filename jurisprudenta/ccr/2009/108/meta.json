@@ -1,0 +1,154 @@
+{
+ "key": "dcc-108-2009",
+ "label": "Decizia CCR nr. 108/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "108",
+ "date": "2009-02-03",
+ "year": "2009",
+ "heading": "DECIZIE nr. 108 din 3 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (1) din Legea nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "150",
+  "bis": false,
+  "date": "2009-03-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "38.834/3/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "lege/1999/138"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. (1) din Legea nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii, excepţie ridicată de Ioan Bărbuţă în Dosarul nr. 38.834/3/2007 al Curţii de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "lege/1999/138"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103207",
+  "text_sha256": "13a40cc6cedbd0b731c3c2e2ba1774468dcc62118a182998195d98a5cd36fc32",
+  "catalogue_sha256": "13a40cc6cedbd0b731c3c2e2ba1774468dcc62118a182998195d98a5cd36fc32",
+  "fetched": "2026-11-03T00:37:50Z",
+  "chars": 7917,
+  "portal_id": "103207",
+  "tip": "DECIZIE"
+ }
+}
