@@ -1,0 +1,16 @@
+# Anexa 1 ───────────────────────────── (Anexa nr. 2 la Ordinul nr. 8/2009) ───────────────────────────────────
+ISCIR
+INSPECȚIA DE STAT PENTRU CONTROLUL CAZANELOR, (siglă
+(siglă) RECIPIENTELOR SUB PRESIUNE ȘI INSTALAȚIILOR DE RIDICAT certificat
+I.S.C.I.R.
+ISO)
+CENTRUL DE FORMARE PROFESIONALĂ
+A T E S T A T
+Dl/Dna.......................................
+având CNP..........................
+are dreptul de a participa ca formator la programele de
+formare profesională organizate pentru modulul
+.......................................................
+Inspector de Stat Șef
+Data eliberării:........................
+Valabil până la data de:................
