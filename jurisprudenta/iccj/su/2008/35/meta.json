@@ -1,0 +1,125 @@
+{
+ "key": "iccj-su-35-2008",
+ "label": "Decizia ÎCCJ nr. 35/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "35",
+ "date": "2008-09-22",
+ "year": "2008",
+ "heading": "DECIZIE nr. 35 din 22 septembrie 2008",
+ "subtitle": "pentru a examina recursul în interesul legii, privind încadrarea juridică a faptei de omor urmate de dezmembrarea ori incendierea cadavrului în scopul ascunderii omorului",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "158",
+  "bis": false,
+  "date": "2009-03-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "18/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "319",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În ipoteza în care obiectul material al infracţiunii de profanare de morminte prevăzute la art. 319 din Codul penal este un cadavru, iar inculpatul, prin dezmembrarea ori incendierea cadavrului, urmăreşte ascunderea faptei de omor comise anterior, se vor reţine în concurs real infracţiunea de omor şi infracţiunea de profanare de morminte.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "319",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-03-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103383",
+  "text_sha256": "df1cd83843605a15026a2e37ad7e4bedac64531bedd6b7451ec4c02d140bc203",
+  "catalogue_sha256": "df1cd83843605a15026a2e37ad7e4bedac64531bedd6b7451ec4c02d140bc203",
+  "fetched": "2026-11-03T00:37:58Z",
+  "chars": 7167,
+  "portal_id": "103383",
+  "tip": "DECIZIE"
+ }
+}
