@@ -1,0 +1,134 @@
+{
+ "key": "iccj-su-39-2008",
+ "label": "Decizia ÎCCJ nr. 39/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "39",
+ "date": "2008-09-22",
+ "year": "2008",
+ "heading": "DECIZIE nr. 39 din 22 septembrie 2008",
+ "subtitle": "privind examinarea recursului în interesul legii, privind aplicarea dispoziţiilor art. 81 alin. (1) din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală, cu modificările şi completările ulterioare, referitoare la emiterea mandatului european de arestare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "161",
+  "bis": false,
+  "date": "2009-03-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "22/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 81 alin. (1) din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală, astfel cum a fost modificată prin Legea nr. 224/2006 se interpretează în sensul că:",
+  "Emiterea mandatului european de arestare nu presupune întocmirea unei încheieri, nefiind o procedură jurisdicţională.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103391",
+  "text_sha256": "38c380f7d46cf7ef5f6690abf86a1f0288a11c7088552296cf2e8622ec93e0d2",
+  "catalogue_sha256": "38c380f7d46cf7ef5f6690abf86a1f0288a11c7088552296cf2e8622ec93e0d2",
+  "fetched": "2026-11-03T00:38:01Z",
+  "chars": 7099,
+  "portal_id": "103391",
+  "tip": "DECIZIE"
+ }
+}
