@@ -1,0 +1,146 @@
+{
+ "key": "dcc-194-2009",
+ "label": "Decizia CCR nr. 194/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "194",
+ "date": "2009-02-12",
+ "year": "2009",
+ "heading": "DECIZIE nr. 194 din 12 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 205 alin. (1) teza întâi din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "160",
+  "bis": false,
+  "date": "2009-03-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.149/211/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "205",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 205 alin. (1) teza întâi din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, excepţie ridicată de Societatea Comercială \"Eco Life Concept\" - S.R.L. Cluj-Napoca în Dosarul nr. 7.149/211/2007 al Curţii de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "205",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103437",
+  "text_sha256": "2311984c8e7e7f1ebb29dd1c88be7119e3ee271308dff62b95396b692caf7812",
+  "catalogue_sha256": "2311984c8e7e7f1ebb29dd1c88be7119e3ee271308dff62b95396b692caf7812",
+  "fetched": "2026-11-03T00:38:01Z",
+  "chars": 8611,
+  "portal_id": "103437",
+  "tip": "DECIZIE"
+ }
+}
