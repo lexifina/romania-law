@@ -1,0 +1,209 @@
+{
+ "key": "dcc-250-2009",
+ "label": "Decizia CCR nr. 250/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "250",
+ "date": "2009-02-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 250 din 19 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 85 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 60/2001 privind achiziţiile publice şi ale art. 276^1 alin. (1) teza a doua din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "168",
+  "bis": false,
+  "date": "2009-03-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.810/84/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 60/2001",
+    "number": "60",
+    "year": "2001",
+    "path": "oug/2001/60"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "276-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 85 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 60/2001 privind achiziţiile publice, excepţie ridicată de Societatea Comercială \"Grup 4 Instalaţii\" - S.A. din Cluj-Napoca în Dosarul nr. 1.810/84/2007 al Curţii de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal. 2. Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 276^1 alin. (1) teza a doua din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 60/2001",
+    "number": "60",
+    "year": "2001",
+    "path": "oug/2001/60"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "276-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103544",
+  "text_sha256": "a73fa34acc9065b753232b7fbc49069dab2c47a157f0382c5bc5d4015dd3e8aa",
+  "catalogue_sha256": "a73fa34acc9065b753232b7fbc49069dab2c47a157f0382c5bc5d4015dd3e8aa",
+  "fetched": "2026-11-03T00:38:10Z",
+  "chars": 11967,
+  "portal_id": "103544",
+  "tip": "DECIZIE"
+ }
+}
