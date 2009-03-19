@@ -1,0 +1,26 @@
+# DECIZIE nr. 256 din 24 februarie 2009
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 51 alin. (1) din Legea serviciilor comunitare de utilităţi publice nr. 51/2006
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Augustin Zegrean - judecător Simona Ricu - procuror Doina Suliman - magistrat-asistent-şef Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 51 alin. (1) din Legea serviciilor comunitare de utilităţi publice nr. 51/2006, excepţie ridicată de Sindicatul Liber şi Independent Electrocentrale CET-SUD din Timişoara în Dosarul nr. 3.348/30/2008 al Tribunalului Timiş - Secţia civilă.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Magistratul-asistent-şef referă asupra cauzei şi arată că autorul excepţiei a depus la dosar "Completare" prin care solicită extinderea controlului de constituţionalitate a dispoziţiilor art. 51 alin. (1) din Legea nr. 51/2006 şi în raport cu prevederile art. 9 din Constituţie.
+Reprezentantul Ministerului Public solicită respingerea cererii.
+Curtea, deliberând, respinge cererea de extindere a controlului de constituţionalitate formulată de autorul excepţiei.
+Cauza este în stare de judecată.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate ca fiind neîntemeiată.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 4 septembrie 2008, pronunţată în Dosarul nr. 3.348/30/2008, Tribunalul Timiş - Secţia civilă a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 51 alin. (1) din Legea serviciilor comunitare de utilităţi publice nr. 51/2006.
+Excepţia a fost ridicată de Sindicatul Liber şi Independent Electrocentrale CET-SUD din Timişoara într-o cauză civilă având ca obiect obligaţia de a face.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că dispoziţiile de lege criticate contravin principiilor constituţionale ale art. 20, 40, 41 şi 53.
+Instanţa de judecată consideră că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că dispoziţiile criticate sunt constituţionale.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, notele scrise ale autorului excepţiei, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate cu care a fost sesizată.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 51 alin. (1) din Legea serviciilor comunitare de utilităţi publice nr. 51/2006, publicată în Monitorul Oficial al României, Partea I, nr. 254 din 21 martie 2006, dispoziţii care au următorul cuprins: "Contractul colectiv de muncă încheiat la nivelul ramurii serviciilor de utilităţi publice va fi aplicat de toţi operatorii furnizori/prestatori de servicii de utilităţi publice, indiferent de modalitatea de gestiune adoptată sau de forma de proprietate, modul de organizare ori ţara de origine a operatorului." Autorul excepţiei susţine că prevederile legale criticate sunt neconstituţionale în raport cu prevederile constituţionale ale art. 20, 40, 41 şi 53.
+Cu privire la singurul argument invocat de autorul excepţiei, şi anume acela că legiuitorul, probabil printr-o eroare, a introdus dispoziţiile de lege criticate, Curtea constată că acesta nu poate fi primit, deoarece nu reprezintă o veritabilă critică de neconstituţionalitate. În aceste condiţii, excepţia de neconstituţionalitate este inadmisibilă.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 51 alin. (1) din Legea serviciilor comunitare de utilităţi publice nr. 51/2006, excepţie ridicată de Sindicatul Liber şi Independent Electrocentrale CET-SUD din Timişoara în Dosarul nr. 3.348/30/2008 al Tribunalului Timiş - Secţia civilă.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 24 februarie 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent-şef, Doina Suliman ________
