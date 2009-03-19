@@ -1,0 +1,205 @@
+{
+ "key": "dcc-274-2009",
+ "label": "Decizia CCR nr. 274/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "274",
+ "date": "2009-02-24",
+ "year": "2009",
+ "heading": "DECIZIE nr. 274 din 24 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor articolului unic din Legea nr. 310/2006 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 107/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "171",
+  "bis": false,
+  "date": "2009-03-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "24.760/3/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2006",
+    "number": "310",
+    "year": "2006",
+    "path": "lege/2006/310"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor articolului unic din Legea nr. 310/2006 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 107/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate, excepţie ridicată de Corneliu Liviu Popescu în Dosarul nr. 24.760/3/2007 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2006",
+    "number": "310",
+    "year": "2006",
+    "path": "lege/2006/310"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2005",
+    "number": "107",
+    "year": "2005",
+    "path": "oug/2005/107"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "317",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2006",
+    "number": "107",
+    "year": "2006",
+    "path": "oug/2006/107"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103626",
+  "text_sha256": "aac38f10f43c8059f753c5a7a1783d2a37db7fbce4d8890b5cc3f1b8521c0651",
+  "catalogue_sha256": "aac38f10f43c8059f753c5a7a1783d2a37db7fbce4d8890b5cc3f1b8521c0651",
+  "fetched": "2026-11-04T04:17:55Z",
+  "chars": 9051,
+  "portal_id": "103626",
+  "tip": "DECIZIE"
+ }
+}
