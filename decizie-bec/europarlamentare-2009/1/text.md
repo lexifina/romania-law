@@ -1,0 +1,54 @@
+HOTĂRÂRE nr. 1 din 16 martie 2009  privind aprobarea Regulamentului de organizare şi funcţionare a birourilor electorale constituite pentru alegerea membrilor din România în Parlamentul European din anul 2009     EMITENT     BIROUL ELECTORAL CENTRAL       Publicat în
+			  MONITORUL OFICIAL nr. 176 din 20 martie 2009     Având în vedere prevederile  art. 13^1-14^9 din Legea nr. 33/2007  privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European, cu modificările şi completările ulterioare,  în temeiul art. 14 alin. (8) şi al  art. 14^1 alin. (5) din Legea nr. 33/2007 , cu modificările şi completările ulterioare,  Biroul Electoral Central hotărăşte:
+				 +
+			  Articolul 1     Se aprobă Regulamentul de organizare şi funcţionare a birourilor electorale constituite pentru alegerea membrilor din România în Parlamentul European din anul 2009, prevăzut în anexa care face parte integrantă din prezenta hotărâre.
+				 +
+			  Articolul 2     Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.  Preşedintele  Biroului Electoral Central,  judecător Vasile Alixandri  Bucureşti, 16 martie 2009.  Nr. 1.
+				 +
+			  Anexa       REGULAMENT  de organizare şi funcţionare a birourilor electorale constituite  pentru alegerea membrilor din România în  Parlamentul European din anul 2009
+				 +
+			  Capitolul I   Dispoziţii generale
+				 +
+			  Articolul 1         (1) Birourile electorale sunt alcătuite numai din cetăţeni cu drept de vot. Candidaţii în alegeri, soţul/soţia, rudele şi afinii acestora până la gradul al doilea inclusiv nu pot fi membri ai birourilor electorale.   ...        (2) În îndeplinirea atribuţiilor ce le revin, membrii birourilor electorale exercită o funcţie ce implică autoritatea de stat. Exercitarea corectă şi imparţială a funcţiei de membru al biroului electoral este obligatorie. Nerespectarea acestei obligaţii atrage răspunderea juridică, civilă sau penală, după caz.   ...
+				 +
+			  Articolul 2     Reprezentanţii partidelor politice, alianţelor politice şi alianţelor electorale, precum şi ai organizaţiilor cetăţenilor aparţinând minorităţilor naţionale în birourile electorale nu pot primi şi nu pot exercita alte însărcinări în afara celor prevăzute de lege.
+				 +
+			  Articolul 3         (1) Reprezentanţii partidelor politice, alianţelor politice şi alianţelor electorale în birourile electorale pot fi înlocuiţi la cererea celor care i-au propus, în condiţiile  art. 13^3 alin. (2) din Legea nr. 33/2007  privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European, cu modificările şi completările ulterioare. Biroul electoral din care face parte acesta ia act de înlocuirea reprezentantului.   ...        (2) Calitatea de membru al unui birou electoral încetează de drept în condiţiile  art. 13^3 alin. (3) din Legea nr. 33/2007 , cu modificările şi completările ulterioare.   ...
+				 +
+			  Articolul 4         (1) Birourile electorale lucrează legal în prezenţa majorităţii membrilor care le compun.   ...        (2) Şedinţele birourilor electorale sunt conduse de preşedinţi sau de locţiitorii acestora.   ...        (3) În lipsa preşedintelui biroului electoral, atribuţiile acestuia sunt îndeplinite de locţiitorul său.   ...
+				 +
+			  Articolul 5     Prezenţa la şedinţe a membrilor birourilor electorale este obligatorie. În cazuri justificate, preşedinţii birourilor electorale pot aproba ca unii membri ai acestora să lipsească de la şedinţă.
+				 +
+			  Articolul 6         (1) Convocarea membrilor birourilor electorale în şedinţă se face telefonic sau prin orice alt mijloc, de regulă cu cel puţin 6 ore înainte, cu excepţia situaţiilor urgente, când se face de îndată de către preşedinte.   ...        (2) În convocare se precizează ora, motivul, locul de desfăşurare a şedinţei şi se comunică materialele ce sunt propuse a fi luate în discuţie.   ...
+				 +
+			  Articolul 7         (1) Proiectul ordinii de zi a şedinţei se propune de către preşedinte şi se aprobă cu votul majorităţii membrilor prezenţi.   ...        (2) Membrii biroului electoral pot face propuneri pentru completarea ordinii de zi sau pentru eliminarea unora dintre problemele înscrise în aceasta.   ...        (3) Propunerile de modificare a ordinii de zi se supun aprobării biroului electoral. Dacă acestea sunt aprobate, preşedintele este obligat să le supună dezbaterii.   ...
+				 +
+			  Articolul 8         (1) Propunerile se supun dezbaterii biroului electoral în ordinea în care acestea au fost înscrise pe ordinea de zi.   ...        (2) Schimbarea ordinii de dezbatere a problemelor înscrise pe ordinea de zi se poate face numai cu aprobarea membrilor biroului electoral, la propunerea preşedintelui, locţiitorului sau a unuia dintre membri.   ...
+				 +
+			  Articolul 9         (1) Membrii biroului electoral pot participa la dezbateri în ordinea înscrierii la cuvânt, care se acordă numai de către preşedinte.   ...        (2) În luările de cuvânt, membrii birourilor electorale se limitează strict la problema pusă în discuţie.   ...        (3) Preşedintele poate limita sau retrage cuvântul acordat, în situaţia în care vorbitorul se abate de la subiectul aflat în discuţie. Dacă cel în cauză nu se supune, preşedintele poate suspenda şedinţa.   ...
+				 +
+			  Articolul 10         (1) În îndeplinirea atribuţiilor prevăzute de  Legea nr. 33/2007 , cu modificările şi completările ulterioare, precum şi în soluţionarea întâmpinărilor şi contestaţiilor, birourile electorale adoptă decizii cu votul majorităţii membrilor prezenţi. Votul se exprimă deschis şi poate fi numai "pentru" sau "împotrivă".   ...        (2) În caz de egalitate de voturi, votul preşedintelui este hotărâtor.   ...        (3) Deciziile se semnează de preşedinte, de locţiitorul acestuia şi de membri.   ...        (4) Lipsa semnăturilor unor membri nu influenţează valabilitatea deciziei, dacă aceasta a fost adoptată în condiţiile alin. (1) şi cu respectarea dispoziţiilor art. 4 alin. (1).   ...        (5) Deciziile se aduc la cunoştinţa publică prin afişare sau prin orice mijloc de publicitate.   ...
+				 +
+			  Articolul 11         (1) Birourile electorale sunt obligate să ţină evidenţa întâmpinărilor, contestaţiilor şi a altor cereri privind procesul electoral, precum şi a deciziilor şi hotărârilor adoptate.   ...        (2) După fiecare şedinţă, birourile electorale întocmesc un proces-verbal de şedinţă, care se semnează de preşedinte şi de persoana care l-a întocmit. Acesta poate fi consultat, la cerere, de către membrii biroului electoral şi nu poate fi făcut public.   ...
+				 +
+			  Articolul 12         (1) Durata programului zilnic de lucru cu publicul se afişează la sediile birourilor electorale şi este respectată cu stricteţe. Acesta nu poate avea mai puţin de 6 ore şi trebuie fixat între orele 10,00-17,00.   ...        (2) În zilele în care se împlinesc termene privind activităţi care ţin de competenţa lor, birourile electorale îşi încheie programul de lucru cu publicul la ora 24,00.   ...        (3) În ziua votării, birourile electorale asigură permanenţa.   ...
+				 +
+			  Capitolul II   Dispoziţii speciale
+				 +
+			  Articolul 13         (1) În aplicarea prevederilor  Legii nr. 33/2007 , cu modificările şi completările ulterioare, precum şi pentru soluţionarea întâmpinărilor şi a contestaţiilor pe care este competent să le soluţioneze, Biroul Electoral Central adoptă decizii care sunt obligatorii pentru toate autorităţile, instituţiile publice, birourile electorale, organismele cu atribuţii în materie electorală şi competitorii electorali la care se referă de la data aducerii la cunoştinţa publică.   ...        (2) Pentru interpretarea unitară a legii, Biroul Electoral Central adoptă hotărâri care sunt general obligatorii şi se publică în Monitorul Oficial al României, Partea I.   ...        (3) Hotărârile se semnează de preşedinte, de locţiitorul acestuia şi de membri. Lipsa semnăturilor unor membri nu influenţează valabilitatea hotărârii, dacă aceasta a fost adoptată în condiţiile art. 10 alin. (1) şi cu respectarea dispoziţiilor art. 4 alin. (1).   ...
+				 +
+			  Articolul 14         (1) Biroul Electoral Central are un purtător de cuvânt desemnat din rândul membrilor săi prin votul majorităţii membrilor prezenţi.   ...        (2) Purtătorul de cuvânt este singurul membru al Biroului Electoral Central abilitat să transmită punctul de vedere oficial al acestuia către mass-media.   ...
+				 +
+			  Articolul 15     Preşedinţii birourilor electorale stabilesc care dintre problemele cu care acestea au fost sesizate sunt de natură a fi supuse dezbaterii biroului electoral şi rezolvabile prin decizie, respectiv decizie/hotărâre, în cazul Biroului Electoral Central.
+				 +
+			  Articolul 16     La propunerea Biroului Electoral Central, preşedintele poate desemna unul sau mai mulţi membri pentru întocmirea unor puncte de vedere asupra problemelor în discuţie.
+				 +
+			  Articolul 17     În îndeplinirea atribuţiilor prevăzute de lege, precum şi în soluţionarea întâmpinărilor şi a contestaţiilor pe care sunt competente să le soluţioneze, birourile electorale judeţene, biroul electoral pentru secţiile de votare din străinătate şi birourile electorale de sector adoptă decizii, care sunt obligatorii în raza de competenţă a acestora pentru toate birourile electorale ale secţiilor de votare, competitorii electorali, autorităţile şi instituţiile publice la care se referă.
+				 +
+			  Articolul 18     Deciziile adoptate de birourile electorale judeţene, birourile electorale de sector şi biroul electoral pentru secţiile de votare din străinătate devin executorii de la datele la care expiră termenele de contestare a acestora.
+				 +
+			  Articolul 19     Birourile electorale ale secţiilor de votare din ţară nu pot funcţiona cu mai puţin de 5 membri, respectiv preşedinte, locţiitorul acestuia şi 3 reprezentanţi ai partidelor politice, alianţelor politice şi alianţelor electorale, precum şi ai organizaţiilor cetăţenilor aparţinând minorităţilor naţionale care participă la alegeri. Birourile electorale ale secţiilor de votare din străinătate nu pot funcţiona cu mai puţin de 3 membri, respectiv preşedintele şi 2 membri.
+				 +
+			  Articolul 20     Birourile electorale judeţene, birourile electorale ale sectoarelor municipiului Bucureşti, biroul electoral pentru secţiile de votare din străinătate şi birourile electorale ale secţiilor de votare îşi încetează activitatea după data predării către birourile electorale ierarhic superioare a proceselor-verbale de consemnare şi centralizare a rezultatelor votării, pe care le-au întocmit, cu condiţia confirmării lipsei oricăror erori sau neconcordanţe în acestea.
+				 +
+			  Articolul 21     Biroul Electoral Central îşi încetează activitatea în termen de 48 de ore de la publicarea în Monitorul Oficial al României, Partea I, a rezultatului alegerilor, potrivit prevederilor legale.  ------------
