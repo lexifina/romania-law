@@ -1,0 +1,6 @@
+# Anexa 2
+MINISTERUL TRANSPORTURILOR Autoritatea Feroviară Română - AFER - Model - AVIZ TEHNIC pentru menținerea în funcțiune sau pentru acordarea unei noi durate normale de funcționare a unui vehicul feroviar care a depășit durata normală de funcționare/durata de serviciu Seria.......... nr........... În baza Ordinului ministrului transporturilor nr......../.......... și a Raportului tehnic de evaluare nr......./............, se atestă că vehiculul feroviar..................... pentru care a fost emis prezentul aviz tehnic, aparținând persoanei juridice...................... poate fi utilizat în activitatea de transport feroviar și cu metroul astfel:
+a) până la data de................................... ca urmare a menținerii în funcțiune după depășirea duratei normale de funcționare, de la..................... ani la................. ani, cu respectarea următoarelor condiții:.........................................
+b) până la data de............................... ca urmare a acordării unei noi durate normale de funcționare de............... ani, în conformitate cu prevederile Hotărârii Guvernului nr. 2.139/2004, cu respectarea următoarelor condiții:..........................
+----------
+Data eliberării............ Director general,.............................. (Numele, prenumele și semnătura) L.S.
