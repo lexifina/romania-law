@@ -1,0 +1,172 @@
+{
+ "key": "iccj-su-37-2008",
+ "label": "Decizia ÎCCJ nr. 37/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "37",
+ "date": "2008-09-22",
+ "year": "2008",
+ "heading": "DECIZIE nr. 37 din 22 septembrie 2008",
+ "subtitle": "pentru examinarea recursului în interesul legii, privind raportul dintre infracţiunea de rele tratamente aplicate minorului prevăzută de art. 306 din Codul penal şi infracţiunile de lovire sau alte violenţe, de vătămare corporală şi de lipsire de libertate în mod ilegal, prevăzute în art. 180, 181 şi 189 din acelaşi cod, sub aspectul încadrării lor juridice în unul sau mai multe dintre textele de lege menţionate",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "177",
+  "bis": false,
+  "date": "2009-03-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "20/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "306",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "189",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea dispoziţiilor art. 306 din Codul penal stabilesc că:",
+  "Infracţiunile de lovire sau alte violenţe prevăzute de art. 180 din Codul penal, vătămare corporală prevăzută de art. 181 din Codul penal şi lipsire de libertate în mod ilegal prevăzută de art. 189 din Codul penal, după caz, se vor reţine în concurs ideal cu infracţiunea de rele tratamente aplicate minorului, în cazul faptei părintelui sau persoanei căreia minorul i-a fost încredinţat spre creştere şi educare, care abuzează de autoritatea sa şi, contrar intereselor minorului, exercită acte de violenţă sau lipsire de libertate împotriva acestuia, cu intenţia de a-i produce suferinţe, vătămări fizice sau morale, şi care au pus în primejdie gravă dezvoltarea fizică, intelectuală sau morală a minorului.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "306",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": [
+      "1-1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": [
+      "1-1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "189",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-03-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103675",
+  "text_sha256": "207e90372c1ea033de3f0a116ede79836b15b3bb4cd58cd8dd0e269061fb41d7",
+  "catalogue_sha256": "207e90372c1ea033de3f0a116ede79836b15b3bb4cd58cd8dd0e269061fb41d7",
+  "fetched": "2026-11-03T00:38:22Z",
+  "chars": 12794,
+  "portal_id": "103675",
+  "tip": "DECIZIE"
+ }
+}
