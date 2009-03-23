@@ -1,0 +1,149 @@
+{
+ "key": "dcc-228-2009",
+ "label": "Decizia CCR nr. 228/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "228",
+ "date": "2009-02-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 228 din 19 februarie 2009",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 418 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 99/2006 privind instituţiile de credit şi adecvarea capitalului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "178",
+  "bis": false,
+  "date": "2009-03-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "11.497/245/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "418",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 418 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 99/2006 privind instituţiile de credit şi adecvarea capitalului, excepţie ridicată de Eugenia Baciu şi Dragoş Baciu în Dosarul nr. 11.497/245/2007 al Tribunalului Iaşi - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "418",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103669",
+  "text_sha256": "f0bc231bbf7728fac5c3500048ab0cc8bd0ed592bfbb20766c95ec1b2e7c3cb2",
+  "catalogue_sha256": "f0bc231bbf7728fac5c3500048ab0cc8bd0ed592bfbb20766c95ec1b2e7c3cb2",
+  "fetched": "2026-11-03T00:38:22Z",
+  "chars": 6071,
+  "portal_id": "103669",
+  "tip": "DECIZIE"
+ }
+}
