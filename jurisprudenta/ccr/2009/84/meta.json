@@ -1,0 +1,195 @@
+{
+ "key": "dcc-84-2009",
+ "label": "Decizia CCR nr. 84/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "84",
+ "date": "2009-01-20",
+ "year": "2009",
+ "heading": "DECIZIE nr. 84 din 20 ianuarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 53, art. 54 şi art. 55 din Legea fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "182",
+  "bis": false,
+  "date": "2009-03-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "21.470/301/2006",
+  "1.441D/2008",
+  "21.470/301/2008",
+  "3.415/336/2007",
+  "39.682/3/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 53, art. 54 şi art. 55 din Legea fondului funciar nr. 18/1991, excepţie ridicată de Vladimir V. Vavilin în Dosarul nr. 21.470/301/2006 al Tribunalului Bucureşti - Secţia a V-a civilă, de Ianoş Iuga în Dosarul nr. 3.415/336/2007 al Tribunalului Maramureş - Secţia civilă şi de Societatea Comercială \"Sunrise Fish Prod\" - S.R.L. din Bucureşti în Dosarul nr. 39.682/3/2006 al Judecătoriei Zimnicea - Secţia mixtă fond.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103743",
+  "text_sha256": "80bf76153c4b619a04c506d40296f65e4051ac6bddfa2c9ed15e787747d49e07",
+  "catalogue_sha256": "80bf76153c4b619a04c506d40296f65e4051ac6bddfa2c9ed15e787747d49e07",
+  "fetched": "2026-11-03T00:39:05Z",
+  "chars": 10392,
+  "portal_id": "103743",
+  "tip": "DECIZIE"
+ }
+}
