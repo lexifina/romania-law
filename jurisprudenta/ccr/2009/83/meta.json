@@ -1,0 +1,215 @@
+{
+ "key": "dcc-83-2009",
+ "label": "Decizia CCR nr. 83/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "83",
+ "date": "2009-01-15",
+ "year": "2009",
+ "heading": "DECIZIE nr. 83 din 15 ianuarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 56/2007 privind încadrarea în muncă şi detaşarea străinilor pe teritoriul României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "187",
+  "bis": false,
+  "date": "2009-03-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.164/2/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 56/2007",
+    "number": "56",
+    "year": "2007",
+    "path": "oug/2007/56"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 56/2007 privind încadrarea în muncă şi detaşarea străinilor pe teritoriul României, excepţie ridicată de Confederaţia Naţională Sindicală \"Cartel Alfa\" în Dosarul nr. 6.164/2/2007 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 56/2007",
+    "number": "56",
+    "year": "2007",
+    "path": "oug/2007/56"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 109/1997",
+    "number": "109",
+    "year": "1997",
+    "path": "lege/1997/109"
+   },
+   "articles": [
+    {
+     "art": "2-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 56/2007",
+    "number": "56",
+    "year": "2007",
+    "path": "lege/2007/56"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103796",
+  "text_sha256": "da82737072a0caa7d7f977c2aa9b6fd5286a8270d2d3e8dfe925674709ae57ac",
+  "catalogue_sha256": "da82737072a0caa7d7f977c2aa9b6fd5286a8270d2d3e8dfe925674709ae57ac",
+  "fetched": "2026-11-03T00:38:26Z",
+  "chars": 17805,
+  "portal_id": "103796",
+  "tip": "DECIZIE"
+ }
+}
