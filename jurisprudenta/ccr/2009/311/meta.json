@@ -1,0 +1,172 @@
+{
+ "key": "dcc-311-2009",
+ "label": "Decizia CCR nr. 311/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "311",
+ "date": "2009-03-03",
+ "year": "2009",
+ "heading": "DECIZIE nr. 311 din 3 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 969, art. 1073 şi art. 1075 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "190",
+  "bis": false,
+  "date": "2009-03-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.714/299/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1075",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 1073 şi art. 1075 din Codul civil, excepţie ridicată de Societatea Comercială \"Standard Snacks\" - S.R.L. în Dosarul nr. 3.714/299/2008 al Judecătoriei Sectorului 1 Bucureşti.",
+  "II. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 969 din Codul civil, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1075",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103813",
+  "text_sha256": "cfe468e4164bbbdb61a9bfd54c9735c60f97d648ce4beeb8d82e8c470212448b",
+  "catalogue_sha256": "cfe468e4164bbbdb61a9bfd54c9735c60f97d648ce4beeb8d82e8c470212448b",
+  "fetched": "2026-11-03T00:38:25Z",
+  "chars": 6980,
+  "portal_id": "103813",
+  "tip": "DECIZIE"
+ }
+}
