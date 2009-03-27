@@ -1,0 +1,201 @@
+{
+ "key": "dcc-283-2009",
+ "label": "Decizia CCR nr. 283/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "283",
+ "date": "2009-02-26",
+ "year": "2009",
+ "heading": "DECIZIE nr. 283 din 26 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I şi art. II din Ordonanţa de urgenţă a Guvernului nr. 75/2008 privind stabilirea de măsuri pentru soluţionarea unor aspecte financiare în sistemul justiţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "194",
+  "bis": false,
+  "date": "2009-03-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "16.942/3/2008",
+  "2.696D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 75/2008",
+    "number": "75",
+    "year": "2008",
+    "path": "oug/2008/75"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. I şi art. II din Ordonanţa de urgenţă a Guvernului nr. 75/2008 privind stabilirea de măsuri pentru soluţionarea unor aspecte financiare în sistemul justiţiei, excepţie ridicată din oficiu de Curtea de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflicte de muncă şi asigurări sociale în dosarele nr. 16.942/3/2008 (5.174/2008), nr. 5.723/2/2008 (7.547/2008), nr. 7.145/99/2007 (7.568/2008), nr. 590/122/2008 (5.908/2008), nr. 5.625/2/2008 (7.505/2008), nr. 980/87/2008 (6.921/2008), nr. 2.147/87/2008 (7.424/2008), nr. 4.892/2/2008 (6.281/2008), nr. 5.493/2/2008 (7.448/2008), nr. 5.618/2/2008 (7.492/2008), nr. 4.600/2/2008 (5.889/2008), nr. 5.759/2/2008 (7.560/2008), nr. 5.223/2/2008 (7.059/2008), nr. 5.119/2/2008 (6.888/2008), nr. 5.038/2/2008 (6.654/2008), nr. 5.680/2/2008 (7.521/2008), nr. 5.261/2/2008 (7.178/2008), nr. 19.922/3/2008 (7.308/2008), nr. 4.815/2/2008 (6.168/2008), nr. 1.185/87/2008 (7.610/2008), nr. 4.814/2/2008 (6.167/2008), nr. 5.619/2/2008 (7.493/2008), nr. 1.624/87/2008 (7.570/2008), nr. 1.641/87/2008 (7.573/2008), nr. 5.238/2/2008 (7.150/2008) şi nr. 5.399/2/2008 (7.317/2008).",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 75/2008",
+    "number": "75",
+    "year": "2008",
+    "path": "oug/2008/75"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-03-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103899",
+  "text_sha256": "f25ed14b5745629982d2845d2b17abcddf69da245d90f8250e35565eab918d1d",
+  "catalogue_sha256": "f25ed14b5745629982d2845d2b17abcddf69da245d90f8250e35565eab918d1d",
+  "fetched": "2026-11-03T00:38:32Z",
+  "chars": 13124,
+  "portal_id": "103899",
+  "tip": "DECIZIE"
+ }
+}
