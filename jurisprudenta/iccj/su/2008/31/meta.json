@@ -1,0 +1,142 @@
+{
+ "key": "iccj-su-31-2008",
+ "label": "Decizia ÎCCJ nr. 31/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "31",
+ "date": "2008-06-02",
+ "year": "2008",
+ "heading": "DECIZIE nr. 31 din 2 iunie 2008",
+ "subtitle": "pentru examinarea recursului în interesul legii, privind aplicarea dispoziţiilor art. 483 alin. 3 şi art. 485 alin. 1 şi 2 din Codul de procedură penală referitoare la caracterul şedinţei de judecată în cazul în care inculpatul, minor la data săvârşirii faptei, a devenit ulterior major.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "204",
+  "bis": false,
+  "date": "2009-03-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "14/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "483",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "485",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 483 alin. 3 raportat la art. 485 alin. 1 şi 2 din Codul de procedură penală se interpretează în sensul că, în cazul în care inculpatul, minor la data săvârşirii faptei, a devenit major, indiferent de momentul intervenirii majoratului, judecata va avea loc în şedinţă nepublică.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "483",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "485",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "290",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104047",
+  "text_sha256": "490b6c4600b52408fe5bf3a2de683f001aa60f30092d73d9d43dd00f36c1baf2",
+  "catalogue_sha256": "490b6c4600b52408fe5bf3a2de683f001aa60f30092d73d9d43dd00f36c1baf2",
+  "fetched": "2026-11-03T00:39:08Z",
+  "chars": 6991,
+  "portal_id": "104047",
+  "tip": "DECIZIE"
+ }
+}
