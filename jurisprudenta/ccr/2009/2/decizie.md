@@ -1,0 +1,34 @@
+# DECIZIE nr. 2 din 8 ianuarie 2009
+referitoare la excepţia de neconstituţionalitate a prevederilor art. 37 şi art. 38 din Codul familiei
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Ion Predescu - judecător Tudorel Toader - judecător Puskas Valentin Zoltan - judecător Augustin Zegrean - judecător Antonia Constantin - procuror Maria Bratu - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a prevederilor art. 37 şi 38 din Codul familiei, excepţie ridicată de Dumitru Hosu în Dosarul nr. 2.756/315/2008 al Judecătoriei Târgovişte.
+La apelul nominal se prezintă, personal, autorul excepţiei şi partea Teodora Hosu. Procedura de citare este legal îndeplinită.
+Cauza se află în stare de judecată.
+Autorul excepţiei solicită admiterea acesteia pentru aceleaşi motive invocate în faţa instanţei de judecată.
+Teodora Hosu solicită respingerea excepţiei.
+Reprezentantul Ministerului Public pune concluzii de respingere ca neîntemeiată a excepţiei de neconstituţionalitate. Invocă jurisprudenţa în materie a Curţii Constituţionale.
+CURTEA, având în vedere actele şi lucrările dosarului, constată următoarele:
+Prin Încheierea din 29 mai 2008, pronunţată în Dosarul nr. 2.756/315/2008, Judecătoria Târgovişte a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 37 şi 38 din Codul familiei, excepţie ridicată de Dumitru Hosu într-un proces de divorţ.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine, în esenţă, că textul de lege criticat este neconstituţional, deoarece instituie posibilitatea soţilor de a divorţa cu uşurinţă.
+Judecătoria Târgovişte consideră că textul de lege criticat nu contravine dispoziţiilor constituţionale invocate.
+Potrivit art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că prevederile de lege criticate sunt constituţionale. În acest sens, invocă jurisprudenţa Curţii Constituţionale.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, susţinerile părţilor prezente, concluziile procurorului, prevederile de lege criticate, raportate la dispoziţiile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei îl reprezintă prevederile art. 37 şi 38 din Codul familiei, republicat în Buletinul Oficial al României, Partea I, nr. 13 din 18 aprilie 1956, cu următorul cuprins: - Art. 37: "Căsătoria încetează prin moartea unuia dintre soţi sau prin declararea judecătorească a morţii unuia dintre ei.
+Căsătoria se poate desface prin divorţ."; - Art. 38: "Instanţa judecătorească poate desface căsătoria prin divorţ atunci când, datorită unor motive temeinice, raporturile dintre soţi sunt grav vătămate şi continuarea căsătoriei nu mai este posibilă.
+Divorţul poate fi pronunţat şi numai pe baza acordului ambilor soţi, dacă sunt îndeplinite următoarele condiţii:
+a) până la data cererii de divorţ a trecut cel puţin un an de la încheierea căsătoriei;
+b) nu există copii minori rezultaţi din căsătorie.
+Oricare dintre soţi poate cere divorţul atunci când starea sănătăţii sale face imposibilă continuarea căsătoriei.
+La soluţionarea cererilor accesorii divorţului, referitoare la încredinţarea copiilor minori, obligaţia de întreţinere şi folosirea locuinţei, instanţa va ţine seama şi de interesele minorilor." Textul constituţional invocat ca fiind încălcat este cel al art. 26 privind viaţa intimă, familială şi privată.
+Examinând excepţia de neconstituţionalitate invocată, observăm că textele de lege criticate au mai făcut obiect al controlului de constituţionalitate, prin raportare la aceleaşi dispoziţii constituţionale şi cu o motivare identică.
+Astfel, prin Decizia nr. 156 din 26 februarie 2008, publicată în Monitorul Oficial al României, Partea I, nr. 326 din 24 aprilie 2008, Curtea a constatat că dispoziţiile art. 37 din Codul familiei nu fac decât să enumere cauzele de încetare a căsătoriei, una dintre acestea fiind desfacerea prin divorţ, iar prevederile art. 38 stabilesc condiţiile în care instanţele judecătoreşti pot pronunţa divorţul, precizând că acesta nu se poate pronunţa decât în anumite condiţii, şi anume când există motive temeinice şi numai dacă raporturile dintre soţi sunt grav vătămate, iar continuarea căsătoriei nu mai este posibilă, condiţii ce trebuie îndeplinite cumulativ, aşa cum rezultă din text.
+Curtea a reţinut că, în ceea ce priveşte divorţul bazat pe acordul părţilor, reglementat în art. 38 alin. 2 din Codul familiei, textul de lege impune anumite condiţii, şi anume o durată minimă a căsătoriei, precum şi inexistenţa copiilor minori rezultaţi din căsătorie, ceea ce demonstrează preocuparea legiuitorului pentru menţinerea instituţiei căsătoriei şi înlăturarea posibilităţii de tratare cu uşurinţă a obligaţiilor faţă de copiii minori.
+Referitor la posibilitatea ca oricare dintre soţi să ceară desfacerea căsătoriei atunci când starea sănătăţii face imposibilă continuarea acesteia, prevăzută în art. 38 alin. 3 din Codul familiei, Curtea a reţinut că legiuitorul a avut în vedere evitarea recurgerii cu superficialitate la posibilitatea desfacerii unei căsătorii. Pentru aceste considerente, Curtea a constatat că, în temeiul textelor de lege criticate, instanţele de judecată dispun de mijloace legale pentru a nu permite desfacerea cu uşurinţă a căsătoriei, acţionând astfel în sensul garanţiei instituite prin art. 26 alin. (1) din Constituţie.
+Soluţia şi considerentele pronunţate în decizia menţionată îşi menţin valabilitatea şi în prezenta cauză, neexistând temeiuri care să determine reconsiderarea jurisprudenţei Curţii.
+Pentru motivele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a prevederilor art. 37 şi art. 38 din Codul familiei, excepţie ridicată de Dumitru Hosu în Dosarul nr. 2.756/315/2008 al Judecătoriei Târgovişte.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 8 ianuarie 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Maria Bratu __________
