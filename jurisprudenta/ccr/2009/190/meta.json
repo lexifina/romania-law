@@ -1,0 +1,220 @@
+{
+ "key": "dcc-190-2009",
+ "label": "Decizia CCR nr. 190/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "190",
+ "date": "2009-02-12",
+ "year": "2009",
+ "heading": "DECIZIE nr. 190 din 12 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 9 alin. (4) din Regulamentul-cadru de organizare şi funcţionare a consiliilor locale, aprobat prin Ordonanţa Guvernului nr. 35/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "213",
+  "bis": false,
+  "date": "2009-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.584/62/2008",
+  "2.000D/2008",
+  "2.691D/2008",
+  "4863.2/101/2008"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (4) din Regulamentul-cadru de organizare şi funcţionare a consiliilor locale, aprobat prin Ordonanţa Guvernului nr. 35/2002, excepţie ridicată de Claudiu Traian Druia şi Ioan Clinciu în Dosarul nr. 4.584/62/2008 al Tribunalului Braşov - Secţia comercială şi de contencios administrativ şi fiscal şi de Fabian Laurenţiu Drocan în Dosarul nr. 4863.2/101/2008 al Tribunalului Mehedinţi - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 35/2002",
+    "number": "35",
+    "year": "2002",
+    "path": "og/2002/35"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "31-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 66/2008",
+    "number": "66",
+    "year": "2008",
+    "path": "oug/2008/66"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 334/2006",
+    "number": "334",
+    "year": "2006",
+    "path": "lege/2006/334"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 394/2004",
+    "number": "394",
+    "year": "2004",
+    "path": "lege/2004/394"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 20/2008",
+    "number": "20",
+    "year": "2008",
+    "path": "oug/2008/20"
+   },
+   "articles": [
+    {
+     "art": "31-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104192",
+  "text_sha256": "cb96a2835942c2080b380c43dba5e955095a25b636148729660acf9bf46b5d91",
+  "catalogue_sha256": "cb96a2835942c2080b380c43dba5e955095a25b636148729660acf9bf46b5d91",
+  "fetched": "2026-11-03T00:40:02Z",
+  "chars": 13780,
+  "portal_id": "104192",
+  "tip": "DECIZIE"
+ }
+}
