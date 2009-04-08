@@ -1,0 +1,194 @@
+{
+ "key": "dcc-232-2009",
+ "label": "Decizia CCR nr. 232/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "232",
+ "date": "2009-02-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 232 din 19 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 18 alin. (2) lit. f) şi lit. g) raportate la art. 85 alin. (6) din Legea nr. 85/2006 privind procedura insolvenţei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "230",
+  "bis": false,
+  "date": "2009-04-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.080D/2008",
+  "2.936/84/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f",
+      "g"
+     ]
+    },
+    {
+     "art": "85",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 18 alin. (2) lit. f) şi lit. g) raportate la art. 85 alin. (6) din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de Societatea Comercială All Credit S.P.R.L. din Târgu Mureş, în calitate de administrator special al Societăţii Comerciale Silvania Comtour - S.A. din Zalău, în dosarele nr. 2.936/84/2007, nr. 70/84/2007 şi nr. 979/84/2008 ale Tribunalului Sălaj - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f",
+      "g"
+     ]
+    },
+    {
+     "art": "85",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-04-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104493",
+  "text_sha256": "367df3e1a30f0c6358a5200a7f2f0d802ea9ca3765e65f0712770303169c127a",
+  "catalogue_sha256": "367df3e1a30f0c6358a5200a7f2f0d802ea9ca3765e65f0712770303169c127a",
+  "fetched": "2026-11-03T04:55:11Z",
+  "chars": 8559,
+  "portal_id": "104493",
+  "tip": "DECIZIE"
+ }
+}
