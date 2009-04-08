@@ -1,0 +1,169 @@
+{
+ "key": "iccj-su-45-2008",
+ "label": "Decizia ÎCCJ nr. 45/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "45",
+ "date": "2008-11-10",
+ "year": "2008",
+ "heading": "DECIZIE nr. 45 din 10 noiembrie 2008",
+ "subtitle": "pentru examinarea recursului în interesul legii, cu privire la interpretarea şi aplicarea dispoziţiilor art. 14^1, raportate la dispoziţiile art. 13 şi 14 din Legea nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război, republicată, astfel cum a fost completată prin Ordonanţa de urgenţă a Guvernului nr. 12/2004, aprobată prin Legea nr. 210/2004, referitoare la recalcularea rentei veteranilor de război cărora le-au fost acordate ordine şi medalii pentru faptele de arme săvârşite pe câmpul de luptă, începând cu luna martie 2004",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "230",
+  "bis": false,
+  "date": "2009-04-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "23/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 44/1994",
+    "number": "44",
+    "year": "1994",
+    "path": "lege/1994/44"
+   },
+   "articles": [
+    {
+     "art": "14-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabilesc:",
+  "Dispoziţiile art. 14^1, raportate la dispoziţiile art. 13 şi 14 din Legea nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război, republicată, astfel cum a fost completată prin Ordonanţa de urgenţă a Guvernului nr. 12/2004, aprobată prin Legea nr. 210/2004, se interpretează în sensul că renta lunară se calculează conform prevederilor art. 13 şi 14 din lege, în raport cu solda de grad şi/sau solda de funcţie, după caz, ale unui sublocotenent din Ministerul Apărării Naţionale.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 44/1994",
+    "number": "44",
+    "year": "1994",
+    "path": "lege/1994/44"
+   },
+   "articles": [
+    {
+     "art": "14-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 12/2004",
+    "number": "12",
+    "year": "2004",
+    "path": "oug/2004/12"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2007",
+    "number": "303",
+    "year": "2007",
+    "path": "lege/2007/303"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 2/2004",
+    "number": "2",
+    "year": "2004",
+    "path": "oug/2004/2"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-04-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104526",
+  "text_sha256": "bca2039cb7d87670b28088f3d4a9a8ec8a650b02107938cf026c8f6318e5d17b",
+  "catalogue_sha256": "bca2039cb7d87670b28088f3d4a9a8ec8a650b02107938cf026c8f6318e5d17b",
+  "fetched": "2026-11-03T04:55:12Z",
+  "chars": 17018,
+  "portal_id": "104526",
+  "tip": "DECIZIE"
+ }
+}
