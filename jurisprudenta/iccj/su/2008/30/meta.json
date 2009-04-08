@@ -1,0 +1,136 @@
+{
+ "key": "iccj-su-30-2008",
+ "label": "Decizia ÎCCJ nr. 30/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "30",
+ "date": "2008-06-02",
+ "year": "2008",
+ "heading": "DECIZIE nr. 30 din 2 iunie 2008",
+ "subtitle": "pentru examinarea recursului în interesul legii, privind aplicarea dispoziţiilor art. 66^1 din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală, referitor la emiterea mandatului de urmărire internaţională în vederea extrădării",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "230",
+  "bis": false,
+  "date": "2009-04-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "13/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "66-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 66^1 alin. (1) din Legea nr. 302/2004, astfel cum a fost modificată prin Legea nr. 224/2006, se interpretează în sensul că:",
+  "Emiterea mandatului de urmărire internaţională în vederea extrădării nu presupune întocmirea unei încheieri, nefiind o procedură jurisdicţională.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "66-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-04-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104525",
+  "text_sha256": "e5e90601a4b3eea2aab826bfdf9e74ae9a6008a53263230d568af9144b1e2013",
+  "catalogue_sha256": "e5e90601a4b3eea2aab826bfdf9e74ae9a6008a53263230d568af9144b1e2013",
+  "fetched": "2026-11-03T04:55:10Z",
+  "chars": 9826,
+  "portal_id": "104525",
+  "tip": "DECIZIE"
+ }
+}
