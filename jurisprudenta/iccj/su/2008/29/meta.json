@@ -1,0 +1,158 @@
+{
+ "key": "iccj-su-29-2008",
+ "label": "Decizia ÎCCJ nr. 29/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "29",
+ "date": "2008-06-02",
+ "year": "2008",
+ "heading": "DECIZIE nr. 29 din 2 iunie 2008",
+ "subtitle": "pentru examinarea recursului în interesul legii, în legătură cu soluţionarea în cadrul procesului penal a acţiunii civile exercitate de proprietarul autoturismului avariat de către inculpatul trimis în judecată numai pentru infracţiunea de conducere fără permis",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "230",
+  "bis": false,
+  "date": "2009-04-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "12/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de Colegiul de conducere al Curţii de Apel Bacău şi de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea dispoziţiilor art. 78 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002, astfel cum a fost aprobată prin Legea nr. 49/2006, stabilesc că:",
+  "Instanţa învestită cu judecarea acţiunii penale în cazul infracţiunii de conducere a unui autovehicul pe drumurile publice de către o persoană fără a poseda permis de conducere nu va soluţiona şi acţiunea civilă exercitată de proprietarul sau deţinătorul autoturismului avariat sau distrus în timpul săvârşirii infracţiunii rutiere.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-04-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104524",
+  "text_sha256": "d3ad824a988eed5f64ba0fd11c40d0791bcafc855801e0e024c4d6bf5df6210e",
+  "catalogue_sha256": "d3ad824a988eed5f64ba0fd11c40d0791bcafc855801e0e024c4d6bf5df6210e",
+  "fetched": "2026-11-03T04:55:10Z",
+  "chars": 10013,
+  "portal_id": "104524",
+  "tip": "DECIZIE"
+ }
+}
