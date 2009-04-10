@@ -1,0 +1,168 @@
+{
+ "key": "dcc-327-2009",
+ "label": "Decizia CCR nr. 327/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "327",
+ "date": "2009-03-12",
+ "year": "2009",
+ "heading": "DECIZIE nr. 327 din 12 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I şi art. II din Ordonanţa de urgenţă a Guvernului nr. 75/2008 privind stabilirea de măsuri pentru soluţionarea unor aspecte financiare în sistemul justiţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "242",
+  "bis": false,
+  "date": "2009-04-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "204D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 75/2008",
+    "number": "75",
+    "year": "2008",
+    "path": "oug/2008/75"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. I şi art. II din Ordonanţa de urgenţă a Guvernului nr. 75/2008 privind stabilirea de măsuri pentru soluţionarea unor aspecte financiare în sistemul justiţiei, excepţie ridicată, din oficiu, de Curtea de Apel Timişoara - Secţia litigii de muncă şi asigurări sociale în dosarele nr. 2.384/30/2008, 2.279/30/2008, 4.119/108/2007, 868/59/2008, 3.129/30/2008, 3.339/30/2008, 7.511.1/30/2007, 1.706/115/2008, 5.551.1/30/2007, 654/59/2008, 3.549.3/108/2007, 1.027/59/2008, 9.069/30/2007, 2.976.1/30/2008, 892/115/2008, 5.718.3/30/2007, 682/30/2008, 2.190/109/2008, 1.161/115/2008, 2.366/30/2008, 3.732/30/2008 şi 2.908.1/30/2008.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 75/2008",
+    "number": "75",
+    "year": "2008",
+    "path": "oug/2008/75"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-04-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104656",
+  "text_sha256": "dcad2dfc92b27bb29e41d224bdf3d0b81c65b6402abe03a9467f68a755da0fe7",
+  "catalogue_sha256": "dcad2dfc92b27bb29e41d224bdf3d0b81c65b6402abe03a9467f68a755da0fe7",
+  "fetched": "2026-11-03T04:55:04Z",
+  "chars": 8234,
+  "portal_id": "104656",
+  "tip": "DECIZIE"
+ }
+}
