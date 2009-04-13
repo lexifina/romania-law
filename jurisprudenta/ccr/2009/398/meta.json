@@ -1,0 +1,189 @@
+{
+ "key": "dcc-398-2009",
+ "label": "Decizia CCR nr. 398/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "398",
+ "date": "2009-03-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 398 din 19 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 22^3 din Legea nr. 290/2002 privind organizarea şi funcţionarea unităţilor de cercetare-dezvoltare din domeniile agriculturii, silviculturii, industriei alimentare şi a Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\"",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": null,
+  "bis": false,
+  "date": "2009-04-13",
+  "part": "I",
+  "from": "catalogue"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.768/211/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 290/2002",
+    "number": "290",
+    "year": "2002",
+    "path": "lege/2002/290"
+   },
+   "articles": [
+    {
+     "art": "22-3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 22^3 din Legea nr. 290/2002 privind organizarea şi funcţionarea unităţilor de cercetare-dezvoltare din domeniile agriculturii, silviculturii, industriei alimentare şi a Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\", excepţie ridicată de Andras Mako, Marcella Mako şi Andrea (Elisabeta) Szabo în Dosarul nr. 6.768/211/2008 al Judecătoriei Cluj-Napoca.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 290/2002",
+    "number": "290",
+    "year": "2002",
+    "path": "lege/2002/290"
+   },
+   "articles": [
+    {
+     "art": "22-3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 232/2005",
+    "number": "232",
+    "year": "2005",
+    "path": "lege/2005/232"
+   },
+   "articles": [
+    {
+     "art": "22-3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "mo: not parsed; publication day taken from the catalogue (DataVigoare)"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-04-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104688",
+  "text_sha256": "aae99eb4deb98be1ad8f3599b6cc87781bf96d8bf173abeb4143ef64704f87ea",
+  "catalogue_sha256": "aae99eb4deb98be1ad8f3599b6cc87781bf96d8bf173abeb4143ef64704f87ea",
+  "fetched": "2026-11-03T04:55:02Z",
+  "chars": 10133,
+  "portal_id": "104688",
+  "tip": "DECIZIE"
+ }
+}
