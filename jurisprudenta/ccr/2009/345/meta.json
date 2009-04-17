@@ -1,0 +1,171 @@
+{
+ "key": "dcc-345-2009",
+ "label": "Decizia CCR nr. 345/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "345",
+ "date": "2009-03-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 345 din 17 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 71 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2005 privind protecţia mediului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "257",
+  "bis": false,
+  "date": "2009-04-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.570/30/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2005",
+    "number": "195",
+    "year": "2005",
+    "path": "oug/2005/195"
+   },
+   "articles": [
+    {
+     "art": "71",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 71 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2005 privind protecţia mediului, excepţie ridicată de Mihai Larco şi Teodora Larco în Dosarul nr. 2.570/30/2008 al Tribunalului Timiş - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2005",
+    "number": "195",
+    "year": "2005",
+    "path": "oug/2005/195"
+   },
+   "articles": [
+    {
+     "art": "71",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 114/2007",
+    "number": "114",
+    "year": "2007",
+    "path": "oug/2007/114"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-04-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104841",
+  "text_sha256": "b8b6f5defc0ac8921c3f7e269870db23ac487125daa6940bbd751ad5edd49b8e",
+  "catalogue_sha256": "b8b6f5defc0ac8921c3f7e269870db23ac487125daa6940bbd751ad5edd49b8e",
+  "fetched": "2026-11-03T04:54:47Z",
+  "chars": 7995,
+  "portal_id": "104841",
+  "tip": "DECIZIE"
+ }
+}
