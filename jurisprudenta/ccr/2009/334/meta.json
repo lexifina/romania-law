@@ -1,0 +1,201 @@
+{
+ "key": "dcc-334-2009",
+ "label": "Decizia CCR nr. 334/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "334",
+ "date": "2009-03-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 334 din 17 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 213 alin. (1) lit. c) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "262",
+  "bis": false,
+  "date": "2009-04-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.578/325/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "213",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 213 alin. (1) lit. c) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, excepţie ridicată de Rodica Marcela Cozac în Dosarul nr. 5.578/325/2008 al Judecătoriei Timişoara.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "213",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-04-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104963",
+  "text_sha256": "0334ba1eb839b791c1d533c047f249538e0d89a3dcdf4256bf9231b87c80f042",
+  "catalogue_sha256": "0334ba1eb839b791c1d533c047f249538e0d89a3dcdf4256bf9231b87c80f042",
+  "fetched": "2026-11-03T04:54:39Z",
+  "chars": 9188,
+  "portal_id": "104963",
+  "tip": "DECIZIE"
+ }
+}
