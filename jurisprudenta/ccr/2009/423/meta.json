@@ -1,0 +1,320 @@
+{
+ "key": "dcc-423-2009",
+ "label": "Decizia CCR nr. 423/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "423",
+ "date": "2009-03-26",
+ "year": "2009",
+ "heading": "DECIZIE nr. 423 din 26 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 35, ale art. 37 alin. (4) şi ale art. 38 din Ordonanţa de urgenţă a Guvernului nr. 97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor români, ale art. 42 din Legea nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari, precum şi a celor două acte normative, în ansamblul lor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "270",
+  "bis": false,
+  "date": "2009-04-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "861/45/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 97/2005",
+    "number": "97",
+    "year": "2005",
+    "path": "oug/2005/97"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 35, ale art. 37 alin. (4) şi ale art. 38 din Ordonanţa de urgenţă a Guvernului nr. 97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor români, ale art. 42 din Legea nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari, precum şi a celor două acte normative, în ansamblul lor. Excepţia a fost ridicată de Corneliu Căileanu în Dosarul nr. 861/45/2008 al Curţii de Apel Iaşi - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 97/2005",
+    "number": "97",
+    "year": "2005",
+    "path": "oug/2005/97"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 290/2005",
+    "number": "290",
+    "year": "2005",
+    "path": "lege/2005/290"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-04-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105048",
+  "text_sha256": "44fcbb358a76f9a740021e89880fef2f6eef9ee44b021cdd0efcac8dcaf1db6d",
+  "catalogue_sha256": "44fcbb358a76f9a740021e89880fef2f6eef9ee44b021cdd0efcac8dcaf1db6d",
+  "fetched": "2026-11-03T04:54:34Z",
+  "chars": 15130,
+  "portal_id": "105048",
+  "tip": "DECIZIE"
+ }
+}
