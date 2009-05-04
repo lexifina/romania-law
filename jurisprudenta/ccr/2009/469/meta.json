@@ -1,0 +1,197 @@
+{
+ "key": "dcc-469-2009",
+ "label": "Decizia CCR nr. 469/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "469",
+ "date": "2009-04-02",
+ "year": "2009",
+ "heading": "DECIZIE nr. 469 din 2 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi a părţii introductive a art. 2 din Ordonanţa de urgenţă a Guvernului nr. 77/1999 privind unele măsuri pentru prevenirea incapacităţii de plată, astfel cum au fost modificate prin Legea nr. 211/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "287",
+  "bis": false,
+  "date": "2009-05-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.507/182/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 77/1999",
+    "number": "77",
+    "year": "1999",
+    "path": "oug/1999/77"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi a părţii introductive a art. 2 din Ordonanţa de urgenţă a Guvernului nr. 77/1999 privind unele măsuri pentru prevenirea incapacităţii de plată, astfel cum au fost modificate prin Legea nr. 211/2001, excepţie invocată de Societatea Comercială \"Dentart\" - S.R.L. din Baia Mare în Dosarul nr. 3.507/182/2008 al Judecătoriei Baia Mare - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 211/2001",
+    "number": "211",
+    "year": "2001",
+    "path": "lege/2001/211"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 77/1999",
+    "number": "77",
+    "year": "1999",
+    "path": "oug/1999/77"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 44/2008",
+    "number": "44",
+    "year": "2008",
+    "path": "oug/2008/44"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105293",
+  "text_sha256": "47abd82d2a01171dbacd523920bb80c35e4f2770c23cba67d11e728352384627",
+  "catalogue_sha256": "47abd82d2a01171dbacd523920bb80c35e4f2770c23cba67d11e728352384627",
+  "fetched": "2026-11-05T05:24:03Z",
+  "chars": 11059,
+  "portal_id": "105293",
+  "tip": "DECIZIE"
+ }
+}
