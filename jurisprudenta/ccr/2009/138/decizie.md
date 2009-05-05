@@ -1,0 +1,22 @@
+# DECIZIE nr. 138 din 5 februarie 2009
+referitoare la excepţia de neconstituţionalitate a prevederilor art. 1770 din Codul civil
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Ion Predescu - judecător Tudorel Toader - judecător Puskas Valentin Zoltan - judecător Augustin Zegrean - judecător Antonia Constantin - procuror Maria Bratu - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a prevederilor art. 1770 din Codul civil, excepţie ridicată de Dumitru Mnerie în Dosarul nr. 1.885/325/C/2007 al Curţii de Apel Timişoara - Secţia civilă.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza se află în stare de judecată.
+Reprezentantul Ministerului Public solicită respingerea ca neîntemeiată a excepţiei de neconstituţionalitate.
+CURTEA, având în vedere actele şi lucrările dosarului, constată următoarele:
+Prin Încheierea din 19 mai 2008, pronunţată în Dosarul nr. 1.885/325/C/2007, Curtea de Apel Timişoara - Secţia civilă a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 1770 din Codul civil, excepţie ridicată de Dumitru Mnerie.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine, în esenţă, că textul de lege criticat nu menţionează expres necesitatea notării în cartea funciară a tuturor modalităţilor de care este afectat dreptul de proprietate al titularului, precum şi sancţiunea nerespectării acestei condiţii.
+Curtea de Apel Timişoara - Secţia civilă apreciază că prevederile de lege criticate nu contravin dispoziţiilor constituţionale Potrivit art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că textele de lege criticate sunt constituţionale, precizând, totodată, că, în realitate, autorul excepţiei doreşte completarea textului de lege.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, prevederile de lege criticate, raportate la dispoziţiile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie prevederile art. 1770 din Codul civil, care au următoarea redactare: "Acei care au asupra unui imobil un drept suspens prin o condiţie, sau rezolubil în oarecare cazuri, sau supus la o acţiune de resciziune, nu pot consimţi decât o ipotecă supusă aceloraşi condiţii sau aceloraşi resciziuni." Textele constituţionale invocate ca fiind încălcate sunt cele ale art. 44 alin. (1) şi (2) privind dreptul de proprietate privată şi art. 61 privind rolul şi structura Parlamentului României.
+Examinând excepţia de neconstituţionalitate, Curtea constată că autorul acesteia nu critică prevederile legale atacate pentru conţinutul lor, ci pentru ceea ce le lipseşte.
+Potrivit competenţei sale, aşa cum este ea prevăzută în art. 2 alin. (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale şi respectând principiul constituţional al separaţiei puterilor, Curtea Constituţională nu poate modifica sau completa prevederea legală supusă controlului, astfel că excepţia de neconstituţionalitate urmează a fi respinsă ca inadmisibilă.
+Pentru motivele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 1770 din Codul civil, excepţie ridicată de Dumitru Mnerie în Dosarul nr. 1.885/325/C/2007 al Curţii de Apel Timişoara - Secţia civilă.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 5 februarie 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Maria Bratu ---------
