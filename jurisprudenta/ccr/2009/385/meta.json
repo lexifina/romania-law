@@ -1,0 +1,197 @@
+{
+ "key": "dcc-385-2009",
+ "label": "Decizia CCR nr. 385/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "385",
+ "date": "2009-03-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 385 din 19 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 63 alin. (2) lit. c) din Ordonanţa de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "293",
+  "bis": false,
+  "date": "2009-05-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "954/42/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 63 alin. (2) lit. c) din Ordonanţa de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România, excepţie ridicată de Wang Genfa în Dosarul nr. 954/42/2008 al Curţii de Apel Ploieşti - Secţia comercială şi de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105380",
+  "text_sha256": "d1b64cbf33afc70a11f78f6f6ef8eb0718e114500697a870cf72152414b0e9dd",
+  "catalogue_sha256": "d1b64cbf33afc70a11f78f6f6ef8eb0718e114500697a870cf72152414b0e9dd",
+  "fetched": "2026-11-03T04:54:07Z",
+  "chars": 8144,
+  "portal_id": "105380",
+  "tip": "DECIZIE"
+ }
+}
