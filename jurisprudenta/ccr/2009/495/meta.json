@@ -1,0 +1,144 @@
+{
+ "key": "dcc-495-2009",
+ "label": "Decizia CCR nr. 495/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "495",
+ "date": "2009-04-02",
+ "year": "2009",
+ "heading": "DECIZIE nr. 495 din 2 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordinului ministrului administraţiei şi internelor nr. 400/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "302",
+  "bis": false,
+  "date": "2009-05-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.036/116/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului administraţiei şi internelor nr. 400/2004",
+    "number": "400",
+    "year": "2004"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor Ordinului ministrului administraţiei şi internelor nr. 400/2004, excepţie invocată de Petre Daniel George în Dosarul nr. 2.036/116/2008 al Tribunalului Călăraşi - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului administraţiei şi internelor nr. 400/2004",
+    "number": "400",
+    "year": "2004"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului administraţiei şi internelor nr. 400/2004",
+    "number": "400",
+    "year": "2004"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105523",
+  "text_sha256": "31a06500dafac617a315dc5340a6a92f31d80208ee61fb49124226446f7bfeba",
+  "catalogue_sha256": "31a06500dafac617a315dc5340a6a92f31d80208ee61fb49124226446f7bfeba",
+  "fetched": "2026-11-03T04:53:54Z",
+  "chars": 6785,
+  "portal_id": "105523",
+  "tip": "DECIZIE"
+ }
+}
