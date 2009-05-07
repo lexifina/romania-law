@@ -1,0 +1,176 @@
+{
+ "key": "dcc-318-2009",
+ "label": "Decizia CCR nr. 318/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "318",
+ "date": "2009-03-05",
+ "year": "2009",
+ "heading": "DECIZIE nr. 318 din 5 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 47 şi art. 48 din Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "298",
+  "bis": false,
+  "date": "2009-05-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "17.494/197/2007",
+  "2.366D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor a prevederilor art. 47 şi art. 48 din Legea cadastrului şi a publicităţii imobiliare nr. 7/1996, excepţie ridicată de Societatea Comercială \"Roman\" - S.A. din Braşov în dosarele nr. 17.495/197/2007, nr. 17.491/197/2007, nr. 17.490/197/2007, nr. 305/197/2008, nr. 17.496/197/2007, nr. 418/197/2008, nr. 17.482/197/2007, nr. 17.486/197/2007, nr. 17.483/197/2007, nr. 17.485/197/2007, nr. 17.501/197/2007, nr. 16.789/197/2007, nr. 16.791/197/2007, nr. 16.785/197/2007, nr. 405/197/2008, nr. 303/197/2008, nr. 16.788/197/2007, nr. 17.492/197/2007, nr. 17.489/197/2007, nr. 419/197/2008, nr. 276/197/2008, nr. 583/197/2008, nr. 17.502/197/2007, nr. 16.784/197/2007 şi nr. 17.498/197/2007 ale Tribunalului Braşov - Secţia civilă şi de Societatea Comercială \"Autocamioane şi Autobuze AB\" - S.A. din Braşov în Dosarul nr. 17.494/197/2007 al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105501",
+  "text_sha256": "7c58bc3264f64ecd96c49b1691aafe7f4b18b565592678ba4aee5d85fdd5f496",
+  "catalogue_sha256": "7c58bc3264f64ecd96c49b1691aafe7f4b18b565592678ba4aee5d85fdd5f496",
+  "fetched": "2026-11-03T04:53:57Z",
+  "chars": 15611,
+  "portal_id": "105501",
+  "tip": "DECIZIE"
+ }
+}
