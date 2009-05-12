@@ -1,0 +1,184 @@
+{
+ "key": "dcc-143-2009",
+ "label": "Decizia CCR nr. 143/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "143",
+ "date": "2009-02-05",
+ "year": "2009",
+ "heading": "DECIZIE nr. 143 din 5 februarie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 alin. (5) din anexa la Legea arendării nr. 16/1994",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "314",
+  "bis": false,
+  "date": "2009-05-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "49.573/207/2007",
+  "49.573/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea arendării nr. 16/1994",
+    "number": "16",
+    "year": "1994",
+    "path": "lege/1994/16"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 6 alin. (5) din anexa la Legea arendării nr. 16/1994, excepţie ridicată de Societatea Comercială \"Redias Redea\" - S.A. din comuna Redea în Dosarul nr. 49.573/2007 al Judecătoriei Caracal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea arendării nr. 16/1994",
+    "number": "16",
+    "year": "1994",
+    "path": "lege/1994/16"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 20/2008",
+    "number": "20",
+    "year": "2008",
+    "path": "lege/2008/20"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1454",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105725",
+  "text_sha256": "5c6a03452508e034046304a04530bd196f8a5bfef6aa40296fb26da173c52203",
+  "catalogue_sha256": "5c6a03452508e034046304a04530bd196f8a5bfef6aa40296fb26da173c52203",
+  "fetched": "2026-11-03T04:53:37Z",
+  "chars": 6306,
+  "portal_id": "105725",
+  "tip": "DECIZIE"
+ }
+}
