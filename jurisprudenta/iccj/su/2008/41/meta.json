@@ -1,0 +1,172 @@
+{
+ "key": "iccj-su-41-2008",
+ "label": "Decizia ÎCCJ nr. 41/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "41",
+ "date": "2008-09-22",
+ "year": "2008",
+ "heading": "DECIZIE nr. 41 din 22 septembrie 2008",
+ "subtitle": "privind examinarea recursului în interesul legii, cu privire la calitatea procesuală pasivă a caselor de asigurări de sănătate, în litigiile având ca obiect plata drepturilor salariale care iau naştere în urma încheierii unui contract de muncă între personalul medical şi unitatea spitalicească în cadrul căreia acesta îşi desfăşoară activitatea",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "313",
+  "bis": false,
+  "date": "2009-05-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "17/2008"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admit recursul în interesul legii declarat de Procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabilesc că, în litigiile dintre personalul medical şi unităţile sanitare având ca obiect plata unor sume de bani reprezentând drepturi salariale, casele de asigurări sociale de sănătate nu au calitate procesuală pasivă.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "210",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "217",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "218",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "292",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1488",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1542",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "974",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-05-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105695",
+  "text_sha256": "0ec8beba8323170dcd47db79a2349cd19e3f293f08cd2cc54b471180a49079c1",
+  "catalogue_sha256": "0ec8beba8323170dcd47db79a2349cd19e3f293f08cd2cc54b471180a49079c1",
+  "fetched": "2026-11-03T04:53:42Z",
+  "chars": 16070,
+  "portal_id": "105695",
+  "tip": "DECIZIE"
+ }
+}
