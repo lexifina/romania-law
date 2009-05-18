@@ -1,0 +1,174 @@
+{
+ "key": "dcc-453-2009",
+ "label": "Decizia CCR nr. 453/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "453",
+ "date": "2009-03-31",
+ "year": "2009",
+ "heading": "DECIZIE nr. 453 din 31 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 18 alin. (1) şi (2) din Legea nr. 104/2003 privind manipularea cadavrelor umane şi prelevarea organelor şi ţesuturilor de la cadavre în vederea transplantului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "328",
+  "bis": false,
+  "date": "2009-05-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.935/30/2008",
+  "2.465D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 104/2003",
+    "number": "104",
+    "year": "2003",
+    "path": "lege/2003/104"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 18 alin. (1) şi (2) din Legea nr. 104/2003 privind manipularea cadavrelor umane şi prelevarea organelor şi ţesuturilor de la cadavre în vederea transplantului, excepţie ridicată de Universitatea de Medicină şi Farmacie \"Victor Babeş\" din Timişoara în dosarele nr. 1.935/30/2008, nr. 1.926/30/2008, nr. 1.956/30/2008, nr. 1.958/30/2008, nr. 1.953/30/2008, nr. 1.922/30/2008, nr. 1.915/30/2008, nr. 1.944/30/2008, nr. 1.947/30/2008, nr. 1.940/30/2008, nr. 1.957/30/2008, nr. 1.929/30/2008, nr. 1.927/30/2008, nr. 1.949/30/2008, nr. 1.951/30/2008, nr. 1.954/30/2008, nr. 1.941/30/2008, nr. 1.936/30/2008, nr. 1.931/30/2008 şi nr. 1.920/30/2008 ale Curţii de Apel Timişoara - Secţia litigii de muncă şi asigurări sociale şi în dosarele nr. 19.461/30/2008, nr. 19.381/30/2008, nr. 19.241/30/2008, nr. 19.231/30/2008, nr. 19.191/30/2008, nr. 19.181/30/2008 şi nr. 19.171/30/2008 ale Tribunalului Timiş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 104/2003",
+    "number": "104",
+    "year": "2003",
+    "path": "lege/2003/104"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 115/2004",
+    "number": "115",
+    "year": "2004",
+    "path": "oug/2004/115"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105888",
+  "text_sha256": "88ff2dae779eb66ce8cfd1e6b063063e2258efaf59dabb45791547985bd4f976",
+  "catalogue_sha256": "88ff2dae779eb66ce8cfd1e6b063063e2258efaf59dabb45791547985bd4f976",
+  "fetched": "2026-11-03T04:53:22Z",
+  "chars": 10865,
+  "portal_id": "105888",
+  "tip": "DECIZIE"
+ }
+}
