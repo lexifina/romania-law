@@ -1,0 +1,165 @@
+{
+ "key": "dcc-441-2009",
+ "label": "Decizia CCR nr. 441/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "441",
+ "date": "2009-03-31",
+ "year": "2009",
+ "heading": "DECIZIE nr. 441 din 31 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (1) din Ordonanţa Guvernului nr. 137/2000 privind prevenirea şi sancţionarea tuturor formelor de discriminare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "328",
+  "bis": false,
+  "date": "2009-05-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "4.033/107/2007",
+  "2.162D/2008",
+  "513/45/2008",
+  "2.162D/2009",
+  "2.079D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (1) din Ordonanţa Guvernului nr. 137/2000 privind prevenirea şi sancţionarea tuturor formelor de discriminare, excepţie ridicată de Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie în Dosarul nr. 4.033/107/2007 al Curţii de Apel Alba Iulia - Secţia de contencios administrativ şi fiscal şi de Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie - Secţia Parchetelor Militare în Dosarul nr. 513/45/2008 al Curţii de Apel Iaşi - Secţia litigii de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105884",
+  "text_sha256": "959d25ac6e610e9e04c8f0eca5bb4b593ebd87ef04b7547334f443f749d7aa09",
+  "catalogue_sha256": "959d25ac6e610e9e04c8f0eca5bb4b593ebd87ef04b7547334f443f749d7aa09",
+  "fetched": "2026-11-03T04:53:21Z",
+  "chars": 7570,
+  "portal_id": "105884",
+  "tip": "DECIZIE"
+ }
+}
