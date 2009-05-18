@@ -1,0 +1,171 @@
+{
+ "key": "dcc-344-2009",
+ "label": "Decizia CCR nr. 344/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "344",
+ "date": "2009-03-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 344 din 17 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 5 alin. (1) din Ordonanţa Guvernului nr. 80/2001 privind stabilirea unor normative de cheltuieli pentru autorităţile administraţiei publice şi instituţiile publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "329",
+  "bis": false,
+  "date": "2009-05-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "862/3/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "og/2001/80"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 5 alin. (1) din Ordonanţa Guvernului nr. 80/2001 privind stabilirea unor normative de cheltuieli pentru autorităţile administraţiei publice şi instituţiile publice, excepţie ridicată de Aeroclubul României în Dosarul nr. 862/3/2007 (4.058/2008) al Curţii de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "og/2001/80"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.454/2003",
+    "number": "1454",
+    "year": "2003",
+    "path": "hg/2003/1454"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 45/2003",
+    "number": "45",
+    "year": "2003",
+    "path": "oug/2003/45"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105886",
+  "text_sha256": "c59c99a02c9c259f3c3ceed681deb65711d29ba02ccfb3d51da0b98a12ea0a39",
+  "catalogue_sha256": "c59c99a02c9c259f3c3ceed681deb65711d29ba02ccfb3d51da0b98a12ea0a39",
+  "fetched": "2026-11-03T04:53:21Z",
+  "chars": 8282,
+  "portal_id": "105886",
+  "tip": "DECIZIE"
+ }
+}
