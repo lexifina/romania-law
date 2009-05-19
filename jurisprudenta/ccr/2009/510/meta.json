@@ -1,0 +1,172 @@
+{
+ "key": "dcc-510-2009",
+ "label": "Decizia CCR nr. 510/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "510",
+ "date": "2009-04-09",
+ "year": "2009",
+ "heading": "DECIZIE nr. 510 din 9 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor pct. 2 la notele anexelor nr. 1a-1c din Ordonanţa Guvernului nr. 8/2007 privind salarizarea personalului auxiliar din cadrul instanţelor judecătoreşti şi al parchetelor de pe lângă acestea, precum şi din cadrul altor unităţi din sistemul justiţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "330",
+  "bis": false,
+  "date": "2009-05-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "910/110/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 8/2007",
+    "number": "8",
+    "year": "2007",
+    "path": "og/2007/8"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor pct. 2 la notele anexelor nr. 1a-1c din Ordonanţa Guvernului nr. 8/2007 privind salarizarea personalului auxiliar din cadrul instanţelor judecătoreşti şi al parchetelor de pe lângă acestea, precum şi din cadrul altor unităţi din sistemul justiţiei, excepţie ridicată de Corina Pocovnicu în Dosarul nr. 910/110/2008 al Curţii de Apel Bacău - Secţia civilă, cauze de minori, familie, conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 8/2007",
+    "number": "8",
+    "year": "2007",
+    "path": "og/2007/8"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105973",
+  "text_sha256": "e2733c5a3c13cf324ad7cb1b908fd41ba5a4653fd1bee416be9c5e0585599058",
+  "catalogue_sha256": "e2733c5a3c13cf324ad7cb1b908fd41ba5a4653fd1bee416be9c5e0585599058",
+  "fetched": "2026-11-03T04:53:18Z",
+  "chars": 10710,
+  "portal_id": "105973",
+  "tip": "DECIZIE"
+ }
+}
