@@ -1,0 +1,162 @@
+{
+ "key": "dcc-499-2009",
+ "label": "Decizia CCR nr. 499/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "499",
+ "date": "2009-04-07",
+ "year": "2009",
+ "heading": "DECIZIE nr. 499 din 7 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 11 din Ordonanţa de urgenţă a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "341",
+  "bis": false,
+  "date": "2009-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.209D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 11 din Ordonanţa de urgenţă a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule, excepţie ridicată din oficiu de instanţa de judecată în dosarele nr. 3.073/108/2008, nr. 3.371/108/2008, nr. 4.092/108/2008, nr. 3.074/108/2008, nr. 2.649/108/2008, nr. 2.684/108/2008, nr. 2.683/108/2008, nr. 2.734/108/2008, nr. 2.759/108/2008, nr. 2.648/108/2008, nr. 2.682/108/2008, nr. 2.681/108/2008, nr. 2.658/108/2008, nr. 2.657/108/2008, nr. 2.656/108/2008, nr. 2.633/108/2008, nr. 2.659/108/2008, nr. 1.215/108/2008, nr. 1.217/108/2008, nr. 2.685/108/2008, nr. 2.760/108/2008, nr. 4.319/108/2008, nr. 2.632/108/2008, nr. 4.745/108/2008, nr. 4.417/108/2008, nr. 4.737/108/2008, nr. 4.336/108/2008 şi nr. 4.897/108/2008 ale Tribunalului Arad - Secţia de contencios administrativ şi fiscal, litigii de muncă şi asigurări sociale, nr. 2.683/90/2008, nr. 3.489/90/2008, nr. 1.777/90/2008, nr. 3.057/90/2008 şi nr. 1.935/90/2008 ale Tribunalului Vâlcea - Secţia comercială şi de contencios administrativ, nr. 2.791/103/2008, nr. 2.454/103/2008, nr. 3.233/103/2008 ale Curţii de Apel Bacău - Secţia comercială, de contencios administrativ şi fiscal, respectiv de Garofiţa Irimiaş, Marin Dumitru Moldovan, Societatea Comercială \"Petramona\" - S.R.L. din Sângeorz-Băi, Societatea Comercială \"Co Mod\" - S.R.L. din Miercurea-Ciuc şi Societatea Comercială \"Ing Service\" - S.R.L. din Miercurea-Ciuc în dosarele nr. 2.044/112/2008, nr. 1.888/112/2008 nr. 2.294/112/2008 ale Tribunalului Bistriţa-Năsăud - Secţia comercială, de contencios administrativ şi fiscal, respectiv nr. 305/96/2008 şi nr. 779/96/2008 ale Curţii de Apel Târgu-Mureş - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 343/2006",
+    "number": "343",
+    "year": "2006",
+    "path": "lege/2006/343"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106119",
+  "text_sha256": "21d3cf06e2de5f5d4351d5c3ca9a00b500ef9a3c794831c131086bddc2a70f7b",
+  "catalogue_sha256": "21d3cf06e2de5f5d4351d5c3ca9a00b500ef9a3c794831c131086bddc2a70f7b",
+  "fetched": "2026-11-03T04:53:10Z",
+  "chars": 15506,
+  "portal_id": "106119",
+  "tip": "DECIZIE"
+ }
+}
