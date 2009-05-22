@@ -1,0 +1,208 @@
+{
+ "key": "cedo-2367-04-2009-01-27",
+ "label": "CEDO, Daniel şi Niculina c. României, 2009-01-27",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-01-27",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 27 ianuarie 2009",
+ "subtitle": "în Cauza Daniel şi Niculina împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "343",
+  "bis": false,
+  "date": "2009-05-22",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "2367/04"
+ ],
+ "case_name": "Daniel şi Niculina",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 § 1 din Convenţie şi pe art. 1 din Protocolul nr. 1 referitoare la anularea Sentinţei definitive din data de 4 aprilie 2000 în urma unui recurs în anulare, şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 3. hotărăşte că nu este necesar să analizeze capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1; 4. hotărăşte",
+  "a) ca statul pârât să îi plătească fiecărui reclamant, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, suma de 3.000 EUR (trei mii euro), care va fi convertită în moneda statului pârât la cursul de schimb valabil la data plăţii, pentru daune morale, plus orice sumă care ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "331",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "332",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "333",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "334",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106113",
+  "text_sha256": "959b1e2a516d13714e44b3fcc3d19342aa559e4b12551452286b668ec400dd2b",
+  "catalogue_sha256": "959b1e2a516d13714e44b3fcc3d19342aa559e4b12551452286b668ec400dd2b",
+  "fetched": "2026-11-03T04:53:07Z",
+  "chars": 20690,
+  "portal_id": "106113",
+  "tip": "HOTĂRÂRE"
+ }
+}
