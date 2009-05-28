@@ -1,0 +1,164 @@
+{
+ "key": "cedo-19982-04-2008-11-04",
+ "label": "CEDO, Savu c. României, 2008-11-04",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-11-04",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 4 noiembrie 2008",
+ "subtitle": "în Cauza Savu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "358",
+  "bis": false,
+  "date": "2009-05-28",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "19982/04"
+ ],
+ "case_name": "Savu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie şi a art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) ca, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, statul pârât să ia măsurile necesare pentru a îl repune pe reclamant într-o situaţie echivalentă cu cea în care s-ar fi aflat în absenţa anulării Deciziei definitive din 6 iunie 2002 a Curţii de Apel Bucureşti;",
+  "b) ca statul pârât să îi plătească reclamantului, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, următoarele sume, care vor fi convertite în moneda statului pârât la cursul de schimb valabil la data plăţii:",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "(i) 3.000 EUR (trei mii euro), plus orice sumă care ar putea fi datorată cu titlu de impozit, cu titlu de daune morale; (îi) 300 EUR (trei sute euro) pentru cheltuielile de judecată, plus orice sumă care ar putea fi datorată cu titlu de impozit de către reclamant; 4. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106313",
+  "text_sha256": "db06d11984f790e06546b30eea990485d02091db10f8fecac7914e158b419825",
+  "catalogue_sha256": "db06d11984f790e06546b30eea990485d02091db10f8fecac7914e158b419825",
+  "fetched": "2026-11-03T04:52:52Z",
+  "chars": 19356,
+  "portal_id": "106313",
+  "tip": "HOTĂRÂRE"
+ }
+}
