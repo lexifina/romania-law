@@ -1,0 +1,25 @@
+# DECIZIE nr. 546 din 9 aprilie 2009
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 385^14 din Codul de procedură penală
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Augustin Zegrean - judecător Iuliana Nedelcu - procuror Fabian Niculae - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 385^14 din Codul de procedură penală, excepţie ridicată de Gheorghe Dinicu în Dosarul nr. 907/228/2007 al Curţii de Apel Galaţi - Secţia penală.
+La apelul nominal se constată lipsa părţilor, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza este în stare de judecată.
+Reprezentantul Ministerului Public, având în vedere jurisprudenţa în materie a Curţii Constituţionale, pune concluzii de respingere a excepţiei de neconstituţionalitate.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 9 decembrie 2008, pronunţată în Dosarul nr. 907/228/2007, Curtea de Apel Galaţi - Secţia penală a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 385^14 din Codul de procedură penală.
+Excepţia a fost ridicată de Gheorghe Dinicu, inculpat în dosarul menţionat.
+În motivarea excepţiei de neconstituţionalitate autorul susţine că dispoziţiile legale atacate contravin prevederilor art. 21 din Constituţia României, întrucât interzic instanţei de recurs să administreze şi alte probe în afara înscrisurilor, ceea ce îl privează pe inculpat de posibilitatea de a beneficia de efectuarea unei expertize.
+Instanţa de judecată opinează că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că dispoziţiile art. 385^14 din Codul de procedură penală sunt constituţionale.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 385^14 din Codul de procedură penală, astfel cum au fost modificate şi completate prin Legea nr. 356/2006 pentru modificarea şi completarea Codului de procedură penală, precum şi pentru modificarea altor legi, publicată în Monitorul Oficial al României, Partea I, nr. 677 din 7 august 2006, dispoziţii ce au următorul conţinut: "Instanţa verifică hotărârea atacată pe baza lucrărilor şi materialului din dosarul cauzei şi a oricăror înscrisuri noi, prezentate la instanţa de recurs.
+Cu ocazia judecării recursului, instanţa este obligată să procedeze la ascultarea inculpatului prezent, potrivit dispoziţiilor cuprinse în Partea specială, titlul II, capitolul II, atunci când acesta nu a fost ascultat la instanţele de fond şi apel, precum şi atunci când aceste instanţe nu au pronunţat împotriva inculpatului o hotărâre de condamnare.
+Instanţa este obligată să se pronunţe asupra tuturor motivelor de recurs invocate de procuror şi de părţi." Examinând excepţia de neconstituţionalitate, Curtea constată că aceasta este neîntemeiată şi urmează să fie respinsă.
+Curtea s-a mai pronunţat asupra dispoziţiilor legale atacate prin Decizia nr. 1.069 din 14 octombrie 2008, publicată în Monitorul Oficial al României, Partea I, nr. 769 din 17 noiembrie 2008, şi prin Decizia nr. 240 din 12 septembrie 2002, publicată în Monitorul Oficial al României, Partea I, nr. 744 din 11 octombrie 2002, considerentele acolo reţinute păstrându-şi valabilitatea şi în cauza de faţă.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) al şi art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 385^14 din Codul de procedură penală, excepţie ridicată de Gheorghe Dinicu în Dosarul nr. 907/228/2007 al Curţii de Apel Galaţi - Secţia penală.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 9 aprilie 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Fabian Niculae ----------
