@@ -1,0 +1,25 @@
+# DECIZIE nr. 597 din 14 aprilie 2009
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 86^1 şi art. 86^2 din Codul de procedură penală
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Ion Predescu - judecător Tudorel Toader - judecător Puskas Valentin Zoltan - judecător Augustin Zegrean - judecător Iuliana Nedelcu - procuror Fabian Niculae - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 86^1 şi 86^2 din Codul de procedură penală, excepţie ridicată de Neculai Alexandru Vasile în Dosarul nr. 9.902/180/2008 al Judecătoriei Bacău.
+La apelul nominal se constată lipsa părţilor, faţă de care procedura de citare a fost legal îndeplinită.
+Magistratul-asistent referă asupra cererii de amânare în vederea angajării unui apărător, cerere depusă la dosar de autorul excepţiei. Curtea pune în discuţie această cerere. Reprezentantul Ministerului Public pune concluzii de respingere a cererii. Curtea respinge cererea de amânare.
+Cauza este în stare de judecată.
+Având cuvântul pe fond, reprezentantul Ministerului Public, menţionând jurisprudenţa în materie a Curţii Constituţionale, pune concluzii de respingere a excepţiei de neconstituţionalitate.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 30 decembrie 2008, pronunţată în Dosarul nr. 9.902/180/2008, Judecătoria Bacău a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 86^1 şi art. 86^2 din Codul de procedură penală.
+Excepţia a fost ridicată de Neculai Alexandru Vasile, inculpat în dosarul menţionat.
+În motivarea excepţiei de neconstituţionalitate se susţine că dispoziţiile legale atacate contravin prevederilor art. 16, art. 21 şi art. 24 din Constituţia României, precum şi prevederilor art. 6 din Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale, deoarece reglementează procedura citării şi ascultării martorilor cu datele de identificare protejate, propuşi de procuror, în condiţii cu totul diferite de procedura aplicabilă martorilor apărării. În felul acesta citarea şi ascultarea martorilor cu datele de identificare protejate este controlată în întregime de Ministerul Public, cu grave prejudicii pentru exercitarea de către inculpat a dreptului său la apărare.
+Instanţa de judecată opinează că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că dispoziţiile art. 86^1 şi art. 86^2 din Codul de procedură penală sunt constituţionale.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 86^1 referitoare la protecţia datelor de identificare a martorului, precum şi cele ale art. 86^2 referitoare la modalităţile speciale de ascultare a martorului, din Codul de procedură penală.
+Examinând excepţia de neconstituţionalitate, Curtea constată că dispoziţiile legale criticate au mai fost supuse controlului instanţei de contencios constituţional prin raportare la critici similare. Astfel, cu prilejul pronunţării Deciziei nr. 193 din 27 aprilie 2004, publicată Monitorul Oficial al României, Partea I, nr. 461 din 24 mai 2004, Curtea a respins ca neîntemeiată excepţia de neconstituţionalitate.
+Întrucât nu au intervenit elemente noi, de natură să determine reconsiderarea jurisprudenţei Curţii Constituţionale, atât soluţia, cât şi considerentele cuprinse în această decizie îşi păstrează valabilitatea şi în cauza de faţă.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 86^1 şi art. 86^2 din Codul de procedură penală, excepţie ridicată de Neculai Alexandru Vasile în Dosarul nr. 9.902/180/2008 al Judecătoriei Bacău.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 14 aprilie 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Fabian Niculae ----------
