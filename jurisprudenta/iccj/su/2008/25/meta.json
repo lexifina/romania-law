@@ -1,0 +1,147 @@
+{
+ "key": "iccj-su-25-2008",
+ "label": "Decizia ÎCCJ nr. 25/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "25",
+ "date": "2008-06-02",
+ "year": "2008",
+ "heading": "DECIZIE nr. 25 din 2 iunie 2008",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "372",
+  "bis": false,
+  "date": "2009-06-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "8/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "159",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 159 alin. 8 fraza a II-a din Codul de procedură penală se interpretează în sensul că:",
+  "1. sintagma folosită de legiuitor \"înainte de expirarea duratei arestării preventive dispuse anterior încheierii atacate\" are caracter imperativ, şi nu de recomandare;",
+  "2. recursul declarat împotriva încheierii prin care s-a dispus admiterea sau respingerea propunerii de prelungire a măsurii arestării preventive va fi soluţionat întotdeauna înainte de expirarea duratei arestării preventive dispuse anterior încheierii atacate.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "159",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-06-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106552",
+  "text_sha256": "9896aca2798b9047204a5297fdb59df346cf46e93f79f0028033e114f800c617",
+  "catalogue_sha256": "9896aca2798b9047204a5297fdb59df346cf46e93f79f0028033e114f800c617",
+  "fetched": "2026-11-06T03:59:11Z",
+  "chars": 7803,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250405173602/https://legislatie.just.ro/Public/DetaliiDocumentAfis/106552",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/106552",
+   "timestamp": "20250405173602",
+   "sha256": "3308ccd0747bb6bf1234660c7dea70ad895d05ae95ed7685b1fec1522c22a716"
+  },
+  "portal_id": "106552",
+  "tip": "DECIZIE"
+ }
+}
