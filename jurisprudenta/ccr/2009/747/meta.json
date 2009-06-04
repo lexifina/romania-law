@@ -1,0 +1,139 @@
+{
+ "key": "dcc-747-2009",
+ "label": "Decizia CCR nr. 747/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "747",
+ "date": "2009-05-12",
+ "year": "2009",
+ "heading": "DECIZIE nr. 747 din 12 mai 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 88 din Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "379",
+  "bis": false,
+  "date": "2009-06-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.998/300/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+    "number": "36",
+    "year": "1995",
+    "path": "lege/1995/36"
+   },
+   "articles": [
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 88 din Legea notarilor publici şi a activităţii notariale nr. 36/1995, excepţie invocată de Valeria Petrof şi Bogdan Petrof în Dosarul nr. 4.998/300/2006 al Curţii de Apel Bucureşti - Secţia a IX-a civilă şi pentru cauze privind proprietatea intelectuală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+    "number": "36",
+    "year": "1995",
+    "path": "lege/1995/36"
+   },
+   "articles": [
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106604",
+  "text_sha256": "3fc878ab3967d7d46d0e1b456c8658df85e86c6eb550824b358534e4ddf77a50",
+  "catalogue_sha256": "3fc878ab3967d7d46d0e1b456c8658df85e86c6eb550824b358534e4ddf77a50",
+  "fetched": "2026-11-03T04:52:32Z",
+  "chars": 6980,
+  "portal_id": "106604",
+  "tip": "DECIZIE"
+ }
+}
