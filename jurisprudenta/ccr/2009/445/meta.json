@@ -1,0 +1,205 @@
+{
+ "key": "dcc-445-2009",
+ "label": "Decizia CCR nr. 445/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "445",
+ "date": "2009-03-31",
+ "year": "2009",
+ "heading": "DECIZIE nr. 445 din 31 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 94 alin. (2) lit. c) din Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenţei în exercitarea demnităţilor publice, a funcţiilor publice şi în mediul de afaceri, prevenirea şi sancţionarea corupţiei şi art. 9 alin. (3) din Hotărârea Guvernului nr. 1.209/2003 privind organizarea şi dezvoltarea carierei funcţionarilor publici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "384",
+  "bis": false,
+  "date": "2009-06-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.881/327/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.209/2003",
+    "number": "1209",
+    "year": "2003",
+    "path": "hg/2003/1209"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 94 alin. (2) lit. c) din Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenţei în exercitarea demnităţilor publice, a funcţiilor publice şi în mediul de afaceri, prevenirea şi sancţionarea corupţiei, excepţie ridicată de Doru Manole în Dosarul nr. 4.881/327/2008 al Judecătoriei Tulcea - Secţia civilă şi penală. 2. Respinge ca fiind inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (3) din Hotărârea Guvernului nr. 1.209/2003 privind organizarea şi dezvoltarea carierei funcţionarilor publici, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.209/2003",
+    "number": "1209",
+    "year": "2003",
+    "path": "hg/2003/1209"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106643",
+  "text_sha256": "f10ac3ae6acdb70177f38a19e1ffeae1563c1a4f04047c69d23ac1dcc0a76c06",
+  "catalogue_sha256": "f10ac3ae6acdb70177f38a19e1ffeae1563c1a4f04047c69d23ac1dcc0a76c06",
+  "fetched": "2026-11-03T04:52:31Z",
+  "chars": 9255,
+  "portal_id": "106643",
+  "tip": "DECIZIE"
+ }
+}
