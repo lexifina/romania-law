@@ -1,0 +1,160 @@
+{
+ "key": "dcc-472-2009",
+ "label": "Decizia CCR nr. 472/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "472",
+ "date": "2009-04-02",
+ "year": "2009",
+ "heading": "DECIZIE nr. 472 din 2 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 156/2007 privind despăgubirea persoanelor fizice care au constituit depozite la Casa de Economii şi Consemnaţiuni C.E.C. - S.A. în vederea achiziţionării de autoturisme",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "384",
+  "bis": false,
+  "date": "2009-06-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.600/119/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 156/2007",
+    "number": "156",
+    "year": "2007",
+    "path": "oug/2007/156"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 156/2007 privind despăgubirea persoanelor fizice care au constituit depozite la Casa de Economii şi Consemnaţiuni C.E.C. - S.A. în vederea achiziţionării de autoturisme, excepţie invocată de Gabor Aron în Dosarul nr. 1.600/119/2008 al Tribunalului Covasna.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 156/2007",
+    "number": "156",
+    "year": "2007",
+    "path": "oug/2007/156"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 134/2005",
+    "number": "134",
+    "year": "2005",
+    "path": "oug/2005/134"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106646",
+  "text_sha256": "db154d28ce4dddf9b6262708086568bb20cd7f0cbe2f8320c46c46668fa9eb0d",
+  "catalogue_sha256": "db154d28ce4dddf9b6262708086568bb20cd7f0cbe2f8320c46c46668fa9eb0d",
+  "fetched": "2026-11-03T04:52:31Z",
+  "chars": 8442,
+  "portal_id": "106646",
+  "tip": "DECIZIE"
+ }
+}
