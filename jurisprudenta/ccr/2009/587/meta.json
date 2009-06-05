@@ -1,0 +1,261 @@
+{
+ "key": "dcc-587-2009",
+ "label": "Decizia CCR nr. 587/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "587",
+ "date": "2009-04-14",
+ "year": "2009",
+ "heading": "DECIZIE nr. 587 din 14 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 19, 20, 26, 43, 45 şi 46 din Decretul-lege nr. 115/1938 pentru unificarea dispoziţiilor privitoare la cărţile funciare şi a prevederilor art. 34 şi 35 din Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "383",
+  "bis": false,
+  "date": "2009-06-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.023/296/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 19, 20, 26, 43, 45 şi 46 din Decretul-lege nr. 115/1938 pentru unificarea dispoziţiilor privitoare la cărţile funciare şi a prevederilor art. 34 şi 35 din Legea cadastrului şi a publicităţii imobiliare nr. 7/1996, excepţie ridicată de Parohia Ortodoxă Română Culciu Mare în Dosarul nr. 7.023/296/2008 al Judecătoriei Satu Mare.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 182/2005",
+    "number": "182",
+    "year": "2005",
+    "path": "lege/2005/182"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 126/1990",
+    "number": "126",
+    "year": "1990",
+    "path": "decret-lege/1990/126"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106642",
+  "text_sha256": "48611521679e922e961880ab564de18c0f1cd6c4d39e790740f9ae4bddfc24ac",
+  "catalogue_sha256": "48611521679e922e961880ab564de18c0f1cd6c4d39e790740f9ae4bddfc24ac",
+  "fetched": "2026-11-03T04:52:31Z",
+  "chars": 10831,
+  "portal_id": "106642",
+  "tip": "DECIZIE"
+ }
+}
