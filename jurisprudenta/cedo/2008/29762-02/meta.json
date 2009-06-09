@@ -1,0 +1,165 @@
+{
+ "key": "cedo-29762-02-2008-07-29",
+ "label": "CEDO, Teodorescu c. României, 2008-07-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-07-29",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 29 iulie 2008",
+ "subtitle": "în Cauza Teodorescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "386",
+  "bis": false,
+  "date": "2009-06-09",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "29762/02"
+ ],
+ "case_name": "Teodorescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. respinge excepţia preliminară a Guvernului; 2. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe neexecutarea hotărârii din data de 5 martie 2001 a Judecătoriei Bistriţa, pe anularea acestei hotărâri printr-un recurs în anulare (art. 6 § 1 din Convenţie) şi încălcarea dreptului la respectarea bunurilor (art. 1 din Protocolul nr. 1) şi inadmisibilă în rest; 3. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie din cauza neexecutării hotărârii judecătoreşti din data de 5 martie 2001; 4. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie din cauza anulării acestei hotărâri printr-un recurs în anulare; 5. hotărăşte că nu este necesar să statueze asupra temeiniciei capătului de cerere întemeiat pe art. 1 din Protocolul nr. 1; 6. hotărăşte: (i) 2.000 EUR (două mii euro), plus orice sumă care ar putea fi datorată cu titlu de impozit, cu titlu de daune morale; (îi) 600 EUR (şase sute euro), plus orice sumă care ar putea fi datorată cu titlu de impozit de către reclamant, cu titlu de cheltuieli de judecată;",
+  "a) că statul pârât trebuie să execute hotărârea judecătorească din data de 5 martie 2001, să îl reintegreze pe reclamant în postul său şi să îi plătească despăgubirile stabilite prin această hotărâre, reactualizate pe baza ratei inflaţiei, şi anume suma de 8.226 EUR (opt mii două sute douăzeci şi şase euro), în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) că, în lipsa acestei executări, statul pârât trebuie să îi plătească reclamantului, în acelaşi termen, pe lângă suma de 8.226 EUR, ce corespunde despăgubirilor stabilite prin hotărârea din data de 5 martie 2001, reactualizate pe baza ratei inflaţiei, suma suplimentară de 5.000 EUR (cinci mii euro), adică în total 13.226 EUR (treisprezece mii două sute douăzeci şi şase euro), plus orice sumă care ar putea fi datorată cu titlu de impozit, cu titlu de daune materiale;",
+  "c) că, în orice caz, statul pârât trebuie să îi plătească reclamantului, în acelaşi termen, următoarele sume:",
+  "d) ca sumele menţionate la lit. b) şi c) să fie convertite în moneda statului pârât, la cursul de schimb valabil la data plăţii;",
+  "e) că, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume se vor majoră cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "7. respinge cererea de satisfacţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106653",
+  "text_sha256": "0b8001763082951272f7d1a9654eec222269f39be4ece1516363589374ede94d",
+  "catalogue_sha256": "0b8001763082951272f7d1a9654eec222269f39be4ece1516363589374ede94d",
+  "fetched": "2026-11-03T04:52:29Z",
+  "chars": 45272,
+  "portal_id": "106653",
+  "tip": "HOTĂRÂRE"
+ }
+}
