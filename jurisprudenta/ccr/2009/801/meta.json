@@ -1,0 +1,136 @@
+{
+ "key": "dcc-801-2009",
+ "label": "Decizia CCR nr. 801/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "801",
+ "date": "2009-05-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 801 din 19 mai 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (3), (4) şi (5), art. 9 alin. (2), (4), (5) şi (6), art. 10 alin. (1) şi art. 11 din Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "390",
+  "bis": false,
+  "date": "2009-06-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.468/54/2008"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (3), (4) şi (5), art. 9 alin. (2), (4), (5) şi (6), art. 10 alin. (1) şi art. 11 din Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004, excepţie ridicată de Ionel Teodor, Marin Dominişoru, Ovidiu Narcis Gherghe, Nicolae Oprea, Barbu Bălteanu şi Constantin Stănciugel în Dosarul nr. 1.468/54/2008 al Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 566/1996",
+    "number": "566",
+    "year": "1996",
+    "path": "hg/1996/566"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106704",
+  "text_sha256": "832bc92f9249c803042f0c94db599931067585542bc4c2c310af289a222e6f7b",
+  "catalogue_sha256": "832bc92f9249c803042f0c94db599931067585542bc4c2c310af289a222e6f7b",
+  "fetched": "2026-11-03T04:52:29Z",
+  "chars": 13217,
+  "portal_id": "106704",
+  "tip": "DECIZIE"
+ }
+}
