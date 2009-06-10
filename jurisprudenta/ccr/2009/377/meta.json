@@ -1,0 +1,242 @@
+{
+ "key": "dcc-377-2009",
+ "label": "Decizia CCR nr. 377/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "377",
+ "date": "2009-03-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 377 din 19 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 48 din Legea fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "392",
+  "bis": false,
+  "date": "2009-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.333/175/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 48 din Legea fondului funciar nr. 18/1991, excepţie ridicată de Erszebet Sarlota Karolyi în Dosarul nr. 3.333/175/2007 al Judecătoriei Aiud.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/1945",
+    "number": "187",
+    "year": "1945",
+    "path": "lege/1945/187"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "650",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106738",
+  "text_sha256": "f4c7973fcd9d8984d3cf4f4bf8c57d1e9b99b287b07ff1eb6305fd00d1f3bdcb",
+  "catalogue_sha256": "f4c7973fcd9d8984d3cf4f4bf8c57d1e9b99b287b07ff1eb6305fd00d1f3bdcb",
+  "fetched": "2026-11-03T04:52:25Z",
+  "chars": 10202,
+  "portal_id": "106738",
+  "tip": "DECIZIE"
+ }
+}
