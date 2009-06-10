@@ -1,0 +1,225 @@
+{
+ "key": "dcc-612-2009",
+ "label": "Decizia CCR nr. 612/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "612",
+ "date": "2009-04-28",
+ "year": "2009",
+ "heading": "DECIZIE nr. 612 din 28 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 19 alin. (2) lit. e) din Legea serviciului de salubrizare a localităţilor nr. 101/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "391",
+  "bis": false,
+  "date": "2009-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.350/62/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de salubrizare a localităţilor nr. 101/2006",
+    "number": "101",
+    "year": "2006",
+    "path": "lege/2006/101"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 19 alin. (2) lit. e) din Legea serviciului de salubrizare a localităţilor nr. 101/2006, excepţie ridicată de Societatea Comercială \"Mercrim D&amp;amp;D\" - S.R.L., Societatea Comercială \"Dehantox\" - S.R.L., Societatea Comercială. \"Codemar Service\" - S.R.L., Societatea Comercială \"Dezinsect\" - S.R.L. şi Societatea Comercială \"Green Eco\" - S.R.L. din Braşov în Dosarul nr. 3.350/62/2008 al Tribunalului Braşov - Secţia comercială şi de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de salubrizare a localităţilor nr. 101/2006",
+    "number": "101",
+    "year": "2006",
+    "path": "lege/2006/101"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 224/2008",
+    "number": "224",
+    "year": "2008",
+    "path": "lege/2008/224"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 365/2004",
+    "number": "365",
+    "year": "2004",
+    "path": "lege/2004/365"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106756",
+  "text_sha256": "a949303951be234eb95242ac15667bc0c9d53322dbed44f44b030215d1875182",
+  "catalogue_sha256": "a949303951be234eb95242ac15667bc0c9d53322dbed44f44b030215d1875182",
+  "fetched": "2026-11-03T04:52:24Z",
+  "chars": 14500,
+  "portal_id": "106756",
+  "tip": "DECIZIE"
+ }
+}
