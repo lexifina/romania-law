@@ -1,0 +1,153 @@
+{
+ "key": "iccj-su-3-2009",
+ "label": "Decizia ÎCCJ nr. 3/2009 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "3",
+ "date": "2009-01-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 3 din 19 ianuarie 2009",
+ "subtitle": "pentru examinarea recursului în interesul legii, privind stabilirea pedepsei ce determină calculul termenului de reabilitare judecătorească în cazul pedepselor rezultante prin cumul aritmetic ca urmare a revocării suspendării condiţionate sau prin cumul juridic în cazul concursului de infracţiuni",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "393",
+  "bis": false,
+  "date": "2009-06-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "31/2008"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Stabilesc că termenul de reabilitare judecătorească se socoteşte în raport de pedeapsa cea mai grea ce intră în componenţa pedepsei rezultante ca urmare a cumulului juridic sau aritmetic.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 546/2002",
+    "number": "546",
+    "year": "2002",
+    "path": "lege/2002/546"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106720",
+  "text_sha256": "7c60b02e1fbf1d567413b87d50dfc5706bc360799d94dac785611bc1409a6655",
+  "catalogue_sha256": "7c60b02e1fbf1d567413b87d50dfc5706bc360799d94dac785611bc1409a6655",
+  "fetched": "2026-11-03T04:52:26Z",
+  "chars": 12244,
+  "portal_id": "106720",
+  "tip": "DECIZIE"
+ }
+}
