@@ -1,0 +1,93 @@
+{
+ "key": "cedo-5325-03-2009-02-03",
+ "label": "CEDO, Voiculescu c. României, 2009-02-03",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-02-03",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 3 februarie 2009",
+ "subtitle": "în Cauza Voiculescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "392",
+  "bis": false,
+  "date": "2009-06-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "5325/03"
+ ],
+ "case_name": "Voiculescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 2 din Convenţie, pe latura sa procedurală; 3. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantei, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, sumele de mai jos, care vor fi convertite în moneda statului pârât la cursul de schimb valabil la data plăţii:",
+  "(i) 15.000 EUR (cincisprezece mii euro), cu titlu de daune morale, plus orice sumă care ar putea fi datorată cu titlu de impozit; şi (îi) 500 EUR (cinci sute euro), cu titlu de cheltuieli de judecată, plus orice sumă care ar putea fi datorată cu titlu de impozit de către reclamantă;",
+  "b) că, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă va fi majorată cu o dobândă simplă egală cu rata dobânzii pentru facilitatea de împrumut marginal a Băncii Centrale Europene aplicabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106736",
+  "text_sha256": "3b41e7911ac8198f2f75767b3d5bdef2dd6becb3cfabf92bad2423c9b97f45f6",
+  "catalogue_sha256": "3b41e7911ac8198f2f75767b3d5bdef2dd6becb3cfabf92bad2423c9b97f45f6",
+  "fetched": "2026-11-03T04:52:25Z",
+  "chars": 18821,
+  "portal_id": "106736",
+  "tip": "HOTĂRÂRE"
+ }
+}
