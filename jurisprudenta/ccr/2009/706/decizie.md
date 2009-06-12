@@ -1,0 +1,27 @@
+# DECIZIE nr. 706 din 5 mai 2009
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Ion Predescu - judecător Tudorel Toader - judecător Puskas Valentin Zoltan - judecător Augustin Zegrean - judecător Simona Ricu - procuror Fabian Niculae - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 6 din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată, excepţie ridicată de S.C. Contimpex 1992 S.R.L. în Dosarul nr. 8.061/303/2008 al Judecătoriei Sectorului 6 Bucureşti - Secţia civilă.
+La apelul nominal se constată lipsa părţilor, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza este în stare de judecată.
+Reprezentantul Ministerului Public, având în vedere jurisprudenţa în materie a Curţii Constituţionale, pune concluzii de respingere a excepţiei de neconstituţionalitate.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 10 noiembrie 2008, pronunţată în Dosarul nr. 8.061/303/2008, Judecătoria Sectorului 6 Bucureşti - Secţia civilă a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 6 din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată.
+Excepţia a fost ridicată de S.C. Contimpex 1992 S.R.L., debitoare în dosarul menţionat.
+În motivarea excepţiei de neconstituţionalitate se susţine că dispoziţiile legale atacate contravin prevederilor art. 16 şi 21 din Constituţia României, deoarece limitează posibilităţile debitorului de a face dovada netemeiniciei cererii creditorului şi îl pun în felul acesta pe debitor într-o situaţie de inferioritate faţă de creditor.
+Instanţa de judecată opinează că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că dispoziţiile art. 6 din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată sunt constituţionale.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 6 din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată, publicată în Monitorul Oficial al României, Partea I, nr. 422 din 30 iulie 2001, cu modificările şi completările ulterioare, dispoziţii care au următorul conţinut: "(1) Dacă nu a intervenit închiderea dosarului în condiţiile art. 5, judecătorul va examina cererea pe baza actelor depuse, precum şi a explicaţiilor şi lămuririlor părţilor, ce i-au fost prezentate potrivit art. 4.
+(2) Când în urma examinării prevăzute la alin. (1) constată că pretenţiile creditorului sunt justificate, judecătorul emite ordonanţa care va conţine somaţia de plată către debitor, precum şi termenul de plată.
+(3) Termenul de plată nu va fi mai mic de 10 zile şi nici nu va depăşi 30 de zile. Judecătorul va putea stabili alt termen potrivit înţelegerii părţilor.
+(4) Ordonanţa se va înmâna părţii prezente sau se va comunică fiecărei părţi de îndată, prin scrisoare recomandată cu confirmare de primire."
+Examinând excepţia de neconstituţionalitate, Curtea constată că s-a mai pronunţat cu privire la dispoziţiile legale atacate, prin raportare la aceleaşi critici şi dispoziţii din Constituţie. Astfel, prin Decizia nr. 251 din 15 iunie 2004, publicată în Monitorul Oficial al României, Partea I, nr. 611 din 6 iulie 2004, Curtea a respins ca neîntemeiată excepţia de neconstituţionalitate.
+Întrucât nu au intervenit elemente noi, de natură să determine reconsiderarea jurisprudenţei Curţii Constituţionale, atât soluţia, cât şi considerentele cuprinse în această decizie îşi păstrează valabilitatea şi în cauza de faţă.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată, excepţie ridicată de S.C. Contimpex 1992 S.R.L. în Dosarul nr. 8.061/303/2008 al Judecătoriei Sectorului 6 Bucureşti - Secţia civilă.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 5 mai 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Fabian Niculae _________
