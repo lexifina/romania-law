@@ -1,0 +1,248 @@
+{
+ "key": "dcc-524-2009",
+ "label": "Decizia CCR nr. 524/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "524",
+ "date": "2009-04-09",
+ "year": "2009",
+ "heading": "DECIZIE nr. 524 din 9 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1, art. 4 alin. (1), art. 5 şi art. 9 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 130/2004 privind unele măsuri pentru vânzarea de către societăţile comerciale, companiile şi societăţile naţionale din sectorul energiei, petrolului, gazelor naturale, resurselor minerale şi al industriei de apărare, precum şi de către alţi agenţi economici din subordinea Ministerului Economiei şi Comerţului a locuinţelor pe care aceştia le au în patrimoniu personalului propriu, titularilor contractelor de închiriere, pensionarilor sau disponibilizaţilor cu ultimul loc de muncă la aceşti agenţi economici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "401",
+  "bis": false,
+  "date": "2009-06-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "16.385/281/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 130/2004",
+    "number": "130",
+    "year": "2004",
+    "path": "oug/2004/130"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 1, art. 4 alin. (1), art. 5 şi art. 9 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 130/2004 privind unele măsuri pentru vânzarea de către societăţile comerciale, companiile şi societăţile naţionale din sectorul energiei, petrolului, gazelor naturale, resurselor minerale şi al industriei de apărare, precum şi de către alţi agenţi economici din subordinea Ministerului Economiei şi Comerţului a locuinţelor pe care aceştia le au în patrimoniu personalului propriu, titularilor contractelor de închiriere, pensionarilor sau disponibilizaţilor cu ultimul loc de muncă la aceşti agenţi economici, excepţie ridicată de Neculai Chiroşcă în Dosarul nr. 16.385/281/2007 al Judecătoriei Ploieşti - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 130/2004",
+    "number": "130",
+    "year": "2004",
+    "path": "oug/2004/130"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 189/2005",
+    "number": "189",
+    "year": "2005",
+    "path": "lege/2005/189"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106875",
+  "text_sha256": "8055f24eb441971dfa1af859a60440ad61e8eb2cec589fd9efd8b3395671cfc8",
+  "catalogue_sha256": "8055f24eb441971dfa1af859a60440ad61e8eb2cec589fd9efd8b3395671cfc8",
+  "fetched": "2026-11-03T04:52:17Z",
+  "chars": 10394,
+  "portal_id": "106875",
+  "tip": "DECIZIE"
+ }
+}
