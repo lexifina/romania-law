@@ -1,0 +1,201 @@
+{
+ "key": "dcc-691-2009",
+ "label": "Decizia CCR nr. 691/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "691",
+ "date": "2009-05-05",
+ "year": "2009",
+ "heading": "DECIZIE nr. 691 din 5 mai 2009",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "411",
+  "bis": false,
+  "date": "2009-06-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.114/84/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 64 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, excepţie ridicată de Vasile Lungu în Dosarul nr. 3.114/84/2008 al Tribunalului Sălaj - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/107098",
+  "text_sha256": "66bef5fe7268182665333255c746651d5cd15ffee1296152e15092abf8038205",
+  "catalogue_sha256": "66bef5fe7268182665333255c746651d5cd15ffee1296152e15092abf8038205",
+  "fetched": "2026-11-06T03:26:55Z",
+  "chars": 9331,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406064257/https://legislatie.just.ro/Public/DetaliiDocumentAfis/107098",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/107098",
+   "timestamp": "20250406064257",
+   "sha256": "4abb4fcbef8ea726b8a42c040ff141f35a817b93e7e74289b15089d5a79ffe07"
+  },
+  "portal_id": "107098",
+  "tip": "DECIZIE"
+ }
+}
