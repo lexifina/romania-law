@@ -1,0 +1,229 @@
+{
+ "key": "dcc-652-2009",
+ "label": "Decizia CCR nr. 652/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "652",
+ "date": "2009-04-28",
+ "year": "2009",
+ "heading": "DECIZIE nr. 652 din 28 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 24 alin. (1^2), (1^4), (2) şi (3) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "415",
+  "bis": false,
+  "date": "2009-06-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "dossiers": [
+  "1.903/275/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1-2",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate a dispoziţiilor art. 24 alin. (1^2), (1^4) şi (3) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997, excepţie ridicată de Regia Naţională a Pădurilor - Direcţia Silvică Focşani în Dosarul nr. 1.903/275/2007 al Tribunalului Vrancea - Secţia civilă, şi constată că acestea sunt neconstituţionale în ceea ce priveşte dreptul foştilor proprietari de a opta pentru atribuirea unei suprafeţe echivalente din fondul forestier proprietate de stat. 2. Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 24 alin. (2) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997, excepţie ridicată de acelaşi autor în dosarul aceleiaşi instanţe.",
+  "Decizia se comunică preşedinţilor celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1-2",
+      "2",
+      "1-4",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/107140",
+  "text_sha256": "b8f0ce302d13fb98da7e9abf0041d036f07611eb8ed388e4b08f8df00558ac68",
+  "catalogue_sha256": "b8f0ce302d13fb98da7e9abf0041d036f07611eb8ed388e4b08f8df00558ac68",
+  "fetched": "2026-11-05T12:34:50Z",
+  "chars": 18725,
+  "portal_id": "107140",
+  "tip": "DECIZIE"
+ }
+}
