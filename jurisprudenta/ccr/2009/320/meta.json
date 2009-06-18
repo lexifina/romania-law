@@ -1,0 +1,213 @@
+{
+ "key": "dcc-320-2009",
+ "label": "Decizia CCR nr. 320/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "320",
+ "date": "2009-03-05",
+ "year": "2009",
+ "heading": "DECIZIE nr. 320 din 5 martie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 52 alin. 1 şi 3 din Codul de procedură civilă şi ale Ordonanţei de urgenţă a Guvernului nr. 105/2006 pentru modificarea Legii tinerilor nr. 350/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "416",
+  "bis": false,
+  "date": "2009-06-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.515/299/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 105/2006",
+    "number": "105",
+    "year": "2006",
+    "path": "oug/2006/105"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 52 alin. 1 şi 3 din Codul de procedură civilă, excepţie ridicată din oficiu de instanţa de judecată în Dosarul nr. 3.515/299/2008 al Judecătoriei Sectorului 1 Bucureşti, şi a prevederilor Ordonanţei de urgenţă a Guvernului nr. 105/2006 pentru modificarea Legii tinerilor nr. 350/2006, excepţie ridicată de Fundaţia Naţională pentru Tineret (F.N.T.) în acelaşi dosar.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 105/2006",
+    "number": "105",
+    "year": "2006",
+    "path": "oug/2006/105"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea tinerilor nr. 350/2006",
+    "number": "350",
+    "year": "2006",
+    "path": "lege/2006/350"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/107173",
+  "text_sha256": "da01b0b22b458d704fed030fb258dfce1a6cd8190550c8ceac3f82dcabdcb7b0",
+  "catalogue_sha256": "da01b0b22b458d704fed030fb258dfce1a6cd8190550c8ceac3f82dcabdcb7b0",
+  "fetched": "2026-11-03T04:51:55Z",
+  "chars": 10184,
+  "portal_id": "107173",
+  "tip": "DECIZIE"
+ }
+}
