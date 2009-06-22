@@ -1,0 +1,156 @@
+{
+ "key": "iccj-su-44-2008",
+ "label": "Decizia ÎCCJ nr. 44/2008 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "44",
+ "date": "2008-10-13",
+ "year": "2008",
+ "heading": "DECIZIE nr. 44 din 13 octombrie 2008",
+ "subtitle": "pentru examinarea recursului în interesul legii, privind admisibilitatea plângerii formulate, în temeiul art. 278^1 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "423",
+  "bis": false,
+  "date": "2009-06-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "29/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "8"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În cazul plângerii formulate în baza art. 278^1 din Codul de procedură penală de persoana faţă de care s-a dispus netrimiterea în judecată şi care solicită schimbarea temeiului de drept al soluţiei dispuse prin rezoluţie sau ordonanţă ori dispoziţia cuprinsă în rechizitoriu, în ipoteza unei instrumentări complete, instanţa poate dispune schimbarea acestuia, în condiţiile art. 278^1 alin. 8 lit. b) din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "8",
+      "9"
+     ],
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/107222",
+  "text_sha256": "e4e4cc0d063e26e0b4a68acde032a6c3c7c22a3f5d97070e5df12021920be9b5",
+  "catalogue_sha256": "e4e4cc0d063e26e0b4a68acde032a6c3c7c22a3f5d97070e5df12021920be9b5",
+  "fetched": "2026-11-03T04:51:54Z",
+  "chars": 12378,
+  "portal_id": "107222",
+  "tip": "DECIZIE"
+ }
+}
