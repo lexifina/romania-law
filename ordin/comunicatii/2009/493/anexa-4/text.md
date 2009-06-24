@@ -1,0 +1,2 @@
+# Anexa 4
+CONȚINUTUL MINIMAL ȘI STRUCTURA registrului arhivei electronice A. Date privind beneficiarul: - nume și prenume/denumire; - adresă; - cod. B. Date privind documentele stocate de către beneficiar: - forma utilizată; - cuvinte-cheie necesare identificării documentului în formă electronică (taguri); - politica de acces la documentele arhivate; - dimensiunea documentului arhivat; - data introducerii în arhivă; - data expirării perioadei de arhivare. -------
