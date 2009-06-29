@@ -1,0 +1,167 @@
+{
+ "key": "dcc-620-2009",
+ "label": "Decizia CCR nr. 620/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "620",
+ "date": "2009-04-28",
+ "year": "2009",
+ "heading": "DECIZIE nr. 620 din 28 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 şi 4 din Ordonanţa de urgenţă a Guvernului nr. 80/2001 privind stabilirea unor măsuri pentru asigurarea, temporar, a locuinţelor de serviciu necesare unor categorii de personal din cadrul ministerelor, celorlalte organe de specialitate ale administraţiei publice centrale şi instituţiilor publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "446",
+  "bis": false,
+  "date": "2009-06-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.810/301/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "oug/2001/80"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 2 şi 4 din Ordonanţa de urgenţă a Guvernului nr. 80/2001 privind stabilirea unor măsuri pentru asigurarea, temporar, a locuinţelor de serviciu necesare unor categorii de personal din cadrul ministerelor, celorlalte organe de specialitate ale administraţiei publice centrale şi instituţiilor publice, excepţie ridicată de Joiţa Tănase în Dosarul nr. 7.810/301/2006 al Tribunalului Bucureşti - Secţia a III-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "oug/2001/80"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109022",
+  "text_sha256": "60cadaa72f0b7ffbaf88769a000164f7a86fa7e1a68b7c6f2b6aa5eaf82934c0",
+  "catalogue_sha256": "60cadaa72f0b7ffbaf88769a000164f7a86fa7e1a68b7c6f2b6aa5eaf82934c0",
+  "fetched": "2026-11-03T04:51:37Z",
+  "chars": 10194,
+  "portal_id": "109022",
+  "tip": "DECIZIE"
+ }
+}
