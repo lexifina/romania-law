@@ -1,0 +1,222 @@
+{
+ "key": "dcc-468-2009",
+ "label": "Decizia CCR nr. 468/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "468",
+ "date": "2009-04-02",
+ "year": "2009",
+ "heading": "DECIZIE nr. 468 din 2 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 3, art. 4 şi art. 13 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "449",
+  "bis": false,
+  "date": "2009-06-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "17.855/301/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 3, art. 4 şi art. 13 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe, excepţie ridicată de Ioan Lica şi Corneliu-Adrian Lica în Dosarul nr. 17.855/301/2006 al Tribunalului Bucureşti - Secţia a III-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 17/1994",
+    "number": "17",
+    "year": "1994",
+    "path": "lege/1994/17"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-06-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109068",
+  "text_sha256": "dbe08c762dc9579f0fc605ad4c7309faa9ee7aed361641f11db399783a956ce3",
+  "catalogue_sha256": "dbe08c762dc9579f0fc605ad4c7309faa9ee7aed361641f11db399783a956ce3",
+  "fetched": "2026-11-03T04:51:33Z",
+  "chars": 8611,
+  "portal_id": "109068",
+  "tip": "DECIZIE"
+ }
+}
