@@ -1,0 +1,7 @@
+# Anexa nr. 25: (Anexa nr. 3 la Ordinul nr. 34/2009) Prețurile finale reglementate pentru furnizarea gazelor naturale în regim reglementat realizată de S.C. NORD GAZ - S.R.L. Categoria de consumatori Lei/MWh A. Consu
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 108210 (https://legislatie.just.ro/Public/DetaliiDocument/108210)
+- sha256 of that document's text as the service returned it: 0236d6bb250539bab5141c15548e4d8e4f395b58fbb8fd0f84acc38c52c5504b
+- Retrieved: 2026-11-03
