@@ -1,0 +1,433 @@
+{
+ "key": "dcc-838-2009",
+ "label": "Decizia CCR nr. 838/2009",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "838",
+ "date": "2009-05-27",
+ "year": "2009",
+ "heading": "DECIZIE nr. 838 din 27 mai 2009",
+ "subtitle": "referitoare la sesizarea formulată de Preşedintele României, domnul Traian Băsescu, privind existenţa unui conflict juridic de natură constituţională între autoritatea judecătorească, reprezentată de Înalta Curte de Casaţie şi Justiţie, pe de o parte, şi Parlamentul României şi Guvernul României, pe de altă parte",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "461",
+  "bis": false,
+  "date": "2009-07-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.905E/2009"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Constată existenţa unui conflict juridic de natură constituţională între autoritatea judecătorească, pe de o parte, şi Parlamentul României şi Guvernul României, pe de altă parte. 2. În exercitarea atribuţiei prevăzute de art. 126 alin. (3) din Constituţie, Înalta Curte de Casaţie şi Justiţie are obligaţia de a asigura interpretarea şi aplicarea unitară a legii de către toate instanţele judecătoreşti, cu respectarea principiului fundamental al separaţiei şi echilibrului puterilor, consacrat de art. 1 alin. (4) din Constituţia României. Înalta Curte de Casaţie şi Justiţie nu are competenţa constituţională să instituie, să modifice sau să abroge norme juridice cu putere de lege ori să efectueze controlul de constituţionalitate al acestora.",
+  "Definitivă.",
+  "Decizia se comunică Preşedintelui României, preşedintelui Camerei Deputaţilor, preşedintelui Senatului, primului-ministru al Guvernului, preşedintelui Înaltei Curţi de Casaţie şi Justiţie, preşedintelui Consiliului Superior al Magistraturii, precum şi procurorului general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 83/2000",
+    "number": "83",
+    "year": "2000",
+    "path": "og/2000/83"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IX",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 177/2002",
+    "number": "177",
+    "year": "2002",
+    "path": "oug/2002/177"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 160/2000",
+    "number": "160",
+    "year": "2000",
+    "path": "oug/2000/160"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2007",
+    "number": "45",
+    "year": "2007",
+    "path": "lege/2007/45"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 75/2008",
+    "number": "75",
+    "year": "2008",
+    "path": "oug/2008/75"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/2000",
+    "number": "125",
+    "year": "2000",
+    "path": "lege/2000/125"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/1996",
+    "number": "56",
+    "year": "1996",
+    "path": "lege/1996/56"
+   },
+   "articles": [
+    {
+     "art": "231",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 92/1992",
+    "number": "92",
+    "year": "1992",
+    "path": "lege/1992/92"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109257",
+  "text_sha256": "8d21668434df56d907dba426bb9acc256a96ddb36e2530da7a7d95ccca5eb5f3",
+  "catalogue_sha256": "8d21668434df56d907dba426bb9acc256a96ddb36e2530da7a7d95ccca5eb5f3",
+  "fetched": "2026-11-03T04:51:22Z",
+  "chars": 77381,
+  "portal_id": "109257",
+  "tip": "DECIZIE"
+ }
+}
