@@ -1,0 +1,157 @@
+{
+ "key": "dcc-653-2009",
+ "label": "Decizia CCR nr. 653/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "653",
+ "date": "2009-04-30",
+ "year": "2009",
+ "heading": "DECIZIE nr. 653 din 30 aprilie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor articolului unic, anexa nr. 2 din Legea nr. 220/2007 pentru aprobarea Ordonanţei Guvernului nr. 11/2007 privind creşterile salariale ce se vor acorda în anul 2007 personalului didactic din învăţământ, salarizat potrivit Legii nr. 128/1997 privind Statutul personalului didactic",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "461",
+  "bis": false,
+  "date": "2009-07-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.042/88/2008",
+  "2.291D/2008",
+  "2.092/88/2008",
+  "2.290D/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 220/2007",
+    "number": "220",
+    "year": "2007",
+    "path": "lege/2007/220"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor articolului unic, anexa nr. 2 din Legea nr. 220/2007 pentru aprobarea Ordonanţei Guvernului nr. 11/2007 privind creşterile salariale ce se vor acorda în anul 2007 personalului didactic din învăţământ, salarizat potrivit Legii nr. 128/1997 privind Statutul personalului didactic, excepţie ridicată de Şcoala cu clasele I-VIII nr. 14 din Tulcea şi de Inspectoratul Şcolar Judeţean Tulcea în dosarele nr. 2.042/88/2008 şi nr. 2.092/88/2008 ale Tribunalului Tulcea - Secţia civilă, comercială şi contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 220/2007",
+    "number": "220",
+    "year": "2007",
+    "path": "lege/2007/220"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/2007",
+    "number": "11",
+    "year": "2007",
+    "path": "og/2007/11"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109251",
+  "text_sha256": "a4b6a7ca4cbe37a38e953838b702f63eb32d83f69d727e6d803fbb685a2346f9",
+  "catalogue_sha256": "a4b6a7ca4cbe37a38e953838b702f63eb32d83f69d727e6d803fbb685a2346f9",
+  "fetched": "2026-11-05T14:33:12Z",
+  "chars": 8706,
+  "portal_id": "109251",
+  "tip": "DECIZIE"
+ }
+}
