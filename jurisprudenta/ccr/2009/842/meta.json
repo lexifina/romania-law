@@ -1,0 +1,244 @@
+{
+ "key": "dcc-842-2009",
+ "label": "Decizia CCR nr. 842/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "842",
+ "date": "2009-06-02",
+ "year": "2009",
+ "heading": "DECIZIE nr. 842 din 2 iunie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 151/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/2008 privind creşterile salariale ce se vor acorda în anul 2008 personalului din învăţământ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "464",
+  "bis": false,
+  "date": "2009-07-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.294/98/2008",
+  "59D/2009",
+  "627D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Uniunea Sindicatelor Libere din Învăţământ Ialomiţa, Sindicatul Liber din Învăţământ Satu Mare, Sindicatul Liber zona Huşi, Uniunea Sindicală Didactică Vaslui, Sindicatul Învăţământ Tutova din Bârlad, Sindicatul Învăţământului Preuniversitar Buzău, Uniunea Teritorială a Sindicatelor din Învăţământul Preuniversitar din Râmnicu Sărat, Liga Sindicatelor din Învăţământ din Botoşani, Convenţia Judeţeană a Sindicatelor din Învăţământ Vaslui, Sindicatul Liber din Învăţământ Călăraşi, Sindicatul Democratic al Pedagogilor zona Târgu Secuiesc, Sindicatul Liber din Învăţământ zona Odorheiu Secuiesc şi Uniunea Sindicală Judeţeană - F.E.N. Iaşi în dosarele nr. 3.294/98/2008, nr. 4.535/83/2008, nr. 4.537/83/2008, nr. 4.532/83/2008, nr. 4.508/83/2008, nr. 4.506/83/2008, nr. 4.504/83/2008, nr. 3.915/89/2008, nr. 3.918/89/2008, nr. 3.921/89/2008, nr. 3.926/89/2008, nr. 3.945/89/2008, nr. 3.948/89/2008, nr. 3.912/89/2008, nr. 3.942/89/2008, nr. 3.939/89/2008, nr. 3.933/89/2008, nr. 3.951/89/2008, nr. 3.954/89/2008, nr. 3.929/89/2008, nr. 3.928/89/2008, nr. 3.936/89/2008, nr. 3.839/89/2008, nr. 3.841/89/2008, nr. 4.583/83/2008, nr. 4.586/83/2008, nr. 4.588/83/2008, nr. 4.589/83/2008, nr. 4.503/83/2008, nr. 4.592/83/2008, nr. 4.505/83/2008, nr. 4.507/83/2008, nr. 4.579/83/2008, nr. 4.597/83/2008, nr. 4.626/83/2008, nr. 4.678/83/2008, nr. 4.680/83/2008, nr. 4.684/83/2008, nr. 4.687/83/2008, nr. 4.688/83/2008, nr. 4.689/83/2008, nr. 3.931/89/2008, nr. 3.934/89/2008, nr. 3.952/89/2008, nr. 3.955/89/2008, nr. 3.869/89/2008, nr. 3.870/89/2008, nr. 3.872/89/2008, nr. 3.873/89/2008, nr. 3.865/89/2008, nr. 3.866/89/2008, nr. 3.867/89/2008, nr. 3.868/89/2008, nr. 3.859/89/2008, nr. 3.861/89/2008, nr. 3.862/89/2008, nr. 3.863/89/2008, nr. 3.864/89/2008, nr. 3.910/89/2008, nr. 3.913/89/2008, nr. 3.916/89/2008, nr. 3.919/89/2008, nr. 3.925/89/2008, nr. 3.937/89/2008, nr. 3.946/89/2008, nr. 3.949/89/2008, nr. 3.940/89/2008, nr. 3.943/89/2008, nr. 4.808/83/2008, nr. 3.909/89/2008, nr. 4.512/114/2008, nr. 4.612/114/2008, nr. 4.459/114/2008, nr. 4.513/114/2008, nr. 4.484/114/2008, nr. 4.423/114/2008, nr. 5.153/40/2008, nr. 4.457/114/2008, nr. 4.630/114/2008, nr. 4.483/114/2008, nr. 4.613/114/2008, nr. 4.641/114/2008, nr. 4.640/114/2008, nr. 4.636/114/2008, nr. 4.631/114/2008, nr. 10/114/2009, nr. 4.485/114/2008, nr. 5.152/40/2008, nr. 4.724/114/2008, nr. 4.723/114/2008, nr. 4.377/114/2008, nr. 370/114/2009, nr. 4.694/114/2008, nr. 458/114/2009, nr. 3.950/89/2008, nr. 3.842/89/2008, nr. 3.840/89/2008, nr. 3.838/89/2008, nr. 3.837/89/2008, nr. 3.941/89/2008, nr. 3.938/89/2008, nr. 3.944/89/2008, nr. 3.947/89/2008, nr. 3.917/89/2008, nr. 3.920/89/2008, nr. 3.922/89/2008, nr. 3.914/89/2008, nr. 3.911/89/2008, nr. 3.923/89/2008, nr. 3.953/89/2008, nr. 3.930/89/2008, nr. 3.932/89/2008, nr. 3.935/89/2008, nr. 4.086/89/2008, nr. 4.088/89/2008, nr. 4.090/89/2008, nr. 3.871/89/2008, nr. 3.924/89/2008, nr. 3.927/89/2008, nr. 4.085/89/2008, nr. 4.087/89/2008, nr. 4.089/89/2008, nr. 2.526/116/2008, nr. 2.527/116/2008, nr. 1.979/119/2008, nr. 1.978/119/2008, nr. 1.977/119/2008, nr. 1.976/119/2008, nr. 3.229/96/2008, nr. 1.975/119/2008, nr. 178/119/2009, nr. 3/119/2009, nr. 177/119/2009, nr. 2/119/2009, nr. 69/99/2009 şi nr. 133/119/2009 ale Tribunalului Ialomiţa - Secţia civilă, Tribunalului Satu Mare - Secţia civilă, Tribunalului Buzău - Secţia civilă, Tribunalului Botoşani Secţia civilă, Tribunalului Vaslui - Secţia civilă, Tribunalului Călăraşi - Secţia civilă, Tribunalului Covasna - Secţia civilă, Tribunalului Harghita - Secţia civilă şi Tribunalului Iaşi - Secţia civilă şi constată că dispoziţiile art. I pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 151/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/2008 privind creşterile salariale ce se vor acorda în anul 2008 personalului din învăţământ sunt neconstituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2008",
+    "number": "221",
+    "year": "2008",
+    "path": "lege/2008/221"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 136/2008",
+    "number": "136",
+    "year": "2008",
+    "path": "oug/2008/136"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109288",
+  "text_sha256": "0f09b4af69a2ee26b28bca0de16196a7265d71323aaf18868144199be4fc0b75",
+  "catalogue_sha256": "0f09b4af69a2ee26b28bca0de16196a7265d71323aaf18868144199be4fc0b75",
+  "fetched": "2026-11-03T04:51:20Z",
+  "chars": 25268,
+  "portal_id": "109288",
+  "tip": "DECIZIE"
+ }
+}
