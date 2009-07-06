@@ -1,0 +1,243 @@
+{
+ "key": "dcc-730-2009",
+ "label": "Decizia CCR nr. 730/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "730",
+ "date": "2009-05-07",
+ "year": "2009",
+ "heading": "DECIZIE nr. 730 din 7 mai 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 74 alin.(1) din Legea nr. 128/1997 privind Statutul personalului didactic şi ale art. 93 alin. (2) din Legea învăţământului nr. 84/1995",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "465",
+  "bis": false,
+  "date": "2009-07-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "17.409/245/2007",
+  "17.410/245/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 128/1997",
+    "number": "128",
+    "year": "1997",
+    "path": "lege/1997/128"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "93",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 74 alin. (1) din Legea nr. 128/1997 privind Statutul personalului didactic şi ale art. 93 alin. (2) din Legea învăţământului nr. 84/1995, excepţie ridicată de Nicolae Niculescu în Dosarul nr. 17.409/245/2007 al Tribunalului Harghita - Secţia civilă şi Dosarul nr. 17.410/245/2007 al Judecătoriei Iaşi.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 128/1997",
+    "number": "128",
+    "year": "1997",
+    "path": "lege/1997/128"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "93",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2008",
+    "number": "2",
+    "year": "2008",
+    "path": "lege/2008/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 480/2006",
+    "number": "480",
+    "year": "2006",
+    "path": "lege/2006/480"
+   },
+   "articles": [
+    {
+     "art": "116-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109297",
+  "text_sha256": "27fa82e9ea701230b8e0ac327ea4d40bf97c81a068e9777f6ad6c68a3d2592de",
+  "catalogue_sha256": "27fa82e9ea701230b8e0ac327ea4d40bf97c81a068e9777f6ad6c68a3d2592de",
+  "fetched": "2026-11-03T04:51:19Z",
+  "chars": 12193,
+  "portal_id": "109297",
+  "tip": "DECIZIE"
+ }
+}
