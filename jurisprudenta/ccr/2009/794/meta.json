@@ -1,0 +1,164 @@
+{
+ "key": "dcc-794-2009",
+ "label": "Decizia CCR nr. 794/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "794",
+ "date": "2009-05-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 794 din 19 mai 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) din Hotărârea Guvernului nr. 1.550/2004 privind efectuarea operaţiunilor de evaluare în vederea recalculării pensiilor din sistemul public, stabilite în fostul sistem al asigurărilor sociale de stat potrivit legislaţiei anterioare datei de 1 aprilie 2001, în conformitate cu principiile Legii nr. 19/2000",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "467",
+  "bis": false,
+  "date": "2009-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.428/89/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.550/2004",
+    "number": "1550",
+    "year": "2004",
+    "path": "hg/2004/1550"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (1) din Hotărârea Guvernului nr. 1.550/2004 privind efectuarea operaţiunilor de evaluare în vederea recalculării pensiilor din sistemul public, stabilite în fostul sistem al asigurărilor sociale de stat potrivit legislaţiei anterioare datei de 1 aprilie 2001, în conformitate cu principiile Legii nr. 19/2000, excepţie ridicată de Constantin Bogescu în Dosarul nr. 3.428/89/2008 al Tribunalului Vaslui - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.550/2004",
+    "number": "1550",
+    "year": "2004",
+    "path": "hg/2004/1550"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109366",
+  "text_sha256": "e4eaff5444d3dfbc9c39e5d1075f8e158f2be0ef0aefffedf3616668ad3aeb03",
+  "catalogue_sha256": "e4eaff5444d3dfbc9c39e5d1075f8e158f2be0ef0aefffedf3616668ad3aeb03",
+  "fetched": "2026-11-05T06:22:16Z",
+  "chars": 6293,
+  "portal_id": "109366",
+  "tip": "DECIZIE"
+ }
+}
