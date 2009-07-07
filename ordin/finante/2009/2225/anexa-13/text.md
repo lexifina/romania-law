@@ -1,0 +1,12 @@
+# Anexa 6
+------- DECLARAȚIE Subsemnatul,........., cetățean......................, născut la data de............... în localitatea................., cu domiciliul/rezidența în localitatea............, str......., nr......, bl......, sc........., et......, ap......, județul/sectorul......, telefon......, e-mail.........., legitimat cu...... seria......... nr............., eliberat de......... la data de.........., CNP.........., de profesie............., angajat la........, declar pe propria răspundere, cunoscând prevederile Codului penal privind falsul în declarații, următoarele:
+a) la data intrării în vigoare a Ordonanței de urgență a Guvernului nr. 60/2009 nu dețin în proprietate o locuință, individual sau în comun, împreună cu soțul meu sau cu alte persoane, indiferent de modul în care a fost dobândită, și nici nu am în derulare un credit ipotecar;
+b) intenționez să achiziționez, în condițiile Programului, o locuință finalizată, aflată pe teritoriul României, înscrisă în cartea funciară în condițiile legii și liberă de sarcini, cu excepția privilegiului vânzătorului asupra prețului;
+c) dispun de un avans de minimum 5% din prețul de achiziție al locuinței, dacă prețul acesteia este mai mic sau egal cu 60.000 euro, sau de 3.000 euro plus diferența dintre prețul de achiziție al locuinței și 60.000 euro, dacă prețul acesteia este mai mare de 60.000 euro;
+d) sunt de acord să constitui un depozit colateral pentru garantarea dobânzii, în valoare egală cu 3 rate de dobândă;
+e) sunt de acord să nu înstrăinez locuința achiziționată în primii 5 ani de la data dobândirii și să nu o grevez cu sarcini;
+f) sunt de acord să constitui în favoarea statului român, reprezentat de Ministerul Finanțelor Publice, o ipotecă de rang I asupra locuinței achiziționate din finanțarea garantată și sunt de acord cu notarea în cartea funciară a interdicției de vânzare a acesteia pe o perioadă de 5 ani și a interdicției de grevare cu alte sarcini;
+g) sunt de acord să asigur locuința achiziționată din finanțarea garantată împotriva tuturor riscurilor și să cesionez drepturile de despăgubiri în favoarea statului român, reprezentat de Ministerul Finanțelor Publice.
+Semnată astăzi.................................
+Semnătura..................................
+Verificat identitatea semnatarului Funcționar bancar.................................... Data........................ și semnătura....................
