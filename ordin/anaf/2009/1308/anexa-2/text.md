@@ -1,0 +1,6 @@
+# Anexa 2
+NOTIFICARE privind cesionarea dreptului de restituire, conform art. 30 din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare 1. Denumirea cesionarului...................................... 2. Codul de identificare fiscală............................... 3. Domiciliul fiscal: județul......, localitatea....., str.... nr...., bl...., sc...., ap.... În baza art. 30 alin. (2) din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare, vă notificăm cesiunea creanțelor fiscale în sumă de..................., reprezentând dreptul de restituire cesionat de către:
+Nr. crt. Denumirea Codul de identificare fiscală Domiciliul fiscal Obligații bugetare
+Județul Localitatea Adresa Tip* Suma
+TOTAL
+____________ 2 - obligații fiscale datorate bugetelor asigurărilor sociale și fondurilor speciale, care se plătesc în cont unic (anexa nr. 2 la Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 1.294/2007, cu modificările și completările ulterioare); 3 - TVA; 4 - accize; 5 - altele (detaliat). Numele și prenumele..............., funcția................. Semnătura și ștampila........................................ __________
