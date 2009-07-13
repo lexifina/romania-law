@@ -1,0 +1,157 @@
+{
+ "key": "cedo-4411-04-2009-03-03",
+ "label": "CEDO, Băcanu şi Societatea Comercială \"R\" - S.A. c. României, 2009-03-03",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-03-03",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 3 martie 2009",
+ "subtitle": "în Cauza Băcanu şi Societatea Comercială \"R\" - S.A. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "484",
+  "bis": false,
+  "date": "2009-07-13",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "4411/04"
+ ],
+ "case_name": "Băcanu şi Societatea Comercială \"R\" - S.A.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 §§ 1 şi 3 d) referitor la cea de-a doua procedură şi pe art. 10 referitor la cele două proceduri şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 §§ 1 şi 3 d) din Convenţie; 3. hotărăşte că a avut loc încălcarea art. 10 din Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să le plătească împreună reclamanţilor, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, suma de 8.150 EUR (opt mii una sută cincizeci euro), ce va fi convertită în moneda statului pârât la cursul de schimb valabil la data plăţii, cu titlu de daune materiale şi morale, plus orice sumă care ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă, având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109500",
+  "text_sha256": "f43dcc7edcb77a2d7e79f8cacf1074bd22f46bdd7c43735bdbfb46b749da8664",
+  "catalogue_sha256": "f43dcc7edcb77a2d7e79f8cacf1074bd22f46bdd7c43735bdbfb46b749da8664",
+  "fetched": "2026-11-03T04:51:05Z",
+  "chars": 47861,
+  "portal_id": "109500",
+  "tip": "HOTĂRÂRE"
+ }
+}
