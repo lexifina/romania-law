@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale International Financial Services - IFN - S.A., cu sediul în municipiul București, str. Cultul Patriei nr. 4, sectorul 3, înregistrată la registrul comerțului sub nr. J40/1388/2002, cod unic de înregistrare nr. 14474004, înscrisă în Registrul general la secțiunea a) - "Credite de consum" sub nr. RG-PJR-41-010219. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 7 iulie 2009. Nr. 566. ----
