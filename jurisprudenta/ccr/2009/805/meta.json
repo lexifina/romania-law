@@ -1,0 +1,176 @@
+{
+ "key": "dcc-805-2009",
+ "label": "Decizia CCR nr. 805/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "805",
+ "date": "2009-05-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 805 din 19 mai 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 41 alin. (4) din Legea energiei electrice nr. 13/2007",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "501",
+  "bis": false,
+  "date": "2009-07-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.322/101/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice nr. 13/2007",
+    "number": "13",
+    "year": "2007",
+    "path": "lege/2007/13"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 41 alin. (4) din Legea energiei electrice nr. 13/2007, excepţie ridicată din oficiu de Tribunalul Mehedinţi - Secţia comercială şi de contencios administrativ în Dosarul nr. 2.322/101/2008.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice nr. 13/2007",
+    "number": "13",
+    "year": "2007",
+    "path": "lege/2007/13"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109740",
+  "text_sha256": "78a26323eb8f536cf1082f137b54a5e5fd3616df4b52a4c7c89fc9f3b27d8f0f",
+  "catalogue_sha256": "78a26323eb8f536cf1082f137b54a5e5fd3616df4b52a4c7c89fc9f3b27d8f0f",
+  "fetched": "2026-11-03T04:50:52Z",
+  "chars": 8468,
+  "portal_id": "109740",
+  "tip": "DECIZIE"
+ }
+}
