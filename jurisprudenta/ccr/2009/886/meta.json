@@ -1,0 +1,148 @@
+{
+ "key": "dcc-886-2009",
+ "label": "Decizia CCR nr. 886/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "886",
+ "date": "2009-06-16",
+ "year": "2009",
+ "heading": "DECIZIE nr. 886 din 16 iunie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 146/2007 pentru aprobarea plăţii primelor de concediu de odihnă suspendate în perioada 2001-2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "504",
+  "bis": false,
+  "date": "2009-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.228/84/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 146/2007",
+    "number": "146",
+    "year": "2007",
+    "path": "oug/2007/146"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 146/2007 pentru aprobarea plăţii primelor de concediu de odihnă suspendate în perioada 2001-2006, excepţie ridicată de Doruţ Grec, Dumitru Pop, Marioara Banc, Vasile Berar, Anişoara Bucşa, Florian But, Victoria Deac, Ioan Ghirasin, Maria Hadade, Aurelia Jurj, Rodica Marian, Dănilă Mastan, Alexandru Petrean, Florica Petrean, Lucian Roatiş, Gheorghe Sabou, Rodica Bercian şi Laurenţiu Ciupe în Dosarul nr. 1.228/84/2008 al Curţii de Apel Cluj - Secţia civilă, de muncă şi asigurări sociale, pentru minori şi familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 146/2007",
+    "number": "146",
+    "year": "2007",
+    "path": "oug/2007/146"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109789",
+  "text_sha256": "b458f1ad3d5f286f3e4a176f483f386c2665f77b08d2510656d73b572f37860a",
+  "catalogue_sha256": "b458f1ad3d5f286f3e4a176f483f386c2665f77b08d2510656d73b572f37860a",
+  "fetched": "2026-11-03T04:50:48Z",
+  "chars": 7715,
+  "portal_id": "109789",
+  "tip": "DECIZIE"
+ }
+}
