@@ -1,0 +1,234 @@
+{
+ "key": "dcc-844-2009",
+ "label": "Decizia CCR nr. 844/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "844",
+ "date": "2009-06-02",
+ "year": "2009",
+ "heading": "DECIZIE nr. 844 din 2 iunie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 26 lit. b), art. 34, 35, 43, 44, art. 45 lit. a), art. 47 alin. (4) şi art. 55 alin. (4), (5) şi (6) din Legea concurenţei nr. 21/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "506",
+  "bis": false,
+  "date": "2009-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "979/2/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenţei nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 26 lit. b), art. 34, 35, 43, 44, art. 45 lit. a), art. 47 alin. (4) şi art. 55 alin. (4), (5) şi (6) din Legea concurenţei nr. 21/1996, excepţie ridicată de Societatea Comercială \"Wrigley România\" - S.R.L. Bucureşti în Dosarul nr. 979/2/2006 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenţei nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109809",
+  "text_sha256": "4ff85933f7deddecb4b500b3536bd7edff9fd210723b2afa69045edd8abbd2d5",
+  "catalogue_sha256": "4ff85933f7deddecb4b500b3536bd7edff9fd210723b2afa69045edd8abbd2d5",
+  "fetched": "2026-11-03T04:50:48Z",
+  "chars": 9749,
+  "portal_id": "109809",
+  "tip": "DECIZIE"
+ }
+}
