@@ -1,0 +1,311 @@
+{
+ "key": "dcc-1008-2009",
+ "label": "Decizia CCR nr. 1008/2009",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "1008",
+ "date": "2009-07-07",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.008 din 7 iulie 2009",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 224/2008 pentru modificarea art. 5 alin. (2) din Legea nr. 415/2002 privind organizarea şi funcţionarea Consiliului Suprem de Apărare a Ţării",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "507",
+  "bis": false,
+  "date": "2009-07-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.059A/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 224/2008",
+    "number": "224",
+    "year": "2008",
+    "path": "lege/2008/224"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 415/2002",
+    "number": "415",
+    "year": "2002",
+    "path": "lege/2002/415"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constată că Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 224/2008 pentru modificarea art. 5 alin. (2) din Legea nr. 415/2002 privind organizarea şi funcţionarea Consiliului Suprem de Apărare a Ţării este neconstituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului, precum şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I.",
+  "Dezbaterile au avut loc la datele de 3 iunie 2009, 17 iunie 2009 şi 7 iulie 2009 şi la acestea au participat: Ioan Vida, preşedinte, Nicolae Cochinescu, Aspazia Cojocaru, Acsinte Gaspar, Petre Lăzăroiu, Ion Predescu, Puskf2âs Valentin Zoltân, Tudorel Toader şi Augustin Zegrean, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 224/2008",
+    "number": "224",
+    "year": "2008",
+    "path": "lege/2008/224"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 415/2002",
+    "number": "415",
+    "year": "2002",
+    "path": "lege/2002/415"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "98",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 224/2008",
+    "number": "224",
+    "year": "2008",
+    "path": "oug/2008/224"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 429/2003",
+    "number": "429",
+    "year": "2003",
+    "path": "lege/2003/429"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 43/2006",
+    "number": "43",
+    "year": "2006",
+    "path": "oug/2006/43"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 75/2008",
+    "number": "75",
+    "year": "2008",
+    "path": "oug/2008/75"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109832",
+  "text_sha256": "cab226c9ad4a0530d03b2dc98f69700a58e3e183a78123a49baf84abeccd2e35",
+  "catalogue_sha256": "cab226c9ad4a0530d03b2dc98f69700a58e3e183a78123a49baf84abeccd2e35",
+  "fetched": "2026-11-03T04:50:48Z",
+  "chars": 38022,
+  "portal_id": "109832",
+  "tip": "DECIZIE"
+ }
+}
