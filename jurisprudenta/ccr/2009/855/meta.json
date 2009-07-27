@@ -1,0 +1,267 @@
+{
+ "key": "dcc-855-2009",
+ "label": "Decizia CCR nr. 855/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "855",
+ "date": "2009-06-16",
+ "year": "2009",
+ "heading": "DECIZIE nr. 855 din 16 iunie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordinului ministrului administraţiei şi internelor nr. 496/2003 privind modificarea şi completarea Ordinului nr. 275/2002 pentru aplicarea prevederilor legale referitoare la salarizarea personalului militar şi civil din Ministerul Administraţiei şi Internelor, ale Legii nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii, precum şi ale art. 1, art. 2 şi art. 21 din Legea administraţiei publice locale nr. 215/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "513",
+  "bis": false,
+  "date": "2009-07-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "29.068/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului administraţiei şi internelor nr. 496/2003",
+    "number": "496",
+    "year": "2003"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "lege/1999/138"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor Ordinului ministrului administraţiei şi internelor nr. 496/2003 privind modificarea şi completarea Ordinului nr. 275/2002 pentru aplicarea prevederilor legale referitoare la salarizarea personalului militar şi civil din Ministerul Administraţiei şi Internelor, ale Legii nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii, precum şi ale art. 1, art. 2 şi art. 21 din Legea administraţiei publice locale nr. 215/2001, excepţie ridicată de Administraţia Domeniului Public şi Dezvoltare Urbană Sector 6 Bucureşti în Dosarul nr. 29.068/3/2008 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului administraţiei şi internelor nr. 496/2003",
+    "number": "496",
+    "year": "2003"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/1999",
+    "number": "138",
+    "year": "1999",
+    "path": "lege/1999/138"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 496/2003",
+    "number": "496",
+    "year": "2003"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 63/2003",
+    "number": "63",
+    "year": "2003",
+    "path": "oug/2003/63"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 496/2003",
+    "number": "496",
+    "year": "2003",
+    "path": "oug/2003/496"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109893",
+  "text_sha256": "6be4594651bb4390115e6821393811ef54b9aa390a3b6c6fd1603a2cef48c04f",
+  "catalogue_sha256": "6be4594651bb4390115e6821393811ef54b9aa390a3b6c6fd1603a2cef48c04f",
+  "fetched": "2026-11-04T12:18:46Z",
+  "chars": 18418,
+  "portal_id": "109893",
+  "tip": "DECIZIE"
+ }
+}
