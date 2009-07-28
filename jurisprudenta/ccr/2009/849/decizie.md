@@ -1,0 +1,23 @@
+# DECIZIE nr. 849 din 9 iunie 2009
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 385^14 alin. 1 din Codul de procedură penală
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Ion Predescu - judecător Tudorel Toader - judecător Augustin Zegrean - judecător Iuliana Nedelcu - procuror Fabian Niculae - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 385^14 alin. 1 din Codul de procedură penală, excepţie ridicată de Gheorghe Nyerges în Dosarul nr. 210/322/2008 al Curţii de Apel Braşov - Secţia penală şi pentru cauze cu minori.
+La apelul nominal se constată lipsa autorului excepţiei, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza este în stare de judecată.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate, menţionând jurisprudenţa Curţii Constituţionale în această materie.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 4 februarie 2009, pronunţată în Dosarul nr. 210/322/2008, Curtea de Apel Braşov - Secţia penală şi pentru cauze cu minori a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 385^14 alin. 1 din Codul de procedură penală.
+Excepţia a fost ridicată de Gheorghe Nyerges, inculpat în dosarul menţionat.
+În motivarea excepţiei de neconstituţionalitate se susţine că dispoziţiile legale atacate contravin prevederilor art. 24 alin. (1) din Constituţia României şi ale art. 6 din Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale, deoarece în exercitarea căii de atac a recursului nu se permite administrarea altor probe în afara înscrisurilor noi.
+Instanţa de judecată şi-a exprimat opinia în sensul că excepţia de neconstituţionalitate nu este întemeiată.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că dispoziţiile art. 385^14 alin. 1 din Codul de procedură penală sunt constituţionale.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 385^14 alin. 1 din Codul de procedură penală, dispoziţii ce au următorul conţinut: "Instanţa verifică hotărârea atacată pe baza lucrărilor şi materialului din dosarul cauzei şi a oricăror înscrisuri noi, prezentate la instanţa de recurs." Examinând excepţia de neconstituţionalitate, Curtea constată că s-a mai pronunţat asupra constituţionalităţii dispoziţiilor art. 385^14 din Codul de procedură penală, în întregul său, prin raportare la critici similare. Astfel, prin Decizia nr. 240 din 12 septembrie 2002, publicată în Monitorul Oficial al României, Partea I, nr. 744 din 11 octombrie 2002, Curtea Constituţională a constatat că dispoziţiile legale atacate sunt constituţionale, pentru motivele acolo arătate.
+Întrucât nu au intervenit elemente noi de natură să conducă la schimbarea jurisprudenţei Curţii, atât soluţia, cât şi considerentele deciziei menţionate îşi păstrează valabilitatea şi în cauza de faţă.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 385^14 alin. 1 din Codul de procedură penală, excepţie ridicată de Gheorghe Nyerges în Dosarul nr. 210/322/2008 al Curţii de Apel Braşov - Secţia penală şi pentru cauze cu minori.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 9 iunie 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Fabian Niculae ------------
