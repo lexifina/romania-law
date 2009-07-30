@@ -1,0 +1,138 @@
+{
+ "key": "dcc-856-2009",
+ "label": "Decizia CCR nr. 856/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "856",
+ "date": "2009-06-16",
+ "year": "2009",
+ "heading": "DECIZIE nr. 856 din 16 iunie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Hotărârii Guvernului nr. 548/1999 privind aprobarea Normelor tehnice pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public al comunelor, oraşelor, municipiilor şi judeţelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "524",
+  "bis": false,
+  "date": "2009-07-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.075/281/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 548/1999",
+    "number": "548",
+    "year": "1999",
+    "path": "hg/1999/548"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor Hotărârii Guvernului nr. 548/1999 privind aprobarea Normelor tehnice pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public al comunelor, oraşelor, municipiilor şi judeţelor, excepţie ridicată de Societatea Comercială \"Trash Com\" - S.R.L. din Ploieşti în Dosarul nr. 10.075/281/2008 al Judecătoriei Ploieşti - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 548/1999",
+    "number": "548",
+    "year": "1999",
+    "path": "hg/1999/548"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-07-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/110016",
+  "text_sha256": "c5f5d691a4fc5cbf05cfb797ca5195a98d8bf4aa5169d2f38d0cfdb460bfea60",
+  "catalogue_sha256": "c5f5d691a4fc5cbf05cfb797ca5195a98d8bf4aa5169d2f38d0cfdb460bfea60",
+  "fetched": "2026-11-03T04:50:30Z",
+  "chars": 6628,
+  "portal_id": "110016",
+  "tip": "DECIZIE"
+ }
+}
