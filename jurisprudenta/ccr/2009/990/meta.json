@@ -1,0 +1,162 @@
+{
+ "key": "dcc-990-2009",
+ "label": "Decizia CCR nr. 990/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "990",
+ "date": "2009-06-30",
+ "year": "2009",
+ "heading": "DECIZIE nr. 990 din 30 iunie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor menţiunii de la pct. VI din Anexa la Ordonanţa de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public, provenite din fostul sistem al asigurărilor sociale de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "536",
+  "bis": false,
+  "date": "2009-08-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "24.887/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor menţiunii de la pct. VI din Anexa la Ordonanţa de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public, provenite din fostul sistem al asigurărilor sociale de stat, excepţie ridicată de Natalia Moroşanu în Dosarul nr. 24.887/3/2008 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-08-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/110142",
+  "text_sha256": "039071f53b158f83670e5eb9407891428f8d6410fd3d1441ed5cd21efd5cf875",
+  "catalogue_sha256": "039071f53b158f83670e5eb9407891428f8d6410fd3d1441ed5cd21efd5cf875",
+  "fetched": "2026-11-03T04:50:22Z",
+  "chars": 11628,
+  "portal_id": "110142",
+  "tip": "DECIZIE"
+ }
+}
