@@ -1,0 +1,208 @@
+{
+ "key": "dcc-796-2009",
+ "label": "Decizia CCR nr. 796/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "796",
+ "date": "2009-05-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 796 din 19 mai 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor articolului unic pct. 4 din Legea nr. 232/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 29/2005 pentru modificarea Legii nr. 290/2002 privind organizarea şi funcţionarea unităţilor de cercetare-dezvoltare din domeniile agriculturii, silviculturii, industriei alimentare şi a Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\"",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "540",
+  "bis": false,
+  "date": "2009-08-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.532/54/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 232/2005",
+    "number": "232",
+    "year": "2005",
+    "path": "lege/2005/232"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor articolului unic pct. 4 din Legea nr. 232/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 29/2005 pentru modificarea Legii nr. 290/2002 privind organizarea şi funcţionarea unităţilor de cercetare-dezvoltare din domeniile agriculturii, silviculturii, industriei alimentare şi a Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\", excepţie ridicată de primarul municipiului Craiova în Dosarul nr. 1.532/54/2008 al Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 232/2005",
+    "number": "232",
+    "year": "2005",
+    "path": "lege/2005/232"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 290/2002",
+    "number": "290",
+    "year": "2002",
+    "path": "lege/2002/290"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 525/2004",
+    "number": "525",
+    "year": "2004",
+    "path": "lege/2004/525"
+   },
+   "articles": [
+    {
+     "art": "22-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 29/2005",
+    "number": "29",
+    "year": "2005",
+    "path": "oug/2005/29"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-08-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/110163",
+  "text_sha256": "52515e35c08e3214b07c0e769a4e642b8b05352b751e711829d8df522971d19b",
+  "catalogue_sha256": "52515e35c08e3214b07c0e769a4e642b8b05352b751e711829d8df522971d19b",
+  "fetched": "2026-11-03T04:50:22Z",
+  "chars": 9744,
+  "portal_id": "110163",
+  "tip": "DECIZIE"
+ }
+}
