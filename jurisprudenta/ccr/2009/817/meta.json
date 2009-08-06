@@ -1,0 +1,159 @@
+{
+ "key": "dcc-817-2009",
+ "label": "Decizia CCR nr. 817/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "817",
+ "date": "2009-05-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 817 din 19 mai 2009",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "549",
+  "bis": false,
+  "date": "2009-08-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "587.2/43/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 324 alin. 1 pct. 1 din Codul de procedură civilă, excepţie ridicată de Mircea Fărcăşan în Dosarul nr. 587.2/43/2007 al Curţii de Apel Târgu Mureş - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-08-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/110273",
+  "text_sha256": "42f45d9fa6f15539ed7d2000ff5fb85c749c3b82fa18afbfa1b8af10f38ac2ac",
+  "catalogue_sha256": "42f45d9fa6f15539ed7d2000ff5fb85c749c3b82fa18afbfa1b8af10f38ac2ac",
+  "fetched": "2026-11-06T03:31:45Z",
+  "chars": 5607,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250407013747/https://legislatie.just.ro/Public/DetaliiDocumentAfis/110273",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/110273",
+   "timestamp": "20250407013747",
+   "sha256": "311d550c235dff114a15ef9e02c9f35d70c55d627ca7b611016a2a84a2ff2eb7"
+  },
+  "portal_id": "110273",
+  "tip": "DECIZIE"
+ }
+}
