@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale DODIȚĂ CREDIT IFN - S.A., cu sediul în municipiul Bârlad, str. Weinfeld nr. 2, camera 2, județul Vaslui, înregistrată la registrul comerțului sub nr. J37/476/2006, cod unic de înregistrare nr. 18892255, înscrisă în registrul general la secțiunea k) "Activități multiple de creditare" sub nr. RG-PJR38-110015. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 28 iulie 2009. Nr. 620. ----
