@@ -1,0 +1,202 @@
+{
+ "key": "dcc-868-2009",
+ "label": "Decizia CCR nr. 868/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "868",
+ "date": "2009-06-16",
+ "year": "2009",
+ "heading": "DECIZIE nr. 868 din 16 iunie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 90/2007 pentru completarea art. 9 din Legea nr. 164/2001 privind pensiile militare de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "558",
+  "bis": false,
+  "date": "2009-08-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.838/3/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2007",
+    "number": "90",
+    "year": "2007",
+    "path": "lege/2007/90"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2001",
+    "number": "164",
+    "year": "2001",
+    "path": "lege/2001/164"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 90/2007 pentru completarea art. 9 din Legea nr. 164/2001 privind pensiile militare de stat, excepţie ridicată de Ion Catinca, Constantin Ion, Florin Camen, Anastase Ghiorghişor, Grigore Gheorghiţă, Ion Vochin, Ion Mureşan, Nicolae Stan, Vasile Gherasim, Eftene Şerban, Soare Oneaţă, Gelu Tătaru, Mircea Rusu, Alexandru Ştefan, Constantin Popescu, Mihai Nechita, Dumitru Mazilu, Titi Georgescu, Aurel Rusu, Marin Peta, Eugen Negru, Constantin Dobre, Constantin Enache, Mihalache Turtoi, Ion Pleşa, Ioan Tărcan, Ion Mihai, Ioan Milea şi Amilcar Bloţu în Dosarul nr. 5.838/3/2007 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2007",
+    "number": "90",
+    "year": "2007",
+    "path": "lege/2007/90"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2001",
+    "number": "164",
+    "year": "2001",
+    "path": "lege/2001/164"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-08-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/110414",
+  "text_sha256": "4c4a78a5a8bca9ef881a358d59f934a22289a288e5f02c600cf7adfdf26b5ae7",
+  "catalogue_sha256": "4c4a78a5a8bca9ef881a358d59f934a22289a288e5f02c600cf7adfdf26b5ae7",
+  "fetched": "2026-11-03T04:50:06Z",
+  "chars": 8789,
+  "portal_id": "110414",
+  "tip": "DECIZIE"
+ }
+}
