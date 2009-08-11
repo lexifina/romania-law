@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale MBB LEASING IFN - S.A., cu sediul în municipiul Botoșani, bd. Mihai Eminescu nr. 74, județul Botoșani, înregistrată la registrul comerțului sub nr. J07/58/2004, cod unic de înregistrare nr. 16126111, înscrisă în registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-07-080073. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 28 iulie 2009. Nr. 619. ----
