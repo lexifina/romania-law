@@ -1,0 +1,167 @@
+{
+ "key": "dcc-875-2009",
+ "label": "Decizia CCR nr. 875/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "875",
+ "date": "2009-06-16",
+ "year": "2009",
+ "heading": "DECIZIE nr. 875 din 16 iunie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 47 din Ordonanţa de urgenţă a Guvernului nr. 26/2004 privind unele măsuri pentru finalizarea privatizării societăţilor comerciale aflate în portofoliul Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului şi consolidarea unor privatizări",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "558",
+  "bis": false,
+  "date": "2009-08-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "973/57/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2004",
+    "number": "26",
+    "year": "2004",
+    "path": "oug/2004/26"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 47 din Ordonanţa de urgenţă a Guvernului nr. 26/2004 privind unele măsuri pentru finalizarea privatizării societăţilor comerciale aflate în portofoliul Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului şi consolidarea unor privatizări, excepţie ridicată de Societatea Comercială \"Ateliere Centrale\" - S.A. din Criscior, judeţul Hunedoara, în Dosarul nr. 973/57/2008 al Curţii de Apel Alba Iulia - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2004",
+    "number": "26",
+    "year": "2004",
+    "path": "oug/2004/26"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-08-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/110418",
+  "text_sha256": "11805aca53b4108bf774fd5ea3d1678a26d4a9ec08d5dd321d644d30aab80aa9",
+  "catalogue_sha256": "11805aca53b4108bf774fd5ea3d1678a26d4a9ec08d5dd321d644d30aab80aa9",
+  "fetched": "2026-11-03T04:50:06Z",
+  "chars": 8916,
+  "portal_id": "110418",
+  "tip": "DECIZIE"
+ }
+}
