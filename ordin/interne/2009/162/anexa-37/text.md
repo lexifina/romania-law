@@ -1,0 +1,9 @@
+# Anexa nr. 37
+Anexa 37 ──────── (Anexa nr. 69 la Ordinul nr. 490/2008) ────────────────────────────────────── CENTRUL NAȚIONAL DE PERFECȚIONARE A PREGĂTIRII PENTRU MANAGEMENTUL SITUAȚIILOR DE URGENȚĂ CIOLPANI
+Însemnul heraldic al Centrului Național de Perfecționare a Pregătirii pentru Managementul Situațiilor de Urgență Ciolpani din cadrul Inspectoratului General pentru Situații de Urgență va păstra în compoziție elemente din stema Ministerului Administrației și Internelor, după cum urmează: pe fond negru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei se află un scut tăiat în furcă răsturnată: în cartierul 1, pe roșu, două topoare încrucișate în săritoare, suprapuse de o cască de pompier așezată din profil, dedesubt o grenadă explodând, de la care pornesc în dreapta și stânga ramuri de stejar, totul de argint; în cartierul 2, pe argint, o turtă portocalie, încărcată cu un triunghi albastru, alezat, iar în cartierul 3, pe albastru, o carte deschisă, de argint. În exergă, între două cercuri liniare aurii, legenda scrisă cu litere majuscule, de asemenea, de aur, pe fond negru: * CENTRUL NAȚIONAL DE PERFECȚIONARE A PREGĂTIRII PENTRU MANAGEMENTUL SITUAȚIILOR DE URGENȚĂ CIOLPANI * I.G.S.U. Semnificația elementelor însumate:
+a) casca și topoarele - sunt preluate din însemnele pompierilor militari folosite din a doua jumătate a secolului al XIX-lea;
+b) grenada explodând - amintește de participarea pompierilor militari la Războiul pentru cucerirea Independenței de Stat a României;
+c) ramurile de stejar - forța, puterea; autoritate veche;
+d) cartea - știință, învățământ, individualizând menirea unității;
+e) turta portocalie cu triunghiul albastru, alezat - protecția civilă;
+f) literele I. G. S. U. - sigla Inspectoratului General pentru Situații de Urgență.

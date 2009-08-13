@@ -1,0 +1,8 @@
+# Anexa nr. 35
+Anexa 35 ──────── (Anexa nr. 67 la Ordinul nr. 490/2008) ─────────────────────────────────────── GRUPAREA DE JANDARMI MOBILĂ "FRAȚII BUZEȘTI" CRAIOVA
+Însemnul heraldic al Grupării de Jandarmi Mobile "Frații Buzești" Craiova din cadrul Inspectoratului General al Jandarmeriei Române se prezintă după cum urmează: pe fond albastru, un scut triunghiular, cu marginile rotunjite, roșu, cu o bandă de argint, încărcată cu un arbore smuls, verde, și două stele roșii, având în cartierul superior din stânga un leu rampant, cu coada ridicată și cu vârful acesteia curbat în jos, ținând în laba dreaptă anterioară o spadă, poziționată în bară, în stânga o cruce dispusă în pal, totul de aur, iar în cartierul inferior din dreapta o grenadă aprinsă de argint. În exergă, între două cercuri liniare aurii, pe fond albastru, legenda scrisă cu litere majuscule, de asemenea, aurii: * GRUPAREA DE JANDARMI MOBILĂ * "FRAȚII BUZEȘTI" CRAIOVA. Semnificația elementelor însumate:
+a) banda - protecție, apărare, ordine;
+b) copacul smuls: rădăcinile - colaborarea dintre structuri din țară și din străinătate; trunchiul - pregătirea în comun a unor planuri de acțiune; ramurile - punerea în practică a acțiunilor care, cum se speră, vor produce numeroase fructe;
+c) stelele roșii - oamenii;
+d) leul de aur - un luptător prudent întâmpinat cu onoruri; putere, autoritate, forță, curaj, înțelepciune, energie în serviciul binelui; în cazul de față este armă vorbitoare, făcând legătura cu stema fraților Buzești, întrucât poartă spada și crucea;
+e) grenada aprinsă - jandarmeria; curaj, valoare, dorința de a lupta pentru țară.

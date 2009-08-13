@@ -1,0 +1,5 @@
+# Anexa nr. 2
+Anexa 2 ─────── (Anexa nr. 2 la Ordinul nr. 490/2008) ───────────────────────────────────── APARATUL CENTRAL AL MINISTERULUI ADMINISTRAȚIEI ȘI INTERNELOR
+Însemnul heraldic al unităților aparatului central al Ministerului Administrației și Internelor va păstra în compoziție elemente din stema acestei instituții, după cum urmează: în scut, pe albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei, un alt scut de dimensiuni mai mici, în câmpul căruia, pe albastru, două ramuri de stejar, de aur, încrucișate în talpă, în săritoare, având între ele literele M A I, de același metal. Sub acvilă, pe o eșarfă albă, deviza scrisă cu litere majuscule negre: PRO PATRIA ET ORDINE IURIS (PENTRU PATRIE ȘI ORDINEA DE DREPT). Semnificația elementelor însumate:
+a) literele M A I - sigla Ministerului Administrației și Internelor;
+b) ramurile de stejar încrucișate - forța, puterea și o autoritate veche.

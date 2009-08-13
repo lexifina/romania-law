@@ -1,0 +1,8 @@
+# Anexa nr. 30
+Anexa 30 ──────── (Anexa nr. 62 la Ordinul nr. 490/2008) ────────────────────────────────────── INSPECTORATUL DE JANDARMI JUDEȚEAN CLUJ
+Însemnul heraldic al Inspectoratului de Jandarmi Județean Cluj din cadrul Inspectoratului General al Jandarmeriei Române va păstra în compoziție elemente din stema Ministerului Administrației și Internelor, după cum urmează: pe fond albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei, un alt scut de dimensiuni mai mici, tăiat în furcă: în primul cartier, pe albastru, un romb de argint, ieșind dintr-o cunună compusă din trei frunze de stejar de aur, având în centru litera J stilizată, scrisă cu negru; în cartierul al doilea, pe roșu, o carte deschisă de argint, iar în cartierul al treilea, pe verde, un snop de spice de grâu, de aur. În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: LEX ET ORDO (LEGE ȘI ORDINE). În exergă, între două cercuri liniare aurii, pe fond albastru, legenda scrisă cu litere majuscule, de asemenea, aurii: * INSPECTORATUL DE JANDARMI JUDEȚEAN * CLUJ. Semnificația elementelor însumate:
+a) rombul - viață, prosperitate, recompensă, cântece de laudă;
+b) litera J - sigla care desemnează încă din secolul al XIX-lea Jandarmeria Română;
+c) cununa din frunze de stejar - forță, putere, autoritate veche;
+d) cartea - știință, învățământ, cunoaștere; element care se regăsește în stema actuală a județului unde unitatea își desfășoară activitatea;
+e) snopul de spice - element heraldic din domeniul florei, preluat din vechea stemă a județului Cluj.

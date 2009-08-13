@@ -1,0 +1,8 @@
+# Anexa nr. 31
+Anexa 31 ──────── (Anexa nr. 63 la Ordinul nr. 490/2008) ────────────────────────────────────── INSPECTORATUL DE JANDARMI JUDEȚEAN OLT
+Însemnul heraldic al Inspectoratului de Jandarmi Județean Olt din cadrul Inspectoratului General al Jandarmeriei Române va păstra în compoziție elemente din stema Ministerului Administrației și Internelor, după cum urmează: pe fond albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei, un alt scut de dimensiuni mai mici, albastru, despicat de un pal subțire, ondulat, de argint, având, în cartierul din dreapta, un romb de argint, ieșind dintr-o cunună compusă din trei frunze de stejar de aur, purtând în centru litera J stilizată, scrisă cu negru, iar în cartierul din stânga, un turn cu șase creneluri, de argint, rostuit și deschis negru, cu trei ferestre, dispuse 2:1, ajurate de aceeași culoare. În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: LEX ET ORDO (LEGE ȘI ORDINE). În exergă, între două cercuri liniare aurii, pe fond albastru, legenda scrisă cu litere majuscule, de asemenea, aurii: * INSPECTORATUL DE JANDARMI JUDEȚEAN * OLT. Semnificația elementelor însumate:
+a) rombul - viață, prosperitate, recompensă, cântece de laudă;
+b) litera J - sigla care desemnează încă din secolul al XIX-lea Jandarmeria Română;
+c) cununa din frunze de stejar - forță, putere, autoritate veche;
+d) palul ondulat - râul Olt care trece prin județul cu același nume;
+e) turnul crenelat - protecție; element care face referire la stema județului Olt, pe teritoriul căruia unitatea își desfășoară activitatea.
