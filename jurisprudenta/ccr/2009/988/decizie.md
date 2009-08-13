@@ -1,0 +1,24 @@
+# DECIZIE nr. 988 din 30 iunie 2009
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 455 alin. 1 raportat la art. 453 alin. 1 lit. b) din Codul de procedură penală
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Augustin Zegrean - judecător Iuliana Nedelcu - procuror Fabian Niculae - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 455 alin. 1 raportat la art. 453 alin. 1 lit. b) din Codul de procedură penală, excepţie ridicată de Angela Eva Melaş în Dosarul P nr. 366/226/2009 al Judecătoriei Făgăraş.
+La apelul nominal se constată lipsa părţilor, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza este în stare de judecată.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 23 februarie 2009, pronunţată în Dosarul P nr. 366/226/2009, Judecătoria Făgăraş a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 455 alin. 1 raportat la art. 453 alin. 1 lit. b) din Codul de procedură penală.
+Excepţia a fost ridicată de Angela Eva Melaş, petentă în dosarul menţionat.
+În motivarea excepţiei de neconstituţionalitate se susţine că dispoziţiile legale atacate contravin prevederilor art. 49 alin. (1) din Constituţia României privind protecţia copiilor şi tinerilor, deoarece exclud de la posibilitatea întreruperii pedepsei femeile care au copii mai mari de un an şi instituie în felul acesta o discriminare cu privire la drepturile şi obligaţiile recunoscute de lege femeilor care au copii.
+Judecătoria Făgăraş şi-a exprimat opinia în sensul că excepţia de neconstituţionalitate nu este întemeiată.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Avocatul Poporului consideră că dispoziţiile art. 455 alin. 1 raportat la art. 453 alin. 1 lit. b) din Codul de procedură penală sunt constituţionale.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 455 alin. 1, raportat la art. 453 alin. 1, lit. b) din Codul de procedură penală, dispoziţii ce au următorul conţinut: - art. 455 alin. 1: "Executarea pedepsei închisorii sau a detenţiunii pe viaţă poate fi întreruptă în cazurile şi în condiţiile prevăzute în art. 453, la cererea persoanelor arătate în alin. 2 al aceluiaşi articol."; - art. 453 alin. 1 lit. b): "Executarea pedepsei închisorii sau a detenţiunii pe viaţă poate fi amânată în următoarele cazuri: [...]
+b) când o condamnată este gravidă sau are un copil mai mic de un an. În aceste cazuri, executarea pedepsei se amână până la încetarea cauzei care a determinat amânarea;"
+Din examinarea excepţiei de neconstituţionalitate, aşa cum a fost formulată, reiese că autoarea excepţiei solicită, de fapt, completarea dispoziţiilor legale criticate. Or, potrivit art. 2 alin. (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, aceasta se pronunţă numai asupra constituţionalităţii actelor cu privire la care a fost sesizată, fără a putea modifica sau completa prevederile supuse controlului.
+Pentru motivele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 455 alin. 1 raportat la art. 453 alin. 1 lit. b) din Codul de procedură penală, excepţie ridicată de Angela Eva Melaş în Dosarul P nr. 366/226/2009 al Judecătoriei Făgăraş.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 30 iunie 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Fabian Niculae __________
