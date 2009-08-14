@@ -1,0 +1,214 @@
+{
+ "key": "dcc-932-2009",
+ "label": "Decizia CCR nr. 932/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "932",
+ "date": "2009-06-23",
+ "year": "2009",
+ "heading": "DECIZIE nr. 932 din 23 iunie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordinului nr. 340/2001 al ministrului muncii şi solidarităţii sociale pentru aprobarea Normelor de aplicare a prevederilor Legii nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, cu modificările şi completările ulterioare, ale Ordinului nr. 50/1990 al ministrului muncii şi protecţiei sociale pentru precizarea locurilor de muncă, activităţilor şi categoriilor profesionale cu condiţii deosebite care se încadrează în grupele I şi II de muncă în vederea pensionării şi ale art. 48^2 alin. (2) şi art. 167^1 alin. (5) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "567",
+  "bis": false,
+  "date": "2009-08-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "433/95/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 340/2001",
+    "number": "340",
+    "year": "2001"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "48-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "167-1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Ordinului nr. 340/2001 al ministrului muncii şi solidarităţii sociale pentru aprobarea Normelor de aplicare a prevederilor Legii nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, cu modificările şi completările ulterioare, ale Ordinului nr. 50/1990 al ministrului muncii şi protecţiei sociale pentru precizarea locurilor de muncă, activităţilor şi categoriilor profesionale cu condiţii deosebite care se încadrează în grupele I şi II de muncă în vederea pensionării şi ale art. 48^2 alin. (2) şi art. 167^1 alin. (5) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, excepţie ridicată de Gheorghe Nistoran în Dosarul nr. 433/95/2009 al Tribunalului Gorj - Secţia conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 340/2001",
+    "number": "340",
+    "year": "2001"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "48-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "167-1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului muncii şi solidarităţii sociale nr. 340/2001",
+    "number": "340",
+    "year": "2001"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului muncii şi protecţiei sociale nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-08-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/110505",
+  "text_sha256": "6dd927d204d25bdc1b659bae3f1bc688a3f42aff490ca5007fba7c263904e19d",
+  "catalogue_sha256": "6dd927d204d25bdc1b659bae3f1bc688a3f42aff490ca5007fba7c263904e19d",
+  "fetched": "2026-11-03T04:50:01Z",
+  "chars": 9447,
+  "portal_id": "110505",
+  "tip": "DECIZIE"
+ }
+}
