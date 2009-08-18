@@ -1,0 +1,239 @@
+{
+ "key": "dcc-1005-2009",
+ "label": "Decizia CCR nr. 1005/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1005",
+ "date": "2009-07-07",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.005 din 7 iulie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "575",
+  "bis": false,
+  "date": "2009-08-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.813/107/2008",
+  "1.473D/2009",
+  "1.629D/2009",
+  "1.631D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în dosarele nr. 7.813/107/2008, nr. 7.821/107/2008, nr. 7.822/107/2008, nr. 7.869/107/2008, nr. 7.876/107/2008, nr. 7.877/107/2008, nr. 7.870/107/2008, nr. 7.865/107/2008, nr. 7.883/107/2008, nr. 7.850/107/2008, nr. 7.872/107/2008, nr. 5.202/107/2008, nr. 7.820/107/2008, nr. 7.867/107/2008, nr. 5.267/107/2008, nr. 5.274/107/2008, nr. 5.242/107/2008, nr. 5.193/107/2008, nr. 5.221/107/2008 şi nr. 5.219/107/2008 ale Tribunalului Alba - Secţia civilă, nr. 16.702/63/2008 al Tribunalului Mehedinţi - Secţia conflicte de muncă şi asigurări sociale, nr. 952/87/2009, nr. 4.763/87/2008, nr. 4.895/87/2008, nr. 4.933/87/2008, nr. 951/87/2009, nr. 1.409/87/2009, nr. 3349.1/87/2007, nr. 4.755/87/2008, nr. 3.540/87/2008, nr. 2.742/87/2008, nr. 4.761/87/2008, nr. 4.888/87/2008 şi nr. 1.287/87/2009 ale Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale şi contencios administrativ şi fiscal şi nr. 5.054/107/2008, nr. 5.107/107/2008, nr. 5.044/107/2008, 5.063/107/2008, nr. 3.349/107/2008, nr. 3.385/107/2008, nr. 5.052/107/2008, nr. 5.075/107/2008, nr. 5.091/107/2008, nr. 5.092/107/2008 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale, nr. 1.811/95/2009, nr. 1.898/95/2009, nr. 2.015/95/2009, nr. 1.834/95/2009, nr. 2.419/95/2009, nr. 1.542/95/2009, nr. 2.452/95/2009, nr. 1.874/95/2009, nr. 49/95/2009, nr. 1.674/95/2009, nr. 13.690/95/2008, nr. 2.523/95/2009, nr. 1.170/95/2009, nr. 14.398/95/2008, nr. 1.213/95/2009, nr. 2.644/95/2009, nr. 1.211/95/2009, 2.507/95/2009, 2.525/95/2009, nr. 1.864/95/2009, nr. 1.209/95/2009, nr. 2.513/95/2009, nr. 2.511/95/2009, nr. 1.191/95/2009, nr. 16.686/95/2008, nr. 14.773/95/2008, nr. 2.601/95/2009, nr. 2.520/95/2009, nr. 54/95/2009, nr. 2.763/95/2009, nr. 55/95/2009, nr. 1.550/95/2009 şi nr. 2.183/95/2009, ale Tribunalului Gorj - Secţia conflicte de muncă şi asigurări sociale, nr. 5.051/107/2008, nr. 3.347/107/2008, nr. 3.351/107/2008, nr. 3.397/107/2008, nr. 3.350/107/2008, nr. 3.365/107/2008, nr. 3.381/107/2008, nr. 7.195/107/2008, nr. 4.988/107/2008, nr. 5.030/107/2008, nr. 5.042/107/2008, nr. 5.023/107/2008, nr. 5.034/107/2008, nr. 5.586/107/2008, nr. 3.334/107/2008, nr. 3.338/107/2008, nr. 3.366/107/2008, nr. 3.370/107/2008, nr. 3.393/107/2008, nr. 3.321/107/2008, nr. 3.356/107/2008, nr. 3.402/107/2008, nr. 5.007/107/2008, nr. 3.339/107/2008, nr. 5.003/107/2008, nr. 5.573/107/2008, nr. 3.383/107/2008, nr. 5.062/107/2008, nr. 3.329/107/2008, nr. 3.403/107/2008, nr. 5.101/107/2008, nr. 5.031/107/2008, nr. 3.358/107/2008, nr. 3.377/107/2008, nr. 3.320/107/2008, nr. 5.028/107/2008, nr. 4.994/107/2008, nr. 5.074/107/2008, nr. 4.991/107/2008, nr. 5.095/107/2008 şi nr. 5.067/107/2008 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale, nr. 7.696/30/2008, nr. 7.776/30/2008, nr. 7.163/30/2008, nr. 7.787/30/2008, nr. 7.672/30/2008, nr. 4.341/108/2008, nr. 4.468/108/2008, nr. 4.338/108/2008, nr. 4.524/108/2008, nr. 4.048/108/2008, nr. 3.728/108/2008, nr. 4.466/108/2008, nr. 4.046/108/2008, nr. 7.184/30/2008, nr. 7.204/30/2008, nr. 7.212/30/2008, nr. 7.201/30/2008, nr. 7.809/30/2008, nr. 7.180/30/2008, nr. 7.742/30/2008, nr. 7.749/30/2008, nr. 4.519/108/2008, nr. 7.773/30/2008, nr. 7.686/30/2008, nr. 7.338/30/2008, nr. 8.706/30/2008, nr. 7.812/30/2008, nr. 7.697/30/2008, nr. 7.800/30/2008 şi nr. 7.732/30/2008 ale Curţii de Apel Timişoara - Secţia litigii de muncă şi asigurări sociale, nr. 3.303/113/2008 al Tribunalului Brăila - Secţia civilă, nr. 8.516/86/2008 şi nr. 363/86/2009 ale Tribunalului Suceava - Secţia civilă, nr. 5.910/97/2008 al Tribunalului Hunedoara - Secţia litigii de muncă şi asigurări sociale, nr. 7.230/110/2008 şi nr. 6.890/110/2008 ale Tribunalului Bacău - Secţia civilă, nr. 15.698/63/2008 al Tribunalului Dolj - Secţia conflicte de muncă şi asigurări sociale, şi, respectiv, de către Societatea Comercială \"Petrom\" - S.A. din Bucureşti şi Societatea Comercială \"PSV Company\" - S.A. din Bucureşti în dosarele nr. 1.873/87/2008, nr. 1.808/87/2008, nr. 1.328/87/2009, nr. 2.374/87/2008, nr. 1.359/87/2009, nr. 4.580/87/2008, nr. 1.017/87/2009, nr. 4.890/87/2008, nr. 3.599/87/2008, nr. 2.943/87/2008, nr. 3.921/87/2008, nr. 5.037/87/2008, nr. 2.861/87/2008, nr. 4.502/87/2008, nr. 815/87/2009, nr. 262/87/2009, nr. 3.411/87/2008 ale Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal, nr. 5.297/104/2008, nr. 4.109/104/2008, nr. 4.968/104/2008, nr. 4.107/104/2008, nr. 3.915/104/2008, nr. 4.097/104/2008, nr. 4.102/104/2008, nr. 4.920/104/2008, nr. 3.702/104/2008, nr. 370/104/2009, nr. 638/104/2009, nr. 5.278/104/2008, nr. 5.324/104/2008, nr. 4.989/104/2008, nr. 5.008/104/2008, nr. 4.916/104/2008, nr. 5.385/104/2008, nr. 508/104/2009, nr. 4.474/104/2008, nr. 4.467/104/2008, nr. 443/104/2009, nr. 4.638/104/2008, nr. 3.937/104/2008, nr. 3.867/104/2008, nr. 509/104/2009 şi nr. 417/104/2009 ale Tribunalului Olt - Secţia civilă, şi de către Societatea Comercială \"PSV Company\"- S.A. din Bucureşti în Dosarul nr. 1.984/87/2008 al Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal, şi în dosarele nr. 234/104/2009, nr. 778/104/2009, nr. 4.967/104/2008, nr. 224/104/2009, nr. 225/104/2009, nr. 223/104/2009, nr. 236/104/2009, nr. 471/104/2009, nr. 5.459/104/2008 şi nr. 1.188/109/2008 ale Tribunalului Olt - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-08-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/110589",
+  "text_sha256": "6b92502fa83dcbd888bb9b09a858cd8144996c0f25bfcc66d0d8fc8931b68005",
+  "catalogue_sha256": "6b92502fa83dcbd888bb9b09a858cd8144996c0f25bfcc66d0d8fc8931b68005",
+  "fetched": "2026-11-03T04:49:56Z",
+  "chars": 34273,
+  "portal_id": "110589",
+  "tip": "DECIZIE"
+ }
+}
