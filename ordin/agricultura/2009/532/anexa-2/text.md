@@ -1,0 +1,19 @@
+# Anexa nr. 2 (Anexa nr. 3 la Ordinul nr. 102/2009)
+Direcția pentru Agricultură și Dezvoltare Rurală a Județului..............
+Director coordonator,..................... (numele și prenumele)..................... (semnătura)
+AVIZ PREALABIL
+Nr.........../...........
+În baza procesului-verbal întocmit de comisia prevăzută la alin. (2^2) al art. 2 din Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 102/2009 pentru aprobarea tipurilor de investiții și a plafoanelor maxime ale creditelor ce se acordă în anul 2009, în condițiile Legii nr. 231/2005 privind stimularea investițiilor în agricultură, industrie alimentară, silvicultură, piscicultură, precum și în activități nonagricole, cu modificările și completările ulterioare, și a documentelor depuse de............(nume sau denumire), din localitatea............ (domiciliul sau sediul social), în nume propriu/prin doamna/domnul........, în calitate de reprezentant legal, pentru achiziționarea materialului biologic pentru popularea fermei de......., se constată că sunt îndeplinite următoarele condiții: - se încadrează în categoria de beneficiar al Legii nr. 231/2005 privind stimularea investițiilor în agricultură, industrie alimentară, silvicultură, piscicultură, precum și în activități nonagricole, cu modificările și completările ulterioare, fiind..................;
+- dimensiunea exploatațiilor pentru care solicită credit este de.........;
+- beneficiarul a absolvit sau va absolvi o formă de pregătire profesională în domeniul creșterii animalelor;
+- beneficiarul deține/va deține (are în construcție)/are contractat proiect de construcție și modernizare pentru adăpost corespunzător tehnologiei de creștere și normelor de densitate aferente efectivului de animale pentru care se solicită creditul, condiție verificată pe teren de comisia prevăzută la alin. (2^2) al art. 2 din Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 102/2009, cu modificările și completările ulterioare;
+- beneficiarul se angajează că la populare va obține avizul Agenției Naționale pentru Ameliorare și Reproducție în Zootehnie.
+Față de cele prezentate, se certifică îndeplinirea condițiilor pentru achiziționarea de material biologic pentru o singură populare a fermelor, prevăzute la lit. B(1) din anexa nr. 2 la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 102/2009, cu modificările și completările ulterioare.
+Director coordonator adjunct - domeniu implementare producție vegetală și zootehnie
+Numele și prenumele................................
+Semnătura..........................................
+Întocmit
+Compartiment implementare politici și execuție programe în zootehnie
+Numele și prenumele................
+Semnătura..........................
+-----
