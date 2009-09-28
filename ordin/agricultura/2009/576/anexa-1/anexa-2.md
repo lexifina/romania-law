@@ -1,0 +1,8 @@
+# Anexa nr. 2 la anexa nr. 1
+Anexa 2 la metodologie Model de cerere pentru atestarea persoanelor fizice Nr..... din......... Domnule președinte, Subsemnatul/Subsemnata,........................, născut/născută la data de................ în localitatea..............., județul..........., țara............, având cetățenia............, domiciliat/domiciliată în localitatea.................., str............ nr....., bl....., et...., ap..., județul/sectorul.........., țara........., posesor/posesoare al/a diplomei de inginer în specializarea................... nr....., eliberată de.............., din localitatea................, promoția......., țara............, solicit atestarea în calitate de persoană fizică în domeniul proiectării de drumuri forestiere, în conformitate cu prevederile Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 576/2009 pentru aprobarea Metodologiei, criteriilor de atestare și a Comisiei de atestare a persoanelor fizice și juridice care realizează proiectarea de drumuri forestiere. În susținerea cererii anexez următoarele:
+a) curriculum vitae;
+b) lista lucrărilor realizate în domeniul proiectării de drumuri forestiere;
+c) acte de studii, în copie;
+d) extras de pe carnetul de muncă;
+e) certificatul de cazier judiciar.
+Menționez că îmi desfășor activitatea la............., cu sediul în localitatea..........., țara..........., având calitatea de................... Declar că am luat cunoștință de obligațiile ce îmi revin potrivit Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 576/2009. Data................................... (semnătura) Domnului președinte al Comisiei de atestare a persoanelor fizice și juridice care realizează proiectarea de drumuri forestiere
