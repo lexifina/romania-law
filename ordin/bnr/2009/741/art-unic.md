@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale LEASING ROM IFN - S.A., cu sediul în comuna Sânmartin, satul Sânmartin nr. 211, județul Bihor, înregistrată la registrul comerțului sub nr. J05/705/1998, cod unic de înregistrare nr. 10796600, înscrisă în registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-05-080190. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 15 septembrie 2009. Nr. 741. -------
