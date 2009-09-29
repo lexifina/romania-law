@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale EURO VICTORIA LEASING IFN - S.A., cu sediul în municipiul Giurgiu, Str. Portului (Zona Liberă Giurgiu) nr. 1, județul Giurgiu, înregistrată la registrul comerțului sub nr. J52/237/1999, cod unic de înregistrare nr. 12475240, înscrisă în registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-19-080206. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 15 septembrie 2009. Nr. 742. -------
