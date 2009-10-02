@@ -1,0 +1,245 @@
+{
+ "key": "dcc-1036-2009",
+ "label": "Decizia CCR nr. 1036/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1036",
+ "date": "2009-07-09",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.036 din 9 iulie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "654",
+  "bis": false,
+  "date": "2009-10-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.401/107/2008",
+  "2.220D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială Petrom - S.A. din Bucureşti în dosarele nr. 4.401/107/2008, nr. 5.085/107/2008, nr. 5.580/107/2008, nr. 5.029/107/2008, nr. 5.098/107/2008, nr. 5.094/107/2008, nr. 5.065/107/2008, nr. 5.004/107/2008, nr. 4.999/107/2008, nr. 5.015/107/2008, nr. 6.289/107/2008, nr. 5.035/107/2008, nr. 5.021/107/2008, nr. 4.997/107/2008, nr. 5.058/107/2008, nr. 5.064/107/2008, nr. 6.020/107/2008, nr. 4.982/107/2008, nr. 6.023/107/2008, nr. 5.110/107/2008, nr. 5.053/107/2008, nr. 4.983/107/2008, nr. 5.049/107/2008, nr. 5.016/107/2008, nr. 5.090/107/2008, nr. 5.070/107/2008, nr. 5.038/107/2008 şi nr. 5.040/107/2008 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale, nr. 5.209/107/2008, nr. 7.851/107/2008, nr. 7.848/107/2008, nr. 5.248/107/2008, nr. 5.253/107/2008, nr. 5.305/107/2008, nr. 5.288/107/2008, nr. 7.749/107/2008, nr. 5.269/107/2008, nr. 7.755/107/2008, nr. 7.854/107/2008, nr. 7.738/107/2008, nr. 5.213/107/2008, nr. 5.283/107/2008, nr. 7.858/107/2008, nr. 6.288/107/2008, nr. 5.207/107/2008, nr. 5.185/107/2008, nr. 5.303/107/2008, nr. 5.294/107/2008, nr. 5.259/107/2008, nr. 5.291/107/2008, nr. 7.321/107/2008, nr. 5.281/107/2008, nr. 5.490/107/2008, nr. 7.866/107/2008, nr. 5.592/107/2008, nr. 7.864/107/2008, nr. 5.282/107/2008, nr. 7.809/107/2008, nr. 7.807/107/2008, nr. 7.325/107/2008, nr. 7.802/107/2008, nr. 5.215/107/2008, nr. 5.184/107/2008, nr. 5.302/107/2008 şi nr. 5.059/107/2008 ale Tribunalului Alba - Secţia civilă, nr. 2.786/113/2008, nr. 298/113/2009 şi nr. 299/113/2009 ale Tribunalului Brăila - Secţia civilă şi nr. 8.295/97/2008 al Tribunalului Hunedoara - Secţia litigii de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/111829",
+  "text_sha256": "9f840201c6609c05bfe060765672b5675c02dd31b4c6a69a3234716fa819ae09",
+  "catalogue_sha256": "9f840201c6609c05bfe060765672b5675c02dd31b4c6a69a3234716fa819ae09",
+  "fetched": "2026-11-03T04:48:46Z",
+  "chars": 15116,
+  "portal_id": "111829",
+  "tip": "DECIZIE"
+ }
+}
