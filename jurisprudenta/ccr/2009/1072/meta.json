@@ -1,0 +1,179 @@
+{
+ "key": "dcc-1072-2009",
+ "label": "Decizia CCR nr. 1072/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1072",
+ "date": "2009-09-08",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.072 din 8 septembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 571/2003 privind Codul fiscal, ale Legii nr. 163/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2004 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi ale Legii nr. 343/2006 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "654",
+  "bis": false,
+  "date": "2009-10-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "45.299/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 163/2005",
+    "number": "163",
+    "year": "2005",
+    "path": "lege/2005/163"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 343/2006",
+    "number": "343",
+    "year": "2006",
+    "path": "lege/2006/343"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor Legii nr. 571/2003 privind Codul fiscal, ale Legii nr. 163/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 138/2004 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi ale Legii nr. 343/2006 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, excepţie ridicată de Mihai Doru Băjan în Dosarul nr. 45.299/3/2008 al Tribunalului Bucureşti - Secţia a IX-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 163/2005",
+    "number": "163",
+    "year": "2005",
+    "path": "lege/2005/163"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 343/2006",
+    "number": "343",
+    "year": "2006",
+    "path": "lege/2006/343"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/111830",
+  "text_sha256": "2bfff31435115ed1da381f5dc5e2028db30ab3c6fff99ea6434cb9e516b81865",
+  "catalogue_sha256": "2bfff31435115ed1da381f5dc5e2028db30ab3c6fff99ea6434cb9e516b81865",
+  "fetched": "2026-11-03T04:48:46Z",
+  "chars": 8881,
+  "portal_id": "111830",
+  "tip": "DECIZIE"
+ }
+}
