@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale ALT VEST LEASING IFN - S.A., cu sediul în Arad, str. Nicolae Grigorescu nr. 4-6, sc. B, ap. 18, județul Arad, înregistrată la registrul comerțului sub nr. J02/14/2009, cod unic de înregistrare nr. 24938730, înscrisă în Registrul general la secțiunea h) - "Leasing financiar" sub nr. RG-PJR-02-080256. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 25 septembrie 2009. Nr. 766. ----------
