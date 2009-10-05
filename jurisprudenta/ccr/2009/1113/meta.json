@@ -1,0 +1,203 @@
+{
+ "key": "dcc-1113-2009",
+ "label": "Decizia CCR nr. 1113/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1113",
+ "date": "2009-09-10",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.113 din 10 septembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 278 alin. 1, art. 278^1 alin. 7 şi alin. 8 lit. a), precum şi ale art. 403 alin. 3 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "661",
+  "bis": false,
+  "date": "2009-10-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.066/331/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": [
+      "7",
+      "8"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "403",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 278 alin. 1, art. 278^1 alin. 7 şi alin. 8 lit. a), precum şi ale art. 403 alin. 3 din Codul de procedură penală, excepţie ridicată de Magdalena Petrescu în Dosarul nr. 2.066/331/2008 al Tribunalului Prahova - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": [
+      "7",
+      "8"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "403",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/111914",
+  "text_sha256": "52dc6c4ec85d7a690f8e54c11dfaab2f7e1ad24fe0d595991ea1289276a75086",
+  "catalogue_sha256": "52dc6c4ec85d7a690f8e54c11dfaab2f7e1ad24fe0d595991ea1289276a75086",
+  "fetched": "2026-11-03T04:48:38Z",
+  "chars": 7370,
+  "portal_id": "111914",
+  "tip": "DECIZIE"
+ }
+}
