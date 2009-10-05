@@ -1,0 +1,243 @@
+{
+ "key": "dcc-1026-2009",
+ "label": "Decizia CCR nr. 1026/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1026",
+ "date": "2009-07-09",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.026 din 9 iulie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 alin. (1) şi (2) din Legea contenciosului administrativ nr. 554/2004 şi ale art. II alin. (2) şi art. III din Legea nr. 262/2007 pentru modificarea şi completarea Legii contenciosului administrativ nr. 554/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "661",
+  "bis": false,
+  "date": "2009-10-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "89/226/2008",
+  "767D/2009",
+  "6.801/2/2007",
+  "902D/2009",
+  "4.369/30/2008",
+  "903D/2009",
+  "9.030/55/2008",
+  "1.074D/2009",
+  "26/33/2009",
+  "1.525D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 262/2007",
+    "number": "262",
+    "year": "2007",
+    "path": "lege/2007/262"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 4 alin. (1) şi (2) din Legea contenciosului administrativ nr. 554/2004 şi ale art. II alin. (2) şi art. III din Legea nr. 262/2007 pentru modificarea şi completarea Legii contenciosului administrativ nr. 554/2004, excepţie ridicată de Staţiunea de Cercetare-Dezvoltare pentru Creşterea Bubalinelor Şercaia, judeţul Braşov, în Dosarul nr. 89/226/2008 al Curţii de Apel Braşov - Secţia contencios administrativ şi fiscal, din oficiu de Curtea de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal în Dosarul nr. 6.801/2/2007, de Niculina Beloia în Dosarul nr. 4.369/30/2008 al Curţii de Apel Timişoara - Secţia contencios administrativ şi fiscal, de Faur Nistor Isai în Dosarul nr. 9.030/55/2008 al Curţii de Apel Timişoara - Secţia contencios administrativ şi fiscal, de Societatea Comercială \"Unita Turism Holding\" - S.A. - Sucursala Transilvania Cluj în Dosarul nr. 26/33/2009 al Curţii de Apel Cluj - Secţia comercială şi de contencios administrativ şi fiscal şi de Societatea Comercială \"Transporturi Auto\" - S.A. din Suceava în Dosarul nr. 1.653/314/2007 al Curţii de Apel Suceava - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 262/2007",
+    "number": "262",
+    "year": "2007",
+    "path": "lege/2007/262"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/111912",
+  "text_sha256": "11414a8ad7c33203ac066b26721e41ed01d98070a5816fea9e81e2aed525c6dd",
+  "catalogue_sha256": "11414a8ad7c33203ac066b26721e41ed01d98070a5816fea9e81e2aed525c6dd",
+  "fetched": "2026-11-05T14:52:29Z",
+  "chars": 16519,
+  "portal_id": "111912",
+  "tip": "DECIZIE"
+ }
+}
