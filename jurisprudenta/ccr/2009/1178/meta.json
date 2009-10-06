@@ -1,0 +1,156 @@
+{
+ "key": "dcc-1178-2009",
+ "label": "Decizia CCR nr. 1178/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1178",
+ "date": "2009-09-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.178 din 17 septembrie 2009",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "665",
+  "bis": false,
+  "date": "2009-10-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.104/3/2009",
+  "1.316D/2009",
+  "1.315D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 4 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule, precum şi a ordonanţei de urgenţă în ansamblul său, excepţie ridicată din oficiu de Tribunalul Bucureşti - Secţia a IX-a contencios administrativ şi fiscal în dosarele nr. 2.104/3/2009 şi nr. 150/3/2009.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/111865",
+  "text_sha256": "2a7c7a1413dc829fc6baeb1e6f8b376b5a70b098d6c7272dfcd8b6c4cd2a1a6d",
+  "catalogue_sha256": "2a7c7a1413dc829fc6baeb1e6f8b376b5a70b098d6c7272dfcd8b6c4cd2a1a6d",
+  "fetched": "2026-11-06T03:30:02Z",
+  "chars": 7166,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/111865",
+   "timestamp": "20250614025029",
+   "crawl": "CC-MAIN-2025-26",
+   "filename": "crawl-data/CC-MAIN-2025-26/segments/1749709481300.24/warc/CC-MAIN-20250614003922-20250614033922-00808.warc.gz",
+   "offset": "319161608",
+   "length": "13510",
+   "sha256": "1eced8ac526907bae137abe07249e88c679806d107d42d95b5f23c096d697e51"
+  },
+  "portal_id": "111865",
+  "tip": "DECIZIE"
+ }
+}
