@@ -1,0 +1,216 @@
+{
+ "key": "dcc-1098-2009",
+ "label": "Decizia CCR nr. 1098/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1098",
+ "date": "2009-09-08",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.098 din 8 septembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Ordonanţa de urgenţă a Guvernului nr. 160/2000 privind salarizarea controlorilor financiari din cadrul Curţii de Conturi şi ale art. 1 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 146/2007 pentru aprobarea plăţii primelor de concediu de odihnă suspendate în perioada 2001-2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "678",
+  "bis": false,
+  "date": "2009-10-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "978/112/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 160/2000",
+    "number": "160",
+    "year": "2000",
+    "path": "oug/2000/160"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 146/2007",
+    "number": "146",
+    "year": "2007",
+    "path": "oug/2007/146"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Ordonanţa de urgenţă a Guvernului nr. 160/2000 privind salarizarea controlorilor financiari din cadrul Curţii de Conturi şi ale art. 1 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 146/2007 pentru aprobarea plăţii primelor de concediu de odihnă suspendate în perioada 2001-2006, excepţie ridicată de Titus Mihail Păştean, Cornel Ciobăncan, Margarita Bungărdean, Ioan Grigore, Mihai Marcu, Maria Neculai, Ileana Moruţan, Simion Mureşan, Mariana Nath, Marin Neagoie, Ioan Palfi, Mircea Ioan Rapan, Sztankovszky Zoltan Arpad, Cornelia Todoaşcă, Marin Vîrvoreanu, Ioan Vlad şi Veturia Bugnaru în Dosarul nr. 978/112/2008 al Curţii de Apel Cluj - Secţia civilă, de muncă şi asigurări sociale pentru minori şi familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 160/2000",
+    "number": "160",
+    "year": "2000",
+    "path": "oug/2000/160"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 146/2007",
+    "number": "146",
+    "year": "2007",
+    "path": "oug/2007/146"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112092",
+  "text_sha256": "dc866dcaa0413a55e7b9600c8cc13d6b228e79d3a437da8f43ded064d97d85b8",
+  "catalogue_sha256": "dc866dcaa0413a55e7b9600c8cc13d6b228e79d3a437da8f43ded064d97d85b8",
+  "fetched": "2026-11-03T04:48:22Z",
+  "chars": 10387,
+  "portal_id": "112092",
+  "tip": "DECIZIE"
+ }
+}
