@@ -1,0 +1,192 @@
+{
+ "key": "dcc-1107-2009",
+ "label": "Decizia CCR nr. 1107/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1107",
+ "date": "2009-09-08",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.107 din 8 septembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 40 din Legea nr. 137/2002 privind unele măsuri pentru accelerarea privatizării şi art. 2 pct. 1 lit. a) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "678",
+  "bis": false,
+  "date": "2009-10-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "24.176/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 137/2002",
+    "number": "137",
+    "year": "2002",
+    "path": "lege/2002/137"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 2 pct. 1 lit. a) din Codul de procedură civilă, excepţie ridicată de Constantin Cuciureanu în Dosarul nr. 24.176/3/2008 al Curţii de Apel Bucureşti - Secţia a V-a comercială. 2. Respinge, ca fiind neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 40 din Legea nr. 137/2002 privind unele măsuri pentru accelerarea privatizării, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 137/2002",
+    "number": "137",
+    "year": "2002",
+    "path": "lege/2002/137"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112087",
+  "text_sha256": "21d93670a5e46c2f8e6a3fe9a82fa9cb8fa430a02ac856918b07b4e8483cc7d8",
+  "catalogue_sha256": "21d93670a5e46c2f8e6a3fe9a82fa9cb8fa430a02ac856918b07b4e8483cc7d8",
+  "fetched": "2026-11-03T04:48:23Z",
+  "chars": 9884,
+  "portal_id": "112087",
+  "tip": "DECIZIE"
+ }
+}
