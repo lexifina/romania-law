@@ -1,0 +1,11 @@
+# Regulamentul (CE) nr. 937/2009
+
+Text withheld: this act lists natural persons with identifying details (for example a sanctions list), so only its metadata is published here; the official text is at the EUR-Lex link.
+
+- Kind: Regulamentul
+- CELEX: 32009R0937
+- ELI: http://data.europa.eu/eli/reg/2009/937/oj
+- Date of the document: 2009-10-07
+- Entry into force: 2009-10-09
+- Published: JO L 264/7, 8.10.2009
+- EUR-Lex: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R0937
