@@ -1,0 +1,273 @@
+{
+ "key": "iccj-scaf-2102-2009",
+ "label": "Decizia ÎCCJ nr. 2102/2009 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "2102",
+ "date": "2009-04-09",
+ "year": "2009",
+ "heading": "DECIZIE nr. 2.102 din 9 aprilie 2009",
+ "subtitle": "pentru examinarea recursului declarat de Societatea Comercială KART CONSTRUCT - S.R.L. Cluj-Napoca împotriva Sentinţei civile nr. 712/2008 din 13 noiembrie 2008 a Curţii de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "691",
+  "bis": false,
+  "date": "2009-10-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.427/33/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 977/2003",
+    "number": "977",
+    "year": "2003",
+    "path": "hg/2003/977"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 978/2003",
+    "number": "978",
+    "year": "2003",
+    "path": "hg/2003/978"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul declarat de Societatea Comercială KART CONSTRUCT - S.R.L. Cluj-Napoca împotriva Sentinţei civile nr. 712/2008 din 13 noiembrie 2008 a Curţii de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Casează sentinţa atacată şi admite acţiunea formulată de reclamanta Societatea Comercială KART CONSTRUCT - S.R.L. Cluj-Napoca, în contradictoriu cu pârâtul Guvernul României şi intervenienta Societatea Română de Radiodifuziune, în sensul că anulează art. 3 alin. (1) din Hotărârea Guvernului nr. 977/2003 şi art. 3 alin. (1) din Hotărârea Guvernului nr. 978/2003.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "242",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "312",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 977/2003",
+    "number": "977",
+    "year": "2003",
+    "path": "hg/2003/977"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 978/2003",
+    "number": "978",
+    "year": "2003",
+    "path": "hg/2003/978"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-10-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112249",
+  "text_sha256": "1d20816122d0d7d6ead981b3dbc83dd56165c618280381e2d53c5a3a60d64589",
+  "catalogue_sha256": "1d20816122d0d7d6ead981b3dbc83dd56165c618280381e2d53c5a3a60d64589",
+  "fetched": "2026-11-04T23:33:05Z",
+  "chars": 22040,
+  "portal_id": "112249",
+  "tip": "DECIZIE"
+ }
+}
