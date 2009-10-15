@@ -1,0 +1,8 @@
+# Anexa 1
+Anexa
+NORMA Nr. 16/2009
+privind modificarea și completarea Normei nr. 22/2008
+pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii administrate privat în titluri de stat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 38/2008
+Având în vedere prevederile art. 25 alin. (3) din Legea nr. 411/2004 privind fondurile de pensii administrate privat, republicată, cu modificările și completările ulterioare, în temeiul dispozițiilor art. 16 și ale art. 23 lit. f) din Ordonanța de urgență a Guvernului nr. 50/2005 privind înființarea, organizarea și funcționarea Comisiei de Supraveghere a Sistemului de Pensii Private, aprobată cu modificări și completări prin Legea nr. 313/2005 , Comisia de Supraveghere a Sistemului de Pensii Private emite prezenta normă.
+Articolul UNIC
+Norma nr. 22/2008 pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii administrate privat în titluri de stat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 38/2008 , publicată în Monitorul Oficial al României, Partea I, nr. 741 din 3 noiembrie 2008, se modifică și se completează după cum urmează: 1. După articolul 3 se introduce un nou articol, articolul 3^1, cu următorul cuprins: "Art. 3^1. - Termenul prevăzut la art. 3 se prelungește cu 365 de zile, începând cu data de 3 noiembrie 2009." 2. Articolul 9 se modifică și va avea următorul cuprins: "Art. 9. - La data expirării perioadei menționate la art. 3^1, administratorul care a aplicat prevederile prezentei norme trebuie să se încadreze atât în limitele prevăzute la art. 25 din Lege, cât și în limitele stabilite prin prospectul schemei de pensii private." -------
