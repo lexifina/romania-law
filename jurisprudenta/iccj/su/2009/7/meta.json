@@ -1,0 +1,189 @@
+{
+ "key": "iccj-su-7-2009",
+ "label": "Decizia ÎCCJ nr. 7/2009 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "7",
+ "date": "2009-02-09",
+ "year": "2009",
+ "heading": "DECIZIE nr. 7 din 9 februarie 2009",
+ "subtitle": "pentru examinarea recursului în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie privind admisibilitatea cererilor de liberare provizorie sub control judiciar sau pe cauţiune, din perspectiva îndeplinirii condiţiei prevăzute de art. 160^2 alin. 1 teza ultimă, respectiv art. 160^4 alin. 1 teza ultimă din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "694",
+  "bis": false,
+  "date": "2009-10-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "36/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "160-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160-4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 160^2 alin. 1 teza ultimă şi ale art. 160^4 alin. 1 teza ultimă din Codul de procedură penală, stabilesc:",
+  "Cererile de liberare provizorie sub control judiciar sau pe cauţiune sunt admisibile în ipoteza săvârşirii infracţiunii prevăzute de art. 7 alin. (1) din Legea nr. 39/2003, dacă pedeapsa prevăzută de lege pentru infracţiunea cea mai gravă care intră în scopul grupului infracţional organizat nu depăşeşte 18 ani.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "160-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160-4",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "141-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "167",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-10-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112283",
+  "text_sha256": "5710318f2308c4827a3f667a95ae424e50f5eb93e5e342619a0e299d85ae6b2f",
+  "catalogue_sha256": "5710318f2308c4827a3f667a95ae424e50f5eb93e5e342619a0e299d85ae6b2f",
+  "fetched": "2026-11-03T04:48:10Z",
+  "chars": 11892,
+  "portal_id": "112283",
+  "tip": "DECIZIE"
+ }
+}
