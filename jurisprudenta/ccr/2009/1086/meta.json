@@ -1,0 +1,161 @@
+{
+ "key": "dcc-1086-2009",
+ "label": "Decizia CCR nr. 1086/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1086",
+ "date": "2009-09-08",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.086 din 8 septembrie 2009",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 143^1 alin. (4) din Legea nr. 31/1990 privind societățile comerciale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "695",
+  "bis": false,
+  "date": "2009-10-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.340/40/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "143-1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepția de neconstituționalitate a dispozițiilor art. 143^1 alin. (4) din Legea nr. 31/1990 privind societățile comerciale, excepție ridicată de Dumitru Hodan în Dosarul nr. 3.340/40/2008 al Curții de Apel Suceava - Secția comercială, contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "143-1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112309",
+  "text_sha256": "934fa8b72b0e21690cc66a9c68076691e6144ec15ba01d71764aa48ad3c8cc18",
+  "catalogue_sha256": "934fa8b72b0e21690cc66a9c68076691e6144ec15ba01d71764aa48ad3c8cc18",
+  "fetched": "2026-11-03T04:48:09Z",
+  "chars": 5891,
+  "portal_id": "112309",
+  "tip": "DECIZIE"
+ }
+}
