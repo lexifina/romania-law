@@ -1,0 +1,208 @@
+{
+ "key": "dcc-1137-2009",
+ "label": "Decizia CCR nr. 1137/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1137",
+ "date": "2009-09-15",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.137 din 15 septembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 379 pct. 2 lit. b) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "701",
+  "bis": false,
+  "date": "2009-10-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "679.1/308/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "379",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 379 pct. 2 lit. b) din Codul de procedură penală, excepţie ridicată de Mircea-Silvius Leonescu în Dosarul nr. 679.1/308/2008 (nr. în format vechi 5.034/2008) al Tribunalului Mureş - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "379",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112386",
+  "text_sha256": "1e1b9ec607f8848bda47d700075ac00fa603082ef10aa3d3db291ec148afc08f",
+  "catalogue_sha256": "1e1b9ec607f8848bda47d700075ac00fa603082ef10aa3d3db291ec148afc08f",
+  "fetched": "2026-11-03T04:48:07Z",
+  "chars": 7795,
+  "portal_id": "112386",
+  "tip": "DECIZIE"
+ }
+}
