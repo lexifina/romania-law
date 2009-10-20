@@ -1,0 +1,168 @@
+{
+ "key": "dcc-1167-2009",
+ "label": "Decizia CCR nr. 1167/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1167",
+ "date": "2009-09-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.167 din 17 septembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 77^1 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "703",
+  "bis": false,
+  "date": "2009-10-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.451/30/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "77-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 77^1 din Codul de procedură penală, excepţie invocată de Iacob Schein în Dosarul nr. 5.451/30/2008 al Tribunalului Timiş - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "77-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112403",
+  "text_sha256": "1b8237520a8114de40c4c9272b105b90741c788a15a61b62e5d44179634b6ede",
+  "catalogue_sha256": "1b8237520a8114de40c4c9272b105b90741c788a15a61b62e5d44179634b6ede",
+  "fetched": "2026-11-03T04:48:03Z",
+  "chars": 8450,
+  "portal_id": "112403",
+  "tip": "DECIZIE"
+ }
+}
