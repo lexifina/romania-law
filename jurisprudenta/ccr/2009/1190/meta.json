@@ -1,0 +1,267 @@
+{
+ "key": "dcc-1190-2009",
+ "label": "Decizia CCR nr. 1190/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1190",
+ "date": "2009-09-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.190 din 17 septembrie 2009",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 1/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "712",
+  "bis": false,
+  "date": "2009-10-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "9.634/99/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2009",
+    "number": "1",
+    "year": "2009",
+    "path": "oug/2009/1"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 1/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar, excepţie ridicată de Alianţa sindicală \"Gheorghe Asachi\" din Iaşi în Dosarul nr. 9.634/99/2008 al Tribunalului Iaşi - Secţia civilă, litigii de muncă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2009",
+    "number": "1",
+    "year": "2009",
+    "path": "oug/2009/1"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 145/2009",
+    "number": "145",
+    "year": "2009",
+    "path": "lege/2009/145"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 83/1975",
+    "number": "83",
+    "year": "1975",
+    "path": "decret/1975/83"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-10-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112519",
+  "text_sha256": "3790caab9f9ddd33006f5cc14d94c50e64e14ce9cf5a7f2ca5efe68e75d64114",
+  "catalogue_sha256": "3790caab9f9ddd33006f5cc14d94c50e64e14ce9cf5a7f2ca5efe68e75d64114",
+  "fetched": "2026-11-05T07:02:05Z",
+  "chars": 11634,
+  "portal_id": "112519",
+  "tip": "DECIZIE"
+ }
+}
