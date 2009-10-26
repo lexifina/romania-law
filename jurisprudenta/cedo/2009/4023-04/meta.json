@@ -1,0 +1,142 @@
+{
+ "key": "cedo-4023-04-2009-05-26",
+ "label": "CEDO, Amanalachioai c. României, 2009-05-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-05-26",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 26 mai 2009",
+ "subtitle": "în Cauza Amanalachioai împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "720",
+  "bis": false,
+  "date": "2009-10-26",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "4023/04"
+ ],
+ "case_name": "Amanalachioai",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară, în unanimitate, cererea admisibilă; 2. hotărăşte, cu 6 voturi la 1, că a avut loc încălcarea art. 8 din Convenţie; 3. hotărăşte, cu 6 voturi la 1",
+  "a) ca statul pârât să îi plătească reclamantului, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, următoarele sume, ce vor fi convertite în moneda naţională la cursul de schimb valabil la data plăţii:",
+  "(i) 20.000 EUR (douăzeci mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, ca daune morale; (îi) 3.000 (trei mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit de reclamant, cu titlu de cheltuieli de judecată;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "4. respinge, în unanimitate, cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "98",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112622",
+  "text_sha256": "7a0a93eddea4ddab75c7e16fbb49c9c7e2cac96b0db555e1a61bfb988f66d3c7",
+  "catalogue_sha256": "7a0a93eddea4ddab75c7e16fbb49c9c7e2cac96b0db555e1a61bfb988f66d3c7",
+  "fetched": "2026-11-03T04:47:52Z",
+  "chars": 74202,
+  "portal_id": "112622",
+  "tip": "HOTĂRÂRE"
+ }
+}
