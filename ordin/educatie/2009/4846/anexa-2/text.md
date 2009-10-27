@@ -1,0 +1,2 @@
+# Anexa 2
+CALENDARUL de desfășurare a evaluării naționale pentru elevii clasei a VIII-a în anul școlar 2009-2010 Perioada de evaluare 4 mai 2010 - Limba și literatura română - probă scrisă 6 mai 2010 - Limba și literatura maternă - probă scrisă 12 mai 2010 - Matematică - probă scrisă Perioada specială de evaluare 25 mai 2010 - Limba și literatura română - probă scrisă 27 mai 2010 - Limba și literatura maternă - probă scrisă 2 iunie 2010 - Matematică - probă scrisă
