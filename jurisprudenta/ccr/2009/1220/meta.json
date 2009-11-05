@@ -1,0 +1,185 @@
+{
+ "key": "dcc-1220-2009",
+ "label": "Decizia CCR nr. 1220/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1220",
+ "date": "2009-09-29",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.220 din 29 septembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 259 alin. (7) lit. b) şi c) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "755",
+  "bis": false,
+  "date": "2009-11-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.399/190/2008",
+  "1.049D/2009",
+  "1.398/190/2008",
+  "1.048D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "259",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 259 alin. (7) lit. b) şi c) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, excepţie ridicată de Gheorghe Nandor Jîrghiuţă şi de Anamaria Jîrghiuţă în dosarele nr. 1.399/190/2008 şi nr. 1.398/190/2008 ale Tribunalului Bistriţa-Năsăud - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "259",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 264/2007",
+    "number": "264",
+    "year": "2007",
+    "path": "lege/2007/264"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-11-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113105",
+  "text_sha256": "8be613a54814debac38746aff04f870bd68c45c668a87590d61289a549ce9dcb",
+  "catalogue_sha256": "8be613a54814debac38746aff04f870bd68c45c668a87590d61289a549ce9dcb",
+  "fetched": "2026-11-04T03:33:44Z",
+  "chars": 13518,
+  "portal_id": "113105",
+  "tip": "DECIZIE"
+ }
+}
