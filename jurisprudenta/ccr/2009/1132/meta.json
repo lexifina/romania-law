@@ -1,0 +1,190 @@
+{
+ "key": "dcc-1132-2009",
+ "label": "Decizia CCR nr. 1132/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1132",
+ "date": "2009-09-10",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.132 din 10 septembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 din Ordonanţa Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii, şi ale art. 1 pct. 2 din Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.031/2008 pentru aprobarea Procedurii privind colectarea prin executare silită a creanţelor fiscale faţă de debitori instituţii publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "759",
+  "bis": false,
+  "date": "2009-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.152/182/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.031/2008",
+    "number": "1031",
+    "year": "2008"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 2 din Ordonanţa Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii, şi ale art. 1 pct. 2 din Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.031/2008 pentru aprobarea Procedurii privind colectarea prin executare silită a creanţelor fiscale faţă de debitori instituţii publice, excepţie ridicată de Sindicatul Liber \"Pentru voi\" în Dosarul nr. 10.152/182/2008 al Judecătoriei Baia Mare - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.031/2008",
+    "number": "1031",
+    "year": "2008"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Agenţiei Naţionale pentru Administrare Fiscală nr. 1.031/2008",
+    "number": "1031",
+    "year": "2008"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113131",
+  "text_sha256": "5e89bb54d36dbcdfb69c3b7e5171ea3308c86408594580e72a9606bf07cf83c2",
+  "catalogue_sha256": "5e89bb54d36dbcdfb69c3b7e5171ea3308c86408594580e72a9606bf07cf83c2",
+  "fetched": "2026-11-03T04:47:14Z",
+  "chars": 7883,
+  "portal_id": "113131",
+  "tip": "DECIZIE"
+ }
+}
