@@ -1,0 +1,49 @@
+# DECIZIE nr. 1.242 din 6 octombrie 2009
+referitoare la excepția de neconstituționalitate a prevederilor art. 146 și art. 150 din Legea nr. 31/1990 privind societățile comerciale
+Ioan Vida - președinte
+Nicolae Cochinescu - judecător
+Aspazia Cojocaru - judecător
+Acsinte Gaspar - judecător
+Petre Lăzăroiu - judecător
+Ion Predescu - judecător
+Tudorel Toader - judecător
+Puskas Valentin Zoltan - judecător
+Augustin Zegrean - judecător
+Simona Ricu - procuror
+Mihaela Ionescu - magistrat-asistent
+Pe rol se află soluționarea excepției de neconstituționalitate a prevederilor art. 146 și art. 150 din Legea nr. 31/1990 privind societățile comerciale, excepție ridicată de George Sorin Crețu în Dosarul nr. 27.938/3/2008 al Tribunalului București - Secția a VI-a comercială.
+La apelul nominal se constată lipsa părților, față de care procedura de citare este legal îndeplinită.
+Cauza este în stare de judecată.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepției de neconstituționalitate având ca obiect prevederile art. 146 din Legea nr. 31/1990 privind societățile comerciale, ca fiind inadmisibilă, de vreme ce acest text de lege este abrogat, și de respingere, ca neîntemeiată, a excepției de neconstituționalitate având ca obiect prevederile art. 150 din Legea nr. 31/1990 privind societățile comerciale.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+Prin Încheierea din 5 martie 2009, pronunțată în Dosarul nr. 27.938/3/2008, Tribunalul București - Secția a VI-a comercială a sesizat Curtea Constituțională cu excepția de neconstituționalitate a prevederilor art. 146 și art. 150 din Legea nr. 31/1990 privind societățile comerciale. Excepția a fost ridicată de George Sorin Crețu într-o acțiune având ca obiect constatarea nulității absolute a hotărârii adunării generale a asociaților și a nulității unui contract de vânzare-cumpărare.
+În motivarea excepției de neconstituționalitate autorul acesteia susține, în esență, că textul de lege criticat permite administratorului, fără a avea acordul persoanei juridice exprimat prin intermediul adunării generale a asociaților, să înstrăineze active ale societății, încălcându-se în acest fel dreptul de proprietate al persoanei juridice, respectiv dreptul de a dispune asupra proprietăților ce fac parte din activul său, creându-se identitate între consimțământul persoanei fizice, respectiv al administratorului și mandatul dat de persoana juridică, care nu coincid întotdeauna.
+Tribunalul București - Secția a VI-a comercială consideră că textele de lege criticate nu contravin dispozițiilor constituționale ale art. 44, având în vedere faptul că administratorii sunt răspunzători față de societate pentru toate actele îndeplinite în exercitarea mandatului ce le-a fost acordat.
+Potrivit dispozițiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate.
+Avocatul Poporului consideră că excepția de neconstituționalitate a prevederilor art. 146 din Legea nr. 31/1990 este inadmisibilă, întrucât acest articol a fost abrogat expres prin art. I pct. 96 din Legea nr. 441/2006 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale, republicată, și a Legii nr. 26/1990 privind registrul comerțului, republicată, publicată în Monitorul Oficial al României, Partea I, nr. 955 din 28 noiembrie 2006. Totodată, apreciază că prevederile art. 150 din Legea nr. 31/1990 sunt conforme cu dispozițiile constituționale potrivit cărora conținutul și limitele dreptului de proprietate sunt stabilite de lege.
+Președinții celor două Camere ale Parlamentului și Guvernul nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile de lege criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+Obiect al excepției îl constituie prevederile art. 146 și art. 150 din Legea nr. 31/1990 privind societățile comerciale, republicată în Monitorul Oficial al României, Partea I, nr. 1.066 din 17 noiembrie 2004.
+Cu privire la art. 146 din Legea nr. 31/1990 privind societățile comerciale, Curtea constată că acesta a fost abrogat prin art. I pct. 96 din Legea nr. 441/2006, iar art. 150 din Legea nr. 31/1990 a fost modificat prin aceeași lege, având următorul conținut: "(1) Dacă prin actul constitutiv nu se dispune altfel și sub rezerva dispozițiilor art. 44^1, sub sancțiunea nulității, administratorul va putea, în nume propriu, să înstrăineze, respectiv să dobândească, bunuri către sau de la societate, având o valoare de peste 10% din valoarea activelor nete ale societății, numai după obținerea aprobării adunării generale extraordinare, în condițiile prevăzute la art. 115.
+(2) Prevederile alin. (1) se aplică și operațiunilor de închiriere sau leasing.
+(3) Valoarea prevăzută la alin. (1) se va calcula prin raportare la situația financiară aprobată pentru anul financiar precedent celui în care are loc operațiunea ori, după caz, la valoarea capitalului social subscris, dacă o asemenea situație financiară nu a fost încă prezentată și aprobată.
+(4) Prevederile prezentului articol sunt aplicabile și operațiunilor în care una dintre părți este soțul administratorului ori rudă sau afin, până la gradul al patrulea inclusiv, al acestuia; de asemenea, dacă operațiunea este încheiată cu o societate civilă sau comercială la care una dintre persoanele anterior menționate este administrator sau director ori deține, singură sau împreună, o cotă de cel puțin 20% din valoarea capitalului social subscris, cu excepția cazului în care una dintre societățile comerciale respective este filiala celeilalte."
+Autorul excepției invocă încălcarea dispozițiilor constituționale ale art. 44 referitoare la dreptul de proprietate privată.
+Examinând excepția de neconstituționalitate, Curtea constată următoarele:
+I. Dispozițiile art. 146 din Legea nr. 31/1990 privind societățile comerciale au fost abrogate expres prin art. I pct. 96 din Legea nr. 441/2006 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale, republicată, și a Legii nr. 26/1990 privind registrul comerțului, republicată. Potrivit art. 29 alin. (1) din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale, aceasta "decide asupra excepțiilor ridicate în fața instanțelor judecătorești sau de arbitraj comercial privind neconstituționalitatea unei legi sau ordonanțe ori a unei dispoziții dintr-o lege sau dintr-o ordonanță în vigoare".
+Așa fiind, excepția urmează a fi respinsă ca inadmisibilă, în temeiul art. 29 alin. (6) din Legea nr. 47/1992.
+II. Cât privește prevederile art. 150 din aceeași lege, acestea prevăd aprobarea adunării generale, sub sancțiunea expresă a nulității absolute, a oricărui act de transfer de bunuri între societate și administratorii săi, precum și închirierea sau leasingul ce are o valoare mai mare de 10% din valoarea activelor nete ale societății. Textul îi privește și pe soțul administratorului, precum și pe persoanele aflate în relație de rudenie sau afinitate apropiată cu administratorul. Interdicția are în vedere înstrăinarea sau dobândirea de bunuri către și de la societate, împrumutul, avantajele financiare la livrarea de bunuri sau prestarea de servicii, peste o anumită valoare, prevederi în acord cu dispozițiile art. 44 din Constituție. De altfel, Curtea constată că, potrivit art. 144^1 din lege, administratorul are obligația de a-și exercită mandatul cu prudență și diligență, iar dacă într-o anumită operațiune, direct sau indirect, are interese contrare intereselor societății, trebuie să îi înștiințeze despre aceasta pe ceilalți administratori și pe cenzori sau auditori interni și să nu ia parte la nicio deliberare privitoare la această operațiune. Administratorul care nu a respectat această obligație răspunde pentru daunele ce au rezultat pentru societate.
+Totodată, societatea are la îndemână acțiunea în răspundere contra administratorilor pentru daunele pe care le-au cauzat societății prin încălcarea îndatoririlor lor față de aceasta, acțiune ce poate fi introdusă în baza hotărârii adunării generale, ce va decide cu majoritatea prevăzută la art. 112 din lege.
+În aceste condiții, Curtea constată că există suficiente garanții pentru garantarea dreptului de proprietate al societății comerciale.
+Pentru considerentele expuse, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, precum și al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+1. Respinge, ca fiind inadmisibilă, excepția de neconstituționalitate a prevederilor art. 146 din Legea nr. 31/1990 privind societățile comerciale, excepție ridicată de George Sorin Crețu în Dosarul nr. 27.938/3/2008 al Tribunalului București - Secția a VI-a comercială.
+2. Respinge, ca neîntemeiată, excepția de neconstituționalitate a prevederilor art. 150 din Legea nr. 31/1990 privind societățile comerciale, excepție ridicată de același autor în același dosar al aceleiași instanțe.
+Definitivă și general obligatorie.
+Pronunțată în ședința publică din data de 6 octombrie 2009.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE, prof. univ. dr. IOAN VIDA
+Magistrat-asistent,
+Mihaela Ionescu ----------

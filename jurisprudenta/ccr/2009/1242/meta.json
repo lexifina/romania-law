@@ -1,0 +1,177 @@
+{
+ "key": "dcc-1242-2009",
+ "label": "Decizia CCR nr. 1242/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1242",
+ "date": "2009-10-06",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.242 din 6 octombrie 2009",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 146 și art. 150 din Legea nr. 31/1990 privind societățile comerciale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "759",
+  "bis": false,
+  "date": "2009-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "27.938/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca fiind inadmisibilă, excepția de neconstituționalitate a prevederilor art. 146 din Legea nr. 31/1990 privind societățile comerciale, excepție ridicată de George Sorin Crețu în Dosarul nr. 27.938/3/2008 al Tribunalului București - Secția a VI-a comercială.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate a prevederilor art. 150 din Legea nr. 31/1990 privind societățile comerciale, excepție ridicată de același autor în același dosar al aceleiași instanțe.",
+  "Definitivă și general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 441/2006",
+    "number": "441",
+    "year": "2006",
+    "path": "lege/2006/441"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113135",
+  "text_sha256": "5e32374ec00d292946db834ffb24e66a86f4cccbbd7034575ca5945223ae6040",
+  "catalogue_sha256": "5e32374ec00d292946db834ffb24e66a86f4cccbbd7034575ca5945223ae6040",
+  "fetched": "2026-11-03T04:47:14Z",
+  "chars": 10150,
+  "portal_id": "113135",
+  "tip": "DECIZIE"
+ }
+}
