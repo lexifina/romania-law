@@ -1,0 +1,127 @@
+{
+ "key": "cedo-32228-02-2008-09-30",
+ "label": "CEDO, Societatea Comercială \"COMPRIMEX\" - S.A. c. României, 2008-09-30",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-09-30",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 30 septembrie 2008",
+ "subtitle": "în Cauza Societatea Comercială \"COMPRIMEX\" - S.A. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "774",
+  "bis": false,
+  "date": "2009-11-12",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "32228/02"
+ ],
+ "case_name": "Societatea Comercială \"COMPRIMEX\" - S.A.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere referitor la durata excesivă a procedurilor şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 paragraful 1 din Convenţie; 3. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantei, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 paragraful 2 din Convenţie, suma de 1.200 EUR (una mie două sute euro), plus orice sumă care ar putea fi datorată cu titlu de impozit, pentru prejudiciul moral, sumă ce va fi convertită în moneda naţională a statului pârât, la cursul de schimb valabil la data plăţii;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu trei puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113286",
+  "text_sha256": "e6ae68498c3fc69c0821e0978aaa96453fa90d954016841e24c0070675c90156",
+  "catalogue_sha256": "e6ae68498c3fc69c0821e0978aaa96453fa90d954016841e24c0070675c90156",
+  "fetched": "2026-11-03T04:47:02Z",
+  "chars": 11435,
+  "portal_id": "113286",
+  "tip": "HOTĂRÂRE"
+ }
+}
