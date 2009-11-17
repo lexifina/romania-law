@@ -1,0 +1,159 @@
+{
+ "key": "cedo-24714-03-2008-11-25",
+ "label": "CEDO, Paicu c. României, 2008-11-25",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-11-25",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 25 noiembrie 2008",
+ "subtitle": "în Cauza Paicu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "783",
+  "bis": false,
+  "date": "2009-11-17",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "24714/03"
+ ],
+ "case_name": "Paicu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 § 1 din Convenţie şi pe art. 1 din Protocolul nr. 1 şi referitoare la executarea Deciziei din 16 noiembrie 2004 şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie şi a art. 1 din Protocolul nr. 1 din cauza întârzierii în executarea efectivă de către autorităţi a Deciziei din 16 noiembrie 2004; 3. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantei, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, suma de 1.200 EUR (una mie două sute euro), care va fi convertită în moneda statului pârât la cursul de schimb valabil la data plăţii, cu titlu de daune morale, plus orice sumă care ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "lege/1998/9"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113443",
+  "text_sha256": "64028b22772e540d94b28aa5115c71fe0d3eb0986a515e6bcb71b672cee2e4df",
+  "catalogue_sha256": "64028b22772e540d94b28aa5115c71fe0d3eb0986a515e6bcb71b672cee2e4df",
+  "fetched": "2026-11-03T04:46:54Z",
+  "chars": 18829,
+  "portal_id": "113443",
+  "tip": "HOTĂRÂRE"
+ }
+}
