@@ -1,0 +1,252 @@
+{
+ "key": "dcc-1298-2009",
+ "label": "Decizia CCR nr. 1298/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1298",
+ "date": "2009-10-13",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.298 din 13 octombrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1, art. 3 alin. (1), (6), (7) şi (8), art. 4 alin. (1) şi (2) şi art. 7 din Ordonanţa de urgenţă a Guvernului nr. 168/2001 privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, îngrăşării şi exploatării animalelor, precum şi a fabricilor de nutreţuri combinate dezafectate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "788",
+  "bis": false,
+  "date": "2009-11-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "972/838/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 168/2001",
+    "number": "168",
+    "year": "2001",
+    "path": "oug/2001/168"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 1, art. 3 alin. (1), (6), (7) şi (8), art. 4 alin. (1) şi (2) şi art. 7 din Ordonanţa de urgenţă a Guvernului nr. 168/2001 privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, îngrăşării şi exploatării animalelor, precum şi a fabricilor de nutreţuri combinate dezafectate, excepţie ridicată de Consiliul Local al Comunei Tudor Vladimirescu în Dosarul nr. 972/838/2008 al Judecătoriei Lieşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 168/2001",
+    "number": "168",
+    "year": "2001",
+    "path": "oug/2001/168"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea zootehniei nr. 72/2002",
+    "number": "72",
+    "year": "2002",
+    "path": "lege/2002/72"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 199/1997",
+    "number": "199",
+    "year": "1997",
+    "path": "lege/1997/199"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113535",
+  "text_sha256": "5c4333e88705e9e45f81e26a31225aca94db6e95f51cfc32c523eb3bfd0029c3",
+  "catalogue_sha256": "5c4333e88705e9e45f81e26a31225aca94db6e95f51cfc32c523eb3bfd0029c3",
+  "fetched": "2026-11-03T04:46:50Z",
+  "chars": 21607,
+  "portal_id": "113535",
+  "tip": "DECIZIE"
+ }
+}
