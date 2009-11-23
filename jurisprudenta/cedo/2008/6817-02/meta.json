@@ -1,0 +1,173 @@
+{
+ "key": "cedo-6817-02-2008-10-14",
+ "label": "CEDO, Iordache c. României, 2008-10-14",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-10-14",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 14 octombrie 2008",
+ "subtitle": "în Cauza Iordache împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "797",
+  "bis": false,
+  "date": "2009-11-23",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "6817/02"
+ ],
+ "case_name": "Iordache",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. uneşte cu fondul excepţia preliminară a Guvernului întemeiată pe tardivitatea capetelor de cerere formulate în baza art. 8 şi 13 din Convenţie şi o respinge; 2. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 § 1 (accesul la o instanţă), art. 8 şi 13 şi inadmisibilă în rest; 3. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 4. hotărăşte că a avut loc încălcarea art. 8 § 1 din Convenţie în ceea ce priveşte interdicţia drepturilor părinteşti; 5. hotărăşte că a avut loc încălcarea art. 13 din Convenţie; 6. hotărăşte că nu este necesar să analizeze capătul de cerere întemeiat pe art. 8 § 1 din Convenţie referitor la dreptul de vizitare; 7. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, suma de 9.000 EUR (nouă mii euro), ce va fi convertită în moneda statului pârât, ca daune morale, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "b) ca statul pârât să îi plătească avocatului reclamantului suma de 4.650 EUR (patru mii şase sute cincizeci euro) pentru cheltuieli de judecată;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "8. respinge cererea de reparaţie echitabilă în rest. Întocmită în limba franceză, ulterior fiind comunicată în scris la data de 14 octombrie 2008, în conformitate cu art. 77 paragrafele 2 şi 3 din Regulament.",
+  "Josep Casadevall, preşedinte Santiago Quesada, grefier ----"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 56/2003",
+    "number": "56",
+    "year": "2003",
+    "path": "oug/2003/56"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113611",
+  "text_sha256": "1236bec9765e6bcdead38036037efdf701eedbb47c75197324113a66ab5a4746",
+  "catalogue_sha256": "1236bec9765e6bcdead38036037efdf701eedbb47c75197324113a66ab5a4746",
+  "fetched": "2026-11-03T04:46:43Z",
+  "chars": 41192,
+  "portal_id": "113611",
+  "tip": "HOTĂRÂRE"
+ }
+}
