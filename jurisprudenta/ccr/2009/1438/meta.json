@@ -1,0 +1,259 @@
+{
+ "key": "dcc-1438-2009",
+ "label": "Decizia CCR nr. 1438/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1438",
+ "date": "2009-11-05",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.438 din 5 noiembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "800",
+  "bis": false,
+  "date": "2009-11-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.526/113/2008",
+  "3.364D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. şi de Societatea Comercială \"SPV Company\" - S.A. din Bucureşti în dosarele nr. 2.526/113/2008, nr. 3.297/113/2008, nr. 2.218/113/2008, nr. 26/113/2009, nr. 2.460/113/2008, nr. 2.568/113/2008, nr. 2.574/113/2008, nr. 3.090/113/2008, nr. 2.966/113/2008, nr. 2.451/113/2008, nr. 166/113/2009, nr. 925/113/2009, nr. 2.797/113/2008, nr. 2.276/113/2008, nr. 2.587/113/2008, nr. 2.599/113/2008, nr. 2.564/113/2008, nr. 2.990/113/2008, nr. 2.569/113/2008, nr. 2.789/113/2008, nr. 2.271/113/2008, nr. 2.584/113/2008, nr. 2.304/113/2008, nr. 2.269/113/2008, nr. 2.272/113/2008, nr. 2.306/113/2008, nr. 652/113/2009, nr. 2.421/113/2008, nr. 2.275/113/2008, nr. 2.795/113/2008, nr. 2.850/113/2008, nr. 2.801/113/2008, nr. 2.803/113/2008, nr. 2.302/113/2008, nr. 2.301/113/2008, nr. 2.585/113/2008, nr. 2.989/113/2008, nr. 2.298/113/2008, nr. 2.970/113/2008, nr. 2.600/113/2008, nr. 3.260/113/2008, nr. 2.388/113/2008, nr. 344/113/2009, nr. 2.267/113/2008, nr. 2.300/113/2008, nr. 2.566/113/2008, nr. 2.303/113/2008, nr. 2.572/113/2008, nr. 2.307/113/2008, nr. 941/113/2009, nr. 2.305/113/2008, nr. 3.273/113/2008, nr. 2.570/113/2008, nr. 2.586/113/2008, nr. 2.299/113/2008, nr. 372/113/2009, nr. 25/113/2009, nr. 1.192/113/2009, nr. 1.384/113/2009 şi nr. 962/113/2009 ale Tribunalului Brăila - Secţia civilă şi în dosarele nr. 7.278/121/2008, nr. 2.658/91/2008, nr. 495/91/2009, nr. 494/91/2009, nr. 2.517/113/2007, nr. 2.283/113/2008, nr. 2.657/91/2008, nr. 1.831/113/2008, nr. 4.699/91/2008 şi nr. 2.811/113/2008 ale Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-11-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113668",
+  "text_sha256": "1edb92c912e548b26170a2c7467590dad1c4aeb373403300ec4864858e3e9600",
+  "catalogue_sha256": "1edb92c912e548b26170a2c7467590dad1c4aeb373403300ec4864858e3e9600",
+  "fetched": "2026-11-03T04:46:40Z",
+  "chars": 16955,
+  "portal_id": "113668",
+  "tip": "DECIZIE"
+ }
+}
