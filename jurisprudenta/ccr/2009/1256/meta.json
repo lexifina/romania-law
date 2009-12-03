@@ -1,0 +1,260 @@
+{
+ "key": "dcc-1256-2009",
+ "label": "Decizia CCR nr. 1256/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1256",
+ "date": "2009-10-06",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.256 din 6 octombrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 151/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/2008 privind creşterile salariale ce se vor acorda în anul 2008 personalului din învăţământ şi ale art. 2 şi art. 3 din Ordonanţa de urgenţă a Guvernului nr. 1/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "832",
+  "bis": false,
+  "date": "2009-12-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "538/85/2009",
+  "2.573D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2009",
+    "number": "1",
+    "year": "2009",
+    "path": "oug/2009/1"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 151/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/2008 privind creşterile salariale ce se vor acorda în anul 2008 personalului din învăţământ şi ale art. 2 şi art. 3 din Ordonanţa de urgenţă a Guvernului nr. 1/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar, excepţie ridicată de Sindicatul Învăţământului Preuniversitar Sibiu în dosarele nr. 538/85/2009, nr. 390/85/2009 şi nr. 539/85/2009 ale Tribunalului Sibiu - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2009",
+    "number": "1",
+    "year": "2009",
+    "path": "oug/2009/1"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114030",
+  "text_sha256": "777e67347f382cf2496f551f175204045741d1110d194d3a529c9ce22faced4c",
+  "catalogue_sha256": "777e67347f382cf2496f551f175204045741d1110d194d3a529c9ce22faced4c",
+  "fetched": "2026-11-03T04:46:08Z",
+  "chars": 13276,
+  "portal_id": "114030",
+  "tip": "DECIZIE"
+ }
+}
