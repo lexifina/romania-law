@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale I.F.N. GAMA-LEASING - S.A., cu sediul în Suceava, bd. George Enescu nr. 38, bl. T90, mezanin, județul Suceava, înregistrată la oficiul registrului comerțului sub nr. J33/368/2002, cod unic de înregistrare 14741969, înscrisă în Registrul general al instituțiilor financiare nebancare la secțiunea h) "Leasing financiar" sub nr. RG-PJR-34-080091. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 19 noiembrie 2009. Nr. 990. -------
