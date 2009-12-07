@@ -1,0 +1,3 @@
+# Anexa nr. 1
+Anexa 1 ────── (Anexa nr. 1 la Ordinul nr. 438/2008) ──────────────────────────────────── ADEZIUNEA PACIENTULUI Subsemnatul(a),........., pacient(ă) al(a) Centrului de Dializă......., tratat(ă) prin: O - Hemodializă convențională O - Hemodiafiltrare intermitentă on-line O - Dializă peritoneală continuă O - Dializă peritoneală automată, posesor(posesoare) al(a) C.I. seria....... nr......., eliberată de....... la data de........., CNP..........., domiciliat(ă) în.........., dializat(ă) cronic din data de.........., solicit efectuarea ședințelor de dializă în Centrul de Dializă................. _______________
+Data........... Semnătura...........
