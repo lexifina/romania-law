@@ -1,0 +1,228 @@
+{
+ "key": "dcc-1351-2009",
+ "label": "Decizia CCR nr. 1351/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1351",
+ "date": "2009-10-22",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.351 din 22 octombrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 163, art. 399 alin. 2 şi alin. 2^1 şi art. 578-580^1 din Codul de procedură civilă şi ale art. 1201 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "852",
+  "bis": false,
+  "date": "2009-12-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.716/296/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "163",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": [
+      "2",
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "578",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "579",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "580",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 163, art. 399 alin. 2 şi alin. 2^1 şi art. 578-580^1 din Codul de procedură civilă şi ale art. 1201 din Codul civil, excepţie ridicată de Vasile Dan şi Maria Dan în Dosarul nr. 8.716/296/2008 al Judecătoriei Satu Mare.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "163",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": [
+      "2",
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "578",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "579",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "580",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "577",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114283",
+  "text_sha256": "ca16e965e91c9180a703a4989bffa38ed5fa86760f3c0c5f9b986ae621b9576d",
+  "catalogue_sha256": "ca16e965e91c9180a703a4989bffa38ed5fa86760f3c0c5f9b986ae621b9576d",
+  "fetched": "2026-11-03T04:45:48Z",
+  "chars": 10368,
+  "portal_id": "114283",
+  "tip": "DECIZIE"
+ }
+}
