@@ -1,0 +1,172 @@
+{
+ "key": "dcc-1370-2009",
+ "label": "Decizia CCR nr. 1370/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1370",
+ "date": "2009-10-27",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.370 din 27 octombrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 616-618 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "852",
+  "bis": false,
+  "date": "2009-12-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.820/331/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "616",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "617",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "618",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 616-618 din Codul civil, excepţie ridicată de Eugenia Iacob şi Mihail Iacob în Dosarul nr. 2.820/331/2008 al Judecătoriei Vălenii de Munte.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "616",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "617",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "618",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114290",
+  "text_sha256": "01626a187a5b6d67b8b66e9426b96595ffb71bdeabfc3b4c7912a014bc3d90ad",
+  "catalogue_sha256": "01626a187a5b6d67b8b66e9426b96595ffb71bdeabfc3b4c7912a014bc3d90ad",
+  "fetched": "2026-11-03T04:45:52Z",
+  "chars": 6694,
+  "portal_id": "114290",
+  "tip": "DECIZIE"
+ }
+}
