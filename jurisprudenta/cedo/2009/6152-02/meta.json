@@ -1,0 +1,92 @@
+{
+ "key": "cedo-6152-02-2009-11-04",
+ "label": "CEDO, Dinu c. României, 2009-11-04",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-11-04",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 4 noiembrie 2009",
+ "subtitle": "în Cauza Dinu împotriva României şi Franţei",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "867",
+  "bis": false,
+  "date": "2009-12-11",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "6152/02"
+ ],
+ "case_name": "Dinu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie de către România şi Franţa; 2. hotărăşte",
+  "a) ca statul român să îi plătească reclamantei, în cel mult 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 § 2 din Convenţie, următoarele sume:",
+  "(i) 6.000 EUR (şase mii euro), ce va fi convertită în moneda statului pârât, plus orice sumă ce ar putea fi datorată cu titlu de impozit, pentru prejudiciul moral; (îi) 1.500 EUR (una mie cinci sute euro), ce va fi convertită în moneda statului pârât, plus orice sumă ce ar putea fi datorată cu titlu de impozit de către reclamantă, cu titlu de cheltuieli de judecată;",
+  "b) ca statul francez să îi plătească reclamantei, în acelaşi termen:",
+  "(i) 10.000 EUR (zece mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, pentru prejudiciul moral; (îi) 1.500 EUR (una mie cinci sute euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit de către reclamantă, cu titlu de cheltuieli de judecată;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "3. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114389",
+  "text_sha256": "d7e8c6e37301ecf96a57bfcc65b210abd7aed9742d22301948e637b12d4b5b2b",
+  "catalogue_sha256": "d7e8c6e37301ecf96a57bfcc65b210abd7aed9742d22301948e637b12d4b5b2b",
+  "fetched": "2026-11-03T04:45:45Z",
+  "chars": 26506,
+  "portal_id": "114389",
+  "tip": "HOTĂRÂRE"
+ }
+}
