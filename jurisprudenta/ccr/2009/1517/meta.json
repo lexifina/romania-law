@@ -1,0 +1,214 @@
+{
+ "key": "dcc-1517-2009",
+ "label": "Decizia CCR nr. 1517/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1517",
+ "date": "2009-11-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.517 din 17 noiembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "864",
+  "bis": false,
+  "date": "2009-12-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.342/111/2008",
+  "3.449D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială Petrom - S.A. din Bucureşti în dosarele nr. 5.342/111/2008, 5.998/111/2008, nr. 2.670/113/2007, nr. 5.944/111/2008, nr. 6.673/111/2008, nr. 6.599/111/2008, nr. 5.962/111/2008, nr. 6.557/111/2008, nr. 6.565/111/2008, nr. 6.587/111/2008, nr. 6.585/111/2008, nr. 6.566/111/2008, nr. 6.603/111/2008, nr. 6.602/111/2008, nr. 6.598/111/2008, nr. 5.943/111/2008, nr. 6.532/111/2008, nr. 6.584/111/2008, nr. 258/111/2009, nr. 6.559/111/2008, nr. 6.591/111/2008, nr. 6.596/111/2008, nr. 833/111/2008, nr. 6.537/111/2008, nr. 6.521/111/2008, nr. 6.556/111/2008, nr. 6.438/111/2008, nr. 1.413/111/2008, nr. 6.439/111/2008, nr. 6.469/111/2008, nr. 6.508/111/2008, nr. 6.523/111/2008, nr. 6.524/111/2008, nr. 6.535/111/2008, nr. 6.538/111/2008, nr. 6.539/111/2008, nr. 6.544/111/2008, nr. 5.370/111/2008, nr. 3.705/111/2008, nr. 6.590/111/2008, nr. 6.563/111/2008, nr. 6.525/111/2008, nr. 6.593/111/2008, nr. 6.529/111/2008, nr. 6.586/111/2008, nr. 6.588/111/2008, nr. 6.528/111/2008, nr. 6.568/111/2008, nr. 6.542/111/2008, nr. 6.543/111/2008, nr. 6.560/111/2008, nr. 6.522/111/2008, nr. 2.889/111/2008, nr. 6.555/111/2008, nr. 367/111/2008, nr. 6.541/111/2008, nr. 6.423/111/2008, nr. 6.204/111/2008, nr. 5.945/111/2008, nr. 190/111/2008, nr. 6.534/111/2008, nr. 6.600/111/2008 şi nr. 6.601/111/2008 ale Tribunalului Bihor - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114372",
+  "text_sha256": "28ffcd01047e7e2a98c300706c3456ab5bd7b2d8a705c34630972e0b6bd2348a",
+  "catalogue_sha256": "28ffcd01047e7e2a98c300706c3456ab5bd7b2d8a705c34630972e0b6bd2348a",
+  "fetched": "2026-11-03T04:45:44Z",
+  "chars": 12353,
+  "portal_id": "114372",
+  "tip": "DECIZIE"
+ }
+}
