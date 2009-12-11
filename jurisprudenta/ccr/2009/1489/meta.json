@@ -1,0 +1,179 @@
+{
+ "key": "dcc-1489-2009",
+ "label": "Decizia CCR nr. 1489/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1489",
+ "date": "2009-11-10",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.489 din 10 noiembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "864",
+  "bis": false,
+  "date": "2009-12-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.561D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială Petrom - S.A. Bucureşti în dosarele nr. 3.404/102/2008, nr. 3.328/102/2008, nr. 45/102/2009, nr. 6.781/97/2008, nr. 6.503/97/2008, nr. 6.386/97/2008, nr. 6.495/97/2008, nr. 6.509/97/2008, nr. 3.329/102/2008, nr. 3.317/102/2008, nr. 6.417/97/2008, nr. 6.414/97/2008, nr. 6.517/97/2008, nr. 6.409/97/2008, nr. 3.407/102/2008, nr. 6.520/97/2008, nr. 6.537/97/2008, nr. 6.541/97/2008, nr. 3.313/102/2008, nr. 3.458/102/2008, nr. 3.409/102/2008, nr. 3.422/102/2008, nr. 3.427/102/2008, nr. 6.442/97/2008, nr. 3.406/102/2008, nr. 3.411/102/2008, nr. 3.333/102/2008, nr. 6.505/97/2008, nr. 6.448/97/2008, nr. 6.411/97/2008, nr. 6.512/97/2008, nr. 6.504/97/2008, nr. 7.543/97/2008, nr. 7.544/97/2008, nr. 3.349/102/2008, nr. 3.418/102/2008, nr. 6.444/97/2008, nr. 6.533/97/2008, nr. 6.454/97/2008, nr. 6.481/97/2008, nr. 6.89/97/2008, nr. 6.418/97/2008, nr. 3.378/102/2008, nr. 3.402/102/2008, nr. 6.511/97/2008, nr. 6.773/97/2008, nr. 6.540/97/2008, nr. 3.416/102/2008, nr. 3.425/102/2008, nr. 3.442/102/2008, nr. 3.453/102/2008, nr. 3.312/102/2008, nr. 6.459/97/2008, nr. 6.473/97/2008, nr. 6.477/97/2008, nr. 3.336/102/2008, nr. 3.399/102/2008, nr. 6.496/97/2008, nr. 3.358/102/2008, nr. 3.400/102/2008, nr. 3.355/102/2008, nr. 3.357/102/2008, nr. 3.351/102/2008, nr. 3.354/102/2008, nr. 3.383/102/2008, nr. 3.290/102/2008, nr. 6.499/97/2008, nr. 6.456/97/2008, nr. 3.386/102/2008, nr. 3.377/102/2008, nr. 3.344/102/2008, nr. 3.348/102/2008, nr. 3.337/102/2008, nr. 3.339/102/2008, nr. 6.492/97/2008, nr. 3.387/102/2008, nr. 3.391/102/2008, nr. 3.388/102/2008, nr. 3.307/102/2008, nr. 3.043/102/2008, nr. 3.434/102/2008, nr. 3.439/102/2008, nr. 3.440/102/2008, nr. 6.528/97/2008, nr. 1/102/2009, nr. 6.395/97/2008, nr. 3.403/102/2008, nr. 6.383/97/2008, nr. 6.474/97/2008, nr. 6.491/97/2008, nr. 46/102/2009 şi nr. 6.476/97/2008 ale Tribunalului Mureş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114371",
+  "text_sha256": "815143fc458d9968985193df38b04eb5805e221efd34e7edd163634b15904e68",
+  "catalogue_sha256": "815143fc458d9968985193df38b04eb5805e221efd34e7edd163634b15904e68",
+  "fetched": "2026-11-03T04:45:44Z",
+  "chars": 12372,
+  "portal_id": "114371",
+  "tip": "DECIZIE"
+ }
+}
