@@ -1,0 +1,173 @@
+{
+ "key": "dcc-1381-2009",
+ "label": "Decizia CCR nr. 1381/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1381",
+ "date": "2009-10-27",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.381 din 27 octombrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "864",
+  "bis": false,
+  "date": "2009-12-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.981/112/2008",
+  "3.343D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în dosarele nr. 1.981/112/2009, nr. 1.980/112/2009, nr. 1.986/112/2009, nr. 1.988/112/2009, nr. 1.989/112/2009, nr. 1.994/112/2009, nr. 1.991/112/2009, nr. 1.983/112/2009, nr. 3.254/112/2008, nr. 804/112/2009, nr. 805/112/2009, nr. 807/112/2009, nr. 808/112/2009, nr. 762/112/2009, nr. 773/112/2009, nr. 764/112/2009, nr. 788/112/2009, nr. 793/112/2009, nr. 803/112/2009, nr. 800/112/2009, nr. 777/112/2009, nr. 806/112/2009, nr. 3.259/112/2008, nr. 3.256/112/2008 şi nr. 3.255/112/2008 ale Tribunalului Bistriţa-Năsăud Secţia civilă, în dosarele nr. 2.349/112/2008, nr. 2.350/112/2008, nr. 2.356/112/2008, nr. 2.532/112/2008, nr. 2.344/112/2008, nr. 2.345/112/2008, nr. 2.346/112/2008, nr. 2.348/112/2008, nr. 2.527/112/2008, nr. 2.524/112/2008, nr. 2.521/112/2008, nr. 2.342/112/2008, nr. 2.519/112/2008, nr. 2.516/112/2008, nr. 2.512/112/2008, nr. 4.335/117/2008, nr. 3.931/117/2008, nr. 2.511/112/2008, nr. 2.504/112/2008, nr. 2.503/112/2008, nr. 2.492/112/2008, nr. 2.373/112/2008, nr. 2.360/112/2008, nr. 2.358/112/2008, nr. 2.334/112/2008, nr. 2.326/112/2008, nr. 2.328/112/2008, nr. 2.372/112/2008, nr. 2.366/112/2008, nr. 2.376/112/2008, nr. 2.507/112/2008, nr. 2.365/112/2008, nr. 2.352/112/2008, nr. 2.520/112/2008, nr. 2.315/112/2008, nr. 2.343/112/2008, nr. 2.368/112/2008, nr. 2.493/112/2008, nr. 2.319/112/2008, nr. 2.374/112/2008, nr. 2.321/112/2008, nr. 2.375/112/2008, nr. 4.062/117/2008, nr. 2.528/112/2008, nr. 2.340/112/2008, nr. 2.496/112/2008, nr. 2.488/112/2008, nr. 2.317/112/2008, nr. 2.495/112/2008, nr. 2.490/112/2008, nr. 2.535/112/2008, nr. 2.531/112/2008, nr. 2.332/112/2008, nr. 2.494/112/2008, nr. 2.322/112/2008, nr. 2.324/112/2008, nr. 2.329/112/2008, nr. 793/33/2009, nr. 773/33/2009, nr. 776/33/2009, nr. 777/33/2009, nr. 778/33/2009, nr. 775/33/2009, nr. 779/33/2009, nr. 792/33/2009 şi nr. 774/33/2009 ale Curţii de Apel Cluj Secţia civilă, de muncă şi asigurări sociale, pentru minori şi familie, şi în dosarele nr. 6.494/110/2008, nr. 7.349/110/2008, nr. 976/110/2009, nr. 6.814/110/2008, nr. 7.048/110/2008, nr. 7.095/110/2008, nr. 965/110/2009, nr. 5.910/110/2008, nr. 7.001/110/2008, nr. 7.345/110/2008, nr. 6.867/110/2008, nr. 5.908/110/2008, nr. 7.132/110/2008, nr. 6.805/110/2008 şi nr. 6.811/110/2008 ale Tribunalului Bacău - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114367",
+  "text_sha256": "f2cfce02d9a574bb7de238d2180b247df844cc3b798bdb11e6edb708a2d2fb9e",
+  "catalogue_sha256": "f2cfce02d9a574bb7de238d2180b247df844cc3b798bdb11e6edb708a2d2fb9e",
+  "fetched": "2026-11-03T04:45:45Z",
+  "chars": 16398,
+  "portal_id": "114367",
+  "tip": "DECIZIE"
+ }
+}
