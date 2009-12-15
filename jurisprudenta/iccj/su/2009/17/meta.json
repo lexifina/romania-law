@@ -1,0 +1,168 @@
+{
+ "key": "iccj-su-17-2009",
+ "label": "Decizia ÎCCJ nr. 17/2009 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "17",
+ "date": "2009-06-15",
+ "year": "2009",
+ "heading": "DECIZIE nr. 17 din 15 iunie 2009",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "875",
+  "bis": false,
+  "date": "2009-12-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "6/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În aplicarea dispoziţiilor art. 278^1 din Codul de procedură penală stabilesc că:",
+  "Soluţiile de netrimitere în judecată dispuse prin rechizitoriu nu pot fi atacate cu plângere direct la instanţă.",
+  "În cazul în care este sesizată cu o astfel de plângere, instanţa o va trimite organului judiciar competent, conform art. 278^1 alin. 13 din Codul de procedură penală, în vederea parcurgerii etapelor prevăzute la art. 278 din acelaşi cod.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "276",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "277",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "264",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "300",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2009-12-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114477",
+  "text_sha256": "48607c01976f2b2a47356c3d00ff9a7e2f868faa6f0b097995131431573296db",
+  "catalogue_sha256": "48607c01976f2b2a47356c3d00ff9a7e2f868faa6f0b097995131431573296db",
+  "fetched": "2026-11-06T03:56:44Z",
+  "chars": 11032,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406035402/https://legislatie.just.ro/Public/DetaliiDocumentAfis/114477",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/114477",
+   "timestamp": "20250406035402",
+   "sha256": "409b0524eaab572a72f804d1fc4d5469b230271339f317bc73b2c3b879c65956"
+  },
+  "portal_id": "114477",
+  "tip": "DECIZIE"
+ }
+}
