@@ -1,0 +1,246 @@
+{
+ "key": "dcc-1335-2009",
+ "label": "Decizia CCR nr. 1335/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1335",
+ "date": "2009-10-22",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.335 din 22 octombrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (1) din Ordonanţa Guvernului nr. 37/2007 privind stabilirea cadrului de aplicare a regulilor privind perioadele de conducere, pauzele şi perioadele de odihnă ale conducătorilor auto şi utilizarea aparatelor de înregistrare a activităţii acestora",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "874",
+  "bis": false,
+  "date": "2009-12-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "673/229/2009",
+  "3.517D/2009",
+  "8.889/180/2008",
+  "3.538D/2009",
+  "2.992/229/2008",
+  "1.647D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 37/2007",
+    "number": "37",
+    "year": "2007",
+    "path": "og/2007/37"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 9 alin. (1) din Ordonanţa Guvernului nr. 37/2007 privind stabilirea cadrului de aplicare a regulilor privind perioadele de conducere, pauzele şi perioadele de odihnă ale conducătorilor auto şi utilizarea aparatelor de înregistrare a activităţii acestora, excepţie ridicată de Societatea Comercială \"Tina Trans Expres\" S.R.L. din Constanţa în Dosarul nr. 673/229/2009 al Judecătoriei Feteşti, de Societatea Comercială \"Elvatrans Spedition\" - S.R.L. din Rădăuţi în Dosarul nr. 8.889/180/2008 al Judecătoriei Bacău şi de Societatea Comercială \"Vaidacom\" - S.R.L. din Sângeorgiu de Mureş în Dosarul nr. 2.992/229/2008 al Tribunalului Ialomiţa - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 37/2007",
+    "number": "37",
+    "year": "2007",
+    "path": "og/2007/37"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 21/2009",
+    "number": "21",
+    "year": "2009",
+    "path": "og/2009/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114460",
+  "text_sha256": "51ec53e12e736851da45c48be2fd0bf6dc507e993a74e264c452b869c6376772",
+  "catalogue_sha256": "51ec53e12e736851da45c48be2fd0bf6dc507e993a74e264c452b869c6376772",
+  "fetched": "2026-11-03T04:45:40Z",
+  "chars": 16860,
+  "portal_id": "114460",
+  "tip": "DECIZIE"
+ }
+}
