@@ -1,0 +1,179 @@
+{
+ "key": "dcc-1437-2009",
+ "label": "Decizia CCR nr. 1437/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1437",
+ "date": "2009-11-05",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.437 din 5 noiembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 94 alin. (1) lit. m) din Legea nr. 188/1999 privind Statutul funcţionarilor publici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "881",
+  "bis": false,
+  "date": "2009-12-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "393/54/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 94 alin. (1) lit. m) din Legea nr. 188/1999 privind Statutul funcţionarilor publici, excepţie ridicată de Silviu Viorel Cotigă în Dosarul nr. 393/54/2009 al Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114534",
+  "text_sha256": "d69203a6cd315de4ee52d1272f653a48c678e70a7631e067cfce46ec9cf1b82a",
+  "catalogue_sha256": "d69203a6cd315de4ee52d1272f653a48c678e70a7631e067cfce46ec9cf1b82a",
+  "fetched": "2026-11-04T03:18:41Z",
+  "chars": 8949,
+  "portal_id": "114534",
+  "tip": "DECIZIE"
+ }
+}
