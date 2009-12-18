@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale C.C.A. LEASING IFN - S.A., cu sediul în Baia Mare, Bd. Independenței nr. 48, județul Maramureș, înregistrată la registrul comerțului sub nr. J24/357/2001, cod unic de înregistrare 13914620, înscrisă în Registrul general al instituțiilor financiare nebancare la secțiunea k) "Activități multiple de creditare" sub nr. RG-PJR-25-110059. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 10 decembrie 2009. Nr. 1.043. -------
