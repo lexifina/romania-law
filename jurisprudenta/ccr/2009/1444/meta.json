@@ -1,0 +1,189 @@
+{
+ "key": "dcc-1444-2009",
+ "label": "Decizia CCR nr. 1444/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1444",
+ "date": "2009-11-05",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.444 din 5 noiembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. I pct. 10 şi art. VII din Ordonanţa de urgenţă a Guvernului nr. 100/2007 pentru modificarea şi completarea unor acte normative în domeniul justiţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "894",
+  "bis": false,
+  "date": "2009-12-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.547/117/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 100/2007",
+    "number": "100",
+    "year": "2007",
+    "path": "oug/2007/100"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. I pct. 10 şi art. VII din Ordonanţa de urgenţă a Guvernului nr. 100/2007 pentru modificarea şi completarea unor acte normative în domeniul justiţiei, excepţie ridicată de Vasile P. Pop în Dosarul nr. 3.547/117/2008 al Curţii de Apel Cluj - Secţia civilă, de muncă şi asigurări sociale, pentru minori şi familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 100/2007",
+    "number": "100",
+    "year": "2007",
+    "path": "oug/2007/100"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114735",
+  "text_sha256": "a1a8da80f5e6eb66ad09a5fce3487916100a8627e271bf4b4c861443aff59985",
+  "catalogue_sha256": "a1a8da80f5e6eb66ad09a5fce3487916100a8627e271bf4b4c861443aff59985",
+  "fetched": "2026-11-03T04:45:20Z",
+  "chars": 7810,
+  "portal_id": "114735",
+  "tip": "DECIZIE"
+ }
+}
