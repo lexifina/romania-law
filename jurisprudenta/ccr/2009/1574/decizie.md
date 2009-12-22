@@ -1,0 +1,25 @@
+# DECIZIE nr. 1.574 din 19 noiembrie 2009
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 155 lit. d) şi e) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Ion Predescu - judecător Tudorel Toader - judecător Puskas Valentin Zoltan - judecător Augustin Zegrean - judecător Carmen-Cătălina Gliga - procuror Patricia Marilena Ionea - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 155 lit. d) şi e) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, excepţie ridicată de Nicolae Coandă în Dosarul nr. 9.510/63/2007 al Tribunalului Dolj - Secţia conflicte de muncă şi asigurări sociale.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate ca inadmisibilă, arătând că autorul excepţiei nu precizează textele din Constituţie pretins a fi încălcate.
+CURTEA, având în vedere actele şi lucrările dosarului, constată următoarele:
+Prin Încheierea din 2 februarie 2009, pronunţată în Dosarul nr. 9.510/63/2007, Tribunalul Dolj - Secţia conflicte de muncă şi asigurări sociale a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 155 lit. d) şi e) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale. Excepţia a fost ridicată de Nicolae Coandă cu prilejul soluţionării unei contestaţii formulate împotriva deciziei de pensionare.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia arată doar că textul de lege criticat este neconstituţional, fără a indica textele din Constituţie pretins a fi încălcate.
+Tribunalul Dolj - Secţia conflicte de muncă şi asigurări sociale, constatând că autorul excepţiei nu şi-a motivat excepţia de neconstituţionalitate, arată că nu poate exprima o opinie referitoare la excepţia de neconstituţionalitate.
+În conformitate cu dispoziţiile art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului, precum şi Avocatului Poporului, pentru a-şi formula punctele de vedere cu privire la excepţia de neconstituţionalitate.
+Avocatul Poporului consideră că prevederile de lege criticate sunt constituţionale.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele de vedere solicitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate cu care a fost sesizată.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 155 lit. d) şi e) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, publicată în Monitorul Oficial al României, Partea I, nr. 140 din 1 aprilie 2000, dispoziţii potrivit cărora: "Tribunalele soluţionează în primă instanţă litigiile privind: [...]
+d) deciziile de pensionare;
+e) refuzul nejustificat de rezolvare a unei cereri privind drepturile de asigurări sociale;".
+Autorul excepţiei nu arată ce dispoziţii din Constituţie încalcă textul de lege ce face obiectul excepţiei de neconstituţionalitate.
+Examinând excepţia de neconstituţionalitate, Curtea constată că autorul excepţiei nu arată nici motivele, nici textele din Constituţie în raport cu care susţine că art. 155 lit. d) şi e) din Legea nr. 19/2000 este neconstituţional.
+Prin urmare, se contravine cerinţelor art. 10 alin. (2) din Legea nr. 47/1992 care prevede că "sesizările trebuie făcute în formă scrisă şi motivate", astfel că excepţia de neconstituţionalitate este inadmisibilă.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 155 lit. d) şi e) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, excepţie ridicată de Nicolae Coandă în Dosarul nr. 9.510/63/2007 al Tribunalului Dolj - Secţia conflicte de muncă şi asigurări sociale.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 19 noiembrie 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Patricia Marilena Ionea -------
