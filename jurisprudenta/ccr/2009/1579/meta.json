@@ -1,0 +1,207 @@
+{
+ "key": "dcc-1579-2009",
+ "label": "Decizia CCR nr. 1579/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1579",
+ "date": "2009-11-19",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.579 din 19 noiembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "896",
+  "bis": false,
+  "date": "2009-12-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.908/96/2008",
+  "3.610D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în dosarele nr. 2.908/96/2008, nr. 2.909/96/2008, nr. 2.910/96/2008, nr. 2.911/96/2008, nr. 2.912/96/2008, nr. 2.924/96/2008, nr. 3.247/96/2008, nr. 3.250/96/2008, nr. 3.253/96/2008, nr. 3.254/96/2008, nr. 2.904/96/2008, nr. 2.905/96/2008, nr. 2.903/96/2008, nr. 2.906/96/2008, nr. 2.907/96/2008, nr. 2.902/96/2008, nr. 2.901/96/2008, nr. 2.898/96/2008, nr. 2.899/96/2008, nr. 2.845/96/2008, nr. 2.895/96/2008, nr. 2.897/96/2008, nr. 2.896/96/2008, nr. 2.900/96/2008, nr. 3.448/96/2008, nr. 3.446/96/2008, nr. 3.423/96/2008, nr. 2.861/96/2008, nr. 3.452/96/2008, nr. 2.818/96/2008, nr. 2.832/96/2008, nr. 3.461/96/2008, nr. 2.846/96/2008, nr. 2.849/96/2008, nr. 2.817/96/2008, nr. 2.822/96/2008, nr. 2.824/96/2008, nr. 3.460/96/2008, nr. 3.471/96/2008, nr. 2.984/96/2008, nr. 2.985/96/2008, nr. 3.417/96/2008, nr. 3.469/96/2008, nr. 3.447/96/2008, nr. 3.451/96/2008, nr. 3.455/96/2008, nr. 3.463/96/2008, nr. 3.466/96/2008, nr. 3.430/96/2008, nr. 3.489/96/2008, nr. 3.443/96/2008, nr. 3.511/96/2008, nr. 3.424/96/2008, nr. 3.425/96/2008, nr. 2.833/96/2008, nr. 2.844/96/2008, nr. 3.497/96/2008, nr. 3.549/96/2008, nr. 3.562/96/2008, nr. 3.568/96/2008, nr. 3.570/96/2008, nr. 3.571/96/2008, nr. 3.481/96/2008, nr. 3.483/96/2008, nr. 3.495/96/2008, nr. 3.524/96/2008, nr. 3.544/96/2008, nr. 3.546/96/2008, nr. 2.692/96/2008, nr. 2.685/96/2008, nr. 2.679/96/2008, nr. 2.676/96/2008, nr. 2.707/96/2008, nr. 2.690/96/2008, nr. 2.689/96/2008, nr. 2.686/96/2008, nr. 2.697/96/2008, nr. 2.702/96/2008, nr. 2.700/96/2008, nr. 2.698/96/2008, nr. 2.708/96/2008, nr. 2.936/96/2008, nr. 2.935/96/2008, nr. 2.933/96/2008, nr. 2.932/96/2008, nr. 2.944/96/2008, nr. 2.943/96/2008, nr. 2.945/96/2008, nr. 2.940/96/2008, nr. 2.939/96/2008, nr. 2.947/96/2008, nr. 3.246/96/2008, nr. 3.248/96/2008, nr. 3.252/96/2008, nr. 2.663/96/2008, nr. 2.658/96/2008, nr. 2.652/96/2008, nr. 2.674/96/2008, nr. 2.671/96/2008, nr. 2.666/96/2008, nr. 2.665/96/2008, nr. 2.651/96/2008, nr. 3.257/96/2008, nr. 3.360/96/2008, nr. 2.938/96/2008, nr. 2.687/96/2008, nr. 2.670/96/2008, nr. 2.948/96/2008, nr. 3.558/96/2008, nr. 3.560/96/2008, nr. 2.812/96/2008, nr. 3.519/96/2008, nr. 3.520/96/2008, nr. 3.542/96/2008, nr. 2.913/96/2008, nr. 3.517/96/2008, nr. 2.916/96/2008, nr. 2.915/96/2008, nr. 2.914/96/2008, nr. 2.918/96/2008, nr. 2.919/96/2008, nr. 2.917/96/2008, nr. 2.921/96/2008, nr. 2.922/96/2008, nr. 2.923/96/2008, nr. 3.256/96/2008, nr. 2.920/96/2008, nr. 2.839/96/2008, nr. 2.840/96/2008, nr. 2.842/96/2008, nr. 2.866/96/2008, nr. 2.862/96/2008, nr. 2.843/96/2008, nr. 2.835/96/2008, nr. 2.830/96/2008, nr. 2.883/96/2008, nr. 2.876/96/2008, nr. 2.875/96/2008, nr. 2.820/96/2008, nr. 2.823/96/2008, nr. 2.826/96/2008, nr. 2.734/96/2008, nr. 2.710/96/2008, nr. 2.715/96/2008, nr. 2.716/96/2008, nr. 2.717/96/2008, nr. 2.718/96/2008, nr. 2.719/96/2008, nr. 2.721/96/2008, nr. 2.722/96/2008, nr. 2.735/96/2008, nr. 2.737/96/2008, nr. 2.738/96/2008, nr. 2.740/96/2008, nr. 2.741/96/2008, nr. 2.742/96/2008, nr. 2.744/96/2008, nr. 2.751/96/2008, nr. 2.746/96/2008, nr. 2.747/96/2008, nr. 2.756/96/2008, nr. 2.669/96/2008, nr. 2.660/96/2008, nr. 2.941/96/2008, nr. 2.723/96/2008, nr. 2.761/96/2008, nr. 3.554/96/2008, nr. 2.759/96/2008, nr. 3.480/96/2008, nr. 3.486/96/2008, nr. 3.422/96/2008, nr. 3.414/96/2008, nr. 3.387/96/2008, nr. 3.388/96/2008 şi nr. 3.362/96/2008 ale Tribunalului Harghita - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2009-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114880",
+  "text_sha256": "b3eeb4f7955796e6097825964971269d96994cc044e043ccbfae6d475c0eb80d",
+  "catalogue_sha256": "b3eeb4f7955796e6097825964971269d96994cc044e043ccbfae6d475c0eb80d",
+  "fetched": "2026-11-03T04:45:20Z",
+  "chars": 18883,
+  "portal_id": "114880",
+  "tip": "DECIZIE"
+ }
+}
