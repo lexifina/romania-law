@@ -1,0 +1,31 @@
+# Anexă
+ACT ADIȚIONAL Nr. 17 la Contractul de mentenanță de material rulant și feroviar pentru circulația în tunel nr. 91/2003 Încheiat și semnat astăzi,....................., între: Societatea Comercială de Transport cu Metroul București "Metrorex" - S.A., cu sediul social în municipiul București, bd. Dinicu Golescu nr. 38, sectorul 1, înregistrată la Oficiul Registrului Comerțului de pe lângă Tribunalul București sub nr. J40/6.880/1990, CUI RO 13863739, legal reprezentată prin domnul Gheorghe Udriște, în calitate de director general, (denumită în continuare Beneficiar), și Societatea Comercială "ALSTOM Transport" - S.A., cu sediul social în municipiul București, bd. Basarabia nr. 256, sectorul 3, înregistrată la Oficiul Registrului Comerțului de pe lângă Tribunalul București sub nr. J40/22.347/1994, CUI RO 6640696, reprezentată prin domnul Gabriel Stanciu, în calitate de director general, (denumită în continuare Prestator), denumite în continuare, individual, partea și, împreună, părțile, care de comun acord, în conformitate cu dispozițiile Actului adițional nr. 11 și ale Actului adițional nr. 14 la Contractul de mentenanță de material rulant și feroviar pentru circulația în tunel nr. 91/2003 (denumit în continuare Contractul), astfel cum a fost modificat și completat ulterior, precum și cu dispozițiile Hotărârii Guvernului nr. 1.501/2007 pentru modificarea Hotărârii Guvernului nr. 47/2004 privind aprobarea contractului de mentenanță de material rulant și feroviar pentru circulația în tunel, încheiat între Societatea Comercială de Transport cu Metroul București "Metrorex" - S.A. și Societatea Comercială "ALSTOM Transport" - S.A., au convenit modificarea și completarea Contractului după cum urmează: I. Actualizarea/revizuirea pentru anul VI contractual Ca urmare a stabilirii coeficienților de actualizare/revizuire pentru cel de-al șaselea an contractual, prin Procesul-verbal semnat în data de 30 noiembrie 2009, anexat la prezentul act adițional (anexa nr. 1), și a mecanismului de calcul stabilit conform prevederilor actelor adiționale nr. 11 și 14 la Contract, prețurile actualizate și revizuite pentru anul VI de mentenanță devin: - componenta fixă: 2.372.883,90 lei; - preț unitar Astra: 44.565,43 lei; - preț unitar Bombardier 2: 23.448,18 lei; - preț unitar Bombardier 21 (anul 2 de exploatare): 25.768,88 lei; - preț unitar Bombardier 21 (anul 3 de exploatare): 26.370,08 lei; - preț unitar Bombardier 21 (anul 4 de exploatare): 30.950,06 lei; - preț unitar Bombardier 21 (anul 5 de exploatare): 23.448,18 lei. II. Actualizarea anexei nr. 9 la Contract În aplicarea prevederilor cap. V din Actul adițional nr. 14 la Contract: - reprezentanții părților convin ca la determinarea indicilor de actualizare/revizuire corespunzători celui de-al șaselea an contractual să fie utilizate un număr de 6 (șase) zecimale după virgulă, așa cum s-a convenit prin Procesul-verbal din data de 30 octombrie 2009; - anexa nr. 9 la Contract, actualizată conform indicilor finali de actualizare/revizuire corespunzători anului VI de mentenanță, va fi modificată și va avea forma prevăzută în anexa nr. 2 la prezentul act adițional. III. Parcul de vagoane supus mentenanței în anul VII de contract (iulie 2010 - iunie 2011) Având în vedere necesitatea asigurării unui număr optim de trenuri pentru transportul călătorilor și micșorarea intervalelor de urmărire între trenuri, se completează cap. I din Actul adițional nr. 14 la Contract, art. 5 alin. (2) referitor la "Evoluția parcului de vagoane", cu parcul de vagoane prevăzut pentru perioada de mentenanță a anului VII contractual (iulie 2010 - iunie 2011), astfel:
+```
+┌─────────────────────┬──────────────────────────────────┬─────┬────┬────┐
+│    An contractual/  │            Trimestrul            │Parc │Parc│Parc│
+│   An calendaristic  │(corespunzător anului contractual)│ASTRA│BM2 │BM21│
+├─────────────────────┼──────────────────────────────────┼─────┼────┼────┤
+│     Anul VII        │Trimestrul I                      │140  │108 │156 │
+│iulie 2010-iunie 2011├──────────────────────────────────┼─────┼────┼────┤
+│                     │Trimestrul II                     │156  │108 │156 │
+│                     ├──────────────────────────────────┼─────┼────┼────┤
+│                     │Trimestrul III                    │156  │108 │156 │
+│                     ├──────────────────────────────────┼─────┼────┼────┤
+│                     │Trimestrul IV                     │192  │108 │156 │
+└─────────────────────┴──────────────────────────────────┴─────┴────┴────┘
+```
+IV. Estimarea prețului mentenanței pentru anul VII contractual Conform prevederilor cap. VI din Actul adițional nr. 14 la Contract, estimarea prețului mentenanței pentru pentru anul VII contractual se va face în baza valorilor cuprinse în anexa nr. 9 la Contract, actualizată conform cap. II de mai sus, și a parcului de vagoane ce va fi supus mentenanței, conform prevederilor cap. III de mai sus. Astfel, până la stabilirea indicilor de actualizare/revizuire pentru anul VII contractual, prețul mentenanței care va fi utilizat la întocmirea facturilor aferente anului VII este: - componenta fixă: 2.372.883,90 lei; - preț unitar Astra: 44.565,43 lei; - preț unitar Bombardier 2: 23.448,18 lei; - preț unitar Bombardier 21 (anul 2 de exploatare): 25.768,88 lei; - preț unitar Bombardier 21 (anul 3 de exploatare): 26.370,08 lei; - preț unitar Bombardier 21 (anul 4 de exploatare): 30.950,06 lei; - preț unitar Bombardier 21 (anul 5 de exploatare): 23.448,18 lei. V. Aplicarea prețurilor unitare Aplicarea prețurilor unitare determinate conform prezentului act adițional se va face cu respectarea prevederilor Hotărârii Guvernului nr. 1.501/2007. Prin urmare, având în vedere cele de mai sus, prezentul act adițional a fost încheiat și semnat astăzi,...............2009, în două exemplare originale în limba română, câte unul pentru fiecare parte.
+Pentru și în numele
+Pentru și în numele
+Societății Comerciale de Transport
+Societății Comerciale cu Metroul București "Metrorex" - S.A.
+"ALSTOM Transport" - S.A.
+Director general,
+Director general,
+Gheorghe Udriște
+Gabriel Stanciu
+Director economic,
+Nicolae Grigore
+Director exploatare,
+Gabriel Sburlan Șef Serviciu juridic,
+Sorin Cristea
