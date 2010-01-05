@@ -1,0 +1,162 @@
+{
+ "key": "dcc-1634-2009",
+ "label": "Decizia CCR nr. 1634/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1634",
+ "date": "2009-12-03",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.634 din 3 decembrie 2009",
+ "subtitle": "referitoare la respingerea excepţiei de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 134/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "5",
+  "bis": false,
+  "date": "2010-01-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "10.753/1/2008",
+  "15.712/318/2007",
+  "3.030/299/2009",
+  "6.327/114/2007",
+  "719./43/2007",
+  "1.254/63/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 134/2005",
+    "number": "134",
+    "year": "2005",
+    "path": "oug/2005/134"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 134/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie, excepţie ridicată de Anton Paul Păcuraru în Dosarul nr. 10.753/1/2008 al Înaltei Curţi de Casaţie şi Justiţie - Secţia penală, de Dan Ilie Morega în Dosarul nr. 15.712/318/2007 al Înaltei Curţi de Casaţie şi Justiţie - Secţia penală, de Mihai Gabriel Misir în Dosarul nr. 3.030/299/2009 al Judecătoriei Sectorului 1 Bucureşti, de Mugurel Blendea, Liliana Carmen Covrescu, Viorel Dinescu, Maricica Gheţu, Dan Grecu, Gabriel Iancu, Cristian Valeriu Ilieşi, Ion Istvan, Georgeta Luca, Marian Micu, Mircea Mocanu, Viorel Gigi Neagoe, Dan Pascu, Tudora Pădurean, Niculina Tătaru, Marilena Toma, Georgeta Tomescu, Marian Tudorache, Mariana Ţigău şi Lucian Zgorecea în Dosarul nr. 6.327/114/2007 al Tribunalului Buzău - Secţia penală, de Ioan Adrian Boilă în Dosarul nr. 719./43/2007 al Înaltei Curţi de Casaţie şi Justiţie - Secţia penală şi de Petre Ciobotea în Dosarul nr. 1.254/63/2006 al Înaltei Curţi de Casaţie şi Justiţie - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 134/2005",
+    "number": "134",
+    "year": "2005",
+    "path": "oug/2005/134"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/2006",
+    "number": "54",
+    "year": "2006",
+    "path": "lege/2006/54"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-01-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115082",
+  "text_sha256": "9f71ed56c13fbbebdb9b45f590e1a6755a9074361ea24aaae7c2c04911331b02",
+  "catalogue_sha256": "9f71ed56c13fbbebdb9b45f590e1a6755a9074361ea24aaae7c2c04911331b02",
+  "fetched": "2026-11-03T04:44:53Z",
+  "chars": 9002,
+  "portal_id": "115082",
+  "tip": "DECIZIE"
+ }
+}
