@@ -1,0 +1,196 @@
+{
+ "key": "dcc-1491-2009",
+ "label": "Decizia CCR nr. 1491/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1491",
+ "date": "2009-11-10",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.491 din 10 noiembrie 2009",
+ "subtitle": "referitoare la respingerea excepţiei de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 73/2008 pentru prorogarea termenelor de intrare în vigoare a Legii nr. 301/2004 - Codul penal şi a Legii nr. 294/2004 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "5",
+  "bis": false,
+  "date": "2010-01-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "14.386/212/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 73/2008",
+    "number": "73",
+    "year": "2008",
+    "path": "oug/2008/73"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 294/2004",
+    "number": "294",
+    "year": "2004",
+    "path": "lege/2004/294"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 73/2008 pentru prorogarea termenelor de intrare în vigoare a Legii nr. 301/2004 - Codul penal şi a Legii nr. 294/2004 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal, excepţie ridicată de George Căluian în Dosarul nr. 14.386/212/2007 al Curţii de Apel Constanţa - Secţia penală şi pentru cauze cu minori şi de familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 73/2008",
+    "number": "73",
+    "year": "2008",
+    "path": "oug/2008/73"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 294/2004",
+    "number": "294",
+    "year": "2004",
+    "path": "lege/2004/294"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 301/2004",
+    "number": "301",
+    "year": "2004",
+    "path": "lege/2004/301"
+   },
+   "articles": [
+    {
+     "art": "512",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 286/2009",
+    "number": "286",
+    "year": "2009",
+    "path": "lege/2009/286"
+   },
+   "articles": [
+    {
+     "art": "446",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-01-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115079",
+  "text_sha256": "2994f23df9617770fe33dc9169e8f793f04d7a5177e4e411b9dfd5df24036b2c",
+  "catalogue_sha256": "2994f23df9617770fe33dc9169e8f793f04d7a5177e4e411b9dfd5df24036b2c",
+  "fetched": "2026-11-03T04:44:53Z",
+  "chars": 7784,
+  "portal_id": "115079",
+  "tip": "DECIZIE"
+ }
+}
