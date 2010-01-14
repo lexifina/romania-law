@@ -1,0 +1,142 @@
+{
+ "key": "cedo-10778-02-2008-11-04",
+ "label": "CEDO, Niţă c. României, 2008-11-04",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-11-04",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 4 noiembrie 2008",
+ "subtitle": "în Cauza Niţă împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "30",
+  "bis": false,
+  "date": "2010-01-14",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "10778/02"
+ ],
+ "case_name": "Niţă",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 3 din Convenţie şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 3 din Convenţie sub aspectul laturii sale materiale; 3. hotărăşte că a avut loc încălcarea art. 3 din Convenţie sub aspectul laturii sale procedurale; 4. hotărăşte",
+  "a) ca statul pârât să plătească, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, câte 7.000 EUR (şapte mii euro) fiecăruia dintre reclamanţi ca daune morale şi 450 EUR (patru sute cincizeci euro) împreună reclamanţilor pentru cheltuieli de judecată, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "c) ca sumele menţionate mai sus să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115321",
+  "text_sha256": "c3d9ad9d4d1673f044dedb5613e5485809dc165dcac5f8e24d456c0104339f60",
+  "catalogue_sha256": "c3d9ad9d4d1673f044dedb5613e5485809dc165dcac5f8e24d456c0104339f60",
+  "fetched": "2026-11-03T04:44:37Z",
+  "chars": 41548,
+  "portal_id": "115321",
+  "tip": "HOTĂRÂRE"
+ }
+}
