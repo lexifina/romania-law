@@ -1,0 +1,207 @@
+{
+ "key": "dcc-1627-2009",
+ "label": "Decizia CCR nr. 1627/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1627",
+ "date": "2009-12-03",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.627 din 3 decembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "28",
+  "bis": false,
+  "date": "2010-01-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.404/96/2008",
+  "4.452D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în Dosarele nr. 3.404/96/2008, nr. 3.525/96/2008, nr. 3.534/96/2008, nr. 3.513/96/2008, nr. 3.522/96/2008, nr. 2.739/96/2008, nr. 3.561/96/2008, nr. 3.567/96/2008, nr. 3.540/96/2008, nr. 2.879/96/2008, nr. 2.874/96/2008, nr. 3.551/96/2008, nr. 3.547/96/2008, nr. 3.539/96/2008, nr. 3.503/96/2008, nr. 3.484/96/2008, nr. 3.454/96/2008, nr. 3.426/96/2008, nr. 3.255/96/2008, nr. 3.251/96/2008, nr. 3.010/96/2008, nr. 3.533/96/2008, nr. 3.532/96/2008 nr. 3.527/96/2008, nr. 3.514/96/2008, nr. 3.507/96/2008, nr. 3.384/96/2008, nr. 3.380/96/2008, nr. 3.375/96/2008, nr. 3.374/96/2008, nr. 3.366/96/2008, nr. 3.574/96/2008, nr. 3.432/96/2008, nr. 3.409/96/2008, nr. 3.413/96/2008, nr. 3.420/96/2008, nr. 3.427/96/2008, nr. 3.403/96/2008, nr. 3.249/96/2008, nr. 3.368/96/2008, nr. 3.376/96/2008, nr. 3.377/96/2008, nr. 3.402/96/2008, nr. 3.399/96/2008, nr. 3.389/96/2008, nr. 3.494/96/2008, nr. 3.504/96/2008, nr. 3.435/96/2008, nr. 3.407/96/2008, nr. 3.397/96/2008, nr. 3.381/96/2008, nr. 2.847/96/2008, nr. 3.575/96/2008, nr. 3.572/96/2008, nr. 3.566/96/2008, nr. 3.564/96/2008, nr. 3.418/96/2008, nr. 3.410/96/2008, nr. 3.434/96/2008, nr. 3.500/96/2008, nr. 2.758/96/2008, nr. 2.811/96/2008, nr. 2.813/96/2008, nr. 3.361/96/2008, nr. 3.356/96/2008, nr. 3.442/96/2008, nr. 3.437/96/2008, nr. 3.433/96/2008, nr. 3.406/96/2008, nr. 3.396/96/2008, nr. 3.382/96/2008, nr. 2.888/96/2008, nr. 2.887/96/2008, nr. 2.882/96/2008, nr. 2.880/96/2008, nr. 2.757/96/2008, nr. 2.712/96/2008, nr. 2.748/96/2008, nr. 2.749/96/2008, nr. 2.752/96/2008, nr. 2.753/96/2008, nr. 2.709/96/2008, nr. 2.703/96/2008, nr. 3.505/96/2008, nr. 3.501/96/2008, nr. 3.541/96/2008, nr. 3.526/96/2008, nr. 3.521/96/2008, nr. 2.677/96/2008, nr. 2.678/96/2008, nr. 2.683/96/2008, nr. 2.682/96/2008, nr. 2.681/96/2008, nr. 2.691/96/2008, nr. 3.379/96/2008, nr. 3.373/96/2008, nr. 2.693/96/2008, nr. 2.694/96/2008, nr. 3.365/96/2008, nr. 3.359/96/2008, nr. 3.364/96/2008, nr. 3.569/96/2008, nr. 3.550/96/2008, nr. 3.555/96/2008, nr. 3.371/96/2008 şi nr. 3.367/96/2008 ale Tribunalului Harghita - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-01-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115298",
+  "text_sha256": "c9425797f6fd5d2500c2ba5dd899b54cd2f6ed71b35b1dd6d0d4f8ffb2f28803",
+  "catalogue_sha256": "c9425797f6fd5d2500c2ba5dd899b54cd2f6ed71b35b1dd6d0d4f8ffb2f28803",
+  "fetched": "2026-11-03T04:44:37Z",
+  "chars": 14369,
+  "portal_id": "115298",
+  "tip": "DECIZIE"
+ }
+}
