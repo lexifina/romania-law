@@ -1,0 +1,297 @@
+{
+ "key": "dcc-1629-2009",
+ "label": "Decizia CCR nr. 1629/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1629",
+ "date": "2009-12-03",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.629 din 3 decembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 1-5 şi 26, art. III, art. IV, art. V, art. VIII şi anexa nr. 1 din Ordonanţa de urgenţă a Guvernului nr. 105/2009 privind unele măsuri în domeniul funcţiei publice, precum şi pentru întărirea capacităţii manageriale la nivelul serviciilor publice deconcentrate ale ministerelor şi ale celorlalte organe ale administraţiei publice centrale din unităţile administrativ-teritoriale şi ale altor servicii publice, precum şi pentru reglementarea unor măsuri privind cabinetul demnitarului din administraţia publică centrală şi locală, cancelaria prefectului şi cabinetul alesului local",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "28",
+  "bis": false,
+  "date": "2010-01-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "551/46/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 105/2009",
+    "number": "105",
+    "year": "2009",
+    "path": "oug/2009/105"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VIII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Laurenţiu Achimescu în Dosarul nr. 551/46/2009 al Curţii de Apel Piteşti - Secţia comercială şi de contencios administrativ şi fiscal şi constată că dispoziţiile art. I pct. 1-5 şi 26, art. III, art. IV, art. V, art. VIII şi anexa nr. 1 din Ordonanţa de urgenţă a Guvernului nr. 105/2009 privind unele măsuri în domeniul funcţiei publice, precum şi pentru întărirea capacităţii manageriale la nivelul serviciilor publice deconcentrate ale ministerelor şi ale celorlalte organe ale administraţiei publice centrale din unităţile administrativ-teritoriale şi ale altor servicii publice, precum şi pentru reglementarea unor măsuri privind cabinetul demnitarului din administraţia publică centrală şi locală, cancelaria prefectului şi cabinetul alesului local sunt neconstituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 37/2009",
+    "number": "37",
+    "year": "2009",
+    "path": "oug/2009/37"
+   },
+   "articles": [],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 105/2009",
+    "number": "105",
+    "year": "2009",
+    "path": "oug/2009/105"
+   },
+   "articles": [
+    {
+     "art": "XIV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VIII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 37/2009",
+    "number": "37",
+    "year": "2009",
+    "path": "lege/2009/37"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii de aprobare a Ordonanţei de urgenţă a Guvernului nr. 105/2009",
+    "number": "105",
+    "year": "2009",
+    "path": "lege/2009/105"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-01-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115295",
+  "text_sha256": "54ac20a57c3b4eaaee9e21a2d801afe72dff37593b72fd3f52be8f0b14b5339b",
+  "catalogue_sha256": "54ac20a57c3b4eaaee9e21a2d801afe72dff37593b72fd3f52be8f0b14b5339b",
+  "fetched": "2026-11-03T04:44:37Z",
+  "chars": 23081,
+  "portal_id": "115295",
+  "tip": "DECIZIE"
+ }
+}
