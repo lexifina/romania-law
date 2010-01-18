@@ -1,0 +1,223 @@
+{
+ "key": "cedo-3584-02-2009-02-24",
+ "label": "CEDO, Tarău c. României, 2009-02-24",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-02-24",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 24 februarie 2009",
+ "subtitle": "în Cauza Tarău împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "37",
+  "bis": false,
+  "date": "2010-01-18",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "3584/02"
+ ],
+ "case_name": "Tarău",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 5 § 3 din Convenţie şi referitor la menţinerea reclamantei în stare de arest preventiv până la data de 21 ianuarie 2002 şi în ceea ce priveşte capetele de cerere întemeiate pe art. 5 § 4 şi art. 6 § 3 lit. d) din Convenţie şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 5 § 3 din Convenţie; 3. hotărăşte că a avut loc încălcarea art. 5 § 4 din Convenţie în ceea ce priveşte procedura de recurs împotriva măsurii arestării preventive a reclamantei, derulată în faţa Tribunalului Municipiului Bucureşti la data de 26 iunie 2001; 4. hotărăşte că nu este necesar să analizeze celelalte capete de cerere întemeiate pe art. 5 § 4 din Convenţie; 5. hotărăşte că a avut loc încălcarea art. 6 § 3 lit. d) din Convenţie; 6. hotărăşte că capătul de cerere al reclamantei întemeiat pe art. 13 coroborat cu art. 5 §§ 3 şi 4 şi cu art. 6 § 3 lit. d) din Convenţie nu ridică nicio chestiune distinctă; 7. hotărăşte",
+  "a) ca statul pârât să plătească, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, următoarele sume, ce vor fi convertite în moneda statului pârât la cursul de schimb valabil la data plăţii:",
+  "(i) 4.000 EUR (patru mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, cu titlu de daune morale, sumă ce va fi plătită reclamantei; (îi) 4.000 EUR (patru mii euro), pentru cheltuieli de judecată, sumă ce va fi plătită direct avocatului reclamantei;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "8. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3",
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 281/2003",
+    "number": "281",
+    "year": "2003",
+    "path": "lege/2003/281"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115375",
+  "text_sha256": "c03d2a42f10e50c188ec4d0cc03ba91a87c4e176d290d231958de158bc778d85",
+  "catalogue_sha256": "c03d2a42f10e50c188ec4d0cc03ba91a87c4e176d290d231958de158bc778d85",
+  "fetched": "2026-11-03T04:44:34Z",
+  "chars": 59997,
+  "portal_id": "115375",
+  "tip": "HOTĂRÂRE"
+ }
+}
