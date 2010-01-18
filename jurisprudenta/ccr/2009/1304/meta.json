@@ -1,0 +1,297 @@
+{
+ "key": "dcc-1304-2009",
+ "label": "Decizia CCR nr. 1304/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1304",
+ "date": "2009-10-13",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.304 din 13 octombrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 257 alin. (2) şi (8), art. 259 alin. (7) lit. a) şi b) şi alin. (8) şi art. 863 lit. b) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi ale art. 91 alin. (1) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "36",
+  "bis": false,
+  "date": "2010-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "15.841/211/2008",
+  "913D/2009",
+  "16.046/211/2008",
+  "797D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "7",
+      "8"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "863",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 257 alin. (2) şi (8), art. 259 alin. (7) lit. a) şi b) şi alin. (8) şi art. 863 lit. b) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi ale art. 91 alin. (1) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, excepţie ridicată de Flavia-Ioana Maier şi Anatol Pânzaru în dosarele nr. 15.841/211/2008 şi nr. 16.046/211/2008 ale Judecătoriei Cluj-Napoca.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "259",
+     "alin": [
+      "7",
+      "8"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "257",
+     "alin": [
+      "8",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "863",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "863",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 264/2007",
+    "number": "264",
+    "year": "2007",
+    "path": "lege/2007/264"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115361",
+  "text_sha256": "bedd7334828dc8a5ef54886688702116eff5bd72428e30f22c517af7c4d68eff",
+  "catalogue_sha256": "bedd7334828dc8a5ef54886688702116eff5bd72428e30f22c517af7c4d68eff",
+  "fetched": "2026-11-03T04:44:34Z",
+  "chars": 19166,
+  "portal_id": "115361",
+  "tip": "DECIZIE"
+ }
+}
