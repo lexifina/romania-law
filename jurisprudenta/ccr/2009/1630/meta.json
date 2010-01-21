@@ -1,0 +1,156 @@
+{
+ "key": "dcc-1630-2009",
+ "label": "Decizia CCR nr. 1630/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1630",
+ "date": "2009-12-03",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.630 din 3 decembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 18 din Legea nr. 104/2003 privind manipularea cadavrelor umane şi prelevarea organelor şi ţesuturilor de la cadavre în vederea transplantului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "48",
+  "bis": false,
+  "date": "2010-01-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 104/2003",
+    "number": "104",
+    "year": "2003",
+    "path": "lege/2003/104"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 18 din Legea nr. 104/2003 privind manipularea cadavrelor umane şi prelevarea organelor şi ţesuturilor de la cadavre în vederea transplantului, excepţie ridicată de Universitatea de Medicină şi Farmacie \"Victor Babeş\" din Timişoara în dosarele nr. 1.912.1/30/2008, nr. 1.925.1/30/2008, nr. 1.945.1/30/2008, nr. 1.910.1/30/2008 şi nr. 1.916.1/30/2008 ale Tribunalului Timiş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 104/2003",
+    "number": "104",
+    "year": "2003",
+    "path": "lege/2003/104"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-01-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115467",
+  "text_sha256": "d80892d90cb400b418cc6e18d60dbae41545adfd9d64d229735356f7cbb9ffa7",
+  "catalogue_sha256": "d80892d90cb400b418cc6e18d60dbae41545adfd9d64d229735356f7cbb9ffa7",
+  "fetched": "2026-11-03T04:44:26Z",
+  "chars": 7524,
+  "portal_id": "115467",
+  "tip": "DECIZIE"
+ }
+}
