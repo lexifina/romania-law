@@ -1,0 +1,160 @@
+{
+ "key": "dcc-1653-2009",
+ "label": "Decizia CCR nr. 1653/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1653",
+ "date": "2009-12-15",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.653 din 15 decembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 10 şi art. 11 din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "53",
+  "bis": false,
+  "date": "2010-01-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "810/296/2004"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 10 şi art. 11 din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe, excepţie ridicată de Vasile Dan şi Maria Dan în Dosarul nr. 810/296/2004 al Curţii de Apel Oradea - Secţia civilă mixtă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-01-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115527",
+  "text_sha256": "59e69978ab88054d212db3538e9ee5c92c2ca1fe88c914543a894ece481dbf8c",
+  "catalogue_sha256": "59e69978ab88054d212db3538e9ee5c92c2ca1fe88c914543a894ece481dbf8c",
+  "fetched": "2026-11-03T04:44:23Z",
+  "chars": 11976,
+  "portal_id": "115527",
+  "tip": "DECIZIE"
+ }
+}
