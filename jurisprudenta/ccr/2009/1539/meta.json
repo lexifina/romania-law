@@ -1,0 +1,152 @@
+{
+ "key": "dcc-1539-2009",
+ "label": "Decizia CCR nr. 1539/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1539",
+ "date": "2009-11-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.539 din 17 noiembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 36 lit. d) şi f) din Legea gazelor nr. 351/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "56",
+  "bis": false,
+  "date": "2010-01-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.088/176/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea gazelor nr. 351/2004",
+    "number": "351",
+    "year": "2004",
+    "path": "lege/2004/351"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 36 lit. d) şi f) din Legea gazelor nr. 351/2004, excepţie ridicată de Societatea Comercială \"Transeuro\" - S.R.L. în Dosarul nr. 5.088/176/2008 al Judecătoriei Alba Iulia.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea gazelor nr. 351/2004",
+    "number": "351",
+    "year": "2004",
+    "path": "lege/2004/351"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-01-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115599",
+  "text_sha256": "b56ac9bb4697252999b8ea499efbed93082a1ef72ae7d6b3d79f727656b6cd8e",
+  "catalogue_sha256": "b56ac9bb4697252999b8ea499efbed93082a1ef72ae7d6b3d79f727656b6cd8e",
+  "fetched": "2026-11-03T04:44:21Z",
+  "chars": 5440,
+  "portal_id": "115599",
+  "tip": "DECIZIE"
+ }
+}

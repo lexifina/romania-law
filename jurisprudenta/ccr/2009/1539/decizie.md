@@ -1,0 +1,26 @@
+# DECIZIE nr. 1.539 din 17 noiembrie 2009
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 36 lit. d) şi f) din Legea gazelor nr. 351/2004
+Ioan Vida - preşedinte Nicolae Cochinescu - judecător Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Ion Predescu - judecător Tudorel Toader - judecător Puskas Valentin Zoltan - judecător Augustin Zegrean - judecător Carmen-Cătălina Gliga - procuror Fabian Niculae - magistrat-asistent Pe rol se află soluţionarea excepţiei de neconstituţionalitate a art. 36 lit. d) şi f) din Legea gazelor nr. 351/2004, excepţie ridicată de Societatea Comercială "Transeuro" - S.R.L. în Dosarul nr. 5.088/176/2008 al Judecătoriei Alba Iulia.
+La apelul nominal se constată lipsa părţilor, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza este în stare de judecată.
+Reprezentantul Ministerului Public pune concluzii de respingere a excepţiei de neconstituţionalitate.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 23 aprilie 2009, pronunţată în Dosarul nr. 5.088/176/2008, Judecătoria Alba Iulia a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a prevederilor art. 36 lit. d) şi f) din Legea gazelor nr. 351/2004.
+Excepţia a fost ridicată de Societatea Comercială "Transeuro" - S.R.L. într-un dosar având ca obiect o acţiune în constatare.
+În motivarea excepţiei de neconstituţionalitate se arată, în esenţă, că textele legale criticate contravin art. 53 din Constituţie, întrucât, în ipoteza în care are loc o constatare de persoane neîmputernicite în acest scop de preşedintele A.N.R.G.N., se sistează, cu rea-credinţă, dreptul de acces la furnizarea gazelor. Autorul excepţiei apreciază că s-ar impune ca sistarea furnizării gazelor naturale să nu opereze de drept, ci numai după o dezbatere contradictorie în faţa instanţelor de judecată.
+Judecătoria Alba Iulia consideră că textele legale criticate sunt constituţionale.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Guvernul şi Avocatul Poporului apreciază că prevederile legale criticate sunt constituţionale.
+Preşedinţii celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale Guvernului şi Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie art. 36 lit. d) şi f) din Legea gazelor nr. 351/2004, publicată în Monitorul Oficial al României, Partea I, nr. 679 din 28 iulie 2004, dispoziţii ce au următorul cuprins: - Art. 36 lit. d) şi f): "Distribuitorul de gaze naturale are, în principal, următoarele drepturi: [...]
+d) să întrerupă funcţionarea obiectivelor sistemului de distribuţie şi alimentarea cu gaze naturale a consumatorilor pentru timpul strict necesar executării lucrărilor de întreţinere şi reparaţii, precum şi în alte situaţii prevăzute de prezenta lege sau în caz de forţă majoră, cu anunţarea prealabilă a dispecerilor sistemelor afectate şi, după caz, a consumatorilor; [...]
+f) să sisteze alimentarea cu gaze naturale a aparatelor de utilizare care nu respectă prevederile legislaţiei în vigoare;".
+În opinia autorului excepţiei textele de lege criticate contravin dispoziţiilor constituţionale ale art. 53 privind restrângerea exerciţiului unor drepturi sau al unor libertăţi.
+Examinând excepţia de neconstituţionalitate, Curtea constată că autorul cere, de fapt, modificarea prevederilor legale, fapt ce excedează competenţei Curţii Constituţionale, întrucât, potrivit prevederilor art. 2 alin. (3) din Legea nr. 47/1992, republicată în Monitorul Oficial al României, Partea I, nr. 643 din 16 iulie 2004, "Curtea Constituţională se pronunţă numai asupra constituţionalităţii actelor cu privire la care a fost sesizată, fără a putea modifica sau completa prevederile supuse controlului".
+Pentru motivele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 36 lit. d) şi f) din Legea gazelor nr. 351/2004, excepţie ridicată de Societatea Comercială "Transeuro" - S.R.L. în Dosarul nr. 5.088/176/2008 al Judecătoriei Alba Iulia.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 17 noiembrie 2009.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, prof. univ. dr. IOAN VIDA Magistrat-asistent, Fabian Niculae -------
