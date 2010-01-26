@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale IFN DUNAREA LEASING - S.A., cu sediul în municipiul București, bd. Burebista nr. 1, bl. D15, sc. C, ap. 102, sectorul 3, înmatriculată la oficiul registrului comerțului sub nr. J40/17884/1993, cod unic de înregistrare 4311336, înscrisă în Registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-41-080142. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 14 ianuarie 2010. Nr. 56. -------
