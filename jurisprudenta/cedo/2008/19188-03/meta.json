@@ -1,0 +1,175 @@
+{
+ "key": "cedo-19188-03-2008-10-07",
+ "label": "CEDO, Grigoraş c. României, 2008-10-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-10-07",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 7 octombrie 2008",
+ "subtitle": "în Cauza Grigoraş împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "65",
+  "bis": false,
+  "date": "2010-01-28",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "19188/03"
+ ],
+ "case_name": "Grigoraş",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 din Convenţie; 3. hotărăşte că nu este necesar să analizeze pe fond plângerea prin prisma art. 6 § 1 din Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să le restituie reclamanţilor apartamentul 14, situat în str. Turda nr. 108, municipiul Bucureşti, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa unei astfel de restituiri, statul pârât să le plătească împreună reclamanţilor, în acelaşi termen de 3 luni, suma de 36.000 EUR (treizeci şi şase mii euro), plus orice sumă care ar putea fi datorată cu titlu de impozit;",
+  "c) ca, în orice caz, statul pârât să le plătească împreună reclamanţilor, în acelaşi termen de 3 luni, suma de 4.000 EUR (patru mii euro) drept daune morale şi suma de 2.500 EUR (două mii cinci sute euro) cu titlu de cheltuieli de judecată, plus orice sumă care ar putea fi datorată cu titlu de impozit;",
+  "d) ca sumele menţionate mai sus să fie convertite în moneda naţională a statului pârât la cursul de schimb valabil la data plăţii;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115668",
+  "text_sha256": "18376779e407e438a172bed9ce2d6b05c6a69f3c1c3c273963427f053a73043d",
+  "catalogue_sha256": "18376779e407e438a172bed9ce2d6b05c6a69f3c1c3c273963427f053a73043d",
+  "fetched": "2026-11-03T04:44:15Z",
+  "chars": 16689,
+  "portal_id": "115668",
+  "tip": "HOTĂRÂRE"
+ }
+}
