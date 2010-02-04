@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale AGROPARTNERS LEASING IFN - S.A., cu sediul în municipiul București, str. Tudor Arghezi nr. 8, et. 7, camera 1, sectorul 2, înregistrată la oficiul registrul comerțului sub nr. J40/10277/2005, cod unic de înregistrare 17670544, înscrisă în registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-41-080125. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 22 ianuarie 2010. Nr. 92. ________
