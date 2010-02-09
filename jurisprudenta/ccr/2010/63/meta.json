@@ -1,0 +1,195 @@
+{
+ "key": "dcc-63-2010",
+ "label": "Decizia CCR nr. 63/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "63",
+ "date": "2010-01-19",
+ "year": "2010",
+ "heading": "DECIZIE nr. 63 din 19 ianuarie 2010",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "88",
+  "bis": false,
+  "date": "2010-02-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4/121/2005",
+  "5.214D/2009",
+  "5.277/212/2008",
+  "4.024D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 83 din Codul penal, excepţie invocată de Dănuţ Cătălin Stavăr în Dosarul nr. 4/121/2005 al Curţii de Apel Galaţi - Secţia penală şi de Ion Morariu Ciamiţa în Dosarul nr. 5.277/212/2008 al Curţii de Apel Constanţa - Secţia penală şi pentru cauze penale cu minori şi de familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-02-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115899",
+  "text_sha256": "ea8c4cbd8d54842292375240d5c5a42725497170a77900203b779c1a9c890be7",
+  "catalogue_sha256": "ea8c4cbd8d54842292375240d5c5a42725497170a77900203b779c1a9c890be7",
+  "fetched": "2026-11-06T03:40:54Z",
+  "chars": 9252,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20230322144654/https://legislatie.just.ro/Public/DetaliiDocument/115899",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/115899",
+   "timestamp": "20230322144654",
+   "sha256": "3ed418fb8c5eea3ec9c0410bcba405a7f495820446251a76b11e32cb4eb97ddd"
+  },
+  "portal_id": "115899",
+  "tip": "DECIZIE"
+ }
+}
