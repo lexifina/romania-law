@@ -1,0 +1,151 @@
+{
+ "key": "dcc-1685-2009",
+ "label": "Decizia CCR nr. 1685/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1685",
+ "date": "2009-12-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.685 din 17 decembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. (2) din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "89",
+  "bis": false,
+  "date": "2010-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.656/302/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 23 alin. (2) din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal, excepţie ridicată de Petrişor Stoican în Dosarul nr. 3.656/302/2009 al Judecătoriei Sectorului 5 Bucureşti - Secţia I penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115955",
+  "text_sha256": "54a77326ad34143bd8df96d9ac80bf4c16321c325276eb3a74f9aaddcf896c64",
+  "catalogue_sha256": "54a77326ad34143bd8df96d9ac80bf4c16321c325276eb3a74f9aaddcf896c64",
+  "fetched": "2026-11-03T04:43:34Z",
+  "chars": 6768,
+  "portal_id": "115955",
+  "tip": "DECIZIE"
+ }
+}
