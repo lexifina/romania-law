@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale ROMÂNIA LEASING IFN - S.A., cu sediul în municipiul București, str. Gaetano Donizetti nr. 19, sectorul 2, înregistrată la registrul comerțului sub nr. J40/5237/1994, cod unic de înregistrare 5395017, înscrisă în Registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-41-080195. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 2 februarie 2010. Nr. 120. ------
