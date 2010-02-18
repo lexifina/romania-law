@@ -1,0 +1,222 @@
+{
+ "key": "iccj-su-31-2009",
+ "label": "Decizia ÎCCJ nr. 31/2009 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "31",
+ "date": "2009-11-16",
+ "year": "2009",
+ "heading": "DECIZIE nr. 31 din 16 noiembrie 2009",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "111",
+  "bis": false,
+  "date": "2010-02-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "16/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 255/2004",
+    "number": "255",
+    "year": "2004",
+    "path": "lege/2004/255"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "374-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 30 alin. (3) teza I din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, republicată, se stabileşte că au caracter de titlu executoriu şi contractele de asistenţă juridică încheiate anterior intrării în vigoare a Legii nr. 255/2004 privind modificarea şi completarea Legii nr. 51/1995.",
+  "În interpretarea şi aplicarea unitară a prevederilor art. 30 alin. (3) teza a II-a din Legea nr. 51/1995, republicată, raportat la art. 374^1 din Codul de procedură civilă, se stabileşte că deşi contractele de asistenţă juridică au caracter de titlu executoriu conferit prin lege, pot fi puse în executare silită numai dacă au fost învestite cu formulă executorie.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 255/2004",
+    "number": "255",
+    "year": "2004",
+    "path": "lege/2004/255"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "374-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2010-02-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116300",
+  "text_sha256": "a3cc199a6f35c62898dc948a60e9575960f4aa37ab2583bec2c632a4220b329b",
+  "catalogue_sha256": "a3cc199a6f35c62898dc948a60e9575960f4aa37ab2583bec2c632a4220b329b",
+  "fetched": "2026-11-06T03:56:46Z",
+  "chars": 12157,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260203160320/https://legislatie.just.ro/Public/DetaliiDocumentAfis/116300",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/116300",
+   "timestamp": "20260203160320",
+   "sha256": "5fd6a48d3371668f278a4221759097cae01971af8bce7887db3b4ef6538fa74d"
+  },
+  "portal_id": "116300",
+  "tip": "DECIZIE"
+ }
+}
