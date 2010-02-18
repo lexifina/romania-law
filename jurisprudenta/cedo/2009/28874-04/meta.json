@@ -1,0 +1,152 @@
+{
+ "key": "cedo-28874-04-2009-05-26",
+ "label": "CEDO, Societatea Comercială Aledani - S.R.L. c. României, 2009-05-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-05-26",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 26 mai 2009",
+ "subtitle": "în Cauza Societatea Comercială Aledani - S.R.L. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "109",
+  "bis": false,
+  "date": "2010-02-18",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "28874/04"
+ ],
+ "case_name": "Societatea Comercială Aledani - S.R.L.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1 din Convenţie şi inadmisibilă în rest; 2. hotărăşte că a existat o încălcare a art. 6 § 1 din Convenţie ca urmare a încălcării principiului securităţii raporturilor juridice; 3. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantei, în termen de 3 luni de la data la care această hotărâre va deveni definitivă în conformitate cu art. 44 § 2 din Convenţie, suma de 2.000 EUR (două mii euro) cu titlu de daune morale, şi 500 EUR (cinci sute euro), pentru cheltuielile de judecată;",
+  "b) ca sumele în cauză să fie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii, la care se vor adăuga sumele posibil datorate cu titlu de impozit;",
+  "c) ca începând cu expirarea acestui termen şi până la plată această sumă să se majoreze cu o dobânda simplă la o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, aplicabilă pe perioada în cauză, majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de satisfacţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116290",
+  "text_sha256": "a39a21af87736e90bb3c90e57c7b0f30e4cb44a0b13041e1be7940de4360c322",
+  "catalogue_sha256": "a39a21af87736e90bb3c90e57c7b0f30e4cb44a0b13041e1be7940de4360c322",
+  "fetched": "2026-11-03T04:43:12Z",
+  "chars": 17077,
+  "portal_id": "116290",
+  "tip": "HOTĂRÂRE"
+ }
+}
