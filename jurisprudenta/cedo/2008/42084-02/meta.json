@@ -1,0 +1,312 @@
+{
+ "key": "cedo-42084-02-2008-03-25",
+ "label": "CEDO, Vitan c. României, 2008-03-25",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-03-25",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 25 martie 2008",
+ "subtitle": "în Cauza Vitan împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "114",
+  "bis": false,
+  "date": "2010-02-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "42084/02"
+ ],
+ "case_name": "Vitan",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. uneşte cu fondul şi respinge excepţia preliminară a Guvernului de neepuizare a căilor de atac interne în ceea ce priveşte capătul de cerere întemeiat pe art. 8; 2. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 §§ 1 şi 2 (cu privire la conferinţa de presă din data de 19 decembrie 2000) şi pe art. 6 § 3 şi art. 8 (cu privire la respectarea secretului corespondenţei în închisoare) şi inadmisibilă în rest; 3. hotărăşte că nu a avut loc încălcarea art. 6 §§ 1 şi 3 din Convenţie; 4. hotărăşte că a avut loc încălcarea art. 6 § 2 din Convenţie; 5. hotărăşte că a avut loc încălcarea art. 8 din Convenţie; 6. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, suma de 2.000 EUR (două mii euro) cu titlu de daune morale şi 200 EUR (două sute euro) pentru cheltuielile de judecată, plus orice sumă ce ar putea fi datorată cu titlu de impozit, ce vor fi convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "7. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 281/2003",
+    "number": "281",
+    "year": "2003",
+    "path": "lege/2003/281"
+   },
+   "articles": [
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1993",
+    "number": "54",
+    "year": "1993",
+    "path": "lege/1993/54"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/1990",
+    "number": "10",
+    "year": "1990",
+    "path": "lege/1990/10"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 736/2003",
+    "number": "736",
+    "year": "2003",
+    "path": "hg/2003/736"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "24"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 293/2004",
+    "number": "293",
+    "year": "2004",
+    "path": "lege/2004/293"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 23/1969",
+    "number": "23",
+    "year": "1969",
+    "path": "lege/1969/23"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 56/2003",
+    "number": "56",
+    "year": "2003",
+    "path": "oug/2003/56"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116335",
+  "text_sha256": "513931b845065cf8086882608f9a9473ff1ad2d99c461df7143f557a978fb03b",
+  "catalogue_sha256": "513931b845065cf8086882608f9a9473ff1ad2d99c461df7143f557a978fb03b",
+  "fetched": "2026-11-03T04:43:10Z",
+  "chars": 49881,
+  "portal_id": "116335",
+  "tip": "HOTĂRÂRE"
+ }
+}
