@@ -1,0 +1,180 @@
+{
+ "key": "dcc-89-2010",
+ "label": "Decizia CCR nr. 89/2010",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "89",
+ "date": "2010-01-26",
+ "year": "2010",
+ "heading": "DECIZIE nr. 89 din 26 ianuarie 2010",
+ "subtitle": "asupra obiecţiei de neconstituţionalitate referitoare la Legea privind abilitarea Guvernului de a emite ordonanţe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "115",
+  "bis": false,
+  "date": "2010-02-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "151A/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea privind abilitarea Guvernului de a emite ordonanţe"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Constată că obiecţia de neconstituţionalitate referitoare la Legea privind abilitarea Guvernului de a emite ordonanţe este inadmisibilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind abilitarea Guvernului de a emite ordonanţe a fost promulgată prin Decretul Preşedintelui României nr. 11/2010",
+    "number": "11",
+    "year": "2010",
+    "path": "lege/2010/11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 9/2010",
+    "number": "9",
+    "year": "2010",
+    "path": "lege/2010/9"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-02-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116331",
+  "text_sha256": "3e3dd7d74389e0c57eab9c3caa2fba150375c2e6665b3bdd626e585ee85bc447",
+  "catalogue_sha256": "3e3dd7d74389e0c57eab9c3caa2fba150375c2e6665b3bdd626e585ee85bc447",
+  "fetched": "2026-11-03T04:43:10Z",
+  "chars": 23113,
+  "portal_id": "116331",
+  "tip": "DECIZIE"
+ }
+}
