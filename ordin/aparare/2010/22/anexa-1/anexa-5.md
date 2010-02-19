@@ -1,0 +1,6 @@
+# Anexa nr. 5 la anexa nr. 1
+Anexa 5 ─────── la norme ───────── - Model - Clasa/nivelul de clasificare Exemplarul nr. S.E.............. TABEL cu cadrele militare care îndeplinesc cerințele minimale, admise pentru a fi analizate în cadrul comisiei de selecție, și punctajul acordat de membrii acesteia în vederea................
+Notă...
+- "trecerii maiștrilor militari și a subofițerilor în corpul ofițerilor".
+Nr. crt. Gradul, arma Vechimea în grad Numele și prenumele Data nașterii Funcția și unitatea Studii absolvite Data absolvirii Punctajul acordat de membrii comisiei Observații
+............................. (gradul)........................................... (numele și prenumele celui care face evaluarea)
