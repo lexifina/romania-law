@@ -1,0 +1,10 @@
+ ADDENDUM din 27 octombrie 2009  la Acordul de finanţare Phare 2006 privind Programul de sprijin comunitar în domeniul securităţii nucleare pentru România     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 121 din 23 februarie 2010     În cadrul asistenţei Phare pentru România, prezentul addendum a fost făcut la Acordul de finanţare privind Programul 2006 pentru sprijin comunitar în domeniul securităţii nucleare pentru România.
+				 +
+			  Articolul 1     Acordul de finanţare Phare 2006 privind Programul de sprijin comunitar în domeniul securităţii nucleare pentru România (2006/018-411.03), semnat la 16 iulie 2007, se modifică în continuare după cum urmează:  Perioada de execuţie a contractului pentru proiectul 2006/018-411.03.06 Modernizarea Depozitului Naţional de Deşeuri Radioactive Băiţa Bihor este extinsă cu 12 luni, până la 30 noiembrie 2010.
+				 +
+			  Articolul 2     Toate celelalte prevederi şi condiţii ale Acordului de finanţare 2006/018-411.03 şi ale addendumurilor la acesta rămân neschimbate.
+				 +
+			  Articolul 3     Prezentul addendum la acordul de finanţare este întocmit în două exemplare, în limba engleză.
+				 +
+			  Articolul 4     Prezentul addendum la Acordul de finanţare 2006/018-411.03 va intra în vigoare la data semnării de către ambele părţi.  Bucureşti  Data: 27 octombrie 2009.  Pentru beneficiar,  Bogdan Alexandru Drăgoi  Bruxelles  Data: 16 octombrie 2009.  Pentru Comunitatea Europeană,  Timo Summa  -----------------
