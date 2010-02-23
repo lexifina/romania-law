@@ -1,0 +1,196 @@
+{
+ "key": "dcc-3-2010",
+ "label": "Decizia CCR nr. 3/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "3",
+ "date": "2010-01-12",
+ "year": "2010",
+ "heading": "DECIZIE nr. 3 din 12 ianuarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "118",
+  "bis": false,
+  "date": "2010-02-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "472/116/2009",
+  "4.854D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în Dosarul nr. 472/116/2009 al Tribunalului Călăraşi - Secţia civilă, în dosarele nr. 4.741/85/2008 şi nr. 76/85/2009 ale Tribunalului Sibiu - Secţia civilă, precum şi în dosarele nr. 950/33/2009, nr. 945/33/2009, nr. 941/33/2009, nr. 949/33/2009, nr. 948/33/2009, nr. 946/33/2009, nr. 947/33/2009, nr. 942/33/2009, nr. 943/33/2009, nr. 940/33/2009, nr. 944/33/2009 şi nr. 4.090/117/2008 ale Curţii de Apel Cluj - Secţia civilă, de muncă şi asigurări sociale pentru minori şi familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-02-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116425",
+  "text_sha256": "3aa307ccff544c15ce12c3020f1d83f42fb7828928842a8a0421b2196a806f50",
+  "catalogue_sha256": "3aa307ccff544c15ce12c3020f1d83f42fb7828928842a8a0421b2196a806f50",
+  "fetched": "2026-11-03T04:43:05Z",
+  "chars": 9218,
+  "portal_id": "116425",
+  "tip": "DECIZIE"
+ }
+}
