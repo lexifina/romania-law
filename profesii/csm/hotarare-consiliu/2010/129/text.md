@@ -1,0 +1,5 @@
+În temeiul dispozițiilor art. 133 alin. (5) și (7) din Constituția României, republicată , și ale art. 106 lit. f) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, având în vedere dispozițiile art. 46 alin. (3) din Legea nr. 303/2004 , republicată, cu modificările și completările ulterioare, Plenul Consiliului Superior al Magistraturii hotărăște:
+Articolul I
+Regulamentul privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 621/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 825 din 6 octombrie 2006, cu modificările și completările ulterioare, se modifică după cum urmează: - La articolul 25, alineatul (2) se abrogă.
+Articolul II
+Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I. Președintele Consiliului Superior al Magistraturii, judecător Florica Bejinaru București, 18 februarie 2010. Nr. 129. ________
