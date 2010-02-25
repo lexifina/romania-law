@@ -1,0 +1,297 @@
+{
+ "key": "dcc-1705-2009",
+ "label": "Decizia CCR nr. 1705/2009",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1705",
+ "date": "2009-12-17",
+ "year": "2009",
+ "heading": "DECIZIE nr. 1.705 din 17 decembrie 2009",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 286, art. 287 şi art. 288 din Legea nr. 53/2003 - Codul muncii, ale art. 74, art. 75 şi art. 77 din Legea nr. 168/1999 privind soluţionarea conflictelor de muncă şi ale art. 164 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "129",
+  "bis": false,
+  "date": "2010-02-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.219./3/2008",
+  "5.375D/2009",
+  "3.782/114/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "286",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "288",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 286, art. 287 şi art. 288 din Legea nr. 53/2003 - Codul muncii, ale art. 74, art. 75 şi art. 77 din Legea nr. 168/1999 privind soluţionarea conflictelor de muncă şi ale art. 164 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în dosarele nr. 5.219./3/2008, nr. 34.379./3/2007, nr. 42.937/3/2008, nr. 1.072/3/2009, nr. 43.864/3/2008, nr. 5.217./3/2008, nr. 41.315./3/2007, nr. 43.702/3/2007, nr. 36.560/3/2008, nr. 39.419./3/2007, nr. 28.294/3/2008, nr. 1.235/3/2009, nr. 28.268/3/2008, nr. 47.088./3/2007, nr. 47.093./3/2007, nr. 38.947/3/2008, nr. 11.062/3/2009, nr. 42.526/3/2008, nr. 43.385/3/2008, nr. 34.809/3/2008, nr. 35.888/3/2008, nr. 1.237/3/2009, nr. 48.634/3/2008, nr. 36.161/3/2008, nr. 37.676./3/2007, nr. 41.093/3/2008, nr. 33.448/3/2008, nr. 41.096/3/2008, nr. 41.099/3/2008, nr. 36.147/3/2008, nr. 41.226./3/2007, nr. 38.019./3/2007, nr. 33.848./3/2007, nr. 18.818/3/2008, nr. 15.917/3/2008, nr. 2.573/3/2008, nr. 39.048/3/2007, nr. 10.072./3/2008, nr. 28.130/3/2008, nr. 40.676./3/2007 şi nr. 41.094/3/2008 ale Tribunalului Bucureşti - Secţia a VIII-a civilă, conflicte de muncă şi asigurări sociale, în dosarele nr. 533/87/2009, nr. 1.912/87/2009, nr. 14/87/2009, nr. 511/87/2009, nr. 2.145/87/2009, nr. 542/87/2009, nr. 619/87/2009, nr. 556/87/2009, nr. 133/87/2009, nr. 562/87/2009, nr. 603/87/2009 şi nr. 2.018/87/2009 ale Tribunalul Teleorman - Secţia conflicte de muncă, asigurări sociale şi contencios administrativ şi fiscal, în Dosarul nr. 3.782/114/2008 al Tribunalului Buzău - Secţia civilă, în dosarele nr. 1.095/99/2009, nr. 1.094/99/2009, nr. 328/99/2009, nr. 957/99/2009, nr. 10.065/99/2008, nr. 9.416/99/2008, nr. 1.093/99/2009, nr. 964/99/2009, nr. 1.770/99/2009, nr. 10.064/99/2008, nr. 962/99/2009, nr. 575/99/2009, nr. 1.025/99/2009, nr. 1.511/99/2009, nr. 330/99/2009, nr. 9.166/99/2008, nr. 9.167/99/2008, nr. 4.348/99/2008 şi nr. 67/99/2009 ale Tribunalului Iaşi - Secţia civilă şi litigii de muncă, în dosarele nr. 5.316/104/2008, nr. 1.493/104/2009, nr. 607/90/2009 şi nr. 1.462/104/2009 ale Tribunalului Olt - Secţia civilă, în dosarele nr. 2.791/122/2008, nr. 3.893/87/2008, nr. 37.102/3/2007, nr. 47.225/3/2007, nr. 1.544/3/2008, nr. 28.600/3/2008, nr. 30.252/3/2007, nr. 40.619/3/2007, nr. 4.376/2/2009, nr. 19.374/3/2008, nr. 36.014/3/2008, nr. 40.612/3/2007, nr. 36.015/3/2008, nr. 14.932/3/2008, nr. 40.616/3/2007, nr. 30.700/3/2007, nr. 34.597/3/2007, nr. 34.593/3/2007, nr. 41.189/3/2007 şi nr. 28.289/3/2008 ale Curţii de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflicte de muncă şi asigurări sociale, în dosarele nr. 7.324/107/2008, nr. 4.990/107/2008, nr. 5.102/107/2008, nr. 5.018/107/2008, nr. 5.001/107/2008, nr. 6.026/107/2008, nr. 4.978/107/2008, nr. 6.293/107/2008, nr. 6.028/107/2008 şi nr. 4.971/107/2008, Curtea de Apel Alba Iulia - Secţia pentru cauze privind conflicte de muncă şi asigurări sociale, în Dosarul nr. 1.505/85/2009 al Tribunalului Sibiu - Secţia civilă, în Dosarul nr. 341/115/2009 al Curţii de Apel Timişoara - Secţia pentru litigii de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "286",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "288",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-02-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116593",
+  "text_sha256": "7d9b04da887fa35ac2501ce38039db584b73523ebabeb42345800c2d2596c3f4",
+  "catalogue_sha256": "7d9b04da887fa35ac2501ce38039db584b73523ebabeb42345800c2d2596c3f4",
+  "fetched": "2026-11-03T04:42:53Z",
+  "chars": 19661,
+  "portal_id": "116593",
+  "tip": "DECIZIE"
+ }
+}
