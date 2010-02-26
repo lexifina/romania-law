@@ -1,0 +1,310 @@
+{
+ "key": "dcc-25-2010",
+ "label": "Decizia CCR nr. 25/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "25",
+ "date": "2010-01-12",
+ "year": "2010",
+ "heading": "DECIZIE nr. 25 din 12 ianuarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 399-404 şi art. 452-461 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "132",
+  "bis": false,
+  "date": "2010-02-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.853/193/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "400",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "401",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "402",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "404",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "456",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "459",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "460",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 399-404 şi art. 452-461 din Codul de procedură civilă, excepţie ridicată de Maria Cuciureanu în Dosarul nr. 2.853/193/2009 al Judecătoriei Botoşani.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "400",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "401",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "402",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "404",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "456",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "459",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "460",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-02-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116632",
+  "text_sha256": "12ce98969a6433fa6095eb2a3448e9324ca68a57ea0de9bbf77d8e8c97c809f2",
+  "catalogue_sha256": "12ce98969a6433fa6095eb2a3448e9324ca68a57ea0de9bbf77d8e8c97c809f2",
+  "fetched": "2026-11-03T04:42:52Z",
+  "chars": 7842,
+  "portal_id": "116632",
+  "tip": "DECIZIE"
+ }
+}
