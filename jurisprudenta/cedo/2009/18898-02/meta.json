@@ -1,0 +1,90 @@
+{
+ "key": "cedo-18898-02-2009-02-03",
+ "label": "CEDO, Ilutiu c. României, 2009-02-03",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-02-03",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 3 februarie 2009",
+ "subtitle": "în Cauza Ilutiu împotriva României (reparaţie echitabilă)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "139",
+  "bis": false,
+  "date": "2010-03-02",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "18898/02"
+ ],
+ "case_name": "Ilutiu",
+ "subjects": [],
+ "operative": [
+  "În unanimitate, CURTEA: 1. hotărăşte",
+  "a) că statul pârât trebuie să îi restituie reclamantei apartamentul nr. 2 din casa situată în Str. Memorandumului nr. 26, în Cluj-Napoca, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) că, în lipsa acestei restituiri, statul pârât trebuie să îi plătească reclamantei, în acelaşi termen de 3 luni, suma de 50.000 EUR (cincizeci mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, pentru prejudiciul material;",
+  "c) ca, în orice caz, statul pârât să îi plătească reclamantei suma de 3.000 EUR (trei mii euro) plus orice sumă ce ar putea fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "d) ca sumele menţionate la lit. b) şi c) să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "2. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116703",
+  "text_sha256": "b12d178f631f64db0cae490c404266df4012d65e2ea2d9a914dd0652f583d1c4",
+  "catalogue_sha256": "b12d178f631f64db0cae490c404266df4012d65e2ea2d9a914dd0652f583d1c4",
+  "fetched": "2026-11-03T04:42:48Z",
+  "chars": 10588,
+  "portal_id": "116703",
+  "tip": "HOTĂRÂRE"
+ }
+}
