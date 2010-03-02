@@ -1,0 +1,160 @@
+{
+ "key": "cedo-18898-02-2007-12-06",
+ "label": "CEDO, Ilutiu c. României, 2007-12-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-12-06",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 6 decembrie 2007",
+ "subtitle": "în Cauza Ilutiu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "139",
+  "bis": false,
+  "date": "2010-03-02",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "18898/02"
+ ],
+ "case_name": "Ilutiu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte ca statul pârât să îi achite reclamantei, în cel mult 3 luni de la data rămânerii definitive a hotărârii, conform art. 44 § 2 din Convenţie, suma de 280 EUR (două sute optzeci euro) pentru cheltuielile de judecată; 4. hotărăşte ca la suma menţionată mai sus să se adauge orice sumă ce ar putea fi datorată cu titlu de impozit şi ca această sumă să fie convertită în lei noi (RON) la cursul de schimb valabil la data plăţii; 5. hotărăşte că problema aplicării art. 41 din Convenţie, în ceea ce priveşte prejudiciul material şi moral, nu se află în stare de judecată.",
+  "În consecinţă:",
+  "a) o rezervă în întregime;",
+  "b) invită Guvernul şi reclamanţii să îi adreseze în scris, în cel mult 6 luni de la data rămânerii definitive a hotărârii conform art. 44 § 2 din Convenţie, observaţiile lor asupra acestei chestiuni şi, în special, să îi aducă la cunoştinţă orice acord la care vor fi ajuns;",
+  "c) rezervă procedura ulterioară şi îi deleagă preşedintelui camerei atribuţia de a o stabili în caz de nevoie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 139/1940",
+    "number": "139",
+    "year": "1940",
+    "path": "lege/1940/139"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 245/2005",
+    "number": "245",
+    "year": "2005",
+    "path": "lege/2005/245"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116698",
+  "text_sha256": "27d917d0001b3bb9ca510a2e67aa0c141c62b6770b2717644a300b4b7c2d1a34",
+  "catalogue_sha256": "27d917d0001b3bb9ca510a2e67aa0c141c62b6770b2717644a300b4b7c2d1a34",
+  "fetched": "2026-11-03T04:42:48Z",
+  "chars": 18306,
+  "portal_id": "116698",
+  "tip": "HOTĂRÂRE"
+ }
+}
