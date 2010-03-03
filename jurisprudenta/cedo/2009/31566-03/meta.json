@@ -1,0 +1,174 @@
+{
+ "key": "cedo-31566-03-2009-07-07",
+ "label": "CEDO, Turus c. României, 2009-07-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-07-07",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 7 iulie 2009",
+ "subtitle": "în Cauza Turus împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "141",
+  "bis": false,
+  "date": "2010-03-03",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "31566/03"
+ ],
+ "case_name": "Turus",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte că nu se impune analizarea capetelor de cerere întemeiate pe art. 6 din Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să le restituie reclamanţilor bunul imobil vândut chiriaşilor la data de 11 mai 2000, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa unei astfel de restituiri, statul pârât să le plătească împreună reclamanţilor, în acelaşi termen de 3 luni, suma de 31.000 EUR (treizeci şi unu mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, ca daune materiale;",
+  "c) ca, în orice caz, statul pârât să le plătească împreună reclamanţilor, în acelaşi termen, suma de 2.000 EUR (două mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, ca daune morale;",
+  "d) ca sumele menţionate la lit. b) şi c) să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 81/2007",
+    "number": "81",
+    "year": "2007",
+    "path": "oug/2007/81"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116718",
+  "text_sha256": "9798ae84f9a46455fc1a2a22c87e7e99e3cb42ea4794e3175e71791eb32e5fdd",
+  "catalogue_sha256": "9798ae84f9a46455fc1a2a22c87e7e99e3cb42ea4794e3175e71791eb32e5fdd",
+  "fetched": "2026-11-03T04:42:47Z",
+  "chars": 18864,
+  "portal_id": "116718",
+  "tip": "HOTĂRÂRE"
+ }
+}
