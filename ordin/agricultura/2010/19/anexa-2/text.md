@@ -1,0 +1,2 @@
+# Anexa 2
+Efortul de pescuit din Rezervația Biosferei "Delta Dunării", estimat pentru anul 2010 1. Numărul total de pescari în Rezervația Biosferei "Delta Dunării" (RBDD) - 1.500 2. Numărul total de bărci - 730 3. Număr de unelte/pescar - 50 buc., din care: - 15 setci/ave; - 35 unelte tip capcană (vintire, taliene). 4. Efort total de pescuit în RBDD: ● năvoade - 125 buc.; ● setci scrumbie - 3.600 buc.; ● setci și ave baltă/Dunăre - 15.000 buc.; ● taliene baltă/Razim - 25.000 buc.; ● vintire - 20.000 buc.
