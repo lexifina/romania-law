@@ -1,0 +1,43 @@
+{
+ "key": "cjue-c-374-09-ordonanta-2010-03-04",
+ "label": "CJUE, Ordonanța Curții (camera a cincea) din 4 martie 2010., Cauza C-374/09 P.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2010-03-04",
+ "year": "2010",
+ "case": "Cauza C-374/09 P.",
+ "celex": "62009CO0374",
+ "ecli": "ECLI:EU:C:2010:123",
+ "heading": "Ordonanța Curții (camera a cincea) din 4 martie 2010.",
+ "formation": "CHAMB_05_C",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "defendant",
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Recurs - Necompetența Tribunalului de a examina o acțiune având ca obiect anularea unor decizii pronunțate de instanțe naționale, repararea unor prejudicii cauzate de autorități naționale și constatarea unei abțineri de a acționa a acestor autorități - Recurs vădit nefondat.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62009CO0374",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-374/09&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/dff6079a-ecf4-4050-9fe2-26fb1c58930b.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "0d422bc40ff0e131de0a35b07cb7e7f2b301032139063ba7a56e10225da15049"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
