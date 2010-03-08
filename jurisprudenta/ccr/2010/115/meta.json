@@ -1,0 +1,147 @@
+{
+ "key": "dcc-115-2010",
+ "label": "Decizia CCR nr. 115/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "115",
+ "date": "2010-02-09",
+ "year": "2010",
+ "heading": "DECIZIE nr. 115 din 9 februarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 241 din Legea nr. 297/2004 privind piaţa de capital",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "150",
+  "bis": false,
+  "date": "2010-03-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2004",
+    "number": "297",
+    "year": "2004",
+    "path": "lege/2004/297"
+   },
+   "articles": [
+    {
+     "art": "241",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 241 din Legea nr. 297/2004 privind piaţa de capital, excepţie ridicată de Societatea Comercială \"Start\" - S.R.L. din Alexandria în Dosarul nr. 1.671/1.371/2008 al Tribunalului Comercial Mureş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2004",
+    "number": "297",
+    "year": "2004",
+    "path": "lege/2004/297"
+   },
+   "articles": [
+    {
+     "art": "241",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-03-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116852",
+  "text_sha256": "4cdb13d9795deee926bbed692a1e8321df4d134d9ff27f75dd68a15a69367192",
+  "catalogue_sha256": "4cdb13d9795deee926bbed692a1e8321df4d134d9ff27f75dd68a15a69367192",
+  "fetched": "2026-11-03T04:42:39Z",
+  "chars": 9674,
+  "portal_id": "116852",
+  "tip": "DECIZIE"
+ }
+}
