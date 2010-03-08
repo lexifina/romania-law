@@ -1,0 +1,220 @@
+{
+ "key": "dcc-126-2010",
+ "label": "Decizia CCR nr. 126/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "126",
+ "date": "2010-02-11",
+ "year": "2010",
+ "heading": "DECIZIE nr. 126 din 11 februarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "149",
+  "bis": false,
+  "date": "2010-03-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.374/102/2008",
+  "6.422D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. Bucureşti în dosarele nr. 3.374/102/2008, nr. 3.375/102/2008, nr. 3.362/102/2008, nr. 3.367/102/2008, nr. 3.369/102/2008, nr. 3.372/102/2008, nr. 3.373/102/2008, nr. 3.285/102/2008, nr. 3.099/102/2008, nr. 3.098/102/2008, nr. 3.097/102/2008, nr. 3.381/102/2008, nr. 6.447/97/2008, nr. 6.453/97/2008, nr. 6.452/97/2008, nr. 6.375/97/2008, nr. 6.402/97/2008, nr. 6.450/97/2008, nr. 6.436/97/2008, nr. 6.518/97/2008, nr. 6.466/97/2008, nr. 6.421/97/2008, nr. 6.479/97/2008, nr. 6.424/97/2008, nr. 6.425/97/2008, nr. 6.457/97/2008, nr. 7.575/97/2008, nr. 6.527/97/2008, nr. 6.513/97/2008, nr. 6.384/97/2008, nr. 6.400/97/2008, nr. 6.472/97/2008, nr. 6.399/97/2008, nr. 6.469/97/2008, nr. 6.471/97/2008, nr. 6.394/97/2008, nr. 6.778/97/2008, nr. 6.530/97/2008, nr. 6.460/97/2008, nr. 6.772/97/2008, nr. 6.396/97/2008, nr. 6.506/97/2008, nr. 6.404/97/2008, nr. 6.490/97/2008, nr. 6.372/97/2008, nr. 6.439/97/2008, nr. 6.420/97/2008, nr. 6.480/97/2008, nr. 6.389/97/2008, nr. 6.519/97/2008, nr. 6.427/97/2008, nr. 6.422/97/2008, nr. 6.381/97/2008, nr. 6.521/97/2008, nr. 3.429/97/2008, nr. 3.454/102/2008, nr. 3.457/102/2008, nr. 3.445/102/2008, nr. 3.448/102/2008, nr. 3.452/102/2008, nr. 6.416/97/2008, nr. 3.305/102/2008, nr. 3.295/102/2008, nr. 6.500/97/2008, nr. 6.403/97/2008, nr. 6.440/97/2008, nr. 6419.1/97/2008, nr. 6.412/97/2008, nr. 6.410/97/2008, nr. 6.429/97/2008, nr. 6.502/97/2008, nr. 6.535/97/2008, nr. 6.441/97/2008, nr. 6.529/97/2008, nr. 6.374/97/2008, nr. 6.483/97/2008, nr. 6.392/97/2008, nr. 6.465/97/2008, nr. 6.408/97/2008, nr. 3.306/102/2008, nr. 3.022/102/2008, nr. 3.291/102/2008, nr. 3.301/102/2008, nr. 6.438/97/2008, nr. 6.433/97/2008, nr. 6.539/97/2008, nr. 6.524/97/2008, nr. 6.401/97/2008, nr. 6.391/97/2008, nr. 6.624/97/2008, nr. 6.415/97/2008, nr. 6.798/97/2008, nr. 6.468/97/2008, nr. 6.805/97/2008, nr. 6.522/97/2008, nr. 6.515/97/2008, nr. 6.455/97/2008, nr. 6.578/97/2008, nr. 6.779/97/2008, nr. 6.510/97/2008, nr. 6.542/97/2008, nr. 6.780/97/2008, nr. 6.485/97/2008, nr. 6.538/97/2008, nr. 6.493/97/2008, nr. 6.497/97/2008, nr. 6.532/97/2008, nr. 6.467/97/2009, nr. 6.488/97/2008, nr. 6.428/97/2008, nr. 6.445/97/2008, nr. 6.406/97/2008, nr. 6.405/97/2008, nr. 6.413/97/2008, nr. 6.377/97/2008, nr. 6.478/97/2008, nr. 6.487/97/2008, nr. 6.774/97/2008, nr. 6.767/97/2008, nr. 6.777/97/2008, nr. 6.393/97/2008, nr. 6.379/97/2008, nr. 6.449/97/2008 şi nr. 6.430/97/2008 ale Curţii de Apel Târgu Mureş - Secţia civilă, de muncă şi asigurări sociale, pentru minori şi familie.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-03-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116829",
+  "text_sha256": "74d77ad1217693456e2c7ffe74b4bb4b4cb376e12546bf274786b7b63fa2d723",
+  "catalogue_sha256": "74d77ad1217693456e2c7ffe74b4bb4b4cb376e12546bf274786b7b63fa2d723",
+  "fetched": "2026-11-03T04:42:40Z",
+  "chars": 18747,
+  "portal_id": "116829",
+  "tip": "DECIZIE"
+ }
+}
