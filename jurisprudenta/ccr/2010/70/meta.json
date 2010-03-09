@@ -1,0 +1,216 @@
+{
+ "key": "dcc-70-2010",
+ "label": "Decizia CCR nr. 70/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "70",
+ "date": "2010-01-19",
+ "year": "2010",
+ "heading": "DECIZIE nr. 70 din 19 ianuarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "153",
+  "bis": false,
+  "date": "2010-03-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.531/110/2008",
+  "6.566D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în dosarele nr. 6.531/110/2008, nr. 372/110/2009, nr. 2.326/110/2009, nr. 7.352/110/2008, nr. 7.451/110/2008, nr. 7.371/110/2008, nr. 7.492/110/2008, nr. 6.536/110/2008, nr. 6.527/110/2008, nr. 7.537/110/2008, nr. 367/110/2009, nr. 6.529/110/2008, nr. 7.346/110/2008, nr. 7.500/110/2008, nr. 981/110/2009, nr. 6.761/110/2009, nr. 983/110/2009, nr. 516/110/2009, nr. 7.521/110/2008, nr. 7.523/110/2008, nr. 2.129/110/2009, nr. 6.522/110/2008, nr. 2.127/110/2009, nr. 6.532/110/2008, nr. 1.597/110/2009, nr. 6.419/110/2008, nr. 7.556/110/2008, nr. 2.324/110/2009, nr. 2.327/110/2009, nr. 1.522/110/2009, nr. 7.491/110/2008, nr. 7.397/110/2008, nr. 7.342/110/2008, nr. 7.389/110/2008, nr. 1.594/110/2009, nr. 62/110/2009, nr. 6.535/110/2008, nr. 6.528/110/2008, nr. 1.803/110/2009, nr. 1.784/110/2009, nr. 2.560/110/2009, nr. 7.298/110/2008, nr. 1.547/110/2009, nr. 7.554/110/2008, nr. 1.935/110/2009, nr. 7.299/110/2008, nr. 508/110/2009, nr. 985/110/2008, nr. 1.523/110/2009, nr. 6.624/110/2008, nr. 1.639/110/2009, nr. 6.462/110/2008, nr. 6.463/110/2008, nr. 7.382/110/2008, nr. 2.200/110/2009, nr. 7.148/110/2008, nr. 7.396/110/2008, nr. 7.220/110/2008, nr. 7.557/110/2008, nr. 7.398/110/2008, nr. 6.525/110/2008 şi nr. 3.603/110/2009 ale Tribunalului Bacău - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-03-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116889",
+  "text_sha256": "2f38a4c14a3303032090be97c31eafe376d78223b03bda2e62fce52323fd5357",
+  "catalogue_sha256": "2f38a4c14a3303032090be97c31eafe376d78223b03bda2e62fce52323fd5357",
+  "fetched": "2026-11-03T04:42:38Z",
+  "chars": 11698,
+  "portal_id": "116889",
+  "tip": "DECIZIE"
+ }
+}
