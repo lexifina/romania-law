@@ -1,0 +1,151 @@
+{
+ "key": "dcc-127-2010",
+ "label": "Decizia CCR nr. 127/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "127",
+ "date": "2010-02-25",
+ "year": "2010",
+ "heading": "DECIZIE nr. 127 din 25 februarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 293/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "153",
+  "bis": false,
+  "date": "2010-03-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.656/2/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 293/2008",
+    "number": "293",
+    "year": "2008",
+    "path": "lege/2008/293"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 293/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Gheorghe Dimancea în Dosarul nr. 8.656/2/2008 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 293/2008",
+    "number": "293",
+    "year": "2008",
+    "path": "lege/2008/293"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-03-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116891",
+  "text_sha256": "b41f2b3641d91146597fa4130b349f70a115b605fdcc447e7d2543567f251aa8",
+  "catalogue_sha256": "b41f2b3641d91146597fa4130b349f70a115b605fdcc447e7d2543567f251aa8",
+  "fetched": "2026-11-03T04:42:38Z",
+  "chars": 7082,
+  "portal_id": "116891",
+  "tip": "DECIZIE"
+ }
+}
