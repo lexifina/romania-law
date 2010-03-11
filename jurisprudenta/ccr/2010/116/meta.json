@@ -1,0 +1,174 @@
+{
+ "key": "dcc-116-2010",
+ "label": "Decizia CCR nr. 116/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "116",
+ "date": "2010-02-09",
+ "year": "2010",
+ "heading": "DECIZIE nr. 116 din 9 februarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 157 din Legea nr. 105/1992 cu privire la reglementarea raporturilor de drept internaţional privat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "156",
+  "bis": false,
+  "date": "2010-03-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.305/30/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1992",
+    "number": "105",
+    "year": "1992",
+    "path": "lege/1992/105"
+   },
+   "articles": [
+    {
+     "art": "157",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 157 din Legea nr. 105/1992 cu privire la reglementarea raporturilor de drept internaţional privat, excepţie ridicată de Societatea Comercială \"Martin Rose GMBH &amp;amp; CO KG\" din Germania, Societatea Comercială \"Electroline A.S.\" din Cehia, Societatea Comercială \"Confort\" - S.A. din Timişoara şi Societatea Comercială \"Drumuri Municipale\" - S.A. din Timişoara în Dosarul nr. 5.305/30/2007 al Curţii de Apel Timişoara - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1992",
+    "number": "105",
+    "year": "1992",
+    "path": "lege/1992/105"
+   },
+   "articles": [
+    {
+     "art": "157",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "6",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-03-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116961",
+  "text_sha256": "19855b05a0b93a725623cf1f69eaacab05ead3246c9c83098f4bb14af7a628e0",
+  "catalogue_sha256": "19855b05a0b93a725623cf1f69eaacab05ead3246c9c83098f4bb14af7a628e0",
+  "fetched": "2026-11-03T04:42:33Z",
+  "chars": 10569,
+  "portal_id": "116961",
+  "tip": "DECIZIE"
+ }
+}
