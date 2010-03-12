@@ -1,0 +1,192 @@
+{
+ "key": "dcc-107-2010",
+ "label": "Decizia CCR nr. 107/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "107",
+ "date": "2010-02-04",
+ "year": "2010",
+ "heading": "DECIZIE nr. 107 din 4 februarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "160",
+  "bis": false,
+  "date": "2010-03-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.690D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în dosarele nr.: 3.327/102/2008, 3.361/102/2008, 3.314/102/2008, 3.311/102/2008, 3.432/108/2008, 3.302/102/2008, 3.455/102/2008, 3.394/102/2008, 751/102/2009, 3.335/102/2008, 3.376/102/2008, 3.437/102/2008, 3.298/102/2008, 976/102/2009, 3.441/102/2008, 3.320/102/2008, 3.628/102/2008, 3.309/102/2008, 3.315/102/2008, 3.319/102/2008, 3.321/102/2008, 3.322/102/2008, 3.323/102/2008, 3.326/102/2008, 3.092/102/2008, 3.289/102/2008, 3.293/102/2008, 3.397/102/2008, 3.392/102/2008, 3.385/102/2008, 3.297/102/2008, 3.382/102/2008, 3.292/108/2008, 3.296/102/2008, 3.299/102/2008, 3.096/102/2008, 3.365/102/2008, 3.370/102/2008, 3.371/102/2008, 3.350/102/2008, 3.331/102/2008, 3.352/102/2008, 3.356/102/2008, 3.363/102/2008, 3.364/102/2008, 3.456/102/2008, 3.428/102/2008, 3.450/102/2008, 3.430/102/2008, 3.304/102/2008, 61/102/2009, 3.338/102/2009, 3.332/102/2008, 3.412/102/2008, 3.443/102/2008, 3.366/102/2008, 3.408/102/2008, 3.414/102/2008, 3.451/102/2008, 3.398/102/2008, 3.389/102/2008, 3.384/102/2008, 3.100/102/2008, 3.426/102/2008, 3.410/102/2008, 3.436/102/2008, 3.415/102/2008, 3.401/102/2008, 3.405/102/2008, 3.360/108/2008, 3.431/102/2008, 3.433/108/2008, 3.447/102/2008, 3.396/102/2008, 3.435/102/2008, 3.395/102/2008, 3.424/102/2008, 3.421/102/2008, 3.420/102/2008, 3.413/102/2008, 3.449/102/2008, 3.393/102/2008, 3.300/102/2008, 3.294/102/2008 şi 3.368/102/2008 ale Curţii de Apel Târgu Mureş - Secţia civilă, de muncă şi asigurări sociale pentru minori şi familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-03-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116966",
+  "text_sha256": "061603f4e35a50df4f6e970b62c13e290774964d29f03b4c0a3633b0f67d47c8",
+  "catalogue_sha256": "061603f4e35a50df4f6e970b62c13e290774964d29f03b4c0a3633b0f67d47c8",
+  "fetched": "2026-11-03T04:42:32Z",
+  "chars": 11258,
+  "portal_id": "116966",
+  "tip": "DECIZIE"
+ }
+}
