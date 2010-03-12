@@ -1,0 +1,184 @@
+{
+ "key": "cedo-32297-04-2009-05-05",
+ "label": "CEDO, Bindea c. României, 2009-05-05",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-05-05",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 5 mai 2009",
+ "subtitle": "în Cauza Bindea împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "161",
+  "bis": false,
+  "date": "2010-03-12",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "32297/04"
+ ],
+ "case_name": "Bindea",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 § 1 din Convenţie şi pe art. 1 din Protocolul nr. 1 la Convenţie;",
+  "2. hotărăşte că a avut loc o încălcare a art. 6 § 1 din Convenţie;",
+  "3. hotărăşte că nu este necesară examinarea cererii prin prisma prevederilor art. 1 din Protocolul nr. 1 la Convenţie;",
+  "4. hotărăşte:",
+  "a) că statul pârât trebuie să plătească împreună reclamanţilor, în termen de 3 luni de la data când hotărârea de faţă va fi definitivă în virtutea art. 44 § 2 din Convenţie, 2.000 EUR, sumă convertită în moneda naţională a statului pârât la cursul de schimb valutar la data plăţii, cu titlu de prejudiciu moral, la care se adaugă orice sumă care ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea acestui termen şi până la efectuarea plăţii, această sumă să fie majorată cu o dobândă de un nivel egal cu cel aplicabil pentru rata dobânzii facilităţii de împrumut marginal a Băncii Centrale Europene, majorată cu 3 puncte procentuale.",
+  "5. respinge în rest cererea de satisfacţie echitabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116968",
+  "text_sha256": "905872f2b756b2ccc0b2344e34bfd7025bac96da0d68e428419d44e41034ace2",
+  "catalogue_sha256": "905872f2b756b2ccc0b2344e34bfd7025bac96da0d68e428419d44e41034ace2",
+  "fetched": "2026-11-03T04:42:31Z",
+  "chars": 12509,
+  "portal_id": "116968",
+  "tip": "HOTĂRÂRE"
+ }
+}
