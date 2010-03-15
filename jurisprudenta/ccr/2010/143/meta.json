@@ -1,0 +1,236 @@
+{
+ "key": "dcc-143-2010",
+ "label": "Decizia CCR nr. 143/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "143",
+ "date": "2010-02-25",
+ "year": "2010",
+ "heading": "DECIZIE nr. 143 din 25 februarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 pct. 1 lit. a) şi pct. 6, art. 33, art. 42 alin. (1) şi art. 47 alin. (1) şi (3) din Legea nr. 85/2006 privind procedura insolvenţei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "164",
+  "bis": false,
+  "date": "2010-03-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "16.694/63/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "I. Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 33 din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de Societatea Comercială \"Zen Pharm\" - S.R.L. din Craiova în Dosarul nr. 16.694/63/2008 al Tribunalului Dolj - Secţia comercială.",
+  "II. Respinge ca devenită inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 42 alin. (1) din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "III. Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 3 pct. 1 lit. a) şi pct. 6 şi ale art. 47 alin. (1) şi (3) din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 277/2009",
+    "number": "277",
+    "year": "2009",
+    "path": "lege/2009/277"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-03-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/117035",
+  "text_sha256": "f7971d1e1c0dcc83dbe3222ab4dc0069bcd503ea90227b5d85dc4465f15e26af",
+  "catalogue_sha256": "f7971d1e1c0dcc83dbe3222ab4dc0069bcd503ea90227b5d85dc4465f15e26af",
+  "fetched": "2026-11-03T04:42:27Z",
+  "chars": 19469,
+  "portal_id": "117035",
+  "tip": "DECIZIE"
+ }
+}
