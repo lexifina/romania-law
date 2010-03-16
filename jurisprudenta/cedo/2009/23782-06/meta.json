@@ -1,0 +1,163 @@
+{
+ "key": "cedo-23782-06-2009-09-29",
+ "label": "CEDO, Constantin şi Stoian c. României, 2009-09-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-09-29",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 29 septembrie 2009",
+ "subtitle": "privind cauza Constantin şi Stoian împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "169",
+  "bis": false,
+  "date": "2010-03-16",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "23782/06"
+ ],
+ "case_name": "Constantin şi Stoian",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA, 1. decide să conexeze cererile; 2. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 (echitatea procedurii penale şi prezumţia de nevinovăţie) şi inadmisibilă pentru celelalte capete de cerere; 3. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie ca urmare a utilizării mijloacelor de constrângere din partea poliţiei şi a lipsei investigării acestui aspect de către autorităţile interne; 4. hotărăşte că nu este necesar să se examineze celelalte capete de cerere în temeiul art. 6 din Convenţie; 5. hotărăşte",
+  "a) ca statul pârât să îi plătească primului reclamant, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 10.000 EUR (zece mii euro) pentru prejudiciul moral, plus orice sumă care ar putea fi datorată cu titlu de impozit, ce vor fi convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă şi majorată cu 3 puncte procentuale;",
+  "6. respinge cererea de reparaţie echitabilă pentru restul pretenţiilor."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/117071",
+  "text_sha256": "8abfd241ca58415e99297a52373dc98c027a830c07dce9a890f8d79acb4a9629",
+  "catalogue_sha256": "8abfd241ca58415e99297a52373dc98c027a830c07dce9a890f8d79acb4a9629",
+  "fetched": "2026-11-03T04:42:25Z",
+  "chars": 38770,
+  "portal_id": "117071",
+  "tip": "HOTĂRÂRE"
+ }
+}
