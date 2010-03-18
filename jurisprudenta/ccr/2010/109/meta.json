@@ -1,0 +1,136 @@
+{
+ "key": "dcc-109-2010",
+ "label": "Decizia CCR nr. 109/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "109",
+ "date": "2010-02-09",
+ "year": "2010",
+ "heading": "DECIZIE nr. 109 din 9 februarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 159/2008 privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "175",
+  "bis": false,
+  "date": "2010-03-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "166/36/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 159/2008",
+    "number": "159",
+    "year": "2008",
+    "path": "oug/2008/159"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de George Dan Gogu în Dosarul nr. 166/36/2009 al Curţii de Apel Constanţa - Secţia comercială, maritimă şi fluvială, contencios administrativ şi fiscal şi constată că dispoziţiile Ordonanţei de urgenţă a Guvernului nr. 159/2008 privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat sunt neconstituţionale.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 159/2008",
+    "number": "159",
+    "year": "2008",
+    "path": "oug/2008/159"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-03-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/117182",
+  "text_sha256": "05ae3d6cbfb4b4971f2e3b9801151d557c32f5777bf9ca68f1f70f5fba94d945",
+  "catalogue_sha256": "05ae3d6cbfb4b4971f2e3b9801151d557c32f5777bf9ca68f1f70f5fba94d945",
+  "fetched": "2026-11-03T04:42:21Z",
+  "chars": 8625,
+  "portal_id": "117182",
+  "tip": "DECIZIE"
+ }
+}
