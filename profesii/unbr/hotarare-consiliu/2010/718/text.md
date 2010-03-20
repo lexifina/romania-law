@@ -1,0 +1,1 @@
+Publicăm Hotararea nr. 718 din 20 martie 2010 a Consiliului UNBR privind validarea examenului de primire în profesia de avocat (exclusiv pentru dobândirea calității de avocat stagiar), sesiunea 24 – 25 februarie 2010 și a examenului de primire în profesia de avocat a persoanelor care au absolvit examenul de definitivat în alte profesii juridice, sesiunea 24 – 28 februarie 2010.
