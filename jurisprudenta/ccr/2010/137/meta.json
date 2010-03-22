@@ -1,0 +1,167 @@
+{
+ "key": "dcc-137-2010",
+ "label": "Decizia CCR nr. 137/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "137",
+ "date": "2010-02-25",
+ "year": "2010",
+ "heading": "DECIZIE nr. 137 din 25 februarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "182",
+  "bis": false,
+  "date": "2010-03-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "784/115/2009",
+  "5.272D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 4 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule, excepţie ridicată de Sorin Viorel Krunagel, Ciprian Tibru, Alex Constantin Turcitu, Gunter Loidl, Ioan Mustaţă, Alberto Daniel Vâlciu, Nicuşor Giurici, Cristian Trandafir, Petru Ruchtenwald Jurjoniţă, Petru Drăgan, Gabriel Mitru Săvan şi Societatea Comercială \"Costi Flavius Automobile\" - S.R.L. din Reşiţa în dosarele nr. 784/115/2009, nr. 1.013/115/2009, nr. 383/115/2009, nr. 740/115/2009, nr. 879/115/2009, nr. 1.532/115/2009, nr. 1.050/115/2009, nr. 1.011/115/2009, nr. 786/115/2009, nr. 782/115/2009, nr. 790/115/2009, nr. 839/115/2009, nr. 860/115/2009 şi nr. 607/115/2009 ale Tribunalului Caraş-Severin - Secţia comercială şi de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-03-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/117246",
+  "text_sha256": "c2cc1494b5554232ce53b88e484f4fbaea600926ffeb5ad169bc9f754e220b9d",
+  "catalogue_sha256": "c2cc1494b5554232ce53b88e484f4fbaea600926ffeb5ad169bc9f754e220b9d",
+  "fetched": "2026-11-03T04:42:17Z",
+  "chars": 11568,
+  "portal_id": "117246",
+  "tip": "DECIZIE"
+ }
+}
