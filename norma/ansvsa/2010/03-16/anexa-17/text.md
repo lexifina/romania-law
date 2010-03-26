@@ -1,0 +1,29 @@
+# Anexa 17
+Anexa nr. 25 la norma sanitară veterinară
+AUTORITATEA NAȚIONALĂ SANITARĂ VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR
+DIRECȚIA SANITAR-VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR
+...........................................................................
+AUTORIZAȚIE SANITAR-VETERINARĂ PENTRU FUNCȚIONAREA PUNCTULUI DE CONTROL
+Nr..............................din..............................
+1. Numărul de înregistrare al cererii de autorizare.....................................din........................................
+2. Numărul de înregistrare al documentației de autorizare............................din....................................
+3. Raportul de evaluare nr. ..........................din................................întocmit de......................................
+4. IDENTIFICAREA OPERATORULUI ECONOMIC: (persoană fizică/juridică, nume, adresă/sediu, CNP/CUI)
+5. IDENTIFICAREA UNITĂȚII (PUNCTUL DE LUCRU) Nume
+Localitatea
+Strada
+Nr.
+Sectorul
+Codul Poștal
+Județul
+Telefon
+6. ACTIVITĂTEA DESFĂȘURATĂ
+7.A. UNITATEA ESTE AUTORIZATĂ PENTRU O SINGURĂ SPECIE SPECIA ..............................................
+7.B. UNITATEA ESTE AUTORIZATĂ PENTRU MAI MULTE SPECII SPECIILE.............................................................................................................
+..............................................................................................................
+DIRECTOR .......................................................................
+Notă
+Codul unic pentru autorizația sanitar-veterinară a punctului de control are următorul format: RO – XX – YY, unde
+RO – codul de țară al României;
+XX – codul județului unde se emite autorizația, în litere;
+YY – un număr format din două cifre, acordat cronologic, începând cu numărul 01.
