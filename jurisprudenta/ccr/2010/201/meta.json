@@ -1,0 +1,231 @@
+{
+ "key": "dcc-201-2010",
+ "label": "Decizia CCR nr. 201/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "201",
+ "date": "2010-03-04",
+ "year": "2010",
+ "heading": "DECIZIE nr. 201 din 4 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 58/2008 pentru abrogarea art. 3^2 din Ordonanţa de urgenţă a Guvernului nr. 67/2006 privind gestionarea fondurilor nerambursabile destinate finanţării politicii agricole comune alocate de la Comunitatea Europeană, precum şi a fondurilor de cofinanţare şi prefinanţare alocate de la bugetul de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "211",
+  "bis": false,
+  "date": "2010-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "6.359/2/2008",
+  "5.351D/2009",
+  "5.582D/2009",
+  "616/2/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 58/2008",
+    "number": "58",
+    "year": "2008",
+    "path": "oug/2008/58"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 67/2006",
+    "number": "67",
+    "year": "2006",
+    "path": "oug/2006/67"
+   },
+   "articles": [
+    {
+     "art": "3-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 58/2008 pentru abrogarea art. 3^2 din Ordonanţa de urgenţă a Guvernului nr. 67/2006 privind gestionarea fondurilor nerambursabile destinate finanţării politicii agricole comune alocate de la Comunitatea Europeană, precum şi a fondurilor de cofinanţare şi prefinanţare alocate de la bugetul de stat, excepţie ridicată de Florica Cătrună, Fănel Botea, Claudiea Mihăilă, Constantin Mihalache şi Maria Stancu în Dosarul nr. 6.359/2/2008 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi de Dorina Carmen Popescu, Mariana Gheniu, Steliana Dobrescu, Carol Puiu, Daniel George Caloian, Cristina Mădălina Cone în Dosarul nr. 616/2/2009 al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 58/2008",
+    "number": "58",
+    "year": "2008",
+    "path": "oug/2008/58"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 67/2006",
+    "number": "67",
+    "year": "2006",
+    "path": "oug/2006/67"
+   },
+   "articles": [
+    {
+     "art": "3-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 74/2009",
+    "number": "74",
+    "year": "2009",
+    "path": "oug/2009/74"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/117632",
+  "text_sha256": "094508abd05d1628ff901d83c4079ab736c9c19c9642b05bda95e4ef16502b81",
+  "catalogue_sha256": "094508abd05d1628ff901d83c4079ab736c9c19c9642b05bda95e4ef16502b81",
+  "fetched": "2026-11-03T04:41:49Z",
+  "chars": 11029,
+  "portal_id": "117632",
+  "tip": "DECIZIE"
+ }
+}
