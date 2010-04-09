@@ -1,0 +1,220 @@
+{
+ "key": "dcc-200-2010",
+ "label": "Decizia CCR nr. 200/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "200",
+ "date": "2010-03-04",
+ "year": "2010",
+ "heading": "DECIZIE nr. 200 din 4 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 31 şi art. 34 din Codul de procedură civilă şi ale art. 6 din Legea nr. 26/1990 privind registrul comerţului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "224",
+  "bis": false,
+  "date": "2010-04-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "27.706/2009",
+  "5.333D/2009",
+  "5.334D/2009",
+  "27.705/2009",
+  "5.745D/2009",
+  "6.883D/2009",
+  "46.167/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 31 şi art. 34 din Codul de procedură civilă, excepţie ridicată de Marian Dobrescu, Sevastian Dobre, Ioan Dobre, Societatea Comercială \"Astra\" - S.A. şi Nicolae Tănase Marinescu în dosarele nr. 27.706/2009, nr. 27.705/2009 şi nr. 46.167/2009 ale Oficiului Registrului Comerţului de pe lângă Tribunalul Argeş - judecătorul-delegat şi de Societatea Comercială \"Primus\" - S.R.L. din Piteşti în Dosarul nr. 1.286/1.259/2008 al Judecătoriei Piteşti - Secţia civilă.",
+  "II. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 6 din Legea nr. 26/1990 privind registrul comerţului, excepţie ridicată de Marian Dobrescu, Sevastian Dobre, Ioan Dobre în dosarele nr. 27.706/2009 şi nr. 27.705/2009 ale Oficiului Registrului Comerţului de pe lângă Tribunalul Argeş - judecătorul-delegat.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-04-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/117761",
+  "text_sha256": "c2a78576e25861173493a03db182830f95b5706b2fe3e7e8a9db49e0bc705023",
+  "catalogue_sha256": "c2a78576e25861173493a03db182830f95b5706b2fe3e7e8a9db49e0bc705023",
+  "fetched": "2026-11-03T04:41:40Z",
+  "chars": 14497,
+  "portal_id": "117761",
+  "tip": "DECIZIE"
+ }
+}
