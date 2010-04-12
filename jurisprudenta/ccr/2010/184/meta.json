@@ -1,0 +1,186 @@
+{
+ "key": "dcc-184-2010",
+ "label": "Decizia CCR nr. 184/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "184",
+ "date": "2010-03-02",
+ "year": "2010",
+ "heading": "DECIZIE nr. 184 din 2 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "227",
+  "bis": false,
+  "date": "2010-04-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.549/87/2008",
+  "576/122/2009",
+  "3.617/87/2007",
+  "3385.1/87/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială Petrom - S.A. în dosarele nr. 3.729/87/2008, nr. 4.987/87/2008, nr. 4.441/87/2008, nr. 724/87/2009, nr. 81/87/2009, nr. 4.936/87/2008, nr. 4.954/87/2008, nr. 4.837/87/2008, nr. 4.258/87/2008, nr. 3.879/87/2008, nr. 1.286/87/2009, nr. 2.787/87/2008, nr. 4.451/87/2008, nr. 2.805/87/2008, nr. 1.759/87/2008, nr. 3.288/87/2008, nr. 1.317/87/2009, nr. 1.319/87/2009, nr. 459/87/2009, nr. 4.249/87/2008 şi nr. 4.245/87/2008 ale Curţii de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflicte de muncă şi asigurări sociale, dosarele nr. 229/87/2009, nr. 142/87/2009, nr. 4.247/87/2007, nr. 3.691/87/2008, nr. 3422.1/87/2007, nr. 3.375/87/2008, nr. 4.259/87/2008, nr. 3.639/87/2007, nr. 4.299/87/2008, nr. 851/87/2009, nr. 1.872/87/2009, nr. 2.530/87/2009, nr. 2.005/87/2009, nr. 616/87/2009, nr. 1.878/87/2009, nr. 1.700/87/2009, nr. 104/87/2009, nr. 235/87/2009 şi nr. 4.986/87/2008 ale Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale şi contencios administrativ şi fiscal şi în dosarele nr. 3.883/87/2007, nr. 25/87/2008, nr. 476/122/2009, nr. 2.853/122/2008, nr. 3.043/122/2008, nr. 3.491/87/2007, nr. 2.793/122/2008, nr. 647/122/2009, nr. 834/87/2009, nr. 2.869/122/2008, nr. 2713.1/87/2007, nr. 2.866/122/2008, nr. 816/87/2009, nr. 584/122/2009. nr. 2.935/122/2008, nr. 3.549/87/2008, nr. 576/122/2009, nr. 3.617/87/2007şi nr. 3385.1/87/2007 ale Tribunalului Giurgiu - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-04-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/117840",
+  "text_sha256": "8d9e58ac302ff8887592745e9c5ca0c927ad7d032d6d43ceeb7c7472c7537528",
+  "catalogue_sha256": "8d9e58ac302ff8887592745e9c5ca0c927ad7d032d6d43ceeb7c7472c7537528",
+  "fetched": "2026-11-05T05:25:34Z",
+  "chars": 13731,
+  "portal_id": "117840",
+  "tip": "DECIZIE"
+ }
+}
