@@ -1,0 +1,28 @@
+ ACORD din 11 iunie 2009  privind cooperarea în domeniul întreprinderilor mici şi mijlocii între Guvernul României şi Guvernul Republicii Tunisiene     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 239 din 15 aprilie 2010     PREAMBUL  Guvernul României şi Guvernul Republicii Tunisiene, denumite în continuare părţi,  dorind să consolideze cooperarea bilaterală în domeniul întreprinderilor mici şi mijlocii, denumite în continuare IMM,  convinse de necesitatea de a institui un cadru juridic privind relaţiile de cooperare dintre diferitele instituţii şi de a le adapta noilor realităţi economice naţionale şi internaţionale,  exprimând voinţa lor comună de a stabili o strânsă colaborare pentru dezvoltarea cooperării economice dintre ţările respective,  au convenit următoarele:
+				 +
+			  Capitolul I   Obiectul şi conţinutul cooperării
+				 +
+			  Articolul 1     Obiectul cooperării      (1) Părţile convin să îşi conjuge eforturile în scopul dezvoltării cooperării lor industriale, tehnice, ştiinţifice, tehnologice, legislative şi administrative în domeniul IMM-urilor.   ...        (2) Părţile se angajează să dezvolte schimburile prin promovarea parteneriatului între întreprinderile publice şi private din cele două ţări şi între ministerele care răspund de problematica IMM-urilor în România şi, respectiv, în Republica Tunisiană.   ...
+				 +
+			  Articolul 2     Conţinutul cooperării  Cooperarea între părţi va avea următoarele forme:      a) schimb de informaţii şi de expertize tehnice, ştiinţifice, administrative şi legislative în domeniul dezvoltării sectorului privat şi al promovării IMM-urilor;   ...        b) schimb de expertiză în domeniul întăririi capacităţilor competitive, în special la nivelul IMM-urilor nou-înfiinţate;   ...        c) întărirea capacităţilor de elaborare a politicilor şi a cadrelor instituţionale de promovare a IMM-urilor prin intermediul schimburilor de experţi;   ...        d) stabilirea de societăţi mixte între întreprinderile din sectorul privat din cele două ţări;   ...        e) consolidarea complementarităţii industriale şi a mecanismelor de dezvoltare a industriilor exportatoare între întreprinderile din sectorul privat din cele două ţări;   ...        f) stabilirea de relaţii de cooperare între ministerele însărcinate cu promovarea IMM-urilor din cele două ţări;   ...        g) stabilirea oricăror alte forme de cooperare susceptibile de a dezvolta şi de a promova IMM-urile;   ...        h) schimb de misiuni de afaceri pentru a sprijini iniţierea transferului de tehnologii;   ...        i) organizarea de expoziţii şi târguri în România şi în Republica Tunisiană pentru promovarea produselor şi proiectelor.   ...
+				 +
+			  Capitolul II   Aplicarea acordului
+				 +
+			  Articolul 3     Înfiinţarea Comitetului de supraveghere  Pentru facilitarea aplicării prezentului acord, se instituie Comitetul de supraveghere, format din experţi din cele două ministere care răspund de problematica IMM-urilor în România şi, respectiv, în Republica Tunisiană.
+				 +
+			  Articolul 4     Misiunea Comitetului de supraveghere  Comitetul de supraveghere este însărcinat cu elaborarea acţiunilor de cooperare, de evaluare şi de punere în aplicare a prezentului acord.
+				 +
+			  Articolul 5     Reunirea Comitetului de supraveghere  Comitetul de supraveghere se reuneşte în sesiune ordinară o dată pe an, alternativ în România şi în Republica Tunisiană, precum şi în sesiuni extraordinare, la cererea uneia dintre părţi, atunci când organizarea unei astfel de sesiuni este necesară pentru îndeplinirea misiunii încredinţate Comitetului de supraveghere.
+				 +
+			  Capitolul III   Prevederi finale
+				 +
+			  Articolul 6     Soluţionarea divergenţelor  Orice diferend privind interpretarea sau aplicarea prezentului acord va fi soluţionat prin negociere între părţi, în conformitate cu spiritul constructiv care prevalează în relaţiile dintre ele.
+				 +
+			  Articolul 7     Amendarea acordului  Prezentul acord poate fi amendat prin acordul părţilor, la solicitarea uneia dintre părţi. Modificările convenite vor intra în vigoare în condiţiile prevăzute la art. 10.
+				 +
+			  Articolul 8     Durata acordului  Prezentul acord se încheie pe o perioadă de 5 ani şi va fi reînnoit în mod automat pentru perioade similare, dacă niciuna dintre părţi nu notifică celeilalte, cu cel puţin 6 luni înainte de încetarea perioadei de valabilitate, intenţia sa de a-l denunţa.
+				 +
+			  Articolul 9     Denunţarea acordului      (1) Fiecare dintre cele două părţi poate, în orice moment, să îi notifice celeilalte părţi, pe cale diplomatică, decizia sa de a pune capăt prezentului acord. În acest caz, prezentul acord va ieşi din vigoare în termen de 6 luni de la data primirii notificării de denunţare.   ...        (2) Denunţarea nu afectează proiectele şi programele în curs, care se vor derula în conformitate cu prezentul acord până la finalizarea lor efectivă.   ...
+				 +
+			  Articolul 10     Intrarea în vigoare  Prezentul acord va intra în vigoare la data primirii ultimei notificări prin care părţile îşi vor comunică reciproc îndeplinirea procedurilor legale interne necesare pentru intrarea acestuia în vigoare.  Semnat la Tunis la data de 11 iunie 2009, în două exemplare originale în limbile română, arabă şi engleză, toate textele fiind egal autentice. În cazul unor diferenţe de interpretare, va prevala textul în limba engleză.  Pentru Guvernul României  Ministrul întreprinderilor mici şi mijlocii,  comerţului şi mediului de afaceri,  Constantin Niţă  Pentru Guvernul Republicii Tunisiene  Ministrul industriei,  energiei şi întreprinderilor mici şi mijlocii,  Afif Chelbi  ______________
