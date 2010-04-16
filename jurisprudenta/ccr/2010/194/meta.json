@@ -1,0 +1,164 @@
+{
+ "key": "dcc-194-2010",
+ "label": "Decizia CCR nr. 194/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "194",
+ "date": "2010-03-04",
+ "year": "2010",
+ "heading": "DECIZIE nr. 194 din 4 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 151/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/2008 privind creşterile salariale ce se vor acorda în anul 2008 personalului din învăţământ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "245",
+  "bis": false,
+  "date": "2010-04-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "32/63/2009",
+  "4.786D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 151/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/2008 privind creşterile salariale ce se vor acorda în anul 2008 personalului din învăţământ, excepţie ridicată de Sindicatul Liber din Învăţământul Judeţului Bacău în dosarele nr. 430/110/2009, nr. 1.346/110/2009, nr. 537/110/2009, nr. 802/110/2009, nr. 803/110/2009, nr. 804/110/2009, nr. 698/110/2009, nr. 806/110/2009, nr. 433/110/2009, nr. 432/110/2009, nr. 431/110/2009, nr. 708/110/2009, nr. 709/110/2009, nr. 801/110/2009, nr. 428/110/2009, nr. 1.348/110/2009, nr. 1.338/110/2009, nr. 813/110/2009, nr. 831/110/2009, nr. 830/110/2009, nr. 820/110/2009, nr. 812/110/2009, nr. 811/110/2009, nr. 244/110/2009, nr. 229/110/2009, nr. 424/110/2009, nr. 423/110/2009, nr. 553/110/2009, nr. 437/110/2009, nr. 808/110/2009, nr. 685/110/2009, nr. 550/110/2009, nr. 267/110/2009, nr. 439/110/2009, nr. 536/110/2009, nr. 436/110/2009, nr. 435/110/2009, nr. 693/110/2009, nr. 686/110/2009, nr. 265/110/2009, nr. 247/110/2009, nr. 246/110/2009, nr. 546/110/2009, nr. 539/110/2009, nr. 848/110/2009, nr. 819/110/2009, nr. 846/110/2009, nr. 818/110/2009, nr. 814/110/2009, nr. 231/110/2009, nr. 241/110/2009, nr. 837/110/2009, nr. 829/110/2009, nr. 826/110/2009, nr. 838/110/2009, nr. 825/110/2009, nr. 843/110/2009 şi nr. 823/110/2009 ale Tribunalului Bacău - Secţia civilă şi de Uniunea Sindicatelor Independente din Învăţământ - Dolj în Dosarul nr. 32/63/2009 al Tribunalului Dolj - Secţia conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-04-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/117955",
+  "text_sha256": "72887d877696c2e032bb590f2a2a9b3ce979d55175bb77c79986f54ada6d0439",
+  "catalogue_sha256": "72887d877696c2e032bb590f2a2a9b3ce979d55175bb77c79986f54ada6d0439",
+  "fetched": "2026-11-03T04:41:29Z",
+  "chars": 15097,
+  "portal_id": "117955",
+  "tip": "DECIZIE"
+ }
+}
