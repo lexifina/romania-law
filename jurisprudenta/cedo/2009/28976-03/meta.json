@@ -1,0 +1,166 @@
+{
+ "key": "cedo-28976-03-2009-06-23",
+ "label": "CEDO, Paula Constantinescu c. României, 2009-06-23",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-06-23",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 23 iunie 2009",
+ "subtitle": "în Cauza Paula Constantinescu împotriva României (definitivă la 23 septembrie 2009)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "269",
+  "bis": false,
+  "date": "2010-04-26",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "28976/03"
+ ],
+ "case_name": "Paula Constantinescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie şi a art. 1 din Protocolul nr. 1; 3. hotărăşte că problema aplicării art. 41 din Convenţie nu se află în stare de judecată; prin urmare",
+  "a) o rezervă în ceea ce priveşte prejudiciul material şi moral;",
+  "b) invită Guvernul şi reclamanta să îi adreseze în scris, în termenul de 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, observaţiile lor cu privire la această chestiune şi, în special, să îi aducă la cunoştinţă orice acord la care ar putea ajunge;",
+  "c) rezervă procedura ulterioară şi îi deleagă preşedintelui camerei sarcina de a o fixa în caz de nevoie;",
+  "4. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 505/1998",
+    "number": "505",
+    "year": "1998",
+    "path": "hg/1998/505"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118209",
+  "text_sha256": "d40e5a9739a6152510b3ed0803ebf40b4f031e74d68ad129b50bd20cbe4f7bf2",
+  "catalogue_sha256": "d40e5a9739a6152510b3ed0803ebf40b4f031e74d68ad129b50bd20cbe4f7bf2",
+  "fetched": "2026-11-03T04:41:14Z",
+  "chars": 24883,
+  "portal_id": "118209",
+  "tip": "HOTĂRÂRE"
+ }
+}
