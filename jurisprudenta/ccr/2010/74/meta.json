@@ -1,0 +1,243 @@
+{
+ "key": "dcc-74-2010",
+ "label": "Decizia CCR nr. 74/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "74",
+ "date": "2010-01-21",
+ "year": "2010",
+ "heading": "DECIZIE nr. 74 din 21 ianuarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "270",
+  "bis": false,
+  "date": "2010-04-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "123/108/2009",
+  "5.007D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A., de Societatea Comercială \"P.S.V. Company\" - S.A. şi de Societatea Comercială \"Polaris Holding\" - S.R.L. în dosarele nr. 123/108/2009, nr. 8.948/30/2008, nr. 4.908/108/2008, nr. 5/108/2009, nr. 7.727/30/2008, nr. 7.757/30/2008, nr. 7.753/30/2008, nr. 7.157/30/2008, nr. 7.169/30/2008, nr. 7.225/30/2008, nr. 7.381/30/2008, nr. 7.933/30/2008, nr. 8.267/30/2008, nr. 8.563/30/2008, nr. 8.525/30/2008, nr. 8.561/30/2008, nr. 8.278/30/2008, nr. 8.340/30/2008, nr. 8.356/30/2008, nr. 7.750/30/2008, nr. 7.760/30/2008, nr. 4.220/108/2008, nr. 7.759/30/2008, nr. 7.747/30/2008, nr. 7.798/30/2008, nr. 7.726/30/2008, nr. 7.734/30/2008, nr. 7.729/30/2008, nr. 7.367/30/2008, nr. 7.736/30/2008, nr. 3.987/108/2008, nr. 4.248/108/2008, nr. 8.341/30/2008, nr. 4.240/108/2008, nr. 7.997/30/2008, nr. 4.909/108/2008, nr. 5.222/108/2008, nr. 8.006/30/2008, nr. 8.357/30/2008, nr. 8.102/30/2008, nr. 7.944/30/2008, nr. 7.946/30/2008, nr. 8.234/30/2008 nr. 8.277/30/2008, nr. 4.461/108/2008, nr. 4.226/108/2008, nr. 5.176/108/2008, nr. 5.220/108/2008, nr. 5.265/108/2008, nr. 4.246/108/2008, nr. 4.247/108/2008, nr. 7.998/30/2008, nr. 8.520/30/2008, nr. 8.273/30/2008, nr. 8.002/30/2008, nr. 8.268/30/2008, nr. 8.250/30/2008, nr. 8.608/30/2008, nr. 8.098/30/2008, nr. 4.219/108/2008, nr. 105/108/2009, nr. 7.799/30/2008, nr. 8.223/30/2008, nr. 7.737/30/2008, nr. 7.644/30/2008, nr. 4.910/108/2008, nr. 4.742/108/2008, nr. 4.752/108/2008, nr. 7.974/30/2008, nr. 8.285/30/2008, nr. 8.293/30/2008, nr. 4.348/108/2008, nr. 4.344/108/2008, nr. 15/30/2009, nr. 704/108/2009, nr. 4.498/108/2008, nr. 4.491/108/2008, nr. 4.342/108/2008, nr. 4.514/108/2008, nr. 4.511/108/2008, nr. 4.465/108/2008, nr. 94/108/2009, nr. 2.638/30/2008, nr. 4.339/108/2008, nr. 5.266/108/2008, nr. 4.463/108/2008, nr. 5.223/108/2008, nr. 8.509/30/2008, nr. 4.462/108/2008, nr. 3.981/108/2008, nr. 10.018/30/2008, nr. 9.507/30/2008, nr. 7.564/30/2008, nr. 62/30/2009, nr. 7.120/30/2008, nr. 19/108/2009, nr. 4.553/108/2008, nr. 3.995/108/2008, nr. 4.500/108/2008, nr. 4.012/108/2008, nr. 4.008/108/2008, nr. 3.178/108/2008, nr. 7.244/30/2008, nr. 6.981/30/2008, nr. 6.977/30/2008, nr. 6.979/30/2009, nr. 8.244/30/2008, nr. 50/30/2009, nr. 2.724/115/2008, nr. 63/30/2009, nr. 7.239/30/2008, nr. 7.303/30/2008, nr. 4.526/108/2008, nr. 4.346/108/2008, nr. 4.347/108/2008, nr. 3.982/108/2008, nr. 4.906/108/2008, nr. 705/108/2009, nr. 703/108/2008, nr. 4.640/108/2008, nr. 4.065/108/2008, nr. 4.343/108/2008, nr. 4.345/108/2008, nr. 8.094/30/2008, nr. 8.401/30/2008 şi nr. 8.488/30/2008 ale Curţii de Apel Timişoara Secţia litigii de muncă şi asigurări sociale, în dosarele nr. 164/117/2009, nr. 165/117/2009, nr. 168/117/2009, nr. 199/117/2009, nr. 170/117/2009, nr. 2.288/117/2009, nr. 891/117/2009, nr. 1.722/117/2009, nr. 1.723/117/2009, nr. 1.725/117/2009, nr. 2.290/117/2009, nr. 1.249/117/2009, nr. 1.720/117/2009, nr. 6.531/97/2008, nr. 2.412/117/2009, nr. 6.371/97/2008, nr. 6.382/97/2008, nr. 6.463/97/2008 şi nr. 1.263/117/2009 ale Tribunalului Cluj - Secţia mixtă de contencios administrativ şi fiscal, de conflicte de muncă şi asigurări sociale, în dosarele nr. 1.774/90/2009, nr. 1.524/90/2009, nr. 1.523/90/2009, nr. 1.518/90/2009, nr. 674/90/2009, nr. 1.527/90/2009, nr. 1.617/90/2009, nr. 1.619/90/2009, nr. 1.621/90/2009, nr. 1.622/90/2009, nr. 1.812/90/2009 şi nr. 1.813/90/2009 ale Tribunalului Vâlcea - Secţia civilă, conflicte de muncă şi asigurări sociale, în dosarele nr. 255/111/2009, nr. 419/111/2009, nr. 608/108/2009, nr. 1.795/111/2009, nr. 6.659/111/2008, nr. 6.594/111/2008, nr. 3.130/111/2008, nr. 6.654/111/2008 şi nr. 2.589/111/2009 ale Tribunalului Bihor - Secţia civilă, în dosarele nr. 1.992/112/2008, nr. 1.993/112/2008, nr. 1.990/112/2008, nr. 687/112/2009, nr. 785/112/2009, nr. 476/112/2009, nr. 477/112/2009, nr. 1.984/112/2008, nr. 478/112/2009, nr. 1.982/112/2008, nr. 1.985/112/2008, nr. 1.987/112/2008, nr. 1.372/112/2009 şi nr. 1.373/112/2009 ale Tribunalul Bistriţa-Năsăud Secţia civilă, în dosarele nr. 2.843/90/2008, nr. 2.725/109/2008, nr. 3.484/109/2008 şi nr. 2.266/109/2008 ale Curţii de Apel Piteşti Secţia civilă şi pentru conflicte de muncă, în Dosarul nr. 7.118/120/2007 al Curţii de Apel Ploieşti - Secţia conflicte de muncă şi asigurări sociale, în dosarele nr. 2162.1/87/2007, nr. 2.514/122/2008, nr. 3.595/87/2008, nr. 3.088/87/2008, nr. 3.582/87/2008, nr. 1.545/87/2008, nr. 4.066/87/2008, nr. 2706.1/87/2007, nr. 2.735/87/2008, nr. 4.378/2/2009, nr. 4.912/2/2009, nr. 3.124/87/2008, nr. 2578.1/87/2007, nr. 3.990/87/2007, nr. 2.513/87/2008, nr. 3.966/2/2009, nr. 2.746/87/2008, nr. 2.744/87/2008, 2.745/87/2008, nr. 1.548/87/2008, nr. 3.125/87/2008, nr. 3.086/87/2008, nr. 2.102/116/2008, nr. 3428.1/87/2008, nr. 2008.1/87/2007, nr. 4.380/87/2007, nr. 4.095/87/2007, nr. 3.743/87/2007, nr. 3385.1/87/2007, nr. 2.713/87/2008, nr. 3.347/2/2009, nr. 3.081/98/2008, nr. 2.724/87/2008 şi nr. 2.778/98/2008, nr. 1.543/116/2008 ale Curţii de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflicte de muncă şi asigurări sociale, în dosarele nr. 3.316/102/2008, nr. 3.359/102/2008, nr. 3.423/102/2008, nr. 3.342/102/2008, nr. 3.288/102/2008, nr. 3.340/102/2008, nr. 3.444/102/2008, 3.353/102/2008, nr. 3.330/102/2008, nr. 3.341/102/2008, nr. 3.303/102/2008, nr. 3.287/102/2008, nr. 3.310/102/2008, nr. 3.390/102/2008, nr. 3.417/102/2008, nr. 3.343/102/2008 şi nr. 2.627/102/2008 ale Curţii de Apel Târgu Mureş - Secţia civilă, de muncă, asigurări sociale, pentru minori şi familie, în dosarele nr. 4.074/95/2009, nr. 3.444/95/2009, nr. 4.877/95/2009 şi nr. 5.501/95/2009 ale Tribunalului Gorj - Secţia conflicte de muncă şi asigurări sociale, în Dosarul nr. 2.028/111/2008 al Curţii de Apel Oradea - Secţia civilă mixtă, în Dosarul nr. 9.685/101/2008 al Tribunalului Mehedinţi - Secţia conflicte de muncă şi asigurări sociale, în dosarele nr. 5.252/107/2008, nr. 5.210/107/2008, nr. 5.292/107/2008, nr. 5.578/107/2008, nr. 6.018/107/2008, nr. 6.022/107/2008, nr. 5.245/107/2008, nr. 4.974/107/2008, nr. 5.032/107/2008, nr. 5.296/107/2008, nr. 5.304/107/2008, nr. 5.230/107/2008, nr. 5.576/107/2008 şi nr. 5.262/107/2008 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale, în dosarele nr. 6.742/100/2008, nr. 6.167/100/2008, nr. 6.082/100/2008, nr. 1.159/33/2009, nr. 1.158/33/2009, nr. 1.237/33/2009, nr. 1.234/33/2009, nr. 1.236/33/2009, nr. 1.235/33/2009, nr. 5.234/100/2008, nr. 1.130/33/2009, nr. 4.066/117/2008, nr. 1.948/112/2008, nr. 4.021/117/2008, nr. 1.129/33/2009, nr. 1.128/33/2009, nr. 1.133/33/2009, nr. 1.134/33/2009, nr. 1.132/33/2009, nr. 1.131/33/2009, nr. 1.951/112/2008, nr. 1.955/112/2008, nr. 1.957/112/2008 şi nr. 1.160/33/2009 ale Curţii de Apel Cluj - Secţia civilă, de muncă şi asigurări sociale, pentru minori şi familie, în dosarele nr. 2.518/100/2009, nr. 2.649/100/2009, nr. 2.163/100/2009, nr. 2.845/100/2009, nr. 71/100/2009, nr. 60/100/2009, nr. 50/100/2009, nr. 59/100/2009 şi nr. 70/100/2009 ale Tribunalului Maramureş - Secţia civilă, în dosarele nr. 722/89/2009, nr. 660/89/2009 şi nr. 3.191/89/2008 ale Tribunalului Vaslui - Secţia civilă, în dosarele nr. 5.472/120/2008, nr. 1.672/120/2009, nr. 2.023/120/2009, nr. 5.745/120/2008, nr. 6.259/120/2008, nr. 458/120/2009, nr. 1.654/120/2009, nr. 396/120/2009, nr. 4.523/120/2008, nr. 5.051/120/2008, nr. 5.723/120/2008, nr. 5.057/120/2008, nr. 2.001/120/2009, nr. 2.342/120/2009, nr. 2.484/120/2009, nr. 1.548/120/2009, nr. 2.437/120/2009 şi nr. 2.343/120/2009 ale Tribunalului Dâmboviţa - Secţia civilă, în dosarele nr. 678/116/2009, nr. 722/116/2009, nr. 380/116/2009, nr. 684/116/2009 şi nr. 1.387/116/2008 ale Tribunalului Călăraşi - Secţia civilă, în dosarele nr. 7.322/30/2008, nr. 7.506/30/2008, nr. 7.348/30/2008, nr. 2.234/30/2009, nr. 7.416/30/2008 ale Tribunalului Timiş - Secţia civilă, în dosarele nr. 1.265/108/2009, nr. 1.377/108/2009, nr. 1.380/108/2009, nr. 1.386/108/2009 şi nr. 1.379/108/2009 ale Tribunalul Arad - Secţia de contencios administrativ şi fiscal, litigii de muncă şi asigurări sociale, în dosarele nr. 2.356/121/2009, nr. 1.343/121/2009, nr. 1.344/121/2009, nr. 2.068/121/2009, nr. 2.524/121/2009, nr. 2.067/121/2009, nr. 1.497/121/2009 şi nr. 2.523/121/2009 ale Tribunalului Galaţi - Secţia civilă, în dosarele nr. 1.332/91/2009 şi nr. 1.560/91/2009 ale Tribunalului Vrancea - Secţia civilă în Dosarul nr. 1.421/85/2009 al Tribunalului Sibiu - Secţia civilă, în Dosarul nr. 242/40/2009 al Tribunalului Botoşani - Secţia civilă, în dosarele nr. 2.502/99/2009 şi nr. 2.506/99/2009 ale Tribunalul Iaşi - Secţia civilă şi litigii de muncă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-04-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118198",
+  "text_sha256": "271cfb25dfe980797299ca87c1d0b283ed4aba97687836374bf9c954c28f6fa0",
+  "catalogue_sha256": "271cfb25dfe980797299ca87c1d0b283ed4aba97687836374bf9c954c28f6fa0",
+  "fetched": "2026-11-03T04:41:14Z",
+  "chars": 36746,
+  "portal_id": "118198",
+  "tip": "DECIZIE"
+ }
+}
