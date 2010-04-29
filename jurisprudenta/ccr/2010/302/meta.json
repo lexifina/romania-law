@@ -1,0 +1,138 @@
+{
+ "key": "dcc-302-2010",
+ "label": "Decizia CCR nr. 302/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "302",
+ "date": "2010-03-23",
+ "year": "2010",
+ "heading": "DECIZIE nr. 302 din 23 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 alin. 7 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "280",
+  "bis": false,
+  "date": "2010-04-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 alin. 7 din Codul de procedură penală, excepţie ridicată de Viorica Luca în dosarele nr. 6.548/271/2008 şi nr. 3.768/271/2009 ale Judecătoriei Oradea - Secţia penală şi de Viorica Luca şi Iosif-Carol Ridy în Dosarul nr. 548/35/P/2009 al Curţii de Apel Oradea - Secţia penală şi pentru cauze cu minori.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-04-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118304",
+  "text_sha256": "081bf4c9d6a564c2624f7c62786a79574b2d6aee87d98bc371785a6167a7de0d",
+  "catalogue_sha256": "081bf4c9d6a564c2624f7c62786a79574b2d6aee87d98bc371785a6167a7de0d",
+  "fetched": "2026-11-03T04:41:05Z",
+  "chars": 8563,
+  "portal_id": "118304",
+  "tip": "DECIZIE"
+ }
+}
