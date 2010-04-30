@@ -1,0 +1,193 @@
+{
+ "key": "iccj-su-26-2009",
+ "label": "Decizia ÎCCJ nr. 26/2009 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "26",
+ "date": "2009-10-12",
+ "year": "2009",
+ "heading": "DECIZIE nr. 26 din 12 octombrie 2009",
+ "subtitle": "privind examinarea recursului în interesul legii, cu privire la problema încadrării juridice a faptei conducătorului de autovehicul sau tramvai având o îmbibaţie alcoolică peste limita legală, care a produs o vătămare corporală din culpă, în concurs de infracţiuni sau într-o singură infracţiune complexă prevăzută la art. 184 alin. 4^1 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE- SECŢIILE UNITE",
+ "mo": {
+  "number": "284",
+  "bis": false,
+  "date": "2010-04-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "18/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "184",
+     "alin": [
+      "4-1",
+      "3",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 184 alin. 4^1 din Codul penal şi art. 87 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, republicată, se stabileşte că fapta conducătorului de autovehicul sau tramvai care a produs o vătămare corporală din culpă constituie, după cum urmează: 1. În cazul în care conducătorul de autovehicul sau tramvai este concomitent atât în stare de ebrietate, cât şi cu o îmbibaţie alcoolică peste limita legală, se va reţine concurs real între infracţiunea prevăzută la art. 184 alin. 4^1 din Codul penal şi cea prevăzută la art. 87 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, republicată. 2. În cazul în care conducătorul de autovehicul sau tramvai se află în stare de ebrietate, fără însă a avea o îmbibaţie alcoolică peste limita legală, fapta sa constituie infracţiunea unică prevăzută la art. 184 alin. 4^1 din Codul penal. 3. În cazul în care conducătorul de autovehicul sau tramvai nu se află în stare de ebrietate, dar are o îmbibaţie alcoolică peste limita legală, există o pluralitate de infracţiuni sub forma concursului real între infracţiunea prevăzută la art. 184 alin. 3 din Codul penal şi art. 87 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 sau între art. 184 alin. 4 din Codul penal şi art. 87 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "184",
+     "alin": [
+      "4-1",
+      "3",
+      "4",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2010-04-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118341",
+  "text_sha256": "a3496370e800f703fc37daa708c4195e09eafcb2bf31c591dba41db512bdce10",
+  "catalogue_sha256": "a3496370e800f703fc37daa708c4195e09eafcb2bf31c591dba41db512bdce10",
+  "fetched": "2026-11-03T04:41:01Z",
+  "chars": 12390,
+  "portal_id": "118341",
+  "tip": "DECIZIE"
+ }
+}
