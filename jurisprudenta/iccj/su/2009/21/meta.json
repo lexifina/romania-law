@@ -1,0 +1,143 @@
+{
+ "key": "iccj-su-21-2009",
+ "label": "Decizia ÎCCJ nr. 21/2009 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "21",
+ "date": "2009-10-12",
+ "year": "2009",
+ "heading": "DECIZIE nr. 21 din 12 octombrie 2009",
+ "subtitle": "privind examinarea recursului în interesul legii, privind admisibilitatea căii ordinare de atac exercitate de procurorul din cadrul Direcţiei de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism împotriva hotărârii pronunţate de instanţa de judecată într-o cauză de competenţa direcţiei, în condiţiile în care, la judecarea cauzei a cărei hotărâre este atacată (apelată ori recurată), a participat un procuror de la parchetul ordinar",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "284",
+  "bis": false,
+  "date": "2010-04-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "10/2009"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Se stabileşte că procurorul din cadrul Direcţiei de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism poate exercita calea ordinară de atac împotriva hotărârii pronunţate de instanţa de judecată într-o cauză de competenţa direcţiei, în condiţiile în care, la judecată, a participat un procuror de la parchetul de pe lângă instanţa competentă.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "131",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "81",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 508/2004",
+    "number": "508",
+    "year": "2004",
+    "path": "lege/2004/508"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2010-04-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118340",
+  "text_sha256": "ab5a6d1c0b615c494e7badd5e01341f97175883d8aac422e784be23b81539a2e",
+  "catalogue_sha256": "ab5a6d1c0b615c494e7badd5e01341f97175883d8aac422e784be23b81539a2e",
+  "fetched": "2026-11-03T04:41:04Z",
+  "chars": 16214,
+  "portal_id": "118340",
+  "tip": "DECIZIE"
+ }
+}
