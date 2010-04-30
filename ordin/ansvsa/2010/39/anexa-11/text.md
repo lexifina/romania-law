@@ -1,0 +1,9 @@
+# Anexa 11
+DOCUMENT DE ANULARE Nr...... din.............. Văzând Nota de constatare.................... și procesul-verbal de contravenție nr.............., întocmite în urma controalelor de către medicii veterinari oficiali din cadrul Direcției sanitar-veterinare și pentru siguranța alimentelor..................., având în vedere prevederile Ordonanței Guvernului nr. 42/2004 privind organizarea activității sanitarveterinare și pentru siguranța alimentelor, aprobată cu modificări și completări prin Legea nr. 215/2004, cu modificările și completările ulterioare, ținând cont de prevederile Ordonanței de urgență a Guvernului nr. 23/2010 privind identificarea și înregistrarea suinelor, ovinelor și caprinelor, precum și pentru modificarea și completarea unor acte normative, luând în considerare prevederile Hotărârii Guvernului nr. 1.415/2009 privind organizarea și funcționarea Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor și a unităților din subordinea acesteia, în temeiul pct. 16-20 din anexa nr. 2 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 39/2010 pentru aprobarea cerințelor tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a bovinelor, suinelor, ovinelor și caprinelor, precum și pentru stabilirea condițiilor de aprobare a acestora pe teritoriul României, Certificatul de aprobare a mijloacelor oficiale de identificare nr...... din............. se anulează. Nerespectarea prezentei măsuri se sancționează potrivit legii.
+Directorul general Șeful serviciului juridic,
+al Direcției generale legislație și contencios,
+sanitare veterinare,............................
+......................... (numele și prenumele în clar)
+(numele și prenumele în clar) (semnătura)
+(semnătura și ștampila)
+----
