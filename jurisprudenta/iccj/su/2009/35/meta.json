@@ -1,0 +1,156 @@
+{
+ "key": "iccj-su-35-2009",
+ "label": "Decizia ÎCCJ nr. 35/2009 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "35",
+ "date": "2009-12-14",
+ "year": "2009",
+ "heading": "DECIZIE nr. 35 din 14 decembrie 2009",
+ "subtitle": "privind examinarea sesizării cu recurs în interesul legii, privind admisibilitatea recursului declarat împotriva hotărârilor prin care a fost judecat apelul, în situaţia particulară în care, potrivit legii, recursul era singura cale de atac care putea fi exercitată împotriva hotărârii instanţei de fond",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "291",
+  "bis": false,
+  "date": "2010-05-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "25/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "385-9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit sesizarea cu recurs în interesul legii formulată de Colegiul de conducere al Parchetului de pe lângă Curtea de Apel Bucureşti.",
+  "Se stabileşte că recursul declarat împotriva unei hotărâri prin care a fost soluţionată calea de atac a apelului, deşi recursul era singura cale de atac ce putea fi exercitată împotriva hotărârii primei instanţe, este admisibil, potrivit dispoziţiilor art. 385^1 lit. e) din Codul de procedură penală, fiind incidente cazurile de casare prevăzute de art. 385^9 alin. 1 pct. 3 şi 11 din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "385-9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2010-05-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118424",
+  "text_sha256": "5fb16e7949ebda1643e5beef11339111b74f759232f5d1a3ffa7d9379995c5cb",
+  "catalogue_sha256": "5fb16e7949ebda1643e5beef11339111b74f759232f5d1a3ffa7d9379995c5cb",
+  "fetched": "2026-11-03T04:40:57Z",
+  "chars": 9042,
+  "portal_id": "118424",
+  "tip": "DECIZIE"
+ }
+}
