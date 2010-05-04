@@ -1,0 +1,175 @@
+{
+ "key": "iccj-ril-22-2009",
+ "label": "Decizia ÎCCJ nr. 22/2009 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "22",
+ "date": "2009-10-12",
+ "year": "2009",
+ "heading": "DECIZIE nr. 22 din 12 octombrie 2009",
+ "subtitle": "privind examinarea recursului în interesul legii, privind stabilirea soluţiei ce trebuie dată de către instanţă în cazul solicitării deducerii arestului la domiciliu executat în străinătate, în aplicarea dispoziţiilor art. 18 din Legea nr. 302/2004",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "290",
+  "bis": false,
+  "date": "2010-05-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "12/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 18 din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală se stabileşte că:",
+  "Durata arestului la domiciliu, executat în străinătate, măsură preventivă privativă de libertate, în accepţiunea art. 5 din Convenţia europeană pentru apărarea drepturilor omului şi a libertăţilor fundamentale, trebuie luată în calcul în cadrul procedurii penale române şi dedusă din durata închisorii aplicate de instanţele române.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "357",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "284",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "384",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2010-05-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118422",
+  "text_sha256": "596b6a9a0b5d92a652c6d7f45fc5fb529002ba0a35569640249e19cf1dc0ffaf",
+  "catalogue_sha256": "596b6a9a0b5d92a652c6d7f45fc5fb529002ba0a35569640249e19cf1dc0ffaf",
+  "fetched": "2026-11-03T04:40:57Z",
+  "chars": 12208,
+  "portal_id": "118422",
+  "tip": "DECIZIE"
+ }
+}
