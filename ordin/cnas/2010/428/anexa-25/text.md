@@ -1,0 +1,13 @@
+# Anexa 3-b bis
+Județul.............................
+Localitatea.........................
+Furnizor de servicii medicale.......
+DESFĂȘURĂTOR PENTRU DECONTAREA SERVICIILOR MEDICALE
+SPITALICEȘTI FURNIZATE ÎN REGIM DE SPITALIZARE CONTINUĂ,
+FINANȚATE PE BAZA GRUPELOR DE DIAGNOSTICE
+PE TRIMESTRUL/TRIMESTRELE...... ANUL......
+Nr. cazuri externate raportate și validate1 Nr. cazuri externate (reinternate și transferate) raportate și validate1 ICM realizat2 Nr. cazuri ponderate validate Nr. cazuri (reinternate și transferate) ponderate validate Tarif pe caz ponderat3 Coeficientul cazurilor extreme - K4 Suma contractată Suma realizată*
+1 2 3 4 = 1 x 3 5 = 2 x 3 6 7 8 9 = (4 x 6 x 7) + (5 x 6 x 50% x 7)
+--------------- *1) Conform raportului 1.2 din Anexa 3 - a la prezentul ordin; Numărul de cazuri nu poate depăși un număr maxim de cazuri calculat la capacitatea maximă de funcționare a spitalului; datele din col. 2 sunt raportate în conf. cu art. 70 alin. (3), respectiv la alin. (4) din HG nr. 262/2010 iar decontarea acestora se realizează în procent de 50% din tariful pe caz rezolvat; *2) Conform raportului 1.2 din Anexa 3 - a la prezentul ordin, dar nu mai mare decât cel stabilit conform Anexei nr. 17 a) la Ordinul nr. 265/408/2010
+*3) Conform Anexei 17 a) la Ordinul nr. 265/408/2010; decontarea cazurilor prevăzute la art. 70 alin. (3), respectiv la alin. (4) din HG nr. 262/2010 se realizează în procent de 50% din tariful pe caz rezolvat; *4) Conform raportului 1.2 din Anexa 3 - a la prezentul ordin
+Răspundem de realitatea și exactitatea datelor Reprezentantul legal al furnizorului Notă: Desfășurătorul din Anexa 3-b bis se întocmește trimestrial în două exemplare, dintre care unul rămâne la reprezentantul legal, iar celălalt se depune la casa de asigurări de sănătate de către reprezentantul legal al furnizorului de servicii medicale, până la data prevăzută în contractul de furnizare de servicii medicale spitalicești

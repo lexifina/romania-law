@@ -1,0 +1,13 @@
+# Anexa 5-b
+Casa de asigurări de sănătate
+Furnizor de servicii de îngrijiri medicale la domiciliu/îngrijiri paliative la domiciliu.......................
+Localitatea........................
+Județul............................
+DESFĂȘURĂTORUL ASIGURATILOR CARE AU BENEFICIAT ÎN BAZA RECOMANDĂRII
+DE SERVICII DE ÎNGRIJIRI MEDICALE LA DOMICILIU/ÎNGRIJIRI
+PALIATIVE LA DOMICILIU
+LUNA..................... ANUL................
+Nr. crt. Codul numeric personal al asiguratului Medicul de specialitate care a făcut recomandarea Cod parafă medic Data emiterii recomandării pentru servicii de îngrijiri medicale la domiciliu/ îngrijiri paliative la domiciliu Data începerii episodului de îngrijirii medicale la domiciliu/ îngrijiri paliative la domiciliu Data sfârșitului episodului de îngrijirii medicale la domiciliu/ îngrijiri paliative la domiciliu Nr. zile în care s-au acordat îngrijirile medicale la domiciliu/ îngrijirile paliative la domiciliu** Denumirea serviciului de îngrijiri medicale la domiciliu/ îngrijiri paliative la domiciliu* Total nr. servicii de îngrijiri medicale la domiciliu/ îngrijiri paliative acordate, pe tipuri
+C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
+total col.C8 = total col. C4 din Anexa 5-a total col.C10 = total col. C3 din Anexa 5-a __________
+Răspundem de realitatea și exactitatea datelor Reprezentantul legal al furnizorului Note: 1. Desfășurătorul din Anexa 5-b se întocmește în 2 exemplare, dintre care unul ramâne la reprezentantul legal, iar celălalt se depune la casa de asigurări de sănătate de către reprezentantul legal al furnizorului de servicii de ingrijiri medicale la domiciliu/îngrijiri paliative la domiciliu, până la data prevăzută în contractul de furnizare de servicii de îngrijiri medicale la domiciliu/îngrijiri paliative la domiciliu 2. Desfășurătorul din Anexa 5-b se întocmește distinct pentru serviciile de îngrijiri medicale la domiciliu, respectiv pentru îngrijiri paliative la domiciliu

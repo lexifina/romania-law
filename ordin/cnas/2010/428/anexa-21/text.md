@@ -1,0 +1,26 @@
+# Anexa 2-k
+Casa de asigurări de sănătate........
+Reprezentantul legal al furnizorului
+Furnizorul de servicii medicale.................................
+Localitatea..........................
+Medic de specialitate..............
+Județul.............................
+CNP medic de specialitate.......... 1.1. Desfășurător lunar al serviciilor medicale de recuperare-reabilitare a sănătății din pachetul de servicii medicale de bază efectuate ambulatoriul de specialitate pentru specialitatea recuperare-reabilitare a sănătății, în cabinete medicale și baze de tratament
+Luna........Anul........
+Nr. crt. Tipul serviciului de recuperare-reabilitare a sănătății Nr. servicii de recuperare-reabilitare realizate Tariful* pe serviciu medical/caz Sumă** (lei)
+C1 C2 C3 C4 C5 = C3 x C4
+1 Consultație medicală de specialitate
+2 Servicii medicale - cazuri (cură de tratament)
+TOTAL GENERAL X X
+---------
+Tariful/consultație în specialitatea de recuperare-reabilitare a sănătății, respectiv tariful pe serviciu medical-caz pentru serviciile medicale de recuperare-reabilitare a sănătății acordate în bazele de tratament sunt cf. Cap IV, pct.1, respectiv pct. 2 din Anexa 7 la Ordinul nr. 265/408/2010; Se diminuează cu contravaloarea cheltuielilor materiale necesare funcționării și administrării unității sanitare, în condițiile prevăzute la art. 14 alin. (4) din Anexa nr. 8 la Ordinul nr. 265/408/2010
+* se decontează în conformitate cu prevederile art. 14 alin. (9) din Anexa nr. 8 la Ordinul nr. 265/408/2010 1.2. Desfășurătorul pe CNP al serviciilor de recuperare-reabilitare din pachetul de servicii medicale de bază efectuate în cabinete medicale și în baze de tratament
+Luna........Anul........
+Nr. crt. Număr de înregistrare în documentele de evidență de la nivelul cabinetului CNP asigurat Număr consultații medicale de specialitate Număr servicii medicale-cazuri (cure de tratament)
+C1 C2 C3 C4 C5
+TOTAL GENERAL
+Total col. C4 din tab. 1.2 = col. C3 randul 1 din tab. 1.1
+Total col. C5 din tab. 1.2 = col. C3 randul 2 din tab. 1.1
+Răspundem de realitatea și exactitatea datelor
+Reprezentantul legal al furnizorului........................
+Notă: Desfășurătoarele din Anexa 2-k se întocmesc în două exemplare din care un exemplar se depune la casa de asigurări de sănătate, de către reprezentantul legal al furnizorului de servicii medicale, până la data prevăzută în contractul de furnizare de servicii medicale.
