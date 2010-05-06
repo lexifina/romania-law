@@ -1,0 +1,175 @@
+{
+ "key": "dcc-368-2010",
+ "label": "Decizia CCR nr. 368/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "368",
+ "date": "2010-03-25",
+ "year": "2010",
+ "heading": "DECIZIE nr. 368 din 25 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 403 alin. 1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "295",
+  "bis": false,
+  "date": "2010-05-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.304D/2009",
+  "13.146/299/2009",
+  "17.380/299/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "403",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 403 alin. 1 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. în dosarele nr. 8.126/299/2009, nr. 13.146/299/2009, nr. 19.161/299/2009, nr. 19.160/299/2009, nr. 19.154/299/2009, nr. 4.542/299/2009, nr. 26.155/299/2009, nr. 19.152/299/2009, nr. 9.233/299/2009, nr. 13.590/299/2009, nr. 13.586/299/2009, nr. 17.380/299/2009, nr. 6.613/299/2009, nr. 8.335/299/2009, nr. 20.286/299/2009 şi nr. 5.507/299/2009 ale Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "403",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118472",
+  "text_sha256": "df03cf04ec0273b83816bca39940d1d9155981e7f4ecf38a0ca340e135ea3d1b",
+  "catalogue_sha256": "df03cf04ec0273b83816bca39940d1d9155981e7f4ecf38a0ca340e135ea3d1b",
+  "fetched": "2026-11-03T04:40:55Z",
+  "chars": 7687,
+  "portal_id": "118472",
+  "tip": "DECIZIE"
+ }
+}
