@@ -1,0 +1,6 @@
+# Anexa 2
+AUTORITATEA NAȚIONALĂ SANITARĂ VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR DIRECȚIA SANITAR-VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR........ ATESTAT DE INDEMNITATE Seria CJ nr. 000001 Data................. Se atestă că exploatația de bovine cu codul.........., din localitatea........., județul........, deținută de........, CNP/CUI......., a fost declarată oficial indemnă de bruceloză bovină ca urmare a:
+a) îndeplinirii condițiilor prevăzute de Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 41/2010 privind calificarea exploatațiilor de bovine în raport cu bruceloza bovină;
+b) testării serologice cu rezultate negative din data de............... și din data de..................;
+c) rezultatului Buletinului de analiză nr....
+Prezentul atestat rămâne valabil sau poate fi suspendat în condițiile prevăzute de Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 41/2010 și se eliberează de către medicul veterinar zonal în 3 exemplare originale, unul pentru proprietar, unul pentru medic și unul pentru primărie. Director executiv DSVSA, Proprietar exploatație,................................................
