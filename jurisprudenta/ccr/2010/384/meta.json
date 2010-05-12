@@ -1,0 +1,191 @@
+{
+ "key": "dcc-384-2010",
+ "label": "Decizia CCR nr. 384/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "384",
+ "date": "2010-04-13",
+ "year": "2010",
+ "heading": "DECIZIE nr. 384 din 13 aprilie 2010",
+ "subtitle": "din 13 aprilie 2010 referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 24 alin. (1) lit. a) din Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecţiei victimelor infracţiunilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "309",
+  "bis": false,
+  "date": "2010-05-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "519/100/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 211/2004",
+    "number": "211",
+    "year": "2004",
+    "path": "lege/2004/211"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 24 alin. (1) lit. a) din Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecţiei victimelor infracţiunilor, excepţie ridicată din oficiu de instanţa de judecată în Dosarul nr. 519/100/2009 al Curţii de Apel Cluj - Secţia civilă, de muncă şi asigurări sociale, pentru minori şi familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 211/2004",
+    "number": "211",
+    "year": "2004",
+    "path": "lege/2004/211"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "d",
+      "g"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118655",
+  "text_sha256": "44b86ae567c2c95b78280394918e4946b6bc087fe5ca67bd94de4f8b5e45c9db",
+  "catalogue_sha256": "44b86ae567c2c95b78280394918e4946b6bc087fe5ca67bd94de4f8b5e45c9db",
+  "fetched": "2026-11-03T04:40:41Z",
+  "chars": 8690,
+  "portal_id": "118655",
+  "tip": "DECIZIE"
+ }
+}
