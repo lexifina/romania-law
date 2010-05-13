@@ -1,0 +1,210 @@
+{
+ "key": "dcc-348-2010",
+ "label": "Decizia CCR nr. 348/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "348",
+ "date": "2010-03-25",
+ "year": "2010",
+ "heading": "DECIZIE nr. 348 din 25 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. I pct. 1 referitor la art. 6 alin. (3) şi pct. 3 referitor la art. 7 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 207/2008 pentru modificarea şi completarea Legii nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "313",
+  "bis": false,
+  "date": "2010-05-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.532/2/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 207/2008",
+    "number": "207",
+    "year": "2008",
+    "path": "oug/2008/207"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. I pct. 1 referitor la art. 6 alin. (3) şi pct. 3 referitor la art. 7 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 207/2008 pentru modificarea şi completarea Legii nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate, excepţie ridicată de reclamantele Asociaţia \"Provita\" - filiala Bucureşti, Asociaţia \"Rost\", Asociaţia Filantropică Medical Creştină \"Christiana\" şi Fundaţia \"Sf. Martiri Brâncoveni\", unite în Organizaţia Federativă \"Forul Ortodox Român\", în Dosarul nr. 1.532/2/2009 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 207/2008",
+    "number": "207",
+    "year": "2008",
+    "path": "oug/2008/207"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.566/2008",
+    "number": "1566",
+    "year": "2008",
+    "path": "hg/2008/1566"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 677/2001",
+    "number": "677",
+    "year": "2001",
+    "path": "lege/2001/677"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118690",
+  "text_sha256": "d897b927c3d3fd9157e1411fd3d0b94af80c3bd676eccfb7d71008e3bd19b0b0",
+  "catalogue_sha256": "d897b927c3d3fd9157e1411fd3d0b94af80c3bd676eccfb7d71008e3bd19b0b0",
+  "fetched": "2026-11-03T04:40:38Z",
+  "chars": 10492,
+  "portal_id": "118690",
+  "tip": "DECIZIE"
+ }
+}
