@@ -1,0 +1,172 @@
+{
+ "key": "dcc-154-2010",
+ "label": "Decizia CCR nr. 154/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "154",
+ "date": "2010-02-25",
+ "year": "2010",
+ "heading": "DECIZIE nr. 154 din 25 februarie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "317",
+  "bis": false,
+  "date": "2010-05-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.463/302/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată, excepţie ridicată de Societatea Comercială \"Vita Brevis\" - S.R.L. în Dosarul nr. 4.463/302/2009 al Judecătoriei Sectorului 5 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118718",
+  "text_sha256": "b3f5dbf49d12bfe6c458815a39589f4110d7086654ebdc1be12274d578460737",
+  "catalogue_sha256": "b3f5dbf49d12bfe6c458815a39589f4110d7086654ebdc1be12274d578460737",
+  "fetched": "2026-11-03T04:40:35Z",
+  "chars": 5613,
+  "portal_id": "118718",
+  "tip": "DECIZIE"
+ }
+}
