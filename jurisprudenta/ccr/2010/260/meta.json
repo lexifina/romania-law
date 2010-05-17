@@ -1,0 +1,246 @@
+{
+ "key": "dcc-260-2010",
+ "label": "Decizia CCR nr. 260/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "260",
+ "date": "2010-03-16",
+ "year": "2010",
+ "heading": "DECIZIE nr. 260 din 16 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 453 alin. 1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "322",
+  "bis": false,
+  "date": "2010-05-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.079D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 453 alin. 1 din Codul de procedură civilă, excepţie ridicată de Frujină Maria, Uscăţescu Maria, Răscol Eugen, Calistrate Adriana, Elena Stana Liliana, Şofei Maria, Rasol Eugenia, Dobre Violeta, Găman Ion, Achim Cristian, Rădescu Livia Mariana, Rusie Ion, Diaconescu Aurelia, Oprea Ion, Predoiu Emil, Oprea Grigore, Olaru Dumitru, Hohoi Năstasie, Rîşniţă Geta, Şofei Ioana, Hohoi Florentina, Pîrvulete Adrian, Rîşniţă Sofia, Datcu Viorica, Pleşa Iulia, Uscătescu Valentin, Bleja Viorel, Vîrjan Vasile, Ghebertea Doina, Hârsulescu Cristinel, Iorgulescu Liviu, Crăciun Emilia, Iancu Dumitru, Scurtu Elisaveta, Jelescu Alexandru, Pirici Gheorghe, Stănicioi Pompilică, Puşcu Elena, Rusu Cornelia, Lumezeanu Elena, Lumezeanu Viorel, Mazilu Elena, Vîrdarie Iulian, Scurtu Dorinel, Dăescu Marilena, Băltăreţu Veronica, Chiriş Nicoliţa, Mladin Elena, Scurtu Corina, Mercioiu Marian-Valentin, Ionici-Diaconescu Dan, Şandru Dumitru, Duţan Viorel, Munteanu Nicolae, Grecu Marian, Andronache Dumitru, Filipescu Ioana-Daniela, Turcitu Nicolae, Tauru Iancu, Vîlceanu Mihai-Liviu, Vîrjog Cristina, Vaihel Elena, Crăciun Damian, Pîrvu Emil, Boroacă Gheorghe, Geamănu Constantin, Dănescu Ion, Olaru Grigore-Marian, Bălănoiu Lenuţa, Diaconu Ovidiu, Nanciu Maria, Bodislav Elena, Pîrvu Iustina, Mazilu Elena, Popescu Marinela, Calotă Marius, Rîşniţă Maria, Zgăbaia Niculina, Popa Denu, Vodislav Crin-Florin, Nicolescu Ernişoara, Popescu Olivia, Popescu F. Constantin, Bobeanu Maria, Cutuca Iustina, Mândruţă Gheorghe, Ciobanu Polina, Călin Aurel, Duţan Marin, Mărăcine Nicolae, Isvoranu Maria, Cărăvan Dumitru, Coşeraru Emilia, Bădiţă Elena, Truşcă Matei, Varogea Elvira, Roncea Sonia, Mărgineanu Dumitru-Simion, Armega Gheorghe, Armega Cristina, Glodeanu Aurel, Glodeanu Paula, Bobeanu Paulina, Mărgineanu Luminiţa, Popescu D. Constantin, Băndoiu Olguţa, Găman Victor, Cioană Stelian-Grigore, Cioclu Pompilie, Cioclu Daniela, Dinu Corneliu, Popescu Sorina, Popescu Dumitru, Călugăriţa Grigore, Duţu Constantin, Otgon Dănuţ, Pîrvan Solomon, Brătuianu Viorel, Bărăgan Nicolae, Societatea Comercială \"Argomm Ro\" - S.R.L. din Timişoara, Drăgoi Gheorghe, Drăcea Sevastian, Mutu Mihai, Varjan Costel, Opriţă Vintilă, Albuică Gheorghe, Năstase Marian, Stroe Iulian, Chiric Cristinel Gabriel, Chiric Valerica, Oneaţă Ionel, Dunăvete Aristel, Smaranda Ion, Singuran Paraschiva în dosarele nr. 8.097/299/2009, nr. 4.221/299/2009, nr. 4.264/299/2009, nr. 4.392/299/2009, nr. 4.256/299/2009, nr. 1.589/299/2009, nr. 4.214/299/2009, nr. 2.952/299/2009, nr. 8.599/299/2009, nr. 8.102/299/2009, nr. 5.499/299/2009, nr. 8.594/299/2009, nr. 15.875/325/2008, nr. 9.621/299/2009, nr. 15.845/299/2008, nr. 11.435/299/2009, nr. 2.654/299/2009, nr. 6.586/299/2009, nr. 4.896/299/2009 şi nr. 15.784/299/2008 ale Judecătoriei Sectorului 1 Bucureşti şi Tribunalului Timiş - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118772",
+  "text_sha256": "334af0d1653c4c4d1c527810fef8c3bb33a0af78d5defdb0bddb3571ed3a5bd8",
+  "catalogue_sha256": "334af0d1653c4c4d1c527810fef8c3bb33a0af78d5defdb0bddb3571ed3a5bd8",
+  "fetched": "2026-11-03T04:40:33Z",
+  "chars": 14937,
+  "portal_id": "118772",
+  "tip": "DECIZIE"
+ }
+}
