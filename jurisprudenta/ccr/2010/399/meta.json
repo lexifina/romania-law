@@ -1,0 +1,152 @@
+{
+ "key": "dcc-399-2010",
+ "label": "Decizia CCR nr. 399/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "399",
+ "date": "2010-04-13",
+ "year": "2010",
+ "heading": "DECIZIE nr. 399 din 13 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 16 alin. (3) din Legea partidelor politice nr. 14/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "334",
+  "bis": false,
+  "date": "2010-05-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.025/117/2008",
+  "7.931D/2009",
+  "8.013D/2009",
+  "1.549/292/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 16 alin. (3) din Legea partidelor politice nr. 14/2003, excepţie ridicată de Dorina Inoan, Nicolae Sorin Inoan, Niculina-Aurelia Rad, Gheorghe Pop, Simion Cenean, Lucian Poptean, Gavril Berciu şi Cornel Tepar în Dosarul nr. 4.025/117/2008 al Curţii de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal, din oficiu de Curtea de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal în Dosarul său nr. 1.549/292/2008 şi de Dănuţ Ghiţă, Marilena Nuţă şi Valerică Ionescu în dosarele nr. 3.242/104/2009, nr. 3.199/104/2009 şi, respectiv, nr. 3.243/104/2009 ale Tribunalului Olt - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118892",
+  "text_sha256": "09c2006d38ff5ee6c30429e5868043eb38efca22060a211afd493d57ed137f48",
+  "catalogue_sha256": "09c2006d38ff5ee6c30429e5868043eb38efca22060a211afd493d57ed137f48",
+  "fetched": "2026-11-03T04:40:26Z",
+  "chars": 10756,
+  "portal_id": "118892",
+  "tip": "DECIZIE"
+ }
+}
