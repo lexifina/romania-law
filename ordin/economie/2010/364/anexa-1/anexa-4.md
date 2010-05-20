@@ -1,0 +1,13 @@
+# Anexa 4a) ───────── la regulament ─────────────
+MINISTERUL ECONOMIEI, COMERȚULUI ȘI MEDIULUI DE AFACERI Fotografie 3 x 4
+CERTIFICAT DE ATESTARE
+Seria A nr......... din............
+Se atestează domnul (doamna).........................................................., născut(ă) în anul........., luna.............., ziua......, în localitatea..................., județul (sectorul)................... țara................., de profesie.................., domiciliat(ă) în localitatea......................, str......................... nr......., bl....... sc......, ap....., județul (sectorul)......................, de a desfășura activitatea de
+"VERIFICATOR DE PROIECTE"
+pentru lucrările de montaj utilaje, echipamente și instalații tehnologice industriale în domeniile:
+..............................................................................................................................................................................................................................
+Atestarea se acordă în concordanță cu prevederile Ordonanței Guvernului nr. 95/1999 privind calitatea lucrărilor de montaj al dotărilor tehnologice industriale, aprobată cu modificări prin Legea nr. 440/2002, respectiv ale Ordinului ministrului economiei, comerțului și mediului de afaceri nr. 364/2010, ca urmare a îndeplinirii condițiilor de atestare, și dă dreptul de exercitare a activității pentru care s-a eliberat prezentul certificat, cu respectarea prevederilor legale.
+Valabil până la data de......................
+Secretar general,
+................................
+(Notă - pe carton fond verde deschis)
