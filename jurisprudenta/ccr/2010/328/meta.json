@@ -1,0 +1,238 @@
+{
+ "key": "dcc-328-2010",
+ "label": "Decizia CCR nr. 328/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "328",
+ "date": "2010-03-23",
+ "year": "2010",
+ "heading": "DECIZIE nr. 328 din 23 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 78, 78^1, 79 şi 80 din Legea educaţiei fizice şi sportului nr. 69/2000",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "338",
+  "bis": false,
+  "date": "2010-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "26/112/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educaţiei fizice şi sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 78, 78^1, 79 şi 80 din Legea educaţiei fizice şi a sportului nr. 69/2000, excepţie ridicată de Societatea Comercială \"Mebis\" - S.A. din Bistriţa în Dosarul nr. 26/112/2009 al Tribunalului Bistriţa-Năsăud - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educaţiei fizice şi sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2003",
+    "number": "221",
+    "year": "2003",
+    "path": "lege/2003/221"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 472/2004",
+    "number": "472",
+    "year": "2004",
+    "path": "lege/2004/472"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118951",
+  "text_sha256": "ee8b502b656a7bc20afa13ce66e75897fdd1f8d2f31799c9251c40a0cb52df81",
+  "catalogue_sha256": "ee8b502b656a7bc20afa13ce66e75897fdd1f8d2f31799c9251c40a0cb52df81",
+  "fetched": "2026-11-03T04:40:22Z",
+  "chars": 17771,
+  "portal_id": "118951",
+  "tip": "DECIZIE"
+ }
+}
