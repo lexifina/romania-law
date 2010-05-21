@@ -1,0 +1,211 @@
+{
+ "key": "dcc-421-2010",
+ "label": "Decizia CCR nr. 421/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "421",
+ "date": "2010-04-15",
+ "year": "2010",
+ "heading": "DECIZIE nr. 421 din 15 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 31 alin. (4) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "341",
+  "bis": false,
+  "date": "2010-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "27.196/3/2008",
+  "27.196/3/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 31 alin. (4) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, excepţie ridicată de Vlad Opran în Dosarul nr. 27.196/3/2008 al Tribunalului Bucureşti - Secţia a V-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/1948",
+    "number": "119",
+    "year": "1948",
+    "path": "lege/1948/119"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 303/1947",
+    "number": "303",
+    "year": "1947",
+    "path": "lege/1947/303"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118958",
+  "text_sha256": "7cdf7e99290973d5aeb586d02fcc7e749d9ecf4e37fec89da3b5429577477790",
+  "catalogue_sha256": "7cdf7e99290973d5aeb586d02fcc7e749d9ecf4e37fec89da3b5429577477790",
+  "fetched": "2026-11-03T04:40:22Z",
+  "chars": 11304,
+  "portal_id": "118958",
+  "tip": "DECIZIE"
+ }
+}
