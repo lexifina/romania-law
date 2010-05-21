@@ -1,0 +1,8 @@
+# Anexa nr. 1 la anexa nr. 1
+Anexa 1 ─────── la normele metodologice ─────────────────────── CERERE pentru atestarea persoanelor fizice (model) Domnule președinte, Subsemnatul,..........., având cetățenia........., cu domiciliul în....../(adresa completă și nr. de telefon, eventual nr. de fax, pentru comunicare eficientă)....., posesor al diplomei de inginer în specializarea........, eliberată de...... din localitatea......, promoția........, țara........, solicit atestarea, în calitate de persoană fizică, în domeniul........, conform art. 5, și grupele de lucrări............., conform art. 7 din Normele metodologice privind atestarea persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare din domeniul silvic, aprobate prin Ordinul ministrului mediului și pădurilor nr. 718/2010. În susținerea cererii anexez următoarele:
+a) curriculum vitae;
+b) lista lucrărilor realizate în domeniu și grupele de lucrări pentru care solicit atestarea;
+c) acte de studii și, după caz, titluri științifice, în copie;
+d) extras de pe carnetul de muncă în copie certificată de angajator/deținătorul carnetului;
+e) certificatul de cazier judiciar.
+Menționez că îmi desfășor activitatea la............, cu sediul în localitatea........., județul/sectorul........., str.............. nr....., telefon........, fax........, unde am calitatea de......................... Declar că am luat cunoștință de obligațiile ce îmi revin potrivit normelor metodologice menționate mai sus. Data........................................... (semnătura) Domnului președinte al Comisiei de atestare a persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare din domeniul silvic.
