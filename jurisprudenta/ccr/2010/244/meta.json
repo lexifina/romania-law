@@ -1,0 +1,193 @@
+{
+ "key": "dcc-244-2010",
+ "label": "Decizia CCR nr. 244/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "244",
+ "date": "2010-03-16",
+ "year": "2010",
+ "heading": "DECIZIE nr. 244 din 16 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 din anexa nr. III la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice, precum şi a prevederilor anexelor nr. III/2 şi III/3 la această lege",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "346",
+  "bis": false,
+  "date": "2010-05-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.762/99/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 6 din anexa nr. III la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice, precum şi a prevederilor anexelor nr. III/2 şi III/3 la această lege, excepţie ridicată de Şerbescu Maria, Cârstoiu Diana, Chirica Eliza, Samoilă Magda Elena, Niţă Maria, Pruteanu Neculai, Zaharia Claudia, Iuga Dana Mihaela, Rusu Claudia, Însurăţelu Iuliana, Seghedin Oana Adriana, Vasilescu Mihaela, Ţăbârnă Mihaela Gabriela, Albert Carmen Luciana, Munteanu Alina Sandra, Bunea Ovidiu, Şchiopu Ecaterina, Rotariu Elvira, Dobrea Corneliu, Secara Maricel, Sâmpetru Otilia, Bîzgă Corina, Enache Dan, Penciuc Pintilii, Catană Gabriela, Filip Elena, Ivanoschi Ana, Stanciu Elena, Brăenescu Dana Rafaela, Mînzat Sorina, Mantalea Mihaela, Patraş Donose Smaranda, Ciocan Mirela, Budăi Simona Smărăndiţa, Amarii Manuela, Popa Anca, Zară Roxana, Şchiopu Mihaela, Mihalcea Liliana, Niţă Mihaela Gabriela, Dăscăliţei Ramona, Ciorâţanu Alina, Nichifor Rodica, Ursu Maria, Isăilă Irina, Drelciuc Mihaela, Artene Suzana, Şerban Liliana, Bordianu Laura, Şuhan Cătălina, Munteanu Smaragda, Zaharia Mihaela, Ţuchendria Eugenia, Anghel Nicoleta, Ardeleanu Lenuţa, Filiche Elena, Obreja Nuşa Daniela, Rogan Camelia, Sava Alina Maria, Matei Marian, Moisuc Anca, Axinte Mihaela, Bantaş Tiberiu, Voicu Gianina, Ticu Ioana, Teodorescu Viorica, Gordobino Viorica, Petrică Gabriela, Mustafa Gabriela, Păcurar Mihaela Cătălina, Lăpuşneanu Alexandru Lucian, Emandache Daniela, Giurgiuc Gabriela, Păuleţ Ancuţa, Creangă Florin Valentin, Matei Elena, Georgescu Dorian, Popa Mihaela, Mendelovici Alin, Zapodeanu Monica, Honceriu Diana Elena, Juverdeanu Irina Mihaela, Cogan Paraschiva, Tudose Alina Afrodita, Buhuş Roxana Ionela, Darie Iulia Cristina, Simioneasa Alina, Vânaga Vasile, Jipu Anca, Chiuchiu Nicoleta, Ghiga Gheorghe, Secară Daniela, Adomnicăi Cristian Paul, Palade Bianca Georgiana, Spulber Elena Felicia, Jijie Cristina, Raţă Dorica, Irimescu Constantin, Croitoru Viorica, Axinia Mihaela, Tomozei Iulia, Dragomir Ana Monica, Ilii Mihaela Carmen, Mihai Cecilia, Miron Adina, Boandă Mirela, Tiron Alina Nicoleta, Melinte Alina, Luca Raluca, Jitariuc Liliana, Ştefaniu Ioana, Pântea Aurora, Vartolomei Daniela, Spatariu Simona, Costăchescu Daniela, Şerban Elena Petronela, Enache Angelina, Stan Irina, Ailenei Marcela, Prisecariu Oana, Barbacariu Mădălina, Vartolomei Marionela, Mancaş Luminiţa, Grădinaru Nicuşor, Gociu Natalia, Axinte Antonina, Diaconescu Irina, Crauciuc Bujor Doina, Bîtculescu Gabriela, Cuzic Dana Claudia, Timofte Georgeta, Stoica Florina Mihaela, Andrieş Vasilica, Tutunaru Dănuţ, Bordei Simona, Vătămănelu Maria, Petrăraşu Carmen, Iacob Dorina Mariana, Zănoagă Monica, Rusu Marlena Lăcrămioara, Chica Cristina, Şerban Ion, Golduţ Liliana, Vasile Roxana Cristina, Baltag Gabriela, Matei Adriana, Dănilă Elena Laura şi Popescu Marius Stelian în Dosarul nr. 6.762/99/2007 al Curţii de Apel Iaşi - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 6/2007",
+    "number": "6",
+    "year": "2007",
+    "path": "og/2007/6"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119002",
+  "text_sha256": "178d0cbe94b3b63b3a243bda3c306cddfe93ae802f60d804dccfbf22ce579ddf",
+  "catalogue_sha256": "178d0cbe94b3b63b3a243bda3c306cddfe93ae802f60d804dccfbf22ce579ddf",
+  "fetched": "2026-11-03T04:40:15Z",
+  "chars": 21587,
+  "portal_id": "119002",
+  "tip": "DECIZIE"
+ }
+}
