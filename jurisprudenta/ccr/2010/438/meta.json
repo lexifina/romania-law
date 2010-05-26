@@ -1,0 +1,216 @@
+{
+ "key": "dcc-438-2010",
+ "label": "Decizia CCR nr. 438/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "438",
+ "date": "2010-04-15",
+ "year": "2010",
+ "heading": "DECIZIE nr. 438 din 15 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 58/2008 pentru abrogarea art. 3^2 din Ordonanţa de urgenţă a Guvernului nr. 67/2006 privind gestionarea fondurilor nerambursabile destinate finanţării politicii agricole comune alocate de la Comunitatea Europeană, precum şi a fondurilor de cofinanţare şi prefinanţare alocate de la bugetul de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "346",
+  "bis": false,
+  "date": "2010-05-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.152/2/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 58/2008",
+    "number": "58",
+    "year": "2008",
+    "path": "oug/2008/58"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 67/2006",
+    "number": "67",
+    "year": "2006",
+    "path": "oug/2006/67"
+   },
+   "articles": [
+    {
+     "art": "3-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 58/2008 pentru abrogarea art. 3^2 din Ordonanţa de urgenţă a Guvernului nr. 67/2006 privind gestionarea fondurilor nerambursabile destinate finanţării politicii agricole comune alocate de la Comunitatea Europeană, precum şi a fondurilor de cofinanţare şi prefinanţare alocate de la bugetul de stat, excepţie ridicată de George Cosmin Petrescu, Veronica Vătăşescu, Maria Cojocaru, Carmen Sandu, Dănuţ Iacob, Violeta Magdalena Muşat, Adrian Turtoi, Claudiu Zaharescu, Radu Emil Miloevici, Emil Cătălin Dracilă, Ileana Mirela Iordache, Călin Mihai Popa, Ionel Rontea, Simona Mihaela Mustăţea, Vasilică Cristian Ignat, Sorin Ştefan Deca, Nicolae Oprisa, Mihai Gasparel, Viorel Mihalcioiu, Constantin Badea, Laurenţiu Heraru, Gheorghe Ridichie, Vasile Mircea, Vasile Stanciu, Carmen Idorasi, Daniela Elena Vorovenci, Bogdan Adrian Gemanari, Vlad Vasile Vieru, Vasile Calance, Cătălin Florian, Tiberius Stan, Bogdan Galanton Moroşan, Adrian Moian, Daniel Aelenei, Marius Laurenţiu Ghimpu, Dorel Marcel Preliceanu, Robert Paruschi, Ion Popescu, Costel Ion, Maria Carmen Tudoran Sandu, Dana Maria Trifu, Cornel Teodorescu, Virgil Iulian Pitu, Constantin Cosmin Valnoiu, Dumitru Voicu, Gheorghiţa Gheorghe, Mircea Gabriel Calotă, Costel Dolocan, George Constantinescu, Cristian Macau, Mariana Gaborean, Ioana Preda, Raluca Elena Domnescu, Mihai Olaru, Ruxandra Laura Ioana Salcianu, Dragoş Ciprian Pahontu, Dan Achim, Maria Mirela Voica şi Tinel Gheorghe în Dosarul nr. 3.152/2/2009 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 58/2008",
+    "number": "58",
+    "year": "2008",
+    "path": "oug/2008/58"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 67/2006",
+    "number": "67",
+    "year": "2006",
+    "path": "oug/2006/67"
+   },
+   "articles": [
+    {
+     "art": "3-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 74/2009",
+    "number": "74",
+    "year": "2009",
+    "path": "oug/2009/74"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119006",
+  "text_sha256": "f55a4ce2157ff3c86faccbc80a5989fe09b3c1305d3f9b2d1ce0a8f194e0a41d",
+  "catalogue_sha256": "f55a4ce2157ff3c86faccbc80a5989fe09b3c1305d3f9b2d1ce0a8f194e0a41d",
+  "fetched": "2026-11-03T04:40:15Z",
+  "chars": 14117,
+  "portal_id": "119006",
+  "tip": "DECIZIE"
+ }
+}
