@@ -1,0 +1,46 @@
+REGULAMENTUL (UE) NR. 382/2010 AL COMISIEI
+din 5 mai 2010
+de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1924/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 privind mențiunile nutriționale și de sănătate înscrise pe produsele alimentare (1), în special articolul 18 alineatul (5),
+întrucât:
+(1) În temeiul Regulamentului (CE) nr. 1924/2006, mențiunile de sănătate înscrise pe produsele alimentare sunt interzise, cu excepția cazului în care sunt autorizate de Comisie în conformitate cu regulamentul respectiv și incluse pe o listă de mențiuni permise.
+(2) Regulamentul (CE) nr. 1924/2006 prevede, de asemenea, că cererile de autorizare a mențiunilor de sănătate pot fi trimise de către operatorii din sectorul alimentar autorității naționale competente a unui stat membru. Autoritatea națională competentă trimite cererile valabile mai departe Autorității Europene pentru Siguranța Alimentară (EFSA), denumită în continuare „autoritatea”.
+(3) După primirea unei cereri, autoritatea informează fără întârziere celelalte state membre, iar Comisia emite un aviz cu privire la mențiunea de sănătate în cauză.
+(4) Comisia ia o decizie cu privire la autorizarea mențiunilor de sănătate, ținând cont de avizul emis de autoritate.
+(5) Ca urmare a unei cereri din partea The Natural Push-Up Company, transmisă la 28 noiembrie 2008 în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, autorității i-a revenit sarcina de a formula un aviz cu privire la o mențiune de sănătate privind efectele comprimatelor Natural Push-Up® și ale capsulelor Natural Push-Up® asupra măririi sânilor la femei (întrebarea nr. EFSA-Q-2008-784) (2). Mențiunea de sănătate propusă de solicitant a fost formulată după cum urmează: „Comprimatele NPU imită procesul de mărire a sânilor datorită 8-PN (8-Prenilnaringenin)”.
+(6) La data de 5 iunie 2009, Comisia și statele membre au primit avizul științific din partea autorității care concluziona, pe baza datelor transmise, că nu s-a stabilit o relație cauză-efect între consumul de comprimate Natural Push-Up® și capsule Natural Push-Up® și efectul menționat. În consecință, având în vedere că mențiunea de sănătate nu îndeplinește cerințele din Regulamentul (CE) nr. 1924/2006, aceasta nu ar trebui autorizată.
+(7) Ca urmare a unei cereri din partea Clasado Ltd., transmisă la 29 decembrie 2008 în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, autorității i-a revenit sarcina de a formula un aviz cu privire la o mențiune de sănătate privind efectele produsului BimunoBT (BGOS) Prebiotic asupra menținerii unei funcții gastro-intestinale sănătoase (întrebarea nr. EFSA-Q-2009-00231) (3). Mențiunea de sănătate propusă de solicitant a fost formulată după cum urmează: „Ajută la menținerea unei funcții gastro-intestinale (GI) sănătoase”.
+(8) La 7 iulie 2009, Comisia și statele membre au primit avizul științific din partea autorității care concluziona, pe baza datelor transmise, că nu s-a stabilit o relație cauză-efect între consumul de BimunoBT (BGOS) Prebiotic și efectul menționat. În consecință, având în vedere că mențiunea de sănătate nu îndeplinește cerințele din Regulamentul (CE) nr. 1924/2006, aceasta nu ar trebui autorizată.
+(9) Ca urmare a unei cereri din partea Clasado Ltd., transmisă la 15 iulie 2008 în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, autorității i-a revenit sarcina de a formula un aviz cu privire la o mențiune de sănătate privind efectele produsului BimunoBT (BGOS) Prebiotic privind sprijinirea sistemului imunitar (întrebarea nr. EFSA-Q-2009-00230) (4). Mențiunea de sănătate propusă de solicitant a fost formulată după cum urmează: „Sprijină sistemul dumneavoastră natural de apărare”.
+(10) La 7 iulie 2009, Comisia și statele membre au primit avizul științific din partea autorității care concluziona, pe baza datelor transmise, că nu s-a stabilit o relație cauză-efect între consumul de BimunoBT (BGOS) Prebiotic și efectul menționat. În consecință, având în vedere că mențiunea de sănătate nu îndeplinește cerințele din Regulamentul (CE) nr. 1924/2006, aceasta nu ar trebui autorizată.
+(11) Ca urmare a unei cereri din partea Sunstar Suisse S.A., transmisă la data de 4 februarie 2009 în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, autorității i-a revenit sarcina de a formula un aviz cu privire la o mențiune de sănătate privind efectele produsului Gum PeriobalanceTM tablete și gumă de mestecat asupra sănătății orale (întrebarea nr. EFSA-Q-2009-00373) (5). Mențiunea de sănătate propusă de solicitant a fost formulată după cum urmează: „Gum PeriobalanceTM, combinat cu o igienă orală corectă, ajută la reechilibrarea microflorei bucale și la îmbunătățirea sănătății orale”.
+(12) La 20 iulie 2009, Comisia și statele membre au primit avizul științific din partea autorității care concluziona, pe baza datelor transmise, că nu s-a stabilit o relație cauză-efect între consumul de Gum PeriobalanceTM tablete și gumă de mestecat și efectul menționat. În consecință, având în vedere că mențiunea de sănătate nu îndeplinește cerințele din Regulamentul (CE) nr. 1924/2006, aceasta nu ar trebui autorizată.
+(13) La stabilirea măsurilor prevăzute de prezentul regulament au fost luate în considerare observațiile solicitanților și ale publicului, primite de Comisie în temeiul articolului 16 alineatul (6) din Regulamentul (CE) nr. 1924/2006.
+(14) Mențiunile de sănătate la care se face referire în articolul 13 alineatul (1) litera (a) din Regulamentul (CE) nr. 1924/2006 fac obiectul măsurilor tranzitorii prevăzute la articolul 28 alineatul (5) din regulamentul menționat, numai în cazul în care respectă condițiile impuse prin acesta, printre care aceea că ele trebuie să fie în conformitate cu regulamentul. În ceea ce privește cele patru mențiuni care fac obiectul prezentului regulament, autoritatea a concluzionat că nu s-a putut stabili o relație cauză-efect între consumul produselor alimentare și efectul pretins, astfel, mențiunile de sănătate nu îndeplinesc condițiile Regulamentului (CE) nr. 1924/2006 și nu au putut beneficia de perioada de tranziție prevăzută la articolul 28 alineatul (5) din regulamentul menționat. Se prevede o perioadă de tranziție de șase luni, în scopul de a permite operatorilor economici din sectorul alimentar să se adapteze cerințelor prezentului regulament.
+(15) Măsurile prevăzute de prezentul regulament sunt conforme cu avizul Comitetului permanent privind lanțul alimentar și sănătatea animală și nu au întâmpinat nicio opoziție din partea Parlamentului European sau a Consiliului,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Mențiunile de sănătate enumerate în anexa la prezentul regulament nu se includ în lista comunitară cu mențiunile permise prevăzută la articolul 13 alineatul (3) din Regulamentul (CE) nr. 1924/2006.
+Cu toate acestea, mențiunile de sănătate pot fi utilizate în continuare timp de șase luni de la intrarea în vigoare a prezentului regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 5 mai 2010.
+Pentru Comisie
+Președintele
+José Manuel BARROSO
+(1) JO L 404, 30.12.2006, p. 9.
+(2) The EFSA Journal (2009) 1100, 1-9.
+(3) The EFSA Journal (2009) 1107, 1-10.
+(4) The EFSA Journal (2009) 1106, 1-8.
+(5) The EFSA Journal (2009) 1178, 1-8.
+ANEXĂ
+Mențiuni de sănătate respinse
+Cerere – Dispoziții relevante din Regulamentul (CE) nr. 1924/2006 | Nutrient, substanță, aliment sau categorie de alimente | Mențiune | Trimitere la avizul EFSA
+Articolul 13 alineatul (5) – mențiune de sănătate bazată pe dovezi științifice nou stabilite și/sau care implică o cerere de protecție a datelor care țin de proprietate | Comprimate Natural Push-Up® și capsule Natural Push-Up® | Comprimatele NPU imită procesul de mărire a sânilor datorită 8-PN (8-Prenilnaringenin) | Q-2008-784
+Articolul 13 alineatul (5) – mențiune de sănătate bazată pe dovezi științifice nou stabilite și/sau care implică o cerere de protecție a datelor care țin de proprietate | BimunoBT (BGOS) Prebiotic | Ajută la menținerea unei funcții gastro-intestinale (GI) sănătoase | Q-2009-00231
+Articolul 13 alineatul (5) – mențiune de sănătate bazată pe dovezi științifice nou stabilite și/sau care implică o cerere de protecție a datelor care țin de proprietate | BimunoBT (BGOS) Prebiotic | Sprijină sistemul dumneavoastră natural de apărare | Q-2009-00230
+Articolul 13 alineatul (5) – mențiune de sănătate bazată pe dovezi științifice nou stabilite și/sau care implică o cerere de protecție a datelor care țin de proprietate | Gum PeriobalanceTM tablete și gumă de mestecat | Gum PeriobalanceTM, combinat cu o igienă orală corectă, ajută la reechilibrarea microflorei bucale și la îmbunătățirea sănătății orale | Q-2009-00373
