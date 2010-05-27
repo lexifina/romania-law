@@ -1,0 +1,181 @@
+{
+ "key": "dcc-437-2010",
+ "label": "Decizia CCR nr. 437/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "437",
+ "date": "2010-04-15",
+ "year": "2010",
+ "heading": "DECIZIE nr. 437 din 15 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 14/2009 privind înfiinţarea Agenţiei Române pentru Dezvoltarea Durabilă a Zonelor Industriale - ARDDZI",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "349",
+  "bis": false,
+  "date": "2010-05-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.021/2/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 14/2009",
+    "number": "14",
+    "year": "2009",
+    "path": "oug/2009/14"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 14/2009 privind înfiinţarea Agenţiei Române pentru Dezvoltarea Durabilă a Zonelor Industriale - ARDDZI, excepţie ridicată de Nicolae Vasile Orovnicean, Maria Iosana Iftode, Marcela Bălan, Stelian Daniel Mîrza, Dumitru Ciocan, Florea Creangă, Virginia Bucur şi Mihai Niţu în Dosarul nr. 5.021/2/2009 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 14/2009",
+    "number": "14",
+    "year": "2009",
+    "path": "oug/2009/14"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 167/2005",
+    "number": "167",
+    "year": "2005",
+    "path": "lege/2005/167"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119045",
+  "text_sha256": "a7b250528311d0793c89854f7f195d241114ea87940492a4df8ebb259d2b1dad",
+  "catalogue_sha256": "a7b250528311d0793c89854f7f195d241114ea87940492a4df8ebb259d2b1dad",
+  "fetched": "2026-11-03T04:40:13Z",
+  "chars": 12854,
+  "portal_id": "119045",
+  "tip": "DECIZIE"
+ }
+}
