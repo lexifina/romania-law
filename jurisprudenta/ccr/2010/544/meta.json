@@ -1,0 +1,242 @@
+{
+ "key": "dcc-544-2010",
+ "label": "Decizia CCR nr. 544/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "544",
+ "date": "2010-04-27",
+ "year": "2010",
+ "heading": "DECIZIE nr. 544 din 27 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "355",
+  "bis": false,
+  "date": "2010-05-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.825D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în dosarele nr. 6.058/97/2008, nr. 6.067/97/2008, nr. 5.912/97/2008, nr. 6.023/97/2008, nr. 7.901/107/2008, nr. 6.019/97/2008, nr. 5.973/97/2008, nr. 6.069/97/2008, nr. 6.036/97/2008, nr. 6.051/97/2008, nr. 6.020/97/2008, nr. 5.954/97/2008, nr. 5.914/97/2008, nr. 6.054/97/2008, nr. 5.974/97/2008, nr. 5.971/97/2008, nr. 6.015/97/2008, nr. 6.052/97/2008, nr. 6.028/97/2008, nr. 5.918/97/2008, nr. 5.915/97/2008, nr. 6.030/97/2008, nr. 5.969/97/2008, nr. 6.032/97/2008, nr. 5.967/97/2008, nr. 6.062/97/2008, nr. 7.303/97/2008, nr. 6.021/97/2008, nr. 5.596/107/2008, nr. 5.584/107/2008, nr. 5.585/107/2008, nr. 7.191/107/2008, nr. 6.043/97/2008, nr. 7.198/107/2008, nr. 5.916/97/2008, nr. 7.595/97/2008, nr. 6.064/97/2008, nr. 6.041/97/2008, nr. 6.063/97/2008, nr. 5.964/97/2008, nr. 5.980/97/2008, nr. 6.031/97/2008, nr. 6.070/97/2008, nr. 6.017/97/2008, nr. 6.027/97/2008, nr. 5.913/97/2008, nr. 5.966/97/2008 şi nr. 5.991/97/2008 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale, precum şi în dosarele nr. 1.384/120/2008 şi nr. 1.778/120/2008 ale Tribunalului Dâmboviţa - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119114",
+  "text_sha256": "999a2764a333e6242ba1f277eb0afaa51b99857faebf1d48c72735021c4e29c9",
+  "catalogue_sha256": "999a2764a333e6242ba1f277eb0afaa51b99857faebf1d48c72735021c4e29c9",
+  "fetched": "2026-11-03T04:40:09Z",
+  "chars": 12367,
+  "portal_id": "119114",
+  "tip": "DECIZIE"
+ }
+}
