@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale SINDLEASING IFN - S.A., cu sediul în municipiul Giurgiu, Str. Portului nr. 1, județul Giurgiu, înregistrată la registrul comerțului sub nr. J52/388/2003, cod unic de înregistrare 15847527, înscrisă în Registrul general al instituțiilor financiare nebancare la secțiunea h) - "Leasing financiar" sub nr. RG-PJR-19-080143. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 20 mai 2010. Nr. 436. _________
