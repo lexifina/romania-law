@@ -1,0 +1,6 @@
+# Anexa 5
+AUTORITATEA NAȚIONALĂ SANITARĂ VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR DIRECȚIA SANITAR-VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR............. ATESTAT DE INDEMNITATE Seria CJ nr. 000001 Data....... Se atestă că exploatația de bovine cu codul....... din localitatea......, județul....., deținută de......, CNP/CUI........., a fost declarată oficial indemnă de tuberculoză bovină ca urmare a:
+a) îndeplinirii condițiilor prevăzute de Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr...../.....;
+b) testării intradermice cu rezultate negative din data de........... și din data de............;
+c) rezultatului buletinului de analiză nr......
+Prezentul atestat rămâne valabil sau poate fi suspendat în condițiile prevăzute de Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr..../.... și se eliberează de către medicul veterinar oficial în două exemplare originale, unul pentru proprietar, unul pentru medic. Directorul executiv al direcției sanitar-veterinare și pentru siguranța alimentelor,............................... Reprezentantul legal al exploatației,.....................................
