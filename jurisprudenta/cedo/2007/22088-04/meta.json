@@ -1,0 +1,187 @@
+{
+ "key": "cedo-22088-04-2007-12-06",
+ "label": "CEDO, Bragadireanu c. României, 2007-12-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-12-06",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 6 decembrie 2007",
+ "subtitle": "în Cauza Bragadireanu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "369",
+  "bis": false,
+  "date": "2010-06-04",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "22088/04"
+ ],
+ "case_name": "Bragadireanu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "CURTEA 1. declară în unanimitate cererea admisibilă în ceea ce priveşte capetele de cerere referitoare la condiţiile de detenţie ulterioare lunii mai 2004 şi durata procedurii penale şi inadmisibilă în rest; 2. hotărăşte în unanimitate că nu a avut loc încălcarea art. 3 din Convenţie în ceea ce priveşte îngrijirile medicale acordate în închisoare; 3. hotărăşte în unanimitate că a avut loc încălcarea art. 3 din Convenţie în ceea ce priveşte condiţiile de detenţie; 4. hotărăşte cu 6 voturi la unu că a avut loc încălcarea art. 6 § 1 din Convenţie (durata procedurii penale); 5. hotărăşte cu 6 voturi la unu: 6. respinge în unanimitate cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "176",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 56/2003",
+    "number": "56",
+    "year": "2003",
+    "path": "oug/2003/56"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119303",
+  "text_sha256": "6eb47be0847c9edb3c145cc0b056189ae6bcce912ce6751e11ef1f1d5918f590",
+  "catalogue_sha256": "6eb47be0847c9edb3c145cc0b056189ae6bcce912ce6751e11ef1f1d5918f590",
+  "fetched": "2026-11-03T04:39:59Z",
+  "chars": 55775,
+  "portal_id": "119303",
+  "tip": "HOTĂRÂRE"
+ }
+}
