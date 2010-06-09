@@ -1,0 +1,152 @@
+{
+ "key": "dcc-486-2010",
+ "label": "Decizia CCR nr. 486/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "486",
+ "date": "2010-04-20",
+ "year": "2010",
+ "heading": "DECIZIE nr. 486 din 20 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 58 lit. q) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "381",
+  "bis": false,
+  "date": "2010-06-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.295/212/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": [
+      "q"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 58 lit. q) din Ordonanţa de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere, excepţie ridicată de Societatea Comercială \"Tinioris Mar\" - S.R.L. din Constanţa în Dosarul nr. 7.295/212/2009 al Judecătoriei Constanţa - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 109/2005",
+    "number": "109",
+    "year": "2005",
+    "path": "oug/2005/109"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": [
+      "q"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119396",
+  "text_sha256": "4c2f63e7cc2c1b56311b171208984af590495b458de5fdb1fbd707159a5a4539",
+  "catalogue_sha256": "4c2f63e7cc2c1b56311b171208984af590495b458de5fdb1fbd707159a5a4539",
+  "fetched": "2026-11-03T04:39:53Z",
+  "chars": 6014,
+  "portal_id": "119396",
+  "tip": "DECIZIE"
+ }
+}
