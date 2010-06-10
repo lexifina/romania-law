@@ -1,0 +1,164 @@
+{
+ "key": "dcc-481-2010",
+ "label": "Decizia CCR nr. 481/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "481",
+ "date": "2010-04-20",
+ "year": "2010",
+ "heading": "DECIZIE nr. 481 din 20 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. IV din Ordonanţa de urgenţă a Guvernului nr. 108/2008 pentru modificarea unor acte normative din domeniul social",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "383",
+  "bis": false,
+  "date": "2010-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.270/115/2008",
+  "8.086D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 108/2008",
+    "number": "108",
+    "year": "2008",
+    "path": "oug/2008/108"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. IV din Ordonanţa de urgenţă a Guvernului nr. 108/2008 pentru modificarea unor acte normative din domeniul social, excepţie ridicată de Sindicatul Salariaţilor Casei Judeţene de Pensii Caraş-severin, pentru Erika Inişconi, Dorin Tănăsescu, Ioan Mihai Balmez, Aneta Negoianu şi Rodica Bircea în dosarele nr. 3.270/115/2008, nr. 3.271/115/2008, nr. 3.269/115/2008, nr. 3.274/115/2008 şi nr. 3.272/115/2008, toate ale Curţii de Apel Timişoara - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 108/2008",
+    "number": "108",
+    "year": "2008",
+    "path": "oug/2008/108"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 3/2009",
+    "number": "3",
+    "year": "2009",
+    "path": "oug/2009/3"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119417",
+  "text_sha256": "deb1a419199b3fd1b761f1dcd6c994cfffac33f977287d46c8d6da7bd606f2cf",
+  "catalogue_sha256": "deb1a419199b3fd1b761f1dcd6c994cfffac33f977287d46c8d6da7bd606f2cf",
+  "fetched": "2026-11-03T04:39:51Z",
+  "chars": 12627,
+  "portal_id": "119417",
+  "tip": "DECIZIE"
+ }
+}
