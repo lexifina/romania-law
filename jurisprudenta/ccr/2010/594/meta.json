@@ -1,0 +1,191 @@
+{
+ "key": "dcc-594-2010",
+ "label": "Decizia CCR nr. 594/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "594",
+ "date": "2010-05-04",
+ "year": "2010",
+ "heading": "DECIZIE nr. 594 din 4 mai 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 287 din Legea nr. 53/2003 - Codul muncii şi ale art. 304^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "390",
+  "bis": false,
+  "date": "2010-06-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.359D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 287 din Legea nr. 53/2003 - Codul muncii şi ale art. 304^1 din Codul de procedură civilă, excepţie ridicată de Popa Veronica, Brezeştian Călin, Sîrb Dumitru, Balea Maria, Damian Ana, Bota Cornel, Bişboacă Ioan, Romoşan Simion, Căbulea Ioan, Pleşa Maria, Ispas Ştefan, Laţiu Gheorghe, Tecşa Vladimir, Comşa Victoria Ana, Farcaşiu Cornelia, Florea Eugen Marius, Zuga Petru, Muntean Mioara Nataşa, Bota Maria, Căian Elena, Florea Maria, Ursu Emilian, Cîndescu Maria, Iclezan Petru, Comcea Maria, Salber Roland, Suciu Zorel, Puşcaş Ovidiu, Dandea Mărioara şi Lazăr Emilia-Adela în dosarele nr. 5.031/107/2008, nr. 3.397/107/2008, nr. 3.358/107/2008, nr. 5.035/107/2008, nr. 3.393/107/2008, nr. 5.028/107/2008, nr. 5.015/107/2008, nr. 4.999/107/2008, nr. 3.321/107/2008, nr. 5.053/107/2008, nr. 3.356/107/2008, nr. 6.289/107/2008, nr. 3.377/107/2008, nr. 5.286/107/2008, nr. 5.091/107/2008, nr. 4.982/107/2008, nr. 6.023/107/2008, nr. 5.052/107/2008, nr. 5.042/107/2008, nr. 5.058/107/2008, nr. 5.067/107/2008, nr. 5.107/107/2008, nr. 5.094/107/2008, nr. 4.994/107/2008, nr. 5.063/107/2008, nr. 5.110/107/2008, nr. 5.044/107/2008, nr. 5.054/107/2008, nr. 5.065/107/2008, nr. 5.095/107/2008 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119475",
+  "text_sha256": "e85d942df49de4e8a40e33be7f41e669e1d3e20d8e85bcc657aa33b4d7f09e26",
+  "catalogue_sha256": "e85d942df49de4e8a40e33be7f41e669e1d3e20d8e85bcc657aa33b4d7f09e26",
+  "fetched": "2026-11-05T14:04:51Z",
+  "chars": 15116,
+  "portal_id": "119475",
+  "tip": "DECIZIE"
+ }
+}
