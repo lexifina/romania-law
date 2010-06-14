@@ -1,0 +1,177 @@
+{
+ "key": "dcc-614-2010",
+ "label": "Decizia CCR nr. 614/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "614",
+ "date": "2010-05-06",
+ "year": "2010",
+ "heading": "DECIZIE nr. 614 din 6 mai 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "390",
+  "bis": false,
+  "date": "2010-06-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "612/122/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A în Dosarul nr. 612/122/2009 al Tribunalului Giurgiu - Secţia civilă, precum şi în dosarele nr. 1.425/110/2009, nr. 6.487/110/2008, nr. 7.522/110/2008, nr. 5.635/110/2008, nr. 7.498/110/2008, nr. 6.751/110/2008, nr. 6.495/110/2008, nr. 6.459/110/2008, nr. 612/110/2009, nr. 7.555/110/2008, nr. 95/110/2009, nr. 6.468/110/2008, nr. 1.414/110/2009, nr. 6.369/110/2008, nr. 5.909/110/2008, nr. 7.448/110/2008, nr. 1.638/110/2009, nr. 2.938/110/2009, nr. 2.429/110/2009, nr. 2.203/110/2009, nr. 1.387/110/2009, nr. 1.389/110/2009, nr. 1.794/110/2009 şi nr. 3.045/110/2009 ale Tribunalului Bacău - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119476",
+  "text_sha256": "49094397ad4a65569d1f56ffec7847dad2a6a6243595b55b33579e1b4b53f627",
+  "catalogue_sha256": "49094397ad4a65569d1f56ffec7847dad2a6a6243595b55b33579e1b4b53f627",
+  "fetched": "2026-11-05T14:27:36Z",
+  "chars": 9112,
+  "portal_id": "119476",
+  "tip": "DECIZIE"
+ }
+}
