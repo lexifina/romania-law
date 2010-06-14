@@ -1,0 +1,240 @@
+{
+ "key": "dcc-318-2010",
+ "label": "Decizia CCR nr. 318/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "318",
+ "date": "2010-03-23",
+ "year": "2010",
+ "heading": "DECIZIE nr. 318 din 23 martie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "390",
+  "bis": false,
+  "date": "2010-06-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.148/87/2009",
+  "7.117D/2009",
+  "2.099/120/2009",
+  "1.796/111/2009",
+  "3.909/87/2008",
+  "3.085/113/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. din Bucureşti în dosarele nr. 1.148/87/2009, nr. 4.878/87/2008, nr. 3.793/87/2008, nr. 2.730/87/2008, nr. 3.400/87/2008, nr. 3.215/87/2008, nr. 3.026/87/2008, nr. 3042.1/87/2007, nr. 2.311/87/2008, nr. 5.014/87/2008, nr. 2.908/87/2008, nr. 3.377/87/2008, nr. 3.293/87/2008, nr. 2.488/87/2008, nr. 2144.1/87/2007, nr. 3.735/87/2008, nr. 1.292/87/2009 şi nr. 3.473/87/2008 ale Curţii de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflictele de muncă şi asigurări sociale, în dosarele nr. 3.480/98/2008 şi nr. 205/98/2009 ale Tribunalului Ialomiţa - Secţia civilă, în dosarele nr. 4.093/117/2008 şi nr. 1.633/33/2009 ale Curţii de Apel Cluj - Secţia civilă, de muncă şi asigurări sociale, pentru minori şi familie, în dosarele nr. 2.756/115/2008 şi nr. 4.741/108/2008 ale Curţii de Apel Timişoara - Secţia conflicte de muncă şi asigurări sociale, în Dosarul nr. 3.085/113/2008 al Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale, în Dosarul nr. 2.099/120/2009 al Tribunalului Dâmboviţa - Secţia civilă, în dosarele nr. 588/88/2009 şi nr. 605/88/2009 ale Tribunalului Tulcea - Secţia civilă, comercială şi de contencios administrative, în Dosarul nr. 1.796/111/2009, al Tribunalului Bihor - Secţia civilă, în dosarele nr. 3.756/83/2008 şi nr. 5.381/111/2007 ale Curţii de Apel Oradea - Secţia civilă mixtă, în dosarele nr. 5.636/107/2008, nr. 7.190/107/2008, nr. 7.218/107/2008, nr. 7.323/107/2008, nr. 5.602/107/2008, nr. 7.304/97/2008, nr. 5.591/107/2008 şi 7.192/107/2008 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale, în Dosarul nr. 439/40/2009 al Tribunalului Botoşani - Secţia civilă, în dosarele nr. 1.930/120/2009, nr. 1.542/120/2009 şi nr. 2.719/120/2009 ale Tribunalul Dâmboviţa - Secţia civilă şi în Dosarul nr. 3.909/87/2008 ale Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale şi contencios administrativ fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119473",
+  "text_sha256": "466ede2497a441d4a535710fff96b882826501ae12a5ccfb4c7a2f7daf305e06",
+  "catalogue_sha256": "466ede2497a441d4a535710fff96b882826501ae12a5ccfb4c7a2f7daf305e06",
+  "fetched": "2026-11-03T04:39:44Z",
+  "chars": 23873,
+  "portal_id": "119473",
+  "tip": "DECIZIE"
+ }
+}
