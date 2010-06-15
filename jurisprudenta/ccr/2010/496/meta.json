@@ -1,0 +1,178 @@
+{
+ "key": "dcc-496-2010",
+ "label": "Decizia CCR nr. 496/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "496",
+ "date": "2010-04-20",
+ "year": "2010",
+ "heading": "DECIZIE nr. 496 din 20 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (1) pct. 12 din Ordonanţa Guvernului nr. 37/2007 privind stabilirea cadrului de aplicare a regulilor privind perioadele de conducere, pauzele şi perioadele de odihnă ale conducătorilor auto şi utilizarea aparatelor de înregistrare a activităţii acestora",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "394",
+  "bis": false,
+  "date": "2010-06-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "730/45/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 37/2007",
+    "number": "37",
+    "year": "2007",
+    "path": "og/2007/37"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (1) pct. 12 din Ordonanţa Guvernului nr. 37/2007 privind stabilirea cadrului de aplicare a regulilor privind perioadele de conducere, pauzele şi perioadele de odihnă ale conducătorilor auto şi utilizarea aparatelor de înregistrare a activităţii acestora, excepţie ridicată de Societatea Comercială \"Samson International Group\" - S.R.L. din Iaşi în Dosarul nr. 730/45/2009 al Curţii de Apel Iaşi - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 21/2009",
+    "number": "21",
+    "year": "2009",
+    "path": "og/2009/21"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 37/2007",
+    "number": "37",
+    "year": "2007",
+    "path": "og/2007/37"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119537",
+  "text_sha256": "6f25e165a033fc7a0ea3dedb4c7f074102a636ee165464a521181ef0755c1d15",
+  "catalogue_sha256": "6f25e165a033fc7a0ea3dedb4c7f074102a636ee165464a521181ef0755c1d15",
+  "fetched": "2026-11-04T02:15:25Z",
+  "chars": 9390,
+  "portal_id": "119537",
+  "tip": "DECIZIE"
+ }
+}
