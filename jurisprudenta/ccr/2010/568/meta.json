@@ -1,0 +1,163 @@
+{
+ "key": "dcc-568-2010",
+ "label": "Decizia CCR nr. 568/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "568",
+ "date": "2010-04-29",
+ "year": "2010",
+ "heading": "DECIZIE nr. 568 din 29 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. III alin. (2^1) din Legea nr. 169/1997 pentru modificarea şi completarea Legii fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "394",
+  "bis": false,
+  "date": "2010-06-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.730/184/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. III alin. (2^1) din Legea nr. 169/1997 pentru modificarea şi completarea Legii fondului funciar nr. 18/1991, excepţie ridicată de Alexandru Preda în Dosarul nr. 2.730/184/2009 al Judecătoriei Balş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2",
+      "2-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119545",
+  "text_sha256": "0ccc0fed4fbf31e4ad0a64f3d66258e746da4376fa50da7aa3fb4635b942d428",
+  "catalogue_sha256": "0ccc0fed4fbf31e4ad0a64f3d66258e746da4376fa50da7aa3fb4635b942d428",
+  "fetched": "2026-11-03T04:39:40Z",
+  "chars": 6771,
+  "portal_id": "119545",
+  "tip": "DECIZIE"
+ }
+}
