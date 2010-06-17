@@ -1,0 +1,218 @@
+{
+ "key": "dcc-690-2010",
+ "label": "Decizia CCR nr. 690/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "690",
+ "date": "2010-05-20",
+ "year": "2010",
+ "heading": "DECIZIE nr. 690 din 20 mai 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. I pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 151/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/2008 privind creşterile salariale ce se vor acorda în anul 2008 personalului din învăţământ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "403",
+  "bis": false,
+  "date": "2010-06-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "695/110/2009",
+  "8.553D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 151/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/2008 privind creşterile salariale ce se vor acorda în anul 2008 personalului din învăţământ, excepţie ridicată de Sindicatul Liber din Învăţământul Judeţului Bacău în dosarele nr. 695/110/2009, nr. 1.336/110/2009, nr. 238/110/2009, nr. 683/110/2009, nr. 697/110/2009, nr. 700/110/2009, nr. 1.474/110/2009, nr. 1.351/110/2009, nr. 680/110/2009, nr. 226/110/2009, nr. 689/110/2009, nr. 692/110/2009, nr. 845/110/2009 şi nr. 1.471/110/2009 ale Tribunalului Bacău - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2008",
+    "number": "221",
+    "year": "2008",
+    "path": "lege/2008/221"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 136/2008",
+    "number": "136",
+    "year": "2008",
+    "path": "oug/2008/136"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119609",
+  "text_sha256": "d65c984391d3f2e010f86167fbab3e7a5190e56316df20136de193b39e76e043",
+  "catalogue_sha256": "d65c984391d3f2e010f86167fbab3e7a5190e56316df20136de193b39e76e043",
+  "fetched": "2026-11-03T04:39:33Z",
+  "chars": 9806,
+  "portal_id": "119609",
+  "tip": "DECIZIE"
+ }
+}
