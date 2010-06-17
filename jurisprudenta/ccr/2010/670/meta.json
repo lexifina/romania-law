@@ -1,0 +1,194 @@
+{
+ "key": "dcc-670-2010",
+ "label": "Decizia CCR nr. 670/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "670",
+ "date": "2010-05-18",
+ "year": "2010",
+ "heading": "DECIZIE nr. 670 din 18 mai 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 12 alin. 3 din Legea cetăţeniei române nr. 21/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "402",
+  "bis": false,
+  "date": "2010-06-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "6.275/2/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cetăţeniei române nr. 21/1991",
+    "number": "21",
+    "year": "1991",
+    "path": "lege/1991/21"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 12 alin. 3 din Legea cetăţeniei române nr. 21/1991, excepţie ridicată de Mariana Rusnac în Dosarul nr. 6.275/2/2008 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cetăţeniei române nr. 21/1991",
+    "number": "21",
+    "year": "1991",
+    "path": "lege/1991/21"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 354/2009",
+    "number": "354",
+    "year": "2009",
+    "path": "lege/2009/354"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119633",
+  "text_sha256": "97e729f1dfc34a7fa44ddde60b5650567ed4d2b1b087131856f34fbe599ef408",
+  "catalogue_sha256": "97e729f1dfc34a7fa44ddde60b5650567ed4d2b1b087131856f34fbe599ef408",
+  "fetched": "2026-11-03T04:39:34Z",
+  "chars": 7020,
+  "portal_id": "119633",
+  "tip": "DECIZIE"
+ }
+}
