@@ -1,0 +1,136 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) NR. 511/2010 AL CONSILIULUI
+14 iunie 2010
+de impunere a unei taxe antidumping definitive și de percepere definitivă a taxei provizorii impuse la importurile de anumite sârme din molibden originare din Republica Populară Chineză
+CONSILIUL UNIUNII EUROPENE,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1225/2009 al Consiliului din 30 noiembrie 2009 privind protecția împotriva importurilor care fac obiectul unui dumping din partea țărilor care nu sunt membre ale Comunității Europene (1) (denumit în continuare „regulamentul de bază”), în special articolul 9,
+având în vedere propunerea prezentată de către Comisia Europeană („Comisia”) după consultarea comitetului consultativ,
+întrucât:
+1. PROCEDURA
+1.1. Măsuri provizorii
+(1) Comisia, prin Regulamentul (CE) nr. 1247/2009 (2) (denumit în continuare „regulamentul provizoriu”), a instituit o taxă antidumping provizorie la importurile de anumite sârme din molibden originare din Republica Populară Chineză (denumită în continuare „RPC” sau „țara în cauză”).
+(2) Procedurile au fost deschise ca urmare a unei plângeri introduse de Asociația Europeană a Metalelor (EUROMETAUX) (denumită în continuare „reclamantul”) în numele unor producători care reprezintă o proporție majoră, în acest caz de peste 25 %, din producția UE totală de sârme din molibden.
+(3) În conformitate cu considerentul (13) din regulamentul provizoriu, ancheta privind dumpingul și prejudiciul s-a referit la perioada 1 aprilie 2008-31 martie 2009 (denumită în continuare „perioada de anchetă” sau „PA”). Examinarea tendințelor pentru evaluarea prejudiciului s-a desfășurat în perioada cuprinsă între martie 2005 și sfârșitul PA („perioada examinată”).
+1.2. Procedura ulterioară
+(4) Ulterior comunicării faptelor și considerentelor esențiale, pe baza cărora s-a decis instituirea de măsuri antidumping provizorii (denumită în continuare „comunicarea provizorie”), mai multe părți interesate și-au exprimat în scris opiniile cu privire la constatările provizorii. Părțile care au adresat o cerere în acest sens au avut posibilitatea de a fi audiate. Comisia a continuat să caute și să verifice toate informațiile pe care le-a considerat necesare pentru constatările sale definitive. Observațiile prezentate oral și în scris de părțile interesate au fost examinate și, după caz, constatările provizorii au fost modificate în consecință.
+(5) Toate părțile au fost informate cu privire la faptele și considerațiile esențiale pe baza cărora se intenționează recomandarea de a institui o taxă antidumping definitivă pentru importurile de anumite sârme din molibden originare din RPC și de a percepe definitiv sumele depuse cu titlu de taxe provizorii („comunicarea concluziilor finale”). Părților li s-a acordat, de asemenea, o perioadă în care să poată formula observații în urma acestei comunicări.
+2. PRODUSUL ÎN CAUZĂ ȘI PRODUSUL SIMILAR
+(6) În absența altor comentarii cu privire la produsul în cauză și la produsul similar, se confirmă considerentele (14) - (17) din regulamentul provizoriu.
+3. DUMPING
+3.1. Tratamentul ca societate care funcționează în condițiile unei economii de piață („TEP”) și tratamentul individual („TI”)
+(7) În absența oricăror observații privind constatările în materie de TEP și TI, se confirmă considerentele (18) și (23) din regulamentul provizoriu.
+3.2. Valoarea normală
+(8) După comunicarea constatărilor provizorii, producătorul exportator cooperant a contestat utilizarea prețurilor la export din SUA către alte țări (inclusiv către Uniune) ca bază pentru stabilirea valorii normale pentru RPC. În schimb, acesta a propus utilizarea prețului plătit sau care poate fi plătit în Uniune pentru produsul similar, deoarece a considerat că valoarea normală stabilită pe această bază ar duce la o marjă de dumping mai scăzută pentru RPC.
+(9) Același producător a susținut că valoarea normală ar trebui ajustată în sensul unei reduceri pentru a ține seama de aspectele de eficacitate de care beneficiază ca producător integrat vertical, în comparație cu reclamantul sau cu producătorul din țara analogă, care nu dețin instalații de minerit pentru materia primă, minereul de molibden.
+(10) În ceea ce privește prima afirmație, se subliniază că utilizarea prețurilor plătite sau care pot fi plătite în Uniune este o opțiune prevăzută la articolul 2 alineatul (7) litera (a) din regulamentul de bază, care se utilizează numai atunci când celelalte opțiuni prevăzute la același articol nu se pot aplica. Deoarece, în procedurile în cauză, s-a obținut cooperarea din partea unui producător dintr-o țară terță și a fost astfel posibil să se utilizeze opțiunea unui preț dintr-o țară terță cu economie de piață către alte țări, nu există justificări de ordin juridic pentru a aplica această opțiune reziduală prevăzută la articolul 2 alineatul (7) litera (a). Prin urmare, afirmația a fost respinsă.
+(11) În ceea ce privește a doua afirmație, se subliniază că producătorul cooperant nu a furnizat nicio dovadă pentru a demonstra că nivelul de integrare al producătorilor reprezintă un factor care afectează prețurile și comparabilitatea prețurilor. Prin urmare, afirmația a fost respinsă.
+(12) Anumite părți au pus la îndoială alegerea producătorului din țara analogă deoarece această societate din SUA este o filială a reclamantului. În acest sens, se menționează că faptul că o societate din țara analogă propusă este o societate afiliată reclamantului nu înseamnă neapărat că informațiile obținute nu sunt fiabile și verificabile.
+(13) În lipsa oricăror alte observații privind valoarea normală, care ar aduce modificări constatărilor provizorii, se confirmă considerentele (24)-(25) din regulamentul provizoriu.
+3.3. Prețul de export
+(14) În lipsa observațiilor cu privire la prețul de export, se confirmă considerentul (26) din regulamentul provizoriu.
+3.4. Comparația
+(15) Se subliniază că ajustarea la impozitarea indirectă menționată la considerentul 27 din regulamentul provizoriu este 5 % și reprezintă diferența dintre TVA de plată la vânzările pe piața internă și TVA de plată în tranzacțiile de vânzări la export, ținându-se seama de rata de rambursare a TVA din vânzările la export. Producătorul exportator cooperant a contestat modul în care această ajustare a fost aplicată și a susținut că ar trebui să fie calculată ca factor de descreștere a prețului de export.
+(16) În ceea ce privește această afirmație, se menționează că ajustarea s-a bazat pe dispozițiile articolului 2 alineatul (10) litera (b) din regulamentul de bază, care prevăd o ajustare la valoarea normală a taxelor de import și a impozitelor indirecte – categorie care include TVA. În consecință, afirmația a fost respinsă.
+(17) În lipsa altor observații privind comparația, care ar aduce modificări constatărilor provizorii, se confirmă considerentul (27) din regulamentul provizoriu.
+3.5. Marjele de dumping
+(18) Pe baza celor de mai sus, se confirmă marja de dumping la nivel național stabilită la considerentele (28)-(29) din regulamentul provizoriu ca fiind de 68,4 %.
+4. PREJUDICIU
+4.1. Producția din Uniune
+(19) Se reamintește că, pentru a proteja confidențialitatea informațiilor comerciale referitoare la singurul producător din Uniune care a cooperat pe deplin, toate cifrele privind datele sensibile menționate mai jos au fost indexate sau prezentate sub formă de intervale.
+(20) În lipsa oricăror observații cu privire la producția din Uniune, se confirmă considerentele (30)-(31) din regulamentul provizoriu.
+4.2. Definiția industriei din Uniune
+(21) În lipsa observațiilor cu privire la definiția industriei din Uniune, se confirmă considerentul (32) din regulamentul provizoriu.
+(22) În ceea ce privește considerentul (33) din regulamentul provizoriu, se menționează că, pe baza observațiilor primite de una dintre părțile interesate, a fost detectată o eroare materială. Anul fiscal („AF”) al producătorului din Uniune acoperă perioada de la 1 martie 2005 la 28 februarie 2006 și nu perioada de la 1 martie 2004 la 28 februarie 2005, astfel cum s-a menționat la considerentul respectiv. În consecință, punctul de plecare pentru evaluarea prejudiciului a fost de fapt martie 2005.
+4.3. Consum la nivelul Uniunii
+(23) Se reamintește că s-a stabilit consumul la nivelul Uniunii prin adunarea tuturor importurilor din țările terțe extrase din datele Eurostat la volumul vânzărilor efectuate de producătorii cunoscuți din Uniune. De asemenea, se reamintește că, deoarece codul NC la care se încadrează produsul în cauză include și alte produse care nu fac obiectul acestei anchete și deoarece nu sunt disponibile statistici specifice privind importurile produsului în cauză, datele Eurostat au fost ajustate în conformitate cu metoda sugerată în plângere. Această metodă se bazează pe o comparație a valorilor de import din RPC cu valorile de vânzare ale producătorului din Uniune.
+(24) Totuși, în etapa provizorie, datele de import utilizate au corespuns anilor calendaristici, în timp ce volumurile de vânzări ale producătorilor cunoscuți s-au bazat pe anii fiscali. Una dintre părțile interesate a contestat această discrepanță în ceea ce privește perioada utilizată pentru stabilirea consumului și a susținut că importurile ar trebui să se bazeze, de asemenea, pe anii fiscali.
+(25) Această afirmație a fost considerată ca fiind validă și, în consecință, datele Eurostat au fost modificate pentru a corespunde acelorași perioade, și anume anilor fiscali. Prin urmare, cifrele consumului din Uniune din tabelul 1 din regulamentul provizoriu au fost ajustate; noile cifre sunt cele prevăzute în tabelul 1 de mai jos:
+Tabelul 1
+Consum la nivelul Uniunii | 2005 | 2006 | 2007 | 2008 | PA
+Tone | 403 | 396 | 430 | 396 | 358
+Indice 2005 = 100 | 100 | 98 | 107 | 98 | 89
+(26) În total, consumul de sârme din molibden la nivelul Uniunii a scăzut cu 11 % în perioada examinată. Cererea a scăzut ușor, cu 2 % în 2006 și a crescut cu 9 % în 2007 după care a scăzut în 2008 și în PA, ca urmare a impactului negativ al crizei economice.
+4.4. Importurile din RPC în Uniunea Europeană
+4.4.1. Volumul și cota de piață a importurilor din RPC
+(27) Ca urmare a acceptării argumentului menționat la considerentul (25), următorul tabel arată totalul revizuit al volumurilor, cotelor de piață și prețurilor la import ale sârmelor de molibden pe piața din Uniune în perioada avută în vedere. Se subliniază că această revizuire nu a afectat volumurile importurilor din țara în cauză pe timpul PA.
+Tabelul 2
+Totalul importurilor din RPC | 2005 | 2006 | 2007 | 2008 | PA
+Tone | 42 | 56 | 87 | 100 | 97
+Indice 2005 = 100 | 100 | 133 | 207 | 238 | 231
+Cotă de piață Indice 2005 = 100 | 100 | 136 | 194 | 243 | 261
+Prețuri (EUR/tonă) | 53 202 | 62 198 | 56 046 | 51 512 | 50 892
+Indice | 100 | 117 | 105 | 97 | 96
+Sursă: Eurostat și date din plângere
+(28) Cifrele revizuite din tabelul 2 au arătat că tendințele generale ale volumurilor și cotelor de piață ale importurilor din țara în cauză prezentate în tabelul de la considerentul (36) din regulamentul provizoriu rămân neschimbate. Importurile provenite din RPC care au făcut obiectul unui dumping au crescut în mod semnificativ de la 42 de tone în 2005 la 100 tone în 2008, adică mai mult decât dublu. După înregistrarea unei valori de vârf în 2008, importurile respective au scăzut pe parcursul PA, în paralel cu evoluția consumului din Uniune. Mai mult, cota de piață a importurilor care au făcut obiectul unui dumping a crescut mai mult decât dublu în perioada avută în vedere.
+(29) Totuși, cifrele revizuite privind prețurile medii la import arată acum o tendință descrescătoare între 2005 și PA. S-a constatat că, în perioada examinată, prețurile medii la import din RPC au scăzut cu 4 %.
+4.4.2. Subcotarea prețului
+(30) În absența oricăror observații privind subcotarea, se confirmă considerentele (39) și (40) din regulamentul provizoriu.
+4.5. Situația economică a industriei din Uniune
+(31) Se reamintește că, după cum se menționează la considerentul (41) din regulamentul provizoriu, examinarea efectului importurilor care fac obiectul unui dumping asupra industriei din Uniune a cuprins și o evaluare a tuturor indicatorilor economici pentru evaluarea situației acestei industrii din 2005 până la sfârșitul perioadei de anchetă.
+(32) În absența oricăror observații cu privire la producție, capacitatea de producție și utilizarea capacității, se confirmă concluziile provizorii evidențiate la considerentele (41)-(43) din regulamentul provizoriu.
+(33) Ca urmare a regulamentului provizoriu și a revizuirii minore aduse consumului din Uniune în tabelul 1, cota de piață a industriei din Uniune a fost revizuită după cum urmează, în timp ce volumurile vânzărilor și prețurile medii de vânzare au rămas nemodificate:
+Tabelul 3
+| 2005 | 2006 | 2007 | 2008 | PA
+Volumul vânzărilor pe piața Uniunii (indice) | 100 | 99 | 92 | 75 | 68
+Cotă de piață Indice | 100 | 101 | 86 | 76 | 77
+Prețuri medii de vânzare (indice) | 100 | 86 | 96 | 95 | 92
+(34) După cum s-a menționat la considerentul 45 din regulamentul provizoriu, volumul vânzărilor industriei din Uniune către clienți independenți de pe piața Uniunii a scăzut semnificativ cu 32 % pe parcursul perioadei examinate. Această scădere a depășit în mod semnificativ scăderea consumului, care, conform tabelului 2, a scăzut cu 11 % în aceeași perioadă. Aceasta a avut ca rezultat o scădere semnificativă cu 23 % a cotei de piață a industriei din Uniune în aceeași perioadă.
+(35) În lipsa oricăror observații cu privire la evoluția prețurilor de vânzare, a stocurilor, ocupării forței de muncă, indicatorilor de performanță financiară ai industriei din Uniune, concluziile provizorii prezentate la considerentele (46)-(57) din regulamentul provizoriu se confirmă.
+(36) De asemenea, se confirmă concluzia conform căreia industria din Uniune a suferit un prejudiciu important, astfel cum se prezintă la considerentele (58)-(61) din regulamentul provizoriu.
+5. LEGĂTURA DE CAUZALITATE
+5.1. Efectul importurilor care fac obiectul unui dumping
+(37) În conformitate cu articolul 3 alineatele (6) și (7) din regulamentul de bază, în etapa provizorie s-a verificat dacă importurile care fac obiectul unui dumping de produs în cauză originare din RPC au cauzat prejudicii industriei din Uniune într-o astfel de măsură încât să poată fi clasificate ca importante.
+(38) Se reamintește faptul că deteriorarea situației economice a industriei din Uniune a coincis cu creșterea bruscă a importurilor care fac obiectul unui dumping originare din RPC. Ca urmare a măsurilor provizorii și după revizuirile cifrelor referitoare la importurile originare din RPC, după cum se prevede la considerentul (25), volumul importat și cota de piață a exportatorilor chinezi au crescut cu mai mult decât dublu între 2005 și PA.
+(39) Ca urmare a revizuirii, prețurile la import ale importurilor care fac obiectul unui dumping au scăzut cu 4 % pe parcursul perioadei examinate, rămânând constant sub prețurile industriei din Uniune, fiind cu 30 până la 35 % mai reduse decât acestea pe parcursul PA. În consecință, industria din Uniune se confrunta în mod continuu cu presiuni în materie de preț din partea exportatorilor chinezi pentru a rămâne competitivă pe piața Uniunii.
+(40) O parte interesată a contestat existența unei legături de cauzalitate între importurile care fac obiectul unui dumping provenind din RPC și prejudiciul important suferit de industria din Uniune. Aceasta a susținut că nu există o corelare între performanța financiară a industriei din Uniune și creșterea bruscă a importurilor care au făcut obiectul unui dumping. Se subliniază faptul că, în timp ce importurile din RPC crescuseră semnificativ în 2007 față de perioadele anterioare, industria din Uniune a trecut de la pierderi la o situație profitabilă în anul respectiv.
+(41) În acest sens, se menționează mai întâi că, între 2005 și PA, timp în care importurile mai mult decât s-au dublat, volumurile de vânzări în industria din Uniune au scăzut semnificativ cu 32 % ceea ce a dus la o pierdere a cotei de piață cu 33 % în aceeași perioadă. În același timp, toți ceilalți indicatori ai prejudiciului precum producția, utilizarea capacităților, investițiile, rentabilitatea și fluxul de numerar au înregistrat tendințe descrescătoare semnificative pe parcursul perioadei în cauză. În al doilea rând, ancheta a arătat că slaba performanță a industriei din Uniune a fost legată de scăderea prețurilor în încercarea sa de a redobândi clienții importanți pierduți în favoarea exportatorilor chinezi. În ceea ce privește anul 2007, industria din Uniune a continuat încercările sale de a-și recâștiga clienții prin eforturi de raționalizare, pentru a menține prețurile de cost scăzute și pentru a fi competitivă față de prețurile scăzute ale importurilor care au făcut obiectul unui dumping. Astfel, concluziile de la considerentele (63)-(66) din regulamentul provizoriu sunt considerate valabile și, prin urmare, cererea menționată anterior a trebuit să fie respinsă.
+(42) Prin urmare, poate fi confirmat faptul că acumularea importurilor de dumping la prețuri scăzute provenind din RPC a avut un impact negativ considerabil asupra situației economice a industriei din Uniune în decursul PA.
+5.2. Efectul altor factori
+(43) Se reamintește că s-au examinat și alți factori în cadrul analizei legăturii de cauzalitate, și anume dezvoltarea cererii, evoluția costurilor industriei din Uniune, performanța sa la export și, în fine, posibilul impact al importurilor din alte țări.
+(44) O parte interesată a susținut că prejudiciul important suferit de industria din Uniune a fost cauzat de alți factori decât importurile care au făcut obiectul unui dumping, și anume (i) scăderea cererii ca urmare a crizei economice și a schimbărilor tehnologice și (ii) performanța la export a industriei din Uniune.
+(45) În ceea ce privește scăderea consumului, se subliniază că volumurile la vânzări ale industriei din Uniune au scăzut considerabil mai mult (–32 %) decât scăderea consumului în Uniune (–11 %) ceea ce a dus la o pierdere a cotei de piață de 33 %. În același timp, cota de piață a exportatorilor chinezi a crescut în mod semnificativ mai mult decât de două ori. Astfel, concluzia din considerentul (69) din regulamentul provizoriu poate fi confirmată și, prin urmare, cererea menționată anterior a trebuit să fie respinsă.
+(46) În ceea ce privește performanța la export, a existat, într-adevăr o tendință de scădere a vânzărilor la export a industriei din Uniune din motivele prevăzute la considerentul (72) din regulamentul provizoriu (și anume, în conformitate cu situația negativă existentă la nivel mondial în industria autovehiculelor începând din 2008). Totuși, ancheta a arătat că vânzările la export nu au reprezentant principala activitate comercială a industriei din Uniune, deoarece aceste vânzări nu au depășit niciodată 17 % din vânzările sale în Uniune în perioada avută în vedere. Și mai important încă, pe lângă considerentele (71) și (72) din regulamentul provizoriu, se menționează că prețurile sale la vânzare pe piața de export au rămas peste prețurile de vânzare din Uniune. În consecință, orice impact negativ cauzat de scăderea volumului vânzărilor la export se consideră a fi foarte limitat. Prin urmare, această afirmație a trebuit să fie respinsă.
+(47) Având în vedere cele menționate anterior și în lipsa oricăror alte observații, se confirmă considerentele (67)-(80) din regulamentul provizoriu.
+6. INTERESUL UNIUNII
+6.1. Interesul industriei din Uniune
+(48) În absența oricăror observații cu privire la interesul industriei din Uniune, se confirmă concluziile provizorii evidențiate la considerentele (83)-(86) din regulamentul provizoriu.
+6.2. Interesul importatorilor, al comercianților și al utilizatorilor din Uniune
+(49) Se reamintește că, în pofida faptului că numeroase părți au fost contactate, nivelul de cooperare la anchetă al importatorilor, comercianților și utilizatorilor a fost foarte scăzut în etapa provizorie. Se menționează că numai un comerciant, situat în Germania, și un utilizator, situat în Italia, cooperaseră pe deplin în etapa provizorie.
+(50) Utilizatorul cooperant a susținut că impactul negativ al măsurilor antidumping asupra activităților sale comerciale a fost subestimat în analiza interesului Uniunii realizată în etapa provizorie și a susținut că, de fapt, i-ar fi fost greu să le impute clienților săi creșterea costurilor.
+(51) Se reamintește că cota activității comerciale privind produsul în cauză în activitatea acestui utilizator reprezintă între 15 și 25 % din totalitatea activităților sale comerciale. Analiza ulterioară, realizată după impunerea măsurilor provizorii a confirmat că impactul asupra profitului general al societății ar fi limitat. Acest utilizator are o poziție puternică în segmentul afacerilor cu produsul în cauză, în special din punct de vedere al încrederii și al siguranței furnizării către clienții săi. Acest element ar indica faptul că acest utilizator ar putea imputa cel puțin o parte din creșterea costurilor clienților săi. Pe această bază, cererea a trebuit să fie respinsă.
+(52) După publicarea regulamentului provizoriu, doi utilizatori și un importator au intervenit și au afirmat că activitatea lor ar suferi un impact negativ ca urmare a impunerii taxei antidumping.
+(53) Conform datelor depuse de unul dintre acești doi utilizatori, segmentul afacerilor care includ sârme de molibden reprezintă între 10 și 20 % din activitatea sa totală. Pe baza elementelor puse la dispoziție, există indicii că, în timp ce impunerea taxei antidumping poate avea un impact negativ asupra unei părți din activitatea care include sârmele de molibden, acest utilizator ar continua să aibă profit. În ceea ce privește celălalt utilizator, nu au fost furnizate date care să susțină afirmațiile sale.
+(54) În ceea ce privește importatorul, este de remarcat că acesta a furnizat numai date generale de bază, în conformitate cu care importurile de sârmă de molibden din RPC păreau să reprezinte între 10 și 20 % din totalul importurilor din RPC pe parcursul PA. Sub aspectul ponderii segmentului de molibden în raport cu activitatea comercială totală a societății, ponderea ar reprezenta mai puțin de 7 %. Pe baza informațiilor disponibile s-ar putea concluziona că, în timp ce măsurile antidumping ar avea un impact negativ asupra segmentului de afaceri care include sârmele de molibden, impactul general asupra activităților comerciale totale ale societății ar fi limitat.
+(55) Având în vedere cele de mai sus și în absența oricăror observații suplimentare, se confirmă considerentele (93)-(96) din constatările și concluziile regulamentului provizoriu.
+6.3. Concurența și efectele de denaturare a schimburilor comerciale
+(56) După publicarea regulamentului provizoriu, anumite părți au intervenit și au afirmat că măsurile antidumping ar duce la o concurență limitată pe piața din Uniunii.
+(57) În ceea ce privește această afirmație, ar trebui reiterat că, deoarece taxele antidumping ar restabili condiții de egalitate, importurile din China ar continua probabil să pătrundă pe piața din Uniune, dar la prețuri neprejudiciabile. În plus, se reamintește că există unele surse alternative de aprovizionare. Nu au fost furnizate elemente care să contrazică această concluzie și, prin urmare, se confirmă concluziile prezentate în considerentele (97)-(99) din regulamentul provizoriu.
+6.4. Concluzie privind interesul Uniunii
+(58) Pe baza elementelor menționate anterior, s-a confirmat că în cazul de față nu există motive întemeiate împotriva instituirii de taxe antidumping pentru importurile de sârmă de molibden originară din RPC.
+7. MĂSURI ANTIDUMPING DEFINITIVE
+7.1. Nivelul de eliminare a prejudiciului
+(59) În absența oricăror observații fundamentate, care ar putea modifica concluziile privind nivelul de eliminare a prejudiciului, se confirmă considerentele (101)-(104) din regulamentul provizoriu.
+7.2. Măsuri definitive
+(60) Având în vedere cele menționate mai sus și în conformitate cu articolul 9 alineatul (4) din regulamentul de bază, ar trebui instituită o taxă antidumping definitivă la un nivel suficient pentru a elimina prejudiciul provocat de importurile care fac obiectul unui dumping, fără să se depășească marja de dumping constatată. În acest caz, nivelul taxei ar trebui stabilit în consecință la nivelul marjei prejudiciului constatat, și anume 64,3 %.
+(61) Toate părțile au fost informate cu privire la faptele și considerentele esențiale pe baza cărora s-a preconizat recomandarea instituirii de măsuri antidumping definitive. Părților li s-a acordat, de asemenea, o perioadă în care să poată formula observații în urma acestei comunicări. Observațiile transmise de părți au fost atent examinate și, acolo unde a fost cazul, constatările au fost modificate în consecință.
+7.3. Angajamente
+(62) Producătorul exportator chinez cooperant și-a exprimat disponibilitatea de a oferi angajamente de preț, în conformitate cu articolul 8 alineatul (1) din regulamentul de bază.
+(63) Cu toate acestea, această societate nu a primit nici statutul de societate care funcționează conform principiilor economiei de piață, nici tratament individual, iar Comisia, în general, nu obișnuiește să accepte angajamente în astfel de cazuri, de vreme ce nu a putut fi determinată nici o marjă de taxă individuală. În temeiul celor de mai sus, angajamentele de preț nu au mai putut fi avute în vedere.
+7.4. Perceperea definitivă a taxei provizorii
+(64) Ținându-se cont de importanța marjelor de dumping stabilite și de nivelul de prejudiciu cauzat industriei din Uniune, se consideră necesar ca sumele depuse cu titlu de taxă antidumping provizorie, stabilită prin regulamentul provizoriu, să se perceapă în mod definitiv,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+(1) Se instituie o taxă antidumping definitivă la importurile de sârmă din molibden, având în greutate cel puțin 99,95 % molibden, al cărei diametru maxim în secțiune depășește 1,35 mm dar nu depășește 4,0 mm, originară din Republica Populară Chineză, încadrată în prezent la codul NC ex 8102 96 00 (cod TARIC 8102 96 00 10).
+(2) Nivelul taxei antidumping definitive aplicabil pentru produsul descris la alineatul (1) la prețul net franco frontieră UE, înainte de vămuire, este de 64,3 %.
+(3) Cu excepția cazului în care se prevede altfel, se aplică dispozițiile în vigoare în materie de taxe vamale.
+Articolul 2
+Sumele depuse ca taxe antidumping provizorii în conformitate cu Regulamentul (CE) nr. 1247/2009 al Comisiei la importurile de sârmă din molibden, având în greutate cel puțin 99,95 % molibden, al cărei diametru maxim în secțiune depășește 1,35 mm dar nu depășește 4,0 mm, originară din Republica Populară Chineză, încadrată în prezent la codul NC ex 8102 96 00 (cod TARIC 8102 96 00 10) se colectează în mod definitiv.
+Articolul 3
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Luxembourg, 14 iunie 2010.
+Pentru Consiliu
+Președintele
+C. ASHTON
+(1) JO L 343, 22.12.2009, p. 51.
+(2) JO L 336, 18.12.2009, p. 16.
