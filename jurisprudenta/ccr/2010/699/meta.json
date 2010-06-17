@@ -1,0 +1,189 @@
+{
+ "key": "dcc-699-2010",
+ "label": "Decizia CCR nr. 699/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "699",
+ "date": "2010-05-25",
+ "year": "2010",
+ "heading": "DECIZIE nr. 699 din 25 mai 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Legea nr. 26/1990 privind registrul comerţului şi art. 24 alin. (1) şi (3) din Ordinul ministrului justiţiei nr. 2.594/C/2008 pentru aprobarea Normelor metodologice privind modul de ţinere a registrelor comerţului, de efectuare a înregistrărilor şi de eliberare a informaţiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "403",
+  "bis": false,
+  "date": "2010-06-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "48.531/2009",
+  "7.797D/2009",
+  "8.475D/2009",
+  "8.541D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 24 alin. (1) şi (3) din Ordinul ministrului justiţiei nr. 2.594/C/2008 pentru aprobarea Normelor metodologice privind modul de ţinere a registrelor comerţului, de efectuare a înregistrărilor şi de eliberare a informaţiilor, excepţie ridicată de Societatea Comercială Financiar Urban - S.R.L. din Piteşti în Dosarul nr. 48.531/2009 al judecătorului delegat de la Oficiul Registrului Comerţului de pe lângă Tribunalul Argeş.",
+  "II. Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Legea nr. 26/1990 privind registrul comerţului, excepţie ridicată de Societatea Comercială Financiar Urban - S.R.L. din Piteşti în dosarele nr. 48.531/2009, nr. 52.646/2009 şi nr. 57.661/2009 ale judecătorului delegat de la Oficiul Registrului Comerţului de pe lângă Tribunalul Argeş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 116/2009",
+    "number": "116",
+    "year": "2009",
+    "path": "oug/2009/116"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119610",
+  "text_sha256": "ed865707b8c3a06dab5c0189c1a4b42cd518c9afc92324fd857f85bb86327750",
+  "catalogue_sha256": "ed865707b8c3a06dab5c0189c1a4b42cd518c9afc92324fd857f85bb86327750",
+  "fetched": "2026-11-03T04:39:33Z",
+  "chars": 16476,
+  "portal_id": "119610",
+  "tip": "DECIZIE"
+ }
+}
