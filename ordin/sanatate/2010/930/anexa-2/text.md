@@ -1,0 +1,6 @@
+# Anexa 2
+------- (Anexa nr. 6 la procedura de acreditare) ----------------------------------------
+AGENȚIA NAȚIONALĂ DE TRANSPLANT MINISTERUL SĂNĂTĂȚII
+nr..... /......... nr..... /.........
+PROPUNERE DE ACREDITARE Ca urmare a cererii unității sanitare..........., cu sediul în........., înregistrată la Agenția Națională de Transplant cu nr..........., având în vedere: - documentația depusă și datele consemnate în Raportul de inspecție nr......../......; în temeiul prevederilor art. 3 din Ordonanța Guvernului nr. 79/2004 pentru înființarea Agenției Naționale de Transplant, aprobată cu modificări și completări prin Legea nr. 558/2004, cu modificările și completările ulterioare, Agenția Națională de Transplant propune acreditarea unității sanitare.................... pentru următoarele activități:................................................................................................................................................................................................... Director executiv, Numele în clar..................... Semnătura și ștampila...............
+---------------
