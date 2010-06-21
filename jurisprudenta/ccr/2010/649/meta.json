@@ -1,0 +1,187 @@
+{
+ "key": "dcc-649-2010",
+ "label": "Decizia CCR nr. 649/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "649",
+ "date": "2010-05-11",
+ "year": "2010",
+ "heading": "DECIZIE nr. 649 din 11 mai 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 14 din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între comercianţi şi consumatori",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "410",
+  "bis": false,
+  "date": "2010-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.392/265/2009",
+  "7.934D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 14 din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între comercianţi şi consumatori, excepţie ridicată de Petru Burulea, Octavian Pop, Mihai Adrian Tersanszki, Floarea Nistor, Remus Iftene, Viorel Pătrăşcan, Sergiu Irinel Frunză, Reghina Roman, Raul Emilian Rus, Maria Andreea Botiş, Sabina Pătrăşcan, Sabin Domide, Florin Mihaiu, Maria Nistor, Artene Moisil, Doru Emilian Morariu, Ioan Constantin Nistor, Partene Marte şi Simion Ionel Cotu în dosarele nr. 1.392/265/2009, nr. 1.395/265/2009, nr. 1.406/265/2009, nr. 1.401/265/2009, nr. 1.414/265/2009, nr. 1.411/265/2009, nr. 1.380/265/2009, nr. 1.375/265/2009, nr. 1.390/265/2009, nr. 1.384/265/2009, nr. 1.348/265/2009, nr. 1.371/265/2009, nr. 1.358/265/2009, nr. 1.412/265/2009, nr. 1.361/265/2009, nr. 1.409/265/2009, nr. 1.370/265/2009, nr. 1.383/265/2009 şi nr. 1.351/265/2009 ale Judecătoriei Năsăud.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119688",
+  "text_sha256": "fc187cf2603759cd398d4d3410cd5ae4764d0b65ab7f928fc72d9b6ee78a2389",
+  "catalogue_sha256": "fc187cf2603759cd398d4d3410cd5ae4764d0b65ab7f928fc72d9b6ee78a2389",
+  "fetched": "2026-11-03T04:39:29Z",
+  "chars": 12891,
+  "portal_id": "119688",
+  "tip": "DECIZIE"
+ }
+}
