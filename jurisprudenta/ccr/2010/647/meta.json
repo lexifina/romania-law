@@ -1,0 +1,171 @@
+{
+ "key": "dcc-647-2010",
+ "label": "Decizia CCR nr. 647/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "647",
+ "date": "2010-05-11",
+ "year": "2010",
+ "heading": "DECIZIE nr. 647 din 11 mai 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 13 din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între comercianţi şi consumatori",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "410",
+  "bis": false,
+  "date": "2010-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.207/200/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 13 alin. (1) şi (2) din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între comercianţi şi consumatori, excepţie invocată de Societatea Comercială \"Ralfi IFN\" - S.A. din Cluj-Napoca în Dosarul nr. 4.207/200/2009 al Judecătoriei Buzău.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119687",
+  "text_sha256": "f73355b59bd7e4455acae19e9927f16e4aca78ab5ad472e0087bf9a32d16bcfc",
+  "catalogue_sha256": "f73355b59bd7e4455acae19e9927f16e4aca78ab5ad472e0087bf9a32d16bcfc",
+  "fetched": "2026-11-03T04:39:29Z",
+  "chars": 12428,
+  "portal_id": "119687",
+  "tip": "DECIZIE"
+ }
+}
