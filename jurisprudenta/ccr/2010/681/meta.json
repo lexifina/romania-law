@@ -1,0 +1,192 @@
+{
+ "key": "dcc-681-2010",
+ "label": "Decizia CCR nr. 681/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "681",
+ "date": "2010-05-18",
+ "year": "2010",
+ "heading": "DECIZIE nr. 681 din 18 mai 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 81 alin. (2) din Legea nr. 122/2006 privind azilul în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "415",
+  "bis": false,
+  "date": "2010-06-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "13.557/233/2009",
+  "8.272D/2009",
+  "8.273D/2009",
+  "13.553/233/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 81 alin. (2) din Legea nr. 122/2006 privind azilul în România, excepţie ridicată de Su Ruxiang şi Xu Enchang în dosarele nr. 13.557/233/2009 şi nr. 13.553/233/2009 ale Judecătoriei Galaţi Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 102/2000",
+    "number": "102",
+    "year": "2000",
+    "path": "og/2000/102"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119725",
+  "text_sha256": "e6b422bd557fe9f6dd8ae2d1d99e95a445f36f4055956a1cab8e974abce7b69e",
+  "catalogue_sha256": "e6b422bd557fe9f6dd8ae2d1d99e95a445f36f4055956a1cab8e974abce7b69e",
+  "fetched": "2026-11-03T04:39:28Z",
+  "chars": 9095,
+  "portal_id": "119725",
+  "tip": "DECIZIE"
+ }
+}
