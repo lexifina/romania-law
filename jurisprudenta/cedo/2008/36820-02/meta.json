@@ -1,0 +1,197 @@
+{
+ "key": "cedo-36820-02-2008-04-01",
+ "label": "CEDO, Valentin Dumitrescu c. României, 2008-04-01",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-04-01",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 1 aprilie 2008",
+ "subtitle": "definitivă la 1 iulie 2008, în Cauza Valentin Dumitrescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "423",
+  "bis": false,
+  "date": "2010-06-24",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "36820/02"
+ ],
+ "case_name": "Valentin Dumitrescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "în unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie în ceea ce priveşte dreptul reclamantului de acces la o instanţă din cauza întârzierii în executarea Sentinţei definitive din 26 noiembrie 1996 şi a lipsei de analiză pe fond a cererii sale de intervenţie voluntară referitoare la punerea în posesie pe vechiul amplasament; 3. hotărăşte că nu este necesar să analizeze capătul de cerere întemeiat pe art. 6 § 1 din Convenţie referitor la durata procedurii de reconstituire a dreptului de proprietate asupra terenului în suprafaţă de 4 ha; 4. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie din cauza duratei procedurii privind cererea de intervenţie voluntară; 5. hotărăşte că nu este necesar să analizeze capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1, separat şi coroborat cu art. 13 din Convenţie, privind lipsa de analiză pe fond a cererii de intervenţie voluntară referitoare la punerea în posesie pe vechiul amplasament; 6. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 din cauza întârzierii în executarea Sentinţei definitive din 26 noiembrie 1996; 7. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, suma de 8.000 EUR (opt mii euro) pentru toate prejudiciile, 250 EUR (două sute cincizeci euro) pentru cheltuielile de judecată suportate în cadrul procedurilor naţionale şi 650 EUR (şase sute cincizeci euro) pentru cele suportate în procedura în faţa Curţii;",
+  "b) ca sumele respective să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii şi ca la acestea să fie adăugată orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "8. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119787",
+  "text_sha256": "c3eb684399e86edf6d7076b4cef237e189b4382a2baae8e88282d493daf2a38f",
+  "catalogue_sha256": "c3eb684399e86edf6d7076b4cef237e189b4382a2baae8e88282d493daf2a38f",
+  "fetched": "2026-11-03T04:39:23Z",
+  "chars": 48673,
+  "portal_id": "119787",
+  "tip": "HOTĂRÂRE"
+ }
+}
