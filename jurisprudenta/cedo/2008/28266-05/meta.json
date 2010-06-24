@@ -1,0 +1,197 @@
+{
+ "key": "cedo-28266-05-2008-10-14",
+ "label": "CEDO, Megheleş şi Popa c. României, 2008-10-14",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-10-14",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 14 octombrie 2008",
+ "subtitle": "definitivă la 14 ianuarie 2009, în Cauza Megheleş şi Popa împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "423",
+  "bis": false,
+  "date": "2010-06-24",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "28266/05"
+ ],
+ "case_name": "Megheleş şi Popa",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie din cauza lipsei unui proces echitabil; 3. hotărăşte că nu este necesar să analizeze capătul de cerere întemeiat pe art. 6 § 1 din Convenţie referitor la refuzul dreptului de acces la o instanţă; 4. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 5. hotărăşte",
+  "a) ca statul pârât să le restituie reclamantelor terenurile în suprafaţă de 982 mý şi, respectiv, 1.856 mý, situate în satul Gornea din comuna Sicheviţa (judeţul Caraş-Severin), în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie;",
+  "b) ca, în lipsa unei astfel de restituiri, statul pârât să le plătească împreună reclamantelor, în acelaşi termen de 3 luni, 5.000 EUR (cinci mii euro) cu titlu de daune materiale;",
+  "c) ca, în orice caz, statul pârât să le plătească împreună reclamantelor 3.500 EUR (trei mii cinci sute euro) cu titlu de daune morale;",
+  "d) ca sumele respective să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii, iar la acestea să fie adăugate orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale.",
+  "6. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119790",
+  "text_sha256": "8764a0a05b6589e81b4294791b2f6dd92a4af807772ac081b0ffbe441ac4af12",
+  "catalogue_sha256": "8764a0a05b6589e81b4294791b2f6dd92a4af807772ac081b0ffbe441ac4af12",
+  "fetched": "2026-11-03T04:39:23Z",
+  "chars": 24674,
+  "portal_id": "119790",
+  "tip": "HOTĂRÂRE"
+ }
+}
