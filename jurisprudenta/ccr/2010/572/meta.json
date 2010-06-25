@@ -1,0 +1,201 @@
+{
+ "key": "dcc-572-2010",
+ "label": "Decizia CCR nr. 572/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "572",
+ "date": "2010-05-04",
+ "year": "2010",
+ "heading": "DECIZIE nr. 572 din 4 mai 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 418 alin. (2) şi (3) din Ordonanţa de urgenţă a Guvernului nr. 99/2006 privind instituţiile de credit şi adecvarea capitalului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "426",
+  "bis": false,
+  "date": "2010-06-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.336/200/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "418",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 418 alin. (2) şi (3) din Ordonanţa de urgenţă a Guvernului nr. 99/2006 privind instituţiile de credit şi adecvarea capitalului, excepţie ridicată de Ion Nicolau şi Elena Nicolau în Dosarul nr. 8.336/200/2008 al Tribunalului Buzău - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "418",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119826",
+  "text_sha256": "2d4cdd56097a53ada249e15cd892c59675a356b0f6f2ca956c977681643deb5f",
+  "catalogue_sha256": "2d4cdd56097a53ada249e15cd892c59675a356b0f6f2ca956c977681643deb5f",
+  "fetched": "2026-11-03T04:39:21Z",
+  "chars": 11589,
+  "portal_id": "119826",
+  "tip": "DECIZIE"
+ }
+}
