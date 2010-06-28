@@ -1,0 +1,196 @@
+{
+ "key": "dcc-570-2010",
+ "label": "Decizia CCR nr. 570/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "570",
+ "date": "2010-04-29",
+ "year": "2010",
+ "heading": "DECIZIE nr. 570 din 29 aprilie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (2) şi art. 4 alin. (1) teza întâi şi alin. (2) din Legea nr. 90/2003 privind vânzarea spaţiilor aflate în proprietatea privată a statului sau a unităţilor administrativ-teritoriale, destinate sediilor partidelor politice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "430",
+  "bis": false,
+  "date": "2010-06-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.580/97/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2003",
+    "number": "90",
+    "year": "2003",
+    "path": "lege/2003/90"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (2) şi art. 4 alin. (1) teza întâi şi alin. (2) din Legea nr. 90/2003 privind vânzarea spaţiilor aflate în proprietatea privată a statului sau a unităţilor administrativ-teritoriale, destinate sediilor partidelor politice, excepţie ridicată de municipiul Vulcan, prin primarul Gheorghe Ile, în Dosarul nr. 7.580/97/2008 al Tribunalului Hunedoara - Secţia comercială şi de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2003",
+    "number": "90",
+    "year": "2003",
+    "path": "lege/2003/90"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-06-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119897",
+  "text_sha256": "5bce250c5ced83f155e0f9965e93005cd1adafc06e96baa21df3f99cab6c0579",
+  "catalogue_sha256": "5bce250c5ced83f155e0f9965e93005cd1adafc06e96baa21df3f99cab6c0579",
+  "fetched": "2026-11-03T04:39:18Z",
+  "chars": 10144,
+  "portal_id": "119897",
+  "tip": "DECIZIE"
+ }
+}
