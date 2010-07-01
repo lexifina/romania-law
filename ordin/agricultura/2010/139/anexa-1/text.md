@@ -1,0 +1,4 @@
+# Anexa I
+Lista plantelor prevăzute la art. 4 alin. (1), (2) și (4), art. 5, art. 8 alin. (3), art. 9 alin. (1) lit. b) și art. 10 alin. (1) din ordin 1. Plante-gazdă cu rădăcini: - Capsicum spp.; - Lycopersicon lycopersicum (L.) Karsten ex Farw.; - Solanum melongena L. 2. a) Alte plante cu rădăcini: - Allium porrum L.; - Beta vulgaris L.; - Brassica spp.; - Fragaria L.; - Asparagus officinalis L.
+b) Bulbi, tuberculi și rizomi, care nu sunt supuși măsurilor aprobate oficial prevăzute în secțiunea a III-a lit. A din anexa nr. III, cultivați în sol și destinați plantării, cu excepția celor pentru care trebuie dovedit, prin ambalajul lor sau prin alte mijloace, că sunt destinați vânzării către consumatorii finali neimplicați în producția profesională de plante sau de flori tăiate, de:
+- Allium ascalonicum L.; - Allium cepa L.; - Dahlia spp.; - Gladiolus Tourn. Ex L.; - Hyacinthus spp.; - Iris spp.; - Lilium spp.; - Narcissus L.; - Tulipa L.
