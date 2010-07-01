@@ -1,0 +1,7 @@
+# Anexa nr. 2: 2 ANAF Cerere de înregistrare a documentului care atestă dreptul de folosință asupra spațiului cu destinație de sediu social și de eliberare a certificatului pentru spațiul cu destinație de sediu soci
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 120000 (https://legislatie.just.ro/Public/DetaliiDocument/120000)
+- sha256 of that document's text as the service returned it: 8b3c2c27c518b24cc92ccc5c75a6e0f281fdcb2f6517dd41713cb1e4216b156d
+- Retrieved: 2026-11-03
