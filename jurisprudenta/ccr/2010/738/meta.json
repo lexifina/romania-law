@@ -1,0 +1,201 @@
+{
+ "key": "dcc-738-2010",
+ "label": "Decizia CCR nr. 738/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "738",
+ "date": "2010-06-01",
+ "year": "2010",
+ "heading": "DECIZIE nr. 738 din 1 iunie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 60 din Legea locuinţei nr. 114/1996 şi ale art. 1 din Ordonanţa de urgenţă a Guvernului nr. 80/2001 privind stabilirea unor măsuri pentru asigurarea, temporar, a locuinţelor de serviciu necesare unor categorii de personal din cadrul ministerelor, celorlalte organe de specialitate ale administraţiei publice centrale şi instituţiilor publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "463",
+  "bis": false,
+  "date": "2010-07-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.810/301/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "oug/2001/80"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 60 din Legea locuinţei nr. 114/1996 şi ale art. 1 din Ordonanţa de urgenţă a Guvernului nr. 80/2001 privind stabilirea unor măsuri pentru asigurarea, temporar, a locuinţelor de serviciu necesare unor categorii de personal din cadrul ministerelor, celorlalte organe de specialitate ale administraţiei publice centrale şi instituţiilor publice, excepţie ridicată de Tănase Joiţa în Dosarul nr. 7.810/301/2006 al Tribunalului Bucureşti - Secţia a III-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "oug/2001/80"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-07-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/120287",
+  "text_sha256": "14ebcc1800ca335cb7aaa2cb069bb4930c2cbe97522184320b65978574ceb10d",
+  "catalogue_sha256": "14ebcc1800ca335cb7aaa2cb069bb4930c2cbe97522184320b65978574ceb10d",
+  "fetched": "2026-11-03T04:38:31Z",
+  "chars": 7130,
+  "portal_id": "120287",
+  "tip": "DECIZIE"
+ }
+}
