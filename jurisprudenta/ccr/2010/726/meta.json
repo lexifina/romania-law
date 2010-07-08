@@ -1,0 +1,253 @@
+{
+ "key": "dcc-726-2010",
+ "label": "Decizia CCR nr. 726/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "726",
+ "date": "2010-06-01",
+ "year": "2010",
+ "heading": "DECIZIE nr. 726 din 1 iunie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 1/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar şi a celor ale art. 2 din Ordonanţa de urgenţă a Guvernului nr. 41/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar pentru perioada mai-decembrie 2009",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "470",
+  "bis": false,
+  "date": "2010-07-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.700/103/2009",
+  "7.476D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2009",
+    "number": "1",
+    "year": "2009",
+    "path": "oug/2009/1"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2009",
+    "number": "41",
+    "year": "2009",
+    "path": "oug/2009/41"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 1/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar şi a celor ale art. 2 din Ordonanţa de urgenţă a Guvernului nr. 41/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar pentru perioada mai-decembrie 2009, excepţie ridicată de Sindicatul Liber al Lucrătorilor din Învăţământ şi Cercetare Ştiinţifică Neamţ, în numele membrilor de sindicat, prin reprezentant legal - preşedinte Gabriel Ploscă, în dosarele nr. 786/103/2009, nr. 796/103/2009, nr. 822/103/2009, nr. 836/103/2009, nr. 820/103/2009, nr. 832/103/2009, nr. 858/103/2009, nr. 798/103/2009, nr. 821/103/2009, nr. 892/103/2009, nr. 880/103/2009, nr. 866/103/2009, nr. 780/103/2009, nr. 788/103/2009, nr. 795/103/2009, nr. 748/103/2009, nr. 882/103/2009, nr. 756/103/2009, nr. 853/103/2009, nr. 849/103/2009, nr. 806/103/2009, nr. 775/103/2009, nr. 831/103/2009, nr. 773/103/2009, nr. 827/103/2009, nr. 758/103/2009, nr. 760/103/2009, nr. 888/103/2009, nr. 812/103/2009, nr. 852/103/2009, nr. 792/103/2009, nr. 870/103/2009, nr. 894/103/2009, nr. 785/103/2009, nr. 857/103/2009, nr. 790/103/2009, nr. 753/103/2009, nr. 805/103/2009, nr. 766/103/2009, nr. 850/103/2009, nr. 862/103/2009, nr. 771/103/2009, nr. 854/103/2009, nr. 804/103/2009, nr. 754/103/2009, nr. 767/103/2009, nr. 761/103/2009, nr. 826/103/2009, nr. 783/103/2009, nr. 855/103/2009, nr. 856/103/2009, nr. 860/103/2009, nr. 800/103/2009, nr. 848/103/2009, nr. 876/103/2009, nr. 878/103/2009, nr. 747/103/2009, nr. 824/103/2009, nr. 791/103/2009, nr. 864/103/2009, nr. 749/103/2009, nr. 793/103/2009, nr. 872/103/2009, nr. 879/103/2009, nr. 846/103/2009, nr. 868/103/2009, nr. 881/103/2009, nr. 877/103/2009, nr. 859/103/2009, nr. 851/103/2009, nr. 819/103/2009, nr. 815/103/2009, nr. 811/103/2009, nr. 884/103/2009, nr. 871/103/2009, nr. 893/103/2009, nr. 891/103/2009, nr. 887/103/2009, nr. 4.310/103/2008, nr. 829/103/2009, nr. 765/103/2009, nr. 752/103/2009, nr. 764/103/2009, nr. 762/103/2009, nr. 803/103/2009, nr. 769/103/2009, nr. 845/103/2009, nr. 779/103/2009, nr. 768/103/2009, nr. 843/103/2009, nr. 781/103/2009, nr. 873/103/2009, nr. 889/103/2009, nr. 869/103/2009, nr. 782/103/2009, nr. 776/103/2009, nr. 763/103/2009, nr. 816/103/2009, nr. 814/103/2009, nr. 874/103/2009, nr. 810/103/2009, nr. 890/103/2009, nr. 886/103/2009, nr. 867/103/2009, nr. 875/103/2009, nr. 883/103/2009, nr. 823/103/2009, nr. 885/103/2009, nr. 794/103/2009, nr. 797/103/2009, nr. 801/103/2009, nr. 787/103/2009, nr. 751/103/2009, nr. 847/103/2009, nr. 825/103/2009, nr. 863/103/2009, nr. 807/103/2009, nr. 759/103/2009, nr. 789/103/2009, nr. 865/103/2009, nr. 842/103/2009, nr. 839/103/2009, nr. 818/103/2009, nr. 841/103/2009, nr. 844/103/2009, nr. 771/103/2009, nr. 813/103/2009, nr. 830/103/2009, nr. 772/103/2009 şi nr. 774/103/2009 ale Tribunalului Neamţ - Secţia civilă, precum şi de către Maria Magdalina, profesor titular la Liceul Pedagogic \"Gheorghe Asachi\" din Piatra-Neamţ, în Dosarul nr. 1.700/103/2009 al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2009",
+    "number": "1",
+    "year": "2009",
+    "path": "oug/2009/1"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2009",
+    "number": "41",
+    "year": "2009",
+    "path": "oug/2009/41"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2008",
+    "number": "221",
+    "year": "2008",
+    "path": "lege/2008/221"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-07-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/120350",
+  "text_sha256": "fefc3dbc03730e69979d6c50aebcba573d45e5c2b2cea93875dbe017438435de",
+  "catalogue_sha256": "fefc3dbc03730e69979d6c50aebcba573d45e5c2b2cea93875dbe017438435de",
+  "fetched": "2026-11-03T04:38:27Z",
+  "chars": 19409,
+  "portal_id": "120350",
+  "tip": "DECIZIE"
+ }
+}
