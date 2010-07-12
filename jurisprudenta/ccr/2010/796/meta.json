@@ -1,0 +1,140 @@
+{
+ "key": "dcc-796-2010",
+ "label": "Decizia CCR nr. 796/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "796",
+ "date": "2010-06-03",
+ "year": "2010",
+ "heading": "DECIZIE nr. 796 din 3 iunie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 287 din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "476",
+  "bis": false,
+  "date": "2010-07-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "5.010/107/2008",
+  "8.749D/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 287 din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Doina Lucreţia Făt, Aurica Tripşa, Elena Medrea, Ioan Horea Popa, Adina Cornelia Coman, Emilian Ursu, Ioana Bianca Ileană, Pamfil Cioancă, Ioan Cornel Deac, Doina Lucreţia Făt şi Elidia Bondea în dosarele nr. 5.010/107/2008, nr. 5.264/107/2008, nr. 7.736/107/2008, nr. 5.239/107/2008, nr. 5.232/107/2008, nr. 5.228/107/2008, nr. 7.840/107/2008, nr. 7.868/107/2008, nr. 7.835/107/2008, nr. 5.272/107/2008, nr. 5.271/107/2008 şi nr. 5.275/107/2008 ale Tribunalului Alba - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-07-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/120419",
+  "text_sha256": "52068a2e05957c28724f1e7095f34fc7c476e92c228530905c54391ebe1a99a0",
+  "catalogue_sha256": "52068a2e05957c28724f1e7095f34fc7c476e92c228530905c54391ebe1a99a0",
+  "fetched": "2026-11-03T04:38:22Z",
+  "chars": 8223,
+  "portal_id": "120419",
+  "tip": "DECIZIE"
+ }
+}
