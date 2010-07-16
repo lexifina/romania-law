@@ -1,0 +1,40 @@
+# DECIZIE nr. 790 din 3 iunie 2010
+Augustin Zegrean - preşedinte
+Nicolae Cochinescu - judecător
+Aspazia Cojocaru - judecător
+Acsinte Gaspar - judecător
+Petre Lăzăroiu - judecător
+Ion Predescu - judecător
+Simona Ricu - procuror
+Daniela Ramona Mariţiu - magistrat-asistent
+Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 281 din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de Societatea Comercială "Lactag" - S.A. în Dosarul nr. 1.342/46/2009 al Curţii de Apel Piteşti - Secţia comercială şi de contencios administrativ şi fiscal.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza fiind în stare de judecată, preşedintele acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere a excepţiei de neconstituţionalitate ca neîntemeiată.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 2 decembrie 2009, pronunţată în Dosarul nr. 1.342/46/2009, Curtea de Apel Piteşti - Secţia comercială şi de contencios administrativ şi fiscal a sesizat Curtea Constituţională cu excepţie de neconstituţionalitate a dispoziţiilor art. 281 din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de Societatea Comercială "Lactag" - S.R.L.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că textul criticat contravine prevederilor art. 16 şi 21 alin. (3) din Legea fundamentală, deoarece creează o distincţie între subiecte aflate în aceeaşi situaţie, în funcţie de modul în care acestea înţeleg să-şi exercite dreptul de a solicita anularea actului, obligarea autorităţii contractante de a emite un act, recunoaşterea dreptului pretins sau a interesului legitim fie pe cale administrativ-jurisdicţională, fie în justiţie.
+Curtea de Apel Piteşti - Secţia comercială şi de contencios administrativ şi fiscal arată că excepţia de neconstituţionalitate este neîntemeiată.
+În conformitate cu dispoziţiile art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi formula punctele de vedere cu privire la excepţia de neconstituţionalitate.
+Avocatul Poporului apreciază că excepţia de neconstituţionalitate este neîntemeiată. În acest sens, face referire la Decizia nr. 732 din 24 iunie 2008, publicată în Monitorul Oficial al României, Partea I, nr. 592 din 7 august 2008.
+Preşedinţii celor două Camere ale Parlamentului şi Guvernul nu au comunicat punctele lor de vedere cu privire la excepţia de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile legale criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 281 din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, publicată în Monitorul Oficial al României, Partea I, nr. 418 din 15 mai 2006, ordonanţă aprobată cu modificări şi completări prin Legea nr. 337/2006, publicată în Monitorul Oficial al României, Partea I, nr. 625 din 20 iulie 2006. Art. 281 a fost modificat prin art. II pct. 54 din Ordonanţa de urgenţă a Guvernului nr. 19/2009 privind unele măsuri în domeniul legislaţiei referitoare la achiziţiile publice, publicată în Monitorul Oficial al României, Partea I, nr. 156 din 12 martie 2009.
+Textul criticat are următorul conţinut: - Art. 281: "(1) Deciziile Consiliului privind soluţionarea contestaţiei şi obligarea la plata amenzii pot fi atacate cu plângere la instanţa judecătorească prevăzută la art. 283 alin. (1), în termen de 10 zile de la comunicare, atât pentru motive de nelegalitate, cât şi de netemeinicie.
+(2) Plângerea va fi formulată în scris şi va fi motivată, dispoziţiile art. 270 alin. (1) aplicându-se în mod corespunzător.
+(3) Partea care formulează plângerea are obligaţia să comunice, în termenul prevăzut la alin. (1), o copie a acesteia, precum şi a înscrisurilor doveditoare şi părţii adverse, depunând dovada de comunicare în faţa instanţei până la primul termen de judecată."
+În susţinerea neconstituţionalităţii acestor dispoziţii legale, autorul excepţiei invocă încălcarea prevederilor constituţionale ale art. 16 referitoare la egalitatea în drepturi şi art. 21 alin. (3) referitoare la dreptul la un proces echitabil şi la soluţionarea cauzelor într-un termen rezonabil.
+Examinând excepţia de neconstituţionalitate, Curtea constată că, prin Decizia nr. 732 din 24 iunie 2008, publicată în Monitorul Oficial al României, Partea I, nr. 592 din 7 august 2008, a statuat că, în această materie, legea a prevăzut două căi alternative prin care persoana vătămată într-un drept al său ori într-un interes legitim printr-un act al autorităţii contractante poate contesta actul respectiv, ceea ce nu este de natură a contraveni principiului constituţional al egalităţii cetăţenilor în faţa legii şi a autorităţilor publice. Opţiunea pentru una dintre cele două posibilităţi (calea administrativ-jurisdicţională sau calea justiţiei) plasează persoanele vătămate în situaţii juridice diferite, iar sub acest aspect Curtea Constituţională a reţinut în mod constant, în jurisprudenţa sa, în concordanţă cu practica jurisdicţională a Curţii Europene a Drepturilor Omului, că principiul egalităţii nu înseamnă uniformitate, numai similitudinea de situaţii impunând un tratament juridic nediferenţiat.
+De asemenea, prin Decizia nr. 569 din 15 mai 2008, publicată în Monitorul Oficial al României, Partea I, nr. 537 din 16 iulie 2008, Curtea a statuat că obligaţia ca plângerea să îndeplinească condiţiile prevăzute de art. 270 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 34/2006, precum şi de a fi comunicată în copie, alături de înscrisurile doveditoare, şi părţii adverse, are ca scop desfăşurarea cu celeritate a procedurii judiciare de soluţionare a plângerii, în vederea asigurării dreptului la un proces echitabil şi la soluţionarea cauzei într-un termen rezonabil.
+Întrucât criticile de neconstituţionalitate privesc, în esenţă, aceleaşi aspecte deja examinate de Curte prin deciziile menţionate şi având în vedere că nu au intervenit elemente noi, de natură să determine schimbarea jurisprudenţei Curţii Constituţionale, soluţia şi considerentele cuprinse în acestea îşi menţin valabilitatea şi în cauza de faţă.
+Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992,
+CURTEA CONSTITUŢIONALĂ
+În numele legii
+DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 281 din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de Societatea Comercială "Lactag" - S.A. în Dosarul nr. 1.342/46/2009 al Curţii de Apel Piteşti Secţia comercială şi de contencios administrativ şi fiscal.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 3 iunie 2010.
+PREŞEDINTE,
+AUGUSTIN ZEGREAN
+Magistrat-asistent,
+Daniela Ramona Mariţiu
