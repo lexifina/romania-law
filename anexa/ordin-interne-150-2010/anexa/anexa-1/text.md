@@ -1,0 +1,15 @@
+# Anexa 1
+Anexa
+la Procedura de compensare Formular
+Unitatea administrativ-teritorială/Subdiviziunea Operatorul economic
+unității administrativ-teritoriale . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ACORD privind stingerea reciprocă a obligațiilor de plată conform prevederilor art. 8 din Ordonanța de urgență a Guvernului nr. 51/2010
+Primăria ..................................................., reprezentată prin domnul/doamna .........................., în calitate de ordonator principal de credite, și operatorul economic ..............................., reprezentat prin ........................, în calitate de ..................., suntem de acord cu stingerea obligațiilor de plată reciproce în sumă totală de ......................... lei, reprezentând:
+a) obligații ale unității administrativ-teritoriale ............... către operatorul economic ....................................., din care:
+- ..................................., în sumă de ........................; - ..................................., în sumă de ........................; - ..................................., în sumă de ........................; TOTAL ...............................
+b) obligații ale operatorului economic ......................... către bugetul local al unității administrativ-teritoriale .........................., din care:
+- ..................., în sumă de ............., datorate contului de venituri al bugetului local 21 .................; - ..................., în sumă de ............., datorate contului de venituri al bugetului local 21..................; - ..................., în sumă de ............., datorate contului de venituri al bugetului local 21 .................. TOTAL ............................ Operatorul economic .............................., reprezentat prin ........................., sunt de acord cu debitarea contului 50.70.35 "Disponibil al operatorilor economici din sume încasate potrivit art. 8 din OUG nr. 51/2010 " de către unitatea Trezoreriei Statului ................................, la care acesta este deschis, în scopul achitării obligațiilor prevăzute la lit. b) din prezentul acord.
+Ordonatorul principal de credite al bugetului local, Reprezentantul legal al operatorului economic,
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+-----------
