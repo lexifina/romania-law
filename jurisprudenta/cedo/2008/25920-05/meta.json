@@ -1,0 +1,125 @@
+{
+ "key": "cedo-25920-05-2008-02-21",
+ "label": "CEDO, Pappszasz c. României, 2008-02-21",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-02-21",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 21 februarie 2008",
+ "subtitle": "în Cauza Pappszasz împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "502",
+  "bis": false,
+  "date": "2010-07-20",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "25920/05"
+ ],
+ "case_name": "Pappszasz",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) că statul pârât trebuie să îi restituie reclamantei apartamentele nr. 3 şi 5 din casa situată în Cluj-Napoca, Str. Bisericii Ortodoxe nr. 18, şi terenul aferent în suprafaţă de 200 mý, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie;",
+  "b) că, în lipsa unei astfel de restituiri, statul pârât trebuie să îi plătească reclamantei, în acelaşi termen de 3 luni, suma de 150.000 EUR (una sută cincizeci mii euro), cu titlu de daune materiale;",
+  "c) că, în orice caz, statul pârât trebuie să îi plătească reclamantei, în acelaşi termen de 3 luni, următoarele sume:",
+  "(i) 2.000 EUR (două mii euro), cu titlu de daune morale; (îi) 1.600 EUR (una mie şase sute euro), cu titlu de costuri şi cheltuieli;",
+  "d) ca la sumele menţionate mai sus să se adauge orice sumă ce ar putea fi datorată cu titlu de impozit şi ca sumele respective să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "e) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene aplicabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/120757",
+  "text_sha256": "a5b70f469e67f9fcfa52f3b5483f8f5eaf108f7c941cd5d3b852c58039b09654",
+  "catalogue_sha256": "a5b70f469e67f9fcfa52f3b5483f8f5eaf108f7c941cd5d3b852c58039b09654",
+  "fetched": "2026-11-03T04:38:03Z",
+  "chars": 14017,
+  "portal_id": "120757",
+  "tip": "HOTĂRÂRE"
+ }
+}
