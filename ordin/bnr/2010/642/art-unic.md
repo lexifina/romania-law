@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale EASY LEASING IFN - S.A., cu sediul în municipiul Constanța, str. Havana nr. 10, județul Constanța, înregistrată la registrul comerțului sub nr. J13/2287/29.07.2003, cod unic de înregistrare nr. 15628071, înscrisă în Registrul general al instituțiilor financiare nebancare la secțiunea h) "Leasing financiar" sub nr. RG-PJR-14-080196. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 2 iulie 2010. Nr. 642. -------------
