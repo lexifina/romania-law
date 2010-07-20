@@ -1,0 +1,180 @@
+{
+ "key": "dcc-833-2010",
+ "label": "Decizia CCR nr. 833/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "833",
+ "date": "2010-06-22",
+ "year": "2010",
+ "heading": "DECIZIE nr. 833 din 22 iunie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 pct. 18 şi art. 3 alin. 1 lit. b) din Legea nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "499",
+  "bis": false,
+  "date": "2010-07-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.132/220/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 2 pct. 18 şi art. 3 alin. 1 lit. b) din Legea nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice, excepţie ridicată de Sabin-Ioan Tălvan în Dosarul nr. 1.132/220/2008 al Tribunalului Timiş - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-07-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/120738",
+  "text_sha256": "c1d8655746641156ca50bdca7d8e4571c389fd7bfac93c1387819b7eb431baaf",
+  "catalogue_sha256": "c1d8655746641156ca50bdca7d8e4571c389fd7bfac93c1387819b7eb431baaf",
+  "fetched": "2026-11-04T11:46:04Z",
+  "chars": 6458,
+  "portal_id": "120738",
+  "tip": "DECIZIE"
+ }
+}
