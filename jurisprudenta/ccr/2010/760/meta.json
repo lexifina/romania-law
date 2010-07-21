@@ -1,0 +1,243 @@
+{
+ "key": "dcc-760-2010",
+ "label": "Decizia CCR nr. 760/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "760",
+ "date": "2010-06-01",
+ "year": "2010",
+ "heading": "DECIZIE nr. 760 din 1 iunie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 402 alin. 2 şi art. 578-580^1 din Codul de procedură civilă, precum şi ale art. 7 lit. i) din Legea nr. 188/2000 privind executorii judecătoreşti",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "508",
+  "bis": false,
+  "date": "2010-07-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.159/303/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "402",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "578",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "579",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "580",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 402 alin. 2 şi art. 578-580^1 din Codul de procedură civilă, precum şi ale art. 7 lit. i) din Legea nr. 188/2000 privind executorii judecătoreşti, excepţie ridicată de Gavril Todean, Cornelia Todean şi Tudora Groseanu în Dosarul nr. 8.159/303/2009 al Judecătoriei Sectorului 6 Bucureşti - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "402",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "578",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "579",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "580",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "577",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-07-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/120805",
+  "text_sha256": "230bd7e647353d10acb9d78d67a85aa485967ff034f7a06f281a89623eefbea6",
+  "catalogue_sha256": "230bd7e647353d10acb9d78d67a85aa485967ff034f7a06f281a89623eefbea6",
+  "fetched": "2026-11-03T04:37:57Z",
+  "chars": 9318,
+  "portal_id": "120805",
+  "tip": "DECIZIE"
+ }
+}
