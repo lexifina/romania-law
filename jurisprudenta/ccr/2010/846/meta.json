@@ -1,0 +1,279 @@
+{
+ "key": "dcc-846-2010",
+ "label": "Decizia CCR nr. 846/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "846",
+ "date": "2010-06-24",
+ "year": "2010",
+ "heading": "DECIZIE nr. 846 din 24 iunie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 257 alin. (3), art. 260 alin. (2), art. 261 alin. (1), art. 262 alin. (1), art. 266, art. 267, art. 269 şi art. 275 alin. (5) şi (6) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "508",
+  "bis": false,
+  "date": "2010-07-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.347D/2009",
+  "8.346D/2009",
+  "2.936/54/2009",
+  "2.938/54/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "260",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "261",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "266",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 257 alin. (3), art. 260 alin. (2), art. 261 alin. (1), art. 262 alin. (1), art. 266, art. 267, art. 269 şi art. 275 alin. (5) şi (6) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de Societatea Comercială \"Biff International\" - S.R.L., Sociedade De Construcoes Soares Da Costa S.A. şi Societatea Comercială \"Argecom\" - S.A. în dosarele nr. 2.936/54/2009 şi nr. 2.938/54/2009 ale Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "260",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "261",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "266",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-07-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/120812",
+  "text_sha256": "e17ffc1c8b1f781132db585679ff8ac3a8bef65077762de0ed0cee5843d37fc9",
+  "catalogue_sha256": "e17ffc1c8b1f781132db585679ff8ac3a8bef65077762de0ed0cee5843d37fc9",
+  "fetched": "2026-11-03T04:37:57Z",
+  "chars": 14443,
+  "portal_id": "120812",
+  "tip": "DECIZIE"
+ }
+}
