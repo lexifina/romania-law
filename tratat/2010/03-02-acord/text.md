@@ -1,0 +1,28 @@
+ ACORD din 2 martie 2010  între Guvernul României şi Guvernul Republicii Kazahstan privind colaborarea în domeniul turismului     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 521 din 27 iulie 2010     Guvernul României şi Guvernul Republicii Kazahstan, denumite în continuare părţi contractante,  dorind să contribuie la dezvoltarea relaţiilor în domeniul turismului între România şi Republica Kazahstan, la întărirea cooperării între autorităţile competente ale ambelor state,  recunoscând că relaţiile din domeniul turismului constituie un element important şi necesar în consolidarea raporturilor prieteneşti dintre statele celor două părţi,  dorind să creeze baza pentru extinderea relaţiilor în domeniul turismului între România şi Republica Kazahstan,  au convenit asupra celor ce urmează:
+				 +
+			  Articolul 1     Părţile contractante, în conformitate cu legislaţia naţională a statelor părţilor şi cu reglementările acordurilor internaţionale la care statele lor sunt parte, vor întreprinde toate măsurile necesare pentru promovarea şi încurajarea dezvoltării relaţiilor turistice dintre statele părţilor şi pentru facilitarea circulaţiei turistice cu ajutorul agenţiilor de turism şi al altor structuri şi organizaţii care desfăşoară activităţi în domeniul turismului.
+				 +
+			  Articolul 2     Părţile contractante vor crea cadrul favorabil pentru investiţii în sectorul turismului din statele celor două părţi, în concordanţă cu legislaţiile naţionale ale celor două state. Părţile contractante vor promova dezvoltarea tuturor tipurilor de turism, după cum sunt acceptate de practica internaţională (turism cultural, turism rural, ecoturism, organizat şi individual).
+				 +
+			  Articolul 3     Părţile contractante vor schimba informaţii, inclusiv date statistice, întrebări referitoare la domeniul turismului din statele lor şi vor încuraja participarea reciprocă la expoziţii turistice, pe baza înţelegerii reciproce dintre cele două părţi contractante.
+				 +
+			  Articolul 4     Părţile contractante vor încuraja vizitarea obiectivelor turistice din cele două state.
+				 +
+			  Articolul 5     Părţile contractante vor contribui la schimbul de experienţă în domeniul pregătirii profesionale a personalului din industriile pentru turism ale statelor lor.
+				 +
+			  Articolul 6     Părţile contractante vor încuraja dezvoltarea cooperării în cadrul Organizaţiei Mondiale a Turismului şi al altor organisme internaţionale de turism.
+				 +
+			  Articolul 7     Părţile contractante vor contribui la schimbul de experienţă şi informaţii privind activitatea organizaţiilor de turism din statele lor, în conformitate cu legislaţiile naţionale ale statelor celor două părţi.  Părţile contractante vor schimba informaţii privind potenţialul turistic al statelor celor două părţi şi vor încuraja organizarea de vizite de documentare pentru ziarişti, reporteri radio şi TV şi experţi în domeniul turismului.
+				 +
+			  Articolul 8     Părţile suportă în mod independent toate cheltuielile apărute în cursul implementării prezentului acord, în limitele stipulate de legislaţiile naţionale ale statelor celor două părţi, cu excepţia situaţiei în care se specifică în mod diferit în fiecare caz.
+				 +
+			  Articolul 9     Prezentul acord nu va afecta obligaţiile internaţionale asumate de părţile contractante.  Prezentul acord nu va afecta obligaţiile care rezultă din calitatea României de stat membru al Uniunii Europene.
+				 +
+			  Articolul 10     Divergenţele în interpretarea şi aplicarea prevederilor prezentului acord vor fi soluţionate de părţile contractante prin negocieri şi consultări prin canale diplomatice.
+				 +
+			  Articolul 11     Organele autorizate responsabile pentru implementarea condiţiilor prezentului acord sunt:  - pentru partea română: Ministerul Dezvoltării Regionale şi Turismului din România;  - pentru partea kazahă: Ministerul Turismului şi Sportului al Republicii Kazahstan.  În cazul schimbării numelor sau funcţiilor organelor autorizate, părţile contractante le vor notifica una alteia prin canale diplomatice.
+				 +
+			  Articolul 12     Prezentul acord va fi amendat prin acordul reciproc al părţilor contractante, prin protocoale adiţionale, care vor fi părţi integrante din prezentul acord. Protocoalele vor intra în vigoare în conformitate cu prevederile art. 13 din prezentul acord.
+				 +
+			  Articolul 13     Prezentul acord va intra în vigoare la data ultimei notificări, prin care oricare dintre cele două părţi contractante informează, pe canale diplomatice, cealaltă parte contractantă asupra îndeplinirii procedurii legale interne necesare pentru intrarea sa în vigoare  Prezentul acord va fi valabil pentru o perioadă de 5 ani. Valabilitatea sa va fi prelungită pentru alţi 5 ani, prin tacită reconducţiune, cu condiţia ca niciuna dintre cele două părţi contractante să nu notifice în scris, prin canale diplomatice, celeilalte părţi contractante, cu cel puţin 6 luni înainte de expirarea datei prezentului acord, intenţia sa de a denunţa prezentul acord.  Notificarea denunţării prezentului acord de către una dintre părţile contractante nu va afecta implementarea programelor în desfăşurare ale prezentului acord.  Semnat la Astana la 2 martie 2010, în două exemplare originale, fiecare dintre ele în limbile română, kazahă şi engleză, toate versiunile fiind egal autentice.  În scopul interpretării prezentului acord, părţile contractante vor folosi textul în limba engleză.  Pentru Guvernul României,  Teodor Baconschi,  ministrul afacerilor externe  Pentru Guvernul Republicii Kazahstan,  Temirhan Dosmuhambetov,  ministrul turismului şi sportului  -------
