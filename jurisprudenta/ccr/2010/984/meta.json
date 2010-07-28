@@ -1,0 +1,248 @@
+{
+ "key": "dcc-984-2010",
+ "label": "Decizia CCR nr. 984/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "984",
+ "date": "2010-07-08",
+ "year": "2010",
+ "heading": "DECIZIE nr. 984 din 8 iulie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 7 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 168/2001 privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, îngrăşării şi exploatării animalelor, precum şi a fabricilor de nutreţuri combinate dezafectate şi a celor ale art. 10 din Hotărârea Guvernului nr. 216/2002 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 168/2001",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "527",
+  "bis": false,
+  "date": "2010-07-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "548/185/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 168/2001",
+    "number": "168",
+    "year": "2001",
+    "path": "oug/2001/168"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 216/2002",
+    "number": "216",
+    "year": "2002",
+    "path": "hg/2002/216"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate a prevederilor art. 7 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 168/2001 privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, îngrăşării şi exploatării animalelor, precum şi a fabricilor de nutreţuri combinate dezafectate, excepţie ridicată de comuna Lăcusteni, prin primar, şi Consiliul Local al Comunei Lăcusteni în Dosarul nr. 548/185/2008 al Judecătoriei Bălceşti. 2. Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 10 din Hotărârea Guvernului nr. 216/2002 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 168/2001, excepţie ridicată de aceiaşi autori în acelaşi dosar.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 168/2001",
+    "number": "168",
+    "year": "2001",
+    "path": "oug/2001/168"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 216/2002",
+    "number": "216",
+    "year": "2002",
+    "path": "hg/2002/216"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 23/2010",
+    "number": "23",
+    "year": "2010",
+    "path": "lege/2010/23"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2003",
+    "number": "90",
+    "year": "2003",
+    "path": "lege/2003/90"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-07-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/120985",
+  "text_sha256": "5c5f6a26a7455ead785ab24207f54ad7cd26c881f0a8cb189ffd738a11679e0c",
+  "catalogue_sha256": "5c5f6a26a7455ead785ab24207f54ad7cd26c881f0a8cb189ffd738a11679e0c",
+  "fetched": "2026-11-03T04:37:44Z",
+  "chars": 13005,
+  "portal_id": "120985",
+  "tip": "DECIZIE"
+ }
+}
