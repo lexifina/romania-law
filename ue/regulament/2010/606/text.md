@@ -1,0 +1,32 @@
+REGULAMENTUL (UE) NR. 606/2010 AL COMISIEI
+din 9 iulie 2010
+privind aprobarea unui instrument simplificat elaborat de organismul european pentru siguranța navigației aeriene (Eurocontrol) în vederea estimării consumului de combustibil al anumitor operatori aerieni mici emițători
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Directiva 2003/87/CE a Parlamentului European și a Consiliului din 13 octombrie 2003 de stabilire a unui sistem de comercializare a cotelor de emisie de gaze cu efect de seră în cadrul Comunității și de modificare a Directivei 96/61/CE a Consiliului (1), în special articolul 14 alineatul (1),
+întrucât:
+(1) Monitorizarea și raportarea completă, coerentă, transparentă și exactă a emisiilor de gaze cu efect de seră în conformitate cu normele prevăzute de Decizia 2007/589/CE a Comisiei din 18 iulie 2007 de stabilire a unor orientări privind monitorizarea și raportarea emisiilor de gaze cu efect de seră în conformitate cu Directiva 2003/87/CE a Parlamentului European și a Consiliului (2) sunt esențiale pentru funcționarea eficace a schemei de comercializare a certificatelor de emisii de gaze cu efect de seră instituite prin Directiva 2003/87/CE.
+(2) Articolul 14 alineatul (3) din Directiva 2003/87/CE prevede că de la 1 ianuarie 2010 operatorii aerieni trebuie să monitorizeze și să raporteze pentru fiecare an calendaristic cantitatea de dioxid de carbon emisă de zborurile pe care le operează în conformitate cu orientările stabilite prin Decizia 2007/589/CE.
+(3) Fiecare operator aerian trebuie să elaboreze și să transmită statului membru de administrare un plan de monitorizare care să conțină măsurile pe care intenționează să le implementeze în vederea monitorizării și raportării emisiilor sale. Autoritățile competente din statul membru aprobă aceste planuri pe baza orientărilor stabilite prin Decizia 2007/589/CE.
+(4) Partea 4 a anexei XIV la Decizia 2007/589/CE reduce sarcina administrativă a anumitor operatori aerieni care sunt responsabili de un număr limitat de zboruri anuale sau care au emisii mici de dioxid de carbon prin stabilirea unei proceduri simplificate de estimare a consumului de combustibil al aeronavei pe care o operează, cu ajutorul unor instrumente implementate de organismul european pentru siguranța navigației aeriene (Eurocontrol) sau de alte organisme pertinente care pot să prelucreze toate informațiile relevante ce țin de traficul aerian (precum informațiile aflate la dispoziția Eurocontrol), dacă respectivele instrumente au primit aprobarea Comisiei.
+(5) Eurocontrol a instituit și a fundamentat un instrument simplificat de estimare a consumului de combustibil și a emisiilor de dioxid de carbon pentru anumite zboruri între aerodromuri. Instrumentul respectiv utilizează lungimea efectivă a rutei fiecărui zbor pe baza celor mai cuprinzătoare informații privind traficul aerian și zborul operațional disponibile la momentul respectiv și ia în calcul combustibilul consumat în toate etapele unui zbor, inclusiv în timpul operațiunilor la poarta de plecare, de rulare pe pistă, în timpul aterizării, decolării și zborului de croazieră, precum și în timpul acțiunilor de management al traficului aerian. Acest instrument folosește coeficienți statistici solizi pentru consumul de combustibil al celor mai importante tipuri de aeronave, precum și o abordare mai generică în cazul altor tipuri de aeronave, prin care se determină coeficienții de consum de combustibil ca funcție a masei maxime la decolare a aeronavei, ceea ce conduce la niveluri acceptabile de incertitudine.
+(6) Acest instrument întrunește cerințele cuprinse în orientările prevăzute de Decizia 2007/589/CE cu privire la abordarea bazată pe zboruri individuale, pe lungimea reală a rutei și pe relații de consum de combustibil solide din punct de vedere statistic. Prin urmare, este oportun ca acest instrument să fie disponibil și aprobat în vederea utilizării de către operatorii de aeronave vizați pentru a le permite acestora să își îndeplinească obligațiile de monitorizare și raportare într-un mod care presupune mai puține sarcini administrative.
+(7) Din cauza unor motive independente de voința operatorului, este posibil ca acesta să nu poată să monitorizeze consumul real în cazul unui anumit zbor. În această situație și în absența altor mijloace de determinare a consumului real de combustibil, este oportun ca instrumentul de estimare a consumului de combustibil utilizat de micii emițători să fie disponibil și altor operatori aerieni în vederea estimării consumului de combustibil în cazul anumitor zboruri, atunci când lipsesc datele pentru determinarea consumului real.
+(8) Partea 6 a anexei XIV la Decizia 2007/589/CE prevede că un operator de aeronave care utilizează un instrument de estimare a consumului de combustibil trebuie să includă în planul său de monitorizare dovezi din care să reiasă că sunt îndeplinite condițiile pentru micii emițători și să prezinte confirmarea și descrierea instrumentului utilizat.
+(9) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului privind schimbările climatice,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Instrumentul de estimare a consumului de combustibil elaborat și oferit spre utilizare de organismul european pentru siguranța navigației aeriene (Eurocontrol) (3) este aprobat pentru utilizarea de către:
+1. micii emițători, în vederea îndeplinirii de către aceștia a obligațiilor de monitorizare și raportare în temeiul articolului 14 alineatul (3) din Directiva 2003/87/CE și al părții 4 din anexa XIV la Decizia 2007/589/CE;
+2. toți operatorii de aeronave, în temeiul părții 5 a anexei XIV la Decizia 2007/589/CE, în scopul estimării consumului de combustibil pentru anumite zboruri vizate de anexa I la Directiva 2003/87/CE, în cazul cărora datele necesare monitorizării emisiilor de dioxid de carbon lipsesc ca urmare a circumstanțelor independente de voința operatorilor de aeronave și care nu pot fi determinate printr-o metodă alternativ definită în planul de monitorizare al operatorului.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 9 iulie 2010.
+Pentru Comisie
+Președintele
+José Manuel BARROSO
+(1) JO L 275, 25.10.2003, p. 32.
+(2) JO L 229, 31.8.2007, p. 1.
+(3) www.eurocontrol.int/ets/small_emitters
