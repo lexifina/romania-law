@@ -1,0 +1,313 @@
+{
+ "key": "dcc-834-2010",
+ "label": "Decizia CCR nr. 834/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "834",
+ "date": "2010-06-22",
+ "year": "2010",
+ "heading": "DECIZIE nr. 834 din 22 iunie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 171 alin. 3 şi 4, art. 174 alin. 1, art. 222 alin. 3 şi art. 278^1 alin. 4, alin. 8 lit. c), alin. 9 şi alin. 10 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "536",
+  "bis": false,
+  "date": "2010-07-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "11.564.01/299/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "171",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": [
+      "4",
+      "8",
+      "9",
+      "10"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 171 alin. 3 şi 4, art. 174 alin. 1, art. 222 alin. 3 şi art. 278^1 alin. 4, alin. 8 lit. c), alin. 9 şi alin. 10 din Codul de procedură penală, excepţie ridicată de Genică-Ioan Grumaz Zichil în Dosarul nr. 11.564.01/299/2008 al Tribunalului Bucureşti - Secţia a II-a penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "4",
+      "8",
+      "9",
+      "10"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "174",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-07-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/121097",
+  "text_sha256": "0a415358d5e1d6d87a474f82a8e60115218ddc9db060ade5b454670c392ef887",
+  "catalogue_sha256": "0a415358d5e1d6d87a474f82a8e60115218ddc9db060ade5b454670c392ef887",
+  "fetched": "2026-11-03T04:37:39Z",
+  "chars": 15797,
+  "portal_id": "121097",
+  "tip": "DECIZIE"
+ }
+}
