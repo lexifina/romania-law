@@ -1,0 +1,146 @@
+{
+ "key": "dcc-922-2010",
+ "label": "Decizia CCR nr. 922/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "922",
+ "date": "2010-07-06",
+ "year": "2010",
+ "heading": "DECIZIE nr. 922 din 6 iulie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (2) din Ordonanţa Guvernului nr. 75/2000 privind autorizarea experţilor criminalişti care pot fi recomandaţi de părţi să participe la efectuarea expertizelor criminalistice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "566",
+  "bis": false,
+  "date": "2010-08-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "856/235/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 75/2000",
+    "number": "75",
+    "year": "2000",
+    "path": "og/2000/75"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (2) din Ordonanţa Guvernului nr. 75/2000 privind autorizarea experţilor criminalişti care pot fi recomandaţi de părţi să participe la efectuarea expertizelor criminalistice, excepţie ridicată de Aurică Băran în Dosarul nr. 856/235/2007 al Judecătoriei Gherla.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 75/2000",
+    "number": "75",
+    "year": "2000",
+    "path": "og/2000/75"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-08-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/121369",
+  "text_sha256": "701dcdc2f3da8eceb0ae7b7980e1e89972e5154b299af6dfbe6551001f7e6c4a",
+  "catalogue_sha256": "701dcdc2f3da8eceb0ae7b7980e1e89972e5154b299af6dfbe6551001f7e6c4a",
+  "fetched": "2026-11-04T17:45:06Z",
+  "chars": 5863,
+  "portal_id": "121369",
+  "tip": "DECIZIE"
+ }
+}
