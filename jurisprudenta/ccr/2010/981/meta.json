@@ -1,0 +1,141 @@
+{
+ "key": "dcc-981-2010",
+ "label": "Decizia CCR nr. 981/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "981",
+ "date": "2010-07-08",
+ "year": "2010",
+ "heading": "DECIZIE nr. 981 din 8 iulie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 110/2008 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "574",
+  "bis": false,
+  "date": "2010-08-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.761/2/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 110/2008",
+    "number": "110",
+    "year": "2008",
+    "path": "oug/2008/110"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 110/2008 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere, excepţie ridicată de Societatea Comercială \"G&amp;amp;S Tours\" - S.R.L., Federaţia Naţională Patronală a Transporturilor din România şi Societatea Comercială \"Drimo Inter Trans\" - S.R.L. în Dosarul nr. 1.761/2/2009 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 110/2008",
+    "number": "110",
+    "year": "2008",
+    "path": "oug/2008/110"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 191/2009",
+    "number": "191",
+    "year": "2009",
+    "path": "lege/2009/191"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-08-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/121425",
+  "text_sha256": "f71dd58451700f76510383881cedede501b7bba1e1162523fd70f03fe5cb355e",
+  "catalogue_sha256": "f71dd58451700f76510383881cedede501b7bba1e1162523fd70f03fe5cb355e",
+  "fetched": "2026-11-03T04:37:15Z",
+  "chars": 6502,
+  "portal_id": "121425",
+  "tip": "DECIZIE"
+ }
+}
