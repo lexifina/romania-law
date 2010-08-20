@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale REAL LEASING - IFN S.A., cu sediul în București, str. Arieșul Mare nr. 5, bl. I12, sc. C, ap. 36, sectorul 6, înregistrată la oficiul registrului comerțului sub nr. J40/7812/2001, cod unic de înregistrare 14176270, înscrisă în Registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-41-080129. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 9 august 2010. Nr. 737. ------------
