@@ -1,0 +1,5 @@
+Consiliul Local al municipiului Husi, judetul Vaslui;
+Avand in vedere expunerea de motive privind aprobarea preturilor si tarifelor la serviciile publice de alimentare cu apa potabila si de canalizare- epurare ape uzate, practicate incepand cu data de 01.09.2010, de catre SC “GOSCOMLOC” SA HUSI, judetul Vaslui;
+In conformitate cu prevederile Legii serviciilor comunitare de utilitati publice nr.51/2006 si cu prevederile art.34 alin.(5) din Legea serviciului de alimentare cu apa si de canalizare nr.241/2006, cu modificarile si completarile ulterioare; Ordinul presedintelui ANRSC privind aprobarea Metodologiei de stabilire, ajustare sau modificare a pretului/tarifelor nr.65/2007; prevederile art.I, pct.44 din OUG nr.58/28.06.2010 privind modificarea si completarea Legii nr.571/2003 privind Codul Fiscal si alte masuri financiare –fiscale;
+In temeiul art.36 alin.(6) litera ”a” pct.14 si art.45 alin.(2) din Legea nr.215/2001 privind administratia publica locala, republicata, cu modificarile si completarile ulterioare;
+HOTARASTE:
