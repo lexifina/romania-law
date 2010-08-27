@@ -1,0 +1,200 @@
+{
+ "key": "dcc-1002-2010",
+ "label": "Decizia CCR nr. 1002/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1002",
+ "date": "2010-07-08",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.002 din 8 iulie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 50 alin. (3) şi art. 50^1 alin. (1) şi (2) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "607",
+  "bis": false,
+  "date": "2010-08-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.866/300/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 50 alin. (3) şi art. 50^1 alin. (1) şi (2) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989, excepţie ridicată de Elena Pavel în Dosarul nr. 9.866/300/2008 al Tribunalului Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-08-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/121786",
+  "text_sha256": "3d919c5710ccf3271cbc0981bcc271d08701c15a0e5889341e41688c1bd2251c",
+  "catalogue_sha256": "3d919c5710ccf3271cbc0981bcc271d08701c15a0e5889341e41688c1bd2251c",
+  "fetched": "2026-11-04T02:12:27Z",
+  "chars": 8169,
+  "portal_id": "121786",
+  "tip": "DECIZIE"
+ }
+}
