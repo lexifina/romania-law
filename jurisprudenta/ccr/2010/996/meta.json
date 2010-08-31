@@ -1,0 +1,238 @@
+{
+ "key": "dcc-996-2010",
+ "label": "Decizia CCR nr. 996/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "996",
+ "date": "2010-07-08",
+ "year": "2010",
+ "heading": "DECIZIE nr. 996 din 8 iulie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 26 alin. 2 teza a doua din Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică şi art. 9 alin. (3) din Legea nr. 198/2004 privind unele măsuri prealabile lucrărilor de construcţie de drumuri de interes naţional, judeţean şi local",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "614",
+  "bis": false,
+  "date": "2010-08-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "41.037/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 198/2004",
+    "number": "198",
+    "year": "2004",
+    "path": "lege/2004/198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 26 alin. 2 teza a doua din Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică şi ale art. 9 alin. (3) din Legea nr. 198/2004 privind unele măsuri prealabile lucrărilor de construcţie de drumuri de interes naţional, judeţean şi local, excepţie ridicată de Societatea Comercială \"Automobile Bavaria\" - S.R.L. din Braşov în Dosarul nr. 41.037/3/2008 al Curţii de Apel Bucureşti - Secţia a III-a civilă şi pentru cauze cu minori şi de familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 198/2004",
+    "number": "198",
+    "year": "2004",
+    "path": "lege/2004/198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-08-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/121853",
+  "text_sha256": "e559b470a5b16435f3cab6d417f9e19c7f60b6136c9106bb77836806007f3209",
+  "catalogue_sha256": "e559b470a5b16435f3cab6d417f9e19c7f60b6136c9106bb77836806007f3209",
+  "fetched": "2026-11-03T04:36:48Z",
+  "chars": 10548,
+  "portal_id": "121853",
+  "tip": "DECIZIE"
+ }
+}
