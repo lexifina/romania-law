@@ -1,0 +1,157 @@
+{
+ "key": "cedo-24466-03-2008-09-23",
+ "label": "CEDO, Urbanovici c. României, 2008-09-23",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-09-23",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 23 septembrie 2008",
+ "subtitle": "în Cauza Urbanovici împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "614",
+  "bis": false,
+  "date": "2010-08-31",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "24466/03"
+ ],
+ "case_name": "Urbanovici",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. uneşte cu fondul şi respinge excepţia preliminară a Guvernului; 2. declară cererea admisibilă; 3. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 4. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/121855",
+  "text_sha256": "027ed7c1ce030e0c09a11dae782bf6320c49be6078f69d25162dc5b29259ff12",
+  "catalogue_sha256": "027ed7c1ce030e0c09a11dae782bf6320c49be6078f69d25162dc5b29259ff12",
+  "fetched": "2026-11-03T04:36:48Z",
+  "chars": 20011,
+  "portal_id": "121855",
+  "tip": "HOTĂRÂRE"
+ }
+}
