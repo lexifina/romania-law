@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale GALANT LEASING - IFN S.A., cu sediul în municipiul Satu Mare, Drum Carei nr. 74/A, județul Satu Mare, înregistrată la oficiul registrului comerțului sub nr. J30/613/2002, cod unic de înregistrare 15040747, înscrisă în Registrul general al instituțiilor financiare nebancare la secțiunea h) "Leasing financiar" sub nr. RG-PJR-31-080065. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 26 august 2010. Nr. 819. ---------------
