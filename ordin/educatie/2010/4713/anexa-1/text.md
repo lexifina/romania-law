@@ -1,0 +1,2 @@
+# Anexa 1
+REGULAMENT 23/08/2010
