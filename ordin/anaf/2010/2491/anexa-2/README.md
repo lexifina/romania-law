@@ -1,0 +1,7 @@
+# Anexa nr. 2: 2 - Model - CERERE de înregistrare/mențiuni a activității de comercializare și/sau depozitare angro de produse energetice A. Cerere de: înregistrare mențiuni B. Datele de identificare ale operatorului
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 122346 (https://legislatie.just.ro/Public/DetaliiDocument/122346)
+- sha256 of that document's text as the service returned it: 19fa906957a992581e0fe1573305b2498767573ed983b039f1632fcffeed3cab
+- Retrieved: 2026-11-03
