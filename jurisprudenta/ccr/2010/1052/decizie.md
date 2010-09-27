@@ -1,0 +1,27 @@
+# DECIZIE nr. 1.052 din 16 septembrie 2010
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 6 şi 7 şi art. IV din Ordonanţa de urgenţă a Guvernului nr. 159/2008 privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat
+Augustin Zegrean - preşedinte Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Iulia Antoanella Motoc - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Doina Suliman - magistrat-asistent-şef Cu participarea reprezentantului Ministerului Public, procuror Antonia Constantin.
+Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. I pct. 6 şi 7 şi art. IV din Ordonanţa de urgenţă a Guvernului nr. 159/2008 privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, excepţie ridicată de Crina Felicia Bondici în Dosarul nr. 1.663/33/2009 al Curţii de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Magistratul-asistent-şef referă asupra cauzei şi arată că autorul excepţiei a depus la dosar cerere de renunţare la judecată, având în vedere jurisprudenţa în materie a Curţii Constituţionale.
+Reprezentantul Ministerului Public solicită respingerea cererii de renunţare la judecată.
+Curtea, deliberând, respinge cererea de renunţare la judecată.
+Cauza este în stare de judecată.
+Preşedintele acordă cuvântul reprezentantului Ministerului Public, care, având în vedere jurisprudenţa în materie a Curţii Constituţionale, concretizată în Decizia nr. 109/2010, pune concluzii de respingere a excepţiei de neconstituţionalitate ca devenită inadmisibilă.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 30 octombrie 2009, pronunţată în Dosarul nr. 1.663/33/2009, Curtea de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 6 şi 7 şi art. IV din Ordonanţa de urgenţă a Guvernului nr. 159/2008 privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat.
+Excepţia a fost ridicată de Crina Felicia Bondici într-o acţiune în contencios administrativ având ca obiect anularea Deciziei nr. 14/2009 a Baroului Sălaj.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că dispoziţiile de lege criticate contravin prevederilor constituţionale ale art. 1, 16, 41, 53 şi 115.
+Instanţa de judecată consideră că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Preşedinţii celor două Camere ale Parlamentului, Guvernul şi Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate cu care a fost sesizată.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. I pct. 6 şi 7 şi art. IV din Ordonanţa de urgenţă a Guvernului nr. 159/2008 privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, publicată în Monitorul Oficial al României, Partea I, nr. 792 din 26 noiembrie 2008.
+Autorul excepţiei susţine că dispoziţiile de lege criticate contravin prevederilor constituţionale ale art. 1, 16, 41, 53 şi 115.
+Examinând excepţia de neconstituţionalitate, Curtea constată că, ulterior sesizării sale, prin Decizia nr. 109 din 9 februarie 2010, publicată în Monitorul Oficial al României, Partea I, nr. 175 din 18 martie 2010, a declarat neconstituţională Ordonanţa de urgenţă a Guvernului nr. 159/2008, pentru motivele acolo reţinute. Astfel, excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 6 şi 7 şi art. IV din Ordonanţa de urgenţă a Guvernului nr. 159/2008 a devenit inadmisibilă.
+Pentru motivele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 6 şi 7 şi art. IV din Ordonanţa de urgenţă a Guvernului nr. 159/2008 privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, excepţie ridicată de Crina Felicia Bondici în Dosarul nr. 1.663/33/2009 al Curţii de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 16 septembrie 2010.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, AUGUSTIN ZEGREAN Magistrat-asistent-şef, Doina Suliman --------

@@ -1,0 +1,162 @@
+{
+ "key": "dcc-1052-2010",
+ "label": "Decizia CCR nr. 1052/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1052",
+ "date": "2010-09-16",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.052 din 16 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 6 şi 7 şi art. IV din Ordonanţa de urgenţă a Guvernului nr. 159/2008 privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "661",
+  "bis": false,
+  "date": "2010-09-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.663/33/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 159/2008",
+    "number": "159",
+    "year": "2008",
+    "path": "oug/2008/159"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 6 şi 7 şi art. IV din Ordonanţa de urgenţă a Guvernului nr. 159/2008 privind modificarea şi completarea Legii nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, excepţie ridicată de Crina Felicia Bondici în Dosarul nr. 1.663/33/2009 al Curţii de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 159/2008",
+    "number": "159",
+    "year": "2008",
+    "path": "oug/2008/159"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-09-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/122390",
+  "text_sha256": "070ba37eeaadb1fe0b2da43d1e8afb45fa26b0ebef370063662f0099c2614df7",
+  "catalogue_sha256": "070ba37eeaadb1fe0b2da43d1e8afb45fa26b0ebef370063662f0099c2614df7",
+  "fetched": "2026-11-03T04:36:15Z",
+  "chars": 5629,
+  "portal_id": "122390",
+  "tip": "DECIZIE"
+ }
+}
