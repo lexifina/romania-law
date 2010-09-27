@@ -1,0 +1,28 @@
+# DECIZIE nr. 1.061 din 16 septembrie 2010
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 32 alin. (2) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor
+Augustin Zegrean - preşedinte Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Iulia Antoanella Motoc - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Doina Suliman - magistrat-asistent-şef Cu participarea reprezentantului Ministerului Public, procuror Antonia Constantin.
+Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 32 alin. (2) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, excepţie ridicată de Societatea Comercială "Odovitis" - S.R.L. Jariştea în Dosarul nr. 8.635/231/2009 al Judecătoriei Focşani.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Cauza este în stare de judecată.
+Preşedintele acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere a excepţiei de neconstituţionalitate ca fiind neîntemeiată.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 21 noiembrie 2009, pronunţată în Dosarul nr. 8.635/231/2009, Judecătoria Focşani a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 32 alin. (2) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor.
+Excepţia a fost ridicată de Societatea Comercială "Odovitis" S.R.L. Jariştea.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că dispoziţiile art. 32 alin. (2) din Ordonanţa Guvernului nr. 2/2001 contravin prevederilor constituţionale ale art. 21 alin. (1) şi (4), deoarece alin. (1) al aceluiaşi articol a fost declarat neconstituţional prin Decizia Curţii Constituţionale nr. 953/2006, publicată în Monitorul Oficial al României, Partea I, nr. 53 din 23 ianuarie 2007.
+Instanţa de judecată apreciază că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Guvernul consideră că excepţia de neconstituţionalitate este inadmisibilă.
+Preşedinţii celor două Camere ale Parlamentului şi Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Guvernului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie art. 32 alin. (2) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, publicată în Monitorul Oficial al României, Partea I, nr. 410 din 25 iulie 2001, având următorul cuprins:
+"(2) Plângerea împreună cu dosarul cauzei se trimit de îndată judecătoriei în a cărei circumscripţie a fost săvârşită contravenţia." În susţinerea neconstituţionalităţii acestui text de lege autorul excepţiei invocă încălcarea prevederilor art. 21 alin. (1) şi (4) privind accesul liber la justiţie.
+Examinând excepţia de neconstituţionalitate, Curtea reţine că art. 32 alin. (2) din Ordonanţa Guvernului nr. 2/2001 stabileşte competenţa teritorială în soluţionarea, în primă instanţă, a plângerilor contravenţionale, fiind norme procedurale care ţin de opţiunea legiuitorului, exercitată în conformitate cu art. 126 alin. (2) din Legea fundamentală.
+De altfel, prin numeroase decizii, precum Decizia nr. 81 din 8 februarie 2007, publicată în Monitorul Oficial al României, Partea I, nr. 160 din 7 martie 2007, Curtea Constituţională a statuat că art. 32 alin. (2) din Ordonanţa Guvernului nr. 2/2001 reprezintă o aplicare a principiului specialia generalibus derogant, în sensul competenţei atribuite de art. 126 alin. (2) din Constituţie legiuitorului. Acesta poate institui, pentru situaţii deosebite, reguli speciale în ceea ce priveşte stabilirea competenţei instanţelor de judecată şi a procedurii de judecată.
+Or, în cauza de faţă este criticată dispoziţia de lege ce reglementează regimul juridic al contravenţiilor, procedura aplicabilă fiind una specială, derogatorie de la normele dreptului comun.
+Soluţia adoptată şi considerentele deciziei citate sunt valabile şi în prezenta cauză, întrucât nu au apărut elemente noi, de natură a determina reconsiderarea jurisprudenţei Curţii Constituţionale.
+Pentru motivele expuse mai sus, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A. d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 32 alin. (2) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, excepţie ridicată de Societatea Comercială "Odovitis" - S.R.L. Jariştea în Dosarul nr. 8.635/231/2009 al Judecătoriei Focşani.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 16 septembrie 2010.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, AUGUSTIN ZEGREAN Magistrat-asistent-şef, Doina Suliman -------
