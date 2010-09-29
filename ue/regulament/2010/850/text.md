@@ -1,0 +1,79 @@
+REGULAMENTUL (UE) NR. 850/2010 AL COMISIEI
+din 27 septembrie 2010
+de deschidere a unei reexaminări în ceea ce privește un nou exportator a Regulamentului (CE) nr. 1659/2005 al Consiliului de instituire a unei taxe antidumping definitive la importurile de anumite cărămizi de magnezie originare din Republica Populară Chineză, de abrogare a taxei cu privire la importurile care provin de la un exportator din această țară și de impunere a obligativității de înregistrare a acestor importuri
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1225/2009 al Consiliului din 30 noiembrie 2009 privind protecția împotriva importurilor care fac obiectul unui dumping din partea țărilor care nu sunt membre ale Comunității Europene (1) (denumit în continuare „regulament de bază”), în special articolul 11 alineatul (4),
+după consultarea Comitetului consultativ,
+întrucât:
+A. CEREREA DE REEXAMINARE
+(1) Comisia a primit o cerere de reexaminare pentru un nou exportator, în conformitate cu articolul 11 alineatul (4) din regulamentul de bază. Cererea a fost depusă de TRL China Ltd (denumit în continuare „solicitantul”), producător-exportator din Republica Populară Chineză (denumită în continuare „țara în cauză”).
+B. PRODUSUL
+(2) Produsele reexaminate sunt cărămizi de magnezie legate chimic, nearse, compuse din magnezie, cu un conținut de MgO de cel puțin 80 %, conținând sau nu magnezit, originare din Republica Populară Chineză (denumite în continuare „produsele în cauză”), clasificate în prezent cu codurile NC ex 6815 91 00 , ex 6815 99 10 și ex 6815 99 90 (codurile TARIC 6815 91 00 10, 6815 99 10 20 și 6815 99 90 20).
+C. MĂSURILE EXISTENTE
+(3) Măsurile care sunt în prezent în vigoare se prezintă sub forma unei taxe antidumping definitive instituite prin Regulamentul (CE) nr. 1659/2005 al Consiliului (2), care prevede că importurile în Uniune de produs în cauză originar din Republica Populară Chineză, inclusiv produsul în cauză fabricat de solicitant, se supun unei taxe antidumping definitive de 39,9 %, cu excepția anumitor societăți desemnate în mod expres și care se supun unor niveluri de taxe individuale.
+D. MOTIVELE REEXAMINĂRII
+(4) Solicitantul susține că își desfășoară activitatea în condiții de economie de piață, astfel cum sunt definite la articolul 2 alineatul (7) litera (c) din regulamentul de bază sau, în mod alternativ, solicită tratament individual în conformitate cu articolul 9 alineatul (5) din regulamentul de bază. Solicitantul susține, în plus, că nu a exportat produsul în cauză în Uniune în cursul perioadei de anchetă pe care s-au bazat măsurile antidumping, cuprinsă între 1 aprilie 2003 și 31 martie 2004 (denumită în continuare „perioada anchetei inițiale”) și că nu este afiliat niciunui producător-exportator al produsului care face obiectul măsurilor antidumping sus-menționate.
+(5) Solicitantul afirmă, de asemenea, că a început să exporte produsul în cauză în Uniune după perioada de anchetă inițială.
+E. PROCEDURA
+(6) Producătorii din Uniune cunoscuți ca fiind vizați au fost informați cu privire la cererea de mai sus și au avut ocazia de a formula observații.
+(7) În urma examinării elementelor de probă disponibile, Comisia concluzionează că acestea sunt suficiente pentru a justifica deschiderea unei reexaminări în ceea ce privește un nou exportator, în conformitate cu articolul 11 alineatul (4) din regulamentul de bază. La primirea cererii menționate în continuare la considerentul 13, se va stabili dacă solicitantul funcționează sau nu în condițiile unei economii de piață, astfel cum au fost definite la articolul 2 alineatul (7) litera (c) din regulamentul de bază, sau, ca alternativă, dacă acesta îndeplinește condițiile necesare pentru a beneficia de o taxă individuală, calculată în conformitate cu articolul 9 alineatul (5) din regulamentul de bază. În acest caz, se calculează marja de dumping individuală a solicitantului și, în cazul în care se constată existența unui dumping, se stabilește nivelul taxei la care ar trebui supuse importurile în Uniune ale produsului în cauză.
+(8) În cazul în care se stabilește că solicitantul întrunește condițiile pentru a i se stabili o taxă individuală, este posibil să fie necesară modificarea nivelului taxei la care sunt supuse în prezent importurile de produs în cauză provenite de la societăți care nu sunt menționate în mod individual la articolul 1 alineatul (2) din Regulamentul (CE) nr. 1659/2005.
+(a) Chestionare
+(9) În vederea obținerii informațiilor pe care le consideră necesare pentru anchetă, Comisia va trimite un chestionar solicitantului.
+(b) Colectarea informațiilor și desfășurarea audierilor
+(10) Toate părțile interesate sunt invitate să-și prezinte în scris punctele de vedere și să aducă elemente de probă pentru susținerea acestora.
+(11) De asemenea, Comisia poate audia părțile interesate, cu condiția ca acestea să prezinte o solicitare scrisă din care să reiasă că au motive speciale pentru care ar trebui să fie audiate.
+(12) Se atrage atenția asupra faptului că exercitarea celor mai multe dintre drepturile procedurale prevăzute de regulamentul de bază depinde de manifestarea părților în termenul stabilit prin prezentul regulament.
+(c) Tratament rezervat societăților care funcționează în condițiile economiei de piață/tratament individual
+(13) În cazul în care solicitantul aduce elemente de probă suficiente care să demonstreze că funcționează în condițiile unei economii de piață, respectiv că îndeplinește criteriile stabilite la articolul 2 alineatul (7) litera (c) din regulamentul de bază, valoarea normală se va stabili în conformitate cu articolul 2 alineatul (7) litera (b) din regulamentul de bază. În acest sens, trebuie prezentate cereri argumentate corespunzător în termenul specific precizat la articolul 4 alineatul (3) din prezentul regulament. Comisia va trimite formulare de cerere atât solicitantului, cât și autorităților Republicii Populare Chineze. Acest formular de cerere poate fi, de asemenea, folosit de către solicitant pentru a cere tratament individual, în cazul în care îndeplinește criteriile prevăzute la articolul 9 alineatul (5) din regulamentul de bază.
+(d) Alegerea țării cu economie de piață
+(14) În cazul în care solicitantului nu i se acordă statutul de societate care funcționează conform principiilor economiei de piață, însă întrunește condițiile necesare pentru a beneficia de o taxă individuală stabilită în conformitate cu articolul 9 alineatul (5) din regulamentul de bază, se va utiliza o țară adecvată cu economie de piață în vederea stabilirii valorii normale pentru Republica Populară Chineză, în conformitate cu articolul 2 alineatul (7) litera (a) din regulamentul de bază. Comisia intenționează să folosească din nou Statele Unite ale Americii în acest scop, la fel ca și în cazul anchetei care a dus la instituirea măsurilor privind importurile de produs în cauză originar din Republica Populară Chineză. Părțile interesate sunt invitate să prezinte observații privind oportunitatea acestei alegeri în termenul specific prevăzut la articolul 4 alineatul (2) din prezentul regulament.
+(15) De asemenea, în cazul în care solicitantului i se acordă statutul de societate care funcționează în condițiile unei economii de piață, Comisia poate, după caz, să recurgă la concluziile privind valoarea normală stabilită într-o țară cu economie de piață corespunzătoare, de exemplu, pentru a înlocui orice elemente de costuri sau prețuri nefiabile chinezești necesare pentru stabilirea valorii normale, dacă datele fiabile necesare nu sunt disponibile în Republica Populară Chineză. Comisia intenționează să folosească Statele Unite ale Americii și în acest scop.
+F. ABROGAREA TAXEI ÎN VIGOARE ȘI ÎNREGISTRAREA IMPORTURILOR
+(16) În conformitate cu articolul 11 alineatul (4) din regulamentul de bază, taxa antidumping în vigoare privind importurile produselor în cauză fabricate și vândute la export în Uniune de către solicitant ar trebui abrogată. În același timp, importurile în cauză ar trebui înregistrate în conformitate cu articolul 14 alineatul (5) din regulamentul de bază, astfel încât, în cazul în care reexaminarea constată existența unui dumping pentru solicitant, taxele antidumping să poată fi percepute retroactiv de la data de deschidere a prezentei reexaminări. Valoarea unei eventuale taxe care ar putea fi impusă în viitor solicitantului nu poate fi estimată în acest stadiu al procedurii.
+G. TERMENE-LIMITĂ
+(17) În interesul unei bune administrări, ar trebui precizate termenele în care:
+— părțile interesate pot să se facă cunoscute Comisiei, să își expună punctul de vedere în scris, să răspundă la chestionarele menționate în considerentul 8 litera (a) din prezentul regulament sau să prezinte orice alte informații de luat în considerare în timpul anchetei;
+— părțile interesate pot să solicite în scris audierea lor de către Comisie;
+— părțile interesate pot să își prezinte observațiile privind oportunitatea alegerii Statelor Unite ale Americii care, în cazul în care solicitantului nu i se acordă tratamentul de societate care funcționează în condițiile unei economii de piață, sunt propuse ca țară cu economie de piață în vederea stabilirii valorii normale în ceea ce privește Republica Populară Chineză;
+— solicitantul ar trebui să prezinte o cerere argumentată corespunzător pentru acordarea statutului de societate care funcționează în condițiile unei economii de piață.
+H. LIPSA COOPERĂRII
+(18) În cazul în care o parte interesată nu permite accesul la informațiile necesare, nu le furnizează în termenele prevăzute sau obstrucționează în mod semnificativ ancheta, se pot stabili concluzii pozitive sau negative pe baza datelor disponibile în conformitate cu articolul 18 din regulamentul de bază.
+(19) În cazul în care se constată că o parte interesată a furnizat informații false sau înșelătoare, acestea nu sunt luate în considerare și se pot utiliza datele disponibile, în conformitate cu articolul 18 din regulamentul de bază. Dacă o parte interesată nu cooperează sau cooperează doar parțial și, în consecință, concluziile sunt stabilite în baza datelor disponibile, în conformitate cu articolul 18 din regulamentul de bază, rezultatul anchetei poate fi mai puțin favorabil acelei părți decât dacă aceasta ar fi cooperat.
+I. PRELUCRAREA DATELOR CU CARACTER PERSONAL
+(20) Se remarcă faptul că toate datele cu caracter personal colectate pe parcursul prezentei anchete vor fi tratate în conformitate cu Regulamentul (CE) nr. 45/2001 al Parlamentului European și al Consiliului din 18 decembrie 2000 privind protecția persoanelor fizice cu privire la prelucrarea datelor cu caracter personal de către instituțiile și organele comunitare și privind libera circulație a acestor date (3).
+J. CONSILIERUL-AUDITOR
+(21) Se remarcă faptul că, în cazul în care părțile interesate consideră că întâmpină dificultăți în exercitarea dreptului lor la apărare, acestea pot solicita intervenția consilierului-auditor din cadrul Direcției Generale Comerț. Acesta acționează în calitate de intermediar între părțile interesate și serviciile Comisiei, oferind, acolo unde este necesar, mediere privind aspectele de procedură care aduc atingere apărării intereselor părților respective în cadrul prezentei proceduri, în special cu privire la aspecte legate de accesul la dosar, confidențialitate, prelungirea termenelor și examinarea opiniilor exprimate în scris și/sau oral. Pentru mai multe informații și detalii de contact, părțile interesate sunt rugate să consulte paginile de internet de pe site-ul Direcției Generale Comerț dedicate consilierului-auditor (http://ec.europa.eu/trade),
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Se deschide reexaminarea Regulamentului (CE) nr. 1659/2005, în conformitate cu articolul 11 alineatul (4) din Regulamentul (CE) nr. 1225/2009, în vederea determinării dacă și în ce măsură importurile de cărămizi de magnezie legate chimic, nearse, compuse din magnezie cu un conținut de MgO de cel puțin 80 %, conținând sau nu magnezit, încadrate în prezent la codurile NC ex 6815 91 00 , ex 6815 99 10 și ex 6815 99 90 (codurile TARIC 6815 91 00 10, 6815 99 10 20 și 6815 99 90 20), originare din Republica Populară Chineză, produse și vândute la export în Uniune de către TRL China Ltd (cod adițional TARIC A985), trebuie supuse taxelor antidumping instituite prin Regulamentul (CE) nr. 1659/2005.
+Articolul 2
+Taxele antidumping instituite prin Regulamentul (CE) nr. 1659/2005 se abrogă în cazul importurilor menționate la articolul 1 din prezentul regulament.
+Articolul 3
+În conformitate cu articolul 14 alineatul (5) din Regulamentul (CE) nr. 1225/2009, se dispune ca autoritățile vamale să ia măsurile necesare pentru înregistrarea importurilor menționate la articolul 1 din prezentul regulament. Înregistrarea expiră după nouă luni de la data intrării în vigoare a prezentului regulament.
+Articolul 4
+(1) Pentru ca afirmațiile părților interesate să poată fi luate în considerare în cursul anchetei, acestea trebuie să se facă cunoscute Comisiei, să își expună în scris punctul de vedere și să prezinte răspunsurile la chestionarul menționat în considerentul 8 litera (a) din prezentul regulament sau orice alte informații, în lipsa unor dispoziții contrare, în termen de 37 de zile de la data intrării în vigoare a prezentului regulament.
+Părțile interesate pot, de asemenea, să solicite în scris audierea de către Comisie în același termen de 37 de zile.
+(2) Părțile participante la anchetă care doresc să prezinte observații cu privire la alegerea Statelor Unite ale Americii ca țară terță cu economie de piață adecvată în scopul stabilirii valorii normale pentru Republica Populară Chineză trebuie să prezinte aceste observații în termen de 10 zile de la intrarea în vigoare a prezentului regulament.
+(3) O cerere argumentată corespunzător pentru acordarea statutului de societate care funcționează în condițiile unei economii de piață trebuie să fie primită de către Comisie în termen de 15 zile de la intrarea în vigoare a prezentului regulament.
+(4) Toate observațiile și cererile părților interesate trebuie prezentate în scris (nu în format electronic, cu excepția cazului în care se prevede altfel) și trebuie să includă numele, adresa, adresa de e-mail, numerele de telefon și de fax ale părții interesate. Toate observațiile în scris, inclusiv informațiile cerute prin prezentul regulament, răspunsurile la chestionare și corespondența părților interesate, furnizate cu titlu confidențial, vor purta mențiunea „Acces limitat” (4) și, în conformitate cu articolul 19 alineatul (2) din Regulamentul (CE) nr. 1225/2009, vor fi însoțite de o versiune neconfidențială, care va purta mențiunea „Versiune destinată consultării de către părțile interesate”.
+Orice informație în această privință și/sau orice cerere de audiere se vor expedia la următoarea adresă:
+Comisia Europeană
+Direcția Generală Comerț
+Directoratul H
+Biroul: N105 4/92
+1049 Bruxelles
+BELGIA
+Fax +32 22956505
+Articolul 5
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 27 septembrie 2010.
+Pentru Comisie
+Președintele
+José Manuel BARROSO
+(1) JO L 343, 22.12.2009, p. 51.
+(2) JO L 267, 12.10.2005, p. 1.
+(3) JO L 8, 12.1.2001, p. 1.
+(4) Aceasta înseamnă că documentul este destinat exclusiv utilizării interne. Documentul este protejat în conformitate cu articolul 4 din Regulamentul (CE) nr. 1049/2001 al Parlamentului European și al Consiliului (JO L 145, 31.5.2001, p. 43). Este un document confidențial, în temeiul articolului 19 din Regulamentul (CE) nr. 1225/2009 și al articolului 6 din Acordul OMC privind punerea în aplicare a articolului VI din GATT 1994 (Acordul antidumping).
