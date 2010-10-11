@@ -1,0 +1,177 @@
+{
+ "key": "cedo-78039-01-2010-03-02",
+ "label": "CEDO, Grosaru c. României, 2010-03-02",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2010-03-02",
+ "year": "2010",
+ "heading": "HOTĂRÂRE din 2 martie 2010",
+ "subtitle": "în Cauza Grosaru împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "686",
+  "bis": false,
+  "date": "2010-10-11",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "78039/01"
+ ],
+ "case_name": "Grosaru",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "a constatat încălcarea art. 3. În ceea ce priveşte încălcarea art. 13 coroborat cu art. 3 din Protocolul nr. 1, aceasta a făcut trimitere la concluziile sale referitoare la lipsa unui control jurisdicţional (vezi paragraful 62 din hotărâre). 3. Trebuie menţionat faptul că, până la această hotărâre, Curtea analiza din perspectiva art. 3 din Protocolul nr. 1 funcţionarea recursurilor referitoare la susţineri pe probleme electorale (vezi Podkolzina împotriva Letoniei, nr. 46.726/99, § 37, CEDO 2002-II). În Cauza Podkolzina, aceasta a considerat că nu era necesar să analizeze separat lipsa unui recurs efectiv din punctul de vedere al art. 13 (ibidem, § 45). Cauza de faţă marchează aşadar o cotitură în jurisprudenţa sa, cotitură la care subscriu. 4. Rămâne adevărat faptul că problematica ridicată în speţă este aceea a naturii şi a amplorii obligaţiilor ce decurg din art. 13, în limita relevanţei acestor elemente pentru analiza cauzei de faţă. Cu alte cuvinte, trebuie să ne întrebăm care sunt recursurile efective care ar trebui să existe pentru analiza alegaţiilor privind încălcarea dreptului la alegeri libere. Până în prezent, Curtea a desprins în jurisprudenţa sa mai multe elemente care precizează noţiunea de recurs efectiv în sensul art. 13. De asemenea, aceasta a admis că, pentru ca recursul să fie efectiv, nu era necesar să fie judiciar sau să fie suficient sieşi: o serie de recursuri privite în ansamblul lor pot răspunde cerinţei de efectivitate. În plus, efectivitatea, aşa cum o interpretează Curtea, constă atât în împiedicarea apariţiei sau perpetuării încălcării pretinse, cât şi în oferirea unui remediu adecvat victimei încălcării, de exemplu sub forma unei despăgubiri, pentru orice încălcare deja produsă (vezi Kudla împotriva Poloniei [MC], nr. 30.210/96, § 158, CEDO 2000-XI). 5. În speţă, reclamantul susţinea, în temeiul art. 13, că niciun recurs nu îi permitea să îşi recupereze locul în Parlament; la rândul său, Guvernul argumenta că compunerea Biroului Electoral Central respecta cerinţele obligatorii pentru ca recursurile în faţa sa să fie considerate efective. Or, întrucât Curtea a făcut trimitere la concluzia sa referitoare la lipsa unui control jurisdicţional, aceasta nu a dezvoltat nici pornind de la observaţiile părţilor, nici din propria iniţiativă noţiunea de efectivitate a recursurilor în cazuri precum cel al reclamantului. Observ în această privinţă faptul că Codul bunelor practici în materie electorală adoptat în 2002 de Comisia de la Veneţia a Consiliului Europei admite că un recurs poate fi efectiv nu numai atunci când este analizat de instanţe, ci şi atunci când este examinat de comisii electorale (vezi paragraful 93 din cod, citat la paragraful 22 din hotărâre). Consider că, limitându-se la a face trimitere la lipsa de control jurisdicţional disponibil pentru părţile interesate în general şi pentru reclamant în particular, Curtea nu a răspuns la întrebarea ridicată din perspectiva art. 13, şi anume cea a existenţei unui ansamblu eficient de instituţii şi proceduri care i-ar fi permis reclamantului să conteste în fond privarea de mandat a cărui victimă se considera şi să ceară o reparaţie adecvată. ___________"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 68/1992",
+    "number": "68",
+    "year": "1992",
+    "path": "lege/1992/68"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 165/2000",
+    "number": "165",
+    "year": "2000",
+    "path": "oug/2000/165"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/122685",
+  "text_sha256": "f37132636b22ca1130709932183bf211ea623d3393a9008520a33eec37a18bfa",
+  "catalogue_sha256": "f37132636b22ca1130709932183bf211ea623d3393a9008520a33eec37a18bfa",
+  "fetched": "2026-11-03T04:35:59Z",
+  "chars": 66490,
+  "portal_id": "122685",
+  "tip": "HOTĂRÂRE"
+ }
+}
