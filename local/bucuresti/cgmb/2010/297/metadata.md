@@ -1,0 +1,11 @@
+# HCGMB nr. 297/2010
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 297/2010
+- Adopted: 2010-10-29
+- Title: PRIVIND APROBAREA ACTULUI ADITIONAL LA ACORDUL DE ASOCIERE INCHEIAT INTRE DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI SI ASOCIATIA ANANDA MARGA UNIVERSAL RELIEF TEAM (AMURT) IN VEDEREA IMPLEMENTARII PROIECTULUI "CENTRUL MULTIFUNCTIONAL DE TRANZITIE PENTRU PERSOANE AFLATE IN SITUATII DE URGENTA SI TINERI FARA ADAPOST CU VARSTA INTRE 18-26 ANI", APROBAT PRIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 307/2009 COMPLETEAZA HCGMB NR. 307/2009
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27679
+- Document: https://doc.pmb.ro/legis/acteinterne/2010/27679/H297_10.pdf
+- Document sha256: ac76fbd35b2b2e34c0a66e1b0767459c575e6ba4541bed825d59f9b0e2f73ed9
