@@ -1,0 +1,3 @@
+# Anexa 1
+Anexa nr. 1 la normă se modifică și se înlocuiește cu anexa nr. 1 , care face parte integrantă din prezenta normă. ...
+20.
