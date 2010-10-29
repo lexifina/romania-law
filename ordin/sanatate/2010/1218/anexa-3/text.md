@@ -1,0 +1,2 @@
+# Anexa 1.2
+Programul Național de tratament al psoriazisului vulgar Comisia pentru aprobarea tratamentului psoriazisului cu agenti biologici - Din partea CNAS Spitalul Clinic Elias - Prof. Dr. Călin Giurcăneanu Spitalul Clinic Colentina Prof. Dr. George Sorin Țiplica Dr. Maria Magdalena Constantin - Din partea OPSNAJ Centrul de Diagnostic și Tratament "Roma" - Dr. Alin Nicolescu - Din partea CNAS Secretar Comisie Dr. Dan Moraru
