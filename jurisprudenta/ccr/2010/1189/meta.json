@@ -1,0 +1,158 @@
+{
+ "key": "dcc-1189-2010",
+ "label": "Decizia CCR nr. 1189/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1189",
+ "date": "2010-09-30",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.189 din 30 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 75 lit. f) din Ordonanţa de urgenţă a Guvernului nr. 105/2001 privind frontiera de stat a României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "723",
+  "bis": false,
+  "date": "2010-10-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.003/236/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 105/2001",
+    "number": "105",
+    "year": "2001",
+    "path": "oug/2001/105"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 75 lit. f) din Ordonanţa de urgenţă a Guvernului nr. 105/2001 privind frontiera de stat a României, excepţie ridicată de Andrei Marin Viorel în Dosarul nr. 9.003/236/2009 al Judecătoriei Giurgiu.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 105/2001",
+    "number": "105",
+    "year": "2001",
+    "path": "oug/2001/105"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123109",
+  "text_sha256": "3c9bcab87b5b6acbad3125bc9c378ebfe7e1cce50fcc35a07fba6b7dafcb2f63",
+  "catalogue_sha256": "3c9bcab87b5b6acbad3125bc9c378ebfe7e1cce50fcc35a07fba6b7dafcb2f63",
+  "fetched": "2026-11-03T04:34:59Z",
+  "chars": 8984,
+  "portal_id": "123109",
+  "tip": "DECIZIE"
+ }
+}
