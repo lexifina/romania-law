@@ -1,0 +1,194 @@
+{
+ "key": "dcc-1171-2010",
+ "label": "Decizia CCR nr. 1171/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1171",
+ "date": "2010-09-30",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.171 din 30 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "723",
+  "bis": false,
+  "date": "2010-10-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7.417/333/2009",
+  "22.134/299/2009",
+  "72D/2010",
+  "59D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a art. 1 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar, excepţie ridicată de Laura Monica Bălan în Dosarul nr. 7.417/333/2009 al Judecătoriei Vaslui şi de Peter Fodor, Silvia Gheorghe, Gabriela Ionela Tapu (fostă Crăciun), Laura Sîrboiu, Ioana Lazăr (fostă Nicolae), Camelia Vasilica Manea (fostă Manolache), Dorina Guresoe, Lenuţa Constantin, Florentina Oprea, Alice Laura Pescaru, Iulia Neamţu, Andreea Mihaela Bîrlea, Bogdan Gabriel Ioniţă, Mariana Afrasinei, Corina Oancea, Florina Luchian, Florenţa Frâncu, Alina Violeta Diaconescu (fostă Vlaicu), Sanda Blaj, Simona Alina Iuriciuc, Elena Georgeta Bădiţă şi Vasile Marius Badea în Dosarul nr. 22.134/299/2009 al Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123107",
+  "text_sha256": "6b07d5187a1d390014a15076eafd18dc9b7ee9e014984009db3b7207125275b4",
+  "catalogue_sha256": "6b07d5187a1d390014a15076eafd18dc9b7ee9e014984009db3b7207125275b4",
+  "fetched": "2026-11-03T04:35:05Z",
+  "chars": 9015,
+  "portal_id": "123107",
+  "tip": "DECIZIE"
+ }
+}
