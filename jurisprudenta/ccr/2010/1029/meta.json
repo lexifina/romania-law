@@ -1,0 +1,178 @@
+{
+ "key": "dcc-1029-2010",
+ "label": "Decizia CCR nr. 1029/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1029",
+ "date": "2010-09-14",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.029 din 14 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 139 alin. (2) lit. b) din Legea nr. 8/1996 privind dreptul de autor şi drepturile conexe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "727",
+  "bis": false,
+  "date": "2010-11-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "20.022/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 139 alin. (2) lit. b) din Legea nr. 8/1996 privind dreptul de autor şi drepturile conexe, excepţie ridicată de Societatea Comercială \"Synco Telecom\" - S.R.L. din Bucureşti în Dosarul nr. 20.022/3/2008 al Curţii de Apel Bucureşti - Secţia a IX-a civilă şi pentru cauze privind proprietatea intelectuală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 123/2005",
+    "number": "123",
+    "year": "2005",
+    "path": "oug/2005/123"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123158",
+  "text_sha256": "ffb4496705f6f8184270918c27d22bd9469982b912c5f7a4e5ff029478a97276",
+  "catalogue_sha256": "ffb4496705f6f8184270918c27d22bd9469982b912c5f7a4e5ff029478a97276",
+  "fetched": "2026-11-03T04:34:47Z",
+  "chars": 9435,
+  "portal_id": "123158",
+  "tip": "DECIZIE"
+ }
+}
