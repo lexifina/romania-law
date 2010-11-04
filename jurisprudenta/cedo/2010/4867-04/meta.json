@@ -1,0 +1,126 @@
+{
+ "key": "cedo-4867-04-2010-01-19",
+ "label": "CEDO, Andreescu Murăreţ şi alţii c. României, 2010-01-19",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2010-01-19",
+ "year": "2010",
+ "heading": "HOTĂRÂRE din 19 ianuarie 2010",
+ "subtitle": "în Cauza Andreescu Murăreţ şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "738",
+  "bis": false,
+  "date": "2010-11-04",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "4867/04"
+ ],
+ "case_name": "Andreescu Murăreţ şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte",
+  "a) ca statul pârât să le plătească împreună reclamanţilor, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, suma de 71.000 EUR (şaptezeci şi una mii euro), pentru toate prejudiciile confundate, sumă ce va fi convertită în moneda statului pârât la cursul de schimb valabil la data plăţii, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să fie majorate cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123282",
+  "text_sha256": "f293dc32bec08594da04aa800dfd574b2f5e6147013550ffd999c7d3867dde1f",
+  "catalogue_sha256": "f293dc32bec08594da04aa800dfd574b2f5e6147013550ffd999c7d3867dde1f",
+  "fetched": "2026-11-03T04:34:37Z",
+  "chars": 14192,
+  "portal_id": "123282",
+  "tip": "HOTĂRÂRE"
+ }
+}
