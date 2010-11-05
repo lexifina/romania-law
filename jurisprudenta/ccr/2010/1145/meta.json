@@ -1,0 +1,174 @@
+{
+ "key": "dcc-1145-2010",
+ "label": "Decizia CCR nr. 1145/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1145",
+ "date": "2010-09-28",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.145 din 28 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 148/2005 privind susţinerea familiei în vederea creşterii copilului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "742",
+  "bis": false,
+  "date": "2010-11-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "41.936/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 148/2005",
+    "number": "148",
+    "year": "2005",
+    "path": "oug/2005/148"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 148/2005 privind susţinerea familiei în vederea creşterii copilului, excepţie ridicată de Elena Nica în Dosarul nr. 41.936/3/2008 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 148/2005",
+    "number": "148",
+    "year": "2005",
+    "path": "oug/2005/148"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/2007",
+    "number": "7",
+    "year": "2007",
+    "path": "lege/2007/7"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 239/2009",
+    "number": "239",
+    "year": "2009",
+    "path": "lege/2009/239"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123323",
+  "text_sha256": "955aca666f60b6154566a18c8e1dc149a47beda9e0838f21ef9d54ced80a84f0",
+  "catalogue_sha256": "955aca666f60b6154566a18c8e1dc149a47beda9e0838f21ef9d54ced80a84f0",
+  "fetched": "2026-11-03T04:34:34Z",
+  "chars": 10056,
+  "portal_id": "123323",
+  "tip": "DECIZIE"
+ }
+}
