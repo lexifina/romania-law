@@ -1,0 +1,144 @@
+{
+ "key": "dcc-1023-2010",
+ "label": "Decizia CCR nr. 1023/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1023",
+ "date": "2010-09-14",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.023 din 14 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 63 din Legea nr. 273/2004 privind regimul juridic al adopţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "739",
+  "bis": false,
+  "date": "2010-11-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.524/63/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 63 din Legea nr. 273/2004 privind regimul juridic al adopţiei, excepţie ridicată de Nicolae Guguştea în Dosarul nr. 8.524/63/2009 al Tribunalului Dolj - Secţia pentru minori şi familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123315",
+  "text_sha256": "150457d9801284d436952483304881933d7e7da16d96ed1c7e82f6980f23f98e",
+  "catalogue_sha256": "150457d9801284d436952483304881933d7e7da16d96ed1c7e82f6980f23f98e",
+  "fetched": "2026-11-03T04:34:35Z",
+  "chars": 9209,
+  "portal_id": "123315",
+  "tip": "DECIZIE"
+ }
+}
