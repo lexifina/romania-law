@@ -1,0 +1,175 @@
+{
+ "key": "dcc-1291-2010",
+ "label": "Decizia CCR nr. 1291/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1291",
+ "date": "2010-10-14",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.291 din 14 octombrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (2) din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "743",
+  "bis": false,
+  "date": "2010-11-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "16.798/302/2009",
+  "16.807/302/2009",
+  "16.801/302/2009",
+  "16.797/302/2009",
+  "15.216/302/2009",
+  "1.059/302/2010",
+  "1.061/302/2010",
+  "430D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (2) din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal, excepţie ridicată de Ionuţ Stoian în Dosarul nr. 16.798/302/2009, de Gheorghe Laurenţiu Bălănescu în Dosarul nr. 16.807/302/2009, de Gheorghe Ştefan Marian în Dosarul nr. 16.801/302/2009, de Radu Marian în Dosarul nr. 16.797/302/2009, de Constantin Mogoşanu în Dosarul nr. 15.216/302/2009, de Cătălin Virgil Ciuparu în Dosarul nr. 1.059/302/2010 şi de Andrei Cătălin Valeriu în Dosarul nr. 1.061/302/2010 ale Judecătoriei Sectorului 5 Bucureşti - Secţia I penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123342",
+  "text_sha256": "f00ffd8b7b19d5646ddb954ead41c4b63c1fe65ee57d27b50b3ceb4c73d6dcd3",
+  "catalogue_sha256": "f00ffd8b7b19d5646ddb954ead41c4b63c1fe65ee57d27b50b3ceb4c73d6dcd3",
+  "fetched": "2026-11-03T04:34:33Z",
+  "chars": 11843,
+  "portal_id": "123342",
+  "tip": "DECIZIE"
+ }
+}
