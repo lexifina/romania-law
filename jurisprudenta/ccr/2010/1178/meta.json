@@ -1,0 +1,172 @@
+{
+ "key": "dcc-1178-2010",
+ "label": "Decizia CCR nr. 1178/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1178",
+ "date": "2010-09-30",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.178 din 30 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 26 alin. (1) şi alin. (2) pct. 2 din Legea nr. 122/2006 privind azilul în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "745",
+  "bis": false,
+  "date": "2010-11-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.022/4/2008",
+  "354D/2010",
+  "355D/2010",
+  "8.641/4/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 26 alin. (1) şi alin. (2) pct. 2 din Legea nr. 122/2006 privind azilul în România, excepţie ridicată de Wu Yuehua şi Cao Weijun în dosarele nr. 2.022/4/2008 şi nr. 8.641/4/2008 ale Judecătoriei Sectorului 4 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123355",
+  "text_sha256": "067573dd4495a57cf426eb949a00e884dfa767ebe05c22f13e1ac4535284587e",
+  "catalogue_sha256": "067573dd4495a57cf426eb949a00e884dfa767ebe05c22f13e1ac4535284587e",
+  "fetched": "2026-11-03T04:34:31Z",
+  "chars": 12161,
+  "portal_id": "123355",
+  "tip": "DECIZIE"
+ }
+}
