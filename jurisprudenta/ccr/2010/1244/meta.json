@@ -1,0 +1,140 @@
+{
+ "key": "dcc-1244-2010",
+ "label": "Decizia CCR nr. 1244/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1244",
+ "date": "2010-10-07",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.244 din 7 octombrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 494 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "743",
+  "bis": false,
+  "date": "2010-11-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.900/63/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 494 din Codul civil, excepţie ridicată de Societatea Comercială \"Danubium Trans Com\" - S.R.L. din Craiova în Dosarul nr. 5.900/63/2008 al Curţii de Apel Craiova - Secţia comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123341",
+  "text_sha256": "e29bce3947cd442e637adb619bcd088f09ac59b2d355554fe809c18981bfc6d0",
+  "catalogue_sha256": "e29bce3947cd442e637adb619bcd088f09ac59b2d355554fe809c18981bfc6d0",
+  "fetched": "2026-11-03T04:34:33Z",
+  "chars": 8594,
+  "portal_id": "123341",
+  "tip": "DECIZIE"
+ }
+}
