@@ -1,0 +1,200 @@
+{
+ "key": "cedo-13202-03-2010-06-08",
+ "label": "CEDO, Maties c. României, 2010-06-08",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2010-06-08",
+ "year": "2010",
+ "heading": "HOTĂRÂRE din 8 iunie 2010",
+ "subtitle": "în Cauza Maties împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "752",
+  "bis": false,
+  "date": "2010-11-11",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "13202/03"
+ ],
+ "case_name": "Maties",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie referitor la imposibilitatea reclamantului de a primi o despăgubire şi inadmisibilă în rest; 2. hotărăşte că nu a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie pentru acea parte a despăgubirii pentru care reclamantul ar fi putut încasa o sumă în numerar; 3. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie pentru acea parte a despăgubirii ce trebuie convertită în acţiuni la Fondul \"Proprietatea\"; 4. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, următoarele sume, ce vor fi convertite în lei româneşti, la cursul de schimb valabil la data plăţii:",
+  "(i) 167.485 EUR (una sută şaizeci şi şapte mii patru sute optzeci şi cinci euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, pentru prejudiciul material; (îi) 4.000 EUR (patru mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, pentru prejudiciul moral; (iii) 50 EUR (cincizeci euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit de către reclamant, pentru cheltuielile de judecată;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 180/2000",
+    "number": "180",
+    "year": "2000",
+    "path": "hg/2000/180"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 81/2007",
+    "number": "81",
+    "year": "2007",
+    "path": "oug/2007/81"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 128/2008",
+    "number": "128",
+    "year": "2008",
+    "path": "hg/2008/128"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123500",
+  "text_sha256": "359dff827b2114dcd1a9beec7b21953b6307b24cf239e87d97335e4dd65b531d",
+  "catalogue_sha256": "359dff827b2114dcd1a9beec7b21953b6307b24cf239e87d97335e4dd65b531d",
+  "fetched": "2026-11-03T04:34:25Z",
+  "chars": 26013,
+  "portal_id": "123500",
+  "tip": "HOTĂRÂRE"
+ }
+}
