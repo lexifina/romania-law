@@ -1,0 +1,211 @@
+{
+ "key": "dcc-1431-2010",
+ "label": "Decizia CCR nr. 1431/2010",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "1431",
+ "date": "2010-11-03",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.431 din 3 noiembrie 2010",
+ "subtitle": "asupra cererii de soluţionare a conflictului juridic de natură constituţională dintre Parlamentul României şi Guvern, formulată de Preşedintele Senatului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "758",
+  "bis": false,
+  "date": "2010-11-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "Constată că angajarea răspunderii de către Guvern în faţa Camerei Deputaţilor şi a Senatului, în temeiul art. 114 alin. (1) din Constituţie, asupra proiectului Legii educaţiei naţionale este neconstituţională şi a declanşat un conflict juridic de natură constituţională între Guvern şi Parlament, întrucât proiectul de lege se află în proces de legiferare la Senat, în calitate de Cameră decizională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Parlamentului României şi Guvernului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e",
+      "e"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e",
+      "a"
+     ]
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123544",
+  "text_sha256": "c3e9cc0d96f179e41b31d5c49862bcce9888040c98151448527ff2740bac7298",
+  "catalogue_sha256": "c3e9cc0d96f179e41b31d5c49862bcce9888040c98151448527ff2740bac7298",
+  "fetched": "2026-11-03T04:34:21Z",
+  "chars": 57225,
+  "portal_id": "123544",
+  "tip": "DECIZIE"
+ }
+}
