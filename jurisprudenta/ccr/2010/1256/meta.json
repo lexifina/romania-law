@@ -1,0 +1,231 @@
+{
+ "key": "dcc-1256-2010",
+ "label": "Decizia CCR nr. 1256/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1256",
+ "date": "2010-10-07",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.256 din 7 octombrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 287 din Legea nr. 53/2003 Codul muncii şi ale art. 304^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "759",
+  "bis": false,
+  "date": "2010-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.238D/2010",
+  "1.171D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 287 din Legea nr. 53/2003 - Codul muncii şi ale art. 304^1 din Codul de procedură civilă, excepţie ridicată de Iulia Dadu, Crina Georgeta Voina, Adrian Bebe Negru, Iosif Fulop, Ioan Inoan, Lucreţia Doina Făt, Ioan Maier, Cristea Marian, Toma Haţegan, Victor Goia, Dan Ştefan Dragomir, Mariana Rânza, Gheorghe Sunzuiană, Ioan Sunzuiană, Daniel Ioan Corcheş, Nicolae Chirilă Borca, Ioan Oltean, Camelia Toth, Ioan Berdea, Petru Băcilă, Mariana Sorina Teglaş, Ştefan Moldovan, Cornelia Adina Coman, Ioan Muntean, Tiberius Ioan Breazu şi de către Societatea Comercială \"OMV Petrom\" - S.A. din Bucureşti în dosarele nr. 7.211/107/2008, nr. 7.217/107/2008, nr. 4.848/107/2008, nr. 5.594/107/2008, nr. 3.364/107/2008, nr. 3.341/107/2008, nr. 3.332/107/2008, nr. 4.970/107/2008, nr. 3.379/107/2008, nr. 3.363/107/2008, nr. 4.851/107/2008, nr. 3.404/107/2008, nr. 3.382/107/2008, nr. 5.014/107/2008, nr. 5.045/107/2008, nr. 5.073/107/2008, nr. 7.193/107/2008, nr. 6.285/107/2008, nr. 5.571/107/2008, nr. 5.087/107/2008, nr. 5.086/107/2008, nr. 5.060/107/2008, nr. 5.019/107/2008, nr. 7.207/107/2008, nr. 4.992/107/2008 şi nr. 5.009/107/2008 ale Curţii de Apel Alba Iulia Secţia conflicte de muncă şi asigurări sociale şi în dosarele nr. 1.395/120/2009, nr. 4.895/109/2009, nr. 6.600/120/2007 şi nr. 624/109/2009 ale Tribunalului Argeş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adiţional nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123558",
+  "text_sha256": "d6ff31f968f9a0a27daae5ef063b294a3bb64219507fa08849da704a393913b8",
+  "catalogue_sha256": "d6ff31f968f9a0a27daae5ef063b294a3bb64219507fa08849da704a393913b8",
+  "fetched": "2026-11-03T04:34:20Z",
+  "chars": 12724,
+  "portal_id": "123558",
+  "tip": "DECIZIE"
+ }
+}
