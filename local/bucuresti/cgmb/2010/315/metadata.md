@@ -1,0 +1,11 @@
+# HCGMB nr. 315/2010
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 315/2010
+- Adopted: 2010-11-17
+- Title: PRIVIND APROBAREA PROIECTULUI "MODERNIZARE INFRASTRUCTURA RUTIERA PIATA SUDULUI" SI A CHELTUIELILOR LEGATE DE PROIECT, PENTRU SOLICITARE FINANTARE NERAMBURSABILA PRIN PROGRAMUL OPERATIONAL 2007-2013, AXA PRIORITARA 2 "IMBUNATATIREA INFRASTRUCTURII DE TRANSPORT REGIONALE SI LOCALE", DOMENIUL MAJOR DE INTERVENTIE 2.1 "REABILITAREA SI MODERNIZAREA RETELEI DE DRUMURI JUDETENE SI STRAZI URBANE - INCLUSIV CONSTRUCTIA/REABILITAREA SODELELOR DE CENTURA"
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27824
+- Document: https://doc.pmb.ro/legis/acteinterne/2010/27824/H315_10.pdf
+- Document sha256: c791e54c939e6a53fe1dd338e98a80eca2d82d14874f076f9caa38fc725444f4
