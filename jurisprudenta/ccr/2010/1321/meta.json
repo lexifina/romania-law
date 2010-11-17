@@ -1,0 +1,165 @@
+{
+ "key": "dcc-1321-2010",
+ "label": "Decizia CCR nr. 1321/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1321",
+ "date": "2010-10-14",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.321 din 14 octombrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 287 din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "770",
+  "bis": false,
+  "date": "2010-11-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "892/109/2009",
+  "2.232D/2010",
+  "2.865D/2010",
+  "2.866D/2010",
+  "3.007/104/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a dispoziţiilor art. 287 din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"OMV Petrom\" - S.A. în dosarele nr. 892/109/2009, nr. 1.501/109/2008, nr. 1.210/109/2010, nr. 2.125/109/2009 şi nr. 645/120/2009 ale Tribunalului Argeş - Secţia civilă, precum şi de Veronica D. Angelescu, Ilie F. Albăstroiu, Veronica A. Briceag, Valerică Şt. Briceag, Florin V. Bălănescu,Vasile C. Brezoianu, Florea N. Ciuciu, Stelian N. Cuprinsu, Florin M. Cocoşatu, Dumitru R. Ciobanu, Lulu M. Cimpoeru, Carolina R. Cimpoeru, Ricu Iulian C. Ciobanu, Petru Constantinescu, Nicolae I. Cojoacă, Eugen David, Dan Mihăiţă A. Deaconu, Liviu I. Dincă, Floarea A. Florea, Sandu F. Guianu, Doruleţ A. Grigore, Iulian Doru I. Gheorghe, Ilie T. Modroiu, Daniel S. Moşteanu, Gheorghiţă Viorel P. Mărgineanu, Ion Gh. Micu, George C. Mincă, Aurel I. Nicolae, Cristian I. Nicorescu, Ion Săndel V. Neacşu, Emil I. Nicolae, Constantin G. Olteanu, Anghel I. Pârvu, Gheorghe Gh. Paşala, Ion N. Rasol, George Stroe Florea, Nicolae Gh. Staicu, Vlăduţ I. Teodorescu, Marcel P. Turturică, Constantin N. Toader şi Ionel A. Voicu în Dosarul nr. 3.007/104/2009 al Curţii de Apel Craiova - Secţia a II-a civilă şi pentru conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123691",
+  "text_sha256": "334d18c37e927380bcfd09725ccbab90bd588d1d84b9169eec0bfc022dcd937c",
+  "catalogue_sha256": "334d18c37e927380bcfd09725ccbab90bd588d1d84b9169eec0bfc022dcd937c",
+  "fetched": "2026-11-03T04:34:09Z",
+  "chars": 11003,
+  "portal_id": "123691",
+  "tip": "DECIZIE"
+ }
+}
