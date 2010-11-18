@@ -1,0 +1,217 @@
+{
+ "key": "dcc-1164-2010",
+ "label": "Decizia CCR nr. 1164/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1164",
+ "date": "2010-09-28",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.164 din 28 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 31/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar şi ale art. 2 din Ordonanţa de urgenţă a Guvernului nr. 41/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar pentru perioada mai-decembrie 2009",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "772",
+  "bis": false,
+  "date": "2010-11-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.835/30/2009",
+  "571D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 31/2009",
+    "number": "31",
+    "year": "2009",
+    "path": "oug/2009/31"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2009",
+    "number": "41",
+    "year": "2009",
+    "path": "oug/2009/41"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 31/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar şi ale art. 2 din Ordonanţa de urgenţă a Guvernului nr. 41/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar pentru perioada mai-decembrie 2009, excepţie ridicată de Sindicatul Independent al Învăţământului Preuniversitar din Judeţul Timiş în Dosarul nr. 6.835/30/2009 al Tribunalului Timiş - Secţia civilă, de Sindicatul Liber al Învăţământului din Judeţul Covasna în dosarele nr. 2.056/119/2009, 2.206/119/2009, 2.201/119/2009, 2.060/119/2009, 2.205/119/2009, 2.203/119/2009 şi 2.230/119/2009 ale Tribunalul Covasna, de Sindicatul Învăţământului Preuniversitar Teleorman în dosarele nr. 3.803/87/2009 şi 3.799/87/2009 ale Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale şi contencios administrativ fiscal şi de Uniunea Teritorială a Sindicatului Învăţământ Preuniversitar - Râmnicu Sărat în dosarele nr. 4.635/114/2008, 4.725/114/2008 şi 4.632/114/2008 ale Tribunalului Buzău - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 31/2009",
+    "number": "31",
+    "year": "2009",
+    "path": "oug/2009/31"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2009",
+    "number": "41",
+    "year": "2009",
+    "path": "oug/2009/41"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123704",
+  "text_sha256": "598c61b9d1c996e46e3fdd26c80899ee91d10f0e84cd3d24217c0ebe9f50891d",
+  "catalogue_sha256": "598c61b9d1c996e46e3fdd26c80899ee91d10f0e84cd3d24217c0ebe9f50891d",
+  "fetched": "2026-11-03T04:34:08Z",
+  "chars": 13902,
+  "portal_id": "123704",
+  "tip": "DECIZIE"
+ }
+}
