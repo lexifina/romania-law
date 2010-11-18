@@ -1,0 +1,152 @@
+{
+ "key": "iccj-su-1-2010",
+ "label": "Decizia ÎCCJ nr. 1/2010 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "1",
+ "date": "2010-03-15",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1 din 15 martie 2010",
+ "subtitle": "privind examinarea recursului în interesul legii cu privire la stabilirea procedurii judecării cererii de prelungire a dreptului de circulaţie de către instanţa de judecată - potrivit dispoziţiilor art. 111 alin. (6) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, republicată, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "771",
+  "bis": false,
+  "date": "2010-11-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabilesc:",
+  "În faza de judecată, cererea de prelungire a dreptului de circulaţie, întemeiată pe prevederile art. 111 alin. (6) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, republicată, cu modificările şi completările ulterioare, se va soluţiona în condiţii de publicitate, cu citarea părţilor, conform prevederilor art. 290 şi 291 din Codul de procedură penală, iar instanţa de judecată se va pronunţa prin încheiere motivată care poate fi atacată odată cu sentinţa sau decizia, conform art. 361 alin. 2 şi art. 385^1 alin. 2 din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "6",
+      "1",
+      "4"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "290",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2010-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123721",
+  "text_sha256": "1450228d0e1c37d2c8ac8f45352877175d7f4fb5b76aa1790aaded3eec82ec28",
+  "catalogue_sha256": "1450228d0e1c37d2c8ac8f45352877175d7f4fb5b76aa1790aaded3eec82ec28",
+  "fetched": "2026-11-03T04:34:07Z",
+  "chars": 9018,
+  "portal_id": "123721",
+  "tip": "DECIZIE"
+ }
+}
