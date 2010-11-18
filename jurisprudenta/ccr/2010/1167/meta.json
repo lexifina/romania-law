@@ -1,0 +1,175 @@
+{
+ "key": "dcc-1167-2010",
+ "label": "Decizia CCR nr. 1167/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1167",
+ "date": "2010-09-28",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.167 din 28 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 134/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "774",
+  "bis": false,
+  "date": "2010-11-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.267/288/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 134/2005",
+    "number": "134",
+    "year": "2005",
+    "path": "oug/2005/134"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 134/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie, excepţie ridicată de Ionel Iliuţă Aldescu, Ion Buştean şi Ion Mihai în Dosarul nr. 6.267/288/2008 al Judecătoriei Hunedoara.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 134/2005",
+    "number": "134",
+    "year": "2005",
+    "path": "oug/2005/134"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123720",
+  "text_sha256": "a14b3876fae48f8b117f9a2c8d1e70f646b148d8bcb3c2c2d946cfc6dde3e14c",
+  "catalogue_sha256": "a14b3876fae48f8b117f9a2c8d1e70f646b148d8bcb3c2c2d946cfc6dde3e14c",
+  "fetched": "2026-11-03T04:34:07Z",
+  "chars": 8882,
+  "portal_id": "123720",
+  "tip": "DECIZIE"
+ }
+}
