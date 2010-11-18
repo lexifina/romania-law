@@ -1,0 +1,269 @@
+{
+ "key": "dcc-1146-2010",
+ "label": "Decizia CCR nr. 1146/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1146",
+ "date": "2010-09-28",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.146 din 28 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 7 din Legea nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu altă destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat, precum şi a celor ale art. 6 din Decretul-lege nr. 61/1990 privind vânzarea de locuinţe construite din fondurile statului către populaţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "772",
+  "bis": false,
+  "date": "2010-11-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "18.705/301/2006",
+  "4.735/303/2009",
+  "322D/2010",
+  "146D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 61/1990",
+    "number": "61",
+    "year": "1990",
+    "path": "decret-lege/1990/61"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate a prevederilor art. 7 din Legea nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu altă destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat, precum şi a celor ale art. 6 din Decretul-lege nr. 61/1990 privind vânzarea de locuinţe construite din fondurile statului către populaţie, excepţie ridicată de Societatea Comercială \"Prima Construct\" - S.A. din Timişoara în dosarele nr. 1.279/325/2007 şi nr. 7.719/325/2006 ale Tribunalului Timiş - Secţia civilă, de Societatea Comercială \"Faur\" - S.A. din Bucureşti în Dosarul nr. 18.705/301/2006 al Judecătoriei Sectorului 3 Bucureşti - Secţia civilă, precum şi de către Tribunalul Bucureşti - Secţia a III-a civilă, din oficiu, în Dosarul nr. 4.735/303/2009 al acestei instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 61/1990",
+    "number": "61",
+    "year": "1990",
+    "path": "decret-lege/1990/61"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adiţional nr. 12 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 93/1977",
+    "number": "93",
+    "year": "1977",
+    "path": "decret/1977/93"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123702",
+  "text_sha256": "9636f19aaa593f82bded8b2b6d699851b628fc8250f99d04fec96c28d66507aa",
+  "catalogue_sha256": "9636f19aaa593f82bded8b2b6d699851b628fc8250f99d04fec96c28d66507aa",
+  "fetched": "2026-11-03T04:34:08Z",
+  "chars": 19195,
+  "portal_id": "123702",
+  "tip": "DECIZIE"
+ }
+}
