@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale IFN STERLING FACTOR - S.A., cu sediul în municipiul București, str. Săvinești nr. 2, sectorul 4, înregistrată în registrul comerțului sub nr. J40/3922/2004, cod unic de înregistrare 16227590, înscrisă în Registrul general al instituțiilor financiare nebancare la secțiunea k) "Activități multiple de creditare" sub nr. RG-PJR-41-110110. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 2 noiembrie 2010. Nr. 1.069. ------
