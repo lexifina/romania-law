@@ -1,0 +1,296 @@
+{
+ "key": "dcc-1128-2010",
+ "label": "Decizia CCR nr. 1128/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1128",
+ "date": "2010-09-23",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.128 din 23 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 26 alin. (1) din Legea nr. 146/1997 privind taxele judiciare de timbru, ale art. VII din Ordonanţa de urgenţă a Guvernului nr. 75/2008 privind stabilirea de măsuri pentru soluţionarea unor aspecte financiare în sistemul justiţiei şi ale art. 7 alin. (1) lit. h) din Ordonanţa Guvernului nr. 18/2008 cu privire la rectificarea bugetului de stat pe anul 2008",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "776",
+  "bis": false,
+  "date": "2010-11-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.777/2/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 75/2008",
+    "number": "75",
+    "year": "2008",
+    "path": "oug/2008/75"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/2008",
+    "number": "18",
+    "year": "2008",
+    "path": "og/2008/18"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 26 alin. (1) din Legea nr. 146/1997 privind taxele judiciare de timbru, excepţie ridicată de Tribunalul Bacău, prin preşedinte, în Dosarul nr. 8.777/2/2009 al Curţii de Apel Bucureşti -Secţia a VIII-a contencios administrativ şi fiscal.",
+  "II. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. VII din Ordonanţa de urgenţă a Guvernului nr. 75/2008 privind stabilirea de măsuri pentru soluţionarea unor aspecte financiare în sistemul justiţiei şi ale art. 7 alin. (1) lit. h) din Ordonanţa Guvernului nr. 18/2008 cu privire la rectificarea bugetului de stat pe anul 2008, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 75/2008",
+    "number": "75",
+    "year": "2008",
+    "path": "oug/2008/75"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/2008",
+    "number": "18",
+    "year": "2008",
+    "path": "og/2008/18"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2009",
+    "number": "76",
+    "year": "2009",
+    "path": "lege/2009/76"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123733",
+  "text_sha256": "2c314b56ab0812f9b90a37491588f451348c2eef655fc515603a19805245503e",
+  "catalogue_sha256": "2c314b56ab0812f9b90a37491588f451348c2eef655fc515603a19805245503e",
+  "fetched": "2026-11-03T04:34:05Z",
+  "chars": 20028,
+  "portal_id": "123733",
+  "tip": "DECIZIE"
+ }
+}
