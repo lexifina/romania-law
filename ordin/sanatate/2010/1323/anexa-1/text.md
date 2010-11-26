@@ -1,0 +1,2 @@
+# Anexa 1
+GHID MINIMAL INVESTIGAȚIONAL AL PACIENTULUI CHIRURGICAL UROLOGIC 1. Hemoleucogramă completă, hemoglobină, hematocrit 2. Numărătoare eritrocite, numărătoare leucocite, numărătoare trombocite, formula leucocitară, indici eritrocitari 3. Timpul Quick, activitate de protrombină 4. INR (International Normalised Ratio) 5. APTT 6. Fibrinogen 7. Grupă sangvină, Rh 8. Uree serică 9. Creatinină serică 10. Glicemie 11. Examen complet de urină (sumar + sediment) 12. Determinare proteine urinare 13. Determinare glucoză urinară 14. Urocultură + antibiogramă

@@ -1,0 +1,2 @@
+# Anexa 24
+GHID DE DIAGNOSTIC ȘI TRATAMENT AL VARICOCELULUI Protocol de diagnostic obligatoriu: 1. Anamneză, examen clinic 2. Protocolul investigațional obligatoriu al bolnavului urologic 3. Spermogramă 4. FSH, Testosteron 5. Ecografie scrotală Protocol de diagnostic opțional: 1. LH 2. Prolactină 3. Inhibină Protocol de tratament: 1. Varicocelectomia microscopică subinghinală 2. Varicocelectomia înaltă Protocol de urmărire: Control din 3 în 3 luni timp de 1 an: 1. Examen clinic 2. Spermogramă ± ecografie testiculară -------------

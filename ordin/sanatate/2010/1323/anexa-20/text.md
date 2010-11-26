@@ -1,0 +1,2 @@
+# Anexa 20
+GHID DE DIAGNOSTIC ȘI TRATAMENT PENTRU DISFUNCȚIA ERECTILĂ Protocol de diagnostic obligatoriu: 1. Examen clinic 2. Protocolul investigațional obligatoriu al bolnavului urologic 3. EKG 4. Rx pulmonară 5. Provocarea erecției prin injectare intracavernoasă de agenți vasoactivi Protocol de diagnostic opțional: 1. Ecografie peniană 2. Arteriografie artera rușinoasă internă 3. Evaluarea tumescenței și rigidității peniene nocturne Protocol de tratament: 1. Revascularizare peniană microchirurgicală 2. Protezare peniană
