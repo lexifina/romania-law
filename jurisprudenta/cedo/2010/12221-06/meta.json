@@ -1,0 +1,174 @@
+{
+ "key": "cedo-12221-06-2010-10-12",
+ "label": "CEDO, Stoian c. României, 2010-10-12",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2010-10-12",
+ "year": "2010",
+ "heading": "HOTĂRÂRE din 12 octombrie 2010",
+ "subtitle": "în Cauza Stoian împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "797",
+  "bis": false,
+  "date": "2010-11-29",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "12221/06"
+ ],
+ "case_name": "Stoian",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie, ca urmare a admiterii de către Înalta Curte de Casaţie şi Justiţie a recursului în anulare; 3. hotărăşte că nu a avut loc încălcarea art. 6 § 1 din Convenţie, sub aspectul duratei procedurii; 4. hotărăşte că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenţie; 5. hotărăşte",
+  "a) ca statul pârât să ia, în cel mult 3 luni, măsurile necesare pentru a-l repune pe reclamant într-o situaţie echivalentă cu cea în care s-ar fi aflat dacă nu ar fi fost anulată Decizia definitivă din 16 iulie 2001 a Curţii de Apel Piteşti;",
+  "b) ca statul pârât să îi plătească reclamantului, în acelaşi termen de 3 luni, următoarele sume, ce vor fi convertite în moneda statului pârât la cursul de schimb aplicabil la data plăţii:",
+  "(i) 5.000 EUR (cinci mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, ca daune morale; (îi) 4.000 EUR (patru mii euro) pentru cheltuielile de judecată, plus orice sumă ce ar putea fi datorată cu titlu de impozit de către reclamant;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "6. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 14",
+    "path": null,
+    "slug": "conventia-edo-protocolul-14"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124009",
+  "text_sha256": "25609d3382c81872065bb2d9acd3c3f0d05de8646ed4d86731f32552e00c06c8",
+  "catalogue_sha256": "25609d3382c81872065bb2d9acd3c3f0d05de8646ed4d86731f32552e00c06c8",
+  "fetched": "2026-11-03T04:33:41Z",
+  "chars": 25932,
+  "portal_id": "124009",
+  "tip": "HOTĂRÂRE"
+ }
+}
