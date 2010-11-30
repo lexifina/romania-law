@@ -1,0 +1,177 @@
+{
+ "key": "dcc-1210-2010",
+ "label": "Decizia CCR nr. 1210/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1210",
+ "date": "2010-10-05",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.210 din 5 octombrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1073 şi art. 1541 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "801",
+  "bis": false,
+  "date": "2010-11-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "229D/2010",
+  "5.758/325/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1541",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 1073 şi art. 1541 din Codul civil, excepţie ridicată de Chiarotto Tiziano în dosarele nr. 5.758/325/2009, nr. 5.733/325/2009, nr. 9.104/325/2009, nr. 9.105/325/2009, nr. 9.106/325/2009, nr. 9.107/325/2009, nr. 9.108/325/2009, nr. 9.109/325/2009, nr. 9.110/325/2009, nr. 9.111/325/2009 şi nr. 5.748/325/2009 ale Judecătoriei Timişoara.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1541",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1993",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1713",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-11-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124015",
+  "text_sha256": "d6c3919157517f1953bc8bb7c710534c7ab4035f168483a8540ca181d4c18f99",
+  "catalogue_sha256": "d6c3919157517f1953bc8bb7c710534c7ab4035f168483a8540ca181d4c18f99",
+  "fetched": "2026-11-03T04:33:40Z",
+  "chars": 11813,
+  "portal_id": "124015",
+  "tip": "DECIZIE"
+ }
+}
