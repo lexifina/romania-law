@@ -1,0 +1,191 @@
+{
+ "key": "dcc-1170-2010",
+ "label": "Decizia CCR nr. 1170/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1170",
+ "date": "2010-09-30",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.170 din 30 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 269/2009 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 189/2008 privind managementul instituţiilor de spectacole sau concerte, muzeelor şi colecţiilor publice, bibliotecilor şi al aşezămintelor culturale de drept public",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "808",
+  "bis": false,
+  "date": "2010-12-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.323/85/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 269/2009",
+    "number": "269",
+    "year": "2009",
+    "path": "lege/2009/269"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. II din Legea nr. 269/2009 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 189/2008 privind managementul instituţiilor de spectacole sau concerte, muzeelor şi colecţiilor publice, bibliotecilor şi al aşezămintelor culturale de drept public, excepţie ridicată de Consiliul Judeţean Sibiu în Dosarul nr. 2.323/85/2009 al Tribunalului Sibiu - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 269/2009",
+    "number": "269",
+    "year": "2009",
+    "path": "lege/2009/269"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 189/2008",
+    "number": "189",
+    "year": "2008",
+    "path": "oug/2008/189"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-12-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124121",
+  "text_sha256": "8c046349f21bc1f92b1aa83d8adf2a65a1b96e0677ee6781b5130daac308d2e9",
+  "catalogue_sha256": "8c046349f21bc1f92b1aa83d8adf2a65a1b96e0677ee6781b5130daac308d2e9",
+  "fetched": "2026-11-03T04:33:30Z",
+  "chars": 10626,
+  "portal_id": "124121",
+  "tip": "DECIZIE"
+ }
+}
