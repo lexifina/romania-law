@@ -1,0 +1,180 @@
+{
+ "key": "dcc-1351-2010",
+ "label": "Decizia CCR nr. 1351/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1351",
+ "date": "2010-10-19",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.351 din 19 octombrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 26 lit. a) din Legea nr. 60/1991 privind organizarea şi desfăşurarea adunărilor publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "817",
+  "bis": false,
+  "date": "2010-12-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.612/302/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/1991",
+    "number": "60",
+    "year": "1991",
+    "path": "lege/1991/60"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a prevederilor art. 26 lit. a) din Legea nr. 60/1991 privind organizarea şi desfăşurarea adunărilor publice, excepţie ridicată de Codrin Ştefănescu în Dosarul nr. 11.612/302/2009 al Judecătoriei Sectorului 5 Bucureşti - Secţia a II-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/1991",
+    "number": "60",
+    "year": "1991",
+    "path": "lege/1991/60"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124203",
+  "text_sha256": "c7db5c666b3e5e6cc2d7770209defb1323e211cbb601a8ef4a2a679152a1cb94",
+  "catalogue_sha256": "c7db5c666b3e5e6cc2d7770209defb1323e211cbb601a8ef4a2a679152a1cb94",
+  "fetched": "2026-11-03T04:33:24Z",
+  "chars": 10466,
+  "portal_id": "124203",
+  "tip": "DECIZIE"
+ }
+}
