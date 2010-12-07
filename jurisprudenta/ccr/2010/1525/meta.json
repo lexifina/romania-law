@@ -1,0 +1,138 @@
+{
+ "key": "dcc-1525-2010",
+ "label": "Decizia CCR nr. 1525/2010",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "1525",
+ "date": "2010-11-24",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.525 din 24 noiembrie 2010",
+ "subtitle": "asupra conflictului juridic de natură constituţională dintre Guvernul României, pe de o parte, şi Parlamentul României alcătuit din Camera Deputaţilor şi Senat, pe de altă parte",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "818",
+  "bis": false,
+  "date": "2010-12-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.520E/2010"
+ ],
+ "subjects": [],
+ "operative": [
+  "Curtea Constituţională constată că există un conflict juridic de natură constituţională între Guvern şi Parlament, generat de refuzul Parlamentului de a dezbate moţiunea de cenzură depusă de opoziţia parlamentară, dezbatere care, odată declanşată, ţinând seama de prevederile Constituţiei, nu poate fi oprită.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică primului-ministru al Guvernului României, preşedintelui Senatului şi preşedintelui Camerei Deputaţilor şi se publică în Monitorul Oficial al României, Partea I.",
+  "Dezbaterea şi pronunţarea au avut loc la datele de 18 noiembrie 2010 şi 24 noiembrie 2010 şi la acestea au participat: Augustin Zegrean, preşedinte, Aspazia Cojocaru, Acsinte Gaspar, Petre Lăzăroiu, Mircea Ştefan Minea, Iulia Antoanella Motoc, Ion Predescu, Puskas Valentin Zoltan şi Tudorel Toader, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "113",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124217",
+  "text_sha256": "0e0fe641dff2901664bfd9cac762df6f08c7979d5802104dea440a6e7021d402",
+  "catalogue_sha256": "0e0fe641dff2901664bfd9cac762df6f08c7979d5802104dea440a6e7021d402",
+  "fetched": "2026-11-03T04:33:23Z",
+  "chars": 37579,
+  "portal_id": "124217",
+  "tip": "DECIZIE"
+ }
+}
