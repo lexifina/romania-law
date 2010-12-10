@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale ETRA LEASING IFN - S.A., cu sediul în București, bd. Națiunile Unite nr. 1, bl. 108A, et. 3, sectorul 5, înregistrată la registrul comerțului sub nr. J40/4763/2008, cod de înregistrare fiscală nr. RO23505100, înscrisă în Registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-41-080228. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 29 noiembrie 2010. Nr. 1.194. -------------
