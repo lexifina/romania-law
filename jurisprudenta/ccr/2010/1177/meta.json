@@ -1,0 +1,210 @@
+{
+ "key": "dcc-1177-2010",
+ "label": "Decizia CCR nr. 1177/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1177",
+ "date": "2010-09-30",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.177 din 30 septembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi art. 2 din Ordonanţa de urgenţă a Guvernului nr. 71/2004 privind acordarea unor facilităţi familiilor de pensionari, precum şi ale art. 14 alin. (1) şi (4) din Regulamentul privind transportul pe căile ferate din România, aprobat prin Ordonanţa Guvernului nr. 7/2005",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "841",
+  "bis": false,
+  "date": "2010-12-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.665/299/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 71/2004",
+    "number": "71",
+    "year": "2004",
+    "path": "oug/2004/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 71/2004 privind acordarea unor facilităţi familiilor de pensionari, precum şi ale art. 14 alin. (1) şi (4) din Regulamentul privind transportul pe căile ferate din România, aprobat prin Ordonanţa Guvernului nr. 7/2005, excepţie ridicată de Florin Constantin Eugen Ioan Tampa în Dosarul nr. 17.665/299/CV/2008 al Tribunalului Bucureşti - Secţia a IX-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 71/2004",
+    "number": "71",
+    "year": "2004",
+    "path": "oug/2004/71"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 2.403/2004",
+    "number": "2403",
+    "year": "2004",
+    "path": "hg/2004/2403"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 147/2000",
+    "number": "147",
+    "year": "2000",
+    "path": "lege/2000/147"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-12-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124427",
+  "text_sha256": "8c6f23e35cdeb044fe479592fb0a22e87397755394f57eb566318f658fc3244b",
+  "catalogue_sha256": "8c6f23e35cdeb044fe479592fb0a22e87397755394f57eb566318f658fc3244b",
+  "fetched": "2026-11-03T04:33:05Z",
+  "chars": 13175,
+  "portal_id": "124427",
+  "tip": "DECIZIE"
+ }
+}
