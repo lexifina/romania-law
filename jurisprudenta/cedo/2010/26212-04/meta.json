@@ -1,0 +1,209 @@
+{
+ "key": "cedo-26212-04-2010-05-27",
+ "label": "CEDO, Drăghici şi alţii c. României, 2010-05-27",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2010-05-27",
+ "year": "2010",
+ "heading": "HOTĂRÂRE din 27 mai 2010",
+ "subtitle": "în Cauza Drăghici şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "845",
+  "bis": false,
+  "date": "2010-12-16",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "26212/04"
+ ],
+ "case_name": "Drăghici şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 3. hotărăşte că nu se impune analizarea capetelor de cerere întemeiate pe art. 13 din Convenţie şi art. 1 din Protocolul nr. 1 la Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să le plătească împreună reclamanţilor, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, suma de 9.000 EUR (nouă mii euro), ca daune morale, plus orice sumă ce ar putea fi datorată cu titlu de impozit, ce va fi convertită în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124491",
+  "text_sha256": "79e0903d2de878bab5dd050d0477e70e3426fbf20ba768205c9120f37a6ceb25",
+  "catalogue_sha256": "79e0903d2de878bab5dd050d0477e70e3426fbf20ba768205c9120f37a6ceb25",
+  "fetched": "2026-11-03T04:33:01Z",
+  "chars": 16142,
+  "portal_id": "124491",
+  "tip": "HOTĂRÂRE"
+ }
+}
