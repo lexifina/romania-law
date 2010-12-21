@@ -1,0 +1,115 @@
+{
+ "key": "cedo-26105-03-2008-07-29",
+ "label": "CEDO, Mitrea c. României, 2008-07-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-07-29",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 29 iulie 2008",
+ "subtitle": "definitivă la 1 decembrie 2008, în Cauza Mitrea împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "855",
+  "bis": false,
+  "date": "2010-12-21",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "26105/03"
+ ],
+ "case_name": "Mitrea",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte casarea deciziei definitive din data de 17 iunie 2002 (astfel cum a fost modificată la data de 12 septembrie 2002) şi inadmisibilă în rest; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 3. hotărăşte",
+  "a) ca statul pârât să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie:",
+  "(i) 3.000 EUR (trei mii de euro), plus orice sumă care ar putea fi datorată cu titlu de impozit, pentru prejudiciul moral; şi (îi) 500 EUR (cinci sute euro), plus orice sumă care ar putea fi datorată cu titlu de impozit, pentru cheltuieli de judecată;",
+  "b) ca aceste sume să fie convertite în moneda naţională a statului pârât, la cursul de schimb valabil la data plăţii;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "318",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124567",
+  "text_sha256": "3d5076ac0da3a3bf2238468c69192fe5795549100fe7e76c54abf4bf60296170",
+  "catalogue_sha256": "3d5076ac0da3a3bf2238468c69192fe5795549100fe7e76c54abf4bf60296170",
+  "fetched": "2026-11-03T04:32:56Z",
+  "chars": 21147,
+  "portal_id": "124567",
+  "tip": "HOTĂRÂRE"
+ }
+}
