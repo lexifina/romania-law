@@ -1,0 +1,4 @@
+# Anexa 1 (Anexa nr. 2 la norme) Solicitant.................. ------------
+Nr.......din...../..../..... CERERE
+------------
+- grup de producători |__| - organizație de producători |__| - grup de producători recunoscut preliminar |__| pentru următoarea/următoarele grupă/grupe de produse..................................... De asemenea, dorim/nu dorim să accesăm măsuri sprijinite din fonduri comunitare. Pentru aceasta, anexăm în copie: 1..................................... 2..................................... 3..................................... 4..................................... 5..................................... Cunoscând că falsul în declarații este pedepsit de legea penală, declarăm pe propria răspundere că toate informațiile înscrise în documentele sus-menționate sunt în conformitate cu realitatea. Data.................... Director/Președinte,.........................
