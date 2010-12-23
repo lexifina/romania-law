@@ -1,0 +1,171 @@
+{
+ "key": "iccj-su-4-2010",
+ "label": "Decizia ÎCCJ nr. 4/2010 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "4",
+ "date": "2010-09-20",
+ "year": "2010",
+ "heading": "DECIZIE nr. 4 din 20 septembrie 2010",
+ "subtitle": "privind examinarea recursului în interesul legii şi sesizarea Colegiului de conducere al Parchetului de pe lângă Curtea de Apel Bucureşti cu privire la stabilirea procurorului competent să efectueze actele de cercetare penală şi să înainteze instanţei materialul împreună cu concluziile sale referitoare la cererile de revizuire formulate conform art. 399 din Codul de procedură penală împotriva hotărârilor care au avut ca obiect infracţiuni a căror urmărire penală este de competenţa exclusivă a Direcţiei Naţionale Anticorupţie, respectiv a Direcţiei de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "866",
+  "bis": false,
+  "date": "2010-12-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "7/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi sesizarea Colegiului de conducere al Parchetului de pe lângă Curtea de Apel Bucureşti.",
+  "În interpretarea şi aplicarea dispoziţiilor art. 399 din Codul de procedură penală stabilesc că:",
+  "Procurorul din cadrul structurii specializate, Direcţia Naţională Anticorupţie, respectiv Direcţia de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism, este competent în condiţiile art. 397 alin. 1 din Codul de procedură penală să efectueze actele de cercetare şi să înainteze materialul împreună cu concluziile referitoare la cererile de revizuire formulate împotriva hotărârilor care au avut ca obiect infracţiuni a căror urmărire penală este de competenţa exclusivă a uneia sau alteia dintre cele două structuri.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "397",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 508/2004",
+    "number": "508",
+    "year": "2004",
+    "path": "lege/2004/508"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2010-12-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124664",
+  "text_sha256": "b8f2e555f71dc301536309ddbab609373a139c96a29962e8658342f046a94c6b",
+  "catalogue_sha256": "b8f2e555f71dc301536309ddbab609373a139c96a29962e8658342f046a94c6b",
+  "fetched": "2026-11-03T04:32:50Z",
+  "chars": 14542,
+  "portal_id": "124664",
+  "tip": "DECIZIE"
+ }
+}
