@@ -1,0 +1,190 @@
+{
+ "key": "iccj-su-3-2010",
+ "label": "Decizia ÎCCJ nr. 3/2010 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "3",
+ "date": "2010-06-15",
+ "year": "2010",
+ "heading": "DECIZIE nr. 3 din 15 iunie 2010",
+ "subtitle": "privind examinarea recursului în interesul legii cu privire la stabilirea calităţii procesuale a Fondului de protecţie a victimelor străzii (art. 25^1 din Legea nr. 32/2000 privind activitatea de asigurare şi supravegherea asigurărilor, cu modificările şi completările ulterioare) şi a posibilităţii obligării acestuia, în cadrul procesului penal, la despăgubiri civile către persoanele păgubite prin accidente de vehicule neasigurate pentru răspundere civilă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "866",
+  "bis": false,
+  "date": "2010-12-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/2000",
+    "number": "32",
+    "year": "2000",
+    "path": "lege/2000/32"
+   },
+   "articles": [
+    {
+     "art": "25-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 25^1 din Legea nr. 32/2000 privind activitatea de asigurare şi supravegherea asigurărilor, cu modificările şi completările ulterioare, coroborate cu cele ale art. 24 din Codul de procedură penală, se stabileşte că:",
+  "În procesul penal, Fondul de protecţie a victimelor străzii are calitatea de parte responsabilă civilmente şi poate fi obligat singur, iar nu în solidar cu inculpatul, la plata despăgubirilor civile către persoanele păgubite prin accidente de vehicule neasigurate.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/2000",
+    "number": "32",
+    "year": "2000",
+    "path": "lege/2000/32"
+   },
+   "articles": [
+    {
+     "art": "25-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1003",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Comisiei de Supraveghere a Asigurărilor nr. 1/2008",
+    "number": "1",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2010-12-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124663",
+  "text_sha256": "592495d96af5978a6b3425a66b7b8b53f0961deea2c7851c1e5d710f18e72118",
+  "catalogue_sha256": "592495d96af5978a6b3425a66b7b8b53f0961deea2c7851c1e5d710f18e72118",
+  "fetched": "2026-11-03T04:32:50Z",
+  "chars": 18022,
+  "portal_id": "124663",
+  "tip": "DECIZIE"
+ }
+}
