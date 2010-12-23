@@ -1,0 +1,329 @@
+{
+ "key": "dcc-1610-2010",
+ "label": "Decizia CCR nr. 1610/2010",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "1610",
+ "date": "2010-12-15",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.610 din 15 decembrie 2010",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 105/2009 privind unele măsuri în domeniul funcţiei publice, precum şi pentru întărirea capacităţii manageriale la nivelul serviciilor publice deconcentrate ale ministerelor şi ale celorlalte organe ale administraţiei publice centrale din unităţile administrativ-teritoriale şi ale altor servicii publice, precum şi pentru reglementarea unor măsuri privind cabinetul demnitarului din administraţia publică centrală şi locală, cancelaria prefectului şi cabinetul alesului local, precum şi a Ordonanţei de urgenţă a Guvernului nr. 105/2009, în ansamblul său",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "863",
+  "bis": false,
+  "date": "2010-12-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.612A/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 105/2009",
+    "number": "105",
+    "year": "2009",
+    "path": "lege/2009/105"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 105/2009",
+    "number": "105",
+    "year": "2009",
+    "path": "oug/2009/105"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "I. Constată că obiecţia de neconstituţionalitate a Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 105/2009 privind unele măsuri în domeniul funcţiei publice, precum şi pentru întărirea capacităţii manageriale la nivelul serviciilor publice deconcentrate ale ministerelor şi ale celorlalte organe ale administraţiei publice centrale din unităţile administrativ-teritoriale şi ale altor servicii publice, precum şi pentru reglementarea unor măsuri privind cabinetul demnitarului din administraţia publică centrală şi locală, cancelaria prefectului şi cabinetul alesului local este neîntemeiată în raport cu criticile formulate.",
+  "II. Constată că este inadmisibilă obiecţia referitoare la neconstituţionalitatea dispoziţiilor art. I pct. 1-5 şi 26, art. III, art. IV, art. V, art. VI, art. VIII şi ale anexei nr. 1 la Ordonanţa de urgenţă a Guvernului nr. 105/2009, aprobată prin legea supusă controlului de constituţionalitate.",
+  "III. Constată că este neîntemeiată, în raport cu criticile formulate, obiecţia referitoare la neconstituţionalitatea dispoziţiilor art. II şi art. IX-XV şi ale anexei nr. 2 la Ordonanţa de urgenţă a Guvernului nr. 105/2009, aprobată prin legea supusă controlului de constituţionalitate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului, precum şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 105/2009",
+    "number": "105",
+    "year": "2009",
+    "path": "lege/2009/105"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 105/2009",
+    "number": "105",
+    "year": "2009",
+    "path": "oug/2009/105"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VIII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii de aprobare a Ordonanţei de urgenţă a Guvernului nr. 37/2009",
+    "number": "37",
+    "year": "2009",
+    "path": "lege/2009/37"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 105/2000",
+    "number": "105",
+    "year": "2000",
+    "path": "oug/2000/105"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 37/2009",
+    "number": "37",
+    "year": "2009",
+    "path": "oug/2009/37"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 140/2010",
+    "number": "140",
+    "year": "2010",
+    "path": "lege/2010/140"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 90/2009",
+    "number": "90",
+    "year": "2009",
+    "path": "oug/2009/90"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-12-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124654",
+  "text_sha256": "ed6dd1129679f52cd1a24bc92014c9a9a73870828290040fc0a4fad0e8c17dc6",
+  "catalogue_sha256": "ed6dd1129679f52cd1a24bc92014c9a9a73870828290040fc0a4fad0e8c17dc6",
+  "fetched": "2026-11-03T04:32:50Z",
+  "chars": 32066,
+  "portal_id": "124654",
+  "tip": "DECIZIE"
+ }
+}
