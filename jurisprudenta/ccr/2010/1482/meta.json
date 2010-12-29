@@ -1,0 +1,274 @@
+{
+ "key": "dcc-1482-2010",
+ "label": "Decizia CCR nr. 1482/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1482",
+ "date": "2010-11-11",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.482*) din 11 noiembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 5 alin. (1) lit. a) teza întâi din Legea nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora, pronunţate în perioada 6 martie 1945 - 22 decembrie 1989",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "884",
+  "bis": false,
+  "date": "2010-12-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "791/3/2010",
+  "1.757D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca devenită inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (1) lit. a) teza întâi din Legea nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora, pronunţate în perioada 6 martie 1945-22 decembrie 1989, excepţie ridicată de statul român, prin Ministerul Finanţelor Publice - Direcţia Generală a Finanţelor Publice Constanţa, în dosarele nr. 791/3/2010, nr. 5.691/118/2010, nr. 1.228/118/2010, nr. 801/118/2010, nr. 14.405/118/2009, nr. 14/118/2010, nr. 917/118/2010, nr. 1.994/118/2010, nr. 725/118/2010, nr. 5.069/118/2010, nr. 8/118/2010, nr. 2.653/118/2010, nr. 2.509/118/2010, nr. 4.648/118/2010, nr. 4.641/118/2010, nr. 2.418/118/2010, nr. 3.193/118/2010, nr. 400/118/2010, nr. 309/118/2010, nr. 2.515/118/2010, nr. 241/118/2010, nr. 388/118/2010, nr. 5.936/118/2010, nr. 5.930/118/2010, nr. 13.431/118/2009, nr. 14.470/118/2010, nr. 2.168/118/2010, nr. 1.992/118/2010, nr. 2.067/118/2010, nr. 1.995/118/2010, nr. 12.963/118/2009, nr. 13.504/118/2009, nr. 12.968/118/2009, nr. 14.455/118/2009, nr. 5.463/118/2010, nr. 5.689/118/2010, nr. 5.993/118/2010, nr. 5.606/118/2010, nr. 6.148/118/2010, nr. 5.639/118/2010, nr. 3.194/118/2010, nr. 2.098/118/2010, nr. 5.296/118/2010, nr. 2.176/118/2010, nr. 74/118/2010, nr. 12.951/118/2009, nr. 76/118/2010, nr. 2.063/118/2010, nr. 2.096/118/2010, nr. 2.411/118/2010, nr. 2.059/118/2010, nr. 2.328/118/2010, nr. 2.335/118/2010, nr. 72/118/2010, nr. 9.004/118/2009, nr. 12.734/118/2009, nr. 30/118/2010 şi nr. 11.508/118/2009 ale Tribunalului Constanţa - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 157/2005",
+    "number": "157",
+    "year": "2005",
+    "path": "lege/2005/157"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 214/1999",
+    "number": "214",
+    "year": "1999",
+    "path": "oug/1999/214"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 62/2010",
+    "number": "62",
+    "year": "2010",
+    "path": "oug/2010/62"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2010-12-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124892",
+  "text_sha256": "95bbbc8eb9c678ebbf6b6e573af72f0f1f7d98b492a2f9c98fd05a999c10966a",
+  "catalogue_sha256": "95bbbc8eb9c678ebbf6b6e573af72f0f1f7d98b492a2f9c98fd05a999c10966a",
+  "fetched": "2026-11-03T04:32:33Z",
+  "chars": 25293,
+  "portal_id": "124892",
+  "tip": "DECIZIE"
+ }
+}
