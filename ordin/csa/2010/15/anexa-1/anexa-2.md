@@ -1,0 +1,3 @@
+# Anexa nr. 2 la anexa nr. 1
+Anexa 2 (la norme) DECLARAȚIE Subsemnatul,....(numele și prenumele)......, declar că...(denumirea brokerului de asigurare/reasigurare)..... nu este acționar sau asociat direct ori indirect al unui asigurător, reasigurător, al unui agent de asigurare ori de reasigurare, al unui asistent în brokeraj și că nu are ca acționar direct sau indirect ori ca administrator un asigurător, reasigurător, un agent de asigurare ori de reasigurare, un asistent în brokeraj sau conducătorul unui asistent în brokeraj persoană juridică ori conducătorul unui agent de asigurare persoană juridică. Data....................... Semnătura.................. ------------
+Notă...

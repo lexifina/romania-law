@@ -1,0 +1,10 @@
+# Anexa 5 la norme DECLARAȚIE Subsemnatul,....(numele și prenumele)..., declar că:
+a) nu mă aflu în conflict cu o autoritate de supraveghere din domeniul asigurărilor sau financiar-bancar ori al pensiilor private din România sau din străinătate, nu am fost sancționat și nu mi s-a respins ori retras o autorizație sau aprobare de către o asemenea autoritate, nu m-am aflat în altă situație care prin aspectele relevate ar putea avea efecte negative asupra imaginii ori activității brokerului la care persoana în cauză este desemnată cu responsabilități de administrare și/sau de conducere;
+b) nu am exercitat, fără aprobarea autorității menționate la lit. a), o funcție pentru care, potrivit dispozițiilor legale aplicabile, era prevăzută obligativitatea obținerii unei astfel de aprobări;
+c) în exercitarea unei funcții de administrare și/sau de conducere a unui asigurător ori intermediar în asigurări și/sau în reasigurări ori a unei sucursale a unui asigurător sau intermediar în asigurări și/sau în reasigurări străin, nu am participat la adoptarea și/sau aplicarea unor decizii privind activitatea acestuia, prin care s-a urmărit satisfacerea unor interese individuale ori de grup;
+d) intermediarul în asigurări și/sau în reasigurări unde am activat nu s-a aflat în situația de a nu depune la un asigurător sau la un reasigurător sumele încasate cu titlu de prime de asigurare ori de reasigurare, în perioada în care am exercitat funcția de administrare și/sau de conducere a intermediarului în cauză;
+e) entitățile la care am exercitat sau exercit responsabilități de administrare și/sau de conducere ori la care sunt sau am fost acționar semnificativ ori asociat nu s-au aflat în conflict cu vreo autoritate din România ori din străinătate, însărcinată cu supravegherea în domeniul asigurărilor sau financiar-bancar, și nu au fost supuse vreunei sancțiuni dispuse de o asemenea autoritate sau aceasta le-a refuzat ori le-a retras o autorizație;
+f) nu am făcut și nu fac obiectul unor proceduri penale.
+Data................... Semnătura.............. -----------
+Notă...
+--------
