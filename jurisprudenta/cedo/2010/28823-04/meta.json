@@ -1,0 +1,136 @@
+{
+ "key": "cedo-28823-04-2010-06-01",
+ "label": "CEDO, Bulfinsky c. României, 2010-06-01",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2010-06-01",
+ "year": "2010",
+ "heading": "HOTĂRÂRE din 1 iunie 2010",
+ "subtitle": "în Cauza Bulfinsky împotriva României, definitivă la 1 septembrie 2010,",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "21",
+  "bis": false,
+  "date": "2011-01-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "28823/04"
+ ],
+ "case_name": "Bulfinsky",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte art. 6 § 1 din Convenţie şi inadmisibilă în rest; 2. hotărăşte că a avut loc o încălcare a dreptului la un proces echitabil prevăzut de art. 6 § 1 din Convenţie; 3. hotărăşte că nu are rost să analizeze celelalte capete de cerere întemeiate pe art. 6 din Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a prezentei hotărâri, conform art. 44 § 2 din Convenţie, suma de 10.000 EUR (zece mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, cu titlu de daune morale, sumă ce va fi convertită în moneda naţională a statului pârât la cursul de schimb valabil la data plăţii;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de satisfacţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125145",
+  "text_sha256": "89f45f011f31d0a895402caa258fd8fb8518dd200d249ace19c08b9530ddcddc",
+  "catalogue_sha256": "89f45f011f31d0a895402caa258fd8fb8518dd200d249ace19c08b9530ddcddc",
+  "fetched": "2026-11-03T04:32:09Z",
+  "chars": 28157,
+  "portal_id": "125145",
+  "tip": "HOTĂRÂRE"
+ }
+}
