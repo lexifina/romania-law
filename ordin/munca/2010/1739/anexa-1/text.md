@@ -1,0 +1,2 @@
+# Anexă
+PROCEDURĂ de suspendare a dreptului de asistență socială sub formă de prestații sociale a persoanelor adulte cu handicap, în situația reevaluării ca urmare a recomandărilor cuprinse în documentele întocmite în urma unor acțiuni de control dispuse prin ordin al ministrului muncii, familiei și protecției sociale
