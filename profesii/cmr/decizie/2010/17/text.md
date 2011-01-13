@@ -1,0 +1,11 @@
+Având în vedere Ordonanța Guvernului nr. 124/1998 privind organizarea și funcționarea cabinetelor medicale, republicată, cu modificările și completările ulterioare, în temeiul art. 406 și 431 din Legea nr. 95/2006 privind reforma în domeniul sănătății, cu modificările și completările ulterioare, Consiliul național al Colegiului Medicilor din România decide:
+Articolul 1
+Avizul pentru înființarea punctelor secundare de lucru în specialitatea medicină de familie, în alte localități decât în localitatea unde funcționează sediul principal, se emite de către colegiile teritoriale dacă solicitantul face dovada că poate asigura, personal sau prin angajații proprii, un program de minimum 35 de ore pe săptămână la punctul de lucru și este îndeplinită una dintre următoarele condiții:
+a) în localitatea unde se dorește înființarea punctului secundar de lucru nu mai funcționează un alt cabinet medical în specialitatea medicină de familie;
+b) numărul populației pe fiecare cabinet medical în specialitatea medicină de familie existent în localitatea respectivă este mai mare de 2.500 de locuitori cu domiciliul stabil în localitatea respectivă, dacă mai există un alt cabinet medical.
+Articolul 2
+Dovada posibilității asigurării unui program de cel puțin 35 de ore pe săptămână se face, după caz, cu copia contractului de muncă al angajatului, respectiv angajaților sau cu dovada eliberată de către casa de asigurări de sănătate în raza căreia funcționează sediul principal că aceasta nu se află în raporturi contractuale cu solicitantul înființării punctului secundar de lucru.
+Articolul 3
+La data intrării în vigoare a prezentei decizii se abrogă Decizia Consiliului național al Colegiului Medicilor din România nr. 11/2009 privind emiterea avizelor pentru înființarea punctelor secundare de lucru ale cabinetelor medicale individuale, asociate, grupate și ale societăților civile medicale, precum și pentru punctele secundare de lucru ale cabinetelor din structura unităților medicale cu personalitate juridică, publicată în Monitorul Oficial al României, Partea I, nr. 639 din 28 septembrie 2009, cu modificările ulterioare.
+Articolul 4
+Prezenta decizie se publică în Monitorul Oficial al României, Partea I. Președintele Colegiului Medicilor din România, Vasile Astărăstoae București, 10 decembrie 2010. Nr. 17. -------
