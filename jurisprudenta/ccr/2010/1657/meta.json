@@ -1,0 +1,184 @@
+{
+ "key": "dcc-1657-2010",
+ "label": "Decizia CCR nr. 1657/2010",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "1657",
+ "date": "2010-12-28",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.657 din 28 decembrie 2010",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a dispoziţiilor Legii bugetului de stat pe anul 2011",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "33",
+  "bis": false,
+  "date": "2011-01-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "4.805A/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii bugetului de stat pe anul 2011"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Constată că Legea bugetului de stat pe anul 2011 este constituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedintelui României, preşedinţilor celor două Camere ale Parlamentului şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-01-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125260",
+  "text_sha256": "1cdbb7ea1dd9e1580304a4a3e7b67c31eda48298ab426ef278d5d7cd4d9cabde",
+  "catalogue_sha256": "1cdbb7ea1dd9e1580304a4a3e7b67c31eda48298ab426ef278d5d7cd4d9cabde",
+  "fetched": "2026-11-03T04:32:00Z",
+  "chars": 16697,
+  "portal_id": "125260",
+  "tip": "DECIZIE"
+ }
+}
