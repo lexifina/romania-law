@@ -1,0 +1,186 @@
+{
+ "key": "dcc-1279-2010",
+ "label": "Decizia CCR nr. 1279/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1279",
+ "date": "2010-10-12",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.279 din 12 octombrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. XIII alin. (1) teza întâi din Ordonanţa de urgenţă a Guvernului nr. 32/2001 pentru reglementarea unor probleme financiare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "33",
+  "bis": false,
+  "date": "2011-01-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.668/90/2009",
+  "3.022D/2010",
+  "1.210D/2010",
+  "522/90/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 32/2001",
+    "number": "32",
+    "year": "2001",
+    "path": "oug/2001/32"
+   },
+   "articles": [
+    {
+     "art": "XIII",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. XIII alin. (1) teza întâi din Ordonanţa de urgenţă a Guvernului nr. 32/2001 pentru reglementarea unor probleme financiare, excepţie ridicată de Consiliul Local al Municipiului Râmnicu Vâlcea şi primarul municipiului Râmnicu Vâlcea în dosarele nr. 1.668/90/2009 şi nr. 522/90/2009 ale Curţii de Apel Piteşti - Secţia civilă, pentru cauze privind conflicte de muncă şi asigurări sociale, şi pentru cauze cu minori şi de familie şi Tribunalului Vâlcea - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 32/2001",
+    "number": "32",
+    "year": "2001",
+    "path": "oug/2001/32"
+   },
+   "articles": [
+    {
+     "art": "XIII",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-01-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125256",
+  "text_sha256": "703ee47aed584d5c72b949b337434167db6a70c5727b76de22f2a151c0fdf038",
+  "catalogue_sha256": "703ee47aed584d5c72b949b337434167db6a70c5727b76de22f2a151c0fdf038",
+  "fetched": "2026-11-03T04:32:03Z",
+  "chars": 11084,
+  "portal_id": "125256",
+  "tip": "DECIZIE"
+ }
+}
