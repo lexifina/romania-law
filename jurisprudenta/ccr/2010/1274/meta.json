@@ -1,0 +1,248 @@
+{
+ "key": "dcc-1274-2010",
+ "label": "Decizia CCR nr. 1274/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1274",
+ "date": "2010-10-12",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.274 din 12 octombrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Legea nr. 26/1990 privind registrul comerţului, ale art. 46 din Legea nr. 31/1990 privind societăţile comerciale şi ale art. 3 din Normele metodologice nr. P/608/773 din 15 aprilie 1998 şi 21 aprilie 1998 privind modul de ţinere a registrelor comerţului şi de efectuare a înregistrărilor, emise de Camera de Comerţ şi Industrie a României şi de Ministerul Justiţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "33",
+  "bis": false,
+  "date": "2011-01-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "31.552/2009",
+  "756D/2010",
+  "757D/2010",
+  "31.560/2009",
+  "758D/2010",
+  "43.357/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 3 din Normele metodologice ale Camerei de Comerţ şi Industrie a României şi Ministerului Justiţiei nr. P/608/773/1998 privind modul de ţinere a registrelor comerţului şi de efectuare a înregistrărilor şi ale art. 46 din Legea nr. 31/1990 privind societăţile comerciale, excepţie ridicată de Societatea Comercială \"Financiar Urban\" - S.R.L. din Piteşti în Dosarul nr. 43.357/2009 al judecătorului delegat la Oficiul Registrului Comerţului de pe lângă Tribunalul Argeş, respectiv de Mihai Dumitrică în dosarele nr. 31.552/2009 şi nr. 31.560/2009 ale Judecătorului delegat la Oficiul Registrului Comerţului de pe lângă Tribunalul Argeş. 2. Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Legea nr. 26/1990 privind registrul comerţului, excepţie ridicată de Mihai Dumitrică în dosarele nr. 31.552/2009 şi nr. 31.560/2009 ale judecătorului delegat la Oficiul Registrului Comerţului de pe lângă Tribunalul Argeş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 116/2009",
+    "number": "116",
+    "year": "2009",
+    "path": "oug/2009/116"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-01-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125254",
+  "text_sha256": "96594e7d15d2de728d4d3d0fad69db0e88ba560e6347c4bcd0399a39a70b461c",
+  "catalogue_sha256": "96594e7d15d2de728d4d3d0fad69db0e88ba560e6347c4bcd0399a39a70b461c",
+  "fetched": "2026-11-04T02:06:46Z",
+  "chars": 17943,
+  "portal_id": "125254",
+  "tip": "DECIZIE"
+ }
+}
