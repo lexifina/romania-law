@@ -1,0 +1,11 @@
+# Anexa 1
+------- la normele metodologice ----------------------- - model - Către Inspectoratul pentru Situații de Urgență al Județului......../Municipiului București Domnului inspector-șef CERERE pentru emiterea Avizului de securitate la incendiu nr....... din.......... 20... Subsemnatul/Subsemnata,.............., CNP |_|_|_|_|_|_|_|_|_|_|_|_|_|, cu domiciliul în județul................, municipiul/orașul/comuna............., sectorul/satul.........., str.............. nr......, bl...., sc...., et...., ap...., codul poștal.........., telefon........., fax........., e-mail.........., în calitate de........... la................, în conformitate cu prevederile art. 30 alin. (1) din Legea nr. 307/2006 privind apărarea împotriva incendiilor, cu modificările ulterioare, și ale Hotărârii Guvernului nr............., solicit: 1. verificarea măsurilor de securitate la incendiu prevăzute în documentația anexată; 2. emiterea avizului de securitate la incendiu pentru construcția/amenajarea............, având destinația.............., amplasată în județul................, municipiul/orașul/comuna.............., sectorul/satul.........., str............. nr...., bl...., sc...., et...., ap...., codul poștal............., telefon/fax............., e-mail.............. Date referitoare la construcție/amenajare:
+a) destinația și tipul....................................;
+b) categoria și clasa de importanță.......................;
+c) aria construită și desfășurată.........................;
+d) volumul și regimul de înălțime.........................;
+e) numărul maxim de utilizatori...........................;
+f) stabilitatea la foc (gradul de rezistență la foc)......;
+g) riscul de incendiu.....................................;
+h) distanțele de siguranță față de vecinătăți.............
+Datele referitoare la construcție/amenajare se completează de către proiectant. Anexez documentele prevăzute în Normele metodologice de avizare și autorizare privind securitatea la incendiu și protecția civilă, aprobate prin Ordinul ministrului administrației și internelor nr. 3/2011, conform opisului. Declar pe propria răspundere că documentele prezentate în copie sunt conforme cu originalul. Data............... Semnătura................
