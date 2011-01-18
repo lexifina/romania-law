@@ -1,0 +1,190 @@
+{
+ "key": "dcc-1468-2010",
+ "label": "Decizia CCR nr. 1468/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1468",
+ "date": "2010-11-11",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.468 din 11 noiembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 19 alin. (1) lit. C din Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "42",
+  "bis": false,
+  "date": "2011-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.424/233/2009",
+  "39.631/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a prevederilor art. 19 alin. (1) lit. C din Legea cadastrului şi a publicităţii imobiliare nr. 7/1996, excepţie ridicată de Societatea Comercială \"Biat Construction International\" - S.R.L. din Popeşti-leordeni, judeţul Ilfov, în Dosarul nr. 4.424/233/2009 al Judecătoriei Galaţi - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 64/2010",
+    "number": "64",
+    "year": "2010",
+    "path": "oug/2010/64"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125349",
+  "text_sha256": "1e5c112a6e5439cce5e2aec111575fef0aae5d2b64a9a4a132c80e39b800ba7f",
+  "catalogue_sha256": "1e5c112a6e5439cce5e2aec111575fef0aae5d2b64a9a4a132c80e39b800ba7f",
+  "fetched": "2026-11-03T04:31:54Z",
+  "chars": 10237,
+  "portal_id": "125349",
+  "tip": "DECIZIE"
+ }
+}
