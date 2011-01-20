@@ -1,0 +1,150 @@
+{
+ "key": "dcc-1314-2010",
+ "label": "Decizia CCR nr. 1314/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1314",
+ "date": "2010-10-14",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.314 din 14 octombrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Ordonanţa de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public, provenite din fostul sistem al asigurărilor sociale de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "50",
+  "bis": false,
+  "date": "2011-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.191/115/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Ordonanţa de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public, provenite din fostul sistem al asigurărilor sociale de stat, excepţie ridicată de Gheorghe Zaharia în Dosarul nr. 3.191/115/2008 al Curţii de Apel Timişoara - Secţia litigii de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125384",
+  "text_sha256": "cc3e9beb945b6dfb37c8e478ea709d4661fb0ac64a1ea41a6f5f29219bf62484",
+  "catalogue_sha256": "cc3e9beb945b6dfb37c8e478ea709d4661fb0ac64a1ea41a6f5f29219bf62484",
+  "fetched": "2026-11-03T04:31:52Z",
+  "chars": 7133,
+  "portal_id": "125384",
+  "tip": "DECIZIE"
+ }
+}
