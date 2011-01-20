@@ -1,0 +1,168 @@
+{
+ "key": "dcc-1521-2010",
+ "label": "Decizia CCR nr. 1521/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1521",
+ "date": "2010-11-18",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.521 din 18 noiembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (5) din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "50",
+  "bis": false,
+  "date": "2011-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.815/88/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (5) din Ordonanţa Guvernului nr. 5/2001 privind procedura somaţiei de plată, excepţie ridicată de Societatea Comercială \"Again\" - S.R.L. Unipersonale Meolo în Dosarul nr. 1.815/88/2009 al Tribunalului Tulcea - Secţia civilă, comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125392",
+  "text_sha256": "707304f135219fa5753f2bca6cd2bd0746730a06a8b23026ade575681ddac551",
+  "catalogue_sha256": "707304f135219fa5753f2bca6cd2bd0746730a06a8b23026ade575681ddac551",
+  "fetched": "2026-11-03T04:31:51Z",
+  "chars": 7628,
+  "portal_id": "125392",
+  "tip": "DECIZIE"
+ }
+}
