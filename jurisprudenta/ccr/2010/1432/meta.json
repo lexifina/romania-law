@@ -1,0 +1,189 @@
+{
+ "key": "dcc-1432-2010",
+ "label": "Decizia CCR nr. 1432/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1432",
+ "date": "2010-11-04",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.432 din 4 noiembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "58",
+  "bis": false,
+  "date": "2011-01-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.639/2/2009",
+  "1.859/112/2009",
+  "1.441/116/2008",
+  "2.673/87/2008",
+  "4.335/40/2009",
+  "277D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 298 alin. (2) ultima liniuţă din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"Petrom\" - S.A. Bucureşti în Dosarul nr. 5.639/2/2009 al Curţii de Apel Bucureşti - Secţia a VII-a civilă pentru cauze privind conflicte de muncă şi asigurări sociale, în dosarele nr. 7.988/30/2008, nr. 8.533/30/2008, nr. 8.096/30/2008, nr. 8.008/30/2008, nr. 8.358/30/2008, nr. 8.297/30/2008 şi nr. 8.280/30/2008 ale Tribunalului Timiş - Secţia civilă, dosarele nr. 7.150/110/2008, nr. 3.832/110/2009, nr. 7.130/110/2008, nr. 7.151/110/2008, nr. 7.390/110/2008, nr. 7.046/110/2008, nr. 7.348/110/2008, nr. 7.392/110/2008 şi nr. 7.399/110/2008 ale Tribunalului Bacău - Secţia civilă, Dosarul nr. 1.859/112/2009 al Tribunalului Bistriţa-Năsăud - Secţia civilă, Dosarul nr. 1.441/116/2008 al Înaltei Curţi de Casaţie şi Justiţie - Secţia civilă şi de proprietate intelectuală şi Dosarul nr. 2.673/87/2008 al Înaltei Curţi de Casaţie şi Justiţie - Secţia civilă şi de proprietate intelectuală şi de Societatea Comercială \"Deltachim\" - S.R.L. Cluj-Napoca în Dosarul nr. 4.335/40/2009 al Tribunalului Botoşani - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "298",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-01-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125476",
+  "text_sha256": "b2b54e6df916e9fe6907efe5f1ef0b961c97b8dd8a49b8ae50a96acce39edf12",
+  "catalogue_sha256": "b2b54e6df916e9fe6907efe5f1ef0b961c97b8dd8a49b8ae50a96acce39edf12",
+  "fetched": "2026-11-03T04:31:42Z",
+  "chars": 12555,
+  "portal_id": "125476",
+  "tip": "DECIZIE"
+ }
+}
