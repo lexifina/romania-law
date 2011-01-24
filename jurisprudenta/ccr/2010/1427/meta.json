@@ -1,0 +1,165 @@
+{
+ "key": "dcc-1427-2010",
+ "label": "Decizia CCR nr. 1427/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1427",
+ "date": "2010-11-02",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.427 din 2 noiembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 287 din Legea nr. 53/2003 Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "58",
+  "bis": false,
+  "date": "2011-01-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.209/109/2010",
+  "2.395D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 287 din Legea nr. 53/2003 - Codul muncii, excepţie ridicată de Societatea Comercială \"OMV Petrom\" - S.A. din Bucureşti în dosarele nr. 1.209/109/2010, nr. 1.956/109/2009, nr. 1.362/109/2010, nr. 1.888/109/2009, nr. 879/109/2009, nr. 1.013/109/2010, nr. 1.011/109/2010, nr. 4.844/109/2009, nr. 140/109/2009, nr. 791/120/2009, nr. 1.753/109/2009, nr. 3.504/87/2008, nr. 3.680/109/2008, nr. 653/120/2009, nr. 4.141/109/2008, nr. 3.937/104/2008, nr. 116/109/2009, nr. 1.356/109/2009, nr. 1.828/109/2009, nr. 4.034/87/2008, nr. 3.016/98/2008, nr. 2.585/87/2009 şi nr. 1.989/109/2009 ale Tribunalului Argeş - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-01-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125475",
+  "text_sha256": "84039d46ca6e22b9ca49589d6a55d1cc65fd9f6b52a398a9fc5a3c87ee6d7a3f",
+  "catalogue_sha256": "84039d46ca6e22b9ca49589d6a55d1cc65fd9f6b52a398a9fc5a3c87ee6d7a3f",
+  "fetched": "2026-11-03T04:31:42Z",
+  "chars": 9181,
+  "portal_id": "125475",
+  "tip": "DECIZIE"
+ }
+}
