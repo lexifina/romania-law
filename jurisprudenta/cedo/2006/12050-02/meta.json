@@ -1,0 +1,216 @@
+{
+ "key": "cedo-12050-02-2006-07-20",
+ "label": "CEDO, Bartos c. României, 2006-07-20",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2006-07-20",
+ "year": "2006",
+ "heading": "HOTĂRÂRE din 20 iulie 2006",
+ "subtitle": "în Cauza Bartos împotriva României - definitivă la 20 octombrie 2006,",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "64",
+  "bis": false,
+  "date": "2011-01-25",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "12050/02"
+ ],
+ "case_name": "Bartos",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 § 1 din Convenţie şi pe art. 1 din Protocolul nr. 1 şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 3. hotărăşte că a fost încălcat art. 1 din Protocolul nr. 1; 4. hotărăşte",
+  "a) ca statul pârât să plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume:",
+  "(i) 2.000 EUR (două mii euro) pentru prejudiciul moral; (îi) 1.000 EUR (una mie euro) pentru costuri şi cheltuieli; (iii) orice sumă care ar putea fi datorată cu titlu de impozit cu privire la aceste sume;",
+  "b) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene, valabilă în această perioadă şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă pentru restul pretenţiilor."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adiţional nr. 4 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125536",
+  "text_sha256": "7b39c7090703fdae14ebc6716adcfa1f170ead535869c65065821bc133b8f61b",
+  "catalogue_sha256": "7b39c7090703fdae14ebc6716adcfa1f170ead535869c65065821bc133b8f61b",
+  "fetched": "2026-11-03T04:31:39Z",
+  "chars": 25907,
+  "portal_id": "125536",
+  "tip": "HOTĂRÂRE"
+ }
+}
