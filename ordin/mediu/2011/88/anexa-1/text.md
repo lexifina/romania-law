@@ -1,0 +1,19 @@
+# Anexa 1
+FORMULARUL 1 - model - I. Antetul Administrației Fondului pentru Mediu Nr..... din...... Denumirea debitorului..................... C.U.I..................................... Domiciliul fiscal......................... Dosar fiscal................... DECIZIE referitoare la obligațiile de plată accesorii la Fondul pentru mediu În temeiul art. 88 lit. c) și al art. 119 din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare, pentru plata cu întârziere a taxelor, contribuțiilor și a altor venituri ale bugetului Fondului pentru mediu s-au calculat următoarele accesorii:
+Natura obligației fiscale*1)
+Accesorii*2)
+TOTAL GENERAL:
+------------ *1) Se va preciza denumirea creanței fiscale principale: impozit, taxă, contribuție, amendă sau alte sume datorate bugetului general consolidat ori a creanței fiscale accesorii. *2) Dobânzile (majorările de întârziere) sau penalitățile de întârziere se vor calcula conform prevederilor art. 119, 120 și 120^1 din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare. În conformitate cu prevederile art. 110 din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare, prezentul înscris constituie titlu de creanță. Vă invităm ca, în termenul prevăzut la art. 111 alin. (2) din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare, să achitați sau să faceți dovada plății sumelor menționate în prezenta decizie. Împotriva prezentului act se poate formula contestație, în conformitate cu prevederile art. 205 și 207 din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare, în termen de 30 de zile de la data comunicării acestuia, care se depune la sediul organului fiscal emitent. Detaliile referitoare la modul de calcul al sumelor reprezentând accesorii aferente obligațiilor fiscale se află în anexă. Conducătorul Administrației Fondului pentru Mediu,.................................................. (numele, prenumele și semnătura) L.S. Directorul compartimentului cu atribuții de urmărire,.................................................... (numele, prenumele și semnătura) Șeful compartimentului cu atribuții de urmărire,................................................. (numele, prenumele și semnătura) Întocmit............................... (numele, prenumele și semnătura) II. Caracteristicile de tipărire, modul de difuzare, utilizare și păstrare ale formularului "Decizie referitoare la obligațiile de plată accesorii la Fondul pentru mediu": 1. Denumire: Decizie referitoare la obligațiile de plată accesorii la Fondul pentru mediu 2. Format: A4 3. Caracteristici de tipărire: se tipărește față-verso. 4. Se difuzează: gratuit. 5. Se utilizează: în baza art. 88 lit. c) și art. 119 din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare. 6. Se întocmește: - de compartimentul cu atribuții de recuperare creanțe. 7. Circulă: - un exemplar la dosarul de urmărire; - un exemplar la debitor, în format hârtie. 8. Se arhivează: la dosarul de urmărire. III. Anexă la Decizia nr........ din data de................
+Documentul prin
+care s-a
+individualizat
+suma de plată*1)
+Categoria
+de sumă*2)
+Perioada
+Suma debit
+Zile/Luni
+Cota*3)
+Suma
+accesoriu
+----------- *1) Se vor menționa: denumirea documentului care constituie titlu de creanță și prin care s-a individualizat creanța principală, numărul și data. *2) Se va menționa categoria de sumă: majorări de întârziere, penalități de întârziere. *3) Nivelul dobânzilor (majorărilor de întârziere) sau al penalităților de întârziere se stabilește conform art. 120 alin. (7) și art. 120^1 din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare.
