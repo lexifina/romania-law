@@ -1,0 +1,152 @@
+{
+ "key": "dcc-1549-2010",
+ "label": "Decizia CCR nr. 1549/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1549",
+ "date": "2010-11-25",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.549 din 25 noiembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 304 pct. 9 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "82",
+  "bis": false,
+  "date": "2011-02-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.034/107/2008",
+  "4.102D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 304 pct. 9 din Codul de procedură civilă, excepţie ridicată de Ioan Căbulea, Elidia Bondea, Teodor Paven, Mircea Vasile Buta, Bebe Adrian Negru, Ioan Teodorin Turc, Maria Moises, Ion Marian, Liviu Gheorghe Cioca, Remus Boncuţ, Maria Bota, Ilarian Cărămidă, Vasile Filip, Maria Cîndescu, Ana Comcea, Mariana Dreghiciu, Rodica Borşa, Vladimir Tecşa, Veronica Popa, Visalon Istrate, Ştefan Ispas, Vasile Mircea Buta, Liviu Gheorghe Cioca, Otilia Avram, Angela Rotaru, Cornel Bota, Simion Romoşan, Gheorghe Laţiu, Veronica Popa, Marin Barna, Dumitru Sârb, Ioan Russet Sfârlează, Dumitru Sîrb, Claudia Nicoleta Bălşan, Ion Marian, Simion Dadu, Hans Dieter Weiner, Ana Victoria Comşa, Venera Maria Iancu, Ioan Bişboacă, Mircea Vasile Buta, Ioan Căbulea, Virgil Mircea Rapcea şi Ana Damian în dosarele nr. 5.034/107/2008, nr. 5.007/107/2008, nr. 5.586/107/2008, nr. 3.320/107/2008, nr. 5.101/107/2008, nr. 5.049/107/2008, nr. 5.218/107/2008, nr. 5.174/107/2008, nr. 5.289/107/2008, nr. 3.366/107/2008, nr. 3.403/107/2008, nr. 3.381/107/2008, nr. 3.329/107/2008, nr. 3.350/107/2008, nr. 3.338/107/2008, nr. 3.339/107/2008, nr. 3.385/107/2008, nr. 4.983/107/2008, nr. 3.377/107/2008, nr. 4.401/107/2008, nr. 5.004/107/2008, nr. 5.090/107/2008, nr. 5.016/107/2008, nr. 5.003/107/2008, nr. 7.195/107/2008, nr. 5.028/107/2008, nr. 4.999/107/2008, nr. 6.289/107/2008, nr. 5.256/107/2008, nr. 5.284/107/2008, nr. 3.358/107/2008, nr. 5.085/107/2008, nr. 4.984/107/2008, nr. 5.027/107/2008, nr. 5.046/107/2008, nr. 6.282/107/2008, nr. 3.347/107/2008, nr. 5.286/107/2008, nr. 5.575/107/2008, nr. 5.015/107/2008, nr. 5.277/107/2008, nr. 3.321/107/2008, nr. 5.038/107/2008 şi nr. 3.393/107/2008 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125745",
+  "text_sha256": "036486a1cef468745c7f6623f3878aae56a1d366dd9bcc625b6c7a4cde6fd178",
+  "catalogue_sha256": "036486a1cef468745c7f6623f3878aae56a1d366dd9bcc625b6c7a4cde6fd178",
+  "fetched": "2026-11-05T06:13:19Z",
+  "chars": 11308,
+  "portal_id": "125745",
+  "tip": "DECIZIE"
+ }
+}
