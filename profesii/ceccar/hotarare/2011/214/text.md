@@ -1,0 +1,9 @@
+În temeiul: - art. 20 lit. c) și d), art. 27 alin. (1) și art. 44 din Ordonanța Guvernului nr. 65/1994 privind organizarea activității de expertiză contabilă și a contabililor autorizați, republicată; - pct. 3, pct. 18 lit. k) și pct. 147 din Regulamentul de organizare și funcționare a Corpului Experților Contabili și Contabililor Autorizați din România, aprobat prin Hotărârea Conferinței naționale a experților contabili și contabililor autorizați din România nr. 1/1995, republicat, Consiliul superior al Corpului Experților Contabili și Contabililor Autorizați din România adoptă următoarea hotărâre:
+Articolul 1
+Se aprobă elaborarea și publicarea până la data de 30 septembrie 2011 a standardului profesional "Controlul calității și managementul relațiilor cu clienții unui cabinet de expertiză contabilă sau de contabilitate".
+Articolul 2
+La data publicării prezentei hotărâri se abrogă Hotărârea Consiliului superior al Corpului Experților Contabili și Contabililor Autorizați din România nr. 09/144/2009 pentru aprobarea Regulamentului privind stabilirea criteriilor și modalităților pentru determinarea onorariilor, indemnizațiilor și compensațiilor cuvenite experților contabili și contabililor autorizați, precum și societăților de profil, membri ai Corpului Experților Contabili și Contabililor Autorizați din România, publicată în Monitorul Oficial al României, Partea I, nr. 87 din 13 februarie 2009.
+Articolul 3
+Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.
+Articolul 4
+Organele alese și structurile executive ale Corpului Experților Contabili și Contabililor Autorizați din România vor duce la îndeplinire dispozițiile prezentei hotărâri. Președintele Corpului Experților Contabili și Contabililor Autorizați din România, Marin Toma București, 27 ianuarie 2011. Nr. 11/214. --------
