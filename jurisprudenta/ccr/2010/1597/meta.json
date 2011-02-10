@@ -1,0 +1,220 @@
+{
+ "key": "dcc-1597-2010",
+ "label": "Decizia CCR nr. 1597/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1597",
+ "date": "2010-12-09",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.597 din 9 decembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 86 alin. (2) şi art. 94 alin. (1) lit. m) raportat la art. 54 lit. h) din Legea nr. 188/1999 privind Statutul funcţionarilor publici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "106",
+  "bis": false,
+  "date": "2011-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "13.792/63/2008",
+  "1.420D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 86 alin. (2) şi art. 94 alin. (1) lit. m) raportat la art. 54 lit. h) din Legea nr. 188/1999 privind Statutul funcţionarilor publici, excepţie ridicată de Laura Ileana Ciovică, de Eugenia Barbu, de Cristina Ciucă şi de Daniela Zamfirescu în dosarele nr. 13.792/63/2008, nr. 14.000/63/2008, nr. 2.450/109/2009 şi nr. 13.985/63/2008, ale Tribunalului Argeş - Secţia civilă şi de Doina Dorobanţu, de Petrida Dragomir şi de Mihaela Valentina Ionicoiu în dosarele nr. 13.984/63/2008, nr. 14.246/63/2008 şi nr. 14.248/63/2008 ale Tribunalul Dolj - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126096",
+  "text_sha256": "84bec7fe24029c425c942d347d95536e7dc3452ba97e9b73354a4cd2c6437ffc",
+  "catalogue_sha256": "84bec7fe24029c425c942d347d95536e7dc3452ba97e9b73354a4cd2c6437ffc",
+  "fetched": "2026-11-03T04:30:59Z",
+  "chars": 13647,
+  "portal_id": "126096",
+  "tip": "DECIZIE"
+ }
+}
