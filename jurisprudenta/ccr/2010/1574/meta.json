@@ -1,0 +1,276 @@
+{
+ "key": "dcc-1574-2010",
+ "label": "Decizia CCR nr. 1574/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1574",
+ "date": "2010-12-07",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.574 din 7 decembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 94 alin. (1) lit. m) raportat la art. 54 lit. h) din Legea nr. 188/1999 privind Statutul funcţionarilor publici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "110",
+  "bis": false,
+  "date": "2011-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "14.247/63/2008",
+  "1.337D/2010",
+  "14.352/63/2008",
+  "1.529/54/2008",
+  "13.992/63/2008",
+  "13.981/63/2008",
+  "13.994/63/2008",
+  "3.419/107/2010",
+  "2.937/107/2010",
+  "14.007/63/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 94 alin. (1) lit. m) raportat la art. 54 lit. h) din Legea nr. 188/1999 privind Statutul funcţionarilor publici, excepţie ridicată de Violeta Corcoveanu în Dosarul nr. 14.247/63/2008 al Tribunalului Dolj - Secţia contencios administrativ şi fiscal, de Dan Emil Bozdogescu în Dosarul nr. 14.352/63/2008 al Tribunalului Dolj - Secţia contencios administrativ şi fiscal, de Veronica Domnişoru în Dosarul nr. 1.529/54/2008 al Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal, de Cătălin Cristea în Dosarul nr. 13.992/63/2008 al Tribunalului Dolj - Secţia contencios administrativ şi fiscal, de Ligia Georgeta Croitoru în Dosarul nr. 13.981/63/2008 al Tribunalului Dolj - Secţia contencios administrativ şi fiscal, de Adriana Carmen Iordache în Dosarul nr. 13.994/63/2008 al Tribunalului Timiş - Secţia comercială şi contencios administrativ, de Horaţiu Florin Stoica în Dosarul nr. 3.419/107/2010 al Curţii de Apel Alba Iulia - Secţia contencios administrativ şi fiscal, de Nicolae Iordache în Dosarul nr. 2.937/107/2010 al Curţii de Apel Alba Iulia - Secţia contencios administrativ şi fiscal, de Carmen Mariana Săseanu în Dosarul nr. 14.007/63/2008 al Tribunalului Dolj - Secţia contencios administrativ şi fiscal, de Alexandru Cojocaru în Dosarul nr. 13.993/63/2008 al Tribunalului Dolj - Secţia contencios administrativ şi fiscal, de Stelian Voicu în Dosarul nr. 13.979/63/2008 al Tribunalului Argeş - Secţia civilă, de Horaţiu Florin Stoica în Dosarul nr. 3.418/107/2010 al Tribunalului Alba - Secţia comercială şi contencios administrativ, de Nicolae Iordache în Dosarul nr. 2.936/107/2010 al Tribunalului Alba - Secţia comercială şi contencios administrativ, de Constantin Osiac în Dosarul nr. 14.008/63/2008 al Tribunalului Alba - Secţia comercială şi contencios administrativ şi de Andrei Costin Friedler Gheorghiţă în Dosarul nr. 13.995/63/2008 al Tribunalului Dolj - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126145",
+  "text_sha256": "dbe11191799705f1f946bd0a761d1593dabf475ec07ae2e3a25e15e10c93e8b8",
+  "catalogue_sha256": "dbe11191799705f1f946bd0a761d1593dabf475ec07ae2e3a25e15e10c93e8b8",
+  "fetched": "2026-11-03T04:30:58Z",
+  "chars": 21262,
+  "portal_id": "126145",
+  "tip": "DECIZIE"
+ }
+}
