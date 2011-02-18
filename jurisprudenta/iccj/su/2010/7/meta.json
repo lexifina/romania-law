@@ -1,0 +1,203 @@
+{
+ "key": "iccj-su-7-2010",
+ "label": "Decizia ÎCCJ nr. 7/2010 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "7",
+ "date": "2010-09-20",
+ "year": "2010",
+ "heading": "DECIZIE nr. 7 din 20 septembrie 2010",
+ "subtitle": "privind recursul în interesul legii cu privire la interpretarea şi aplicarea dispoziţiilor art. 9 alin. (3)-(5) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002, cu modificările şi completările ulterioare, raportate la dispoziţiile art. 9 alin. (1) şi (2) din acelaşi act normativ şi la art. 1 din Ordonanţa Guvernului nr. 55/2002 privind regimul juridic al sancţiunii prestării unei activităţi în folosul comunităţii, aprobată prin Legea nr. 641/2002, cu modificările şi completările ulterioare, asupra posibilităţii de a se dispune înlocuirea sancţiunii amenzii contravenţionale cu sancţiunea prestării unei activităţi în folosul comunităţii, atunci când aceasta din urmă sancţiune nu este prevăzută, prin lege, alternativ cu amendă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "126",
+  "bis": false,
+  "date": "2011-02-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "6/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 55/2002",
+    "number": "55",
+    "year": "2002",
+    "path": "og/2002/55"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Dispoziţiile art. 9 alin. (3)-(5) din Ordonanţa Guvernului nr. 2/2001, prin raportare la dispoziţiile art. 9 alin. (1) şi (2) din aceeaşi ordonanţă şi la dispoziţiile art. 1 din Ordonanţa Guvernului nr. 55/2002, se interpretează în sensul admisibilităţii cererilor de înlocuire a sancţiunii amenzii cu sancţiunea obligării contravenientului la prestarea unei activităţi în folosul comunităţii indiferent dacă contravenţiile săvârşite sunt prevăzute şi sancţionate prin legi, ordonanţe ale Guvernului sau alte acte cu caracter normativ şi chiar dacă actul care stabileşte şi sancţionează contravenţiile nu prevede, alternativ cu sancţiunea amenzii, sancţiunea prestării unei activităţi în folosul comunităţii.",
+  "Obligatorie, potrivit art. 329 alin. 3 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 55/2002",
+    "number": "55",
+    "year": "2002",
+    "path": "og/2002/55"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-02-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126286",
+  "text_sha256": "5012276d2937ec826301ee23cabc6b21ae5526fbc7267d95e54cb159911b2f31",
+  "catalogue_sha256": "5012276d2937ec826301ee23cabc6b21ae5526fbc7267d95e54cb159911b2f31",
+  "fetched": "2026-11-03T04:30:48Z",
+  "chars": 18118,
+  "portal_id": "126286",
+  "tip": "DECIZIE"
+ }
+}
