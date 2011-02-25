@@ -1,0 +1,144 @@
+{
+ "key": "cedo-40890-04-2010-05-18",
+ "label": "CEDO, Drăganschi c. României, 2010-05-18",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2010-05-18",
+ "year": "2010",
+ "heading": "DECIZIE din 18 mai 2010",
+ "subtitle": "în Cauza Drăganschi împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "143",
+  "bis": false,
+  "date": "2011-02-25",
+  "part": "I"
+ },
+ "outcome": "inadmissible",
+ "findings": [
+  "inadmissible"
+ ],
+ "applications": [
+  "40890/04"
+ ],
+ "case_name": "Drăganschi",
+ "subjects": [],
+ "operative": [
+  "În unanimitate, CURTEA declară cererea inadmisibilă.",
+  "Josep Casadevall, preşedinte Santiago Quesada, grefier _____"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 248/2005",
+    "number": "248",
+    "year": "2005",
+    "path": "lege/2005/248"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1000",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adiţional nr. 4",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126414",
+  "text_sha256": "ac34b63bba127edbef1fdcdffb13165b18e4f09e39833e9da26f473666674d9c",
+  "catalogue_sha256": "ac34b63bba127edbef1fdcdffb13165b18e4f09e39833e9da26f473666674d9c",
+  "fetched": "2026-11-03T04:30:38Z",
+  "chars": 20877,
+  "portal_id": "126414",
+  "tip": "DECIZIE"
+ }
+}
