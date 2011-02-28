@@ -1,0 +1,182 @@
+{
+ "key": "dcc-1640-2010",
+ "label": "Decizia CCR nr. 1640/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1640",
+ "date": "2010-12-16",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.640 din 16 decembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 287 din Legea nr. 53/2003 - Codul muncii şi art. 304^1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "145",
+  "bis": false,
+  "date": "2011-02-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.850/107/2008",
+  "890D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 287 din Legea nr. 53/2003 - Codul muncii şi art. 304^1 din Codul de procedură civilă, excepţie ridicată de Borşa Rodica, Luha Ana Maria, Păcurar Dana Manuela, Frăţilă Cornel, Moga Marius, Chişbac Matei, Varzole Ioan Florin, Negoţiu Liviu Alexandru, Maniu Ioan Sorin, Inoan Ioan, Nistor Nicolae Vasile, Marcu Vasile, Barna Marin, Udrea Stela Mariana, Pauleti Mircea Ovidiu, Teglaş Sorina Mariana, Bogdan Dorin, Marc Aurelian, Oltean Ion Mihai şi Frăţilă Cornel în dosarele nr. 4.973/107/2008, nr. 5.013/107/2008, nr. 4.850/107/2008, nr. 7.209/107/2008, nr. 7.900/107/2008, nr. 6.025/107/2008, nr. 6.019/107/2008, nr. 5.588/107/2008, nr. 5.096/107/2008, nr. 5.041/107/2008, nr. 5.008/107/2008, nr. 4.998/107/2008, nr. 4.980/107/2008, nr. 4.975/107/2008, nr. 7.901/107/2008, nr. 5.585/107/2008, nr. 5.584/107/2008, nr. 5.596/107/2008, nr. 7.191/107/2008 şi nr. 7.198/107/2008 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126437",
+  "text_sha256": "e110e970179d10fc2fafa2bf06077c1523c3aacc7cebf13997eeef7f840ddc8a",
+  "catalogue_sha256": "e110e970179d10fc2fafa2bf06077c1523c3aacc7cebf13997eeef7f840ddc8a",
+  "fetched": "2026-11-03T04:30:37Z",
+  "chars": 13008,
+  "portal_id": "126437",
+  "tip": "DECIZIE"
+ }
+}
