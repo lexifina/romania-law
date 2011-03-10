@@ -1,0 +1,2 @@
+# Anexa nr. 5 la anexa nr. 1
+Anexa 4 la contract DATELE REFERITOARE la partea responsabilă cu echilibrarea (PRE) Pentru vânzător: ● denumirea PRE ● codul PRE ● persoane de contact, adresa de e-mail și numărul de telefon Pentru cumpărător: ● denumirea PRE ● codul PRE ● persoane de contact, adresa de e-mail și numărul de telefon SEMNATARI: Din partea vânzătorului, Din partea cumpărătorului,................................................... --------
