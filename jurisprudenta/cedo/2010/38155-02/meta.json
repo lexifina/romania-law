@@ -1,0 +1,186 @@
+{
+ "key": "cedo-38155-02-2010-11-02",
+ "label": "CEDO, Ştefănică şi alţii c. României, 2010-11-02",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2010-11-02",
+ "year": "2010",
+ "heading": "HOTĂRÂRE din 2 noiembrie 2010",
+ "subtitle": "în Cauza Ştefănică şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "175",
+  "bis": false,
+  "date": "2011-03-11",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "38155/02"
+ ],
+ "case_name": "Ştefănică şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară admisibil capătul de cerere întemeiat pe art. 6 § 1 în ceea ce priveşte insecuritatea raporturilor juridice; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie în ceea ce priveşte încălcarea principiului securităţii raporturilor juridice; 3. hotărăşte că nu este necesar să se examineze admisibilitatea sau fondul celorlalte capete de cerere; 4. hotărăşte",
+  "a) ca statul pârât să plătească fiecărui reclamant, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume care trebuie convertite în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 3.000 EUR (trei mii de euro) pentru prejudiciul moral, plus orice altă sumă ce poate fi datorată cu titlu de impozit; (îi) 40 EUR (patruzeci de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru cheltuielile de judecată;",
+  "b) ca, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 9/1997",
+    "number": "9",
+    "year": "1997",
+    "path": "oug/1997/9"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 98/1999",
+    "number": "98",
+    "year": "1999",
+    "path": "oug/1999/98"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126752",
+  "text_sha256": "4cd574c9bce9e2263b6cbc28130cf8f3964897d116365163bb882ac89fa65de9",
+  "catalogue_sha256": "4cd574c9bce9e2263b6cbc28130cf8f3964897d116365163bb882ac89fa65de9",
+  "fetched": "2026-11-03T04:30:15Z",
+  "chars": 30649,
+  "portal_id": "126752",
+  "tip": "HOTĂRÂRE"
+ }
+}
