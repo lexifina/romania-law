@@ -1,0 +1,164 @@
+{
+ "key": "cedo-8727-03-2009-07-07",
+ "label": "CEDO, Stanca Popescu c. României, 2009-07-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-07-07",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 7 iulie 2009",
+ "subtitle": "în Cauza Stanca Popescu împotriva României, definitivă la 7 octombrie 2009",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "179",
+  "bis": false,
+  "date": "2011-03-14",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "8727/03"
+ ],
+ "case_name": "Stanca Popescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte pretinsa încălcare a principiului securităţii raporturilor juridice din cauza admiterii cererii de revizuire a Sentinţei din 28 octombrie 1996 (art. 6 § 1 din Convenţie) şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 6 § 1 din Convenţie; 3. hotărăşte că nu este necesar să statueze asupra admisibilităţii şi temeiniciei capetelor de cerere întemeiate pe art. 1 din Protocolul nr. 1; 4. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, următoarele sume:",
+  "(i) 5.000 EUR (cinci mii euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit, pentru prejudiciul moral; (îi) 300 EUR (trei sute euro), plus orice sumă ce ar putea fi datorată cu titlu de impozit de către reclamantă, pentru cheltuielile de judecată;",
+  "b) ca sumele menţionate mai sus să fie convertite în moneda statului pârât la cursul de schimb valabil la data plăţii;",
+  "c) ca, începând de la expirarea termenului menţionat mai sus şi până la efectuarea plăţii, aceste sume să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "324",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "405",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126771",
+  "text_sha256": "d59061c2f82111d3c5f35058433a11577cfa40d51f58381d603c0abeb9d11673",
+  "catalogue_sha256": "d59061c2f82111d3c5f35058433a11577cfa40d51f58381d603c0abeb9d11673",
+  "fetched": "2026-11-03T04:30:13Z",
+  "chars": 52391,
+  "portal_id": "126771",
+  "tip": "HOTĂRÂRE"
+ }
+}
