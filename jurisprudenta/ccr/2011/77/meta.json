@@ -1,0 +1,238 @@
+{
+ "key": "dcc-77-2011",
+ "label": "Decizia CCR nr. 77/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "77",
+ "date": "2011-01-27",
+ "year": "2011",
+ "heading": "DECIZIE nr. 77 din 27 ianuarie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1, 2 şi 7 din Ordonanţa de urgenţă a Guvernului nr. 119/2007 privind măsurile pentru combaterea întârzierii executării obligaţiilor de plată rezultate din contracte comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "195",
+  "bis": false,
+  "date": "2011-03-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.104/310/2009",
+  "5.205/63/2009",
+  "1.903D/2010",
+  "1.820D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 119/2007",
+    "number": "119",
+    "year": "2007",
+    "path": "oug/2007/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a art. 1, 2 şi 7 din Ordonanţa de urgenţă a Guvernului nr. 119/2007 privind măsurile pentru combaterea întârzierii executării obligaţiilor de plată rezultate din contracte comerciale, excepţie ridicată de Societatea Comercială \"Construcţii de căi ferate şi alte căi de comunicaţii\" - S.A. din Sinaia în nr. 1.104/310/2009 al Tribunalului Prahova - Secţia comercială şi de contencios administrativ II şi de Societatea Comercială \"Suintest\" - S.R.L. din Galaţi în Dosarul nr. 5.205/63/2009 al Tribunalului Dolj - Secţia comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 119/2007",
+    "number": "119",
+    "year": "2007",
+    "path": "oug/2007/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2008",
+    "number": "118",
+    "year": "2008",
+    "path": "lege/2008/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-03-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126969",
+  "text_sha256": "53448c1f03cf7d2243b713d4383d98d57c39ebfd9864a818cdd5b7cd67c466ee",
+  "catalogue_sha256": "53448c1f03cf7d2243b713d4383d98d57c39ebfd9864a818cdd5b7cd67c466ee",
+  "fetched": "2026-11-03T04:30:01Z",
+  "chars": 14945,
+  "portal_id": "126969",
+  "tip": "DECIZIE"
+ }
+}
