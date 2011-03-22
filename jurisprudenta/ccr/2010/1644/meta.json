@@ -1,0 +1,164 @@
+{
+ "key": "dcc-1644-2010",
+ "label": "Decizia CCR nr. 1644/2010",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1644",
+ "date": "2010-12-16",
+ "year": "2010",
+ "heading": "DECIZIE nr. 1.644 din 16 decembrie 2010",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 404^1 şi ale art. 404^2 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "200",
+  "bis": false,
+  "date": "2011-03-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "33.623/299/2009",
+  "1.250D/2010",
+  "7.894/278/2009",
+  "3.268D/2010",
+  "9.111/182/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "404-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "404-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 404^1 şi ale art. 404^2 din Codul de procedură civilă, excepţie ridicată de Ion Baciu, Maria Gliga, Constantin Stoica, Cornelia Nistor, Eugenia Elena Şerb, Maria Drăgan, Remus Romul Dimbean, Istvan Albert Koncz, Imre Fulop, Marian Stanciu şi de Geta Marinela Bolonyi în dosarele nr. 33.623/299/2009, nr. 33.610/299/2009, nr. 33.595/299/2009, nr. 33.581/299/2009, nr. 33.739/299/2009, nr. 33.612/299/2009, nr. 33.592/299/2009, 33.743/299/2009, nr. 33.627/299/2009, nr. 33.601/299/2009 şi nr. 38.864/299/2009 ale Judecătoriei Sectorului 1 Bucureşti, de Cornel Barb în Dosarul nr. 7.894/278/2009 al Judecătoriei Petroşani, de Dorin Mihai Berinde în nr. 9.111/182/2007 al Judecătoriei Baia Mare - Secţia civilă, precum şi de Karoly Koncz şi Emese Buzogany în dosarele nr. 33.751/299/2009 şi nr. 33.325/299/2009 ale Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "404-1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "404-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-03-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127019",
+  "text_sha256": "7039dd36d599d60c1c877c39d6b7ad87d8d3487dafb63bfb218edc50d0398126",
+  "catalogue_sha256": "7039dd36d599d60c1c877c39d6b7ad87d8d3487dafb63bfb218edc50d0398126",
+  "fetched": "2026-11-03T04:29:58Z",
+  "chars": 14549,
+  "portal_id": "127019",
+  "tip": "DECIZIE"
+ }
+}
