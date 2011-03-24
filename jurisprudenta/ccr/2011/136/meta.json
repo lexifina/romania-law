@@ -1,0 +1,221 @@
+{
+ "key": "dcc-136-2011",
+ "label": "Decizia CCR nr. 136/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "136",
+ "date": "2011-01-11",
+ "year": "2011",
+ "heading": "DECIZIE nr. 136 din 11 ianuarie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (3) şi (8) şi art. 9 alin. (5) din Legea nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "203",
+  "bis": false,
+  "date": "2011-03-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.072/46/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 144/2007",
+    "number": "144",
+    "year": "2007",
+    "path": "lege/2007/144"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (3) şi (8) şi art. 9 alin. (5) din Legea nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, excepţie ridicată de Daniel Zidaru în Dosarul nr. 1.072/46/2009 al Curţii de Apel Piteşti - Secţia comercială şi de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 144/2007",
+    "number": "144",
+    "year": "2007",
+    "path": "lege/2007/144"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 176/2010",
+    "number": "176",
+    "year": "2010",
+    "path": "lege/2010/176"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-03-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127042",
+  "text_sha256": "18fa72f818aa1071f71ff74e58c6995e1772e8083c1bbd5ebeeb085e72a457ee",
+  "catalogue_sha256": "18fa72f818aa1071f71ff74e58c6995e1772e8083c1bbd5ebeeb085e72a457ee",
+  "fetched": "2026-11-03T04:29:56Z",
+  "chars": 14713,
+  "portal_id": "127042",
+  "tip": "DECIZIE"
+ }
+}
