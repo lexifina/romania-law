@@ -1,0 +1,159 @@
+{
+ "key": "iccj-scaf-3952-2009",
+ "label": "Decizia ÎCCJ nr. 3952/2009 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3952",
+ "date": "2009-09-29",
+ "year": "2009",
+ "heading": "DECIZIE nr. 3.952 din 29 septembrie 2009",
+ "subtitle": "privind examinarea contestaţiilor în anulare formulate de Guvernul României şi Autoritatea Naţională pentru Restituirea Proprietăţilor împotriva Deciziei nr. 471 din 30 ianuarie 2009",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "240",
+  "bis": false,
+  "date": "2011-04-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.230/1/2009"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge contestaţiile în anulare formulate de Guvernul României şi Autoritatea Naţională pentru Restituirea Proprietăţilor împotriva Deciziei nr. 471 din 30 ianuarie 2009 a Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal ca nefondate.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 343/2007",
+    "number": "343",
+    "year": "2007",
+    "path": "hg/2007/343"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "318",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 373/2007",
+    "number": "373",
+    "year": "2007",
+    "path": "hg/2007/373"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.886/2006",
+    "number": "1886",
+    "year": "2006",
+    "path": "hg/2006/1886"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1169",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-04-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127505",
+  "text_sha256": "f7eae26204c3ed3db46712eb8d7ab1425fde32acb916a01f122f86d5fb7aa7bf",
+  "catalogue_sha256": "f7eae26204c3ed3db46712eb8d7ab1425fde32acb916a01f122f86d5fb7aa7bf",
+  "fetched": "2026-11-03T04:29:17Z",
+  "chars": 9029,
+  "portal_id": "127505",
+  "tip": "DECIZIE"
+ }
+}
