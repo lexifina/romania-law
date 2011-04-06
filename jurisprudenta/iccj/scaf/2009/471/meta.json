@@ -1,0 +1,280 @@
+{
+ "key": "iccj-scaf-471-2009",
+ "label": "Decizia ÎCCJ nr. 471/2009 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "471",
+ "date": "2009-01-30",
+ "year": "2009",
+ "heading": "DECIZIE nr. 471 din 30 ianuarie 2009",
+ "subtitle": "privind examinarea recursurilor declarate de Autoritatea Naţională pentru Restituirea Proprietăţilor şi Guvernul României împotriva Sentinţei civile nr. 1.603 din 27 mai 2008",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "240",
+  "bis": false,
+  "date": "2011-04-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.161/2/2007"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursurile declarate de Autoritatea Naţională pentru Restituirea Proprietăţilor şi Guvernul României împotriva Sentinţei civile nr. 1.603 din 27 mai 2008 a Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, ca nefondate.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "899",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 343/2007",
+    "number": "343",
+    "year": "2007",
+    "path": "hg/2007/343"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.886/2006",
+    "number": "1886",
+    "year": "2006",
+    "path": "hg/2006/1886"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "og/2000/94"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 83/1999",
+    "number": "83",
+    "year": "1999",
+    "path": "og/1999/83"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 194/2000",
+    "number": "194",
+    "year": "2000",
+    "path": "oug/2000/194"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 83/1999",
+    "number": "83",
+    "year": "1999",
+    "path": "oug/1999/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-04-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127504",
+  "text_sha256": "a65d89151ce1297e82ce7af43a1a04dfd8538a62f2bc2ab6ba6c1a80d1c3df28",
+  "catalogue_sha256": "a65d89151ce1297e82ce7af43a1a04dfd8538a62f2bc2ab6ba6c1a80d1c3df28",
+  "fetched": "2026-11-03T04:29:17Z",
+  "chars": 20854,
+  "portal_id": "127504",
+  "tip": "DECIZIE"
+ }
+}
