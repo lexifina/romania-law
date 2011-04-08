@@ -1,0 +1,26 @@
+# Anexa nr. 8 la anexa nr. 1
+Anexa 8 la procedură MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de administrare a marilor contribuabili Direcția Generală a Finanțelor Publice.................. Administrația Finanțelor Publice........................ Nr............/................. ACORD DE PRINCIPIU
+Datele de identificare
+Datele de identificare a contribuabilului a împuternicitului
+Denumirea/Numele și prenumele.....
+Denumirea/Numele și prenumele....
+Adresa............................
+Adresa...........................
+Codul de identificare fiscală.....
+Codul de identificare fiscală.....
+În temeiul prevederilor art. 8 alin. (4) din Ordonanța de urgență a Guvernului nr. 29/2011 privind reglementarea acordării eșalonărilor la plată și ale Ordinului ministrului finanțelor publice nr. 1.853/2011 pentru aprobarea Procedurii de aplicare a dispozițiilor Ordonanței de urgență a Guvernului nr. 29/2011 privind reglementarea acordării eșalonărilor la plată, având în vedere Cererea dumneavoastră nr...... din data de....., înregistrată la organul fiscal sub nr...... din data de........., precum și Certificatul de atestare fiscală nr........... din data de......, luând în considerare că sunt îndeplinite condițiile prevăzute de Ordonanța de urgență a Guvernului nr. 29/2011, 1. Se emite prezentul acord de principiu privind eșalonarea la plată a obligațiilor fiscale cuprinse în Certificatul de atestare fiscală nr......... din data de......., în sumă totală de....., reprezentând:
+- lei -
+Nr. crt. Denumirea obligației fiscale Obligația fiscală
+Total, din care: Obligație fiscală principală Obligații fiscale accesorii
+Majorări de întârziere/ Dobânzi Penalități de întârziere
+0 1 2 = 3+4+5 3 4 5
+1.
+2.
+3.
+4.
+.........
+Total general
+2. Perioada pentru care se acordă eșalonarea la plată este de..... luni. 3. În termen de cel mult 30 de zile de la data comunicării prezentului acord de principiu, trebuie să constituiți garanții conform art. 9 din Ordonanța de urgență a Guvernului nr. 29/2011, astfel:
+a) în situația în care garanțiile sunt numai sub formă de scrisoare de garanție bancară sau mijloace bănești consemnate pe numele contribuabilului la dispoziția organului fiscal, la o unitate a Trezoreriei Statului, dobânda datorată pe perioada eșalonării este de....... lei, iar garanțiile trebuie să acopere suma de......... lei;
+b) în situația în care garanțiile sunt sub formă de sechestru asigurător asupra bunurilor proprietate a contribuabilului sau contract de ipotecă ori gaj în favoarea organului fiscal competent în vederea executării obligațiilor fiscale ale contribuabilului pentru care există un acord de eșalonare la plată având ca obiect bunuri proprietate a unei terțe persoane, libere de orice sarcini, ori sunt o combinare a garanțiilor menționate anterior cu cele prevăzute la lit. a), dobânda datorată pe perioada eșalonării este de...... lei, procentul stabilit potrivit art. 9 alin. (9) din Ordonanța de urgență a Guvernului nr. 29/2011 este de.......%, iar garanțiile trebuie să acopere suma de......... lei.
+4. În situația în care constituiți garanții conform art. 9 alin. (2) lit. c) și d) din Ordonanța de urgență a Guvernului nr. 29/2011, aveți obligația ca, în termen de cel mult 30 de zile de la data comunicării prezentului acord de principiu, să depuneți la organul fiscal raportul de evaluare și alte documente stabilite prin Ordinul ministrului finanțelor publice nr. 1.853/2011 pentru aprobarea Procedurii de aplicare a dispozițiilor Ordonanței de urgență a Guvernului nr. 29/2011 privind reglementarea acordării eșalonărilor la plată. 5. În situația în care constituiți garanții sub forma scrisorii de garanție bancară, perioada de valabilitate a scrisorii de garanție bancară trebuie să fie cu cel puțin 3 luni mai mare decât scadența ultimei rate din eșalonarea la plată. Conducătorul unității fiscale Numele și prenumele.................. Semnătura și ștampila unității.......
