@@ -1,0 +1,203 @@
+{
+ "key": "dcc-314-2011",
+ "label": "Decizia CCR nr. 314/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "314",
+ "date": "2011-03-03",
+ "year": "2011",
+ "heading": "DECIZIE nr. 314 din 3 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 41 alin. (1) din Ordonanţa Guvernului nr. 43/1997 privind regimul drumurilor, precum şi ale art. 5 lit. c) din Hotărârea Guvernului nr. 1.373/2008 privind reglementarea furnizării şi transportului rutier de bunuri divizibile pe drumurile publice din România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "256",
+  "bis": false,
+  "date": "2011-04-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.960/225/2009",
+  "9.443/225/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.373/2008",
+    "number": "1373",
+    "year": "2008",
+    "path": "hg/2008/1373"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 41 alin. (1) din Ordonanţa Guvernului nr. 43/1997 privind regimul drumurilor, precum şi ale art. 5 lit. c) din Hotărârea Guvernului nr. 1.373/2008 privind reglementarea furnizării şi transportului rutier de bunuri divizibile pe drumurile publice din România, excepţie ridicată de Societatea Comercială \"Ionanitrans\" - S.R.L. din Ţicleni în dosarele nr. 10.960/225/2009 şi nr. 9.443/225/2009 ale Tribunalului Mehedinţi - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.373/2008",
+    "number": "1373",
+    "year": "2008",
+    "path": "hg/2008/1373"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-04-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127638",
+  "text_sha256": "20967e8e91cec2cdffad5bf4d859b27ae0bd9ba3c121275162bdecdbdcc79a92",
+  "catalogue_sha256": "20967e8e91cec2cdffad5bf4d859b27ae0bd9ba3c121275162bdecdbdcc79a92",
+  "fetched": "2026-11-03T04:28:56Z",
+  "chars": 9775,
+  "portal_id": "127638",
+  "tip": "DECIZIE"
+ }
+}
