@@ -1,0 +1,168 @@
+{
+ "key": "dcc-312-2011",
+ "label": "Decizia CCR nr. 312/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "312",
+ "date": "2011-03-03",
+ "year": "2011",
+ "heading": "DECIZIE nr. 312 din 3 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (2) şi art. 23 alin. (2) din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "258",
+  "bis": false,
+  "date": "2011-04-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.262/215/2010",
+  "1.835D/2010",
+  "5.861/302/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (2) şi art. 23 alin. (2) din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal, excepţie ridicată de Cezar-Petru Mareş, Samuel Chiran şi Liviu-Florian Tudoran în dosarele nr. 5.861/302/2010, nr. 8.459/302/2010 şi nr. 4.720/302/2010 ale Judecătoriei Sectorului 5 Bucureşti - Secţia I penală şi de Daniel-Cornel Băloi în Dosarul nr. 2.262/215/2010 al Judecătoriei Craiova - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-04-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127685",
+  "text_sha256": "ad4c9386abe06b7995295bcd265a1884e6e07b737f5452160ccf553baa29902d",
+  "catalogue_sha256": "ad4c9386abe06b7995295bcd265a1884e6e07b737f5452160ccf553baa29902d",
+  "fetched": "2026-11-04T01:34:10Z",
+  "chars": 13125,
+  "portal_id": "127685",
+  "tip": "DECIZIE"
+ }
+}
