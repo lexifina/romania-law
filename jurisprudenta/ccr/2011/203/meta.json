@@ -1,0 +1,236 @@
+{
+ "key": "dcc-203-2011",
+ "label": "Decizia CCR nr. 203/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "203",
+ "date": "2011-02-10",
+ "year": "2011",
+ "heading": "DECIZIE nr. 203 din 10 februarie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 969, art. 1020 şi art. 1021 din Codul civil, precum şi a celor ale art. 24 şi art. 25 din Legea locuinţei nr. 114/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "264",
+  "bis": false,
+  "date": "2011-04-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "418/257/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1020",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1021",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 969, art. 1020 şi art. 1021 din Codul civil, precum şi a celor ale art. 24 şi art. 25 din Legea locuinţei nr. 114/1996, excepţie ridicată de Cornelia Lupu în Dosarul nr. 418/257/2010 al Judecătoriei Mediaş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1020",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1021",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 61/1990",
+    "number": "61",
+    "year": "1990",
+    "path": "decret-lege/1990/61"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-04-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127721",
+  "text_sha256": "a07e32c7effa0df2c2ae3ec4862bef490425f77cfd43e8ee9774493d872bc9eb",
+  "catalogue_sha256": "a07e32c7effa0df2c2ae3ec4862bef490425f77cfd43e8ee9774493d872bc9eb",
+  "fetched": "2026-11-03T04:28:54Z",
+  "chars": 14358,
+  "portal_id": "127721",
+  "tip": "DECIZIE"
+ }
+}
