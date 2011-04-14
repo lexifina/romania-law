@@ -1,0 +1,220 @@
+{
+ "key": "dcc-213-2011",
+ "label": "Decizia CCR nr. 213/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "213",
+ "date": "2011-02-15",
+ "year": "2011",
+ "heading": "DECIZIE nr. 213 din 15 februarie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 lit. c) din Ordonanţa de urgenţă a Guvernului nr. 100/2005 privind asigurarea respectării drepturilor de proprietate industrială",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "264",
+  "bis": false,
+  "date": "2011-04-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "40.024/3/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 100/2005",
+    "number": "100",
+    "year": "2005",
+    "path": "oug/2005/100"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 4 lit. c) din Ordonanţa de urgenţă a Guvernului nr.100/2005 privind asigurarea respectării drepturilor de proprietate industrială, excepţie ridicată de Dan Grigore în Dosarul nr. 40.024/3/2006 al Curţii de Apel Bucureşti - Secţia a IX-a civilă şi pentru cauze privind proprietatea intelectuală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 100/2005",
+    "number": "100",
+    "year": "2005",
+    "path": "oug/2005/100"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 214/2008",
+    "number": "214",
+    "year": "2008",
+    "path": "lege/2008/214"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 214/2005",
+    "number": "214",
+    "year": "2005",
+    "path": "lege/2005/214"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-04-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127722",
+  "text_sha256": "44d1d211641642494890d867b2bc1dbde0301b0a8c1d75700f522b319b9a1659",
+  "catalogue_sha256": "44d1d211641642494890d867b2bc1dbde0301b0a8c1d75700f522b319b9a1659",
+  "fetched": "2026-11-03T04:28:54Z",
+  "chars": 9942,
+  "portal_id": "127722",
+  "tip": "DECIZIE"
+ }
+}
