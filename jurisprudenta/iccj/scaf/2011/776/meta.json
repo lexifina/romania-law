@@ -1,0 +1,221 @@
+{
+ "key": "iccj-scaf-776-2011",
+ "label": "Decizia ÎCCJ nr. 776/2011 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "776",
+ "date": "2011-02-09",
+ "year": "2011",
+ "heading": "DECIZIE nr. 776 din 9 februarie 2011",
+ "subtitle": "privind recursul formulat de Ministerul Agriculturii şi Dezvoltării Rurale împotriva Sentinţei nr. 71 din 23 februarie 2010 a Curţii de Apel Cluj - Secţia comercială, de contencios administrativ şi fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "268",
+  "bis": false,
+  "date": "2011-04-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.251/33/2009"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul formulat de Ministerul Agriculturii, Pădurilor şi Dezvoltării Rurale împotriva Sentinţei nr. 71 din 23 februarie 2010 a Curţii de Apel Cluj ca nefondat.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului agriculturii, pădurilor şi dezvoltării rurale nr. 1.262/2005",
+    "number": "1262",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului agriculturii, pădurilor şi dezvoltării rurale nr. 1.264/2005",
+    "number": "1264",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale nr. 1.262/2005",
+    "number": "1262",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2007",
+    "number": "43",
+    "year": "2007",
+    "path": "oug/2007/43"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2005",
+    "number": "195",
+    "year": "2005",
+    "path": "oug/2005/195"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale nr. 1.262/2005",
+    "number": "1262",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale nr. 1.264/2005",
+    "number": "1264",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.262/2005",
+    "number": "1262",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-04-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127772",
+  "text_sha256": "6f9129a693ae8ca3ef296faee66b55724e6b0c69cebe1594f2accdeaf2a291ba",
+  "catalogue_sha256": "6f9129a693ae8ca3ef296faee66b55724e6b0c69cebe1594f2accdeaf2a291ba",
+  "fetched": "2026-11-03T04:28:51Z",
+  "chars": 28154,
+  "portal_id": "127772",
+  "tip": "DECIZIE"
+ }
+}
