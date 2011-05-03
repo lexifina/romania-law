@@ -1,0 +1,201 @@
+{
+ "key": "dcc-154-2011",
+ "label": "Decizia CCR nr. 154/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "154",
+ "date": "2011-02-08",
+ "year": "2011",
+ "heading": "DECIZIE nr. 154 din 8 februarie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. XVI din Ordonanţa de urgenţă a Guvernului nr. 114/2009 privind unele măsuri financiar-bugetare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "304",
+  "bis": false,
+  "date": "2011-05-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "646/91/2010",
+  "564/91/2010",
+  "648/91/2010",
+  "1.349D/2010",
+  "1.955D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 114/2009",
+    "number": "114",
+    "year": "2009",
+    "path": "oug/2009/114"
+   },
+   "articles": [
+    {
+     "art": "XVI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. XVI din Ordonanţa de urgenţă a Guvernului nr. 114/2009 privind unele măsuri financiar-bugetare, excepţie ridicată de Cornelia Badea în Dosarul nr. 646/91/2010, de Simion Constantin Ionel în Dosarul nr. 564/91/2010 şi de Adrian Ploscaru în Dosarul nr. 648/91/2010 ale Tribunalului Vrancea - Secţia comercială şi de contencios administrativ fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 114/2009",
+    "number": "114",
+    "year": "2009",
+    "path": "oug/2009/114"
+   },
+   "articles": [
+    {
+     "art": "XVI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 38/2004",
+    "number": "38",
+    "year": "2004",
+    "path": "oug/2004/38"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-05-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128120",
+  "text_sha256": "42c7833a01a40e299aaa5516ceff6c20f454cdbc535ea2d55b31f1da68f71813",
+  "catalogue_sha256": "42c7833a01a40e299aaa5516ceff6c20f454cdbc535ea2d55b31f1da68f71813",
+  "fetched": "2026-11-03T04:28:21Z",
+  "chars": 12492,
+  "portal_id": "128120",
+  "tip": "DECIZIE"
+ }
+}
