@@ -1,0 +1,213 @@
+{
+ "key": "dcc-265-2011",
+ "label": "Decizia CCR nr. 265/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "265",
+ "date": "2011-02-22",
+ "year": "2011",
+ "heading": "DECIZIE nr. 265 din 22 februarie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1^1 lit. v) şi art. 55 pct. 5 lit. a) din Legea nr. 38/2003 privind transportul în regim de taxi şi în regim de închiriere",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "305",
+  "bis": false,
+  "date": "2011-05-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.242/231/2009",
+  "1.953D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "lege/2003/38"
+   },
+   "articles": [
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": [
+      "v"
+     ]
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1^1 lit. v) şi art. 55 pct. 5 lit. a) din Legea nr. 38/2003 privind transportul în regim de taxi şi în regim de închiriere, excepţie ridicată de Ion Taftă, Pavel Tiroiu şi Marius Bălan în dosarele nr. 1.242/231/2009, nr. 2.661/231/2009 şi, respectiv, nr. 2.347/231/2009 ale Tribunalului Vrancea - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "lege/2003/38"
+   },
+   "articles": [
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": [
+      "v"
+     ]
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-05-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128154",
+  "text_sha256": "716432420ecc7c6602dbe6e6cac714928b04bc9f2b632138bfb02013d4234aea",
+  "catalogue_sha256": "716432420ecc7c6602dbe6e6cac714928b04bc9f2b632138bfb02013d4234aea",
+  "fetched": "2026-11-03T04:28:19Z",
+  "chars": 12045,
+  "portal_id": "128154",
+  "tip": "DECIZIE"
+ }
+}
