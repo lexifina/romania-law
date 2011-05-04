@@ -1,0 +1,165 @@
+{
+ "key": "dcc-339-2011",
+ "label": "Decizia CCR nr. 339/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "339",
+ "date": "2011-03-10",
+ "year": "2011",
+ "heading": "DECIZIE nr. 339 din 10 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 14 din Ordonanţa de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "305",
+  "bis": false,
+  "date": "2011-05-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.998/320/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 14 din Ordonanţa de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale, excepţie ridicată de Societatea Comercială \"Andhor\" - S.R.L. din Sângeorgiu de Mureş în Dosarul nr. 7.998/320/2009 al Judecătoriei Târgu-Mureş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 47/2007",
+    "number": "47",
+    "year": "2007",
+    "path": "og/2007/47"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-05-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128155",
+  "text_sha256": "cf00cfe462582ff52d408a8b883d107abd32549cccef756bd5828c68c587b309",
+  "catalogue_sha256": "cf00cfe462582ff52d408a8b883d107abd32549cccef756bd5828c68c587b309",
+  "fetched": "2026-11-03T04:28:14Z",
+  "chars": 8331,
+  "portal_id": "128155",
+  "tip": "DECIZIE"
+ }
+}
