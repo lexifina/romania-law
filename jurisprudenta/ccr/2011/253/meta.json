@@ -1,0 +1,234 @@
+{
+ "key": "dcc-253-2011",
+ "label": "Decizia CCR nr. 253/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "253",
+ "date": "2011-02-22",
+ "year": "2011",
+ "heading": "DECIZIE nr. 253 din 22 februarie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 din Ordonanţa de urgenţă a Guvernului nr. 4/2009 privind reglementarea unor măsuri în domeniul bugetar şi ale art. IV din Ordonanţa de urgenţă a Guvernului nr. 114/2009 privind unele măsuri financiar-bugetare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "314",
+  "bis": false,
+  "date": "2011-05-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "23.824/3/2009",
+  "3.220D/2010",
+  "100/119/2010",
+  "3D/2011",
+  "2.207/98/2010",
+  "1.097D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2009",
+    "number": "4",
+    "year": "2009",
+    "path": "oug/2009/4"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 114/2009",
+    "number": "114",
+    "year": "2009",
+    "path": "oug/2009/114"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 8 din Ordonanţa de urgenţă a Guvernului nr. 4/2009, excepţie ridicată de Marin Nedea în Dosarul nr. 23.824/3/2009 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă şi asigurări sociale, de Matilda Arvay în Dosarul nr. 100/119/2010 al Tribunalului Covasna şi de Mihai Zaharia în Dosarul nr. 2.207/98/2010 (nr. vechi 4.534/2010) al Curţii de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflicte de muncă şi asigurări sociale. 2. Respinge ca devenită inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. IV din Ordonanţa de urgenţă a Guvernului nr. 114/2009 privind unele măsuri financiar-bugetare, excepţie ridicată de Matilda Arvay în Dosarul nr. 100/119/2010 al Tribunalului Covasna.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2009",
+    "number": "4",
+    "year": "2009",
+    "path": "oug/2009/4"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 114/2009",
+    "number": "114",
+    "year": "2009",
+    "path": "oug/2009/114"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "80",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-05-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128252",
+  "text_sha256": "43efeeb622499b7dcbf8a0151831be20f4b58bbd1d0bcd48cc104eacaf7c6501",
+  "catalogue_sha256": "43efeeb622499b7dcbf8a0151831be20f4b58bbd1d0bcd48cc104eacaf7c6501",
+  "fetched": "2026-11-03T04:28:10Z",
+  "chars": 12625,
+  "portal_id": "128252",
+  "tip": "DECIZIE"
+ }
+}
