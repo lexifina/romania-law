@@ -1,0 +1,174 @@
+{
+ "key": "iccj-scaf-607-2011",
+ "label": "Decizia ÎCCJ nr. 607/2011 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "607",
+ "date": "2011-02-03",
+ "year": "2011",
+ "heading": "DECIZIE nr. 607 din 3 februarie 2011",
+ "subtitle": "referitoare la examinarea recursurilor declarate de Guvernul României şi Societatea Română de Radiodifuziune împotriva Sentinţei civile nr. 185 din 27 aprilie 2010",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "318",
+  "bis": false,
+  "date": "2011-05-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "164/33/2010"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursurile declarate de Guvernul României şi Societatea Română de Radiodifuziune împotriva Sentinţei civile nr. 185 din 27 aprilie 2010 a Curţii de Apel Cluj - Secţia comercială şi contencios administrativ şi fiscal, ca nefondate.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "242",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 978/2003",
+    "number": "978",
+    "year": "2003",
+    "path": "hg/2003/978"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 977/2003",
+    "number": "977",
+    "year": "2003",
+    "path": "hg/2003/977"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128300",
+  "text_sha256": "941b87ac699f3ed9ab9493097f481b36dcfaadecf23944b19a565cbf9c73afc9",
+  "catalogue_sha256": "941b87ac699f3ed9ab9493097f481b36dcfaadecf23944b19a565cbf9c73afc9",
+  "fetched": "2026-11-03T04:28:03Z",
+  "chars": 12383,
+  "portal_id": "128300",
+  "tip": "DECIZIE"
+ }
+}
