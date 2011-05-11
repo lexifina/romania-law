@@ -1,0 +1,376 @@
+{
+ "key": "cedo-6586-03-2009-04-07",
+ "label": "CEDO, Brânduşe c. României, 2009-04-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-04-07",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 7 aprilie 2009",
+ "subtitle": "definitivă la 7 iulie 2009, în Cauza Brânduşe împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "326",
+  "bis": false,
+  "date": "2011-05-11",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "6586/03"
+ ],
+ "case_name": "Brânduşe",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 3 din Convenţie, referitor la condiţiile de detenţie în penitenciarele Arad şi Timişoara, şi pe art. 8 din Convenţie, referitor la fosta groapă de gunoi din apropierea penitenciarului Arad, şi inadmisibilă în rest; 2. hotărăşte că a avut loc încălcarea art. 3 din Convenţie; 3. hotărăşte că a avut loc încălcarea art. 8 din Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform art. 44 § 2 din Convenţie, suma de 8.000 EUR (opt mii euro), ce va fi convertită în moneda statului pârât la cursul de schimb valabil la data plăţii, ca daune morale, plus orice sumă ce ar putea fi datorată cu titlu de impozit;",
+  "b) ca, începând de la expirarea acestui termen şi până la efectuarea plăţii, această sumă să se majoreze cu o dobândă simplă având o rată egală cu cea a facilităţii de împrumut marginal a Băncii Centrale Europene valabilă în această perioadă, majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă în rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 162/2002",
+    "number": "162",
+    "year": "2002",
+    "path": "hg/2002/162"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătăţii nr. 536/1997",
+    "number": "536",
+    "year": "1997"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 195/2005",
+    "number": "195",
+    "year": "2005",
+    "path": "oug/2005/195"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 349/2005",
+    "number": "349",
+    "year": "2005",
+    "path": "hg/2005/349"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului mediului şi gospodăririi apelor nr. 757/2004",
+    "number": "757",
+    "year": "2004"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 757/2004",
+    "number": "757",
+    "year": "2004"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului sănătăţii nr. 536/1997",
+    "number": "536",
+    "year": "1997"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 56/2003",
+    "number": "56",
+    "year": "2003",
+    "path": "oug/2003/56"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "267-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia din 1991",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 137/1995",
+    "number": "137",
+    "year": "1995",
+    "path": "lege/1995/137"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 195/2005",
+    "number": "195",
+    "year": "2005",
+    "path": "og/2005/195"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului apelor, pădurilor şi protecţiei mediului nr. 125/1996",
+    "number": "125",
+    "year": "1996"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătăţii nr. 81/1994",
+    "number": "81",
+    "year": "1994"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 125/1996",
+    "number": "125",
+    "year": "1996"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "oug/2000/78"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului apelor şi protecţiei mediului nr. 1.147/2002",
+    "number": "1147",
+    "year": "2002"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului mediului şi gospodăririi apelor nr. 757/2004",
+    "number": "757",
+    "year": "2004"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128413",
+  "text_sha256": "19c6bbb7da53ea0c099713a09d47649b386117ed655a34a1e3c2a22d01d836ad",
+  "catalogue_sha256": "19c6bbb7da53ea0c099713a09d47649b386117ed655a34a1e3c2a22d01d836ad",
+  "fetched": "2026-11-04T11:14:32Z",
+  "chars": 61640,
+  "portal_id": "128413",
+  "tip": "HOTĂRÂRE"
+ }
+}
