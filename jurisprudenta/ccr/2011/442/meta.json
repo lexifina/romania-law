@@ -1,0 +1,214 @@
+{
+ "key": "dcc-442-2011",
+ "label": "Decizia CCR nr. 442/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "442",
+ "date": "2011-04-07",
+ "year": "2011",
+ "heading": "DECIZIE nr. 442 din 7 aprilie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 2 alin. (3) şi art. 9 alin. (5) din Legea nr. 198/2004 privind unele măsuri prealabile lucrărilor de construcţie de drumuri de interes naţional, judeţean şi local, precum şi ale Ordonanţei de urgenţă a Guvernului nr. 228/2008 pentru modificarea şi completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "328",
+  "bis": false,
+  "date": "2011-05-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.174/116/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 198/2004",
+    "number": "198",
+    "year": "2004",
+    "path": "lege/2004/198"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 228/2008",
+    "number": "228",
+    "year": "2008",
+    "path": "oug/2008/228"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 2 alin. (3) şi art. 9 alin. (5) din Legea nr. 198/2004 privind unele măsuri prealabile lucrărilor de construcţie de drumuri de interes naţional, judeţean şi local, precum şi ale Ordonanţei de urgenţă a Guvernului nr. 228/2008 pentru modificarea şi completarea unor acte normative, excepţie ridicată de Elena Stoia şi Alexandru Stoia în Dosarul nr. 1.174/116/2006 al Curţii de Apel Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 198/2004",
+    "number": "198",
+    "year": "2004",
+    "path": "lege/2004/198"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 228/2008",
+    "number": "228",
+    "year": "2008",
+    "path": "oug/2008/228"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-05-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128437",
+  "text_sha256": "74114d26bd41c8dc81ac4311a5270ae8396c6ae50c4f4b99f63d982db395857f",
+  "catalogue_sha256": "74114d26bd41c8dc81ac4311a5270ae8396c6ae50c4f4b99f63d982db395857f",
+  "fetched": "2026-11-03T04:27:53Z",
+  "chars": 8137,
+  "portal_id": "128437",
+  "tip": "DECIZIE"
+ }
+}
