@@ -1,0 +1,4255 @@
+# Anexa 2
+Situația cotelor de recoltă aprobate pentru sezonul de vânătoare 2011/2012, la speciile mistreț, iepure, fazan și potârniche
+Nr. crt. Jud. Gestionari Fond cinegetic Cote de recoltă aprobate la [buc]:
+Nr. Denumire Mistreț Iepure Fazan Potârniche
+0 1 2 3 4 5 6 7 8
+1 AB
+2 Ariesul Mijlociu 4 10 0 0
+2 AB
+3 Horea 2 10 0 0
+3 AB
+6 Vidra 4 10 0 0
+4 AB
+7 Ciuruleasa 4 10 0 0
+5 AB
+8 Detunata 4 10 0 0
+6 AB
+9 Lupsa 7 10 0 0
+7 AB
+12 Geamana 7 10 0 0
+8 AB
+13 Vidolm 14 10 0 0
+9 AB
+15 Ponor 25 0 0 0
+10 AB
+18 Mahaceni 30 30 40 15
+11 AB
+19 Ocna Mures 25 30 40 15
+12 AB AJVPS 20 Lopadea Noua 25 10 35 0
+13 AB Alba 21 Noslac 25 25 40 15
+14 AB
+25 Teius 25 10 20 0
+15 AB
+26 Bucerdea 20 40 30 0
+16 AB
+27 Veseus 20 30 20 0
+17 AB
+34 Ampoita 27 0 20 10
+18 AB
+36 Berghin 30 30 30 10
+19 AB
+37 Oarda 22 30 40 10
+20 AB
+39 Alba Iulia 22 10 15 20
+21 AB
+41 Vint 20 20 25 10
+22 AB
+42 Daia 18 20 80 20
+23 AB
+45 Cilnic 15 15 20 10
+24 AB
+49 Salistea 15 20 25 10
+25 AB
+50 Cugir 20 0 0 0
+26 AB Total gestionar
+430 400 480 145
+27 AB
+1 Ariesul Super. 2 0 0 0
+28 AB
+14 Rimetea 10 0 10 0
+29 AB
+28 Jidvei 12 10 10 0
+30 AB
+29 Veza 2 0 0 0
+31 AB Direcția Silvică 30 Cergau 5 0 0 0
+32 AB Alba 31 Valea Lunga 7 0 0 0
+33 AB
+35 Ighiu 20 10 30 0
+34 AB
+40 Blandiana 7 10 10 0
+35 AB
+44 Ohaba 9 10 20 0
+36 AB
+47 Prigoana 2 0 0 0
+37 AB
+51 Canciu 7 0 0 0
+38 AB
+54 Sugag 7 0 0 0
+39 AB Total gestionar
+90 40 80 0
+40 AB Asoc Căpriorul Certege 4 Valea Bistrei 5 10 0 0
+41 AB A.V. Avram Iancu 5 Avram Iancu 6 0 0 0
+42 AB OS Muntele Mare 10 Posaga 14 0 0 0
+43 AB AVPS Ocolis Hunter 1 11 Ocolis 16 15 0 0
+44 AB AVPS Diana Aiud 16 Ciugud 18 20 60 0
+45 AB AVPS Artemis Aiud 17 Aiud 50 10 15 0
+46 AB ASV Târnavele 22 Intregalde 7 0 0 0
+47 AB AVPS Iezer Alba 23 Cricău 20 0 10 0
+48 AB AVPS Piatra Verde 24 Galda 32 10 40 0
+49 AB AVPS Cerbul Zlatna 32 Izv Ampoiului 18 5 0 0
+50 AB AVPS Bendis 33 Vîltori Feneș 14 5 0 0
+51 AB AVPS Căprioara Cib 38 Valea Mică 18 0 0 0
+52 AB OS Sebeș RA 43 Vingard 4 0 10 0
+53 AB AVPS Diana Gârbova 46 Gârbova 25 10 75 10
+54 AB AVPS Mistretul Cugir 48 Vinerea 9 10 50 0
+55 AB OS Valea Pianului RA 52 Pianu 15 10 30 10
+56 AB AV Cerbul Purcaret 53 Purcăreț 13 10 10 0
+57
+Total județul Alba
+804 555 860 165
+58 AR AJVPS 1 Frumuseni 10 250 220 0
+59 AR AJVPS 2 Aradul Nou 2 250 250 0
+60 AR AJVPS 3 Mailat 1 210 180 0
+61 AR AJVPS 4 Gelu 1 180 120 0
+62 AR AJVPS 6 Seitin 1 250 160 0
+63 AR AJVPS 7 Nadlac 1 250 200 0
+64 AR AJVPS 8 Pereg 1 170 150 0
+65 AR AJVPS 9 Rovine 2 170 150 0
+66 AR AJVPS 11 Ceala 55 100 100 0
+67 AR AJVPS 12 Varias 0 220 230 0
+68 AR AJVPS 13 Dorobant 1 350 350 0
+69 AR AJVPS 14 Andrei Saguna 1 160 160 0
+70 AR AJVPS 15 Sofronea 0 200 160 0
+71 AR AJVPS 16 Vladimirescu 5 200 200 0
+72 AR AJVPS 17 Simand 1 200 150 0
+73 AR AJVPS 18 Horia 2 200 150 0
+74 AR AJVPS 19 Siclau Gr 0 220 200 0
+75 AR AJVPS 27 Nadab Moara 0 200 150 0
+76 AR AJVPS 28 Nadab 0 180 150 0
+77 AR AJVPS 29 Caporal Alexa 0 160 150 0
+78 AR AJVPS 30 Siria 5 90 100 0
+79 AR AJVPS 31 Covasant 4 70 70 0
+80 AR AJVPS 32 Ghioroc 5 75 80 0
+81 AR AJVPS 34 Milova 30 5 30 0
+82 AR AJVPS 35 Conop 20 10 40 0
+83 AR AJVPS 36 Monorostia 20 5 40 0
+84 AR AJVPS 38 Nadas 10 15 40 0
+85 AR AJVPS 39 Taut 10 20 50 0
+86 AR AJVPS 41 Tarnova 4 80 100 0
+87 AR AJVPS 42 Pancota 1 90 120 0
+88 AR AJVPS 43 Seleus 0 70 100 0
+89 AR AJVPS 45 Apateu 12 110 140 10
+90 AR AJVPS 47 Rovina 6 80 120 0
+91 AR AJVPS 48 Minis 10 30 90 0
+92 AR AJVPS 49 Manerau 11 80 140 0
+93 AR AJVPS 50 Archis 11 60 100 0
+94 AR AJVPS 51 Susag 2 110 150 0
+95 AR AJVPS 56 Rosia 10 20 60 10
+96 AR AJVPS 57 Chisindia 20 20 50 5
+97 AR AJVPS 61 Crocna Zimbru 20 20 50 5
+98 AR AJVPS 62 Avram I. M 10 10 10 0
+99 AR AJVPS 64 Tisa Luncsoara 10 10 10 0
+100 AR AJVPS 71 Zabalt 50 10 60 0
+101 AR AJVPS 72 Lipova 50 10 90 0
+102 AR AJVPS 74 Zabrani 2 90 150 0
+Total AJVPS ARAD 417 5310 5570 30
+104 AR D.S 5 Sanpetru German 45 30 70 0
+105 AR D.S 20 Ritul - Pil 5 10 20 0
+106 AR D.S 21 Socodor 12 10 10 0
+107 AR D.S 22 Salisteanca 3 10 20 0
+108 AR D.S 23 Adea 20 10 30 0
+109 AR D.S 24 Lunca-Holumburi 10 10 30 0
+110 AR D.S 25 Sintea 5 0 30 0
+111 AR D.S 26 Somos 10 10 40 5
+112 AR D.S 37 Batuta 30 0 10 0
+113 AR D.S 46 Balta 9 0 25 0
+114 AR D.S 52 Botfei 11 0 10 0
+115 AR D.S 53 Hasmas 9 0 0 0
+116 AR D.S 54 Prunisor 15 5 10 0
+117 AR D.S 55 Moneasa 15 0 0 0
+118 AR D.S 59 Madrigesti 10 0 0 0
+119 AR D.S 60 Dumbrava 25 0 0 0
+120 AR D.S 65 Slatina 50 0 4 0
+121 AR D.S 66 Trouas 55 0 0 0
+122 AR D.S 67 Savarsin 51 5 4 0
+123 AR D.S 68 Petris 53 0 0 0
+124 AR D.S 69 Recea 80 0 5 0
+125 AR D.S 70 Fiac 20 0 0 0
+126 AR D.S 73 Neudorf 80 15 10 0
+127 AR Total gestionar
+623 115 328 5
+128 AR AVPS Hubertus 33 CLADOVA 130 5 20 0
+129 AR Total gestionar
+130 5 20 0
+130 AR AVPS Crisius 44 CHERELUS 12 70 200 10
+131 AR 2 58 RADESTI 14 0 20 0
+132 AR Total gestionar
+26 70 220 10
+133 AR AVPS Diana 10 TURNU 1 250 400 0
+134 AR Total gestionar
+1 250 400 0
+135 AR AVPS Soimul B 63 Leuca Gaina 20 5 0 0
+136 AR Total gestionar
+20 5 0 0
+137 AR AVP Capriorul 40 Araneag 35 15 40 0
+138 AR Total gestionar
+35 15 40 0
+Total județ ARAD 1252 5770 6578 45
+139 AG D.S. ARGEȘ 1 Negoiu 3 0 0 0
+140 AG 4 Cumpăna 5 0 0 0
+141 AG 5 Aref 7 5 0 0
+142 AG 11 Căpățâna 7 0 0 0
+143 AG 13 Corbi 6 0 0 0
+144 AG 15 Bratia 5 0 0 0
+145 AG 16 Râușor 7 0 0 0
+146 AG 21 Izv. Dâmb. 3 0 0 0
+147 AG 22 Rucăr 2 0 0 0
+148 AG
+45 Deaguri 13 40 50 20
+149 AG 46 Mozacu 20 55 50 20
+150 AG 47 Mozăceni 9 30 50 80
+151 AG Total gestionar
+87 130 150 120
+152 AG A.J.V.P.S. ARGEȘ 3 Poienari 5 10 20 0
+153 AG 6 Vl. Danului 6 10 0 0
+154 AG 7 C de Argeș 4 10 30 20
+155 AG 9 Mușetești 6 5 0 0
+156 AG 10 Mălureni 3 10 20 0
+157 AG 14 Retevoiești 2 5 0 0
+158 AG 17 Aninoasa 2 10 0 0
+159 AG 18 R. Târgului 6 0 0 0
+160 AG 19 Câmpulung 1 20 0 0
+161 AG 20 Stoienești 6 0 0 0
+162 AG 28 Dârmănești 4 15 30 20
+163 AG 29 Trivale 2 15 30 15
+164 AG 30 Săpunari 6 5 10 0
+165 AG 31 Cotmeana 5 5 0 0
+166 AG 32 Râjlețu 6 30 40 20
+167 AG 33 Dl. Bradului 6 30 40 20
+168 AG 34 Mareș 3 40 90 20
+169 AG 35 Râncaciov 2 40 70 0
+170 AG 36 Cârcinov 3 10 10 0
+171 AG 37 Topoloveni 4 70 70 0
+172 AG 38 Căteasca 1 120 90 100
+173 AG 39 Broșteni 6 100 100 20
+174 AG 40 Suseni 2 80 80 40
+175 AG 41 Bălăceanca 4 120 100 100
+176 AG 42 Vlășcuța 4 180 80 100
+177 AG 43 Șerboieni 1 120 120 100
+178 AG 44 Furduiești 5 100 110 100
+179 AG 50 Malu 0 350 40 150
+180 AG Total gestionar
+105 1510 1180 825
+181 AG I.C.A.S. 24 Mâzgana 2 6 0 0
+182 AG O.S. Exp. 25 Grădiștea 2 6 0 0
+183 AG Mihăești 26 Rădești 13 6 0 0
+184 AG Total gestionar
+17 18 0 0
+185 AG A.V.P.S. 8 Jepi 30 0 0 0
+186 AG Diana Pitești 48 Ungheni 50 700 450 180
+187 AG Total gestionar
+80 700 450 180
+188 AG A.V.P.S. 49 Ștefan cel Mare 3 250 100 70
+189 AG Sitarul 51 Bucov 8 200 150 70
+190 AG Total gestionar
+11 450 250 140
+191 AG AVPS Cerbul Buc. 12 Plăișor 25 0 0 0
+192 AG AVPS Șoimul Buc. 2 Șuici 20 20 0 0
+193 AG AVPS Steaua Carpatilor 27 Micesti 6 30 40 40
+194 AG AVP Jderul Argeș 2006 23 Dâmbovcioara 20 0 0 0
+195
+Total județ
+371 2858 2070 1305
+196 BC Direcția Silvică Bacău 15 Bărzăuța 10 0 0 0
+197 BC 16 Dofteana 15 5 0 0
+198 BC 17 Slănic Moldova 15 5 0 0
+199 BC 21 Cașinul Superior 10 0 0 0
+200 BC 22 Cașinul Inferior 20 10 0 0
+201 BC 29 Itești 10 65 50 10
+202 BC 40 Fântănele 15 15 10 5
+203 BC
+44 Orbeni 8 40 0 30
+204 BC 51 Pralea 30 10 0 0
+205 BC Total
+133 150 60 45
+206 BC
+2 Camenca 5 0 0 0
+207 BC 3 Cotumba 6 0 0 0
+208 BC 6 Nogea 9 5 0 0
+209 BC 7 Geamăna 8 0 0 0
+210 BC 8 Zemeș 7 10 0 0
+211 BC 10 Solonț 5 70 0 30
+212 BC 11 Poduri 1 75 0 15
+213 BC 13 Plopu 1 30 0 5
+214 BC 18 Larga 5 50 0 5
+215 BC 19 Bogdanești 5 70 0 5
+216 BC 24 Brătila 10 70 0 10
+217 BC 25 Bârsănești 6 70 0 20
+218 BC 26 Berzunți 5 40 0 10
+219 BC 27 Șerbești 5 60 35 35
+220 BC 28 Dămienești 9 70 15 50
+221 BC 29 Odobești 12 60 10 20
+222 BC 31 Parincea 12 95 5 10
+223 BC 32 Buhoci 16 75 40 25
+224 BC 33 Gioseni 7 70 15 20
+225 BC 37 Călugara 8 55 0 15
+226 BC AJVPS Bacău 38 Buhuși 6 50 10 15
+227 BC 41 Trebeș 9 50 0 5
+228 BC 43 Sascut 13 110 0 20
+229 BC 45 Corbasca 9 110 20 15
+230 BC 46 Găiceana 14 30 0 0
+231 BC 47 Huruiești 4 70 45 25
+232 BC 48 Borzești 15 75 0 30
+233 BC 49 Urechești 9 140 0 20
+234 BC 52 Glăvănești 9 115 30 20
+235 BC 53 Vultureni 8 70 25 15
+236 BC 54 Gloduri 11 55 5 10
+237 BC 55 Colonești 16 90 0 15
+238 BC Total
+265 1940 255 465
+239 BC AVPS Bukk 1 Ghimeș 1 0 0 0
+240 BC O.S Bisericesc Bc. 42 Blăgesti 10 60 10 5
+241 BC SVPS Bacau 4 Sulța 4 5 0 0
+242 BC 5 Ciobănuș 6 3 0 0
+243 BC 9 Schit 3 5 0 0
+244 BC 12 Scorțeni 4 80 0 15
+245 BC 23 Sănduleni 8 50 0 20
+246 BC 34 Pâncești 6 120 5 25
+247 BC 35 Răcăciuni 5 80 0 10
+248 BC 36 Faraoani 5 100 0 20
+249 BC Total
+41 443 5 90
+250 BC AVPS Diana 50 Bâlca 22 70 0 10
+251 BC SC OS Lignum 14 Darmănești 15 0 0 0
+252 BC OS Privat Oituz 20 Oituz 15 5 0 5
+253 BC AVPS Lebada BR 30 Lipova 6 40 5 5
+254 BC AVPS Cerbul Bicfalau 56 Stanișești 28 40 0 5
+255 BC 57 Răchitoasa 28 35 6 20
+256 BC Total
+56 75 6 25
+257
+Total Județ
+564 2783 341 650
+258 BH
+1 CURTUIȘENI 10 60 150 10
+259 BH
+5 CHERECHIU 5 150 200 10
+260 BH
+7 DIOSIG 10 200 230 20
+261 BH
+11 ITEU 20 70 150 10
+262 BH
+13 MARGINEA 6 80 100 10
+263 BH
+14 MISCA 18 70 150 10
+264 BH
+15 CUZAP 10 0 35 0
+265 BH
+16 BRUSTURI 11 20 70 10
+266 BH
+17 BURZUC 2 50 80 10
+267 BH
+19 BIHARIA 6 170 290 0
+268 BH
+20 BORS 0 190 300 0
+269 BH
+21 PALEU 30 30 300 0
+270 BH
+22 INEU 30 70 200 0
+271 BH
+23 SACADAT 10 50 200 5
+272 BH
+24 ALPAREA 18 60 200 5
+273 BH
+27 GIRIS 0 160 260 0
+274 BH AJVPS BIHOR 28 LIVADA 5 120 170 0
+275 BH
+29 CEFA 5 190 300 0
+276 BH
+32 CIUMEGHIU 5 250 350 15
+277 BH
+34 SALONTA 4 250 450 15
+278 BH
+40 TALPOS 5 60 240 30
+279 BH
+41 HODISEL 8 40 75 20
+280 BH
+42 LUPOAIA 15 60 220 0
+281 BH
+44 CORBESTI 30 0 20 0
+282 BH
+46 LUNCASPRIE 20 0 20 0
+283 BH
+47 CRÎNCEȘTI 20 25 400 30
+284 BH
+48 CUIESD 12 20 50 30
+285 BH
+51 BOROD 17 20 30 30
+286 BH
+52 BALNACA 8 20 30 20
+287 BH
+53 HOTAR 10 40 110 125
+288 BH
+54 MAGESTI 8 40 110 130
+289 BH
+56 CURĂȚELE 6 20 125 50
+290 BH
+57 ROȘIA 20 0 20 0
+291 BH
+59 FINIȘ 25 20 110 25
+292 BH
+61 FERICE 10 20 110 80
+293 BH
+62 CUȘUIUȘ 12 20 80 35
+294 BH
+65 VARATEC 20 5 35 0
+295 BH Total gestionar
+451 2650 5970 735
+296 BH
+3 TARCEA 8 50 150 30
+297 BH
+4 SIMIAN 30 30 120 30
+298 BH
+6 CETARIU 50 50 120 10
+299 BH
+9 CUBULCUT 35 50 200 30
+300 BH
+10 PADUREA MARE 24 30 40 20
+301 BH
+18 SALARD 15 40 150 15
+302 BH
+25 BOBOȘTEA 30 10 40 0
+303 BH
+26 PAUȘA 30 30 70 10
+304 BH
+30 PERI 15 20 30 10
+305 BH
+31 GORONISTE 13 30 50 10
+306 BH
+33 ARPASEL 0 30 50 10
+307 BH
+35 OSAND 18 10 20 10
+308 BH
+36 RAPA 18 10 20 10
+309 BH
+37 COCIUBA 8 20 40 10
+310 BH
+38 LUNCA 8 40 60 10
+311 BH D.S. ORADEA 39 CIGHID 9 40 60 10
+312 BH
+45 SURDUCEL BULZ 19 10 0 0
+313 BH
+49 PEȘTIȘ 9 10 10 5
+314 BH
+50 GEPIȘ 7 5 10 5
+315 BH
+55 FORAU 17 20 100 15
+316 BH
+58 SOHODOL 10 0 10 5
+317 BH
+63 PIETROASA 3 0 0 0
+318 BH
+65 DUMBRAVANI 5 0 0 0
+319 BH
+66 BIHARIA 8 0 0 0
+320 BH
+67 REMEȚI 2 0 0 0
+321 BH
+68 Vl. IADULUI 2 0 0 0
+322 BH
+69 Vl. DRAGANULUI 2 0 0 0
+323 BH Total gestionar
+395 535 1350 255
+324 BH AVPS GORUNUL 2 VAȘAD 4 100 150 50
+325 BH Total gestionar
+4 100 150 50
+326 BH UNIV. ORADEA 8 SÂNTIMBREU 22 70 100 10
+327 BH Total gestionar
+22 70 100 10
+328 BH AV WAIDMANNSHEIL 12 BALC 72 10 170 0
+329 BH Total gestionar
+72 10 170 0
+330 BH AVPS CEICA 43 BUCUROAIA 8 20 90 15
+331 BH Total gestionar
+8 20 90 15
+332 BH ASOCIATIA GLIGANU 60 DUMBRAVIȚA 60 10 100 0
+333 BH Total gestionar
+60 10 100 0
+334
+Total județ Bihor
+1012 3395 7930 1065
+335 BN
+1 Negrilești 7 60 50 0
+336 BN
+2 Dobric 4 60 50 0
+337 BN
+3 Agrieș 5 10 0 0
+338 BN A.J.V.P.S. Bistrița 4 Târlișua 6 10 0 0
+339 BN Năsăud 16 Ilva Mare 4 10 0 0
+340 BN
+20 Minitiu 6 60 70 0
+341 BN
+33 Figa 7 60 60 0
+342 BN
+35 Bozieș 8 70 60 0
+343 BN
+39 Micești 10 130 90 0
+344 BN Total gestionar
+57 470 380 0
+345 BN
+15 Vl. Mare 8 0 0 0
+346 BN Direcția Silvică 24 Cușma 6 0 0 0
+347 BN Bistrița Năsăud 25 Tihuța 6 0 0 0
+348 BN
+27 Budac 12 0 0 0
+349 BN Total gestionar
+32 0 0 0
+350 BN ICAS București 36 Jimbor 2 10 10 0
+351 BN
+37 Matei 3 15 10 0
+352 BN Total gestionar
+5 25 20 0
+353 BN
+13 Cormaia 7 5 0 0
+354 BN AC Ursul Brun 14 Anieș 5 5 0 0
+355 BN
+21 Măgheruș 32 40 70 5
+356 BN Total gestionar
+44 50 70 5
+357 BN
+18 Leșu 6 10 0 0
+358 BN AVPS Cerbul Dumitra 22 Dumitra 8 70 60 0
+359 BN
+28 Simionești 10 50 70 0
+360 BN Total gestionar
+24 130 130 0
+361 BN
+7 Bichigiu 8 0 0 0
+362 BN OS Com Telciu RA 9 Telciu 8 0 0 0
+363 BN
+12 Parva 6 0 0 0
+364 BN Total gestionar
+22 0 0 0
+365 BN Ocolul Silvic 6 Țibleș 9 15 10 0
+366 BN Someș Țibleș 10 Gersa 5 5 0 0
+367 BN Total gestionar
+14 20 10 0
+368 BN A.S.V. Montana 5 Mireș 4 30 40 5
+369 BN Coșbuc 8 Fiad-Romuli 11 0 0 0
+370 BN Total gestionar
+15 30 40 5
+371 BN GSS Năsăud 11 Rebra 5 15 0 0
+372 BN O.S. Valea Ilvei 17 Lunca Ilvei 5 10 0 0
+373 BN OV Transilvania 19 Nepos 7 15 0 0
+374 BN AV Diana Bistrița 23 Poieni 4 15 20 0
+375 BN O.S. Bistrița Bârgăului 26 Colibița 8 10 0 0
+376 BN AVPS Călimani Șieu 29 Șieuț 14 10 0 0
+377 BN AVPS Acvila Teaca 30 Teaca 22 10 24 0
+378 BN AVPS Vulpea Herina 31 Albești 30 20 40 0
+379 BN A.V. Artemis Lechința 32 Sâniacob 11 30 50 0
+380 BN AV Ardealul Lechința 34 Malin 9 20 30 5
+381 BN AV Colț Alb 38 Sânmihai 8 95 75 0
+382
+Total județ Bistrița Năsăud
+336 975 889 15
+383 BT
+4 Tudora 11 20 0 0
+384 BT
+5 Runc 3 25 0 0
+385 BT
+7 Cristești 2 20 0 0
+386 BT
+15 Răuseni 0 40 0 10
+387 BT
+17 Gorbănești 12 20 0 0
+388 BT
+19 Trușești 10 25 0 0
+389 BT DS Botoșani 21 Ionăseni 4 15 0 0
+390 BT
+24 Romanești 10 35 15 10
+391 BT
+30 Havarna 0 5 0 0
+392 BT
+34 Avrămeni 7 30 10 5
+393 BT
+35 Mitoc 4 35 0 5
+394 BT
+36 Cotușca 0 30 0 0
+395 BT
+37 Mileanca 0 20 0 0
+396 BT
+39 Păltiniș 8 30 10 0
+397 BT
+40 Suharău 11 25 0 0
+398 BT
+43 Cordăreni 3 40 15 10
+399 BT
+47 Șindriceni 17 20 0 10
+400 BT Total
+102 435 50 50
+401 BT
+2 Vlădeni 5 125 0 0
+402 BT
+3 Corni 6 125 0 0
+403 BT
+6 Flămânzi 7 100 0 0
+404 BT
+9 Nicșeni 2 140 0 15
+405 BT
+10 Unțeni
+180 0 25
+406 BT
+11 Stăuceni
+120 0 20
+407 BT
+12 Bălușeni
+120 0 20
+408 BT
+13 Copălău 5 120 0 10
+409 BT
+14 Prăjeni
+180 0 40
+410 BT
+16 Sulița 4 140 0 0
+411 BT
+18 Dângeni
+140 0 25
+412 BT AJVPS Botoșani 20 Durnești 2 140 5 25
+413 BT
+22 Todireni 2 140 0 10
+414 BT
+23 Călărași 3 140 10 15
+415 BT
+25 Ștefănești 6 140 10 40
+416 BT
+27 Hănești 6 140 0 25
+417 BT
+28 Vlăsinești
+160 0 15
+418 BT
+32 Săveni
+120 0 15
+419 BT
+33 Manoleasa 1 150 0 15
+420 BT
+38 Darabani 2 110 0 15
+421 BT
+41 Cristinești
+140 0 35
+422 BT
+42 Hudești
+125 0 30
+423 BT
+44 Pomârla 2 140 0 30
+424 BT
+45 Brăești 1 150 0 30
+425 BT
+46 Văculești 25 140 0 20
+426 BT
+48 Dersca 3 140 0 25
+427 BT Total
+82 3565 25 500
+428 BT AVPS Lebăda Brăila 29 Vorniceni 0 50 0 10
+429 BT AVPS Lucefărul 1 M.Eminescu 4 150 10 10
+430 BT
+31 Drăgușeni 1 200 0 10
+431 BT Total
+5 350 10 20
+432 BT AVPS Lunca Buc. 8 Leorda 0 80 0 0
+433 BT AVPS Euro Hunter 26 Ripiceni 10 100 0 50
+434 BT AVPS Huntmanship 49 Ibănesti 50 30 0 0
+435
+Total județ
+249 4610 85 630
+436 BV
+3 Homorod 8 4 0 0
+437 BV
+8 Valea Bogății 12 4 0 0
+438 BV
+9 Dopca 14 4 0 0
+439 BV DS Brașov 11 Comana 12 4 0 0
+440 BV
+15 Codlea 8 4 0 0
+441 BV
+27 Bran- Simon 5 0 0 0
+442 BV
+31 Bârsa 8 0 0 0
+443 BV
+34 Șercăița 12 4 0 0
+444 BV
+40 Sebeș 10 4 0 0
+445 BV
+41 Dejani 10 4 0 0
+446 BV Total
+99 32 0 0
+447 BV
+14 Rotbav 12 30 0 10
+448 BV
+16 Cristian 12 30 0 15
+449 BV
+17 Geamăna 8 30 0 15
+450 BV AJVPS Brașov 20 Prejmer Cernatu 2 50 0 25
+451 BV
+25 Tărlung 8 10 0 10
+452 BV
+28 Moeciu 5 5 0 5
+453 BV
+29 Piatra Craiului 5 5 0 5
+454 BV
+45 Dălghiu 5 0 0 5
+455 BV Total
+57 160 0 90
+456 BV AVPS Făgetul 10 Dopca-Apața 10 10 0 10
+457 BV AVPS Popilnica 12 Vlădeni 10 20 0 10
+458 BV AVP Doripesco 13 Crizbav 8 20 0 10
+459 BV RPLP Krostadt 18 Timiș 8 0 0 5
+460 BV OS Râșnov RA 26 Râșnov 14 10 0 10
+461 BV AV Codrul Verde 21 Budila 12 30 0 10
+462 BV
+22 Urlători 5 5 0 0
+463 BV Total
+17 35 0 10
+464 BV
+32 Strâmba- Mira 15 10 0 0
+465 BV
+33 Veneția 10 10 5 0
+466 BV
+36 Felmer 18 10 10 0
+467 BV AVPS Făgaraș 37 Șoarș- Bărcuț 15 10 10 0
+468 BV
+38 Făgăraș 0 15 10 15
+469 BV
+39 Cincu 25 10 10 5
+470 BV
+42 Voila 10 10 5 5
+471 BV Total
+93 75 50 25
+472 BV
+2 Fișer 8 10 10 5
+473 BV AVPS Rupea 5 Ungra 12 10 5 5
+474 BV
+6 Racoș 14 10 0 5
+475 BV
+7 Ticus 10 10 10 5
+476 BV Total
+44 40 25 20
+477 BV Univ. Transilvania 19 Sanpetru 4 30 10 0
+478 BV
+23 Garcin 5 0 0 0
+479 BV Total
+9 30 10 0
+480 BV Club Diana 35 Toderița 18 30 20 30
+481 BV RPL OS Ciucaș 44 Zizin 25 25 0 5
+482 BV AVPS Zăganul 31 Poiana- Mărului 20 15 0 20
+483 BV AV Hurinul Bun. 1 Bunești 20 10 10 5
+484 BV As. Dumbrava 4 Jibert 18 10 5 5
+485 BV OV Șoimul 24 Victoria 10 6 0 0
+486 BV
+43 Sâmbăta 5 8 0 0
+487 BV Total
+15 14 0 0
+488
+Total Județ
+485 536 120 255
+489 BR
+3 Cojocaru 4 120 45 5
+490 BR
+5 Lungulețu 3 100 35 10
+491 BR
+7 Filipoiu 2 90 70 0
+492 BR
+8 Stăncuța 1 150 60 0
+493 BR
+9 Tufești 0 160 50 10
+494 BR
+11 Brăila 0 180 50 5
+495 BR
+13 Bâsca 2 80 60 10
+496 BR
+15 Romanu 0 250 40 5
+497 BR
+16 Comăneasca 0 140 35 15
+498 BR
+17 Corbu Vechi 10 90 50 15
+499 BR
+19 Racovița 6 240 50 15
+500 BR
+20 Siliștea 0 200 40 10
+501 BR
+21 Plopu 0 200 30 5
+502 BR
+23 Filipești 3 160 40 10
+503 BR
+24 Ibrianu 20 100 80 15
+504 BR AJVPS Brăila 25 Jirlău 4 250 40 15
+505 BR
+26 Surdila 2 250 50 10
+506 BR
+27 Mircea Vodă 1 250 30 15
+507 BR
+28 Batogu 1 140 30 5
+508 BR
+29 Perișoru 0 250 30 10
+509 BR
+30 Oprișănești 0 220 30 0
+510 BR
+31 Urleasca 0 220 45 10
+511 BR
+33 Viziru 0 110 25 10
+512 BR
+34 Dspiru Haret 3 240 80 15
+513 BR
+36 însurăței 0 220 30 15
+514 BR
+37 Bărăganu 1 240 35 15
+515 BR
+47 Băndoiu 1 60 35 0
+516 BR
+48 Muchea 0 50 30 10
+517 BR
+50 Ostroavele Br 4 0 70 0
+518 BR Total gestionar
+68 4760 1295 260
+519 BR
+1 Vâlciu 1 0 50 0
+520 BR
+10 Tichilești 0 37 20 10
+521 BR
+12 T. Vladimirescu 0 160 25 20
+522 BR
+14 Blasova 4 100 40 20
+523 BR
+32 Zăvoaia 0 140 5 10
+524 BR
+35 Viișoara 4 200 40 15
+525 BR DS Brăila 38 Șuțești 10 300 30 20
+526 BR
+40 Lișcoteanca 0 200 20 10
+527 BR
+42 Colțea 2 50 55 10
+528 BR
+43 Dudești 1 200 60 10
+529 BR
+46 Gâsca 2 0 50 0
+530 BR
+49 Malu Roșu 5 35 100 15
+531 BR Total gestionar
+29 1422 495 140
+532 BR
+39 Lanurile 0 120 0 0
+533 BR AVPS Diana 41 Ciocile 0 100 0 0
+534 BR
+44 Florica 0 100 0 0
+535 BR
+45 Tătaru 0 100 0 0
+536 BR Total gestionar
+0 420 0 0
+537 BR AVPS Sitaru 2 Mărașu 0 90 80 10
+538 BR AJVPS Brașov 4 Frecăței 4 75 125 75
+539 BR AVPS Cocorul București 6 Pelicanu 8 120 170 30
+540 BR AVPS Acvila București 18 Măxineni 0 200 90 20
+541 BR AVPS Șoimul București 22 Dedulești 21 300 150 100
+542
+Total județ
+130 7387 2405 635
+543 BZ
+1 CA Rosetti 8 250 30 25
+544 BZ
+4 Căldărăști 4 120 15 40
+545 BZ
+5 Padina 2 120 0 40
+546 BZ
+6 Scutelnici 1 200 4 30
+547 BZ
+7 Mitropolia 2 160 15 30
+548 BZ
+10 Florica 2 300 15 30
+549 BZ
+11 Glodeanu Sărat 2 220 10 20
+550 BZ
+12 Mihăilești 5 300 30 65
+551 BZ
+13 Năieni 2 170 15 30
+552 BZ
+14 Costești 8 160 20 35
+553 BZ
+17 Țintești 0 250 3 30
+554 BZ
+18 Tăbărăști 6 120 40 25
+555 BZ
+19 Stâlpu 8 400 80 80
+556 BZ
+20 Monteoru 10 290 60 60
+557 BZ
+21 Gura Sărății 6 160 40 20
+558 BZ
+23 Grăjdana 22 60 5 5
+559 BZ
+24 Rușavățu 17 15 0 0
+560 BZ
+26 Umbrărelu 51 20 0 0
+561 BZ
+27 Berca 30 30 3 5
+562 BZ
+28 Cislău 18 10 0 0
+563 BZ
+29 Cătina 9 10 0 0
+564 BZ AJVPS Buzău 30 Pătârlagele 11 0 0 0
+565 BZ
+31 Colți 28 10 0 0
+566 BZ
+32 Valea Nehoiului 1 0 0 0
+567 BZ
+38 Neharna Mușa 10 0 0 0
+568 BZ
+39 Breazău 15 15 0 0
+569 BZ
+40 Vintilă Vodă 19 10 0 0
+570 BZ
+41 Beceni 36 30 0 0
+571 BZ
+42 Aldeni 28 50 2 0
+572 BZ
+43 Mărăcineni 7 250 20 40
+573 BZ
+44 Câlnău 17 90 40 35
+574 BZ
+46 Făgetu 8 200 25 30
+575 BZ
+49 Boldu 0 280 10 20
+576 BZ
+50 Vâlcele 0 300 30 20
+577 BZ
+51 Amara 3 270 10 20
+578 BZ
+53 Roșiori 0 150 0 25
+579 BZ
+54 Săgeata 7 350 10 0
+580 BZ
+55 Vadu Pașii 0 250 0 40
+581 BZ
+56 Bobocu 0 200 0 40
+582 BZ
+57 Zărnești 9 300 5 20
+583 BZ
+58 Oreavu 13 400 10 40
+584 BZ Total gestionar
+425 6520 547 900
+585 BZ
+2 Luciu 0 95 19 7
+586 BZ
+3 Rușețu 10 200 35 20
+587 BZ
+15 Limpezișu 4 200 15 20
+588 BZ
+16 Călțuna 0 150 5 15
+589 BZ DS Buzău 33 Siriu 15 0 0 0
+590 BZ
+34 Harțagu 15 0 0 0
+591 BZ
+35 Păltiniș Cașoca 15 0 0 0
+592 BZ
+36 Bâsca Mare 13 0 0 0
+593 BZ
+37 Piciorul Caprei 16 0 0 0
+594 BZ
+45 Dedulești 18 25 0 0
+595 BZ Total gestionar
+106 670 74 62
+596 BZ
+47 Crângul Ursului 4 160 12 30
+597 BZ AVPS Căprioara Rm. 48 Știubei 4 140 8 25
+598 BZ
+52 Ziduri 2 200 0 30
+599 BZ Total gestionar
+10 500 20 85
+600 BZ AVPS Acvila Buc. 8 Smârdan 0 90 0 10
+601 BZ AVPS Diana Buc. 9 Glodeanu Siliștea 0 80 0 10
+602 BZ AVPS Bradul Buc. 22 Măgura Tisău 25 15 5 0
+603 BZ AVPS Călăuza Buc. 25 Brăești 37 15 0 0
+604
+Total județ
+603 7890 646 1067
+605 CS O.S.E CARANSEBES 1 Tincova M 8 0 20 0
+606 CS O.S.E CARANSEBES 3 Borlova 0 0 0 0
+607 CS Total O.S.E. C-sebes
+8 0 20 0
+608 CS
+6 Golet-Petros 4 0 20 0
+609 CS
+14 Maru 1 0 0 0
+610 CS
+15 Poiana - Maru 1 0 0 0
+611 CS
+16 Rusca 5 0 0 0
+612 CS
+20 Higeg 4 0 0 0
+613 CS
+21 Higigel 3 0 0 0
+614 CS
+27 Polom 4 0 0 0
+615 CS
+30 Vl. Cernei
+0 0 0
+616 CS
+31 Pecinisca 5 0 0 0
+617 CS
+34 Sirinia 4 0 0 0
+618 CS DS CARAS SEVERIN 39 Pojejena 4 0 0 10
+619 CS
+42 Vl. Beiului 5 0 0 0
+620 CS
+44 Micos 4 2 50 0
+621 CS
+50 Dumbrava 4 10 150 20
+622 CS
+51 Varadia 14 20 250 40
+623 CS
+52 Buhui 7 0 0 0
+624 CS
+54 Poneasca-Taria 10 0 0 0
+625 CS
+56 Patas 2 0 0 0
+626 CS
+63 Valiug 0 0 0 0
+627 CS
+66 Comarnic 0 0 0 0
+628 CS
+70 Bocsa 20 10 20 0
+629 CS
+76 Iersig-Dumbrava 24 0 80 10
+630 CS Total D.S. CS
+125 42 570 80
+631 CS
+2 Turnu Ruieni 8 20 30 0
+632 CS
+4 Vârciorova 4 10 5 0
+633 CS
+5 Ilova 2 10 10 0
+634 CS
+7 Poiana 6 10 5 0
+635 CS
+8 Delinești 6 10 10 10
+636 CS
+9 Brebu Zorlenț 6 10 25 5
+637 CS
+10 Mâtnic Prisaca 12 20 70 0
+638 CS
+11 Sacu 10 20 50 0
+639 CS
+12 Otelu 8 16 15 0
+640 CS
+13 Magura 6 10 20 0
+641 CS
+17 Bautar Bucova 7 0 0 0
+642 CS
+18 Marga 6 0 0 0
+643 CS
+19 Armenis 7 10 0 0
+644 CS
+22 Teregova 6 10 0 0
+645 CS
+23 Slatina 12 10 0 0
+646 CS
+24 Belentin 11 5 0 0
+647 CS
+25 Domasnea 8 5 0 0
+648 CS
+26 Cornereva 8 10 0 0
+649 CS
+28 Sfardin 8 10 0 0
+650 CS
+29 Craiova 8 5 0 0
+651 CS
+32 Iardastita 8 0 0 0
+652 CS
+33 Bigar 7 0 0 0
+653 CS
+35 Berzasca 5 0 0 0
+654 CS
+36 Valea Liubcova 7 0 0 0
+655 CS
+37 Sichevita 5 0 0 0
+656 CS
+38 Moldova Noua 5 410 10 25
+657 CS
+40 Belobresca 7 10 13 0
+658 CS AJVPS CS 41 Socol 8 10 30 0
+659 CS
+43 Cheile Nerei 4 5 25 5
+660 CS
+45 Cârnecea 10 15 50 20
+661 CS
+46 Jitin 10 20 25 10
+662 CS
+47 Oravița 10 20 25 0
+663 CS
+48 Ilidia 10 15 90 10
+664 CS
+49 Iertof 5 20 150 20
+665 CS
+53 Steierdorf 6 0 0 0
+666 CS
+55 Bozivici 10 0 10 0
+667 CS
+57 Borloveni 6 0 0 0
+668 CS
+58 Prigor 6 0 0 0
+669 CS
+59 Rudaria 6 0 0 0
+670 CS
+60 Bănia 6 0 10 0
+671 CS
+61 Dalboșet 10 0 10 0
+672 CS
+62 Văliugel 4 10 0 0
+673 CS
+64 Soceni Lupac 6 20 60 10
+674 CS
+65 Sodol Cozia 8 20 30 5
+675 CS
+67 Vermeș 10 10 65 10
+676 CS
+68 Bărbosu 9 10 10 0
+677 CS
+69 Ezeriș 8 20 60 10
+678 CS
+71 Dognecea 15 0 0 0
+679 CS
+72 Berzovia Ocna 8 10 50 5
+680 CS
+73 Ferendia 6 10 25 10
+681 CS
+74 Maureni 6 20 120 10
+682 CS Total AJVPS CS
+380 856 1108 165
+683 CS AV VL LIMAN FAGET 75 SOSDEA 1 20 90 0
+684 CS Total AV VL LIMAN
+1 20 90 0
+685
+Total județ CS
+514 918 1788 245
+686 CL
+7 Dragalina 0 90 20 10
+687 CL
+12 Sărulești 0 130 0 10
+688 CL
+14 Bogdana 16 130 40 30
+689 CL
+16 Drajna 7 150 0 10
+690 CL
+17 Putineiu 18 90 30 10
+691 CL
+18 Bazarghideanu 11 120 30 20
+692 CL AJVPS Călărași 23 Mostiștea 0 110 20 0
+693 CL
+24 Plevna 0 120 20 10
+694 CL
+25 Independența 0 120 20 10
+695 CL
+26 ┼žtefan Voda 0 140 50 30
+696 CL
+27 Calărași Nord 0 140 60 20
+697 CL
+28 Dichiseni 0 120 50 10
+698 CL
+34 Grădiștea 0 90 20 10
+699 CL
+46 Roseți 40 80 100 0
+700 CL
+47 Pietroiu 100 140 150 50
+701 CL Total AJVPS Călărași 192 1770 610 230
+702 CL
+3 N. Bălcescu 0 270 25 20
+703 CL
+4 Săpunari 0 150 25 20
+704 CL
+9 Plătărești 1 210 70 20
+705 CL
+10 Gologanu 15 220 25 20
+706 CL AVPS Sitarul 11 Tămădău 1 200 25 20
+707 CL
+21 Vasilați 4 200 180 80
+708 CL
+29 Negoiești 9 170 25 20
+709 CL
+30 Nana 15 220 10 20
+710 CL
+36 Radovanu 0 160 70 40
+711 CL
+40 Chirnogi 4 100 90 40
+712 CL Total AVPS Sitarul 49 1900 545 300
+713 CL
+37 Mitreni 3 160 30 20
+714 CL AVPS Oltenița 41 Oltenița 19 40 150 25
+715 CL
+42 Chiselet 67 45 200 200
+716 CL Total AVPS Oltenița 89
+380 245
+717 CL
+1 Gostilele 2 140 140 30
+718 CL AVPS Diana 19 Borcea 0 100 15 30
+719 CL
+48 Fermecatu 65 120 150 30
+720 CL Total AVPS Diana 67 360 305 90
+721 CL
+6 Dragoș Voda 0 50 20 10
+722 CL AVPS Acvila 15 Ivănești 0 70 20 10
+723 CL
+38 Ulmeni 0 120 20 10
+724 CL Total AVPS Acvila 0 240 60 30
+725 CL AVPS Vulturul 2 Ileana 8 250 70 50
+726 CL
+39 Greaca 30 50 80 50
+727 CL Total AVPS Vulturul 38 300 150 100
+728 CL AVPS Bucuresti 20 Frumușani 45 100 80 30
+729 CL AVPS Cocorul 5 Dâlga 2 200 20 90
+730 CL AVPS Bradul 35 Crivăț 1 125 80 45
+731 CL AVPS Zimbrul Românesc 2007 22 Măcelaru 10 135 0 20
+732 CL ICAS Bucuresti 8 Perișoru 8 50 25 0
+733 CL
+13 Răzvani 0 40 15 0
+734 CL
+31 Ciornuleasa 11 60 0 0
+735 CL
+32 Vărăști 17 40 15 0
+736 CL DS Călărași 33 Ciocănești 0 10 5 0
+737 CL
+43 Boianu 28 20 20 0
+738 CL
+44 Sfredere 50 15 20 0
+739 CL
+45 Călărași 0 15 40 0
+740 CL
+49 Fetești 30 25 35 0
+741 CL Total DS Călărași 136 225 150 0
+742 Total județul Călărași 637 5405 2405 1180
+743 CJ
+2 STRÂMBU 11 10 20 0
+744 CJ
+3 VAD 11 10 20 0
+745 CJ
+4 BOBALNA 20 10 30 0
+746 CJ
+5 DEJ 8 10 30 0
+747 CJ
+6 MICA 15 10 40 0
+748 CJ
+8 GHERLA 20 35 50 0
+749 CJ
+10 CORNEȘTI II 8 25 40 10
+750 CJ
+11 PANTICEU 15 35 25 10
+751 CJ
+12 CRISTOREL 15 35 40 10
+752 CJ
+15 ȚAGA 15 10 20 10
+753 CJ
+16 LIVADA 3 10 50 0
+754 CJ
+17 SÂMARTIN 20 30 25 0
+755 CJ
+18 FEIURDENI 4 75 80 10
+756 CJ
+19 CHINTENI 2 40 50 10
+757 CJ
+21 SARD 10 15 10 0
+758 CJ AJVPS CLUJ 22 STOLNA 28 10 10 0
+759 CJ
+23 FLOREȘTI 25 10 30 0
+760 CJ
+24 SOMEȘENI 6 20 60 10
+761 CJ
+25 CORPADEA 6 40 60 10
+762 CJ
+29 GEACA 6 80 80 10
+763 CJ
+30 CATINA 3 80 70 10
+764 CJ
+32 TRITENI 4 100 50 10
+765 CJ
+34 CAL ARAȘI 3 100 50 10
+766 CJ
+36 FELEAC 17 10 20 0
+767 CJ
+41 VALEA IERII 10 0 0 0
+768 CJ
+45 SOMEȘ CALD 12 0 0 0
+769 CJ
+47 GILAU 18 10 10 0
+770 CJ
+48 VIȘTEA 10 15 20 0
+771 CJ
+49 VALEA BELIȘ 7 0 0 0
+772 CJ
+54 HUEDIN 15 0 0 0
+773 CJ
+56 CIUCEA 10 0 0 0
+774 CJ Total gestionar
+357 835 990 120
+775 CJ
+27 FRATA 21 50 50 0
+776 CJ Directia Silvica 28 VAIDA CAMARAȘ 18 50 50 0
+777 CJ Cluj 40 BAIȘOARA 30 0 0 0
+778 CJ
+42 CAPRIȚA 6 0 0 0
+779 CJ
+44 VL RACATAULUI 2 0 0 0
+780 CJ
+46 DUMBRAVA 16 0 0 0
+781 CJ
+50 GIURCUȚA 0 0 0 0
+782 CJ Total gestionar
+93 100 100 0
+783 CJ
+35 HARCANA 3 30 50 5
+784 CJ AVPS Potaissa 37 TURDA 6 15 30 5
+785 CJ Turda 38 MOLDOVENEȘTI 20 25 30 5
+786 CJ
+39 LITA 18 20 25 5
+787 CJ Total gestionar
+47 90 135 20
+788 CJ A.V.P.S. Somes Dej 1 CHIUEȘTI 8 30 100 0
+789 CJ Total gestionar
+8 30 100 0
+790 CJ AVPS Voievodul Gelu 7 UNGURAȘ 11 10 40 0
+791 CJ Total gestionar
+11 10 40 0
+792 CJ A V Diana Club Cluj 9 CORNEȘTI 9 10 25 0
+793 CJ Total gestionar
+9 10 25 0
+794 CJ A.V. Artemis Cluj 13 BORȘA 12 5 15 0
+795 CJ Total gestionar
+12 5 15 0
+796 CJ A. Club V. Diana Cluj 26 SUATU 30 15 15 0
+797 CJ Total gestionar
+30 15 15 0
+798 CJ AV Samus Sylvestris 43 SOMEȘUL RECE 7 5 0 0
+799 CJ Total gestionar
+7 5 0 0
+800 CJ A.V. Cornul de Aur 51 RACHIȚELE 16 5 0 0
+801 CJ Total gestionar
+16 5 0 0
+802 CJ AV Zdroba 14 BONȚIDA 6 30 60 10
+803 CJ Total gestionar
+6 30 60 10
+804 CJ AVPS Vladeasa 20 BACIU 13 25 30 10
+805 CJ Total gestionar
+13 25 30 10
+806 CJ AVPS Fugile 31 CEANU MARE 7 100 60 10
+807 CJ Total gestionar
+7 100 60 10
+808 CJ AV Stejarii 33 LUNA 5 125 60 10
+809 CJ Total gestionar
+5 125 60 10
+810 CJ
+52 CALAȚELE 10 0 0 0
+811 CJ AV Regal 53 CALATA 8 0 0 0
+812 CJ
+55 VL DRAGANULUI 20 0 0 0
+813 CJ Total gestionar
+38 0 0 0
+814
+Total județul Cluj
+659 1385 1630 180
+815 CT
+6 Negureni 10 40 70 5
+816 CT DS Constanța 7 Dobromir 13 30 40 5
+817 CT
+53 Negru Vodă 3 60 15 40
+818 CT
+55 Hagieni 4 70 10 20
+819 CT Total DS Constanta 30 200 135 70
+820 CT
+1 Ostrov 24 30 40 30
+821 CT
+2 Carvan 22 30 40 30
+822 CT
+3 Băneasa 26 40 40 30
+823 CT
+4 Oltina 26 50 40 40
+824 CT
+5 Ioan Corvin 16 40 40 30
+825 CT
+6 Decebal 20 20 20 0
+826 CT
+10 Ivrinezu 0 20 20 0
+827 CT
+11 Rasova 3 50 25 20
+828 CT
+13 Peștera 4 80 20 20
+829 CT
+14 Medgidia 0 80 15 20
+830 CT
+15 Cernavodă 5 70 20 20
+831 CT
+17 Tepeș 0 60 20 10
+832 CT
+19 Topalu 3 50 20 10
+833 CT
+20 Ghindărești 0 50 20 10
+834 CT
+21 Vadu 2 50 20 20
+835 CT
+22 Gârliciu 2 50 20 0
+836 CT
+23 Horia 0 60 0 0
+837 CT
+24 Vulturu 0 80 0 0
+838 CT
+25 Pantelimon 0 80 0 20
+839 CT AJVPS Constanța 26 Mireasa 0 70 10 10
+840 CT
+27 Sitiorman 0 80 10 0
+841 CT
+28 Gura Dobrogei 0 70 10 0
+842 CT
+29 Fântânele 0 60 0 20
+843 CT
+30 Mihai Viteazu 7 50 10 20
+844 CT
+31 Săcele 5 50 0 0
+845 CT
+32 Vadu 9 40 15 0
+846 CT
+33 Năvodari 0 60 0 10
+847 CT
+34 Mihail Kogălniceanu 0 30 10 0
+848 CT
+35 Nisipari 0 80 0 0
+849 CT
+36 Murfatlar 5 70 20 0
+850 CT
+37 Ovidiu 0 60 0 0
+851 CT
+38 Valul lui Traian 0 70 0 10
+852 CT
+39 Potârnichea 0 70 0 0
+853 CT
+40 Techirghiol 0 80 0 0
+854 CT
+41 23.aug 0 60 0 0
+855 CT
+42 Comorova 7 80 15 20
+856 CT
+43 Topraisar 0 80 0 0
+857 CT
+44 Osmancea 0 80 0 0
+858 CT
+45 Ciocârlia 0 70 0 0
+859 CT
+46 Viișoara 0 70 0 0
+860 CT
+47 Negrești 0 50 0 0
+861 CT
+48 Șipote 7 50 15 0
+862 CT
+49 Dumbrăveni 21 50 20 0
+863 CT
+50 Cerchezu 0 80 10 0
+864 CT
+51 Cobadin 0 80 0 0
+865 CT
+52 Chirmogeni 0 70 0 0
+866 CT
+56 Sinoie 15 0 30 0
+867 CT Total AJVPS Constanta 229 2750 595 400
+868 CT
+16 Silistea 0 20 25 10
+869 CT AVPS Acvila Buc. 19 Crucea 10 30 25 10
+870 CT Total AVPS Acvila 10 50 50 20
+871 CT AVPS Egreta Buc. 12 Cochirleni 50 50 300 25
+872 CT AVPS Șoimul Buc. G. 54 Cotu Văii 5 80 50 60
+873 CT AVPS Căpriorul Timiș 9 Adamclisi 30 20 70 15
+874
+Total Județ Constanța
+354 3150 1200 590
+875 CV
+2 Brăduț 35 10 0 0
+876 CV
+5 Baraolt 20 15 0 15
+877 CV
+6 Belin 20 25 0 15
+878 CV
+7 Aita 20 20 0 0
+879 CV
+9 Șugaș 15 25 0 10
+880 CV AJVPS Covasna 10 Vâlcele 10 40 0 25
+881 CV
+11 Ilieni 15 40 0 25
+882 CV
+14 Coșeni 10 300 0 100
+883 CV
+22 Lunga 5 200 0 70
+884 CV
+26 Brateș 5 150 0 75
+885 CV
+34 Dobârlău 15 30 0 15
+886 CV Total gestionar
+170 855 0 350
+887 CV
+3 Cormoș 30 0 0 0
+888 CV
+4 Herculian 30 10 0 0
+889 CV
+15 Reci-Lisnău 15 50 0 0
+890 CV
+25 Ojdula 15 20 0 0
+891 CV DS Covasna 29 Zagon 20 10 0 0
+892 CV
+30 Benedek 8 0 0 0
+893 CV
+31 Dârnău 8 0 0 0
+894 CV
+32 Mica 8 0 0 0
+895 CV
+33 Zăbrătău 10 10 0 0
+896 CV Total gestionar
+144 100 0 0
+897 CV
+17 Turia 55 50 0 0
+898 CV AVPS Cătrușa 19 Petriceni 25 25 0 10
+899 CV
+20 Estelnic 30 25 0 5
+900 CV
+28 Doboli 15 40 0 10
+901 CV Total gestionar
+125 140 0 25
+902 CV Pro Silva 8 Dobrița-Zălan 30 20 0 0
+903 CV
+12 Bicsad 30 10 0 10
+904 CV Total gestionar
+60 30 0 10
+905 CV AVPS Fux Nyires 21 Apa Roșie 35 35 0 10
+906 CV
+23 Lemnia 25 25 0 10
+907 CV Total gestionar
+60 60 0 20
+908 CV AVS SOMOS 1 Vârghiș 20 10 0 10
+909 CV AVPS comuna Bodoc 13 Bodoc 35 30 0 20
+910 CV Facultatea Silvicultură 16 Dalnic 10 30 0 0
+911 CV OVPS Natura Sălbatică 18 Mărcușa 0 300 0 70
+912 CV AVPS Mușat Oituz 24 Oituz 20 10 0 0
+913 CV OSP Tg. Secuiesc 27 Ghelința 30 25 0 10
+914
+Total județ Covasna
+674 1590 0 515
+915 DB AJVPS DÂMBOVIȚA 1 Fierbinți 1 80 50 40
+916 DB 3 Găești
+70 45 50
+917 DB 4 Dragodana 1 90 55 40
+918 DB 7 Hulubești 4 40 30 20
+919 DB 8 Scheiu 6 0 0 0
+920 DB 9 Butoiu 4 30 20 0
+921 DB 10 Tătărani 7 40 30 25
+922 DB 11 Gemenea 2 0 0 0
+923 DB 12 Vulcana 3 30 0 0
+924 DB 14 Bezdead 5 30 0 0
+925 DB 15 Brăteiu 3 0 0 0
+926 DB 17 Vișinești 5 0 0 0
+927 DB 18 Iedera 5 0 0 0
+928 DB 19 Ghirdoveni 1 50 30 20
+929 DB 20 Pierșinari 0 80 50 30
+930 DB 21 Ungureni 5 90 50 30
+931 DB 22 Aninoasa 1 50 40 45
+932 DB 23 Ocnița 3 35 30 20
+933 DB 24 Târgoviște 0 110 60 45
+934 DB 26 Nucet 0 70 35 35
+935 DB 29 Corbii Mari 1 120 50 60
+936 DB 30 Frăsinet 0 110 45 50
+937 DB 31 Titu 0 80 45 35
+938 DB 32 Braniște 4 140 40 30
+939 DB 34 Bilciurești 0 90 40 25
+940 DB 36 Cojasca 9 130 20 25
+941 DB 40 Răcari 0 130 50 50
+942 DB 41 Potlogi 0 160 50 50
+943 DB Total gestionar
+70 1855 865 725
+944 DB D.S. DÂMBOVIȚA 6 Croitori 0 20 10 10
+945 DB 27 Neagra 5 30 25 25
+946 DB 28 Finta 3 40 25 20
+947 DB 33 Cornatelu 6 80 0 10
+948 DB Total gestionar
+14 170 60 65
+949 DB A.V.P.S. 35 Dârza 2 80 200 10
+950 DB
+38 Ciocănești 5 80 200 10
+951 DB ACVILA 39 Tărtășești 0 80 200 50
+952 DB Total gestionar
+7 240 600 70
+953 DB A.V.P.S. 5 Jugureni 0 100 40 25
+954 DB UNIREA 37 Conțești 2 100 30 25
+955 DB Total gestionar
+2 200 70 50
+956 DB A.V.P.S. 13 Runcu 12 0 0 0
+957 DB DUNAREA 2007 16 Vl. Ialomitei 16 0 0 0
+958 DB Total gestionar
+28 0 0 0
+959 DB AVPS STEJARUL 2 Morteni 5 40 30 40
+960 DB AVPS Șoimul București 25 Comișani 4 120 25 30
+961
+Total județ
+130 2625 1650 980
+962 DJ
+3 Pietrele 3 0 5 0
+963 DJ
+4 Tunari 4 0 5 20
+964 DJ
+5 Rast 3 0 10 30
+965 DJ
+20 Perisor 6 0 5 20
+966 DJ
+21 Fantanele 4 0 10 15
+967 DJ
+23 Carna 5 0 20 0
+968 DJ
+31 Panaghia 9 10 10 10
+969 DJ
+36 Sadova 15 0 10 15
+970 DJ
+39 Murta 5 0 15 15
+971 DJ D.S.DOLJ 41 Bratovoiesti 10 10 10 5
+972 DJ
+42 Teasc 0 10 5 10
+973 DJ
+43 Dranic 0 5 0 10
+974 DJ
+44 Dalga 5 10 10 10
+975 DJ
+66 Grajduri 2 0 10 15
+976 DJ
+67 Argetoaia 5 0 20 20
+977 DJ
+76 Farcasu 3 0 5 5
+978 DJ Total gestionar
+79 45 150 200
+979 DJ
+1 Ciuperceni 3 30 10 20
+980 DJ
+2 Adanca 0 30 10 40
+981 DJ
+6 Poiana Mare 0 30 0 30
+982 DJ
+8 Maglavit 0 40 10 30
+983 DJ
+11 Seaca de Camp 0 70 8 30
+984 DJ
+12 Bailesti 0 70 20 30
+985 DJ
+13 Covei 0 60 8 30
+986 DJ
+14 Cioroiasi 0 37 10 20
+987 DJ
+15 Galicea Mare 0 48 20 30
+988 DJ
+17 Verbita 0 70 4 30
+989 DJ
+18 Orodel 0 70 10 20
+990 DJ
+19 Marza 0 40 10 20
+991 DJ
+22 Catane 6 39 40 30
+992 DJ
+24 Macesu 40 50 280 30
+993 DJ
+25 Rebegi 0 60 20 40
+994 DJ
+26 Goicea 0 60 20 30
+995 DJ
+27 Barca 6 35 10 10
+996 DJ
+28 Afumati 0 60 60 30
+997 DJ
+29 Cerat 0 50 20 30
+998 DJ
+30 Segarcea 0 50 10 30
+999 DJ
+32 Gighera 15 50 80 30
+1000 DJ
+33 Bechet 0 60 30 100
+1001 DJ
+34 Dabuleni 2 150 40 150
+1002 DJ
+35 Ogrin 0 60 40 200
+1003 DJ
+38 Daneti 0 100 10 80
+1004 DJ
+45 Amaresti 0 50 10 50
+1005 DJ
+46 Celaru 0 50 10 50
+1006 DJ
+48 Radomir 0 60 20 100
+1007 DJ
+49 Zanoaga 0 40 40 80
+1008 DJ
+50 Teslui 0 80 70 80
+1009 DJ
+51 Lacrita 0 50 40 50
+1010 DJ
+52 Cosoveni 0 60 80 60
+1011 DJ
+53 Gura Vaii 0 40 40 20
+1012 DJ AJVPS DOLJ 54 Bucovat 6 60 60 20
+1013 DJ
+55 Breasta 3 59 80 80
+1014 DJ
+56 Gabru 1 30 30 20
+1015 DJ
+57 Caciulatu 0 40 30 20
+1016 DJ
+58 Geblesti 2 40 30 20
+1017 DJ
+59 Seaca de Padure 0 40 40 20
+1018 DJ
+60 Gogosu 3 50 60 20
+1019 DJ
+61 Popanzalesti 0 40 40 30
+1020 DJ
+62 Ghercesti 0 60 80 200
+1021 DJ
+63 Cernele 5 60 100 70
+1022 DJ
+64 Pietroaia 0 40 60 20
+1023 DJ
+65 Cernatesti 3 80 100 50
+1024 DJ
+68 Mihaita 3 60 80 30
+1025 DJ
+69 Malaiesti 2 70 100 70
+1026 DJ
+70 Ungureni 0 40 40 30
+1027 DJ
+71 Izvor 2 70 50 40
+1028 DJ
+72 Melinesti 4 50 50 30
+1029 DJ
+73 Bradesti 3 60 60 50
+1030 DJ
+74 Filiasi 1 60 50 50
+1031 DJ
+77 Traian 0 30
+40
+1032 DJ Total gestionar
+110 2888 2230 2520
+1033 DJ
+7 Calafat 0 50 10 23
+1034 DJ AJVPS MEHEDINTI 16 Rudari 0 100 40 48
+1035 DJ
+37 Damian 0 100 90 80
+1036 DJ Total gestionar
+0 250 140 151
+1037 DJ AVPS DIANA 9 Plenita 0 50 0 45
+1038 DJ
+75 Velesti 15 50 50 45
+1039 DJ Total gestionar
+15 100 50 90
+1040 DJ AVP Trei Stejari 40 Valea Stanciului 0 20 20 25
+1041 DJ Total gestionar
+0 20 20 25
+1042 DJ AVPS Jderul Ag. 47 Rojiste 4 25 10 20
+1043 DJ Total gestionar
+4 25 10 20
+1044 DJ 10 Motatei 10 Motatei 0 5 10 10
+1045 DJ Total gestionar
+0 5 10 10
+1046
+Total județ
+DOLJ 208 3333 2610 3016
+1047 GL
+1 Șendreni 0 125 20 10
+1048 GL
+2 Căprioara 6 69 80 10
+1049 GL
+3 Schela 0 500 10 35
+1050 GL
+4 Bălțatu 2 106 60 30
+1051 GL
+5 T Vladimirescu 0 450 10 40
+1052 GL
+9 Călmățui 0 270 10 40
+1053 GL
+10 Rediu 0 250 0 20
+1054 GL
+11 Cudalbi 0 350 20 40
+1055 GL
+12 Umbrărești 2 450 0 30
+1056 GL
+13 Condrea 2 120 100 10
+1057 GL
+14 Furceni 0 150 10 10
+1058 GL
+16 Matca 1 400 15 40
+1059 GL
+17 Tecuci 0 120 10 20
+1060 GL
+18 Negrilești 2 126 15 40
+1061 GL
+19 Tepu 5 250 30 35
+1062 GL
+20 Nicorești 3 73 30 20
+1063 GL AJVPS Galați 21 Buciumeni 5 170 30 30
+1064 GL
+22 Gohor 0 220 50 40
+1065 GL
+24 Vizureni 0 60 10 10
+1066 GL
+27 Rădești 5 150 20 25
+1067 GL
+28 Berești 2 59 0 15
+1068 GL
+29 Cavadinești 5 65 75 30
+1069 GL
+31 Băneasa 8 47 0 15
+1070 GL
+32 Jorăști 3 0 40 20
+1071 GL
+33 Zărnești 1 80 30 40
+1072 GL
+34 Smulți 0 123 40 40
+1073 GL
+35 Bujoru 2 68 30 20
+1074 GL
+36 30.dec 7 100 30 25
+1075 GL
+37 Vlădești 4 81 80 35
+1076 GL
+38 Rareș 7 94 0 20
+1077 GL
+39 Mogoș 10 110 30 30
+1078 GL
+40 Vlășcuța 5 229 150 35
+1079 GL
+41 Frumușița 0 200 40 30
+1080 GL
+42 Zătun 10 400 180 50
+1081 GL
+43 Galați 0 0 50 0
+1082 GL
+44 Tulucești 27 105 120 30
+1083 GL Total gestionar
+124 6170 1425 970
+1084 GL
+6 Nămoloasa 5 40 40 50
+1085 GL
+7 Hanu Conachi 0 100 60 60
+1086 GL
+8 Liești 8 100 60 60
+1087 GL DS Galați 15 Barcea 20 110 10 0
+1088 GL
+23 Ghidigeni 4 70 20 30
+1089 GL
+25 Cerțești 5 40 10 35
+1090 GL
+26 Adam 5 30 10 30
+1091 GL
+30 Suceveni 20 35 20 20
+1092 GL Total gestionar
+67 525 230 285
+1093
+Total județ
+191 6695 1655 1255
+1094 GR
+10 Mislea 3 100 15 25
+1095 GR
+13 Călugăreni 0 80 10 20
+1096 GR
+15 Colibași 0 80 30 35
+1097 GR
+24 Dărăști 0 60 0 25
+1098 GR
+27 Izvoarele 0 100 0 10
+1099 GR
+28 Stănești 0 100 30 10
+1100 GR
+29 Toporu 0 120 30 15
+1101 GR
+30 Putineiu 0 70 30 0
+1102 GR
+31 Gogoșari 0 70 20 20
+1103 GR
+32 Vedea 0 80 15 10
+1104 GR AJVPS Giurgiu 33 Găujani 9 70 30 5
+1105 GR
+34 Slobozia 10 80 10 5
+1106 GR
+35 Giurgiu 0 100 30 10
+1107 GR
+36 Oinacu 10 100 40 0
+1108 GR
+37 Daia 0 80 0 15
+1109 GR
+38 Băneasa 7 100 30 15
+1110 GR
+39 Uzunu 0 100 20 20
+1111 GR
+40 Gostinu 3 70 10 10
+1112 GR
+41 Puieni 3 50 20 5
+1113 GR
+42 Prundu 3 80 15 15
+1114 GR Total AJVPS Giurgiu 48 1690 385 270
+1115 GR
+4 Cascioarele 40 70 0 20
+1116 GR
+19 Cioflecu 5 60 40 50
+1117 GR
+20 Albele 20 100 30 50
+1118 GR DS Giurgiu 21 Iepurești 5 50 40 40
+1119 GR
+22 Singureni Deal 5 40 10 15
+1120 GR
+23 Teșila 10 60 10 15
+1121 GR
+26 Ruica 5 50 10 10
+1122 GR Total DS Giurgiu 90 430 140 200
+1123 GR
+2 Vadu Lat 15 150 100 70
+1124 GR
+3 Roata 0 80 50 40
+1125 GR
+6 Bolintin 0 100 40 50
+1126 GR AVPS Lunca 7 Florești 0 100 30 30
+1127 GR
+12 Grădiștea 0 80 30 20
+1128 GR
+16 Frumușani 0 110 0 0
+1129 GR
+43 Udeanca 0 60 30 20
+1130 GR Total AVPS Lunca 15 680 280 230
+1131 GR AVPS Diana 17 Letca 15 130 200 180
+1132 GR
+25 Mihăilești 8 70 140 140
+1133 GR Total AVPS Diana 23 200 340 320
+1134 GR AVPS Șoimul 1 Bălășcuța 8 100 150 60
+1135 GR AVPS Vulturul 9 Crivaț 15 140 90 100
+1136 GR AVPS Șoimul 5 Vânători 15 150 100 50
+1137 GR AVPS Alcedo 14 Singureni Luncă 15 90 40 60
+1138 GR AVPS Bradul 11 Comana 45 150 100 35
+1139 GR AVPS Unirea 8 Cosoba 0 80 20 20
+1140 GR AVPS Zimbrul Românesc 2007 18 Jilava 0 100 60 60
+1141
+Total Județ Giurgiu
+274 3810 1705 1405
+1142 GJ
+2 Motru Mare 7 5 0 0
+1143 GJ
+4 Dumbrava 7 5 0 0
+1144 GJ
+5 Tismana 8 5 0 0
+1145 GJ
+7 Runcu 8 5 0 0
+1146 GJ D.S. Gorj 9 Bumbesti 10 5 0 0
+1147 GJ
+10 Sadu 10 5 0 0
+1148 GJ
+11 Carpinis 10 5 0 0
+1149 GJ
+12 Gilort 10 5 0 0
+1150 GJ
+14 Oltet 9 5 0 0
+1151 GJ
+25 Stefanesti 8 15 10 0
+1152 GJ
+28 Boboiesti 7 5 10 0
+1153 GJ Total D.S. Gorj
+94 65 20 0
+1154 GJ AVPS Egreta Gorj 1 Motru Sec 4 10 0 0
+1155 GJ Total AVPS Egreta
+4 10 0 0
+1156 GJ AVPS Diana de Callatis 6 Bistrita 12 10 0 0
+1157 GJ Total AVPS Diana C.
+12 10 0 0
+1158 GJ Asociatia Cerbul Carpatin 8 Susita 12 15 0 0
+1159 GJ Total As. Cerbul C.
+12 15 0 0
+1160 GJ
+3 Pades 2 30 5 0
+1161 GJ
+13 Sacelu 3 20 5 0
+1162 GJ
+15 Polovragi 1 10 5 0
+1163 GJ
+16 Bumbesti Pitic 2 30 5 0
+1164 GJ
+17 Bradiceni 4 30 10 10
+1165 GJ
+18 Lelesti 2 30 10 10
+1166 GJ
+19 Turcinesti 3 30 8 0
+1167 GJ
+20 Curtisoara 4 30 8 10
+1168 GJ
+21 Danesti 4 30 50 10
+1169 GJ
+22 Ceauru 4 50 120 20
+1170 GJ
+23 Scoarta 4 30 15 10
+1171 GJ
+24 Prigoria 1 25 5 0
+1172 GJ
+26 Carbunesti 2 25 10 0
+1173 GJ
+27 Motru 2 30 15 0
+1174 GJ
+29 Trestioara 3 30 10 15
+1175 GJ AJVPS Gorj 30 Tehomir 1 30 10 15
+1176 GJ
+31 Valea cu Apa 1 60 110 20
+1177 GJ
+32 Romanatu 2 30 30 15
+1178 GJ
+33 Pesteana 4 25 8 0
+1179 GJ
+34 Berlesti 3 25 10 0
+1180 GJ
+35 Logresti 3 25 2 0
+1181 GJ
+36 Licurici 4 35 10 0
+1182 GJ
+37 Miluta 1 40 10 10
+1183 GJ
+38 Turceni 1 80 150 30
+1184 GJ
+39 Plopsoru 1 30 15 0
+1185 GJ
+40 Aninoasa 3 25 10 0
+1186 GJ
+41 Bibesti 2 25 10 10
+1187 GJ
+42 Turburea 2 40 50 10
+1188 GJ
+43 Cruset 2 40 80 10
+1189 GJ
+44 Slavuta 3 40 70 10
+1190 GJ Total AJVPS Gorj
+74 980 856 215
+1191
+Total Gorj
+196 1080 876 215
+1192 HR
+2 Voivodeasa 6 5 0 0
+1193 HR
+5 Bistricioara 10 0 0 0
+1194 HR
+6 Borsec 10 0 0 0
+1195 HR
+7 Rezu Mare 20 0 0 0
+1196 HR
+9 Lacu Roșu 5 0 0 0
+1197 HR
+10 Gheorgheni 20 10 0 0
+1198 HR Direcția Silvică Harghita 17 Mădăraș 5 5 0 5
+1199 HR
+22 M - Ciuc 5 5 0 5
+1200 HR
+29 Pilicske 8 5 0 10
+1201 HR
+34 Zetea 25 5 0 0
+1202 HR
+35 Ivo 15 3 0 0
+1203 HR
+36 Szencsed 25 5 0 0
+1204 HR
+37 Vărșag 15 3 0 0
+1205 HR Total gestionar
+169 46 0 20
+1206 HR
+30 Homorod 20 12 0 0
+1207 HR
+31 Merești 44 20 0 0
+1208 HR
+32 Daia 10 40 5 5
+1209 HR AVPS Târnava Mare 33 Călugăreni 40 30 5 5
+1210 HR
+38 Iuhod 45 14 0 0
+1211 HR
+39 Corund 40 14 0 0
+1212 HR
+44 Tăietura 50 50 5 10
+1213 HR
+45 Mătișeni 24 40 10 10
+1214 HR Total gestionar
+273 220 25 30
+1215 HR
+15 Bălan 19 12 0 6
+1216 HR
+16 Cârța 20 12 0 12
+1217 HR
+19 Valea Rece 15 12 0 6
+1218 HR AVPS M. Ciuc 25 Armășeni 20 12 0 6
+1219 HR
+26 Plăieși 34 20 0 10
+1220 HR
+27 Casin 30 14 0 15
+1221 HR Total gestionar
+138 82 0 55
+1222 HR
+11 Jolotca 20 5 0 5
+1223 HR AVPS Gheorgheni 13 Borzont 15 5 0 5
+1224 HR
+14 Voșlobeni 20 5 0 5
+1225 HR Total gestionar
+55 15 0 15
+1226 HR
+1 Toplița 20 10 0 5
+1227 HR AVPS Toplița 3 Mureș 20 25 0 5
+1228 HR
+4 Bilbor 20 15 0 5
+1229 HR Total gestionar
+60 50 0 15
+1230 HR CVS Harghita 8 Putna 12 5 0 0
+1231 HR
+21 Mihăileni 8 25 0 0
+1232 HR Total gestionar
+20 30 0 0
+1233 HR AVPS Szilos 23 Păuleni 11 18 0 10
+1234 HR
+24 Sânmartin 10 14 0 5
+1235 HR Total gestionar
+21 32 0 15
+1236 HR AVPS Hubertus 40 Crișeni 80 20 10 2
+1237 HR
+41 Bodogaia 80 50 20 5
+1238 HR Total gestionar
+160 70 30 7
+1239 HR Asoc. Cineg. Gheorgheni 12 Remetea 20 8 0 5
+1240 HR AVPS Nimrod 18 Tomești 14 10 0 4
+1241 HR OS Frumoasa SRL 20 Lunca 10 10 0 5
+1242 HR AVPS Szent Anna 28 Tușnad 10 12 0 5
+1243 HR AVPS Salon 42 Tărcești 70 30 20 5
+1244 HR AVPS Gordon 43 Dealu 35 40 5 20
+1245
+Total Județ
+1055 655 80 201
+1246 HD
+4 BIRTIN 10 0 10 0
+1247 HD
+5 VALEA LUNGA 6 0 5 0
+1248 HD
+13 VORȚA 15 0 30 0
+1249 HD
+17 CERTEJ 10 0 10 0
+1250 HD
+19 VOIA 15 0 0 0
+1251 HD
+23 TISA 23 0 30 0
+1252 HD
+24 LAPUGIU 2 0 0 0
+1253 HD
+25 BATRANA 11 0 0 0
+1254 HD
+34 GODEANU 7 0 0 0
+1255 HD
+52 ZEICANI 10 0 0 0
+1256 HD DS HUNEDOARA 53 RÂUL MARE 3 0 0 0
+1257 HD
+54 BORASCU-GODEANI 2 0 0 0
+1258 HD
+55 RETEZAT 0 0 0 0
+1259 HD
+58 MARGINEA 7 0 0 0
+1260 HD
+59 RÂUL BARBAT 8 0 0 0
+1261 HD
+60 VALEA STREIULUI 5 0 0 0
+1262 HD
+62 CÂMPUȘEL 2 0 0 0
+1263 HD
+69 PARÂNG 6 0 0 0
+1264 HD Total gestionar DS HUNEDOARA
+136 0 85 0
+1265 HD
+1 TOMESTI 13 0 15 0
+1266 HD
+2 BULZESTI 15 0 0 0
+1267 HD
+6 RIBITA 15 0 35 0
+1268 HD
+7 BLAJENI 13 0 0 0
+1269 HD
+8 DUPA PIATRA 10 0 0 0
+1270 HD
+9 ROVINA 9 0 0 0
+1271 HD
+10 RUDA BRAD 10 0 10 0
+1272 HD
+11 MICANESTI 30 0 40 0
+1273 HD
+12 GURASADA 21 0 50 0
+1274 HD
+14 BRANISCA 14 0 30 0
+1275 HD
+15 VALISOARA 9 0 20 0
+1276 HD
+18 VARMAGA 19 0 40 0
+1277 HD
+20 BOBALNA 20 0 30 0
+1278 HD
+22 HOMOROD 23 0 15 0
+1279 HD
+26 LAPUSNIC 15 0 50 0
+1280 HD
+27 VETEL 15 0 25 0
+1281 HD
+28 DEVA 14 0 30 0
+1282 HD
+29 SIMERIA 5 0 40 0
+1283 HD
+31 MARTINESTI 5 0 10 0
+1284 HD
+32 BERIU 4 0 50 0
+1285 HD
+33 COSTESTI 15 0 10 0
+1286 HD
+36 ROMOSEL 12 0 50 5
+1287 HD
+37 MAGURENI 9 0 0 0
+1288 HD
+39 DEALU GROSI 7 0 0 0
+1289 HD
+40 RUNCU MARE 9 0 0 0
+1290 HD AJVPS HUNEDOARA 41 GHELARI 9 0 0 0
+1291 HD
+42 BALEA 6 0 0 0
+1292 HD
+44 HUNEDOARA 7 5 10 5
+1293 HD
+46 CIULA MICA 10 5 30 5
+1294 HD
+47 HATEG 2 5 50 10
+1295 HD
+49 BRETEA 3 0 40 10
+1296 HD
+50 URSICI 14 10 20 20
+1297 HD
+51 CARNESTI 2 5 50 10
+1298 HD
+56 RAUL ALB 2 5 50 10
+1299 HD
+57 FEDERI 10 0 5 0
+1300 HD
+61 BANITA 10 0 0 0
+1301 HD
+63 DEALU MARE 4 0 0 0
+1302 HD
+64 SIGLAU 3 0 0 0
+1303 HD
+65 VULCAN 6 0 0 0
+1304 HD
+66 PETROSANI 8 0 0 0
+1305 HD
+67 AUSELU 4 0 0 0
+1306 HD
+68 VOIEVODUL 5 0 0 0
+1307 HD
+70 GANTAGA 12 0 10 0
+1308 HD Total gestionar AJVPS HUNEDOARA 488 35 815 75
+1309 HD AVPS ZARAND BRAD 3 CIUNGANI 6 0 5 0
+1310 HD Total gestionar AVPS ZARAND BRAD 6 0 5 0
+1311 HD ȘOIMUL ROMÂNESC 16 BAIȚA 10 0 15 0
+1312 HD Total gestionar ȘOIMUL ROMÂNESC 10 0 15 0
+1313 HD CODEANU ORĂȘTIE 21 MADA 20 0 3 0
+1314 HD Total gestionar CODEANU ORĂȘTIE 20 0 3 0
+1315 HD CĂPRIORUL MĂRTINEȘTI 30 STREI SANGEORGIU 13 0 20 10
+1316 HD CĂPRIORUL MĂRTINEȘTI 43 LUNCA CERNII 8 0 0 0
+1317 HD Total gestionar CĂPRIORUL MĂRTINEȘTI 21 0 20 10
+1318 HD CĂPĂȚÂNA DEVA 35 ORĂȘTIE 10 9 30 10
+1319 HD Total gestionar CĂPĂȚÂNA DEVA 10 9 30 10
+1320 HD DIANA HUNEDOARA 38 VALEA ROATEI 25 20 60 15
+1321 HD Total gestionar DIANA HUNEDOARA 25 20 60 15
+1322 HD VIDRA BUCUREȘTI 45 VALEA FIERULUI 12 0 3 0
+1323 HD Total gestionar VIDRA BUCUREȘTI 12 0 3 0
+1324 HD VULTURUL DEVA 48 SILVAȘ 8 5 30 0
+1325 HD Total gestionar VULTURUL DEVA 8 5 30 0
+1326
+Total județ
+696 69 1066 110
+1327 IL
+1 Căbal 18 180 200 5
+1328 IL
+2 Cegani 18 180 200 5
+1329 IL
+4 Burdușani 0 120 20 5
+1330 IL
+6 Giurgeni 5 120 90 5
+1331 IL
+8 Fetești 0 120 10 5
+1332 IL
+9 Platonești 6 120 50 5
+1333 IL
+12 Săveni 12 170 130 5
+1334 IL
+13 Gura Ialomiței 0 170 30 5
+1335 IL
+14 Strachina 0 140 40 5
+1336 IL AVPS Ialomița 15 Bucu 12 170 150 5
+1337 IL
+17 Ghimbășani 6 130 70 5
+1338 IL
+18 Gheorghe Lazăr 5 180 150 5
+1339 IL
+19 Ciulnița 0 180 40 5
+1340 IL
+20 Amara 0 180 50 5
+1341 IL
+22 Slobozia 22 80 70 5
+1342 IL
+23 Fundata 0 170 20 5
+1343 IL
+26 Andrașesti 0 150 20 5
+1344 IL Total AVPS Ialomița 104 2560 1340 85
+1345 IL
+29 Sfântul Gheorghe 0 70 30 10
+1346 IL
+30 Cocora 0 150 0 0
+1347 IL AVPS Lunca 31 Colelia 0 120 0 0
+1348 IL
+38 Valea Macrisului 0 130 0 0
+1349 IL
+39 Urziceni 0 120 0 0
+1350 IL
+44 Armășești 3 120 20 10
+1351 IL Total AVPS Lunca 3 710 50 20
+1352 IL
+5 Vlădeni 24 20 120 0
+1353 IL AVPS Lunca 34 Axintele 5 80 15 10
+1354 IL
+36 Bărcănești 24 20 50 10
+1355 IL
+37 Alexeni 6 100 60 10
+1356 IL Total AVPS Acvila 59 220 245 30
+1357 IL
+16 Scânteia 0 90 0 0
+1358 IL AVPS Diana 21 Traianu 0 120 0 20
+1359 IL
+25 Marsilieni 13 50 40 20
+1360 IL Total AVPS Diana 13 260 40 40
+1361 IL
+24 Grivița 0 150 0 20
+1362 IL AVPS Unirea 27 Miloșești 0 100 0 20
+1363 IL
+28 Căzănești 0 120 10 10
+1364 IL Total AVPS Unirea 0 370 10 50
+1365 IL
+35 Dragoiesti 2 200 50 50
+1366 IL AVPS Vulturul 40 Movilita 0 250 50 50
+1367 IL
+41 Sinesti 3 200 50 50
+1368 IL Total AVPS Vulturul 5 650 150 150
+1369 IL AVPS Șoimul 32 Salcioara 6 150 60 60
+1370 IL AVPS Mistrețul 3 Facaieni 25 110 200 10
+1371 IL
+7 Ciunga 15 50 50 20
+1372 IL
+10 Chirana 20 100 150 15
+1373 IL DS Ialomița 11 Suditi 15 100 200 20
+1374 IL
+33 Groasa 18 50 10 15
+1375 IL
+42 Dridu 16 100 20 15
+1376 IL
+43 Jilavele 20 80 10 15
+1377 IL Total DS Ialomita 104 480 440 100
+1378
+Total Județ Ialomița
+319 5510 2535 545
+1379 IȘ
+1 Tătăruși 12 20 0 0
+1380 IȘ
+2 Motca 10 40 0 5
+1381 IȘ
+8 Sirețel 3 20 0 0
+1382 IȘ
+9 Bahlui 10 20 0 0
+1383 IȘ
+22 Turia Perieni 28 60 100 30
+1384 IȘ DS Iași 32 Crivești 6 50 20 20
+1385 IȘ
+37 Gherghițoaia 5 0 0 0
+1386 IȘ
+39 Cornești 0 40 100 30
+1387 IȘ
+40 Mogoșești 8 20 40 20
+1388 IȘ
+42 Poieni 32 10 20 0
+1389 IȘ
+43 Schitu Duca 2 10 20 10
+1390 IȘ
+44 Pietrosul 32 50 0 0
+1391 IȘ
+46 Brădicești 10 40 0 5
+1392 IȘ
+47 Bunești 27 30 20 5
+1393 IȘ
+51 Grajduri 35 40 20 15
+1394 IȘ Total
+220 450 340 140
+1395 IȘ
+3 Miroslovești 6 150 10 10
+1396 IȘ
+4 Hălăucești 2 200 30 15
+1397 IȘ
+5 Stolniceni 2 150 15 10
+1398 IȘ
+6 Stroiești 2 150 10 5
+1399 IȘ
+7 Hărmanești 3 150 10 10
+1400 IȘ
+10 Cătălina 3 100 10 10
+1401 IȘ
+11 Hodora 0 150 10 5
+1402 IȘ
+12 Balș Boureni 0 150 15 10
+1403 IȘ
+13 Ceplenița 0 150 0 10
+1404 IȘ
+14 C. Caprei 0 100 0 10
+1405 IȘ
+15 Plugari 0 200 20 10
+1406 IȘ
+16 Chiscareni 0 150 0 5
+1407 IȘ
+19 Românești 0 300 10 10
+1408 IȘ
+20 Bivolari 3 150 30 10
+1409 IȘ
+21 Trifești 4 150 30 10
+1410 IȘ
+23 Larga Jijia 3 100 30 10
+1411 IȘ
+24 Probota 5 50 30 10
+1412 IȘ
+25 Lețcani 0 150 30 10
+1413 IȘ
+26 Valea Lupului 2 100 80 5
+1414 IȘ
+27 Victoria 10 80 80 5
+1415 IȘ AVPS Iași 28 Golăești 12 150 60 15
+1416 IȘ
+29 Țuțora 3 150 60 10
+1417 IȘ
+30 Prisecani 4 100 30 10
+1418 IȘ
+31 Strunga 2 100 20 10
+1419 IȘ
+33 Brăești 8 150 10 5
+1420 IȘ
+36 Popești 8 150 15 5
+1421 IȘ
+45 Pocreaca 8 70 25 0
+1422 IȘ
+48 Crasnița 4 80 10 0
+1423 IȘ
+52 Mironeasa 3 80 10 15
+1424 IȘ
+53 Țibana 2 100 10 5
+1425 IȘ
+55 Dagâța 3 80 15 10
+1426 IȘ Total
+102 4090 715 265
+1427 IȘ
+17 Gropnița 0 100 10 10
+1428 IȘ SV G. Topîrceanu 18 Belcești 0 100 0 10
+1429 IȘ
+34 Erbiceni 0 120 10 10
+1430 IȘ
+35 Sinești 10 80 10 10
+1431 IȘ Total
+10 400 30 40
+1432 IȘ
+38 Horlești 6 35 0 10
+1433 IȘ AV Zimbrul Iași 41 Bârnova 2 20 35 5
+1434 IȘ
+49 Gorban 4 30 10 5
+1435 IȘ
+50 Răducăneni 6 175 30 15
+1436 IȘ Total
+18 260 75 35
+1437 IȘ DS Vaslui 54 Țibănești 3 75 0 0
+1438
+Total Județ
+353 5275 1160 480
+1439 IF
+12 Brânzeasca 10 20 20 0
+1440 IF DS Ilfov 13 Surlari 20 20 10 0
+1441 IF
+14 Vlădiceasca 20 15 25 0
+1442 IF Total DS Ilfov 50 55 55 0
+1443 IF Colegiul Silvic Brănești 2 Pusnicu 1 40 20 0
+1444 IF ICAS București 4 Stefănești 0 30 20 10
+1445 IF APPS Scroviștea 22 Scroviștea 70 20 0 0
+1446 IF
+5 București 0 70 20 70
+1447 IF
+7 Tunari 0 100 50 20
+1448 IF AVPS Lunca 8 Dascălu 4 100 30 10
+1449 IF
+10 Săftica 0 100 50 20
+1450 IF
+17 Nuci 0 150 40 20
+1451 IF Total AVPS Lunca 4 520 190 140
+1452 IF AVPS Sitarul 1 Cernica 12 90 180 30
+1453 IF
+16 Buriașu 1 90 60 10
+1454 IF Total AVPS Sitarul 13 180 240 40
+1455 IF AVPS Diana 19 Bragadiru 0 70 160 200
+1456 IF
+21 Domnești 0 70 100 70
+1457 IF Total AVPS Diana 0 140 260 270
+1458 IF AVPS Acvila 6 Tamaș 10 50 200 10
+1459 IF AVPS Stejarul 9 Afumați 4 60 30 10
+1460 IF AVPS Vulturul 11 Grădiștea 10 100 60 40
+1461 IF AVPS Zimbrul 3 Pasărea 5 60 50 10
+1462 IF AVPS Unirea 18 Dragomirești 5 100 35 25
+1463 IF AVPS Șoimul 20 Berceni 0 300 100 100
+1464 IF AVPS Șoimul 16 Snagov Parc 8 70 80 40
+1465
+Total Județ Ilfov 180 1725 1340 695
+1466 MM
+4 VISEU 7 10 0 0
+1467 MM
+8 RUSCOVA 10 10 0 0
+1468 MM
+9 BISTRA P 10 10 0 0
+1469 MM
+10 CISLA 5 5 0 0
+1470 MM
+14 SALISTE S 4 10 0 0
+1471 MM
+17 IZA 1 10 0 0
+1472 MM
+18 BARSANA 4 10 0 0
+1473 MM
+20 BUDESTI 4 10 0 0
+1474 MM
+21 GUTIN BS 20 10 5 0
+1475 MM
+22 IZVOARE 12 0 0 0
+1476 MM
+23 AGRIES 10 10 0 0
+1477 MM
+25 SAPANTA 5 5 5 0
+1478 MM
+26 CL TISA 8 10 0 0
+1479 MM
+27 RONISOARA 7 10 0 0
+1480 MM AJVPS Maramureș 28 CAVNIC PL 3 10 0 0
+1481 MM
+29 DUMBRAVITA 2 10 30 0
+1482 MM
+30 OCOLIS 8 10 70 0
+1483 MM
+32 SASAR 16 20 170 0
+1484 MM
+34 CICARLAU 10 10 100 0
+1485 MM
+36 ARDUSAT 8 10 100 0
+1486 MM
+42 VL CHIOARULUI 8 10 15 0
+1487 MM
+43 CHIOAR 2 5 10 0
+1488 MM
+44 REMETEA 1 30 200 0
+1489 MM
+46 MANASTUR 5 10 0 0
+1490 MM
+48 SATRA 5 10 0 0
+1491 MM
+49 VALEA MARE 7 10 0 0
+1492 MM
+50 CORUIENI 10 10 0 0
+1493 MM
+54 SUCIURI 3 10 0 0
+1494 MM Total gestionar
+195 285 705 0
+1495 MM
+1 VL BABEI 3 0 0 0
+1496 MM
+2 FAINA 4 0 0 0
+1497 MM
+5 RICA 6 0 0 0
+1498 MM
+6 SOCOLAU 6 0 0 0
+1499 MM
+11 BISTRITA TIBAU 3 0 0 0
+1500 MM
+12 PRISLOP 3 5 0 0
+1501 MM
+15 BAICU - IEUD 5 5 0 0
+1502 MM
+16 BOTIZA 2 10 0 0
+1503 MM
+19 SLATIOARA 5 5 0 0
+1504 MM DS Maramureș 24 HUTA 8 10 0 0
+1505 MM
+31 VL NEAGRA 7 0 0 0
+1506 MM
+33 BAITA 7 10 30 2
+1507 MM
+37 ASUAJ 27 30 60 20
+1508 MM
+38 OARTA 10 30 50 20
+1509 MM
+40 FERSIG 6 20 50 10
+1510 MM
+41 IADARA 10 20 25 5
+1511 MM
+51 STRAMBU 3 2 0 0
+1512 MM
+52 RAOAIA 4 2 0 0
+1513 MM
+53 TIBLES 4 3 0 0
+1514 MM Total gestionar
+123 152 215 57
+1515 MM AC Wasser Cerbul C. 3 NOVAT 10 5 0 0
+1516 MM AC Wasser Cerbul C. 13 PIETROSUL 5 10 0 0
+1517 MM Total gestionar
+15 15 0 0
+1518 MM AVP Certeze 7 REPEDEA 6 4 0 0
+1519 MM Total gestionar
+6 4 0 0
+1520 MM AVPS Breaza 47 CIOCOTIȘ 5 10 10 0
+1521 MM Total gestionar
+5 10 10 0
+1522 MM A.V. Comja-Seini 35 SABIȘA 12 10 100 0
+1523 MM Total gestionar
+12 10 100 0
+1524 MM A.V.S. Codru 39 ULMENI 5 10 150 0
+1525 MM Total gestionar
+5 10 150 0
+1526
+Total județ
+361 486 1180 57
+1527 MH
+2 Dubova 13 0 0 0
+1528 MH
+3 Mraconia 15 0 0 0
+1529 MH
+4 Eselnita 2 0 0 0
+1530 MH
+5 Virciorova 2 0 0 0
+1531 MH
+7 Isverna 2 15 5 10
+1532 MH
+10 Baia Arama 4 25 0 10
+1533 MH
+11 Bala 3 25 10 10
+1534 MH
+12 Sovarna 10 50 10 15
+1535 MH
+13 Ilovat 6 50 40 20
+1536 MH
+14 Balotesti 9 40 0 10
+1537 MH
+15 Tr. Severin 3 50 25 40
+1538 MH
+16 Floresti 4 70 20 60
+1539 MH
+17 Corcova 6 60 100 60
+1540 MH
+18 Cervenita 6 50 20 10
+1541 MH
+19 Husnicioara 5 70 30 30
+1542 MH
+20 Cerneti 3 60 20 30
+1543 MH
+21 Stirmina 5 50 50 30
+1544 MH
+23 Burila Mare 2 50 30 40
+1545 MH
+24 Ostrovu Mare 2 80 50 100
+1546 MH AJVPS MH 25 Jiana 3 100 60 60
+1547 MH
+26 Cioroboreni 1 90 20 80
+1548 MH
+30 Cujmir 0 100 40 100
+1549 MH
+31 Gemeni 0 60 20 100
+1550 MH
+32 Corlatel 3 80 40 100
+1551 MH
+33 Oprisor 0 100 50 200
+1552 MH
+34 Vj. Mare 3 100 50 100
+1553 MH
+35 Iablanita 0 100 30 200
+1554 MH
+36 Slasoma 1 70 40 100
+1555 MH
+37 Smadovita 3 60 100 20
+1556 MH
+38 Greci 8 60 100 20
+1557 MH
+39 Fauroaia 7 50 100 20
+1558 MH Total gestionar
+131 1715 1060 1575
+1559 MH
+28 Patulele 5 10 10 10
+1560 MH D.S.MH 29 Punghina 6 10 10 20
+1561 MH
+1 Svinita 3 0 0 0
+1562 MH Total gestionar
+14 20 20 30
+1563 MH AVPM ACVILA GJ 8 Olanul 0 0 0 0
+1564 MH AVPM ACVILA GJ 9 Cernisoara 0 0 0 0
+1565 MH Total gestionar
+0 0 0 0
+1566 MH AVPS ARTEMIS DJ 22 Crivina 6 50 45 50
+1567 MH AVPS ARTEMIS DJ 27 Salcia 5 60 60 80
+1568 MH Total gestionar
+11 110 105 130
+1569 MH AVPS CORADO CT 6 Podeni 8 10 0 10
+1570 MH Total gestionar
+8 10 0 10
+1571 MH AVPS EGRETA GJ 40 Ceringanul 6 50 100 40
+1572 MH Total gestionar
+6 50 100 40
+1573
+Total județ
+MEHEDINTI 170 1905 1285 1785
+1574 MS
+1 Cerghizel 25 70 90 5
+1575 MS
+9 Sărmașu 3 140 30 0
+1576 MS
+10 Șincai 2 150 80 5
+1577 MS
+13 Hărțău 7 140 90 0
+1578 MS
+14 Săbed 25 150 100 0
+1579 MS
+15 Glodeni 10 80 70 0
+1580 MS
+16 Voiniceni 10 90 90 5
+1581 MS
+18 Cornești 25 60 60 0
+1582 MS AJVPS Mureș 19 Gălățeni 15 60 30 0
+1583 MS
+20 Ernei 25 90 40 5
+1584 MS
+21 Gornești 40 40 40 0
+1585 MS
+22 Voivodeni 10 50 30 0
+1586 MS
+23 Breaza 10 50 30 0
+1587 MS
+24 Lunca 25 30 30 0
+1588 MS
+27 Dumbrava 10 0 0 0
+1589 MS
+29 Bistra 15 0 0 0
+1590 MS
+51 Roua 35 30 30 0
+1591 MS
+60 Viișoara 15 10 25 0
+1592 MS
+64 Sângeorgiu 2 200 60 5
+1593 MS Total Gestionar
+309 1440 925 25
+1594 MS
+2 Giuluș 7 25 15 5
+1595 MS
+3 Deag 5 25 10 5
+1596 MS
+4 Ozd 10 25 30 4
+1597 MS
+17 Cocoș 20 20 30 0
+1598 MS
+26 Aluniș 14 10 10 0
+1599 MS
+28 Iod 15 0 0 0
+1600 MS
+34 Neagra 10 0 0 0
+1601 MS
+35 Sălard 5 0 0 0
+1602 MS Direcția Silvică Mureș 36 Lăpușna 5 0 0 0
+1603 MS
+37 Fâncel 6 0 0 0
+1604 MS
+38 Tireu 6 0 0 0
+1605 MS
+39 Cașva 7 0 0 0
+1606 MS
+41 Sirod 15 0 0 0
+1607 MS
+42 Niraj 25 0 0 0
+1608 MS
+43 Sebeș 20 0 0 0
+1609 MS
+57 Criș 15 5 5 0
+1610 MS Total Gestionar
+185 110 100 14
+1611 MS AVPS Sighișoara 53 Sighișoara 15 8 20 0
+1612 MS
+55 Saschiz 15 9 20 0
+1613 MS
+56 Apold 15 8 20 0
+1614 MS
+58 Nadeș 15 9 20 0
+1615 MS Total Gestionar
+60 34 80 0
+1616 MS
+8 Zau de Câmp.
+35 25 4
+1617 MS AVPS Cerbul București 31 Bradu 6 0 0 0
+1618 MS
+32 Ilva 5 0 0 0
+1619 MS
+33 Zebrac 8 0 0 0
+1620 MS
+59 Zagăr 20 0 0 4
+1621 MS Total Gestionar
+39 35 25 8
+1622 MS
+7 Papiu Ilarian 6 100 100 10
+1623 MS AVS Zimbrul 5 Grindeni 8 40 20 10
+1624 MS
+6 Dătășeni 8 40 20 10
+1625 MS Total Gestionar
+22 180 140 30
+1626 MS
+52 Boiu 18 9 20 0
+1627 MS As. Diana Târnava Mică 61 Bahnea 15 10 35 0
+1628 MS
+62 Gănești 25 20 40 0
+1629 MS Total Gestionar
+58 39 95 0
+1630 MS AVPS Darul Călimanilor 25 Săcal 15 30 10 5
+1631 MS
+30 Răstolița 10 0 0 0
+1632 MS Total Gestionar
+25 30 10 5
+1633 MS AVS Ursul Sovata 44 Isuica 45 10 10 0
+1634 MS
+46 Vărgata 25 20 20 0
+1635 MS Total Gestionar
+70 30 30 0
+1636 MS AV Genesis Reghin 11 Grebeniș 7 180 70 5
+1637 MS As. Căpriorul Mureș 12 Vaideiu 23 40 30 5
+1638 MS Colegiul silv. Gurghiu 40 Mociar 11 10 5 0
+1639 MS AV Hermina 45 Chiher 41 8 10 0
+1640 MS AVPS Nirajul Mic 47 Bereni 25 20 20 0
+1641 MS AVPS Crisius Socodor 48 Chibed 45 0 0 0
+1642 MS Asoc. Pro Diana 49 Ghinești 40 5 20 0
+1643 MS Asociația Cervus 50 Crișeni 50 20 30 0
+1644 MS AV Valea Copacilor 54 Archita 15 9 20 0
+1645 MS AVPS Pescărușul 63 Târnăveni 20 15 20 0
+1646
+Total Județ
+1045 2205 1630 92
+1647 NT
+3 Iapa 15 0 0 0
+1648 NT
+6 Doamna 5 0 0 0
+1649 NT
+8 Murgoci 5 0 0 0
+1650 NT
+9 Ardeluța 4 0 0 0
+1651 NT
+10 Măieruș 5 0 0 0
+1652 NT
+11 Tarcău 5 0 0 0
+1653 NT
+12 Floarea 10 0 0 0
+1654 NT
+14 Bicăjel 5 0 0 0
+1655 NT DS Neamț 16 Neagra 5 0 0 0
+1656 NT
+22 Borca 6 0 0 0
+1657 NT
+23 Sabasa 5 0 0 0
+1658 NT
+25 Secu 2 5 0 0
+1659 NT
+29 Magazia 12 10 0 0
+1660 NT
+30 Agapia 7 10 0 0
+1661 NT
+38 Mărgineni 8 25 0 0
+1662 NT
+39 Dochia 0 20 0 0
+1663 NT
+45 Văleni 12 20 0 0
+1664 NT Total gestionar
+111 90 0 0
+1665 NT
+2 Poloboc 1 100 0 5
+1666 NT
+4 Calu 5 15 0 0
+1667 NT
+5 Podoleni 2 130 0 10
+1668 NT
+7 Bisericani 5 0 0 0
+1669 NT
+15 Telec 2 0 0 0
+1670 NT
+19 Dreptu 4 0 0 0
+1671 NT
+21 Hangu 4 0 0 0
+1672 NT AJVPS Neamț 31 Rădeni 10 150 0 10
+1673 NT
+33 Cuiejdi-Almaș 5 20 0 0
+1674 NT
+34 Negrești 10 100 0 10
+1675 NT
+35 Bodești 4 100 0 0
+1676 NT
+36 Războieni 4 80 0 0
+1677 NT
+37 Ghigoiești 2 90 0 10
+1678 NT
+40 Dumbrava 0 125 0 0
+1679 NT Total gestionar
+58 910 0 45
+1680 NT
+19 Grințieș 10 0 0 0
+1681 NT
+41 Deleni 3 0 0 0
+1682 NT
+42 Icușești 0 0 0 0
+1683 NT
+43 Secuieni 2 120 0 30
+1684 NT AVPS Roman 44 Bârjoveni 3 100 0 20
+1685 NT
+46 Săbăoani 2 120 0 20
+1686 NT
+47 Roman 1 100 2 30
+1687 NT
+49 Vadu Veja 5 70 0 0
+1688 NT
+50 Bozieni 3 70 0 10
+1689 NT
+51 Oniceni 0 50 0 0
+1690 NT Total gestionar
+29 630 2 110
+1691 NT
+24 Pipirig 6 0 0 0
+1692 NT AVPS Zimbru Tg.Neamț 27 Drăgănești 0 80 0 14
+1693 NT
+28 Grași 1 55 0 31
+1694 NT
+32 Grumăzești 3 70 0 19
+1695 NT Total gestionar
+10 205 0 64
+1696 NT AVPS Șoimul Tazlău 1 Tazlău 9 5 0 0
+1697 NT Total gestionar
+9 5 0 0
+1698 NT AVPS Hășmașul Mare 13 Dămuc 6 0 0 0
+1699 NT Total gestionar
+6 0 0 0
+1700 NT AVPS Lupul Cenușiu 17 Schit 12 0 0 0
+1701 NT Total gestionar
+12 0 0 0
+1702 NT AVPS Bradul Nt 20 Galu 7 5 0 0
+1703 NT Total gestionar
+7 5 0 0
+1704 NT AVPS Diana Hunting 26 Nemțișor 10 14 0 8
+1705 NT Total gestionar
+10 14 0 8
+1706 NT AVPS Bradul B 48 Vulpășești 18 85 0 9
+1707 NT Total gestionar
+18 85 0 9
+1708
+Total Județ
+270 1944 2 236
+1709 OT
+1 DOBROTEASA 10 60 120 15
+1710 OT
+2 TOPANA 5 50 80 10
+1711 OT
+3 SPINENI 6 50 80 10
+1712 OT
+7 PRISEACA 0 100 40 50
+1713 OT
+8 SCORNICEȘTI 1 140 100 80
+1714 OT
+9 TATULEȘTI 10 40 80 25
+1715 OT
+10 OPTAȘI 1 100 70 20
+1716 OT
+11 POTCOAVA 13 120 70 30
+1717 OT
+12 BALTENI 4 180 70 100
+1718 OT
+13 SLATINA 15 160 100 150
+1719 OT
+14 STREJEȘTI 19 150 220 200
+1720 OT
+15 CIRLOGANI 17 130 50 20
+1721 OT
+17 CALUI 13 60 50 30
+1722 OT
+18 IANCU JIANU 13 130 90 50
+1723 OT
+19 BALȘ 1 100 60 50
+1724 OT
+21 VOINEASA 6 90 70 50
+1725 OT
+22 PIRȘCOVENI 0 90 40 60
+1726 OT
+23 SLATIOARA 2 120 110 200
+1727 OT AJVPS Olt 24 MILCOV 1 130 100 150
+1728 OT
+25 BREBENI 2 180 80 80
+1729 OT
+26 SCHITU 0 150 60 150
+1730 OT
+27 ICOANA 1 200 150 140
+1731 OT
+31 BARCANEȘTI 0 120 25 60
+1732 OT
+33 COTEANA 1 80 0 20
+1733 OT
+35 BERCICA 0 90 70 90
+1734 OT
+44 CARACAL 0 90 30 60
+1735 OT
+45 VLADILA 0 90 50 40
+1736 OT
+46 ROTUNDA 0 90 20 60
+1737 OT
+47 REDEA 0 80 0 60
+1738 OT
+48 SCARIȘOARA 0 110 35 80
+1739 OT
+49 RUSANEȘTI 0 120 25 40
+1740 OT
+51 GROJDIBOD 22 120 150 40
+1741 OT
+52 IANCA 19 135 170 50
+1742 OT
+53 ORLEA 24 120 150 50
+1743 OT
+54 VIȘINA 0 130 15 50
+1744 OT
+55 CORABIA 4 120 50 50
+1745 OT
+56 TIA MARE 0 100 0 10
+1746 OT
+57 GIRCOV 10 120 50 20
+1747 OT Total gestionar
+220 4245 2730 2450
+1748 OT
+4 Seaca 30 20 25 20
+1749 OT
+5 Verguleasa 15 5 10 20
+1750 OT
+6 Oporelu 5 20 15 20
+1751 OT
+16 Moronesti 0 20 0 0
+1752 OT
+20 Izvoru 22 30 15 10
+1753 OT
+28 Braneasa 0 50 40 50
+1754 OT
+30 Crampoia 0 50 0 30
+1755 OT DS Olt 34 Comani 0 50 0 60
+1756 OT
+36 Dobrun 0 5 5 10
+1757 OT
+37 Dobrosloveni 4 30 0 20
+1758 OT
+38 Draghiceni 0 5 0 10
+1759 OT
+39 Resca 2 15 30 30
+1760 OT
+50 Obarsia 0 50 25 20
+1761 OT Total gestionar
+78 350 165 300
+1762 OT
+32 BOIANU 0 120 0 25
+1763 OT
+40 DANEASA 2 100 25 70
+1764 OT AVPS Diana București 41 MANDRA 0 100 20 30
+1765 OT
+42 CALINESTI 0 100 25 40
+1766 OT
+43 FRUNZARU 10 30 100 10
+1767 OT Total gestionar
+12 450 170 175
+1768 OT AV Vulpea 29 Ghimpeteni 6 200 60 80
+1769 OT Total gestionar
+6 200 60 80
+1770 OT Asociatia GPS Slatina 7 PRISEACA 0 100 40 50
+1771 OT Total gestionar
+0 100 40 50
+1772
+Total Județ
+316 5345 3165 3055
+1773 PH AJPS PRAHOVA 1 PAULESTI 4 55 25 50
+1774 PH
+2 BERCENI 3 55 25 40
+1775 PH
+3 VADU P. 3 70 30 20
+1776 PH
+4 INOTESTI 0 75 20 45
+1777 PH
+5 FULGA 0 80 15 25
+1778 PH
+6 BABA ANA 0 75 0 20
+1779 PH
+7 GRADISTEA 2 85 20 30
+1780 PH
+8 CIORANI 0 90 15 25
+1781 PH
+12 RAFOV 16 55 45 55
+1782 PH
+13 NEGOIESTI 4 65 45 120
+1783 PH
+14 HABUD 3 70 45 80
+1784 PH
+15 MANESTI 3 70 30 40
+1785 PH
+16 STREJNIC 1 65 25 60
+1786 PH
+29 BASCA F CALE 13 5 0 0
+1787 PH
+31 CALDARUS. 12 30 15 0
+1788 PH
+32 SOIMARI 10 30 15 0
+1789 PH
+33 NUCET 6 40 30 20
+1790 PH
+34 CAZACU 8 35 30 20
+1791 PH
+35 PALTINET 23 15 10 0
+1792 PH
+36 COSMINA 18 30 30 15
+1793 PH
+38 BRATIA 7 30 25 20
+1794 PH
+39 PLOPU 5 35 50 25
+1795 PH
+40 IORDACHEA. 9 40 40 25
+1796 PH
+41 URLATI 0 75 10 25
+1797 PH
+42 MALU ROSU 20 35 40 15
+1798 PH Total gestionar
+170 1310 635 775
+1800 PH D S PRAHOVA 9 Drăgănești 18 110 100 30
+1801 PH
+10 Sicrita 12 130 50 30
+1802 PH
+21 Sețu 20 0 0 0
+1803 PH
+25 Sinaia 2 0 0 0
+1804 PH
+26 Azuga 0 0 0 0
+1805 PH
+27 Teleajen 6 0 0 0
+1806 PH
+28 Telejenel 6 0 0 0
+1807 PH
+30 Slon 4 0 0 0
+1808 PH Total gestionar
+68 240 150 60
+1810 PH AVPS CIMPINA 17 FLORESTI 0 280 10 70
+1811 PH
+18 MAGURENI 2 40 10 0
+1812 PH
+19 MISLEA 4 65 10 30
+1813 PH
+20 BREBU 13 20 0 0
+1814 PH
+22 ORJOGOAIA 28 15 0 0
+1815 PH
+23 PROVITA 6 25 0 0
+1816 PH
+24 COMARNIC 12 10 0 0
+1817 PH
+37 COCORASTI 6 20 10 0
+1818 PH Total gestionar
+71 475 40 100
+1819 PH AVPS MUFLONUL BZ 43 LAPOS 13 4 25 30
+1820 PH Total gestionar
+13 4 25 30
+1821 PH AVPS CORMORANII 11 GHERGHITA 35 160 100 45
+1822 PH Total gestionar
+35 160 100 45
+1823
+Total județ
+357 2189 950 1010
+1824 SM
+1 Camârzana 2 5 30 0
+1825 SM
+3 Huta 2 5 10 0
+1826 SM
+10 Livada 12 30 50 20
+1827 SM
+15 Micula 1 15 30 15
+1828 SM
+16 Noroieni 12 30 50 20
+1829 SM
+17 Lazuri 0 20 25 15
+1830 SM DS Satu Mare 18 Satu Mare 15 30 75 20
+1831 SM
+26 Runc 15 10 50 5
+1832 SM
+27 Sai Bârsău 15 10 40 0
+1833 SM
+29 Dacia 4 45 100 25
+1834 SM
+35 Berveni 4 35 100 25
+1835 SM
+36 Fioeni 50 40 80 20
+1836 SM
+39 Cehal 10 40 50 10
+1837 SM
+47 Supur 55 30 50 0
+1838 SM
+49 Hodod 15 10 50 5
+1839 SM Total DS
+212 355 790 180
+1840 SM
+2 Bixad 5 30 40 0
+1841 SM
+4 Negrești 10 20 25 0
+1842 SM
+5 Racșa 10 40 50 0
+1843 SM
+6 Vama 0 45 70 5
+1844 SM
+7 Apa 0 60 75 20
+1845 SM
+8 Botiz 0 80 80 10
+1846 SM
+9 Iojib 8 65 80 0
+1847 SM
+11 Gherța Mică 10 45 70 0
+1848 SM
+12 Bătârci 10 40 50 0
+1849 SM
+13 Băbești 5 45 80 10
+1850 SM
+14 Halmeu 5 50 70 10
+1851 SM
+19 Amați 0 65 85 0
+1852 SM
+20 Culciu 0 80 110 25
+1853 SM
+21 Viile Satu M 10 115 170 10
+1854 SM
+22 Homorod 12 30 55 0
+1855 SM
+23 Gerăușa 10 60 90 10
+1856 SM
+24 Beltiug 8 40 90 0
+1857 SM AJVPS Satu Mare 25 Crucișor 10 45 90 20
+1858 SM
+28 Vetiș 0 70 130 20
+1859 SM
+30 Sătmărel 5 90 140 10
+1860 SM
+31 Terebești 16 105 160 20
+1861 SM
+32 Giungi 12 95 150 10
+1862 SM
+33 Moftin 0 75 110 20
+1863 SM
+34 Ghenci 0 80 100 0
+1864 SM
+37 Sănislău 18 30 140 0
+1865 SM
+38 Pișcolt 15 70 140 10
+1866 SM
+39 Petrești 4 45 60 0
+1867 SM
+40 Carei 2 40 70 0
+1868 SM
+41 Hotoan 4 95 100 10
+1869 SM
+42 Sudurău 4 85 130 0
+1870 SM
+45 ┼žitări 3 70 100 10
+1871 SM
+46 Unimăt 6 70 95 0
+1872 SM
+48 Hurezu 25 35 70 0
+1873 SM Total AJVPS
+227 2010 3075 230
+1874 SM AVPS Carei 43 Săuca 10 100 150 0
+1875
+Total Județ
+449 2465 4015 410
+1876 SJ
+3 CORMENIS 16 0 10 0
+1877 SJ
+5 CLIT 12 5 50 0
+1878 SJ
+21 CRASNA 10 15 40 0
+1879 SJ DS Sălaj 22 PANIC 18 15 40 0
+1880 SJ
+23 TRANIS 8 15 30 0
+1881 SJ
+27 MAGURA 25 20 50 5
+1882 SJ
+28 CHIESD 9 15 15 0
+1883 SJ
+30 CARASTELEC 25 20 90 5
+1884 SJ
+31 LAPIS 22 25 120 5
+1885 SJ Total DS SJ
+145 130 445 15
+1886 SJ
+1 GALGAU 5 10 15 0
+1887 SJ
+2 ILEANDA 10 10 20 0
+1888 SJ
+3 ZALAHA 7 10 15 0
+1889 SJ
+6 BABENI 6 25 25 0
+1890 SJ
+7 JIBOU 6 20 20 20
+1891 SJ
+9 BALAN 10 25 20 0
+1892 SJ
+10 DRAGU 11 25 20 0
+1893 SJ
+11 SAMNIHAI 14 5 5 0
+1894 SJ
+12 RUGINOASA 18 5 5 0
+1895 SJ
+13 STANA 5 5 5 0
+1896 SJ
+14 FILDU 13 10 5 0
+1897 SJ
+15 BUCIUMI 11 5 5 0
+1898 SJ AJVPS Sălaj 16 MESES 14 5 10 0
+1899 SJ
+17 STARCIU 12 15 10 0
+1900 SJ
+18 MOIGRAD 6 5 10 0
+1901 SJ
+19 MIRSID 10 10 10 0
+1902 SJ
+20 ZALAU 4 30 30 0
+1903 SJ
+24 SOIMUS 7 40 40 20
+1904 SJ
+25 CEHU SILV. 12 45 50 20
+1905 SJ
+26 SAMSUD 10 20 80 19
+1906 SJ
+29 HUSENI 10 30 110 15
+1907 SJ
+32 PLOPIS 26 20 110 15
+1908 SJ
+34 TUSA 30 15 85 5
+1909 SJ Total AJVPS
+257 390 705 114
+1910 SJ O.S Blidaru 8 Girbou 12 15 50
+1911
+Total Județ
+414 535 1200 129
+1912 SB
+1 Bruiu 3 2 1
+1913 SB
+3 Arpaș 3 2 1 0
+1914 SB
+4 Bâlea 4 0 0 0
+1915 SB
+5 Porumbacu 6 0 1 0
+1916 SB
+11 Negovanu 3 0 0 0
+1917 SB
+12 Rășinari 4 0 0 0
+1918 SB
+20 Sura Mică 10 10 20 10
+1919 SB D.S. Sibiu 22 Hamba 8 5 5 0
+1920 SB
+23 Vurpar 8 5 5 0
+1921 SB
+26 Seica Mare 10 20 20 0
+1922 SB
+27 Seica Mică 20 20 20 0
+1923 SB
+34 Laslea 10 2 2 0
+1924 SB
+35 Biertan 15 2 2 0
+1925 SB
+36 Iacobeni 14 5 5 5
+1926 SB
+43 Dobra 10 0 0 0
+1927 SB
+44 Bistra 8 0 0 0
+1928 SB
+45 Oasa
+0 0 0
+1929 SB Total gestionar
+136 73 82 15
+1930 SB
+7 Bradu 25 10
+5
+1931 SB
+15 Poiana 15 15 50 5
+1932 SB
+17 Sângatin 30 40 50 25
+1933 SB
+25 Slimnic 20 50 50 10
+1934 SB
+28 Bazna 33 15 10 0
+1935 SB
+29 Vl. Viilor 12 5 10 0
+1936 SB
+30 Mosna 7 15 10 0
+1937 SB AJVPS Sibiu 31 Atel 6 15 15 0
+1938 SB
+32 Dârlos 11 15 20 0
+1939 SB
+33 Dumbrăveni 11 15 20 0
+1940 SB
+37 Pelisor 11 12 40 0
+1941 SB
+38 Altana 10 13 40 0
+1942 SB
+40 Agnita 20 10 30 0
+1943 SB
+41 Retis 8 13 35 0
+1944 SB
+42 Merghindeal 24 12 30 0
+1945 SB Total gestionar
+243 255 410 45
+1946 SB AVPS Cindrelul 18 Păuca 14 10 30 5
+1947 SB AVPS Hubertus 21 Șelimbăr 6 4 17 16
+1948 SB AVPS Jderul N.R. 2 Noul Român 25 5 18 0
+1949 SB AVPS Pădurea Neagră 19 Ocna Sibiului 30 20 30 10
+1950 SB AVPS Aldea 46 Căprăreț 17 5 10 5
+1951 SB
+8 Casolt 6 20 20 20
+1952 SB RPL OS Valea Sadului 10 Sadu 25 0 0 0
+1953 SB Total gestionar
+31 20 20 20
+1954 SB AVPS Ursul Carpatin 6 Avrig 20 10 0 5
+1955 SB AVPS Dealul Cerbului 9 Lotrioara 30 0 0 0
+1956 SB AV Cormoranii Bucur. 13 Gura Râului 20 0 0 10
+1957 SB A.V.P.S. Săroaia 14 Săliste 15 0 10 5
+1958 SB A.V. Valea Marului 16 Apold 20 20 30 10
+1959 SB A.V. Vulturul Plesuv 24 Tichindeal 10 20 30 10
+1960 SB A.V.P. Silva Marpod 39 Marpod 30 16 50 5
+1961
+Total județ
+647 458 737 161
+1962 SV
+1 Pinu 5 0 0 0
+1963 SV
+2 Cristișoru 2 0 0 0
+1964 SV
+3 Păltiniș 2 0 0 0
+1965 SV
+5 Chiril 7 0 0 0
+1966 SV
+6 Barnar 5 0 0 0
+1967 SV
+8 Serișoare 3 0 0 0
+1968 SV
+12 Coșna 4 0 0 0
+1969 SV
+14 Orata 5 0 0 0
+1970 SV
+15 V. Bistriței 3 0 0 0
+1971 SV
+16 V. Cârlibabei 10 0 0 0
+1972 SV
+17 Botuș 10 5 0 0
+1973 SV
+20 V. Putnei 6 0 0 0
+1974 SV
+22 Botoșana 7 0 0 0
+1975 SV
+23 Negrilesa 7 0 0 0
+1976 SV D. S. Suceava 27 Moldovița 10 5 0 0
+1977 SV
+29 Brodina de S. 10 0 0 0
+1978 SV
+30 Nisipitu 5 0 0 0
+1979 SV
+32 Putna 6 0 0 0
+1980 SV
+33 Codrii Voievod 18 0 0 0
+1981 SV
+34 Horodnic 5 20 0 0
+1982 SV
+45 Mst. Umor 3 5 0 0
+1983 SV
+47 Voroneț 5 5 0 0
+1984 SV
+52 Zamostea 3 15 0 0
+1985 SV
+53 Adâncata 3 10 0 0
+1986 SV
+54 Pătrăuți 2 5 0 0
+1987 SV
+62 Dolhasca 0 0 0 0
+1988 SV
+70 Suha Mare 1 20 0 0
+1989 SV
+50 Todirești 10 5 0 0
+1990 SV Total D. S. Suceava
+157 95 0 0
+1991 SV
+4 Bucinis 7 5 0 0
+1992 SV
+7 Bistrita 10 5 0 0
+1993 SV
+9 Negrisoara 10 5 0 0
+1994 SV
+13 Scorusu 5 5 0 0
+1995 SV
+18 Magura 10 10 0 0
+1996 SV
+19 Muncel 7 5 0 0
+1997 SV
+21 Rarau 6 5 0 0
+1998 SV
+26 Paltinul 6 5 0 0
+1999 SV
+31 Straja 5 5 0 0
+2000 SV
+35 Vicov 6 50 0 20
+2001 SV
+36 Fratautii Noi 2 80 0 25
+2002 SV
+37 Fratautii Vechi 3 100 0 25
+2003 SV
+38 Satu-Mare 1 60 0 5
+2004 SV
+39 Volovat 2 60 0 5
+2005 SV A.J.V.P.S. Suceava 40 Sucevita 10 25 0 5
+2006 SV
+42 Arbore 3 60 0 5
+2007 SV
+48 Stroiesti 3 100 0 20
+2008 SV
+49 Mihoveni 6 120 0 25
+2009 SV
+51 Serbauti 3 80 0 5
+2010 SV
+56 Salcea 2 100 0 0
+2011 SV
+57 Suceava 0 80 0 15
+2012 SV
+58 Udesti 0 100 0 15
+2013 SV
+59 Fantanele 0 90 0 0
+2014 SV
+60 Liteni 3 100 0 10
+2015 SV
+61 Valea Poienii 8 60 0 15
+2016 SV
+63 Falticeni 1 100 0 25
+2017 SV
+64 Husi 6 90 0 15
+2018 SV
+65 Ciumulesti 3 110 0 25
+2019 SV
+67 Rotopanesti 1 110 0 25
+2020 SV
+68 Bogdanesti 10 50 0 10
+2021 SV
+71 Suha Mica 12 20 0 5
+2022 SV Total A.J.V.P.S. Suceava 151 1795 0 300
+2023 SV S.V. Bucovina 41 Solca 10 30 0 10
+2024 SV S.V. Bucovina 66 Baia 8 50 0 20
+2025 SV Total S.V. Bucovina 18 80 0 30
+2026 SV U.S.V. Suceava 55 Mitoc 4 50 0 10
+2027 SV U.S.V. Suceava 69 Râsca 8 0 0 0
+2028 SV Total U.S.V. Suceava 12 50 0 10
+2029 SV U.S.A,.M.V. Iasi 24 Frasin 15 5 0 0
+2030 SV Total U.S.A.M.V Iasi 15 5 0 0
+2031 SV A.V.P.Ghenu 43 Comănești 6 25 0 15
+2032 SV A.V.P.Ghenu 44 Cacica 8 20 0 10
+2033 SV Total A.V.P. Ghenu 14 45 0 25
+2034 SV A.V.P. Hirschland 46 Berchisesti 10 40 0 20
+2035 SV Total A.V.P.S. Hirschland 10 40 0 20
+2036 SV O.S.E. Tomnatec 28 Demacusa 10 0 0 0
+2037 SV Total O.S.E. Tomnatec 10 0 0 0
+2038 SV Col. Silv. Bucovina 25 Dragosa 5 0 0 0
+2039 SV Total Col. Silv. Bucovina 5 0 0 0
+2040 SV O.S. Josenii Bargaului 10 Dornișoara 10 5 0 0
+2041 SV Total O.S. Josenii Bargaului 10 5 0 0
+2042 SV O.S. Feldru 11 Tesna 10 5 0 0
+2043 SV Total O S. Feldru 10 5 0 0
+Total Județ
+412 2120 0 385
+2045 TR
+1 Flamânda 15 100 50 70
+2046 TR
+2 Lisa 0 350 40 80
+2047 TR
+3 Traianu 0 150 15 70
+2048 TR
+6 Băneasa 0 150 30 80
+2049 TR
+8 Mândra 0 100 10 70
+2050 TR
+12 Crângeni 0 100 10 50
+2051 TR
+13 Călmațuiu 0 250 15 60
+2052 TR
+14 Rosiori 0 150 15 70
+2053 TR
+16 Dulceanca 6 100 25 70
+2054 TR
+18 Scrioaștea 0 100 10 50
+2055 TR
+22 Drăcșani 0 150 15 70
+2056 TR AJVPS Teleorman 44 Plosca 0 50 20 100
+2057 TR
+45 Ulmeni 0 100 15 70
+2058 TR
+46 Furculești 0 60 5 70
+2059 TR
+47 Alexandria 0 100 20 70
+2060 TR
+48 Poroschia 0 50 30 70
+2061 TR
+52 Viișoara 0 70 0 60
+2062 TR
+53 Smârdioasa 0 70 20 60
+2063 TR
+56 Zimnicea 1 60 10 70
+2064 TR
+57 Burnas 3 70 10 70
+2065 TR
+58 Bujoru 3 80 30 60
+2066 TR
+62 Izlaz 50 150 30 80
+2067 TR Total AJVPS Teleorman 78 2560 425 1520
+2068 TR
+41 Băbăița 0 0 5 10
+2069 TR DS Teleorman 42 Comoara 0 0 20 20
+2070 TR
+43 Drăgănești 0 0 30 40
+2071 TR
+49 Toporu 22 0 25 30
+2072 TR Total DS Teleorman 22 0 80 100
+2073 TR
+24 Zâmbreasca 0 80 50 50
+2074 TR
+40 Lăceni 5 70 80 70
+2075 TR AVPS Sitarul 50 Pielea 0 90 20 20
+2076 TR
+51 Mârzănești 0 80 20 20
+2077 TR
+54 Cervenia 4 100 60 30
+2078 TR Total AVPS Sitarul 9 420 230 190
+2079 TR
+28 Gusia 10 100 40 25
+2080 TR
+29 Cornet 1 100 15 20
+2081 TR AVPS Unirea 30 Căldararu 1 150 25 30
+2082 TR
+33 Cartojani 11 140 50 35
+2083 TR
+35 Blejești 0 100 25 25
+2084 TR Total AVPS Unirea 23 590 155 135
+2085 TR
+17 Orbeasca 0 80 40 60
+2086 TR
+20 Pietris 0 150 50 60
+2087 TR
+26 Hârleasca 5 120 30 30
+2088 TR AVPS Lunca 27 Trivale 2 80 40 50
+2089 TR
+31 Obaia 0 110 0 40
+2090 TR
+32 Draghinești 0 90 30 30
+2091 TR
+39 Mavrodin 0 20 10 20
+2092 TR Total AVPS Lunca 7 650 200 290
+2093 TR
+34 Zevestreni 10 100 200 160
+2094 TR AVPS Diana 36 Calnistea 0 120 20 50
+2095 TR
+37 Tarnava 2 110 80 70
+2096 TR Total AVPS Diana 12 330 300 280
+2097 TR
+19 Sfințești 25 80 150 40
+2098 TR AVPS Interagro 60 Suhaia 20 50 70 20
+2099 TR
+61 Fățana 70 80 400 50
+2100 TR Total AVPS Interagro 115 210 620 110
+2101 TR AVPS Vulturul 23 Dobrotești 2 200 40 70
+2102 TR AVPS Cocorul 15 Peretu 1 80 40 100
+2103 TR AVPS Dacrom 38 Licurici 4 50 100 40
+2104 TR AVPS Bradul 59 Pietroșani 0 110 20 15
+2105 TR AVPS Cerbul 25 Ciolanești 50 120 100 40
+2106 TR AVPS Soimul 55 Izvoarele 0 130 30 40
+2107 TR AVPS Vedea 21 Cucuieți 45 150 150 40
+2108 TR
+4 Trnu Magurele 20 50 80 20
+2109 TR
+5 Dracea 0 60 10 20
+2110 TR AVPS Turris 7 Salcia 0 60 20 20
+2111 TR
+9 Intre Olturi 10 50 70 20
+2112 TR
+10 Dorobantu 5 80 30 20
+2113 TR
+11 Beciu 30 50 200 10
+2114 TR Total AVPS Turris 65 350 410 110
+2115
+Total Județ Teleorman 433 5950 2900 3080
+2116 TM
+14 Pișchia 5 50 150 30
+2117 TM
+15 Alios 15 20 30 0
+2118 TM
+16 Sarlota 20 40 120 0
+2119 TM
+17 Nadas 20 30 30 0
+2120 TM
+24 Margina 25 0 25 0
+2121 TM DS Timișoara 29 Surduc 15 10 50 0
+2122 TM
+31 Drinova 15 10 20 0
+2123 TM
+32 Tapia 10 15 30 0
+2124 TM
+33 Valea Lunga 20 15 50 0
+2125 TM
+41 Cralovat 6 0 70 0
+2126 TM
+50 Banloc 40 50 200 0
+2127 TM
+54 Padureni 30 0 30 0
+2128 TM
+56 Cheveres 50 0 30 0
+2129 TM
+57 Bazos 24 40 100 0
+2130 TM
+59 Giarmata 0 100 97 30
+2131 TM
+64 Macedonia 30 35 100 0
+2132 TM
+65 Giera 4 50 60 0
+2133 TM
+66 Tolvadia 3 50 45 0
+2134 TM
+74 Cocor 6 50 150 15
+2135 TM Total RNP
+338 565 1387 75
+2136 TM
+1 Beba 2 160 120 0
+2137 TM
+3 Cenad 7 180 200 0
+2138 TM
+4 Sînicolau 2 150 140 0
+2139 TM
+5 Igriș 2 120 120 0
+2140 TM
+6 Periam 0 90 150 0
+2141 TM
+7 Saravale 0 210 200 0
+2142 TM
+8 Biled 1 110 130 0
+2143 TM
+9 Sandra 1 120 110 0
+2144 TM
+10 Bărăteaz 3 110 150 0
+2145 TM
+11 Carani
+110 150 0
+2146 TM
+18 Bestovăț 50 50 100 0
+2147 TM
+19 Paniova 25 30 55 0
+2148 TM
+20 Bara 3 40 55 0
+2149 TM
+22 Bethausen 16 35 65 0
+2150 TM
+23 Făget 24 30 70 0
+2151 TM
+25 Curtea 5 20 35 0
+2152 TM
+26 Poeni 3 0 0 0
+2153 TM
+27 Luncani 13 0 0 0
+2154 TM
+28 Nădrag 3 10 30 0
+2155 TM
+30 Traian Vuia 12 25 225 0
+2156 TM
+34 Nevrincea 1 35 70 0
+2157 TM
+35 Găvojdia 2 40 125 0
+2158 TM
+36 Olosag 2 45 150 0
+2159 TM
+37 Vișag 3 30 50 0
+2160 TM
+38 Sacoșul M. 12 40 200 0
+2161 TM
+39 Boldur 2 65 210 0
+2162 TM
+40 Belin - Chi. 2 65 225 0
+2163 TM
+42 Buziaș 36 60 150 0
+2164 TM
+43 Blajova 6 100 110 0
+2165 TM
+44 Sipet
+100 100 0
+2166 TM
+45 Birda 1 200 250 0
+2167 TM
+47 Clopodia 18 70 130 0
+2168 TM
+48 Gherman 3 100 100 0
+2169 TM
+49 Gaiu Mic 5 180 180 0
+2170 TM
+51 Opatița 3 130 200 0
+2171 TM
+52 Jebel 2 130 250 0
+2172 TM
+53 Stamora R. 2 150 160 0
+2173 TM
+55 Sacoșul T. 2 160 180 0
+2174 TM AJVPS Timiș 61 Moșnița 6 70 120 0
+2175 TM
+62 Sag - T. 8 180 200 0
+2176 TM
+63 Petroman 5 200 270 0
+2177 TM
+67 Rudna 2 160 170 0
+2178 TM
+70 Sînmărtin 1 190 170 0
+2179 TM
+71 Dinias 2 180 170 0
+2180 TM
+72 Beregsău 1 150 180 0
+2181 TM
+73 Săcălaz 0 100 120 0
+2182 TM
+75 Becicherec 3 150 110 0
+2183 TM
+76 Iecea 1 100 100 0
+2184 TM
+77 Bobda 1 120 130 0
+2185 TM
+78 Uivar 1 130 130 0
+2186 TM
+80 Lenauheium 2 150 100 0
+2187 TM
+81 Bulgarus 0 150 100 0
+2188 TM
+82 Jimbolia 0 110 100 0
+2189 TM
+83 Comloșul M. 0 200 180 0
+2190 TM
+84 Vizejdia 0 200 150 0
+2191 TM
+85 Tomnatec 0 160 160 0
+2192 TM
+86 Teremia 0 180 130 0
+2193 TM Total AJVPSTimis
+307 6180 7735 0
+2194 TM
+68 Ionel 4 130 200 0
+2195 TM AVPS Arthemis Otelec 69 Ivanda 1 160 200 0
+2196 TM
+79 Pustiniș 3 200 300 0
+2197 TM Total Arthemis Otelec
+8 490 700 0
+2198 TM AV Club Romsilva 13 Vinga 2 100 150 0
+2199 TM AVPS Căpriorul Timiș 12 Ortișoara 0 200 150 0
+2200 TM Liceul Silvic Timișoara 60 Timișoara 6 120 150 0
+2201 TM AVSP Sf. Eustațiu 58 Recaș 10 150 150 0
+2202 TM AVPS Silva 46 Butin 2 40 200 0
+2203 TM A.V.Valea lui Liman 21 Ohaba 26 0 30 0
+2204 TM A.V. Luvcijskotu Drus 2 Cheglevici 2 200 200 0
+2205
+Total județ
+701 8045 10852 75
+2206 TL
+1 Tulcea 0 30 25 15
+2207 TL
+3 Beștepe 0 100 40 50
+2208 TL
+4 Congaz 0 90 20 10
+2209 TL
+9 Carada 10 50 15 40
+2210 TL
+11 Panduru 0 90 10 20
+2211 TL
+24 Hamcearca 4 30 20 15
+2212 TL
+28 Poșta 0 50 20 25
+2213 TL
+29 Niculițel 5 20 10 20
+2214 TL
+30 Isaccea 6 100 20 40
+2215 TL
+31 Crapina 2 250 80 20
+2216 TL
+32 Smârdan 2 150 100 20
+2217 TL
+35 Carcaliu 2 75 40 25
+2218 TL AJVPS Tulcea 38 Somova 10 0 15 0
+2219 TL
+39 Sireasa 10 10 260 0
+2220 TL
+41 Stipoc 20 30 300 20
+2221 TL
+42 Tatanir 30 50 500 20
+2222 TL
+44 Popina 5 20 20 0
+2223 TL
+45 Sulina 10 10 10 0
+2224 TL
+46 Ivancea 20 0 25 0
+2225 TL
+47 Ceamurlia 10 10 25 0
+2226 TL
+48 Heracleea 10 0 20 0
+2227 TL
+49 Dunavăț 10 0 180 0
+2228 TL
+51 Bălteni 5 5 280 0
+2229 TL
+52 Rusca 5 5 280 0
+2230 TL Total gestionar
+176 1175 2315 340
+2231 TL
+7 Enisala 4 0 0 20
+2232 TL
+8 Codru 4 10 0 20
+2233 TL
+13 Fântâna Mare 5 25 20 20
+2234 TL
+17 Ciucurova 6 10 10 20
+2235 TL
+18 Izvoru 10 15 10 20
+2236 TL DS Tulcea 20 Atmagea 8 15 0 20
+2237 TL
+21 Cârjelari 6 25 10 0
+2238 TL
+23 Cerna 3 0 0 0
+2239 TL
+25 Țiganca 8 10 10 10
+2240 TL
+26 Alba Celic 6 15 15 15
+2241 TL
+33 Jijila 1 20 10 10
+2242 TL
+34 Greci 0 25 0 10
+2243 TL Total gestionar
+61 170 85 165
+2244 TL
+2 Malcoci 0 70 30 30
+2245 TL AVPS Diana Buc. 53 Ligheanca 6 0 60 0
+2246 TL
+54 Crișan 6 0 60 0
+2247 TL Total gestionar
+12 70 150 30
+2248 TL
+14 Cișmeaua Nouă 3 100 50 50
+2249 TL AVPS Dacia Braila 36 Traianu 5 150 100 80
+2250 TL
+37 Ostrov 10 150 100 80
+2251 TL Total gestionar
+18 400 250 210
+2252 TL AVPS Egreta Buc. 12 Casimcea 10 200 50 30
+2253 TL AVPS Egreta Buc. 16 Făgărașu Nou 5 100 30 50
+2254 TL Total gestionar
+15 300 80 80
+2255 TL As. Trei Stejari Buc. 5 Babadag 1 10 10 10
+2256 TL AVPS Jderul Buc. 6 Sălcioara 1 15 15 10
+2257 TL AVPS Crîngul 10 Camena 15 105 20 15
+2258 TL AVPS Diana Callatis 15 Corugea 2 100 100 100
+2259 TL AVPS Bendis Buc. 19 N. Bălcescu 2 100 20 50
+2260 TL AVPS Mistrețul Buc. 22 Mircea Vodă 0 60 10 40
+2261 TL AVPS Câmpulung M. 27 Nalbant 1 50 15 30
+2262 TL AVPS Delta Club Buc. 40 Păpădia 6 30 60 0
+2263 TL AVPS Corado 43 Mila 23 19 0 55 0
+2264 TL AVS Abies Buc. 50 Uzlina 10 0 60 0
+2265
+Total județ
+339 2585 3245 1080
+2266 VL
+1 OB LOTRULUI 3 0 0 0
+2267 VL
+2 DOBRUNU 10 0 0 0
+2268 VL
+4 MANAILEASA 3 0 0 0
+2269 VL
+5 LATORITA 1 0 0 0
+2270 VL
+10 BOIA 15 0 0 0
+2271 VL
+13 COZIA 10 0 0 0
+2272 VL DS Valcea 19 OLANESTI 10 0 0 0
+2273 VL
+20 BISTRITA 8 0 0 0
+2274 VL
+26 COLTESTI 8 10 20 0
+2275 VL
+32 N BALCESCU 2 30 40 0
+2276 VL
+38 DOBRUSA 25 80 60 0
+2277 VL
+46 FAURESTI 10 20 30 0
+2278 VL
+47 RACOASA 25 80 60 0
+2279 VL Total gestionar
+130 220 210 0
+2280 VL
+9 CAINENI 12 0 0 0
+2281 VL
+11 BOISOARA 11 0 0 0
+2282 VL
+14 BABUIESTI 11 0 0 0
+2283 VL
+16 GORANU 11 30 40 10
+2284 VL
+17 ARANGHEL 2 20 20 0
+2285 VL
+18 CAZANESTI 5 40 60 10
+2286 VL
+23 ALUNU 5 60 25 20
+2287 VL
+24 COPACENI 9 30 25 20
+2288 VL
+25 STROIESTI 8 50 0 0
+2289 VL
+27 CERNISOARA 7 40 25 20
+2290 VL
+28 LUNCABAT 7 40 20 10
+2291 VL
+29 BABENI 10 60 40 20
+2292 VL
+30 GOVORA 5 40 50 30
+2293 VL AJVPS Valcea 31 SIRINEASA 13 35 40 10
+2294 VL
+33 URSI 2 45 70 20
+2295 VL
+34 DANICEI 7 10 0 0
+2296 VL
+36 PADINA 10 50 20 0
+2297 VL
+37 MITROFANI 12 120 80 30
+2298 VL
+39 USUREI 12 40 20 10
+2299 VL
+40 STANESTI 7 50 30 10
+2300 VL
+41 DOZESTI 8 50 35 10
+2301 VL
+42 SASCIOARA 10 60 35 10
+2302 VL
+43 GIOROIU 7 50 25 10
+2303 VL
+44 DRAGANU 8 80 30 10
+2304 VL
+46 BALCESTI 7 60 30 10
+2305 VL Total gestionar
+206 1060 720 270
+2306 VL AVPS Artemis Rm. Vl 12 Poiana 12 0 0 0
+2307 VL
+15 Calimanesti 25 5 0 0
+2308 VL
+35 Scundu 35 80 55 50
+2309 VL Total gestionar
+72 85 55 50
+2310 VL FVPS Lovistea 7 BREZOI 5 0 0 0
+2311 VL
+8 MALAIA 5 0 0 0
+2312 VL Total gestionar
+10 0 0 0
+2313 VL AVPS Pajura Horezu 21 Romani 11 3 0 0
+2314 VL
+22 Cerna 15 0 0 0
+2315 VL Total gestionar
+26 3 0 0
+2316 VL AVPS Muflonul BZ 6 Molivis 15 0 0 0
+2317 VL Total gestionar
+15 0 0 0
+2318 VL AVP Dunarea 2007 3 Voinesita 15 0 0 0
+2319 VL Total gestionar
+15 0 0 0
+2320
+Total județ
+474 1368 985 320
+2321 VS
+1 Căzănești 0 100 5 10
+2322 VS
+2 Negrești 10 100 5 10
+2323 VS
+4 Gârceni 6 50 3 5
+2324 VS
+5 Fâstâci 10 100 5 5
+2325 VS
+7 Telejna 6 100 0 10
+2326 VS
+8 Zăpodeni 5 50 5 10
+2327 VS
+10 Dănești 6 100 5 5
+2328 VS
+13 Solești 35 80 10 10
+2329 VS
+14 Merieni 10 80 10 10
+2330 VS
+16 Costești 12 100 20 20
+2331 VS
+19 Cursești 8 60 3 10
+2332 VS
+20 Dragomirești 8 40 3 5
+2333 VS
+21 Gugești 6 100 50 20
+2334 VS
+23 Duda-Răsești 4 100 50 20
+2335 VS
+24 Pogănești 4 100 50 20
+2336 VS
+25 Voloșeni 5 80 15 20
+2337 VS
+26 Pojorăni 8 200 10 20
+2338 VS
+27 Hurdugi 3 100 10 20
+2339 VS AJVPS Vaslui 28 Vutcani 3 150 10 10
+2340 VS
+33 Șuletea 0 100 10 10
+2341 VS
+34 Găgești 5 250 10 10
+2342 VS
+35 Fălciu 0 200 20 20
+2343 VS
+36 Murgeni 0 80 20 20
+2344 VS
+37 Cârja 15 100 100 30
+2345 VS
+38 Schineni 7 150 10 15
+2346 VS
+40 Popeni 5 120 10 20
+2347 VS
+41 Vinderei 3 120 5 10
+2348 VS
+42 Bârlad 35 200 50 20
+2349 VS
+43 Bădeana 6 300 50 20
+2350 VS
+45 Puiești 4 60 5 10
+2351 VS
+46 Voinești 10 100 5 20
+2352 VS
+47 Siliștea 12 150 20 20
+2353 VS
+48 Bogdănița 12 130 10 20
+2354 VS
+49 Băcani 2 100 10 20
+2355 VS
+12 Perieni 10 100 15 20
+2356 VS Total gestionar
+275 4050 619 525
+2357 VS
+6 Bălteni 2 120 3 5
+2358 VS
+9 Chițoc 12 10 5 0
+2359 VS
+15 Roșiești 6 40 3 5
+2360 VS
+17 Căpușneni 10 30 5 0
+2361 VS
+18 Florești 14 30 5 5
+2362 VS DS Vaslui 22 Valea Teiului 5 10 5 0
+2363 VS
+29 Barboși 9 10 5 0
+2364 VS
+30 Șișcani 10 50 0 0
+2365 VS
+31 Dobrina 5 10 5 0
+2366 VS
+32 Banca 7 40 2 0
+2367 VS
+39 Epureni 8 60 2 0
+2368 VS Total gestionar
+88 410 40 15
+2369 VS OS Bisericesc Iași 3 Dumești 10 80 3 5
+2370 VS AVPS Iași 11 Boroșești 3 100 10 5
+2371 VS AVPS Șoimul Dun. 44 Mireni 5 40 5 3
+2372
+Total județ
+381 4680 677 553
+2373 VN
+1 Maluri 1 220 30 20
+2374 VN
+2 Stupina 1 200 30 25
+2375 VN
+3 Rîmniceni 1 180 25 20
+2376 VN
+4 Mihălceni 1 180 25 25
+2377 VN
+5 Gologanu 0 200 30 30
+2378 VN
+6 Bălanu 3 230 30 35
+2379 VN
+7 Cîrligele 0 150 30 20
+2380 VN
+8 Sihlea 5 200 40 35
+2381 VN
+9 Calița 14 100 18 10
+2382 VN
+10 Dumbrava 18 80 10 10
+2383 VN
+26 Irești 15 60 0 10
+2384 VN
+28 Fitionești 10 60 0 15
+2385 VN
+29 Bătinești 0 170 0 30
+2386 VN
+30 Diocheți 0 200 0 30
+2387 VN AJVPS Vrancea 31 Anghelești 25 25 0 10
+2388 VN
+32 Ruginești 2 170 0 10
+2389 VN
+33 Adjudu Vechi 6 170 17 30
+2390 VN
+34 Corbița 10 60 25 20
+2391 VN
+35 Boghești 5 100 20 10
+2392 VN
+36 Mărășești 7 140 35 35
+2393 VN
+39 Focșani 1 200 30 35
+2394 VN
+40 Unirea 0 220 10 25
+2395 VN
+41 Beciu 15 90 5 10
+2396 VN
+42 Andreiașu 20 10 0 0
+2397 VN
+43 Milcovelu 25 20 0 10
+2398 VN Total gestionar 185 3435 410 510
+2399 VN
+12 Trestieni 8 50 0 0
+2400 VN
+13 Tulburea 12 0 0 0
+2401 VN
+14 Neculele 7 0 0 0
+2402 VN
+15 Căldări 2 0 0 0
+2403 VN
+18 Pietrosu 2 0 0 0
+2404 VN
+19 Condratu 10 0 0 0
+2405 VN
+20 Lepșa 8 0 0 0
+2406 VN DS Vrancea 21 Macradeu 10 0 0 0
+2407 VN
+22 Dragomira 1 0 0 0
+2408 VN
+23 Cîmpuri 10 0 0 0
+2409 VN
+27 Mărăști 10 0 0 0
+2410 VN
+37 Rădulești 7 50 50 30
+2411 VN
+38 Suraia 7 120 50 20
+2412 VN
+44 Vadu Roșca 4 80 50 20
+2413 VN Total gestionar 98 300 150 70
+2414 VN ICAS București 24 Vizantea 15 10 0 0
+2415 VN ICAS București 25 Măgura 9 20 0 0
+2416 VN Total gestionar 24 30 0 0
+2417 VN OS Năruja 17 Nistorești 15 10 0 0
+2418 VN Total gestionar 15 10 0 0
+2419 VN OS Zăbala-Nereju 16 Nereju 7 0 0 0
+2420 VN Total gestionar 7 0 0 0
+2421 VN AVPS Delta Club 11 Târâtu 27 20 0 0
+2422 VN Total gestionar 27 20 0 0
+2423
+Total județ 356 3795 560 580
+TOTAL ȚARA 19371 123321 75057 29247

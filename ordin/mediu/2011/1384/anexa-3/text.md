@@ -1,0 +1,4345 @@
+# Anexa 3
+Situația cotelor de recoltă aprobate pentru sezonul de vânătoare 2010/2011, la speciile porumbel gulerat porumbel de scorbură, turturică, guguștiuc, ieruncă, prepeliță, ciocârlie de câmp, graur, graur dobrogean, sturzul de vâsc, sturzul cântător, sturzul viilor, sturzul de iarnă, stăncuță și gâscă de semănătură
+Nr. crt. Jud. Gestionari Fond cinegetic Cote de recoltă aprobate la [buc]:
+Nr. Denumire Po-rum- belul gule- rat Po-rum- belul de scor- bură Tur- turi- că Gu- gu- știuc Ie- run- că Pre- peliță Cio- cârlia de câmp Gra- ur Gra- ur do- bro- gean Sturz de vâsc Sturz cântă- tor Stur- zul viilor Stur- zul de iarnă Stăn- cuță Gâs- că de se- mă- nă- tură
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+1 AB
+2 Ariesul Mijlociu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 AB
+3 Horea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+3 AB
+6 Vidra 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+4 AB
+7 Ciuruleasa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+5 AB
+8 Detunata 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+6 AB
+9 Lupsa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+7 AB
+12 Geamana 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+8 AB
+13 Vidolm 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+9 AB
+15 Ponor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+10 AB
+18 Mahaceni 50 50 0 50 0 100 400 0 0 0 0 0 200 20 0
+11 AB
+19 Ocna Mureș 50 50 0 30 0 0 0 0 0 0 0 0 200 20 0
+12 AB AJVPS 20 Lopadea Noua 100 0 0 50 0 0 300 0 0 0 0 0 300 0 0
+13 AB Alba 21 Noslac 100 0 0 0 0 0 0 0 0 0 0 0 300 20 0
+14 AB
+25 Teius 500 100 50 20 5 100 400 0 0 0 0 100 300 50 0
+15 AB
+26 Bucerdea 100 0 0 10 0 50 300 100 0 0 0 100 600 0 0
+16 AB
+27 Veseus 100 0 0 10 0 0 100 100 0 0 0 100 200 0 0
+17 AB
+34 Ampoita 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+18 AB
+36 Berghin 200 0 30 20 0 200 400 20 0 0 0 100 2000 50 0
+19 AB
+37 Oarda 200 0 50 50 0 200 500 30 0 0 0 100 600 30 0
+20 AB
+39 Alba Iulia 200 0 0 50 0 0 0 100 0 0 0 0 0 100 0
+21 AB
+41 Vint 100 0 0 20 0 0 0 0 0 0 0 0 0 0 0
+22 AB
+42 Daia 100 100 50 30 0 100 200 50 0 0 0 100 100 50 0
+23 AB
+45 Cilnic 200 100 100 30 0 50 400 50 0 0 0 100 300 0 0
+24 AB
+49 Salistea 500 100 100 25 0 200 500 0 0 0 0 100 1000 50 0
+25 AB
+50 Cugir 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0
+26 AB Total gestionar
+2500 500 380 395 20 1000 3500 450 0 0 0 800 6100 390 0
+27 AB
+1 Ariesul Super. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+28 AB
+14 Rimetea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+29 AB
+28 Jidvei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+30 AB
+29 Veza 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+31 AB Direcția Silvică 30 Cergau 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+32 AB Alba 31 Valea Lunga 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+33 AB
+35 Ighiu 0 0 0 0 0 0 0 50 0 0 0 0 0 0 0
+34 AB
+40 Blandiana 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+35 AB
+44 Ohaba 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+36 AB
+47 Prigoana 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+37 AB
+51 Canciu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+38 AB
+54 Sugag 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+39 AB Total gestionar
+0 0 0 0 0 0 0 50 0 0 0 0 0 0 0
+40 AB Asoc Căpriorul Certege 4 Valea Bistrei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+41 AB A.V. Avram Iancu 5 Avram Iancu 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+42 AB OS Muntele Mare 10 Posaga 0 0 5 5 2 0 0 0 0 0 0 0 0 5 0
+43 AB AVPS Ocoliș Hunter 1 11 Ocoliș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+44 AB AVPS Diana Aiud 16 Ciugud 10 0 0 0 0 0 0 20 0 0 0 0 0 0 0
+45 AB AVPS Artemis Aiud 17 Aiud 20 0 0 20 0 0 0 0 0 0 0 0 0 0 0
+46 AB ASV Târnavele 22 Intregalde 30 0 0 0 0 0 0 150 0 0 0 50 50 0 0
+47 AB AVPS Iezer Alba 23 Cricău 200 50 50 20 2 50 300 20 0 0 0 50 50 0 0
+48 AB AVPS Piatra Verde 24 Galda 200 0 50 20 0 0 400 0 0 0 0 50 500 0 0
+49 AB AVPS Cerbul Zlatna 32 Izv Ampoiului 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+50 AB AVPS Bendis 33 Viitori Feneș 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+51 AB AVPS Căprioara Cib 38 Valea Mică 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+52 AB OS Sebeș RA 43 Vingard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+53 AB AVPS Diana Gârbova 46 Gârbova 200 50 50 20 2 100 300 50 0 0 0 100 1000 0 0
+54 AB AVPS Mistretul Cugir 48 Vinerea 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+55 AB OS Valea Pianului RA 52 Pianu 100 50 50 20 0 50 350 50 0 0 0 50 100 0 0
+56 AB AV Cerbul Purcaret 53 Purcăreț 5 0 0 0 0 0 0 0 0 0 0 0 50 0 0
+57
+Total județul Alba
+3375 650 585 500 30 1200 4850 790 0 0 0 1100 7850 395 0
+58 AR
+1 Frumuseni 0 0 0 50 0 100 0 0 0 0 0 0 0 0 0
+59 AR
+2 Aradul Nou 0 0 0 150 0 25 0 0 0 0 0 0 0 0 0
+60 AR
+3 Mailat 0 0 0 50 0 40 0 0 0 0 0 0 0 0 0
+61 AR
+4 Gelu 0 0 0 150 0 20 0 0 0 0 0 0 0 0 0
+62 AR
+6 Seitin 0 0 0 100 0 100 0 0 0 0 0 0 0 0 0
+63 AR
+7 Nadlac 0 0 0 75 0 50 0 0 0 0 0 0 0 0 0
+64 AR
+8 Pereg 0 0 0 20 0 25 0 0 0 0 0 0 0 0 0
+65 AR
+9 Rovine 0 0 0 100 0 250 200 0 0 0 0 0 0 0 0
+66 AR
+11 Ceala 0 0 0 50 0 400 100 0 0 0 0 0 0 0 0
+67 AR
+12 Varia s 0 0 0 100 0 50 0 0 0 0 0 0 0 0 0
+68 AR
+13 Dorobanț 5 0 5 50 0 50 0 0 0 0 0 0 0 0 0
+69 AR
+14 Andrei Saguna 0 0 0 100 0 100 0 0 0 0 0 0 0 0 0
+70 AR
+15 Sofronea 0 0 0 150 0 100 0 0 0 0 0 0 0 0 0
+71 AR
+16 Vladimirescu 0 0 0 150 0 100 0 0 0 0 0 0 0 0 0
+72 AR
+17 Simand 0 0 0 100 0 200 100 10 0 0 0 0 0 0 0
+73 AR
+18 Horia 0 0 0 200 0 150 0 0 0 0 0 0 0 0 0
+74 AR
+19 Siclau Gr 0 0 0 100 0 50 20 5 0 0 0 0 0 0 0
+75 AR
+27 Nadab Moara 0 0 0 100 0 100 20 5 0 0 0 0 0 0 0
+76 AR
+28 Nadab 0 0 0 50 0 50 0 5 0 0 0 0 0 0 0
+77 AR
+29 Caporal Alexa 0 0 0 30 0 20 0 5 0 0 0 0 0 0 0
+78 AR
+30 Siria 0 0 0 5 0 20 0 10 0 0 0 75 0 0 0
+79 AR AJVPS Arad 31 Covasant 0 0 0 5 0 10 0 5 0 0 0 40 0 0 0
+80 AR
+32 Ghioroc 0 0 0 5 0 20 0 5 0 0 0 40 0 0 0
+81 AR
+34 Milova 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0
+82 AR
+35 Conop 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0
+83 AR
+36 Monorostia 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0
+84 AR
+38 Nadas 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+85 AR
+39 Taut 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+86 AR
+41 Tarnova 0 0 0 20 0 50 0 10 0 0 0 150 0 0 0
+87 AR
+42 Pancota 0 0 0 0 0 30 0 10 0 0 0 100 0 0 0
+88 AR
+43 Seleus 0 0 0 0 0 20 0 10 0 0 0 0 0 0 0
+89 AR
+45 Apateu 0 0 0 0 0 20 0 10 0 0 0 0 0 0 0
+90 AR
+47 Rovina 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+91 AR
+48 Minis 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+92 AR
+49 Manerau 0 0 0 0 0 20 0 10 0 0 0 150 0 0 0
+93 AR
+50 Archis 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+94 AR
+51 Susag 0 0 0 0 0 10 0 10 0 0 0 0 0 0 0
+95 AR
+56 Roșia 10 0 0 10 0 10 0 0 0 0 0 10 0 0 0
+96 AR
+57 Chisindia 10 0 0 10 0 10 0 0 0 0 0 10 0 0 0
+97 AR
+61 Crocna Zimbru 10 0 0 10 0 10 0 0 0 0 0 10 0 0 0
+98 AR
+62 Avram I. M 0 0 0 10 0 0 0 0 0 0 0 10 0 0 0
+99 AR
+64 Tisa Luncsoara 0 0 0 10 0 0 0 0 0 0 0 10 0 0 0
+100 AR
+71 Zabalt 0 0 0 5 0 0 0 0 0 0 0 10 0 0 0
+101 AR
+72 Lipova 0 0 0 5 0 0 0 0 0 0 0 20 0 0 0
+102 AR
+74 Zabrani 0 0 0 10 0 20 0 0 0 0 0 20 0 0 0
+Total AJVPS ARAD 35 0 5 1995 0 2230 440 160 0 0 0 655 0 0 0
+104 AR
+5 Sanpetru German 0 0 0 200 0 0 0 0 0 0 0 0 0 0 0
+105 AR
+20 Ritul - Pil 0 0 0 10 0 500 0 0 0 0 0 20 0 0 0
+106 AR
+21 Socodor 0 0 0 10 0 100 0 0 0 0 0 20 0 0 0
+107 AR
+22 Salisteanca 0 0 0 50 0 200 0 0 0 0 0 20 0 0 0
+108 AR
+23 Adea 0 0 0 50 0 100 0 0 0 0 0 20 0 0 0
+109 AR
+24 Lunca-Holumburi 0 0 0 50 0 100 0 0 0 0 0 20 0 0 0
+110 AR
+25 Sintea 0 0 0 20 0 50 0 0 0 0 0 20 0 0 0
+111 AR
+26 Somos 0 0 0 50 0 100 0 0 0 0 0 20 0 0 0
+112 AR
+37 Batuta 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+113 AR
+46 Balta 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+114 AR
+52 Botfei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+115 AR
+53 Hasmas 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+116 AR
+54 Prunisor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+117 AR D.S 55 Moneasa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+118 AR
+59 Madrigesti 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+119 AR
+60 Dumbrava 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+120 AR
+65 Slatina 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+121 AR
+66 Trouas 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+122 AR
+67 Savarsin 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+123 AR
+68 Petris 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+124 AR
+69 Recea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+125 AR
+70 Fiac 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+126 AR
+73 Neudorf 0 0 0 0 0 0 0 0 0 0 0 100 0 0 0
+127 AR Total gestionar 0 0 0 440 0 1150 0 0 0 0 0 240 0 0 0
+128 AR AVPS Hubertus L. 33 CLADOVA 0 0 0 10 0 0 0 0 0 0 0 0 0 0 0
+129 AR Total gestionar
+0 0 0 10 0 0 0 0 0 0 0 0 0 0 0
+130 AR AVPS Crisius S. 44 CHERELUS 0 0 0 20
+300 100 30 0 0 0 30 0 0 0
+131 AR AVPS Crisius S. 58 RADESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+132 AR Total gestionar
+0 0 0 20 0 300 100 30 0 0 0 30 0 0 0
+133 AR AVPS DianaT. 10 TURNU 0 0 50 250 0 500 0 100 0 0 0 200 0 0 5
+134 AR Total gestionar
+0 0 50 250 0 500 0 100 0 0 0 200 0 0 5
+135 AR AVPS Șoimul B. 63 Leuca Gaina 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+136 AR Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+137 AR AVP Căpriorul T. 40 Araneag 0 0 0 0 0 20 100 0 0 0
+200 0 0 0
+138 AR Total gestionar
+0 0 0 0 0 20 100 0 0 0 0 200 0 0 0
+Total județ ARAD 35 0 55 2715 0 4200 640 290 0 0 0 1325 0 0 5
+140 AG D.S. ARGEȘ 1 Negoiu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+141 AG 4 Cumpăna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+142 AG 5 Aref 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+143 AG 11 Căpățâna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+144 AG 13 Corbi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+145 AG 15 Bratia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+146 AG 16 Râușor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+147 AG 21 Izv. Dâmb. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+148 AG 22 Rucăr 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+149 AG 45 Deaguri 0 0 20 0 0 200 400 50 0 0 0 50 0 0 0
+150 AG 46 Mozacu 0 0 20 0 0 200 400 50 0 0 0 50 0 0 0
+151 AG 47 Mozăceni 0 0 20 0 0 200 400 50 0 0 0 50 0 0 0
+152
+Total gestionar
+0 0 60 0 0 600 1200 150 0 0 0 150 0 0 0
+153 AG
+3 Poienari 20 0 0 50 0 0 0 30 0 20 0 0 0 0 0
+154 AG 6 VI. Danului 0 0 0 50 0 0 0 50 0 20 0 0 0 0 0
+155 AG 7 C de Argeș 50 0 50 100 0 0 0 50 0 50 0 0 0 0 0
+156 AG 9 Mușetești 0 0 0 25 0 0 0 10 0 10 0 0 0 0 0
+157 AG 10 Mălureni 50 0 30 50 0 0 0 20 0 20 0 0 0 0 0
+158 AG A.J.V.P.S. ARGEȘ 14 Retevoiești 0 0 0 25 0 0 0 0 0 10 0 0 0 0 0
+159 AG 17 Aninoasa 0 0 0 50 0 0 0 0 0 10 0 0 0 0 0
+160 AG 18 R. Târgului 0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+161 AG 19 Câmpulung 0 0 0 50 0 0 0 0 0 20 0 0 0 0 0
+162 AG 20 Stoienești 0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+163 AG 28 Dârmănești 75 0 30 150 0 0 0 40 0 50 0 0 0 0 0
+164 AG 29 Trivale 50 0 30 100 0 50 0 50 0 50 0 0 0 0 0
+165 AG A.J.V.P.S. ARGEȘ 30 Săpunari 0 0 0 30 0 0 0 0 0 20 0 0 0 0 0
+166 AG 31 Cotmeana 0 0 0 20 0 0 0 0 0 20 0 0 0 0 0
+167 AG 32 Râjlețu 0 0 0 50 0 0 0 20 0 25 0 0 0 0 0
+168 AG 33 Dl. Bradului 30 0 30 75 0 75 0 20 0 25 0 0 0 0 0
+169 AG 34 Mareș 30 0 30 75 0 75 0 20 0 50 0 0 0 0 0
+170 AG 35 Râncaciov 75 0 30 75 0 0 0 40 0 10 0 40 0 0 0
+171 AG 36 Cârcinov 30 0 25 75 0 0 0 20 0 30 0 0 0 0 0
+172 AG 37 Topoloveni 75 0 50 150 0 0 0 100 0 0 0 100 0 0 0
+173 AG 38 Căteasca 100 0 250 250 0 250 0 100 0 0 0 150 0 0 0
+174 AG 39 Broșteni 50 0 30 75 0 75 0 20 0 0 0 50 0 0 0
+175 AG 40 Suseni 100 0 50 175 0 150 500 40 0 0 0 50 0 0 0
+176 AG 41 Bălăceanca 75 0 75 150 0 200 1000 75 0 0 0 75 0 0 0
+177 AG 42 Vlășcuța 75 0 75 150 0 200 1000 100 0 0 0 75 0 0 0
+178 AG 43 Șerboieni 75 0 100 200 0 200 500 100 0 0 0 75 0 0 0
+179 AG 44 Furduiești 100 0 200 200 0 250 500 120 0 0 0 75 0 0 0
+180 AG 50 Malu 0 0 0 200 0 250 1000 110
+0 0 75 0 0 0
+181 AG Total gestionar
+1060 0 1085 2600 0 1775 4500 1135 0 440 0 765 0 0 0
+182 AG I.C.A.S. 24 Mâzgana 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+183 AG O.S. Exp. 25 Grădiștea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+184 AG Mihăești 26 Rădești 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+185 AG Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+186 AG A.V.P.S. 8 Jepi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+187 AG Diana Pitești 48 Ungheni 20 0 0 0 0 200 0 150 0 0 0 100 0 0 0
+188 AG Total gestionar
+20 0 0 0 0 200 0 150 0 0 0 100 0 0 0
+189 AG A.V.P.S. 49 Ștefan cel Mare 30 0 0 150 0 200 400 0 0 0 0 0 0 0 0
+190 AG Sitarul 51 Bucov 20 0 0 100 0 200 400 0 0 0 0 0 0 0 0
+191 AG Total gestionar
+50 0 0 250 0 400 800 0 0 0 0 0 0 0 0
+192 AG AVPS Cerbul Buc. 12 Plăișor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+193 AG AVPS Șoimul Buc. 2 Șuiei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+194 AG AVPS Steaua Carpatilor 27 Micești 0 5 5 30 0 10 20 0 0 30 0 0 0 0 0
+195 AG AVP Jderul Argeș 2006 23 Dâmbovcioara 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+196 Total județ 1130 5 1150 2880 0 2985 6520 1435 0 470 0 1015 0 0 0
+197 BC
+15 Bărzăuța 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+198 BC 16 Dofteana 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+199 BC 17 Slănic Moldova 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+200 BC 21 Cașinul Superior 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+201 BC DS Bacău 22 Cașinul Inferior 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+202 BC 39 Itești 30 5 10 30 0 30 0 20 0 20 20 20 20 0 0
+203 BC 40 Fântănele 30 5 10 30 0 0 0 20 0 20 20 20 20 0 0
+204 BC 44 Orbeni 30 5 10 30 0 30 0 20 0 20 20 20 20 0 0
+205 BC 51 Pralea 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+206 BC Total
+90 15 30 90 12 60 0 60 0 60 60 60 60 0 0
+207 BC
+2 Camenca 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+208 BC 3 Cotumba 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+209 BC 6 Nogea 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+210 BC 7 Geamăna 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+211 BC 8 Zemeș 0 0 0 10 5 0 0 0 0 0 0 0 0 0 0
+212 BC 10 Solonț 5 5 5 0 0 10 0 0 0 0 0 0 10 0 0
+213 BC AJVPS Bacău 11 Poduri 0 0 5 10 0 5 0 0 0 0 0 0 10 0 0
+214 BC 13 Plopu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+215 BC 18 Larga 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+216 BC 19 Bogdanești 10 0 20 10 0 10 0 0 0 0 0 0 0 0 0
+217 BC 24 Brătila 10 5 15 5 0 0 0 0 0 0 0 0 0 0 0
+218 BC 25 Bârsănești 10 10 5 20 0 10 0 0 0 0 0 0 0 0 0
+219 BC 26 Berzunți 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+220 BC 27 Șerbești 15 25 30 100 0 80 50 5 0 0 0 0 15 0 0
+221 BC 28 Dămienești 5 0 30 35 0 100 50 10 0 0 0 0 5 0 0
+222 BC 29 Odobești 10 5 10 10 0 0 200 0 0 0 0 0 0 0 0
+223 BC 31 Parincea 20 0 15 0 0 0 0 0 0 0 0 0 0 0 0
+224 BC 32 Buhoci 5 0 5 90 0 0 50 5 0 0 0 0 10 0 0
+225 BC 33 Gioseni 20 10 35 35 0 0 100 5 0 0 0 0 10 0 5
+226 BC 37 Călugara 10 5 15 15 0 15 50 0 0 0 0 0 5 0 0
+227 BC 38 Buhuși 5 0 10 10 0 0 50 5 0 0 0 0 10 0 0
+228 BC 41 Trebeș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+229 BC 43 Sascut 60 10 120 70 0 100 450 15 0 0 0 0 25 0 0
+230 BC 45 Corbasca 0 0 5 5 0 0 0 0 0 0 0 0 0 0 0
+231 BC 46 Găiceana 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+232 BC 47 Huruie ști 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+233 BC 48 Borzești
+10 5
+0 0 100 0 0 0 0 0 5 0 0
+234 BC 49 Urechești 5 10 10 10 0 0 100 0 0 0 0 0 5 0 0
+235 BC 52 Glăvănești 5 0 5 5 0 20 0 5 0 0 0 0 0 0 0
+236 BC 53 Vultureni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+237 BC 54 Gloduri 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+238 BC 55 Colonești 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+239 BC Total
+195 95 345 440 25 350 1200 50 0 0 0 0 110 0 5
+240 BC AVPS Bukk 1 Ghimeș 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+241 BC O.S Bisericesc Bc. 42 Blăgesti 5 5 5 10 0 0 0 0 0 0 0 0 10 0 0
+242 BC
+4 Sulța 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+243 BC
+5 Ciobănuș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+244 BC SVPS Bacau 9 Schit 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+245 BC 12 Scorțeni 30 0 30 30 0 30 500 50 0 0 0 200 300 0 0
+246 BC 23 Sănduleni 30 0 30 30 0 30 500 50 0 0 0 200 300 0 0
+247 BC 34 Pâncești 30 0 30 30 0 30 2000 50 0 0 0 200 500 0 0
+248 BC 35 Răcăciuni 30 0 30 30 0 30 1000 50 0 0 0 200 300 0 0
+249 BC 36 Faraoani 30 0 30 30 0 30 1000 50 0 0 0 200 500 0 0
+250 BC Total
+150 0 150 150 0 150 5000 250 0 0 0 1000 1900 0 0
+251 BC AVPS Diana 50 Bâlca 10 5 10 5 0 5 0 5 0 0 0 0 5 0 0
+252 BC SC OS Lignum 14 Darmănești 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+253 BC OSP Oituz 20 Oituz 0 0 0 0 2 0 0 0 0 0 0 30 0 0 0
+254 BC AVPS Lebada BR 30 Lipova 0 20 50 50 0 100 100 20 0 0 0 0 100 0 0
+255 BC AVPS Cerbul Bicfalau 56 Stanișești 0 5 5 15 0 10 10 10 0 0 0 25 25 0 5
+256 BC 57 Răchitoasa 0 5 5 15 0 10 10 10 0 0 0 25 25 0 5
+257 BC Total
+0 10 10 30 0 20 20 20 0 0 0 50 50 0 10
+258
+Total Județ
+450 150 600 775 44 685 6320 405 0 60 60 1140 2235 0 15
+259 BH
+1 CURTUIȘENI 5 0 20 40 0 50 20 10 0 0 0 0 0 0 0
+260 BH
+5 CHERECHIU 5 0 50 130 0 150 50 20 0 0 0 0 0 0 0
+261 BH
+7 DIOSIG 5 0 50 200 0 200 100 30 0 0 0 0 0 0 0
+262 BH
+11 ITEU 10 0 0 10 0 40 10 0 0 0 0 0 0 0 0
+263 BH
+13 MARGINEA 10 0 0 10 0 50 400 0 0 0 0 0 0 0 0
+264 BH
+14 MIȘCA 10 0 0 10 0 50 200 0 0 0 0 0 0 0 0
+265 BH
+15 CUZAP 10 0 0 0 0 0 0 0 0 0 0 0 20 0 0
+266 BH
+16 BRUSTURI 10 0 0 10 0 30 0 0 0 0 0 0 0 0 0
+267 BH
+17 BURZUC 10 0 0 10 0 30 0 0 0 0 0 0 0 0 0
+268 BH
+19 BIHARIA 10 0 0 100 0 50 20 0 0 0 0 0 10 0 0
+269 BH
+20 BORS 10 0 0 200 0 50 20 0 0 0 0 0 10 0 0
+270 BH
+21 PALEU 0 0 0 100 0 50 0 0 0 0 0 0 10 0 0
+271 BH
+22 INEU 0 0 0 50 0 0 0 0 0 0 0 0 10 0 0
+272 BH
+23 SACADAT 25 0 0 10 0 50 50 0 0 0 0 0 100 0 0
+273 BH
+24 ALPAREA 25 0 0 10 0 100 400 0 0 0 0 0 100 0 0
+274 BH
+27 GIRIS 0 0 0 500 0 300 150 0 0 0 0 0 0 0 0
+275 BH
+28 LIVADA 0 0 0 300 0 300 150 0 0 0 0 0 0 0 0
+276 BH
+29 CEFA 0 0 0 150 0 300 100 0 0 0 0 0 0 0 0
+277 BH AJVPS BIHOR 32 CIUMEGHIU 0 0 0 50 0 800 500 20 0 0 0 0 50 0 0
+278 BH
+34 SALONTA 0 0 0 100 0 800 400 0 0 0 0 0 0 0 0
+279 BH
+40 TALPOS 10 0 0 50 0 20 0 0 0 0 0 0 10 0 0
+280 BH
+41 HODISEL 0 0 0 0 0 100 50 0 0 0 0 0 25 0 0
+281 BH
+42 LUPOAIA 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+282 BH
+44 CORBESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+283 BH
+46 LUNCASPRIE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+284 BH
+47 CRINCEȘTI 15 0 20 20 0 60 80 30 0 0 0 0 100 0 0
+285 BH
+48 CUIESD 20 0 0 0 0 30 20 0 0 0 0 0 80 0 0
+286 BH
+51 BOROD 20 0 0 0 0 20 40 0 0 0 0 0 80 0 0
+287 BH
+52 BALNACA 30 0 0 0 0 20 30 0 0 15 0 0 80 0 0
+288 BH
+53 HOTAR 30 0 0 0 0 250 200 0 0 10 0 0 100 0 0
+289 BH
+54 MAGESTI 30 0 0 0 0 100 100 0 0 0 0 0 120 0 0
+290 BH
+56 CURĂȚELE 15 0 15 20 0 50 50 50 0 0 0 0 25 0 0
+291 BH
+57 ROȘIA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+292 BH
+59 FINIȘ 15 0 15 20 0 60 50 30 0 0 0 0 35 0 0
+293 BH
+61 FERICE 20 0 20 20 0 140 100 40 0 0 0 0 80 0 0
+294 BH
+62 CUȘUIUȘ 15 0 0 15 0 50 50 20 0 0 0 0 50 0 0
+295 BH
+65 VARATEC 0 0 0 0 0 0 0 0 0 0 0 0 20 0 0
+296 BH Total gestionar
+375 0 190 2135 0 4300 3340 250 0 25 0 0 1115 0 0
+297 BH
+3 TARCEA 50 50 200 100 0 200 300 150 0 0 0 0 100 0 0
+298 BH
+4 SIMIAN 150 150 250 200 0 300 300 150 0 0 0 0 200 0 0
+299 BH
+6 CETARIU 0 50 200 200 0 300 300 150 0 0 0 0 200 0 0
+300 BH
+9 CUBULCUT 50 50 150 200 0 75 300 150 0 0 0 0 300 0 0
+301 BH
+10 PADUREA MARE 0 0 0 50 0 50 0 50 0 0 0 0 0 0 0
+302 BH
+18 SALARD 10 0 100 100 0 500 500 100 0 0 0 0 100 0 0
+303 BH
+25 BOBOȘTEA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+304 BH
+26 PAUȘA 5 0 50 50 0 200 300 100 0 0 0 0 100 0 0
+305 BH
+30 PERI 0 0 10 10 0 25 100 25 0 0 0 0 50 0 0
+306 BH
+31 GORONISTE 0 0 50 100 0 300 300 100 0 0 0 0 100 0 0
+307 BH
+33 ARPASEL 0 0 100 100 0 300 300 200 0 0 0 0 100 0 0
+308 BH
+35 OSAND 0 0 20 30 0 50 100 50 0 0 0 0 100 0 0
+309 BH
+36 RAPA 0 0 20 40 0 0 100 50 0 0 0 0 100 0 0
+310 BH D.S. ORADEA 37 COCIUBA 0 0 50 100 0 0 100 100 0 0 0 0 100 0 0
+311 BH
+38 LUNCA 0 0 100 100 0 300 100 100 0 0 0 0 100 0 0
+312 BH
+39 CIGHID 0 0 100 100 0 300 300 100 0 0 0 0 100 0 0
+313 BH
+45 SURDUCEL BULZ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+314 BH
+49 PEȘTIȘ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+315 BH
+50 GEPIȘ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+316 BH
+55 FORAU 0 0 50 0 0 0 50 100 0 0 0 0 0 0 0
+317 BH
+58 SOHODOL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+318 BH
+63 PIETROASA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+319 BH
+65 DUMBRAVANI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+320 BH
+66 BIHARIA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+321 BH
+67 REMEȚI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+322 BH
+68 VI. IADULUI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+323 BH
+69 VI. DRAGANULUI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+324 BH Total gestionar
+265 300 1450 1480 0 2900 3450 1675 0 0 0 0 1750 0 0
+325 BH AVPS GORUNUL 2 VAȘAD 20 0 50 40 0 50 50 20 0 0 0 0 0 0 0
+326 BH Total gestionar
+20 0 50 40 0 50 50 20 0 0 0 0 0 0 0
+327 BH UNIV. ORADEA 8 SANTIMBREU 5 0 10 10 0 25 0 0 0 0 0 0 0 0 0
+328 BH Total gestionar
+5 0 10 10 0 25 0 0 0 0 0 0 0 0 0
+329 BH AV WAID MANNSHEIL 12 BALC 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+330 BH Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+331 BH AVPS CEICA 43 BUCUROAIA 0 0 35 40 0 60 0 50 0 0 0 0 0 0 0
+332 BH Total gestionar
+0 0 35 40 0 60 0 50 0 0 0 0 0 0 0
+333 BH ASOCIAȚIA GLIGANU 60 DUMBRAVIȚA 80 10 15 50 0 80 150 100 0 0 0 0 150 0 0
+334 BH Total gestionar
+80 10 15 50 0 80 150 100 0 0 0 0 150 0 0
+335
+Total județ Bihor
+745 310 1750 3755 0 7415 6990 2095 0 25 0 0 3015 0 0
+336 BN
+1 Negrilești 20 0 0 0 0 0 0 50 0 0 0 50 50 0 0
+337 BN
+2 Dobric 20 0 0 0 0 0 0 50 0 0 0 50 50 0 0
+338 BN
+3 Agrieș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+339 BN A.J.V.P.S. Bistrița 4 Târlișua 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+340 BN Năsăud 16 Ilva Mare 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+341 BN
+20 Minitiu 50 0 0 0 0 50 0 50 0 0 0 50 50 0 0
+342 BN
+33 Figa 50 0 0 0 0 50 0 50 0 0 0 50 50 0 0
+343 BN
+35 Bozieș 50 0 0 0 0 50 0 50 0 0 0 50 50 0 0
+344 BN
+39 Micești 50 0 0 0 0 50 0 100 0 0 0 50 50 0 0
+345 BN Total gestionar
+240 0 0 0 0 200 0 350 0 0 0 300 300 0 0
+346 BN
+15 VI. Mare 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+347 BN Direcția Silvică 24 Cușma 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+348 BN Bistrița Năsăud 25 Tihuța 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+349 BN
+27 Budac 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+350 BN Total gestionar
+20 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+351 BN ICAS București 36 Jimbor 10 0 0 0 0 0 0 10 0 0 0 0 10 0 0
+352 BN
+37 Matei 10 0 0 0 0 0 0 10 0 0 0 0 10 0 0
+353 BN Total gestionar
+20 0 0 0 0 0 0 20 0 0 0 0 20 0 0
+354 BN
+13 Cormaia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+355 BN AC Ursul Brun 14 Anieș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+356 BN
+21 Măgheruș 30 0 0 0 0 30 0 50 0 0 0 50 50 0 0
+357 BN Total gestionar
+30 0 0 0 0 30 0 50 0 0 0 50 50 0 0
+358 BN
+18 Leșu 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+359 BN AVPS Cerbul Dumitra 22 Dumitra 20 0 0 0 0 20 0 50 0 0 0 50 30 0 0
+360 BN
+28 Simionești 20 0 0 0 0 20 0 50 0 0 0 50 30 0 0
+361 BN Total gestionar
+40 0 0 0 2 40 0 100 0 0 0 100 60 0 0
+362 BN
+7 Bichigiu 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+363 BN OS Corn Telciu RA 9 Telciu 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+364 BN
+12 Parva 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+365 BN Total gestionar
+0 0 0 0 6 0 0 0 0 0 0 0 0 0 0
+366 BN Ocolul Silvic 6 Țibleș 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+367 BN Someș Țibleș 10 Gersa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+368 BN Total gestionar
+0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+369 BN A.S.V. Montana 5 Mireș 10 0 0 0 0 0 0 0 0 0 0 10 10 0 0
+370 BN Coșbuc 8 Fiad-Romuli 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+371 BN Total gestionar
+10 0 0 0 0 0 0 0 0 0 0 10 10 0 0
+372 BN GSS Năsăud 11 Rebra 10 0 0 0 5 0 0 0 0 0 0 0 20 0 0
+373 BN O.S. Valea Ilvei 17 Lunca Ilvei 10 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+374 BN OV Transilvania 19 Nepos 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+375 BN AV Diana Bistrița 23 Poieni 0 0 0 0 0 0 0 30 0 0 0 20 0 0 0
+376 BN O.S. Bistrița Bârgăului 26 Colibița 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+377 BN AVPS Călimani Șieu 29 Șieuț 20 0 0 0 0 0 0 10 0 0 0 40 0 0 0
+378 BN AVPS Acvila Teaca 30 Teaca 10 0 0 0 0 0 0 20 0 0 0 20 10 0 0
+379 BN AVPS Vulpea Herina 31 Albești 10 0 0 0 0 0 0 10 0 0 0 10 10 0 0
+380 BN A.V. Artemis Lechința 32 Sâniacob 30 0 0 0 0 30 0 50 0 0 0 50 50 0 0
+381 BN AV Ardealul Lechința 34 Mălin 10 0 0 0 0 0 0 10 0 0 0 10 10 0 0
+382 BN AV Colț Alb 38 Sânmihai 50 0 0 0 0 30 0 100 0 0 0 50 50 0 0
+383
+Total județul Bistrița Năsăud 510 0 0 0 19 330 0 750 0 0 0 660 590 0 0
+384 BT
+4 Tudora 5 0 0 0 0 10 0 5 0 0 0 0 0 0 0
+385 BT
+5 Runc 5 0 0 5 0 10 0 5 0 0 0 0 0 0 0
+386 BT
+7 Cristești 5 0 0 5 0 10 0 5 0 0 0 0 0 0 0
+387 BT
+15 Răuseni 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+388 BT
+17 Gorbănești 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+389 BT
+19 Trușești 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+390 BT DS Botoșani 21 Ionăseni 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+391 BT
+24 Romanești 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+392 BT
+30 Havarna 0 0 0 5 0 10 0 5 0 0 0 0 0 0 0
+393 BT
+34 Avrămeni 0 0 0 5 0 10 0 5 0 0 0 0 0 0 0
+394 BT
+35 Mitoc 5 0 0 5 0 10 0 5 0 0 0 0 0 0 0
+395 BT
+36 Cotușca 0 0 0 5 0 10 0 5 0 0 0 0 0 0 0
+396 BT
+37 Mileanca 5 0 0 5 0 10 0 5 0 0 0 0 0 0 0
+397 BT
+39 Păltiniș 5 0 0 5 0 10 0 5 0 0 0 0 0 0 0
+398 BT
+40 Suharău 0 0 0 5 0 10 0 5 0 0 0 0 0 0 0
+399 BT
+43 Cordăreni 0 0 0 10 0 10 0 5 0 0 0 0 0 0 0
+400 BT
+47 Șindriceni 0 0 0 10 0 10 0 5 0 0 0 0 0 0 0
+401 BT Total
+30 0 0 65 0 170 0 60 0 0 0 0 0 0 0
+402 BT
+2 Vlădeni 10 0 10 30 0 0 50 20 0 10 0 0 0 0 0
+403 BT
+3 Corni 10 0 10 30 0 25 50 20 0 10 0 0 0 0 0
+404 BT
+6 Flămânzi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+405 BT
+9 Nicșeni 5 0 10 30 0 100 50 20 0 10 0 10 0 0 0
+406 BT
+10 Unțeni 5 0 15 30 0 100 100 20 0
+0 0 0 0 0
+407 BT
+11 Stăuceni 0 0 5 30 0 100 100 10 0
+0 0 0 0 0
+408 BT
+12 Bălușeni 0 0 10 30 0 100 150 20 0 10 0 0 0 0 0
+409 BT
+13 Copălău 0 0 10 30 0 50 50 20 0 10 0 0 0 0 0
+410 BT
+14 Prăjeni 5 0 5 30 0 100 100
+0 20 0 10 0 0 0
+411 BT
+16 Sulița 0 0 10 30 0 50 50 20 0 10 0 0 0 0 0
+412 BT
+18 Dângeni 0 0 10 30 0 100 200 20 0 10 0 0 0 0 0
+413 BT AJVPS Botoșani 20 Durnești 0 0 5 30 0 200 100 20 0 10 0 10 0 0 0
+414 BT
+22 Todireni 0 0 5 30 0 50 50 20 0 10 0 0 0 0 0
+415 BT
+23 Călărași 5 0 10 30 0 50 100 20 0 10 0 10 0 0 0
+416 BT
+25 Ștefănești 10 0 20 40 0 200 200 20 0 10 0 10 0 0 0
+417 BT
+27 Hănești 5 0 10 30 0 100 100 20 0 20 0 20 0 0 0
+418 BT
+28 Vlăsinești 5 0 10 30 0 200 300 20 0 20 0 10 0 0 0
+419 BT
+32 Săveni 0 0 10 30 0 50 100 20 0 0 0 0 0 0 0
+420 BT
+33 Manoleasa 5 0 10 10 0 100 100 20 0 10 0 0 0 0 0
+421 BT
+38 Darabani 10 0 5 30 0 50 100 20 0 0 0 0 0 0 0
+422 BT
+41 Cristinești 10 0 5 50 0 50 100 20 0 10 0 0 0 0 0
+423 BT
+42 Hudești 10 0 5 30 0 50 50 20 0 10 0 0 0 0 0
+424 BT
+44 Pomârla 10 0 5 30 0 50 0 20 0 10 0 0 0 0 0
+425 BT
+45 Brăești 5 0 10 30 0 200 1000 20 0 10 0 0 0 0 0
+426 BT
+46 Văculești 0 0 10 30 0 50 100 20 0 10 0 0 0 0 0
+427 BT
+48 Dersca 5 0 10 30 0 50 200 20 0 10 0 10 0 0 0
+428 BT Total
+115 0 225 760 0 2175 3500 470 0 240 0 90 0 0 0
+429 BT AVPS Lebăda Brăila 29 Vorniceni 0 0 0 10 0 100 100 20 0 0 0 0 0 0 0
+430 BT AVPS Lucefărul 1 M.Eminescu 30 0 50 50 0 50 0 100 0 0 0 0 0 0 0
+431 BT
+31 Drăgușeni 20 0 50 50 0 50 0 100 0 0 0 0 0 0 0
+432 BT Total
+50 0 100 100 0 100 0 200 0 0 0 0 0 0 0
+433 BT AVPS Lunca Buc. 8 Leorda 5 0 20 100 0 150 0 100 0 0 0 0 0 0 0
+434 BT AVP Euro Hunter 26 Ripiceni 0 20 20 30 0 100 0 20 0 10 0 0 0 10 0
+435 BT AVPS Huntmanship 49 Ibănesti 0 0 0 0 0 0 0
+0 5 0 0 0 0 0
+436
+Total Județ
+200 20 365 1065 0 2795 3600 870 0 255 0 90 0 10 0
+437 BV
+3 Homorod 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+438 BV
+8 Valea Bogății 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+439 BV
+9 Dopca 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+440 BV DS Brașov 11 Comana 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+441 BV
+15 Codlea 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+442 BV
+27 Bran- Simon 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+443 BV
+31 Bârsa 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+444 BV
+34 Șercăița 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+445 BV
+40 Sebeș 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+446 BV
+41 Dej ani 5 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+447 BV Total
+50 0 0 0 20 0 0 0 0 0 0 0 0 0 0
+448 BV
+14 Rotbav 100 0 0 50 0 200 0 100 0 0 0 0 0 0 100
+449 BV
+16 Cristian 100 0 0 50 10 200 0 0 0 0 0 0 0 0 50
+450 BV
+17 Geamăna 200 0 0 50 5 400 0 200 0 0 0 0 0 0 50
+451 BV AJVPS Brașov 20 Prejmer Cernatu 300 0 0 50 0 400 0 0 0 0 0 0 0 0 0
+452 BV
+25 Tărlung 0 0 0 50 5 0 0 0 0 0 0 0 0 0 0
+453 BV
+28 Moeciu 0 0 0 50 5 0 0 0 0 0 0 0 0 0 0
+454 BV
+29 Piatra Craiului 50 0 0 50 5 50 0 0 0 0 0 0 0 0 0
+455 BV
+45 Dălghiu 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+456 BV Total
+750 0 0 400 30 1250 0 300 0 0 0 0 0 0 200
+457 BV AVPS Făgetul 10 Dopca-Apața 50 0 0 50 0 50 0 0 0 0 0 0 0 0 0
+458 BV AVPS Popilnica 12 Vlădeni 50 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+459 BV AVP Doripesco 13 Crizbav 50 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+460 BV RPLP Krostadt 18 Timiș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+461 BV OS Râșnov RA 26 Râșnov 50 0 0 50 0 50 0 0 0 0 0 0 0 0 0
+462 BV AV Codrul Verde 21 Budila 50 0 0 50 0 50 0 0 0 0 0 0 0 0 0
+463 BV AV Codrul Verde 22 Urlători 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+464 BV Total
+50 0 0 100 0 50 0 0 0 0 0 0 0 0 0
+465 BV
+32 Strâmba- Mira 0 0 0 0 0 5 0 5 0 0 0 0 0 10 0
+466 BV
+33 Veneția 0 0 0 0 0 5 0 0 0 0 0 0 0 10 0
+467 BV
+36 Felmer 0 0 0 0 0 5 0 15 0 0 0 0 0 10 0
+468 BV AVPS Făgaraș 37 Șoarș- Bărcuț 0 0 0 0 0 5 0 10 0 0 0 0 0 10 0
+469 BV
+38 Făgăraș 0 0 0 0 0 5 0 10 0 0 0 0 0 10 0
+470 BV
+39 Cincu 0 0 0 0 0 5 0 20 0 0 0 0 0 10 0
+471 BV
+42 Voila 0 0 0 0 0 5 0 10 0 0 0 0 0 10 0
+472 BV Total
+0 0 0 0 0 35 0 70 0 0 0 0 0 70 0
+473 BV
+2 Fișer 10
+15 0 0 0 0 10 0 0 0 0 0 0 0
+474 BV AVPS Rupea 5 Ungra 10
+10 0 0 0 0 10 0 0 0 0 0 0 0
+475 BV
+6 Racoș 10
+10 0 0 0 0 10 0 0 0 0 0 0 0
+476 BV
+7 Ticus 10
+10 0 0 0 0 15 0 0 0 0 0 0 0
+477 BV Total
+40 0 45 0 0 0 0 45 0 0 0 0 0 0 0
+478 BV Univ. Transilvania 19 Sanpetru 20 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+479 BV
+23 Garcin 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+480 BV Total
+20 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+481 BV Club Diana 35 Toderița 10 0 0 10 0 20 0 0 0 0 0 0 0 0 0
+482 BV RPL OS Ciucaș 44 Zizin 25 0 0 25 0 0 0 25 0 0 0 0 0 0 0
+483 BV AVPS Zăganul 31 Poiana- Mărului 0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+484 BV AV Hurinul Bun. 1 Bune ști 10 0 15 0 0 0 0 5 0 0 0 0 0 0 0
+485 BV As. Dumbrava 4 Jibert 10 0 5 0 0 0 0 10 0 0 0 0 0 0 0
+486 BV OV Șoimul 24 Victoria 0 0 0 0 0 0 0 2 0 0 0 0 0 10 0
+487 BV
+43 Sâmbăta 0 0 0 0 0 5 0 5 0 0 0 0 0 10 0
+488 BV Total
+0 0 0 0 0 5 0 7 0 0 0 0 0 20 0
+489
+Total Județ
+1165 0 65 735 50 1470 0 462 0 0 0 0 0 90 200
+490 BR
+3 Cojocaru 400 0 40 50 0 100 100 0 0 0 0 0 0 0 40
+491 BR
+5 Lungulețu 400 0 40 30 0 50 100 0 0 0 0 0 0 0 40
+492 BR
+7 Filipoiu 400 0 40 30 0 0 0 0 0 0 0 0 0 0 20
+493 BR
+8 Stăncuța 150 0 50 100 0 50 100 50 0 0 0 0 0 0 20
+494 BR
+9 Tufești 150 0 50 30 0 50 0 50 0 0 0 0 0 0 10
+495 BR
+11 Brăila 0 0 50 50 0 150 0 50 0 0 0 0 0 0 0
+496 BR
+13 Bâsca 40 0 50 50 0 100 0 50 0 0 0 0 50 0 10
+497 BR
+15 Romanu 0 0 100 100 0 150 2000 50 0 0 0 0 0 0 0
+498 BR
+16 Comăneasca 0 0 100 100 0 300 1500 150 20 0 0 50 100 0 0
+499 BR
+17 Corbu Vechi 0 0 400 100 0 700 4000 150 20 0 0 50 100 0 30
+500 BR
+19 Racovița 0 0 50 100 0 100 3000 50 20 0 0 30 100 0 10
+501 BR
+20 Siliștea 0 0 50 100 0 100 500 50 0 0 0 0 0 0 0
+502 BR
+21 Plopu 0 0 100 50 0 100 300 50 0 0 0 0 0 0 10
+503 BR
+23 Filipești 0 0 100 50 0 100 300 50 30 0 0 100 100 0 15
+504 BR AJVPS Brăila 24 Ibrianu 50 0 600 100 0 250 1000 100 30 0 0 200 500 0 25
+505 BR
+25 Jirlău 50 0 100 50 0 100 2200 70 30 0 0 100 200 0 10
+506 BR
+26 Surdila 30 0 100 50 0 100 900 50 10 0 0 80 150 0 0
+507 BR
+27 Mircea Vodă 0 0 100 50 0 100 800 50 0 0 0 0 0 0 10
+508 BR
+28 Batogu 0 0 100 50 0 500 3000 50 10 0 0 50 0 0 25
+509 BR
+29 Perișoru 0 0 70 50 0 100 1000 50 0 0 0 0 0 0 0
+510 BR
+30 Oprișănești 0 0 70 50 0 100 200 50 0 0 0 0 0 0 0
+511 BR
+31 Urleasca 0 0 150 80 0 150 800 50 10 0 0 30 0 0 25
+512 BR
+33 Viziru 0 0 50 100 0 50 300 50 0 0 0 0 0 0 0
+513 BR
+34 Dspiru Haret 100 0 300 200 0 200 1500 50 20 0 0 100 100 0 20
+514 BR
+36 însurăței 0 0 200 100 0 400 2500 50 10 0 0 60 50 0 0
+515 BR
+37 Bărăganu 50 0 150 150 0 300 2200 50 10 0 0 60 50 0 5
+516 BR
+47 Băndoiu 100 0 30 50 0 100 400 0 0 0 0 0 0 0 10
+517 BR
+48 Muchea 0 0 40 50 0 400 1500 50 0 0 0 0 0 0 0
+518 BR
+50 Ostroavele Br 450 0 0 0 0 0 0 0 0 0 0 0 0 0 30
+519 BR Total gestionar
+2370 0 3280 2070 0 4900 30200 1470 220 0 0 910 1500 0 365
+520 BR
+1 Vâlciu 50 0 0 0 0 0 0 0 0 0 0 0 50 0 0
+521 BR
+10 Tichilești 0 0 0 20 0 150 300 0 0 0 0 0 0 0 0
+522 BR
+12 T. Vladimirescu 0 0 0 20 0 300 0 0 0 0 0 0 50 0 0
+523 BR
+14 Blasova 300 0 25 50 0 500 1000 0 0 0 0 0 100 0 0
+524 BR
+32 Zăvoaia 0 0 0 20 0 100 200 0 0 0 0 0 50 0 0
+525 BR
+35 Viișoara 50 0 500 20 0 500 300 0 0 0 0 0 50 0 0
+526 BR DS Brăila 38 Șuțești 0 0 50 20 0 200 500 0 0 0 0 0 50 0 0
+527 BR
+40 Lișcoteanca 20 0 100 20 0 200 300 0 0 0 0 0 50 0 0
+528 BR
+42 Colțea 20 0 200 20 0 200 300 0 0 0 0 0 0 0 0
+529 BR
+43 Dudești 20 0 150 20 0 200 300 0 0 0 0 0 0 0 0
+530 BR
+46 Gâscă 50 0 0 0 0 0 50 0 0 0 0 0 50 0 0
+531 BR
+49 Malu Roșu 20 0 350 100 0 50 200 0 0 0 0 0 50 0 0
+532 BR Total gestionar
+530 0 1375 310 0 2400 3450 0 0 0 0 0 500 0 0
+533 BR AVPS Diana 39 Lanurile 0 0 0 50 0 50 1000 0 0 0 0 0 0 0 0
+534 BR AVPS Diana 41 Ciocile 0 0 50 150 0 500 1000 50 0 0 0 0 25 0 0
+535 BR AVPS Diana 44 Florica 0 0 0 100 0 150 1000 50 0 0 0 0 0 0 0
+536 BR AVPS Diana 45 Tătaru 0 0 0 150 0 200 4000 50 0 0 0 0 25 0 0
+537 BR Total gestionar
+0 0 50 450 0 900 7000 150 0 0 0 0 50 0 0
+538 BR AVPS Sitaru 2 Mărașu 50 0 0 20 0 50 0 0 0 0 0 0 0 0 0
+539 BR AJVPS Brașov 4 Frecăței 300 100 200 200 0 700 1000 300 0 0 0 0 200 100 100
+540 BR AVPS Cocorul București 6 Pelicanu 300 50 0 150 0 150 150 50 0 0 0 100 0 0 0
+541 BR AVPS Acvila București 18 Măxineni 100 0 100 100 0 200 0 0 0 0 0 0 0 0 50
+542 BR AVPS Șoimul București 22 Dedulești 50 0 150 100 0 100 400 200 0 0 0 0 0 0 0
+543
+Total județ
+3700 150 5155 3400 0 9400 42200 2170 220 0 0 1010 2250 100 515
+544 BZ
+1 CA Rosetti 5 0 20 50 0 100 2000 0 0 0 0 0 0 0 0
+545 BZ
+4 Căldărăști 10 0 0 50 0 200 1500 0 0 0 0 0 0 0 0
+546 BZ
+5 Padina 0 0 0 20 0 100 1500 0 0 0 0 0 0 0 0
+547 BZ
+6 Scutelnici 0 0 0 30 0 500 1500 0 0 0 0 0 0 0 0
+548 BZ
+7 Mitropolia 5 0 10 30 0 1000 1500 0 0 0 0 0 0 0 0
+549 BZ
+10 Florica 0 0 10 150 0 2000 2000 0 0 0 0 0 0 0 0
+550 BZ
+11 Glodeanu Sărat 0 0 10 100 0 500 1500 0 0 0 0 0 0 0 0
+551 BZ
+12 Mihăilești 0 0 10 150 0 700 1500 0 0 0 0 0 0 0 0
+552 BZ
+13 Năieni 0 0 50 150 0 250 1000 0 0 0 0 200 500 0 0
+553 BZ
+14 Coste ști 0 0 20 120 0 250 1500 0 0 0 0 0 0 0 0
+554 BZ
+17 Țintești 0 0 10 50 0 250 2000 0 0 0 0 0 0 0 0
+555 BZ
+18 Tăbărăști 0 0 0 100 0 0 2000 0 0 0 0 0 0 0 0
+556 BZ
+19 Stâlpu 0 0 10 150 0 300 1500 0 0 0 0 0 0 0 0
+557 BZ
+20 Monteoru 0 0 150 350 0 600 1500 0 0 0 0 100 1000 0 0
+558 BZ
+21 Gura Sărății 0 0 100 200 0 250 1500 0 0 0 0 100 1000 0 0
+559 BZ
+23 Grăjdana 0 0 30 100 0 0 1000 0 0 100 0 0 300 0 0
+560 BZ
+24 Rușavățu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+561 BZ
+26 Umbrărelu 0 0 0 0 0 0 0 0 0 0 0 0 100 0 0
+562 BZ
+27 Berea 0 0 0 0 0 0 0 0 0 50 0 0 100 0 0
+563 BZ
+28 Cislău 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+564 BZ
+29 Cătina 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+565 BZ AJVPS Buzău 30 Pătârlagele 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+566 BZ
+31 Colți 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+567 BZ
+32 Valea Nehoiului 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+568 BZ
+38 Neharna Mușa 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+569 BZ
+39 Breazău 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+570 BZ
+40 Vintilă Vodă 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+571 BZ
+41 Beceni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+572 BZ
+42 Aldeni 0 0 0 0 0 0 0 0 0 0 0 150 150 0 0
+573 BZ
+43 Mărăcineni 5 0 100 100 0 200 1500 0 0 0 0 50 300 0 0
+574 BZ
+44 Câlnău 10 0 20 30 0 100 1000 0 0 100 0 0 300 0 0
+575 BZ
+46 Făgetu 0 0 300 300 0 200 1500 10 0 0 0 0 500 0 0
+576 BZ
+49 Boldu 0 0 0 200 0 250 1000 10 0 0 0 0 30 0 0
+577 BZ
+50 Vâlcele 0 0 10 100 0 250 1000 0 0 0 0 0 0 0 0
+578 BZ
+51 Amara 0 0 0 300 0 200 1000 10 0 0 0 0 50 0 0
+579 BZ
+53 Roșiori 0 0 0 30 0 250 1500 0 0 0 0 0 0 0 0
+580 BZ
+54 Săgeata 0 0 10 100 0 500 1500 0 0 0 0 0 0 0 0
+581 BZ
+55 Vadu Pașii 0 0 0 100 0 100 1500 0 0 0 0 0 0 0 0
+582 BZ
+56 Bobocu 0 0 0 150 0 250 1500 0 0 0 0 0 0 0 0
+583 BZ
+57 Zărnești 0 0 100 150 0 150 1500 0 0 50 0 0 300 0 0
+584 BZ
+58 Oreavu 0 0 200 300 0 200 1500 10 0 50 0 0 200 0 0
+585 BZ Total gestionar
+35 0 1170 3660 10 9650 41000 40 0 350 0 600 4830 0 0
+586 BZ
+2 Luciu 0 0 20 30 0 250 1000 0 0 0 0 0 0 0 10
+587 BZ
+3 Rușețu 30 0 30 30 0 300 1000 0 0 0 0 0 20 0 0
+588 BZ
+15 Limpezișu 30 0 30 30 0 300 1000 0 0 0 0 0 20 0 0
+589 BZ
+16 Călțuna 0 0 20 30 0 250 1000 0 0 0 0 0 0 0 0
+590 BZ DS Buzău 33 Siriu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+591 BZ
+34 Harțagu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+592 BZ
+35 Păltiniș Cașoca 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+593 BZ
+36 Bâsca Mare 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+594 BZ
+37 Piciorul Caprei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+595 BZ
+45 Dedulești 0 0 0 0 0 0 0 0 0 0 0 0 50 0 0
+596 BZ Total gestionar
+60 0 100 120 0 1100 4000 0 0 0 0 0 90 0 10
+597 BZ
+47 Crângul Ursului 10 0 100 100 0 150 400 50 0 0 0 0 100 0 0
+598 BZ AVPS Căprioara Rm. 48 Știubei 10 0 30 150 0 150 500 50 0 0 0 0 100 0 0
+599 BZ
+52 Ziduri 10 0 20 150 0 100 1000 50 0 0 0 0 100 0 0
+600 BZ Total gestionar
+30 0 150 400 0 400 1900 150 0 0 0 0 300 0 0
+601 BZ AVPS Acvila Buc. 8 Smârdan 0 0 0 200 0 500 0 0 0 0 0 0 0 0 0
+602 BZ AVPS Diana Buc. 9 Glodeanu Siliștea 0 0 0 100 0 100 200 50 0 0 0 0 0 0 0
+603 BZ AVPS Bradul Buc. 22 Măgura Tisău 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+604 BZ AVPS Călăuza Buc. 25 Brăești 0 0 0 0 0 0 0 0 0 0 0 0 200 0 0
+605
+Total județ
+125 0 1420 4480 10 11750 47100 240 0 350 0 600 5420 0 10
+606 CS O.S.E CARANSEBES 1 Tincova M 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+607 CS O.S.E CARANSEBES 3 Borlova 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+608 CS Total O.S.E. C-sebes
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+609 CS
+6 Golet-Petros 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+610 CS
+14 Maru 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+611 CS
+15 Poiana - Maru 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+612 CS
+16 Rusca 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+613 CS
+20 Higeg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+614 CS
+21 Higigel 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+615 CS
+27 Polom 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+616 CS
+30 VI. Cernei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+617 CS
+31 Pecinisca 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+618 CS
+34 Sirinia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+619 CS DS CARAS SEVERIN 39 Pojejena 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5
+620 CS
+42 VI. Beiului 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+621 CS
+44 Micos 0 0 0 0 0 100 50 100 0 0 0 200 0 0 0
+622 CS
+50 Dumbrava 0 0 0 0 0 500 1000 100 0 0 0 600 0 0 50
+623 CS
+51 Varadia 0 0 0 0 0 500 1000 100 0 0 0 400 0 0 50
+624 CS
+52 Buhui 0 0 0 0 0 0 0 0 0 0 0
+0 0 0
+625 CS
+54 Poneasca- Taria 0 0 0 0 0 0 0 0 0 0 0 100 0 0 0
+626 CS
+56 Patas 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+627 CS
+63 Valiug 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+628 CS
+66 Comarnic 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+629 CS
+70 Bocșa 0 0 10 0 0 100 100 0 0 0 0 50 0 0 0
+630 CS
+76 Iersig- Dumbrava 0 0 0 0 0 200 500 50 0 0 0 100 0 0 0
+631 CS Total D.S. CS
+0 0 10 0 0 1400 2650 350 0 0 0 1450 0 0 105
+632 CS
+2 Turnu Ruieni 0 0 0 0 0 20 0 0 0 0 0 0 0 0 0
+633 CS
+4 Vârciorova 0 0 0 0 0 20 0 0 0 0 0 0 0 0 0
+634 CS
+5 Ilova 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+635 CS
+7 Poiana 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0
+636 CS
+8 Delinești 30 0 50 50 0 0 0 10 0 0 0 0 0 0 0
+637 CS
+9 Brebu Zorlenț 30 0 50 50 0 100 0 50
+0 0 0
+638 CS
+10 Mâtnic Prisaca 0 0 0 0 0 20 0 0 0 0 0 0 0 0 0
+639 CS
+11 Sacu 0 0 0 0 0 20 0 0 0 0 0 0 0 0 0
+640 CS
+12 Otelu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+641 CS
+13 Magura 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+642 CS
+17 Bautar Bucova 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+643 CS
+18 Marga 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+644 CS
+19 Armenis 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+645 CS
+22 Teregova 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+646 CS
+23 Slatina 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+647 CS
+24 Belentin 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+648 CS
+25 Domasnea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+649 CS
+26 Cornereva 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+650 CS
+28 Sfardin 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+651 CS
+29 Craiova 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+652 CS
+32 Iardastita 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+653 CS
+33 Bigar 20 0 20 20 0 0 0 0 0 0 0 0 0 0 20
+654 CS
+35 Berzasca 30 0 30 30 0 0 0 0 0 0 0 0 0 0 20
+655 CS
+36 Valea Liubcova 10 0 10 10 0 0 0 20 0 0 0
+0 0 20
+656 CS
+37 Sichevita 20 0 20 10 0 20 50 20 0 0 0
+0 0 10
+657 CS
+38 Moldova Noua 10 0 20 20 0 20 50 20 0 0 0 20 0 0 50
+658 CS
+40 Belobresca 20 0 10
+0 20 50 20 0 0 0 20 0 0 20
+659 CS
+41 Socol 20 0 20
+0 20 50
+0 0 0 20 0 0 20
+660 CS
+43 Cheile Nerei
+0
+30 0 0 0 50 0 0 0 100 0 0 0
+661 CS AJVPS CS 45 Cârnecea 20 0 10 30 0 50 0 50 0 0 0 200 0 0 0
+662 CS
+46 Jitin 20 0 20 30 0 50 0 50 0 0 0 150 0 0 0
+663 CS
+47 Oravița 20 0 20 20 0 0 0 50 0 0 0 150 0 0 0
+664 CS
+48 Ilidia 20 0 20 30 0 50 0 50 0 0 0 200 0 0 0
+665 CS
+49 Iertof 20 0 10 30 0 150 0 0 0 0 0 200 0 0 0
+666 CS
+53 Steierdorf 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0
+667 CS
+55 Bozivici 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+668 CS
+57 Borloveni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+669 CS
+58 Prigor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+670 CS
+59 Rudaria 0 0 0 0 0 0 0 50 0 0 0 50 0 0 0
+671 CS
+60 Bănia 0 0 0 0 0 0 0 50 0 0 0 50 0 0 0
+672 CS
+61 Dalboșet 0 0 0 0 0 0 0 50 0 0 0 50 0 0 0
+673 CS
+62 Văliugel 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+674 CS
+64 Soceni Lupac 30 0 30 50 0 0 0 50 0 0 0 0 0 0 0
+675 CS
+65 Sodol Cozia 30 0 30 50 0 0 0 50 0 0 0 0 0 0 0
+676 CS
+67 Vermeș 0 0 0 0 0 0 0 0 0 0 0 100 0 0 0
+677 CS
+68 Bărbosu 0 0 0 0 0 0 0 50 0 0 0 0 0 0 0
+678 CS
+69 Ezeriș 0 0 0 50 0 0 0 50 0 0 0 0 0 0 0
+679 CS
+71 Dognecea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+680 CS
+72 Berzovia Ocna 0 0 0 50 0 50 0 50 0 0 0 100 0 0 0
+681 CS
+73 Ferendia 50 0 0 0 0 50 300 50 0 0 0 100 0 0 0
+682 CS
+74 Maureni 50 0 0 50 0 50 300 50 0 0 0 100 0 0 0
+683 CS Total AJVPS CS
+450 0 370 640 0 760 800 890 0 0 0 1610 0 0 160
+684 CS AV VL LIMAN FĂGET 75 SOSDEA 0 0 10 25 0 100 500 50 0 0 0 100 0 0 0
+685 CS Total AV VL LIMAN
+0 0 10 25 0 100 500 50 0 0 0 100 0 0 0
+686
+Total județ CS
+450 0 390 665 0 2260 3950 1290 0 0 0 3160 0 0 265
+687 CL
+7 Dragalina 0 0 0 100 0 300 500 0 0 0 0 0 0 0 30
+688 CL
+12 Sărulești 0 0 0 100 0 100 0 0 0 0 0 0 0 0 30
+689 CL
+14 Bogdana 50 0 50 100 0 200 0 0 0 0 0 0 0 0 30
+690 CL
+16 Drajna 0 0 50 100 0 800 2500 0 0 0 0 10 0 0 70
+691 CL
+17 Putineiu 50 0 50 40 0 400 1500 0 0 0 0 10 0 0 30
+692 CL
+18 Bazarghi- deanu 50 0 50 100 0 150 0 0 0 0 0 0 0 0 30
+693 CL
+23 Mostiștea 0 0 0 100 0 50 0 0 0 0 0 0 0 0 70
+694 CL AJVPS Călărași 24 Plevna 0 0 0 100 0 150 0 0 0 0 0 0 0 0 30
+695 CL
+25 Independența 0 0 0 100 0 100 500 0 0 0 0 0 0 0 70
+696 CL
+26 Ștefan Voda 0 0 0 200 0 300 2500 0 0 0 0 10 0 0 100
+697 CL
+27 Calărași Nord 0 0 0 300 0 700 3000 0 0 0 0 0 0 0 70
+698 CL
+28 Dichiseni 0 0 0 100 0 600 3000 0 0 0 0 0 0 0 30
+699 CL
+34 Grădiștea 0 0 0 100 0 250 500 0 0 0 0 0 0 0 70
+700 CL
+46 Roseți 200 0 50 100 0 100 0 0 0 0 0 0 0 0 70
+701 CL
+47 Pietroiu 200 0 50 100 0 300 200 0 0 0 0 0 0 0 100
+702 CL Total AJVPS Călărași 550 0 300 1740 0 4500 14200 0 0 0 0 30 0 0 830
+703 CL
+3 N. Bălcescu 0 0 0 150 0 300 1000 0 0 0 0 0 0 0 0
+704 CL
+4 Săpunari 0 0 0 150 0 200 500 0 0 0 0 0 0 0 0
+705 CL
+9 Plătărești 0 0 0 150 0 200 1000 0 0 0 0 0 0 0 0
+706 CL
+10 Gologanu 0 0 0 150 0 200 1000 0 0 0 0 0 0 0 0
+707 CL AVPS Sitarul 11 Tămădău 10 0 0 150 0 300 1000 0 0 0 0 0 0 0 0
+708 CL
+21 Vasilați 10 0 0 250 0 300 1000 0 0 0 0 0 0 0 0
+709 CL
+29 Negoiești 0 0 0 150 0 400 1000 100 0 0 0 100 0 0 0
+710 CL
+30 Nana 20 0 20 100 0 400 1000 0 0 0 0 0 0 0 0
+711 CL
+36 Radovanu 0 0 0 100 0 100 0 0 0 0 0 0 0 0 0
+712 CL
+40 Chirnogi 20 0 0 100 0 100 500 0 0 0 0 0 0 0 0
+713 CL Total AVPS Sitarul 60 0 20 1450 0 2500 8000 100 0 0 0 100 0 0 0
+714 CL
+37 Mitreni 30 20 30 150 0 250 2000 100 0 0 0 0 0 0 0
+715 CL AVPS Oltenița 41 Oltenița 120 30 50 150 0 200 2000 20 0 0 0 0 0 0 0
+716 CL
+42 Chiselet 120 30 50 100 0 200 2000 20 0 0 0 0 0 0 0
+717 CL Total AVPS Oltenița 270 80 130 400 0 650 6000 140 0 0 0 0 0 0 0
+718 CL
+1 Gostilele 0 0 0 500 0 1000 4000 100 0 0 0 0 50 0 0
+719 CL AVPS Diana 19 Borcea 50 0 50 200 0 500 1500 100 0 0 0 0 50 0 0
+720 CL
+48 Fermecatu 200 0 50 200 0 1200 4000 100 0 0 0 0 50 0 0
+721 CL Total AVPS Diana 250 0 100 900 0 2700 9500 300 0 0 0 0 150 0 0
+722 CL
+6 Dragoș Voda 0 0 50 150 0 100 0 0 0 0 0 0 0 0 30
+723 CL AVPS Acvila 15 Ivănești 0 0 50 50 0 100 0 0 0 0 0 0 0 0 30
+724 CL
+38 Ulmeni 0 0 50 700 0 1500 0 0 0 0 0 0 0 0 30
+725 CL Total AVPS Acvila 0 0 150 900 0 1700 0 0 0 0 0 0 0 0 90
+726 CL AVPS Vulturul 2 Ileana 20 0 80 200 0 1000 1000 0 0 0 0 0 0 0 0
+727 CL
+39 Greaca 50 0 20 50 0 1000 200 0 0 0 0 0 0 0 100
+728 CL Total AVPS Vulturul 70 0 100 250 0 2000 1200 0 0 0 0 0 0 0 100
+729 CL AVPS București 20 Frumușani 15 0 20 100 0 200 1000
+0 0 0 0 0 0 0
+730 CL AVPS Cocorul 5 Dâlga 100 0 50 200 0 1000 1000 50 0 0 0 200 0 50 30
+731 CL AVPS Bradul 35 Crivăț 10 0 20 50 0 500 800
+0 0 0 0 100 0 0
+732 CL AVPS Zimbrul Românesc 2007 22 Măcelaru 5 0 0 40 0 200 100 10 0 0 0 0 0 0 0
+733 CL ICAS București 8 Perișoru 50 0 0 50 0 1000 1000 0 0 0 0 0 0 0 0
+734 CL
+13 Răzvani 0 0 50 50 0 800 800 0 0 0 0 0 0 0 0
+735 CL
+31 Ciornuleasa 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0
+736 CL
+32 Vărăști 0 0 20 20 0 100 200 0 0 0 0 0 0 0 0
+737 CL
+33 Ciocănești 0 0 0 100 0 100 500 0 0 0 0 0 0 0 0
+738 CL
+43 Boianu 20 0 0 20 0 200 500 0 0 0 0 0 0 0 0
+739 CL
+44 Sfredere 20 0 20 20 0 1100 800 0 0 0 0 0 0 0 0
+740 CL
+45 Călărași 10 0 20 20 0 1100 800 0 0 0 0 0 0 0 0
+741 CL
+49 Fetești 30 0 20 20 0 200 800 0 0 0 0 0 0 0 0
+742 CL Total DS Călărași 80 0 130 250 0 3650 4400 0 0 0 0 0 0 0 0
+743 Total județul Călărași 1460 80 1020 6330 0 20600 47200 600 0 0 0 330 250 50 1050
+744 CJ
+2 STRAMBU 20 0 20 30 0 10 100 10 0 0 0 100 0 0 0
+745 CJ
+3 VAD 20 0 20 30 0 10 300 10 0 0 0 100 0 0 0
+746 CJ
+4 BOBALNA 20 0 20 30 0 10 100 50 0 0 0 100 0 0 0
+747 CJ
+5 DEJ 20 0 20 30 0 10 300 100 0 0 0 100 0 0 0
+748 CJ
+6 MICA 20 0 20 30 0 10 300 50 0 0 0 100 0 0 0
+749 CJ
+8 GHERLA 20 0 20 30 0 10 100 150 0 0 0 200 0 0 0
+750 CJ
+10 CORNE ȘTI II 20 0 20 30 0 10 100 100 0 0 0 100 0 0 0
+751 CJ
+11 PANTICEU 20 0 20 30 0 10 300 50 0 0 0 100 0 0 0
+752 CJ
+12 CRISTOREL 20 0 20 30 0 10 100 100 0 0 0 200 0 0 0
+753 CJ
+15 ȚAGA 20 0 20 30 0 10 100 100 0 0 0 100 0 0 0
+754 CJ AJVPS Cluj 16 LIVADA 20 0 20 30 0 10 300 50 0 0 0 100 0 0 0
+755 CJ
+17 SAMARTIN 20 0 20 30 0 10 100 100 0 0 0 100 0 0 0
+756 CJ
+18 FEIURDENI 20 0 20 30 0 10 300 150 0 0 0 100 0 0 0
+757 CJ
+19 CHINTENI 20 0 20 30 0 10 300 150 0 0 0 100 0 0 0
+758 CJ
+21 SARD 20 0 20 30 0 10 100 50 0 0 0 100 0 0 0
+759 CJ
+22 STOLNA 20 0 20 30 0 10 100 50 0 0 0 100 0 0 0
+760 C.T
+23 FLORE ȘTI 20 0 20 30 0 10 100 150 0 0 0 100 0 0 0
+761 CJ
+24 SOMEȘENI 20 0 20 30 0 10 300 150 0 0 0 200 0 0 0
+762 CJ
+25 CORPADEA 30 0 20 30 0 10 300 150 0 0 0 200 0 0 0
+763 CJ
+29 GEACA 30 0 20 30 0 10 300 150 0 0 0 200 0 0 0
+764 CJ
+30 CATINA 30 0 20 30 0 10 300 50 0 0 0 300 0 0 0
+765 CJ
+32 TRITENI 30 0 20 30 0 10 300 200 0 0 0 300 0 0 0
+766 CJ
+34 CAL ARAȘI 30 0 20 30 0 10 300 200 0 0 0 300 0 0 0
+767 CJ
+36 FELEAC 30 0 20 30 0 10 100 50 0 0 0 100 0 0 0
+768 CJ
+41 VALEA IERII 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+769 CJ
+45 SOMEȘ CALD 0 0 0 0 0 0 0 0 0 0 0 100 0 0 0
+770 CJ
+47 GILAU 10 0 0 0 0 0 0 50 0 0 0 100 0 0 0
+771 CJ
+48 VIȘTEA 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+772 CJ
+49 VALEA BELIȘ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+773 CJ
+54 HUEDIN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+774 CJ
+56 CIUCEA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+775 CJ Total gestionar
+660 0 560 720 0 240 5000 0 0 0 0 3700 0 0 0
+776 CJ
+27 FRATA 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+777 CJ Direcția Silvica 28 VAIDA CAMARAȘ 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+778 CJ Cluj 40 BAIȘOARA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+779 CJ
+42 CĂPRIȚĂ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+780 CJ
+44 VL RACATAULUI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+781 CJ
+46 DUMBRAVA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+782 CJ
+50 GIURCUȚA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+783 CJ Total gestionar
+100 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+784 CJ
+35 HARCANA 35 0 10 50 0 50 300 50 0 0 0 25 0 0 0
+785 CJ AVPS Potaissa 37 TURDA 35 0 0 15 0 25 200 15 0 0 0 25 0 0 0
+786 CJ Turda 38 MOLDOVE- NEȘTI 35 0 10 15 2 50 200 15 0 0 0 25 0 0 0
+787 CJ
+39 LITA 35 0 0 15 2 50 200 15 0 0 0 25 0 0 0
+788 CJ Total gestionar
+0 20 95 4 175 900 95 0 0 0 100 0 0 0
+789 CJ A.V.P.S. Someș Dej 1 CHIUEȘTI 50 0 20 20 0 0 0 50 0 0 0 0 20 0 0
+790 CJ Total gestionar
+50 0 20 20 0 0 0 50 0 0 0 0 20 0 0
+791 CJ AVPS Voievodul Gelu 7 UNGURAȘ 50 0 0 0 0 0 100 0 0 0 0 100 25 0 0
+792 CJ Total gestionar
+50 0 0 0 0 0 100 0 0 0 0 100 25 0 0
+793 CJ A V Diana Club Cluj 9 CORNEȘTI 15 0 20 15 0 10 0 20 0 0 0 0 20 0 0
+794 CJ Total gestionar
+15 0 20 15 0 10 0 20 0 0 0 0 20 0 0
+795 CJ A.V. Artemis Cluj 13 BORȘA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+796 CJ Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+797 CJ A. Club V. Diana Cluj 26 SUATU 0 0 0 0 0 50 0 0 0 0 0 20 0 0 0
+798 CJ Total gestionar
+0 0 0 0 0 50 0 0 0 0 0 20 0 0 0
+799 CJ AV Samus Sylvestris 43 SOMEȘUL RECE 20 0 0 0 0 0 0 0 0 0 0 100 100 0 0
+800 CJ Total gestionar
+20 0 0 0 0 0 0 0 0 0 0 100 100 0 0
+801 CJ A.V. Cornul de Aur 51 RACHIȚELE 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0
+802 CJ Total gestionar
+0 0 0 0 4 0 0 0 0 0 0 0 0 0 0
+803 CJ AV Zdroba 14 BONȚIDA 20 0 20 30 0 10 300 150 0 0 0 200 0 0 0
+804 CJ Total gestionar
+20 0 20 30 0 10 300 150 0 0 0 200 0 0 0
+805 CJ AVPS Vladeasa 20 BACIU 20 0 20 30 0 10 300 150 0 0 0 100 0 0 0
+806 CJ Total gestionar
+20 0 20 30 0 10 300 150 0 0 0 100 0 0 0
+807 CJ AVPS Fugile 31 CEANUMARE 30 0 20 30 0 10 300 200 0 0 0 300 0 0 0
+808 CJ Total gestionar
+30 0 20 30 0 10 300 200 0 0 0 300 0 0 0
+809 CJ AV Stejarii 33 LUNA 30 0 20 30 0 10 300 200 0 0 0 300 0 0 0
+810 CJ Total gestionar
+30 0 20 30 0 10 300 200 0 0 0 300 0 0 0
+811 CJ
+52 CALAȚELE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+812 CJ AV Regal 53 CALATA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+813 CJ
+55 VL DRAGANULUI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+814 CJ Total gestionar
+0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+815
+Total județul Cluj
+995 0 700 970 8 515 7200 3285 0 0 0 4920 165 0 0
+816 CT
+6 Negureni 0 0 100 0 0 100 50 0 0 0 0 30 0 0 0
+817 CT DS Constanța 7 Dobromir 0 0 100 0 0 100 50 0 0 0 0 30 0 0 0
+818 CT
+53 Negru Vodă 0 0 0 0 0 100 200 0 0 0 0 0 0 0 0
+819 CT
+55 Hagieni 0 0 0 0 0 100 200 0 0 0 0 20 0 0 0
+820 CT Total 0 0 200 0 0 400 500 0 0 0 0 80 0 0 0
+821 CT
+1 Ostrov 40 0 70 40 0 150 700 40 0 0 0 50 0 0 20
+822 CT
+2 Carvan 0 0 60 40 0 150 600 20 0 0 0 50 0 0 10
+823 CT
+3 Băneasa 20 0 70 40 0 150 800 40 0 0 0 50 0 0 20
+824 CT
+4 Oltina 20 0 60 40 0 150 1000 40 0 0 0 100 0 0 50
+825 CT
+5 Ioan Corvin 20 0 60 40 0 150 1000 40 0 0 0 100 0 0 50
+826 CT
+6 Decebal 0 0 40 40 0 150 600 40 0 0 0 0 0 0 0
+827 CT
+10 Ivrinezu 0 0 0 40 0 150 500 20 0 0 0 0 0 0 0
+828 CT
+11 Rasova 20 0 20 40 0 50 600 30 0 0 0 100 0 0 20
+829 CT
+13 Peștera 10 0 0 40 0 50 600 40 0 0 0 0 0 0 10
+830 CT
+14 Medgidia 0 0 0 40 0 50 600 40 0 0 0 0 0 0 10
+831 CT
+15 Cernavodă 30 0 20 40 0 100 800 40 0 0 0 100 0 0 50
+832 CT
+17 Țepeș 30 0 0 30 0 50 600 40 0 0 0 100 0 0 10
+833 CT
+19 Topalu 30 0 0 40 0 50 500 30 0 0 0 50 0 0 20
+834 CT
+20 Ghindărești 30 0 0 40 0 50 500 30 0 0 0 0 0 0 10
+835 CT
+21 Vadu 40 0 0 40 0 50 500 30 0 0 0 20 0 0 20
+836 CT
+22 Gârliciu 20 0 0 40 0 50 500 30 0 0 0 0 0 0 20
+837 CT
+23 Horia 0 0 0 10 0 0 5000 30 0 0 0 0 0 0 0
+838 CT
+24 Vulturu 0 0 0 10 0 0 500 20 0 0 0 0 0 0 0
+839 CT
+25 Pantelimon 0 0 0 10 0 50 1000 30 0 0 0 0 0 0 10
+840 CT AJVPS Constanța 26 Mireasa 0 0 0 10 0 50 1000 30 0 0 0 20 0 0 0
+841 CT
+27 Sitiorman 0 0 0 10 0 50 600 30 0 0 0 20 0 0 0
+842 CT
+28 Gura Dobrogei 0 0 0 10 0 50 600 30 0 0 0 20 0 0 0
+843 CT
+29 Fântânele 0 0 0 10 0 50 500 30 0 0 0 0 0 0 20
+844 CT
+30 Mihai Viteazu 0 0 0 20 0 100 500 30 0 0 0 50 0 0 20
+845 CT
+31 Săcele 0 0 0 10 0 100 500 30 0 0 0 0 0 0 10
+846 CT
+32 Vadu 0 0 0 40 0 150 500 30 0 0 0 20 0 0 30
+847 CT
+33 Năvodari 0 0 0 20 0 150 500 30 0 0 0 0 0 0 20
+848 CT
+34 Mihail Kogălniceanu 0 0 0 10 0 150 600 30 0 0 0 0 0 0 10
+849 CT
+35 Nisipari 0 0 0 10 0 0 500 30 0 0 0 0 0 0 0
+850 CT
+36 Murfatlar 0 0 0 10 0 50 500 30 0 0 0 0 0 0 0
+851 CT
+37 Ovidiu 0 0 0 10 0 50 500 30 0 0 0 0 0 0 20
+852 CT
+38 Valul lui Traian 0 0 0 20 0 50 500 30 0 0 0 0 0 0 10
+853 CT
+39 Potârnichea 0 0 0 10 0 0 600 20 0 0 0 0 0 0 0
+854 CT
+40 Techir ghiol 0 0 0 40 0 50 500 30 0 0 0 0 0 0 10
+855 CT
+41 23.aug 0 0 0 20 0 50 600 30 0 0 0 0 0 0 10
+856 CT
+42 Comorova 20 0 0 20 0 50 600 30 0 0 0 0 0 0 10
+857 CT
+43 Topraisar 0 0 0 20 0 50 600 30 0 0 0 0 0 0 20
+858 CT
+44 Osmancea 0 0 0 20 0 0 500 30 0 0 0 0 0 0 10
+859 CT
+45 Ciocârlia 0 0 0 10 0 0 500 30 0 0 0 0 0 0 0
+860 CT
+46 Viișoara 0 0 0 10 0 10 500 30 0 0 0 0 0 0 0
+861 CT
+47 Negrești 0 0 0 10 0 0 500 30 0 0 0 0 0 0 0
+862 CT
+48 Șipote 0 0 0 20 0 20 500 30 0 0 0 0 0 0 0
+863 CT
+49 Dumbrăveni 0 0 0 20 0 0 500 30 0 0 0 0 0 0 0
+864 CT
+50 Cerchezu 0 0 0 10 0 0 500 20 0 0 0 0 0 0 20
+865 CT
+51 Cobadin 0 0 0 10 0 20 500 30 0 0 0 0 0 0 20
+866 CT
+52 Chirmogeni 0 0 0 10 0 20 500 30 0 0 0 0 0 0 0
+867 CT
+56 Sinoie 0 0 0 20 0 0 0 30 0 0 0 0 0 0 50
+868 CT Total 330 0 400 1100 0 2870 31600 1450 0 0 0 850 0 0 620
+869 CT
+16 Siliștea 0 0 0 50 0 100 0 0 0 0 0 0 0 0 0
+870 CT AVPS Acvila Buc. 19 Crucea 0 0 0 50 0 100 0 0 0 0 0 0 0 0 0
+871 CT Total 0 0 0 100 0 200 0 0 0 0 0 0 0 0 0
+872 CT AVPS Egreta Buc. 12 Cochirleni 50 0 50 100 0 1200 2000 100 0 0 0 1000 500 0 20
+873 CT AVPS Șoimul Buc. 54 Cotu Văii 0 0 0 100 0 300 1000 0 200 0 0 200 0 0 0
+874 CT AVPS Căpriorul Timiș 9 Adamclisi 50 0 0 0 0 100 300 20 0 0 0 100 0 0 0
+875
+Total Județ Constanța 430 0 650 1400 0 5070 35400 1570 200 0 0 2230 500 0 640
+876 CV
+2 Brăduț 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+877 CV
+5 Baraolt 20 0 0 0 0 0 0 0 0 0 0 0 0 0 10
+878 CV
+6 Belin 20 0 0 0 0 0 0 0 0 0 0 0 0 0 10
+879 CV
+7 Aita 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+880 CV
+9 Șugaș 0 0 0 0 0 0 0 10 0 0 0 0 0 0 10
+881 CV AJVPS Covasna 10 Vâlcele 30 0 0 0 0 0 0 10 0 0 0 0 0 0 10
+882 CV
+11 Ilieni 30 0 0 0 0 0 0 10 0 0 0 0 0 0 10
+883 CV
+14 Coșeni 25 0 0 0 0 0 0 10 0 0 0 0 0 0 15
+884 CV
+22 Lunga 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+885 CV
+26 Brateș 20 0 0 0 0 0 0 0 0 0 0 0 0 0 10
+886 CV
+34 Dobârlău 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+887 CV Total gestionar
+170 0 0 0 0 0 0 40 0 0 0 0 0 0 75
+888 CV
+3 Cormoș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+889 CV
+4 Herculian 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+890 CV
+15 Reci-Lisnău 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+891 CV
+25 Ojdula 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+892 CV DS Covasna 29 Zagon 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+893 CV
+30 Benedek 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+894 CV
+31 Dârnău 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+895 CV
+32 Mica 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+896 CV
+33 Zăbrătău 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+897 CV Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+898 CV
+17 Turia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+899 CV AVPS Câtrușa 19 Petriceni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+900 CV
+20 Estelnic 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+901 CV
+28 Doboli 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+902 CV Total gestionar
+25 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+903 CV Pro Silva 8 Dobrița-Zălan 15 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+904 CV
+12 Bicsad 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+905 CV Total gestionar
+15 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+906 CV AVPS Fux Nyires 21 Apa Roșie 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0
+907 CV
+23 Lemnia 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0
+908 CV Total gestionar
+0 0 0 0 20 0 0 0 0 0 0 0 0 0 0
+909 CV AVS SOMOS 1 Vărghiș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+910 CV AVPS comuna Bodoc 13 Bodoc 50 0 0 0 0 0 0 10 0 0 0 0 0 0 5
+911 CV Facultatea Silvicultură 16 Dalnic 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+912 CV OVPS Natura Sălbatică 18 Mărcușa 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+913 CV AVPS Mușat Oituz 24 Oituz 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+914 CV OSP Tg. Secuiesc 27 Ghelința 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+915
+Total județ Covasna
+295 0 0 0 20 0 0 60 0 0 0 0 0 0 80
+916 DB A.J.V.P.S. DÂMBOVIȚA 1 Fierbinți 10 0 10 150 0 50 0 0 0 50 0 0 0 0 0
+917 DB 3 Găești 20 0 20 250 0 50 0 0 0 50 0 0 0 0 0
+918 DB 4 Dragodana 20 0 10 200 0 100 0 0 0 100 0 0 0 0 0
+919 DB 7 Hulube ști 20 0 10 150 0 30 0 0 0 100 0 0 0 0 0
+920 DB 8 Scheiu 10 0 10 100 0 0 0 0 0 100 0 0 0 0 0
+921 DB 9 Butoiu 10 0 10 150 0 20 0 0 0 200 0 0 0 0 0
+922 DB 10 Tătărani 20 0 10 150 0 30 0 0 0 100 0 0 0 0 0
+923 DB 11 Gemenea 10 0 10 100 0 0 0 0 0 50 0 0 0 0 0
+924 DB 12 Vulcana 10 0 10 100 0 0 0 0 0 50 0 0 0 0 0
+925 DB 14 Bezdead 10 0 10 100 0 0 0 0 0 50 0 0 0 0 0
+926 DB 15 Brăteiu 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+927 DB 17 Vișinești 10 0 10 80 0 0 0 0 0 50 0 0 0 0 0
+928 DB 18 Iedera 10 0 10 80 0 0 0 0 0 50 0 0 0 0 0
+929 DB 19 Ghirdoveni 20 0 20 200 0 50 0 0 0 50 0 0 0 0 0
+930 DB 20 Pierșinari 20 0 10 100 0 50 0 0 0 50 0 0 0 0 0
+931 DB
+21 Ungureni 20 0 10 200 0 100 0 0 0 100 0 0 0 0 0
+932 DB 22 Aninoasa 20 0 20 300 0 100 0 0 0 100 0 0 0 0 0
+933 DB 23 Ocnița 20 0 10 150 0 50 0 0 0 50 0 0 0 0 0
+934 DB 24 Târgoviște 30 0 30 500 0 300 0 0 0 100 0 0 0 0 0
+935 DB 26 Nucet 20 0 20 150 0 50 0 0 0 50 0 0 0 0 0
+936 DB 29 Corbii Mari 30 0 30 300 0 100 0 0 0 50 0 0 0 0 0
+937 DB 30 Fră sinet 20 0 20 300 0 100 0 0 0 50 0 0 0 0 0
+938 DB 31 Titu 10 0 10 100 0 50 0 0 0 50 0 0 0 0 0
+939 DB 32 Braniște 20 0 10 300 0 100 0 0 0 50 0 0 0 0 0
+940 DB 34 Bilciurești 20 0 10 200 0 150 0 0 0 50 0 0 0 0 0
+941 DB 36 Cojasca 20 0 10 200 0 50 0 0 0 50 0 0 0 0 0
+942 DB 40 Răcari 20 0 10 200 0 50 0 0 0 30 0 0 0 0 0
+943 DB 41 Potlogi 20 0 10 200 0 50 0 0 0 30 0 0 0 0 0
+944 DB Total gestionar
+475 0 360 5010 0 1630 0 0 0 1810 0 0 0 0 0
+945 DB D.S. DÂMBOVIȚA 6 Croitori 0 0 0 0 0 10 0
+0 0 0 0 0 0 0
+946 DB 27 Neagra 10 0 5 5 0 20 0 5 0 0 0 0 0 0 0
+947 DB 28 Finta 10 0 5 5 0 20 0 5 0 0 0 0 0 0 0
+948 DB 33 Cornatelu 10 0 5 5 0 10 0 0 0 5 0 0 0 0 0
+949 DB Total gestionar
+30 0 15 15 0 60 0 10 0 5 0 0 0 0 0
+950 DB A.V.P.S. 35 Dârza 100 0 100 500 0 300 0 200 0 0 0 0 0 0 0
+951 DB
+38 Ciocănești 100 0 100 500 0 300 0 200 0 0 0 0 0 0 0
+952 DB ACVILA 39 Tărtășești
+0 100 500 0 300 0 200 0 0 0 0 0 0 0
+953 DB Total gestionar
+200 0 300 1500 0 900 0 600 0 0 0 0 0 0 0
+954 DB A.V.P.S. 5 Jugureni 5 0 0 150 0 70 0 40 0 0 0 0 0 0 0
+955 DB UNIREA 37 Conțești 5 0 0 100 0 50 0 20 0 0 0 0 0 0 0
+956 DB Total gestionar
+10 0 0 250 0 120 0 60 0 0 0 0 0 0 0
+957 DB A.V.P.S. 13 Runcu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+958 DB DUNAREA 2007 16 VI. Ialomitei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+959 DB Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+960 DB A.V.P.S. STEJARUL 2 Morteni 10 0 10 20 0 20 0 40 0 0 0 0 0 0 0
+961 DB AVP Șoimul Dunărean 25 Comișani 0 0 10 10 0 50 50 20 0 10 0 0 0 5 0
+962 Total județ 725 0 695 6805 0 2780 50 730 0 1825 0 0 0 5 0
+963 DJ
+3 Pietrele 10 0 5 10 0 50 20 20 0 0 0 0 20 20 0
+964 DJ
+4 Tunari 10 0 20 10 0 100 20 20 0 0 0 10 30 0 0
+965 DJ
+5 Rast 10 0 20 10 0 100 30 30 0 0 0 10 30 0 0
+966 DJ
+20 Perișor 10 0 50 20 0 50 100 20 0 0 0 5 20 10 0
+967 DJ
+21 Fantanele 10 0 20 20 0 50 100 20 0 0 0 5 20 10 0
+968 DJ
+23 Carna 0 0 50 20 0 200 200 50 0 0 0 10 10 0 0
+969 DJ
+31 Panaghia 20 0 70 30 0 200 300 50 0 0 0 10 10 0 0
+970 DJ
+36 Sadova 5 0 0 0 0 20 50 20 0 0 0 0 0 0 0
+971 DJ D.S.DOLJ 39 Murta 5 0 0 0 0 50 50 10 0 0 0 0 0 0 0
+972 DJ
+41 Bratovoiesti 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+973 DJ
+42 Teasc 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+974 DJ
+43 Dranic 20 0 50 10 0 200 200 50 0 0 0 10 10 0 0
+975 D.T
+44 Dalga 20 0 70 10 0 200 300 50 0 0 0 10 10 0 0
+976 DJ
+66 Grajduri 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+977 DJ
+67 Argetoaia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+978 DJ
+76 Farcasu 5 0 10 10 0 20 0 0 0 0 0 5 50 0 0
+979 DJ Total gestionar
+125 0 365 150 0 1240 1370 340 0 0 0 75 210 40 0
+980 DJ
+1 Ciuperceni 10 0 0 10 0 20 100 10 0 0 0 0 0 0 0
+981 DJ
+2 Adanca 0 0 0 10 0 50 100 10 0 0 0 0 0 0 0
+982 DJ
+6 Poiana Mare 0 0 0 20 0 50 100 10 0 0 0 0 0 0 0
+983 DJ
+8 Maglavit 10 0 20 10 0 30 50 10 0 0 0 0 0 0 0
+984 DJ
+11 Seaca de Camp 10 0 0 10 0 20 100 50 0 0 0 0 0 0 0
+985 DJ
+12 Bailesti 10 0 0 50 0 50 300 50 0 0 0 0 0 0 0
+986 DJ
+13 Covei 0 0 0 20 0 50 600 50 0 0 0 0 0 0 0
+987 DJ
+14 Cioroiasi 0 0 0 10 0 0 0 50 0 0 0 0 0 0 0
+988 DJ
+15 Galicea Mare 0 0 0 10 0 10 0 200 0 0 0 0 0 0 0
+989 DJ
+17 Verbita 0 0 0 20 0 50 0 50 0 0 0 0 0 0 0
+990 DJ
+18 Orodel 0 0 0 20 0 30 0 50 0 0 0 0 0 0 0
+991 DJ
+19 Marza 0 0 0 20 0 10 0 50 0 0 0 0 0 0 0
+992 DJ
+22 Catane 0 0 20 20 0 50 200 50 0 0 0 100 100 0 0
+993 DJ
+24 Macesu 20 0 30 50 0 100 1000 50 0 0 0 100 100 0 0
+994 DJ
+25 Rebegi 0 0 0 10 0 50 100 10 0 0 0 0 0 0 0
+995 DJ
+26 Goicea 10 0 0 20 0 50 100 50 0 0 0 0 0 0 0
+996 DJ
+27 Barca 0 0 0 20 0 50 200 50 0 0 0 0 0 0 0
+997 DJ
+28 Afumați 0 0 0 20 0 50 300 50 0 0 0 0 0 0 0
+998 DJ
+29 Cerat 10 0 0 20 0 50 200 50 0 0 0 0 0 0 0
+999 DJ
+30 Segarcea 0 0 0 20 0 30 200 50 0 0 0 0 0 0 0
+1000 DJ
+32 Gighera 0 0 0 10 0 20 50 10 0 0 0 0 0 0 0
+1001 DJ
+33 Bechet 0 0 0 10 0 30 0 10 0 0 0 0 0 0 0
+1002 DJ
+34 Dabuleni 20 0 100 50 0 100 10 10 0 0 0 0 0 0 0
+1003 DJ
+35 Ogrin 0 0 100 10 0 100 10 10 0 0 0 100 100 0 0
+1004 DJ
+38 Daneti 20 0 50 10 0 50 10 10 0 0 0 100 100 0 0
+1005 DJ
+45 Amaresti 20 0 20 10 0 50 10 10 0 0 0 0 0 0 0
+1006 DJ
+46 Celaru 0 0 0 10 0 30 0 10 0 0 0 0 0 0 0
+1007 DJ
+48 Radomir 0 0 0 30 0 100 100 10 0 0 0 0 0 0 0
+1008 DJ AJVPS DOLJ 49 Zanoaga 0 0 0 30 0 100 100 10 0 0 0 0 0 0 0
+1009 DJ
+50 Teslui 0 0 0 30 0 100 100 10 0 0 0 100 100 0 0
+1010 DJ
+51 Lacrita 0 0 0 20 0 50 100 10 0 0 0 0 0 0 0
+1011 DJ
+52 Cosoveni 0 0 0 50 0 100 100 10 0 0 0 0 0 0 0
+1012 DJ
+53 Gura Vaii 0 0 20 20 0 50 10 10 0 0 0 0 0 0 0
+1013 DJ
+54 Bucovat 0 0 0 50 0 30 10 10 0 0 0 0 0 0 0
+1014 DJ
+55 Breasta 20 0 50 50 0 100 100 10 0 0 0 100 100 0 0
+1015 DJ
+56 Gabru 0 0 0 10 0 20 0 10 0 0 0 0 0 0 0
+1016 DJ
+57 Caciulatu 0 0 0 10 0 10 0 10 0 0 0 0 0 0 0
+1017 DJ
+58 Geblesti 0 0 0 10 0 10 0 10 0 0 0 0 0 0 0
+1018 DJ
+59 Seaca de Pădure 0 0 0 10 0 10 0 10 0 0 0 0 0 0 0
+1019 DJ
+60 Gogosu 0 0 0 10 0 10 0 10 0 0 0 0 0 0 0
+1020 DJ
+61 Popanzalesti 0 0 0 10 0 30 0 10 0 0 0 30 30 0 0
+1021 DJ
+62 Ghercesti 0 0 0 200 0 100 100 10 0 0 0 0 0 0 0
+1022 DJ
+63 Cernele 20 0 50 50 0 100 100 10 0 0 0 30 30 0 0
+1023 DJ
+64 Pietroaia 0 0 0 10 0 10 0 10 0 0 0 0 0 0 0
+1024 DJ
+65 Cernatesti 20 0 0 20 0 50 100 10 0 0 0 30 30 0 0
+1025 DJ
+68 Mihaita 20 0 50 50 0 50 100 10 0 0 0 30 30 0 0
+1026 DJ
+69 Malaiesti 20 0 30 20 0 30 0 10 0 0 0 30 30 0 0
+1027 DJ
+70 Ungureni 0 0 0 10 0 30 100 10 0 0 0 0 0 0 0
+1028 DJ
+71 Izvor 10 0 0 20 0 30 0 10 0 0 0 0 0 0 0
+1029 DJ
+72 Melinesti 10 0 0 10 0 10 0 10 0 0 0 30 30 0 0
+1030 DJ
+73 Bradesti 10 0 20 10 0 30 0 10 0 0 0 30 30 0 0
+1031 DJ
+74 Filiasi 10 0 20 10 0 30 0 10 0 0 0 30 30 0 0
+1032 DJ
+77 Traian 0 0
+10 0 100 100 10 0 0 0 0 0 0 0
+1033 DJ Total gestionar
+280 0 580 1260 0 2470 4960 1280 0 0 0 840 840 0 0
+1034 DJ
+7 Calafat 0 0 0 50 0 50 50 50 0 0 0 0 0 0 0
+1035 DJ AJVPS MEHEDINȚI 16 Rudari 0 0 0 50 0 100 100 50 0 0 0 0 0 0 0
+1036 DJ
+37 Damian 10 0 0 50 0 300 300 50 0 0 0 0 0 0 0
+1037 DJ Total gestionar
+10 0 0 150 0 450 450 150 0 0 0 0 0 0 0
+1038 DJ AVPS DIANA 9 Plenita 10 0 0 150 0 150 200 150 0 0 0 50 0 0 0
+1039 DJ
+75 Velesti 10 0 0 50 0 250 200 150 0 0 0 100 0 0 0
+1040 DJ Total gestionar
+20 0 0 200 0 400 400 300 0 0 0 150 0 0 0
+1041 DJ AVP Trei Stejari 40 Valea Stanciului 20 0 50 10 0 400 800 500 0 0 0 30 40 0 10
+1042 DJ Total gestionar
+20 0 50 10 0 400 800 500 0 0 0 30 40 0 10
+1043 DJ AVPS Jderul Ag. 47 Rojiste 10 0 50 10 0 100 100 30 0 0 0 20 20 0 0
+1044 DJ Total gestionar
+10 0 50 10 0 100 100 30 0 0 0 20 20 0 0
+1045 DJ
+10 Motatei 0 0 10 20 0 50 50 20 0 0 0 0 0 20 0
+1046 DJ Total gestionar
+0 0 10 20 0 50 50 20 0 0 0 0 0 20 0
+1047
+Total județ
+DOLJ 465 0 1055 1800 0 5110 8130 2620 0 0 0 1115 1110 60 10
+1048 GL
+1 Șendreni 50 0 0 200 0 50 200 50 0 0 0 0 0 0 0
+1049 GL
+2 Căprioara 150 0 50 300 0 50 200 50 0 0 0 0 30 0 0
+1050 GL
+3 Schela 50 0 0 300 0 100 200 50 0 0 0 0 0 0 0
+1051 GL
+4 Bălțatu 50 0 50 200 0 50 200 50 0 0 0 0 30 0 0
+1052 GL
+5 T Vladimirescu 20 0 0 250 0 100 200 50 0 0 0 0 0 0 0
+1053 GL
+9 Călmățui 20 0 0 250 0 100 200 50 0 0 0 0 0 0 0
+1054 GL
+10 Rediu 20 0 0 250 0 50 200 50 0 0 0 0 30 0 0
+1055 GL
+11 Cudalbi 20 0 0 250 0 100 200 50 0 0 0 0 30 0 0
+1056 GL
+12 Umbrărești 20 0 50 250 0 100 200 50 0 0 0 0 100 0 0
+1057 GL
+13 Condrea 30 0 50 250 0 50 200 50 0 0 0 0 100 0 0
+1058 GL
+14 Furceni 30 0 50 200 0 50 200 50 0 0 0 0 30 0 0
+1059 GL
+16 Matca 30 0 50 200 0 100 200 50 0 0 0 0 100 0 0
+1060 GL
+17 Tecuci 20 0 0 200 0 50 200 50 0 0 0 0 30 0 0
+1061 GL
+18 Negrilești 50 0 50 200 0 100 200 50 0 0 0 0 100 0 0
+1062 GL
+19 Țepu 100 0 50 200 0 50 200 50 0 0 0 0 50 0 0
+1063 GL
+20 Nicorești 150 0 50 200 0 50 200 50 0 0 0 0 100 0 0
+1064 GL
+21 Buciumeni 100 0 50 200 0 50 200 50 0 0 0 0 50 0 0
+1065 GL
+22 Gohor 50 0 20 200 0 100 200 50 0 0 0 0 100 0 0
+1066 GL
+24 Vizureni 25 0 0 150 0 50 200 50 0 0 0 0 20 0 0
+1067 GL
+27 Rădești 60 0 50 150 0 50 200 50 0 0 0 0 100 0 0
+1068 GL AJVPS Galați 28 Bere ști 30 0 40 200 0 50 200 50 0 0 0 0 100 0 0
+1069 GL
+29 Cavadinești 150 0 100 200 0 50 200 200 0 0 0 0 100 0 0
+1070 GL
+31 Băneasa 80 0 100 150 0 50 200 50 0 0 0 0 200 0 0
+1071 GL
+32 Jorăști 60 0 100 200 0 50 200 50 0 0 0 0 100 0 0
+1072 GL
+33 Zărnești 80 0 100 200 0 100 200 50 0 0 0 0 100 0 0
+1073 GL
+34 Smulți 50 0 50 200 0 100 200 100 0 0 0 0 100 0 0
+1074 GL
+35 Bujoru 60 0 50 200 0 50 200 50 0 0 0 0 100 0 0
+1075 GL
+36 30.dec 80 0 100 200 0 100 200 100 0 0 0 0 150 0 0
+1076 GL
+37 Vlădești 200 0 150 250 0 100 200 100 0 0 0 0 100 0 0
+1077 GL
+38 Rareș 80 0 100 150 0 100 200 50 0 0 0 0 100 0 0
+1078 GL
+39 Mogoș 60 0 100 200 0 100 200 50 0 0 0 0 100 0 0
+1079 GL
+40 Vlășcuța 250 0 200 300 0 200 200 100 0 0 0 0 50 0 0
+1080 GL
+41 Frumușița 100 0 100 200 0 150 200 50 0 0 0 0 100 0 0
+1081 GL
+42 Zătun 250 0 200 350 0 200 200 200 0 0 0 0 50 0 0
+1082 GL
+43 Galați 200 0 100 150 0 100 200 100 0 0 0 0 100 0 0
+1083 GL
+44 Tulucești 100 0 100 200 0 200 200 200 0 0 0 0 200 0 0
+1084 GL Total gestionar
+2875 0 2260 7750 0 3100 7200 2500 0 0 0 0 2750 0 0
+1085 GL
+6 Nămoloasa 100 0 150 100 0 80 3000 60 0 0 0 60 0 0 0
+1086 GL
+7 Hanu Conachi 100 0 150 100 0 80 3000 60 0 0 0 60 0 0 0
+1087 GL
+8 Liești 100 0 150 100 0 80 3000 60 0 0 0 60 0 0 0
+1088 GL DS Galați 15 Barcea 0 0 0 0 0 0 0 50 0 0 0 10 0 0 0
+1089 GL
+23 Ghidigeni 10 0 10 20 0 0 0 30 0 0 0 20 20 0 0
+1090 GL
+25 Cerțești 10 0 10 10 0 0 0 20 0 0 0 20 20 0 0
+1091 GL
+26 Adam 10 0 10 10 0 0 0 20 0 0 0 20 20 0 0
+1092 GL
+30 Suceveni 10 0 20 10 0 10 0 15 0 0 0 0 0 0 0
+1093 GL Total gestionar
+340 0 500 350 0 250 9000 315 0 0 0 250 60 0 0
+1094
+Total județ
+3215 0 2760 8100 0 3350 16200 2815 0 0 0 250 2810 0 0
+1095 GR
+10 Mislea 0 0 0 150 0 100 50 25 0 0 0 0 0 0 0
+1096 GR
+13 Călugăreni 0 0 0 150 0 200 100 25 0 0 0 0 0 0 0
+1097 GR
+15 Colibași 0 0 0 150 0 200 100 25 0 0 0 0 0 0 0
+1098 GR
+24 Dărăști 0 0 0 150 0 100 50 25 0 0 0 0 0 0 0
+1099 GR
+27 Izvoarele 0 0 0 150 0 100 50 25 0 0 0 0 0 0 0
+1100 GR
+28 Stănești 0 0 0 100 0 100 50 25 0 0 0 0 0 0 0
+1101 GR
+29 Toporu 0 0 0 100 0 100 50 25 0 0 0 0 0 0 0
+1102 GR
+30 Putineiu 0 0 0 100 0 100 50 25 0 0 0 0 0 0 0
+1103 GR
+31 Gogoșari 0 0 0 100 0 100 50 25 0 0 0 0 0 0 0
+1104 GR AJVPS Giurgiu 32 Vedea 0 0 0 150 0 100 50 25 0 0 0 0 0 0 0
+1105 GR
+33 Găujani 0 0 0 100 0 100 50 25 0 0 0 0 0 0 0
+1106 GR
+34 Slobozia 0 0 0 150 0 100 50 25 0 0 0 0 0 0 0
+1107 GR
+35 Giurgiu 0 0 0 150 0 100 50 25 0 0 0 0 0 0 0
+1108 GR
+36 Oinacu 0 0 0 250 0 100 50 25 0 0 0 0 0 0 0
+1109 GR
+37 Daia 0 0 0 150 0 100 50 25 0 0 0 0 0 0 0
+1110 GR
+38 Băneasa 0 0 0 250 0 100 50 25 0 0 0 0 0 0 0
+1111 GR
+39 Uzunu 0 0 0 100 0 100 50 25 0 0 0 0 0 0 0
+1112 GR
+40 Gostinu 0 0 0 100 0 100 50 25 0 0 0 0 0 0 0
+1113 GR
+41 Puieni 0 0 0 100 0 50 0 25 0 0 0 0 0 0 0
+1114 GR
+42 Prundu 0 0 0 150 0 50 0 25 0 0 0 0 0 0 0
+1115 GR Total AJVPS Giurgiu 0 0 0 2800 0 2100 1000 500 0 0 0 0 0 0 0
+1116 GR
+4 Cascioarele 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1117 GR
+19 Ciotlecu 0 0 0 0 0 50 50 0 0 0 0 0 0 0 0
+1118 GR
+20 Albele 0 0 0 0 0 50 50 0 0 0 0 0 0 0 0
+1119 GR DS Giurgiu 21 Iepurești 0 0 0 0 0 50 50 0 0 0 0 0 0 0 0
+1120 GR
+22 Singureni Deal 0 0 0 0 0 50 50 0 0 0 0 0 0 0 0
+1121 GR
+23 Teșila 0 0 0 0 0 50 50 0 0 0 0 0 0 0 0
+1122 GR
+26 Ruica 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0
+1123 GR Total DS Giurgiu 0 0 0 0 0 300 250 0 0 0 0 0 0 0 0
+1124 GR
+2 Vadu Lat 20 0 0 200 0 100 400 100 0 0 0 0 0 0 0
+1125 GR
+3 Roata 20 0 0 200 0 100 300 100 0 0 0 0 0 0 0
+1126 GR
+6 Bolintin 20 0 0 200 0 100 300 100 0 0 0 0 0 0 0
+1127 GR AVPS Lunca 7 Florești 20 0 0 150 0 100 400 100 0 0 0 0 0 0 0
+1128 GR
+12 Grădiștea 0 0 0 200 0 200 1000 100 0 0 0 0 0 0 0
+1129 GR
+16 Frumușani 0 0 0 100 0 200 600 100 0 0 0 0 0 0 0
+1130 GR
+43 Udeanca 0 0 0 100 0 50 300 100 0 0 0 0 0 0 0
+1131 GR Total AVPS Lunca 80 0 0 1150 0 850 3300 700 0 0 0 0 0 0 0
+1132 GR AVPS Diana 17 Letca 25 0 50 400 0 600 700 100 0 0 0 0 100 0 0
+1133 GR
+25 Mihăilești 25 0 50 400 0 250 500 100 0 0 0 0 100 0 0
+1134 GR Total AVPS Diana 50 0 100 800 0 850 1200 200 0 0 0 0 200 0 0
+1135 GR AVPS Șoimul 1 Bălășcuța 0 0 0 200 0 200 500 0 0 0 0 0 0 0 0
+1136 GR AVPS Vulturul 9 Crivăț 0 0 0 100 0 500 500 100 0 0 0 100 200 0 0
+1137 GR AVPS Șoimul 5 Vânători 20 0 30 100 0 50 0 0 0 0 0 0 0 0 0
+1138 GR AVPS Alcedo 14 Singureni Luncă 0 0 0 50 0 100 0 0 0 0 0 0 0 0 0
+1139 GR AVPS Bradul 11 Comana 10 0 50 50 0 50 100 0 0 0 0 0 150 0 0
+1140 GR AVPS Unirea 8 Cosoba 0 0 0 200 0 50 100 30 0 0 0 0 0 0 0
+1141 GR AVPS Zimbrul Românesc 2007 18 Jilava 0 0 0 300 0 100 200 100 0 0 0 0 0 0 0
+1142
+Total Județ Giurgiu 160 0 180 5750 0 5150 7150 1630 0 0 0 100 550 0 0
+1143 GJ
+2 Motru Mare 0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1144 GJ
+4 Dumbrava 0 0 0 0 0 0 0 10 0 20 0 20 0 0 0
+1145 GJ
+5 Tismana 0 0 0 0 0 0 0 10 0 20 0 20 0 0 0
+1146 GJ
+7 Runcu 0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1147 GJ
+9 Bumbesti 0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1148 GJ D.S. Gorj 10 Sadu 0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1149 GJ
+11 Carpinis 0 0 0 0 0 0 0 10 0 20 0 20 0 0 0
+1150 GJ
+12 Gilort 0 0 0 0 0 0 0 10 0 20 0 20 0 0 0
+1151 GJ
+14 Oltet 0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1152 GJ
+25 Stefanesti 0 0 0 0 0 0 0 20 0 20 0 20 0 0 0
+1153 GJ
+28 Boboiesti 0 0 0 0 0 0 0 10 0 20 0 20 0 0 0
+1154 GJ Total D.S. Gorj
+0 0 0 0 0 0 0 120 0 170 0 170 0 0 0
+1155 GJ AVPS Egreta Gorj 1 Motru Sec 0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1156 GJ Total AVPS Egreta
+0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1157 GJ AVPS Diana de Callatis 6 Bistrita 0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1158 GJ Total AVPS Diana C.
+0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1159 GJ Asociația Cerbul Carpatin 8 Susita 0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1160 GJ Total As. Cerbul C.
+0 0 0 0 0 0 0 10 0 10 0 10 0 0 0
+1161 GJ
+3 Pades 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1162 GJ
+13 Sacelu 10 0 0
+0 0 0 0 0 50 0 0 0 0 0
+1163 GJ
+15 Polovragi 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1164 GJ
+16 Bumbesti Pitic 10 0 0
+0 0 0 0 0 30 0 0 0 0 0
+1165 GJ
+17 Bradiceni 20 0 0 10 0 0 0 0 0 100 0 0 0 0 0
+1166 GJ
+18 Lelesti 10 0 0 10 0 0 0 0 0
+0 0 0 0 0
+1167 GJ
+19 Turcinesti 10 0 0 10 0 0 0 0 0
+0 0 0 0 0
+1168 GJ
+20 Curtisoara 0 0 0 10 0 0 0 0 0
+0 0 0 0 0
+1169 GJ
+21 Danesti 10 0 0 10 0 0 0 0 0
+0 0 0 0 0
+1170 GJ
+22 Ceauru 20 0 0 20 0 100 0 0 0 50 0 0 0 0 0
+1171 GJ
+23 Scoarța 10 0 0 0 0 0 0 0 0 30 0 0 0 0 0
+1172 GJ
+24 Prigoria 0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+1173 GJ
+26 Cărbune sti 0 0 0 0 0 0 0 0 0 30 0 0 0 0 0
+1174 GJ
+27 Motru 10 0 0 10 0 0 0 0 0
+0 0 0 0 0
+1175 GJ
+29 Trestioara 10 0 0 10 0 0 0 0 0
+0 0 0 0 0
+1176 GJ AJVPS Gorj 30 Tehomir 0 0 0 10 0 0 0 0 0
+0 0 0 0 0
+1177 GJ
+31 Valea cu Apa 10 0 0 10 0 20 0 0 0 100 0 0 0 0 0
+1178 GJ
+32 Romanatu 10 0 0 10 0 0 0 0 0
+0 0 0 0 0
+1179 GJ
+33 Pesteana 10 0 0 0 0 0 0 0 0
+0 0 0 0 0
+1180 GJ
+34 Berlesti 10 0 0 0 0 0 0 0 0 20 0 0 0 0 0
+1181 GJ
+35 Logresti 0 0 0 0 0 0 0 0 0 30 0 0 0 0 0
+1182 GJ
+36 Licurici 10 0 0 0 0 0 0 0 0 30 0 0 0 0 0
+1183 GJ
+37 Miluța 10 0 0 10 0 0 0 0 0
+0 0 0 0 0
+1184 GJ
+38 Turceni 10 0 0 10 0 100 0 0 0
+0 0 0 0 0
+1185 GJ
+39 Plopsoru 0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+1186 GJ
+40 Aninoasa 0 0 0 0 0 20 0 0 0
+0 0 0 0 0
+1187 GJ
+41 Bibesti 0 0 0 0 0 20 0 0 0
+0 0 0 0 0
+1188 GJ
+42 Turburea 0 0 0 0 0 30 0 0 0
+0 0 0 0 0
+1189 GJ
+43 Cruset 0 0 0 0 0 50 0 0 0
+0 0 0 0 0
+1190 G.T
+44 Slavuta 0 0 0 0 0 50 0 0 0
+0 0 0 0 0
+1191 GJ Total AJVPS Gorj
+190 0 0 140 0 390 0 0 0 470 0 0 0 0 0
+1192
+Total Gorj
+190 0 0 140 0 390 0 150 0 670 0 200 0 0 0
+1193 HR
+2 Voivodeasa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1194 HR
+5 Bistricioara 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1195 HR
+6 Borsec 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1196 HR
+7 Rezu Mare 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1197 HR
+9 Lacu Roșu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1198 HR Direcția Silvică Harghita 10 Gheorgheni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1199 HR
+17 Mădăraș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1200 HR
+22 M - Ciuc 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1201 HR
+29 Pilicske 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1202 HR
+34 Zetea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1203 HR
+35 Ivo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1204 HR
+36 Szencsed 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1205 HR
+37 Vărșag 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1206 HR Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 HR
+30 Homorod 5 0 3 2 3 0 0 0 0 0 0 0 0 0 0
+1208 HR
+31 Merești 5 0 3 2 3 0 0 0 0 0 0 0 0 0 0
+1209 HR
+32 Daia 5 0 3 2 0 0 0 0 0 0 0 0 0 0 0
+1210 HR AVPS Târnava Mare 33 Călugăreni 5 0 3 2 0 0 0 0 0 0 0 0 0 0 0
+1211 HR
+38 Iuhod 5 0 3 2 3 0 0 0 0 0 0 0 0 0 0
+1212 HR
+39 Corund 15 0 3 2 0 0 0 0 0 0 0 0 0 0 0
+1213 HR
+44 Tăietura 15 0 3 2 2 0 0 0 0 0 0 0 0 0 0
+1214 HR
+45 Mătișeni 5 0 3 2 0 0 0 0 0 0 0 0 0 0 0
+1215 HR Total gestionar
+60 0 24 16 11 0 0 0 0 0 0 0 0 0 0
+1216 HR
+15 Bălan 12 8 8 6 8 10 0 0 0 0 0 0 0 0 0
+1217 HR
+16 Cârța 12 8 8
+8 10 0 0 0 0 0 0 0 0 0
+1218 HR AVPS M. Ciuc 19 Valea Rece 10 6 8 6 6 8 0 0 0 0 0 0 0 0 0
+1219 HR
+25 Armășeni 10 8 8 6 6 8 0 0 0 0 0 0 0 0 0
+1220 HR
+26 Plăieși 12 8 8 6 8 12 0 0 0 0 0 0 0 0 0
+1221 HR
+27 Casin 12 8 8 6 8 16 0 0 0 0 0 0 0 0 0
+1222 HR Total gestionar
+68 46 48 30 44 64 0 0 0 0 0 0 0 0 0
+1223 HR
+11 Jolotca 5 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1224 HR AVPS Gheorgheni 13 Borzont 5 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1225 HR
+14 Voșlobeni 5 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1226 HR Total gestionar
+15 0 0 0 15 0 0 0 0 0 0 0 0 0 0
+1227 HR
+1 Toplița 0 5 5 0 5 10 0 10 0 0 0 0 0 10 0
+1228 HR AVPS Toplița 3 Mureș 0 5 5 0 5 10 0 10 0 0 0 0 0 10 0
+1229 HR
+4 Bilbor 0 5 5 0 5 10 0 0 0 0 0 0 0 5 0
+1230 HR Total gestionar
+0 15 15 0 15 30 0 20 0 0 0 0 0 25 0
+1231 HR CVS Harghita 8 Putna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1232 HR
+21 Mihăileni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1233 HR Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1234 HR AVPS Szilos 23 Păuleni 12 8 0 6 8 18 0 0 0 0 0 0 0 15 0
+1235 HR
+24 Sânmartin 8 4 0 5 4 6 0 0 0 0 0 0 0 15 0
+1236 HR Total gestionar
+20 12 0 11 12 24 0 0 0 0 0 0 0 30 0
+1237 HR AVPS Hubertus 40 Crișeni 5 0 0 2 0 4 0 30 0 30 0 0 0 20 0
+1238 HR
+41 Bodogaia 5 0 0 2 0 8 0 30 0 30 0 0 0 25 0
+1239 HR Total gestionar
+10 0 0 4 0 12 0 60 0 60 0 0 0 45 0
+1240 HR Asoc. Cineg. Gheorgheni 12 Remetea 10 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1241 HR AVPS Nimrod 18 Tomești 10 4 8 5 6 8 0 0 0 0 0 0 0 0 0
+1242 HR OS Frumoasa SRL 20 Lunca 8 4 6 6 6 5 0 0 0 0 0 0 0 0 0
+1243 HR AVPS Szent Anna 28 Tușnad 10 0 10 5 0 5 0 0 0 0 0 0 0 0 0
+1244 HR AVPS Salon 42 Tărcești 5 5 2 0 0 2 0 0 0 0 0 0 0 0 0
+1245 HR AVPS Gordon 43 Dealu 20 0 0 0 4 50 0 0 0 0 0 0 0 0 0
+1246
+Total Județ
+236 86 113 77 118 200 0 80 0 60 0 0 0 100 0
+1247 HD
+4 BIRTIN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1248 HD
+5 VALEA LUNGA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1249 HD
+13 VORȚA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1250 HD
+17 CERTEJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1251 HD
+19 VOIA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1252 HD
+23 TISA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1253 HD
+24 LAPUGIU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1254 HD
+25 BATRANA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1255 HD DS HUNEDOARA 34 GODEANU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1256 HD
+52 ZEICANI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1257 HD
+53 RÂUL MARE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1258 HD
+54 BORASCU-GODEANL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1259 HD
+55 RETEZAT 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1260 HD
+58 MARGINEA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1261 HD
+59 RÂUL BARBAT 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1262 HD
+60 VALEA STREIULUI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1263 HD
+62 CAMPUȘEL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1264 HD
+69 PARANG 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1265 HD Total gestionar DS HUNEDOARA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1266 HD
+1 TOMESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1267 HD
+2 BULZESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1268 HD
+6 RIBITA 0 0 0 10 0 0 0 30 0 0 0 0 0 0 0
+1269 HD
+7 BLAJENI 10 0 0 0 0 0 0 50 0 0 0 0 0 0 0
+1270 HD
+8 DUPA PIATRA 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1271 HD
+9 ROVINA 0 0 0 0 0 0 0 30 0 0 0 0 0 0 0
+1272 HD
+10 RUDA BRAD 0 0 0 0 0 0 0 50 0 0 0 0 0 0 0
+1273 HD
+11 MICANESTI 0 0 0 0 0 0 0 50 0 0 0 0 0 0 0
+1274 HD
+12 GURASADA 20 0 0 0 0 0 0 30 0 0 0 0 0 0 0
+1275 HD
+14 BRANISCA 0 0 0 10 0 0 0 0 0 0 0 0 0 0 0
+1276 HD
+15 VALISOARA 20 0 0 0 0 30 0 30 0 0 0 0 0 0 0
+1277 HD
+18 VARMAGA 0 0 0 0 0 0 0 30 0 0 0 0 0 0 0
+1278 HD
+20 BOBALNA 0 0 0 0 0 0 0 30 0 0 0 0 0 0 0
+1279 HD
+22 HOMOROD 0 0 0 0 0 0 0 200 0 0 0 50 0 0 0
+1280 HD
+26 LAPUSNIC 0 0 0 0 0 0 0 30 0 0 0 0 0 0 0
+1281 HD
+27 VETEL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1282 HD
+28 DEVA 15 0 0 10 0 20 0 30 0 0 0 0 0 0 0
+1283 HD
+29 SIMERIA 10 0 10 10 0 10 0 30 0 10 0 0 0 0 0
+1284 HD
+31 MARTINEȘTI 10 0 10 10 0 10 0 30 0 10 0 0 0 0 0
+1285 HD
+32 BERIU 0 0 0 0 0 40 0 200 0 0 0 50 0 0 0
+1286 HD
+33 COSTESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1287 HD AJVPS HUNEDOARA 36 ROMOSEL 0 0 0 0 0 40 0 200 0 0 0 50 0 0 0
+1288 HD
+37 MAGURENI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1289 HD
+39 DEALU GROȘI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1290 HD
+40 RUNCUMARE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1291 HD
+41 GHELARI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1292 HD
+42 BALEA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1293 HD
+44 HUNEDOARA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1294 HD
+46 CIULA MICA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1295 HD
+47 HAȚEG 0 0 10 0 0 5 0 20 0 30 0 0 0 0 0
+1296 HD
+49 BRETEA 10 0 10 10 0 10 0 20 0 10 0 0 0 0 0
+1297 HD
+50 URSICI 20 20 20 20 0 20 10 10 0 0 0 0 0 0 0
+1298 HD
+51 CARNESTI 0 0 10 0 0 5 0 20 0 0 0 0 0 0 0
+1299 HD
+56 RÂUL ALB 0 0 10 0 0 5 0 20 0 30 0 0 0 0 0
+1300 HD
+57 FEDERI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1301 HD
+61 BANIȚA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1302 HD
+63 DEALU MARE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1303 HD
+64 SIGLAU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1304 HD
+65 VULCAN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1305 HD
+66 PETROȘANI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1306 HD
+67 AUSELU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1307 HD
+68 VOIEVODUL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1308 HD
+70 GANTAGA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1309 HD Total gestionar AJVPS HUNEDOARA 125 20 80 80 0 195 10 1140 0 90 0 150 0 0 0
+1310 HD AVPS ZARAND BRAD 3 CIUNGANI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1311 HD Total gestionar AVPS ZARAND BRAD 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1312 HD ȘOIMUL ROMANESC 16 BAIȚA 0 0 0 40 0 0 0 40 0 0 0 0 0 0 0
+1313 HD Total gestionar ȘOIMUL ROMANESC 0 0 0 40 0 0 0 40 0 0 0 0 0 0 0
+1314 HD GODEANU ORAȘTIE 21 MADA 10 10 10 0 0 20 0 0 0 0 0 0 0 0 0
+1315 HD Total gestionar GODEANU ORAȘTIE 10 10 10 0 0 20 0 0 0 0 0 0 0 0 0
+1316 HD CĂPRIORUL MARTINEȘTI 30 STREI SANGEORGIU 10 0 10 30 0 10 0 0 0 20 0 0 0 0 0
+1317 HD CĂPRIORUL MARTINEȘTI 43 LUNCA CERNII 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1318 HD Total gestionar CĂPRIORUL MĂRTINEȘTI 10 0 10 30 0 10 0 0 0 20 0 0 0 0 0
+1319 HD CAPAȚANA DEVA 35 ORAȘTIE 20 10 20 20 0 20 10 200 0 0 0 200 0 50 5
+1320 HD Total gestionar CAPAȚANA DEVA 20 10 20 20 0 20 10 200 0 0 0 200 0 50 5
+1321 HD DIANA HUNEDOARA 38 VALEA ROATEI 15 0 20 40 0 10 0 10 0 30 0 0 0 0 0
+1322 HD Total gestionar DIANA HUNEDOARA 15 0 20 40 0 10 0 10 0 30 0 0 0 0 0
+1323 HD VIDRA BUCUREȘTI 45 VALEA FIERULUI
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1324 HD Total gestionar VIDRA BUCUREȘTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1325 HD VULTURUL DEVA 48 SILVAȘ 0 0 10 10 0 10 0 0 0 0 0 0 0 0 0
+1326 HD Total gestionar VULTURUL DEVA 0 0 10 10 0 10 0 0 0 0 0 0 0 0 0
+1327
+Total județ
+180 40 150 220 0 265 20 1390 0 140 0 350 0 50 5
+1328 IL
+1 Câbal 600 0 50 0 0 300 300 0 0 0 0 0 0 0 0
+1329 IL
+2 Cegani 600 0 50 0 0 300 300 0 0 0 0 0 0 0 0
+1330 IL
+4 Burdușani 0 0 0 100 0 300 300 0 0 0 0 0 0 0 0
+1331 IL
+6 Giurgeni 400 0 50 100 0 200 200 0 0 0 0 0 0 0 0
+1332 IL
+8 Fetești 0 0 0 150 0 1500 4000 0 0 0 0 0 0 0 0
+1333 IL
+9 Platonești 0 0 300 100 0 800 500 0 0 0 0 0 0 0 0
+1334 IL
+12 Săveni 50 0 550 200 0 400 600 0 0 0 0 50 0 0 0
+1335 IL
+13 Gura Ialomiței 0 0 0 100 0 300 600 0 0 0 0 0 0 0 0
+1336 IL AVPS Ialomița 14 Strachina 0 0 0 100 0 400 800 0 0 0 0 0 0 0 0
+1337 IL
+15 Bucu 50 0 250 250 0 600 2000 0 0 0 0 50 0 0 0
+1338 IL
+17 Ghimbășani 50 0 200 200 0 500 600 0 0 0 0 0 0 0 0
+1339 IL
+18 Gheorghe Lazăr 50 0 300 300 0 550 1200 0 0 0 0 50 0 0 0
+1340 IL
+19 Ciulnița 0 0 150 300 0 400 1000 0 0 0 0 0 0 0 0
+1341 IL
+20 Amara 0 0 0 400 0 800 1000 0 0 0 0 0 0 0 0
+1342 IL
+22 Slobozia 50 0 200 150 0 150 200 0 0 0 0 50 0 0 0
+1343 IL
+23 Fundata 0 0 100 250 0 1100 1500 0 0 0 0 0 0 0 0
+1344 IL
+26 Andrașesti 0 0 50 200 0 1100 1500 0 0 0 0 0 0 0 0
+1345 IL Total AVPS Ialomița 1850 0 2250 2900 0 9700 16600 0 0 0 0 200 0 0 0
+1346 IL
+29 Sfântul Gheorghe 0 0 0 100 0 100 400 100 0 0 0 0 0 0 20
+1347 IL
+30 Cocora 0 0 0 0 0 100 400 100 0 0 0 0 0 0 10
+1348 IL AVPS Lunca 31 Colelia 0 0 0 0 0 100 400 100 0 0 0 0 0 0 10
+1349 IL
+38 Valea Macrisului 0 0 0 50 0 100 400 100 0 0 0 0 0 0 10
+1350 IL
+39 Urziceni 0 0 0 100 0 100 1000 100 0 0 0 0 0 0 10
+1351 IL
+44 Armășești 0 0 0 100 0 100 1500 100 0 0 0 0 0 0 50
+1352 IL Total AVPS Lunca 0 0 0 350 0 600 4100 600 0 0 0 0 0 0 110
+1353 IL
+5 Vlădeni 200 0 50 100 0 100 0 0 0 0 0 0 0 0 50
+1354 IL AVPS Lunca 34 Axintele 0 0 50 50 0 300 0 0 0 0 0 0 0 0 0
+1355 IL
+36 Bărcănești 50 0 50 200 0 100 0 0 0 0 0 0 0 0 0
+1356 IL
+37 Alexeni 0 0 50 200 0 100 0 0 0 0 0 0 0 0 0
+1357 IL Total AVPS Acvila 250 0 200 550 0 600 0 0 0 0 0 0 0 0 50
+1358 IL
+16 Scânteia 0 0 0 200 0 200 500 50 0 0 0 0 0 0 0
+1359 IL AVPS Diana 21 Traianu 0 0 0 250 0 300 3000 100 0 0 0 0 0 0 0
+1360 IL
+25 Marsilieni 30 0 100 250 0 400 3000 100 0 0 0 0 50 0 0
+1361 IL Total AVPS Diana 30 0 100 700 0 900 6500 250 0 0 0 0 50 0 0
+1362 IL
+24 Grivița 0 0 0 50 0 250 400 0 0 0 0 0 0 0 0
+1363 IL AVPS Unirea 27 Milo șe ști 0 0 0 40 0 250 400 0 0 0 0 0 0 0 0
+1364 IL
+28 Căzănești 5 0 0 50 0 250 400 0 0 0 0 0 0 0 0
+1365 IL Total AVPS Unirea 5 0 0 140 0 750 1200 0 0 0 0 0 0 0 0
+1366 IL
+35 Dragoiesti 0 0 0 150 0 200 300 0 0 0 0 0 100 0 0
+1367 IL AVPS Vulturul 40 Movilita 0 0 0 200 0 200 300 0 0 0 0 0 100 0 0
+1368 IL
+41 Sinesti 0 0 0 100 0 200 300 0 0 0 0 0 100 0 0
+1369 IL Total AVPS Vulturul 0 0 0 450 0 600 900 0 0 0 0 0 300 0 0
+1370 IL AVPS Șoimul 32 Salcioara 0 0 100 200 0 800 2500 0 0 0 0 0 0 0 30
+1371 IL AVPS Mistrețul 3 Facaieni 600 0 0 0 0 500 1000 0 0 0 0 0 0 0 0
+1372 IL
+7 Ciunga 50 0 70 70 0 300 1500 0 0 0 0 50 0 0 0
+1373 IL
+10 Chirana 200 0 100 70 0 300 1500 0 0 0 0 100 0 0 0
+1374 IL DS Ialomița 11 Suditi 150 0 70 70 0 1000 1500 0 0 0 0 100 0 0 0
+1375 IL
+33 Groasa 30 0 30 70 0 300 1500 0 0 0 0 50 0 0 0
+1376 IL
+42 Dridu 30 0 30 70 0 300 1500 0 0 0 0 50 0 0 0
+1377 IL
+43 Jilavele 30 0 30 70 0 300 1000 0 0 0 0 50 0 0 0
+1378 IL Total DS Ialomița 490 0 330 420 0 2500 8500 0 0 0 0 400 0 0 0
+1379
+Total Județ Ialomița 3225 0 2980 5710 0 16950 41300 850 0 0 0 600 350 0 190
+1380 IS
+1 Tatarusi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1381 IS
+2 Motca 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1382 IS
+8 Șiretei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1383 IS
+9 Bahlui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1384 IS
+22 Turia Perieni 0 0 0 40 0 900 1500 20 0 10 0 0 100 0 0
+1385 IS DS Iași 32 Crivești 0 0 0 20 0 200 400 10 0 0 0 0 50 0 0
+1386 IS
+37 Gherghițoaia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1387 IS
+39 Corne ști 0 0 0 10 0 300 1000 20 0 0 0 0 50 0 0
+1388 IS
+40 Mogoșești 0 0 0 10 0 200 800 10 0 10 0 0 50 0 0
+1389 IS
+42 Poieni 0 0 0 0 0 0 0 0 0 10 0 0 0 0 0
+1390 IS
+43 Schitu Duca 0 0 0 0 0 0 300 10 0 0 0 0 150 0 0
+1391 IS
+44 Pietrosu 0 0 0 0 0 200 300 0 0 0 0 0 50 0 0
+1392 IS
+46 Brădicești 0 0 0 20 0 200 300 0 0 10 0 0 50 0 0
+1393 IS
+47 Bunești 0 0 0 0 0 0 200 20 0 0 0 0 150 0 0
+1394 IS
+51 Grajduri 0 0 0 0 0 0 700 0 0 0 0 0 50 0 0
+1395 IS Total
+0 0 0 100 0 2000 5500 90 0 40 0 0 700 0 0
+1396 IS
+3 Miro slove sti 10 10 10 15 0 50 0 30 0 30 0 30 30 0 50
+1397 IS
+4 Halaucesti 10 10 10 15 0 50 0 30 0 30 0 30 30 0 50
+1398 IS
+5 Stolniceni 10 10 10 15 0 50 0 30 0 30 0 30 30 0 50
+1399 IS
+6 Stroiesti 10 10 10 15 0 50 0 30 0 30 0 30 30 0 50
+1400 IS
+7 Hărmănești 20 10 10 15 0 50 0 30 0 30 0 30 30 0 50
+1401 IS
+10 Cătălina 20 10 10 15 0 30 0 100 0 30 0 30 30 0 50
+1402 IS
+11 Hodora 20 0 10 50 0 100 0 150 0 30 0 30 30 0 50
+1403 IS
+12 Bals Boureni 10 0 10 30 0 50 0 30 0 30 0 30 30 0 50
+1404 IS
+13 Ceplenita 10 0 10 20 0 100 0 100 0 30 0 30 30 0 50
+1405 IS
+14 C. Caprei 10 0 10 20 0 50 0 30 0 30 0 30 30 0 50
+1406 IS
+15 Plugari 10 0 10 10 0 50 0 20 0 30 0 30 30 0 50
+1407 IS
+16 Chiscareni 10 0 10 20 0 50 0 20 0 30 0 30 30 0 50
+1408 IS
+19 Românești 10 0 10 20 0 50 0 30 0 30 0 30 30 0 50
+1409 IS
+20 Bivolari 20 20 10 40 0 50 0 30 0 30 0 30 30 0 50
+1410 IS
+21 Trifesti 20 20 10 50 0 50 0 30 0 30 0 30 30 0 50
+1411 IS
+23 Larga Jijia 20 30 30 100 0 150 0 50 0 30 0 30 30 0 50
+1412 IS
+24 Probota 20 30 30 50 0 100 0 30 0 30 0 30 30 0 50
+1413 IS
+25 Letcani 10 20 15 50 0 200 0 50 0 30 0 30 30 0 50
+1414 IS
+26 Valea Lupului 30 30 30 150 0 150 0 50 0 30 0 30 30 0 50
+1415 IS
+27 Victoria 30 30 30 150 0 100 0 50 0 30 0 30 30 0 50
+1416 IS AVPS Iași 28 Golaesti 30 30 20 150 0 150 0 50 0 30 0 30 30 0 50
+1417 IS
+29 Tutora 30 30 30 100 0 100 0 50 0 30 0 30 30 0 50
+1418 IS
+30 Prisecani 30 30 15 50 0 50 0 50 0 30 0 30 30 0 50
+1419 IS
+31 Strunga 20 30 10 30 0 50 0 10 0 30 0 30 30 0 50
+1420 IS
+33 Braesti 30 30 10 20 0 50 0 10 0 30 0 30 30 0 50
+1421 IS
+36 Popești 30 20 10 20 0 50 0 20 0 30 0 30 30 0 50
+1422 IS
+45 Pocreaca 20 20 10 20 0 50 0 10 0 30 0 30 30 0 50
+1423 IS
+48 Crasnita 20 20 10 20 0 30 0 10 0 30 0 30 30 0 50
+1424 IS
+52 Mironeasa 20 20 10 30 0 50 0 10 0 30 0 30 30 0 50
+1425 IS
+53 Tibana 20 20 10 20 0 30 0 10 0 30 0 30 30 0 50
+1426 IS
+55 Dagâța 20 20 10 20 0 50 0 10 0 30 0 30 30 0 50
+1427 IS Total
+580 510 430 1330 0 2190 0 1160 0 930 0 930 930 0 1550
+1428 IS
+17 Gropnița 5 5 10 20 0 50 50 50 0 10 0 0 0 0 0
+1429 IS SV G. Topîrceanu 18 Belcești 5 5 10 20 0 50 50 50 0 10 0 0 0 0 0
+1430 IS
+34 Erbiceni 5 5 10 20 0 50 50 50 0 10 0 0 0 0 0
+1431 IS
+35 Sinești 5 5 10 20 0 50 50 50 0 10 0 0 0 0 0
+1432 IS Total
+20 20 40 80 0 200 200 200 0 40 0 0 0 0 0
+1433 IS
+38 Horlești 5 0 5 10 0 30 0 30 0
+0 0 0 0 0
+1434 IS AV Zimbrul Iași 41 Bârnova 5 0 0 5 0 0 0 10 0
+0 0 0 0 0
+1435 IS
+49 Gorban 5 0 5 10 0 30 0 10 0
+0 0 0 0 0
+1436 IS
+50 Răducăneni 10 0 5 10 0 50 0 20 0
+0 0 0 0 0
+1437 IS Total
+25 0 15 35 0 110 0 70 0 0 0 0 0 0 0
+1438 IS DS Vaslui 54 Tibanesti 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1439
+Total Județ
+625 530 485 1545 0 4500 5700 1520 0 1010 0 930 1630 0 1550
+1440 IF
+12 Brânzeasca 0 0 0 0 0 100 0 0 0 0 0 0 0 0 0
+1441 IF DS Ilfov 13 Surlari 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1442 IF
+14 Vlădiceasca 0 0 0 0 0 100 0 0 0 0 0 0 0 0 0
+1443 IF Total DS Ilfov 0 0 0 0 0 200 0 0 0 0 0 0 0 0 0
+1444 IF Colegiul Silvic Brănești 2 Pusnicu 0 0 0 20 0 20 0 0 0 0 0 0 0 0 0
+1445 IF ICAS București 4 Stefănești 10 0 0 10 0 20 0 0 0 0 0 0 0 0 0
+1446 IF APPS Scroviștea 22 Scroviștea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1447 IF
+5 București 0 0 0 1100 0 100 300 100 0 0 0 0 0 0 0
+1448 IF
+7 Tunari 0 0 0 300 0 100 300 100 0 0 0 0 0 0 0
+1449 IF AVPS Lunca 8 Dascălu 0 0 0 200 0 100 300 100 0 0 0 0 0 0 0
+1450 IF
+10 Săftica 0 0 0 250 0 100 400 100 0 0 0 0 0 0 0
+1451 IF
+17 Nuci 0 0 0 200 0 100 400 100 0 0 0 0 0 0 0
+1452 IF Total AVPS Lunca 0 0 0 2050 0 500 1700 500 0 0 0 0 0 0 0
+1453 IF AVPS Sitarul 1 Cernica 10 0 0 200 0 150 0 0 0 0 0 0 0 0 0
+1454 IF
+16 Buriașu 0 0 0 100 0 50 0 0 0 0 0 0 0 0 0
+1455 IF Total AVPS Sitarul 10 0 0 300 0 200 0 0 0 0 0 0 0 0 0
+1456 IF AVPS Diana 19 Bragadiru 25 0 25 300 0 100 300 100 0 0 0 0 30 0 0
+1457 IF
+21 Domnești 25 0 25 200 0 100 300 100 0 0 0 0 30 0 0
+1458 IF Total AVPS Diana 50 0 50 500 0 200 600 200 0 0 0 0 60 0 0
+1459 IF AVPS Acvila 6 Tamaș 50 0 50 500 0 300 0 100 0 0 0 0 0 0 0
+1460 IF AVPS Stejarul 9 Afumați 10 0 5 20 0 20 0 30 0 0 0 0 0 0 0
+1461 IF AVPS Vulturul 11 Grădiștea 0 0 0 300 0 300 300 0 0 0 0 0 0 0 0
+1462 IF AVPS Zimbrul 3 Pasărea 0 0 0 80 0 1000 800 0 0 0 0 0 0 0 0
+1463 IF AVPS Unirea 18 Dragomirești 5 0 0 250 0 60 100 40 0 0 0 0 0 0 0
+1464 IF AVPS Șoimul 20 Berceni 0 0 50 150 0 100 0 0 0 0 0 0 0 0 0
+1465 IF AVPS Șoimul 16 Snagov Parc 0 0 0 150 0 150 0 0 0 0 0 0 0 0 0
+1466
+Total Județ Ilfov 135 0 155 4330 0 3070 3500 870 0 0 0 0 60 0 0
+1467 MM
+4 VISEU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1468 MM
+8 RUSCOVA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1469 MM
+9 BISTRAP 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1470 MM
+10 CISLA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1471 MM
+14 SALISTE S 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1472 MM
+17 IZA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1473 MM
+18 BARSANA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1474 MM
+20 BUDESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1475 MM
+21 GUTINBS 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1476 MM
+22 IZVOARE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1477 MM
+23 AGRIES 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1478 MM
+25 SAPANTA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1479 MM
+26 CL TISA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1480 MM
+27 RONISOARA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1481 MM AJVPS Maramureș 28 CAVNIC PL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1482 MM
+29 DUMBRAVITA 25 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+1483 MM
+30 OCOLIȘ 15 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+1484 MM
+32 SASAR 20 0 0 0 0 30 0 0 0 0 0 0 0 0 0
+1485 MM
+34 CICARLAU 10 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+1486 MM
+36 ARDUSAT 10 0 0 0 0 20 0 0 0 0 0 0 0 0 0
+1487 MM
+42 VL CHIOARULUI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1488 MM
+43 CHIOAR 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1489 MM
+44 REMETEA 0 0 0 0 0 150 0 0 0 0 0 0 0 0 0
+1490 MM
+46 MANASTUR 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1491 MM
+48 ȘATRA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1492 MM
+49 VALEA MARE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1493 MM
+50 CORUIENI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1494 MM
+54 SUCIURI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1495 MM Total gestionar
+80 0 0 0 0 230 0 0 0 0 0 0 0 0 0
+1496 MM
+1 VL BABEI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1497 MM
+2 FAINA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1498 MM
+5 RICA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1499 MM
+6 SOCOLAU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1500 MM
+11 BISTRITA TIBAU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1501 MM
+12 PRISLOP 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1502 MM
+15 BAICU - IE UD 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1503 MM
+16 BOTIZA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1504 MM
+19 SLATIOARA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1505 MM DS Maramureș 24 HUȚA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1506 MM
+31 VL NEAGRA 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1507 MM
+33 BAITA 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1508 MM
+37 ASUAJ 20 0 0 0 0 5 30 0 0 0 0 50 0 0 0
+1509 MM
+38 OARTA 10 0 0 0 0 0 30 0 0 0 0 50 0 0 0
+1510 MM
+40 FERSIG 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1511 MM
+41 IAD ARA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1512 MM
+51 STRAMBU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1513 MM
+52 RAOAIA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1514 MM
+53 TIBLES 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1515 MM Total gestionar
+80 0 0 0 0 5 60 0 0 0 0 100 0 0 0
+1516 MM AC Wasser Cerbul C. 3 NOVAT 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1517 MM AC Wasser Cerbul C. 13 PIETROSUL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1518 MM Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1519 MM AVP Certeze 7 REPEDEA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1520 MM Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1521 MM AVPS Breaza 47 CIOCOTIȘ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1522 MM Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1523 MM A.V. Comja-Seini 35 SABIȘA 10 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+1524 MM Total gestionar
+10 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+1525 MM A.V.S. Codru 39 ULMENI 20 0 0 0 0 20 0 0 0 0 0 0 0 0 0
+1526 MM Total gestionar
+20 0 0 0 0 20 0 0 0 0 0 0 0 0 0
+1527
+Total județ
+190 0 0 0 0 265 60 0 0 0 0 100 0 0 0
+1528 MH
+2 Dubova 0 0 0 0 0 0 0 0 0 100 0 0 100 0 0
+1529 MH
+3 Mraconia 0 0 0 0 0 0 0 0 0 100 0 0 100 0 0
+1530 MH
+4 Eselnita 0 0 0 0 0 0 0 0 0 100 0 0 100 0 0
+1531 MH
+5 Virciorova 0 0 0 0 0 0 0 0 0 100 0 0 100 0 0
+1532 MH
+7 Isverna 0 0 0 50 0 0 0 100 0 100 0 0 100 0 0
+1533 MH
+10 Baia Arama 0 0 0 50 0 0 0 100 0 100 0 0 100 0 0
+1534 MH
+11 Bala 10 0 20 50 0 0 0 100 0 100 0 0 100 0 0
+1535 MH
+12 Sovarna 10 0 20 50 0 0 0 100 0 100 0 0 100 0 0
+1536 MH
+13 Ilovat 20 0 0 50 0 0 100 100 0 0 0 0 100 0 0
+1537 MH
+14 Balotesti 20 0 0 50 0 0 0 100 0 100 0 100 100 0 0
+1538 MH
+15 Tr. Severin 20 0 0 100 0 100 0 200 0 100 0 100 100 0 0
+1539 MH
+16 Floresti 20 0 0 100 0 100 0 400 0 100 0 100 100 0 0
+1540 MH
+17 Corcova 20 0 0 100 0 100 0 200 0 100 0 100 100 0 0
+1541 MH
+18 Cervenita 20 0 0 100 0 0 0 200 0 100 0 100 100 0 0
+1542 MH
+19 Husnicioara 20 0 0 100 0 100 100 200 0 100 0 100 100 0 0
+1543 MH
+20 Cerneti 20 0 0 100 0 100 100 200 0 100 0 100 100 0 0
+1544 MH
+21 Stirmina 20 0 20 100 0 100 100 200 0 100 0 100 100 0 0
+1545 MH
+23 Burila Mare 20 0 20 100 0 200 300 300 0 0 0 200 100 0 50
+1546 MH
+24 Ostrovu Mare 20 0 20 100 0 200 300 300 0 0 0 200 100 0 50
+1547 MH AJVPS MH 25 Jiana 20 0 20 100 0 200 300 300 0 0 0 200 100 0 50
+1548 MH
+26 Cioroboreni 20 0 20 100 0 200 300 300 0 0 0 200 100 0 50
+1549 MH
+30 Cujmir 0 0 20 100 0 400 400 300 0 0 0 400 100 0 50
+1550 MH
+31 Gemeni 0 0 20 100 0 400 400 300 0 0 0 400 100 0 50
+1551 MH
+32 Corlatel 20 0 20 100 0 400 400 300 0 0 0 400 100 0 50
+1552 MH
+33 Oprisor 0 0 20 100 0 400 400 300 0 0 0 400 100 0 50
+1553 MH
+34 Vj. Mare 20 0 20 100 0 400 400 300 0 0 0 400 100 0 50
+1554 MH
+35 Iablanita 20 0 20 100 0 400 400 400 0 0 0 400 100 0 50
+1555 MH
+36 S la soma 20 0 20 100 0 400 400 200 0 0 0 400 100 0 50
+1556 MH
+37 Smadovita 20 0 20 100 0 200 100 200 0 100 0 200 100 0 0
+1557 MH
+38 Greci 20 0 20 100 0 100 100 200 0 100 0 100 100 0 0
+1558 MH
+39 Fauroaia 20 0 20 100 0 100 100 200 0 100 0 100 100 0 0
+1559 MH Total gestionar
+420 0 340 2400 0 4600 4700 6100 0 1900 0 4800 3100 0 550
+1560 MH
+28 Patulele 0 0 5 30 0 0 0 150 0 0 0 0 0 0 0
+1561 MH D.S.MH 29 Punghina 0 0 5 30 0 0 0 150 0 0 0 0 0 0 0
+1562 MH
+1 Svinita 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1563 MH Total gestionar
+0 0 10 60 0 0 0 300 0 0 0 0 0 0 0
+1564 MH AVPM ACVILA GJ 8 Olanul 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1565 MH
+9 Cernisoara 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1566 MH Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1567 MH AVPS ARTEMIS DJ 22 Crivina 10 0 0 50 0 100 100 100 0 0 0 100 0 10 10
+1568 MH
+27 Salcia 10 0 20 50 0 150 300 100 0 0 0 100 50 0 10
+1569 MH Total gestionar
+20 0 20 100 0 250 400 200 0 0 0 200 50 10 20
+1570 MH AVPS CORADO CT 6 Podeni 0 0 0 0 0 0 0 200 0 0 0 50 0 0 0
+1571 MH Total gestionar
+0 0 0 0 0 0 0 200 0 0 0 50 0 0 0
+1572 MH AVPS EGRETA GJ 40 Ceringanul 20 0 20 20 0 30 0 500 0 0 0 150 0 0 0
+1573 MH Total gestionar
+20 0 20 20 0 30 0 500 0 0 0 150 0 0 0
+1574
+Total județ
+MEHEDINȚI 460 0 390 2580 0 4880 5100 7300 0 1900 0 5200 3150 10 570
+1575 MS
+1 Cerghizel 20 0 0 20 0 50 0 30 0 10 0 0 0 50 0
+1576 MS
+9 Sărmașu 20 0 0 30 0 300 300 50 0 20 0 0 0 0 0
+1577 MS
+10 Șincai 20 0 0 20 0 50 0 30 0 10 0 0 0 50 0
+1578 MS
+13 Hărțău 20 0 0 20 0 50 0 30 0 10 0 0 0 50 0
+1579 MS
+14 Săbed 20 0 0 20 0 100 0 100 0 10 0 0 0 50 0
+1580 MS
+15 Glodeni 30 0 0 20 0 50 0 30 0 10 0 0 0 50 0
+1581 MS
+16 Voiniceni 20 0 0 20 0 50 0 30 0 10 0 0 0 50 0
+1582 MS
+18 Corne ști 20 0 0 20 0 20 0 30 0 10 0 0 0 50 0
+1583 MS
+19 Gălățeni 20 0 0 20 0 20 0 30 0 10 0 0 0 50 0
+1584 MS AJVPS Mureș 20 Ernei 20 0 0 30 0 50 0 30 0 10 0 0 0 50 0
+1585 MS
+21 Gornești 30 0 0 20 0 30 0 20 0 0 0 0 0 20 0
+1586 MS
+22 Voivodeni 40 0 0 20 0 50 0 20 0 0 0 0 0 20 0
+1587 MS
+23 Breaza 40 0 0 20 0 50 0 20 0 0 0 0 0 20 0
+1588 MS
+24 Lunca 40 0 0 20 0 40 0 20 0 0 0 0 0 20 0
+1589 MS
+27 Dumbrava 30 0 0 20 0 0 0 20 0 0 0 0 0 20 0
+1590 MS
+29 Bistra 20 0 0 20 0 0 0 20 0 0 0 0 0 20 0
+1591 MS
+51 Roua 30 0 0 20 0 20 0 20 0 10 0 0 0 20 0
+1592 MS
+60 Viișoara 5 0 0 0 0 0 0 25 0 0 0 0 0 50 0
+1593 MS
+64 Sângeorgiu 20 0 0 30 0 100 0 50 0 10 0 0 0 50 0
+1594 MS Total Gestionar
+465 0 0 390 0 1030 300 605 0 130 0 0 0 690
+1595 MS
+2 Giuluș 10 0 10 10 0 150 500 80 0 350 0 0 0 0 0
+1596 MS
+3 Deag 10 0 10 10 0 150 500 80 0 350 0 0 0 0 0
+1597 MS
+4 Ozd 10 0 10 10 0 150 500 80 0 500 0 0 0 0 0
+1598 MS
+17 Cocoș 0 0 0 0 0 75 0 50 0 0 0 0 0 0 0
+1599 MS
+26 Aluniș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1600 MS
+28 Iod 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1601 MS
+34 Neagra 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1602 MS Direcția Silvică Mureș 35 Sălard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1603 MS
+36 Lăpușna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1604 MS
+37 Fâncel 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1605 MS
+38 Tireu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1606 MS
+39 Cașva 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1607 MS
+41 Sirod 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1608 MS
+42 Niraj 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1609 MS
+43 Sebeș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1610 MS
+57 Criș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1611 MS Total Gestionar
+30 0 30 30 0 525 1500 290 0 1200 0 0 0 0
+1612 MS
+53 Sighișoara 10 0 10 0 0 0 0 10 0 0 0 0 20 0 0
+1613 MS AVPS Sighișoara 55 Saschiz 10 0 10 0 0 0 0 10 0 0 0 0 20 0 0
+1614 MS
+56 Apold 10 0 10 0 0 0 0 10 0 0 0 0 20 0 0
+1615 MS
+58 Nadeș 10 0 10 0 0 0 0 10 0 0 0 0 20 0 0
+1616 MS Total Gestionar
+40 0 40 0 0 0 0 40 0 0 0 0 80 0 0
+1617 MS
+8 Zau de Câmp. 0 0 0 0 0 50 200 50 0 150 0 0 0 0 0
+1618 MS
+31 Bradu 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1619 MS AVPS Cerbul București 32 Ilva 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1620 MS
+33 Zebrac 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1621 MS
+59 Zagăr 50 0 15 0 0 30 0 30 0 0 0 0 0 0 0
+1622 MS Total Gestionar
+110 0 15 0 0 80 200 80 0 150 0 0 0 0 0
+1623 MS
+7 Papiu Ilarian 50 0 0 50 0 200 300 30 0 0 0 0 50 0 0
+1624 MS AVS Zimbrul 5 Grindeni 30 0 0 30 0 300 300 50 0 50 0 0 0 10 0
+1625 MS
+6 Dătășeni 30 0 0 30 0 300 300 50 0 50 0 0 0 10 0
+1626 MS Total Gestionar
+110 0 0 110 0 800 900 130 0 100 0 0 50 20 0
+1627 MS
+52 Boiu 10 0 10 0 0 0 0 10 0 0 0 0 20 0 0
+1628 MS As. Diana Târnava Mică 61 Bahnea 5 0 0 0 0 0 0 25 0 0 0 0 0 50 0
+1629 MS
+62 Gănești 5 0 0 0 0 0 0 25 0 0 0 0 0 50 0
+1630 MS Total Gestionar
+20 0 10 0 0 0 0 60 0 0 0 0 20 100 0
+1631 MS AVPS Darul Câlimamlor 25 Săcal 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1632 MS
+30 Răstolița 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1633 MS Total Gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1634 MS AVS Ursul Sovata 44 Isuica 20 0 0 20 0 0 0 20 0 10 0 0 0 15 0
+1635 MS
+46 Vărgata 20 0 0 20 0 20
+20 0 10 0 0 0 15 0
+1636 MS Total Gestionar
+40 0 0 40 0 20 0 40 0 20 0 0 0 30 0
+1637 MS AV Genesis Reghin 11 Grebeniș 20 0 0 20 0 50 0 30 0 10 0 0 0 50 0
+1638 MS As. Căpriorul Mureș 12 Vaideiu 15 0 0 30 0 100 300 200 0 20 0 0 0 0 0
+1639 MS Colegiul silv. Gurghiu 40 Mociar 5 5 5 5 0 0 0 10 0 10 0 0 10 10 0
+1640 MS AV Hermina 45 Chiher
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1641 MS AVPS Nirajul Mic 47 Bereni 20 0 0 20 0 20 0 20 0 5 0 0 0 20 0
+1642 MS AVPS Crisius Socodor 48 Chibed 20 0 0 20 0 20 0 0 0 20 0 0 0 0 0
+1643 MS Asoc. Pro Diana 49 Ghinești 25 0 0 10 0 20 0 50 0 20 0 0 0 40 0
+1644 MS Asociația Cervus 50 Crișeni 20 0 0 20 0 5 0 20 0 10 0 0 0 20 0
+1645 MS AV Valea Copacilor 54 Archita 10 0 10 0 0 0 0 10 0 0 0 0 10 10 0
+1646 MS AVPS Pescărușul 63 Târnă veni 10 0 0 0 0 0 0 50 0 0 0 0 0 100 0
+1647
+Total Județ
+960 5 110 695 0 2670 3200 1635 0 1695 0 0 170 1090 0
+1648 NT
+3 Iapa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1649 NT
+6 Doamna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1650 NT
+8 Murgoci 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1651 NT
+9 Ardeluța 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1652 NT
+10 Măieruș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1653 NT
+11 Tarcău 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1654 NT
+12 Floarea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1655 NT
+14 Bicăjel 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1656 NT DS Neamț 16 Neagra 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1657 NT
+22 Borca 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1658 NT
+23 Sabasa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1659 NT
+25 Secu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1660 NT
+29 Magazia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1661 NT
+30 Agapia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1662 NT
+38 Mărgineni 25 0 0 0 0 50 150 0 0 0 0 0 30 0 20
+1663 NT
+39 Dochia 25 0 0 0 0 50 200 0 0 0 0 0 25 0 0
+1664 NT
+45 Văleni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1665 NT Total gestionar
+50 0 0 0 0 100 350 0 0 0 0 0 55 0 20
+1666 NT
+2 Poloboc 10 0 10 20 0 45 125 10 0 0 0 0 10 0 0
+1667 NT
+4 Calu 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1668 NT
+5 Podoleni 20 0 10 20 0 25 175 25 0 0 0 0 30 0 0
+1669 NT
+7 Bisericani 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1670 NT
+15 Telec 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1671 NT
+19 Dreptu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1672 NT AJVPS Neamț 21 Hangu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1673 NT
+31 Rădeni 50 0 30 50 0 100 200 50 0 0 0 0 50 0 0
+1674 NT
+33 Cuiejdi-Almaș 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1675 NT
+34 Negrești 50 0 30 70 5 100 200 50 0 0 0 0 75 0 0
+1676 NT
+35 Bodești 30 0 20 50 0 25 150 50 0 0 0 0 75 0 0
+1677 NT
+36 Războieni 20 0 10 30 0 50 170 10 0 0 0 0 50 0 0
+1678 NT
+37 Ghigoiești 20 0 10 30 0 50 170 25 0 0 0 0 50 0 0
+1679 NT
+40 Dumbrava 70 0 50 100 0 100 200 50 0 0 0 0 50 0 0
+1680 NT Total gestionar
+270 0 170 370 25 495 1390 270 0 0 0 0 390 0 0
+1681 NT
+19 Grințieș 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0
+1682 NT
+41 Deleni 5 0 20 40 0 0 0 17 0 0 100 0 0 0 0
+1683 NT
+42 Icușești 17 14 0 90 0 10 0 0 0 0 0 0 0 0 0
+1684 NT
+43 Secuieni 15 50 50 100 0 100 250 55 0 0 14 0 0 0 0
+1685 NT
+44 Bârjoveni 17 0 40 150 0 250 350 80 0 0 80 0 0 0 0
+1686 NT AVPS Roman 46 Săbăoani 20 0 50 200 0 150 250 24 0 0 170 0 0 0 0
+1687 NT
+47 Roman 0 0 16 250 0 50 120 50 0 0 100 0 0 0 0
+1688 NT
+49 Vadu Veja 0 0 20 25 0 50 200 50 0 0 100 0 0 0 0
+1689 NT
+50 Bozieni 0 0 0 50 0 15 0 0 0 0 100 0 0 0 0
+1690 NT
+51 Oniceni 0 0 9 24 0 6 0 0 0 0 13 0 0 0 0
+1691 NT Total gestionar
+74 64 205 929 10 631 1170 276 0 0 677 0 0 0 0
+1692 NT
+24 Pipirig
+0 0 0 0 0 0 0 0
+0 0 0 0 0
+1693 NT
+27 Drăgănești 30 0 40 40 0 40 150 25 0 50 0 0 0 0 0
+1694 NT AVPS Zimbru Tg.Neamț 28 Grași 45 0 45 40 0 45 200 25 0 70 0 0 0 0 0
+1695 NT
+32 Grumăzești 25 0 15 30 0 35 50 25 0 60 0 0 0 0 0
+1696 NT Total gestionar
+100 0 100 110 0 120 400 75 0 180 0 0 0 0 0
+1697 NT AVPS Șoimul Tazlău 1 Tazlău 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1698 NT Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1699 NT AVPS Hășmașul Mare 13 Dămuc 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1700 NT Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1701 NT AVPS Lupul Cenușiu 17 Schit 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1702 NT Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1703 NT AVPS Bradul Nt 20 Galu 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1704 NT Total gestionar
+0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+1705 NT AVPS Diana Hunting 26 Nemțișor 10 0 0 10 5 0 0 30 0 0 0 0 0 0 0
+1706 NT Total gestionar
+10 0 0 10 5 0 0 30 0 0 0 0 0 0 0
+1707 NT AVPS Bradul B 48 Vulpășești 0 0 0 50
+100 200 0 0 0 0 0 0 0 0
+1708 NT Total gestionar
+0 0 0 50 0 100 200 0 0 0 0 0 0 0 0
+1709
+Total Județ
+504 64 475 1469 45 1446 3510 651 0 180 677 0 445 0 20
+1710 OT
+1 DOBROTEASA 0 0 0 50 0 25 0 0 0 0 0 500 0 0 20
+1711 OT
+2 TOPANA 0 0 0 25 0 25 0 0 0 0 0 200 0 0 0
+1712 OT
+3 SPINENI 0 0 0 25 0 25 0 0 0 0 0 200 0 0 0
+1713 OT
+8 SCORNICEȘTI 0 0 0 100 0 300 1500 50 0 0 0 0 0 0 50
+1714 OT
+9 TATULEȘTI 0 0 0 50 0 75 0 0 0 0 0 100 0 0 0
+1715 OT
+10 OPTAȘI 0 0 0 40 0 25 0 0 0 0 0 0 0 0 0
+1716 OT
+11 POTCOAVA 0 0 0 50 0 50 0 0 0 0 0 50 0 0 0
+1717 OT
+12 BALTENI 0 0 0 150 0 800 4000 75 0 0 0 50 0 0 20
+1718 OT
+13 SLATINA 50 0 100 200 0 700 4000 100 0 0 0 150 0 0 50
+1719 OT
+14 STREJEȘTI 0 0 150 200 0 100 0 50 0 0 0 75 0 0 20
+1720 OT
+15 CIRLOGANI 0 0 0 25 0 0 0 0 0 0 0 50 0 0 0
+1721 OT
+17 CAL UI 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+1722 OT
+18 IANCU JIANU 0 0 0 50 0
+0 0 0 0 0 50 0 0 0
+1723 OT
+19 BALȘ 0 0 0 40 0 25 0 0 0 0 0 0 0 0 0
+1724 OT
+21 VOINEASA 0 0 0 40 0 25 0 0 0 0 0 0 0 0 0
+1725 OT
+22 PIRȘCOVENI 0 0 0 50 0 25 500 0 0 0 0 0 0 0 20
+1726 OT
+23 SLATIOARA 0 0 100 200 0 300 1500 50 0 0 0 100 0 0 20
+1727 OT
+24 MILCOV 0 0 0 150 0 700 3500 50 0 0 0 100 0 0 20
+1728 OT AJVPS Olt 25 BREBENI 0 0 0 50 0 300 1000 0 0 0 0 0 0 0 20
+1729 OT
+26 SCHITU 0 0 0 60 0 50 0 0 0 0 0 0 0 0 0
+1730 OT
+27 ICOANA 0 0 0 50 0 50 100 0 0 0 0 0 0 0 0
+1731 OT
+31 B ARC ANE ȘTI 0 0 0 50 0 60 0 0 0 0 0 0 0 0 20
+1732 OT
+33 COTEANA 0 0 0 70 0 150 500 0 0 0 0 0 0 0 25
+1733 OT
+35 BERCICA 0 0 0 0 0 200 500 0 0 0 0 0 0 0 50
+1734 OT
+44 CARACAL 0 0 0 100 0 50 500 50 0 0 0 0 0 0 20
+1735 OT
+45 VLADILA 0 0 0 50 0 25 0 25 0 0 0 50 0 0 0
+1736 OT
+46 ROTUNDA 0 0 0 50 0 25 500 25 0 0 0 0 0 0 0
+1737 OT
+47 REDEA 0 0 0 50 0 25 500 25 0 0 0 0 0 0 0
+1738 OT
+48 SCARIȘOARA 0 0 0 50 0 25 500 25 0 0 0 0 0 0 20
+1739 OT
+49 RUSANEȘTI 0 0 0 20 0 100 1000 0 0 0 0 0 0 0 20
+1740 OT
+51 GROJDIBOD 0 0 0 20 0 50 0 50 0 0 0 50 0 0 20
+1741 OT
+52 IANCA 0 0 0 60 0 50 0 50 0 0 0 50 0 0 20
+1742 OT
+53 ORLEA 0 0 0 60 0 200 500 50 0 0 0 50 0 0 20
+1743 OT
+54 VIȘINA 0 0 0 200 0 700 4000 100 0 0 0 100 0 0 0
+1744 OT
+55 CORABIA 0 0 0 250 0 400 1000 100 0 0 0 50 0 0 20
+1745 OT
+56 TIAMARE 0 0 0 40 0 100 1000 0 0 0 0 0 0 0 0
+1746 OT
+57 GIRCOV 0 0 0 20 0 100 0 0 0 0 0 50 0 0 20
+1747 OT Total gestionar
+50 0 350 2745 0 5860 26600 875 0 0 0 2025 0 0 495
+1748 OT
+4 Seaca 5 0 5 15 0 80 100 20 0 0 0 20 0 0 10
+1749 OT
+5 Verguleasa 0 0 0 0 0 30 50 0 0 0 0 0 0 0 10
+1750 OT
+6 Oporelu 0 0 0 15 0 50 50 10 0 0 0 20 0 0 10
+1751 OT
+16 Moronesti 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1752 OT
+20 Izvoru 0 0 0 0 0 50 100 0 0 0 0 0 0 0 0
+1753 OT
+28 Braneasa 0 0 5 15 0 80 250 0 0 0 0 0 0 0 0
+1754 OT DS Olt 30 Crampoia 0 0 0 15 0 80 250 15 0 0 0 0 0 0 0
+1755 OT
+34 Comani 0 0 5 15 0 100 250 15 0 0 0 20 0 0 10
+1756 OT
+36 Dobrun 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+1757 OT
+37 Dobrosloveni 0 0 5 15 0 80 250 15 0 0 0 20 0 0 10
+1758 OT
+38 Draghiceni 0 0 0 15 0 70 250 0 0 0 0 20 0 0 0
+1759 OT
+39 Reșca 5 0 5 15 0 80 250 15 0 0 0 20 0 0 10
+1760 OT
+50 Obarsia 0 0 0 0 0 50 100 0 0 0 0
+0 0 5
+1761 OT Total gestionar
+10 0 25 120 0 750 2150 90 0 0 0 120 0 0 65
+1762 OT
+32 BOIANU 0 0 0 100 0 200 1500 50 0 0 0 0 0 0 10
+1763 OT
+40 DANEASA 50 0 50 200 0 200 1500 50 0 0 0 50 0 0 20
+1764 OT AVPS Diana București 41 MANDRA 0 0 0 150 0 100 1500 50 0 0 0 0 0 0 10
+1765 OT
+42 CALINESTI 0 0 0 100 0 100 1500 50 0 0 0 0 0 0 10
+1766 OT
+43 FRUNZARU 50 0 50 150 0 200 0 50 0 0 0 50 0 0 20
+1767 OT Total gestionar
+100 0 100 700 0 800 6000 250 0 0 0 100 0 0 70
+1768 OT AV Vulpea 29 Ghimpeteni 0 0 0 200 0 300 300 0 0 0 0 0 0 0 100
+1769 OT Total gestionar
+0 0 0 200 0 300 300 0 0 0 0 0 0 0 100
+1770 OT Asociația GPS Slatina 7 PRISEACA 0 0 0 50 0 200 200 50 0 0 0 0 0 0 50
+1771 OT Total gestionar
+0 0 0 50 0 200 200 50 0 0 0 0 0 0 50
+1772
+Total județ
+160 0 475 3815 0 7910 35250 1265 0 0 0 2245 0 0 780
+1773 PH
+1 PAULESTI 15 0 40 200 0 60 200 0 0 0 0 100 0 0 0
+1774 PH
+2 BERCENI 15 0 40 200 0 50 150 0 0 0 0 100 0 0 0
+1775 PH
+3 VADUP. 15 0 40 200 0 100 150 0 0 0 0 150 0 0 0
+1776 PH
+4 INOTESTI 10 0 25 150 0 120 300 0 0 0 0 30 0 0 0
+1777 PH
+5 FULGA 15 0 35 50 0 100 300 0 0 0 0 50 0 0 0
+1778 PH
+6 BABA ANA 15 0 40 200 0 65 700 0 0 0 0 50 0 0 0
+1779 PH
+7 GRADISTEA 0 0 25 100 0 120 800 0 0 0 0 50 0 0 0
+1780 PH
+8 CIORANI 0 0 20 80 0 80 300 0 0 0 0 50 0 0 0
+1781 PH
+12 RAFOV 40 0 50 250 0 180 300 0 0 0 0 200 0 0 0
+1782 PH
+13 NEGOIESTI 50 0 85 350 0 150 250 0 0 0 0 250 0 0 0
+1783 PH
+14 HABUD 50 0 40 200 0 80 200 0 0 0 0 200 0 0 0
+1784 PH
+15 MANESTI 40 0 70 300 0 80 300 0 0 0 0 250 0 0 0
+1785 PH
+16 STREJNIC 0 0 90 350 0 150 400 0 0 0 0 200 0 0 0
+1786 PH AJPS PRAHOVA 29 BASCA F CALE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1787 PH
+31 CALDARUS. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1788 PH
+32 SOIMARI 0 0 0 8 0 0 0 0 0 0 0 40 0 0 0
+1789 PH
+33 NUCET 0 0 30 90 0 0 0 0 0 0 0 40 0 0 0
+1790 PH
+34 CAZACU 0 0 20 50 0 20 0 0 0 0 0 20 0 0 0
+1791 PH
+35 PALTINET 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1792 PH
+36 COSMINA 0 0 0 30 0 15 0 0 0 0 0 30 0 0 0
+1793 PH
+38 BRATIA 0 0 25 50 0 35 0 0 0 0 0 100 0 0 0
+1794 PH
+39 PLOPU 0 0 35 50 0 30 100 0 0 0 0 300 0 0 0
+1795 PH
+40 IORDACHEANU 0 0 30 40 0 25 0 0 0 0 0 400 0 0 0
+1796 PH
+41 URLAȚI 0 0 200 400 0 100 500 0 0 0 0 1000 0 0 0
+1797 PH
+42 MALU ROȘU 0 0 0 0 0 30 300 0 0 0 0 2000 0 0 0
+1798 PH Total gestionar
+265 0 940 3348 0 1590 5250 0 0 0 0 5610 0 0 0
+1799 PH
+9 Drăgănești 15 0 15 20 0 300 1500 20 0 0 0 0 150 0 0
+1800 PH
+10 Sicrita 15 0 15 20 0 200 1500 20 0 0 0 0 150 0 0
+1801 PH
+21 Sețu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1802 PH
+25 Sinaia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1803 PH D S PRAHOVA 26 Azuga 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1804 PH
+27 Teleajen 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1805 PH
+28 Telejenel 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1806 PH
+30 Slon 0 0 0 20 0 0 0 0 0 0 0 0 20 0 0
+1807 PH Total gestionar
+30 0 30 60 0 500 3000 40 0 0 0 0 320 0 0
+1808 PH
+17 FLORE STI 0 0 0 1400 0 650 0 0 0 0 0 0 0 0 0
+1809 PH
+18 MAGURENI 0 0 0 300 0 250 0 0 0 0 0 0 0 0 0
+1810 PH
+19 MISLEA 0 0 0 500 0 100 0 0 0 0 0 0 0 0 0
+1811 PH AVPS CIMPINA 20 BREBU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1812 PH
+22 ORJOGOAIA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1813 PH
+23 PROVITA 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
+1814 PH
+24 COMARNIC 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1815 PH
+37 COCORASTI 0 0 0 200 0 0 0 0 0 0 0 0 0 0 0
+1816 PH Total gestionar
+0 0 0 2500 0 1000 0 0 0 0 0 0 0 0 0
+1817 PH AVPS MUFLONUL BZ 43 LAPOS 10 0 0 0 0 0 0 0 0 0 0 0 70 0 0
+1818 PH Total gestionar
+10 0 0 0 0 0 0 0 0 0 0 0 70 0 0
+1819 PH AVPS CORMORANII 11 GHERGHITA 50 0 50 200 0 500 2000 0 0 0 0 0 100 0 0
+1820 PH Total gestionar
+50 0 50 200 0 500 2000 0 0 0 0 0 100 0 0
+1821
+Total județ
+355 0 1020 6108 0 3590 10250 40 0 0 0 5610 490 0 0
+1822 SM
+1 Cămârzana 10 0 0 0 0 0 0 20 0 0 0 50 0 0 0
+1823 SM
+3 Huța 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+1824 SM
+10 Livada 10 0 30 30 0 150 0 50 0 0 0 50 0 0 0
+1825 SM
+15 Micula 10 0 20 30 0 50 0 20 0 0 0 50 0 0 0
+1826 SM
+16 Noroieni 10 0 30 30 0 100 0 30 0 0 0 100 0 0 0
+1827 SM
+17 Lazuri 10 0 0 10 0 50 0 10 0 0 0 50 0 0 0
+1828 SM DS Satu Mare 18 Satu Mare 10 0 0 10 0 50 0 10 0 0 0 50 0 0 0
+1829 SM
+26 Runc 0 0 0 0 0 20 0 20 0 0 0 50 0 0 0
+1830 SM
+27 Sai Bârsau 0 0 0 0 0 20 0 0 0 0 0 50 0 0 0
+1831 SM
+29 Dacia 40 0 30 40 0 150 0 100 0 0 0 100 0 0 0
+1832 SM
+35 Berveni 50 0 40 50 0 100 0 80 0 0 0 100 0 0 0
+1833 SM
+36 Fioeni 20 0 30 50 0 150 0 80 0 0 0 100 0 0 0
+1834 SM
+44 Cehal 0 0 10 30 0 50 0 30 0 0 0 50 0 0 0
+1835 SM
+47 Supur 0 0 0 10 0 20 0 20 0 0 0 20 0 0 0
+1836 SM
+49 Hodod 0 0 0 0 0 15 0 0 0 0 0 10 0 0 0
+1837 SM Total DS
+170 0 190 290 0 925 0 480 0 0 0 830 0 0 0
+1838 SM
+2 Bixad 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1839 SM
+4 Negrești 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1840 SM
+5 Racșa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1841 SM
+6 Vama 20 0 0 0 0 0 0 0 0 0 0 50 0 0 0
+1842 SM
+7 Apa 10 0 0 50 0 50 0 0 0 0 0 50 0 0 0
+1843 SM
+8 Botiz 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+1844 SM
+9 Iojib 0 0 0 0 0 25 0 0 0 0 0 50 0 0 0
+1845 SM
+11 Gherța Mică 0 0 0 0 0 50 50 0 0 0 0 100 0 0 0
+1846 SM
+12 Batarci 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1847 SM
+13 Băbești 0 0 0 0 0 50 150 0 0 0 0 200 0 0 0
+1848 SM
+14 Halmeu 0 0 0 0 0 50 50 0 0 0 0 0 0 0 0
+1849 SM
+19 Amați 0 0 0 0 0 20 0 0 0 0 0 50 0 0 0
+1850 SM
+20 Culciu 0 0 0 0 0 50 50 0 0 0 0 50 0 0 0
+1851 SM
+21 Viile Satu M 10 0 0 0 0 50 100 0 0 0 0 50 0 0 0
+1852 SM
+22 Homorod 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1853 SM
+23 Gerausa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1854 SM
+24 Beltiug 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1855 SM
+25 Crucișor 0 0 0 0 0 25 100 0 0 0 0 50 0 0 0
+1856 SM AJVPS Satu Mare 28 Vetiș 10 0 0 50 0 50 50 0 0 0 0 50 0 0 0
+1857 SM
+30 Sătmărel 10 0 0 0 0 50 50 0 0 0 0 50 0 0 0
+1858 SM
+31 Terebești 10 0 0 0 0 50 0 0 0 0 0 0 0 0 0
+1859 SM
+32 Giungi 10 0 0 0 0 20 100 0 0 0 0 0 0 0 0
+1860 SM
+33 Moftin 0 0 0 0 0 50 50 0 0 0 0 50 0 0 0
+1861 SM
+34 Ghenci 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0
+1862 SM
+37 Sanislău 10 0 0 0 0 25 50 0 0 0 0 50 0 0 0
+1863 SM
+38 Pișcolt 0 0 0 0 0 10 50 0 0 0 0 0 0 0 0
+1864 SM
+39 Petre ști 0 0 0 0 0 20 100 0 0 0 0 0 0 0 0
+1865 SM
+40 Cărei 0 0 0 0 0 20 200 0 0 0 0 0 0 0 0
+1866 SM
+41 Hotoan 0 0 0 0 0 100 300 0 0 0 0 0 0 0 0
+1867 SM
+42 Sudurău 0 0 0 0 0 100 100 0 0 0 0 0 0 0 0
+1868 SM
+45 Șitări 0 0 0 0 0 100 200 0 0 0 0 50 0 0 0
+1869 SM
+46 Unimăt 0 0 0 0 0 50 0 0 0 0 0 50 0 0 0
+1870 SM
+48 Hurezu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1871 SM Total AJVPS
+90 0 0 150 0 1065 1750 0 0 0 0 950 0 0 0
+1872 SM AVPS Carei 43 Săuca 10
+10 10
+100
+20
+40
+1873
+Total Județ
+270 0 200 450 0 2090 1750 500 0 0 0 1820 0 0 0
+1874 SJ
+3 CORMENIS 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1875 SJ
+5 CLIT 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1876 SJ
+21 CRASNA 0 0 0 0 0 0 0 10 0 0 0 30 0 0 0
+1877 SJ
+22 PANIC 0 0 0 0 0 0 0 10 0 0 0 20 0 0 0
+1878 S.T DS Sălaj 23 TRANIS 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+1879 SJ
+27 MAGURA 0 0 0 0 0 25 0 30 0 0 0 40 0 0 0
+1880 SJ
+28 CHIESD 0 0 0 0 0 25 0 15 0 0 0 20 0 0 0
+1881 SJ
+30 CARASTELEC 0 0 0 0 0 40 0 30 0 0 0 40 0 0 0
+1882 SJ
+31 LAPIS 0 0 0 0 0 25 0 40 0 0 0 40 0 0 0
+1883 SJ Total DS SJ
+0 0 0 0 0 115 0 145 0 0 0 190 0 0 0
+1884 SJ
+1 GALGAU 10 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1885 SJ
+2 ILEANDA 10 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1886 SJ
+3 ZALAHA 10 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1887 SJ
+6 BABENI 10 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1888 SJ
+7 JIBOU 10 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1889 SJ
+9 BAL AN 10 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1890 SJ
+10 DRAGU 10 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1891 SJ
+11 SAMNIHAI 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1892 SJ
+12 RUGINOASA 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1893 SJ
+13 STANA 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1894 SJ
+14 FILDU 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1895 SJ AJVPS Sălaj 15 BUCIUMI 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1896 SJ
+16 MESES 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1897 SJ
+17 STARCIU 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1898 SJ
+18 MOIGRAD 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1899 SJ
+19 MIRSID 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1900 SJ
+20 ZALAU 10 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1901 SJ
+24 SOIMUS 10 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1902 SJ
+25 CEHU SILV. 5 0 5 5 0 0 0 5 0 0 0 5 0 0 0
+1903 SJ
+26 SAMSUD 10 0 10 10 0 40 0 20 0 0 0 100 0 0 0
+1904 SJ
+29 HUSENI 10 0 10 10 0 40 0 20 0 0 0 100 0 0 0
+1905 SJ
+32 PLOPIS 20 0 10 5 0 50 0 50 0 0 0 150 0 0 0
+1906 SJ
+34 TUSA 10 0 10 10 0 30 0 10 0 0 0 50 0 0 0
+1907 SJ Total AJVPS
+190 0 135 130 0 160 0 195 0 0 0 495 0 0 0
+1908 SJ O.S Blidaru 8 Girbou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1909
+Total Județ
+190 0 135 130 0 275 0 340 0 0 0 685 0 0 0
+1910 SB
+1 Bruiu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1911 SB
+3 Arpaș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1912 SB
+4 Bâlea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1913 SB
+5 Porumbacu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1914 SB
+11 Negovanu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1915 SB
+12 Rășinari 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1916 SB
+20 Sura Mică 0 0 10 10 0 0 0 30 0 30 30 0 0 0 0
+1917 SB D.S. Sibiu 22 Hamba 0 0 5 5 0 0 0 10 0 0 0 0 0 0 0
+1918 SB
+23 Vurpar 0 0 5 5 0 0 0 0 0 0 0 0 0 0 0
+1919 SB
+26 Seica Mare 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1920 SB
+27 Seica Mică 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1921 SB
+34 Laslea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1922 SB
+35 Biertan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1923 SB
+36 Iacobeni 0 0 0 5 0 0 0 20 0 0 0 0 0 0 0
+1924 SB
+43 Dobra 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1925 SB
+44 Bistra 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1926 SB
+45 Oasa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1927 SB Total gestionar
+0 0 20 25 0 0 0 60 0 30 30 0 0 0 0
+1928 SB
+7 Bradu 25 0 5 20 0 25 0 30 0 20 0 0 0 40 0
+1929 SB
+15 Poiana 50 0 0 20 0 0 0 50 0 20 0 0 0 20 0
+1930 SB
+17 Sângatin 200 0 100 100 0 300 300 100 0 500 200 0 0 100 0
+1931 SB
+25 Slimnic 200 0 100 100 0 300 300 100 0 200 200 0 0 50 0
+1932 SB
+28 Bazna 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1933 SB
+29 VI. Viilor 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1934 SB
+30 Mosna 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1935 SB AJVPS Sibiu 31 Atei 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1936 SB
+32 Dârlos 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1937 SB
+33 Dumbrăveni 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1938 SB
+37 Pelisor 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1939 SB
+38 Altana 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1940 SB
+40 Agnita 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1941 SB
+41 Retis 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1942 SB
+42 Merghindeal 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1943 SB Total gestionar
+585 0 260 295 0 625 600 335 0 740 400 0 0 430 0
+1944 SB AVPS Cindrelul 18 Păuca 25 0 4 15 0 26 0 100 0 50 0 0 0 0 0
+1945 SB AVPS Hubertus 21 Șelimbăr 5 5 0 5 0 10 15 0 0 80 0 0 0 0 0
+1946 SB AVPS Jderul N.R. 2 Noul Român 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+1947 SB AVPS Pădurea Neagră 19 Ocna Sibiului 10 0 0 0 0 50 0 30 0 40 0 0 0 100 0
+1948 SB AVPS Aldea 46 Căprăreț 0 10 4 5 0 0 0 10 0 5 0 0 0 15 0
+1949 SB
+8 Casolț 0 5 0 10 0 0 0 20 0 0 0 0 0 0 0
+1950 SB RPL OS Valea Sadului 10 Sadu 10 0 0 5 0 0 0 10 0 5 0 0 0 40 0
+1951 SB Total gestionar
+10 5 0 15 0 0 0 30 0 5 0 0 0 40 0
+1952 SB AVPS Ursul Carpatin 6 Avrig 30 0 5 25 0 0 0 50 0 25 0 0 0 20 0
+1953 SB AVPS Dealul Cerbului 9 Lotrioara 10 0 0 5 0 0 0 10 0 5 0 0 0 40 0
+1954 SB AV Cormoranii Bucur. 13 Gura Râului 20 0 0 20 0 0 0 20 0 20 0 0 0 50 0
+1955 SB A.V.P.S. Săroaia 14 Săliste 20 0 0 20 0 0 0 20 0 100 0 0 0 50 0
+1956 SB A.V. Valea Mărului 16 Apold 20 0 10 20 0 50 0 100 0 20 0 0 0 50 0
+1957 SB A.V. Vulturul Pleșuv 24 Tichindeal 100 0 0 50 0 50 0 50 0 50 50 0 0 50 0
+1958 SB A.V.P. Silva Marpod 39 Marpod 10 0 5 5 0 0 0 5 0 0 0 0 0 20 0
+1959
+Total județ
+845 20 308 505 0 811 615 830 0 1170 480 0 0 865 0
+1960 SV
+1 Pinu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1961 SV
+2 Cristișoru 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1962 SV
+3 Păltiniș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1963 SV
+5 Chirii 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1964 SV
+6 Barnar 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1965 SV
+8 Serișoare 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+1966 SV
+12 Coșna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1967 SV
+14 Orata 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1968 SV
+15 V. Bistriței 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1969 SV
+16 V. Cârlibabei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1970 SV
+17 Botuș 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1971 SV
+20 V. Putnei 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+1972 SV
+22 Botoșana 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1973 SV
+23 Negrilesa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1974 SV D. S. Suceava 27 Moldovița 0 0 0 0 20 0 0 0 0 0 0 0 0 0 0
+1975 SV
+29 Brodina de S. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1976 SV
+30 Nisipitu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1977 SV
+32 Putna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1978 SV
+33 Codrii Voievod 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1979 SV
+34 Horodnic 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1980 SV
+45 Mst. Umor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1981 SV
+47 Voroneț 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1982 SV
+52 Zamostea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1983 SV
+53 Adâncata 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0
+1984 SV
+54 Pătrăuți 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1985 SV
+62 Dolhasca 0 0 0 10 0 0 0 10 0 0 0 0 0 2 0
+1986 SV
+70 Suha Mare 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1987 SV
+50 Todirești 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1988 SV Total D. S. Suceava
+50 0 0 15 23 0 0 10 0 0 0 0 0 2 0
+1989 SV
+4 Bucinis 4 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+1990 SV
+7 Bistrita 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1991 SV
+9 Negrisoara 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1992 SV
+13 Scorusu 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1993 SV
+18 Magura 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1994 SV
+19 Muncel 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1995 SV
+21 Rarau 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1996 SV
+26 Paltinul 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1997 SV
+31 Straja 31 0 0 10 0 0 0 0 0 0 0 0 0 0 0
+1998 SV
+35 Vicov 35 0 0 10 10 0 0 10 0 5 0 0 0 0 0
+1999 SV
+36 Fratautii Noi 20 0 0 10 10 0 0 20 0 5 0 0 0 1 0
+2000 SV
+37 Fratautii Vechi 20 0 0 10 10 0 0 20 0 5 0 0 0 1 0
+2001 SV
+38 Satu-Mare 5 0 0 10 5 0 0 5 0 5 0 0 0 1 0
+2002 SV
+39 Volovat 10 0 0 10 10 0 0 10 0 5 0 0 0 1 0
+2003 SV
+40 Sucevita 40 0 0 10 10 0 0 5 0 5 0 0 0 1 0
+2004 SV A.J.V.P.S. Suceava 42 Arbore 42 0 0 10 5 0 0 5 0 0 0 0 0 1 0
+2005 SV
+48 Stroiesti 20 0 0 10 20 0 0 20 0 5 0 0 0 0 0
+2006 SV
+49 Mihoveni 30 0 0 10 30 0 0 20 0 0 0 0 0 0 0
+2007 SV
+51 Serbauti 15 0 0 10 15 0 0 20 0 0 0 0 0 1 0
+2008 SV
+56 Salcea 10 0 0 10 10 0 0 5 0 5 0 0 0 0 0
+2009 SV
+57 Suceava 20 0 0 5 20 0 0 10 0 5 0 0 0 0 0
+2010 SV
+58 Udesti 20 0 0 10 20 0 0 10 0 0 0 0 0 0 0
+2011 SV
+59 Fantanele 15 0 0 10 15 0 0 10 0 5 0 0 0 0 0
+2012 SV
+60 Liteni 20 0 0 20 20 0 0 20 0 10 0 0 0 4 0
+2013 SV
+61 Valea Poienii 20 0 0 10 30 0 0 20 0 10 0 0 0 4 0
+2014 SV
+63 Fălticeni 30 0 0 20 30 0 0 40 0 40 0 0 0 4 0
+2015 SV
+64 Husi 10 0 0 5 10 0 0 5 0 5 0 0 0 4 0
+2016 SV
+65 Ciumulesti 30 0 0 20 25 0 0 40 0 40 0 0 0 4 0
+2017 SV
+67 Rotopanesti 70 0 0 50 50 0 0 30 0 100 0 0 0 4 0
+2018 SV
+68 Bogdanesti 10 0 0 5 5 0 0 5 0 5 0 0 0 1 0
+2019 SV
+71 Suha Mica 5 0 0 0 0 0 0 0 0 2 0 0 0 1 0
+2020 SV Total A.J.V.P.S. Suceava 645 0 0 275 360 0 0 330 0 262 0 0 0 34 0
+2021 SV S.V. Bucovina 41 Solea 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2022 SV S.V. Bucovina 66 Baia 10 0 0 10 0 0 0 0 0 0 0 0 0 0 0
+2023 SV Total S.V. Bucovina 25 0 0 10 0 0 0 0 0 0 0 0 0 0 0
+2024 SV U.S.V. Suceava 55 Mitoc 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2025 SV U.S.V. Suceava 69 Râsca 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2026 SV Total U.S.V. Suceava
+10 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2027 SV U.S.A,.M.V. Ia si 24 Frasin 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+2028 SV Total U.S.A.M.V Iasi 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+2029 SV A.V.P. Ghenu 43 Comănești 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2030 SV A.V.P. Ghenu 44 Cacica 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2031 SV Total A.V.P. Ghenu
+10 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2032 SV A.V.P. Hirschland 46 Berchisesti 5 0 0 5 0 0 0 0 0 0 0 0 0 0 0
+2033 SV Total A.V.P.S. Hirschland 5 0 0 5 0 0 0 0 0 0 0 0 0 0 0
+2034 SV O.S.E. Tomnatec 28 Demacusa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2035 SV Total O.S.E. Tomnatic 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2036 SV Col.Silv. Bucovina 25 Dragosa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2037 SV Total Col. Silv. Buconina 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2038 SV O.S. Josenii Bargaului 10 Dornișoara 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+2039 SV Total O.S. Jos. Bargaului 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+2040 SV O.S. Feldru 11 Tesna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2041 SV Total O.S. Feldru 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total Județ 515 0 0 305 387 0 0 340 0 262 0 0 0 36 0
+2043 TR
+1 Flamanda 20 0 30 200 0 100 350 200 0 0 0 150 200 20 200
+2044 TR
+2 Lisa 0 0 10 100 0 200 600 200 0 0 0 50 50 20 150
+2045 TR
+3 Traianu 20 0 30 100 0 100 550 200 0 0 0 50 0 20 100
+2046 TR
+6 Băneasa 20 0 30 300 0 200 600 150 0 0 0 200 200 20 50
+2047 TR
+8 Mândra 0 0 25 150 0 200 600 200 0 0 0 0 0 20 0
+2048 TR
+12 Crângeni 10 0 10 100 0 100 400 150 0 0 0 200 200 20 20
+2049 TR
+13 Călmațuiu 10 0 10 100 0 200 400 150 0 0 0 200 200 20 20
+2050 TR
+14 Roșiori 10 0 10 150 0 200 500 150 0 0 0 100 100 20 20
+2051 TR
+16 Dulceanca 10 0 10 150 0 150 400 150 0 0 0 200 200 20 30
+2052 TR
+18 Scrioaștea 0 0 10 100 0 150 400 150 0 0 0 200 100 20 20
+2053 TR AJVPS Teleorman 22 Drăcșani 10 0 10 150 0 200 400 150 0 0 0 200 200 20 30
+2054 TR
+44 Plosca 20 0 15 200 0 200 600 200 0 0 0 200 200 20 100
+2055 TR
+45 Ulmeni 20 0 15 200 0 100 600 150 0 0 0 200 200 20 100
+2056 TR
+46 Furculești 0 0 10 200 0 150 600 150 0 0 0 50 50 20 200
+2057 TR
+47 Alexandria 20 0 15 200 0 200 600 150 0 0 0 50 50 20 200
+2058 TR
+48 Poro schia 30 0 30 400 0 100 500 150 0 0 0 200 200 20 100
+2059 TR
+52 Viișoara 0 0 10 100 0 100 600 200 0 0 0 50 50 20 150
+2060 TR
+53 Smârdioasa 0 0 10 300 0 150 600 200 0 0 0 50 50 20 200
+2061 TR
+56 Zimnicea 20 0 10 300 0 150 600 300 0 0 0 200 200 20 150
+2062 TR
+57 Burnas 0 0 10 250 0 150 600 200 0 0 0 50 0 20 100
+2063 TR
+58 Bujoru 15 0 10 250 0 150 600 200 0 0 0 200 200 20 200
+2064 TR
+62 Izlaz 20 0 10 100 0 150 600 300 0 0 0 150 150 20 200
+2065 TR Total AJVPS Teleorman 255 0 330 4100 0 3400 11700 4050 0 0 0 2950 2800 440 2340
+2066 TR
+41 Băbăița 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0
+2067 TR DS Teleorman 42 Comoara 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0
+2068 TR
+43 Drăgănești 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0
+2069 TR
+49 Toporu 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0
+2070 TR Total DS Teleorman 0 0 0 0 0 100 0 0 0 0 0 0 0 0 0
+2071 TR
+24 Zâmbreasca 0 0 0 50 0 50 0 0 0 0 0 0 0 0 0
+2072 TR
+40 Lăceni 0 0 0 100 0 50 0 0 0 0 0 0 0 0 0
+2073 TR AVPS Sitarul 50 Pielea 0 0 0 25 0 50 0 0 0 0 0 0 0 0 0
+2074 TR
+51 Mârzănești 0 0 0 25 0 50 0 0 0 0 0 0 0 0 0
+2075 TR
+54 Cervenia 0 0 0 50 0 50 700 0 0 0 0 0 0 0 0
+2076 TR Total AVPS Sitarul 0 0 0 250 0 250 700 0 0 0 0 0 0 0 0
+2077 TR
+28 Gusia 5 0 0 40 0 40 100 0 0 0 0 0 0 0 0
+2078 TR
+29 Cornet 5 0 0 40 0 40 100 0 0 0 0 0 0 0 0
+2079 TR AVPS Unirea 30 Căldararu 5 0 0 50 0 40 100 0 0 0 0 0 0 0 0
+2080 TR
+33 Cartojani 10 0 0 40 0 50 100 0 0 0 0 0 0 0 0
+2081 TR
+35 Blejești 5 0 0 120 0 50 100 0 0 0 0 0 0 0 0
+2082 TR Total AVPS Unirea 30 0 0 290 0 220 500 0 0 0 0 0 0 0 0
+2083 TR
+17 Orbeasca 0 0 0 200 0 150 400 100 0 0 0 0 0 0 0
+2084 TR
+20 Pietriș 0 0 0 100 0 150 300 100 0 0 0 0 0 0 20
+2085 TR AVPS Lunca 26 Hârleasca 20 0 0 100 0 100 300 100 0 0 0 0 0 0 0
+2086 TR
+27 Trivale 20 0 0 100 0 100 300 100 0 0 0 0 0 0 0
+2087 TR
+31 Obaia 0 0 0 100 0 150 300 100 0 0 0 0 0 0 0
+2088 TR
+32 Draghinești 0 0 0 200 0 100 300 100 0 0 0 0 0 0 0
+2089 TR
+39 Mavrodin 0 0 0 80 0 60 400 100 0 0 0 0 0 0 0
+2090 TR Total AVPS Lunca 40 0 0 880 0 810 2300 700 0 0 0 0 0 0 20
+2091 TR
+34 Zevestreni 20 0 25 200 0 100 500 50 0 0 0
+25 0
+2092 TR AVPS Diana 36 Calnistea 0 0 0 200 0 150 500 50 0 0 0
+0 0
+2093 TR
+37 Tarnava 25 0 25 250 0 150 500 50 0 0 0
+25 0
+2094 TR Total AVPS Diana 45 0 50 650 0 400 1500 150 0 0 0 0 50 0 0
+2095 TR
+19 Sfințești 30 0 40 100 0 100
+100 0 0 0 0 0 0 0
+2096 TR AVPS Interagro 60 Suhaia 30 0 10 100 0 200
+100 0 0 0 0 0 0 100
+2097 TR
+61 Fățana 40 0 0 100 0 300
+300 0 0 0 0 0 0 50
+2098 TR Total AVPS Interagro 100 0 50 300 0 600 0 500 0 0 0 0 0 0 150
+2099 TR AVPS Vulturul 23 Dobrotești 0 0 0 100 0 100 200 0 0 0 0 0 0 0 0
+2100 TR AVPS Cocorul 15 Peretu 50 0 50 200 0 1000 500 0 0 0 0 50 0 50 10
+2101 TR AVPS Dacrom 38 Licurici 30 0 20 30 0 50 50 30 0 40 0 40 0 0 0
+2102 TR AVPS Bradul 59 Pietroșani 0 0 0 30 0 200 300 0 0 0 0 0 0 0 0
+2103 TR AVPS Cerbul 25 Ciolanești 20 0 20 40 0 60 0 50 0 0 0 0 0 0 0
+2104 TR AVPS Șoimul 55 Izvoarele 0 0 0 80 0 80 80 80 0 0 0 0 0 0 0
+2105 TR AVPS Vedea 21 Cucuieți 20 0 20 50 0 100 0 10 0 0 0 0 0 0 50
+2106 TR
+4 Trnu Măgurele 50 0 30 50 0 100 500 50 0 0 0 100 100 0 30
+2107 TR
+5 Dracea 20 0 20 100 0 100 400 50 0 0 0 50 50 0 20
+2108 TR AVPS Turris 7 Salcia 20 0 20 50 0 100 500 50 0 0 0 50 50 0 0
+2109 TR
+9 Intre Olturi 30 0 30 50 0 50 500 60 0 0 0 100 100 0 30
+2110 TR
+10 Dorobantu 20 0 20 50 0 50 500 70 0 0 0 100 100 0 0
+2111 TR
+11 Beciu 10 0 10 10 0 20 0 20 0 0 0 0 20 0 0
+2112 TR Total AVPS Turris 150 0 130 310 0 420 2400 300 0 0 0 400 420 0 80
+2113
+Total Județ Teleorman 740 0 670 7310 0 7790 20230 5870 0 40 0 3440 3270 490 2650
+2114 TM
+14 Pișchia 0 0 0 0 0 150 100 0 0 0 0 0 0 0 5
+2115 TM
+15 Alios 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+2116 TM
+16 Sarlota 0 0 0 0 0 100 0 0 0 0 0 0 0 0 0
+2117 TM
+17 Nadas 0 0 0 0 0 50 0 0 0 0 0 600 0 0 2
+2118 TM
+24 Margina 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2119 TM DS Timișoara 29 Surduc 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2120 TM
+31 Drinova 0 0 0 0 0 0 0 20 0 0 0 100 0 0 0
+2121 TM
+32 Tapia 0 0 0 0 0 0 0 20 0 0 0 300 0 0 0
+2122 TM
+33 Valea Lunga 10 0 0 10 0 0 0 30 0 0 0 300 0 0 0
+2123 TM
+41 Cralovat 0 0 0 0 0 0 0 0 0 0 0 300 0 0 0
+2124 TM
+50 Banloc 0 0 150 50 0 100 100 0 0 0 0 0 0 0 0
+2125 TM
+54 Padureni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2126 TM
+56 Cheveres 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2127 TM
+57 Bazos 0 0 0 0 0 100 100 0 0 0 0 0 0 0 0
+2128 TM
+59 Giarmata 0 0 0 50 0 300 100 0 0 0 0 300 0 0 3
+2129 TM
+64 Macedonia 0 0 0 50 0 150 100 0 0 0 0 0 0 0 0
+2130 TM
+65 Giera 0 0 150 50 0 150 100 0 0 0 0 0 0 0 0
+2131 TM
+66 Tolvadia 0 0 150 50 0 150 100 0 0 0 0 0 0 0 0
+2132 TM
+74 Cocor 0 0 0 0 0 300 100 0 0 0 0 0 0 0 0
+2133 TM Total DS Timișoara
+10 0 450 310 0 1550 800 70 0 0 0 1900 0 0 10
+2134 TM
+1 Beba 0 0 100 50 0 100 100 0 0 0 0 50 0 0 0
+2135 TM
+3 Cenad 0 0 100 50 0 100 100 0 0 0 0 50 0 0 0
+2136 TM
+4 Sînicolau 0 0 100 50 0 100 100 0 0 0 0 50 0 0 0
+2137 TM
+5 Igriș 0 0 50 50 0 50 100 0 0 0 0 50 0 0 0
+2138 TM
+6 Periam 0 0 50 50 0 50 0 0 0 0 0 0 0 0 0
+2139 TM
+7 Saravale 0 0 200 200 0 50 0 0 0 0 0 0 0 0 0
+2140 TM
+8 Biled 0 0 20 50 0 30 0 0 0 0 0 0 0 0 0
+2141 TM
+9 Sandra 0 0 50 100 0 50 0 0 0 0 0 0 0 0 0
+2142 TM
+10 Bărăteaz 0 0 10 100 0 100 0 0 0 0 0 0 0 0 0
+2143 TM
+11 Car ani 0 0 30 150 0 50 0 0 0 0 0 0 0 0 0
+2144 TM
+18 Beștovăț 0 0 0 50 0 50 0 100 0 0 0 100 0 0 0
+2145 TM
+19 Paniova 0 0 0 0 0 0 0 0 0 0 0 100 0 0 0
+2146 TM
+20 Bara 10 0 20 40 0 10 0 10 0 0 0 50 0 0 0
+2147 TM
+22 Bethausen 50 0 25 50 0 50 0 50 0 0 0 50 0 0 0
+2148 TM
+23 Făget 80 0 25 50 0 20 0 50 0 0 0 50 0 0 0
+2149 TM
+25 Curtea 100 0 30 80 0 20 0 50 0 0 0 0 0 0 0
+2150 TM
+26 Poeni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2151 TM
+27 Luncani 0 0 0 0 0 0 0 0 0 0 0 10 0 0 0
+2152 TM
+28 Nădrag 0 0 0 0 0 0 0 0 0 0 0 50 0 0 0
+2153 TM
+30 Traian Vuia 100 0 30 80 0 30 0 50 0 0 0
+0 0 0
+2154 TM
+34 Nevrincea 10 0 15 35 0 20 0 10 0 0 0 10 0 0 0
+2155 TM
+35 Găvojdia 5 0 15 25 0 25 0 10 0 0 0 10 0 0 0
+2156 TM
+36 Oloțag 25 0 40 40 0 25 0 10 0 0 0
+0 0 0
+2157 TM
+37 Vișag 0 0 10 10 0 10 0 5 0 0 0 10 0 0 0
+2158 TM
+38 Sacoșul M. 0 0 0 75 0 15 0 10 0 0 0 10 0 0 0
+2159 TM
+39 Boldur 15 0 75 75 0 50 0 10 0 0 0 10 0 0 0
+2160 TM
+40 Belin - Chi. 20 0 50 50 0 40 0 10 0 0 0 10 0 0 0
+2161 TM
+42 Buziaș 15 0 20 20 0 20 0 10 0 0 0 0 0 0 0
+2162 TM
+43 Blaj ova 0 0 0 50 0 50 50 0 0 0 0 0 0 0 0
+2163 TM
+44 Sipet 0 0 0 50 0 100 200 0 0 0 0 50 0 0 0
+2164 TM
+45 Birda 10 0 50 300 0 200 100 0 0 0 0 20 0 0 0
+2165 TM
+47 Clopodia 20 0 20 30 0 50 50 0 0 0 0 0 0 0 0
+2166 TM
+48 Gherman 0 0
+50 0 50
+0 0 0 0 0 0 0 0
+2167 TM
+49 Gaiu Mic 0 0 70 100 0 150 50 0 0 0 0 50 0 0 0
+2168 TM
+51 Opatița 0 0 100 100 0 150 100 0 0 0 0 0 0 0 0
+2169 TM
+52 Jebel 0 0 50 50 0 50 50 0 0 0 0 0 0 0 0
+2170 TM
+53 Stamora R. 0 0 20 50 0 50 200 0 0 0 0 0 0 0 0
+2171 TM
+55 Sacoșul T. 0 0 10 100 0 100 50 0 0 0 0 50 0 0 0
+2172 TM AJVPS Timiș 61 Moșnița 0 0
+100 0 150 50 100 0 0 0 50 0 0 0
+2173 TM
+62 Sag - T. 10 0 30 150 0 100 50 0 0 0 0 50 0 0 0
+2174 TM
+63 Petroman 0 0 50 100 0 150 100 0 0 0 0 100 0 0 0
+2175 TM
+67 Rudna 10 0 100 100 0 400 50 0 0 0 0 0 0 0 0
+2176 TM
+70 Sînmărtin 0 0 20 100 0 250 100 0 0 0 0 0 0 0 0
+2177 TM
+71 Dinias 0 0 20 50 0 250 50 0 0 0 0 0 0 0 0
+2178 TM
+72 Beregsău 0 0 0 100 0 70 0 0 0 0 0 0 0 0 0
+2179 TM
+73 Săcălaz 0 0 50 200 0 150 0 0 0 0 0 0 0 0 0
+2180 TM
+75 Becicherec 0 0 150 100 0 100 0 0 0 0 0 0 0 0 0
+2181 TM
+76 Iecea 0 0 0 30 0 50 0 0 0 0 0 0 0 0 0
+2182 TM
+77 Bobda 0 0 0 50 0 200 0 0 0 0 0 0 0 0 0
+2183 TM
+78 Uivar 0 0 20 100 0 100 0 0 0 0 0 0 0 0 0
+2184 TM
+80 Lenauheium 0 0 0 50 0 50 0 0 0 0 0 0 0 0 0
+2185 TM
+81 Bulgarus 0 0 0 50 0 50 0 0 0 0 0 0 0 0 0
+2186 TM
+82 Jimbolia 0 0 0 50 0 50 0 0 0 0 0 0 0 0 0
+2187 TM
+83 Comloșul M. 0 0 50 100 0 100 50 0 0 0 0 0 0 0 0
+2188 TM
+84 Vizejdia 0 0 100 150 0 50 0 0 0 0 0 0 0 0 0
+2189 TM
+85 Tomnatec 0 0 100 50 0 100 100 0 0 0 0 50 0 0 0
+2190 TM
+86 Teremia 0 0 100 50 0 100 100 0 0 0 0 50 0 0 0
+2191 TM Total AJVPS Timiș
+480 0 2175 4090 0 4485 1900 485 0 0 0 1140 0 0 0
+2192 TM
+68 Ionel 0 0 50 50 0 100 0 0 0 0 0 0 0 0 0
+2193 TM AVPS Arthemis Otelec 69 Ivanda 0 0 50 50 0 200 100 0 0 0 0 0 0 0 0
+2194 TM
+79 Pustiniș 0 0 50 100 0 450 0 0 0 0 0 0 0 0 0
+2195 TM Total Arthemis Otelec
+0 0 150 200 0 750 100 0 0 0 0 0 0 0 0
+2196 TM AV Club Romsilva 13 Vinga 0 0 0 30 0 100 100 0 0 0 0 0 0 0 0
+2197 TM AVPS Căpriorul Timiș 12 Ortișoara 0 0 0 150 0 150 0 0 0 0 0 0 0 0 0
+2198 TM Liceul Silvic Timișoara 60 Timișoara 0 0 0 50 0 150 0 0 0 0 0 0 0 0 0
+2199 TM AVSP Sf. Eustațiu 58 Recaș 0 0 0 50 0 200 0 0 0 0 0 800 0 0 0
+2200 TM AVPS Silva Deta 46 Butin 0 0 0 50 0 50 0 0 0 0 0 0 0 0 0
+2201 TM A. V. Valea lui Liman 21 Ohaba 10 0 25 25 0 10 0 25 0 0 0 25 0 0 0
+2202 TM A.V. Luvcijskotu Drus 2 Cheglevici 0 0 100 100 0 100 100 0 0 0 0 50 0 0 0
+2203
+Total județ Timiș
+500 0 2900 5055 0 7545 3000 580 0 0 0 3915 0 0 10
+2204 TL
+1 Tulcea 100 0 50 50 0 1000 100 100 0 0 0 150 150 0 0
+2205 TL
+3 Beștepe 150 0 50 150 0 1000 1500 150 0 0 0 50 50 0 0
+2206 TL
+4 Congaz 100 0 100 100 0 1500 2000 100 0 0 0 200 200 0 0
+2207 TL
+9 Carada 200 0 200 150 0 1500 2000 100 0 0 0 100 100 0 0
+2208 TL
+11 Panduru 100 0 100 200 0 2000 2000 500 0 0 0 100 100 0 0
+2209 TL
+24 Hamcearca 100 0 50 100 0 1000 1000 150 0 0 0 100 100 0 0
+2210 TL
+28 Poșta 100 0 100 200 0 2000 2000 30 0 0 0 100 100 0 0
+2211 TL
+29 Niculițel 100 0 100 100 0 100 500 300 0 0 0 300 500 0 0
+2212 TL
+30 Isaccea 150 0 200 200 0 500 500 300 0 0 0 100 100 0 0
+2213 TL
+31 Crapina 300 0 200 500 0 2000 2000 300 0 0 0 50 50 0 0
+2214 TL
+32 Smârdan 500 0 200 500 0 2000 2000 300 0 0 0 200 200 0 0
+2215 TL AJVPS Tulcea 35 Carcaliu 100 0 100 50 0 1000 1000 100 0 0 0 50 50 0 0
+2216 TL
+38 Somova 50 0 50 50 0 0 0 0 0 0 0 0 0 0 0
+2217 TL
+39 Sireasa 200 0 50 1000 0 0 0 50 0 0 0 0 0 0 0
+2218 TL
+41 Stipoc 300 0 100 1000 0 500 0 0 0 0 0 0 0 0 0
+2219 TL
+42 Tatanir 300 0 100 1000 0 700 0 100 0 0 0 0 100 0 0
+2220 TL
+44 Popina 200 0 0 50 0 0 0 100 0 0 0 0 100 0 0
+2221 TL
+45 Sulina 0 0 0 50 0 0 0 50 0 0 0 0 0 0 0
+2222 TL
+46 Ivancea 0 0 0 0 0 0 0 50 0 0 0 0 0 0 0
+2223 TL
+47 Ceamurlia 200 0 300 150 0 1500 1000 100 0 0 0 0 50 0 0
+2224 TL
+48 Heracleea 100 0 100 50 0 1000 1000 100 0 0 0 0 0 0 0
+2225 TL
+49 Dunavăț 300 0 100 100 0 2000 2000 100 0 0 0 0 0 0 0
+2226 TL
+51 Bălteni 300 0 50 50 0 0 0 50 0 0 0 0 0 0 0
+2227 TL
+52 Rusca 500 0 50 100 0 500 0 50 0 0 0 0 0 0 0
+2228 TL Total gestionar
+4450 0 2350 5900 0 21800 20600 3180 0 0 0 1500 1950 0 0
+2229 TL
+7 Enisala 50 0 50 30 0 100 150 50 0 0 0 50 50 0 0
+2230 TL
+8 Codru 50 0 50 30 0 100 150 50 0 0 0 50 50 0 0
+2231 TL
+13 Fântâna Mare 0 0 0 0 0 50 100 0 0 0 0 0 0 0 0
+2232 TL
+17 Ciucurova 30 0 30 20 0 50 0 50 0 0 0 0 0 0 0
+2233 TL
+18 Izvoru 30 0 30 50 0 50 150 50 0 0 0 0 0 0 0
+2234 TL DS Tulcea 20 Atmagea 30 0 30 50 0 50 150 50 0 0 0 0 0 0 0
+2235 TL
+21 Cârjelari 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2236 TL
+23 Cerna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2237 TL
+25 Țiganca 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2238 TL
+26 Alba Celic 0 0 0 20 0 0 0 50 0 0 0 0 0 0 0
+2239 TL
+33 Jijila 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2240 TL
+34 Greci 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2241 TL Total gestionar
+190 0 190 200 0 400 700 300 0 0 0 100 100 0 0
+2242 TL
+2 Malcoci 50 0 0 100 0 200 500 50 0 0 0 0 50 0 0
+2243 TL AVPS Diana Buc. 53 Ligheanca 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2244 TL
+54 Crișan 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2245 TL Total gestionar
+150 0 0 100 0 200 500 50 0 0 0 0 50 0 0
+2246 TL
+14 Cișmeaua Nouă 250 0 100 50 0 600 1000 200 0 0 0 500 500 0 0
+2247 TL AVPS Dacia Braila 36 Traianu 250 0 100 100 0 1000 1000 200 0 0 0 500 500 0 0
+2248 TL
+37 Ostrov 250 0 100 100 0 600 1000 200 0 0 0 500 500 0 0
+2249 TL Total gestionar
+750 0 300 250 0 2200 3000 600 0 0 0 1500 1500 0 0
+2250 TL AVPS Egreta Buc. 12 Casimcea 50 0 50 50 0 800 2000 100 0 0 0 500 0 0 0
+2251 TL
+16 Făgărașu Nou 100 0 30 50 0 400 2000 100 0 0 0 1000 0 0 0
+2252 TL Total gestionar
+150 0 80 100 0 1200 4000 200 0 0 0 1500 0 0 0
+2253 TL As. Trei Stejari Buc. 5 Babadag 300 0 200 20 0 500 1000 300 0 0 0 100 200 0 50
+2254 TL AVPS Jderul Buc. 6 Sălcioara 50 0 50 50 0 100 100 0 0 0 0 0 50 0 0
+2255 TL AVPS Cringul 10 Camena 100 0 150 200 0 500 1000 100 0 0 0 150 100 0 0
+2256 TL AVPS Diana Callatis 15 Corugea 100 0 100 100 0 350 100 150 100 0 0 0 100 0 0
+2257 TL AVPS Bendis Buc. 19 N. Bălcescu 0 0 50 100 0 300 500 0 100 0 0 50 0 0 0
+2258 TL AVPS Mistrețul Buc. 22 Mircea Vodă 0 0 0 100 0 300 1000 0 0 0 0 0 0 0 0
+2259 TL AVPS Câmpulung M. 27 Nalbant 100 0 50 100 0 300 300 100 0 0 0 0 0 0 0
+2260 TL AVPS Delta Club Buc. 40 Păpădia 300 0 0 0 0 0 0 30 0 0 0 0 0 0 0
+2261 TL AVPS Corado 43 Mila 23 50 0 0 0 0 50 50 100 0 0 0 0 0 0 100
+2262 TL AVS Abies Buc. 50 Uzlina 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2263
+Total județ
+6790 0 3520 7220 0 28200 32850 5110 200 0 0 4900 4050 0 150|
+2264 VS
+1 Căzănești 10 0 30 40 0 50 0 100 0 0 0 0 0 0 0
+2265 VS
+2 Negrești 10 0 20 30 0 30 0 50 0 0 0 0 0 0 0
+2266 VS
+4 Gârceni 10 0 20 30 0 20 0 50 0 0 0 0 0 0 0
+2267 VS
+5 Fâstâci 0 0 20 30 0 20 0 40 0 0 0 0 0 0 0
+2268 VS
+7 Telejna 10 0 30 40 0 30 0 100 0 0 0 0 0 0 0
+2269 VS
+8 Zăpodeni 10 0 30 40 0 40 0 100 0 0 0 0 0 0 0
+2270 VS
+10 Dănești 10 0 30 40 0 50 0 100 0 0 0 0 0 0 0
+2271 VS
+13 Solești 10 0 30 40 0 50 0 100 0 0 0 0 0 0 0
+2272 VS
+14 Merieni 10 0 30 50 0 100 0 100 0 0 0 0 0 0 0
+2273 VS
+16 Costești 10 0 40 50 0 200 0 100 0 0 0 0 0 0 0
+2274 VS
+19 Cursești 10 0 20 20 0 10 0 100 0 0 0 0 0 0 0
+2275 VS
+20 Dragomirești 10 0 20 20 0 50 0 50 0 0 0 0 0 0 0
+2276 VS
+21 Gugești 0 0 25 50 0 100 0 100 0 0 0 0 0 0 0
+2277 VS
+23 Duda-Răsești 10 0 30 100 0 150 0 100 0 0 0 0 0 0 0
+2278 VS
+24 Pogănești 10 0 30 100 0 200 0 150 0 0 0 0 0 0 0
+2279 VS
+25 Voloșeni 10 0 30 100 0 150 0 150 0 0 0 0 0 0 0
+2280 VS
+26 Pojorăni 15 0 30 100 0 150 0 200 0 0 0 0 0 0 0
+2281 VS AJVPS Vaslui 27 Hurdugi 0 0 30 50 0 150 0 100 0 0 0 0 0 0 0
+2282 VS
+28 Vutcani 0 0 0 100 0 150 0 100 0 0 0 0 0 0 0
+2283 VS
+33 Șuletea 0 0 20 50 0 100 0 100 0 0 0 0 0 0 0
+2284 VS
+34 Găgești 0 0 30 100 0 100 0 100 0 0 0 0 0 0 0
+2285 VS
+35 Fălciu 0 0 0 0 0 50 0 50 0 0 0 0 0 0 0
+2286 VS
+36 Murgeni 0 0 10 10 0 50 0 40 0 0 0 0 0 0 0
+2287 VS
+37 Cârja 30 0 30 20 0 50 0 50 0 0 0 0 0 0 0
+2288 VS
+38 Schineni 0 0 20 50 0 30 0 50 0 0 0 0 0 0 0
+2289 VS
+40 Popeni 10 0 10 40 0 20 0 50 0 0 0 0 0 0 0
+2290 VS
+41 Vinderei 10 0 10 40 0 50 0 30 0 0 0 0 0 0 0
+2291 VS
+42 Bârlad 20 0 20 20 0 100 0 150 0 0 0 0 0 0 0
+2292 VS
+43 Bădeana 20 0 20 50 0 100 0 200 0 0 0 0 0 0 0
+2293 VS
+45 Puiești 0 0 0 80 0 30 0 50 0 0 0 0 0 0 0
+2294 VS
+46 Voinești 0 0 20 30 0 30 0 30 0 0 0 0 0 0 0
+2295 VS
+47 Siliștea 15 0 20 50 0 100 0 50 0 0 0 0 0 0 0
+2296 VS
+48 Bogdănița 10 0 20 50 0 50 0 50 0 0 0 0 0 0 0
+2297 VS
+49 Băcani 10 0 10 50 0 100 0 50 0 0 0 0 0 0 0
+2298 VS
+12 Perieni 10 0 10 50 0 100 0 50 0 0 0 0 0 0 0
+2299 VS Total gestionar
+290 0 745 1720 0 2760 0 2990 0 0 0 0 0 0 0
+2300 VS
+6 Bălteni 5 0 0 5 0 10 10 10 0 0 0 10 10 10 0
+2301 VS
+9 Chițoc 5 0 5 5 0 0 0 0 0 0 0 0 0 0 0
+2302 VS
+15 Roșiești 5 0 5 5 0 100 10 10 0 0 0 10 0 10 2
+2303 VS
+17 Căpușneni 5 0 0 5 0 10 10 0 0 0 0 10 0 0 2
+2304 VS
+18 Florești 5 0 5 5 0 10 10 10 0 0 0 10 10 0 2
+2305 VS DS Vaslui 22 Valea Teiului 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 VS
+29 Bărboși 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+2307 VS
+30 Șișcani 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0
+2308 VS
+31 Dobrina 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2309 VS
+32 Banca 5 0 5 5 0 10 10 10 0 0 0 10 0 0 2
+2310 VS
+39 Epureni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2311 VS Total gestionar
+30 0 20 30 0 160 50 40 0 0 0 50 20 20 8
+2312 VS OS Bisericesc Iași 3 Dumești 10 0 20 30 0 30 0 50 0 0 0 0 0 0 0
+2313 VS AVPS Iași 11 Boroșești 20 0 50 50 0 50 0 50 0 30 0 30 0 0 30
+2314 VS AVPS Șoimul Dun. 44 Mireni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2315
+Total județ
+350 0 835 1830 0 3000 50 3130 0 30 0 80 20 20 38
+2316 VL
+1 OB LOTRULUI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2317 VL
+2 DOBRUNU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2318 VL
+4 MANAILEASA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2319 VL
+5 LATORITA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2320 VL
+10 BOIA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2321 VL DS Valcea 13 COZIA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2322 VL
+19 OLANE STI 0 0 0 0 0 0 0 30 0 0 0 0 0 0 0
+2323 VL
+20 BISTRITA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2324 VL
+26 COLTESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2325 VL
+32 N BALCESCU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2326 VL
+38 DOBRUSA 0 0 0 0 0 10 0 25 0 25 0 0 0 0 0
+2327 VL
+46 FĂUREȘTI 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+2328 VL
+47 RACOASA 0 0 0 0 0 10 0 25 0 25 0 0 0 0 0
+2329 VL Total gestionar
+0 0 0 0 0 20 0 90 0 50 0 0 0 0 0
+2330 VL
+9 CAINENI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2331 VL
+11 BOISOARA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2332 VL
+14 BABUIESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2333 VL
+16 GORANU 10 0 0 10 0 0 0 20 0 20 0 0 0 0 0
+2334 VL
+17 ARANGHEL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2335 VL
+18 CAZANESTI 0 0 0 20 0 20 0 20 0 20 0 0 0 0 0
+2336 VL
+23 ALUNU 0 0 0 0 0 0 0 10 0 10 0 0 0 0 0
+2337 VL
+24 COPACENI 0 0 0 0 0 0 0 10 0 10 0 0 0 0 0
+2338 VL
+25 STROIESTI 0 0 0 0 0 0 0 0 0 10 0 0 0 0 0
+2339 VL
+27 CERNISOARA 0 0 0 0 0 0 0 10 0 10 0 0 0 0 0
+2340 VL
+28 LUNCABAT 0 0 0 0 0 0 0 10 0 10 0 0 0 0 0
+2341 VL
+29 BABENI 0 0 0 20 0 30 0 10 0 10 0 0 0 0 0
+2342 VL AJVPS Valcea 30 GOVORA 0 0 0 0 0 0 0 20 0 15 0 0 0 0 0
+2343 VL
+31 SIRINEASA 0 0 0 20 0 30 0 20 0 20 0 0 0 0 0
+2344 VL
+33 URSI 0 0 0 30 0 20 0 20 0 60 0 30 0 0 0
+2345 VL
+34 DANICEI 0 0 0 0 0 0 0 0 0 20 0 0 0 0 0
+2346 VL
+36 PADINA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2347 VL
+37 MITROFANI 0 0 0 0 0 0 0 50 0 50 0 50 0 0 0
+2348 VL
+39 UȘUREI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2349 VL
+40 STANESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2350 VL
+41 DOZESTI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2351 VL
+42 SASCIOARA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2352 VL
+43 GIOROIU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2353 VL
+44 DRAGANU 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2354 VL
+46 BALCESTI 0 0 0 0 0 0 0 20 0 20 0 20 0 0 0
+2355 VL Total gestionar
+10 0 0 100 0 100 0 220 0 285 0 100 0 0 0
+2356 VL AVPS Artemis Rm. VI 12 Poiana 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2357 VL
+15 Calimanesti 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2358 VL
+35 Scundu 40 0 20 20 0 100 0 100 0 100 0 0 0 0 0
+2359 VL Total gestionar
+60
+20 20 0 100 0 100 0 100 0 0 0 0 0
+2360 VL FVPS Lovistea 7 BREZOI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2361 VL
+8 MAL AIA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2362 VL Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2363 VL AVPS Pajura Horezu 21 Romani 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2364 VL
+22 Cerna 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2365 VL Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2366 VL AVPS Mullonul BZ 6 Molivis 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+2367 VL Total gestionar
+0 0 0 0 5 0 0 0 0 0 0 0 0 0 0
+2368 VL AVP Dunarea 2007 3 Voinesita 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2369 VL Total gestionar
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2370
+Total județ
+70 0 20 120 5 220 0 410 0 435 0 100 0 0 0
+2371 VN AJVPS Vrancea 1 Maluri 30 0 100 100 0 80 100 40 0 0 0 0 0 0 0
+2372 VN AJVPS Vrancea 2 Stupina 30 0 80 80 0 80 80 40 0 0 0 0 0 0 0
+2373 VN AJVPS Vrancea 3 Rîmniceni 30 0 60 60 0 80 60 30 0 0 0 0 0 0 0
+2374 VN AJVPS Vrancea 4 Mihălceni 30 0 60 80 0 80 60 40 0 0 0 0 0 0 0
+2375 VN AJVPS Vrancea 5 Gologanu 30 0 100 120 0 130 200 50 0 0 0 0 50 0 0
+2376 VN AJVPS Vrancea 6 Bălanu 30 0 110 110 0 120 130 30 0 0 0 0 60 0 0
+2377 VN AJVPS Vrancea 7 Cîrligele 0 0 80 110 0 70 0 30 0 0 0 80 30 0 0
+2378 VN AJVPS Vrancea 8 Sihlea 30 0 80 80 0 80 80 40 0 0 0 0 30 0 0
+2379 VN AJVPS Vrancea 9 Calița 20 0 30 30 0 0 0 0 0 20 0 100 30 0 0
+2380 VN AJVPS Vrancea 10 Dumbrava 20 0 30 30 0 0 0 0 0 20 0 100 40 0 0
+2381 VN AJVPS Vrancea 26 Irești 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0
+2382 VN AJVPS Vrancea 28 Fitionești 0 0 0 30 0 0 0 0 0 0 0 100 0 0 0
+2383 VN AJVPS Vrancea 29 Bătinești 0 0 80 100 0 60 50 0 0 0 0 30 0 0 0
+2384 VN AJVPS Vrancea 30 Diocheți 20 0 40 50 0 80 30 30 0 0 0 130 0 0 0
+2385 VN AJVPS Vrancea 31 Anghelești 20 0 0 0 0 0 0 20 0 0 0 0 0 0 0
+2386 VN AJVPS Vrancea 32 Ruginești 40 0 80 80 0 80 60 30 0 0 0 130 40 0 0
+2387 VN AJVPS Vrancea 33 Adjudu Vechi 40 0 100 100 0 80 0 40 0 0 0 0 40 0 0
+2388 VN AJVPS Vrancea 34 Corbița 40 0 60 60 0 90 0 40 0 30 0 0 30 0 0
+2389 VN AJVPS Vrancea 35 Boghești 30 0 50 50 0 90 60 30 0 0 0 0 20 0 0
+2390 VN AJVPS Vrancea 36 Mărășești 0 0 100 100 0 100 80
+0 0 0 30 40 0 0
+2391 VN AJVPS Vrancea 39 Focșani 50 0 300 300 0 120 70 80 0 0 0 0 20 0 0
+2392 VN AJVPS Vrancea 40 Unirea 30 0 150 150 0 120 80 30 0 0 0 100 40 0 0
+2393 VN AJVPS Vrancea 41 Beciu 20 0 50 50 0 0 0 40 0 50 0 130 50 0 0
+2394 VN AJVPS Vrancea 42 Andreiașu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2395 VN AJVPS Vrancea 43 Milcovelu 0 0 0 0 0 0 0 0 0 30 0 130 0 0 0
+2396 VN Total gestionar 540 0 1740 1900 0 1540 1140 640 0 150 0 1060 520 0 0
+2397 VN DS Vrancea 12 Trestieni 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2398 VN DS Vrancea 13 Tulburea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2399 VN DS Vrancea 14 Neculele 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2400 VN DS Vrancea 15 Căldări 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2401 VN DS Vrancea 18 Pietrosu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2402 VN DS Vrancea 19 Condratu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2403 VN DS Vrancea 20 Lepșa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2404 VN DS Vrancea 21 Macradeu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2405 VN DS Vrancea 22 Dragomira 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2406 VN DS Vrancea 23 C impuri 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2407 VN DS Vrancea 27 Mărăști 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2408 VN DS Vrancea 37 Rădulești 0 0 200 200 0 200 1000 200 0 0 0 200 0 0 0
+2409 VN DS Vrancea 38 Suraia 0 0 200 200 0 200 1000 200 0 0 0 200 0 0 0
+2410 VN DS Vrancea 44 Vadu Roșea 0 0 200 200 0 200 1000 200 0 0 0 200 0 0 0
+2411 VN Total gestionar 0 0 600 600 0 600 3000 600 0 0 0 600 0 0 0
+2412 VN ICAS București 24 Vizantea 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2413 VN ICAS București 25 Măgura 0 0 5 0 0 0 0 1500 0 0 0 0 1500 0 0
+2414 VN Total gestionar 0 0 5 0 0 0 0 1500 0 0 0 0 1500 0 0
+2415 VN OS Nâruja 17 Nistorești 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2416 VN Total gestionar 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2417 VN OS Zăbala-Nereju 16 Nereju 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2418 VN Total gestionar 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2419 VN AVPS Delta Club 11 Târâtu 0 0 0 0 0 0 0 0 0 20 0 0 0 0 0
+2420 VN Total gestionar 0 0 0 0 0 0 0 0 0 20 0 0 0 0 0
+2421
+Total județ 540 0 2345 2500 0 2140 4140 2740 0 170 0 1660 2020 0 0
+TOTAL ȚARA 37035 1580 35396 102694 736 180772 408325 58188 620 9737 1217 49950 40770 3371 7203
