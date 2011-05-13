@@ -1,0 +1,11 @@
+# Anexa
+------ (Anexa nr. 3 la norme) ---------------------- Cerințele software pentru aprobarea platformelor e-learning 1. Aplicația trebuie să fie o soluție la cheie, personalizabilă din punctul de vedere al dezvoltării și accesibilă cu mijloace clasice de navigare pe internet. 2. Portalul trebuie să permită accesul unui număr de minimum 999 de utilizatori. 3. Aplicația trebuie să ofere suport pentru autentificarea pe bază de nume și parolă, să permită de asemenea schimbarea parolei de către utilizator, să permită administrarea centralizată. 4. Aplicația trebuie să ofere posibilitatea ca fiecare utilizator să aibă o pagină personală dedicată unde să își poată urmări planul personal de dezvoltare, cursurile urmate și calificativele obținute. 5. Aplicația trebuie să permită implementarea unei structuri pe grupuri de utilizatori cu drepturi specifice (de exemplu: cursanți, administratori). 6. Posibilități de stocare:
+a) aplicația trebuie să permită stocarea într-o structură organizată a documentelor ce vor fi folosite ca materiale de curs, exerciții sau chestionare, inclusiv reacția cursanților la acestea (selecții, răspunsuri);
+b) aplicația trebuie să permită stocarea altor tipuri de fișiere specifice beneficiarului (de exemplu, fișiere video/imagini).
+7. Reîmprospătarea datelor și urmărirea lor trebuie să fie efectuate folosind drepturi de acces și modalități de colaborare de lucru. 8. Comunicare - în funcție de diverse evenimente, aplicația trebuie să fie capabilă să genereze și să trimită notificări/alerte prin e-mail. Principalele evenimente pentru care se vor trimite notificări sunt următoarele: crearea și modificarea de documente, cursuri în așteptare, cursuri alocate participanților. 9. Mecanism de căutare și raportare:
+a) un utilizator final trebuie să aibă posibilitatea de căutare ad-hoc atât după titlurile și proprietățile documentelor, cât și după conținutul acestora, filtrare și raportare la anumite nivele, în funcție de dreptul asociat al acestuia;
+b) utilizatorul trebuie să aibă posibilitatea să definească diferite tipuri de filtre pe oricare dintre atributele definite în aplicație.
+10. Profile de utilizator:
+a) aplicația trebuie să permită stocarea informațiilor despre utilizatori, precum și să ofere o interfață personalizată utilizatorului;
+b) aplicația trebuie să limiteze drepturile de utilizator.
+---------
