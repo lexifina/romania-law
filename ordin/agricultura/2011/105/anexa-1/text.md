@@ -1,0 +1,2 @@
+# Anexa nr. 1
+Anexa (Anexa nr. 2 la Ordinul nr. 37/2011) Obligațiile evaluatorului 1. Prezentarea unui raport de evaluare preliminar pe care să îl înainteze Agenției de Plăți și Intervenție pentru Agricultură și Ministerului Agriculturii și Dezvoltării Rurale până la data de 15 noiembrie 2011 și să opereze eventualele observații și propuneri în raportul final 2. Transmiterea raportului final de evaluare către Agenția de Plăți și Intervenție pentru Agricultură până la data de 15 decembrie 2011 ------------
