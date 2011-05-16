@@ -1,0 +1,228 @@
+{
+ "key": "dcc-180-2011",
+ "label": "Decizia CCR nr. 180/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "180",
+ "date": "2011-02-10",
+ "year": "2011",
+ "heading": "DECIZIE nr. 180 din 10 februarie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 324 alin. 1 pct. 1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "336",
+  "bis": false,
+  "date": "2011-05-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "43/42/2010",
+  "1.966/99/2009",
+  "1.001/33/2010",
+  "2.340/111/2010",
+  "3.227D/2010",
+  "1.026D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 324 alin. 1 pct. 1 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Avicola\" - S.A. din Crevedia în Dosarul nr. 43/42/2010 al Curţii de Apel Ploieşti - Secţia civilă şi pentru cauze cu minori şi de familie, de Mihail Dimitrie Schreiner, Vasile Moscu, Epaminonda Andriescu, Corina Nicoleta Spiridon, Gertruda Franc şi Maria Elisabeta Droll în Dosarul nr. 1.966/99/2009 al Tribunalului Iaşi - Secţia civilă, de Societatea Comercială \"Agrocom\" - S.R.L. din Cluj-Napoca în Dosarul nr. 1.001/33/2010 al Curţii de Apel Cluj - Secţia civilă, muncă şi asigurări sociale, pentru minori şi familie şi de Pal Hajnal în Dosarul nr. 2.340/111/2010 al Tribunalului Bihor - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 276/2009",
+    "number": "276",
+    "year": "2009",
+    "path": "lege/2009/276"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-05-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128498",
+  "text_sha256": "adbb1d126bc97007dcef14bcf52670129925e1fadb85fa9a32be616de83847e3",
+  "catalogue_sha256": "adbb1d126bc97007dcef14bcf52670129925e1fadb85fa9a32be616de83847e3",
+  "fetched": "2026-11-05T07:04:31Z",
+  "chars": 14742,
+  "portal_id": "128498",
+  "tip": "DECIZIE"
+ }
+}
