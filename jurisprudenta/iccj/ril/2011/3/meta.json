@@ -1,0 +1,130 @@
+{
+ "key": "iccj-ril-3-2011",
+ "label": "Decizia ÎCCJ nr. 3/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "3",
+ "date": "2011-04-04",
+ "year": "2011",
+ "heading": "DECIZIE nr. 3 din 4 aprilie 2011",
+ "subtitle": "referitoare la recursul în interesul legii, privind creşterile salariale ce se vor acorda în anul 2008 personalului din învăţământ",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "350",
+  "bis": false,
+  "date": "2011-05-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii formulate de Colegiul de conducere al Curţii de Apel Galaţi şi de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "Ca efect al deciziilor Curţii Constituţionale prin care au fost declarate neconstituţionale ordonanţele de urgenţă ale Guvernului nr. 136/2008, nr. 151/2008 şi nr. 1/2009, dispoziţiile Ordonanţei Guvernului nr. 15/2008, astfel cum a fost aprobată şi modificată prin Legea nr. 221/2008, constituie temei legal pentru diferenţa dintre drepturile salariale cuvenite funcţiilor didactice potrivit acestui act normativ şi drepturile salariale efectiv încasate, cu începere de la 1 octombrie 2008 şi până la data de 31 decembrie 2009.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 221/2008",
+    "number": "221",
+    "year": "2008",
+    "path": "lege/2008/221"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 136/2008",
+    "number": "136",
+    "year": "2008",
+    "path": "oug/2008/136"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 151/2008",
+    "number": "151",
+    "year": "2008",
+    "path": "oug/2008/151"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128684",
+  "text_sha256": "7edf1d7cace859f91cdbd822a84798b85208adc3257a592f19ef5361ac1ee39e",
+  "catalogue_sha256": "7edf1d7cace859f91cdbd822a84798b85208adc3257a592f19ef5361ac1ee39e",
+  "fetched": "2026-11-04T03:25:30Z",
+  "chars": 21267,
+  "portal_id": "128684",
+  "tip": "DECIZIE"
+ }
+}
