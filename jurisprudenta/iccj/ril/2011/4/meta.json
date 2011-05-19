@@ -1,0 +1,125 @@
+{
+ "key": "iccj-ril-4-2011",
+ "label": "Decizia ÎCCJ nr. 4/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "4",
+ "date": "2011-04-04",
+ "year": "2011",
+ "heading": "DECIZIE nr. 4 din 4 aprilie 2011",
+ "subtitle": "referitoare la recursul în interesul legii, privind modalitatea de stabilire a vârstei standard de pensionare şi a stagiului complet de cotizare utilizate pentru determinarea punctajului mediu anual în operaţiunile de calculare a pensiilor din sistemul public, pentru persoane ale căror drepturi s-au deschis începând cu data de 1 aprilie 2001 şi care beneficiază de reducerea vârstei de pensionare potrivit legii",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "349",
+  "bis": false,
+  "date": "2011-05-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3/2011",
+  "4/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie, în sensul că:",
+  "Modalitatea de stabilire a vârstei standard de pensionare şi a stagiului complet de cotizare utilizate pentru determinarea punctajului mediu anual în operaţiunile de calculare a pensiilor din sistemul public, pentru persoane ale căror drepturi s-au deschis începând cu data de 1 aprilie 2001 şi care beneficiază de reducerea vârstei de pensionare potrivit legii, se realizează prin raportare la dispoziţiile anexei nr. 3 la Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, în sensul că beneficiază de reducerea vârstelor standard de pensionare care se determină în funcţie de data formulării cererii de pensionare.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului muncii şi solidarităţii sociale nr. 340/2001",
+    "number": "340",
+    "year": "2001"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128683",
+  "text_sha256": "ddfe916cb87a06fcb376444cf79291143c954e6fa61b9894f271d997f02bce4b",
+  "catalogue_sha256": "ddfe916cb87a06fcb376444cf79291143c954e6fa61b9894f271d997f02bce4b",
+  "fetched": "2026-11-03T04:27:38Z",
+  "chars": 20533,
+  "portal_id": "128683",
+  "tip": "DECIZIE"
+ }
+}
