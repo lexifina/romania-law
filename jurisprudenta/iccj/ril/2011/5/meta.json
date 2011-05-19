@@ -1,0 +1,224 @@
+{
+ "key": "iccj-ril-5-2011",
+ "label": "Decizia ÎCCJ nr. 5/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "5",
+ "date": "2011-04-04",
+ "year": "2011",
+ "heading": "DECIZIE nr. 5 din 4 aprilie 2011",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "350",
+  "bis": false,
+  "date": "2011-05-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "312",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie, în sensul că:",
+  "În aplicarea dispoziţiilor art. 11 alin. (1) şi art. 12 din Legea nr. 85/2006 coroborate cu dispoziţiile art. 312 alin. 2-4 din Codul de procedură civilă, curtea de apel, învestită cu soluţionarea recursului declarat împotriva hotărârii judecătorului sindic prin care s-a respins cererea de deschidere a procedurii insolvenţei, admiţând recursul, va casa hotărârea şi va trimite cauza judecătorului sindic pentru deschiderea procedurii insolvenţei.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "312",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128685",
+  "text_sha256": "3a08b0cbc5fa9c73e747b14c5b6c075be0b768d040bad503e89998e6b9f0e926",
+  "catalogue_sha256": "3a08b0cbc5fa9c73e747b14c5b6c075be0b768d040bad503e89998e6b9f0e926",
+  "fetched": "2026-11-06T04:02:23Z",
+  "chars": 16741,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250405191254/https://legislatie.just.ro/Public/DetaliiDocumentAfis/128685",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128685",
+   "timestamp": "20250405191254",
+   "sha256": "2b8a7a5020ef11b08e1df26095fa5d29a26f692330061ba21f6237420bd0e10b"
+  },
+  "portal_id": "128685",
+  "tip": "DECIZIE"
+ }
+}
