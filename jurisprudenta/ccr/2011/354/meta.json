@@ -1,0 +1,183 @@
+{
+ "key": "dcc-354-2011",
+ "label": "Decizia CCR nr. 354/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "354",
+ "date": "2011-03-22",
+ "year": "2011",
+ "heading": "DECIZIE nr. 354 din 22 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 26 alin. (1) şi alin. (2) pct. 2 din Legea nr. 122/2006 privind azilul în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "355",
+  "bis": false,
+  "date": "2011-05-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.827D/2010",
+  "1.830D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 26 alin. (1) şi alin. (2) pct. 2 din Legea nr. 122/2006 privind azilul în România, excepţie ridicată de Jiang Lujun şi Zhu Jianhua în dosarele nr. 10.561/4/RF/2008 şi, respectiv, nr. 6.233/4/CV/2008 ale Tribunalului Bucureşti - Secţia a IX-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-05-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128733",
+  "text_sha256": "08ef615605344b8ebc5cb34f74320f0a0ca82d25b17802b7e3446f1d999af517",
+  "catalogue_sha256": "08ef615605344b8ebc5cb34f74320f0a0ca82d25b17802b7e3446f1d999af517",
+  "fetched": "2026-11-05T14:45:27Z",
+  "chars": 9331,
+  "portal_id": "128733",
+  "tip": "DECIZIE"
+ }
+}
