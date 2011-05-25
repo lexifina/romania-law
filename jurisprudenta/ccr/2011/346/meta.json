@@ -1,0 +1,183 @@
+{
+ "key": "dcc-346-2011",
+ "label": "Decizia CCR nr. 346/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "346",
+ "date": "2011-03-10",
+ "year": "2011",
+ "heading": "DECIZIE nr. 346 din 10 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 642 alin. (2) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "364",
+  "bis": false,
+  "date": "2011-05-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "24.866/215/2007",
+  "24.866/216/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "642",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 642 alin. (2) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, excepţie ridicată de Cabinetul Medical Individual Dr. Anca Maria Dobrin şi Anca Maria Dobrin în Dosarul nr. 24.866/215/2007 al Tribunalului Dolj - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "642",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "676",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-05-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128804",
+  "text_sha256": "1d9b32a2768c75c20fe7f6b2628e7f449300a26827a382e8ef732678768b5478",
+  "catalogue_sha256": "1d9b32a2768c75c20fe7f6b2628e7f449300a26827a382e8ef732678768b5478",
+  "fetched": "2026-11-03T04:27:31Z",
+  "chars": 7644,
+  "portal_id": "128804",
+  "tip": "DECIZIE"
+ }
+}
