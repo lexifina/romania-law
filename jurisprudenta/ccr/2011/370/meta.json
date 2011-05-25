@@ -1,0 +1,186 @@
+{
+ "key": "dcc-370-2011",
+ "label": "Decizia CCR nr. 370/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "370",
+ "date": "2011-03-22",
+ "year": "2011",
+ "heading": "DECIZIE nr. 370 din 22 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 alin. (1) lit. g) şi art. 45 alin. (7) lit. a) din Legea serviciilor de transport public local nr. 92/2007",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "364",
+  "bis": false,
+  "date": "2011-05-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "21.577/212/2008",
+  "2.447D/2010",
+  "2.451D/2010",
+  "21.576/212/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor de transport public local nr. 92/2007",
+    "number": "92",
+    "year": "2007",
+    "path": "lege/2007/92"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (1) lit. g) şi art. 45 alin. (7) lit. a) din Legea serviciilor de transport public local nr. 92/2007, excepţie ridicată de Societatea Comercială \"Tinioris Mar\" - S.R.L. din Constanţa în dosarele nr. 21.577/212/2008 şi nr. 21.576/212/2008 ale Tribunalului Constanţa - Secţia comercială, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor de transport public local nr. 92/2007",
+    "number": "92",
+    "year": "2007",
+    "path": "lege/2007/92"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-05-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128805",
+  "text_sha256": "444e957443d4ddb95f351c251764b0c9f065b1ab331b858bf6517d8497c309d7",
+  "catalogue_sha256": "444e957443d4ddb95f351c251764b0c9f065b1ab331b858bf6517d8497c309d7",
+  "fetched": "2026-11-03T04:27:31Z",
+  "chars": 10246,
+  "portal_id": "128805",
+  "tip": "DECIZIE"
+ }
+}
