@@ -1,0 +1,100 @@
+{
+ "key": "iccj-ril-2-2011",
+ "label": "Decizia ÎCCJ nr. 2/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "2",
+ "date": "2011-04-04",
+ "year": "2011",
+ "heading": "DECIZIE nr. 2 din 4 aprilie 2011",
+ "subtitle": "referitoare la recursul în interesul legii privind calitatea procesuală pasivă a statului român prin Ministerul Finanţelor Publice sau a unităţilor administrativ-teritoriale în acţiunile având ca obiect constatarea calităţii de unic moştenitor asupra unei mase succesorale",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "365",
+  "bis": false,
+  "date": "2011-05-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1/2011"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă: stabileşte că, în situaţia acţiunilor având ca obiect constatarea calităţii de unic moştenitor asupra unei mase succesorale, statul nu are calitate procesuală pasivă decât în ipoteza în care pe seama acestuia s-a emis certificat de vacanţă succesorală.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+    "number": "36",
+    "year": "1995",
+    "path": "lege/1995/36"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "680",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-05-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128845",
+  "text_sha256": "cb9dd5aabba45c4fdef37e90a72e2ca2d568d807a23f08d31a0cb4dbeb93835c",
+  "catalogue_sha256": "cb9dd5aabba45c4fdef37e90a72e2ca2d568d807a23f08d31a0cb4dbeb93835c",
+  "fetched": "2026-11-03T04:27:29Z",
+  "chars": 17533,
+  "portal_id": "128845",
+  "tip": "DECIZIE"
+ }
+}
