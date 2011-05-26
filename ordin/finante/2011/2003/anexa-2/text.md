@@ -1,0 +1,2 @@
+# Anexa 2
+------- la ordin -------- COMPONENȚA comisiei de selecție a avocaților Președinte: reprezentant desemnat de Oficiul de Plăți și Contractare PHARE Membru: reprezentant desemnat de Oficiul de Plăți și Contractare PHARE Membru: reprezentant desemnat de Direcția generală juridică din cadrul Ministerului Finanțelor Publice Expert cooptat: reprezentant desemnat de Direcția buget și contabilitate internă din cadrul Ministerului Finanțelor Publice NOTĂ: Se vor numi atât un membru titular, cât și un membru supleant. -----------
