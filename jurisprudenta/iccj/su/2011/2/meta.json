@@ -1,0 +1,185 @@
+{
+ "key": "iccj-su-2-2011",
+ "label": "Decizia ÎCCJ nr. 2/2011 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "2",
+ "date": "2011-01-17",
+ "year": "2011",
+ "heading": "DECIZIE nr. 2 din 17 ianuarie 2011",
+ "subtitle": "privind recursul în interesul legii cu privire la interpretarea şi aplicarea unitară a dispoziţiilor art. 45 alin. 1 teza finală din Codul de procedură civilă raportat la dispoziţiile art. 245 alin. 1 lit. c^1) din Codul de procedură penală, asupra legitimării procesuale active a procurorului de a formula acţiunea civilă pentru desfiinţarea totală sau parţială a unui înscris falsificat atunci când acţiunea penală s-a stins în faza de urmărire penală printr-o soluţie de netrimitere în judecată",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "372",
+  "bis": false,
+  "date": "2011-05-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "9/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "245",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c-1"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea şi aplicarea dispoziţiilor art. 45 alin. 1 teza finală din Codul de procedură civilă, raportat la dispoziţiile art. 245 alin. 1 lit. c^1) din Codul de procedură penală, stabilesc că:",
+  "Procurorul are legitimare procesuală activă de a formula acţiunea civilă pentru desfiinţarea, în tot sau în parte, a unui înscris falsificat, atunci când acţiunea penală s-a stins în faza de urmărire penală printr-o soluţie de netrimitere în judecată.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "245",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c-1"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "249",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128874",
+  "text_sha256": "47b03822437e2aa06579f5cd995873dddc37ab65c1d3ae27e8f3b91ceb3f253a",
+  "catalogue_sha256": "47b03822437e2aa06579f5cd995873dddc37ab65c1d3ae27e8f3b91ceb3f253a",
+  "fetched": "2026-11-03T04:27:27Z",
+  "chars": 11690,
+  "portal_id": "128874",
+  "tip": "DECIZIE"
+ }
+}
