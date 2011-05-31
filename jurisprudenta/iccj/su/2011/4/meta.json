@@ -1,0 +1,232 @@
+{
+ "key": "iccj-su-4-2011",
+ "label": "Decizia ÎCCJ nr. 4/2011 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "4",
+ "date": "2011-01-17",
+ "year": "2011",
+ "heading": "DECIZIE nr. 4 din 17 ianuarie 2011",
+ "subtitle": "privind recursul în interesul legii, cu privire la interpretarea şi aplicarea unitară a dispoziţiilor art. 47 din Legea nr. 50/1996 privind salarizarea şi alte drepturi ale personalului din organele autorităţii judecătoreşti",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "379",
+  "bis": false,
+  "date": "2011-05-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "12/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea şi aplicarea dispoziţiilor art. 47 din Legea nr. 50/1996 privind salarizarea şi alte drepturi ale personalului din organele autorităţii judecătoreşti stabilesc că:",
+  "Personalul din serviciile de probaţiune nu beneficiază de sporul pentru risc şi suprasolicitare neuropsihică în cuantum de 50%.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 8/2007",
+    "number": "8",
+    "year": "2007",
+    "path": "og/2007/8"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2000",
+    "number": "92",
+    "year": "2000",
+    "path": "og/2000/92"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 211/2004",
+    "number": "211",
+    "year": "2004",
+    "path": "lege/2004/211"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 83/2000",
+    "number": "83",
+    "year": "2000",
+    "path": "og/2000/83"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 123/2006",
+    "number": "123",
+    "year": "2006",
+    "path": "lege/2006/123"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 327/2006",
+    "number": "327",
+    "year": "2006",
+    "path": "lege/2006/327"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128940",
+  "text_sha256": "fd54e9259b28c02a13d8b1853f7c443fd266f5724ae232a054876bb24496bf61",
+  "catalogue_sha256": "fd54e9259b28c02a13d8b1853f7c443fd266f5724ae232a054876bb24496bf61",
+  "fetched": "2026-11-03T04:27:22Z",
+  "chars": 10888,
+  "portal_id": "128940",
+  "tip": "DECIZIE"
+ }
+}
