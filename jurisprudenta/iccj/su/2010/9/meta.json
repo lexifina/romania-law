@@ -1,0 +1,165 @@
+{
+ "key": "iccj-su-9-2010",
+ "label": "Decizia ÎCCJ nr. 9/2010 (Secțiile Unite)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "su",
+ "number": "9",
+ "date": "2010-11-15",
+ "year": "2010",
+ "heading": "DECIZIE nr. 9 din 15 noiembrie 2010",
+ "subtitle": "privind examinarea recursului în interesul legi, cu privire la interpretarea dispoziţiilor art. 119 din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE",
+ "mo": {
+  "number": "382",
+  "bis": false,
+  "date": "2011-06-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "10/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admit recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Sintagma \"proces penal în curs\" cuprinsă în textul art. 119 din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală, cu modificările şi completările ulterioare, se interpretează în sensul că recunoaşterea pe cale incidentală a unei hotărâri penale străine sau a unui act juridic străin se poate face şi în faza privind punerea în executare a hotărârilor penale definitive.",
+  "Obligatorie, potrivit art. 414^2 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "188",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "461",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "449",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 224/2006",
+    "number": "224",
+    "year": "2006",
+    "path": "lege/2006/224"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-06-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128957",
+  "text_sha256": "6370559730ef166bd6e21727757a883bb4e545cc1e80558b5a68e516ed320450",
+  "catalogue_sha256": "6370559730ef166bd6e21727757a883bb4e545cc1e80558b5a68e516ed320450",
+  "fetched": "2026-11-03T04:27:17Z",
+  "chars": 10195,
+  "portal_id": "128957",
+  "tip": "DECIZIE"
+ }
+}
