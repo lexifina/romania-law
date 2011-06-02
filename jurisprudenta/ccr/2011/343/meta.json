@@ -1,0 +1,382 @@
+{
+ "key": "dcc-343-2011",
+ "label": "Decizia CCR nr. 343/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "343",
+ "date": "2011-03-10",
+ "year": "2011",
+ "heading": "DECIZIE nr. 343 din 10 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 208 alin. (3) lit. e) şi alin. (6), art. 211 alin. (1) teza întâi, art. 213 alin. (2) şi (4), art. 257 alin. (1), art. 258 alin. (1) şi (3) şi art. 259 alin. (1) şi (2) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii şi ale art. 1 alin. (2) lit. d), art. 4 alin. (1) teza a doua şi art. 51 din Ordonanţa de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "387",
+  "bis": false,
+  "date": "2011-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.023/30/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "208",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "211",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (2) lit. d), art. 4 alin. (1) teza a doua şi art. 51 din Ordonanţa de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate, excepţie ridicată de Cristina Ioviţoni în Dosarul nr. 5.023/30/2009 al Tribunalului Timiş - Secţia comercială şi de contencios administrativ. 2. Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 208 alin. (3) lit. e) şi alin. (6), art. 211 alin. (1) teza întâi, art. 213 alin. (2) şi (4), art. 257 alin. (1), art. 258 alin. (1) şi (3) şi art. 259 alin. (1) şi (2) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, excepţie ridicată de acelaşi autor în acelaşi dosar al Tribunalului Timiş - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "208",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "e",
+      "b"
+     ]
+    },
+    {
+     "art": "211",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "317",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 117/2010",
+    "number": "117",
+    "year": "2010",
+    "path": "oug/2010/117"
+   },
+   "articles": [
+    {
+     "art": "VIII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129051",
+  "text_sha256": "c3c2d5e293e66f895cbcf9b1192772f70da6f7f4d0f6b84fed6f38d9f40c9f99",
+  "catalogue_sha256": "c3c2d5e293e66f895cbcf9b1192772f70da6f7f4d0f6b84fed6f38d9f40c9f99",
+  "fetched": "2026-11-03T04:27:16Z",
+  "chars": 16833,
+  "portal_id": "129051",
+  "tip": "DECIZIE"
+ }
+}
