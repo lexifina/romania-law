@@ -1,0 +1,2 @@
+# Anexa 18
+Numar de clase suplimentare acordate după cum urmează: 1. Institute și centre medicale: - chimist, biolog, biochimist, asistent medical, cu gestiune, chimicale, reactivi și altele similare.............. 2 clase; 2. Direcția de sănătate publică: - chimist, biolog, biochimist, asistent medical, cu gestiune pentru produse antiepidemice............... 2 clase; 3. Laboratoare de analize medicale din unități sanitare: - chimist, biolog, biochimist, asistent medical, cu gestiune........................................... 2 clase.
