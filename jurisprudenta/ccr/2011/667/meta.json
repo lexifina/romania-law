@@ -1,0 +1,105 @@
+{
+ "key": "dcc-667-2011",
+ "label": "Decizia CCR nr. 667/2011",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "667",
+ "date": "2011-05-18",
+ "year": "2011",
+ "heading": "DECIZIE nr. 667 din 18 mai 2011",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a Hotărârii Camerei Deputaţilor nr. 8 din 12 aprilie 2011 privind aprobarea Acordului dintre liderii grupurilor parlamentare referitor la componenţa conducerilor comisiilor permanente ale Camerei Deputaţilor ca urmare a Deciziei Curţii Constituţionale nr. 1.490 din 17 noiembrie 2010",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "397",
+  "bis": false,
+  "date": "2011-06-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "525L/2/2011"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge sesizarea şi constată că Hotărârea Camerei Deputaţilor nr. 8 din 12 aprilie 2011 privind aprobarea Acordului dintre liderii grupurilor parlamentare referitor la componenţa conducerilor comisiilor permanente ale Camerei Deputaţilor este constituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Camerei Deputaţilor şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129146",
+  "text_sha256": "936c535030bfdfe0b55604a8e3af682b9129a973a486848a6431b4807169bad3",
+  "catalogue_sha256": "936c535030bfdfe0b55604a8e3af682b9129a973a486848a6431b4807169bad3",
+  "fetched": "2026-11-03T04:27:04Z",
+  "chars": 14925,
+  "portal_id": "129146",
+  "tip": "DECIZIE"
+ }
+}
