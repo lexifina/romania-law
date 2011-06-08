@@ -1,0 +1,205 @@
+{
+ "key": "dcc-560-2011",
+ "label": "Decizia CCR nr. 560/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "560",
+ "date": "2011-05-03",
+ "year": "2011",
+ "heading": "DECIZIE nr. 560 din 3 mai 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (1) şi (2) şi art. 14 din Ordonanţa de urgenţă a Guvernului nr. 119/2007 privind măsurile pentru combaterea întârzierii executării obligaţiilor de plată rezultate din contracte comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "403",
+  "bis": false,
+  "date": "2011-06-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.950/110/2010",
+  "3.703D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 119/2007",
+    "number": "119",
+    "year": "2007",
+    "path": "oug/2007/119"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "I. Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 119/2007 privind măsurile pentru combaterea întârzierii executării obligaţiilor de plată rezultate din contracte comerciale, excepţie ridicată de Consiliul Local Bârsăneşti în Dosarul nr. 2.950/110/2010 al Tribunalului Bacău - Secţia comercială şi contencios administrativ.",
+  "II. Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 14 din Ordonanţa de urgenţă a Guvernului nr. 119/2007 privind măsurile pentru combaterea întârzierii executării obligaţiilor de plată rezultate din contracte comerciale, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 119/2007",
+    "number": "119",
+    "year": "2007",
+    "path": "oug/2007/119"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-06-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129198",
+  "text_sha256": "a5761cac1f1a37c20c7e2d70110e6de29bf9e4a89cb8df892f13a1f2aaefd760",
+  "catalogue_sha256": "a5761cac1f1a37c20c7e2d70110e6de29bf9e4a89cb8df892f13a1f2aaefd760",
+  "fetched": "2026-11-03T04:27:02Z",
+  "chars": 8732,
+  "portal_id": "129198",
+  "tip": "DECIZIE"
+ }
+}
