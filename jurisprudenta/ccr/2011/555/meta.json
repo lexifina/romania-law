@@ -1,0 +1,157 @@
+{
+ "key": "dcc-555-2011",
+ "label": "Decizia CCR nr. 555/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "555",
+ "date": "2011-05-03",
+ "year": "2011",
+ "heading": "DECIZIE nr. 555 din 3 mai 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 404^1 şi art. 404^2 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "403",
+  "bis": false,
+  "date": "2011-06-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "33.633/299/2009",
+  "3.320D/2010",
+  "33.638/299/2009",
+  "33.730/299/2009",
+  "33.737/299/2009",
+  "33.748/299/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "404-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "404-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 404^1 şi art. 404^2 din Codul de procedură civilă, excepţie ridicată de Dragoş Sava Nedelcu în Dosarul nr. 33.633/299/2009, de Karoly Feher în Dosarul nr. 33.638/299/2009, de Lucian Florin Andrei şi Doina Cornelia Andrei în Dosarul nr. 33.730/299/2009, de Liviu Baciu în Dosarul nr. 33.593/299/2009, de Ioan Sala în Dosarul nr. 33737/299/2009 şi de Corneluşa Gorea în Dosarul nr. 33.748/299/2009, dosare ale Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "404-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "404-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-06-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129195",
+  "text_sha256": "87ec55039fee93626d7407692081d8893b5465c3d6d4cbfdf741997213548e1f",
+  "catalogue_sha256": "87ec55039fee93626d7407692081d8893b5465c3d6d4cbfdf741997213548e1f",
+  "fetched": "2026-11-05T08:21:27Z",
+  "chars": 10194,
+  "portal_id": "129195",
+  "tip": "DECIZIE"
+ }
+}
