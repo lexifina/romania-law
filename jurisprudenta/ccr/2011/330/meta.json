@@ -1,0 +1,157 @@
+{
+ "key": "dcc-330-2011",
+ "label": "Decizia CCR nr. 330/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "330",
+ "date": "2011-03-10",
+ "year": "2011",
+ "heading": "DECIZIE nr. 330 din 10 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor pct. VI din anexa la Ordonanţa de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public, provenite din fostul sistem al asigurărilor sociale de stat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "406",
+  "bis": false,
+  "date": "2011-06-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.495/90/2009",
+  "1.933D/2010",
+  "3.476/83/2008",
+  "8.433/99/2009",
+  "575/111/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca devenită inamisibilă excepţia de neconstituţionalitate a dispoziţiilor pct. VI din anexa la Ordonanţa de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public, provenite din fostul sistem al asigurărilor sociale de stat, excepţie ridicată de Ana D. Hodoroagă în Dosarul nr. 3.495/90/2009 al Tribunalului Vâlcea - Secţia civilă, de Curtea de Apel Oradea - Secţia civilă mixtă, din oficiu, în Dosarul nr. 3.476/83/2008, de Cezar Dariescu în Dosarul nr. 8.433/99/2009 al Curţii de Apel Iaşi - Secţia litigii de muncă şi asigurări sociale şi de Maria Precup şi Octavian Precup în Dosarul nr. 575/111/2010 al Tribunalului Bihor - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "n"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-06-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129208",
+  "text_sha256": "4c0c884a21d0f82bcc3412274bb7179aae830e3fcf987ad932b62e51e5d7c1fa",
+  "catalogue_sha256": "4c0c884a21d0f82bcc3412274bb7179aae830e3fcf987ad932b62e51e5d7c1fa",
+  "fetched": "2026-11-03T04:27:01Z",
+  "chars": 10707,
+  "portal_id": "129208",
+  "tip": "DECIZIE"
+ }
+}
