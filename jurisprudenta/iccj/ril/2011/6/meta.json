@@ -1,0 +1,199 @@
+{
+ "key": "iccj-ril-6-2011",
+ "label": "Decizia ÎCCJ nr. 6/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "6",
+ "date": "2011-05-09",
+ "year": "2011",
+ "heading": "DECIZIE nr. 6 din 9 mai 2011",
+ "subtitle": "privind recursurile în interesul legii, cu privire la aplicabilitatea dispoziţiilor art. 74 alin. (1) lit. d) din Codul muncii în cazul concedierilor din motive care nu ţin de persoana salariatului",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "444",
+  "bis": false,
+  "date": "2011-06-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "5/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii formulate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi de Colegiul de Conducere al Curţii de Apel Bucureşti şi, în consecinţă:",
+  "Stabileşte că dispoziţiile art. 74 alin. (1) lit. d) din Codul Muncii nu se aplică în situaţia în care concedierea s-a dispus pentru motive ce nu ţin de persoana salariatului, în temeiul art. 65 din Codul muncii.",
+  "Obligatorie, potrivit art. 330^7 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "c"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "288",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/1999",
+    "number": "168",
+    "year": "1999",
+    "path": "lege/1999/168"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-06-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129578",
+  "text_sha256": "96738fc70c19858ab042b34c38e9e5a4185320628d091f08962cf3dea57b6aae",
+  "catalogue_sha256": "96738fc70c19858ab042b34c38e9e5a4185320628d091f08962cf3dea57b6aae",
+  "fetched": "2026-11-03T04:26:33Z",
+  "chars": 26648,
+  "portal_id": "129578",
+  "tip": "DECIZIE"
+ }
+}
