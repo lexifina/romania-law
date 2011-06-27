@@ -1,0 +1,129 @@
+{
+ "key": "iccj-ril-7-2011",
+ "label": "Decizia ÎCCJ nr. 7/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "7",
+ "date": "2011-05-09",
+ "year": "2011",
+ "heading": "DECIZIE nr. 7 din 9 mai 2011",
+ "subtitle": "privind recursul în interesul legii, cu privire la aplicarea dispoziţiilor art. 274 alin. 2 fraza I din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "447",
+  "bis": false,
+  "date": "2011-06-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "6/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "274",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabileşte că:",
+  "Dispoziţiile art. 274 alin. 2 fraza I din Codul de procedură penală se interpretează în sensul că, în situaţia restituirii cauzei, potrivit art. 272 din Codul de procedură penală, dacă inculpatul este arestat şi instanţa menţine arestarea preventivă, termenul de 30 de zile curge de la rămânerea definitivă a hotărârii instanţei prin care s-a dispus restituirea cauzei la procuror în vederea refacerii urmăririi penale.",
+  "Obligatorie, potrivit art. 414^5 alin. 4 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "274",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "300-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "332",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129613",
+  "text_sha256": "d059c48476d1615311b3900a8bd849c3c18a8a608ccb5010718eb310ee2b06e4",
+  "catalogue_sha256": "d059c48476d1615311b3900a8bd849c3c18a8a608ccb5010718eb310ee2b06e4",
+  "fetched": "2026-11-03T04:26:31Z",
+  "chars": 16447,
+  "portal_id": "129613",
+  "tip": "DECIZIE"
+ }
+}
