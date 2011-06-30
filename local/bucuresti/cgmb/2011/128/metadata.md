@@ -1,0 +1,11 @@
+# HCGMB nr. 128/2011
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 128/2011
+- Adopted: 2011-06-30
+- Title: PENTRU APROBAREA LISTEI DE REPARTIZARE A LOCUINTELOR ACHIZITIONATE SAU CONSTRUITE DIN FONDURI PROPRII ALE MUNICIPIULUI BUCURESTI, PROPUSA DE CATRE COMISIA DE EVALUARE A SITUATIILOR SOCIALE DEOSEBITE IN CARE SE GASESC CETATENII MUNICIPIULUI BUCURESTI, SOLICITANTI DE LOCUINTE SOCIALE" SE COMPLETEAZA PRIN HCGMB NR. 161/2011 SE COMPLETEAZA PRIN HCGMB NR. 178/2011 ANEXA SE COMPLETEAZA PRIN HCGMB NR. 225/2011 SE COMPLETEAZA PRIN HCGMB NR. 128/2012 SE COMPLETEAZA PRIN HCGMB NR. 163/2012
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28735
+- Document: https://doc.pmb.ro/legis/acteinterne/2011/28735/H_0128_11.pdf
+- Document sha256: e9796cf7b3f9145b9b5066fbce4532e9bebda7ec1db592a7d37c56040c853f10
