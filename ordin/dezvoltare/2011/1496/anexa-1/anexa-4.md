@@ -1,0 +1,3 @@
+# Anexa nr. 4 la anexa nr. 1
+Anexa 4 ─────── la procedură ───────────── MODEL DE ȘTAMPILĂ pentru titularul autorizației de diriginte de șantier în domeniile specificate Modelul de ștampilă pentru titularul autorizației de diriginte de șantier în domeniile specificate este indicat în figura de mai jos, cu respectarea dimensiunilor indicate. Modelul este cu titlu de exemplu.
+Modelul de ștampilă pentru titularul autorizației de diriginte de șantier în domeniile specificate pentru cazul în care prima ștampilă a fost pierdută sau sustrasă este indicat în figura de mai jos, cu respectarea dimensiunilor indicate în figura de mai sus. Modelul este cu titlu de exemplu.
