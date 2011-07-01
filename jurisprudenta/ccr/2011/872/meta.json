@@ -1,0 +1,182 @@
+{
+ "key": "dcc-872-2011",
+ "label": "Decizia CCR nr. 872/2011",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "872",
+ "date": "2011-06-23",
+ "year": "2011",
+ "heading": "DECIZIE nr. 872 din 23 iunie 2011",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a dispoziţiilor Legii pentru modificarea Legii nr. 360/2002 privind Statutul poliţistului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "464",
+  "bis": false,
+  "date": "2011-07-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "701A/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru modificarea Legii nr. 360/2002 privind Statutul poliţistului"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Constată că Legea pentru modificarea Legii nr. 360/2002 privind Statutul poliţistului este constituţională în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-07-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129726",
+  "text_sha256": "297c8d049cf27d2d6283aa9f8deef568cfe5fba1bb67f2f8986328e8fc410b43",
+  "catalogue_sha256": "297c8d049cf27d2d6283aa9f8deef568cfe5fba1bb67f2f8986328e8fc410b43",
+  "fetched": "2026-11-03T04:26:24Z",
+  "chars": 25924,
+  "portal_id": "129726",
+  "tip": "DECIZIE"
+ }
+}
