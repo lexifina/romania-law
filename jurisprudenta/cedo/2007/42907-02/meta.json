@@ -1,0 +1,174 @@
+{
+ "key": "cedo-42907-02-2007-11-22",
+ "label": "CEDO, S.C. Concept Ltd. - S.R.L. şi Manole c. României, 2007-11-22",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2007-11-22",
+ "year": "2007",
+ "heading": "HOTĂRÂRE din 22 noiembrie 2007",
+ "subtitle": "în Cauza S.C. Concept Ltd. - S.R.L. şi Manole împotriva României - definitivă la 7 iulie 2008",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA a III-a",
+ "mo": {
+  "number": "470",
+  "bis": false,
+  "date": "2011-07-05",
+  "part": "I"
+ },
+ "outcome": "inadmissible",
+ "findings": [
+  "inadmissible"
+ ],
+ "applications": [
+  "42907/02"
+ ],
+ "case_name": "S.C. Concept Ltd. - S.R.L. şi Manole",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în privinţa capătului de cerere întemeiat pe durata excesivă a procedurilor şi inadmisibilă pentru rest; 2. hotărăşte că s-a încălcat art. 6 alin. 1 din Convenţie în privinţa duratei procedurilor interne; 3. hotărăşte",
+  "a) că statul pârât trebuie să plătească împreună reclamanţilor, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, 8.000 euro (opt mii euro) pentru prejudiciul moral şi 3.000 euro (trei mii euro) pentru costuri şi cheltuieli, la care se va adăuga orice sumă ce poate fi datorată cu titlu de impozit, ce vor fi convertiţi în lei noi româneşti la rata de schimb aplicabilă la data plăţii;",
+  "b) că, începând de la data expirării termenului amintit şi până la momentul efectuării plăţii, sumele vor fi majorate cu o dobândă simplă, a cărei rată este egală cu rata dobânzii pentru facilitatea de credit marginal, practicată de Banca Centrală Europeană, la care se vor adăuga 3 puncte procentuale;",
+  "4. respinge cererea de acordare de satisfacţii echitabile pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 620/2004",
+    "number": "620",
+    "year": "2004",
+    "path": "hg/2004/620"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 29/1990",
+    "number": "29",
+    "year": "1990",
+    "path": "lege/1990/29"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129783",
+  "text_sha256": "84b466ffbbf280fb2bdf840cec55c55653d97edae445c95c8842cf46ef7446f8",
+  "catalogue_sha256": "84b466ffbbf280fb2bdf840cec55c55653d97edae445c95c8842cf46ef7446f8",
+  "fetched": "2026-11-03T04:26:21Z",
+  "chars": 27810,
+  "portal_id": "129783",
+  "tip": "HOTĂRÂRE"
+ }
+}
