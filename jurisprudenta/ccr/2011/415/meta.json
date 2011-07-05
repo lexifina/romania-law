@@ -1,0 +1,142 @@
+{
+ "key": "dcc-415-2011",
+ "label": "Decizia CCR nr. 415/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "415",
+ "date": "2011-04-07",
+ "year": "2011",
+ "heading": "DECIZIE nr. 415 din 7 aprilie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 3 din Ordonanţa Guvernului nr. 137/2000 privind prevenirea şi sancţionarea tuturor formelor de discriminare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "471",
+  "bis": false,
+  "date": "2011-07-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "19.462/212/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 3 din Ordonanţa Guvernului nr. 137/2000 privind prevenirea şi sancţionarea tuturor formelor de discriminare, excepţie ridicată de Gheorghe Alexa în Dosarul nr. 19.462/212/2009 al Judecătoriei Constanţa - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr.47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-07-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129801",
+  "text_sha256": "a5ad82587764c6d1f65441ab65dcbe61a3a64ce8bd0f40cbcbf1b26bc2795a6a",
+  "catalogue_sha256": "a5ad82587764c6d1f65441ab65dcbe61a3a64ce8bd0f40cbcbf1b26bc2795a6a",
+  "fetched": "2026-11-03T04:26:18Z",
+  "chars": 8915,
+  "portal_id": "129801",
+  "tip": "DECIZIE"
+ }
+}
