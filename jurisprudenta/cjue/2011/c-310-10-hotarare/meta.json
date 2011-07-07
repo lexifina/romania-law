@@ -1,0 +1,48 @@
+{
+ "key": "cjue-c-310-10-hotarare-2011-07-07",
+ "label": "CJUE, Hotărârea Curții (Camera a patra) din 7 iulie 2011, Cauza C-310/10",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2011-07-07",
+ "year": "2011",
+ "case": "Cauza C-310/10",
+ "celex": "62010CJ0310",
+ "ecli": "ECLI:EU:C:2011:467",
+ "heading": "Hotărârea Curții (Camera a patra) din 7 iulie 2011",
+ "formation": "CHAMB_04_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Bacău – România",
+ "national_followup": [
+  "Curtea de Apel Bacău, Secţia Civilă, cauze minori, familie, conflicte de muncă, asigurări sociale, 14/06/2010 (5569/110/2007)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Drepturi salariale ale magistraților – Discriminare operată în funcție de apartenența la o categorie socioprofesională sau de locul de muncă – Condiții de despăgubire pentru prejudiciul suferit – Directivele 2000/43/CE și 2000/78/CE – Inaplicabilitate – Inadmisibilitatea cererii de pronunțare a unei hotărâri preliminare",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62010CJ0310",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-310/10&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/6ecc724b-ee3c-406c-8e79-56ff50bfc346.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "9a9deab5a7a372dd03d6fffa54d4273d5b94debedd6eb7a5024e81f121ec0403"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a patra) declară:",
+  "Cererea de pronunțare a unei hotărâri preliminare formulată de Curtea de Apel Bacău (România) este inadmisibilă."
+ ]
+}
