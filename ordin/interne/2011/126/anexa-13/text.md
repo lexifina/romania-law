@@ -1,0 +1,6 @@
+# Anexa nr. 13
+Anexa 13 (Anexa nr. 81 la Ordinul nr. 490/2008) SERVICIUL PENTRU INTERVENȚII ȘI ACȚIUNI SPECIALE Emblema Serviciului pentru intervenții și acțiuni speciale din cadrul Inspectoratului General al Poliției Române se prezintă după cum urmează: pe fond negru, o întâlnire de lup fioros, de argint, cu limba roșie, ochii aurii, pupilele negre; dedesubt, două săbii de argint, cu vârfurile puțin curbate spre interior și orientate în sus, având mânere duble, delimitate de câte șase inele puțin mai late, dispuse de trei ori câte două, totul de aur, și care se încrucișează, în partea de jos, în săritoare. În exergă, între două cercuri liniare aurii, pe fond negru, în partea de sus sunt literele S.I.A.S., de aur, iar în cea de jos deviza * CURAJ LEGE ONOARE*, scrisă cu litere de același metal, pe o eșarfă albă. Semnificația elementelor însumate:
+a) spadele - justiție; putere; capacitatea de a separa vinovăția de inocență;
+b) capul de lup de argint - capacitatea de a fi cunoscut; amenințare; curaj, loialitate, vigilență;
+c) literele S.I.A.S. - sigla Serviciului pentru intervenții și acțiuni speciale;
+d) deviza CURAJ LEGE ONOARE îmbogățește compoziția heraldică și scoate în evidență scopul unității.
