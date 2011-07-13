@@ -1,0 +1,183 @@
+{
+ "key": "dcc-443-2011",
+ "label": "Decizia CCR nr. 443/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "443",
+ "date": "2011-04-07",
+ "year": "2011",
+ "heading": "DECIZIE nr. 443 din 7 aprilie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 din cap. VI din anexa nr. V la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "500",
+  "bis": false,
+  "date": "2011-07-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "35.074/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 5 din cap. VI din anexa nr. V la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice, excepţie ridicată de Dan Horia Maxim, Clementina Robertina Ion, Dan Dumitru Sicoe, Patricia Răduţ, Liliana Spirescu, Liviu Teodor Istrăţoiu, Dan Nedelcu, Valentin Mărăcinescu, Dumitru Rădoi, Rodrig Dinulescu, Dan-Cătălin Constantin, Ralu Cereceanu, Gabriel Crişan, Valentin Stanisalav, Bratiloveanu Gigel, Cheregi Dumitru, Ion Şerban, Mircea Toader, Ion Cernivceanu, Constantin Ene, Dan Dănăţoiu, Cristian Mateescu, Ioan Mateescu, Anamaria Deliu, Gabriel Belkine, Ştefan Porojan, Mihaela Simion, Corina Rechiţean, Simona Mărăscu, Ovaghim Stroe, Nicolae Grigoreanu, Mihail Plângă, Tiberiu Josan, Marius Viţionescu, Firan Vasilescu, Radu Moldovan, Constantin Mugur Budescu, Mircea Borzea, Valer Dănuţ Crişan, Simona Rusu-Munţiu, Constantin Miu, Bogdana Diaconescu, Florentina Nazat, Gabriel Ion Duţu, Gabriel Buzea, Răzvan Dumitrescu, Viorel Onel, Ştefan Puiu, Sarmiza Bumbaru, Ionel Melcioiu, Ştefan Ştefănescu, Andrei Petre, Remus Rădulescu, Adrian Cristea, Nicolae Hârlav, Mihai Burghel, Anton Costescu, Gabriel Dumitescu, Rodica Pârjolea, George Petruşan, Marian Postelnicu, Dorin Refca, Sorin Toader, Ovidiu Costea, Ioan Câmpean, Gheorghe Vlad, Nicu Manolache, Dumitru Anca, Adriana Nica, Vodiţa Popescu, Răzvan Alex Cuc, Sorin Popescu, Vasile Gheorghe Cârţănă, Florica Croitoru, Carmen Iacob, Diana Sturz, Monica Ghişe, Monica Andronic, Marius Dragoş, Vasile Cojocaru, Raşoga Mariana, Alina Spatăriu, Dragoş Sorin Petrescu, Gheorghe Georgescu, Augustin Nicolae Pop, Raluca Constantinescu, Claudia Antoanela Munteanu, Mihaela Gavrilescu, Natalia Berezintu, Armeanu Constanţa Dumitru, Maria Tociu, Octavia Cerchez, Victor Grigorescu, Aurelian Gavrilescu, Dan Dinuţa, Diana Codău, Constantin Nica şi Iulia Manea în Dosarul nr. 35.074/3/2008 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 495/2004",
+    "number": "495",
+    "year": "2004",
+    "path": "lege/2004/495"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-07-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130058",
+  "text_sha256": "4b72eaf706b4b18232b82271f6efb2baf227b2d9c186566dc50c8e96a6d62159",
+  "catalogue_sha256": "4b72eaf706b4b18232b82271f6efb2baf227b2d9c186566dc50c8e96a6d62159",
+  "fetched": "2026-11-03T04:26:02Z",
+  "chars": 17075,
+  "portal_id": "130058",
+  "tip": "DECIZIE"
+ }
+}
