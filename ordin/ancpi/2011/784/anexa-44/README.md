@@ -1,0 +1,7 @@
+# Anexa nr. 44: Nr. 2/b (Anexa nr. 4/b la regulament) SIGLA ANCPI Nr. cerere............ Ziua.................. Luna.................. Anul.................. OFICIUL DE CADASTRU ȘI PUBLICITATE IMOBILIARĂ.............
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 129299 (https://legislatie.just.ro/Public/DetaliiDocument/129299)
+- sha256 of that document's text as the service returned it: 77329384bb4abdd9a1b5c649915a91bb49ca16ae50dec98587323a0f7258885c
+- Retrieved: 2026-11-03

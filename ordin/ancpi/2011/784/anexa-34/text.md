@@ -1,0 +1,134 @@
+# Anexa 1.34 (Anexa nr. 1.34 la regulament) Oficiul de Cadastru și Publicitate Imobiliară Sălaj
+Nr.
+crt.
+Județul
+Biroul de cadastru
+și publicitate
+imobiliară
+Unitatea
+administrativ-teritorială
+1.
+SĂLAJ
+Zalău
+municipiul Zalău
+2.
+orașul Cehu Silvaniei
+3.
+orașul Jibou
+4.
+comuna Agrij
+5.
+comuna Almașu
+6.
+comuna Băbeni
+7.
+comuna Bălan
+8.
+comuna Benesat
+9.
+comuna Bocșa
+10.
+comuna Buciumi
+11.
+comuna Coșeiu
+12.
+comuna Creaca
+13.
+comuna Crișeni
+14.
+comuna Cristolt
+15.
+comuna Cuzăplac
+16.
+comuna Dobrin
+17.
+comuna Dragu
+18.
+comuna Fildu de Jos
+19.
+comuna Gâlgău
+20.
+comuna Gârbou
+21.
+comuna Hereclean
+22.
+comuna Hida
+23.
+comuna Ileanda
+24.
+comuna Letca
+25.
+comuna Lozna
+26.
+comuna Meseșenii de Jos
+27.
+comuna Mirșid
+28.
+comuna Năpradea
+29.
+comuna Poiana Blenchii
+30.
+comuna Românași
+31.
+comuna Rus
+32.
+comuna Sălățig
+33.
+comuna Șamșud
+34.
+comuna Sânmihaiu Almașului
+35.
+comuna Șimișna
+36.
+comuna Someș-Odorhei
+37.
+comuna Surduc
+38.
+comuna Treznea
+39.
+comuna Zalha
+40.
+comuna Zimbor
+41.
+Șimleu Silvaniei
+orașul Șimleu Silvaniei
+42.
+comuna Bănișor
+43.
+comuna Bobota
+44.
+comuna Boghiș
+45.
+comuna Camăr
+46.
+comuna Carastelec
+47.
+comuna Chieșd
+48.
+comuna Cizer
+49.
+comuna Crasna
+50.
+comuna Halmășd
+51.
+comuna Horoatu Crasnei
+52.
+comuna Ip
+53.
+comuna Măeriște
+54.
+comuna Marca
+55.
+comuna Nușfalău
+56.
+comuna Pericei
+57.
+comuna Plopiș
+58.
+comuna Sâg
+59.
+comuna Șărmășag
+60.
+comuna Valcău de Jos
+61.
+comuna Vârșolț

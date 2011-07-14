@@ -1,0 +1,244 @@
+# Anexa 1.36 (Anexa nr. 1.36 la regulament)
+Nr.
+crt.
+Județul
+Biroul de cadastru
+și publicitate
+imobiliară
+Unitatea
+administrativ-teritorială
+1.
+SUCEAVA
+Suceava
+municipiul Suceava
+2.
+orașul Liteni
+3.
+orașul Salcea
+4.
+comuna Adâncata
+5.
+comuna Bălăceana
+6.
+comuna Bosanci
+7.
+comuna Botoșana
+8.
+comuna Ciprian Porumbescu
+9.
+comuna Comănești
+10.
+comuna Dărmănești
+11.
+comuna Dumbrăveni
+12.
+comuna Fântânele
+13.
+comuna Hănțești
+14.
+comuna Ilișești
+15.
+comuna Ipotești
+16.
+comuna Mitocu Dragomirnei
+17.
+comuna Moara
+18.
+comuna Pătrăuți
+19.
+comuna Șcheia
+20.
+comuna Siminicea
+21.
+comuna Stroiești
+22.
+comuna Todirești
+23.
+comuna Udești
+24.
+comuna Verești
+25.
+comuna Zvoriștea
+26.
+Câmpulung Moldovenesc
+municipiul Câmpulung Moldovenesc
+27.
+comuna Breaza
+28.
+comuna Frumosu
+29.
+comuna Fundu Moldovei
+30.
+comuna Izvoarele Sucevei
+31.
+comuna Moldovița-Sulița
+32.
+comuna Moldovița
+33.
+comuna Pojorâta
+34.
+comuna Sadova
+35.
+comuna Vama
+36.
+comuna Vatra Moldoviței
+37.
+Fălticeni
+municipiul Fălticeni
+38.
+orașul Dolhasca
+39.
+comuna Baia
+40.
+comuna Bogdănești
+41.
+comuna Boroaia
+42.
+comuna Bunești
+43.
+comuna Cornu Luncii
+44.
+comuna Dolhești
+45.
+comuna Drăgușeni
+46.
+comuna Fântâna Mare
+47.
+comuna Forăști
+48.
+comuna Hârtop
+49.
+comuna Horodniceni
+50.
+comuna Mălini
+51.
+comuna Preutești
+52.
+comuna Rădășeni
+53.
+comuna Râșca
+54.
+comuna Slatina
+55.
+comuna Vadu Moldovei
+56.
+comuna Vulturești
+57.
+Gura Humorului
+orașul Gura Humorului
+58.
+orașul Frasin
+59.
+comuna Berchișești
+60.
+comuna Cacica
+61.
+comuna Capu Câmpului
+62.
+comuna Drăgoiești
+63.
+comuna Mănăstirea Humorului
+64.
+comuna Ostra
+65.
+comuna Păltinoasa
+66.
+comuna Pârteștii de Jos
+67.
+comuna Stulpicani
+68.
+comuna Valea Moldovei
+69.
+Rădăuți
+municipiul Rădăuți
+70.
+orașul Cajvana
+71.
+orașul Milișăuți
+72.
+orașul Siret
+73.
+orașul Solca
+74.
+orașul Vicovu de Sus
+75.
+comuna Arbore
+76.
+comuna Bălcăuți
+77.
+comuna Bilca
+78.
+comuna Brodina
+79.
+comuna Burla
+80.
+comuna Calafindești
+81.
+comuna Dornești
+82.
+comuna Frătăuții Noi
+83.
+comuna Frătăuții Vechi
+84.
+comuna Gălănești
+85.
+comuna Grămești
+86.
+comuna Grănicești
+87.
+comuna Horodnic de Jos
+88.
+comuna Horodnic de Sus
+89.
+comuna Iaslovăț
+90.
+comuna Marginea
+91.
+comuna Mușenița
+92.
+comuna Poieni-Solca
+93.
+comuna Putna
+94.
+comuna Satu Mare
+95.
+comuna Straja
+96.
+comuna Sucevița
+97.
+comuna Șerbăuți
+98.
+comuna Ulma
+99.
+comuna Vicovu de Jos
+100.
+comuna Voitinel
+101.
+comuna Volovăț
+102.
+comuna Zamostea
+103.
+Vatra Dornei
+municipiul Vatra Dornei
+104.
+orașul Broșteni
+105.
+comuna Cârlibaba
+106.
+comuna Ciocănești
+107.
+comuna Coșna
+108.
+comuna Crucea
+109.
+comuna Dorna-Arini
+110.
+comuna Dorna Candrenilor
+111.
+comuna Iacobeni
+112.
+comuna Panaci
+113.
+comuna Poiana Stampei
+114.
+comuna Șaru Dornei

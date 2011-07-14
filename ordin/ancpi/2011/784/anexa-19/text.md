@@ -1,0 +1,143 @@
+# Anexa 1.19 (Anexa 1.19 la regulament) Oficiul de Cadastru și Publicitate Imobiliară Galați
+Nr.
+crt.
+Județul
+Biroul de cadastru
+și publicitate
+imobiliară
+Unitatea
+administrativ-teritorială
+1.
+GALAȚI
+Galați
+municipiul Galați
+2.
+orașul Berești
+3.
+orașul Târgu Bujor
+4.
+comuna Bălăbănești
+5.
+comuna Bălășești
+6.
+comuna Băleni
+7.
+comuna Băneasa
+8.
+comuna Berești-Meria
+9.
+comuna Braniștea
+10.
+comuna Cavadinești
+11.
+comuna Corni
+12.
+comuna Cuca
+13.
+comuna Cuza Vodă
+14.
+comuna Drăgușeni
+15.
+comuna Fârțănești
+16.
+comuna Foltești
+17.
+comuna Frumușița
+18.
+comuna Jorăști
+19.
+comuna Măstăcani
+20.
+comuna Oancea
+21.
+comuna Pechea
+22.
+comuna Rădești
+23.
+comuna Rediu
+24.
+comuna Scânteiești
+25.
+comuna Schela
+26.
+comuna Șendreni
+27.
+comuna Slobozia Conachi
+28.
+comuna Smârdan
+29.
+comuna Smulți
+30.
+comuna Suceveni
+31.
+comuna Suhurlui
+32.
+comuna Tulucești
+33.
+comuna Vânători
+34.
+comuna Vârlezi
+35.
+comuna Vlădești
+36.
+Liești
+comuna Liești
+37.
+comuna Barcea
+38.
+comuna Costache Negri
+39.
+comuna Fundeni
+40.
+comuna Grivița
+41.
+comuna Independența
+42.
+comuna Ivești
+43.
+comuna Nămoloasa
+44.
+comuna Piscu
+45.
+comuna Tudor Vladimirescu
+46.
+comuna Umbrărești
+47.
+Tecuci
+municipiul Tecuci
+48.
+comuna Brăhășești
+49.
+comuna Buciumeni
+50.
+comuna Cerțești
+51.
+comuna Corod
+52.
+comuna Cosmești
+53.
+comuna Cudalbi
+54.
+comuna Drăgănești
+55.
+comuna Ghidigeni
+56.
+comuna Gohor
+57.
+comuna Matca
+58.
+comuna Movileni
+59.
+comuna Munteni
+60.
+comuna Negrilești
+61.
+comuna Nicorești
+62.
+comuna Poiana
+63.
+comuna Priponești
+64.
+comuna Țepu
+65.
+comuna Valea Mărului
