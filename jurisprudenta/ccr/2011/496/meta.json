@@ -1,0 +1,238 @@
+{
+ "key": "dcc-496-2011",
+ "label": "Decizia CCR nr. 496/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "496",
+ "date": "2011-04-19",
+ "year": "2011",
+ "heading": "DECIZIE nr. 496 din 19 aprilie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 26 alin. (5), (8) şi (10) şi art. 74 alin. (2) şi (3) din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "502",
+  "bis": false,
+  "date": "2011-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "35.649/245/2009",
+  "2.501/245/2010",
+  "2.156D/2010",
+  "1.896D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 26 alin. (5), (8) şi (10) şi art. 74 alin. (2) şi (3) din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal, excepţie ridicată de Teodor-Ciprian Roman în Dosarul nr. 35.649/245/2009 şi de Ionuţ Munteanu în Dosarul nr. 2.501/245/2010, dosare ale Judecătoriei Iaşi - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "5",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 83/2010",
+    "number": "83",
+    "year": "2010",
+    "path": "lege/2010/83"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130076",
+  "text_sha256": "1fbdc7d1b17dcc16f97659495458c746dfddd76d39b31cddec9126a4544464af",
+  "catalogue_sha256": "1fbdc7d1b17dcc16f97659495458c746dfddd76d39b31cddec9126a4544464af",
+  "fetched": "2026-11-04T02:03:49Z",
+  "chars": 12134,
+  "portal_id": "130076",
+  "tip": "DECIZIE"
+ }
+}
