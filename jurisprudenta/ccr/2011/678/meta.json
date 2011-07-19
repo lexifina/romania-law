@@ -1,0 +1,142 @@
+{
+ "key": "dcc-678-2011",
+ "label": "Decizia CCR nr. 678/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "678",
+ "date": "2011-05-31",
+ "year": "2011",
+ "heading": "DECIZIE nr. 678 din 31 mai 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (4) şi art. 5 alin. (1) lit. m) din Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "509",
+  "bis": false,
+  "date": "2011-07-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "569/62/2010"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (4) şi art. 5 alin. (1) lit. m) din Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004, excepţie ridicată de Gheorghe Corboş în Dosarul nr. 569/62/2010 al Tribunalului Braşov - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-07-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130153",
+  "text_sha256": "b0c529f0b9c156d21e270bdabdfb962f8f748194d087b0511de2db40ec3ee5df",
+  "catalogue_sha256": "b0c529f0b9c156d21e270bdabdfb962f8f748194d087b0511de2db40ec3ee5df",
+  "fetched": "2026-11-03T04:25:51Z",
+  "chars": 10803,
+  "portal_id": "130153",
+  "tip": "DECIZIE"
+ }
+}
