@@ -1,0 +1,196 @@
+{
+ "key": "dcc-297-2011",
+ "label": "Decizia CCR nr. 297/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "297",
+ "date": "2011-03-01",
+ "year": "2011",
+ "heading": "DECIZIE nr. 297 din 1 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 17-20 din Legea nr. 329/2009 privind reorganizarea unor autorităţi şi instituţii publice, raţionalizarea cheltuielilor publice, susţinerea mediului de afaceri şi respectarea acordurilor-cadru cu Comisia Europeană şi Fondul Monetar Internaţional",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "513",
+  "bis": false,
+  "date": "2011-07-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.354/63/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 329/2009",
+    "number": "329",
+    "year": "2009",
+    "path": "lege/2009/329"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 17-20 din Legea nr. 329/2009 privind reorganizarea unor autorităţi şi instituţii publice, raţionalizarea cheltuielilor publice, susţinerea mediului de afaceri şi respectarea acordurilor-cadru cu Comisia Europeană şi Fondul Monetar Internaţional, excepţie ridicată de Cornel Boiangiu în Dosarul nr. 1.354/63/2010 al Tribunalului Dolj - Secţia conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 329/2009",
+    "number": "329",
+    "year": "2009",
+    "path": "lege/2009/329"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 11/2011",
+    "number": "11",
+    "year": "2011",
+    "path": "oug/2011/11"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-07-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130195",
+  "text_sha256": "d815053174642501eb6a9cce16659de24e0c7fd6cecd07c4beaba0ccc73adc1e",
+  "catalogue_sha256": "d815053174642501eb6a9cce16659de24e0c7fd6cecd07c4beaba0ccc73adc1e",
+  "fetched": "2026-11-03T04:25:49Z",
+  "chars": 12676,
+  "portal_id": "130195",
+  "tip": "DECIZIE"
+ }
+}
