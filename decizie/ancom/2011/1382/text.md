@@ -1,0 +1,8 @@
+# Text
+Art. IV. – La articolul 16 din Decizia președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 459/2010 privind alocarea și utilizarea numerelor naționale scurte pentru servicii de interes public la nivel național, publicată în Monitorul Oficial al României, Partea I, nr. 497 din 19 iulie 2010, alineatul (2) se modifică și va avea următorul cuprins:
+„(2) Cu caracter tranzitoriu, numerele naționale scurte 1951 și 1958 pot fi utilizate în condițiile existente la data intrării în vigoare a prezentei decizii, pentru o perioadă de 2 ani de la expirarea perioadei prevăzute la alin. (1).”
+Art.V. – La articolul 10 din Decizia președintelui Autorității Naționale de Reglementare în Comunicații nr. 144/EN/2006 privind implementarea portabilității numerelor, publicată în Monitorul Oficial al României, Partea I, nr. 352 din 19 aprilie 2006, cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins:
+„Art.10. – (1) Procesul de portare a numărului va fi finalizat în termen de maximum 3 zile lucrătoare de la data transmiterii unei cereri acceptate atât de furnizorul acceptor, cât și de furnizorul donor, cu excepția următoarelor cazuri:
+a) abonatul solicită ca portarea să se realizeze într-un termen mai lung;
+5/5 b) conectarea/deconectarea abonatului implică realizarea unor operațiuni complexe care necesită o perioadă mai mare de timp.”
+Art.VI. – Prezenta decizie se publică în Monitorul Oficial al României, Partea I, iar dispozițiile art. V intră în vigoare la o dată stabilită prin decizie a președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații.
