@@ -1,0 +1,201 @@
+{
+ "key": "dcc-414-2011",
+ "label": "Decizia CCR nr. 414/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "414",
+ "date": "2011-04-07",
+ "year": "2011",
+ "heading": "DECIZIE nr. 414 din 7 aprilie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 50/2006 privind unele măsuri pentru asigurarea bunei funcţionări a instanţelor judecătoreşti şi parchetelor şi pentru prorogarea unor termene, ale Ordonanţei de urgenţă a Guvernului nr. 154/2007 pentru prorogarea termenului prevăzut la art. III din titlul XVI al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente şi ale Ordonanţei de urgenţă a Guvernului nr. 137/2008 pentru prorogarea unor termene",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "522",
+  "bis": false,
+  "date": "2011-07-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.962/271/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 50/2006",
+    "number": "50",
+    "year": "2006",
+    "path": "oug/2006/50"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 137/2008",
+    "number": "137",
+    "year": "2008",
+    "path": "oug/2008/137"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 50/2006 privind unele măsuri pentru asigurarea bunei funcţionări a instanţelor judecătoreşti şi parchetelor şi pentru prorogarea unor termene, ale Ordonanţei de urgenţă a Guvernului nr. 154/2007 pentru prorogarea termenului prevăzut la art. III din titlul XVI al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente şi ale Ordonanţei de urgenţă a Guvernului nr. 137/2008 pentru prorogarea unor termene, excepţie ridicată de Ridy Iosif Carol în Dosarul nr. 5.962/271/2007 al Judecătoriei Oradea - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 50/2006",
+    "number": "50",
+    "year": "2006",
+    "path": "oug/2006/50"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 137/2008",
+    "number": "137",
+    "year": "2008",
+    "path": "oug/2008/137"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 154/2007",
+    "number": "154",
+    "year": "2007",
+    "path": "oug/2007/154"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-07-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130284",
+  "text_sha256": "a5894197c47f7d2d1d7fbd0b8e933abd32fe26210c416841a0d02caa72f28133",
+  "catalogue_sha256": "a5894197c47f7d2d1d7fbd0b8e933abd32fe26210c416841a0d02caa72f28133",
+  "fetched": "2026-11-03T04:25:38Z",
+  "chars": 10342,
+  "portal_id": "130284",
+  "tip": "DECIZIE"
+ }
+}
