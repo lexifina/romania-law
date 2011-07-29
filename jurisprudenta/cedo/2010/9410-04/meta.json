@@ -1,0 +1,121 @@
+{
+ "key": "cedo-9410-04-2010-04-06",
+ "label": "CEDO, Lefter Niţă c. României, 2010-04-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2010-04-06",
+ "year": "2010",
+ "heading": "HOTĂRÂRE din 6 aprilie 2010, definitivă la 6 iulie 2010,",
+ "subtitle": "în Cauza Lefter Niţă împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "538",
+  "bis": false,
+  "date": "2011-07-29",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "9410/04"
+ ],
+ "case_name": "Lefter Niţă",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1; 2. hotărăşte că a fost încălcat art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte că nu este necesar să se pronunţe cu privire la admisibilitatea şi temeinicia celorlalte capete de cerere; 4. hotărăşte",
+  "a) că, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, statul pârât trebuie să plătească reclamantului suma de 2.800 EUR (două mii opt sute de euro) pentru toate prejudiciile, plus orice sumă ce poate fi datorată cu titlu de impozit, sumă care trebuie convertită în moneda naţională la cursul de schimb aplicabil la data plăţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130435",
+  "text_sha256": "40aa204c1df146a13f87599414938baa96c2c0a90c40d82c97a702fa2fe0b916",
+  "catalogue_sha256": "40aa204c1df146a13f87599414938baa96c2c0a90c40d82c97a702fa2fe0b916",
+  "fetched": "2026-11-03T04:25:28Z",
+  "chars": 15639,
+  "portal_id": "130435",
+  "tip": "HOTĂRÂRE"
+ }
+}
