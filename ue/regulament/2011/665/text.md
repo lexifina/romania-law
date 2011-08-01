@@ -1,0 +1,49 @@
+REGULAMENTUL (UE) NR. 665/2011 AL COMISIEI
+din 11 iulie 2011
+privind autorizarea și refuzul autorizării anumitor mențiuni de sănătate atribuite produselor alimentare și referitoare la reducerea riscului de îmbolnăvire
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1924/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 privind mențiunile nutriționale și de sănătate înscrise pe produsele alimentare (1), în special articolul 17 alineatul (3),
+întrucât:
+(1) În temeiul Regulamentului (CE) nr. 1924/2006, mențiunile de sănătate formulate pentru alimente sunt interzise, cu excepția cazului în care sunt autorizate de Comisie în conformitate cu regulamentul respectiv și sunt incluse într-o listă a mențiunilor autorizate.
+(2) Regulamentul (CE) nr. 1924/2006 prevede, de asemenea, că cererile de autorizare a mențiunilor de sănătate pot fi trimise de către operatorii din sectorul alimentar autorității naționale competente a unui stat membru. Autoritatea națională competentă înaintează cererile valabile Autorității Europene pentru Siguranța Alimentară (EFSA), denumită în continuare „autoritatea”.
+(3) După primirea unei cereri, autoritatea trebuie să informeze fără întârziere celelalte state membre și Comisia și să emită un aviz cu privire la mențiunea de sănătate respectivă.
+(4) Comisia trebuie să ia o decizie cu privire la autorizarea mențiunilor de sănătate, ținând cont de avizul emis de autoritate.
+(5) Cele trei avize la care se face referire în prezentul regulament sunt legate de cererile referitoare la mențiunile privind reducerea riscului de îmbolnăvire, astfel cum se menționează la articolul 14 alineatul (1) litera (a) din Regulamentul (CE) nr. 1924/2006.
+(6) Ca urmare a unei cereri din partea Wrigley GmbH, transmisă în temeiul articolului 14 alineatul (1) litera (a) din Regulamentul (CE) nr. 1924/2006, autorității i-a revenit sarcina de a formula un aviz cu privire la o mențiune de sănătate privind efectele gumei de mestecat fără zahăr asupra reducerii demineralizării dinților (Întrebarea nr. EFSA-Q-2010-00119) (2). Mențiunea de sănătate propusă de solicitant a fost formulată după cum urmează: „Mestecarea de gumă de mestecat fără zahăr remineralizează smalțul dinților, ceea ce reduce riscul apariției cariilor dentare”.
+(7) Pe baza datelor prezentate, autoritatea a concluzionat în avizul său, primit de Comisie și de statele membre la 1 octombrie 2010, că a fost stabilită o relație cauză-efect între consumul de gumă de mestecat fără zahăr și efectul pretins. Prin urmare, o mențiune de sănătate care reflectă această concluzie ar trebui considerată conformă cu cerințele Regulamentului (CE) nr. 1924/2006 și ar trebui inclusă în lista mențiunilor permise a Uniunii.
+(8) Ca urmare a unei cereri din partea Wrigley GmbH, transmisă în temeiul articolului 14 alineatul (1) litera (a) din Regulamentul (CE) nr. 1924/2006, autorității i s-a solicitat să formuleze un aviz cu privire la o mențiune de sănătate privind efectele gumei de mestecat fără zahăr asupra neutralizării acizilor din placă, ceea ce reduce riscul apariției cariilor dentare (Întrebarea nr. EFSA-Q-2010-00120) (3). Mențiunea de sănătate propusă de solicitant a fost formulată după cum urmează: „Mestecarea de gumă de mestecat fără zahăr neutralizează acizii din placă, ceea ce reduce riscul apariției cariilor dentare”.
+(9) Pe baza datelor prezentate, autoritatea a concluzionat în avizul său, primit de Comisie și de statele membre la 1 octombrie 2010, că a fost stabilită o relație cauză-efect între consumul de gumă de mestecat fără zahăr și efectul pretins. Prin urmare, o mențiune de sănătate care reflectă această concluzie ar trebui considerată conformă cu cerințele Regulamentului (CE) nr. 1924/2006 și ar trebui inclusă în lista mențiunilor permise a Uniunii.
+(10) Articolul 16 alineatul (4) din Regulamentul (CE) nr. 1924/2006 prevede că un aviz în favoarea autorizării unei mențiuni de sănătate trebuie să includă anumite caracteristici. În consecință, informațiile respective ar trebui să fie indicate în anexa I la prezentul regulament în ceea ce privește mențiunile autorizate și să includă, după caz, formularea revizuită a mențiunilor, condițiile specifice de utilizare a mențiunilor, precum și, dacă este cazul, condițiile sau restricțiile de utilizare a alimentului și/sau o indicație sau o avertizare suplimentară, în conformitate cu normele stabilite în Regulamentul (CE) nr. 1924/2006 și cu avizele autorității.
+(11) Unul dintre obiectivele Regulamentului (CE) nr. 1924/2006 este de a asigura veridicitatea, claritatea, fiabilitatea și utilitatea mențiunilor de sănătate pentru consumator și faptul că formularea și prezentarea sunt luate în considerare în acest sens. Prin urmare, orice mențiune de sănătate a cărei formulare are același înțeles pentru consumatori ca și cea a unei mențiuni de sănătate autorizate, din moment ce ea demonstrează că există aceeași relație între o categorie de alimente, un aliment sau unul dintre constituenții săi și sănătate, ea ar trebui să facă obiectul acelorași condiții de utilizare, indicate în anexa I.
+(12) Ca urmare a unei cereri din partea GP International Holding B.V., transmisă în temeiul articolului 14 alineatul (1) litera (a) din Regulamentul (CE) nr. 1924/2006, autorității i-a revenit sarcina de a formula un aviz cu privire la o mențiune de sănătate privind efectele produsului OPC Plus asupra reducerii riscului de insuficiență venoasă cronică (Întrebarea nr. EFSA-Q-2009-00751) (4). Mențiunea de sănătate propusă de solicitant a fost formulată după cum urmează: „S-a demonstrat că OPC Plus intensifică microcirculația și, prin urmare, poate reduce riscul de insuficiență venoasă cronică.”
+(13) Pe baza datelor prezentate, autoritatea a concluzionat în avizul său, primit de Comisie și de statele membre la 7 septembrie 2010, că nu a fost stabilită o relație cauză-efect între consumul de OPC Plus și efectul pretins. În consecință, având în vedere că mențiunea de sănătate nu îndeplinește cerințele Regulamentului (CE) nr. 1924/2006, aceasta nu ar trebui autorizată.
+(14) Observațiile solicitanților și ale membrilor publicului primite de Comisie în conformitate cu articolul 16 alineatul (6) din Regulamentul (CE) nr. 1924/2006 au fost luate în considerare în momentul stabilirii măsurilor prevăzute în prezentul regulament.
+(15) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru lanțul alimentar și sănătatea animală și nu au întâmpinat nicio opoziție din partea Parlamentului European sau a Consiliului,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+(1) Mențiunile de sănătate enumerate în anexa I la prezentul regulament pot fi atribuite produselor alimentare de pe piața Uniunii Europene în conformitate cu condițiile prevăzute în anexa respectivă.
+(2) Mențiunile de sănătate prevăzute la alineatul (1) se includ în lista mențiunilor autorizate a Uniunii, prevăzută la articolul 14 alineatul (1) din Regulamentul (CE) nr. 1924/2006.
+Articolul 2
+Mențiunile de sănătate enumerate în anexa II la prezentul regulament nu se includ în lista mențiunilor autorizate a Uniunii, prevăzută la articolul 14 alineatul (1) din Regulamentul (CE) nr. 1924/2006.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 11 iulie 2011.
+Pentru Comisie
+Președintele
+José Manuel BARROSO
+(1) JO L 404, 30.12.2006, p. 9.
+(2) The EFSA Journal, 2010; 8(10):1775.
+(3) The EFSA Journal, 2010; 8(10):1776.
+(4) The EFSA Journal 2010; 8(7):1691.
+ANEXA I
+MENȚIUNI DE SĂNĂTATE AUTORIZATE
+Cerere – Dispoziții relevante din Regulamentul (CE) nr. 1924/2006 | Solicitant – Adresă | Nutrient, substanță, aliment sau categorie de alimente | Mențiune | Condiții de utilizare a mențiunii | Condiții și/sau restricții de utilizare a produsului alimentar și/sau afirmații sau avertizări suplimentare | Referința avizului EFSA
+Articolul 14 alineatul (1) litera (a) – mențiune de sănătate care se referă la reducerea riscului de îmbolnăvire | Wrigley GmbH, Scientific and Regulatory Affairs EMEAI, Biberger str. 18, D-82008, Unterhaching, Germania | Gumă de mestecat fără zahăr | Guma de mestecat fără zahăr ajută la reducerea demineralizării dinților. Demineralizarea dinților este un factor de risc în ceea ce privește dezvoltarea cariilor dentare. | Consumatorul va fi informat cu privire la faptul că efectul benefic se obține prin mestecarea a 2-3 g de gumă de mestecat fără zahăr timp de 20 de minute, cel puțin de trei ori pe zi, după mese. | | Q-2010-00119
+Articolul 14 alineatul (1) litera (a) – mențiune de sănătate care se referă la reducerea riscului de îmbolnăvire | Wrigley GmbH, Scientific and Regulatory Affairs EMEAI, Biberger str. 18, D-82008, Unterhaching, Germania | Gumă de mestecat fără zahăr | Guma de mestecat fără zahăr ajută la neutralizarea acizilor din placă. Acizii din placă sunt un factor de risc în ceea ce privește dezvoltarea cariilor dentare. | Consumatorul va fi informat cu privire la faptul că efectul benefic se obține prin mestecarea a 2-3 g de gumă de mestecat fără zahăr timp de 20 de minute, cel puțin de trei ori pe zi, după mese. | | Q-2010-00120
+ANEXA II
+MENȚIUNE DE SĂNĂTATE RESPINSĂ
+Cerere – Dispoziții relevante din Regulamentul (CE) nr. 1924/2006 | Nutrient, Substanță, aliment sau categorie de alimente | Mențiune | Referința avizului EFSA
+Articolul 14 alineatul (1) litera (a) – mențiune de sănătate referitoare la reducerea riscului de îmbolnăvire | OPC Plus | S-a demonstrat că OPC Plus intensifică microcirculația și, prin urmare, poate reduce riscul de insuficiență venoasă cronică. | Q-2009-00751
