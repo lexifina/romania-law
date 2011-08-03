@@ -1,0 +1,20 @@
+# Anexa
+Denumirea instituției de credit:............... Data pentru care se face raportarea:../../.. Data întocmirii raportării:../../.. 1. Fonduri proprii (FP) = 2. 25% x FP = 3. 150 mil. EURO = 4. limită = ___________ * Echivalentul se calculează la cursul de schimb în vigoare comunicat de Banca Națională a României în ultima zi bancară lucrătoare a perioadei pentru care se întocmește raportarea. ** Stabilită potrivit art. 122 alin. (3) din Regulamentul Băncii Naționale a României nr. 18/2009, cu modificările și completările ulterioare. Tabelul nr. 1 SITUAȚIA privind expunerile față de persoanele aflate în relații speciale cu instituția de credit
+- lei -
+Nr. crt. Codul Tipul entității Denumirea Tipul relației speciale Expunere brută Ajustări de valoare/ provizioane aferente Sume exceptate Expunere supusă limitării
+fără protecție cu protecție valoare absolută % din FP
+finanțată nefinanțată
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12)
+TOTAL aferent entităților identificate cu cod "1"
+TOTAL:
+Col.(2): codurile vor fi stabilite de către instituția de credit astfel încât acestea să permită identificarea unică a fiecărui debitor; dacă entitățile fac obiectul raportării și în alte grupuri care fac obiectul altor raportări, acestea primesc același cod de identificare. Col.(3): se va completa cu: "1" - pentru entități care nu sunt instituții; "2" - pentru entități care sunt instituții. Col.(5): încadrarea se va face potrivit art. 119 alin. (2) din Regulamentul Băncii Naționale a României nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora, cu modificările și completările ulterioare. Col.(6): expunerea existentă înaintea deducerii ajustărilor de valoare/provizioanelor aferente și înaintea aplicării art. 11 alin. (2) din Regulamentul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 14/24/2010 privind expunerile mari ale instituțiilor de credit și ale firmelor de investiții, aprobat prin Ordinul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/89/2010. Col.(8),(9) și (10): expunerea exceptată conform art. 11 alin. (2) din Regulamentul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 14/24/2010, aprobat prin Ordinul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/89/2010. Col.(11): Col.(6) - col.(7) - col.(8) - col.(9) - col.(10). Col.(12): Col.(11)/FP x 100. Tabelul nr. 2 SITUAȚIA privind expunerile față de persoanele aflate în relații speciale cu instituția de credit care necesită aprobarea prealabilă a structurii de conducere a instituției de credit
+- lei -
+Nr. crt. Codul Denumirea Expuneri înregistrate potrivit art. 123 alin. (1)
+(1) (2) (3) (4)
+TOTAL:
+Col.(2): codurile vor fi stabilite de către instituția de credit astfel încât acestea să permită identificarea unică a fiecărui debitor; dacă entitățile fac obiectul altor raportări, acestea primesc același cod de identificare. Col.(4): expunerile menționate la art. 123 alin. (1) din Regulamentul Băncii Naționale a României nr. 18/2009, cu modificările și completările ulterioare. Tabelul nr. 3 SITUAȚIA privind expunerile deduse din fondurile proprii de nivel I
+- lei -
+Nr. crt. Codul Numele și prenumele Expunerea dedusă din fondurile proprii de nivel I
+(1) (2) (3) (4)
+TOTAL:
+Col.(2): codurile vor fi stabilite de către instituția de credit astfel încât acestea să permită identificarea unică a fiecărui debitor; dacă persoanele fac obiectul altor raportări, acestea primesc același cod de identificare. Col.(4): expunerile deduse din fondurile proprii potrivit art. 127 din Regulamentul Băncii Naționale a României nr. 18/2009, cu modificările și completările ulterioare. Întocmit................... (numele, prenumele și telefonul) Semnătura autorizată....................... (numele, prenumele și telefonul) Semnătura autorizată...................... (numele, prenumele și telefonul) ___________
