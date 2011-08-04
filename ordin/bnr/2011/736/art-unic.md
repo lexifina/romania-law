@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale QUICK LEASING IFN - S.A., cu sediul în municipiul Cluj-Napoca, Calea Turzii nr. 158, județul Cluj, înregistrată la registrul comerțului sub nr. J12/1162/2000, cod unic de înregistrare 13445280, înscrisă în Registrul general la secțiunea k) "Activități multiple de creditare" sub nr. RG-PJR-13-110177. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 22 iulie 2011. Nr. 736. _________
