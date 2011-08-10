@@ -1,0 +1,184 @@
+{
+ "key": "cedo-21199-03-2010-11-02",
+ "label": "CEDO, S.C. Apron Dynamics - S.R.L. Baia Mare c. României, 2010-11-02",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2010-11-02",
+ "year": "2010",
+ "heading": "HOTĂRÂRE din 2 noiembrie 2010",
+ "subtitle": "în Cauza S.C. Apron Dynamics - S.R.L. Baia Mare împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "567",
+  "bis": false,
+  "date": "2011-08-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "21199/03"
+ ],
+ "case_name": "S.C. Apron Dynamics - S.R.L. Baia Mare",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 6 § 1 din Convenţie privind accesul la instanţă şi durata procedurii şi pe art. 1 din Protocolul nr. 1 la Convenţie cu privire la acţiunea de recuperare a pretenţiilor materiale şi lichidarea societăţii A. şi inadmisibilă pentru rest; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 3. hotărăşte că nu este necesar să se examineze capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie; 4. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie:",
+  "(i) 5.000 EUR (cinci mii de euro) pentru prejudiciul moral, la care se va adăuga orice sumă cu titlu de impozit; şi (îi) 2.000 EUR (două mii de euro) pentru cheltuieli de judecată, la care se va adăuga orice sumă cu titlu de impozit;",
+  "b) că sumele de mai sus trebuie convertite în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "c) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii pentru facilitatea de credit marginal practicată de Banca Centrală Europeană, la care se vor adăuga 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru rest."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 13/1995",
+    "number": "13",
+    "year": "1995",
+    "path": "og/1995/13"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130705",
+  "text_sha256": "0c56c43d78fa982c31a62cefd3bf76aa28da0ee1406e496e1815c47bcea3c905",
+  "catalogue_sha256": "0c56c43d78fa982c31a62cefd3bf76aa28da0ee1406e496e1815c47bcea3c905",
+  "fetched": "2026-11-03T04:25:09Z",
+  "chars": 25246,
+  "portal_id": "130705",
+  "tip": "HOTĂRÂRE"
+ }
+}
