@@ -1,0 +1,261 @@
+{
+ "key": "dcc-402-2011",
+ "label": "Decizia CCR nr. 402/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "402",
+ "date": "2011-03-24",
+ "year": "2011",
+ "heading": "DECIZIE nr. 402 din 24 martie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1), art. 3, art. 4 alin. (1) şi (2) şi art. 5 alin. (1) şi (4) din Legea nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora, pronunţate în perioada 6 martie 1945-22 decembrie 1989",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "574",
+  "bis": false,
+  "date": "2011-08-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.804/108/2010",
+  "3.076D/2010",
+  "3.575D/2010",
+  "3.047/108/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1), art. 3, art. 4 alin. (1) şi (2) şi art. 5 alin. (1) şi (4) din Legea nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora, pronunţate în perioada 6 martie 1945-22 decembrie 1989, excepţie ridicată de Sabina Schriffert (nascută Nidermaier), Iosif Tuduri, Tereza Muhari (născută Zagoni Tereza), Laurenţiu Fucs, Kohler Ana, Siegfried-Ioan Bernhardt şi Mariana Bernhardt în dosarele nr. 1.804/108/2010, nr. 2.281/108/2010, nr. 1.835/108/2010, nr. 2.980/108/2010, nr. 3.047/108/2010 şi nr. 2.127/108/2010 ale Tribunalului Arad - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 214/1999",
+    "number": "214",
+    "year": "1999",
+    "path": "oug/1999/214"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-08-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130742",
+  "text_sha256": "7f4d68aef7b9ea12204906dbb270743aee83d0d59bee408e71c4fb78f6eece4a",
+  "catalogue_sha256": "7f4d68aef7b9ea12204906dbb270743aee83d0d59bee408e71c4fb78f6eece4a",
+  "fetched": "2026-11-03T22:27:54Z",
+  "chars": 19148,
+  "portal_id": "130742",
+  "tip": "DECIZIE"
+ }
+}
