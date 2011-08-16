@@ -1,0 +1,173 @@
+{
+ "key": "dcc-714-2011",
+ "label": "Decizia CCR nr. 714/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "714",
+ "date": "2011-05-31",
+ "year": "2011",
+ "heading": "DECIZIE nr. 714 din 31 mai 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 din Ordonanţa de urgenţă a Guvernului nr. 53/2010 privind eşalonarea plăţii indemnizaţiilor prevăzute de Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "579",
+  "bis": false,
+  "date": "2011-08-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.805/90/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 53/2010",
+    "number": "53",
+    "year": "2010",
+    "path": "oug/2010/53"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 3 din Ordonanţa de urgenţă a Guvernului nr. 53/2010 privind eşalonarea plăţii indemnizaţiilor prevăzute de Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004, excepţie ridicată de Toni Popescu în Dosarul nr. 2.805/90/2010 al Tribunalului Vâlcea - Secţia comercială şi contencios administrativ fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 53/2010",
+    "number": "53",
+    "year": "2010",
+    "path": "oug/2010/53"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-08-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130797",
+  "text_sha256": "666b348829f333729735699e6e6c17ba77dc1524b980c581778a2c765793bec4",
+  "catalogue_sha256": "666b348829f333729735699e6e6c17ba77dc1524b980c581778a2c765793bec4",
+  "fetched": "2026-11-03T04:24:59Z",
+  "chars": 10586,
+  "portal_id": "130797",
+  "tip": "DECIZIE"
+ }
+}
