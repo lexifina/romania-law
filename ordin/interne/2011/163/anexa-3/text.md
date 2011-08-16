@@ -1,0 +1,2 @@
+# Anexa 3
+LISTA cuprinzând statele care nu sunt membre ale Convenției asupra circulației rutiere emitente de permise de conducere naționale ce pot fi schimbate fără examinarea sau testarea persoanelor posesoare ale unor astfel de permise 1. Canada 2. Republica Coreea 3. Republica Arabă Egipt 4. Regatul Hașemit al Iordaniei 5. Japonia 6. Republica Libaneză 7. Republica Arabă Siriană 8. Statele Unite ale Americii 9. Republica Turcia 10. Republica Populară Chineză ---------
