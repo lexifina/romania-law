@@ -1,0 +1,214 @@
+{
+ "key": "dcc-757-2011",
+ "label": "Decizia CCR nr. 757/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "757",
+ "date": "2011-06-07",
+ "year": "2011",
+ "heading": "DECIZIE nr. 757 din 7 iunie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. I şi art. II din Ordonanţa de urgenţă a Guvernului nr. 62/2010 pentru modificarea şi completarea Legii nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora, pronunţate în perioada 6 martie 1945-22 decembrie 1989, şi pentru suspendarea aplicării unor dispoziţii din titlul VII al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "590",
+  "bis": false,
+  "date": "2011-08-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "253/97/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 62/2010",
+    "number": "62",
+    "year": "2010",
+    "path": "oug/2010/62"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. I şi art. II din Ordonanţa de urgenţă a Guvernului nr. 62/2010 pentru modificarea şi completarea Legii nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora, pronunţate în perioada 6 martie 1945-22 decembrie 1989, şi pentru suspendarea aplicării unor dispoziţii din titlul VII al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, excepţie ridicată de Ioan Eugen Munteanu în Dosarul nr. 253/97/2010 al Tribunalului Hunedoara - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 62/2010",
+    "number": "62",
+    "year": "2010",
+    "path": "oug/2010/62"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-08-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130904",
+  "text_sha256": "0ad00731a9c179f2678fc0cdbb1111c1b66e79526cae26bbd15e3be313b86cd6",
+  "catalogue_sha256": "0ad00731a9c179f2678fc0cdbb1111c1b66e79526cae26bbd15e3be313b86cd6",
+  "fetched": "2026-11-03T04:24:36Z",
+  "chars": 18095,
+  "portal_id": "130904",
+  "tip": "DECIZIE"
+ }
+}
