@@ -1,0 +1,53 @@
+# Anexa
+Arondarea pe centre universitare de pregătire a unităților sanitare publice pentru care se organizează rezidențiat pe post
+Centrul universitar de pregătire
+Unități sanitare publice din județul
+BUCUREȘTI, CONSTANȚA
+ARGEȘ
+BRĂILA
+BUCUREȘTI
+BUZĂU
+CĂLĂRAȘI
+CONSTANȚA
+DÂMBOVIȚA
+GIURGIU
+IALOMIȚA
+ILFOV
+PRAHOVA
+TELEORMAN
+TULCEA
+CLUJ-NAPOCA, ORADEA
+ALBA
+BIHOR
+CLUJ
+MARAMUREȘ
+SĂLAJ
+SATU MARE
+CRAIOVA, BRAȘOV
+BRAȘOV
+DOLJ
+GORJ
+MEHEDINȚI
+OLT
+VÂLCEA
+IAȘI, GALAȚI
+BACĂU
+BOTOȘANI
+GALAȚI
+IAȘI
+NEAMȚ
+SUCEAVA
+VASLUI
+VRANCEA
+TÂRGU MUREȘ, SIBIU
+BISTRIȚA-NĂSĂUD
+COVASNA
+HARGHITA
+MUREȘ
+SIBIU
+TIMIȘOARA, ARAD
+ARAD
+CARAȘ-SEVERIN
+HUNEDOARA
+TIMIȘ
+----------
