@@ -1,0 +1,208 @@
+{
+ "key": "dcc-873-2011",
+ "label": "Decizia CCR nr. 873/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "873",
+ "date": "2011-06-28",
+ "year": "2011",
+ "heading": "DECIZIE nr. 873 din 28 iunie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 14 alin. (1) lit. e) din Ordonanţa de urgenţă a Guvernului nr. 12/2006 pentru stabilirea unor măsuri de reglementare a pieţei pe filiera cerealelor şi a produselor procesate din cereale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "603",
+  "bis": false,
+  "date": "2011-08-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "17.147/193/2009",
+  "2.344D/2010",
+  "6.593/315/2009",
+  "2.166D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 12/2006",
+    "number": "12",
+    "year": "2006",
+    "path": "oug/2006/12"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 14 alin. (1) lit. e) din Ordonanţa de urgenţă a Guvernului nr. 12/2006 pentru stabilirea unor măsuri de reglementare a pieţei pe filiera cerealelor şi a produselor procesate din cereale, excepţie ridicată de Societatea Comercială Piraeus Leasing România I.F.N. - S.A. din Bucureşti şi de Societatea Comercială Pan Star Comimpex - S.R.L. din Bucureşti în dosarele nr. 17.147/193/2009 şi nr. 6.593/315/2009 ale Judecătoriei Botoşani - Secţia civilă şi Judecătoriei Târgovişte.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 12/2006",
+    "number": "12",
+    "year": "2006",
+    "path": "oug/2006/12"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 93/2009",
+    "number": "93",
+    "year": "2009",
+    "path": "oug/2009/93"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 89/2010",
+    "number": "89",
+    "year": "2010",
+    "path": "lege/2010/89"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-08-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131032",
+  "text_sha256": "e32fc4acca0c3090e58b766817259c8de2d8042f4618415d63d4bad3a987f80a",
+  "catalogue_sha256": "e32fc4acca0c3090e58b766817259c8de2d8042f4618415d63d4bad3a987f80a",
+  "fetched": "2026-11-03T04:24:27Z",
+  "chars": 12184,
+  "portal_id": "131032",
+  "tip": "DECIZIE"
+ }
+}
