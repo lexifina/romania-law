@@ -1,0 +1,176 @@
+{
+ "key": "dcc-902-2011",
+ "label": "Decizia CCR nr. 902/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "902",
+ "date": "2011-06-30",
+ "year": "2011",
+ "heading": "DECIZIE nr. 902 din 30 iunie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 108^1 alin. 1 pct. 1 lit. b), art. 108^4 şi art. 108^5 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "605",
+  "bis": false,
+  "date": "2011-08-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "10.539/4/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "108-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "108-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 108^1 alin. 1 pct. 1 lit. b), art. 108^4 şi art. 108^5 din Codul de procedură civilă, excepţie ridicată de Mihai Micu, Vasila Micu şi Anca Antoaneta Micu în Dosarul nr. 10.539/4/2008 al Curţii de Apel Bucureşti - Secţia a IX-a civilă şi pentru cauze privind proprietatea intelectuală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "108-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "108-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-08-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131055",
+  "text_sha256": "af16e3ce4e10cba1a36f14aa5a6bb78f194d322e6c846bc4c47f15d72cc2fda2",
+  "catalogue_sha256": "af16e3ce4e10cba1a36f14aa5a6bb78f194d322e6c846bc4c47f15d72cc2fda2",
+  "fetched": "2026-11-03T04:24:27Z",
+  "chars": 11575,
+  "portal_id": "131055",
+  "tip": "DECIZIE"
+ }
+}
