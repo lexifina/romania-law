@@ -1,0 +1,274 @@
+{
+ "key": "dcc-701-2011",
+ "label": "Decizia CCR nr. 701/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "701",
+ "date": "2011-05-31",
+ "year": "2011",
+ "heading": "DECIZIE nr. 701 din 31 mai 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 5 alin. (2) şi art. 6 din titlul X al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente şi a celor ale art. 969 şi art. 1073-1077 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "606",
+  "bis": false,
+  "date": "2011-08-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "924/332/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1074",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1075",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1076",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1077",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 5 alin. (2) şi art. 6 din titlul X al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente şi a celor ale art. 969 şi art. 1073-1077 din Codul civil, excepţie ridicată de Maria Axinia în Dosarul nr. 924/332/2010 al Judecătoriei Vânju Mare.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1074",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1075",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1076",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1077",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-08-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131059",
+  "text_sha256": "c2988f67c61b41490794c4487a052814e5aaa7c010c44839d76b26fcc889b628",
+  "catalogue_sha256": "c2988f67c61b41490794c4487a052814e5aaa7c010c44839d76b26fcc889b628",
+  "fetched": "2026-11-03T04:24:24Z",
+  "chars": 6443,
+  "portal_id": "131059",
+  "tip": "DECIZIE"
+ }
+}
