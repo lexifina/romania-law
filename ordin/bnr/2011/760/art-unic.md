@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale PROFI CREDIT ROMÂNIA IFN - S.A., cu sediul în municipiul București, Str. Academiei nr. 39-41, modul 14, sectorul 1, înregistrată la registrul comerțului sub nr. J40/12392/2007, cod de înregistrare fiscală nr. 22001201, înscrisă în Registrul general la secțiunea k) "Activități multiple de creditare" sub nr. RG-PJR-41-110217. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 5 august 2011. Nr. 760. ---------
