@@ -1,0 +1,22 @@
+ DECLARAŢIE DE COOPERARE din 12 iulie 2011  între Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Agenţia de Investigaţii Financiare a Insulelor Virgine Britanice în domeniul schimbului de informaţii având legătură cu spălarea banilor şi finanţarea actelor de terorism*)     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 640 din 7 septembrie 2011     -----------
+						Notă   ...
+			  *) Traducere.   În interes reciproc, pentru a facilita investigarea şi urmărirea penală a persoanelor suspectate de comiterea spălării banilor şi a activităţilor infracţionale ce au legătură cu spălarea banilor sau cu finanţarea actelor de terorism, cu intenţia de a efectua schimbul de informaţii, potrivit principiilor şi bunelor practici ale Grupului Egmont, confirmat prin prezenta declaraţie de cooperare între Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Agenţia de Investigaţii Financiare a Insulelor Virgine Britanice (denumite în continuare agenţii), am hotărât asupra următoarelor principii:
+				 +
+			  Articolul 1     În conformitate cu legislaţia ţărilor respective, pe bază de reciprocitate sau în mod spontan, agenţiile vor coopera, direct ori indirect, pentru a colecta, a procesa şi a analiza informaţiile pe care le deţin cu privire la tranzacţiile financiare suspectate a avea legătură cu spălarea banilor şi/sau finanţarea actelor de terorism ori cu activităţi infracţionale având legătură cu spălarea banilor şi/sau finanţarea actelor de terorism şi persoanele ori companiile implicate. Orice cerere de informaţii trebuie să fie justificată de o scurtă motivaţie pentru evidenţierea faptelor şi o scurtă descriere a modului în care informaţiile vor fi utilizate. Fiecare refuz privind schimbul de informaţii va fi justificat prin expunerea motivelor care stau la baza refuzului. Înainte de a refuza să răspundă la o cerere de informaţii, agenţia va analiza cum poate fi tratată cererea respectivă şi dacă se poate răspunde în alte condiţii. În acest caz, agenţia care a transmis cererea de informaţii trebuie să respecte aceste condiţii.
+				 +
+			  Articolul 2     Informaţiile subiect al schimbului nu vor fi utilizate în investigaţii poliţieneşti, în cadrul unei proceduri penale sau judiciare fără consimţământul prealabil al agenţiei care a furnizat informaţiile.
+				 +
+			  Articolul 3     Nu există restricţii privind schimbul de informaţii în scopul informării şi analizării în cadrul şi între agenţii. Informaţiile nu vor fi însă diseminate către terţe părţi sau folosite în orice alt mod fără consimţământul prealabil al agenţiei care a transmis informaţiile.
+				 +
+			  Articolul 4     Informaţiile subiect al schimbului sunt confidenţiale, fac obiectul secretului oficial şi sunt protejate de cel puţin aceeaşi confidenţialitate ca cea prevăzută de legislaţia naţională a agenţiei care primeşte pentru informaţii similare din surse naţionale. Agenţiile sunt de acord să îşi protejeze sursele de informaţii şi să nu divulge identitatea organizaţiei financiare sau a persoanei fără consimţământul prealabil al agenţiei care a transmis informaţiile.
+				 +
+			  Articolul 5     Relaţia de cooperare dintre cele două agenţii este permisă doar cu respectarea legislaţiei României şi a Insulelor Virgine Britanice.
+				 +
+			  Articolul 6     Prezenta declaraţie poate fi modificată oricând prin acordul ambelor părţi.
+				 +
+			  Articolul 7     Prezenta declaraţie poate fi denunţată oricând. Declaraţia va înceta odată cu primirea notificării scrise privind denunţarea de la cealaltă agenţie. Termenii şi condiţiile referitoare la confidenţialitatea informaţiilor primite anterior încetării prezentei declaraţii vor produce efecte şi după ieşirea acesteia din vigoare.
+				 +
+			  Articolul 8     Prezenta declaraţie va intra în vigoare după semnarea acesteia de către agenţii.
+				 +
+			  Articolul 9     Comunicarea dintre agenţii se va efectua în limba engleză.  Prezenta declaraţie de cooperare a fost încheiată şi semnată în două exemplare originale, în limba engleză.  Pentru Oficiul Naţional de Prevenire şi Combatere  a Spălării Banilor din România,  (semnătură indescifrabilă)  Adrian Cucu,  preşedinte  Semnată la Erevan la 12 iulie 2011  Armenia  Pentru Agenţia de Investigaţii Financiare  a Insulelor Virgine Britanice,  (semnătură indescifrabilă)  Errol George,  director  Semnată la 12 iulie 2011  ------------
