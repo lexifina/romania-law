@@ -1,0 +1,142 @@
+{
+ "key": "dcc-813-2011",
+ "label": "Decizia CCR nr. 813/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "813",
+ "date": "2011-06-21",
+ "year": "2011",
+ "heading": "DECIZIE nr. 813 din 21 iunie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 63 teza a doua din Legea nr. 273/2004 privind regimul juridic al adopţiei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "646",
+  "bis": false,
+  "date": "2011-09-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "41.415/3/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a prevederilor art. 63 teza a doua din Legea nr. 273/2004 privind regimul juridic al adopţiei, excepţie ridicată de Petra Manda în Dosarul nr. 41.415/3/2009 al Tribunalului Gorj - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-09-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131332",
+  "text_sha256": "132378becb154309c635fc1abba8507afecae6ded88e0df62882c61e87a573f7",
+  "catalogue_sha256": "132378becb154309c635fc1abba8507afecae6ded88e0df62882c61e87a573f7",
+  "fetched": "2026-11-03T04:24:05Z",
+  "chars": 7007,
+  "portal_id": "131332",
+  "tip": "DECIZIE"
+ }
+}
