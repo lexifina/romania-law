@@ -1,0 +1,2 @@
+# ANEXĂ
+REGULAMENT privind criteriile și modul de evaluare a performanțelor profesionale individuale anuale ale personalului contractual și de organizare și desfășurare a examenului de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din aparatul propriu al Ministerului Transporturilor și Infrastructurii, precum și din cadrul instituțiilor publice care funcționează în subordinea acestuia
