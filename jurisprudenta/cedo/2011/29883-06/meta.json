@@ -1,0 +1,151 @@
+{
+ "key": "cedo-29883-06-2011-02-08",
+ "label": "CEDO, Micu c. României, 2011-02-08",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2011-02-08",
+ "year": "2011",
+ "heading": "HOTĂRÂRE din 8 februarie 2011",
+ "subtitle": "în Cauza Micu împotriva României - definitivă la 8 mai 2011,",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "651",
+  "bis": false,
+  "date": "2011-09-13",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "29883/06"
+ ],
+ "case_name": "Micu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate,  CURTEA,  1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 3 din Convenţie referitor la condiţiile de detenţie şi inadmisibilă pentru celelalte capete de cerere;  2. hotărăşte că a fost încălcat art. 3 din Convenţie în ceea ce priveşte condiţiile de detenţie îndurate de reclamant în penitenciarele Bucureşti-Jilava şi Bucureşti-Rahova;  3. hotărăşte că nu este necesară examinarea capătului de cerere întemeiat pe art. 3 din Convenţie referitor la condiţiile de detenţie suferite de reclamant în arestul DGPMB;  4. hotărăşte:\n```",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data la care hotărârea devine definitivă, în conformitate cu art. 44 § 2 din Convenţie, suma de 13.200 EUR (treisprezece mii două sute euro) cu titlu de daune morale, care trebuie convertiţi în moneda naţională la rata de schimb aplicabilă la data plăţii, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "b) că de la expirarea termenului menţionat şi până la efectuarea plăţii această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3",
+      "2"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 56/2003",
+    "number": "56",
+    "year": "2003",
+    "path": "oug/2003/56"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131411",
+  "text_sha256": "09c63a9b71190eb1e0908266f6f7cc4de368aefffd2a0086b7ad3fc9f34d6c0a",
+  "catalogue_sha256": "09c63a9b71190eb1e0908266f6f7cc4de368aefffd2a0086b7ad3fc9f34d6c0a",
+  "fetched": "2026-11-03T04:24:02Z",
+  "chars": 56543,
+  "portal_id": "131411",
+  "tip": "HOTĂRÂRE"
+ }
+}
