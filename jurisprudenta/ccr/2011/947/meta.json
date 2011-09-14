@@ -1,0 +1,210 @@
+{
+ "key": "dcc-947-2011",
+ "label": "Decizia CCR nr. 947/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "947",
+ "date": "2011-07-07",
+ "year": "2011",
+ "heading": "DECIZIE nr. 947 din 7 iulie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 12 alin. (2) din Legea nr. 369/2004 privind aplicarea Convenţiei asupra aspectelor civile ale răpirii internaţionale de copii, adoptată la Haga la 25 octombrie 1980, la care România a aderat prin Legea nr. 100/1992",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "654",
+  "bis": false,
+  "date": "2011-09-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.081/3/2010",
+  "4.775D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 369/2004",
+    "number": "369",
+    "year": "2004",
+    "path": "lege/2004/369"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 100/1992",
+    "number": "100",
+    "year": "1992",
+    "path": "lege/1992/100"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 12 alin. (2) din Legea nr. 369/2004 privind aplicarea Convenţiei asupra aspectelor civile ale răpirii internaţionale de copii, adoptată la Haga la 25 octombrie 1980, la care România a aderat prin Legea nr. 100/1992, excepţie ridicată de Rahela-Mihaela Dragomir în Dosarul nr. 9.081/3/2010 (1.661/2010) al Curţii de Apel Bucureşti - Secţia a III-a civilă şi pentru cauze cu minori şi de familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 369/2004",
+    "number": "369",
+    "year": "2004",
+    "path": "lege/2004/369"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 100/1992",
+    "number": "100",
+    "year": "1992",
+    "path": "lege/1992/100"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-09-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131426",
+  "text_sha256": "12a26cbca0418a5e7d8eea67f945634f9f27abf4809b73dd9ec28fa93dc87f94",
+  "catalogue_sha256": "12a26cbca0418a5e7d8eea67f945634f9f27abf4809b73dd9ec28fa93dc87f94",
+  "fetched": "2026-11-03T04:23:59Z",
+  "chars": 11543,
+  "portal_id": "131426",
+  "tip": "DECIZIE"
+ }
+}
