@@ -1,0 +1,186 @@
+{
+ "key": "dcc-861-2011",
+ "label": "Decizia CCR nr. 861/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "861",
+ "date": "2011-06-23",
+ "year": "2011",
+ "heading": "DECIZIE nr. 861 din 23 iunie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 90 alin. 2 şi art. 214 alin. 5 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "655",
+  "bis": false,
+  "date": "2011-09-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "720/35/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 90 alin. 2 şi art. 214 alin. 5 din Codul de procedură penală, excepţie ridicată de Vasile Croitoru în Dosarul nr. 720/35/2010 al Curţii de Apel Oradea - Secţia penală şi pentru cauze cu minori.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-09-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131419",
+  "text_sha256": "98e6a737a52194a49e4611a4eda5d8bb1552f22f522b55979d5d09aca3f77b39",
+  "catalogue_sha256": "98e6a737a52194a49e4611a4eda5d8bb1552f22f522b55979d5d09aca3f77b39",
+  "fetched": "2026-11-03T04:24:02Z",
+  "chars": 8613,
+  "portal_id": "131419",
+  "tip": "DECIZIE"
+ }
+}
