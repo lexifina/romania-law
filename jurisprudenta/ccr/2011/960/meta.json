@@ -1,0 +1,185 @@
+{
+ "key": "dcc-960-2011",
+ "label": "Decizia CCR nr. 960/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "960",
+ "date": "2011-07-12",
+ "year": "2011",
+ "heading": "DECIZIE nr. 960 din 12 iulie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 139 alin. (6) şi (11) din Legea nr. 8/1996 privind dreptul de autor şi drepturile conexe, precum şi a prevederilor art. 9 din Ordonanţa de urgenţă a Guvernului nr. 100/2005 privind asigurarea respectării drepturilor de proprietate industrială",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "668",
+  "bis": false,
+  "date": "2011-09-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "49.503/3/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 100/2005",
+    "number": "100",
+    "year": "2005",
+    "path": "oug/2005/100"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 139 alin. (6) şi (11) din Legea nr. 8/1996 privind dreptul de autor şi drepturile conexe, precum şi a prevederilor art. 9 din Ordonanţa de urgenţă a Guvernului nr. 100/2005 privind asigurarea respectării drepturilor de proprietate industrială, excepţie ridicată de Societatea Comercială \"SPV Investis Imob\" - S.A. din Bucureşti în Dosarul nr. 49.503/3/2008 al Tribunalului Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "6",
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 100/2005",
+    "number": "100",
+    "year": "2005",
+    "path": "oug/2005/100"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-09-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131565",
+  "text_sha256": "9e5783ad1f013b2460f70e2033e380617c4158714f9a7922f30a9dc76731b489",
+  "catalogue_sha256": "9e5783ad1f013b2460f70e2033e380617c4158714f9a7922f30a9dc76731b489",
+  "fetched": "2026-11-03T04:23:50Z",
+  "chars": 15609,
+  "portal_id": "131565",
+  "tip": "DECIZIE"
+ }
+}
