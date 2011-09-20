@@ -1,0 +1,406 @@
+{
+ "key": "dcc-760-2011",
+ "label": "Decizia CCR nr. 760/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "760",
+ "date": "2011-06-07",
+ "year": "2011",
+ "heading": "DECIZIE nr. 760 din 7 iunie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1), art. 2 lit. a) şi b), art. 4 alin. (3) şi (4), art. 7-11 şi art. 13 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, precum şi ale Legii nr. 293/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "668",
+  "bis": false,
+  "date": "2011-09-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "43.858/3/2008",
+  "3.797D/2010",
+  "3.798D/2010",
+  "7.819/2/2009",
+  "3.905D/2010",
+  "10.155/2/2009",
+  "3.908D/2010",
+  "10.239/2/2009",
+  "3.916D/2010",
+  "7.813/2/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 293/2008",
+    "number": "293",
+    "year": "2008",
+    "path": "lege/2008/293"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 2 lit. a), art. 4 alin. (4), art. 8 lit. a) şi art. 11 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii şi ale Legii nr. 293/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Vasile Stanciu în Dosarul nr. 43.858/3/2008, a prevederilor art. 2 lit. a), art. 7-10 şi art. 13 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 24/2008, excepţie ridicată de Eugen Tudoran în Dosarul nr. 7.819/2/2009, a prevederilor art. 1 alin. (1), art. 7, 8 şi 11 din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, precum şi a Legii nr. 293/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Vasile Riglea în Dosarul nr. 10.155/2/2009, a prevederilor art. 7, 8, 11, 13 şi 24 din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Ioan Gocan în Dosarul nr. 10.239/2/2009, a prevederilor art. 2 lit. a), art. 4 alin. (3), art. 7-10 şi art. 13 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Ioana Constantin în Dosarul nr. 7.813/2/2009, a prevederilor art. 8 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Eugen Grigorescu în Dosarul nr. 8.029/2/2009, a prevederilor art. 2 lit. a) şi art. 11 din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Ioan Taropa în Dosarul nr. 10.234/2/2009, a prevederilor art. 2 lit. b) şi art. 7-11 din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Jan Buzatu în Dosarul nr. 868/2/2010, a prevederilor art. 2 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Gheorghe Mija în Dosarul nr. 9.089/2/2009, a prevederilor art. 2 lit. a), art. 8 alin. (1) lit. a) şi art. 11 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Andrei Constantin în Dosarul nr. 6.296/2/2010, toate ale Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 293/2008",
+    "number": "293",
+    "year": "2008",
+    "path": "lege/2008/293"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-09-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131559",
+  "text_sha256": "c0210a790ba8eb1e7e7252d9c6a64d94ed707af13070b9acf86cc83a64b0716c",
+  "catalogue_sha256": "c0210a790ba8eb1e7e7252d9c6a64d94ed707af13070b9acf86cc83a64b0716c",
+  "fetched": "2026-11-03T04:23:50Z",
+  "chars": 36483,
+  "portal_id": "131559",
+  "tip": "DECIZIE"
+ }
+}
