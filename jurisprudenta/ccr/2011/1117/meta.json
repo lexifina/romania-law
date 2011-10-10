@@ -1,0 +1,150 @@
+{
+ "key": "dcc-1117-2011",
+ "label": "Decizia CCR nr. 1117/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1117",
+ "date": "2011-09-08",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.117 din 8 septembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari, în ansamblul ei, cu referire specială la art. 5, 8, 9, 10, 24 şi 25 din acest act normativ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "711",
+  "bis": false,
+  "date": "2011-10-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "12.204/2/2009",
+  "4.266D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Legii nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari, în ansamblul ei, cu referire specială la art. 5, 8, 9, 10, 24 şi 25 din acest act normativ, excepţie ridicată de Şerban Simedrea în Dosarul nr. 12.204/2/2009 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-10-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132030",
+  "text_sha256": "1f83d7c70332b573a07d4e8265535f79a55e0833e48a475813256312a6720b24",
+  "catalogue_sha256": "1f83d7c70332b573a07d4e8265535f79a55e0833e48a475813256312a6720b24",
+  "fetched": "2026-11-05T08:22:09Z",
+  "chars": 9412,
+  "portal_id": "132030",
+  "tip": "DECIZIE"
+ }
+}
