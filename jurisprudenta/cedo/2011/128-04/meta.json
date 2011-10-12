@@ -1,0 +1,115 @@
+{
+ "key": "cedo-128-04-2011-04-12",
+ "label": "CEDO, Gheorghe David şi alte cereri c. României, 2011-04-12",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2011-04-12",
+ "year": "2011",
+ "heading": "DECIZIE din 12 aprilie 2011",
+ "subtitle": "cu privire la Cererea nr. 128/04 introdusă de Gheorghe David şi alte cereri împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "720",
+  "bis": false,
+  "date": "2011-10-12",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "inadmissible",
+  "struck-out"
+ ],
+ "applications": [
+  "128/04",
+  "25485/06",
+  "27079/07",
+  "35612/04",
+  "23311/05"
+ ],
+ "case_name": "Gheorghe David şi alte cereri",
+ "subjects": [],
+ "operative": [
+  "În unanimitate, CURTEA ia act de prevederile declaraţiilor Guvernului pârât în temeiul art. 6 § 1 din Convenţie cu privire la durata procedurilor şi de modalităţile de asigurare a respectării angajamentelor la care se face referire în acestea, hotărăşte să radieze cererile de pe rol în măsura în care au legătură cu plângerea de mai sus, în conformitate cu art. 37 § 1 lit. c) din Convenţie, declară inadmisibile celelalte capete de cerere.",
+  "Jan Sikuta, preşedinte Marialena Tsirli, grefier adjunct",
+  "Anexa",
+  "Cererea nr.",
+  "Reclamanţi",
+  "35.612/04"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132108",
+  "text_sha256": "60cb681b66fd910f84c229e5cc30aead583b2b6ce1311fc3139504b7a1ab06cd",
+  "catalogue_sha256": "60cb681b66fd910f84c229e5cc30aead583b2b6ce1311fc3139504b7a1ab06cd",
+  "fetched": "2026-11-03T04:23:15Z",
+  "chars": 14213,
+  "portal_id": "132108",
+  "tip": "DECIZIE"
+ }
+}
