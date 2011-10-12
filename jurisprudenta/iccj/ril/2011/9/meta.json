@@ -1,0 +1,118 @@
+{
+ "key": "iccj-ril-9-2011",
+ "label": "Decizia ÎCCJ nr. 9/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "9",
+ "date": "2011-06-06",
+ "year": "2011",
+ "heading": "DECIZIE nr. 9 din 6 iunie 2011",
+ "subtitle": "privind recursul în interesul legii formulat de procurorul general cu privire la stabilirea remediului procesual - revizuire sau contestaţie la executare - al hotărârilor definitive de condamnare a unor persoane sub o identitate nereală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "717",
+  "bis": false,
+  "date": "2011-10-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "8/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "461",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabileşte că:",
+  "Hotărârile definitive în care persoana condamnată nu este autorul infracţiunii, o altă persoană utilizând în mod fraudulos identitatea celui condamnat, sunt supuse cazului de revizuire prevăzut de art. 394 alin. 1 lit. a) din Codul de procedură penală.",
+  "Hotărârile definitive prin care o persoană care a săvârşit o infracţiune şi uzând în mod fraudulos de identitatea altei persoane sau a unei persoane inexistente a fost condamnată sub o identitate nereală sunt supuse cazului de contestaţie la executare prevăzut de art. 461 lit. d) teza a II-a din Codul de procedură penală, ce vizează orice alt incident ivit în cursul executării.",
+  "Obligatorie, potrivit art. 414^5 alin. 4 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "461",
+     "alin": null,
+     "lit": [
+      "b",
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "385-3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "365",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-10-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132102",
+  "text_sha256": "09f4a011dffda768349f81fc6f1c8faf78abd0be9f064fd33791bfcdd847ab10",
+  "catalogue_sha256": "09f4a011dffda768349f81fc6f1c8faf78abd0be9f064fd33791bfcdd847ab10",
+  "fetched": "2026-11-03T04:23:16Z",
+  "chars": 17477,
+  "portal_id": "132102",
+  "tip": "DECIZIE"
+ }
+}
