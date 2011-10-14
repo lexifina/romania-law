@@ -1,0 +1,131 @@
+{
+ "key": "iccj-ril-8-2011",
+ "label": "Decizia ÎCCJ nr. 8/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "8",
+ "date": "2011-06-06",
+ "year": "2011",
+ "heading": "DECIZIE nr. 8 din 6 iunie 2011",
+ "subtitle": "privind examinarea recursului în interesul legii formulat de către Colegiul de conducere al Curţii de Apel Braşov prin Sesizarea nr. 1.304/26 din 25 octombrie 2010, pentru a se stabili dacă \"judecătorul care a participat la judecarea recursului împotriva încheierii prin care s-a dispus luarea sau prelungirea arestării preventive în cursul urmăririi penale devine incompatibil sau nu să soluţioneze cauza în fond, apel ori recurs\".",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "727",
+  "bis": false,
+  "date": "2011-10-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "7/2011"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Braşov şi stabileşte că:",
+  "Judecătorul care a participat la judecarea recursului împotriva încheierii prin care s-a soluţionat propunerea de luare sau prelungire a măsurii arestării preventive a învinuitului ori inculpatului în cursul urmăririi penale nu devine incompatibil să judece cauza în fond, apel sau recurs.",
+  "Obligatorie, potrivit art. 414^5 alin. 4 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "385-9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "149-1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "68-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "287",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-10-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132192",
+  "text_sha256": "5d2f793d4d7e67e337e7c844792418d6f3ff80e0ccf7dfeeb8f96bb732bb2ff4",
+  "catalogue_sha256": "5d2f793d4d7e67e337e7c844792418d6f3ff80e0ccf7dfeeb8f96bb732bb2ff4",
+  "fetched": "2026-11-03T04:23:10Z",
+  "chars": 24593,
+  "portal_id": "132192",
+  "tip": "DECIZIE"
+ }
+}
