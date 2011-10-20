@@ -1,0 +1,73 @@
+# Anexa nr. 1 la anexa nr. 1
+Anexa la metodologie - Model - Ministerul Educației, Cercetării, Tineretului și Sportului Inspectoratul Școlar..................................... Unitatea de învățământ................................... CONTRACT DE PARTENERIAT ȘCOALĂ - FAMILIE în cadrul Programului "Școala după școală" - învățământ primar - I. Părțile semnatare 1. Unitatea de învățământ..............................., denumită în continuare școala, cu sediul în............................, str............... nr.........., reprezentată prin director, prof................................., și 2. Părintele/Reprezentantul legal al elevului, doamna/domnul........................................., cu domiciliul în............................., str.................................. nr..................................., telefon................................................. II. Scopul contractului 1. Asigurarea condițiilor optime de derulare a procesului de învățământ în cadrul Programului "Școala după școală" prin implicarea și responsabilizarea părților în educația copiilor/elevilor. 2. Școala își asumă principala responsabilitate în procesul instructiv-educativ. 3. Părintele se declară responsabil pentru educarea și comportamentul copilului, precum și pentru colaborarea cu școala în scopul atingerii obiectivelor educaționale. III. Obligațiile părților Pentru desfășurarea, la standarde de calitate, a procesului instructiv-educativ, părțile se angajează, prin voința proprie, după cum urmează: 1. Școala se obligă:
+a) să respecte prevederile Metodologiei de organizare a Programului "Școala după școală", aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.349/2011;
+b) să asigure spațiul, cadrul organizatoric și logistic pentru desfășurarea procesului educațional din cadrul Programului "Școala după școală", conform prevederilor legale;
+c) să informeze părintele, în timp util, despre toate schimbările care se produc în structura Programului "Școala după școală" (orar, resurse umane implicate etc.), precum și despre absențele elevului;
+d) să ofere servicii educaționale de calitate, la nivelul standardelor solicitate de Ministerul Educației, Cercetării, Tineretului și Sportului, pentru fiecare nivel de studiu/ciclu de școlarizare;
+e) să asigure un sistem transparent de evaluare a elevului, care să pună în evidență evoluția acestuia, precum și măsurile concrete care se iau pentru remedierea dificultăților de învățare;
+f) să asigure funcționarea eficientă a echipei pedagogice implicate în educația elevului;
+g) să asigure securitatea și siguranța elevilor pe perioada prezenței acestora în spațiul în care se derulează Programul "Școala după școală" (săli de curs, sală pentru servirea mesei, curtea școlii etc.), precum și pe durata deplasărilor organizate;
+h) să coopereze cu toate instituțiile și structurile de ale căror servicii beneficiază școala și de care depinde bunul mers al activității din cadrul Programului "Școala după școală";
+i) să dea dovadă de respect și considerație în relațiile cu elevii și părinții acestora/reprezentanții lor legali, într-un raport de egalitate;
+j) să nu desfășoare acțiuni de natură să afecteze imaginea publică a elevului, viața intimă, privată și familială a elevului;
+k) să trateze cu profesionalism și responsabilitate orice situație specială legată de educația elevului/copilului;
+l) să stabilească, de comun acord cu părinții, calendarul întâlnirilor periodice și să îl pună în aplicare;
+m) să elibereze, la cerere și în timp util, orice document școlar care servește interesului elevului;
+n) să asigure accesul egal la educație pentru toți copiii, cu interzicerea oricărui tip de discriminare;
+o) să analizeze și să decidă, prompt și responsabil, în legătură cu orice solicitare din partea părintelui/elevului;
+p) să asigure transparența tuturor activităților derulate, organizate/aprobate de școală;
+q) să ia în considerare, să analizeze și să răspundă oricărei sesizări din partea elevilor sau a părinților referitoare la rele practici în școală;
+r) să aducă la cunoștința elevilor și părinților prevederile regulamentului intern al școlii;
+s) să încheie contracte de colaborare cu instituții/personal calificat care pot/poate contribui la desfășurarea unor activități cuprinse în Programul "Școala după școală";
+ș) să explice clar toate prevederile prezentului contract celeilalte părți semnatare. 2. Beneficiarul indirect - Părintele/tutorele legal instituit/reprezentantul legal al elevului se obligă:
+a) să respecte prevederile Metodologiei de organizare a Programului "Școala după școală", aprobate prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.349/2011;
+b) să își asume responsabilitatea promovării în educația elevului/copilului a principiilor, valorilor și normelor de conduită susținute de școală;
+c) să își asume, împreună cu elevul, responsabilitatea pentru orice faptă a elevului, desfășurată în afara școlii, dar care ar putea prejudicia prestigiul acesteia;
+d) să respecte prevederile Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar și ale regulamentului intern al școlii;
+e) să asigure frecvența zilnică și ținuta decentă a elevului la activitățile desfășurate în cadrul Programului "Școala după școală" și să informeze școala de îndată ce se impune absența acestuia de la program;
+f) să informeze școala cu privire la orice aspect care poate contribui la îmbunătățirea situației școlare a copilului;
+g) să dea curs solicitării conducerii școlii, ori de câte ori este necesar, de a lua măsuri cu privire la conduita sau situația școlară a elevului;
+h) să se prezinte la școală, cel puțin o dată pe lună, pentru a discuta cu personalul didactic despre modul de implicare în activitatea, progresul și comportamentul propriului copil;
+i) să îi asigure copilului, în limita posibilităților, materialele necesare bunei desfășurări a activităților școlare;
+j) să trateze cu respect și considerație școala și pe reprezentanții acesteia;
+k) să informeze, în scris, conducerea școlii în cazul retragerii copilului din Programul "Școala după școală".
+IV. Durata contractului Prezentul contract se încheie pe durata participării la Programul "Școala după școală". V. Alte clauze Prezentul contract cuprinde: 1. prevederi referitoare la eventuala contribuție financiară a părinților pentru participarea propriului copil la Programul "Școala după școală" (particularizate, după caz, la nivelul școlii); 2. prevederi referitoare la soluționarea eventualelor neînțelegeri dintre părți; 3. prevederi referitoare la consecințele nerespectării angajamentelor părților; 4. prevederi referitoare la încetarea contractului; 5. alte prevederi agreate de părți. Încheiat astăzi,..................., în 3 exemplare, în original, pentru fiecare parte. Unitatea școlară Beneficiarul indirect,...................................... Director,................ Ministerul Educației, Cercetării, Tineretului și Sportului Inspectoratul Școlar..................................... Unitatea de învățământ................................... CONTRACT DE PARTENERIAT ȘCOALĂ - FAMILIE în cadrul Programului "Școala după școală" - învățământ secundar inferior - I. Părțile semnatare 1. Unitatea de învățământ............., denumită în continuare școală, cu sediul în................, str............. nr......, reprezentată prin director, prof................... 2. Părintele/Reprezentantul legal al elevului, doamna/domnul..............................................................., cu domiciliul în....................................., str.................................. nr.................................., telefon.........................., și 3. Elevul............................................................ din Școala.................................., clasa....................... II. Scopul contractului 1. Asigurarea condițiilor optime de derulare a procesului de învățământ în cadrul Programului "Școala după școală" prin implicarea și responsabilizarea părților în educația copiilor/elevilor 2. Școala își asumă principala responsabilitate în procesul instructiv-educativ. 3. Părintele se declară responsabil pentru educarea și comportamentul copilului și pentru colaborarea cu școala în scopul atingerii obiectivelor educaționale. III. Obligațiile părților Pentru desfășurarea, la standarde de calitate, a procesului instructiv-educativ, părțile se angajează, prin voința proprie, după cum urmează: 1. Școala se obligă:
+a) să respecte prevederile Metodologiei de organizare a Programului "Școala după școală", aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.349/2011;
+b) să asigure spațiul, cadrul organizatoric și logistic pentru desfășurarea procesului educațional din cadrul Programului "Școala după școală", conform prevederilor legale;
+c) să informeze părintele, în timp util, despre toate schimbările care se produc în structura Programului "Școala după școală" (orar, resurse umane implicate etc.), precum și despre absențele elevului;
+d) să ofere servicii educaționale de calitate, la nivelul standardelor solicitate de Ministerul Educației, Cercetării, Tineretului și Sportului, pentru fiecare nivel de studiu/ciclu de școlarizare;
+e) să asigure un sistem transparent de evaluare a elevului, care să pună în evidență evoluția acestuia, precum și măsurile concrete care se iau pentru remedierea dificultăților de învățare;
+f) să asigure funcționarea eficientă a echipei pedagogice implicate în educația elevului;
+g) să asigure securitatea și siguranța elevilor pe perioada prezenței acestora în spațiul în care se derulează Programul "Școala după școală" (săli de curs, sală pentru servirea mesei, curtea școlii etc.), precum și pe durata deplasărilor organizate;
+h) să coopereze cu toate instituțiile și structurile de ale căror servicii beneficiază școala și de care depinde bunul mers al activității din cadrul Programului "Școala după școală";
+i) să dea dovadă de respect și considerație în relațiile cu elevii și părinții acestora/reprezentanții lor legali, într-un raport de egalitate;
+j) să nu desfășoare acțiuni de natură să afecteze imaginea publică a elevului, viața intimă, privată și familială a elevului;
+k) să trateze cu profesionalism și responsabilitate orice situație specială legată de educația elevului/copilului;
+l) să stabilească, de comun acord cu părinții, calendarul întâlnirilor periodice și să îl pună în aplicare;
+m) să elibereze, la cerere și în timp util, orice document școlar care servește interesului elevului;
+n) să asigure accesul egal la educație pentru toți copiii, cu interzicerea oricărui tip de discriminare;
+o) să analizeze și să decidă, prompt și responsabil, în legătură cu orice solicitare din partea părintelui/elevului;
+p) să asigure transparența tuturor activităților derulate, organizate/aprobate de școală;
+q) să ia în considerare, să analizeze și să răspundă oricărei sesizări din partea elevilor sau a părinților referitoare la rele practici în școală;
+r) să aducă la cunoștința elevilor și părinților prevederile regulamentului intern al școlii;
+s) să încheie contracte de colaborare cu instituții/personal calificat care pot/poate contribui la desfășurarea unor activități cuprinse în Programul "Școala după școală";
+ș) să explice clar toate prevederile prezentului contract celorlalte două părți semnatare. 2. Beneficiarul indirect - părintele/tutorele legal instituit/reprezentantul legal al elevului se obligă:
+a) să respecte prevederile Metodologiei de organizare a Programului "Școala după școală", aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.349/2011;
+b) să își asume responsabilitatea promovării în educația elevului/copilului a principiilor, valorilor și normelor de conduită susținute de școală;
+c) să își asume, împreună cu elevul, responsabilitatea pentru orice faptă a elevului, desfășurată în afara școlii, dar care ar putea prejudicia prestigiul acesteia;
+d) să respecte prevederile Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar și ale regulamentului intern al școlii;
+e) să asigure frecvența zilnică și ținuta decentă a elevului la activitățile desfășurate în cadrul Programului "Școala după școală" și să informeze școala de îndată ce se impune absența acestuia de la program;
+f) să informeze școala cu privire la orice aspect care poate contribui la îmbunătățirea situației școlare a copilului;
+g) să dea curs solicitării conducerii școlii, ori de câte ori este necesar, de a se lua măsuri cu privire la conduita sau situația școlară a elevului;
+h) să se prezinte la școală, cel puțin o dată pe lună, pentru a discuta cu personalul didactic despre modul de implicare în activitatea, progresul și comportamentul propriului copil;
+i) să îi asigure copilului, în limita posibilităților, materialele necesare bunei desfășurări a activităților școlare;
+j) să trateze cu respect și considerație școala și pe reprezentanții acesteia;
+k) să informeze, în scris, conducerea școlii în cazul retragerii copilului din Programul "Școala după școală".
+3. Beneficiarul direct - elevul se obligă:
+a) să respecte școala, însemnele și personalul acesteia, precum și pe colegii săi;
+b) să aibă un comportament care să nu afecteze sănătatea, securitatea, demnitatea și libertatea celorlalte persoane din școală;
+c) să participe zilnic, conform programului orar, la activitățile din cadrul Programului "Școala după școală";
+d) să respecte prevederile regulamentului intern și ale Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar;
+e) să păstreze în bună stare bunurile școlii și să folosească cu grijă materialele puse la dispoziția sa de către școală;
+f) să aibă o ținută vestimentară/personală și o conduită decentă, neprovocatoare, neagresivă și neostentativă.
+IV. Durata contractului Prezentul contract se încheie pe durata participării la Programul "Școala după școală". V. Alte clauze Prezentul contract cuprinde: 1. prevederi referitoare la eventuala contribuție financiară a părinților pentru participarea propriului copil la Programul "Școala după școală" (particularizate, după caz, la nivelul școlii); 2. prevederi referitoare la soluționarea eventualelor neînțelegeri dintre părți; 3. prevederi referitoare la consecințele nerespectării angajamentelor părților; 4. prevederi referitoare la încetarea contractului; 5. alte prevederi agreate de părți. Încheiat astăzi,..................., în 3 exemplare, în original, pentru fiecare parte. Unitatea școlară Beneficiarul indirect, Beneficiarul direct,........................................................ Director,.............. --------
