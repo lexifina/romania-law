@@ -1,0 +1,457 @@
+# Anexa 1
+Anexa 1
+-------- la regulament ------------- METODOLOGIE de aplicare a prevederilor privind inspecția școlară generală a unităților de învățământ preuniversitar Inspectorii vor ține cont în activitatea de inspecție că, deși vor fi evaluate separat, ariile tematice/domeniile inspectate formează un sistem care reflectă ansamblul activității unităților de învățământ. Inspectorii trebuie să emită aprecieri și nu simple descrieri a ceea ce se întâmplă în unitățile de învățământ. Pentru Fișa de observare a lecției (anexa nr. 5 la regulament), inspectorii vor folosi o scală cu 4 nivele de performanță, acordând pentru fiecare lecție asistată/observată unul dintre cele 4 calificative: foarte bine (FB); bine (B); acceptabil (A); slab (S). Descriptorii de performanță pentru ariile tematice/domeniile inspectate descriu nivelurile de calitate bine (B), acceptabil (A), slab (S), fiind incluse pentru a fi un ghid pentru inspectori și școli, facilitând interpretarea criteriilor și acordarea calificativelor generale pe arie tematică/domeniu. Echipa de inspectori acordă calificative generale pentru fiecare arie tematică/domeniu inspectat - bine (B), acceptabil (A), slab (S) -, precum și pentru fiecare disciplină de studiu inspectată - bine (B), acceptabil (A), slab (S). În acordarea calificativelor generale pentru fiecare disciplină de studiu se vor avea în vedere atât calificativele acordate în urma activității de asistență/observare a lecției, cât și raportarea la criteriile și descriptorii de performanță precizate/precizați pentru ariile tematice/domeniile incluse în cadrul prezentei metodologii. În mod special, în acordarea calificativelor generale pentru fiecare disciplină de studiu se vor avea în vedere criteriile și descriptorii de performanță pentru ariile tematice/domeniile: - activitatea personalului didactic (proiectare, predare-învățare, evaluare, reglare/remediere, diferențiere a demersului educațional); - nivelul performanțelor realizate de elevi în învățare raportat la standardele educaționale naționale (curriculare și de evaluare). Ariile tematice/Domeniile inspectate, sursele de informare consultate și criteriile folosite de inspectori atunci când realizează o inspecție școlară generală sunt următoarele: 1. Managementul școlar, managementul asigurării calității, dezvoltarea instituțională, eficiența atragerii și folosirii resurselor (umane, financiare, materiale și informaționale), respectarea legislației în vigoare și a regulamentelor Scopurile Evaluarea eficacității managementului conducerii unității de învățământ și a responsabililor/coordonatorilor corespunzători diferitelor niveluri din structura de management. Evaluarea capacității instituției de educație de a-și administra eficient resursele umane și materiale. Evaluarea măsurii în care unitatea școlară are cunoștință de legislația în vigoare în ceea ce privește drepturile elevilor și eficacitatea cu care o aplică. Sursele de informare consultate
+a) cel mai recent raport extern asupra unității de învățământ;
+b) documentele manageriale, Raportul anual de evaluare (RAE);
+c) procesele-verbale de la ședințele consiliului profesoral și ale consiliului de administrație;
+d) schemele orare ale unităților de învățământ și orarul cadrelor didactice;
+e) politicile și procedurile;
+f) graficul activităților extracurriculare;
+g) fișele posturilor;
+h) informații statistice cerute de inspector;
+i) bugetul instituției de educație și planul financiar;
+j) discuții cu personalul de la diferite niveluri din cadrul structurii manageriale;
+k) discuții cu elevii și cu personalul;
+l) regulamentul de ordine interioară;
+m) reglementările care privesc situația copiilor;
+n) dosarele cu actele și documentele elevilor;
+o) sancțiuni aplicate elevilor;
+p) codul de conduită sau normele care reglementează relațiile dintre cadrele didactice și elevi și dintre personalul didactic auxiliar și administrativ și elevi;
+q) măsurile pe care le-a luat instituția de educație pentru sănătatea și siguranța elevilor, de exemplu, în laboratoare, pe terenul sau în sala de sport;
+r) reglementări privind însoțirea elevilor în timpul vizitelor în afara instituției de educație;
+s) orice alte reglementări și proceduri care se referă la protecția copilului;
+t) proceduri și reglementări care se referă la cazarea elevilor;
+u) discuții cu părinții și cu reprezentanții organizațiilor care sprijină unitatea de învățământ.
+Criteriile Direcția de dezvoltare a unității de învățământ preuniversitar este bine stabilită? (I) Inspectorii vor analiza scopurile, politicile, procedurile și planurile de dezvoltare (PDI/PAS) ale instituției de educație pentru a stabili dacă direcția de dezvoltare este bună. (II) Se va aprecia dacă personalul și comunitatea școlară înțeleg planurile de dezvoltare (PDI/PAS) ale instituției de educație și le pun în practică. (III) Inspectorii vor evalua dacă directorul și ceilalți manageri asigură o conducere corespunzătoare. Sunt elaborate politicile și procedurile astfel încât instituția de educație să își atingă scopurile? (I) Inspectorii vor aprecia dacă au fost stabilite politici și proceduri corespunzătoare. (II) Se va acorda atenție modului în care politicile și procedurile au fost formulate, arătându-se cine a fost implicat și cât timp. (III) Inspectorii vor aprecia dacă politicile și procedurile sunt înțelese de comunitatea școlară și dacă sunt puse în practică așa cum trebuie. Sunt folosite eficient resursele instituției de educație (bani, personal, materiale, echipamente)? (I) Inspectorii vor analiza bugetul unității de învățământ pentru a constata dacă este cheltuit cum trebuie și dacă se exercită un control eficace. (II) Evaluarea are în vedere modul de folosire a resurselor, căutând răspunsuri la următoarele întrebări: Are unitatea de învățământ suficient personal didactic calificat? Există suficient personal nedidactic? Pregătirea personalului didactic asigură realizarea unei activități eficiente? Are unitatea de învățământ suficiente spații de cazare și masă la standarde corespunzătoare? Are unitatea de învățământ suficiente resurse educaționale pentru a-și realiza curriculumul? Are unitatea școlară reglementări și proceduri adecvate pentru protecția copilului? (I) Inspectorii vor evalua dacă unitatea școlară are proceduri bune și dacă sunt puse în practică în mod corespunzător. (II) Inspectorii se vor informa asupra unor cazuri de abuzuri asupra copiilor și vor evalua modul în care au fost rezolvate. (III) Vor fi evaluate relațiile pe care le are unitatea școlară cu serviciile locale care răspund de copii. Are unitatea școlară proceduri și reglementări corespunzătoare în ceea ce privește protecția muncii? (I) Se va face o evaluare a normelor de siguranță din laboratoare și a echipamentului care asigură protecția elevilor. (II) Vor fi evaluate calitatea și eficacitatea măsurilor care se iau în caz de urgență. (III) Inspectorii vor verifica dacă elevii și personalul cunosc normele de protecție a muncii. Sunt condițiile de cazare corespunzătoare? (I) Vor fi apreciate condițiile de cazare și de masă. (II) Inspectorii vor aprecia dacă personalul are grijă de elevi. (III) Se va aprecia dacă elevii se simt protejați și sunt în siguranță. Descriptori Bine Echipa managerială a unității de învățământ stabilește politicile de dezvoltare în acord cu strategiile educaționale generale, selectează cele mai potrivite metode de aplicare a acestora și definește clar modalitățile de aplicare. Consiliul de administrație al unității de învățământ utilizează eficient resursele financiare pentru menținerea și dezvoltarea resurselor materiale și umane. Deciziile consiliului de administrație sunt în acord cu obiectivele strategice ale unității de învățământ și cu legislația generală și specifică în vigoare. Directorul se interesează permanent de trasarea și menținerea unei direcții bune de dezvoltare, cooperează în mod eficient cu consiliul de administrație și cu personalul didactic, acceptând un dialog constructiv. Echipa managerială a instituției de educație monitorizează accesul la formarea continuă a resurselor umane, este interesată permanent de formarea continuă a profesorilor, încurajează folosirea unor metode adecvate și inițiativele ce vizează ajustarea curriculumului. Managerii unității de învățământ monitorizează soluționarea punctelor slabe identificate și menționate de către comisia de asigurare și evaluare a calității în raportul specific, raportându-se la standardele naționale de acreditare. Echipa managerială supervizează starea clădirilor, inclusiv cantina, și sprijină biblioteca/CDI în achiziționarea fondului de carte, asigurându-se că toate acestea permit elevilor o învățare eficientă. Echipa managerială a unității de învățământ consultă în permanență comunitatea locală și părinții și anticipează soluții pentru a satisface în mare măsură așteptările acestora. Resursele financiare, materiale și umane sunt subordonate procesului de învățare, asigurând accesul egal la educație de calitate și încurajând performanțele elevilor. Responsabilii de catedre/comisii/compartimente lucrează conform obiectivelor stabilite în PDI/PAS și raportează periodic îndeplinirea acestora. Managerii de la toate nivelurile au un stil de muncă eficient și își conduc bine echipele. Nu sunt înregistrate reclamații și sesizări nesoluționate la adresa echipei manageriale. Școala respectă legislația și regulamentele privind curriculumul, evaluarea, finanțarea, drepturile elevilor și protecția acestora. Școala are sisteme și proceduri de monitorizare și evaluare a modului în care sunt respectate cerințele legale, în special cele ce privesc protecția muncii. Aceste aspecte sunt în atenția conducerii școlii, căreia îi revine responsabilitatea de a le analiza și de a le revizui. Școala are politici, proceduri și regulamente adecvate referitoare la protecția muncii. Legile și regulamentele sunt expuse în locuri vizibile. Școala se asigură că personalul și elevii cunosc aceste legi și regulamente. Acceptabil Școala își definește propriile scopuri și politici, dar metodele de realizare a acestora nu sunt clar stabilite. Planurile de dezvoltare sunt stabilite, dar monitorizarea implementării cu succes a acestora este intermitentă și superficială. Echipa managerială cooperează cu consiliul de administrație și cu personalul didactic și creează relații de muncă satisfăcătoare. Directorul utilizează resursele financiare în conformitate cu cerințele legale. El sprijină formarea continuă a profesorilor, dar nu există un plan general și lasă pe seama fiecăruia perfecționarea profesională. Echipa managerială are o viziune satisfăcătoare asupra a ceea ce se întâmplă în școală și sprijină personalul didactic și personalul didactic auxiliar, fără a-l conduce însă ca echipă spre atingerea scopurilor. Școala este curată și este într-o stare satisfăcătoare. Directorul cooperează în mod formal cu părinții și cu reprezentanții comunității locale. Școala respectă legislația și regulamentele la un nivel satisfăcător. Ea are sisteme corespunzătoare de monitorizare și evaluare a procedurilor. Acestea sunt discutate din când în când în consiliul școlii și sunt revizuite ocazional. Regulamentele sunt expuse în locuri nu prea vizibile și se face prea puțin pentru aducerea lor la cunoștința elevilor și a personalului. Protecția elevilor este asigurată satisfăcător. Slab Școala nu își stabilește propriile politici și scopuri, directorul manifestă un interes scăzut în ceea ce privește dezvoltarea unității de învățământ și nu implică consiliul de administrație în luarea deciziilor. Directorul nu respectă legile și regulamentele și nu utilizează în mod corespunzător resursele financiare. Directorul nu sprijină formarea continuă a profesorilor și în anumite cazuri chiar o obstrucționează. Starea clădirilor este neglijată, fapt care duce la deteriorarea condițiilor de lucru. Echipa managerială nu este interesată de sporirea fondului de carte al bibliotecii/CDI. Directorul nu cooperează bine cu părinții și cu reprezentanții comunității locale și uneori este chiar în conflict cu ei. Școala nu respectă legile și regulamentele. Ea folosește sisteme și proceduri neverificate pentru a constata dacă au fost îndeplinite condițiile legale. Elevii sunt expuși la riscuri în privința sănătății. Cazarea și masa sunt necorespunzătoare. Conducerea nu acordă atenție suficientă stării în care se află școala și pericolelor la care sunt expuși elevii și personalul. Personalul care se ocupă cu curățenia nu își face datoria. 2. Modul de aplicare a curriculumului național, dezvoltarea și aplicarea curriculumului la decizia școlii/în dezvoltare locală și calitatea activităților extracurriculare realizate de personalul didactic și unele categorii de personal didactic auxiliar Scopurile Se va verifica respectarea prevederilor legale referitoare la aplicarea la nivelul unității de învățământ a curriculumului național. Se va evalua calitatea curriculumului aplicat în unitatea de învățământ, dacă acesta respectă curriculumul național, calitatea și diversitatea curriculumului la decizia școlii/în dezvoltare locală, precum și calitatea, diversitatea și eficiența activităților extracurriculare. De asemenea, se va evalua dacă numărul și calitatea celorlalte activități care sprijină curriculumul sunt corespunzătoare. Sursele de informare consultate:
+a) curriculumul unității de învățământ raportat la curriculumul național;
+b) documentele curriculare ale cadrelor didactice;
+c) planul managerial al unității de învățământ;
+d) planificările și proiectele didactice pentru fiecare disciplină;
+e) dosarele catedrelor și comisiilor metodice;
+f) strategiile de evaluare;
+g) documente referitoare la activitățile extracurriculare;
+h) portofoliile educaționale ale elevilor.
+Criteriile Este curriculumul unității de învățământ în concordanță cu cel național? (I) Inspectorii vor analiza criteriile folosite de instituția de educație la stabilirea curriculumului. (II) Se va verifica dacă sunt respectate planurile-cadru în vigoare, avându-se în vedere inclusiv prevederile referitoare la relația dintre disciplinele de trunchi comun (disciplinele obligatorii) și disciplinele din cadrul curriculumului la decizia școlii/în dezvoltare locală (disciplinele opționale). (III) Se va analiza curriculumul la decizia școlii/în dezvoltare locală pentru a se vedea dacă au fost consultați părinții, membrii comunității locale și profesorii. Se va aprecia dacă curriculumul contribuie la dezvoltarea personală a elevilor. Este planificarea curriculumului bine structurată și eficace? (I) Se vor avea în vedere procesul de planificare (cine este implicat, când și în ce măsură), precum și calitatea planificării. (II) Inspectorii vor evalua în ce măsură curriculumul la decizia școlii/în dezvoltare locală furnizat elevilor care au diferite vârste, aptitudini, deprinderi, capacități intelectuale și interese este potrivit și dacă este permanent revăzut pentru a asigura atingerea standardelor de către elevi. (III) De asemenea, va fi apreciat modul în care curriculumul la decizia școlii/în dezvoltare locală furnizat ține cont de experiența anterioară a elevilor. Sunt testele și evaluările în concordantă cu curriculumul instituției de educație și sunt ele folosite pentru a înlesni planificarea curriculumului? (I) Este necesar să se analizeze modul în care se realizează evaluarea. (II) Inspectorii vor sta de vorbă cu profesorii și elevii și vor analiza strategiile de evaluare. Pe baza analizei unui set de evaluări, inspectorii vor aprecia dacă modul în care se realizează evaluarea este corespunzător unui învățământ centrat pe competențe. (III) Inspectorii vor analiza portofoliile educaționale ale elevilor. Are unitatea de învățământ o ofertă de activități, proiecte sau programe extracurriculare adecvată nevoilor propriilor elevi? (I) Inspectorii vor aprecia calitatea ofertei de activități, proiecte sau programe extracurriculare. (II) Inspectorii vor determina măsura în care această ofertă corespunde nevoilor elevilor, este complementară și îmbunătățește oferta curriculară realizată prin curriculum național. Descriptori Bine Școala furnizează elevilor un curriculum echilibrat, armonizând oferta pentru disciplinele obligatorii și disciplinele din cadrul curriculumului la decizia școlii (CDȘ)/în dezvoltare locală (CDL) - disciplinele opționale -, la nivelul tuturor ariilor curriculare. Școala stabilește CDȘ/CDL prin consultarea reprezentanților comunității, părinților și elevilor. CDȘ/CDL este bine elaborat în concordanță cu vârsta elevilor și cu atingerea standardelor educaționale de către aceștia, precum și cu asigurarea de șanse egale în educație. Școala folosește schemele orare astfel încât curriculumul este implementat eficient, curriculumul este evaluat și dezvoltat permanent pentru a se asigura că sunt luate în considerare nevoile tuturor grupurilor de interese și că se răspunde punctual și eficient tuturor nevoilor de învățare identificate în instituția de educație. Cadrele didactice își elaborează documentele de proiectare, evaluare, reglare/remediere/dezvoltare corect și eficient și lucrează în concordanță cu cerințele curriculumului. Școala organizează activități extracurriculare eficiente al căror conținut este complementar și îmbunătățește oferta curriculară realizată prin curriculumul național. Profesorii își elaborează planificări de calitate, corespunzătoare unui curriculum bazat pe competențe și în concordanță cu reglementările în vigoare. Acceptabil Școala furnizează elevilor un curriculum echilibrat, armonizând oferta pentru disciplinele obligatorii și disciplinele din cadrul CDȘ/CDL (disciplinele opționale). CDȘ/CDL se bazează pe resursele umane și materiale ale instituției de educație, deși consultarea reprezentanților părinților și ai comunității locale este limitată. Elaborarea CDȘ/CDL ia în considerare experiența anterioară a unității de învățământ. Schemele orare sunt satisfăcătoare și implementează curriculumul stabilit. Curriculumul este evaluat în mod ocazional ca proces și există o planificare deficientă pe termen lung. Unele cadre didactice nu au planificări adecvate. Există activități extracurriculare, dar contribuția acestora la dezvoltarea ofertei curriculare nu este complet exploatată. Slab Curriculumul unității de învățământ nu este echilibrat, nu ia în considerare cerințele, dorințele, aspirațiile sau capacitățile elevilor. Prevederile planurilor-cadru în vigoare nu sunt respectate integral. Reprezentanții părinților și ai comunității locale sunt consultați doar sporadic. CDȘ/CDL este stabilit mai mult ca răspuns la cerințele profesorilor fără să implice celelalte părți. CDȘ/CDL este elaborat aleatoriu. Schemele orare sunt stabilite luând în considerare norma profesorilor și sunt mai mult în concordanță cu interesele acestora decât cu ale elevilor. Planificările profesorilor sunt slabe și strategiile și obiectivele pe care ei le adoptă eșuează în a satisface exigențele curriculumului național. Curriculumul nu furnizează o educație satisfăcătoare pentru elevi și nu este îmbunătățit cu o gamă largă de activități extracurriculare. 3. Activitatea personalului didactic (proiectare, predare-învățare-evaluare, reglare/remediere, diferențiere a demersului educațional) Scopurile Se evaluează activitatea de specialitate a personalului didactic în unitatea de învățământ. De asemenea va fi evaluată eficiența muncii fiecărui cadru didactic. Se va evalua calitatea activității didactice referitoare la procesul de predare-învățare-evaluare pentru fiecare disciplină în parte. Sursele de informare consultate:
+a) documente: strategii și planuri, planificări, proiecte ale unităților de învățare, instrumente specifice de proiectare și evaluare din portofoliul profesorului, proceduri specifice de reglare/remediere/dezvoltare a demersului didactic, tipologia auxiliarelor curriculare originale create de profesori, caietele de notițe ale elevilor, caietele de teme ale elevilor, evaluări, teste, cataloagele, dovezi ale progresului făcut de elevi (dosare, caiete), lucrări ale elevilor/proiecte expuse în instituția de educație;
+b) discuții cu directorii, șefii de catedră, profesorii, elevii și părinții;
+c) observarea lecției;
+d) portofoliile educaționale ale elevilor.
+Criteriile Este corespunzător proiectul unității de învățare elaborat de cadrele didactice? (I) Inspectorii vor observa dacă profesorul respectă programa școlară, planificarea calendaristică, demersul didactic proiectat și dacă își ia măsuri pentru a se asigura că elevii lucrează ceea ce a planificat, respectiv dacă profesorul se asigură de înțelegerea și operarea cu noile cunoștințe. De exemplu, specificitatea și gradul de adecvare al obiectivelor/ competențelor la nivelul claselor/grupelor și relația lor cu cerințele curriculare. (II) Inspectorii vor evalua planificarea resurselor folosite în cadrul lecției, inclusiv resursele TIC, strategiile folosite etc. Stăpânește cadrul didactic disciplina pe care o predă? Inspectorii vor avea la dispoziție informații privind calificarea, experiența și cursurile de formare urmate de cadrul didactic. Prin analiza proiectării didactice, a conținutului acesteia și a calității răspunsurilor date de elevi, inspectorii vor evalua pregătirea profesională a cadrelor didactice. Folosesc cadrele didactice strategii didactice corespunzătoare? Inspectorii vor evalua eficacitatea strategiilor didactice, a metodelor, stilurilor și creativității profesorului. De asemenea, va fi evaluat modul în care profesorul pune întrebări, explică și organizează elevii. Creativitatea profesorului este un aspect care îi va ajuta pe inspectori să facă deosebirea dintre o predare bună și una obișnuită. Folosesc cadrele didactice resursele în mod corespunzător? (I) Inspectorii vor analiza proiectele didactice elaborate de profesor. Inspectorii vor evalua calitatea și eficacitatea cu care sunt folosite diferitele categorii de resurse educaționale pentru a spori cunoașterea, înțelegerea și deprinderile elevilor. Resursele includ nu doar cărți, material didactic și echipamente, ci și timpul și cadrul/locul în care se desfășoară lecția. Se va urmări modul de integrare a TIC (lecții AEL, utilizarea de platforme educaționale, alte resurse de tip internet) în activitatea didactică curentă. (II) Este important să se aibă în vedere modul în care profesorul organizează cadrul/locul în care se desfășoară lecția și în ce măsură acest lucru îi ajută/stânjenește pe elevi în procesul de învățare. (III) De asemenea, va fi evaluat modul în care folosește profesorul timpul avut la dispoziție. Este managementul clasei corespunzător? (I) Inspectorii vor evalua modul în care conduce profesorul activitatea. De asemenea, va fi evaluată relația profesor-elevi, în special în ceea ce privește stimularea creativității și motivarea elevilor. (II) Inspectorii vor analiza modul în care au fost împărțiți elevii în grupuri, în funcție de capacități. (III) Inspectorii vor evalua în ce măsură strategiile folosite de profesor și relațiile de lucru stabilite de el contribuie la dezvoltarea personală a elevilor. De exemplu, se va aprecia dacă li se acordă elevilor responsabilități. Îi evaluează cadrul didactic pe elevi în așa fel încât să stimuleze învățarea eficientă? (I) Se vor face aprecieri asupra evaluării formative și sumative, precum și asupra modului în care aceasta a fost folosită în sprijinul lecției. (II) Inspectorii vor aprecia cât de corect îi evaluează profesorul pe elevi și cum folosește informațiile pe care le are pentru a le da o muncă cu un grad de dificultate adecvat. (III) Inspectorii vor analiza și vor face aprecieri referitoare la portofoliile educaționale ale elevilor. (IV) Va fi apreciat modul în care profesorul planifică sprijinul pentru elevii care au un ritm mai lent sau pentru cei care au dificultăți de învățare. (V) Se va acorda atenție modului în care profesorul folosește autoevaluarea și interevaluarea realizate de către elevi ca mijloc pentru îmbunătățirea învățării. Care este impactul cursurilor de formare la care au participat profesorii asupra ameliorării demersului didactic? (I) Inspectorii vor asista la lecții ale cadrelor didactice care au participat în anul școlar precedent la cursuri/programe de formare continuă. (II) Inspectorii vor formula constatări, aprecieri și recomandări referitoare la formarea continuă a cadrelor didactice inspectate, apreciind eficiența acestor activități și nevoile viitoare de formare. Ce fel de teme pentru acasă propune profesorul? Inspectorii vor analiza tema pentru acasă pentru a constata dacă este stimulativă și dacă înlesnește procesul de învățare. Are profesorul vreun mijloc de evaluare a reușitei lecției? Inspectorii vor analiza proiectele didactice ale profesorilor pentru a constata dacă există strategii și metode pentru evaluarea lecției. De asemenea, inspectorii discută cu profesorul pentru a afla cum a intenționat acesta să măsoare eficiența lecției și ce va întreprinde în urma aflării rezultatelor. Descriptori Bine Profesorii au documente de planificare și proiectare/evaluare/reglare/remediere/dezvoltare corect întocmite și funcționale, în concordanță cu curriculumul național și local, adaptând creativ programele școlare astfel încât să contribuie în mare măsură la dezvoltarea personală a elevilor și la succesul lor în învățare. Profesorii planifică, organizează, desfășoară și evaluează activități diferențiate de învățare în care valorifică eficient nivelul diferit de cunoaștere și înțelegere la care se află elevii. Profesorii utilizează strategii didactice moderne care îmbină eficient o mare varietate de metode, forme de activitate (individuală, pe grupe, frontală), mijloace didactice centrate pe nevoile și interesele specifice ale elevilor și integrează eficient resursele TIC în activitățile cu elevii. Elevii apreciază modul în care profesorii organizează lecțiile și există o foarte bună și eficientă comunicare profesor - elev. Sunt utilizate forme și metode diferite de evaluare, notarea este ritmică, obiectivă și furnizează informații despre modul în care elevii își îmbogățesc învățarea și își dezvoltă competențele specifice (capacitățile și abilitățile - în cazul învățământului primar și preprimar). Temele pentru acasă sunt bine concepute, contribuie la învățare, sunt evaluate și permit dezvoltarea creativității și competențelor elevilor. Acceptabil Profesorii au documente de planificare ce conțin cerințele curriculumului local și național. Strategiile didactice folosite sunt satisfăcătoare și în concordanță cu cerințele fiecărei discipline, resursele TIC sunt utilizate în mod formal și/sau foarte rar. Profesorii notează elevii sistematic, deși ei furnizează rareori comentarii detaliate, care să îi ajute pe elevi în îmbunătățirea activității. Orele se desfășoară în mod corespunzător, în condiții bune. Temele pentru acasă sunt bine elaborate și notate, dar rareori sunt creative. Slab Profesorii își planifică și proiectează sporadic activitățile didactice, iar atunci când fac acest lucru nu îndeplinesc cerințele curriculumului național și local. Strategiile de predare folosite nu sunt în concordanță cu cerințele disciplinelor sau ale resurselor disponibile, iar resursele TIC nu sunt utilizate. Nu se dau teme sau dacă se face acest lucru, nu sunt folositoare. Evaluarea și notarea elevilor nu sunt sistematice. Managementul clasei este slab și comportamentul necorespunzător al elevilor nu este corectat. 4. Nivelul performanțelor realizate de elevi în învățare raportat la standardele educaționale naționale (curriculare și de evaluare) Scopurile Inspectorii vor evalua ce știu, ce înțeleg și ce pot face elevii în diferite situații de învățare formale sau nonformale. Se va evalua nivelul performanțelor realizate de elevi raportat la standardele educaționale naționale și se vor prezenta rapoarte complete asupra tuturor disciplinelor care sunt inspectate. Sursele de informare consultate:
+a) rezultatele elevilor la examene și teste;
+b) rezultatele elevilor la clasă conform evaluării interne;
+c) discuții cu elevii;
+d) caietele de teme și de notițe ale elevilor;
+e) interviuri formale și informale cu elevii (eșantion corect stabilit);
+f) discuții cu profesorii;
+g) lucrări ale elevilor;
+h) rezultatele la concursuri și activități extracurriculare;
+i) portofoliile educaționale ale elevilor;
+j) date colectate prin observarea lecțiilor.
+Criteriile Cât de mult se apropie performanțele elevilor de standardele educaționale corespunzătoare pentru vârsta lor la disciplinele curriculare? Cât de bine se prezintă elevii la examenele și testele naționale și internaționale? Există diferențe majore între rezultatele obținute la evaluările interne și externe? (același elev la diferite discipline) (I) Inspectorii vor stabili gradul de atingere a standardelor de către elevi, analizând întregul spectru de date amintite mai sus. O mare importanță o vor avea discuțiile cu elevii, întâlnirile cu grupe mici de elevi și care pot oferi informații complementare datelor statistice. (II) Inspectorii vor stabili cât de bine citesc și scriu elevii în limba română și în limba maternă, precum și măsura în care acestea îi ajută sau le creează un handicap la studiul celorlalte discipline. (III) Inspectorii vor evalua răspunsurile verbale date de elevi, capacitatea lor de a formula idei, de a pune întrebări, de a răspunde la întrebări și de a discuta diferite subiecte. Inspectorii vor evalua deprinderea elevilor de a asculta, de a citi și de a extrage ceea ce este important din ceea ce au auzit și modul în care folosesc informațiile selectate în construirea noilor cunoștințe și în soluționarea situațiilor-problemă contextuale. (IV) Inspectorii vor evalua modul în care operează elevii cu cifrele, dacă au deprinderi de calcul și de gândire logică. (V) Inspectorii vor evalua cunoștințele elevilor despre natură și societate, despre impactul omului asupra mediului, despre cele mai importante elemente ale cunoașterii din domeniul științific, social, artistic și tehnic. De asemenea, inspectorii vor aprecia competențele practic-aplicative ale elevilor, în mod particular, dacă aceștia aplică ceea ce au învățat pentru a rezolva exerciții și probleme specifice fiecărei discipline de studiu. (VI) Inspectorii vor evalua în ce măsură elevii cu aptitudini foarte diferite ajung la nivele corespunzătoare de performanță. (VII) Inspectorii vor evalua și vor face comentarii asupra progresului făcut de elevi pe termen scurt, de exemplu, în timpul observării unei lecții; pe termen lung (pe parcursul mai multor lecții sau pe parcursul unui semestru). Descriptori Bine Elevii demonstrează un nivel înalt al utilizării cunoștințelor, deprinderilor și aptitudinilor în situații de învățare diverse, cu grad înalt de complexitate, ei reușesc să realizeze cu ușurință și siguranță conexiuni interdisciplinare, formulează întrebări, identifică probleme sau situații-problemă contextuale pe care le analizează din perspective diferite și le soluționează aplicând eficient cele învățate. Elevii demonstrează și exersează, în situații diverse de învățare, competențele generale stabilite în programele școlare la toate disciplinele de studiu. Elevii citesc și scriu bine în limba română și în limba maternă, având deprinderi bune care le înlesnesc studiul celorlalte discipline. Ei au aptitudini bine definite în ceea ce privește ascultarea și capacități în ceea ce privește exprimarea unor idei și capacitatea de analiză, sinteză și esențializare. Elevii au deprinderi, talente și abilități pe care le folosesc eficient în cursul procesului de învățare. Ei sunt în stare să folosească eficient ceea ce au achiziționat în cursul lecțiilor anterioare și progresează corespunzător. Elevii răspund bine la activitățile individuale de grup și frontale propuse de cadrele didactice, la sarcinile de lucru propuse în cadrul metodelor activ-participative, pot ordona și prelucra informații, investiga, cerceta și elabora proiecte. Elevii au rezultate bune la examenele și testele naționale, precum și la competițiile naționale și internaționale. Acceptabil Elevii citesc și scriu la un standard corespunzător în limba română și în limba maternă și au deprinderi acceptabile care îi ajută să lucreze corespunzător la celelalte discipline. Ei au deprinderea de a asculta și de a răspunde la întrebări și au capacitatea de a pune întrebări și de a exprima idei la un nivel superficial. Ei au nevoie de o îndrumare continuă pentru a fi capabili să își folosească deprinderile în ceea ce privește achiziționarea de cunoștințe noi. Elevii au cunoștințe din domeniul curriculumului național, dar au dificultăți în a le integra într-un corp coerent de cunoștințe și operează de puține ori cu ele. Majoritatea elevilor pot folosi ceea ce au achiziționat în timpul lecțiilor anterioare la un nivel satisfăcător. Progresul pe care îl fac nu e deosebit, învățarea este preponderent bazată pe memorizare, răspund la un nivel satisfăcător la sarcinile de învățare implicate de activitățile individuale de grup și frontale și la metodele activ-participative. Elevii au rezultate satisfăcătoare la examenele și testele naționale și la competițiile naționale. Slab Elevii pot cu greu să scrie și să citească în limba română și în limba maternă și înțeleg cu dificultate ceea ce scriu și citesc. Ei nu au deprinderea de a asculta atent și concentrat și nu sunt interesați să răspundă la întrebări. Atunci când răspund, aceștia nu dovedesc cunoștințe corespunzătoare. Elevii nu au deprinderea de a folosi eficient noile cunoștințe. Ei au o înțelegere superficială a lucrurilor pe care le învață și nu sunt capabili să le integreze într-un corp coerent de cunoștințe. Mulți dintre ei nu ating un nivel acceptabil de performanță. Elevii au rezultate slabe la examenele și testele naționale și la competițiile naționale. 5. Modul în care unitatea de învățământ sprijină și încurajează dezvoltarea personală a elevilor și motivația acestora în învățare (consiliere, orientare școlară, asistență individualizată), respectând principiile educației incluzive și asigurarea egalității de șanse Scopurile Se va evalua dacă unitatea de învățământ acordă elevilor sprijin și îndrumare corespunzătoare și dacă face ceea ce este necesar pentru dezvoltarea lor personală. O atenție deosebită este acordată procedurilor și sistemelor prin intermediul cărora unitatea de învățământ oferă elevilor sprijin și consiliere. Se stabilește dacă progresele pe care le realizează elevii sunt monitorizate și dacă unitatea de învățământ furnizează consiliere în domeniul carierei pentru elevi pe tot parcursul școlarității și în special în anii terminali. Inspectorii evaluează dacă instituția de educație oferă sprijin elevilor pentru ca aceștia să devină mai încrezători în ei înșiși și să fie conștienți de ceea ce li se întâmplă, ajutându-i să se maturizeze ca adulți echilibrați și buni cetățeni. De asemenea, inspectorii verifică în ce măsură sunt cunoscute, aplicate și respectate principiile educației inclusive și dacă egalitatea de șanse funcționează în mod real. Sursele de informare consultate:
+a) planurile operaționale și procedurile specifice unității de învățământ;
+b) regulamentul de ordine interioară;
+c) documente ale comisiei de prevenire și combatere a violenței în mediul școlar de la nivelul unității de învățământ;
+d) situația elevilor după absolvire;
+e) discuții cu profesorii și elevii;
+f) activitățile care se desfășoară cu clasa și în instituția de educație, care ar putea furniza indicii dacă aceasta le acordă elevilor responsabilități și le dă ocazia să ia decizii;
+g) documente care să ateste existența consiliului elevilor sau a oricărei alte forme de reprezentare a elevilor în conducerea instituției de educație;
+h) orice documente de uz intern, cum ar fi: codul de conduită a elevilor, indicații pentru personal asupra modului în care să trateze elevii etc.;
+i) documente care să ateste modul în care percep părinții instituția de educație;
+j) documente care să ateste consultarea elevilor cu privire la modul în care curriculumul înlesnește sau nu dezvoltarea personală a elevilor;
+k) documente care să ateste existența resurselor extracurriculare care să fie folosite pentru lărgirea experienței elevilor, înțelegerea și stimularea dezvoltării lor ca persoane.
+Criteriile Există reglementări care ajută la menținerea ordinii în unitatea de învățământ, la conservarea patrimoniului acesteia și care le dau elevilor sentimentul de deplină siguranță? (I) Inspectorii vor evalua reglementările instituției de educație care se referă la relațiile dintre elevi și dintre elevi și personal. Inspectorii vor stabili dacă unitatea de învățământ a elaborat Planul operațional minimal privind reducerea fenomenului violenței în mediul școlar și vor evalua realizarea obiectivelor propuse în cadrul acestui document. Inspectorii vor aprecia dacă elevii se simt în siguranță în instituția de educație pe toată durata programului școlar. (II) Inspectorii vor aprecia atmosfera din unitatea de învățământ pentru a putea să își dea seama dacă aceasta este propice sau nu desfășurării activităților educaționale, dacă există o atmosferă care îi ajută pe elevi să capete încredere în ei înșiși și în personal. De exemplu, ce măsuri ia instituția de educație dacă unii elevi sunt deranjați de alții. (III) Inspectorii vor aprecia dacă relațiile dintre personal și elevi sunt bune și dacă elevii pot obține sprijin atunci când au nevoie. Prin politicile, strategia și planurile operaționale proprii furnizează unitatea de învățământ consultanță elevilor, le acordă posibilitatea de a lua decizii și îi sprijină atunci când își hotărăsc viitorul? (I) Evaluarea va avea în vedere politicile și strategiile prin care instituția de educație asigură sprijin și consiliere pentru elevi și părinți, de exemplu: consiliere și orientare școlară și profesională. (II) Inspectorii vor evalua condițiile asigurate elevilor pentru a învăța cum să ia decizii și cum să aleagă între mai multe opțiuni. Se preocupă unitatea de învățământ să îi ajute pe elevi să cultive acele valori și atitudini benefice pentru societate? (I) Inspectorii vor evalua modul în care unitatea de învățământ formează și dezvoltă spiritul civic al elevilor. (II) Inspectorii vor evalua modul în care elevii sunt ajutați să se ghideze după un cod etic care are în vedere propriile lor drepturi, precum și drepturile celorlalți. (III) Inspectorii vor evalua modul în care instituția de educație îi învață pe elevi să se poarte civilizat, să se raporteze unul la celălalt ca membri egali ai comunității și să contribuie la binele celorlalți. Se vor avea în vedere existența și evaluarea participării elevilor în cadrul unor programe, proiecte, activități de tipul serviciilor în beneficiul comunității sau diferite activități de voluntariat. (IV) Inspectorii stabilesc dacă unitatea de învățământ ia în considerație aspectele menționate mai sus și dacă relațiile dintre personal și elevi sunt corecte. Li se acordă elevilor responsabilități? (I) Inspectorii vor evalua măsura în care unitatea de învățământ are politici, practici și structuri destinate să îi ajute pe elevi să își asume anumite responsabilități. De exemplu, dacă elevii mai mari îi ajută pe cei mai mici decât ei sau dacă elevii îi ajută pe profesori, asumându-și responsabilitatea pentru anumite aspecte din viața unității de învățământ. (II) Inspectorii vor observa dacă elevii joacă vreun rol în viața unității de învățământ, de exemplu, în ocazii oficiale. Inspectorii vor evalua dacă elevilor li se oferă posibilitatea de a-și asuma responsabilitatea în ceea ce privește studiul și colaborarea cu alți elevi. Are unitatea de învățământ un program de activități extracurriculare? Este acesta particularizat conform specificului instituției de educație, intereselor și nevoilor elevilor? (I) Inspectorii vor urmări activitățile extracurriculare programate și procentul de elevi care participă la ele. De o mare importanță este calitatea experiențelor trăite și măsura în care ele contribuie la dezvoltarea personală a elevilor. De exemplu, inspectorii vor evalua în ce măsură activitatea unității de învățământ se desfășoară astfel încât să îi ajute pe elevi să își însușească ideile de corectitudine și respect, atât pentru învingători, cât și pentru învinși, atunci când elevii sunt angrenați în diverse competiții (sport, concursuri). (II) Inspectorii vor evalua valoarea formativă a unor activități extracurriculare, precum vizitele la muzee, teatre etc. Descriptori Bine În școală există un cod de conduită pentru întregul personal și pentru elevi, cod de conduită care îi încurajează să adopte un comportament civilizat în toate împrejurările. Curriculumul cuprinde elemente care sprijină dezvoltarea personală a elevilor și care reflectă nevoile, interesele și dorințele elevilor, părinților și comunității. Activitatea comisiei de prevenire și combatere a violenței în mediul școlar de la nivelul unității de învățământ este corespunzătoare. Obiectivele propuse în cadrul Planului operațional minimal privind reducerea fenomenului violenței în mediul școlar sunt realizate. Unitatea de învățământ are un dosar personal al fiecărui elev și îl completează ritmic cu informații relevante pentru dezvoltarea personală a acestuia. După absolvire instituția de educație are o bază de date completă care conține informații despre evoluția școlară a absolvenților, precum și despre integrarea lor socială. Strategiile educaționale facilitează un nivel înalt de implicare a elevilor în ceea ce reprezintă o contribuție pozitivă la dezvoltarea personală. Unitatea de învățământ consiliază și comunică eficient cu elevii și părinții. Acceptabil În unitatea de învățământ există un cod de conduită pentru profesori și elevi. Curriculumul cuprinde câteva elemente care înlesnesc dezvoltarea personală a elevilor. Activitatea comisiei de prevenire și combatere a violenței în mediul școlar de la nivelul unității de învățământ este satisfăcătoare. Obiectivele propuse în cadrul Planului operațional minimal privind reducerea fenomenului violenței în mediul școlar sunt atinse doar parțial. Instituția de educație are dosare personale ale elevilor, le ține la zi, dar nu prea le folosește. Integrarea socială a elevilor nu este urmărită regulat. Strategiile educaționale folosite în cadrul activităților curriculare și extracurriculare sunt corespunzătoare, dar nu îi ajută pe elevi să își asume răspunderea. Elevilor li se oferă consiliere, dar ea este formală. Slab În școală există un cod de conduită pentru profesori și elevi, dar multe cazuri de indisciplină rămân nerezolvate. Curriculumul nu ține cont de nevoile elevilor, se pune accent pe predarea frontală și elevilor nu li se acordă șansa de a-și asuma responsabilități în cadrul lecțiilor și al altor domenii. Nu există o comisie de prevenire și combatere a violenței în mediul școlar sau activitatea acestei comisii de la nivelul unității de învățământ este pur formală. Obiectivele propuse în cadrul Planului operațional minimal privind reducerea fenomenului violenței în mediul școlar nu sunt realizate. Instituția de educație neglijează urmărirea modului în care evoluează elevii. 6. Relațiile unității de învățământ cu părinții și cu comunitatea locală Scopurile Aprecierea modului în care instituția de educație încurajează părinții să se implice în educația copiilor și modul în care ea utilizează contribuțiile părinților. Evaluarea modului în care se realizează schimbul de informații între părinți și unitatea de învățământ. Se va aprecia în ce măsură răspund părinții la cerințele instituției de educație. Se va evalua în ce măsură răspunde unitatea de învățământ la nevoile comunității locale și modul în care folosește ea resursele oferite de comunitatea locală. Sursele de informare consultate:
+a) planul managerial al unității de învățământ preuniversitar;
+b) documentele instituției de educație care se referă la relațiile cu părinții;
+c) informații recente furnizate de comitetul de părinți;
+d) carnetele de note ale elevilor;
+e) orice documente care se referă la contactele avute de profesori cu părinții;
+f) măsurile disciplinare luate împotriva anumitor elevi;
+g) materialele informative trimise de unitatea de învățământ preuniversitar părinților;
+h) discuții cu directorul și cu alte persoane implicate în relația cu părinții;
+i) discuții cu părinții, inclusiv cu părinții care sunt membri ai consiliului de administrație al unității de învățământ;
+j) orice informație privind legăturile instituției de educație cu comunitatea;
+k) CDȘ/CDL, pentru a sesiza orice aspect care privește legătura acestora cu comunitatea locală;
+l) orice alte documente, cum ar fi: fotografii, articole din ziare care dovedesc legăturile cu comunitatea;
+m) interviuri cu reprezentanți ai comunității locale și discuții cu reprezentantul/reprezentanții primarului și reprezentantul/ reprezentanții consiliului local care sunt membri ai consiliului de administrație al unității de învățământ.
+Criteriile Cât de eficient comunică unitatea de învățământ preuniversitar cu părinții? (I) Inspectorii vor trebui să afle cât de frecvent comunică instituția de educație cu părinții și în ce formă. (II) Informații despre acest aspect vor fi colectate atât de la părinți, cât și din evidențele unității de învățământ. Inspectorii vor aprecia calitatea informației și modul în care aceasta îi ajută pe părinți să contribuie eficient la educația propriilor copii. (III) Se va acorda atenție modului în care răspunde instituția de educație la reclamațiile și sugestiile venite din partea părinților. (IV) Inspectorii vor evalua calitatea rapoartelor trimise de instituția de educație părinților, în care se fac referiri la progresul copiilor și la standardele pe care le-au atins. Sunt părinții implicați în managementul unității de învățământ? (I) Inspectorii vor evalua eficiența acțiunilor comitetelor de părinți și gradul de implicare a reprezentanților părinților care sunt membri ai consiliului de administrație în managementul unității de învățământ. (II) Evaluarea măsurii în care activitatea părinților contribuie la educația copiilor. (III) Se va aprecia dacă documentele comitetelor de părinți reflectă interesul real al acestora față de problemele unității de învățământ. (IV) Se va evalua contribuția părinților la sporirea resurselor unității de învățământ. Furnizează instituția de educație programe de educație pentru părinți? Se va avea în vedere sprijinul pe care instituția de educație îl acordă părinților. Inspectorul va evalua dacă instituția de educație îi ajută pe părinți să înțeleagă ce fac copiii în timpul activităților educaționale. Aceasta ar putea însemna, de exemplu: ședințe cu părinții la care se discută probleme de curriculum. Ce face instituția de educație pentru a îmbunătăți legăturile cu comunitatea? (I) Vor fi evaluate planurile instituției de educație în ceea ce privește implicarea comunității locale în munca ei și cât de bine au fost îndeplinite aceste planuri. (II) Se va acorda atenție eforturilor pe care instituția de educație le face pentru a ajuta comunitatea locală, de exemplu: participarea elevilor la programe, proiecte, activități de tipul serviciilor în beneficiul comunității sau diferite activități de voluntariat cu caracter social. (III) Metodele folosite de instituția de educație pentru a implica membrii comunității locale în munca ei prin participarea la activitățile diferitor comitete. Se va aprecia gradul de implicare a reprezentanților primarului și consiliul local, membri ai consiliului de administrație, în managementul unității de învățământ. Folosește instituția de educație în folosul elevilor serviciile oferite de comunitatea locală? (I) Inspectorii vor observa în ce măsură serviciile locale, cum ar fi poliția, pompierii, oficiul de muncă și protecție socială etc., sunt folosite pentru a-i ajuta pe elevi să înțeleagă mai bine comunitatea în care trăiesc. Va fi evaluat nivelul implicării acestor servicii în lărgirea experienței educaționale a elevilor și a activității curriculare. (II) Se va evalua modul în care unitatea de învățământ folosește legăturile cu aceste servicii pentru ca elevii să primească sfaturi privind cariera pe care o vor urma după terminarea instituției de educație. (III) Inspectorii vor avea în vedere cât de eficient folosește unitatea de învățământ mass-media pentru a-și face publicitate și pentru a obține sprijin. Cum folosește unitatea de învățământ legăturile ei cu diverse organizații locale pentru a completa educația elevilor? (I) Inspectorii vor evalua ajutoarele financiare obținute de instituția de educație. (II) Se va evalua modul în care instituția de educație a obținut resurse din partea comunității locale și dacă le-a folosit în interesul elevilor. (III) Inspectorii vor observa în ce măsură alți membri ai comunității locale decât cei reprezentați în consiliul de administrație sunt implicați în conducerea și administrarea unității de învățământ. Folosește unitatea de învățământ spre beneficiul elevilor facilitățile pe care i le pune la dispoziție comunitatea locală? (I) Va fi evaluat modul în care folosește unitatea de învățământ muzeele, teatrele, bibliotecile etc. care există pe plan local. (II) Se va evalua modul în care elevii reflectă activitățile din comunitatea locală în activitățile și lucrările școlare realizate, de exemplu, elaborând lucrări despre activitatea economică, socială sau culturală locală. Cât de mult îi încurajează unitatea de învățământ pe elevi să respecte mediul? Se va evalua modul în care se realizează educația pentru mediu. În ce măsură servește instituția de educație nevoilor comunității locale? (I) Inspectorii vor evalua în ce măsură instituția de educație a avut în vedere nevoile locale. De exemplu, dacă există legături cu comunitatea care să îi îngăduie elevului să sesizeze ce șanse i se oferă pentru propria carieră și propriul parcurs profesional după ce va absolvi cursurile unității de învățământ. (II) Se va aprecia dacă facilitățile unității de învățământ sunt puse la dispoziția comunității locale. De exemplu, dacă cei implicați în diverse activități pe plan local pot utiliza facilitățile oferite de unitatea de învățământ. (III) Inspectorii vor analiza și vor evalua activitățile desfășurate de unitatea de învățământ și comunitate în beneficiul elevilor. Descriptori Bine Școala asigură o comunicare coerentă și eficientă cu părinții. Școala răspunde prompt și transparent sugestiilor și propunerilor părinților; îi încurajează să își aducă contribuția la oferta curriculară (spre exemplu, la alegerea CDȘ) și la planurile de dezvoltare a unității de învățământ. Părinții primesc în mod regulat rapoarte scrise care vizează progresul/dificultățile elevilor în activitățile școlare. Părinții sunt organizați în comitete/asociații și identifică resursele financiare necesare modernizării bazei materiale și/sau activităților extracurriculare. Unitatea de învățământ a selectat strategii clare de colaborare cu comunitatea locală și a definit clar metodele de aplicare a acestora. CDȘ/CDL și activitățile extracurriculare se armonizează cu așteptările de natură economică, socială, culturală ale comunității locale. Consiliul de administrație al unității de învățământ ia decizii în acord cu nevoile și aspirațiile beneficiarilor secundari și terțiari ai educației. Instituția de educație își proiectează oferta educațională în acord cu oportunitățile oferite de comunitate. Unitatea de învățământ se implică în parteneriate cu instituțiile și organizațiile locale (publice sau private, guvernamentale sau neguvernamentale). Nu sunt înregistrate reclamații și sesizări ale comunității nesoluționate. Activitatea reprezentanților părinților și ai autorităților locale în consiliul de administrație este eficientă și responsabilă. Acceptabil Școala menține un nivel acceptabil de comunicare cu părinții. Există rapoarte scrise despre fiecare elev, care sunt trimise părinților, dar acestea nu sunt suficient de detaliate și nu permit părinților să sesizeze care sunt nevoile copiilor. Informațiile despre activitățile școlii sunt furnizate fără să se țină cont dacă sunt utile sau nu. Părinții sunt consiliați, dar adesea ei sunt cei care au inițiativa dacă vor să afle care sunt rezultatele copiilor, precum și potențialul acestora. Școala admite parteneriatul cu familia, dar acesta nu este la fel de eficient ca în cazul unei școli bune. În general, școala este receptivă la sugestiile și propunerile părinților. Școala nu folosește în mod sistematic resursele materiale, financiare și umane oferite de către părinți. Școala are prevăzute în planul managerial câteva referințe la parteneriatul cu comunitatea locală. Ea discută curriculumul local cu reprezentanții comunității locale. Școala face eforturi satisfăcătoare de a strânge fonduri în scopul de a-și spori resursele, deși fondurile nu sunt îndestulătoare. Ea uzează de instituțiile culturale în mod satisfăcător pentru a îmbunătăți educația elevilor și apelează din când în când la serviciile din cadrul comunității pentru acordarea de consiliere elevilor. Niciuna dintre aceste activități nu este planificată în mod sistematic. Informațiile privind oportunitățile ce vizează cariera sunt bune, dar contactele locale nu sunt exploatate în totalitate. Activitatea reprezentanților părinților și ai autorităților locale în consiliul de administrație este puțin eficientă și responsabilă. Slab Unitatea de învățământ comunică rar cu părinții. Școala trimite sporadic părinților rapoarte asupra activității și progresului elevilor. Ea nu reușește să stabilească un parteneriat cu familia și nu consideră ca fiind important acest lucru. Sugestiile și propunerile părinților sunt adesea neglijate. Școala face puțin pentru a obține sprijin material, financiar și uman din partea părinților. Planul managerial nu conține referințe clare privitoare la parteneriatul cu comunitatea locală. Curriculumul școlar nu reflectă contextul social și economic al zonei în care este situată unitatea de învățământ. Elevilor nu le sunt furnizate informații decât sporadic sau deloc în privința oportunităților ce vizează cariera la nivel local. Activitatea școlii nu este promovată în comunitate și nu se manifestă interes pentru colectarea de fonduri din sponsorizări. Școala nu se folosește decât sporadic de serviciile locale pentru a cultiva experiența educațională a elevilor. Activitatea reprezentanților părinților și ai autorităților locale în consiliul de administrație este pur formală sau inexistentă. 7. Atitudinea elevilor față de educația pe care le-o furnizează unitatea de învățământ Scopurile Evaluarea atitudinii elevilor față de învățătură, față de comunitatea școlară și față de tot ceea ce le furnizează instituția de educație, pentru a decide dacă ei contribuie pozitiv la procesul de învățare. Sursele de informare consultate:
+a) statistici privind frecvența, comportamentul și notele elevilor;
+b) rezultatele la testările stabilite de unitatea școală, la testele naționale și la concursuri;
+c) participarea elevilor la activitățile facultative;
+d) discuții cu profesorii, elevii, părinții și personalul instituției de educație;
+e) observarea comportamentului elevilor în clasă și în afara clasei, atitudinea lor față de învățătură și relațiile dintre ei.
+Criteriile Care este atitudinea elevilor față de învățătură? (I) Inspectorii vor aprecia interesul elevilor față de activitățile în care sunt angrenați și cât de mult își doresc să progreseze. (II) Se va aprecia dacă elevii sunt mulțumiți de curriculum și de modul în care le este furnizat acesta. De exemplu, prin discuții cu elevii. (III) Inspectorii vor aprecia cât de mult se implică elevii în timpul activităților, dacă doresc să își asume responsabilități în ceea ce privește învățătura și dacă manifestă curiozitate față de lucrurile noi care le sunt prezentate. (IV) Se va aprecia dorința elevilor de a-și lărgi orizontul cunoașterii prin perseverență și concentrare. (V) Vor fi cercetate și evaluate motivele pentru care elevilor le place sau nu le place școala. (VI) Inspectorii vor evalua rezultatele elevilor și capacitatea lor de a folosi metode și tehnici de învățare, de exemplu, căutarea, ordonarea și prelucrarea informațiilor, cercetarea, rezolvarea de probleme și elaborarea de proiecte. Cum se comportă elevii? (I) Va fi evaluat comportamentul elevilor în clasă și în instituția de educație. (II) Inspectorii vor aprecia respectul arătat profesorilor și colegilor. (III) Inspectorii vor aprecia dacă comportamentul elevilor îi ajută în procesul de învățare. Ce fel de etos are instituția de educație și cum contribuie elevii la păstrarea lui? (I) Se va aprecia modul în care reacționează elevii la ceea ce le oferă instituția de educație și felul în care ei contribuie la atmosfera din școală. (II) Va fi apreciată contribuția elevilor la crearea unui climat pozitiv de învățare în unitatea de învățământ și grija pe care o arată pentru echipamente, materiale, mobilier. De exemplu, mâzgălirea pereților instituției de educație și alte pagube produse de elevi vor fi avute în vedere de inspectori. Descriptori Bine Elevii sunt interesați de activitățile organizate de profesori și se implică cu responsabilitate și plăcere în realizarea sarcinilor. Ei se străduiesc să răspundă corect și de multe ori reușesc; le cer colegilor și profesorilor sugestii, caută informații, își fac temele în mod regulat și sunt capabili să realizeze proiecte individual sau în echipă. Elevii participă activ la cursuri și se străduiesc să progreseze. Ei participă în număr mare la activitățile extracurriculare și cu anumite ocazii ei înșiși organizează astfel de activități. Consiliul elevilor este activ și desfășoară activități, programe și proiecte implicând un număr mare de elevi. Elevii se comportă civilizat, protejează resursele instituției de educație și își amenajează clasele. Ei își îndeplinesc responsabilitățile. Acceptabil Elevii au o atitudine corespunzătoare față de învățătură și răspund în mod satisfăcător cerințelor profesorilor. Ei sunt interesați de activitatea din școală, deși fac destul de puțin din ceea ce li se cere să facă. Elevii răspund acceptabil la întrebările profesorilor, dar nu dau semne de curiozitate și nu își pun întrebări. Elevii manifestă un interes scăzut și au doar rareori inițiative. Când aleg disciplinele opționale se bazează pe sfatul celor din jur și nu pe propria judecată. La activitățile extracurriculare participă un număr mic de elevi (mai puțin de 50%). Consiliul elevilor propune activități, programe și proiecte, fără a reuși să implice un număr mare de elevi. În general, comportamentul lor este corect. Ei sunt disciplinați și respectă regulamentele școlare. Slab Elevii nu manifestă interes în legătură cu propria educație. Ei nu sunt interesați de propria dezvoltare și nu participă la luarea deciziilor, cum ar fi alegerea disciplinelor opționale. La activitățile extracurriculare participă foarte puțini elevi. Consiliul elevilor are doar o prezență formală, fără a propune activități, programe și proiecte educaționale. Elevii au un comportament violent unul față de celălalt, nu îi respectă pe profesori și părinți, distrug mobilierul unității de învățământ și scriu pe pereți. Atmosfera din școală este încordată.
+Anexa 2
+------- la regulament -------------- RAPORT SCRIS INDIVIDUAL AL INSPECȚIEI ȘCOLARE GENERALE - model - Raport scris individual pe arie tematică/domeniu Aria tematică/Domeniul: ......................................................................................................... Inspector: ........ Calificativ .............
+Pe baza criteriilor și a descriptorilor din cadrul Metodologiei de aplicare
+a prevederilor privind inspecția școlară generală a unităților de învățământ
+preuniversitar
+Constatări/Aprecieri:
+Recomandări:
+Raport scris individual pe discipline Disciplina: .................................................................................................................. Inspector: .............. Calificativ ...................
+Pe baza criteriilor și a descriptorilor din cadrul Metodologiei de aplicare
+a prevederilor privind inspecția școlară generală a unităților de învățământ
+preuniversitar și a criteriilor de evaluare din fișa de observare a lecției
+Constatări/Aprecieri:
+Recomandări:
+Anexa 3
+------- la regulament ------------- RAPORT SCRIS FINAL AL INSPECȚIEI ȘCOLARE GENERALE - model - 1. Denumirea unității de învățământ preuniversitar .......................................................... 2. Perioada inspecției ...................................................................................... 3. Echipa de inspecție: Coordonatorul echipei de inspecție ..........................................................................
+Nr.
+crt.
+Numele și prenumele
+inspectorului
+Aria tematică/
+Domeniul inspectat
+Disciplina/Aria curriculară
+inspectată
+4. Obiectivele inspecției: 5. Descrierea sintetică a contextului în care funcționează instituția de educație (demografic, geografic, economic, social, cultural etc.): 6. Date generale statistice privind unitatea de învățământ preuniversitar: 7. Activitățile desfășurate pe parcursul inspecției: 8. Constatări/Aprecieri și recomandări pentru fiecare arie tematică/domeniu:
+Nr.
+crt.
+Aria tematică/Domeniul și
+calificativul acordat
+Constatări/Aprecieri
+Recomandări
+1
+2
+3
+4
+1.
+Managementul școlar, managementul
+calității, dezvoltarea instituțio-
+nală, eficiența atragerii și folosi-
+rii resurselor (umane, financiare,
+materiale și informaționale), res-
+pectarea legislației în vigoare și a
+regulamentelor
+Calificativul acordat:
+2.
+Modul de aplicare a curriculumului
+național, dezvoltarea și aplicarea
+curriculumului la decizia școlii/în
+dezvoltare locală și calitatea acti-
+vităților extracurriculare realizate
+de personalul didactic și unele ca-
+tegorii de personal didactic
+auxiliar
+Calificativul acordat:
+3.
+Activitatea personalului didactic
+(proiectare, predare-învățare,evalu-
+are, reglare/remediere, diferențiere
+a demersului educațional)
+Calificativul acordat:
+4.
+Nivelul performanțelor realizate de
+elevi în învățare, raportat la stan-
+dardele educaționale naționale
+(curriculare și de evaluare)
+Calificativul acordat:
+5.
+Modul în care unitatea de învățământ
+sprijină și încurajează dezvoltarea
+personală a elevilor și motivația
+acestora în învățare (consiliere,
+orientare școlară, asistență indivi-
+dualizată) respectând principiile
+educației incluzive și asigurarea
+egalității de șanse
+Calificativul acordat:
+6.
+Relațiile unității de învățământ cu
+părinții și cu comunitatea locală
+Calificativul acordat:
+7.
+Atitudinea elevilor față de educația
+pe care le-o furnizează unitatea de
+învățământ
+Calificativul acordat:
+NOTĂ: Constatările/aprecierile și calificativele pentru fiecare arie tematică/domeniu se realizează/se acordă pe baza criteriilor și a descriptorilor din cadrul Metodologiei de aplicare a regulamentului de inspecție școlară generală a unităților de învățământ preuniversitar. 9. Constatări/aprecieri și recomandări pentru fiecare disciplină inspectată:
+Nr.
+crt.
+Disciplina și calificativul
+acordat
+Constatări/Aprecieri
+Recomandări
+Aria Curriculară ...............
+Disciplina ...................
+Calificativ: .................
+Disciplina ....................
+Calificativ: ................
+Aria curriculară ...............
+Disciplina ...................
+Calificativ: .................
+Disciplina ....................
+Calificativ: ................
+Inspector coordonator Numele și prenumele ....... Semnătura ......... Data: NOTĂ: Constatările/aprecierile și calificativele pentru fiecare disciplină se realizează/se acordă pe baza criteriilor și a descriptorilor din cadrul Metodologiei de aplicare a regulamentului de inspecție școlară generală a unităților de învățământ preuniversitar și a criteriilor de evaluare din cadrul fișei de observare a lecției.
+Anexa 4
+------- la regulament ------------- Rezumatul raportului scris final al inspecției școlare generale - model - 1. Denumirea unității de învățământ preuniversitar .................................................................................... 2. Perioada inspecției ................................................................................................................ 3. Echipa de inspecție: Coordonatorul echipei de inspecție ....................................................................................................
+Aria tematică/Domeniul și calificativul
+acordat
+Constatări/Aprecieri
+Recomandări
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Disciplina și calificativul acordat
+Constatări/Aprecieri
+Recomandări
+Aria Curriculară ...............
+Disciplina ...................
+Calificativ: .................
+Disciplina ....................
+Calificativ: ................
+Aria curriculară ...............
+Disciplina ...................
+Calificativ: .................
+Disciplina ....................
+Calificativ: ................
+Inspector coordonator Numele și prenumele ........ Semnătura ........... Data:
+Anexa 5
+------- la regulament ------------- Fișa de observare a lecției - model - Unitatea de învățământ: .............................................................................................................. Data: .......................... Numele și funcția cadrului didactic inspectat/asistat: ............................................................................... Specialitatea: ....................................................................................................................... Clasa: ............................... Numărul de elevi prezenți și numărul de elevi absenți: ........................................ Disciplina/disciplinele la care se realizează inspecția/asistența: ................................................................... Unitatea de învățare/unitățile de învățare: .......................................................................................... Tema lecției/temele lecțiilor: ....................................................................................................... Tipul lecției/tipurile lecțiilor: .................................................................................................... Tipul inspecției: .................................................................................................................... Numele inspectorului/metodistului: ...................................................................................................
+*Font 9*
+Aspect
+Criterii de evaluare
+Constatări/Aprecieri
+Recomandări
+1
+2
+3
+4
+Evaluarea
+activității
+cadrului
+didactic
+Planificarea și proiectarea activită-
+ții didactice
+- Planificarea activității didactice
+- Proiectarea activității didactice
+- Corelarea elementelor proiectării
+didactice
+- Tipul, calitatea și diversitatea
+strategiilor și metodelor didactice
+incluse în cadrul proiectării acti-
+vităților didactice de predare-
+învățare-evaluare
+- Elemente de creativitate în selecta-
+rea strategiilor și metodelor
+didactice
+- Elemente de tratare diferențiată a
+elevilor, incluse în cadrul proiectă-
+rii didactice, în special a elemen-
+telor care vizează elevii cu nevoi
+speciale
+Desfășurarea activității didactice
+- Concordanța activității didactice
+realizate cu planificarea și proiec-
+tarea didactică propusă
+- Cunoașterea conținuturilor discipli-
+nei
+- Corectitudinea științifică a conți-
+nuturilor transmise
+- Organizarea informațiilor transmise
+- Claritatea explicațiilor
+- Strategia didactică realizată:
+- metode și procedee utilizate
+- activități de învățare
+- forme de organizare a activităților
+elevilor
+- mijloace de învățământ
+- Respectarea particularităților cla-
+sei de elevi (ritm de lucru, accesi-
+bilizarea conținuturilor, predarea
+diferențiată, sarcini suplimentare)
+- Integrarea elementelor de evaluare
+în cadrul strategiei didactice (tipuri
+de evaluare, metode)
+- Conducerea activității didactice
+(stil de conducere, crearea motivației
+necesare, încurajarea elevilor și sti-
+mularea interesului pentru studiu,
+dozarea sarcinilor, comunicarea cu
+elevii)
+- Tema pentru acasă ( modul de utili-
+zare, volum, individualizare)
+Evaluarea
+activității
+elevilor
+Atitudinea față de învățare
+- Atitudinea și responsabilitatea ele-
+vilor față de rezolvarea sarcinilor de
+lucru din clasă și a sarcinilor de
+lucru pentru acasă
+- Relațiile elevilor cu profesorul,
+colaborarea cu acesta în procesul de
+învățare
+- Relațiile elevilor cu colegii, cola-
+borarea cu aceștia în procesul de
+învățare
+Competențele dobândite de elevi
+- Competențele și nivelul competențe-
+lor specifice disciplinei demonstrate
+de elevi (cunoștințe, deprinderi, ati-
+tudini)
+- Gradul de utilizare a cunoștințelor,
+deprinderilor și atitudinilor în con-
+texte noi de învățare
+- Progresul realizat de elevi în
+timpul lecției
+Alte componen-
+te și observa-
+ții
+Mediul educațional
+- Locul de desfășurare la unitatea de
+învățământ a lecției
+- Dispunerea mobilierului în funcție
+de activitate
+- Dotarea, resursele materiale și
+auxiliarele curriculare utilizate în
+lecție
+- Expunerea materialelor/lucrărilor
+elevilor
+- Atmosfera generală în clasă
+Alte observații
+Numele și prenumele persoanei care realizează inspecția/asistența ............................................................................................. Semnătura ......................... NOTĂ: Fiecare oră de inspecție/asistență a lecției se evaluează acordându-se în mod corespunzător unul din calificativele: foarte bine (FB); bine (B); acceptabil (A); slab (S). În cazul în care se realizează mai mult decât o oră de inspecție/asistență se vor menționa, după caz, toate disciplinele la care se realizează inspecția/asistența, unitățile de învățare, temele lecțiilor și tipurile de lecție vizate.
+Anexa 6
+------- la regulament ------------- INSPECTORATUL ȘCOLAR AL JUDEȚULUI ................./INSPECTORATUL ȘCOLAR AL MUNICIPIULUI BUCUREȘTI Nr. de înregistrare: ................. RAPORT ÎNCHEIAT ÎN URMA INSPECȚIEI TEMATICE - model - Unitatea de învățământ/instituția de educație: ........................................................................................... Tematica inspecției: ..................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... Perioada de desfășurare: ............... Inspector/Inspectori: ........................................................................... Obiectivele inspecției: .................................................................................................................. .......................................................................................................................................... Metode și procedee de documentare, control, îndrumare, evaluare: ......................................................................... .......................................................................................................................................... Constatări și aprecieri pentru obiectivele urmărite:
+Obiectivul urmărit
+Aspecte pozitive
+Aspecte de îmbunătățit
+Data întocmirii raportului: ............................. Inspector, ......................... Sunt/Nu sunt de acord cu aspectele menționate în raport*1). Director, ....................... ------------- *1) Vor fi menționate aspectele pentru care s-a exprimat dezacordul.
+Anexa 7
+------- la regulament ------------- Răspunsurile la acest chestionar au caracter confidențial. CHESTIONAR PENTRU ELEVI - model - Îți place cum se desfășoară orele de curs în școala ta?
+a) Da
+b) Nu
+Motivează răspunsul tău! .............................................................................................................................................................................................. Ai participat, în cursul acestui an școlar, în afara orarului obișnuit al clasei, la ore în care ai primit un sprijin suplimentar la învățătură?
+a) Da
+b) Nu
+c) Nu a fost cazul
+d) Dacă da, la ce discipline?
+.............................................................................................................................................................................................. Ai participat la concursuri școlare în acest an școlar?
+a) Da
+b) Nu
+c) Dacă da, precizează disciplina sau denumirea concursului și etapa maximă de participare (pe școală, pe județ, națională, internațională)
+.............................................................................................................................................................................................. Ai participat, în cursul acestui an școlar, la ore de pregătire suplimentară în vederea participării la concursurile școlare?
+a) Da
+b) Nu
+Ai manuale pentru toate disciplinele? Dacă nu, ce manuale îți lipsesc? ............................................................................................................................................................................................... Cum te înțelegi cu colegul/colega de bancă? Dar cu ceilalți colegi? .............................................................................................................................................................................................. Care este activitatea care îți place cel mai mult la școală? De ce? .............................................................................................................................................................................................. Dirigintele clasei v-a prezentat/informat în legătură cu: [] prevederile regulamentului intern al școlii (elaborat de școală) [] drepturile și îndatoririle pe care le ai ca elev [] sancțiunile care se aplică elevilor [] orarul clasei [] activitățile extrașcolare organizate de școală [] semnele de identificare școlară (uniformă, insignă etc.) Poți alege unul sau mai multe răspunsuri. Care sunt disciplinele opționale pe care le studiezi la clasă? ............................................................................... .............................................................................................................................................................................................. Ai fost consultat în alegerea acestor discipline opționale?
+a) Da
+b) Nu
+Părinții tăi au fost consultați în alegerea acestor discipline opționale?
+a) Da
+b) Nu
+c) Nu știu
+Ai carnet de elev?
+a) Da
+b) Nu
+Dacă ai carnet de elev, este completat cu notele/mediile pe care le-ai obținut?
+a) Da
+b) Nu
+c) Parțial completat
+Au primit părinții tăi, acasă, vreo adresă/scrisoare de la școală ?
+a) Da
+b) Nu
+c) Nu știu
+În caz afirmativ, conținutul adresei/scrisorii se referea la:
+a) numărul de absențe pe care le-ai avut
+b) felicitări pentru rezultatele foarte bune pe care le-ai avut la învățătură
+c) invitație la ședința cu părinții
+d) altele: ..................................................................................................................
+Poți alege unul sau mai multe răspunsuri. Părinții tăi vin la școală: [] o dată pe semestru [] o dată pe lună [] o dată pe săptămână [] la ședințele cu părinții [] la solicitarea dirigintelui [] din propria inițiativă alt răspuns ............................................................................................................ Poți alege unul sau mai multe răspunsuri. Părinții tăi au participat la activități organizate de școală? Dacă da, în ce a constat participarea părinților? Dă un exemplu de astfel de activitate. .............................................................................................................................................................................................. Cum apreciezi relația ta cu dirigintele clasei? .............................................................................................................................................................................................. Dar cu ceilalți profesori ? .............................................................................................................................................................................................. Îți place cum arată sala/sălile de clasă, laboratoarele din școală?
+a) Da
+b) Nu
+Motivează răspunsul tău! .......................................................................................................................... .............................................................................................................................................................................................. Ai contribuit tu sau părinții tăi la îmbunătățirea condițiilor din clasă/laborator sau la confecționarea de material didactic? Dacă da, dă un exemplu de astfel de activitate. .............................................................................................................................................................................................. Ce ai vrea să se îmbunătățească în școală?
+a) comportamentul cadrelor didactice față de tine
+b) baza materială a clasei/școlii
+c) colaborarea cu dirigintele clasei
+d) altele: ...........................................................................................
+Poți alege unul sau mai multe răspunsuri. Ai participat la vreo acțiune organizată de școală ? Dacă da, dă un exemplu de astfel de activitate! .............................................................................................................................................................................................. Ce alte activități ți-ar plăcea să se organizeze în școală? .............................................................................................................................................................................................. Școala în care înveți este implicată în proiecte naționale sau internaționale ?
+a) Da
+b) Nu
+c) Nu știu
+În caz afirmativ, precizează titlul/domeniul proiectului! .............................................................................................................................................................................................. Transmite un mesaj școlii tale sau persoanelor din școală! .............................................................................................................................................................................................. Îți mulțumim pentru colaborare! (Acest chestionar se poate modifica/reduce/adapta la specificul unității de învățământ.)
+Anexa 8
+------- la regulament ------------- CHESTIONAR PENTRU PĂRINȚI*) - model - -----------
+Notă
+...
+*) Răspunsurile la acest chestionar au caracter confidențial.
+Cunoașteți numele învățătorului/dirigintelui clasei în care învață fiul/fiica dvs., precum și disciplina pe care acesta o predă?
+a) cunosc și numele, și disciplina
+b) cunosc doar numele
+c) cunosc doar disciplina
+d) nu cunosc nici numele, nici disciplina
+În ce mod ați luat legătura cu dirigintele clasei?
+a) participare la ședințe cu părinții
+b) întâlniri individuale
+c) în calitate de membru al comitetului de părinți al clasei
+d) o altă modalitate (spre exemplu, prin e-mail)
+Puteți alege unul sau mai multe răspunsuri. Precizați motivele pentru care ați luat legătura cu dirigintele clasei?
+a) la solicitarea dirigintelui clasei
+b) pentru a urmări evoluția copilului dvs.
+c) pentru a participa la organizarea de evenimente școlare (serbări etc.)
+d) îmbunătățirea condițiilor de studiu pentru elevii clasei (reparații, confecționarea de materiale didactice etc.)
+e) alte motive (precizați):
+.............................................................................................................................................................................................. Puteți alege unul sau mai multe răspunsuri. În cadrul întâlnirilor cu dirigintele clasei, acesta v-a prezentat/informat cu privire la:
+a) prevederile regulamentului intern (elaborat de școală)
+b) absențele copilului dvs.
+c) potențialele situații de corigență, de amânare a încheierii situației școlare, de aplicare a unor sancțiuni disciplinare copilului dvs.
+d) altele (precizați) .............................................................................................................................
+Puteți alege unul sau mai multe răspunsuri. Ați primit acasă adrese/scrisori de la școală?
+a) Da
+b) Nu
+c) În caz afirmativ, care a fost motivul?
+................................................................................................................................................... Care este frecvența cu care ați luat legătura cu dirigintele clasei?
+a) semestrial
+b) lunar
+c) săptămânal
+d) altă frecvență (precizați) ...................................................................
+Faceți parte din comitetul de părinți al clasei ? Dacă da, ce probleme ați discutat/rezolvat împreună cu dirigintele clasei? .............................................................................................................................................................................................. Copilul dvs. are carnet de note ?
+a) Da
+b) Nu
+c) Nu știu
+În caz afirmativ, este completat cu notele și mediile obținute de copilul dvs.?
+a) Da
+b) Nu
+c) Nu știu
+Cum apreciați starea de disciplină și comportamentul elevilor din clasa în care învață copilul dvs.? .............................................................................................................................................................................................. Vă place cum arată școala în care învață copilul dvs.?
+a) Da
+b) Nu
+c) Nu știu
+Motivați răspunsul dvs.! .............................................................................................................................................................................................. Cum apreciați atitudinea dirigintelui, a cadrelor didactice față de copilul dvs. și față de dvs.? .............................................................................................................................................................................................. Școala în care învață copilul dvs. este implicată în proiecte naționale sau internaționale?
+a) Da
+b) Nu
+c) Nu știu
+În caz afirmativ, precizați titlul/domeniul proiectului! .............................................................................................................................................................................................. După părerea dvs., în școală se acordă importanță sporită:
+a) educației
+b) activităților extracurriculare
+c) învățării centrate pe elev
+d) modernizării metodelor de lucru cu elevii
+e) dezvoltării culturii organizaționale
+f) modernizării managementului școlar
+g) asigurării unor condiții de lucru potrivite
+h) realizării unui învățământ de calitate
+Puteți alege unul sau mai multe răspunsuri, dar nu mai multe de 3! A participat copilul dvs., în cursul acestui an școlar, la ore de sprijin la învățătură, desfășurate în afara orarului obișnuit al clasei?
+a) Da
+b) Nu
+c) Nu a fost cazul
+Dacă da, la ce discipline? .................................................................................................................... A participat copilul dvs. la concursuri școlare în acest an școlar?
+a) Da
+b) Nu
+Dacă da, precizați disciplina sau denumirea concursului și etapa maximă de participare atinsă (pe școală, pe județ, națională)! ........................................................................................................................................................................................... A participat copilul dvs., în cursul acestui an școlar, la ore de pregătire suplimentară în vederea participării la concursurile școlare?
+a) Da, în cadrul orelor organizate de școală
+b) Nu
+c) Da, prin pregătire cu profesor meditator acasă
+Ați vrea să se îmbunătățească:
+a) comportamentul cadrelor didactice față de copilul dvs.
+b) baza materială a clasei/școlii
+c) colaborarea cu dirigintele clasei
+d) altele ..................................................................................
+Puteți alege unul sau mai multe răspunsuri (prin încercuirea răspunsului/răspunsurilor). Ați contribuit la îmbunătățirea condițiilor din clasă/laborator sau la confecționarea de material didactic ? Dacă da, dați un exemplu de astfel de activitate! .............................................................................................................................................................................................. Ați participat la activități organizate de școală ? Dacă da, în ce a constat participarea dvs.? Dați un exemplu de astfel de activitate! .............................................................................................................................................................................................. Ce activitate/activități școlare preferă copilul dvs.? .............................................................................................................................................................................................. Orice alte comentarii personale: .............................................................................................................................................................................................. Vă mulțumim pentru colaborare! (Acest chestionar se poate modifica/reduce/adapta la specificul unității de învățământ.)
+Anexa 9
+------- la regulament -------------- CHESTIONAR pentru personalul didactic*) - model - ------------
+Notă
+...
+*) Răspunsurile la acest chestionar au caracter confidențial.
+În scopul diagnosticării procesului instituțional din școala dvs., a stabilirii unor repere de sprijin și dezvoltare, vă rugăm să exprimați, punctual, părerea dumneavoastră asupra următoarelor chestiuni: 1. Aveți contract individual de muncă? DA NU 2. Aveți o fișă a postului? DA NU 3. Fișa postului cuprinde îndatoriri care derivă din sarcini conexe procesului de învățământ (diriginte, șef de catedră, profesor de serviciu, responsabil al altor activități etc.)? DA NU 4. Aveți contribuții la planul de dezvoltare a școlii? DA NU Dacă aveți asemenea contribuții, menționați succint în ce constau acestea! 5. Vă aduceți contribuția la deciziile care se iau în școală? DA NU Vă rugăm să detaliați comentarii sau propuneri privind modul de luare a deciziilor în școală! 6. Există metode și criterii clare de evaluare a activității pe care o desfășurați în școală? DA NU 7. Aveți observații/propuneri referitoare la îmbunătățirea activității educaționale din școală? DA NU Dacă aveți observații/propuneri, vă rugăm să le detaliați! 8. Care sunt criteriile pe baza cărora evaluați eficiența propriei activități didactice? 9. Cum asigurați resursele materiale necesare unui învățământ interactiv? 10. Ce metode folosiți pentru evaluarea progresului elevilor pe parcursul învățării? Sumative: .............................................................................................................................. Formative: ............................................................................................................................. 11. Cum reglați procesul didactic ca o consecință a evaluărilor? 12. Ce metode se folosesc în unitatea de învățământ pentru evaluarea nevoilor școlii, a punctelor slabe ale procesului de învățământ? 13. Ce propuneri aveți în legătură cu dezvoltarea școlii? 14. Sunteți mulțumit de modul în care se apreciază rezultatele muncii dumneavoastră de către conducerea unității școlare? DA NU 15. Aprecierile vă motivează în dezvoltarea profesională proprie? DA NU 16. Vă place să lucrați în această școală? DA NU 17. Orice alte comentarii personale: .............................................................................................................................................................................................. Vă mulțumim pentru colaborare! (Acest chestionar se poate modifica/reduce/adapta la specificul instituției de educație.) ----
