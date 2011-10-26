@@ -1,0 +1,210 @@
+{
+ "key": "iccj-ril-11-2011",
+ "label": "Decizia ÎCCJ nr. 11/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "11",
+ "date": "2011-09-19",
+ "year": "2011",
+ "heading": "DECIZIE nr. 11 din 19 septembrie 2011",
+ "subtitle": "privind recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Bacău cu privire la acordarea în perioada 2005-2007 de către Societatea Comercială OMV Petrom - S.A. Bucureşti,a unui ajutor material",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "751",
+  "bis": false,
+  "date": "2011-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "13/2011"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Bacău cu privire la acordarea în perioada 2005-2007 de către Societatea Comercială OMV Petrom - S.A. Bucureşti, în calitate de angajator, în baza contractelor colective de muncă, a unui ajutor material reprezentând contravaloarea cantităţii de 2.500-4.000 metri cubi de gaze naturale şi a unei cote-părţi de 5-10% din profitul realizat de societate.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/1996",
+    "number": "130",
+    "year": "1996",
+    "path": "lege/1996/130"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1017",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "977",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "978",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "979",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "980",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "981",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "982",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "983",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "984",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "985",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132434",
+  "text_sha256": "880864977a31b58626cc979dc4028bc411d018f8933bcfb6f7139a5a44febdfc",
+  "catalogue_sha256": "880864977a31b58626cc979dc4028bc411d018f8933bcfb6f7139a5a44febdfc",
+  "fetched": "2026-11-03T04:22:55Z",
+  "chars": 30501,
+  "portal_id": "132434",
+  "tip": "DECIZIE"
+ }
+}
