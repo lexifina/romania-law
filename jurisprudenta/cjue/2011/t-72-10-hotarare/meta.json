@@ -1,0 +1,42 @@
+{
+ "key": "cjue-t-72-10-hotarare-2011-10-26",
+ "label": "CJUE, Hotărârea Tribunalului (camera a cincea) din 26 octombrie 2011., Cauza T-72/10.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2011-10-26",
+ "year": "2011",
+ "case": "Cauza T-72/10.",
+ "celex": "62010TJ0072",
+ "ecli": "ECLI:EU:T:2011:635",
+ "heading": "Hotărârea Tribunalului (camera a cincea) din 26 octombrie 2011.",
+ "formation": "CHAMB_05_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Marcă comunitară - Procedură de opoziție - Cerere de înregistrare a mărcii comunitare verbale NATY'S - Marcă comunitară figurativă anterioară Naty - Motiv relativ de refuz - Risc de confuzie - Similitudinea produselor - Articolul 8 alineatul (1) litera (b) din Regulamentul (CE) nr. 207/2009 - Respingerea în parte a opoziției.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62010TJ0072",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-72/10&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/c8ecc94d-9f4d-4f42-9682-8033f8d71d1c.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "907cb688a713269061a3b3776985ce94eb059370105db63b2e69d06a9e9775a9"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
