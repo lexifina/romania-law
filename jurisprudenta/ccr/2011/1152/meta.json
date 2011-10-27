@@ -1,0 +1,186 @@
+{
+ "key": "dcc-1152-2011",
+ "label": "Decizia CCR nr. 1152/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1152",
+ "date": "2011-09-13",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.152 din 13 septembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 841 şi art. 847 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "758",
+  "bis": false,
+  "date": "2011-10-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.616/306/2010",
+  "4.779D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "841",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "847",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 841 şi art. 847 din Codul civil, excepţie ridicată de Nicolae Mircea Alexandru Oprea în Dosarul nr. 8.616/306/2010 al Judecătoriei Sibiu.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "841",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "847",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 319/1944",
+    "number": "319",
+    "year": "1944",
+    "path": "lege/1944/319"
+   },
+   "articles": [
+    {
+     "art": "841",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-10-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132499",
+  "text_sha256": "7c7eae36eb45ecb09f3f9ca84a72c0f0a05339363aedcc6f8b77a8177a1505d1",
+  "catalogue_sha256": "7c7eae36eb45ecb09f3f9ca84a72c0f0a05339363aedcc6f8b77a8177a1505d1",
+  "fetched": "2026-11-03T04:22:50Z",
+  "chars": 7667,
+  "portal_id": "132499",
+  "tip": "DECIZIE"
+ }
+}
