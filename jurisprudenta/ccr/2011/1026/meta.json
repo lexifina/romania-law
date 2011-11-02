@@ -1,0 +1,158 @@
+{
+ "key": "dcc-1026-2011",
+ "label": "Decizia CCR nr. 1026/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1026",
+ "date": "2011-07-14",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.026 din 14 iulie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 222 alin. (1) lit. d) din Legea nr. 31/1990 privind societăţile comerciale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "773",
+  "bis": false,
+  "date": "2011-11-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.864/40/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "222",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 222 alin. (1) lit. d) din Legea nr. 31/1990 privind societăţile comerciale, excepţie ridicată de Societatea Comercială Mak Epe Import-Export Comercial and Construction OG Garments 33 L Byron din Salonic, Grecia, în Dosarul nr. 1.864/40/2008 al Curţii de Apel Suceava - Secţia comercială, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "222",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-11-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132591",
+  "text_sha256": "c68f4f3ce1b3cfa9a6fdee31dfbdc5e46a606c54ce0e267e83c1234eeecd8eb5",
+  "catalogue_sha256": "c68f4f3ce1b3cfa9a6fdee31dfbdc5e46a606c54ce0e267e83c1234eeecd8eb5",
+  "fetched": "2026-11-03T04:22:40Z",
+  "chars": 7420,
+  "portal_id": "132591",
+  "tip": "DECIZIE"
+ }
+}
