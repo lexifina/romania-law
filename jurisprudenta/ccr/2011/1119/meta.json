@@ -1,0 +1,145 @@
+{
+ "key": "dcc-1119-2011",
+ "label": "Decizia CCR nr. 1119/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1119",
+ "date": "2011-09-08",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.119 din 8 septembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 2 din Ordonanţa de urgenţă a Guvernului nr. 148/2005 privind susţinerea familiei în vederea creşterii copilului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "783",
+  "bis": false,
+  "date": "2011-11-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.218/99/2010",
+  "4.296D/2010",
+  "696D/2011",
+  "7.091/112/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 148/2005",
+    "number": "148",
+    "year": "2005",
+    "path": "oug/2005/148"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 2 din Ordonanţa de urgenţă a Guvernului nr. 148/2005 privind susţinerea familiei în vederea creşterii copilului, excepţie ridicată de Ioana Ecaterina Brădăţeanu în Dosarul nr. 4.218/99/2010 al Tribunalului Iaşi - Secţia comercială şi de contencios administrativ şi de către Laura Alexandra Bertel în Dosarul nr. 7.091/112/2010 al Tribunalului Bistriţa-Năsăud - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 148/2005",
+    "number": "148",
+    "year": "2005",
+    "path": "oug/2005/148"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-11-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132670",
+  "text_sha256": "f05fa4914fdb3b806c31a07b7ac1937cd29b252f05ceb7516466726ceb6a5658",
+  "catalogue_sha256": "f05fa4914fdb3b806c31a07b7ac1937cd29b252f05ceb7516466726ceb6a5658",
+  "fetched": "2026-11-04T01:53:23Z",
+  "chars": 12685,
+  "portal_id": "132670",
+  "tip": "DECIZIE"
+ }
+}
