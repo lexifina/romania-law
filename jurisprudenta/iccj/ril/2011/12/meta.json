@@ -1,0 +1,200 @@
+{
+ "key": "iccj-ril-12-2011",
+ "label": "Decizia ÎCCJ nr. 12/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "12",
+ "date": "2011-09-19",
+ "year": "2011",
+ "heading": "DECIZIE nr. 12 din 19 septembrie 2011",
+ "subtitle": "privind recursul în interesul legii, referitor la existenţa unei divergenţe jurisprudenţiale determinate de efectele deciziilor Curţii Constituţionale, prin care s-a constatat neconstituţionalitatea art. 5 alin. (1) lit. a) teza întâi din Legea nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "789",
+  "bis": false,
+  "date": "2011-11-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "14/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie, Colegiul de conducere al Curţii de Apel Bucureşti şi Colegiul de conducere al Curţii de Apel Galaţi.",
+  "Stabileşte că, urmare a deciziilor Curţii Constituţionale nr. 1.358/2010 şi nr. 1.360/2010, dispoziţiile art. 5 alin. (1) lit. a) teza I din Legea nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora şi-au încetat efectele şi nu mai pot constitui temei juridic pentru cauzele nesoluţionate definitiv la data publicării deciziilor instanţei de contencios constituţional în Monitorul Oficial.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 adiţional la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "376",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-11-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132720",
+  "text_sha256": "a8f1ef7eafc4bfe81c242b6d5ce0e76eb7997a7fd804894e92056c596d22d8c4",
+  "catalogue_sha256": "a8f1ef7eafc4bfe81c242b6d5ce0e76eb7997a7fd804894e92056c596d22d8c4",
+  "fetched": "2026-11-03T04:22:31Z",
+  "chars": 39153,
+  "portal_id": "132720",
+  "tip": "DECIZIE"
+ }
+}
