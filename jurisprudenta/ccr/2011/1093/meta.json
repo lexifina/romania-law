@@ -1,0 +1,164 @@
+{
+ "key": "dcc-1093-2011",
+ "label": "Decizia CCR nr. 1093/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1093",
+ "date": "2011-09-08",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.093 din 8 septembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12 şi art. 13 din Legea nr. 363/2007 privind combaterea practicilor incorecte ale comercianţilor în relaţia cu consumatorii şi armonizarea reglementărilor cu legislaţia europeană privind protecţia consumatorilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "787",
+  "bis": false,
+  "date": "2011-11-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.653/99/2009",
+  "2.984D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2007",
+    "number": "363",
+    "year": "2007",
+    "path": "lege/2007/363"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 12 şi art. 13 din Legea nr. 363/2007 privind combaterea practicilor incorecte ale comercianţilor în relaţia cu consumatorii şi armonizarea reglementărilor cu legislaţia europeană privind protecţia consumatorilor, excepţie ridicată de Societatea Comercială UPC România - S.R.L. din Bucureşti în Dosarul nr. 8.653/99/2009 al Tribunalului Iaşi - Secţia comercială şi contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2007",
+    "number": "363",
+    "year": "2007",
+    "path": "lege/2007/363"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-11-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132706",
+  "text_sha256": "e10be21979b2405178a40a9fc5e3f7bbcd973b01f3fa6efe015b84354e65789e",
+  "catalogue_sha256": "e10be21979b2405178a40a9fc5e3f7bbcd973b01f3fa6efe015b84354e65789e",
+  "fetched": "2026-11-03T04:22:32Z",
+  "chars": 13853,
+  "portal_id": "132706",
+  "tip": "DECIZIE"
+ }
+}
