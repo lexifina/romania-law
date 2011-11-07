@@ -1,0 +1,29 @@
+# DECIZIE nr. 1.325 din 11 octombrie 2011
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. 1, 2 şi 3 din Codul de procedură civilă
+Augustin Zegrean - preşedinte Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Mircea Ştefan Minea - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Doina Suliman - magistrat-asistent-şef Cu participarea reprezentantului Ministerului Public, procuror Antonia Constantin.
+Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 28 alin. 1, 2 şi 3 din Codul de procedură civilă, excepţie ridicată de Emil Balaure în Dosarul nr. 1.888/245/2010 al Tribunalului Iaşi - Secţia civilă şi care formează obiectul Dosarului Curţii Constituţionale nr. 4.466D/2010.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Cauza fiind în stare de judecată, preşedintele acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere ca neîntemeiată a excepţiei de neconstituţionalitate, sens în care invocă jurisprudenţa în materie a Curţii Constituţionale.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Încheierea din 29 octombrie 2010, pronunţată în Dosarul nr. 1.888/245/2010, Tribunalul Iaşi - Secţia civilă a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. 1, 2 şi 3 din Codul de procedură civilă.
+Excepţia a fost ridicată de recurentul Emil Balaure într-o cauză civilă având ca obiect o contestaţie la executare.
+În motivarea excepţiei de neconstituţionalitate autorul acesteia susţine că dispoziţiile de lege criticate încalcă dreptul la un proces echitabil.
+Instanţa de judecată apreciază că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit dispoziţiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi formula punctele de vedere cu privire la excepţia de neconstituţionalitate.
+Preşedinţii celor două Camere ale Parlamentului, Guvernul şi Avocatul Poporului nu au comunicat punctele de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi ale art. 1 alin. (1) şi (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 28 alin. 1, 2 şi 3 din Codul de procedură civilă, dispoziţii care au următorul cuprins:
+"Nu se pot recuza judecătorii, rude sau afini ai acelora care stau în judecată ca tutor, curator, consiliu judiciar sau director al unei instituţii publice sau societăţi comerciale, când aceştia nu au interes personal în judecarea pricinii.
+Nu se pot recuza toţi judecătorii unei instanţe sau ai unei secţii a acesteia.
+Pentru aceleaşi motive de recuzare nu se poate formula o nouă cerere împotriva aceluiaşi judecător.";
+În opinia autorului excepţiei de neconstituţionalitate, aceste texte de lege contravin prevederilor constituţionale ale art. 21 alin. (3) privind dreptul la un proces echitabil.
+Examinând excepţia de neconstituţionalitate, Curtea reţine că textele de lege criticate instituie anumite condiţii în care se poate face recuzarea judecătorilor unei instanţe ori a unei secţii a acesteia ori în care se poate formula o nouă cerere de recuzare împotriva aceluiaşi judecător. Prin urmare, aceste dispoziţii legale reprezintă norme de procedură prin intermediul cărora legiuitorul instituie cadrul legal pentru exercitarea dreptului procedural de recuzare, în deplin acord cu art. 126 alin. (2) din Constituţie, potrivit căruia competenţa instanţelor judecătoreşti şi procedura de judecată sunt prevăzute numai prin lege.
+Pe de altă parte, dispoziţiile de lege criticate realizează o veritabilă protecţie a justiţiabilului împotriva încercărilor nejustificate de tergiversare a soluţionării cauzei, restrângând posibilităţile părţilor de a solicita suspendarea judecării cauzei doar la acele situaţii care se justifică raţional.
+De altfel, Curtea Constituţională s-a mai pronunţat asupra constituţionalităţii aceloraşi dispoziţii legale, criticate în raport cu aceleaşi prevederi constituţionale, cu argumente similare, formulate de acelaşi autor, însă în alte cauze aflate pe rolul instanţelor judecătoreşti. În acest sens sunt, de exemplu, Decizia nr. 741 din 12 mai 2009, publicată în Monitorul Oficial al României, Partea I, nr. 379 din 4 iunie 2009, şi Decizia nr. 1.115 din 10 septembrie 2009, publicată în Monitorul Oficial al României, Partea I, nr. 661 din 5 octombrie 2009, prin care Curtea a respins excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. 1, 2 şi 3 din Codul de procedură civilă.
+Întrucât nu au intervenit elemente noi, cele statuate anterior de Curte îşi păstrează valabilitatea şi în prezenta cauză.
+Pentru motivele expuse, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 28 alin. 1, 2 şi 3 din Codul de procedură civilă, excepţie ridicată de Emil Balaure în Dosarul nr. 1.888/245/2010 al Tribunalului Iaşi - Secţia civilă.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 11 octombrie 2011.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, AUGUSTIN ZEGREAN Magistrat-asistent-şef, Doina Suliman ----------
