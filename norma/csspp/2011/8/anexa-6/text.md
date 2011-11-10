@@ -1,0 +1,32 @@
+# Anexa 6 ──────── la normă ─────────
+CERERE
+pentru avizarea persoanei juridice specializate
+DATE DE IDENTIFICARE:
+Subsemnatul/Subsemnata,....................................................,
+(numele și prenumele)
+în calitate de împuternicit/împuterniciți..................................,
+(numărul și data procurii speciale și autentice/delegației avocațiale)
+solicit avizarea ca persoană juridică specializată a societății............,
+având:
+Număr de înregistrare la Oficiul Național al Registrului Comerțului........,
+Cod unic de înregistrare fiscală la Oficiul Național al Registrului Comerțului
+..............................................................................
+Sediul social.............................................................
+(localitatea) (strada și numărul)
+..............................................................................
+(județul) (codul poștal)
+Sediul secundar:.............................................................
+(localitatea) (strada și numărul)
+..............................................................................
+(județul) (codul poștal).
+Forma de înregistrare:
+..............................................................................
+(filială, sucursală, reprezentanță, agenție, punct de lucru)
+Date de contact: (telefon, fax, e-mail, pagină de internet)..................
+Prezenta cerere este însoțită de un număr de........... documente, totalizând
+un număr de........... file.
+Semnătura împuternicitului:................
+Data.......................................
+FALSE DECLARAȚII SAU OMISIUNI INTENȚIONATE ALE UNOR FAPTE POT CONSTITUI
+ÎNCĂLCĂRI ALE LEGII PENALE.
+___________
