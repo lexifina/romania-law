@@ -1,0 +1,270 @@
+{
+ "key": "dcc-1099-2011",
+ "label": "Decizia CCR nr. 1099/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1099",
+ "date": "2011-09-08",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.099 din 8 septembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 608-618 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "801",
+  "bis": false,
+  "date": "2011-11-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "383/222/2010",
+  "3.317D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "608",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "609",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "610",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "611",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "612",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "613",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "614",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "615",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "616",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "617",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "618",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 608-618 din Codul de procedură civilă, excepţie ridicată de Mihaela Popa în Dosarul nr. 383/222/2010 al Tribunalului Botoşani - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "608",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "609",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "610",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "611",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "612",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "613",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "614",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "615",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "616",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "617",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "618",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-11-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132850",
+  "text_sha256": "6fb7dacc96b2507fcd17dffc52fc9a18cabc337653b259f8f4f23309ffefdb54",
+  "catalogue_sha256": "6fb7dacc96b2507fcd17dffc52fc9a18cabc337653b259f8f4f23309ffefdb54",
+  "fetched": "2026-11-03T04:22:22Z",
+  "chars": 7649,
+  "portal_id": "132850",
+  "tip": "DECIZIE"
+ }
+}
