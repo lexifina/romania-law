@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale CONTINENTAL LEASING IFN - S.A., cu sediul în municipiul Craiova, calea București nr. 152A, județul Dolj, înregistrată la registrul comerțului sub nr. J16/613/2001, cod unic de înregistrare 14172146, înscrisă în registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-17-080159. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 27 octombrie 2011. Nr. 1.052. -----
