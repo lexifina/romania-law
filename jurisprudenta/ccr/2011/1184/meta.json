@@ -1,0 +1,228 @@
+{
+ "key": "dcc-1184-2011",
+ "label": "Decizia CCR nr. 1184/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1184",
+ "date": "2011-09-15",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.184 din 15 septembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 167 alin. 1-4, art. 169 alin. 1 şi art. 208 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "807",
+  "bis": false,
+  "date": "2011-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.160/101/2008",
+  "216D/2011",
+  "240D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "167",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 167 alin. 1-4 şi art. 169 alin. 1 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Agenţia de Detectivi Marinescu\" - S.R.L. din Drobeta Turnu-Severin în Dosarul nr. 10.160/101/2008 al Curţii de Apel Craiova - Secţia a II-a civilă şi pentru conflicte de muncă şi asigurări sociale şi de Ioan Vasile în Dosarul nr. 596/1.259/2010 al Curţii de Apel Piteşti - Secţia comercială şi de contencios administrativ şi fiscal. 2. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 208 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Agenţia de Detectivi Marinescu\" - S.R.L. din Drobeta-Turnu Severin în Dosarul nr. 10.160/101/2008 al Curţii de Apel Craiova - Secţia a II-a civilă şi pentru conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "167",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132930",
+  "text_sha256": "8b7c6ebe24d30a419e41e1b0c77d4d1067a9c565b0218dd9a3bcafbce6824bfb",
+  "catalogue_sha256": "8b7c6ebe24d30a419e41e1b0c77d4d1067a9c565b0218dd9a3bcafbce6824bfb",
+  "fetched": "2026-11-03T04:22:18Z",
+  "chars": 12896,
+  "portal_id": "132930",
+  "tip": "DECIZIE"
+ }
+}
