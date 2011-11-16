@@ -1,0 +1,43 @@
+# DECIZIE nr. 1.159 din 15 septembrie 2011
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 18 alin. (2) şi (3) din Legea nr. 571/2003 privind Codul fiscal
+Augustin Zegrean - preşedinte Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Petre Lăzăroiu - judecător Iulia Antoanella Motoc - judecător Ion Predescu - judecător Puskas Valentin Zoltan - judecător Tudorel Toader - judecător Ioniţa Cochinţu - magistrat-asistent Cu participarea reprezentantului Ministerului Public, procuror Simona Ricu.
+Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 32 pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 34/2009 cu privire la rectificarea bugetară pe anul 2009 şi reglementarea unor măsuri financiar-fiscale, excepţie ridicată de Societatea Comercială "Moaney Intercom" - S.R.L. din Tileagd în Dosarul nr. 13.655/271/2009 al Judecătoriei Oradea - Secţia civilă şi care formează obiectul Dosarului Curţii Constituţionale nr. 2.151D/2010.
+La apelul nominal se constată lipsa părţilor, faţă de care procedura de citare a fost legal îndeplinită.
+Cauza fiind în stare de judecată, preşedintele acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere a excepţiei de neconstituţionalitate ca inadmisibilă.
+CURTEA, având în vedere actele şi lucrările dosarului, constată următoarele:
+Prin Încheierea din 18 mai 2010, pronunţată în Dosarul nr. 13.655/271/2009, Judecătoria Oradea - Secţia civilă a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 32 pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 34/2009 cu privire la rectificarea bugetară pe anul 2009 şi reglementarea unor măsuri financiar-fiscale, excepţie ridicată de Societatea Comercială "Moaney Intercom" - S.R.L. din Tileagd într-o cauză având ca obiect soluţionarea unei contestaţii la executare.
+În motivarea excepţiei de neconstituţionalitate, autoarea acesteia susţine că dispoziţiile legale criticate sunt neconstituţionale, întrucât încalcă prevederile art. 15 alin. (2) şi art. 139 din Constituţia României.
+Judecătoria Oradea - Secţia civilă opinează în sensul că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit dispoziţiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi exprima punctele de vedere asupra excepţiei de neconstituţionalitate.
+Preşedinţii celor două Camere ale Parlamentului, Guvernul şi Avocatul Poporului nu au comunicat punctele lor de vedere cu privire la excepţia de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile legale criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională a fost legal sesizată şi este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi ale art. 1 alin. (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze prezenta excepţie.
+Obiectul excepţiei de neconstituţionalitate, astfel cum reiese din încheierea de sesizare, îl constituie dispoziţiile art. 32 pct. 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 34/2009 cu privire la rectificarea bugetară pe anul 2009 şi reglementarea unor măsuri financiar-fiscale, publicată în Monitorul Oficial al României, Partea I, nr. 249 din 14 aprilie 2009, aprobată prin Legea nr. 227/2009, publicată în Monitorul Oficial al României, Partea I, nr. 402 din 12 iunie 2009.
+Însă, din opinia instanţei de judecată şi din motivarea autoarei excepţiei de neconstituţionalitate reiese că acesta se referă, de fapt, la prevederile alin. (2) şi (3) ale art. 18 din Legea nr. 571/2003 privind Codul fiscal, astfel cum au fost modificate prin art. 32 pct. 1 din Ordonanţa de urgenţă a Guvernului nr. 34/2009.
+Potrivit art. 62 din Legea nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative, republicată în Monitorul Oficial al României, Partea I, nr. 260 din 21 aprilie 2010, dispoziţiile de modificare şi de completare se încorporează, de la data intrării lor în vigoare, în actul de bază, identificându-se cu acesta.
+Aşa fiind, obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 18 alin. (2) şi (3) din Legea nr. 571/2003 privind Codul fiscal, publicată în Monitorul Oficial al României, Partea I, nr. 927 din 23 decembrie 2003, cu modificările şi completările ulterioare, care au următorul cuprins: "(2) Contribuabilii, cu excepţia celor prevăzuţi la alin. (1), la art. 13 lit. c)-e), art. 15 şi 38, în cazul cărora impozitul pe profit este mai mic decât suma impozitului minim pentru tranşa de venituri totale corespunzătoare, prevăzute la alin. (3), sunt obligaţi la plata impozitului la nivelul acestei sume.
+(3) Pentru aplicarea prevederilor alin. (2), sumele corespunzătoare impozitului minim, stabilite în funcţie de veniturile totale înregistrate la data de 31 decembrie a anului precedent, sunt următoarele:
+Venituri totale anuale (lei)
+Impozit minim anual (lei)
+0-52.000
+2.200
+52.001-215.000
+4.300
+215.001-430.000
+6.500
+430.001-4.300.000
+8.600
+4.300.001-21.500.000
+11.000
+21.500.001-129.000.000
+22.000
+Peste 129.000.001
+43.000"
+În opinia autoarei excepţiei de neconstituţionalitate, prevederile criticate contravin dispoziţiilor constituţionale ale art. 15 alin. (2) referitor la neretroactivitatea legii şi art. 139 referitor la impozite, taxe şi alte contribuţii.
+Examinând excepţia de neconstituţionalitate, Curtea reţine următoarele: 1. Ulterior sesizării Curţii Constituţionale, dispoziţiile art. 18 alin. (2) şi (3) din Legea nr. 571/2003 privind Codul fiscal au fost abrogate prin art. I pct. 1 din Ordonanţa de urgenţă a Guvernului nr. 87/2010, publicată în Monitorul Oficial al României, Partea I, nr. 669 din 30 septembrie 2010. Acest aspect, însă, nu poate conduce la inadmisibilitatea excepţiei de neconstituţionalitate, având în vedere Decizia nr. 766 din 15 iunie 2011, publicată în Monitorul Oficial al României, Partea I, nr. 549 din 3 august 2011, prin care Curtea a stabilit că sintagma "în vigoare" din cuprinsul dispoziţiilor art. 29 alin. (1) şi ale art. 31 alin. (1) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, este constituţională în măsura în care se interpretează în sensul că sunt supuse controlului de constituţionalitate şi legile sau ordonanţele ori dispoziţiile din legi sau din ordonanţe ale căror efecte juridice continuă să se producă şi după ieşirea lor din vigoare, întrucât textul criticat se aplică şi produce efecte juridice în raportul juridic în cauză. 2. Curtea observă că autoarea excepţiei nu motivează pretinsa încălcare a textelor invocate. Or, excepţia de neconstituţionalitate trebuie să îndeplinească anumite exigenţe de ordin structural, respectiv autorul acesteia trebuie să indice textul legal criticat, prevederile constituţionale considerate a fi încălcate şi motivarea în concret a pretinsei contrarietăţi a textului dedus controlului de constituţionalitate. Simpla enumerare a textelor constituţionale nu satisface exigenţele art. 10 alin. (2) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, potrivit cărora "Sesizările trebuie făcute în formă scrisă şi motivate", Curtea neputând formula propriile critici, la care, ulterior, să şi răspundă, astfel că excepţia urmează a fi respinsă ca inadmisibilă.
+În acest sens este şi jurisprudenţa constantă a Curţii, cu titlu exemplificativ reţinându-se Decizia nr. 147 din 8 februarie 2011, publicată în Monitorul Oficial al României, Partea I, nr. 320 din 10 mai 2011, Decizia nr. 627 din 29 mai 2008, publicată în Monitorul Oficial al României, Partea I, nr. 555 din 23 iulie 2008, Decizia nr. 465 din 17 mai 2007, publicată în Monitorul Oficial al României, Partea I, nr. 367 din 30 mai 2007.
+Pentru considerentele expuse, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A. d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 18 alin. (2) şi (3) din Legea nr. 571/2003 privind Codul fiscal, excepţie ridicată de Societatea Comercială "Moaney Intercom" - S.R.L. din Tileagd în Dosarul nr. 13.655/271/2009 al Judecătoriei Oradea - Secţia civilă.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 15 septembrie 2011.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, AUGUSTIN ZEGREAN Magistrat-asistent, Ioniţa Cochinţu -------
