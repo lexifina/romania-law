@@ -1,0 +1,140 @@
+{
+ "key": "iccj-ril-22-2011",
+ "label": "Decizia ÎCCJ nr. 22/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "22",
+ "date": "2011-10-17",
+ "year": "2011",
+ "heading": "DECIZIE nr. 22 din 17 octombrie 2011",
+ "subtitle": "privind recursul în interesul legii referitor la competenţa funcţională a tribunalelor (civil sau comercial şi de contencios administrativ şi fiscal) în soluţionarea recursului în materie de contestaţie la executare propriu-zisă, prevăzută de dispoziţiile art. 399 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "813",
+  "bis": false,
+  "date": "2011-11-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "24/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii declarat de Colegiul de conducere al Curţii de Apel Galaţi privind competenţa funcţională a tribunalelor (civil sau comercial şi de contencios administrativ şi fiscal) în soluţionarea recursului în materia contestaţiei la executare propriu-zisă, prevăzută de dispoziţiile art. 399 din Codul de procedură civilă.",
+  "Obligatorie, potrivit art. 330^7 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "400",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură fiscală",
+    "path": "og/2003/92",
+    "slug": "og-92-2003"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-11-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132993",
+  "text_sha256": "fb3c7659eed5eedf57301f8883c7e8bf847650d39196ecb22e016139b0de0f48",
+  "catalogue_sha256": "fb3c7659eed5eedf57301f8883c7e8bf847650d39196ecb22e016139b0de0f48",
+  "fetched": "2026-11-03T04:22:12Z",
+  "chars": 16537,
+  "portal_id": "132993",
+  "tip": "DECIZIE"
+ }
+}
