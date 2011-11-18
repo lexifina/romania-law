@@ -1,0 +1,2 @@
+# Anexa 3 (Anexa nr. 6 la normativ) MINISTERUL ADMINISTRAȚIEI ȘI INTERNELOR CERTIFICATUL DE ÎNREGISTRARE A AUTOVEHICULELOR
+NOTĂ: Codurile alfanumerice asigură corespondența cu prevederile Directivei 1999/37/CE a Consiliului din 29 aprilie 1999 privind documentele de înmatriculare pentru vehicule, modificată și completată de Directiva 2003/127/CE a Comisiei din 23 decembrie 2003 și Directiva 2006/103/CE a Consiliului din 20 noiembrie 2006.
