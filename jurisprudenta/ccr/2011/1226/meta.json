@@ -1,0 +1,175 @@
+{
+ "key": "dcc-1226-2011",
+ "label": "Decizia CCR nr. 1226/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1226",
+ "date": "2011-09-20",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.226 din 20 septembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 136, art. 141, art. 142 şi art. 145 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "825",
+  "bis": false,
+  "date": "2011-11-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "790/305/2010",
+  "4.553D/2010",
+  "4.555D/2010",
+  "791/305/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 136, art. 141, art. 142 şi art. 145 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, excepţie ridicată de Balassy Magor în Dosarul nr. 790/305/2010 şi de Balassy Andras în Dosarul nr. 791/305/2010, dosare ale Judecătoriei Sfântu Gheorghe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/133095",
+  "text_sha256": "8a75d44b9002eafbdba3ea1e694056266b1f5eb5a29c425a1329b856a1185581",
+  "catalogue_sha256": "8a75d44b9002eafbdba3ea1e694056266b1f5eb5a29c425a1329b856a1185581",
+  "fetched": "2026-11-03T04:22:06Z",
+  "chars": 8350,
+  "portal_id": "133095",
+  "tip": "DECIZIE"
+ }
+}
