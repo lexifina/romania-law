@@ -1,0 +1,8 @@
+# Anexa 1
+Anexa 1
+la metodologie Nr. ......./.............. CERERE DE ÎNSCRIERE la cursul de instruire antidoping organizat de Agenția Națională Anti-Doping - model - Societatea Comercială ....................., cu sediul în .................., str. ................... nr. ..., bl. ..., ap. ..., județul/sectorul .........., tel. .............., fax ............., e-mail .................., CUI ................, reprezentată prin ...................., CNP ..................., tel. ............., fax .............., e-mail ................., solicit înscrierea domnului/doamnei .................. la cursul de instruire antidoping organizat de Agenția Națională Anti-Doping, CNP ..................., act de identitate seria ... nr. ..........., din localitatea .............., str. .................. nr. ..., bl. ..., ap. ..., județul/sectorul ..........., tel. ............, fax .............., e-mail ................. Data ............. Reprezentant legal, ......................
+Anexa 2
+la metodologie Nr. ...../................ CERERE DE ÎNSCRIERE la cursul de instruire antidoping organizat de Agenția Națională Anti-Doping - model - Domnul/Doamna ..................., cu domiciliul în localitatea ................., str. ................... nr. ..., bl. ..., ap. ..., județul/sectorul ................, tel. .........., fax .......... e-mail .................., CNP ................., act de identitate seria ... nr. ............, solicit înscrierea la cursul de instruire antidoping organizat de Agenția Națională Anti-Doping. Data ............ Semnătura ...........
+Anexa 3
+la metodologie
+----
