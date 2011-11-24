@@ -1,0 +1,54 @@
+{
+ "key": "cjue-c-283-10-hotarare-2011-11-24",
+ "label": "CJUE, Hotărârea Curții (camera a treia) din 24 noiembrie 2011., Cauza C-283/10.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2011-11-24",
+ "year": "2011",
+ "case": "Cauza C-283/10.",
+ "celex": "62010CJ0283",
+ "ecli": "ECLI:EU:C:2011:772",
+ "heading": "Hotărârea Curții (camera a treia) din 24 noiembrie 2011.",
+ "formation": "CHAMB_03_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere având ca obiect pronunțarea unei hotărâri preliminare: Înalta Curte de Casaţie şi Justiţie - România.",
+ "national_followup": [
+  "Înalta Curte de Casaţie şi Justiţie, Secţia civilă şi de proprietate intelectuală, 14/05/2010 (15276/3/2007)",
+  "Înalta Curte de Casaţie şi Justiţie, Secţia civilă şi de proprietate intelectuală, 29/06/2012 (15276/3/2007)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Apropierea legislațiilor - Drepturi de autor și drepturi conexe - Directiva 2001/29/CE - Articolul 3 - Noțiunea «comunicare a unei opere către un public care este prezent în locul de proveniență a comunicării» - Difuzarea de opere muzicale în prezența publicului, fără plata către organismul de gestiune colectivă a drepturilor de autor a remunerației corespunzătoare acestor drepturi - Încheierea de contracte de cesiune a drepturilor patrimoniale cu autorii operelor - Domeniu de aplicare al Directivei 2001/29.",
+ "interprets": [
+  {
+   "celex": "32001L0029",
+   "folder": "ue/directiva/2001/29"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62010CJ0283",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-283/10&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/b4ee3836-b35f-419b-8d19-f9ae6ec90e57.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "872d9ce6e9a800a339d488f3b799b2c7ec76643b76ec8d45310597d13ac9f027"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a treia) declară:",
+  "Directiva 2001/29/CE a Parlamentului European și a Consiliului din 22 mai 2001 privind armonizarea anumitor aspecte ale dreptului de autor și drepturilor conexe în societatea informațională și în special articolul 3 alineatul (1) din aceasta trebuie interpretate în sensul că au în vedere doar comunicarea către un public care nu este prezent în locul de proveniență a comunicării, cu excluderea oricărei comunicări a unei opere realizate direct, făcută într‑un loc deschis publicului, prin orice modalitate publică de execuție ori de prezentare directă a operei."
+ ]
+}
