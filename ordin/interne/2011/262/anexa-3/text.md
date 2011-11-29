@@ -1,0 +1,8 @@
+# Anexa nr. 3
+EMBLEMA DE ONOARE A INSPECTORATULUI GENERAL DE AVIAȚIE
+Emblema de onoare a Inspectoratului General de Aviație este confecționată din tombac auriu sau argintiu, în funcție de metalul elementelor din câmp, de formă circulară, cu diametrul de aproximativ 45 mm și grosimea de 3 mm. Culorile sunt emailate. Emblema are la bază și poziționat pe avers însemnul heraldic al Inspectoratului General de Aviație care va păstra în compoziție elemente din stema Ministerului Administrației și Internelor, după cum urmează: o acvilă cruciată, aurie, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă argintie, în stânga o ramură de măslin verde.
+Pe pieptul acvilei se află un scut albastru, cu bandă aurie, încărcată cu 3 stele roșii, însoțită în șef de o acvilă argintie, cu aripile deschise, ciocul și ghearele roșii, iar în talpă de două spade, de asemenea, argintii, înzestrate (mânerul și garda) auriu, încrucișate în săritoare.
+În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: CAELUM SERENUM (CER SENIN).
+Compoziția este flancată și, totodată, broșează, pe margine, pe două ramuri de lauri aurii dispuse circular și care se încrucișează, în partea inferioară, în săritoare.
+Reversul emblemei este plat și are scris în relief, cu litere majuscule, înalte de 2 mm, pe 3 rânduri: EMBLEMA DE ONOARE/A/INSPECTORATULUI GENERAL DE AVIAȚIE.
+Tot pe revers, de capul acvilei este atașat un dispozitiv de prindere terminat cu inel în partea de sus, cu diametrul de 15 mm, ambele aurii, de care este legată o panglică din rips moarat, lată de 30 mm, cu 3 dungi verticale, de câte 10 mm lățime, alternând, albastru-aur-albastru.

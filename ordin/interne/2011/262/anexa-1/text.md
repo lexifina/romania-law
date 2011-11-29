@@ -1,0 +1,8 @@
+# Anexa nr. 1
+EMBLEMA DE ONOARE A JANDARMERIEI ROMÂNE
+Emblema de onoare a Jandarmeriei Române este confecționată din tombac auriu sau argintiu, în funcție de metalul elementelor din câmp, de formă circulară, cu diametrul de aproximativ 45 mm și grosimea de 3 mm. Culorile sunt emailate. Emblema are la bază și poziționat pe avers însemnul heraldic al Inspectoratului General al Jandarmeriei Române care va păstra în compoziție elemente din stema Ministerului Administrației și Internelor, după cum urmează: o acvilă cruciată, aurie, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă argintie, în stânga o ramură de măslin verde.
+Pe pieptul acvilei, un alt scut de dimensiuni mai mici, în al cărui câmp, pe albastru, un romb argintiu, ieșind dintr-o cunună compusă din 3 frunze de stejar aurii, purtând în centru litera J stilizată, scrisă cu negru.
+În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: LEX ET ORDO (LEGE ȘI ORDINE).
+Compoziția este flancată și, totodată, broșează, pe margine, pe două ramuri de lauri aurii dispuse circular și care se încrucișează, în partea inferioară, în săritoare.
+Reversul emblemei este plat și are scris în relief, cu litere majuscule, înalte de 2 mm, pe 3 rânduri: EMBLEMA DE ONOARE/A/JANDARMERIEI ROMÂNE.
+Tot pe revers, de capul acvilei este atașat un dispozitiv de prindere terminat cu inel în partea de sus, cu diametrul de 15 mm, ambele aurii, de care este legată o panglică din rips moarat, lată de 30 mm, cu 3 dungi verticale, de câte 10 mm lățime, alternând albastru-aur-albastru.

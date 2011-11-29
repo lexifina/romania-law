@@ -1,0 +1,9 @@
+# Anexa nr. 2
+EMBLEMA DE ONOARE A INSPECTORATULUI GENERAL PENTRU SITUAȚII DE URGENȚĂ
+Emblema de onoare a Inspectoratului General pentru Situații de Urgență este confecționată din tombac auriu sau argintiu, în funcție de metalul elementelor din câmp, de formă circulară, cu diametrul de aproximativ 45 mm și grosimea de 3 mm. Culorile sunt emailate. Emblema are la bază și poziționat pe avers însemnul heraldic al Inspectoratului General pentru Situații de Urgență care va păstra în compoziție elemente din stema Ministerului Administrației și Internelor, după cum urmează: o acvilă cruciată, aurie, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă argintie, în stânga o ramură de măslin verde.
+Pe pieptul acvilei se află un alt scut de culoarea purpurei, încărcat cu însemnele specifice, tradiționale pentru acest domeniu de activitate: a) două topoare încrucișate în săritoare, suprapuse de o cască de pompier așezată din profil;
+b) în partea inferioară, o grenadă explodând, de la care pornesc în dreapta și stânga ramuri de stejar, totul argintiu.
+În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: AUDACIA ET DEVOTIO (CURAJ ȘI DEVOTAMENT).
+Compoziția este flancată și, totodată, broșează, pe margine, pe două ramuri de lauri aurii dispuse circular și care se încrucișează, în partea inferioară, în săritoare.
+Reversul emblemei este plat și are scris în relief, cu litere majuscule, înalte de 2 mm, pe 4 rânduri: EMBLEMA DE ONOARE/A/ INSPECTORATULUI GENERAL PENTRU/ SITUAȚII DE URGENȚĂ.
+Tot pe revers, de capul acvilei este atașat un dispozitiv de prindere terminat cu inel în partea de sus, cu diametrul de 15 mm, ambele aurii, de care este legată o panglică din rips moarat, lată de 30 mm, cu 3 dungi verticale, de câte 10 mm lățime, alternând, purpură-aur-purpură.

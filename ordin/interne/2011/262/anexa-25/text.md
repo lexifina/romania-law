@@ -1,0 +1,5 @@
+# Anexa nr. 25
+INSIGNA ONORIFICĂ "AVIATOR DE ONOARE AL ANULUI"
+Insigna onorifică "Aviator de onoare al anului" este confecționată din tombac auriu sau argintiu, în funcție de metalul elementelor din câmp, de formă rotundă, cu diametrul de 35 mm și grosimea de 3 mm. Culorile sunt emailate. Insigna, pe fond albastru, însemnul heraldic al Inspectoratului General de Aviație.
+În exergă, în partea de sus, este scris circular, cu litere majuscule, argintii: AVIATOR DE ONOARE.
+Insigna onorifică se poartă cu o baretă din moar, albastră, de formă dreptunghiulară, cu dimensiuni de 20 x 10 mm, ce are în partea de sus, începând de la 3 mm de margine, o bandă argintie, orizontală, lată de 2 mm, iar în partea de jos, începând, de asemenea, de la 3 mm, o altă bandă, de același metal, lată de câte 1 mm cu distanța dintre ele de 1 mm. Materialul baretei este pus peste o placă din inox austenitic, de formă dreptunghiulară, cu grosimea de 2 mm, ce are, pe revers, un sistem de prindere.
