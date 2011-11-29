@@ -1,0 +1,243 @@
+{
+ "key": "dcc-1231-2011",
+ "label": "Decizia CCR nr. 1231/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1231",
+ "date": "2011-09-22",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.231 din 22 septembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3, art. 8 lit. k) şi art. 14 din Legea nr. 656/2002 pentru prevenirea şi sancţionarea spălării banilor, precum şi pentru instituirea unor măsuri de prevenire şi combatere a finanţării actelor de terorism şi ale art. 5 alin. 2 lit. c) din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "845",
+  "bis": false,
+  "date": "2011-11-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.917/94/2010",
+  "3.743D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 3, art. 8 lit. k) şi art. 14 din Legea nr. 656/2002 pentru prevenirea şi sancţionarea spălării banilor, precum şi pentru instituirea unor măsuri de prevenire şi combatere a finanţării actelor de terorism şi ale art. 5 alin. 2 lit. c) din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare, excepţie ridicată de Societatea Comercială \"Mono View Fruct\" - S.R.L. din Afumaţi, judeţul Ilfov, în Dosarul nr. 3.917/94/2010 al Judecătoriei Buftea.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/1996",
+    "number": "15",
+    "year": "1996",
+    "path": "og/1996/15"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1-1"
+     ],
+     "lit": [
+      "k"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 535/2004",
+    "number": "535",
+    "year": "2004",
+    "path": "lege/2004/535"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-11-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/133240",
+  "text_sha256": "48aa95305287b2ebb0ddf0869bb481435c82e6b7c06fac30623a79f163ba0523",
+  "catalogue_sha256": "48aa95305287b2ebb0ddf0869bb481435c82e6b7c06fac30623a79f163ba0523",
+  "fetched": "2026-11-05T06:25:39Z",
+  "chars": 22324,
+  "portal_id": "133240",
+  "tip": "DECIZIE"
+ }
+}
