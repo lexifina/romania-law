@@ -1,0 +1,5 @@
+Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 30 noiembrie 2011;
+Având în vedere Expunerea de motive nr.12341/2011 a Primarului orașului, Raportul de specialitate nr.12342/2011 al Direcției Economice și Avizul Comisiei pentru programe de dezvoltare economico-socială, buget, finanțe, servicii, comerț și agricultură a Consiliului Local;
+În baza prevederilor art.10 alin.2 din H.G. nr.1235/2010 privind aprobarea realizării Sistemului național electronic de plată online a taxelor și impozitelor utilizând cardul bancar, Ordinul nr.168/2011 pentru aprobarea Normelor metodologice privind Sistemul național electronic de plată online a taxelor și impozitelor utilizând cardul bancar și art.36 alin.2 lit.b din Legea nr.215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare;
+În temeiul prevederilor art.45 alin.2 lit.c din Legea nr.215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare,
+HOTĂRĂȘTE:
