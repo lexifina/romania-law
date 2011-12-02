@@ -1,3 +1,3 @@
 # Articolul 160^c
-Prelungirea arestarii în cursul judecatii
+Prelungirea arestării în cursul judecății
 Abrogat.
