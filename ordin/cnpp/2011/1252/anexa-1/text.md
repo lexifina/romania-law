@@ -1,0 +1,28 @@
+# Anexa 1
+CASA NAȚIONALĂ DE PENSII PUBLICE Casa Județeană de Pensii............../ Casa de Pensii a Municipiului București Adresa:...................................................................... DECIZIE Nr......./................. de anulare a penalităților de întârziere
+Datele de identificare a contribuabilului
+Datele de identificare a împuternicitului
+Denumirea/Numele și prenumele...........
+Denumirea/Numele și prenumele...........
+Adresa..................................
+Adresa..................................
+Codul numeric personal..................
+Codul numeric personal..................
+În temeiul prevederilor art. XI alin. (1) lit. a) din Ordonanța Guvernului nr. 30/2011 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal, precum și pentru reglementarea unor măsuri financiar-fiscale și ale art. 2 alin. (1) lit. a), coroborat cu art. 5 alin. (5) lit. a) din Ordinul președintelui Casei Naționale de Pensii Publice nr. 1.252/2011 privind aplicarea prevederilor art. XI din Ordonanța Guvernului nr. 30/2011 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal, precum și pentru reglementarea unor măsuri financiar-fiscale, având în vedere Cererea nr...... din data de....., înregistrată la casa teritorială de pensii cu nr...... din data de.........., luând în considerare că sunt îndeplinite condițiile prevăzute de Ordinul președintelui Casei Naționale de Pensii Publice nr. 1.252/2011, se emite următoarea decizie: Se anulează penalitățile de întârziere, precum și o cotă de 50% din majorările de întârziere aferente obligațiilor de plată principale restante la data de 31 august 2011, în sumă totală de........ lei, reprezentând:
+- lei -
+Nr.
+crt.
+Denumirea obligației
+Anularea a 50% din
+majorările de întârziere
+Anularea penalităților
+de întârziere
+0
+1
+2
+3
+1.
+2.
+...
+Total general:
+Împotriva prezentei decizii se poate formula contestație, în condițiile titlului IX din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare, în termen de 30 de zile de la data comunicării, sub sancțiunea decăderii. Contestația se depune la casa teritorială de pensii emitentă a deciziei. Director executiv Numele și prenumele........................... Semnătura și ștampila unității................
