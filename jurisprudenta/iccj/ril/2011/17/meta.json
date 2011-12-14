@@ -1,0 +1,168 @@
+{
+ "key": "iccj-ril-17-2011",
+ "label": "Decizia ÎCCJ nr. 17/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "17",
+ "date": "2011-10-17",
+ "year": "2011",
+ "heading": "DECIZIE nr. 17 din 17 octombrie 2011",
+ "subtitle": "privind examinarea recursului în interesul legii, în vederea interpretării şi aplicării unitare a dispoziţiilor art. 160^8a alin. 2 teza a II-a şi alin. 6 teza a II-a din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "886",
+  "bis": false,
+  "date": "2011-12-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "23/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "160-8",
+     "alin": [
+      "2",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi în consecinţă:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 160^8a alin. 2 teza a II-a şi alin. 6 teza a II-a din Codul de procedură penală stabileşte că:",
+  "Instanţa de judecată, în cadrul examenului de temeinicie a cererii de liberare provizorie sub control judiciar sau pe cauţiune, în cazul în care constată că temeiurile care au determinat arestarea preventivă subzistă, verifică în ce măsură buna desfăşurare a procesului penal este ori nu împiedicată de punerea în libertate provizorie sub control judiciar sau pe cauţiune a învinuitului ori inculpatului.",
+  "Obligatorie, potrivit art. 414^5 alin. 4 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "160-8",
+     "alin": [
+      "2",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160-2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": [
+      "f",
+      "a",
+      "d",
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160-5",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "160-6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-12-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/133738",
+  "text_sha256": "ab92a1b11388842327d506af10ed7ced3f5c73d2feb22024daf667af543e8a48",
+  "catalogue_sha256": "ab92a1b11388842327d506af10ed7ced3f5c73d2feb22024daf667af543e8a48",
+  "fetched": "2026-11-03T04:21:17Z",
+  "chars": 35893,
+  "portal_id": "133738",
+  "tip": "DECIZIE"
+ }
+}
