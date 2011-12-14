@@ -1,0 +1,53 @@
+{
+ "key": "cjue-c-483-11-ordonanta-2011-12-14",
+ "label": "CJUE, Ordonanța Curții (Camera a șasea) din 14 decembrie 2011, Cauzele conexate C-483/11 și C-484/11",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2011-12-14",
+ "year": "2011",
+ "case": "Cauzele conexate C-483/11 și C-484/11",
+ "celex": "62011CO0483",
+ "ecli": "ECLI:EU:C:2011:832",
+ "heading": "Ordonanța Curții (Camera a șasea) din 14 decembrie 2011",
+ "formation": "CHAMB_06_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Argeş, Secţia civilă",
+   "date": "2011-04-04",
+   "national_file": "2984/109/2010"
+  },
+  {
+   "court": "Tribunalul Argeş, Secţia civilă",
+   "date": "2011-07-04",
+   "national_file": "2217/109/2011"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Argeş – România",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Articolul 43, articolul 92 alineatul (1) și articolul 103 alineatul (1) din Regulamentul de procedură – Carta drepturilor fundamentale a Uniunii Europene – Despăgubirea persoanelor care au suferit condamnări cu caracter politic în timpul regimului comunist – Dreptul la repararea prejudiciului moral suferit – Lipsa punerii în aplicare a dreptului Uniunii – Necompetență vădită a Curții",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62011CO0483",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-483/11&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/49cc6151-9c2d-408b-8394-5ad4747d04c6.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "68f26ca48d5e25d238b5ef344e8d919540f58d67c473cb5169906ca6ca68b36c"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
