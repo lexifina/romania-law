@@ -1,0 +1,264 @@
+{
+ "key": "iccj-ril-18-2011",
+ "label": "Decizia ÎCCJ nr. 18/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "18",
+ "date": "2011-10-17",
+ "year": "2011",
+ "heading": "DECIZIE nr. 18 din 17 octombrie 2011",
+ "subtitle": "referitor la examinarea recursului în interesul legii privind aplicarea dispoziţiilor art. 32^4 din Ordonanţa de Urgenţă a Guvernului nr. 88/1997",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "892",
+  "bis": false,
+  "date": "2011-12-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "16/2011",
+  "19/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "32-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "Stabileşte că, în aplicarea dispoziţiilor art. 32^4 din Ordonanţa de urgenţă a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, aprobată prin Legea nr. 44/1998, modificată şi completată prin Legea nr. 99/1999, despăgubirile acordate societăţilor comerciale de instituţiile publice implicate în procesul de privatizare, ca urmare a retrocedării unor imobile, se raportează la valoarea contabilă a imobilului, astfel cum aceasta este reflectată în bilanţ la momentul ieşirii efective a bunului din patrimoniul societăţii, valoare ce trebuie actualizată cu indicele de inflaţie de la momentul plăţii despăgubirii.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "32-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "324",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 137/2002",
+    "number": "137",
+    "year": "2002",
+    "path": "lege/2002/137"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1084",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1085",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1086",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "212",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 945/1990",
+    "number": "945",
+    "year": "1990",
+    "path": "hg/1990/945"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 26/1992",
+    "number": "26",
+    "year": "1992",
+    "path": "hg/1992/26"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 500/1994",
+    "number": "500",
+    "year": "1994",
+    "path": "hg/1994/500"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 983/1998",
+    "number": "983",
+    "year": "1998",
+    "path": "hg/1998/983"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 403/2000",
+    "number": "403",
+    "year": "2000",
+    "path": "hg/2000/403"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.553/2003",
+    "number": "1553",
+    "year": "2003",
+    "path": "hg/2003/1553"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/133804",
+  "text_sha256": "acfe1031aaa1ad50d2474a706b52fbe481006a2a3de8d7bc4687a9b565259842",
+  "catalogue_sha256": "acfe1031aaa1ad50d2474a706b52fbe481006a2a3de8d7bc4687a9b565259842",
+  "fetched": "2026-11-03T04:21:13Z",
+  "chars": 28737,
+  "portal_id": "133804",
+  "tip": "DECIZIE"
+ }
+}
