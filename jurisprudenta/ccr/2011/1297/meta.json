@@ -1,0 +1,187 @@
+{
+ "key": "dcc-1297-2011",
+ "label": "Decizia CCR nr. 1297/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1297",
+ "date": "2011-10-04",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.297 din 4 octombrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 129 alin. (1), (2), alin. (3) teza întâi şi alin. (4) teza întâi din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "899",
+  "bis": false,
+  "date": "2011-12-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.639/306/2010",
+  "4.157D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": [
+      "1",
+      "3",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 129 alin. (1), (2), alin. (3) teza întâi şi alin. (4) teza întâi din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, excepţie ridicată de Ioan Presăcan în Dosarul nr. 7.639/306/2010 al Judecătoriei Sibiu.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": [
+      "1",
+      "3",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "599",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "6",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 165/2005",
+    "number": "165",
+    "year": "2005",
+    "path": "oug/2005/165"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-12-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/133857",
+  "text_sha256": "f86c9e9bb14b833b95880434b71f63001affaf4162c1229ac9525527f4759514",
+  "catalogue_sha256": "f86c9e9bb14b833b95880434b71f63001affaf4162c1229ac9525527f4759514",
+  "fetched": "2026-11-03T04:21:07Z",
+  "chars": 10822,
+  "portal_id": "133857",
+  "tip": "DECIZIE"
+ }
+}
