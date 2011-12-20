@@ -1,0 +1,3849 @@
+# Anexa 1
+Anexa 1
+la regulament LISTA amenajărilor de îmbunătățiri funciare ce se administrează de Agenția Națională de Îmbunătățiri Funciare Amenajări de îmbunătățiri funciare sau părți de amenajări funciare din domeniul public și din domeniul privat al statului declarate de utilitate publică, ce se administrează de Agenția Națională de Îmbunătățiri Funciare 1. Amenajări complexe de irigații, desecare, combatere a eroziunii solului
+Nr. crt. Cod amenajare Denumire amenajare Județul Capacități
+Irigații [ha] Desecare, din care: CES [ha]
+Total [ha] Gravitațională [ha] Prin pompare[ha]
+1 147-1 TERASA MIHAI BRAVU CL, GR 0 5.620 5.620 0 1.890
+2 142-1 GĂLĂȚUI - CĂLĂRAȘI CL, IL 0 30.148 26.398 3.750 339
+3 142-2 GĂLĂȚUI - CĂLĂRAȘI CL, IL 31.901 0 0 0 0
+4 144-1 MOSTIȘTEA II CL, IL, B 0 42.692 42.692 0 1.688
+5 144-2.1 MOSTIȘTEA II CL 1.493 0 0 0 0
+6 144-2.2 MOSTIȘTEA II CL 1.364 0 0 0 0
+7 144-2.3 MOSTIȘTEA II CL 6.715 0 0 0 0
+8 144-2.4 MOSTIȘTEA II IL 3.067 0 0 0 0
+9 144-2.5 MOSTIȘTEA II IL 21.389 0 0 0 0
+10 155-1 TOPALU CT 0 115 0 115 1.042
+11 155-2 TOPALU CT 5.009 0 0 0 0
+12 432-1 RASOVA VEDEROASA CT 0 1.157 0 1.157 11.443
+13 1353-1 CARASU - NICOLAE BĂLCESCU CT 0 1.935 0 1.935 7.149
+14 1353-2 CARASU - NICOLAE BĂLCESCU CT 1.418 0 0 0 0
+15 184-1 SINOE CT, TL 0 402 0 402 6.605
+16 184-2 SINOE CT, TL 19.951 0 0 0 0
+17 222-1 IZVOARE - CUJMIR DJ, MH 0 15.646 15.413 233 4.079
+18 222-2.1 IZVOARE - CUJMIR DJ, MH 25.644 0 0 0 0
+19 222-2.2 IZVOARE - CUJMIR - SALCIA DJ, MH 5.118 0 0 0 0
+20 205-1 TERASA CARACAL DJ, OT 0 15.804 15.804 0 1.501
+21 205-2 TERASA CARACAL DJ, OT 22.942 0 0 0 0
+22 223-1 CÂMPIA COVURLUI GL 0 39.161 852 38.309 146.348
+23 223-2.1 CÂMPIA COVURLUI: SPA DUNĂRE GL 82.537 0 0 0 0
+24 223-2.2 CÂMPIA COVURLUI: SPA PRUT GL 5.579 0 0 0 0
+25 223-2.3 CÂMPIA COVURLUI: SPA VAMEȘ GL 6.910 0 0 0 0
+26 223-2.4 CÂMPIA COVURLUI: SPA LIEȘTI GL 5.184 0 0 0 0
+27 224-1 TERASA NICOREȘTI GL 0 7.960 7.683 277 14.872
+28 224-2.1 TERASA NICOREȘTI GL 5.195 0 0 0 0
+29 224-2.2 TERASA NICOREȘTI GL 11.148 0 0 0 0
+30 241-1 GIURGIU - RĂZMIREȘTI A+C GR, TR 0 40.370 33.718 6.652 0
+31 241-2.1 GIURGIU - RĂZMIREȘTI A+C ram 1 GR, TR 14.489 0 0 0 0
+32 241-2.2 GIURGIU - RĂZMIREȘTI A+C ram 2 GR, TR 34.697 0 0 0 0
+33 281-1 CRIVINA VÂNJU MARE MH 0 20.545 20.545 0 16.269
+34 281-2 CRIVINA VÂNJU MARE MH 26.592 0 0 0 0
+35 282-1 HALÂNGA MH 0 1.005 500 505 59.067
+36 303-1 FRUNZARU - BOIANU OT, TR 0 5.802 5.802 0 1.503
+37 303-2 FRUNZARU - BOIANU OT, TR 10.630 0 0 0 0
+38 304-1 BUCȘANI - CIOROIU OT, VL 0 28.367 28.367 0 2.414
+39 304-2.4 BUCȘANI - CIOROIU: OLT OT, VL 5.562 0 0 0 0
+40 304-2.5 BUCȘANI - CIOROIU: OLT OT, VL 4.097 0 0 0 0
+41 330-1 GRIGOREȘTI - VEREȘTI SV 0 1.870 1.870 0 100
+42 362-1 TULCEA - NUFĂRU TL 0 2.811 0 2.811 1.439
+43 341-1 VIIȘOARA TR 0 49.052 30.805 18.247 4.312
+44 341-2 VIIȘOARA TR 53.399 0 0 0 0
+TOTAL 412.030 310.462 236.069 74.393 282.060
+2. Amenajări complexe de irigații, desecare
+Nr. crt. Cod amenajare Denumire amenajare Județul Capacități
+Irigații [ha] Desecare, din care:
+Total [ha] Gravitațională [ha] Prin pompare [ha]
+1 3-1 IRIGAȚII TEIUȘ AB 0 877 877 0
+2 5-1 IRIGAȚII AIUD AB 0 569 569 0
+3 31-1 STEFĂNEȘTI - LEORDENI AG 0 7.132 7.132 0
+4 31-2 STEFĂNEȘTI - LEORDENI AG 5.675 0 0 0
+5 32-1 MICEȘTI - MĂRĂCINENI AG 0 895 895 0
+6 39-1 CĂTEASCA - TEIU AG, DB 0 10.033 10.033 0
+7 15-1 CANALUL MORILOR AR 0 16.836 6.000 10.836
+8 396-1 BUFTEA - CĂCIULATI B 0 717 717 0
+9 396-2 BUFTEA - CĂCIULAȚI B 1.289 0 0 0
+10 397-1 BRAGADIRU - JILAVA B 0 4.530 4.530 0
+11 398-1 NUCI B 0 3.490 3.490 0
+12 398-2 NUCI B 3.718 0 0 0
+13 400-1 CHIAJNA- BRAGADIRU - DRAGOMIREȘTI B 0 1.621 1.621 0
+14 50-1 SĂUCEȘTI BC 0 1.260 1.260 0
+15 61-1 CANAL COLECTOR MAL STANG INAND BM 0 45.077 28.760 16.317
+16 103-1 TERASA BRĂILEI BR 0 32.871 0 32.871
+17 103-2.1 TERASA BRĂILEI BR 29.633 0 0 0
+18 103-2.2 TERASA BRĂILEI BR 10.781 0 0 0
+19 103-2.3 TERASA BRĂILEI BR 5.218 0 0 0
+20 104-1 INSULA MARE A BRĂILEI BR 0 69.241 0 69.241
+21 104-2.1 INSULA MARE A BRĂILEI BR 6.983 0 0 0
+22 104-2.2 INSULA MARE A BRĂILEI BR 18.989 0 0 0
+23 104-2.3 INSULA MARE A BRĂILEI BR 12.591 0 0 0
+24 104-2.4 INSULA MARE A BRĂILEI BR 4.534 0 0 0
+25 104-2.5 INSULA MARE A BRĂILEI BR 12.986 0 0 0
+26 104-2.6 INSULA MARE A BRĂILEI BR 8.580 0 0 0
+27 105-1 TERASA IALOMIȚA - CĂLMĂTUI BR, IL 0 85.495 16.392 69.103
+28 105-2 TERASA IALOMIȚA - CĂLMĂTUI BR, IL 111.091 0 0 0
+29 106-1 TERASA VIZIRU BR 0 19.266 0 19.266
+30 106-2 TERASA VIZIRU BR 19.623 0 0 0
+31 107-1 NĂMOLOASA - MĂXINENI BR 0 37.672 10.915 26.757
+32 107-2.1 NĂMOLOASA - MĂXINENI BR 17.289 0 0 0
+33 107-2.2 NĂMOLOASA - MĂXINENI BR 3.094 0 0 0
+34 108-1 IANCA - SURDILA - GRECI BR 0 9.905 8.114 1.791
+35 108-2 IANCA - SURDILA - GRECI BR 25.047 0 0 0
+36 109-1 INCINTA CĂLMĂTUI - GROPENI - CHIȘCANI BR 0 17.129 0 17.129
+37 109-2.1 INCINTA CĂLMĂTUI - GROPENI - CHIȘCANI BR 1.624 0 0 0
+38 109-2.2 INCINTA CĂLMĂTUI - GROPENI - CHIȘCANI BR 1.481 0 0 0
+39 109-2.3 INCINTA CĂLMĂTUI - GROPENI - CHIȘCANI BR 1.105 0 0 0
+40 109-2.4 INCINTA CĂLMĂTUI - GROPENI - CHIȘCANI BR 7.795 0 0 0
+41 110-1 GRĂDIȘTEA - FĂUREI - JIRLĂU BR 0 2.738 925 1.813
+42 110-2.1 GRĂDIȘTEA - FĂUREI - JIRLĂU BR 2.820 0 0 0
+43 110-2.2 GRĂDIȘTEA - FĂUREI - JIRLĂU BR 4.068 0 0 0
+44 111-1 LATINU VĂDENI BR 0 13.079 0 13.079
+45 111-2 LATINU VĂDENI BR 7.851 0 0 0
+46 112-1 LUNCA RÂULUI BUZĂU BR 0 649 649 0
+47 112-2 LUNCA RÂULUI BUZĂU BR 3.896 0 0 0
+48 113-1 INCINTA BRĂILA - DUNĂRE - SIRET BR 0 4.854 0 4.854
+49 113-2 INCINTA BRĂILA - DUNĂRE - SIRET BR 3.646 0 0 0
+50 114-1 NOIANU - CHIȘCANI BR 0 150 0 150
+51 114-2 NOIANU - CHIȘCANI BR 1.160 0 0 0
+52 115-1 INCINTA B.H. CĂLMĂTUI, JUDET BRĂILA BR, BZ 0 23.026 23.026 0
+53 115-2 INCINTA B.H. CĂLMĂTUI, JUDET BRĂILA BR, BZ 13.563 0 0 0
+54 115(1)-1 INCINTA B.H. CĂLMĂTUI, JUDET BUZĂU BR, BZ 0 29.704 29.704 0
+55 273-1 TABĂRA - TRIFEȘTI - SCULENI BT, IS 0 7.864 0 7.864
+56 273-2 TABĂRA - TRIFEȘTI - SCULENI BT, IS 11.276 0 0 0
+57 309-1 AHC CÂMPIA BUZĂULUI BZ, PH 0 18.058 18.058 0
+58 309-2.1 AHC CÂMPIA BUZĂULUI; DERIVATIA I, BZ BZ, PH 7.056 0 0 0
+59 309-2.2 AHC CÂMPIA BUZĂULUI; ZONA 22, BZ BZ, PH 651 0 0 0
+60 309-2.3 AHC CÂMPIA BUZĂULUI; ZONA ODOBA, BZ BZ, PH 528 0 0 0
+61 309-2.4 AHC CÂMPIA BUZĂULUI; ZONA MĂRĂCINENI, BZ BZ, PH 393 0 0 0
+62 125-1 BOIANU STICLEANU CL 0 22.924 0 22.924
+63 125-2 BOIANU STICLEANU CL 19.298 0 0 0
+64 121-1 BORCEA DE SUS CL 0 28.058 0 28.058
+65 121-2.1 BORCEA DE SUS CL 3.391 0 0 0
+66 121-2.2 BORCEA DE SUS CL 3.s11 0 0 0
+67 121-2.3 BORCEA DE SUS CL 2.si1 0 0 0
+68 12s-1 TERASA CALARASI CL 0 4.539 3.150 is9
+69 12s-2.1 TERASA CALARASI CL 3.495 0 0 0
+70 12s-2.2 TERASA CALARASI CL 2.859 0 0 0
+71 129-1 OLTENITA - SURLARI - DOROBANTU CL 0 12.125 0 12.125
+72 130-1 cAlArasi rAul CL 0 10.748 0 10.748
+73 134-1 UNIREA - JEGALIA - GALDAU CL 0 1.008 0 1.008
+74 229-1 GOSTINU - GREACA - ARGES CL, GR 0 28.520 0 28.520
+75 229-2 GOSTINU - GREACA - ARGES CL, GR 26.426 0 0 0
+76 131-1 BERCENI VIDRA FRUMUSANI CL, GR, B 0 3.611 3.611 0
+77 145-1 MOSTISTEA VI CL, IL 0 23.905 23.905 0
+78 154-1 TERASA SEIMENI CT 0 449 0 449
+79 154-2 TERASA SEIMENI CT 3.256 0 0 0
+80 156-1 OLTINA VEST CT 0 210 0 210
+81 1254-1 INCINTA CIOBANU - GARLICIU CT 0 4.984 0 4.984
+82 1254-2 INCINTA CIOBANU - GARLICIU CT 2.4s9 0 0 0
+83 1352-1 CARASU - MIHAIL KOGALNICEANU CT 0 136 0 136
+84 1352-2 CARASU - MIHAIL KOGALNICEANU CT 15.132 0 0 0
+85 1355-1 CARASU - GALESU CT 0 212 0 212
+86 1355-2 CARASU - GALESU CT 3.210 0 0 0
+87 193-1 MIRCEA VODA - BOLOVANI DB 0 2.182 2.182 0
+88 199-1 ULMI - VAcARESTI DB 0 495 495 0
+89 200-1 TITU - OGREZENI, JUDET GIURGIU, ILFOV DB, GR, B 0 11.784 11.784 0
+90 200(1)-1 TITU - OGREZENI, JUDET DAMBOVITA DB, GR, B 0 12.615 12.615 0
+91 201-1 NEDEIA - MACESU DJ 0 4.500 4.500 0
+92 201-2 NEDEIA - MACESU DJ 30.0s5 0 0 0
+9S 203-1 CALAFAT - BAILESTI DJ 0 11.344 14.342 3.002
+94 203-2 CALAFAT - BAILESTI DJ 22.523 0 0 0
+95 204-1 CETATE - GALICEA DJ 0 2.620 2.620 0
+96 204-2 CETATE - GALICEA DJ 11.595 0 0 0
+97 206-1 BISTRET - NEDEIA - JIU DJ 0 21.530 0 21.530
+98 201-1 GHIDICI - RAST - BISTRET DJ 0 11.126 0 11.126
+99 201-2 GHIDICI - RAST - BISTRET DJ 9.639 0 0 0
+100 208-1 CALAFAT - CIUPERCENI DJ 0 129 0 129
+101 208-2 CALAFAT - CIUPERCENI DJ 1.615 0 0 0
+102 210-1 BRALOSTITA - SCAlESTI DJ 0 1.646 1.646 0
+103 211-1 FILIASI - TATOMIRESTI DJ 0 1.soo 1.soo 0
+104 212-1 JIU - BECHET DJ 0 1.361 0 1.361
+105 213-1 BRADESTI - COTOFENI DJ 0 1.211 0 1.211
+106 215-1 cAmpul blAndului DJ 0 eei eei 0
+107 216-1 CORNU - CARAULA DJ 0 29 0 29
+108 202-1 SADOVA - CORABIA DJ, OT 0 24.492 23.50s 9s4
+109 202-2 SADOVA - CORABIA DJ, OT 66.635 0 0 0
+110 4s0-1 BRATESUL DE SUS GL 0 12.091 0 12.091
+111 4s0-2 BRATESUL DE SUS GL 5.0s3 0 0 0
+112 230-1 MALU ROSU GOSTINU GR 0 9.113 0 9.113
+113 233-1 ILFOVĂT GR 0 4.380 4.380 0
+114 234-1 VEDEA - SLOBOZIA GR 0 4.622 0 4.622
+115 409-1 ARGEȘ KM 23 GR 0 1.791 1.791 0
+116 409-2 ARGEȘ KM 23 GR 1.697 0 0 0
+117 232-1 VEDEA - PIETROȘANI GR, TR 0 4.858 0 4.858
+118 242-1 GIURGIU - RAZMIREȘTI ZONA B GR, TR 0 5.301 2.209 3.092
+119 242-2 GIURGIU - RAZMIREȘTI ZONA B GR, TR 21.845 0 0 0
+120 262-1 SLOBOZIA - DUNĂRE IL 0 10.670 0 10.670
+121 262-2 SLOBOZIA - DUNĂRE IL 1.753 0 0 0
+122 264-1 STELNICA - BORDUȘANI IL 0 1.615 0 1.615
+123 267-1 BORCEA DE JOS IL 0 31.296 0 31.296
+124 267-2 BORCEA DE JOS IL 5.677 0 0 0
+125 272-1 SCULENI - TUTORA - GORBAN IS 0 25.419 620 24.799
+126 277-1 HĂLĂUCEȘTI IS 0 1.210 0 1.210
+127 279-1 REDIU - MIROSLAVA IS 0 495 495 0
+128 289-1 IRIGATII SECUIENI - ROMAN NT 0 234 234 0
+129 293-1 IRIGATII HORIA - APE UZATE NT 0 800 800 0
+130 300-1 IPOTEȘTI OT 0 604 604 0
+131 331-1 DRAGOMIRNA SV 0 155 155 0
+132 355-1 MĂCIN - 23 AUGUST TL 0 12.130 0 12.130
+133 355-2.1 MĂCIN - 23 AUGUST PLUTITOARE TL 2.158 0 0 0
+134 363-1 OSTROV TL 0 1.419 0 1.419
+135 878-1 MĂCIN - CARCALIU TL 0 1.717 0 1.717
+136 349-1 ȘAG - TOPOLOVĂT TM 0 27.653 0 27.653
+137 344-1 LITA - OLT TR 0 6.290 0 6.290
+138 344-2 LITA - OLT TR 1.516 0 0 0
+139 347-1 IZLAZ - MOLDOVENI TR 0 1.134 0 1.134
+140 384-1 SISTEM GALICEA VL 0 590 369 221
+141 385-1 SISTEM OLANU - DRĂGOIEȘTI VL 0 1.120 1.120 0
+142 417-1 SISTEM MIHĂIEȘTI - BĂBENI VL 0 1.616 1.616 0
+143 389-1 SURAIA - VADU ROȘCA VN 0 2.402 0 2.402
+144 389-2 SURAIA - VADU ROȘCA VN 892 0 0 0
+145 390-1 BILIEȘTI - SLOBOZIA CIORĂȘTI VN 0 4.564 4.564 0
+146 390-2 BILIEȘTI - SLOBOZIA CIORĂȘTI VN 13.233 0 0 0
+147 392-1 MĂRĂȘEȘTI VN 0 600 600 0
+148 368-1 ALBITA - FĂLCIU VS 0 18.587 0 18.587
+149 368-2.1 ALBITA - FĂLCIU: SUBST. SPR 3 VS 5.236 0 0 0
+150 368-2.2 ALBITA - FĂLCIU: SUBST. SPR 4 VS 3.473 0 0 0
+151 368-2.3 ALBITA - FĂLCIU: SUBST. SPR 2 VS 2.869 0 0 0
+152 368-2.4 ALBITA - FĂLCIU: SUBST. SPR 1 VS 3.155 0 0 0
+153 368-2.5 ALBITA - FĂLCIU: SUBST. SPP 1 VS 2.204 0 0 0
+154 369-1 B.H. BÂRLAD VS 0 19.270 17.370 1.900
+155 369-2 B.H. BÂRLAD VS 2.453 0 0 0
+156 371-1 VASLUIET VS 0 2.791 2.791 0
+TOTAL 674.268 945.687 320.930 624.757
+3. Amenajări complexe de irigații și combatere a eroziunii solului
+┌────┬─────────┬──────────────────────────────────────────────┬─────────┬─────────────────────┐ │
+│
+│
+│
+│
+Capacități
+│ │
+│
+│
+│
+├──────────┬──────────┤ │Nr. │
+Cod
+│
+│
+│
+│
+│ │crt.│amenajare│
+Denumire amenajare
+│ Județul │ Irigații │
+CES
+│ │
+│
+│
+│
+│
+[ha]
+│
+[ha]
+│ │
+│
+│
+│
+│
+│
+│ │
+│
+│
+│
+│
+│
+│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 1 │ 40-1
+│SASCUT
+│
+BC
+│
+0│
+352│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 2 │ 40-2
+│SASCUT
+│
+BC
+│
+5.028│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 3 │ 46-1
+│CLEJA - FARAOANI
+│
+BC
+│
+0│
+1.023│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 4 │ 49-1
+│FULGERIȘ
+│
+BC
+│
+0│
+1.486│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 5 │ 49-2
+│FULGERIȘ
+│
+BC
+│
+465│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 6 │ 53-1
+│RĂCĂCIUNI
+│
+BC
+│
+0│
+2.501│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 7 │ 42-1
+│RACOVA - FILIPEȘTI
+│ BC, NT │
+0│
+354│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 8 │ 42-2
+│RACOVA - FILIPEȘTI
+│ BC, NT │
+2.438│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 9 │ 59-1
+│DAMIENEȘTI
+│ BC, NT │
+0│
+820│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 10 │ 59-2
+│DAMIENEȘTI
+│ BC, NT │
+2.276│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 11 │ 86-1
+│HORIA - LIVENI - MANOLEASA
+│
+BT
+│
+0│
+6.758│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 12 │ 88-1
+│HĂNEȘTI - DÂNGENI
+│
+BT
+│
+0│
+544│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 13 │ 1342-1 │CARASU - BĂRĂGANU
+│
+CT
+│
+0│
+3.247│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 14 │ 1342-2 │CARASU - BĂRĂGANU
+│
+CT
+│
+2.528│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 15 │ 153-1 │TERASA HÂRȘOVA
+│ CT, TL │
+0│
+6.576│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 16 │ 181-1 │DĂENI - OSTROV - PECENEAGA
+│ CT, TL │
+0│
+5.121│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 17 │ 181-2 │DĂENI - OSTROV - PECENEAGA
+│ CT, TL │
+5.175│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 18 │ 350-1 │BABADAG
+│
+TL
+│
+0│
+11.680│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 19 │ 350-2.1 │BABADAG SP 1
+│
+TL
+│
+6.769│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 20 │ 351-1 │PECINEAGA - TURCOAIA - MĂCIN
+│
+TL
+│
+0│
+10.069│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 21 │ 351-2 │PECINEAGA - TURCOAIA - MĂCIN
+│
+TL
+│
+2.065│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 22 │ 353-1 │SUD RAZELM
+│
+TL
+│
+0│
+2.425│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 23 │ 353-2.1 │SUD RAZELM - SPA 6 MARTIE
+│
+TL
+│
+12.104│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 24 │ 353-2.2 │SUD RAZELM - SPA LUNCA
+│
+TL
+│
+1.130│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 25 │ 354-1 │SARICHIOI
+│
+TL
+│
+0│
+1.820│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 26 │ 354-2.1 │SARICHIOI SP 1
+│
+TL
+│
+3.102│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 27 │ 354-2.2 │SARICHIOI SP 2
+│
+TL
+│
+3.595│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 28 │ 356-1 │ISACCEA
+│
+TL
+│
+0│
+1.343│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 29 │ 356-2 │ISACCEA
+│
+TL
+│
+3.001│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 30 │ 361-1 │DUNAVĂȚ
+│
+TL
+│
+0│
+130│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 31 │ 361-2 │DUNAVĂȚ
+│
+TL
+│
+2.753│
+0│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 32 │ 366-1 │SOMOVA
+│
+TL
+│
+0│
+129│ ├────┼─────────┼──────────────────────────────────────────────┼─────────┼──────────┼──────────┤ │ 33 │ 367-1 │DEALUL REDI
+│
+TL
+│
+0│
+158│ ├────┴─────────┴──────────────────────────────────────────────┴─────────┼──────────┼──────────┤ │
+TOTAL
+│
+52.429│
+56.536│ └───────────────────────────────────────────────────────────────────────┴──────────┴──────────┘
+4. Amenajări de irigații
+┌────┬─────────┬─────────────────────────────────────────────────────────┬─────────┬──────────┐ │Nr. │
+Cod
+│
+│
+│Capacități│ │crt.│amenajare│
+Denumire amenajare
+│ Județul ├──────────┤ │
+│
+│
+│
+│ Irigații │ │
+│
+│
+│
+│
+[ha]
+│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 1 │
+9-2
+│SEMLAC - PEREG
+│
+AR
+│
+8.394│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 2 │ 10-2
+│FÂNTÂNELE - ȘAGU
+│
+AR
+│
+6.920│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 3 │ 11-2
+│PĂULIȘ - MATCA
+│
+AR
+│
+3.962│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 4 │ 12-2
+│MUREȘEL IER
+│
+AR
+│
+3.033│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 5 │ 43-2
+│ITEȘTI
+│
+BC
+│
+1.732│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 6 │ 45-2
+│LETEA
+│
+BC
+│
+1.118│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 7 │ 47-2
+│TÂRGU TROTUȘ
+│
+BC
+│
+747│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 8 │ 52-2
+│TAMAȘI
+│
+BC
+│
+319│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 9 │ 54-2
+│DOJA
+│
+BC
+│
+136│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 10 │ 90-2
+│MOVILENI - HAVÂRNA
+│
+BT
+│
+804│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 11 │ 94-2
+│CURTEȘTI
+│
+BT
+│
+437│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 12 │ 124-2 │JEGĂLIA
+│
+CL
+│
+15.371│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 13 │ 143-2 │MOSTIȘTEA I
+│
+CL
+│
+7.824│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 14 │ 146-2 │PETROIU - ȘTEFAN CEL MARE
+│ CL, IL │
+45.403│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 15 │ 148-2 │IRIGAȚII MIHAI VITEAZU
+│
+CJ
+│
+5.720│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 16 │ 1336-2 │CARASU - CDMN/PAMN NORD
+│
+CT
+│
+1.594│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 17 │ 2336-2 │CARASU - CDMN/PAMN SUD
+│
+CT
+│
+1.369│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 18 │ 1337-2 │CARASU - CANAL NEGRU VODĂ
+│
+CT
+│
+1.349│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 19 │ 1338-2 │CARASU - TOPRAISAR
+│
+CT
+│
+1.655│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 20 │ 1340-2 │CARASU - BIRUINȚA
+│
+CT
+│
+13.212│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 21 │ 1341-2 │CARASU - MOVILIȚA
+│
+CT
+│
+5.848│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 22 │ 1343-2 │CARASU - POTÂRNICHEA
+│
+CT
+│
+2.272│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 23 │ 1344-2 │CARASU - LANURILE
+│
+CT
+│
+3.428│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 24 │ 1346-2 │CARASU - FĂCLIA
+│
+CT
+│
+2.510│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 25 │ 1347-2 │CARASU - MANGALIA NORD
+│
+CT
+│
+7.666│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 26 │ 1349-2 │CARASU - TĂTARU
+│
+CT
+│
+1.307│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 27 │ 1350-2 │CARASU - MOȘNENI
+│
+CT
+│
+1.591│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 28 │ 1351-2 │OREZĂRIE HÂRȘOVA
+│
+CT
+│
+1.581│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 29 │ 1354-2 │CARASU - BASARABI
+│
+CT
+│
+5.678│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 30 │ 1356-2 │CARASU - POARTA ALBĂ
+│
+CT
+│
+1.387│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 31 │ 1357-2 │CARASU - VALEA SEACĂ
+│
+CT
+│
+3.482│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 32 │ 1358-2 │COCHIRLENI
+│
+CT
+│
+1.007│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 33 │ 185-2 │CÂMPU FRUMOS
+│
+CV
+│
+2.998│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 34 │ 209-2 │LIPOV - RADOVAN
+│
+DJ
+│
+2.204│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 35 │ 217-2 │TROACA - ALBEȘTI
+│
+DJ
+│
+1.005│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 36 │ 260-2 │TERASA BORDUȘANI
+│
+IL
+│
+15.542│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 37 │ 261-2 │OREZĂRIA FĂCĂIENI - VLĂDENI
+│
+IL
+│
+2.224│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 38 │ 263-2 │OREZĂRIA LUCIU - GIURGENI
+│
+IL
+│
+5.140│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 39 │ 307-2.1 │DĂBULENI - POTELU - CORABIA
+│
+OT
+│
+2.634│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 40 │ 307-2.2 │DĂBULENI - POTELU - CORABIA
+│
+OT
+│
+3.416│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 41 │ 307-2.3 │DĂBULENI - POTELU - CORABIA
+│
+OT
+│
+2.896│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 42 │ 307-2.4 │DĂBULENI - POTELU - CORABIA
+│
+OT
+│
+1.982│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 43 │ 295-2 │STOENEȘTI - VIȘINA
+│
+OT
+│
+4.965│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 44 │ 294-2 │TERASA CORABIA: OLT
+│ OT, TR │
+31.304│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 45 │ 352-2 │BEIBUGEAC - SARINASUF
+│
+TL
+│
+10.010│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 46 │ 342-2 │OLT - CĂLMĂȚUI
+│
+TR
+│
+31.365│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 47 │ 345-2 │TERASA ZIMNICEA
+│
+TR
+│
+2.115│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 48 │ 373-2.1 │TUTOVA
+│
+VS
+│
+194│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 49 │ 374-2 │MÂNJEȘTI
+│
+VS
+│
+595│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 50 │ 424-2 │PUTNA
+│
+VN
+│
+2.385│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 51 │ 426-2 │CIORĂȘTI - MĂICĂNEȘTI
+│
+VN
+│
+8.780│ ├────┴─────────┴─────────────────────────────────────────────────────────┴─────────┼──────────┤ │
+TOTAL
+│
+290.610│ └──────────────────────────────────────────────────────────────────────────────────┴──────────┘
+5. Amenajări complexe de desecare și combatere a eroziunii solului
+Nr. crt. Cod amenajare Denumire amenajare Județul Capacități
+Desecare, din care: CES [ha]
+Total [ha] Gravitațională [ha] Prin pompare [ha]
+1 830-1 AM. COMPL. DESEC. ȘI CES GURA ARIEȘ - INOC AB 730 730 0 605
+2 1033-1 AM. COMPL. DESEC. ȘI CES SECAȘUL MIC AB 1.550 1.550 0 18.311
+3 1067-1 AM. COMPL. DESEC. ȘI CES SPRING - VINGARD ' AB 80 80 0 631
+4 1188-1 AM. COMPL. DES. ȘI CES CETATEA DE BALTĂ ' AB 59 59 0 1.573
+5 506-1 CERMEI - TĂUT AR, BH 6.815 2.199 4.616 1.097
+6 919-1 ONIȘCANI - SECUIENI BC, NT 2.995 632 2.363 335
+7 283-1 B.H. PETA - HIDIȘEL BH 2.061 2.061 0 3.318
+8 337-1 B.H. VALEA BISTRA BH 1.105 1.105 0 1.343
+9 338-1 B.H. VALEA COSMO BH 400 400 0 4.624
+10 340-1 B.H. VALEA EGER BH 191 191 0 1.720
+11 343-1 B.H. VALEA INOT BH 1.200 1.200 0 6.759
+12 438-1 BARCĂU MAL DR. AMONTE MARGHITA BH 1.027 1.027 0 4.168
+13 439-1 BARCĂU MAL DR. AVAL SALARD BH 2.612 0 2.612 1.200
+14 440-1 BARCĂU MAL STG. AMONTE MARGHITA BH 377 377 0 4.861
+15 710-1 CRIȘ REPEDE MAL DR. AMONTE TILEAGD BH 1.327 1.327 0 7.103
+16 714-1 CRIȘ REPEDE MAL STG. AVAL TILEAGD BH 4.268 4.268 0 1.020
+17 1121-1 VALEA HOLOD BH 4.930 4.930 0 4.405
+18 1132-1 VALEA NOUA GURBEDIU BH 2.275 2.275 0 5.849
+19 1135-1 VALEA RĂTĂȘEL BH 4.843 4.843 0 1.615
+20 464-1 B.H. BISTRIȚA AVAL. AMONT ORAȘ BISTRIȚA ' ' BN 1.638 1.638 0 4.038
+21 489-1 B.H. BUDACU INFERIOR, SUPERIOR BN 565 565 0 3.775
+22 870-1 B.H. LECHINȚA VALEA MORII, AVAL V. MORII ' BN 24 24 0 11.500
+23 896-1 UNITATEA AGRICOLĂ MONARIU BN 72 72 0 243
+24 1111-1 B.H. VALEA BRATOȘA BN 998 998 0 3.424
+25 1117-1 B.H. VALEA DIPȘA BN 2.930 2.930 0 7.015
+26 1136-1 B.H. VALEA ROSUA - AMONTE BLĂJENI BN 1.850 1.850 0 3.507
+27 718-1 CURTEȘTI - PRĂJENI BT 2.500 2.500 0 1.388
+28 891-1 MILETIN JUD. BOTOȘANI BT 203 203 0 5.739
+29 958-1 POIENILE HARIGII BT 550 550 0 1.950
+30 486-1 BUCECEA - CORNI BT, SV 5.226 5.226 0 3.150
+31 483-1 BREAZA SAMBĂTA BV 2.545 2.545 0 291
+32 701-1 COZD LOVNIC BV 1.194 1.194 0 4.032
+33 796-1 DURBAV BV 100 100 0 18
+34 834-1 HARSENI LUȚA BV 9.361 9.361 0 2.490
+35 844-1 HOMORODUL MARE BV 1.903 1.903 0 6.299
+36 845-1 HOMORODUL MIC BV 739 739 0 3.879
+37 1009-1 SAMBĂTA VIȘTEA BV 5.191 5.191 0 316
+38 1037-1 ȘERCAIA MANDRA BV 4.411 4.411 0 2.069
+39 1086-1 TICUȘ COBOR BV 489 489 0 4.568
+40 1133-1 VALEA PALOȘ BV 400 400 0 3.044
+41 1148-1 VENEȚIA ȘERCAIA BV 4.693 4.693 0 2.846
+42 1158-1 VIȘTEA UCEA BV 2.554 2.554 0 407
+43 1159-1 vlAdeni dumbrAvita BV 3.480 3.480 0 859
+44 1182-1 CINCU CINCSOR BV 70 70 0 503
+45 980-1 RAMNICU SARAT BZ 1.516 1.516 0 7.576
+46 1139-1 VALEATEANCULUI BZ 1.257 1.257 0 772
+47 139-1 VALEA DAMBOVITEI CL, B 4.542 2.659 1.883 800
+48 123-1 VRANI - MERCINA CS 5.102 5.102 0 1.200
+49 444-1 BARZAVA MIJLOCIE - DOCLIN CS 251 251 0 3.071
+50 461-1 BISTRA OTELU ROSU CS 2.885 2.885 0 950
+51 467-1 BOCSA - BINIS - DOCLIN CS 1.657 1.657 0 2.500
+52 468-1 BOCSA-SOSDEA CS 4.400 4.400 0 1.100
+53 495-1 CADAR - REMETEA CS 1.782 1.782 0 5.000
+54 720-1 DALBOSET - PRILIPET CS 970 970 0 6.000
+55 808-1 FOROTIC - SURDUC CS 281 281 0 2.101
+56 829-1 GREONI - TICVANI CS 3.234 3.234 0 500
+57 1079-1 TAU - EZERIS CS 30 30 0 400
+58 1090-1 TIMISUL SUPERIOR - OBREJA CS 177 177 0 939
+59 1146-1 VARADIA - SECASENI CS 2.100 2.100 0 5.755
+60 1185-1 CIORNOVAT CS 1.085 1.085 0 3.923
+61 102-1 SANPETRU - RACOS CV 3.598 3.598 0 3.446
+62 152-1 APATA MAL DREPT CV 2.502 2.502 0 4.096
+63 885-1 MANESTI - MALU CU FLORI DB 1.027 1.027 0 167
+64 909-1 NEAJLOV - VANATORII MARI DB 3.212 3.212 0 1.006
+65 986-1 RAZNIC - BREASTA DJ 804 804 0 4.549
+66 595-1 CES HOMOROD, TARNAVA MARE HR 1.743 1.743 0 30.352
+67 749-1 DESEC. MURES SUPERIOR HR 11.925 11.925 0 1.020
+68 750-1 DESEC. OLT SUPERIOR HR 7.599 7.599 0 3.385
+69 167-1 ARDUSAT - POMI MM 914 914 0 262
+70 220-1 B.H. CERNA SUPERIOARA MM 87 87 0 2.082
+71 221-1 B.H. CAVNIC MM 1.378 1.378 0 2.329
+72 280-1 BOZANTA MOCIRA REMETEA MM 3.077 1.220 1.857 1.570
+73 802-1 REMETEA CHIOARULUI MM 135 135 0 195
+74 803-1 SASAR MM 62 62 0 126
+75 987-1 RAZOARE - LAPUS - LIBOTIN MM 2.404 2.404 0 480
+76 1059-1 SOMES MAL DREPT TICAU LAPUS MM 6.181 6.181 0 3.808
+77 1072-1 SUCIU - GROSI MM 860 860 0 988
+78 1061-1 SOMES MAL STANG TICAU - LAPUS MM, SM 4.979 4.979 0 3.482
+79 508-1 CES AGAPIA - VALEA SEACA NT 617 617 0 2.639
+80 559-1 CES BOZIENI NT 294 294 0 2.860
+81 563-1 CES CALNES NT 84 84 0 2.568
+82 600-1 CES IN B.H. SUP. VALEA MARE NT 448 448 0 2.595
+83 675-1 CES VALEA URSULUI - ONICENI NT 350 350 0 2.751
+84 971-1 PUNERE IN PROD. TEREN. DOBRENI NT 450 450 0 397
+85 296-1 CES B.H. SECASUL MARE SUBBAZ sAngAtin ' SB 16 16 0 1.451
+86 412-1 AMENAJ. TEREN PANTA IN ZONA MEDIAS SB 320 320 0 1.079
+87 1194-1 CES BH. HARTIBACIU MIJLOCIU PERIM. I- IV SB 2.053 2.053 0 19.229
+88 1195-1 CES B.H. SECASUL MARE SUBBAZIN APOLD ' SB 1.356 1.356 0 2.367
+89 1196-1 CES B.H. SECASUL MIC SUBBAZIN ARMENI ' SB 238 238 0 3.133
+90 1197-1 CES B.H. SMIG - VETEU SB 150 150 0 3.165
+91 511-1 CES AGRIJUL INFERIOR SJ 893 893 0 7.207
+92 554-1 CES BOCȘA SĂLĂJENI SJ 190 190 0 1.115
+93 572-1 CES COSNICIU MARCA SJ 681 681 0 927
+94 573-1 CES CRASNA AMONTE VÂRȘOLȚ SJ 350 350 0 14.062
+95 580-1 CES DRIGHIU GROAPA SJ 1.499 1.499 0 2.772
+96 592-1 CES HERECLEAN BOCȘA SJ 851 851 0 3.377
+97 593-1 CES HERECLEAN ZALĂU SJ 479 479 0 1.949
+98 615-1 CES MIȚA PANIC SJ 500 500 0 2.301
+99 624-1 CES PLANT. POMI FILDU SJ 174 174 0 265
+100 625-1 CES PLANT. POMI ZIMBOR SJ 204 204 0 438
+101 655-1 CES UILEAC CARASTELEC SJ 160 160 0 1.148
+102 659-1 CES VALEA APA SĂRATĂ SJ 560 560 0 3.680
+103 668-1 CES VALEA MAJA DIOȘOD - COȘEI SJ 457 457 0 2.342
+104 843-1 HOMOROD MAL DREPT SM 9.171 3.331 5.840 2.822
+105 1100-1 TUR MAL DREPT SM 9.793 0 9.793 915
+106 1102-1 TURULUNG - NEGREȘTI SM 13.939 10.379 3.560 15.800
+107 502-1 CĂRĂȘEU - VALEA VINULUI - POMI SM 9.786 9.786 0 1.664
+108 1004-1 SĂCĂȘENI - ORBĂU SM 557 557 0 2.665
+109 739-1 CRAIDOROLȚ - VÂRȘOLȚ SM, SJ 20.577 8.610 11.967 10.792
+110 1127-1 VALEA MAJA ȘAMȘUD - CHIEȘD SM, SJ 1.420 1.420 0 8.971
+111 166-1 ARBORE - MARGINEA - VOLOVĂȚ SV 2.122 2.122 0 5.760
+112 827-1 GRĂNICEȘTI - CALAFINDEȘTI SV 1.071 1.071 0 1.402
+113 889-1 MERENI - PLOPENI - SALCEA SV 1.450 1.450 0 4.050
+114 1054-1 SLOBOZIA - DORNEȘTI SV 400 400 0 1.205
+115 8-1 23 AUGUST - ISACCEA TL 11.901 0 11.901 826
+116 928-1 PECINEAGA - TURCOAIA TL 3.433 0 3.433 4.432
+117 458-1 BETHAUSEN - OHABA TM 630 630 0 4.246
+118 688-1 CHERESTĂU - DICȘANI TM 357 0 357 2.298
+119 805-1 FIBIȘ - ALIOȘ TM 1.588 1.588 0 1.619
+120 818-1 GHIRODA - RECAȘ TM 8.879 8.879 0 5.042
+121 893-1 MINIȘ - CHIZDIA TM 5.076 3.514 1.562 13.411
+122 898-1 MORAVIȚA TM 12.700 7.495 5.205 5.140
+123 988-1 RECAȘ - GHIZĂTĂU TM 3.500 3.500 0 1.919
+124 1039-1 ȘURGANI - CERNABORA TM 182 182 0 204
+125 1089-1 TIMIȘUL SUPERIOR TM 3.099 2.699 400 305
+126 1094-1 TRAIAN VUIA - DUMBRAVA TM 838 838 0 978
+127 1181-1 CINCA TM 248 248 0 260
+128 271-1 CONȚEȘTI - PETROȘANI TR 5.677 0 5.677 709
+129 798-1 ELAN VS 590 590 0 15.191
+130 873-1 LOHAN VS 415 415 0 7.879
+TOTAL 319.060 246.034 73.026 460.139
+6. Amenajări de desecare
+Nr. crt. Cod amenajare Denumire amenajare Județul Capacități
+Desecare, din care:
+Total [ha] Gravitațională [ha] Prin pompare [ha]
+1 505-1 DESEC. GRAVIT. CERGĂU - MANARADE AB 315 315 0
+2 922-1 DESEC. POMPARE PĂCLISA AB 247 0 247
+3 924-1 DESEC. POMPARE PARTOS AB 403 0 403
+4 1021-1 DESEC. GRAVIT. SARD - IGHIU AB 2.157 2.157 0
+5 1152-1 DESEC. GRAVIT. VINEREA - CUGIR AB 719 719 0
+6 175-1 AUTOSTRADA BUCUREȘTI - PITESTI AG 6.720 6.720 0
+7 723-1 DÂMBOVNIC AG 7.279 7.279 0
+8 890-1 MERISANI - VÂLCELE AG 592 592 0
+9 989-1 RECEA - BUZOIESTI AG 1.149 1.149 0
+10 17-1 MURES MAL DREPT AR 13.610 8.800 4.810
+11 19-1 CRAC - NĂDLAC AR 12.104 3.428 8.676
+12 18-1 IER ARAD FRONTIERĂ AR 32.918 12.200 20.718
+13 20-1 TEUZ AR 55.780 25.851 29.929
+14 21-1 ARANCA - SECUSIGIU AR 5.817 1.920 3.897
+15 22-1 CHISER POGANIER AR 17.008 6.200 10.808
+16 23-1 CIGHER AR 9.902 3.705 6.197
+17 25-1 BUDIER AR 20.316 7.400 12.916
+18 26-1 HANIOS VĂRSAND AR 24.374 196 24.178
+19 27-1 PIL VĂRSAND AR 3.402 1.020 2.382
+20 689-1 COLECTOR ORADEA AR 417 150 267
+21 832-1 GUT AR 3.809 3.809 0
+22 859-1 INEU - BOCSIG AR 950 950 0
+23 1087-1 ȚIGANCA AR 64 64 0
+24 1153-1 VINGA AR 163 50 113
+25 1333-1 NĂDLAG SEITIN AR 1.820 8 1.812
+26 30-1 AFUMAȚI - RUNCU - STEFĂNESTI B 7.634 7.634 0
+27 430-1 BALOTESTI - MOARA VLĂSIEI B 4.369 4.369 0
+28 690-1 COLENTINA - TĂRTĂSESTI B 843 843 0
+29 831-1 GRĂDISTEA - MOARA VLĂSIEI B 1.767 1.767 0
+30 869-1 LACUL MORII B 657 0 657
+31 939-1 PERIS - LIPIA B 4.333 4.333 0
+32 1005-1 SĂFTICA - FIERBINȚI B 3.126 3.126 0
+33 1069-1 AFUMAȚI - STEFĂNESTII DE SUS B 2.815 2.815 0
+34 1075-1 TAMAS - CORBEANCA - OTOPENI - DIMIENI - tunaRi B 7.454 7.274 180
+35 1110-1 VALEA VLĂSIEI - SĂFTICA B 2.920 2.920 0
+36 1160-1 VOLUNTARI - PANTELIMON B 1.891 1.891 0
+37 1166-1 ZONA MOGOSOAIA B 318 318 0
+38 1190-1 COCANI - BUFTEA B 1.607 1.607 0
+39 68-1 CANAL COLECTOR MAL DREPT CEFA BM 44.618 0 44.618
+40 441-1 BARCAU MAL STG. AVAL SĂLARD BM 7.621 7.621 0
+41 709-1 CRIS REPEDE MAL DR. AMONTE ORADEA BM 2.970 2.970 0
+42 711-1 CRIS REPEDE MAL DR. AVAL ORADEA BM 9.860 1.824 8.036
+43 1001-1 STAȚIUNEA CERCET. AGRO-ZOOTH. ORADEA BM 484 484 0
+44 1122-1 VALEA IERULUI BM, SM 76.242 63.717 12.525
+45 743-1 DESECARE DRENAJ AMONTE BECLEAN BN 1.945 1.945 0
+46 698-1 COSULA - ONEAGA BT 1.741 1.741 0
+47 1098-1 TUDORA - CORNI BT 1.314 1.314 0
+48 442-1 BÂRSAN VULCĂNIȚA BV 12.183 12.183 0
+49 1012-1 SÂMPETRU APATA BV 2.003 1.883 120
+50 1157-1 VISTEA BV 222 222 0
+51 100-1 HĂRMAN - PREJMER BV, CV 6.398 5.058 1.340
+52 174-1 AUGUSTIN APATA BV 803 803 0
+53 469-1 BOD BV 1.724 1.724 0
+54 704-1 CENTRUL REP. CREȘTEREA CAILOR SÂMBĂTA CINCSOR ' BV 776 776 0
+55 705-1 CENTRUL REP. CREȘTEREA CAILOR UCEA BV 157 157 0
+56 716-1 CRIZBAV BV 1.620 1.620 0
+57 795-1 DRĂGUS POMI BV 201 201 0
+58 797-1 DURBAV UAI BV 16 16 0
+59 801-1 FELMER SOARS BV 611 611 0
+60 910-1 NETOTU BREAZA BV 4.923 4.923 0
+61 999-1 ROTBAV - FELDIOARA BV 506 506 0
+62 1000-1 ROTBAV SOARS BV 202 202 0
+63 1008-1 SÂMBĂTA REDARE CIRCUIT AGRICOL BV 183 183 0
+64 1015-1 SÂMPETRU VÂRGIS BV 866 866 0
+65 1030-1 SEBES MÂNDRA BV 5.965 5.965 0
+66 1038-1 SERCAIA BV 40 40 0
+67 1103-1 TURZUN BV 453 453 0
+68 1105-1 UNGRA BV 308 308 0
+69 1156-1 VISCRI BV 273 273 0
+70 1161-1 VULCAN BV 201 201 0
+71 149-1 AMARU BZ 3.656 3.656 0
+72 380-1 MIHĂIESTI BZ 4.154 4.154 0
+73 419-1 GLODEANU SILISTEA BZ 14.694 14.694 0
+74 421-1 STÂLPU - COSTESTI BZ 4.497 4.497 0
+75 478-1 BRĂDEANU BZ 5.109 3.209 1.900
+76 493-1 C.F. - D.N. BZ 2.874 2.874 0
+77 826-1 GLODEANU SĂRAT BZ 3.520 3.520 0
+78 828-1 GRECEANCA BZ 4.544 4.544 0
+79 902-1 MOVILA BANULUI BZ 784 784 0
+80 908-1 NĂIANCA BZ 5.345 5.345 0
+81 923-1 PADINA BZ 14.760 10.910 3.850
+82 955-1 POGOANELE BZ 12.506 10.306 2.200
+83 1006-1 SĂGEATA BZ 6.320 6.320 0
+84 1019-1 SĂRATA BZ 2.497 2.497 0
+85 1183-1 CIORANCA BZ 1.700 1.700 0
+86 268-1 GRINDU - COCORA BZ, IL 12.482 11.284 1.198
+87 1191-1 COCORA EST BZ, IL 5.255 5.255 0
+88 447-1 BEDECIU CJ 75 75 0
+89 800-1 FEIURD INFERIOR CJ 25 25 0
+90 807-1 FÂNEATA VACILOR CJ 545 545 0
+91 810-1 GĂDĂLIN CJ 483 483 0
+92 811-1 GĂDĂLIN SUPERIOR CJ 480 480 0
+93 863-1 JICHIS - BUNESTI CJ 163 163 0
+94 884-1 MĂRĂLOIU CJ 228 228 0
+95 1003-1 STAT. DIDACTICĂ EXPERIM. CLUJ CJ 160 160 0
+96 1092-1 TOCBESTI CJ 435 435 0
+97 1112-1 VALEA CAIANULUI CJ 145 145 0
+98 1114-1 VALEA COJOCNEI CJ 250 250 0
+99 1115-1 VALEA CRIȘULUI CJ 500 500 0
+100 1120-1 VALEA HĂJDATE CJ 627 627 0
+101 1128-1 VALEA MARE - CLUJ CJ 150 150 0
+102 1137-1 VALEA SOPORULUI CJ 289 289 0
+103 1144-1 VALEA ZĂPODIEI CJ 141 141 0
+104 132-1 VALEA ARGEȘULUI CL 320 0 320
+105 852-1 IAM - CIORTEA CS 2.304 2.304 0
+106 853-1 IAM - RUSOVA CS 1.817 1.817 0
+107 862-1 ISCIP BERZOVIA CS 552 552 0
+108 1253-1 INCINTA HÂRȘOVA - CIOBANU CT 4.721 0 4.721
+109 1255-1 INCINTA SEIMENII MICI CT 480 0 480
+110 1303-1 INCINTA GÂRLICIU - DĂENI CT, TL 1.246 0 1.246
+111 420-1 GHELINTA - BRATEȘ CV 9.124 9.124 0
+112 473-1 BOROȘNEU MARE CV 9.700 9.700 0
+113 877-1 LUNGA - GHELNITA CV 3.790 3.790 0
+114 957-1 POIAN - ESTELNIC CV 2.760 2.760 0
+115 984-1 RÂUL NEGRU CV 4.328 4.328 0
+116 1192-1 CHICHIȘ - ILIENI CV 1.100 1.100 0
+117 379-1 IONEȘTI - VIȘINA DB 3.317 3.317 0
+118 436-1 BÂLTENI II - CREVEDIA DB 9.589 9.589 0
+119 460-1 BILCIUREȘTI DB 4.458 4.458 0
+120 479-1 BRĂTEȘTI - COMIȘANI DB 2.725 2.725 0
+121 487-1 BUCUREȘTI - NORD DB 7.411 7.411 0
+122 721-1 DÂMBOVITA - CREVEDIA DB 1.120 1.120 0
+123 722-1 DÂMBOVITA - SLOBOZIA DB 2.280 2.280 0
+124 965-1 POTOPU - RĂSTOACA DB 6.287 6.287 0
+125 176-1 AVAL TĂRTĂȘEȘTI, JUDET GIURGIU DB, GR 2.055 2.055 0
+126 176(1)-1 AVAL TĂRTĂȘEȘTI, JUDET DÂMBOVITA DB, GR 7.044 7.044 0
+127 157-1 APELE VII - ZĂNOAGA DJ 11.060 10.892 168
+128 173-1 ATENUARE FÂNTÂNELE DJ 1.603 1.500 103
+129 219-1 ROJIȘTE - LIȘTEAVA DJ 8.650 2.500 6.150
+130 445-1 BECHET - DĂBULENI DJ 7.861 0 7.861
+131 944-1 PISC - SEACA DJ 688 688 0
+132 1035-1 SECUI - BRATOVOIEȘTI DJ 1.534 1.534 0
+133 1187-1 CIUPERCENI - DESA DJ 1.055 0 1.055
+134 249-1 DESEC. SOMĂNEȘTI GJ 610 0 610
+135 731-1 DESEC. BRĂNEȘTI-PLOPȘORU GJ 1.960 1.960 0
+136 734-1 DESEC. BUDUHALA GJ 754 0 754
+137 738-1 DESEC. CALNIC GJ 935 135 800
+138 745-1 DESEC. IAȘI - BUDIENI GJ 4.104 4.104 0
+139 764-1 DESEC. PEȘTIȘANI GJ 131 131 0
+140 769-1 DESECARE TURCENI GJ 1.030 690 340
+141 500-1 CANAL DUNĂRE-BUCUREȘTI GR 770 770 0
+142 1026-1 SCHITU GHIMPATI BILA GR 801 801 0
+143 455-1 DESEC. GRAVIT. SIBIȘEL - BERIU - CĂSTĂU HD 1.919 1.919 0
+144 474-1 DESEC. GRAVIT. BOȘOROD - BRETEA ROMÂNĂ HD 1.850 1.850 0
+145 477-1 DESEC. GRAVIT. ZONA BRAD - VAȚA MD 1.185 1.185 0
+146 484-1 DESEC. GRAVIT. BRETEA - VALCELE - BĂȚĂLAR MD 1.438 1.438 0
+147 839-1 DESEC. GRAVIT. MAJEG - TUȘTEA - DENSUȘ MD 3.415 3.415 0
+148 887-1 DESEC. GRAVIT. MĂRTINEȘTI - TURDAȘ MD 980 980 0
+149 920-1 DESEC. GRAVIT. ORĂȘTIE - ROMOS - AUREL VLAICU ' MD 3.000 3.000 0
+150 981-1 DESEC. GRAVIT. RAPOLT - BOBALNA MD 591 591 0
+151 1007-1 DESEC. GRAVIT. SĂLCIVA - LĂPUȘNIC - POJOGA MD 80 80 0
+152 28-1 adAncată PATRU FRAȚI IL 6.189 0 6.189
+153 177-1 AXINTELE BĂRNĂTESCU IL 1.971 1.284 687
+154 697-1 COȘERENI - BĂRBĂTESCU IL 5.763 5.763 0
+155 822-1 gArbovi - ciocArlia IL 4.440 4.440 0
+156 823-1 GARBOVI - MANASIA IL 6.000 6.000 0
+157 824-1 GIURGENI - VLĂDENI IL 14.878 0 14.878
+158 850-1 ION ROATĂ - BRȘTENI IL 518 518 0
+159 880-1 MAIA - BRAZI - FIERBINȚI IL 3.529 3.529 0
+160 881-1 MALU ROȘU - ARMĂȘEȘTI IL 5.175 5.175 0
+161 901-1 MOSTIȘTEA 9+10 IL 6.494 6.494 0
+162 991-1 REVIGA - ROVINE - CRUNȚI IL 3.280 3.280 0
+163 1040-1 SF. GMEORGME - CĂZĂNEȘTI IL 2.439 2.439 0
+164 1126-1 VALEA MACRIȘULUI-ION ROATĂ IL 6.000 6.000 0
+165 38-1 ALBEȘTI IS 400 400 0
+166 429-1 IAȘI - PODU ILOAIE IS 1.405 1.405 0
+167 927-1 PAȘCANI IS 1.470 0 1.470
+168 1076-1 TANSA - PODU ILOAIE IS 1.625 1.625 0
+169 286-1 ROMAN - RĂCMIȚENI IS, NT 6.680 2.171 4.509
+170 476-1 BOZANTA - SEINI MM 2.984 2.984 0
+171 687-1 CMECMIȘ MAL DREPT MM 24 24 0
+172 1024-1 SATULUNG - ARIEȘUL DE PĂDURE MM 441 441 0
+173 1118-1 VALEA DOBRICULUI MM 529 529 0
+174 1142-1 VALEA VIȘEU MM 1.000 1.000 0
+175 58-1 ALUNIȘ - POTĂU MM, SM 8.141 0 8.141
+176 860-1 IOJIB - SEINI MM, SM 6.573 6.573 0
+177 719-1 DESEC. PArAUL COMLOD ZONA BAND - GREBENIȘ MS 231 231 0
+178 751-1 DESEC. PARAUL COMLOD ZONA CRĂIEȘTI - ȘINCAI ' MS 554 554 0
+179 752-1 DESEC. PARAUL BICMIȘ - AȚINTIȘ MS 267 267 0
+180 753-1 DESEC. PARAUL COMLOD ZONA MĂDĂRAȘ MS 471 471 0
+181 754-1 DESEC. PARAUL CUIEȘD MS 443 443 0
+182 755-1 DESEC. PARAUL CUND - IDICIU MS 627 627 0
+183 756-1 DESEC. PARAUL DE CAMPIE MS 505 505 0
+184 757-1 DESEC. PARAUL FLEȚ MS 281 281 0
+185 758-1 DESEC. PARAUL LIVEZENI MS 101 101 0
+186 759-1 desec. pArAul sărat - sAngeorgiu de MUREȘ MS 158 158 0
+187 760-1 DESEC. PArAul ȘESU - BOLOGA MS 591 591 0
+188 761-1 DESEC. PARAUL ȘEULIA DE DEAG MS 116 116 0
+189 762-1 DESEC. PARAUL SANGER MS 153 153 0
+190 763-1 DESEC. PARAUL VOINICENI MS 111 111 0
+191 770-1 DESEC. VALEA AGRIȘ MS 306 306 0
+192 771-1 DESEC. VALEA BĂII MS 464 464 0
+193 772-1 DESEC. VALEA BEICA MS 428 428 0
+194 773-1 DESEC. VALEA CERGHID MS 1.000 1.000 0
+195 774-1 DESEC. VALEA CHENDU MS 706 706 0
+196 775-1 DESEC. VALEA DOMALD MS 213 213 0
+197 776-1 DESEC. VALEA GHEGHEȘ MS 166 166 0
+198 777-1 DESEC. VALEA LUT MS 2.617 2.617 0
+199 778-1 DESEC. VALEA NADEȘ MS 2.070 2.070 0
+200 779-1 DESEC. VALEA OROI MS 150 150 0
+201 780-1 DESEC. VALEA ROUA MS 290 290 0
+202 782-1 DESEC. VALEA SĂLCUD MS 587 587 0
+203 783-1 DESEC. VALEA SENEREUS MS 103 103 0
+204 733-1 DES. BRUSTURI - RĂUCESTI NT 2.196 2.196 0
+205 744-1 DES. DULCESTI NT 99 99 0
+206 747-1 DES. MĂRGINENI NT 26 26 0
+207 767-1 DES. STEFAN CEL MARE NT 197 197 0
+208 29-1 AEI VERGULEASA OT 596 596 0
+209 298-1 DĂBULENI - POTELU OT 15.212 767 14.445
+210 793-1 DRĂGĂNESTI - BECIU OT 11.126 11.126 0
+211 914-1 NISIPURI - TIA MARE OT 6.791 6.791 0
+212 1099-1 TUFENI - GHIMPETENI OT 4.846 4.846 0
+213 1163-1 ZANOAGA - APELE VII OT 13.121 13.121 0
+214 44-1 ALBESTI - URLATI PH 1.234 1.234 0
+215 56-1 ALBESTI - VADUL PÂRULUI PH 2.886 2.886 0
+216 336-1 DUMBRAVA - DRĂGĂNESTI PH 3.206 3.206 0
+217 707-1 CRICOV - CIORANI PH 2.383 2.383 0
+218 809-1 FULGA - VALEA TOLII PH 7.217 7.217 0
+219 817-1 GHIGHIU - BOLDESTI GRĂDISTEA PH 1.371 0 1.371
+220 837-1 HATCARAU - DRĂGĂNESTI PH 813 813 0
+221 851-1 IALOMIȚA - CIORANI PH 4.223 4.223 0
+222 979-1 RAFOV - BĂRCĂNESTI PH 849 849 0
+223 990-1 RECEA - VIISOARA PH 5.863 5.863 0
+224 1025-1 SCÂRNAVA- BĂLĂCUTA PH 1.535 1.535 0
+225 1045-1 SIRNA TINOSU PH 644 644 0
+226 1184-1 CIORANI - ALBESTI PH 2.350 2.350 0
+227 328-1 DESEC. GRAVIT. VALEA HÂRTIBACIULUI SB 2.950 2.611 339
+228 729-1 DESEC. GRAVIT. AVRIG - SCOREI SB 7.245 7.245 0
+229 730-1 DESEC. GRAVIT. BAZNA - BOIAN - VELT - BLAJEL ' SB 213 213 0
+230 732-1 DESEC. GRAVIT. BROSTENI SB 45 45 0
+231 735-1 DES. GR CES BH OLT SB RACOVITĂ - SĂRATĂ SB 500 500 0
+232 740-1 DESEC. GRAVIT. CRISTIAN - POPLACA SB 2.158 2.158 0
+233 741-1 DESEC. GRAVIT. CRISTIAN - SIBIU - SURA MARE SB 2.631 2.631 0
+234 742-1 DES. GR. DEALUL OCNEI - RUSCIORI - SURA MARE ' SB 2.399 2.399 0
+235 746-1 DESEC. GRAVIT. IGHISUL VECHI SB 21 21 0
+236 748-1 DESEC. GRAVIT. MOSNA SB 112 112 0
+237 765-1 DESEC. GRAVIT. S.C.P.C.O.C. CRISTIAN SB 665 665 0
+238 766-1 DESEC. GRAVIT. SCOREI - ARPAS SB 3.682 3.682 0
+239 768-1 DESEC. GRAVIT. ȘURA MARE SB 26 26 0
+240 784-1 DESEC. GRAVIT. VISA SB 800 800 0
+241 932-1 DES. GR. PERIM. ETALON ALTÂNA - NOCRICH SB 902 902 0
+242 574-1 CES CRASNA MAL STÂNG SJ 300 300 0
+243 781-1 DESECARE VALEA SĂLAJULUI SJ 1.900 1.900 0
+244 703-1 CRASNA MAL STÂNG SM 27.502 11.116 16.386
+245 1058-1 SOMEȘ - CRASNA SM 38.317 0 38.317
+246 1060-1 SOMEȘ MAL DREPT SM 27.417 0 27.417
+247 1084-1 TEREBEȘTI - GELU SM 6.337 108 6.229
+248 1101-1 TUR MAL STÂNG SM 9.630 0 9.630
+249 1078-1 TARNA - BATARCI SM 2.215 1.973 242
+250 418-1 BAIA - RĂDĂȘENI - FÂNTÂNA MARE SV 5.527 5.527 0
+251 452-1 BERCHISEȘTI SV 1.790 1.790 0
+252 471-1 BOGDĂNEȘTI SV 654 654 0
+253 497-1 CALAFINDEȘTI - SERBĂUTI SV 2.983 2.983 0
+254 498-1 CALAFINDEȘTI - BĂLCĂUTI - SIRET SV 3.111 3.111 0
+255 724-1 DĂNEȘTI FRĂTĂUTI SIRET SV 4.253 4.253 0
+256 789-1 DORNEȘTI - FRĂTĂUTII NOI SV 4.664 4.664 0
+257 792-1 DOTNASCA - SILIȘTEA SV 714 714 0
+258 841-1 HINTEȘTI SIMINICEA SV 628 628 0
+259 977-1 RĂDĂUTI SV 8.040 8.040 0
+260 1043-1 SIRET JUDET SUCEAVA SV 1.058 1.058 0
+261 1168-1 ZVORIȘTEA SV 568 568 0
+262 1173-1 CHILISENI - UDEȘTI SV 2.600 2.600 0
+263 856-1 IGLITA - CARCALIU TL 812 0 812
+264 876-1 LUNCA TL 500 0 500
+265 1022-1 SARINASUF TL 1.297 0 1.297
+266 165-1 ARANCA TM 55.582 0 55.582
+267 437-1 BANLOC TM 10.196 1.477 8.719
+268 443-1 BÂRZAVA MIJLOCIE TM 13.469 12.172 1.297
+269 448-1 BEGA SUPERIOARĂ TM 364 364 0
+270 449-1 BEGHEIUL VECHI - VEST TIMIȘOARA TM 10.500 0 10.500
+271 450-1 BEHELA TM 1.662 1.662 0
+272 453-1 BEREGSĂU-AMONTE TM 1.513 1.513 0
+273 466-1 BOCIAR TM 4.126 0 4.126
+274 501-1 CARACI TM 5.503 0 5.503
+275 507-1 CERNABORA - TIMIȘINA TM 8.310 2.825 5.485
+276 812-1 GALATCA TM 8.280 0 8.280
+277 842-1 HITIAȘ - COȘTEI TM 384 384 0
+278 872-1 LIVEZILE TM 5.462 0 5.462
+279 882-1 MĂNĂȘTUR - BUNEA MARE TM 94 94 0
+280 904-1 MUREȘAN TM 6.040 0 6.040
+281 915-1 NORD - LANCA - BIRDA TM 31.615 18.147 13.468
+282 925-1 PARTOȘ - GLOGONI TM 2.876 0 2.876
+283 956-1 POGONIȘ TM 11.069 5.012 6.057
+284 985-1 RĂUTI - SÂNMIHAIU GERMAN TM 5.128 0 5.128
+285 993-1 RUDNA - GIULVĂZ TM 5.643 0 5.643
+286 994-1 RIU - GLAVITA TM 8.486 8.486 0
+287 996-1 ROIGA TM 6.855 6.070 785
+288 1016-1 SANNICOLAU - SARAVALE TM 19.998 0 19.998
+289 1073-1 SUD - LANCA - BIRDA TM 9.984 0 9.984
+290 1074-1 ȘURGANI TM 7.760 2.060 5.700
+291 1081-1 ȚEBA - TIMIȘAȚ TM 28.063 0 28.063
+292 1088-1 TIMIȘUL MORT TM 19.692 0 19.692
+293 1104-1 UIVAR - PUSTINIȘ TM 5.403 0 5.403
+294 1154-1 VINGA - BILED - BEREGSĂU TM 25.530 16.907 8.623
+295 1189-1 CHECEA - JIMBOLIA TM 54.451 0 54.451
+296 446-1 BECIU - LIȚA TR 12.491 4.951 7.540
+297 1041-1 SFINȚEȘTI - VARTOAPE TR 2.989 2.989 0
+298 1046-1 SISTEM FĂUREȘTI - LALOȘU VL 1.924 1.924 0
+299 1047-1 SISTEM TREPTEANCA - CUNGREA MARE VL 455 455 0
+300 170-1 ARMENI - GOLOGANU VN 4.950 4.950 0
+301 499-1 CALIENI - NĂNEȘTI VN 11.814 5.912 5.902
+302 696-1 CORBIȚA VN 1.235 1.235 0
+303 1053-1 SLIMNIC - COȚATCU BĂLANU VN 17.460 17.460 0
+TOTAL 1.510.086 818.335 691.751
+7. Amenajări de combatere a eroziunii solului
+┌────┬─────────┬─────────────────────────────────────────────────────────┬─────────┬──────────┐ │Nr. │
+Cod
+│
+Denumire amenajare
+│ Județul │Capacități│ │crt.│amenajare│
+│
+│ CES [ha] │ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 1 │ 451-1 │CES BENIC - CRAIVA
+│
+AB
+│
+159│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 2 │ 514-1 │CES ALBA IULIA
+│
+AB
+│
+3.509│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 3 │ 706-1 │CES CRICĂU
+│
+AB
+│
+40│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 4 │ 819-1 │CES GÂMBAȘ - MEȘCREAC
+│
+AB
+│
+1.352│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 5 │ 864-1 │CES JIDVEI - BLAJ
+│
+AB
+│
+3.023│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 6 │ 879-1 │CES MĂGINA - AIUD
+│
+AB
+│
+550│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 7 │ 894-1 │CES MIRĂSLĂU
+│
+AB
+│
+31│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 8 │ 917-1 │CES OCNA MUREȘ
+│
+AB
+│
+2.544│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 9 │ 926-1 │CES PÂRVA - PETRISAT
+│
+AB
+│
+360│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 10 │ 940-1 │CES PETRISAT - PĂNADE
+│
+AB
+│
+361│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 11 │ 941-1 │CES PIANU DE JOS
+│
+AB
+│
+23│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 12 │ 1010-1 │CES SÂNMICLĂUȘ - CRĂIEȘTI
+│
+AB
+│
+1.163│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 13 │ 1011-1 │CES SĂNMICLĂUȘ - PĂNADE
+│
+AB
+│
+2.915│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 14 │ 1018-1 │CES SÂNTIMBRU - BĂRĂBANȚ
+│
+AB
+│
+180│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 15 │ 1028-1 │CES SEBEȘ - CUNȚA
+│
+AB
+│
+392│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 16 │ 1029-1 │CES SEBEȘ - SĂSCIORI
+│
+AB
+│
+1.000│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 17 │ 1066-1 │CES SPINOASA - GREABĂN
+│
+AB
+│
+552│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 18 │ 1125-1 │CES VALEA LUNGĂ
+│
+AB
+│
+556│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 19 │ 178-1 │B.H. ARGEȘ
+│
+AG
+│
+8.662│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 20 │ 179-1 │B.H. ARGEȘEL
+│
+AG
+│
+4.947│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 21 │ 187-1 │B.H. BASCOV
+│
+AG
+│
+2.428│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 22 │ 189-1 │B.H. BRATIA
+│
+AG
+│
+6.800│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 23 │ 190-1 │B.H. CĂLINEȘTI
+│
+AG
+│
+475│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 24 │ 214-1 │B.H. CARCINOV
+│
+AG
+│
+5.615│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 25 │ 239-1 │B.H. DÂMBOVIȚA
+│
+AG
+│
+5.511│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 26 │ 245-1 │B.H. DOAMNEI
+│
+AG
+│
+6.947│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 27 │ 256-1 │B.H. IZVORANI
+│
+AG
+│
+147│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 28 │ 305-1 │B.H. ȘTEFĂNEȘTI
+│
+AG
+│
+341│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 29 │ 308-1 │B.H. TÂRGULUI
+│
+AG
+│
+11.195│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 30 │ 325-1 │B.H. TOPOLOG
+│
+AG
+│
+4.716│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 31 │ 358-1 │B.H. VĂLENI
+│
+AG
+│
+781│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 32 │ 360-1 │B.H. VÂLSAN
+│
+AG
+│
+7.423│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 33 │ 395-1 │B.H. VRĂNEȘTI
+│
+AG
+│
+789│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 34 │ 1334-1 │B.H. VEDIȚA CES
+│
+AG
+│
+2.138│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 35 │ 57-1
+│ALMAȘ
+│
+AR
+│
+121│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 36 │ 470-1 │VALEA BODEȘTI
+│
+AR
+│
+900│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 37 │ 715-1 │CRIȘUL ALB
+│
+AR
+│
+4.420│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 38 │ 903-1 │MUREȘ
+│
+AR
+│
+1.987│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 39 │ 907-1 │VALEA MUSTEȘTI
+│
+AR
+│
+732│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 40 │ 1176-1 │CHISINDIA
+│
+AR
+│
+703│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 41 │ 1177-1 │CHIZDIA
+│
+AR
+│
+324│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 42 │ 24-1
+│ADÂNC ȘI PANĂ
+│
+BC
+│
+341│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 43 │ 151-1 │APA NEAGRĂ
+│
+BC
+│
+2.479│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 44 │ 454-1 │BERHECI
+│
+BC
+│
+28.106│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 45 │ 459-1 │BIJGHIR
+│
+BC
+│
+470│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 46 │ 463-1 │BISTRIȚA
+│
+BC
+│
+3.307│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 47 │ 503-1 │CAȘIN
+│
+BC
+│
+52│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 48 │ 787-1 │DROBOTFOR
+│
+BC
+│
+6.913│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 49 │ 794-1 │DRAGOVA
+│
+BC
+│
+2.683│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 50 │ 897-1 │MORA
+│
+BC
+│
+607│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 51 │ 929-1 │PERESCHIV
+│
+BC
+│
+7.332│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 52 │ 959-1 │POLOCIN
+│
+BC
+│
+198│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 53 │ 972-1 │RĂCĂTĂU I
+│
+BC
+│
+5.783│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 54 │ 973-1 │RĂCĂTĂU II
+│
+BC
+│
+6.665│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 55 │ 995-1 │ROGOAZA
+│
+BC
+│
+668│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 56 │ 1044-1 │SIRET PARAVA
+│
+BC
+│
+3.491│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 57 │ 1055-1 │SOCI
+│
+BC
+│
+3.105│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 58 │ 1080-1 │TAZLĂU
+│
+BC
+│
+221│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 59 │ 1095-1 │TREBIȘ
+│
+BC
+│
+2.630│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 60 │ 1113-1 │VALEA CHISTELNIȚEI
+│
+BC
+│
+103│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 61 │ 1130-1 │VALEA MARE - FARAOANI
+│
+BC
+│
+967│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 62 │ 1131-1 │VALEA MORII
+│
+BC
+│
+4.202│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 63 │ 1164-1 │ZELETIN
+│
+BC
+│
+15.226│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 64 │ 1170-1 │BAHNA BĂLCESCU
+│
+BC
+│
+3.075│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 65 │ 339-1 │B.H. VALEA DANȚA
+│
+BH
+│
+2.890│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 66 │ 712-1 │CRIȘ REPEDE MAL DR. AVAL TILEAGD
+│
+BH
+│
+2.020│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 67 │ 713-1 │CRIȘ REPEDE MAL STG. AMONTE TILEAGD
+│
+BH
+│
+1.950│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 68 │ 727-1 │DEALURILE BIHARIEI
+│
+BH
+│
+149│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 69 │ 728-1 │DEALURILE SÂNTIMBREU
+│
+BH
+│
+225│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 70 │ 937-1 │PERIMETRU ETALON POCOLA
+│
+BH
+│
+1.506│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 71 │ 1138-1 │VALEA TĂȘAD
+│
+BH
+│
+2.439│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 72 │ 85-1
+│AMENAJ. PLANTAȚII POMI JUDEȚ
+│
+BN
+│
+1.560│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 73 │ 91-1
+│AMENAJ. PLANTAȚII VII JUDEȚ
+│
+BN
+│
+973│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 74 │ 695-1 │B.H. COMLODUL SUPERIOR
+│
+BN
+│
+10.197│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 75 │ 1165-1 │B.H. ZONA CICEU
+│
+BN
+│
+3.000│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 76 │ 422-1 │BALABANI - DIMĂCHENI
+│
+BT
+│
+625│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 77 │ 491-1 │BURLA
+│
+BT
+│
+11.500│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 78 │ 686-1 │COASTA - BURLEȘTI
+│
+BT
+│
+232│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 79 │ 700-1 │COZANCEA
+│
+BT
+│
+3.535│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 80 │ 717-1 │CUCORĂNI - BOTOȘANI
+│
+BT
+│
+5.147│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 81 │ 791-1 │DOROHOI - DAVIDOAIA
+│
+BT
+│
+4.905│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 82 │ 854-1 │IBĂNEASA
+│
+BT
+│
+5.317│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 83 │ 865-1 │JIJIA DOROHOI - UNGURENI
+│
+BT
+│
+4.679│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 84 │ 866-1 │JIJIA SUPERIOARĂ
+│
+BT
+│
+13.269│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 85 │ 900-1 │MORIȘCA
+│
+BT
+│
+11.302│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 86 │ 954-1 │PODRIGA
+│
+BT
+│
+9.559│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 87 │ 960-1 │POMI AVRĂMENI
+│
+BT
+│
+292│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 88 │ 961-1 │POMI FRUMUȘICA
+│
+BT
+│
+670│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 89 │ 962-1 │POMI RĂCHIȚI
+│
+BT
+│
+324│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 90 │ 963-1 │POMI VORONA
+│
+BT
+│
+253│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 91 │ 1048-1 │SITNA
+│
+BT
+│
+5.087│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 92 │ 1068-1 │STĂUCENI - SILIȘTEA
+│
+BT
+│
+408│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 93 │ 1083-1 │TERASE ALBEȘTI
+│
+BT
+│
+731│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 94 │ 1141-1 │VALEA VIILOR
+│
+BT
+│
+163│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 95 │ 1151-1 │VII BĂLUȘENI
+│
+BT
+│
+306│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 96 │ 836-1 │HÂRTIBACIU SUPERIOR
+│
+BV
+│
+3.622│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 97 │ 930-1 │PERIMETRU ETALON APAȚA
+│
+BV
+│
+1.451│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 98 │ 946-1 │PLANTAȚII POMI ȘOARȘ
+│
+BV
+│
+235│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 99 │ 964-1 │POMI ZĂRNEȘTI
+│
+BV
+│
+50│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │100 │ 1013-1 │SÂMPETRU APAȚA MAL DR.
+│
+BV
+│
+441│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │101 │ 1014-1 │SÂMPETRU APAȚA MAL STG.
+│
+BV
+│
+2.328│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │102 │ 1027-1 │SCROAFA BUNEȘTI
+│
+BV
+│
+3.500│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │103 │ 1065-1 │ȘONA - HĂLMEAG TICUȘ
+│
+BV
+│
+1.426│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │104 │ 1077-1 │TÂRLUNG
+│
+BV
+│
+4.310│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │105 │ 1155-1 │VÂRGHIȘ AUGUSTIN
+│
+BV
+│
+1.056│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │106 │ 423-1 │BĂLĂNEASA
+│
+BZ
+│
+10.103│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │107 │ 465-1 │BLĂJANCA
+│
+BZ
+│
+1.292│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │108 │ 481-1 │BREAZA JUD. BUZĂU
+│
+BZ
+│
+790│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │109 │ 725-1 │DARA
+│
+BZ
+│
+108│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │110 │ 905-1 │MURGEȘTI
+│
+BZ
+│
+287│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │111 │ 913-1 │NIȘCOV - SĂRATA
+│
+BZ
+│
+2.757│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │112 │ 943-1 │PÂRSCOV
+│
+BZ
+│
+2.167│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │113 │ 1020-1 │SĂRĂȚEL
+│
+BZ
+│
+8.429│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │114 │ 1049-1 │SLĂNIC - VERSANT DREPT
+│
+BZ
+│
+2.410│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │115 │ 1050-1 │SLĂNIC - VERSANT STÂNG
+│
+BZ
+│
+3.157│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │116 │ 1093-1 │TOHĂNEANCA
+│
+BZ
+│
+1.037│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │117 │ 1116-1 │VALEA CU DRUM
+│
+BZ
+│
+181│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │118 │ 1174-1 │CHIOJDU
+│
+BZ
+│
+1.855│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │119 │ 1178-1 │CÂLNĂU
+│
+BZ
+│
+8.926│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │120 │ 1180-1 │CÂMPULUNGEANCA
+│
+BZ
+│
+1.180│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │121 │ 1186-1 │CISLĂU
+│
+BZ
+│
+386│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │122 │ 158-1 │AMENAJ. PLANT. POMICOLE CASEI
+│
+CJ
+│
+108│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │123 │ 159-1 │AMENAJ. PLANT. POMICOLE ÎNFRĂȚIREA CLUJ
+│
+CJ
+│
+96│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │124 │ 160-1 │AMENAJ. PLANT. POMICOLE MICA
+│
+CJ
+│
+273│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │125 │ 161-1 │AMENAJ. PLANT. POMICOLE ORAȘ HUEDIN
+│
+CJ
+│
+172│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │126 │ 162-1 │AMENAJ. PLANT. POMICOLE PLĂIEȘTI
+│
+CJ
+│
+253│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │127 │ 163-1 │AMENAJ. PLANT. POMICOLE RECEA CRISTUR
+│
+CJ
+│
+100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │128 │ 164-1 │AMENAJ. PLANT. POMICOLE RUGĂSEȘTI
+│
+CJ
+│
+128│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │129 │ 509-1 │CES AGHIREȘ NADĂȘ IZVOARE
+│
+CJ
+│
+2.515│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │130 │ 510-1 │CES AGÂRBICIU
+│
+CJ
+│
+889│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │131 │ 525-1 │CES AMENAJ. PLANT. VITICOLE MIHAI VITEAZU
+│
+CJ
+│
+102│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │132 │ 526-1 │CES AȘCHILEU
+│
+CJ
+│
+244│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │133 │ 548-1 │CES BECAȘ
+│
+CJ
+│
+1.750│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │134 │ 549-1 │CES BEDECIU
+│
+CJ
+│
+1.265│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │135 │ 553-1 │CES BOBÂLNA - DEJ
+│
+CJ
+│
+493│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │136 │ 564-1 │CES CĂPUȘUL MARE
+│
+CJ
+│
+3.254│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │137 │ 566-1 │CES CHINTENI
+│
+CJ
+│
+3.703│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │138 │ 567-1 │CES CLUJ NORD
+│
+CJ
+│
+435│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │139 │ 568-1 │CES CODOR - JICHIȘ
+│
+CJ
+│
+1.814│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │140 │ 578-1 │CES DEALUL FELEACULUI
+│
+CJ
+│
+513│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │141 │ 582-1 │CES FEIURD INFERIOR
+│
+CJ
+│
+2.120│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │142 │ 583-1 │CES FEIURD SUPERIOR
+│
+CJ
+│
+4.112│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │143 │ 584-1 │CES FÎNEAȚA VACILOR
+│
+CJ
+│
+2.370│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │144 │ 585-1 │CES FLOREȘTI - GÂRBĂU
+│
+CJ
+│
+1.987│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │145 │ 587-1 │CES GĂDĂLIN SUPERIOR
+│
+CJ
+│
+6.215│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │146 │ 607-1 │CES JICHIȘ - BUNEȘTI
+│
+CJ
+│
+3.347│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │147 │ 608-1 │CES JUCU - RĂSCRUCI
+│
+CJ
+│
+1.370│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │148 │ 609-1 │CES LEGHIA - NADĂȘ
+│
+CJ
+│
+1.830│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │149 │ 610-1 │CES MACĂU - INUC
+│
+CJ
+│
+2.832│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │150 │ 611-1 │CES MĂRĂLOIU SUPERIOR
+│
+CJ
+│
+4.450│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │151 │ 612-1 │CES MURĂTORI
+│
+CJ
+│
+1.572│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │152 │ 614-1 │CES MICEȘTI
+│
+CJ
+│
+1.184│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │153 │ 616-1 │CES NADĂȘ - MERA
+│
+CJ
+│
+1.000│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │154 │ 617-1 │CES NIMA - BUNEȘTI
+│
+CJ
+│
+735│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │155 │ 619-1 │CES PĂNICENI
+│
+CJ
+│
+1.118│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │156 │ 621-1 │CES PERIMETRU ETALON TURDA
+│
+CJ
+│
+2.000│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │157 │ 623-1 │CES PETRIND - RUGINOASA
+│
+CJ
+│
+652│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │158 │ 631-1 │CES POPEȘTI
+│
+CJ
+│
+2.600│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │159 │ 637-1 │CES STAȚ. DIDACTICĂ EXPERIM. CLUJ
+│
+CJ
+│
+210│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │160 │ 644-1 │CES ȘOIMENI - BUDEI
+│
+CJ
+│
+2.782│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │161 │ 645-1 │CES SOMEȘ MAL DREPT
+│
+CJ
+│
+3.502│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │162 │ 646-1 │CES SOMEȘ MAL STÂNG
+│
+CJ
+│
+2.100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │163 │ 649-1 │CES SUCEAG
+│
+CJ
+│
+2.231│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │164 │ 652-1 │CES TOCBEȘTI
+│
+CJ
+│
+2.910│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │165 │ 654-1 │CES TUREA - BĂGARA
+│
+CJ
+│
+2.861│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │166 │ 661-1 │CES VALEA BORȘEI - CRISTOREL
+│
+CJ
+│
+4.452│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │167 │ 662-1 │CES VALEA BORȘEI - FUNDĂTURA
+│
+CJ
+│
+1.876│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │168 │ 664-1 │CES VALEA CĂIANULUI
+│
+CJ
+│
+3.110│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │169 │ 665-1 │CES VALEA CALDĂ
+│
+CJ
+│
+2.838│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │170 │ 667-1 │CES VALEA COJOCNEI
+│
+CJ
+│
+2.561│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │171 │ 669-1 │CES VALEA MARE ȘARD - NĂDĂȘEL
+│
+CJ
+│
+2.510│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │172 │ 670-1 │CES VALEA MIHĂIEȘTI - SUMURDUC
+│
+CJ
+│
+1.939│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │173 │ 671-1 │CES VALEA RACILOR INF. + MIJLOCIU
+│
+CJ
+│
+2.999│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │174 │ 672-1 │CES VALEA RACILOR SUPERIOR
+│
+CJ
+│
+3.070│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │175 │ 674-1 │CES VALEA TIFREI - TOPA
+│
+CJ
+│
+3.648│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │176 │ 676-1 │CES VALEA ZAPODIEI
+│
+CJ
+│
+3.181│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │177 │ 679-1 │CES VIIȘOARA - TRITENI
+│
+CJ
+│
+200│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │178 │ 680-1 │CES VIȘTEA - GÂRBĂU
+│
+CJ
+│
+2.083│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │179 │ 693-1 │COMPLETĂRI CES VALEA MARE
+│
+CJ
+│
+165│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │180 │ 1097-1 │TRITENI COLONIE
+│
+CJ
+│
+239│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │181 │ 639-1 │CES SÂNCRAIUL ALMAȘULUI
+│ CJ + SJ │
+3.684│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │182 │ 462-1 │BISTRA POIANA MĂRULUI
+│
+CS
+│
+860│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │183 │ 868-1 │MOLDOVA - BELOBREȘCA
+│
+CS
+│
+4.007│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │184 │ 899-1 │MORAVIȚA SUPERIOARĂ
+│
+CS
+│
+1.578│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │185 │ 1149-1 │VERMEȘ
+│
+CS
+│
+826│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │186 │ 1150-1 │VICINIC
+│
+CS
+│
+3.200│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │187 │ 918-1 │OJDULA
+│
+CV
+│
+536│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │188 │ 150-1 │ANINOASA DOICEȘTI
+│
+DB
+│
+109│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │189 │ 708-1 │CRICOVUL DULCE
+│
+DB
+│
+91│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │190 │ 875-1 │LUDEȘTI
+│
+DB
+│
+760│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │191 │ 906-1 │MUSCEL
+│
+DB
+│
+1.574│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │192 │ 942-1 │PICIOR DE MUNTE
+│
+DB
+│
+512│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │193 │ 966-1 │POTOPU PERIM. II
+│
+DB
+│
+714│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │194 │ 967-1 │POTOPU PERIM. III
+│
+DB
+│
+1.617│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │195 │ 968-1 │POTOPU PERIM. IV
+│
+DB
+│
+1.878│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │196 │ 970-1 │PUCIOASA
+│
+DB
+│
+1.553│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │197 │ 983-1 │RÂUL ALB
+│
+DB
+│
+861│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │198 │ 1123-1 │VALEA LARGĂ
+│
+DB
+│
+1.600│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │199 │ 1124-1 │VALEA LARGĂ - AVAL PUCHENI
+│
+DB
+│
+25│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │200 │ 1129-1 │VALEA MARE - DÂMBOVIȚA
+│
+DB
+│
+131│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │201 │ 1134-1 │VALEA PREOTESEI
+│
+DB
+│
+397│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │202 │ 1140-1 │VALEA TUNULUI
+│
+DB
+│
+210│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │203 │ 141-1 │AMARADIA
+│
+DJ
+│
+6.733│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │204 │ 168-1 │ARGETOAIA
+│
+DJ
+│
+7.664│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │205 │ 494-1 │CĂCIULATU
+│
+DJ
+│
+83│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │206 │ 685-1 │CIUTURA
+│
+DJ
+│
+230│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │207 │ 816-1 │GEMARTALUI
+│
+DJ
+│
+10.387│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │208 │ 821-1 │GIOROC
+│
+DJ
+│
+152│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │209 │ 846-1 │HOREZU JUD. DOLJ
+│
+DJ
+│
+3.960│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │210 │ 867-1 │JIUL MIJLOCIU
+│
+DJ
+│
+5.552│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │211 │ 933-1 │PERIMETRU ETALON DOLJ
+│
+DJ
+│
+388│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │212 │ 953-1 │PLOSCA
+│
+DJ
+│
+3.211│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │213 │ 1167-1 │ZONA OLTCIT
+│
+DJ
+│
+292│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │214 │ 519-1 │CES AMARADIA MIJLOCIE
+│
+GJ
+│
+5.302│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │215 │ 520-1 │CES AMARADIA SEACĂ - MUȘETEȘTI
+│
+GJ
+│
+2.028│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │216 │ 521-1 │CES AMARADIA SUPERIOARĂ
+│
+GJ
+│
+6.393│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │217 │ 522-1 │CES AMĂRĂZUIA
+│
+GJ
+│
+2.450│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │218 │ 527-1 │CES B.H. BLAHNIȚA
+│
+GJ
+│
+5.618│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │219 │ 530-1 │CES B.H. AMARADIA SEACĂ - BĂLĂNEȘTI
+│
+GJ
+│
+2.223│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │220 │ 534-1 │CES BISTRIȚA - JALEȘ - ȘUȘIȚA
+│
+GJ
+│
+5.293│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │221 │ 536-1 │CES B.H. GILORT - CIOCADIA
+│
+GJ
+│
+2.093│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │222 │ 556-1 │CES BRĂNEȘTI - PLOPȘORU
+│
+GJ
+│
+1.308│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │223 │ 557-1 │CES BORĂSCU - TURCENI
+│
+GJ
+│
+3.164│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │224 │ 560-1 │CES BRĂNEȘTI
+│
+GJ
+│
+350│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │225 │ 577-1 │CES DEALUL BĂNCII - SCPP
+│
+GJ
+│
+65│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │226 │ 590-1 │CES GALBENU - CÂLNIC
+│
+GJ
+│
+4.157│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │227 │ 596-1 │CES IAȘI - BUDIENI
+│
+GJ
+│
+2.924│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │228 │ 622-1 │CES PEȘTIȘANI
+│
+GJ
+│
+200│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │229 │ 627-1 │CES PLOSCA
+│
+GJ
+│
+1.003│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │230 │ 630-1 │CES POMI DRĂGUȚEȘTI
+│
+GJ
+│
+238│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │231 │ 641-1 │CES SLĂVUȚA
+│
+GJ
+│
+1.262│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │232 │ 643-1 │CES SOHODOL - ARCANI
+│
+GJ
+│
+110│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │233 │ 651-1 │CES TG. JIU - POLOAGA
+│
+GJ
+│
+300│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │234 │ 663-1 │CES VALEA BOULUI
+│
+GJ
+│
+1.402│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │235 │ 677-1 │CES VĂLUȚA
+│
+GJ
+│
+1.137│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │236 │ 681-1 │CES VLADIMIRI
+│
+GJ
+│
+1.810│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │237 │
+74-1 │AM. VERS. PLANT. POMI BH STREI ZONA BĂIEȘTII
+│
+HD
+│
+273│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │238 │
+79-1 │AM. VERS. PLANT. POMI BH MUREȘ ZONA DEVA
+│
+HD
+│
+365│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │239 │
+81-1 │AM. VERS. PLANT. POMI BH STREI NĂDĂȘTIE RUȘI
+│
+HD
+│
+391│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │240 │
+82-1 │AM. VERS. ÎN VEDEREA PLANT. POMI TOTEȘTI
+│
+HD
+│
+446│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │241 │
+83-1 │AM. VERS. PENTRU PLANT. POMI BH MUREȘ. V. TIEȘULUI
+│
+HD
+│
+85│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │242 │ 475-1 │CES B.H. STREI SBH LUNCANI BOȘOROD - GRID
+│
+HD
+│
+1.060│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │243 │ 694-1 │COMPL. PERIM. ETALON - CES Z. MĂRTINEȘTI - DÂCU MARE
+│
+HD
+│
+1.700│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │244 │ 699-1 │CES BH STREI ZONA COVRAGIU BUCIUM
+│
+HD
+│
+250│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │245 │ 814-1 │CES B.H. MUREȘ ZONA GEOAGIU BAMPOTOC
+│
+HD
+│
+4.000│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │246 │ 815-1 │CES B.H. MUREȘ ZONA GEOAGIU HOMOROD CIGMĂU
+│
+HD
+│
+1.954│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │247 │ 820-1 │CES B.H. STREI VERS. DR. ZONA GÂNȚAGA - COVRAGIU
+│
+HD
+│
+500│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │248 │ 833-1 │CES B.H. MUREȘ, ZONA HĂRĂU - BÂRSĂU - ȘOIMUȘ
+│
+HD
+│
+1.500│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │249 │ 838-1 │CES B.H. MUREȘ GALBENA ZONA HAȚEG - UNIREA - DENSUȘ
+│
+HD
+│
+2.815│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │250 │ 849-1 │CES B.H. CERNA ZONA HUNEDOARA HÂȘDAT
+│
+HD
+│
+1.140│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │251 │ 857-1 │CES ȘI AMENAJ. POMI ZONA ILIA SÂRBI
+│
+HD
+│
+672│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │252 │ 886-1 │CES REG. SCURG. VERS. PERIM. MĂRTINEȘTI TURDAȘI
+│
+HD
+│
+3.300│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │253 │ 934-1 │CES PERIM. ETAL. ZONA MĂRTINEȘTI JELEDINȚI BH MUREȘ
+│
+HD
+│
+2.120│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │254 │ 978-1 │CES BH MUREȘ ZONA RĂDULEȘTI DOBRA
+│
+HD
+│
+3.071│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │255 │ 982-1 │AM-VERS. PL. POMI BH MUREȘ ZONA RAPOLT GEOAGIU
+│
+HD
+│
+425│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │256 │ 992-1 │CES B.H. CRIȘUL ALB ZONA RIBIȚA - BAIA DE CRIȘ
+│
+HD
+│
+911│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │257 │ 997-1 │CES B.H. MUREȘ, SBH ROMOS ZONA ROMOȘEL
+│
+HD
+│
+863│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │258 │ 998-1 │CES B.H. MUREȘ, V. ST. SBH ROMOȘ. Z. ROMOȘ - VAIDEI
+│
+HD
+│
+1.530│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │259 │ 1017-1 │CES B.H. STREI, V. SÂNGEORGIULUI SÂNTĂMĂRIA DE PIATRĂ
+│
+HD
+│
+2.464│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │260 │ 1023-1 │CES B.H. STREI SBH GALBENA SARMISEGETUZA ZEICANI
+│
+HD
+│
+300│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │261 │ 1143-1 │CES VALEA VOINII
+│
+HD
+│
+2.159│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │262 │ 1147-1 │CES B.H. CRIȘUL ALB, ZONA BÂRTIN - VAȚA - OCIȘOR
+│
+HD
+│
+787│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │263 │ 116-1 │AMENAJ. SINEȘTI
+│
+IL
+│
+346│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │264 │ 892-1 │MILETIN JUDEȚUL IAȘI
+│
+IS
+│
+2.515│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │265 │ 911-1 │NICOLINA
+│
+IS
+│
+18.408│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │266 │ 969-1 │PRUT
+│
+IS
+│
+16.799│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │267 │ 1042-1 │SIRET JUDEȚUL IAȘI
+│
+IS
+│
+4.187│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │268 │ 1056-1 │ȘACOVĂȚ
+│
+IS
+│
+9.652│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │269 │ 182-1 │B.H. BAHLUI
+│ IS, NT │
+40.904│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │270 │ 169-1 │ARIEȘU DE PĂDURE
+│
+MM
+│
+420│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │271 │ 287-1 │B.H. SĂLAJUL INFERIOR
+│
+MM
+│
+15.025│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │272 │ 492-1 │BUTEASA VIMA COROIENI
+│
+MM
+│
+5.723│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │273 │ 804-1 │FERMA SEINI
+│
+MM
+│
+173│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │274 │ 1002-1 │STAȚ. CERCET. PLANT. POMI BAIA MARE
+│
+MM
+│
+196│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │275 │ 1109-1 │VADU IZEI
+│
+MM
+│
+130│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │276 │ 1145-1 │VĂLENII ȘOMCUȚEI
+│
+MM
+│
+155│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │277 │ 1179-1 │CÂMPULUNG LA TISA
+│
+MM
+│
+425│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │278 │ 413-1 │BABȚA
+│ MM, SM │
+3.000│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │279 │ 101-1 │AMENAJ. PLANTAȚII VITICOLE IAS SEUCA
+│
+MS
+│
+1.342│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │280 │ 117-1 │AMENAJ. TERASE PLANT. VII ȘI POMI ZAGĂR - BRETEA
+│
+MS
+│
+126│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │281 │ 122-1 │AMENAJ. TERASE PLANT. VII ȘI POMI IAS SIGHIȘOARA
+│
+│
+│ │
+│
+│Z. ȚIGMANDRU
+│
+MS
+│
+75│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │282 │ 126-1 │AMENAJ. TERASE PLANT. VII ȘI POMI IAS SIGHIȘOARA - DANEȘ │
+MS
+│
+765│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │283 │ 569-1 │CES COMLOD VERS. ST. + DR. ZONA CRĂIEȘTI - MĂDĂRAȘ
+│
+MS
+│
+12.325│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │284 │ 570-1 │CES COMLOD VERS. ST. + DR. ZONA MĂDĂRAȘ - LECHINȚA
+│
+MS
+│
+20.087│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │285 │ 597-1 │CES ÎN B.H. MUREȘ S.B.H. SĂRATA - CUCERDEA
+│
+MS
+│
+3.320│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │286 │ 598-1 │CES ÎN B.H. MUREȘ S.B.H. CERGHID - IZVOARELE - LĂSCUD
+│
+MS
+│
+2.866│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │287 │ 599-1 │CES ÎN B.H. NIRAJ AMONTE ACUM. VALEA
+│
+MS
+│
+2.629│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │288 │ 601-1 │CES ÎN B.H. TÂRNAVA MICĂ ZONA NADEȘ - CIORTOȘ
+│
+MS
+│
+3.600│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │289 │ 602-1 │CES ÎN B.H. TÂRNAVA MICĂ ZONA MICĂ - TÂRNĂVENI
+│
+MS
+│
+5.424│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │290 │ 603-1 │CES ÎN B.H. TÂRNAVA MICĂ ZONA AC. BĂLĂUȘERI
+│
+MS
+│
+6.750│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │291 │ 604-1 │CES ÎN B.H. TÂRNAVA MICĂ ZONA BĂLĂUȘERI - SUPLAC
+│
+MS
+│
+5.688│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │292 │ 605-1 │CES ÎN B.H. TÂRNAVA MICĂ ZONA SUPLAC - MICA
+│
+MS
+│
+6.010│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │293 │ 620-1 │CES PÂRÂUL DE CÂMPIE ZONA ȘESU - BOLOGA
+│
+MS
+│
+1.380│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │294 │ 416-1 │BAHNA - ROMÂNI - HOISĂȘTI - CÂNDEȘTI
+│
+NT
+│
+1.143│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │295 │ 552-1 │CES BISTRIȚA - SCHITU CEAHLĂU
+│
+NT
+│
+500│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │296 │ 555-1 │CES BOGHICEA - BÂRA
+│
+NT
+│
+4.787│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │297 │ 558-1 │CES BORLEȘTI - CÂNDEȘTI
+│
+NT
+│
+2.033│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │298 │ 576-1 │CES CUIEJDIU
+│
+NT
+│
+980│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │299 │ 586-1 │CES FUNDĂTURA
+│
+NT
+│
+1.570│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │300 │ 588-1 │CES GADINȚI - AVEREȘTI
+│
+NT
+│
+111│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │301 │ 589-1 │CES GADINȚI - POIENARI (ETALON)
+│
+NT
+│
+2.362│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │302 │ 606-1 │CES ION CREANGĂ - BĂLUȘEȘTI
+│
+NT
+│
+2.375│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │303 │ 629-1 │CES POIENARI - PANCEȘTI
+│
+NT
+│
+114│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │304 │ 632-1 │CES POTOCINA
+│
+NT
+│
+90│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │305 │ 635-1 │CES RASCA
+│
+NT
+│
+1.965│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │306 │ 636-1 │CES RECEA - ICUȘEȘTI
+│
+NT
+│
+2.501│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │307 │ 1171-1 │BĂLȚĂTEȘTI - ȚIBUCANI - BĂLĂNEȘTI
+│
+NT
+│
+816│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │308 │ 786-1 │DOBA - PLEȘOIU
+│
+OT
+│
+2.743│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │309 │ 813-1 │GEMĂRTĂLUI
+│
+OT
+│
+4.958│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │310 │ 847-1 │HOREZU JUDEȚUL OLT
+│
+OT
+│
+3.058│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │311 │ 951-1 │PLAPCEA MICĂ
+│
+OT
+│
+3.854│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │312 │ 1051-1 │SLATINA - DUNĂRE
+│
+OT
+│
+878│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │313 │ 1071-1 │STREHREȚ
+│
+OT
+│
+2.900│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │314 │ 1085-1 │TESLUI
+│
+OT
+│
+1.511│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │315 │ 1096-1 │TREPTEANCA - CIUNGREA
+│
+OT
+│
+485│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │316 │ 456-1 │BERTEA - SLĂNIC
+│
+PH
+│
+1.008│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │317 │ 472-1 │BOLDEȘTI - LIPĂNEȘTI
+│
+PH
+│
+525│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │318 │ 482-1 │BREAZA JUD. PRAHOVA
+│
+PH
+│
+528│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │319 │ 490-1 │BUDUREASA
+│
+PH
+│
+3.633│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │320 │ 504-1 │CEPTURA ROTARI
+│
+PH
+│
+1.017│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │321 │ 806-1 │FILIPEȘTII DE PĂDURE
+│
+PH
+│
+202│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │322 │ 825-1 │GLĂVANA BORDENI
+│
+PH
+│
+88│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │323 │ 861-1 │IORDĂCHEANU
+│
+PH
+│
+5.033│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │324 │ 883-1 │MÂNECIU - DUMBRĂVEȘTI
+│
+PH
+│
+5.483│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │325 │ 912-1 │NICOVANI
+│
+PH
+│
+1.007│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │326 │ 916-1 │NUCET - CĂRBUNEȘTI
+│
+PH
+│
+3.014│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │327 │ 1034-1 │SECIU PLEAȘA - CHIȚORANI
+│
+PH
+│
+1.191│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │328 │ 1070-1 │STÂMNIC - ZELETIN
+│
+PH
+│
+4.144│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │329 │ 1091-1 │TINTEA - BĂICOI
+│
+PH
+│
+152│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │330 │ 1106-1 │URLAȚI - NUCET
+│
+PH
+│
+34│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │331 │ 1107-1 │URLOI - SEMAN
+│
+PH
+│
+1.041│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │332 │ 1119-1 │VALEA DOFTANEI
+│
+PH
+│
+2.722│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │333 │ 1175-1 │CHIOJOCEANCA
+│
+PH
+│
+6.141│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │334 │ 1370-1 │AMENAJ. TER. AFECT. DE ALUNEC. ÎN ZONA TELEGA MELICEȘTI │
+PH
+│
+8│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │335 │ 1371-1 │AMENAJ. TER. AFECT. DE ALUNEC. ÎN ZONA BREAZA MĂLAELE
+│
+PH
+│
+37│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │336 │ 1372-1 │NEGRAȘ VALEA DOFTANEI
+│
+PH
+│
+30│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │337 │ 1373-1 │CORNU - LĂCȘOARE - PRAHOVA
+│
+PH
+│
+30│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │338 │ 180-1 │CES B.H. AXENTE-SEVER
+│
+SB
+│
+448│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │339 │ 183-1 │CES B.H. BALTA SUBBAZIN. BAZNA
+│
+SB
+│
+359│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │340 │ 192-1 │CES B.H. CĂPÂLNA - POIANA - DUMBRĂVENI
+│
+SB
+│
+185│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │341 │ 226-1 │CES B.H. CISNĂDIE
+│
+SB
+│
+90│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │342 │ 227-1 │CES B.H. CISNĂDIE - TOCILE
+│
+SB
+│
+254│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │343 │ 237-1 │CES B.H. CRISTIAN - ȘURA MARE - POPLACA
+│
+SB
+│
+496│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │344 │ 250-1 │CES B.H. CRISTIAN - VALEA MĂRULUI
+│
+SB
+│
+106│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │345 │ 238-1 │CES B.H. CURCIU - DÂRLOS
+│
+SB
+│
+2.215│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │346 │ 240-1 │CES B.H. DEALU DAII (S.C.Z. CRISTIAN)
+│
+SB
+│
+1.154│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │347 │ 252-1 │CES B.H. HÂRTIBACIU INFERIOR PERIM. I - V
+│
+SB
+│
+6.560│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │348 │ 255-1 │CES B.H. HÂRTIBACIU SUPERIOR PERIM. I - III
+│
+SB
+│
+13.814│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │349 │ 269-1 │CES B.H. OLT SUBBAZIN. NOUL
+│
+SB
+│
+455│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │350 │ 285-1 │CES B.H. RICHIȘ
+│
+SB
+│
+87│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │351 │ 290-1 │CES B.H. SECAȘUL MARE PERIM. I - IV
+│
+SB
+│
+3.341│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │352 │ 297-1 │CES B.H. SECAȘUL MIC SUBBAZ. PĂUCA
+│
+SB
+│
+4.252│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │353 │ 299-1 │CES B.H. SOROȘTIN
+│
+SB
+│
+40│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │354 │ 306-1 │CES B.H. TAPU
+│
+SB
+│
+115│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │355 │ 387-1 │CES B.H. VISA SUBBAZ. ALĂMOR
+│
+SB
+│
+3.283│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │356 │ 388-1 │CES B.H. VISA SUBBAZ. SLIMNIC - RUȘI
+│
+SB
+│
+4.445│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │357 │ 391-1 │CES B.H. VISA SUP. SUBBAZIN RÂURA
+│
+SB
+│
+4.500│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │358 │ 403-1 │CES B.H. ZĂVOI
+│
+SB
+│
+493│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │359 │ 512-1 │CES AGRIJUL MIJLOCIU
+│
+SJ
+│
+7.434│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │360 │ 513-1 │CES AGRIJUL SUPERIOR
+│
+SJ
+│
+6.928│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │361 │ 516-1 │CES ALMAȘ MEȘTEREAGA
+│
+SJ
+│
+280│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │362 │ 517-1 │CES ALMAȚ PETRINDU RUGINOASA
+│
+SJ
+│
+2.040│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │363 │ 518-1 │CES ALMAȘUL SUPERIOR
+│
+SJ
+│
+7.690│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │364 │ 523-1 │CES APĂRARE ORAȘ ZALĂU
+│
+SJ
+│
+2.130│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │365 │ 546-1 │CES BARCĂUL SUPERIOR
+│
+SJ
+│
+5.463│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │366 │ 547-1 │CES BARCĂU VALCĂU FIZEȘ
+│
+SJ
+│
+120│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │367 │ 550-1 │CES BERCEA SÂNTĂMĂRIE
+│
+SJ
+│
+350│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │368 │ 575-1 │CES CRASNA VÂRȘOLȚ ȘIMLEU
+│
+SJ
+│
+4.127│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │369 │ 579-1 │CES DOBRIN CRIȘENI
+│
+SJ
+│
+40│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │370 │ 591-1 │CES GÂRBOU CERNUC
+│
+SJ
+│
+2.526│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │371 │ 626-1 │CES PLANT. VIE IAS ZALĂU
+│
+SJ
+│
+105│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │372 │ 638-1 │CES SĂLAJUL SUPERIOR
+│
+SJ
+│
+12.684│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │373 │ 640-1 │CES STAȚ. CERCET. PLANT. POMI ZALĂU
+│
+SJ
+│
+817│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │374 │ 657-1 │CES V. SOMEȘ CORMENIȘ TIHĂU
+│
+SJ
+│
+5.610│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │375 │ 658-1 │CES V. SOMEȘ DOBROCINA NEGRENI
+│
+SJ
+│
+3.290│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │376 │ 660-1 │CES VALEA AURIE
+│
+SJ
+│
+376│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │377 │ 666-1 │CES VALEA CIUMĂRNA
+│
+SJ
+│
+45│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │378 │ 936-1 │PERIMETRU ETALON MESEȘENI
+│
+SJ
+│
+2.100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │379 │ 485-1 │BROȘTENI - DRĂGUȘENI
+│
+SV
+│
+1.800│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │380 │ 496-1 │CALAFINDEȘTI - BĂLCĂUȚI SIRET
+│
+SV
+│
+316│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │381 │ 788-1 │DOLHASCA
+│
+SV
+│
+3.681│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │382 │ 790-1 │DORNEȘTI - FRĂTĂUȚII NOI SIRET
+│
+SV
+│
+612│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │383 │ 840-1 │HATIA
+│
+SV
+│
+2.088│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │384 │ 858-1 │ILISASCA
+│
+SV
+│
+6.454│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │385 │ 871-1 │LISAURA - LITENI
+│
+SV
+│
+3.511│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │386 │ 874-1 │LUCINA
+│
+SV
+│
+1.336│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │387 │ 888-1 │MEDIASCA
+│
+SV
+│
+2.104│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │388 │ 948-1 │PLANTAȚII FÂNTÂNELE
+│
+SV
+│
+100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │389 │ 949-1 │PLANTAȚII POMI DOLHEȘTI
+│
+SV
+│
+55│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │390 │ 950-1 │PLANTAȚII POMI MEREȘTI CANDAC
+│
+SV
+│
+100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │391 │ 952-1 │PLATONIȚA
+│
+SV
+│
+251│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │392 │ 975-1 │RĂDĂȘENI I
+│
+SV
+│
+467│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │393 │ 976-1 │RĂDĂȘENI II
+│
+SV
+│
+30│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │394 │ 1036-1 │SERBĂUȚI - CALAFINDEȘTI
+│
+SV
+│
+782│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │395 │ 1057-1 │SOLONEȚ
+│
+SV
+│
+8.988│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │396 │ 1063-1 │ȘOMUZU MARE
+│
+SV
+│
+25.450│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │397 │ 1064-1 │ȘOMUZU MIC
+│
+SV
+│
+9.430│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │398 │ 1162-1 │VULTUREȘTI
+│
+SV
+│
+792│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │399 │ 1169-1 │ZVORIȘTEA - ZAMOSTEA
+│
+SV
+│
+4.325│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │400 │ 457-1 │BEȘTEPE
+│
+TL
+│
+203│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │401 │ 726-1 │DEALUL SOMOVA
+│
+TL
+│
+243│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │402 │ 921-1 │OSTROV - PECINEAGA
+│
+TL
+│
+1.723│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │403 │ 938-1 │PERIMETRU ETALON TULCEA
+│
+TL
+│
+2.129│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │404 │ 1052-1 │SLAVA
+│
+TL
+│
+7.066│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │405 │ 1082-1 │TELIȚA
+│
+TL
+│
+3.295│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │406 │ 1108-1 │VĂCĂRENI - LUNCAVIȚA
+│
+TL
+│
+1.358│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │407 │ 799-1 │FADIMAC - CLADOVA
+│
+TM
+│
+4.771│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │408 │ 935-1 │PERIMETRU ETALON LUGOJ
+│
+TM
+│
+720│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │409 │
+60-1 │AMENAJ. ANTIEROZIONALĂ ASCH DRĂGĂȘANI
+│
+VL
+│
+20│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │410 │
+70-1 │AMENAJ. CAP CĂLIMĂNEȘTI
+│
+VL
+│
+30│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │411 │
+71-1 │AMENAJ. CAP SCUNDU
+│
+VL
+│
+190│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │412 │
+72-1 │AMENAJ. PĂȘUNE TISA
+│
+VL
+│
+150│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │413 │
+73-1 │AMENAJ. PLANT. POMI B.H. TĂRÂIA - MATEEȘTI
+│
+VL
+│
+235│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │414 │
+76-1 │AMENAJ. PLANT. POMI CAP BERBEȘTI
+│
+VL
+│
+456│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │415 │
+77-1 │AMENAJ. PLANT. POMI CAP LIVEZI
+│
+VL
+│
+470│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │416 │
+78-1 │AMENAJ. PLANT. POMI CAP SINEȘTI
+│
+VL
+│
+266│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │417 │
+80-1 │AMENAJ. PLANT. POMI MOSOROASA
+│
+VL
+│
+385│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │418 │
+84-1 │AMENAJ. PLANT. VII CERNA - FÂRTĂȚEȘTI
+│
+VL
+│
+700│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │419 │ 133-1 │AMENAJ. VII IAS DRĂGĂȘANI - MITROFANI
+│
+VL
+│
+820│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │420 │ 135-1 │AMENAJ. VII IAS DRĂGĂȘANI DEALU OLT
+│
+VL
+│
+223│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │421 │ 136-1 │AMENAJ. VII IAS DRĂGĂȘANI PRUNDENI
+│
+VL
+│
+437│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │422 │ 137-1 │AMENAJ. VII SCPVV DRĂGĂȘANI JIBLEA
+│
+VL
+│
+87│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │423 │ 138-1 │AMENAJ. VII STAȚIUNEA VITICOLĂ DRĂGĂȘANI
+│
+VL
+│
+104│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │424 │ 171-1 │ASOCIAȚIA POMICOLĂ BĂLCEȘTI
+│
+VL
+│
+355│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │425 │ 172-1 │ASOCIAȚIA POMICOLĂ CREȚENI
+│
+VL
+│
+360│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │426 │ 188-1 │B.H. BOISOARA
+│
+VL
+│
+180│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │427 │ 228-1 │B.H. COISCA
+│
+VL
+│
+150│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │428 │ 251-1 │B.H. GOVORA
+│
+VL
+│
+4.158│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │429 │ 257-1 │B.H. OLĂNEȘTI
+│
+VL
+│
+3.998│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │430 │ 270-1 │B.H. OLTEȚ - MAL STG. LALOȘU - BĂBENI
+│
+VL
+│
+1.518│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │431 │ 301-1 │B.H. STANEASCA
+│
+VL
+│
+340│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │432 │ 382-1 │ASOCIAȚIA POMICOLĂ BĂBENI
+│
+VL
+│
+345│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │433 │ 386-1 │B.H. OLANU DRĂGOIEȘTI
+│
+VL
+│
+100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │434 │ 528-1 │CES B.H. ACUMULARE DAEȘTI
+│
+VL
+│
+1.113│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │435 │ 529-1 │CES B.H. ACUM. RÂMNICU VÂLCEA
+│
+VL
+│
+1.730│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │436 │ 531-1 │CES B.H. ANINOASA - BEROIOIU
+│
+VL
+│
+1.353│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │437 │ 533-1 │CES B.H. BISTRIȚA
+│
+VL
+│
+7.072│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │438 │ 535-1 │CES B.H. CERNA
+│
+VL
+│
+3.720│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │439 │ 537-1 │CES B.H. LUNCAVĂȚ
+│
+VL
+│
+7.076│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │440 │ 538-1 │CES B.H. OLTEȚ
+│
+VL
+│
+515│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │441 │ 539-1 │CES B.H. OLTEȚ SUBBAZINUL HOREZU
+│
+VL
+│
+2.334│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │442 │ 540-1 │CES B.H. OLTEȚUL MIJLOCIU
+│
+VL
+│
+11.419│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │443 │ 541-1 │CES B.H. PÂRÂUL SĂRAT
+│
+VL
+│
+500│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │444 │ 542-1 │CES B.H. PESCEANA
+│
+VL
+│
+850│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │445 │ 543-1 │CES B.H. ȘIRINEASA - ORLEȘTI
+│
+VL
+│
+1.254│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │446 │ 544-1 │CES B.H. TOPOLOGUL INFERIOR
+│
+VL
+│
+3.493│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │447 │ 545-1 │CES B.H. TREPTEANCA - CUNGREA M.
+│
+VL
+│
+913│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │448 │ 561-1 │CES BUCȘANI CIOROIU
+│
+VL
+│
+4.075│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │449 │ 691-1 │COMPLETĂRI CES BĂBENI - MIHĂEȘTI
+│
+VL
+│
+729│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │450 │ 692-1 │COMPLETĂRI CES BĂLCEȘTI - IRIMEȘTI
+│
+VL
+│
+303│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │451 │ 895-1 │MODERNIZĂRI VII LA STAȚIUNEA DRĂGĂȘANI
+│
+VL
+│
+40│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │452 │ 931-1 │PERIMETRUL ETALON CHEIA
+│
+VL
+│
+10│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │453 │ 945-1 │PLANTAȚIE POMI RÂMNICU VÂLCEA
+│
+VL
+│
+162│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │454 │ 947-1 │PLANT. VII IAS DRĂGĂȘANI - GUȘOIENI
+│
+VL
+│
+224│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │455 │ 1172-1 │B.H. VERDEA - MITROFANI
+│
+VL
+│
+140│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │456 │ 551-1 │CES BERHECI III
+│
+VN
+│
+3.876│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │457 │ 562-1 │CES BURCA - VIDRA
+│
+VN
+│
+100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │458 │ 565-1 │CES CÂRLIGELE
+│
+VN
+│
+483│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │459 │ 571-1 │CES COPĂCEȘTI
+│
+VN
+│
+577│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │460 │ 581-1 │CES DUMITREȘTI - CHIOJDENI
+│
+VN
+│
+1.078│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │461 │ 594-1 │CES HOMOCEA
+│
+VN
+│
+1.618│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │462 │ 613-1 │CES MERA - REGHIU
+│
+VN
+│
+100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │463 │ 618-1 │CES ODOBEȘTI - COTEȘTI
+│
+VN
+│
+7.557│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │464 │ 628-1 │CES PLOSCUȚENI
+│
+VN
+│
+2.187│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │465 │ 633-1 │CES RÂMNA MIJLOCIE
+│
+VN
+│
+924│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │466 │ 634-1 │CES RÂMNICU-SĂRAT
+│
+VN
+│
+1.278│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │467 │ 642-1 │CES SLIMNICU - COȚATCU
+│
+VN
+│
+1.953│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │468 │ 647-1 │CES STRĂOANE
+│
+VN
+│
+100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │469 │ 648-1 │CES STURZA
+│
+VN
+│
+5.735│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │470 │ 650-1 │CES TĂNĂSOAIA
+│
+VN
+│
+402│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │471 │ 656-1 │CES URECHEȘTI
+│
+VN
+│
+1.022│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │472 │ 673-1 │CES VALEA SĂRII
+│
+VN
+│
+600│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │473 │ 682-1 │CES ZĂBRĂUȚI - PUTNA
+│
+VN
+│
+9.200│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │474 │ 683-1 │CES ZĂBRĂUȚI - TROTUȘ
+│
+VN
+│
+10.201│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │475 │ 684-1 │CES ZELETIN IX
+│
+VN
+│
+2.797│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │476 │ 335-1 │B.H. TUTOVA SUPERIOARĂ
+│ VS, BC, │
+21.089│ │
+│
+│
+│
+NT
+│
+│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │477 │ 532-1 │CES B.H. BÂRLAD
+│ VS, IS │
+69.280│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │478 │ 678-1 │CES VASLUIEȚ
+│ VS, IS │
+44.611│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │479 │ 702-1 │CRASNA
+│ VS, IS │
+26.138│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │480 │ 488-1 │BUDA
+│
+VS
+│
+3.384│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │481 │ 515-1 │CES ALBIȚA - FĂLCIU
+│
+VS
+│
+7.839│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │482 │ 848-1 │HORINCEA
+│
+VS
+│
+4.783│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │483 │ 855-1 │IDRICI
+│
+VS
+│
+1.464│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │484 │ 974-1 │RACOVA
+│
+VS
+│
+22.848│ ├────┴─────────┴─────────────────────────────────────────────────────────┴─────────┼──────────┤ │
+TOTAL
+│ 1.419.087│ └──────────────────────────────────────────────────────────────────────────────────┴──────────┘
+8. Suprafețe apărute prin îndiguire și prin baraje de atenuare a viiturilor
+┌────┬─────────┬─────────────────────────────────────────────────────────┬─────────┬──────────┐ │Nr. │
+Cod
+│
+Denumire amenajare
+│ Județul │Suprafața │ │crt.│amenajare│
+│
+│ apărată │ │
+│
+│
+│
+│
+[ha]
+│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 1 │ 922-1 │DESECARE CU POMPARE PĂCLIȘA
+│
+AB
+│
+247│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 2 │ 924-1 │DESECARE CU POMPARE PARTOȘ
+│
+AB
+│
+403│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 3 │ 17-1
+│MUREȘ MAL DREPT
+│
+AR
+│
+2.939│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 4 │ 20-1
+│TEUZ
+│
+AR
+│
+53.870│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 6 │ 22-1
+│CHIJER POGANIR
+│
+AR
+│
+17.008│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 6 │ 23-1
+│CIGER
+│
+AR
+│
+9.902│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 7 │ 26-1
+│HANIOȘ VĂRȘAND
+│
+AR
+│
+23.167│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 8 │ 27-1
+│PIL VĂRȘAND
+│
+AR
+│
+3.402│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 9 │ 689-1 │COLECTOR ORADEA
+│
+AR
+│
+417│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 10 │ 832-1 │GUT
+│
+AR
+│
+3.809│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 11 │ 859-1 │INEU BOCSIG
+│
+AR
+│
+550│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 12 │ 506-1 │CERMEI TĂUT
+│ AR, BH │
+5.341│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 13 │ 919-1 │ONIȘCANI SECUIENI
+│ BC, NT │
+2.714│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 14 │ 61-1
+│CANAL COLECTOR ML. STG. INAND
+│
+BH
+│
+18.345│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 15 │ 68-1
+│CANAL COLECTOR ML. DR. CEFA
+│
+BH
+│
+44.618│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 16 │ 439-1 │BARCĂU MAL DREPT, AVAL SĂLARD
+│
+BH
+│
+2.612│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 17 │ 441-1 │BARCĂU MAL STÂNG, AVAL SĂLARD
+│
+BH
+│
+4.643│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 18 │ 709-1 │CRIȘ REPEDE ML. DR. AMONTE ORADEA
+│
+BH
+│
+1.840│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 19 │ 711-1 │CRIȘ REPEDE ML. DR. AVAL ORADEA
+│
+BH
+│
+5.377│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 20 │ 1122-1 │VALEA IERULUI
+│ BH, SM │
+44.454│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 21 │ 104-1 │INSULA MARE A BRĂILEI
+│
+BR
+│
+69.241│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 22 │ 108-1 │IANCA SURDILA GRECI
+│
+BR
+│
+1.791│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 23 │ 109-1 │INCINTA CĂLMĂȚUI GROPENI CHIȘCANI
+│
+BR
+│
+17.129│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 24 │ 111-1 │LATINU VĂCENI
+│
+BR
+│
+185│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 25 │ 112-1 │LUNCA RÂULUI BUZĂU
+│
+BR
+│
+55│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 26 │ 113-1 │INCINTA BRĂILA DUNĂRE SIRET
+│
+BR
+│
+4.854│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 27 │ 107-1 │NĂMOLOASA MĂXINENI
+│ BR, VN │
+19.038│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 28 │ 442-1 │BÂRSA VULCĂNIȚA
+│
+BV
+│
+12.183│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 29 │ 701-1 │COZD LOVNIC
+│
+BV
+│
+1.194│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 30 │ 834-1 │HÂRSENI LUȚA
+│
+BV
+│
+100│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 31 │ 844-1 │HOMORODUL MARE
+│
+BV
+│
+1.903│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 32 │ 1012-1 │SÂNPETRU APAȚA
+│
+BV
+│
+400│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 33 │ 1157-1 │VIȘTEA
+│
+BV
+│
+90│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 34 │ 1182-1 │CINCU CINCȘOR
+│
+BV
+│
+70│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 35 │ 100-1 │HĂRMAN PREJMĂR
+│ BV, CV │
+800│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 36 │ 125-1 │BOIANU STICLEANU
+│
+CL
+│
+22.924│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 37 │ 127-1 │BORCEA DE SUS
+│
+CL
+│
+28.058│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 38 │ 129-1 │OLTENIȚA SURLARI DOROBANȚU
+│
+CL
+│
+12.725│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 39 │ 130-1 │CĂLĂRAȘI RĂUL
+│
+CL
+│
+10.748│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 40 │ 132-1 │VALEA ARGEȘULUI
+│
+CL
+│
+191│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 41 │ 134-1 │UNIREA JEGĂLIA GÂLDĂU
+│
+CL
+│
+1.008│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 42 │ 139-1 │VALEA DÂMBOVIȚEI
+│ CL, BU │
+3.622│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 43 │ 142-1 │GĂLĂȚUI CĂLĂRAȘI
+│ CL, IL │
+37│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 44 │ 468-1 │BOCȘA ȘOȘDEA
+│
+CS
+│
+1.067│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 45 │ 155-1 │TOPALU
+│
+CT
+│
+102│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 46 │ 1253-1 │INCINTA HÂRȘOVA CIOBANU
+│
+CT
+│
+4.721│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 47 │ 1254-1 │INCINTA CIOBANU GÂRLICIU
+│
+CT
+│
+4.984│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 48 │ 1255-1 │INCINTA SEIMENII MICI
+│
+CT
+│
+480│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 49 │ 102-1 │SÂNPETRU RACOȘ
+│
+CV
+│
+3.598│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 50 │ 152-1 │APAȚA MAL DREPT
+│
+CV
+│
+2.502│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 51 │ 420-1 │GHELINȚA BRATEȘ
+│
+CV
+│
+8.582│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 52 │ 473-1 │BOROȘNEUL MARE
+│
+CV
+│
+9.700│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 53 │ 877-1 │LUNGA GHELINȚA
+│
+CV
+│
+3.790│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 54 │ 957-1 │POIAN ESTELNIC
+│
+CV
+│
+1.904│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 55 │ 984-1 │RÂUL NEGRU
+│
+CV
+│
+3.828│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 56 │ 1192-1 │CHICHIȘ ILIENI
+│
+CV
+│
+540│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 57 │ 157-1 │APELE VII ZĂNOAGA
+│
+DJ
+│
+9.841│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 58 │ 173-1 │ATENUARE FÂNTÂNELE
+│
+DJ
+│
+1.603│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 59 │ 206-1 │BISTREȚ NEDEIA JIU
+│
+DJ
+│
+21.530│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 60 │ 207-1 │GHIDICI RAST BISTREȚ
+│
+DJ
+│
+11.126│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 61 │ 212-1 │JIU BECHET
+│
+DJ
+│
+7.367│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 62 │ 219-1 │ROJIJTE LIȘTEAVA
+│
+DJ
+│
+8.650│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 63 │ 445-1 │BECHET DĂBULENI
+│
+DJ
+│
+7.861│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 64 │ 1035-1 │SECUI BRATOVOIEȘTI
+│
+DJ
+│
+1.534│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 65 │ 1187-1 │CIUPERCENI DESA
+│
+DJ
+│
+1.055│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 66 │ 249-1 │DESECARE ȘOMĂNEȘTI
+│
+GJ
+│
+610│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 67 │ 734-1 │DESECARE BUDUHALA
+│
+GJ
+│
+754│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 68 │ 223-1 │CÂMPIA COVURLUI
+│
+GL
+│
+39.161│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 69 │ 224-1 │TERASA NICOREȘTI
+│
+GL
+│
+7.960│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 70 │ 480-1 │BRATEȘUL DE SUS
+│
+GL
+│
+12.097│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 71 │ 230-1 │MALU ROȘU GOSTINU
+│
+GR
+│
+9.113│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 72 │ 234-1 │VEDEA SLOBOZIA
+│
+GR
+│
+4.622│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 73 │ 229-1 │GOSTINU GREACA ARGEȘ
+│ GR, CL │
+28.520│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 74 │ 232-1 │VEDEA PIETROȘANI
+│ GR, TR │
+4.858│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 75 │ 750-1 │DESECARE OLT SUPERIOR
+│
+HR
+│
+3.274│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 76 │ 264-1 │STELNICA BORDUȘANI
+│
+IL
+│
+1.615│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 77 │ 267-1 │BORCEA DE JOS
+│
+IL
+│
+31.296│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 78 │ 824-1 │GIURGENI VLĂDENI
+│
+IL
+│
+14.878│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 79 │ 272-1 │SCULENI ȚUȚORA GORBAN
+│
+IS
+│
+25.419│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 80 │ 277-1 │HĂLĂUCEȘTI
+│
+IS
+│
+1.210│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 81 │ 927-1 │PAȘCANI
+│
+IS
+│
+1.470│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 82 │ 273-1 │TABĂRA TRIFEȘTI SCULENI
+│ IS, BT │
+8.130│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 83 │ 281-1 │CRIVINA VÂNJUL MARE
+│
+MH
+│
+20.545│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 84 │ 282-1 │HALÂNGA
+│
+MH
+│
+1.005│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 85 │ 280-1 │BOZÂNTA MOCIRA REMETEA
+│
+MM
+│
+1.857│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 86 │ 286-1 │ROMAN RĂCHIȚENI
+│ NT, IS │
+4.509│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 87 │ 298-1 │DĂBULENI POTELU
+│
+OT
+│
+14.445│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 88 │ 328-1 │DESECARE VALEA HÂRTIBACIULUI
+│
+SB
+│
+2.950│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 89 │ 932-1 │DES. PERIM. ETALON ALȚÂNA NOCRICH
+│
+SB
+│
+902│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 90 │ 703-1 │CRASNA MAL STÂNG
+│
+SM
+│
+4.803│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 91 │ 843-1 │HOMOROD MAL DREPT
+│
+SM
+│
+8.872│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 92 │ 1058-1 │SOMEȘ CRASNA
+│
+SM
+│
+38.317│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 93 │ 1060-1 │SOMEȘ MAL DREPT
+│
+SM
+│
+27.417│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 94 │ 1084-1 │TEREBEȘTI GELU
+│
+SM
+│
+2.834│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 95 │ 1100-1 │TUR MAL DREPT
+│
+SM
+│
+9.793│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 96 │ 1101-1 │TUR MAL STÂNG
+│
+SM
+│
+9.630│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 97 │ 1102-1 │TURULUNG NEGREȘTI
+│
+SM
+│
+3.560│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 98 │ 58-1
+│ALUNIȘ POTĂU
+│ SM, MM │
+8.141│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │ 99 │ 739-1 │CRAI DOROLȚ VÂRȘOLD
+│ SM, SJ │
+16.154│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │100 │ 977-1 │TRĂDĂUȚI
+│
+SV
+│
+7.400│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │101 │ 08-1
+│23 AUGUST ISACCEA
+│
+TL
+│
+11.901│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │102 │ 355-1 │MĂCIN 23 AUGUST
+│
+TL
+│
+12.130│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │103 │ 362-1 │TULCEA NUFĂRUL
+│
+TL
+│
+2.811│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │104 │ 363-1 │OSTROV
+│
+TL
+│
+1.419│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │105 │ 856-1 │IGLIȚA CARCALIU
+│
+TL
+│
+812│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │106 │ 878-1 │MĂCIN CARCALIU
+│
+TL
+│
+1.717│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │107 │ 928-1 │PECINEAGA TURCOAIA
+│
+TL
+│
+3.433│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │108 │ 1303-1 │INCINTA GÂRLICIU DĂIENI
+│ TL, CT │
+1.246│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │109 │ 165-1 │ARANCA
+│
+TM
+│
+55.582│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │110 │ 349-1 │ȘAG TOPOLOVĂȚ
+│
+TM
+│
+19.999│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │111 │ 437-1 │BANLOC
+│
+TM
+│
+10.196│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │112 │ 443-1 │BÂRZAVA MIJLOCIE
+│
+TM
+│
+13.469│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │113 │ 449-1 │BEGHEIUL VECHI VEST TIMIȘOARA
+│
+TM
+│
+10.500│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │114 │ 453-1 │BEREGSĂU AMONTE
+│
+TM
+│
+1.513│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │115 │ 812-1 │GALATCA
+│
+TM
+│
+8.280│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │116 │ 818-1 │GHIRODA RECAȘ
+│
+TM
+│
+8.879│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │117 │ 872-1 │LIVEZILE
+│
+TM
+│
+5.462│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │118 │ 898-1 │MORAVIȚA
+│
+TM
+│
+12.700│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │119 │ 904-1 │MUREȘANI
+│
+TM
+│
+6.040│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │120 │ 915-1 │NORD LANCA BIRDA
+│
+TM
+│
+15.721│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │121 │ 925-1 │BARTOȘ GLOGONI
+│
+TM
+│
+2.876│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │122 │ 956-1 │POGONIȘ
+│
+TM
+│
+11.069│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │123 │ 985-1 │RĂUȚI SÂNTMIHAIUL GERMAN
+│
+TM
+│
+5.128│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │124 │ 996-1 │ROIGA
+│
+TM
+│
+6.855│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │125 │ 1016-1 │SÂNNICOLAU SARAVALE
+│
+TM
+│
+19.998│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │126 │ 1073-1 │SUD LANCA BIRDA
+│
+TM
+│
+9.984│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │127 │ 1074-1 │ȘURGANI
+│
+TM
+│
+7.760│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │128 │ 1081-1 │ȚEBA TIMIȘAȚ
+│
+TM
+│
+1.787│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │129 │ 1104-1 │UIVAR PUSTINIȘ
+│
+TM
+│
+5.403│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │130 │ 1154-1 │VINGA BILED BEREGSĂU
+│
+TM
+│
+18.832│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │131 │ 1189-1 │GHECEA JIMBOLIA
+│
+TM
+│
+54.451│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │132 │ 341-1 │VIIȘOARA
+│
+TR
+│
+16.436│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │133 │ 344-1 │LIȚA OLT
+│
+TR
+│
+6.290│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │134 │ 347-1 │IZLAZ MOLDOVENI
+│
+TR
+│
+1.134│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │135 │ 446-1 │BECIU LIȚA
+│
+TR
+│
+12.491│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │136 │ 499-1 │CĂLIENI NĂNEȘTI
+│
+VN
+│
+4.677│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │137 │ 368-1 │ALBIȚA FĂLCIU
+│
+VS
+│
+18.587│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │138 │ 369-1 │BH BÂRLAD
+│
+VS
+│
+19.270│ ├────┼─────────┼─────────────────────────────────────────────────────────┼─────────┼──────────┤ │139 │ 371-1 │VASLUIEȚ
+│
+VS
+│
+2.791│ ├────┴─────────┴─────────────────────────────────────────────────────────┴─────────┼──────────┤ │
+TOTAL
+│ 1.378.119│ └──────────────────────────────────────────────────────────────────────────────────┴──────────┘
+NOTE: Cod amenajare - 1 amenajare declarată de utilitate publică (desecare și CES). Cod amenajare - 2 amenajare/parte de amenajare de irigații declarată de utilitate publică (cu analitice aferente dacă există mai multe părți de amenajare).
+Anexa 2
+la regulament Denumirile și sediile filialelor județene ale Agenției Naționale de Îmbunătățiri Funciare
+┌────┬───────────────────────────────────────────┬────────────────────────────────────────────────────────────────┐ │Nr. │
+Denumirea filialei județene
+│
+Sediul filialei județene
+│ │crt.│
+│
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 0 │
+1
+│
+2
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │
+1│Filiala de îmbunătățiri funciare Alba
+│str. Al. I. Cuza nr. 4, Alba Iulia, județul Alba, cod poștal
+│ │
+│
+│510193
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │
+2│Filiala de îmbunătățiri funciare Arad
+│Str. Splaiul Mureș nr. 6/D, Arad, județul Arad, cod poștal
+│ │
+│
+│310132
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │
+3│Filiala de îmbunătățiri funciare Argeș
+│Str. Agrosemului nr. 9, Ștefănești, județul Argeș, cod poștal
+│ │
+│
+│117715
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │
+4│Filiala de îmbunătățiri funciare Bacău
+│str. Alexei Tolstoi nr. 69, Bacău, județul Bacău, cod poștal
+│ │
+│
+│600293
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │
+5│Filiala de îmbunătățiri funciare Bihor
+│str. Mihai Eminescu nr. 18, Oradea, județul Bihor, cod poștal
+│ │
+│
+│410019
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │
+6│Filiala de îmbunătățiri funciare Bistrița- │Str. Zefirului nr. 1, Bistrița, județul Bistrița-Năsăud, cod
+│ │
+│Năsăud
+│poștal 420135
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │
+7│Filiala de îmbunătățiri funciare Botoșani │Aleea Mihail Kogălniceanu nr. 4, Botoșani, județul Botoșani,
+│ │
+│
+│cod poștal 710193
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │
+8│Filiala de îmbunătățiri funciare Brăila
+│Str. Vapoarelor nr. 13, Brăila, județul Brăila, cod poștal
+│ │
+│
+│810349
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │
+9│Filiala de îmbunătățiri funciare Brașov
+│Str. Calea Feldioarei nr. 6A, Brașov, județul Brașov, cod poștal│ │
+│
+│500450
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 10│Filiala de îmbunătățiri funciare Buzău
+│Str. Frăsinet nr. 2, Buzău, județul Buzău, cod poștal 120052
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 11│Filiala de îmbunătățiri funciare Călărași │Str. Prelungirea București nr. 2, Călărași, județul Călărași,
+│ │
+│
+│cod poștal 910048
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 12│Filiala de îmbunătățiri funciare Caraș-
+│Str. Sportului nr. 4A, Reșița, județul Caraș-Severin,
+│ │
+│Severin
+│cod poștal 320110
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 13│Filiala de îmbunătățiri funciare Cluj
+│Str. Sobarilor nr. 36A, Cluj-Napoca, județul Cluj, cod poștal
+│ │
+│
+│400270
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 14│Filiala de îmbunătățiri funciare Constanța │Str. Zburătorului nr. 4, Constanța, județul Constanța,
+│ │
+│
+│cod poștal 900419
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 15│Filiala de îmbunătățiri funciare Covasna
+│Str. Morii nr. 5, Sfântu Gheorghe, județul Covasna, cod poștal │ │
+│
+│520071
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 16│Filiala de îmbunătățiri funciare Dâmbovița │str. I. C. Brătianu nr. 23, Târgoviște, județul Dâmbovița,
+│ │
+│
+│cod poștal 130148
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 17│Filiala de îmbunătățiri funciare Dolj
+│str. Nicolae Romanescu nr. 39, Craiova, județul Dolj,
+│ │
+│
+│cod poștal 200738
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 18│Filiala de îmbunătățiri funciare Galați
+│Str. Științei nr. 97, Galați, județul Galați, cod poștal 800189 │ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 19│Filiala de îmbunătățiri funciare Giurgiu
+│Str. Șos. Sloboziei nr. 193, Giurgiu, județul Giurgiu,
+│ │
+│
+│cod poștal 080334
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 20│Filiala de îmbunătățiri funciare Gorj
+│Str. Calea Severinului nr. 186, Târgu Jiu, județul Gorj,
+│ │
+│
+│cod poștal 210330
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 21│Filiala de îmbunătățiri funciare Harghita │str. Bolyai nr. 21, Miercurea-Ciuc, județul Harghita, cod poștal│ │
+│
+│530111
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 22│Filiala de îmbunătățiri funciare Hunedoara │Str. Depozitelor nr. 6, Deva, județul Hunedoara, cod poștal
+│ │
+│
+│330179
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 23│Filiala de îmbunătățiri funciare Ialomița │str. Cuza Vodă nr. 5, Slobozia, județul Ialomița, cod poștal
+│ │
+│
+│920057
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 24│Filiala de îmbunătățiri funciare Iași
+│Str. Sărăriei nr. 16, Iași, județul Iași, cod poștal 700083
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 25│Filiala de îmbunătățiri funciare Ilfov
+│Str. 1 Mai nr. 641, comuna Berceni, județul Ilfov, cod poștal
+│ │
+│
+│077020
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 26│Filiala de îmbunătățiri funciare Maramureș │Str. Mărgeanului nr. 2, Baia Mare, județul Maramureș, cod poștal│ │
+│
+│430014
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 27│Filiala de îmbunătățiri funciare Mehedinți │B-dul Carol I nr. 1A, Drobeta-Turnu Severin, județul Mehedinți, │ │
+│
+│cod poștal 220099
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 28│Filiala de îmbunătățiri funciare Mureș
+│str. Gheorghe Doja nr. 32, Târgu Mureș, județul Mureș,
+│ │
+│
+│cod poștal 540342
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 29│Filiala de îmbunătățiri funciare Neamț
+│str. Alexandru cel Bun nr. 15, Piatra-Neamț, județul Neamț,
+│ │
+│
+│cod poștal 610004
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 30│Filiala de îmbunătățiri funciare Olt
+│str. Vornicul Ureche nr. 15, Caracal, județul Olt, cod poștal
+│ │
+│
+│235200
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 31│Filiala de îmbunătățiri funciare Prahova
+│Str. Cosminelor nr. 11A, Ploiești, județul Prahova, cod poștal │ │
+│
+│100245
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 32│Filiala de îmbunătățiri funciare Satu Mare │Str. Principală nr. 145, Păulești, județul Satu Mare, cod poștal│ │
+│
+│447230
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 33│Filiala de îmbunătățiri funciare Sălaj
+│str. Corneliu Coposu nr. 77, Zalău, județul Sălaj, cod poștal
+│ │
+│
+│450250
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 34│Filiala de îmbunătățiri funciare Sibiu
+│Str. Autogării nr. 12, Sibiu, județul Sibiu, cod poștal 550135 │ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 35│Filiala de îmbunătățiri funciare Suceava
+│Str. Universității nr. 9, Suceava, județul Suceava, cod poștal │ │
+│
+│720225
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 36│Filiala de îmbunătățiri funciare Teleorman │comuna Piatra, județul Teleorman, cod poștal 147245
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 37│Filiala de îmbunătățiri funciare Timiș
+│str. Coriolan Brediceanu nr. 8, et. III-IV, Timișoara, județul │ │
+│
+│Timiș, cod poștal 300011
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 38│Filiala de îmbunătățiri funciare Tulcea
+│Str. Viticulturii nr. 10, Tulcea, județul Tulcea, cod poștal
+│ │
+│
+│820075
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 39│Filiala de îmbunătățiri funciare Vaslui
+│str. Spiru Haret nr. 5, Vaslui, județul Vaslui, cod poștal
+│ │
+│
+│730139
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 40│Filiala de îmbunătățiri funciare Vâlcea
+│str. Mihai Viteazu nr. 49, Râmnicu Vâlcea, județul Vâlcea,
+│ │
+│
+│cod poștal 240195
+│ ├────┼───────────────────────────────────────────┼────────────────────────────────────────────────────────────────┤ │ 41│Filiala de îmbunătățiri funciare Vrancea
+│Str. Brăilei nr. 121 bis, Focșani, județul Vrancea, cod poștal │ │
+│
+│620122
+│ └────┴───────────────────────────────────────────┴────────────────────────────────────────────────────────────────┘
+Anexa 3
+la regulament NORMATIV de autoturisme pentru Agenția Națională de Îmbunătățiri Funciare care funcționează în subordinea Ministerului Agriculturii și Dezvoltării Rurale
+- bucăți -
+Nr. crt. Denumirea structurii Total Din care:
+Autoturisme pentru activități specifice Autospeciale
+1. Agenția Națională de îmbunătățiri Funciare - Unitatea centrală 8 7 1
+2. Filiala de îmbunătățiri funciare Alba 3 3
+3. Filiala de îmbunătățiri funciare Arad 8 5 3
+4. Filiala de îmbunătățiri funciare Argeș 4 3 1
+5. Filiala de îmbunătățiri funciare Bacău 4 3 1
+6. Filiala de îmbunătățiri funciare Bihor 8 6 2
+7. Filiala de îmbunătățiri funciare Bistrița-Năsăud 3 3
+8. Filiala de îmbunătățiri funciare Botoșani 4 3 1
+9. Filiala de îmbunătățiri funciare Brăila 10 6 4
+10. Filiala de îmbunătățiri funciare Brașov 5 4 1
+11. Filiala de îmbunătățiri funciare Buzău 4 3 1
+12. Filiala de îmbunătățiri funciare Călărași 7 5 2
+13. Filiala de îmbunătățiri funciare Caraș-Severin 3 3
+14. Filiala de îmbunătățiri funciare Cluj 4 3 1
+15. Filiala de îmbunătățiri funciare Constanța 7 5 2
+16. Filiala de îmbunătățiri funciare Covasna 3 3
+17. Filiala de îmbunătățiri funciare Dâmbovița 3 3
+18. Filiala de îmbunătățiri funciare Dolj 8 5 3
+19. Filiala de îmbunătățiri funciare Galați 7 5 2
+20. Filiala de îmbunătățiri funciare Giurgiu 4 3 1
+21. Filiala de îmbunătățiri funciare Gorj 3 3
+22. Filiala de îmbunătățiri funciare Harghita 3 3
+23. Filiala de îmbunătățiri funciare Hunedoara 3 3
+24. Filiala de îmbunătățiri funciare Ialomița 6 3 3
+25. Filiala de îmbunătățiri funciare Iași 4 3 1
+26. Filiala de îmbunătățiri funciare Ilfov 3 3
+27. Filiala de îmbunătățiri funciare Maramureș 3 3
+28. Filiala de îmbunătățiri funciare Mehedinți 4 3 1
+29. Filiala de îmbunătățiri funciare Mureș 3 3
+30. Filiala de îmbunătățiri funciare Neamț 3 3
+31. Filiala de îmbunătățiri funciare Olt 5 3 2
+32. Filiala de îmbunătățiri funciare Prahova 4 3 1
+33. Filiala de îmbunătățiri funciare Satu Mare 8 4 4
+34. Filiala de îmbunătățiri funciare Sălaj 4 3 1
+35. Filiala de îmbunătățiri funciare Sibiu 3 3
+36. Filiala de îmbunătățiri funciare Suceava 4 3 1
+37. Filiala de îmbunătățiri funciare Teleorman 6 4 2
+38. Filiala de îmbunătățiri funciare Timiș 10 6 4
+39. Filiala de îmbunătățiri funciare Tulcea 7 5 2
+40. Filiala de îmbunătățiri funciare Vaslui 7 5 2
+41. Filiala de îmbunătățiri funciare Vâlcea 3 3
+42. Filiala de îmbunătățiri funciare Vrancea 4 3 1
+TOTAL 207 156 51, din care: 1 microbuz
+-------
