@@ -1,0 +1,242 @@
+{
+ "key": "dcc-1294-2011",
+ "label": "Decizia CCR nr. 1294/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1294",
+ "date": "2011-10-04",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.294 din 4 octombrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 452-461 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "907",
+  "bis": false,
+  "date": "2011-12-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "19.989/245/2008",
+  "2.857D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "456",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "459",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "460",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 453-461 din Codul de procedură civilă, excepţie ridicată de Societatea Comercială \"Vinoteca Willy\" - S.R.L. din Iaşi în Dosarul nr. 19.989/245/2008 al Tribunalului Iaşi - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "456",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "459",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "460",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/133931",
+  "text_sha256": "fa385ad8b923294f30f759ac67d94c405f403b75a29b4eb789f4b6c9e8d9aebe",
+  "catalogue_sha256": "fa385ad8b923294f30f759ac67d94c405f403b75a29b4eb789f4b6c9e8d9aebe",
+  "fetched": "2026-11-03T04:21:03Z",
+  "chars": 6921,
+  "portal_id": "133931",
+  "tip": "DECIZIE"
+ }
+}
