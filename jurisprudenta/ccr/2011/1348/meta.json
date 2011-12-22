@@ -1,0 +1,180 @@
+{
+ "key": "dcc-1348-2011",
+ "label": "Decizia CCR nr. 1348/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1348",
+ "date": "2011-10-13",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.348 din 13 octombrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 39 alin. (3) din Legea nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "915",
+  "bis": false,
+  "date": "2011-12-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.460D/2010",
+  "10.438/83/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2005",
+    "number": "248",
+    "year": "2005",
+    "path": "lege/2005/248"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 39 alin. (3) din Legea nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate, excepţie ridicată din oficiu de Tribunalul Satu Mare - Secţia civilă în Dosarul său nr. 10.438/83/2010.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2005",
+    "number": "248",
+    "year": "2005",
+    "path": "lege/2005/248"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 206/2010",
+    "number": "206",
+    "year": "2010",
+    "path": "lege/2010/206"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134015",
+  "text_sha256": "f08f7ac48b92bd99d0c5beec21bcdb99b37bfb5e02b1525667a0e66a239fd1aa",
+  "catalogue_sha256": "f08f7ac48b92bd99d0c5beec21bcdb99b37bfb5e02b1525667a0e66a239fd1aa",
+  "fetched": "2026-11-04T01:54:30Z",
+  "chars": 11454,
+  "portal_id": "134015",
+  "tip": "DECIZIE"
+ }
+}
