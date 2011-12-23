@@ -1,0 +1,140 @@
+{
+ "key": "iccj-ril-16-2011",
+ "label": "Decizia ÎCCJ nr. 16/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "16",
+ "date": "2011-10-17",
+ "year": "2011",
+ "heading": "DECIZIE nr. 16 din 17 octombrie 2011",
+ "subtitle": "privind recursul în interesul legii, referitor la interpretarea dispoziţiilor art. 136 alin. 1) din Legea nr. 31/1990 privind societăţile comerciale, republicată",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "919",
+  "bis": false,
+  "date": "2011-12-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "19/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 136 alin. (1) din Legea nr. 31/1990 privind societăţile comerciale, republicată, cu modificările şi completările ulterioare, stabileşte că, în cazul cererilor întemeiate pe dispoziţiile legale evocate, instanţa de judecată se dezinvesteşte după desemnarea experţilor, stabilirea obiectivelor expertizei, a onorariului experţilor şi a modalităţii de plată, pronunţând, în procedură necontencioasă, o încheiere împotriva căreia poate fi exercitată calea de atac a recursului, conform art. 336 din Codul de procedură civilă.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "331",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "332",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "333",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "334",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-12-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134049",
+  "text_sha256": "d64c820cc255ac5445921786031e2a5b9b63ecbcd5de92956369b4c976e17a17",
+  "catalogue_sha256": "d64c820cc255ac5445921786031e2a5b9b63ecbcd5de92956369b4c976e17a17",
+  "fetched": "2026-11-03T04:20:54Z",
+  "chars": 18348,
+  "portal_id": "134049",
+  "tip": "DECIZIE"
+ }
+}
