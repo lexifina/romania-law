@@ -1,0 +1,19 @@
+# Anexa 2 A
+CERERE DE TRANSFER
+- model -
+Nr. înregistrare
+VIZAT,........./........
+Unitatea sanitară................................
+CUI..............................................
+Sediu (localitate, str. nr.).......................................................................
+Casa de Asigurări................................
+Nr. contract/convenție...........................
+Medic de familie................................. (semnătură și parafă)
+Domnule/Doamnă Doctor,
+Subsemnatul(a) _________________________, cetățenie ____________________, C.N.P. |_|_|_|_|_|_|_|_|_|_|_|_|_|, data nașterii ________________________, domiciliat(ă) în ___________________ str. _________________ nr. _____, bl. _____, sc. ____, ap. _____, jud./sector __________, act de identitate ______________, seria ___________, nr. ___________, eliberat de __________________, la data _____________, telefon _________________, solicit înscrierea mea pe lista dumneavoastră prin transfer de la medicul de familie ____________ din unitatea sanitară _________________ str. ___________________ nr. _____ jud./sector ___________
+Declar pe propria răspundere că nu solicit transferul mai devreme de 6 luni calendaristice de la ultima înscriere.
+Anexez prezentei cereri documentele justificative care atestă calitatea de asigurat, în conformitate cu prevederile legale în vigoare (se va bifa numai de către persoanele asigurate).
+Răspund de exactitatea datelor cuprinse în prezenta cerere, pe care o semnez.
+Data: / /
+Semnătura:
+Domnului/Doamnei Doctor
