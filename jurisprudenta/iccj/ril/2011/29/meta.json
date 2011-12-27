@@ -1,0 +1,341 @@
+{
+ "key": "iccj-ril-29-2011",
+ "label": "Decizia ÎCCJ nr. 29/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "29",
+ "date": "2011-12-12",
+ "year": "2011",
+ "heading": "DECIZIE nr. 29 din 12 decembrie 2011",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "925",
+  "bis": false,
+  "date": "2011-12-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "dossiers": [
+  "29/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursurile în interesul legii declarate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi de colegiile de conducere ale curţilor de apel Braşov, Cluj, Craiova şi Galaţi privind aplicarea dispoziţiilor Legii nr. 119/2010, raportat la art. 20 alin. (2) din Constituţie, art. 1 din Protocolul nr. 1 adiţional la Convenţia europeană a drepturilor omului şi art. 14 din Convenţie, referitoare la recalcularea pensiilor prevăzute de art. 1 din lege.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2011-12-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134083",
+  "text_sha256": "cd60332c17fc13b3b921540e9286789a07d895cb91831fae5b710e68a593d8be",
+  "catalogue_sha256": "cd60332c17fc13b3b921540e9286789a07d895cb91831fae5b710e68a593d8be",
+  "fetched": "2026-11-06T04:01:26Z",
+  "chars": 41540,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/134083",
+   "timestamp": "20250426051408",
+   "crawl": "CC-MAIN-2025-18",
+   "filename": "crawl-data/CC-MAIN-2025-18/segments/1744889135976.34/warc/CC-MAIN-20250426032300-20250426062300-00595.warc.gz",
+   "offset": "366320706",
+   "length": "23723",
+   "sha256": "d6ee4b4f96b13b154192d5a5c43913af8b35357a6abed4fa3b5d4b5eda9b212b"
+  },
+  "portal_id": "134083",
+  "tip": "DECIZIE"
+ }
+}
