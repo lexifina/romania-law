@@ -1,0 +1,231 @@
+{
+ "key": "dcc-1597-2011",
+ "label": "Decizia CCR nr. 1597/2011",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "1597",
+ "date": "2011-12-14",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.597 din 14 decembrie 2011",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 96/2008 privind modificarea art. III alin. (1) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 29/2005 pentru modificarea Legii nr. 290/2002 privind organizarea şi funcţionarea unităţilor de cercetare-dezvoltare din domeniile agriculturii, silviculturii, industriei alimentare şi a Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu Şişeşti\"",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "924",
+  "bis": false,
+  "date": "2011-12-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.419A/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 96/2008",
+    "number": "96",
+    "year": "2008",
+    "path": "lege/2008/96"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 29/2005",
+    "number": "29",
+    "year": "2005",
+    "path": "oug/2005/29"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constată că Legea pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 96/2008 privind modificarea art. III alin. (1) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 29/2005 pentru modificarea Legii nr. 290/2002 privind organizarea şi funcţionarea unităţilor de cercetare-dezvoltare din domeniile agriculturii, silviculturii, industriei alimentare şi a Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu Şişeşti\" este neconstituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedintelui României, preşedinţilor celor două Camere ale Parlamentului şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 96/2008",
+    "number": "96",
+    "year": "2008",
+    "path": "lege/2008/96"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 29/2005",
+    "number": "29",
+    "year": "2005",
+    "path": "oug/2005/29"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 290/2002",
+    "number": "290",
+    "year": "2002",
+    "path": "lege/2002/290"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 96/2008",
+    "number": "96",
+    "year": "2008",
+    "path": "oug/2008/96"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2011-12-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134077",
+  "text_sha256": "c2a4b095b6c9cdef5eddca0911e60e54df240fb657a5c8b179a32cda56e34107",
+  "catalogue_sha256": "c2a4b095b6c9cdef5eddca0911e60e54df240fb657a5c8b179a32cda56e34107",
+  "fetched": "2026-11-03T04:20:51Z",
+  "chars": 12295,
+  "portal_id": "134077",
+  "tip": "DECIZIE"
+ }
+}
