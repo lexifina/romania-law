@@ -1,0 +1,7 @@
+# Anexa nr. 3: NORME pentru studiile pedologice și agrochimice elaborate în vederea realizării și reactualizării periodice a Sistemului județean de monitorizare sol-teren pentru agricultură și a realizării Sistemulu
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 134131 (https://legislatie.just.ro/Public/DetaliiDocument/134131)
+- sha256 of that document's text as the service returned it: 2da05c99f61cd7f34b36d7ffbc9863d2f3819df81e879c1280a0434d262214e1
+- Retrieved: 2026-11-03
