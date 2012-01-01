@@ -1,0 +1,7 @@
+# Anexa 1
+Anexa
+REGULAMENTUL Nr. 28/17/2011 pentru completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții
+Articolul I
+Regulamentul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții, aprobat prin Ordinul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 15/112/2006, republicat în Monitorul Oficial al României, Partea I, nr. 311 din 5 mai 2011, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 4, după litera c) se introduce o nouă literă, litera d), cu următorul cuprins: "d) 50% din valoarea sumelor reprezentând soldul creditor al impozitelor amânate aferente elementelor prevăzute la art. 25 alin. (1) lit. f) și g^1)." 2. La articolul 17, după alineatul (3) se introduce un nou alineat, alineatul (4), cu următorul cuprins: "(4) În categoria elementelor prevăzute la alin. (1) se includ, în particular, fără acordul prealabil al Băncii Naționale a României, 50% din sumele reprezentând soldul creditor al impozitelor amânate aferente elementelor prevăzute la art. 25 alin. (1) lit. f) și g^1)."
+Articolul II
+Prezentul regulament intră în vigoare la data de 1 ianuarie 2012. --------
