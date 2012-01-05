@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale EXCLUSIVE FINANCE IFN - S.A., cu sediul în municipiul București, Str. Ozana nr. 3, bl. I 31, sc. 4, ap. 58, sectorul 3, înregistrată la registrul comerțului sub nr. J40/17863/2007, având codul unic de înregistrare 22457047, înscrisă în registrul general la secțiunea k) "Activități multiple de creditare" sub nr. RG-PJR-41-110220. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 19 decembrie 2011. Nr. 1.266. -----
