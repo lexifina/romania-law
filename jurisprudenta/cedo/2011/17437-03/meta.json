@@ -1,0 +1,163 @@
+{
+ "key": "cedo-17437-03-2011-03-29",
+ "label": "CEDO, Cornelia Popa c. României, 2011-03-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2011-03-29",
+ "year": "2011",
+ "heading": "HOTĂRÂRE din 29 martie 2011",
+ "subtitle": "în Cauza Cornelia Popa împotriva României - definitivă la 29 iunie 2011",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "13",
+  "bis": false,
+  "date": "2012-01-06",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "17437/03"
+ ],
+ "case_name": "Cornelia Popa",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 10 şi art. 6 § 1 cu privire la imposibilitatea reclamantei de a face proba verităţii şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 10 din Convenţie; 3. hotărăşte că nu este necesar să examineze capătul de cerere întemeiat pe art. 6 § 1 din Convenţie cu privire la imposibilitatea reclamantei de a face proba verităţii; 4. hotărăşte",
+  "a) că statul pârât trebuie să îi plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care urmează să fie convertite în moneda naţională a statului pârât la cursul de schimb aplicabil la data plăţii:",
+  "(i) 7.000 EUR (şapte mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciu moral, sumă ce va fi plătită reclamantei; (îi) 4.110 EUR (patru mii o sută zece euro) pentru cheltuielile de judecată efectuate pentru procedura din faţa Curţii, sumă ce se va plăti direct lui Dan Mihai, care a reprezentat-o pe reclamantă în calitate de avocat;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134334",
+  "text_sha256": "163c418c8c6136ebfc4e90def2033cff5492fa61e24325a45d6cfc0ea1fb6b3b",
+  "catalogue_sha256": "163c418c8c6136ebfc4e90def2033cff5492fa61e24325a45d6cfc0ea1fb6b3b",
+  "fetched": "2026-11-04T03:25:30Z",
+  "chars": 36413,
+  "portal_id": "134334",
+  "tip": "HOTĂRÂRE"
+ }
+}
