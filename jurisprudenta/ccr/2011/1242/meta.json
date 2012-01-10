@@ -1,0 +1,237 @@
+{
+ "key": "dcc-1242-2011",
+ "label": "Decizia CCR nr. 1242/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1242",
+ "date": "2011-09-22",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.242 din 22 septembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. III din Ordonanţa de urgenţă a Guvernului nr. 62/2010 pentru modificarea şi completarea Legii nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora, pronunţate în perioada 6 martie 1945-22 decembrie 1989, şi pentru suspendarea aplicării unor dispoziţii din titlul VII al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "17",
+  "bis": false,
+  "date": "2012-01-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.493/2/2010",
+  "5D/2011",
+  "85D/2011",
+  "343/2/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 62/2010",
+    "number": "62",
+    "year": "2010",
+    "path": "oug/2010/62"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. III din Ordonanţa de urgenţă a Guvernului nr. 62/2010 pentru modificarea şi completarea Legii nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora, pronunţate în perioada 6 martie 1945-22 decembrie 1989, şi pentru suspendarea aplicării unor dispoziţii din titlul VII al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, excepţie ridicată de Alexandru Hanculov şi Vilma Dumitriu şi, respectiv, Iuliana Fridl în dosarele nr. 6.493/2/2010 şi nr. 343/2/2010 ale Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 62/2010",
+    "number": "62",
+    "year": "2010",
+    "path": "oug/2010/62"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-01-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134418",
+  "text_sha256": "43ca74bc28a303cad59daff9314eabe180906d8a6702ef6475efe76f3780caac",
+  "catalogue_sha256": "43ca74bc28a303cad59daff9314eabe180906d8a6702ef6475efe76f3780caac",
+  "fetched": "2026-11-05T13:08:44Z",
+  "chars": 19607,
+  "portal_id": "134418",
+  "tip": "DECIZIE"
+ }
+}
