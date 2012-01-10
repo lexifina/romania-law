@@ -1,0 +1,232 @@
+{
+ "key": "iccj-ril-26-2011",
+ "label": "Decizia ÎCCJ nr. 26/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "26",
+ "date": "2011-11-14",
+ "year": "2011",
+ "heading": "DECIZIE nr. 26 din 14 noiembrie 2011",
+ "subtitle": "referitoare la recursul în interesul legii cu privire la stabilirea cuantumului indemnizaţiei pentru creşterea copilului în cazul sarcinii multiple",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL îN INTERESUL LEGII",
+ "mo": {
+  "number": "20",
+  "bis": false,
+  "date": "2012-01-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "21/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 148/2005",
+    "number": "148",
+    "year": "2005",
+    "path": "oug/2005/148"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 239/2009",
+    "number": "239",
+    "year": "2009",
+    "path": "lege/2009/239"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii formulate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi de Colegiul de conducere al Curţii de Apel Iaşi şi, în consecinţă:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 1 alin. (1) şi art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 148/2005 privind susţinerea familiei în vederea creşterii copilului, cu modificările şi completările ulterioare, stabileşte că, până la intrarea în vigoare a Legii nr. 239/2009 pentru modificarea art. 2 din Ordonanţa de urgenţă a Guvernului nr. 148/2005, indemnizaţia lunară pentru creşterea copilului prevăzută de art. 1 alin. (1) din ordonanţă se acordă pentru fiecare copil născut dintr-o sarcină gemelară, de tripleţi sau multipleţi, în cuantum de: 800 lei pentru perioada 1 ianuarie 2006-31 decembrie 2006; 600 lei pentru perioada 1 ianuarie 2007-31 decembrie 2008; 600 lei sau, opţional, 85% din media veniturilor pe ultimele 12 luni, dar nu mai mult de 4.000 de lei pentru perioada 1 ianuarie 2009-17 iunie 2009.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 239/2009",
+    "number": "239",
+    "year": "2009",
+    "path": "lege/2009/239"
+   },
+   "articles": [],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 148/2005",
+    "number": "148",
+    "year": "2005",
+    "path": "oug/2005/148"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 257/2008",
+    "number": "257",
+    "year": "2008",
+    "path": "lege/2008/257"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 226/2008",
+    "number": "226",
+    "year": "2008",
+    "path": "oug/2008/226"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2012-01-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134408",
+  "text_sha256": "b29df0700d412b00e442703595ce685ba1743a4c286e73b6eef2961e86ad4bad",
+  "catalogue_sha256": "b29df0700d412b00e442703595ce685ba1743a4c286e73b6eef2961e86ad4bad",
+  "fetched": "2026-11-03T04:20:28Z",
+  "chars": 40221,
+  "portal_id": "134408",
+  "tip": "DECIZIE"
+ }
+}
