@@ -1,0 +1,260 @@
+{
+ "key": "dcc-1363-2011",
+ "label": "Decizia CCR nr. 1363/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1363",
+ "date": "2011-10-18",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.363 din 18 octombrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 208 alin. (3) lit. e) şi alin. (6), art. 215 alin. (1) şi (3), art. 257 alin. (2) lit. b) şi art. 259 alin. (7) lit. b) şi alin. (8) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "25",
+  "bis": false,
+  "date": "2012-01-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.375/113/2010",
+  "4.305D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "208",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "259",
+     "alin": [
+      "7",
+      "8"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 208 alin. (3) lit. e) şi alin. (6), art. 215 alin. (1) şi (3), art. 257 alin. (2) lit. b) şi art. 259 alin. (7) lit. b) şi alin. (8) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, excepţie ridicată de Pană Maria Camelia în Dosarul nr. 3.375/113/2010 al Tribunalului Brăila - Secţia comercială şi contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "208",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "215",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "259",
+     "alin": [
+      "7",
+      "8"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 117/2010",
+    "number": "117",
+    "year": "2010",
+    "path": "oug/2010/117"
+   },
+   "articles": [
+    {
+     "art": "VIII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-01-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134469",
+  "text_sha256": "ae783204d26e5e8781bf5c56864d4d5aeca2d6422505df1d4d9cc1e4f7047fba",
+  "catalogue_sha256": "ae783204d26e5e8781bf5c56864d4d5aeca2d6422505df1d4d9cc1e4f7047fba",
+  "fetched": "2026-11-03T04:20:23Z",
+  "chars": 11831,
+  "portal_id": "134469",
+  "tip": "DECIZIE"
+ }
+}
