@@ -1,0 +1,192 @@
+{
+ "key": "dcc-1439-2011",
+ "label": "Decizia CCR nr. 1439/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1439",
+ "date": "2011-10-25",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.439 din 25 octombrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12^6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 95/2002 privind industria de apărare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "31",
+  "bis": false,
+  "date": "2012-01-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 95/2002",
+    "number": "95",
+    "year": "2002",
+    "path": "oug/2002/95"
+   },
+   "articles": [
+    {
+     "art": "12-6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 12^6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 95/2002 privind industria de apărare, excepţie ridicată de Ioan Hazapariu şi Gogu Vărzan în dosarele nr. 7.034/62/2009 şi nr. 7.042/62/2009 ale Curţii de Apel Braşov - Secţia civilă şi pentru cauze cu minori şi de familie, de conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 95/2002",
+    "number": "95",
+    "year": "2002",
+    "path": "oug/2002/95"
+   },
+   "articles": [
+    {
+     "art": "12-6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 116/2006",
+    "number": "116",
+    "year": "2006",
+    "path": "oug/2006/116"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-01-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134525",
+  "text_sha256": "0ba651ba6077a23aab3c8dd9c30c8e41744c26851855ab58eb5d2882095a59ae",
+  "catalogue_sha256": "0ba651ba6077a23aab3c8dd9c30c8e41744c26851855ab58eb5d2882095a59ae",
+  "fetched": "2026-11-03T04:20:20Z",
+  "chars": 9705,
+  "portal_id": "134525",
+  "tip": "DECIZIE"
+ }
+}
