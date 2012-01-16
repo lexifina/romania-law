@@ -1,0 +1,7 @@
+Având în vedere dispozițiile Protocolului privind cooperarea în domeniul organizării și monitorizării stagiului de pregătire practică, încheiat între Camera Auditorilor Financiari din România și Corpul Experților Contabili și Contabililor Autorizați din România în data de 17 mai 2010, în temeiul prevederilor: - art. 6 alin. (3) din Ordonanța de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar, republicată, cu modificările și completările ulterioare; - art. 15 alin. (3) din Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, aprobat prin Hotărârea Guvernului nr. 433/2011 , Consiliul Camerei Auditorilor Financiari din România, întrunit în ședința din data de 15 decembrie 2011, hotărăște:
+Articolul 1
+Se aprobă Procedurile pentru înscrierea la Camera Auditorilor Financiari din România a stagiarilor care desfășoară stagiul la Corpul Experților Contabili și Contabililor Autorizați din România, potrivit protocolului încheiat între Corpul Experților Contabili și Contabililor Autorizați din România și Camera Auditorilor Financiari din România, prevăzute în anexa care face parte integrantă din prezenta hotărâre.
+Articolul 2
+Departamentul de admitere, pregătire continuă și stagiari va duce la îndeplinire prevederile prezentei hotărâri. Președintele Camerei Auditorilor Financiari din România, Horia Neamțu București, 15 decembrie 2011. Nr. 266.
+Anexă
+PROCEDURA 15/12/2011
