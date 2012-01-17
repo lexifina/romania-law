@@ -1,0 +1,138 @@
+{
+ "key": "cedo-27949-04-2011-07-19",
+ "label": "CEDO, Leca şi Filipescu c. României, 2011-07-19",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2011-07-19",
+ "year": "2011",
+ "heading": "HOTĂRÂRE din 19 iulie 2011",
+ "subtitle": "în Cauza Leca şi Filipescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA a III-a",
+ "mo": {
+  "number": "39",
+  "bis": false,
+  "date": "2012-01-17",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "27949/04"
+ ],
+ "case_name": "Leca şi Filipescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. hotărăşte să conexeze cererile; 2. declară cererile admisibile în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1 din Convenţie; 3. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 4. hotărăşte că statul pârât trebuie să plătească, în decurs de 3 luni, următoarele sume, la care se adaugă orice sumă care ar putea fi datorată cu titlu de impozit ce trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii",
+  "a) pentru Cauza nr. 27.949/04: 2.000 EUR (două mii de euro) ambilor reclamanţi, pentru prejudiciul moral;",
+  "b) pentru Cauza nr. 30.324/04: 2.000 EUR (două mii de euro) pentru prejudiciul moral şi 1.000 EUR (o mie de euro) pentru cheltuielile de judecată;",
+  "5. respinge cererea de reparaţie echitabilă pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 14",
+    "path": null,
+    "slug": "conventia-edo-protocolul-14"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134591",
+  "text_sha256": "51885b4ca6cf6c51cd6d4ac7853f2703b76c1689d724739fe8a364a32ea59f7a",
+  "catalogue_sha256": "51885b4ca6cf6c51cd6d4ac7853f2703b76c1689d724739fe8a364a32ea59f7a",
+  "fetched": "2026-11-03T04:20:16Z",
+  "chars": 16258,
+  "portal_id": "134591",
+  "tip": "HOTĂRÂRE"
+ }
+}
