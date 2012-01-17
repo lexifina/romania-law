@@ -1,0 +1,161 @@
+{
+ "key": "cedo-41838-05-2011-07-19",
+ "label": "CEDO, Jarnea c. României, 2011-07-19",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2011-07-19",
+ "year": "2011",
+ "heading": "HOTĂRÂRE din 19 iulie 2011",
+ "subtitle": "în Cauza Jarnea împotriva României - definitivă la 19 octombrie 2011",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "38",
+  "bis": false,
+  "date": "2012-01-17",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "41838/05"
+ ],
+ "case_name": "Jarnea",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA, 1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 8 din Convenţie; 3. hotărăşte că nu este necesar să examineze celelalte capete de cerere formulate de reclamant; 4. hotărăşte",
+  "a) că statul pârât trebuie să plătească, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 5.000 EUR (cinci mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral; (îi) 200 EUR (două sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru cheltuielile de judecată;",
+  "b) că de la expirarea termenului menţionat şi până la efectuarea plăţii aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/1999",
+    "number": "187",
+    "year": "1999",
+    "path": "lege/1999/187"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134592",
+  "text_sha256": "b1d9c91021f40d8605f50b1be95bce239688529909ffac54838cb133c0fe17b8",
+  "catalogue_sha256": "b1d9c91021f40d8605f50b1be95bce239688529909ffac54838cb133c0fe17b8",
+  "fetched": "2026-11-03T04:20:17Z",
+  "chars": 35718,
+  "portal_id": "134592",
+  "tip": "HOTĂRÂRE"
+ }
+}
