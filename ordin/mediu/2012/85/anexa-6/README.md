@@ -1,0 +1,7 @@
+# Anexa nr. 6: 6 CERERE de eliberare a adeverinței prin care se atestă restituirea/nerestituirea taxei de poluare pentru autovehicule/ taxei speciale pentru autoturisme și autovehicule sau a valorii reziduale a taxe
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 134691 (https://legislatie.just.ro/Public/DetaliiDocument/134691)
+- sha256 of that document's text as the service returned it: 72394fbb9e4bd6f2b86e170403c702dc7f5927cc4c4ce4c0dbe15d87a5310bb8
+- Retrieved: 2026-11-03
