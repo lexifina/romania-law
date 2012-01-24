@@ -1,0 +1,139 @@
+{
+ "key": "dcc-1513-2011",
+ "label": "Decizia CCR nr. 1513/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1513",
+ "date": "2011-11-15",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.513 din 15 noiembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor subpunctului 2.5.6 al punctului 2 \"Memoriu\" al listei I \"Piese scrise\" a secţiunii A \"Proiectul pentru autorizarea executării lucrărilor de construire - P.A.C.\" din anexa nr. 1 la Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "56",
+  "bis": false,
+  "date": "2012-01-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.998/112/2009",
+  "88D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor subpunctului 2.5.6 al punctului 2 \"Memoriu\" al listei I \"Piese scrise\" a secţiunii A \"Proiectul pentru autorizarea executării lucrărilor de construire - P.A.C.\" din anexa nr. 1 la Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii, excepţie ridicată de Radu-Dumitru Ţărmure şi Maria Ţărmure în Dosarul nr. 1.998/112/2009 al Tribunalului Bistriţa-Năsăud - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-01-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134729",
+  "text_sha256": "1132c1646dbbbb4503e296cba56061aaed7fdb5eff96742185d1e0b40184b37a",
+  "catalogue_sha256": "1132c1646dbbbb4503e296cba56061aaed7fdb5eff96742185d1e0b40184b37a",
+  "fetched": "2026-11-03T04:20:07Z",
+  "chars": 10332,
+  "portal_id": "134729",
+  "tip": "DECIZIE"
+ }
+}
