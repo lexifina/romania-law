@@ -1,0 +1,415 @@
+{
+ "key": "dcc-1391-2011",
+ "label": "Decizia CCR nr. 1391/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1391",
+ "date": "2011-10-20",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.391 din 20 octombrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 970, art. 1073, art. 1075, art. 1429 şi art. 1430 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "59",
+  "bis": false,
+  "date": "2012-01-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "09423/99/2008",
+  "3.348D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "970",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1075",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1430",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 970, art. 1073, art. 1075, art. 1429 şi art. 1430 din Codul civil, excepţie ridicată de Societatea Comercială \"Autoned\" - S.R.L. din Iaşi în Dosarul nr. 09423/99/2008 al Curţii de Apel Iaşi - Secţia comercială.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "970",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1075",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "1169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1170",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1171",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1172",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1176",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1177",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1178",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1179",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1181",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1185",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1187",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1188",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1189",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1190",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1191",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1195",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1198",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1199",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1202",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1203",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1204",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-01-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134757",
+  "text_sha256": "0ed43cdd370e5c8e86001b048b8adda5a800bd888250d53102fd0cb7822618e7",
+  "catalogue_sha256": "0ed43cdd370e5c8e86001b048b8adda5a800bd888250d53102fd0cb7822618e7",
+  "fetched": "2026-11-03T04:20:04Z",
+  "chars": 7560,
+  "portal_id": "134757",
+  "tip": "DECIZIE"
+ }
+}
