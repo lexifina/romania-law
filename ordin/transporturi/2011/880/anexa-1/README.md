@@ -1,0 +1,7 @@
+# Anexa nr. 1: 1 (Anexa nr. 1 la Ordinul nr. 28/75/2008) CATEGORII DE CHELTUIELI ELIGIBILE în cadrul axelor prioritare 1, 2 și 3 ale Programului operațional sectorial "Transport" 1. Cheltuieli pentru achiziția, inta
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 134835 (https://legislatie.just.ro/Public/DetaliiDocument/134835)
+- sha256 of that document's text as the service returned it: c5d1ac921f79be7edf9253fbcd4d9f0e652e4e05682a4a869951b6f7cb2a91b6
+- Retrieved: 2026-11-03
