@@ -1,0 +1,2 @@
+# Anexa 1
+FIȘA CAPACITĂȚII DE CAZARE
