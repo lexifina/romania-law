@@ -1,0 +1,13 @@
+# Anexa nr. 3
+DECLARAȚIE DE CONFIDENȚIALITATE
+Numele......................, prenumele....................
+Instituția..................................................
+Cunosc că am obligația să nu divulg nicio informație la care am acces prin activitatea mea în calitate de component al Comisiei interministeriale pentru mențiuni de sănătate înscrise pe produsele alimentare (Comisia)/personal al Secretariatului/expert/invitat sau observator, dacă această informație face obiectul unei solicitări privind păstrarea confidențialității.
+Mă angajez:
+1. să păstrez confidențialitatea și să respect restricțiile privind orice informație la care am acces pe parcursul activității mele în calitate de component al Comisiei, personal al Secretariatului, expert, invitat sau observator;
+2. să nu divulg unor terți și/sau să pun la dispoziția acestora informațiile la care am acces în cadrul Comisiei;
+3. să păstrez confidențialitatea rapoartelor și discuțiilor din cadrul Comisiei;
+4. să respect caracterul confidențial al opiniilor, părerilor și propunerilor exprimate de membrii Comisiei/personal al Secretariatului/expert/invitat sau observator;
+5. să nu folosesc nicio informație în beneficiu personal și/sau al unei terțe părți.
+Data................
+Semnătura...........
