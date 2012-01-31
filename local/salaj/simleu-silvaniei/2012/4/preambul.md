@@ -1,0 +1,6 @@
+Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică ordinară din data de 31 ianuarie 2012;
+Având în vedere adresa nr.35/2012 a SC Salubris SA Slatina, Expunerea de motive nr.940/2012 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.941/2012 al Viceprimarului orașului Șimleu Silvaniei și Avizul Comisiei pentru programe de dezvoltare economico-socială, buget, finanțe, servicii, comerț și agricultură a Consiliului Local;
+În baza prevederilor art.6 din Legea nr. 52/2003 privind transparența decizională în administratia publică, art .9 alin 2 lit d, art .43 alin.5 din Legea nr.51/2006 a serviciilor comunitare de utilități publice, cu modificările și completările ulterioare, art.6 alin.1 lit.k și l, art.19 alin.2 lit.c din Legea nr.101/2006 a serviciului de salubrizare a localităților, cu modificările și completările ulterioare, Ordinul A.N.R.S.C. nr.
+109/2007 privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activitățile specifice serviciului de salubrizare a localităților, HCL nr.157/2007 și ale art.36 alin. 2 lit. d, alin. 6 lit. a pct. 14 din Legea nr.215/2001;
+În temeiul art.45 alin.2 din Legea nr.215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare,
+HOTĂRĂȘTE:
