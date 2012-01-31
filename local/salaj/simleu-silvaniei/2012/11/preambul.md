@@ -1,0 +1,5 @@
+Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 31 ianuarie 2012;
+Având în vedere Expunerea de motive nr.1069/2012 a Primarului orașului, Raportul de specialitate nr.1070/2012 al Serviciului urbanism, Referatul de specialitate nr.1068/2012 al arhitectului-șef, Avizul Comisiei pentru amenajarea teritoriului și urbanism, administrarea domeniului public și privat, realizarea lucrărilor publice, protecția mediului, turism, conservarea monumentelor istorice și arhitectură și Avizul Comisiei pentru programe de dezvoltare economică și socială, buget, finanțe, servicii, comerț și agricultură ale Consiliului Local;
+În baza prevederilor art.56 din Legea nr.350/2001 privind amenajarea teritoriului și urbanismul, cu modificările și completările ulterioare și ale art.36 alin.5 lit.d, alin.6 lit.a pct.9 din Legea nr.215/2001;
+În temeiul art.45 alin.2 din Legea nr.215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare,
+HOTĂRĂȘTE:
