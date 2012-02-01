@@ -1,0 +1,145 @@
+{
+ "key": "dcc-1591-2011",
+ "label": "Decizia CCR nr. 1591/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1591",
+ "date": "2011-12-13",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.591 din 13 decembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. (1) din Ordonanţa Guvernului nr. 130/2000 privind protecţia consumatorilor la încheierea şi executarea contractelor la distanţă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "80",
+  "bis": false,
+  "date": "2012-02-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.621/299/2011",
+  "1.146D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 130/2000",
+    "number": "130",
+    "year": "2000",
+    "path": "og/2000/130"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. (1) din Ordonanţa Guvernului nr. 130/2000 privind protecţia consumatorilor la încheierea şi executarea contractelor la distanţă, excepţie invocată din oficiu de Judecătoria Sectorului 1 Bucureşti în Dosarul nr. 1.621/299/2011.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 130/2000",
+    "number": "130",
+    "year": "2000",
+    "path": "og/2000/130"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134889",
+  "text_sha256": "795d3a4574e35b82b33c19be4c3c6e153ce18b89b8755d2ccdec01c7e84bd104",
+  "catalogue_sha256": "795d3a4574e35b82b33c19be4c3c6e153ce18b89b8755d2ccdec01c7e84bd104",
+  "fetched": "2026-11-03T04:19:53Z",
+  "chars": 10635,
+  "portal_id": "134889",
+  "tip": "DECIZIE"
+ }
+}
