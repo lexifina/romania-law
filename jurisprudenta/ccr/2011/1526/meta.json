@@ -1,0 +1,198 @@
+{
+ "key": "dcc-1526-2011",
+ "label": "Decizia CCR nr. 1526/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1526",
+ "date": "2011-11-15",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.526 din 15 noiembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 41 lit. e), art. 43 alin. (1) lit. e), art. 68 şi art. 70 alin. (2) din Legea nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "85",
+  "bis": false,
+  "date": "2012-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "455/84/2011",
+  "577D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 41 lit. e), art. 43 alin. (1) lit. e), art. 68 şi art. 70 alin. (2) din Legea nr. 571/2003 privind Codul fiscal, excepţie ridicată de Alexandru Moldovan în Dosarul nr. 455/84/2011 al Tribunalului Sălaj - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "e"
+     ]
+    },
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134924",
+  "text_sha256": "77dd2e671b893dca91329560f6762aab0a92bb3347e019dd82ddd27e6f35eaa2",
+  "catalogue_sha256": "77dd2e671b893dca91329560f6762aab0a92bb3347e019dd82ddd27e6f35eaa2",
+  "fetched": "2026-11-03T04:19:51Z",
+  "chars": 7234,
+  "portal_id": "134924",
+  "tip": "DECIZIE"
+ }
+}
