@@ -1,0 +1,147 @@
+{
+ "key": "dcc-1426-2011",
+ "label": "Decizia CCR nr. 1426/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1426",
+ "date": "2011-10-25",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.426 din 25 octombrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. f) din Ordonanţa Guvernului nr. 51/1997 privind operaţiunile de leasing şi societăţile de leasing",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "88",
+  "bis": false,
+  "date": "2012-02-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.389/291/2009",
+  "4.394D/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "og/1997/51"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. f) din Ordonanţa Guvernului nr. 51/1997 privind operaţiunile de leasing şi societăţile de leasing, excepţie ridicată de Cabinetul de avocatură \"Postelnicu Alina\" în Dosarul nr. 3.389/291/2009 al Tribunalului Neamţ - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "og/1997/51"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-02-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134961",
+  "text_sha256": "d7ae044db65c9c52c92186a8e8533844d43339c6e5220117703d5989f3018483",
+  "catalogue_sha256": "d7ae044db65c9c52c92186a8e8533844d43339c6e5220117703d5989f3018483",
+  "fetched": "2026-11-03T04:19:48Z",
+  "chars": 7777,
+  "portal_id": "134961",
+  "tip": "DECIZIE"
+ }
+}
