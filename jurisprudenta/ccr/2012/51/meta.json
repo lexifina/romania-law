@@ -1,0 +1,451 @@
+{
+ "key": "dcc-51-2012",
+ "label": "Decizia CCR nr. 51/2012",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "51",
+ "date": "2012-01-25",
+ "year": "2012",
+ "heading": "DECIZIE nr. 51 din 25 ianuarie 2012",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a dispoziţiilor Legii privind organizarea şi desfăşurarea alegerilor pentru autorităţile administraţiei publice locale şi a alegerilor pentru Camera Deputaţilor şi Senat din anul 2012, precum şi pentru modificarea şi completarea titlului I al Legii nr. 35/2008 pentru alegerea Camerei Deputaţilor şi a Senatului şi pentru modificarea şi completarea Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, a Legii administraţiei publice locale nr. 215/2001 şi a Legii nr. 393/2004 privind Statutul aleşilor locali",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "90",
+  "bis": false,
+  "date": "2012-02-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constată că Legea privind organizarea şi desfăşurarea alegerilor pentru autorităţile administraţiei publice locale şi a alegerilor pentru Camera Deputaţilor şi Senat din anul 2012, precum şi pentru modificarea şi completarea titlului I al Legii nr. 35/2008 pentru alegerea Camerei Deputaţilor şi a Senatului şi pentru modificarea şi completarea Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, a Legii administraţiei publice locale nr. 215/2001 şi a Legii nr. 393/2004 privind Statutul aleşilor locali este neconstituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 70
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 521/2005",
+    "number": "521",
+    "year": "2005",
+    "path": "hg/2005/521"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/2008",
+    "number": "35",
+    "year": "2008",
+    "path": "lege/2008/35"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 69/1991",
+    "number": "69",
+    "year": "1991",
+    "path": "lege/1991/69"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 802/2008",
+    "number": "802",
+    "year": "2008",
+    "path": "hg/2008/802"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 66/2008",
+    "number": "66",
+    "year": "2008",
+    "path": "oug/2008/66"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 97/2008",
+    "number": "97",
+    "year": "2008",
+    "path": "oug/2008/97"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 67/2004",
+    "number": "67",
+    "year": "2004",
+    "path": "lege/2004/67"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-02-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134970",
+  "text_sha256": "4e9cb630d016923f24dda5f5cdd6722b7a350cc944cc2bedf98124f464c30df7",
+  "catalogue_sha256": "4e9cb630d016923f24dda5f5cdd6722b7a350cc944cc2bedf98124f464c30df7",
+  "fetched": "2026-11-04T00:02:59Z",
+  "chars": 104028,
+  "portal_id": "134970",
+  "tip": "DECIZIE"
+ }
+}
