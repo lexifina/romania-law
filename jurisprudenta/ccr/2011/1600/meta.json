@@ -1,0 +1,287 @@
+{
+ "key": "dcc-1600-2011",
+ "label": "Decizia CCR nr. 1600/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1600",
+ "date": "2011-12-15",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.600 din 15 decembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii partidelor politice nr. 14/2003, ale Legii nr. 43/2003 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, ale Legii nr. 90/2003 privind vânzarea spaţiilor aflate în proprietatea privată a statului sau a unităţilor administrativ-teritoriale, destinate sediilor partidelor politice, ale Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale şi ale Legii nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "113",
+  "bis": false,
+  "date": "2012-02-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4/3/2000",
+  "225D/2011",
+  "859D/2011",
+  "860D/2011",
+  "360/3/2005"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 43/2003",
+    "number": "43",
+    "year": "2003",
+    "path": "lege/2003/43"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 90/2003",
+    "number": "90",
+    "year": "2003",
+    "path": "lege/2003/90"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 334/2006",
+    "number": "334",
+    "year": "2006",
+    "path": "lege/2006/334"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Legii partidelor politice nr. 14/2003, ale Legii nr. 43/2003 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, ale Legii nr. 90/2003 privind vânzarea spaţiilor aflate în proprietatea privată a statului sau a unităţilor administrativ-teritoriale, destinate sediilor partidelor politice, ale Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale şi ale Legii nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, excepţie ridicată de Partidul Solidarităţii Democratice pentru Şanse Egale şi o Societate mai Bună în dosarele nr. 4/3/2000 şi nr. 360/3/2005 ale Tribunalului Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 334/2006",
+    "number": "334",
+    "year": "2006",
+    "path": "lege/2006/334"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 43/2003",
+    "number": "43",
+    "year": "2003",
+    "path": "lege/2003/43"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 90/2003",
+    "number": "90",
+    "year": "2003",
+    "path": "lege/2003/90"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 13/2008",
+    "number": "13",
+    "year": "2008",
+    "path": "lege/2008/13"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-02-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/135396",
+  "text_sha256": "c1b2abe58218fb8898ba829650fa1af6e2c70ea0507d01d5a6739b7600c153db",
+  "catalogue_sha256": "c1b2abe58218fb8898ba829650fa1af6e2c70ea0507d01d5a6739b7600c153db",
+  "fetched": "2026-11-03T04:19:17Z",
+  "chars": 19486,
+  "portal_id": "135396",
+  "tip": "DECIZIE"
+ }
+}
