@@ -1,0 +1,74 @@
+ PROGRAM din 2 noiembrie 2010  de colaborare culturală, ştiinţifică şi tehnică între Guvernul României şi Guvernul Republicii Tunisiene pentru anii 2010-2013     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 115 din 14 februarie 2012     Guvernul României şi Guvernul Republicii Tunisiene, denumite în continuare părţi,  animate de dorinţa de a dezvolta relaţiile culturale şi ştiinţifice dintre cele două state şi în conformitate cu articolul 11 al Acordului de colaborare culturală între Republica Socialistă România şi Republica Tunisia, semnat la Bucureşti la 21 aprilie 1966,  au convenit următorul program de colaborare pentru anii 2010-2013:
+				 +
+			  Capitolul I   Artă şi cultură
+				 +
+			  Articolul 1     Părţile vor încuraja colaborarea între muzeele şi instituţiile pentru protecţia monumentelor din cele două state, prin schimb de publicaţii arheologice, istorice şi etnografice.  Instituţiile româneşti specializate vor stabili relaţii cu Agenţia Naţională pentru Punerea în Valoare a Patrimoniului şi Dezvoltare Culturală în materie de promovare didactică a patrimoniului muzeelor.
+				 +
+			  Articolul 2     Părţile vor face schimb de artişti şi de grupuri artistice pentru a prezenta spectacole. Condiţiile financiare şi de organizare a acestor schimburi vor fi stabilite între instituţiile interesate din cele două state.
+				 +
+			  Articolul 3     Partea română este invitată de partea tunisiană să participe la Zilele Teatrale de la Cartagina.
+				 +
+			  Articolul 4     Părţile vor favoriza schimbul de material documentar scris şi sonor şi vor sprijini stabilirea unei colaborări strânse între centrele de artă dramatică şi scenică din cele două state.
+				 +
+			  Articolul 5     Părţile vor invita ansambluri muzicale şi de dans la festivalurile internaţionale ce vor fi organizate în fiecare dintre cele două state.
+				 +
+			  Articolul 6     Instituţiile muzicale româneşti şi Centrul de Muzică Arabă şi Mediteraneeană (CMAM) "Ennejma Ezzahra" vor favoriza schimbul de experienţă şi vor încuraja colaborarea în special prin:      a) punerea la dispoziţia fonotecii CMAM de cărţi şi documente specializate în domeniul muzicii;   ...        b) schimb de instrumentişti şi muzicologi în vederea organizării de concerte şi conferinţe, pentru o perioadă care să nu depăşească o săptămână.   ...
+				 +
+			  Articolul 7     Părţile vor încuraja contactele dintre instituţiile şi asociaţiile cinematografice din cele două state. Părţile vor face schimb de informaţii, precum şi de publicaţii şi documente - cărţi, periodice, reviste, referitoare la producţiile lor cinematografice.  Detaliile acestei colaborări vor fi stabilite direct între instituţiile interesate.
+				 +
+			  Articolul 8     Părţile vor încuraja participarea cineaştilor şi organizatorilor de festivaluri la manifestări cinematografice internaţionale organizate de fiecare parte pe teritoriile statelor lor.
+				 +
+			  Articolul 9     Părţile vor încuraja colaborarea dintre bibliotecile lor. Părţile vor face schimb de bibliografie, publicaţii, cataloage ale manuscriselor, microfilme şi documente referitoare la istoria şi cultura celor două state, în conformitate cu legislaţia în vigoare.
+				 +
+			  Articolul 10     Părţile vor face schimburi de expoziţii de artă plastică, de fotografii şi de obiecte de artă. Expoziţiile pot fi însoţite de un comisar, pentru o perioadă de 7-10 zile.
+				 +
+			  Articolul 11     Părţile vor organiza, pe bază de reciprocitate, manifestări culturale şi artistice cu ocazia aniversării unor evenimente importante ale istoriei şi culturii celor două state.
+				 +
+			  Capitolul II   Academii
+				 +
+			  Articolul 12     Părţile vor favoriza contactele dintre instituţiile româneşti similare şi Academia Tunisiană de Ştiinţe, Litere şi Arte "Beit Al-Hikma", în special prin:      a) elaborarea în comun de lucrări ştiinţifice şi literare;   ...        b) schimb de savanţi şi de publicaţii universitare şi academice;   ...        c) iniţierea oricărei alte acţiuni care poate fi înscrisă în cadrul programului Academiei "Beit Al-Hikma" pentru anii 2010-2013.   ...
+				 +
+			  Capitolul III   Mass-media
+				 +
+			  Articolul 13     Părţile vor favoriza difuzarea reciprocă de informaţii privind diferite aspecte ale vieţii politice, sociale şi culturale din statele lor.
+				 +
+			  Articolul 14     Părţile vor depune eforturi pentru dezvoltarea colaborării şi schimbului de experienţă în domeniul audiovizualului. Detaliile acestei colaborări vor fi stabilite prin acorduri separate între instituţiile de resort din ambele state.
+				 +
+			  Articolul 15     Cu ocazia sărbătorilor lor naţionale, fiecare parte va difuza, în funcţie de posibilităţi, un program radiofonic sau un program de televiziune special, pentru a celebra aceste evenimente.
+				 +
+			  Articolul 16     Cele două părţi vor încuraja colaborarea stabilită între Agenţia Naţională de Presă "AGERPRES" şi Agenţia Tunis Afrique Presse "TAP", precum şi dezvoltarea unui schimb permanent de informaţii. Cele două agenţii vor studia modalităţile care să conducă la concretizarea acestui schimb.
+				 +
+			  Capitolul IV   Sport şi tineret
+				 +
+			  Articolul 17     Părţile îşi exprimă satisfacţia privind nivelul colaborării în domeniul sportului şi tineretului şi se felicită pentru aplicarea şi îndeplinirea schimburilor convenite direct între instituţiile din domeniul sportului şi tineretului din cele două state.
+				 +
+			  Capitolul V   Sănătate
+				 +
+			  Articolul 18     Părţile vor sprijini iniţierea şi dezvoltarea unei colaborări fructuoase şi de interes comun prin:  1) schimb de experienţă, informaţii şi documentaţie referitoare la:      a) statistici, planificare sanitară şi gestionarea programelor de sănătate publică;   ...        b) rapoarte epidemiologice asupra bolilor transmisibile;   ...        c) formarea şi perfecţionarea personalului medical, paramedical şi tehnic;   ...    2) încurajarea colaborării directe între:      a) spitale;   ...        b) instituţiile de cercetare aparţinând departamentelor sanitare respective.   ...
+				 +
+			  Capitolul VI   Protecţie socială
+				 +
+			  Articolul 19     Părţile vor încuraja următoarele acţiuni:      a) schimbul de profesionişti în domeniul formării formatorilor, al reeducării şi integrării copiilor şi adulţilor cu handicap;   ...        b) schimbul de vizite între responsabilii şi specialiştii în domeniul promovării sociale şi al dezvoltării comunitare;   ...        c) schimbul de informaţii şi documentaţie în domeniile integrării educaţionale şi profesionale a persoanelor cu handicap, precum şi promovarea categoriilor defavorizate;   ...        d) întărirea colaborării dintre asociaţiile din cele două state care activează în domeniul persoanelor cu handicap;   ...        e) înfrăţirea centrelor de educare şi integrare a persoanelor cu handicap.   ...
+				 +
+			  Articolul 20     Părţile vor încuraja schimbul de experienţă şi de documentaţie privind:      a) strategia formării în domeniul sănătăţii şi securităţii în muncă, gestionată de Institutul Sănătăţii şi Securităţii în Muncă (ISST) din Tunisia, respectiv de instituţiile române similare;   ...        b) metodele pedagogice, în special cele referitoare la elaborarea ghidurilor educative destinate formatorilor specializaţi în prevenire din întreprinderi sau formatorilor din centrele de formare profesională;   ...        c) înfiinţarea unei unităţi audiovizuale pentru elaborarea de materiale privind sensibilizarea şi educarea în domeniul sănătăţii şi securităţii în muncă;   ...        d) dezvoltarea experienţei celor două state în domeniul elaborării materialelor informative şi educative: afişe, pliante, autocolante, reviste ştiinţifice;   ...        e) organizarea şi utilizarea referinţelor bibliografice în scopul gestionării rapide a accesului la informaţie şi al actualizării bibliografiei de specialitate;   ...        f) bibliografia în limba franceză sau engleză şi experienţa în domeniul gestiunii asistate: sisteme de microfişe, CD-uri, bănci de date informatizate.   ...
+				 +
+			  Capitolul VII   Educaţie
+				 +
+			  Articolul 21     Părţile, pentru o mai bună cunoaştere reciprocă, vor proceda la schimburi de informaţii şi de documentaţie cu privire la sistemele lor educative: programe, manuale, materiale.
+				 +
+			  Articolul 22     Părţile vor încuraja schimburile de vizite de maximum 3 experţi pentru o perioadă ce nu va depăşi 5 zile, pentru a se familiariza cu experienţele şi inovaţiile din domeniul pedagogic: folosirea noilor tehnologii şi metodologii de învăţământ.
+				 +
+			  Articolul 23     Părţile vor favoriza, pe căi diplomatice, schimburile culturale dintre instituţii şcolare, în cadrul participării la întâlniri şi manifestări educative şi sportive: olimpiade, concursuri.
+				 +
+			  Capitolul VIII   Dispoziţii generale şi financiare
+				 +
+			  Articolul 24     În scopul întăririi legăturilor de prietenie şi colaborare dintre cele două state, părţile vor încuraja alte activităţi, schimburi culturale şi tehnice care vor fi convenite pe căi diplomatice.
+				 +
+			  Articolul 25     Cu excepţia cazurilor în care s-a convenit altfel, cheltuielile privind schimburile de persoane şi grupuri pe perioade de scurtă durată, de maximum o lună, vor fi suportate astfel:      a) partea invitată va suporta cheltuielile de transport internaţional dus-întors; partea primitoare asigură cazarea şi masa, precum şi transportul intern, în conformitate cu programul vizitei;   ...        b) participanţii la schimburile din cadrul prezentului program vor beneficia de asistenţă medicală pe teritoriul statului primitor, în baza asigurărilor de sănătate încheiate cu societăţile de asigurări private.   ...
+				 +
+			  Articolul 26     Pentru organizarea expoziţiilor prevăzute în prezentul program, cheltuielile vor fi suportate astfel:      a) transportul internaţional dus-întors şi asigurarea exponatelor, inclusiv pe durata expoziţiei, vor fi asigurate de partea trimiţătoare;   ...        b) transportul intern, montarea exponatelor, publicitatea, cataloagele, invitaţiile, cazarea vor fi asigurate de partea primitoare;   ...        c) partea primitoare va asigura securitatea exponatelor pe teritoriul statului său. În cazul deteriorării acestora, partea primitoare va furniza documentaţia referitoare la daunele provocate, în vederea sprijinirii demersurilor părţii trimiţătoare pe lângă compania de asigurare. Cheltuielile privind achiziţionarea documentaţiei respective vor fi suportate de partea primitoare;   ...        d) în cazul în care un comisar va însoţi expoziţia, partea trimiţătoare va suporta cheltuielile de transport internaţional dus-întors, iar partea primitoare va suporta cheltuielile de şedere ale acestuia, în conformitate cu prevederile pentru vizitele de scurtă durată.   ...
+				 +
+			  Articolul 27     Toate activităţile prevăzute în cadrul prezentului program vor fi puse în aplicare în conformitate cu legislaţia şi posibilităţile financiare ale fiecărei părţi, cu condiţia stabilirii acestor acţiuni pe căi diplomatice.
+				 +
+			  Articolul 28     Prezentul program intră în vigoare la data primirii de către partea română a notificării scrise prin care partea tunisiană informează asupra îndeplinirii procedurilor interne şi este valabil până la 31 decembrie 2013.  Semnat la Tunis la 2 noiembrie 2010, în două exemplare originale, în limbile română, arabă şi franceză, toate textele fiind egal autentice. În caz de divergenţă de interpretare, textul în limba franceză va prevala.  Pentru Guvernul României,  Sorin-Mihail Tănăsescu,  ambasadorul României în Republica Tunisiană  Pentru Guvernul Republicii Tunisiene,  Naceur Mestiri,  director al Direcţiei Relaţii cu Uniunea Europeană  şi Organismele Europene şi Mediteraneene  din Ministerul Afacerilor Externe  ------------
