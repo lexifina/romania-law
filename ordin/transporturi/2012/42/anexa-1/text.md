@@ -1,0 +1,2 @@
+# ANEXE nr. 1-8
+ANEXE privind modificarea și completarea Reglementărilor privind certificarea încadrării vehiculelor rutiere înmatriculate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică - RNTR 1, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005
