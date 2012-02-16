@@ -1,0 +1,179 @@
+{
+ "key": "iccj-ril-28-2011",
+ "label": "Decizia ÎCCJ nr. 28/2011 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "28",
+ "date": "2011-12-12",
+ "year": "2011",
+ "heading": "DECIZIE nr. 28 din 12 decembrie 2011",
+ "subtitle": "privind examinarea recursului în interesul legii în vederea interpretării şi aplicării unitare a dispoziţiilor art. 320^1 din Codul de procedură penală, cu privire la momentul până la care sunt aplicabile prevederile referitoare la procedura de judecată simplificată",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "119",
+  "bis": false,
+  "date": "2012-02-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "dossiers": [
+  "27/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie în vederea interpretării şi aplicării unitare a dispoziţiilor art. 320^1 alin. 1 şi 7 din Codul de procedură penală, cu privire la momentul procesual până la care sunt aplicabile prevederile referitoare la procedura de judecată simplificată.",
+  "Obligatorie, potrivit art. 414^5 alin. 4 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320-1",
+     "alin": [
+      "1",
+      "7",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "XXII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2012-02-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/135452",
+  "text_sha256": "d1f9cd1a60ac2a4bc5e181385783333d4e39c6207644d368c0c53c2f86739ad6",
+  "catalogue_sha256": "d1f9cd1a60ac2a4bc5e181385783333d4e39c6207644d368c0c53c2f86739ad6",
+  "fetched": "2026-11-03T04:19:15Z",
+  "chars": 20310,
+  "portal_id": "135452",
+  "tip": "DECIZIE"
+ }
+}
