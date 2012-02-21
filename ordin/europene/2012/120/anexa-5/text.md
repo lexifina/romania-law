@@ -1,0 +1,15 @@
+# Anexa 3
+Ministerul Afacerilor Europene
+Direcția generală autoritatea pentru coordonarea instrumentelor structurale
+Nr.........../........
+AVIZ CONSULTATIV
+În temeiul dispozițiilor art. 4 alin. (7) lit. c) și d) din Hotărârea Guvernului nr. 595/2009 pentru aplicarea Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare, cu modificările și completările ulterioare, având în vedere Cererea...........(denumirea instituției publice care solicită avizul favorabil).......... cu nr........ din........, în urma analizării reglementărilor comunitare privind gestionarea fondurilor nerambursabile comunitare și a următoarelor documente prezentate:
+1..................................................;
+2..................................................;
+3..................................................; 4...................................................;
+5..................................................;....................................................,
+Direcția generală autoritatea pentru coordonarea instrumentelor structurale atestă faptul că structurile și/sau persoanele menționate în anexă au ca obiect de activitate gestionarea asistenței financiare nerambursabile comunitare și îndeplinesc criteriile prevăzute la art. 2 alin. (1) din Hotărârea Guvernului nr. 595/2009, cu modificările și completările ulterioare, pentru a beneficia de majorările salariale reglementate de Legea nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare, cu modificările și completările ulterioare........................., (numele și prenumele) director general [L. S.]
+Avizat...................................... (numele și prenumele/funcția/data)
+Semnătura................
+Redactat.................................... (numele și prenumele/funcția/data)
+Semnătura................
