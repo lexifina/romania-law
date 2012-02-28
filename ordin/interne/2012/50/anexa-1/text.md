@@ -1,0 +1,43 @@
+# Anexa
+MINISTERUL ADMINISTRAȚIEI ȘI INTERNELOR Instituția.................................. SITUAȚIA privind plățile efectuate în data de..............
+- lei -
+Denumirea indicatorului
+Suma
+plătită
+Explicație
+0
+1
+2
+TITLUL I - CHELTUIELI DE PERSONAL - total, din
+care:
+......................
+TITLUL II - BUNURI ȘI SERVICII - total, din care:
+......................
+TITLUL III - DOBÂNZI - total, din care:
+......................
+TITLUL VI - TRANSFERURI ÎNTRE UNITĂȚI ALE
+ADMINISTRAȚIEI PUBLICE - total, din care:
+......................
+TITLUL VII - ALTE TRANSFERURI - total, din care:
+......................
+TITLUL VIII - PROIECTE CU FINANȚARE DIN FONDURI
+EXTERNE NERAMBURSABILE (FEN) POSTADERARE - total,
+din care:
+......................
+TITLUL IX - ASISTENȚĂ SOCIALĂ - total, din care:
+......................
+TITLUL X - ALTE CHELTUIELI - total, din care:
+......................
+TITLUL XI - CHELTUIELI AFERENTE PROGRAMELOR CU
+FINANȚARE RAMBURSABILĂ - total, din care:
+......................
+TITLUL XII - ACTIVE NEFINANCIARE - total, din care:
+......................
+TITLUL XIV - FONDUL NAȚIONAL DE DEZVOLTARE - total,
+din care:
+......................
+TITLUL XVI - RAMBURSĂRI DE CREDITE - total, din
+care:
+......................
+-----------
+---------
