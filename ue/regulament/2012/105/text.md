@@ -1,0 +1,26 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) NR. 105/2012 AL COMISIEI
+din 7 februarie 2012
+privind clasificarea anumitor mărfuri în Nomenclatura combinată
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CEE) nr. 2658/87 al Consiliului din 23 iulie 1987 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun (1), în special articolul 9 alineatul (1) litera (a),
+întrucât:
+(1) Pentru a asigura aplicarea uniformă a Nomenclaturii combinate anexate la Regulamentul (CEE) nr. 2658/87, este necesar să se adopte măsuri privind clasificarea mărfurilor menționate în anexa la prezentul regulament.
+(2) Regulamentul (CEE) nr. 2658/87 stabilește regulile generale pentru interpretarea Nomenclaturii combinate. Aceste reguli se aplică, de asemenea, oricăror alte nomenclaturi bazate integral sau parțial pe aceasta sau care îi adaugă acesteia subdiviziuni suplimentare și care sunt stabilite prin dispoziții UE specifice, în vederea aplicării de măsuri tarifare sau de altă natură privind comerțul cu mărfuri.
+(3) În temeiul acestor reguli generale, mărfurile descrise în coloana 1 a tabelului din anexă trebuie clasificate la codurile NC indicate în coloana 2, pe baza motivelor care figurează în coloana 3 a aceluiași tabel.
+(4) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului Codului Vamal,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Mărfurile descrise în coloana 1 a tabelului din anexă se clasifică în Nomenclatura combinată la codurile NC indicate în coloana 2 a aceluiași tabel.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 7 februarie 2012.
+Pentru Comisie, pentru președinte
+Algirdas ŠEMETA
+Membru al Comisiei
+(1) JO L 256, 7.9.1987, p. 1.
+ANEXĂ
+Descrierea mărfurilor | Clasificare (cod NC) | Motive
+(1) | (2) | (3)
+Un aparat multifuncțional, cu dimensiuni de aproximativ 62 × 76 × 98 cm și o greutate de aproximativ 153 kg, care cuprinde un scaner și o imprimantă electrostatică. Are o alimentare cu hârtie automată de 150 de pagini pentru copierea originalelor față-verso, două tăvițe de alimentare cu hârtie, un panou de comandă pentru utilizator, o memorie RAM de 2,5 GB și un hard disk încorporat de 80 GB. Este echipat cu interfețe USB, WLAN și Ethernet. Aparatul este capabil să îndeplinească următoarele funcții: — scanare, — imprimare și — copiere digitală. Aparatul poate transmite, de asemenea, documente scanate pe Internet (așa-numita „transmisie prin fax pe e-mail/Internet”). Aparatul poate reproduce până la 51 de pagini format A4 pe minut. Acesta poate, de asemenea, să micșoreze sau să mărească imaginile pe care le scanează (zoom de 25 - 400 %). Are o viteză de scanare de 70 de imagini pe minut. Rezoluția imprimării este de 1 200 × 1 200 dpi numai pentru text și de 600 × 600 dpi pentru imagini. Rezoluția de copiere este de 600 × 600 dpi. Aparatul funcționează fie în mod autonom ca și copiator, prin scanarea originalului și imprimarea copiilor prin intermediul unei imprimante electrostatice, fie, în cazul în care este conectat la o rețea sau la o mașină automată de prelucrare a datelor, ca imprimantă și scaner, precum și pentru transmisie prin fax pe Internet. | 8443 31 80 | Clasificarea se stabilește pe baza regulilor generale 1 și 6 de interpretare a Nomenclaturii combinate și pe baza textului codurilor NC 8443 , 8443 31 și 8443 31 80 . Având în vedere caracteristicile sale, niciuna dintre funcțiile aparatului nu poate fi considerată ca fiind cea principală, iar clasificarea la subpoziția 8443 31 20 este, prin urmare, exclusă. Viteza de reproducere, viteza de scanare, existența unei alimentări cu hârtie automată, numărul de tăvițe de alimentare cu hârtie, panoul de comandă și funcția de mărire/micșorare nu sunt suficiente pentru a considera copierea digitală ca fiind funcția principală. Într-adevăr, viteza de reproducere este aceeași pentru copiere și pentru imprimare, întrucât aceasta depinde de dispozitivul de imprimare, care este utilizat pentru ambele funcții. Tăvițele de alimentare cu hârtie servesc, de asemenea, atât funcției de imprimare cât și celei de copiere. Viteza de scanare este relevantă atât pentru scanare cât și pentru copiere. Alimentarea cu hârtie automată și panoul de comandă sunt utilizate în egală măsură pentru copiere, scanare și transmisie prin fax pe Internet. Prezența funcției de mărire/micșorare, care este legată mai ales de procesul de copiere, nu este suficientă pentru a considera copierea ca fiind funcția principală. În plus, capacitatea aparatului de a se conecta la o mașină automată de prelucrare a datelor sau la o rețea este o caracteristică importantă, deoarece permite imprimarea și scanarea documentelor de la/către mașina automată de prelucrare a datelor, precum și transmiterea acestora prin intermediul Internetului. Prin urmare, aparatul trebuie clasificat la codul NC 8443 31 80 , ca alte aparate care îndeplinesc două sau mai multe funcții de imprimare, copiere sau transmisie prin fax și care nu au ca funcție principală copierea digitală.
