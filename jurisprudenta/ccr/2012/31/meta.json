@@ -1,0 +1,153 @@
+{
+ "key": "dcc-31-2012",
+ "label": "Decizia CCR nr. 31/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "31",
+ "date": "2012-01-19",
+ "year": "2012",
+ "heading": "DECIZIE nr. 31 din 19 ianuarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 61 şi art. 106 din Legea nr. 58/1934 asupra cambiei şi biletului la ordin",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "141",
+  "bis": false,
+  "date": "2012-03-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "31.148/197/2011",
+  "1.247D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1934",
+    "number": "58",
+    "year": "1934",
+    "path": "lege/1934/58"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 61 şi art. 106 din Legea nr. 58/1934 asupra cambiei şi biletului la ordin, excepţie invocată de Societatea Comercială Mac 3 - S.R.L. din Braşov în Dosarul nr. 31.148/197/2011 al Judecătoriei Braşov.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1934",
+    "number": "58",
+    "year": "1934",
+    "path": "lege/1934/58"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-03-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/135857",
+  "text_sha256": "3e4cd14938622a813f62848b3bf5ab5c2e67cf1ff503094c6c62b7f1a6bcbb94",
+  "catalogue_sha256": "3e4cd14938622a813f62848b3bf5ab5c2e67cf1ff503094c6c62b7f1a6bcbb94",
+  "fetched": "2026-11-05T13:23:50Z",
+  "chars": 12780,
+  "portal_id": "135857",
+  "tip": "DECIZIE"
+ }
+}
