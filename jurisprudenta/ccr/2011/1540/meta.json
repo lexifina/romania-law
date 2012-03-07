@@ -1,0 +1,361 @@
+{
+ "key": "dcc-1540-2011",
+ "label": "Decizia CCR nr. 1540/2011",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1540",
+ "date": "2011-12-06",
+ "year": "2011",
+ "heading": "DECIZIE nr. 1.540 din 6 decembrie 2011",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2, art. 13 alin. (2), art. 14 alin. (1) lit. t) şi alin. (2), art. 35 alin. (1) şi (2), art. 36, art. 38 alin. (1), art. 46 alin. (2), art. 55 alin. (3), art. 88 alin. (1) lit. b) şi d) şi alin. (2) şi (3), art. 89, art. 91, art. 92 şi art. 95 din Ordonanţa de urgenţă a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "151",
+  "bis": false,
+  "date": "2012-03-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.607/318/2010",
+  "4.700D/2010",
+  "6.419/202/2010",
+  "4.745/337/2010",
+  "6.417/100/2010",
+  "1.893/334/2010",
+  "16.821/225/2010",
+  "6.027/204/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "oug/2010/50"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "t"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 2, art. 13 alin. (2), art. 14 alin. (1) lit. t) şi alin. (2), art. 35 alin. (1) şi (2), art. 36, art. 38 alin. (1), art. 46 alin. (2), art. 55 alin. (3), art. 88 alin. (1) lit. b) şi d) şi alin. (2) şi (3), art. 89, art. 91, art. 92 şi art. 95 din Ordonanţa de urgenţă a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori, excepţie ridicată de Societatea Comercială Volksbank România - S.A. din Bucureşti în Dosarul nr. 17.607/318/2010 al Judecătoriei Târgu Jiu, în Dosarul nr. 6.419/202/2010 al Judecătoriei Călăraşi, în Dosarul nr. 4.745/337/2010 al Judecătoriei Zalău, în Dosarul nr. 6.417/100/2010 al Tribunalului Maramureş - Secţia comercială, de contencios administrativ şi fiscal, în dosarele nr. 12.613/288/2010 şi nr. 14.103/288/2010 ale Judecătoriei Râmnicu Vâlcea, în Dosarul nr. 1.893/334/2010 al Judecătoriei Vatra Dornei, în Dosarul nr. 16.821/225/2010 al Judecătoriei Drobeta-Turnu Severin şi în Dosarul nr. 6.027/204/2010 al Judecătoriei Câmpina - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "oug/2010/50"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "t"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": [
+      "1",
+      "3",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-03-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/135965",
+  "text_sha256": "bf26a66c9514526dbdf4ba00b7be4e9adedd129da96515c29133b0eed0d4e5ae",
+  "catalogue_sha256": "bf26a66c9514526dbdf4ba00b7be4e9adedd129da96515c29133b0eed0d4e5ae",
+  "fetched": "2026-11-03T04:18:49Z",
+  "chars": 28834,
+  "portal_id": "135965",
+  "tip": "DECIZIE"
+ }
+}
