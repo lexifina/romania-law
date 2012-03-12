@@ -1,0 +1,26 @@
+# DECIZIE nr. 143 din 21 februarie 2012
+referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 164 din Codul de procedură civilă
+Augustin Zegrean - preşedinte Aspazia Cojocaru - judecător Acsinte Gaspar - judecător Mircea Ştefan Minea - judecător Iulia Antoanella Motoc - judecător Ion Predescu - judecător Puskas Valentin Zolta - judecător Tudorel Toader - judecător Doina Suliman - magistrat-asistent-şef Cu participarea reprezentantului Ministerului Public, procuror Antonia Constantin.
+Pe rol se află soluţionarea excepţiei de neconstituţionalitate a dispoziţiilor art. 164 din Codul de procedură civilă, excepţie ridicată de Dănuţ Bărăitaru şi Elena Bărăitaru în Dosarul nr. 15.658/280/2009 al Judecătoriei Piteşti - Secţia civilă şi care formează obiectul Dosarului Curţii Constituţionale nr. 242D/2011.
+La apelul nominal lipsesc părţile, faţă de care procedura de citare este legal îndeplinită.
+Cauza fiind în stare de judecată, preşedintele acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere a excepţiei de neconstituţionalitate.
+CURTEA, având în vedere actele şi lucrările dosarului, reţine următoarele:
+Prin Sentinţa civilă nr. 796/2011, pronunţată în Dosarul nr. 15.658/280/2009, Judecătoria Piteşti - Secţia civilă a sesizat Curtea Constituţională cu excepţia de neconstituţionalitate a dispoziţiilor art. 164 din Codul de procedură civilă.
+Excepţia a fost ridicată de pârâţii-reclamanţi Dănuţ Bărăitaru şi Elena Bărăitaru într-o cauză având ca obiect obligaţia de a face.
+În motivarea excepţiei de neconstituţionalitate autorii acesteia susţin că "prin aplicarea" dispoziţiilor de lege criticate "se permite şi se fac posibile situaţii" în care se încalcă art. 21 alin. (3) din Constituţie.
+Instanţa de judecată consideră că excepţia de neconstituţionalitate este neîntemeiată.
+Potrivit dispoziţiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Avocatului Poporului, pentru a-şi formula punctele de vedere cu privire la excepţia de neconstituţionalitate.
+Preşedinţii celor două Camere ale Parlamentului, Guvernul şi Avocatul Poporului nu au comunicat punctele de vedere asupra excepţiei de neconstituţionalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispoziţiile de lege criticate, raportate la prevederile Constituţiei, precum şi Legea nr. 47/1992, reţine următoarele:
+Curtea Constituţională este competentă, potrivit dispoziţiilor art. 146 lit. d) din Constituţie, precum şi ale art. 1 alin. (1) şi (2), ale art. 2, 3, 10 şi 29 din Legea nr. 47/1992, să soluţioneze excepţia de neconstituţionalitate cu care a fost sesizată.
+Obiectul excepţiei de neconstituţionalitate îl constituie dispoziţiile art. 164 din Codul de procedură civilă, având următorul cuprins: "Părţile vor putea cere întrunirea mai multor pricini ce se află înaintea aceleiaşi instanţe sau instanţe deosebite, de acelaşi grad, în care sunt aceleaşi părţi sau chiar împreună cu alte părţi şi al căror obiect şi cauză au între dânsele o strânsă legătură.
+Întrunirea poate fi făcută de judecător chiar dacă părţile nu au cerut-o.
+Dosarul va fi trimis instanţei mai întâi învestită, afară numai dacă amândouă părţile cer trimiterea lui la una din celelalte instanţe.
+Când una din pricini este de competenţa unei instanţe, şi părţile nu o pot înlătura, întrunirea se va face la acea instanţă." Autorul criticii susţine că aceste dispoziţii de lege contravin prevederilor constituţionale ale art. 21 alin. (3) care consacră "dreptul la un proces echitabil şi la soluţionarea cauzelor într-un termen rezonabil." Examinând excepţia de neconstituţionalitate, Curtea reţine că, potrivit art. 126 alin. (2) din Constituţie, procedura de judecată este stabilită numai prin lege, iar dispoziţiile de lege criticate, reglementând norme de procedură a căror interpretare şi aplicare revin instanţelor de judecată, nu contravin în niciun fel prevederilor constituţionale ale art. 21 alin. (3).
+De altfel, asupra constituţionalităţii art. 164 din Codul de procedură civilă în raport cu acelaşi text constituţional, Curtea sa pronunţat prin numeroase decizii, precum Decizia nr. 1.015 din 7 iulie 2009, publicată în Monitorul Oficial al României, Partea I, nr. 547 din 6 august 2009.
+Curtea observă însă că, în speţă, autorul excepţiei nu formulează o veritabilă critică de neconstituţionalitate, ci este nemulţumit de modul în care instanţa de judecată a aplicat dispoziţiile de lege criticate, ceea ce excedează controlului Curţii Constituţionale.
+Pentru motivele expuse, în temeiul art. 146 lit. d) şi al art. 147 alin. (4) din Constituţie, precum şi al art. 1-3, al art. 11 alin. (1) lit. A.d) şi al art. 29 din Legea nr. 47/1992, CURTEA CONSTITUŢIONALĂ În numele legii DECIDE:
+Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. 164 din Codul de procedură civilă, excepţie ridicată de Dănuţ Bărăitaru şi Elena Bărăitaru în Dosarul nr. 15.658/280/2009 al Judecătoriei Piteşti - Secţia civilă.
+Definitivă şi general obligatorie.
+Pronunţată în şedinţa publică din data de 21 februarie 2012.
+PREŞEDINTELE CURŢII CONSTITUŢIONALE, AUGUSTIN ZEGREAN Magistrat-asistent-şef, Doina Suliman _________
