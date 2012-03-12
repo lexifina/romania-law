@@ -1,0 +1,166 @@
+{
+ "key": "dcc-144-2012",
+ "label": "Decizia CCR nr. 144/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "144",
+ "date": "2012-02-21",
+ "year": "2012",
+ "heading": "DECIZIE nr. 144 din 21 februarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 43/1997 privind regimul drumurilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "161",
+  "bis": false,
+  "date": "2012-03-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "15.170/55/2010",
+  "252D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei Guvernului nr. 43/1997 privind regimul drumurilor, excepţie ridicată de Amet Orhan Danior în Dosarul nr. 15.170/55/2010 al Judecătoriei Arad - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "oug/1997/43"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-03-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/136055",
+  "text_sha256": "b78eb0b4bb7fd120e6d3d16a798e5412416c0f56fb9104c0642b1e810ad02a58",
+  "catalogue_sha256": "b78eb0b4bb7fd120e6d3d16a798e5412416c0f56fb9104c0642b1e810ad02a58",
+  "fetched": "2026-11-03T04:18:43Z",
+  "chars": 5754,
+  "portal_id": "136055",
+  "tip": "DECIZIE"
+ }
+}
