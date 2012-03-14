@@ -1,0 +1,290 @@
+{
+ "key": "dcc-84-2012",
+ "label": "Decizia CCR nr. 84/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "84",
+ "date": "2012-02-07",
+ "year": "2012",
+ "heading": "DECIZIE nr. 84 din 7 februarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 96 alin. (1) şi alin. (2) lit. b), art. 97 alin. (1) lit. a) şi alin. (2), art. 102 alin. (3) lit. e), art. 109 alin. (2) şi art. 118 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "168",
+  "bis": false,
+  "date": "2012-03-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.845/90/2010",
+  "154D/2011",
+  "6.911/288/2008"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "109",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 96 alin. (1) şi alin. (2) lit. b), art. 97 alin. (1) lit. a) şi alin. (2), art. 102 alin. (3) lit. e), art. 109 alin. (2) şi art. 118 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, excepţie ridicată de Todor Chiciudean în Dosarul nr. 3.845/90/2010 al Tribunalului Vâlcea - Secţia comercială şi contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "109",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-03-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/136152",
+  "text_sha256": "68d729a9ba182532a1b641ce25c18e3442fb9ab2a25fd68ead950dfc6f0b8188",
+  "catalogue_sha256": "68d729a9ba182532a1b641ce25c18e3442fb9ab2a25fd68ead950dfc6f0b8188",
+  "fetched": "2026-11-03T04:18:40Z",
+  "chars": 15917,
+  "portal_id": "136152",
+  "tip": "DECIZIE"
+ }
+}
