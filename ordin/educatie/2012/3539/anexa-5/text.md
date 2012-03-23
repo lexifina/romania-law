@@ -1,0 +1,3 @@
+# Anexa 2
+CERTIFICAT DE PREGĂTIRE PRACTICĂ
+----
