@@ -1,0 +1,9 @@
+În temeiul art. 500, 526, 532 și 546 din Legea nr. 95/2006 privind reforma în domeniul sănătății, cu modificările și completările ulterioare, și al art. 34 și 35 din Regulamentul de organizare și funcționare a Colegiului Medicilor Dentiști din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007 , Consiliul național al Colegiului Medicilor Dentiști din România decide:
+Articolul 1
+Comisia superioară de disciplină a Colegiului Medicilor Dentiști din România are următoarea componență: 1. Dr. Oleg Dobrovolschi 2. Prof. dr. Nicolae Gănuță 3. Prof. dr. Dumitru Oltean 4. Dr. Adrian Pană 5. Prof. dr. Mariana Păcurar 6. Dr. Ioan Săvinescu 7. Dr. Victor Valea
+Articolul 2
+Prezenta decizie intră în vigoare la data de 30 martie 2012.
+Articolul 3
+Prezenta decizie se publică în Monitorul Oficial al României, Partea I.
+Articolul 4
+La data intrării în vigoare a prezentei decizii se abrogă Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 12/2009 privind modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 5/2008 pentru adoptarea Regulamentului de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Dentiști din România, publicată în Monitorul Oficial al României, Partea I, nr. 295 din 6 mai 2009, precum și art. 2 din Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 5/2008 pentru adoptarea Regulamentului de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Dentiști din România, publicată în Monitorul Oficial al României, Partea I, nr. 382 din 20 mai 2008, cu modificările ulterioare. Președintele Colegiului Medicilor Dentiști din România, Ecaterina Ionescu București, 21 ianuarie 2012. Nr. 15. -----
