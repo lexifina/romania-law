@@ -1,0 +1,12 @@
+# Anexa nr. 6
+Anexa 6 (Anexa nr. 7 la Codul rețelei pentru Sistemul național de transport al gazelor naturale) Nominalizare/Renominalizare Subsemnatul............. [numele și datele de identificare ale utilizatorului rețelei], parte la Contractul de transport nr.............., încheiat între.................. [numele utilizatorului rețelei] și [numele operatorului sistemului de transport (OST)] în data de.............. [se va completa data] În conformitate cu prevederile Codului rețelei, vă rugăm să luați notă că nominalizarea/renominalizarea noastră pentru săptămâna/ziua gazieră [] este următoarea: Puncte de intrare
+Nr. crt. Codul PM* Denumirea PM* Partenerul UR (producător/ importator/ furnizor/OSÎ) Cantitatea MWh
+miercuri zz/ll/aa joi zz/ll/aa vineri zz/ll/aa sâmbătă zz/ll/aa duminică zz/ll/aa luni zz/ll/aa marți zz/ll/aa
+1. [cod] [nume] [nume] [valoare] [valoare] [valoare] [valoare] [valoare] [valoare] [valoare]
+-------- Punct de intrare fizic Puncte de ieșire
+Nr. crt. Codul SRM* Denumirea SRM* Partenerul UR (OSD/consumator direct/OSÎ) Cantitatea MWh
+miercuri zz/ll/aa joi zz/ll/aa vineri zz/ll/aa sâmbătă zz/ll/aa duminică zz/ll/aa luni zz/ll/aa marți zz/ll/aa
+1. [cod] [nume] [nume] [valoare] [valoare] [valoare] [valoare] [valoare] [valoare] [valoare]
+-------- Punct de ieșire fizic. Puterile calorifice superioare luate în calcul la elaborarea nominalizării/renominalizării sunt cele disponibile pe pagina de internet a OST la momentul elaborării solicitării respective, puteri calorifice superioare calculate și publicate în conformitate cu prevederile Regulamentului de măsurare a cantităților de gaze naturale tranzacționate în România, aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 62/2008, cu modificările ulterioare. Confirmăm prin prezenta că aceasta reprezintă singura nominalizare/renominalizare pentru săptămâna/ziua gazieră [] și ne rezervăm totodată dreptul de a face renominalizare în conformitate cu prevederile Codului rețelei. Confirmăm prin prezenta că aceasta reprezintă singura renominalizare pentru săptămâna/ziua gazieră []. Declarăm că nominalizarea/renominalizarea este în conformitate cu obligațiile contractuale potrivit portofoliului propriu de clienți. Așteptăm aprobarea dumneavoastră pentru valorile sus-menționate. Utilizatorul rețelei
+Data................... Reprezentant autorizat
+Semnătura:.............
