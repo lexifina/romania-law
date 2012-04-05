@@ -1,0 +1,183 @@
+{
+ "key": "dcc-95-2012",
+ "label": "Decizia CCR nr. 95/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "95",
+ "date": "2012-02-07",
+ "year": "2012",
+ "heading": "DECIZIE nr. 95 din 7 februarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. VI din Ordonanţa de urgenţă a Guvernului nr. 35/2009 privind reglementarea unor măsuri financiare în domeniul cheltuielilor de personal în sectorul bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "230",
+  "bis": false,
+  "date": "2012-04-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "805/110/2010",
+  "591D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 35/2009",
+    "number": "35",
+    "year": "2009",
+    "path": "oug/2009/35"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. VI din Ordonanţa de urgenţă a Guvernului nr. 35/2009 privind reglementarea unor măsuri financiare în domeniul cheltuielilor de personal în sectorul bugetar, excepţie ridicată de Vasile Jecu şi Adriana Elvira Bulgariu în Dosarul nr. 805/110/2010 al Curţii de Apel Bacău - Secţia comercială, contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 35/2009",
+    "number": "35",
+    "year": "2009",
+    "path": "oug/2009/35"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 30/2006",
+    "number": "30",
+    "year": "2006",
+    "path": "oug/2006/30"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-04-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/136906",
+  "text_sha256": "5f2cb3b017c8fa624dbd2a63737484b793e0b0aa40ab7f95e7b2d735902a538f",
+  "catalogue_sha256": "5f2cb3b017c8fa624dbd2a63737484b793e0b0aa40ab7f95e7b2d735902a538f",
+  "fetched": "2026-11-03T04:18:00Z",
+  "chars": 12312,
+  "portal_id": "136906",
+  "tip": "DECIZIE"
+ }
+}
