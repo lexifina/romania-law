@@ -1,0 +1,249 @@
+{
+ "key": "dcc-57-2012",
+ "label": "Decizia CCR nr. 57/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "57",
+ "date": "2012-01-26",
+ "year": "2012",
+ "heading": "DECIZIE nr. 57 din 26 ianuarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 8 alin. (3) din Ordonanţa Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare şi a tarifului de trecere pe reţeaua de drumuri naţionale din România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "244",
+  "bis": false,
+  "date": "2012-04-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.568/288/2010",
+  "100D/2011",
+  "7.930/182/2010",
+  "1.104/324/2011",
+  "15.585/200/2011",
+  "14.747/200/2011",
+  "1.225D/2011",
+  "586D/2011",
+  "771D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (3) din Ordonanţa Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare şi a tarifului de trecere pe reţeaua de drumuri naţionale din România, excepţie ridicată de Societatea Comercială \"Baran Impex\" - S.R.L. din Bucureşti în Dosarul nr. 6.568/288/2010 al Judecătoriei Râmnicu Vâlcea, de Societatea Comercială \"Orient\" - S.R.L. din Rădăuţi în Dosarul nr. 7.930/182/2010 al Judecătoriei Baia Mare - Secţia civilă, de Societatea Comercială \"Agrevo\" - S.R.L. din Corod în Dosarul nr. 1.104/324/2011 al Judecătoriei Tecuci, de Societatea Comercială \"Comind Thamos\" - S.R.L. din Focşani în Dosarul nr. 15.585/200/2011 al Judecătoriei Buzău - Secţia civilă, de Judecătoria Focşani, din oficiu, în Dosarul nr. 7.245/231/2010 şi de Ginel Trofin în Dosarul nr. 14.747/200/2011 al Judecătoriei Buzău.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-04-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137050",
+  "text_sha256": "ad109c4f295dac66bfcbda5a8bf1082a110b2734d8b132606956be4c2001d3bf",
+  "catalogue_sha256": "ad109c4f295dac66bfcbda5a8bf1082a110b2734d8b132606956be4c2001d3bf",
+  "fetched": "2026-11-05T14:47:27Z",
+  "chars": 31362,
+  "portal_id": "137050",
+  "tip": "DECIZIE"
+ }
+}
