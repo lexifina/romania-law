@@ -1,0 +1,346 @@
+{
+ "key": "iccj-ril-4-2012",
+ "label": "Decizia ÎCCJ nr. 4/2012 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "4",
+ "date": "2012-03-12",
+ "year": "2012",
+ "heading": "DECIZIE nr. 4 din 12 martie 2012",
+ "subtitle": "privind recursul în interesul legii referitor la interpretarea şi aplicarea dispoziţiilor art. 8 alin. (2) şi art. 11 din Legea nr. 130/1996 şi a dispoziţiilor art. 238 alin. (1) şi art. 241 alin. (1) din Codul muncii",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "248",
+  "bis": false,
+  "date": "2012-04-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/1996",
+    "number": "130",
+    "year": "1996",
+    "path": "lege/1996/130"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "238",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "241",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 40/2011",
+    "number": "40",
+    "year": "2011",
+    "path": "lege/2011/40"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Timişoara referitor la interpretarea şi aplicarea dispoziţiilor art. 8 alin. (2) şi art. 11 din Legea nr. 130/1996 privind contractul colectiv de muncă şi a dispoziţiilor art. 238 alin. (1) şi art. 241 alin. (1) din Codul muncii, texte legale în vigoare anterior adoptării Legii nr. 40/2011 şi Legii nr. 62/2011, cu privire la efectele clauzei din contractul colectiv de muncă la nivel de unitate şi care nu a fost anulată, prin care părţile convin să nu se acorde drepturile salariale prevăzute în contractul colectiv de muncă la nivel de grup de unităţi, precum şi în contractul colectiv de muncă la nivel de unitate.",
+  "Obligatorie, conform dispoziţiilor art. 330^7 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/1996",
+    "number": "130",
+    "year": "1996",
+    "path": "lege/1996/130"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "238",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "241",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "239",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "240",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "242",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "245",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 40/2011",
+    "number": "40",
+    "year": "2011",
+    "path": "lege/2011/40"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2012-04-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137099",
+  "text_sha256": "5be195d6028e9364055270ce59b7daae53a911ca72a9b3a1b344278c1b3bf2c2",
+  "catalogue_sha256": "5be195d6028e9364055270ce59b7daae53a911ca72a9b3a1b344278c1b3bf2c2",
+  "fetched": "2026-11-03T04:17:48Z",
+  "chars": 29802,
+  "portal_id": "137099",
+  "tip": "DECIZIE"
+ }
+}
