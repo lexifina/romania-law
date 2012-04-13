@@ -1,0 +1,5 @@
+Având în vedere dispozițiile art. V alin. (3) din Legea nr. 24/2012 pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor și a Legii nr. 317/2004 privind Consiliul Superior al Magistraturii, în temeiul prevederilor art. 133 alin. (5) și (7) din Constituția României, republicată, și ale art. 23 alin. (1) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, republicată, cu modificările și completările ulterioare, Plenul Consiliului Superior al Magistraturii hotărăște:
+Articolul I
+Articolul 29 din Regulamentul privind organizarea și desfășurarea concursului pentru numirea în funcție a inspectorului-șef și a inspectorului-șef adjunct ai Inspecției Judiciare, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 159/2012 , publicată în Monitorul Oficial al României, Partea I, nr. 184 din 21 martie 2012, se abrogă.
+Articolul II
+Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I. Președintele Consiliului Superior al Magistraturii, judecător Alina Nicoleta Ghica București, 5 aprilie 2012. Nr. 277. -----
