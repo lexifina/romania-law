@@ -1,0 +1,238 @@
+{
+ "key": "dcc-91-2012",
+ "label": "Decizia CCR nr. 91/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "91",
+ "date": "2012-02-07",
+ "year": "2012",
+ "heading": "DECIZIE nr. 91 din 7 februarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "260",
+  "bis": false,
+  "date": "2012-04-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.599/101/2010",
+  "420D/2011",
+  "3.669/40/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar, excepţie ridicată de Elena Boţilă în Dosarul nr. 6.599/101/2010 al Tribunalului Mehedinţi - Secţia comercială şi de contencios administrativ, de Sindicatul Învăţământului Preuniversitar Botoşani în dosarele nr. 3.669/40/2011, nr. 3.481/40/2011, nr. 3.475/40/2011, nr. 3.805/40/2011, nr. 3.472/40/2011, nr. 3.450/40/2011, nr. 3.484/40/2011, nr. 4.310/40/2011, nr. 3.459/40/2011, nr. 3.470/40/2011, nr. 3.477/40/2011 şi nr. 4.331/40/2011 ale Tribunalului Botoşani - Secţia civilă, precum şi de Sindicatul Învăţământ \"Corneliu Gheorghe Caranica\" Brăila în dosarele nr. 6.821/113/2010, nr. 6.364/113/2010, nr. 6.563/113/2010, nr. 6.299/113/2010, nr. 6.677/113/2010, nr. 6.573/113/2010, nr. 6.664/113/2010, nr. 7.492/113/2010, nr. 7.498/113/2010 nr. 6.560/113/2010, nr. 6.561/113/2010, nr. 6.569/113/2010, nr. 6.960/113/2010, nr. 6.557/113/2010, nr. 6.665/113/2010, nr. 6.417/113/2010, nr. 6.414/113/2010, nr. 6.362/113/2010, nr. 6.263/113/2010, nr. 6.412/113/2010, nr. 6.303/113/2010, nr. 6.366/113/2010, nr. 6.566/113/2010, nr. 6.559/113/2010, nr. 6.270/113/2010, nr. 6.370/113/2010, nr. 6.415/113/2010, nr. 6.959/113/2010 nr. 6.966/113/2010, nr. 6.273/113/2010 şi nr. 6.305/113/2010 ale Curţii de Apel Galaţi - Secţia pentru cauze privind conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-04-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137254",
+  "text_sha256": "c0bdeea59cc8c8c8ab970478648e67a1a96e91b40939b5ade3cdf069934706fc",
+  "catalogue_sha256": "c0bdeea59cc8c8c8ab970478648e67a1a96e91b40939b5ade3cdf069934706fc",
+  "fetched": "2026-11-03T04:17:40Z",
+  "chars": 22887,
+  "portal_id": "137254",
+  "tip": "DECIZIE"
+ }
+}
