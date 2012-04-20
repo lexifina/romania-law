@@ -1,0 +1,174 @@
+{
+ "key": "dcc-157-2012",
+ "label": "Decizia CCR nr. 157/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "157",
+ "date": "2012-02-23",
+ "year": "2012",
+ "heading": "DECIZIE nr. 157 din 23 februarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "262",
+  "bis": false,
+  "date": "2012-04-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "438/101/2011",
+  "1.280D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar, excepţie ridicată de Ioan Băloi, Ion Covaciu, Rozalia Cherata, Iulică Dinulescu, Nicolae Liubici, Valentin Martalogu, Gheorghe Papavă, Similia Lia Sitaru, Mihai Miulescu, Puiu Mircea Alexa şi Marin Minea în Dosarul nr. 438/101/2011 al Curţii de Apel Craiova - Secţia a II-a civilă şi pentru conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-04-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137275",
+  "text_sha256": "f60edf709ccd23857bc593af7d76fe6c6537672bb12e4e0cb20261011bb82cc0",
+  "catalogue_sha256": "f60edf709ccd23857bc593af7d76fe6c6537672bb12e4e0cb20261011bb82cc0",
+  "fetched": "2026-11-03T04:17:38Z",
+  "chars": 16739,
+  "portal_id": "137275",
+  "tip": "DECIZIE"
+ }
+}
