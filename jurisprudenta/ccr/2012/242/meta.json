@@ -1,0 +1,213 @@
+{
+ "key": "dcc-242-2012",
+ "label": "Decizia CCR nr. 242/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "242",
+ "date": "2012-03-15",
+ "year": "2012",
+ "heading": "DECIZIE nr. 242 din 15 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 118 alin. (3^1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "273",
+  "bis": false,
+  "date": "2012-04-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.579/281/2010",
+  "448D/2011",
+  "458D/2011",
+  "7.734/314/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 118 alin. (3^1) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, excepţie ridicată de Paul Adrian Petrov în Dosarul nr. 4.579/281/2010 al Judecătoriei Ploieşti şi de Bogdan Adrian Voronca în Dosarul nr. 7.734/314/2010 al Judecătoriei Roman.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "X",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-04-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137365",
+  "text_sha256": "968be63a3b14b49c2cdc521158ca3db9f0a771a4b5432c78e9691324a043935d",
+  "catalogue_sha256": "968be63a3b14b49c2cdc521158ca3db9f0a771a4b5432c78e9691324a043935d",
+  "fetched": "2026-11-03T04:17:32Z",
+  "chars": 9689,
+  "portal_id": "137365",
+  "tip": "DECIZIE"
+ }
+}
