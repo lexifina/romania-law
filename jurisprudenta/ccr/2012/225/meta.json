@@ -1,0 +1,467 @@
+{
+ "key": "dcc-225-2012",
+ "label": "Decizia CCR nr. 225/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "225",
+ "date": "2012-03-15",
+ "year": "2012",
+ "heading": "DECIZIE nr. 225 din 15 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5^2 şi art. 263 alin. 1 din Codul de procedură penală, art. 248, art. 249 şi art. 279 alin. (1) din Legea nr. 297/2004 privind piaţa de capital, art. 1 alin. (1) şi (3^1), art. 2 şi art. 4 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie, a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 134/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 43/2002, a dispoziţiilor Legii nr. 54/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 134/2005, precum şi a dispoziţiilor art. 87 alin. (1) şi (9^1) din Legea nr. 304/2004 privind organizarea judiciară",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "284",
+  "bis": false,
+  "date": "2012-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "46.717/3/2009",
+  "193D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "5-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "263",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2004",
+    "number": "297",
+    "year": "2004",
+    "path": "lege/2004/297"
+   },
+   "articles": [
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "279",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 134/2005",
+    "number": "134",
+    "year": "2005",
+    "path": "oug/2005/134"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 54/2006",
+    "number": "54",
+    "year": "2006",
+    "path": "lege/2006/54"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 263 alin. 1 din Codul de procedură penală, precum şi a dispoziţiilor art. 87 alin. (1) şi (9^1) din Legea nr. 304/2004 privind organizarea judiciară, excepţie ridicată de Niculaie Ghinea şi George Vodislav în Dosarul nr. 46.717/3/2009 al Tribunalului Bucureşti - Secţia a II-a penală. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 5^2 din Codul de procedură penală, art. 248, art. 249 şi art. 279 alin. (1) din Legea nr. 297/2004 privind piaţa de capital, art. 1 alin. (1) şi (3^1), art. 2 şi art. 4 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie, a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 134/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 43/2002, a dispoziţiilor Legii nr. 54/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 134/2005, excepţie ridicată de aceeaşi autori în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "5-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "263",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2004",
+    "number": "297",
+    "year": "2004",
+    "path": "lege/2004/297"
+   },
+   "articles": [
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "279",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "203",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "237",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "245",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "237",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "245",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "276",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "273",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 134/2005",
+    "number": "134",
+    "year": "2005",
+    "path": "oug/2005/134"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 54/2006",
+    "number": "54",
+    "year": "2006",
+    "path": "lege/2006/54"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137466",
+  "text_sha256": "0a524402e35fad397b96075838202bf5930df84d7f9bb69abd8229e645f2f2a1",
+  "catalogue_sha256": "0a524402e35fad397b96075838202bf5930df84d7f9bb69abd8229e645f2f2a1",
+  "fetched": "2026-11-03T04:17:26Z",
+  "chars": 34984,
+  "portal_id": "137466",
+  "tip": "DECIZIE"
+ }
+}
