@@ -1,0 +1,279 @@
+{
+ "key": "dcc-159-2012",
+ "label": "Decizia CCR nr. 159/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "159",
+ "date": "2012-02-23",
+ "year": "2012",
+ "heading": "DECIZIE nr. 159 din 23 februarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii şi ale Legii nr. 293/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "285",
+  "bis": false,
+  "date": "2012-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.475/2/2011",
+  "1.326D/2011",
+  "1.400D/2011",
+  "12.457/2/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 293/2008",
+    "number": "293",
+    "year": "2008",
+    "path": "lege/2008/293"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii şi ale Legii nr. 293/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de Laurenţia Pârlitu (fostă Irimia) în Dosarul nr. 6.475/2/2011 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi de Elena Morgoş în Dosarul nr. 12.457/2/2010 al aceleiaşi instanţe judecătoreşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 293/2008",
+    "number": "293",
+    "year": "2008",
+    "path": "lege/2008/293"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "6",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137475",
+  "text_sha256": "6869d8ac1470bd7e25d44018631de06bd12c9f3487f3df7a302f3defae48adcd",
+  "catalogue_sha256": "6869d8ac1470bd7e25d44018631de06bd12c9f3487f3df7a302f3defae48adcd",
+  "fetched": "2026-11-03T04:17:27Z",
+  "chars": 22201,
+  "portal_id": "137475",
+  "tip": "DECIZIE"
+ }
+}
