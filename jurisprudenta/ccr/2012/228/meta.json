@@ -1,0 +1,248 @@
+{
+ "key": "dcc-228-2012",
+ "label": "Decizia CCR nr. 228/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "228",
+ "date": "2012-03-15",
+ "year": "2012",
+ "heading": "DECIZIE nr. 228 din 15 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (1), art. 4 alin. (1) teza întâi, art. 5 alin. (2) şi art. 6 din Ordonanţa de urgenţă a Guvernului nr. 31/2002 privind interzicerea organizaţiilor şi simbolurilor cu caracter fascist, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni contra păcii şi omenirii, precum şi a dispoziţiilor articolului unic al Legii nr. 107/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 31/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "281",
+  "bis": false,
+  "date": "2012-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "22.351/3/2007",
+  "223D/2011",
+  "1.879/33/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 31/2002",
+    "number": "31",
+    "year": "2002",
+    "path": "oug/2002/31"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 107/2006",
+    "number": "107",
+    "year": "2006",
+    "path": "lege/2006/107"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (1), art. 4 alin. (1) teza întâi, art. 5 alin. (2) şi art. 6 din Ordonanţa de urgenţă a Guvernului nr. 31/2002 privind interzicerea organizaţiilor şi simbolurilor cu caracter fascist, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni contra păcii şi omenirii, precum şi a dispoziţiilor articolului unic al Legii nr. 107/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 31/2002, excepţie ridicată de Ovidiu Eusebio Buruiană, Camelia Roşu, Marius Necula, Teodora Camelia Vişan, Mihaela Ţânţaş, Costică Cojocaru, Mariana Cipriana Lazăr, Iuliana Radu, Dan Bozaru, Cristina Stroe, Grigore Ţiplea, Nicolae Catrina, Diana Silvia Mihăilescu, Mihai Robert Negâci, Alexandru Cristian Bozdoc, Lăcrămioara Visterneanu, Diana Dochinoiu şi Dumitru Remus Lomoş în Dosarul nr. 22.351/3/2007 al Tribunalului Cluj - Secţia penală.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 31/2002",
+    "number": "31",
+    "year": "2002",
+    "path": "oug/2002/31"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 107/2006",
+    "number": "107",
+    "year": "2006",
+    "path": "lege/2006/107"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 429/2003",
+    "number": "429",
+    "year": "2003",
+    "path": "lege/2003/429"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137441",
+  "text_sha256": "034f9bd717e1755aa31eba72fc9cc976b42e119c809fa836a6888e93edbb8768",
+  "catalogue_sha256": "034f9bd717e1755aa31eba72fc9cc976b42e119c809fa836a6888e93edbb8768",
+  "fetched": "2026-11-03T04:17:29Z",
+  "chars": 15145,
+  "portal_id": "137441",
+  "tip": "DECIZIE"
+ }
+}
