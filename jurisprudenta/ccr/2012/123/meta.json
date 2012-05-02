@@ -1,0 +1,192 @@
+{
+ "key": "dcc-123-2012",
+ "label": "Decizia CCR nr. 123/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "123",
+ "date": "2012-02-16",
+ "year": "2012",
+ "heading": "DECIZIE nr. 123 din 16 februarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 68 alin. (1)-(3), (5) şi (6) din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanţelor judecătoreşti şi al parchetelor de pe lângă acestea şi al personalului care funcţionează în cadrul Institutului Naţional de Expertize Criminalistice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "289",
+  "bis": false,
+  "date": "2012-05-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.845/110/2008",
+  "266D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 68 alin. (1)-(3), (5) şi (6) din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanţelor judecătoreşti şi al parchetelor de pe lângă acestea şi al personalului care funcţionează în cadrul Institutului Naţional de Expertize Criminalistice, excepţie ridicată de Claudia Ursachi în Dosarul nr. 1.845/110/2008 al Tribunalului Bacău - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "1",
+      "6",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 156/2011",
+    "number": "156",
+    "year": "2011",
+    "path": "lege/2011/156"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-05-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137500",
+  "text_sha256": "ec5d60934437c6491369a68a672b0c3aa6e3560809d9c9eba970428e3ddba0b9",
+  "catalogue_sha256": "ec5d60934437c6491369a68a672b0c3aa6e3560809d9c9eba970428e3ddba0b9",
+  "fetched": "2026-11-03T04:17:25Z",
+  "chars": 12309,
+  "portal_id": "137500",
+  "tip": "DECIZIE"
+ }
+}
