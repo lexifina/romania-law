@@ -1,0 +1,189 @@
+{
+ "key": "dcc-158-2012",
+ "label": "Decizia CCR nr. 158/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "158",
+ "date": "2012-02-23",
+ "year": "2012",
+ "heading": "DECIZIE nr. 158 din 23 februarie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "290",
+  "bis": false,
+  "date": "2012-05-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.288/40/2011",
+  "1.301D/2011",
+  "7.297/40/2011",
+  "7.285/40/2011",
+  "7.136/40/2011",
+  "7.166/40/2011",
+  "7.291/40/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor  Legii nr. 63/2011  privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, excepţie ridicată de Gabriela Ghileschi, Lăcrămioara Macovei, Doina Zagan, Dumitru Nechifor, Iuliana Solcan, Vasilica Neculau, Mihaela Miron, Carmen Luchian, Elena Gabriela Ghiliciuc, Mihaela Surghin, Vlada Sonohat, Valentina Nechifor, Mihai Ciocan, Ionela Deleanu, Costel Zagan, Marius Crăciun, Maria Burlacu, Samuel Marcu, Sorin Julea, Camelia Ciocan, Viorica Luchian, Elena Lotis, Rodica Vieru şi Dumitru Buciumanu, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 7.288/40/2011 al Tribunalului Botoşani - Secţia civilă, de Doiniţa Dorina Huţu, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 7.297/40/2011 al Tribunalului Botoşani - Secţia civilă, de Dorina Ailoaei Iordache, Rodica Hriţac, Olga Ciobanu, Marinela Vieru, Valentina Dumitriu, Laura Florica Hoceag, Daniela Mariana Belecciu, Georgică Manole, Lucian Manole, Mihaela Paula Manole, Ana Grădinaru, Mioara Zbanţ, Diana Prisecariu, Elena Pădurariu, Mihaela Coţovanu şi Laurenţiu Turtă, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 7.285/40/2011 al Tribunalului Botoşani - Secţia civilă, de Dorela Boariu, Mariela Dupu, Daniela Grigoruţă, Simona Pojoga, Florentina Grigoraş, Alina Julinschi, Ecaterina Cuzuban, Valerica Mandru şi Sorin Ştirbu, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 7136/40/2011 al Tribunalului Botoşani - Secţia civilă, de Felicia Arhip, Monalisa Veronica Bartic, Gheorghe Ciornei, Dumitru Cepoi, Ramona Elena Cotruţă, Elena Felciuc, Cătălina Humeniuc, Angela Irimia, Ghiorghiţa Liute, Maria Lesuc, Aurel Lesuc, Alexandru Maxim, Zanovica Maxim, Elena Nechita, Eugen Nechita, Neculai Păchiţanu, Ion Pârvu, Elena Rădeanu, Mihai Samian, Ileana Sandu, Viorica Sandu, Maria Stăchinariu, Dina Schianu, Anca Şfaiţer, Cristina Todirişcă, Cornelia Vatavu, Costică Străchinariu şi Niculina Icuşcă, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 7.166/40/2011 al Tribunalului Botoşani - Secţia civilă, precum şi de Constantin Pleşca, Maria Grosu, Lucia Sandu, Ana Grosu, Vasile Genete, Alexandra Ţurcanu, Loredana Caruceru, Angelica Culica, Mihaela Mihai, Maria Ilcu şi Cristina Focsa, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 7.291/40/2011 al Tribunalului Botoşani - Secţia civilă.  Definitivă şi general obligatorie.  Pronunţată în şedinţa publică din data de 23 februarie 2012.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  AUGUSTIN ZEGREAN  Magistrat-asistent,  Simina Gagu  -------\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-05-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137522",
+  "text_sha256": "5c9aa81ce3022e682ab75a73835a2e59151c19e549bdb6da8a2cb70e0f251d57",
+  "catalogue_sha256": "5c9aa81ce3022e682ab75a73835a2e59151c19e549bdb6da8a2cb70e0f251d57",
+  "fetched": "2026-11-03T04:17:22Z",
+  "chars": 24226,
+  "portal_id": "137522",
+  "tip": "DECIZIE"
+ }
+}
