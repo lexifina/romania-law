@@ -1,0 +1,16 @@
+Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de
+03.05.2012,
+Având în vedere:  expunerea de motive a primarului orașului Nădlac, nr.4295/2012  referatul arhitectului-șef din cadrul primăriei nr.4395/2012  contract de servicii nr.14321/22.12.2010 încheiat între S.C. Geolink
+S.R.L. și primăria orașului Nădlac, obiectul acestuia fiind elaborare
+PUG și regulament local de urbanism  actul adițional nr.2 la contractul de servicii, nr.2974/21.03.2012, de
+prelungire a contractului până în data de 22.09.2012  prevederile Legii nr.350/2001 privind amenajarea teritoriului și
+urbanismului, cu modificările și completările ulterioare  prevederile art.36, alin.2, lit.c, alin.5, lit.c din Legea nr.215/2001 a
+administrației publice locale, republicată, cu modificările și
+completările ulterioare  Avizul favorabil al comisiei pentru activități economico-financiare,
+agricultură, juridică și de disciplină  Avizul favorabil al comisiei pentru amenajarea teritoriului și
+urbanism, protecție mediu și turism, administrație publică locală  Avizul favorabil al comisiei comisiei pentru activități social-culturale,
+culte, învățământ, sănătate și familie, muncă și protecție socială,
+protecție copii, tineret și sport;
+În temeiul art.45 din Legea nr.215/2001 privind administrația publică locală,
+republicată, cu modificările și completările ulterioare,
+HOTĂRĂȘTE:
