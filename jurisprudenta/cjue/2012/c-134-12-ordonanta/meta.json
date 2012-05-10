@@ -1,0 +1,44 @@
+{
+ "key": "cjue-c-134-12-ordonanta-2012-05-10",
+ "label": "CJUE, Ordonanța Curții (Camera a șasea) din 10 mai 2012, Cauza C-134/12",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2012-05-10",
+ "year": "2012",
+ "case": "Cauza C-134/12",
+ "celex": "62012CO0134",
+ "ecli": "ECLI:EU:C:2012:288",
+ "heading": "Ordonanța Curții (Camera a șasea) din 10 mai 2012",
+ "formation": "CHAMB_06_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară — Curtea de Apel Constanța — Interpretarea articolului 17 alineatul (1), a articolului 20 și a articolului 21 din Carta drepturilor fundamentale a Uniunii Europene — Interpretarea articolului 15 paragraful 3 din Convenția pentru apărarea drepturilor omului și a libertăților fundamentale — Admisibilitatea unei reglementări naționale prin care sunt impuse reduceri salariale mai multor categorii de funcționari publici — Încălcarea dreptului de proprietate, a principiului egalității de tratament și a principiului nediscriminării",
+ "national_followup": [
+  "Curtea de Apel Constanţa, Secţia a II-A Civilă, de Contencios Administrativ şi Fiscal, 28/02/2012 (1191/88/2011)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară — Carta drepturilor fundamentale a Uniunii Europene — Convenția europeană pentru apărarea drepturilor omului și a libertăților fundamentale — Validitatea unei reglementări naționale prin care sunt impuse reduceri salariale mai multor categorii de funcționari publici — Lipsa punerii în aplicare a dreptului Uniunii — Necompetență vădită a Curții",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62012CO0134",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-134/12&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/23c9a60f-4d43-4fd7-a2f4-cc14eb4e997f.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "3e6bbe3e284c4eca1b4cd1ae06e280fa1a0f1bd95a42ef1813f05c2df44a14c1"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
