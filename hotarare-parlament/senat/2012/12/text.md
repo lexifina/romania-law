@@ -1,0 +1,6 @@
+ HOTĂRÂRE nr. 12 din 8 mai 2012  privind suspendarea de drept a raportului de serviciu al domnului Ion Moraru, secretar general al Senatului     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 313 din 10 mai 2012     Având în vedere  Decizia primului-ministru nr. 120/2012  privind unele măsuri pentru exercitarea funcţiei de secretar general al Guvernului,  în temeiul prevederilor art. 7 alin. (1), ale art. 19 alin. (2), precum şi ale  art. 61 alin. (1) lit. a) din Legea nr. 7/2006  privind statutul funcţionarului public parlamentar, republicată, cu modificările şi completările ulterioare,  Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul 1     Raportul de serviciu al domnului Ion Moraru, secretar general al Senatului, se suspendă de drept pe o perioadă de 6 luni.
+				 +
+			  Articolul 2     Pe perioada suspendării titularului, domnul Ion Vărgău, şeful Departamentului administrare patrimoniu, va îndeplini atribuţiile de secretar general al Senatului.  Această hotărâre a fost adoptată de Senat în şedinţa din 8 mai 2012, cu respectarea prevederilor art. 76 alin. (2) din Constituţia României, republicată.  PREŞEDINTELE SENATULUI  VASILE BLAGA  Bucureşti, 8 mai 2012.  Nr. 12.  -----
