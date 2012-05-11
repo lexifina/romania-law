@@ -1,0 +1,158 @@
+{
+ "key": "cedo-13902-11-2012-03-20",
+ "label": "CEDO, Ionel Panfile c. României, 2012-03-20",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2012-03-20",
+ "year": "2012",
+ "heading": "DECIZIE din 20 martie 2012",
+ "subtitle": "cu privire la Cererea nr. 13.902/11 introdusă de Ionel Panfile împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "315",
+  "bis": false,
+  "date": "2012-05-11",
+  "part": "I"
+ },
+ "outcome": "inadmissible",
+ "findings": [
+  "inadmissible"
+ ],
+ "applications": [
+  "13902/11"
+ ],
+ "case_name": "Ionel Panfile",
+ "subjects": [],
+ "operative": [
+  "Curtea, în unanimitate, declară cererea inadmisibilă.",
+  "Josep Casadevall, preşedinte Santiago Quesada, grefier -------"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2001",
+    "number": "164",
+    "year": "2001",
+    "path": "lege/2001/164"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 329/2009",
+    "number": "329",
+    "year": "2009",
+    "path": "lege/2009/329"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137778",
+  "text_sha256": "256f5f38a4d8a2e146a213021305ce4a5bac23b41dc8d2660edd5a8676247c73",
+  "catalogue_sha256": "256f5f38a4d8a2e146a213021305ce4a5bac23b41dc8d2660edd5a8676247c73",
+  "fetched": "2026-11-03T04:16:58Z",
+  "chars": 25856,
+  "portal_id": "137778",
+  "tip": "DECIZIE"
+ }
+}
