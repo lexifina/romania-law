@@ -1,0 +1,153 @@
+{
+ "key": "dcc-371-2012",
+ "label": "Decizia CCR nr. 371/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "371",
+ "date": "2012-04-26",
+ "year": "2012",
+ "heading": "DECIZIE nr. 371 din 26 aprilie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. (1) din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "330",
+  "bis": false,
+  "date": "2012-05-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "29.942/3/2009",
+  "601D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 21 alin. (1) din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, excepţie ridicată de avocatul Mădălin Viorel Zeca, în calitate de apărător ales al Ministerului Sănătăţii, în Dosarul nr. 29.942/3/2009 al Curţii de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-05-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137994",
+  "text_sha256": "fb124c576ae15f4b440422614199e6398a7aa980a31946bfa1d22e5ba1b42f2c",
+  "catalogue_sha256": "fb124c576ae15f4b440422614199e6398a7aa980a31946bfa1d22e5ba1b42f2c",
+  "fetched": "2026-11-03T04:16:41Z",
+  "chars": 6508,
+  "portal_id": "137994",
+  "tip": "DECIZIE"
+ }
+}
