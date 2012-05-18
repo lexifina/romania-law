@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale IMOLEASING IFN - S.A., cu sediul în municipiul Cluj-Napoca, str. Horea nr. 3, camera 113, județul Cluj, înregistrată la oficiul registrului comerțului cu nr. J12/2188/2006, cod unic de înregistrare 18801990, înscrisă în Registrul general la secțiunea h) "Leasing financiar" cu nr. RG-PJR-13-080043. Guvernatorul Băncii Naționale a României, MUGUR CONSTANTIN ISĂRESCU București, 9 mai 2012. Nr. 457 -------
