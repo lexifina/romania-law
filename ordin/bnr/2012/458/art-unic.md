@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale MICROIMO IFN - S.A., cu sediul în municipiul Cluj-Napoca, str. Horea nr. 3, județul Cluj, înregistrată la oficiul registrului comerțului cu nr. J12/2178/2006, cod unic de înregistrare 18797814, înscrisă în Registrul general la secțiunea c) "Microcreditare" cu nr. RGPJR13030023. Guvernatorul Băncii Naționale a României, MUGUR CONSTANTIN ISĂRESCU București, 9 mai 2012. Nr. 458 -------
