@@ -1,0 +1,39 @@
+# Anexa
+Zona de protecție a imobilului monument istoric Ansamblul Institutului de Cercetări Agronomice al României, azi Academia de Științe Agricole și Silvice "Gheorghe Ionescu-Șișești", din bd. Mărăști nr. 61, sectorul 1, București Coordonatele punctelor de contur
+Nr.
+crt.
+Coordonate stereo 70
+-
+X
+Y
+1.
+584911,655939157
+330819,809371404
+2.
+585022,946003163
+331073,434335220
+3.
+585505,667950646
+331203,006700850
+4.
+585642,732003751
+330830,922685601
+5.
+585577,200664674
+330802,693243831
+6.
+585553,882099585
+330836,265004156
+7.
+585508,862513785
+330821,567056498
+8.
+585512,451547515
+330776,447775317
+9.
+585476,901006975
+330638,325419570
+10.
+585026,526403534
+330479,473097088
+-------
