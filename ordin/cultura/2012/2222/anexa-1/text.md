@@ -1,0 +1,42 @@
+# Anexa
+ZONA DE PROTECȚIE a imobilului monument istoric Monument funerar român (Cavoul "Tudorka") din satul Slava Rusă, comuna Slava Cercheză, județul Tulcea Coordonate puncte de contur
+Nr.
+pct.
+Coordonate stereo 70
+-
+X
+Y
+1.
+782860,732
+379244,124
+2.
+783219,572
+379010,878
+3.
+783506,644
+378629,610
+4.
+783385,536
+378562,328
+5.
+783329,467
+378506,259
+6.
+782869,703
+378266,285
+7.
+782771,022
+378192,274
+8.
+782342,657
+378454,676
+9.
+782160,994
+378542,143
+10.
+782053,342
+378667,737
+11.
+781974,846
+378723,806
+------
