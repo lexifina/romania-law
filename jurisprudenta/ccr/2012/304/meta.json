@@ -1,0 +1,216 @@
+{
+ "key": "dcc-304-2012",
+ "label": "Decizia CCR nr. 304/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "304",
+ "date": "2012-03-27",
+ "year": "2012",
+ "heading": "DECIZIE nr. 304 din 27 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 119/2007 privind măsurile pentru combaterea întârzierii executării obligaţiilor de plată rezultate din contracte între profesionişti",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "359",
+  "bis": false,
+  "date": "2012-05-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.557/320/2011",
+  "1.640D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 119/2007",
+    "number": "119",
+    "year": "2007",
+    "path": "oug/2007/119"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 119/2007 privind măsurile pentru combaterea întârzierii executării obligaţiilor de plată rezultate din contracte între profesionişti, excepţie ridicată de Societatea Comercială \"Invest Intermontaj\" - S.R.L. din Târgu Mureş în Dosarul nr. 5.557/320/2011 al Judecătoriei Târgu Mureş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 119/2007",
+    "number": "119",
+    "year": "2007",
+    "path": "oug/2007/119"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 79/2011",
+    "number": "79",
+    "year": "2011",
+    "path": "oug/2011/79"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-05-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138393",
+  "text_sha256": "6d5f6e4aa93cd861b4437a5cc986ec75af98305a3773143f4b6fd27d52c1dab0",
+  "catalogue_sha256": "6d5f6e4aa93cd861b4437a5cc986ec75af98305a3773143f4b6fd27d52c1dab0",
+  "fetched": "2026-11-03T04:16:12Z",
+  "chars": 12775,
+  "portal_id": "138393",
+  "tip": "DECIZIE"
+ }
+}
