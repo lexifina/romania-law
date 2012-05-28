@@ -1,0 +1,200 @@
+{
+ "key": "dcc-220-2012",
+ "label": "Decizia CCR nr. 220/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "220",
+ "date": "2012-03-13",
+ "year": "2012",
+ "heading": "DECIZIE nr. 220 din 13 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "360",
+  "bis": false,
+  "date": "2012-05-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.254/86/2011",
+  "1.546D/2011",
+  "1.550D/2011",
+  "7.007/40/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Legii nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, excepţie ridicată de Gică Achiţei, Cristian Amorăriţei, Gabriela Ardeleanu, Sanda Barabaş, Carmen Bocăneţ, Gheorghe Brădăţan, Mracica Elisabeta Bucaciuc, Maria Bucătar, Silvia Chiţan, Constantin Choleva, Marinela Cristina Cimpoeşu, Adrian Cojocaru, Adriana Gabriela Cojocaru, Carmen Constantineanu, Gabriel Constantineanu, Costică Costan, Veronica Raluca Constantineanu, Mihăiţă Aurelian Dan, Corina Dominte, Bogdan Mihai Dranc, Loredana Epure, Elena Doina Fîntînaru, Mihai Adrian Frîncu, Vasile Garbaşevschi, Pavel Gherghiceanu, Sorin Golda, Sofia Grigoreanu, Maria Ancuţa Grosu, Gabriel Hacman, Irina Geanina Harja, Cristina Mihaela Hatmanu, Gheorghe Hostiuc, Monica Ancuţa Huţan, Liliana Irimescu, Lucian Lungu, Marius Marchitan, Daniela Marcu, Ovidiu Marian Marcu, Brînduşa Mihai, Vasile Monacu, Florin Moraru, Mara Moroşan, Iulia Murariu, Dumitru Nichita, Ramona Oboroceanu, Domnica Oniga, Anda Perju, Aurelia Petcu, Adrian Petrişor, Didina Petrişor, Dan Popescu, Doru Octavian Popovici, Ramona Liliana Prodan, Fănica Rotaru, Constantin Scutaru, Gabriela Scutaru, Aurora Senegeac, Simona Maria Sofroni, Roxana Valeria Ştefanache, Aurelia Strugariu, Lucian Ionuţ Tablan Popescu, Alina Tofeni şi Adrian Vieriu în Dosarul nr. 8.254/86/2011 al Tribunalului Suceava - Secţia civilă şi de Corina Apetrea, Loredana Aiacoboaei, Liliana Bazic, Geanina Butescu, Ciceroni Costea, Silvia Costea, Liliana Ciornei, Nicoleta Condurachi, Iuliana Caprian, Irina Buterchi, Geanina Ceahlău, Daniel Chelariu, Raluca Dumitrescu (Cherniciuc), Luminiţa Grosu, Dănuţ Huţu, Gheorghe Honceru, Florin Lazăr, Oana Andreea Costea, Viorica Onofrei, Viorica Olariu, Carmen Olariu, Felicia Petcu, Iuliana Sofornie, Iuliana Sofronie, Ştefan Tureac, Aurelia Toma, Monica Todiraş, Daniel Hariga şi Anamaria Filip, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 7.007/40/2011 al Tribunalului Botoşani - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-05-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138399",
+  "text_sha256": "44e45edf3f08f13080315526a9e433d56e19f4a2d4633d8deb98f56710504849",
+  "catalogue_sha256": "44e45edf3f08f13080315526a9e433d56e19f4a2d4633d8deb98f56710504849",
+  "fetched": "2026-11-03T04:16:11Z",
+  "chars": 24761,
+  "portal_id": "138399",
+  "tip": "DECIZIE"
+ }
+}
