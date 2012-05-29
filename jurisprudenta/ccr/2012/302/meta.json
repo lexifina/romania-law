@@ -1,0 +1,176 @@
+{
+ "key": "dcc-302-2012",
+ "label": "Decizia CCR nr. 302/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "302",
+ "date": "2012-03-27",
+ "year": "2012",
+ "heading": "DECIZIE nr. 302 din 27 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (2) şi (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "361",
+  "bis": false,
+  "date": "2012-05-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "10.397/2/2010",
+  "1.515D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (2) şi (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, excepţie ridicată de Asociaţia Ofiţerilor de Geniu în Rezervă şi Retragere \"Constantin Hârjeu\", Asociaţia Cadrelor Militare de Căi Ferate şi Transporturi, Asociaţia Cadrelor de Chimie Militară în Rezervă şi Retragere \"Constantin T. Neniţescu\", Asociaţia Medicilor şi Farmaciştilor Ofiţeri de Rezervă din România \"Dr. Carol Davila\", Asociaţia Naţională a Cadrelor Militare în Rezervă şi Retragere \"A.I. Cuza\" - Filiala Sector 5 Bucureşti, Sindicatul Cadrelor Militare Disponibilizate, în Rezervă şi Retragere \"Honor et Patria Vae Victis\", Stelian Teodor Palade, Dan Crihan şi Constantin Stănăşilă în Dosarul nr. 10.397/2/2010 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-05-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138431",
+  "text_sha256": "517f043ab6a1bb7cfb2d5fdeab8142f7213005e44a1cc7ab4d23450b6b12e2f0",
+  "catalogue_sha256": "517f043ab6a1bb7cfb2d5fdeab8142f7213005e44a1cc7ab4d23450b6b12e2f0",
+  "fetched": "2026-11-03T04:16:11Z",
+  "chars": 25264,
+  "portal_id": "138431",
+  "tip": "DECIZIE"
+ }
+}
