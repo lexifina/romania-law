@@ -1,0 +1,2 @@
+# Anexa
+CALENDARUL sesiunii speciale de evaluare națională 2012 5 iunie 2012 Înscrierea la sesiunea specială a evaluării naționale 6 iunie 2012 Limba și literatura română - probă scrisă 7 iunie 2012 Matematica - probă scrisă 8 iunie 2012 Limba și literatura maternă - probă scrisă 8 iunie 2012 Afișarea rezultatelor (până la ora 18,00) 8 iunie 2012 Depunerea contestațiilor (orele 18,00-20,00) 9-10 iunie 2012 Rezolvarea contestațiilor 11 iunie 2012 Afișarea rezultatelor finale după contestații ----
