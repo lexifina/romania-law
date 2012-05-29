@@ -1,0 +1,286 @@
+{
+ "key": "dcc-217-2012",
+ "label": "Decizia CCR nr. 217/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "217",
+ "date": "2012-03-13",
+ "year": "2012",
+ "heading": "DECIZIE nr. 217 din 13 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 şi art. 2 alin. (1) lit. b) din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar şi ale art. 1 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "362",
+  "bis": false,
+  "date": "2012-05-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.824/40/2011",
+  "1.409D/2011",
+  "3.855/40/2011",
+  "7.322/40/2011",
+  "4.104/40/2011",
+  "4.713/40/2011",
+  "4.711/40/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 1 şi art. 2 alin. (1) lit. b) din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar şi ale art. 1 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice, excepţie ridicată de Ioan Ştefură, Florica Răgoşcă, Maria Dumitraciuc, Felicia Andriuc, Luminiţa Macovei şi Viorel Precu, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 6.824/40/2011, al Tribunalului Botoşani - Secţia civilă, de Relu Oleniuc, Nicolaie Antonovici, Maria Bordeanu, Emil Bordeanu, Stelian Ghitun, Mihai Dretcanu, Daniel Şchiopu, Cristian Sorin Iordache, Silviu Ionuţ Gheorghiu, Cezar Cristian Aciobăniţei, Vasile Bordeianu, Ioan Asoltanei, Remus Sever Spânu, Ion Hranniciuc, Mihai Vasilica, Ana Maria Precol, Paul Cucu, Irina Circu, Anişoara Iacobiţa şi Petru Iacobiţa, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 3.855/40/2011 al Tribunalului Botoşani - Secţia civilă, de Aurel Lanca, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 7.322/40/2011 al Tribunalului Botoşani - Secţia civilă, de Elena Amariei, Vasile Azamfirei, Ioan Baciu, Dumitru Dumitraş, Maria Gheorghiu, Ioan Iacob şi Elena Lozneanu, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 4.104/40/2011 al Tribunalului Botoşani - Secţia civilă, de Marcel Arnăutu, Mariana Clapon, Angela Enache, Olguţa Apopei, Constantin Avasiloaie, Constantinica Romaniuc şi Maria Iftimie, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 4.713/40/2011 al Tribunalului Botoşani - Secţia civilă, de Elena Apastinii, Ana Măria Haspazaru, Paraschiva Pauca, Elena Piriu, Doina Roşu, Diana Turcanasu, Georgeta Cătălina Apopei Guraliuc, Sergiu Atitienei, Bilibau Victoriţa, Gheorghe Bodas, Livia Costea, Niculai Cozlac, Irina Cretu, Gabriela Liliana David, Claudia Petrovici, Ioan Strujan, Mihaela Ticalo, Doina Camelia Vasilica, Garofiţa Zaharia, Alina Şchiopu, Dana Labusca, Lia Mintiei şi Mihaela Filip, prin Liga Sindicatelor din Învăţământ Botoşani, în Dosarul nr. 4.711/40/2011 al Tribunalului Botoşani - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 128/1997",
+    "number": "128",
+    "year": "1997",
+    "path": "lege/1997/128"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-05-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138428",
+  "text_sha256": "843a73cb9898fea82269e565db3368e9dffcac6e0f9abfff8845952d81947ca3",
+  "catalogue_sha256": "843a73cb9898fea82269e565db3368e9dffcac6e0f9abfff8845952d81947ca3",
+  "fetched": "2026-11-03T04:16:07Z",
+  "chars": 31296,
+  "portal_id": "138428",
+  "tip": "DECIZIE"
+ }
+}
