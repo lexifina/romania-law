@@ -1,0 +1,172 @@
+{
+ "key": "dcc-313-2012",
+ "label": "Decizia CCR nr. 313/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "313",
+ "date": "2012-03-29",
+ "year": "2012",
+ "heading": "DECIZIE nr. 313 din 29 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 969 şi 1073 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "370",
+  "bis": false,
+  "date": "2012-05-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "37.654/3/2009",
+  "479D/2011",
+  "497D/2011",
+  "22.136/299/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 969 şi 1073 din Codul civil, excepţie ridicată de Societatea Comercială \"Maz Truck &amp;amp; Bus\" - S.R.L. din Bucureşti în Dosarul nr. 37.654/3/2009 al Tribunalului Bucureşti - Secţia a VI-a comercială, precum şi de Niculina Mihăilescu în Dosarul nr. 22.136/299/2010 al Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138495",
+  "text_sha256": "88f33d5b1d3a3dd7f55440808a9cfbeabd6f873b0a72b8cf334f2740ce6b95ab",
+  "catalogue_sha256": "88f33d5b1d3a3dd7f55440808a9cfbeabd6f873b0a72b8cf334f2740ce6b95ab",
+  "fetched": "2026-11-03T04:16:00Z",
+  "chars": 10097,
+  "portal_id": "138495",
+  "tip": "DECIZIE"
+ }
+}
