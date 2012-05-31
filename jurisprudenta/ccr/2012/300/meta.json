@@ -1,0 +1,194 @@
+{
+ "key": "dcc-300-2012",
+ "label": "Decizia CCR nr. 300/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "300",
+ "date": "2012-03-27",
+ "year": "2012",
+ "heading": "DECIZIE nr. 300 din 27 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 36 din Legea nr. 85/2006 privind procedura insolvenţei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "372",
+  "bis": false,
+  "date": "2012-05-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "438/105/2010",
+  "551/105/2010",
+  "1.337D/2011",
+  "1.274D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 36 din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de Niculae Vlădilă, în nume personal, şi de Elena Corina Anghel, Nicoleta Piciorea, Rodica Purcaru, Cotei Elena Simona, Mihaela Claudia Clinci, Constantin Cristinel Clinci, Constantin Şovăială, Constantin Drăgan, Alin Costel Oprescu, Maria Florentina Ciusă, Mihai Cîrstei, Ionel Marin, Mirela Lioara Marin, Maria Constantinescu, Cristina Alina Dascălu, Iuliana Sabina Spurcaciu, Maria Dulamă, Speranţa Otilia Mierliţă, Ion Ene, Alexandru Dorojan, Cristian Mierliţă, Vasile Nicolescu, Alexandru Ion Bălău, Gabriel Gheorghe Şupială, Marian Sorinel Tocitu, Răzvan Costel Bălău, Costel Bârlădeanu, prin mandatar Vlădilă Niculae, precum şi de Niculae Vlădilă, în nume personal, şi de Mihaela Diana Neagu, Liliana Neagu, Mihaela Neagu, Florentina Sabina Gîrbăcea, Constantin Cristian Merliţă, Marin Maria, Catalina Negrescu, Mariana Camelia Boroşoiu, Ionuţ Cristian Boroşoiu, Vasilica Alecse, Vasile Dogaru, Viorica Bîrlă, Georgeta Adriana Căluian, Jan Dan Oprea, Adrian Militaru, Vioraş Neluţu Mutu, Mircea Raducu Gabriel Moldovan, Gabriela Cobeanu, Gabriela Duţă, Constantin Iustinian Cobianu, prin mandatar Vlădilă Niculae, în dosarele nr. 438/105/2010* şi nr. 551/105/2010 ale Tribunalului Prahova - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138538",
+  "text_sha256": "f07c7365e8a7d549e8b326d3f0dbb1a39e7a4846d37826e76a3c6fb079644342",
+  "catalogue_sha256": "f07c7365e8a7d549e8b326d3f0dbb1a39e7a4846d37826e76a3c6fb079644342",
+  "fetched": "2026-11-05T14:08:08Z",
+  "chars": 13702,
+  "portal_id": "138538",
+  "tip": "DECIZIE"
+ }
+}
