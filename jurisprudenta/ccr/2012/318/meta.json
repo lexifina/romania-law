@@ -1,0 +1,176 @@
+{
+ "key": "dcc-318-2012",
+ "label": "Decizia CCR nr. 318/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "318",
+ "date": "2012-03-29",
+ "year": "2012",
+ "heading": "DECIZIE nr. 318 din 29 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 24 alin. (4), art. 26, art. 30 alin. (1) lit. a), b), h), j) şi o) din Legea nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "373",
+  "bis": false,
+  "date": "2012-06-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "10.460/299/2009",
+  "668D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 26 din Legea nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari, excepţie ridicată de Rodica Danciu în Dosarul nr. 10.460/299/2009 al Judecătoriei Sectorului 1 Bucureşti. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 24 alin. (4) şi art. 30 alin. (1) lit. a), b), h), j) şi o) din Legea nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-06-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138547",
+  "text_sha256": "3b3fc50dff50655c423727ef5b75e51c24ca5affc1a239b9a9ba9c8260d12968",
+  "catalogue_sha256": "3b3fc50dff50655c423727ef5b75e51c24ca5affc1a239b9a9ba9c8260d12968",
+  "fetched": "2026-11-03T04:15:59Z",
+  "chars": 13438,
+  "portal_id": "138547",
+  "tip": "DECIZIE"
+ }
+}
