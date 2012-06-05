@@ -1,0 +1,282 @@
+{
+ "key": "dcc-310-2012",
+ "label": "Decizia CCR nr. 310/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "310",
+ "date": "2012-03-29",
+ "year": "2012",
+ "heading": "DECIZIE nr. 310 din 29 martie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 14 din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe, ale art. 23 din Legea locuinţei nr. 114/1996, precum şi ale art. 480, 1429 şi 1436 din Codul civil",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "376",
+  "bis": false,
+  "date": "2012-06-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.522/2/2009",
+  "379D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1436",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 14 din Ordonanţa de urgenţă a Guvernului nr. 40/1999 privind protecţia chiriaşilor şi stabilirea chiriei pentru spaţiile cu destinaţia de locuinţe, ale art. 23 din Legea locuinţei nr. 114/1996, precum şi ale art. 480, 1429 şi 1436 din Codul civil, excepţie ridicată de Constanţa Lică, Ramona Maria Neagu, Tudose Nicolae, Mariana Alexandru, Dumitru Oprea, Vasilica Oprea, Nela Munteanu, Gheorghe Burghescu, Vasile Burghescu, Florentina Ungureanu, Vasile Gherman, Alina Gherman, Constantin Ilade, Marian Ilade, Ciprian Ionuţ Dumitru, Gheorghe Lazăr, Dumitra Lazăr, Gabriel Lazăr, Raul Antonio Lazăr, Cornel Ghiţă, Sena Ghiţă, Mihaela Ghiţă, Dumitru Marinaş, Mirela Marinaş, Alexandru Marinaş, Mihaela Marinaş, Cristina Drăgan, Samuel Albert Roman, Adrian Marian Popescu, Dumitra Popescu, Andrei Marius Popescu, Elena Rodica Popescu, Paul Oprea, Georgeta Oprea, Adrian Oprea, Gabriela Oprea, Costică Macovei, Lucreţia Neagoe, Dumitru Burada, Lenuţa Burada, Teodora (Topsac) Ionescu, Aurel Costel Negru, Georgeta Negru, Georgian Negru, Anişoara Ghiţă, Valeriu Ghiţă, Leontin Marian Ghiţă, Elena Andreea Ghiţă, Florin Preda, Valentina Preda, Alin Florentin Preda, Gheorghiţa Ilade, Daniela Ilade, Cosmin Ilade, Alexandru Bujor, Lăcrămioara Bujor, Luminiţa Sima, Neculai Bălan, Elena Aelenei, Viorel Aelenei, Alexandra Aelenei, Maricica Ilade şi Constantin Ilade în Dosarul nr. 11.522/2/2009 al Curţii de Apel Bucureşti - Secţia a III-a civilă şi pentru cauze cu minori şi de familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1436",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "555",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1796",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1809",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "v",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138588",
+  "text_sha256": "393f0aa982517f353b35f0e09e9110cd6a9f697b796edd7399b6863f7025b980",
+  "catalogue_sha256": "393f0aa982517f353b35f0e09e9110cd6a9f697b796edd7399b6863f7025b980",
+  "fetched": "2026-11-03T04:15:56Z",
+  "chars": 16606,
+  "portal_id": "138588",
+  "tip": "DECIZIE"
+ }
+}
