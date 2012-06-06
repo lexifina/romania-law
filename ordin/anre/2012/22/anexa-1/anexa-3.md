@@ -1,0 +1,22 @@
+# Anexa nr. 3 la anexa nr. 1
+Anexa 3 la metodologie DURATELE reglementate pentru amortizarea imobilizărilor corporale și necorporale I. Durata tehnică și economică rămasă pentru amortizarea reglementată a imobilizărilor corporale și necorporale care au constituit RAB implicit la începutul primei perioade de reglementare:
+a) activitatea de transport și activitatea de înmagazinare subterană - 30 ani
+b) activitatea de distribuție și activitatea de furnizare reglementată - 25 ani
+II. Durata tehnică și economică a imobilizărilor corporale și necorporale puse în funcțiune după începutul primei perioade de reglementare
+Grupa 1 Construcții
+Subgrupa 1.1 Clădiri - 50 ani
+Subgrupa 1.2 Construcții ușoare (barăci, șoproane etc.) - 10 ani
+Subgrupa 1.3 Conducte colectoare și magistrale (inclusiv instalațiile tehnologice, dotările și echipamentele aferente) - 40 ani
+Subgrupa 1.4 Sondele pentru injecția/extracția gazelor naturale din depozitele subterane (inclusiv sondele auxiliare, instalațiile tehnologice, dotările și echipamentele aferente) - 25 ani
+Subgrupa 1.5 Conducte de distribuție din oțel (inclusiv instalațiile tehnologice, dotările și echipamentele aferente) - 30 ani
+Subgrupa 1.6 Conducte de distribuție din polietilenă (inclusiv instalațiile tehnologice, dotările și echipamentele aferente) - 40 ani
+Subgrupa 1.7 Alte construcții - 10 ani
+Grupa 2 Echipamente tehnologice, mașini, utilaje și echipamente de lucru - 10 ani
+Grupa 3 Aparate și instalații de măsurare, control și reglare
+Subgrupa 3.1 Contoare volumetrice cu membrană, contoare cu ultrasunete, alte sisteme cu element deprimogen - 20 ani
+Subgrupa 3.2 Contoare cu pistoane rotative, contoare cu turbină - 15 ani
+Subgrupa 3.3 Convertoare electronice, calculatoare de debit, alte aparate și instalații de măsurare, control și reglare - 10 ani
+Grupa 4 Mijloace de transport - 5 ani
+Grupa 5 Alte imobilizări corporale și necorporale - 5 ani
+Grupa 6 Terenuri
+---------
