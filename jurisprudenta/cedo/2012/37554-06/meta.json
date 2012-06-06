@@ -1,0 +1,161 @@
+{
+ "key": "cedo-37554-06-2012-01-10",
+ "label": "CEDO, Roşioru c. României, 2012-01-10",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-01-10",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 10 ianuarie 2012",
+ "subtitle": "în Cauza Roşioru împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "380",
+  "bis": false,
+  "date": "2012-06-06",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "37554/06"
+ ],
+ "case_name": "Roşioru",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 3 din Convenţie sub aspect material şi procedural; 3. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 12.000 EUR (douăsprezece mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral; (îi) 5.000 EUR (cinci mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru onorariul avocatei, care se plătesc direct doamnei Nicoleta Popescu; (iii) 300 EUR (trei sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru cheltuieli de judecată, care se plătesc direct asociaţiei APADOR-CH;",
+  "b) că de la expirarea termenului menţionat şi până la efectuarea plăţii aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "267-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 54/1993",
+    "number": "54",
+    "year": "1993",
+    "path": "lege/1993/54"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 26/1994",
+    "number": "26",
+    "year": "1994",
+    "path": "lege/1994/26"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138609",
+  "text_sha256": "b974a0a9a4908a0c29dce21e3fc36ea4c6291755f684aadacc6b12c242455934",
+  "catalogue_sha256": "b974a0a9a4908a0c29dce21e3fc36ea4c6291755f684aadacc6b12c242455934",
+  "fetched": "2026-11-03T04:15:53Z",
+  "chars": 44046,
+  "portal_id": "138609",
+  "tip": "HOTĂRÂRE"
+ }
+}
