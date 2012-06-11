@@ -1,0 +1,156 @@
+{
+ "key": "iccj-ril-8-2012",
+ "label": "Decizia ÎCCJ nr. 8/2012 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "8",
+ "date": "2012-05-14",
+ "year": "2012",
+ "heading": "DECIZIE nr. 8 din 14 mai 2012",
+ "subtitle": "referitoare la examinarea recursurilor în interesul legii, privind interpretarea şi aplicarea dispoziţiilor art. 1 alin. (1) lit. d) şi e) raportat la art. 4 alin. (1) şi (2) din Decretul-lege nr. 118/1990 privind dreptul unor persoane persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi a celor deportate în străinătate ori constituite în prizonieri, republicată, de a cumula indemnizaţia pentru perioada de strămutare cu cea prevăzută pentru perioada de domiciliu forţat, atunci când aceste perioade au coincis",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "387",
+  "bis": false,
+  "date": "2012-06-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "5/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii declarate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi de Avocatul Poporului şi stabileşte că: în interpretarea şi aplicarea dispoziţiilor art. 1 alin. (1) lit. d) şi e), raportat la art. 4 alin. (1) şi (2) din Decretul-lege nr. 118/1990, republicat, atunci când perioada de strămutare coincide cu perioada de domiciliu obligatoriu, persoana îndreptăţită poate beneficia de o singură indemnizaţie prevăzută de lege, respectiv cea pentru perioada de strămutare.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/2012",
+    "number": "60",
+    "year": "2012",
+    "path": "lege/2012/60"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/1993",
+    "number": "53",
+    "year": "1993",
+    "path": "lege/1993/53"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2012-06-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138705",
+  "text_sha256": "38a5b85d2517d122ac9cc82c2f953037e342ffa37fbdb31aa7febcc62f08ec01",
+  "catalogue_sha256": "38a5b85d2517d122ac9cc82c2f953037e342ffa37fbdb31aa7febcc62f08ec01",
+  "fetched": "2026-11-03T04:15:44Z",
+  "chars": 28303,
+  "portal_id": "138705",
+  "tip": "DECIZIE"
+ }
+}
