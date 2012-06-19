@@ -1,0 +1,151 @@
+{
+ "key": "dcc-358-2012",
+ "label": "Decizia CCR nr. 358/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "358",
+ "date": "2012-04-24",
+ "year": "2012",
+ "heading": "DECIZIE nr. 358 din 24 aprilie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "407",
+  "bis": false,
+  "date": "2012-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.074/112/2010",
+  "764D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 278^1 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de Societatea Comercială \"Alien Concept\" - S.R.L. din Oradea în Dosarul nr. 9.074/112/2010 al Tribunalului Bistriţa Năsăud - Secţia comercială, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138917",
+  "text_sha256": "c1986b7d4f4f3029d0f43997c798e928d9a5bd51dcb26ae0149a667c56c15d2b",
+  "catalogue_sha256": "c1986b7d4f4f3029d0f43997c798e928d9a5bd51dcb26ae0149a667c56c15d2b",
+  "fetched": "2026-11-03T04:15:31Z",
+  "chars": 11992,
+  "portal_id": "138917",
+  "tip": "DECIZIE"
+ }
+}
