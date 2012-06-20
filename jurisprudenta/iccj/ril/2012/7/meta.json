@@ -1,0 +1,213 @@
+{
+ "key": "iccj-ril-7-2012",
+ "label": "Decizia ÎCCJ nr. 7/2012 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "7",
+ "date": "2012-05-14",
+ "year": "2012",
+ "heading": "DECIZIE nr. 7 din 14 mai 2012",
+ "subtitle": "referitoare la recursurile în interesul legii, privind interpretarea şi aplicarea dispoziţiilor art. 128 şi art. 129 din Legea nr. 272/2004 privind protecţia şi promovarea drepturilor copilului, modificată şi completată, raportat la art. 94 alin. 3 din acelaşi act normativ şi art. 582 alin. (1) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "411",
+  "bis": false,
+  "date": "2012-06-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "7/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "582",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 94 alin. (3) din Legea nr. 272/2004 privind protecţia şi promovarea drepturilor copilului, cu modificările ulterioare, raportat la art. 129 din acelaşi act normativ, ordonanţa preşedinţială prin care se dispune măsura plasării copilului în regim de urgenţă este supusă recursului în termen de 5 zile de la pronunţare, dacă s-a dat cu citarea părţilor, şi de la comunicare, dacă s-a dat fără citarea lor, conform art. 582 alin. (1) din Codul de procedură civilă.",
+  "Obligatorie, potrivit art. 330^7 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "582",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "581",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/2012",
+    "number": "60",
+    "year": "2012",
+    "path": "lege/2012/60"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2012-06-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138957",
+  "text_sha256": "6a1ffb9d37a4a84e3a89f433724304be14867e3425cc215565cb7eebcc58ce52",
+  "catalogue_sha256": "6a1ffb9d37a4a84e3a89f433724304be14867e3425cc215565cb7eebcc58ce52",
+  "fetched": "2026-11-03T04:15:28Z",
+  "chars": 15200,
+  "portal_id": "138957",
+  "tip": "DECIZIE"
+ }
+}
