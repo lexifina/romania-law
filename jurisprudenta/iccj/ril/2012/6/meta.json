@@ -1,0 +1,177 @@
+{
+ "key": "iccj-ril-6-2012",
+ "label": "Decizia ÎCCJ nr. 6/2012 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "6",
+ "date": "2012-05-14",
+ "year": "2012",
+ "heading": "DECIZIE nr. 6 din 14 mai 2012",
+ "subtitle": "referitoare la recursurile în interesul legii, privind interpretarea şi aplicarea dispoziţiilor art. 142 alin. (1) din Legea nr. 85/2006 privind procedura insolvenţei, cu modificările şi completările ulterioare, raportat la art. 136 alin. (6) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "411",
+  "bis": false,
+  "date": "2012-06-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "6/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii declarate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi de Colegiul de conducere al Curţii de Apel Suceava şi stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 142 alin. (1) din Legea nr. 85/2006, raportat la art. 136 alin. (6) din Codul de procedură fiscală, executarea hotărârilor judecătoreşti de atragere a răspunderii membrilor organelor de conducere sau de supraveghere în condiţiile art. 138 din Legea nr. 85/2006, se va efectua, în cazul concursului dintre creditorii fiscali şi ceilalţi creditori ai debitorului, potrivit Codului de procedură fiscală.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2012-06-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138956",
+  "text_sha256": "985b8571d81bc37e9d46d91a958b2bf18e939ab4f09d45004c1ec3fc4741dd50",
+  "catalogue_sha256": "985b8571d81bc37e9d46d91a958b2bf18e939ab4f09d45004c1ec3fc4741dd50",
+  "fetched": "2026-11-03T04:15:28Z",
+  "chars": 19993,
+  "portal_id": "138956",
+  "tip": "DECIZIE"
+ }
+}
