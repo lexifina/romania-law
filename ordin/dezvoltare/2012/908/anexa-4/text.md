@@ -1,0 +1,2 @@
+# Anexa 3
+------- la declarație ------------- Organismul ETA Denumirea:.......................................................... Datele de identificare: - Adresa sediului social:........................................... - Numărul de ordine în registrul comerțului:........................ - Codul unic de înregistrare:.............. din data............... Lista laboratoarelor proprii acreditate/autorizate la data întocmirii declarației -----
