@@ -1,0 +1,227 @@
+{
+ "key": "dcc-395-2012",
+ "label": "Decizia CCR nr. 395/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "395",
+ "date": "2012-04-26",
+ "year": "2012",
+ "heading": "DECIZIE nr. 395 din 26 aprilie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "416",
+  "bis": false,
+  "date": "2012-06-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.849/2/2011",
+  "1.478D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 8 din Lege nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice, excepţie ridicată de Elena Albu, Cecilia Adela Alexandru, Liana Anton, Florin Eugeniu Antonescu, Eusebiu Barbu, Raluca Bejan, Antoaneta Bucur, Roxana Bugeac, Ion Bughez, Alice Manuela Burciu, Eleonora Căpăţână, Cornelia Cernat, Roxana Cireşnea, Mihaela Cîrstocea, Cristina Corcodel, Georgeta Costache, Mirela Costache, Mihaela Florica Costea, Georgiana Creţu, Daniela Criste, Bogdan Dobrogeanu, Viorel Drăghiciu, Mărioara Drugă, Liana Ducan, Dorina Dumitrescu, Adriana Dumitru, Ioana Dumitru, Maria Enache, Maria Fava, Elena Fronea, Petruţa Gavriliu, Florin Ciprian Gheorghe, Marilena Ghiţă, Alexe Cătălina Goicea, Iambu Ionuţ, Ilie Liliana, Ionescu Florin, Ionescu Mariana, Ionescu T. Mariana, Irimia Mihaela Manolache Adriana, Manole Viorica, Manolică Claudia Mirela, Manta Carmen, Marin Monica, Matache Adriana, Meer Luciu Ana Maria, Medoiu Vica, Mihalache Nicoleta, Militaru Carmen, Minea Gabriel, Mocanu Ioana, Naum Carmen, Neagu Constantina, Olteanu Cristina, Peptănaru Marilena Dana, Petre Mirela, Pîrcălăbescu Jeni, Postolache Maria, Răduţ Constanţa, Samoilă Niculina, Saulea Lucia, Smărăndoiu Cristina, Stan Vasilica, Streche Ana Eiza, Ştefan Steluţa, Tănăsescu Emilia, Tărăgrădeanu Delia, Ţuţu Angela Valentina, Vasile Daniela, Vitregu Gabriela, Vlaicu Elena, Zafiu Nora, prin reprezentant Ştefan Steluţa, în Dosarul nr. 2.849/2/2011 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139019",
+  "text_sha256": "7cc6a4d5ddbaeb8c9d5942fbab3821e8b828b6b6a15f557a4389e8a736f234d9",
+  "catalogue_sha256": "7cc6a4d5ddbaeb8c9d5942fbab3821e8b828b6b6a15f557a4389e8a736f234d9",
+  "fetched": "2026-11-03T04:15:24Z",
+  "chars": 19169,
+  "portal_id": "139019",
+  "tip": "DECIZIE"
+ }
+}
