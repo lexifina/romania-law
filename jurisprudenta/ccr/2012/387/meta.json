@@ -1,0 +1,215 @@
+{
+ "key": "dcc-387-2012",
+ "label": "Decizia CCR nr. 387/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "387",
+ "date": "2012-04-26",
+ "year": "2012",
+ "heading": "DECIZIE nr. 387 din 26 aprilie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (1)-(4) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale şi ale art. 4 alin. (27) din Legea nr. 32/2000 privind activitatea de asigurare şi supravegherea asigurărilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "424",
+  "bis": false,
+  "date": "2012-06-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "44.350/301/2010",
+  "1.264D/2011",
+  "1.265D/2011",
+  "46.848/301/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/2000",
+    "number": "32",
+    "year": "2000",
+    "path": "lege/2000/32"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "27"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (1)-(4) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale şi ale art. 4 alin. (27) din Legea nr. 32/2000 privind activitatea de asigurare şi supravegherea asigurărilor, excepţie ridicată din oficiu de Judecătoria Sectorului 3 Bucureşti - Secţia civilă în dosarele nr. 44.350/301/2010 şi nr. 46.848/301/2010.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/2000",
+    "number": "32",
+    "year": "2000",
+    "path": "lege/2000/32"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "27"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Comisiei de Supraveghere a Asigurărilor nr. 21/2009",
+    "number": "21",
+    "year": "2009"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139098",
+  "text_sha256": "25835a15f6ffe052181319087287077d68c37d02b0bfd3c371c73d6c5af74f11",
+  "catalogue_sha256": "25835a15f6ffe052181319087287077d68c37d02b0bfd3c371c73d6c5af74f11",
+  "fetched": "2026-11-03T04:15:20Z",
+  "chars": 12352,
+  "portal_id": "139098",
+  "tip": "DECIZIE"
+ }
+}
