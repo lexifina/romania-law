@@ -1,0 +1,329 @@
+{
+ "key": "dcc-498-2012",
+ "label": "Decizia CCR nr. 498/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "498",
+ "date": "2012-05-10",
+ "year": "2012",
+ "heading": "DECIZIE nr. 498 din 10 mai 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 lit. g) din Legea nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "428",
+  "bis": false,
+  "date": "2012-06-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "13.584/211/2010",
+  "1.248D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1990",
+    "number": "12",
+    "year": "1990",
+    "path": "lege/1990/12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Societatea Comercială Biseuro Impex - S.R.L., din Cluj-Napoca, în Dosarul nr. 13.584/211/2010 al Judecătoriei Cluj-Napoca şi constată că dispoziţiile art. 1 lit. g) din Legea nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite sunt neconstituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedinţilor celor două Camere ale Parlamentului şi Guvernului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/1990",
+    "number": "12",
+    "year": "1990",
+    "path": "lege/1990/12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "g",
+      "b",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/1991",
+    "number": "42",
+    "year": "1991",
+    "path": "lege/1991/42"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 23/1992",
+    "number": "23",
+    "year": "1992",
+    "path": "og/1992/23"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 55/1994",
+    "number": "55",
+    "year": "1994",
+    "path": "og/1994/55"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/1997",
+    "number": "105",
+    "year": "1997",
+    "path": "lege/1997/105"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 126/1998",
+    "number": "126",
+    "year": "1998",
+    "path": "og/1998/126"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 177/1998",
+    "number": "177",
+    "year": "1998",
+    "path": "lege/1998/177"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 210/2007",
+    "number": "210",
+    "year": "2007",
+    "path": "lege/2007/210"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2007",
+    "number": "363",
+    "year": "2007",
+    "path": "lege/2007/363"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 54/1990",
+    "number": "54",
+    "year": "1990",
+    "path": "decret-lege/1990/54"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 201/1990",
+    "number": "201",
+    "year": "1990",
+    "path": "hg/1990/201"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 976/1990",
+    "number": "976",
+    "year": "1990",
+    "path": "hg/1990/976"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenţei nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 296/2004",
+    "number": "296",
+    "year": "2004",
+    "path": "lege/2004/296"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-06-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139172",
+  "text_sha256": "578458099db33beaec98bce516fd61effbb3800429b4665240b9efb12bb1cd42",
+  "catalogue_sha256": "578458099db33beaec98bce516fd61effbb3800429b4665240b9efb12bb1cd42",
+  "fetched": "2026-11-03T04:15:16Z",
+  "chars": 27464,
+  "portal_id": "139172",
+  "tip": "DECIZIE"
+ }
+}
