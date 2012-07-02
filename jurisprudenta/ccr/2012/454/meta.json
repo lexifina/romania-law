@@ -1,0 +1,266 @@
+{
+ "key": "dcc-454-2012",
+ "label": "Decizia CCR nr. 454/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "454",
+ "date": "2012-05-08",
+ "year": "2012",
+ "heading": "DECIZIE nr. 454 din 8 mai 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (2) şi art. 4 din Ordonanţa de urgenţă a Guvernului nr. 107/2002 privind înfiinţarea Administraţiei Naţionale \"Apele Române\" şi ale art. 1 alin. (1) şi (2) şi art. 2 alin. (3)-(5) din anexa nr. 3 la aceeaşi ordonanţă de urgenţă, precum şi a prevederilor art. 50 şi art. 107 alin. (4) din Legea apelor nr. 107/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "438",
+  "bis": false,
+  "date": "2012-07-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.785/228/2010",
+  "1.023D/2011",
+  "1.134D/2011",
+  "6.352/196/2011",
+  "11.134D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2002",
+    "number": "107",
+    "year": "2002",
+    "path": "oug/2002/107"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea apelor nr. 107/1996",
+    "number": "107",
+    "year": "1996",
+    "path": "lege/1996/107"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (2) şi art. 4 din Ordonanţa de urgenţă a Guvernului nr. 107/2002 privind înfiinţarea Administraţiei Naţionale \"Apele Române\" şi ale art. 1 alin. (1) şi (2) şi art. 2 alin. (3)-(5) din anexa nr. 3 la aceeaşi ordonanţă de urgenţă, precum şi a prevederilor art. 50 şi art. 107 alin. (4) din Legea apelor nr. 107/1996, excepţie ridicată de Societatea Comercială Compania de Utilităţi Publice \"Dunărea\" - S.A. din Brăila în Dosarul nr. 1.785/228/2010 al Tribunalului Brăila - Secţia comercială şi contencios administrativ şi în Dosarul nr. 6.352/196/2011 al Judecătoriei Brăila - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2002",
+    "number": "107",
+    "year": "2002",
+    "path": "oug/2002/107"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea apelor nr. 107/1996",
+    "number": "107",
+    "year": "1996",
+    "path": "lege/1996/107"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 400/2005",
+    "number": "400",
+    "year": "2005",
+    "path": "lege/2005/400"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/2006",
+    "number": "112",
+    "year": "2006",
+    "path": "lege/2006/112"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139245",
+  "text_sha256": "a16ab18f6327c81508d97fcf287981511d9d2d7dee7a7976e4f5871bd1312391",
+  "catalogue_sha256": "a16ab18f6327c81508d97fcf287981511d9d2d7dee7a7976e4f5871bd1312391",
+  "fetched": "2026-11-03T04:15:11Z",
+  "chars": 20343,
+  "portal_id": "139245",
+  "tip": "DECIZIE"
+ }
+}
