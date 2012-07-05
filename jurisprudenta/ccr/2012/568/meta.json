@@ -1,0 +1,227 @@
+{
+ "key": "dcc-568-2012",
+ "label": "Decizia CCR nr. 568/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "568",
+ "date": "2012-05-29",
+ "year": "2012",
+ "heading": "DECIZIE nr. 568 din 29 mai 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 278 şi 278^1 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "451",
+  "bis": false,
+  "date": "2012-07-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.669/320/2011",
+  "1.208D/2011",
+  "1.479D/2011",
+  "7.964/320/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 278 şi 278^1 din Codul de procedură penală, excepţie ridicată de Emil Cotoară şi Klara Cotoară în dosarele nr. 4.669/320/2011 şi nr. 7.964/320/2011 ale Judecătoriei Târgu Mureş.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278-1",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 281/2003",
+    "number": "281",
+    "year": "2003",
+    "path": "lege/2003/281"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139378",
+  "text_sha256": "fc615a19df483608e03e9a9ff092e090d0f17564553802f8e5e241902a3681b6",
+  "catalogue_sha256": "fc615a19df483608e03e9a9ff092e090d0f17564553802f8e5e241902a3681b6",
+  "fetched": "2026-11-03T04:15:04Z",
+  "chars": 18462,
+  "portal_id": "139378",
+  "tip": "DECIZIE"
+ }
+}
