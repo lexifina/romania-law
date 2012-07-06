@@ -1,0 +1,257 @@
+{
+ "key": "dcc-615-2012",
+ "label": "Decizia CCR nr. 615/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "615",
+ "date": "2012-06-12",
+ "year": "2012",
+ "heading": "DECIZIE nr. 615 din 12 iunie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. II din Legea nr. 48/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 184/2002 pentru modificarea şi completarea Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, precum şi pentru stabilirea unor măsuri pentru accelerarea aplicării acesteia şi a Ordonanţei de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România, aprobată cu modificări şi completări prin Legea nr. 501/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "454",
+  "bis": false,
+  "date": "2012-07-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.318/117/2010",
+  "328D/2012",
+  "584D/2012",
+  "422/117/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 48/2004",
+    "number": "48",
+    "year": "2004",
+    "path": "lege/2004/48"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate a prevederilor art. II din Legea nr. 48/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 184/2002 pentru modificarea şi completarea Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, precum şi pentru stabilirea unor măsuri pentru accelerarea aplicării acesteia şi a Ordonanţei de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România, aprobată cu modificări şi completări prin Legea nr. 501/2002, excepţie invocată de Kovecs Jeno Istvan, Kovacs Jolan, Crăciun Ivan, Elisabeta Ivan, Gyongyosi Zoltan, Gyongyosi Annamaria, Kiss Denes şi Kiss Elena Claudia în Dosarul nr. 3.318/117/2010 al Tribunalului Cluj - Secţia civilă şi de Emil Simon, Maria Edita Simon şi Anna Maria Budai în Dosarul nr. 422/117/2010 al Curţii de Apel Cluj - Secţia I civilă.",
+  "Definitivă şi general obligatorie.",
+  "Prezenta decizie se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 48/2004",
+    "number": "48",
+    "year": "2004",
+    "path": "lege/2004/48"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 184/2002",
+    "number": "184",
+    "year": "2002",
+    "path": "oug/2002/184"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139388",
+  "text_sha256": "352c54eb4617231405bf9a2e3e180d85cae7f49ff4fea3633c764e05d51adb75",
+  "catalogue_sha256": "352c54eb4617231405bf9a2e3e180d85cae7f49ff4fea3633c764e05d51adb75",
+  "fetched": "2026-11-03T04:15:01Z",
+  "chars": 25027,
+  "portal_id": "139388",
+  "tip": "DECIZIE"
+ }
+}
