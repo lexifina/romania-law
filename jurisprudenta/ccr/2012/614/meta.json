@@ -1,0 +1,268 @@
+{
+ "key": "dcc-614-2012",
+ "label": "Decizia CCR nr. 614/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "614",
+ "date": "2012-06-12",
+ "year": "2012",
+ "heading": "DECIZIE nr. 614 din 12 iunie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi art. 2 din Ordonanţa de urgenţă a Guvernului nr. 83/2011 pentru stabilirea unor măsuri referitoare la Banca de Export-Import a României EXIMBANK - S.A. şi modificarea prevederilor art. 1 din Ordonanţa Guvernului nr. 64/2001 privind repartizarea profitului la societăţile naţionale, companiile naţionale şi societăţile comerciale cu capital integral sau majoritar de stat, precum şi la regiile autonome şi a dispoziţiilor ordonanţei de urgenţă în ansamblu",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "465",
+  "bis": false,
+  "date": "2012-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.920/302/2011",
+  "234D/2012",
+  "235D/2012",
+  "16.688/302/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 83/2011",
+    "number": "83",
+    "year": "2011",
+    "path": "oug/2011/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 64/2001",
+    "number": "64",
+    "year": "2001",
+    "path": "og/2001/64"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1 şi art. 2 din Ordonanţa de urgenţă a Guvernului nr. 83/2011 pentru stabilirea unor măsuri referitoare la Banca de Export-Import a României EXIMBANK - S.A. şi modificarea prevederilor art. 1 din Ordonanţa Guvernului nr. 64/2001 privind repartizarea profitului la societăţile naţionale, companiile naţionale şi societăţile comerciale cu capital integral sau majoritar de stat, precum şi la regiile autonome şi a dispoziţiilor ordonanţei de urgenţă în ansamblu, excepţie ridicată de Societatea Comercială \"Dac Air\" - S.A. din Bucureşti în dosarele nr. 11.920/302/2011 şi nr. 16.688/302/2011 ale Judecătoriei Sectorului 5 Bucureşti - Secţia a II-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 83/2011",
+    "number": "83",
+    "year": "2011",
+    "path": "oug/2011/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 64/2001",
+    "number": "64",
+    "year": "2001",
+    "path": "og/2001/64"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/2012",
+    "number": "12",
+    "year": "2012",
+    "path": "lege/2012/12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139506",
+  "text_sha256": "4738f225edbac4a399df6d2fd7f08f30b955d91abdecea37ab09d7ab9fdae8dd",
+  "catalogue_sha256": "4738f225edbac4a399df6d2fd7f08f30b955d91abdecea37ab09d7ab9fdae8dd",
+  "fetched": "2026-11-03T04:14:54Z",
+  "chars": 14650,
+  "portal_id": "139506",
+  "tip": "DECIZIE"
+ }
+}
