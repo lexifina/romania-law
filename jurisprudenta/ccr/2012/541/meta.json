@@ -1,0 +1,222 @@
+{
+ "key": "dcc-541-2012",
+ "label": "Decizia CCR nr. 541/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "541",
+ "date": "2012-05-24",
+ "year": "2012",
+ "heading": "DECIZIE nr. 541 din 24 mai 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (4) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor, precum şi ale art. 7 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 1/2011 privind stabilirea unor măsuri în domeniul pensiilor acordate beneficiarilor proveniţi din sistemul de apărare, ordine publică şi siguranţă naţională",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "469",
+  "bis": false,
+  "date": "2012-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "46.784/3/2010",
+  "757D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "oug/2011/1"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (4) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor, excepţie ridicată de Iulian Petrescu în Dosarul nr. 46.784/3/2010 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă şi asigurări sociale. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 7 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 1/2011 privind stabilirea unor măsuri în domeniul pensiilor acordate beneficiarilor proveniţi din sistemul de apărare, ordine publică şi siguranţă naţională, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "oug/2011/1"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 735/2010",
+    "number": "735",
+    "year": "2010",
+    "path": "hg/2010/735"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "oug/2010/119"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139524",
+  "text_sha256": "62f1d49367829bae6740c63695b9dc1b19ddd194c85534760480aa5d58e65dcd",
+  "catalogue_sha256": "62f1d49367829bae6740c63695b9dc1b19ddd194c85534760480aa5d58e65dcd",
+  "fetched": "2026-11-03T04:14:54Z",
+  "chars": 9761,
+  "portal_id": "139524",
+  "tip": "DECIZIE"
+ }
+}
