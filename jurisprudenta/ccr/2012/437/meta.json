@@ -1,0 +1,186 @@
+{
+ "key": "dcc-437-2012",
+ "label": "Decizia CCR nr. 437/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "437",
+ "date": "2012-05-03",
+ "year": "2012",
+ "heading": "DECIZIE nr. 437 din 3 mai 2012",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 8 lit. f^2) din Legea nr. 31/1990 privind societățile comerciale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "467",
+  "bis": false,
+  "date": "2012-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "128/62/2010",
+  "1.474D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": [
+      "f-2"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate a dispozițiilor art. 8 lit. f^2) din Legea nr. 31/1990 privind societățile comerciale, excepție ridicată de Societatea de Investiții Financiare \"Transilvania\" - S.A. din Brașov în Dosarul nr. 128/62/2010 al Curții de Apel Brașov - Secția comercială.",
+  "Definitivă și general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": [
+      "f-2"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 441/2006",
+    "number": "441",
+    "year": "2006",
+    "path": "lege/2006/441"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139516",
+  "text_sha256": "0156e93db884c5201a0c8dad3235dbb9b7579df3c6edaf7ab577db13fd61e563",
+  "catalogue_sha256": "0156e93db884c5201a0c8dad3235dbb9b7579df3c6edaf7ab577db13fd61e563",
+  "fetched": "2026-11-03T04:14:53Z",
+  "chars": 9017,
+  "portal_id": "139516",
+  "tip": "DECIZIE"
+ }
+}
