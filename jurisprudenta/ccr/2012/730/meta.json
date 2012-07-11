@@ -1,0 +1,144 @@
+{
+ "key": "dcc-730-2012",
+ "label": "Decizia CCR nr. 730/2012",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "730",
+ "date": "2012-07-09",
+ "year": "2012",
+ "heading": "DECIZIE nr. 730 din 9 iulie 2012",
+ "subtitle": "asupra cererii de soluţionare a conflictului juridic de natură constituţională dintre Parlamentul României şi Preşedintele României, formulată de Preşedintele României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "473",
+  "bis": false,
+  "date": "2012-07-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.206E/2012"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că cererea de soluţionare a conflictului juridic de natură constituţională dintre Parlamentul României, pe de o parte, şi Preşedintele României, pe de altă parte, formulată de Preşedintele României, este inadmisibilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Parlamentului României şi Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e",
+      "h"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139554",
+  "text_sha256": "acd13c59dbe398bcd5fd07234972e81ebfceed0075033a72c75e0feda3224ad2",
+  "catalogue_sha256": "acd13c59dbe398bcd5fd07234972e81ebfceed0075033a72c75e0feda3224ad2",
+  "fetched": "2026-11-03T04:14:52Z",
+  "chars": 24398,
+  "portal_id": "139554",
+  "tip": "DECIZIE"
+ }
+}
