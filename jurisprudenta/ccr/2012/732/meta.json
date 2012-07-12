@@ -1,0 +1,276 @@
+{
+ "key": "dcc-732-2012",
+ "label": "Decizia CCR nr. 732/2012",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "732",
+ "date": "2012-07-10",
+ "year": "2012",
+ "heading": "DECIZIE nr. 732 din 10 iulie 2012",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a Hotărârii Parlamentului nr. 32 din 3 iulie 2012 pentru revocarea domnului Gheorghe Iancu din funcţia de Avocat al Poporului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "480",
+  "bis": false,
+  "date": "2012-07-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea de neconstituţionalitate a Hotărârii Parlamentului nr. 32 din 3 iulie 2012 pentru revocarea domnului Gheorghe Iancu din funcţia de Avocat al Poporului, sesizare formulată de 58 de deputaţi aparţinând Grupului parlamentar al Partidului Democrat Liberal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedinţilor celor două Camere ale Parlamentului şi se publică în Monitorul Oficial al României, Partea I.",
+  "Dezbaterile au avut loc la data de 10 iulie 2012 şi la acestea au participat: Augustin Zegrean, preşedinte, Aspazia Cojocaru, Acsinte Gaspar, Petre Lăzăroiu, Mircea Ştefan Minea, Iulia Antoanella Motoc, Ion Predescu, Puskas Valentin Zoltan şi Tudorel Toader, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l",
+      "d"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 15/2012",
+    "number": "15",
+    "year": "2012",
+    "path": "oug/2012/15"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 27/2012",
+    "number": "27",
+    "year": "2012",
+    "path": "og/2012/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 38/2012",
+    "number": "38",
+    "year": "2012",
+    "path": "oug/2012/38"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 177/2010",
+    "number": "177",
+    "year": "2010",
+    "path": "lege/2010/177"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 27/2012",
+    "number": "27",
+    "year": "2012",
+    "path": "oug/2012/27"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139600",
+  "text_sha256": "2ab8850d68ffe2fac175392b102038c52df558e4d0b476d78d370f2e2e41c4c1",
+  "catalogue_sha256": "2ab8850d68ffe2fac175392b102038c52df558e4d0b476d78d370f2e2e41c4c1",
+  "fetched": "2026-11-03T04:14:49Z",
+  "chars": 39664,
+  "portal_id": "139600",
+  "tip": "DECIZIE"
+ }
+}
