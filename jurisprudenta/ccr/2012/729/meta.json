@@ -1,0 +1,194 @@
+{
+ "key": "dcc-729-2012",
+ "label": "Decizia CCR nr. 729/2012",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "729",
+ "date": "2012-07-09",
+ "year": "2012",
+ "heading": "DECIZIE nr. 729 din 9 iulie 2012",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a Hotărârii Camerei Deputaţilor nr. 25 din 3 iulie 2012 privind revocarea doamnei Roberta Alma Anastase din funcţia de preşedinte şi de membru al Biroului permanent al Camerei Deputaţilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "480",
+  "bis": false,
+  "date": "2012-07-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.178L/2/2012",
+  "1.208L/2/2012"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea de neconstituţionalitate referitoare la Hotărârea Camerei Deputaţilor nr. 25 din 3 iulie 2012 privind revocarea doamnei Roberta Alma Anastase din funcţia de preşedinte şi de membru al Biroului permanent al Camerei Deputaţilor.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedintelui Camerei Deputaţilor şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 38/2012",
+    "number": "38",
+    "year": "2012",
+    "path": "oug/2012/38"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 177/2010",
+    "number": "177",
+    "year": "2010",
+    "path": "lege/2010/177"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139599",
+  "text_sha256": "599fe318510422adbba77329ec0d1a91941da3299645e020e49cf9a62aa4e13a",
+  "catalogue_sha256": "599fe318510422adbba77329ec0d1a91941da3299645e020e49cf9a62aa4e13a",
+  "fetched": "2026-11-03T04:14:49Z",
+  "chars": 32814,
+  "portal_id": "139599",
+  "tip": "DECIZIE"
+ }
+}
