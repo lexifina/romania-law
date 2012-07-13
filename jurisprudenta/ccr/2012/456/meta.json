@@ -1,0 +1,203 @@
+{
+ "key": "dcc-456-2012",
+ "label": "Decizia CCR nr. 456/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "456",
+ "date": "2012-05-08",
+ "year": "2012",
+ "heading": "DECIZIE nr. 456 din 8 mai 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 2 alin. (2), art. 7 şi art. 28 alin. (1) din Legea nr. 182/2002 privind protecţia informaţiilor clasificate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "482",
+  "bis": false,
+  "date": "2012-07-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "559/45/2010",
+  "1.035D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 182/2002",
+    "number": "182",
+    "year": "2002",
+    "path": "lege/2002/182"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 2 alin. (2), art. 7 şi art. 28 alin. (1) din Legea nr. 182/2002 privind protecţia informaţiilor clasificate, excepţie ridicată, din oficiu, de Curtea de Apel Iaşi - Secţia contencios administrativ şi fiscal în Dosarul nr. 559/45/2010.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 182/2002",
+    "number": "182",
+    "year": "2002",
+    "path": "lege/2002/182"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139617",
+  "text_sha256": "4093723d95dec753358da4fe4aba5f013ddf92bcc13aeb021a79f76193d058db",
+  "catalogue_sha256": "4093723d95dec753358da4fe4aba5f013ddf92bcc13aeb021a79f76193d058db",
+  "fetched": "2026-11-03T04:14:48Z",
+  "chars": 20319,
+  "portal_id": "139617",
+  "tip": "DECIZIE"
+ }
+}
