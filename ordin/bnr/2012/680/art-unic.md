@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale SUEDLEASING ROMÂNIA IFN - S.A., cu sediul în municipiul București, bd. Bucureștii Noi nr. 121, ap. B.12MP, sectorul 1, înregistrată la registrul comerțului sub nr. J40/13255/2008, cod unic de înregistrare 24271066, înscrisă în Registrul general la secțiunea k) "Activități multiple de creditare" sub nr. RG-PJR-41-110258. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 5 iulie 2012. Nr. 680. -------
