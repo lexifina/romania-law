@@ -1,0 +1,4 @@
+Consiliul local al municipiului Alexandria, judetul Teleorman intrunit in sedinta extraordinara, avand in vedere :
+-expunerea de motive nr. 14323 din 05.07.2012 a Primarului municipiului Alexandria; -raportul de specialitate nr. 14324 din 05.07. 2012 al Directiei Administratie Publica Locala; -adresa nr. 2498 din 05.07.2012 a SC ALEXSAL PREST SA; -raportul comisiilor de specialitate pe domenii de activitate ale Consiliului local al municipiului Alexandria; -prevederile art. 59 alin. (1) din Legea nr. 24/2000, privind normele de tehnică legislativă pentru elaborarea actelor normative, republicata, cu modificarile si completarile ulterioare;
+In temeiul prevederilor art. 45, alin (1) si ale art. 115, alin. (1), lit „b” din Legea nr. 215 din 23 aprilie 2001 a administratiei publice locale, republicata, cu modificarile si completarile ulterioare,
+HOTARASTE:
