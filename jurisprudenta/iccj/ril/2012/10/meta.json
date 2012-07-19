@@ -1,0 +1,240 @@
+{
+ "key": "iccj-ril-10-2012",
+ "label": "Decizia ÎCCJ nr. 10/2012 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "10",
+ "date": "2012-06-18",
+ "year": "2012",
+ "heading": "DECIZIE nr. 10 din 18 iunie 2012",
+ "subtitle": "referitoare la examinarea recursului în interesul legii privind interpretarea şi aplicarea dispoziţiilor art. 8 alin. (1) lit. e) din Ordonanţa Guvernului nr. 75/2001 privind organizarea şi funcţionarea cazierului fiscal, republicată, cu modificările şi completările ulterioare, referitoare la prezentarea obligatorie a certificatului de cazier fiscal în cazul cooptării unor noi membri în asociaţii şi fundaţii",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSURILE ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "495",
+  "bis": false,
+  "date": "2012-07-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "9/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 75/2001",
+    "number": "75",
+    "year": "2001",
+    "path": "og/2001/75"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea şi aplicarea dispoziţiilor art. 8 alin. (1) lit. e) din Ordonanţa Guvernului nr. 75/2001, republicată, stabileşte că:",
+  "Prezentarea certificatului de cazier fiscal este obligatorie în cazul cooptării unor noi membri în asociaţii şi fundaţii, atunci când aceştia dobândesc şi calitatea de reprezentanţi legali ai persoanei juridice deja înregistrate.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 75/2001",
+    "number": "75",
+    "year": "2001",
+    "path": "og/2001/75"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "b"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 410/2002",
+    "number": "410",
+    "year": "2002",
+    "path": "lege/2002/410"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 86/2003",
+    "number": "86",
+    "year": "2003",
+    "path": "og/2003/86"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 91/2007",
+    "number": "91",
+    "year": "2007",
+    "path": "lege/2007/91"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 47/2007",
+    "number": "47",
+    "year": "2007",
+    "path": "og/2007/47"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "og/2003/92",
+    "slug": "og-92-2003"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2012-07-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139776",
+  "text_sha256": "de1a017586ae8b60bad42e6751f046785cc9d760a00a573efb81ed8a807871b7",
+  "catalogue_sha256": "de1a017586ae8b60bad42e6751f046785cc9d760a00a573efb81ed8a807871b7",
+  "fetched": "2026-11-03T04:14:38Z",
+  "chars": 31369,
+  "portal_id": "139776",
+  "tip": "DECIZIE"
+ }
+}
