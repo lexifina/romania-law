@@ -1,0 +1,293 @@
+{
+ "key": "dcc-735-2012",
+ "label": "Decizia CCR nr. 735/2012",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "735",
+ "date": "2012-07-24",
+ "year": "2012",
+ "heading": "DECIZIE nr. 735 din 24 iulie 2012",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a dispoziţiilor articolului unic pct. 4 [referitor la art. I pct. 5^2 din Ordonanţa de urgenţă a Guvernului nr. 41/2012] din Legea pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2012 pentru modificarea şi completarea Legii nr. 3/2000 privind organizarea şi desfăşurarea referendumului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "510",
+  "bis": false,
+  "date": "2012-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.259A/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2012",
+    "number": "41",
+    "year": "2012",
+    "path": "oug/2012/41"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2012",
+    "number": "41",
+    "year": "2012",
+    "path": "lege/2012/41"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecţia de neconstituţionalitate şi constată că dispoziţiile articolului unic pct. 4 [referitor la art. I pct. 5^2 din Ordonanţa de urgenţă a Guvernului nr. 41/2012] din Legea pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2012 pentru modificarea şi completarea Legii nr. 3/2000 privind organizarea şi desfăşurarea referendumului sunt constituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I.",
+  "Dezbaterile au avut loc la data de 24 iulie 2012 şi la acestea au participat: Augustin Zegrean, preşedinte, Aspazia Cojocaru, Acsinte Gaspar, Petre Lăzăroiu, Mircea Ştefan Minea, Iulia Antoanella Motoc, Ion Predescu, Puskas Valentin Zoltan şi Tudorel Toader, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2012",
+    "number": "41",
+    "year": "2012",
+    "path": "lege/2012/41"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "95",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2012",
+    "number": "41",
+    "year": "2012",
+    "path": "oug/2012/41"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 375/2003",
+    "number": "375",
+    "year": "2003",
+    "path": "lege/2003/375"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139907",
+  "text_sha256": "2268e777271880933ae6b7c4cb445a67a446ccef2535e61e3c2a126e46e42dda",
+  "catalogue_sha256": "2268e777271880933ae6b7c4cb445a67a446ccef2535e61e3c2a126e46e42dda",
+  "fetched": "2026-11-03T04:14:29Z",
+  "chars": 24330,
+  "portal_id": "139907",
+  "tip": "DECIZIE"
+ }
+}
