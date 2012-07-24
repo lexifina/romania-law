@@ -1,0 +1,242 @@
+{
+ "key": "dcc-422-2012",
+ "label": "Decizia CCR nr. 422/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "422",
+ "date": "2012-05-03",
+ "year": "2012",
+ "heading": "DECIZIE nr. 422 din 3 mai 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 91/2010 privind destinaţia sumelor provenite din recuperarea unor drepturi valutare ale României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "511",
+  "bis": false,
+  "date": "2012-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.000/2/2009",
+  "1.101D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 91/2010",
+    "number": "91",
+    "year": "2010",
+    "path": "oug/2010/91"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 91/2010 privind destinaţia sumelor provenite din recuperarea unor drepturi valutare ale României, excepţie ridicată de Societatea Comercială Prodexport - S.A. din Bucureşti în Dosarul nr. 8.000/2/2009 al Înaltei Curţi de Casaţie şi Justiţie - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 91/2010",
+    "number": "91",
+    "year": "2010",
+    "path": "oug/2010/91"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.638/2008",
+    "number": "1638",
+    "year": "2008",
+    "path": "hg/2008/1638"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/1994",
+    "number": "29",
+    "year": "1994",
+    "path": "lege/1994/29"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 59/1994",
+    "number": "59",
+    "year": "1994",
+    "path": "og/1994/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/1992",
+    "number": "7",
+    "year": "1992",
+    "path": "lege/1992/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 348/2004",
+    "number": "348",
+    "year": "2004",
+    "path": "lege/2004/348"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 732/2011",
+    "number": "732",
+    "year": "2011",
+    "path": "hg/2011/732"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139928",
+  "text_sha256": "21c36e418aeaa828913cc5ea26f627d11a51fae857440d8cf4b59ef84fbc252f",
+  "catalogue_sha256": "21c36e418aeaa828913cc5ea26f627d11a51fae857440d8cf4b59ef84fbc252f",
+  "fetched": "2026-11-04T02:30:54Z",
+  "chars": 11517,
+  "portal_id": "139928",
+  "tip": "DECIZIE"
+ }
+}
