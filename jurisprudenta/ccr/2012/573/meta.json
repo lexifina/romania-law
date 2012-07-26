@@ -1,0 +1,224 @@
+{
+ "key": "dcc-573-2012",
+ "label": "Decizia CCR nr. 573/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "573",
+ "date": "2012-05-29",
+ "year": "2012",
+ "heading": "DECIZIE nr. 573 din 29 mai 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 158 alin. 3 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "517",
+  "bis": false,
+  "date": "2012-07-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.872/97/2011",
+  "38D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "158",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 158 alin. 3 din Codul de procedură civilă, excepţie ridicată de Cristian Galiceanu, Daniel Viorel Muntean, Radu Sevastian, Avram Iancu, Petrică Cioriciu, Dumitru Citiriga, Dorel Cuc, Vasile Bârea, Ioan Gheorghe Almăşan, Teodora Costa, Vasile Monea, Nicolae Petru Deac, Florin Doru Nichitoae, Elena Costoiu, Adrian Horia Scurtu, Eugen Enescu, Valeriu Iacob, Nelu Toma, Gheorghe Beldiman, Vasile Giosan, Aurel Mârza, Cornel Liţoiu, Nicolae Miclean, Voicu Oprea, Maria Filimon şi Monica Boticiu, prin Sindicatul Cadrelor Militare Disponibilizate în Rezervă şi în Retragere, Deva, precum şi de Adrian Filer, în nume propriu, în dosarele nr. 1.872/97/2011, nr. 2.076/97/2011, nr. 2.081/97/2011, nr. 2.114/97/2011, nr. 2.119/97/2011, nr. 2.121/97/2011, nr. 2.122/97/2011, nr. 2.117/97/2011, nr. 2.200/97/2011, nr. 2.206/97/2011, nr. 2.217/97/2011, nr. 2.207/97/2011, nr. 2.747/97/2011, nr. 1.864/97/2011, nr. 1.812/97/2011, nr. 1.869/97/2011, nr. 1.877/97/2011, nr. 1.844/97/2011, nr. 2.062/97/2011, nr. 2.073/97/2011, nr. 2.136/97/2011, nr. 1.804/97/2011, nr. 1.878/97/2011, nr. 2.140/97/2011, nr. 2.211/97/2011, nr. 2.486/97/2011 şi nr. 984/97/2011 ale Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "158",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 164/2001",
+    "number": "164",
+    "year": "2001",
+    "path": "lege/2001/164"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139985",
+  "text_sha256": "95b923fed0ce32a3fb209dcd39c83bfa3da3d1dfa94b5cbb5b28d1ee5331950f",
+  "catalogue_sha256": "95b923fed0ce32a3fb209dcd39c83bfa3da3d1dfa94b5cbb5b28d1ee5331950f",
+  "fetched": "2026-11-03T04:14:25Z",
+  "chars": 14564,
+  "portal_id": "139985",
+  "tip": "DECIZIE"
+ }
+}
