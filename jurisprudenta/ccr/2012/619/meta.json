@@ -1,0 +1,209 @@
+{
+ "key": "dcc-619-2012",
+ "label": "Decizia CCR nr. 619/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "619",
+ "date": "2012-06-12",
+ "year": "2012",
+ "heading": "DECIZIE nr. 619 din 12 iunie 2012",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "530",
+  "bis": false,
+  "date": "2012-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.950/109/2008",
+  "501D/2012",
+  "3.950/1/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 31 alin. 1 şi art. 34 alin. 2 din Codul de procedură civilă, excepţie ridicată de Mariana Dragomir în Dosarul nr. 3.950/109/2008 al Curţii de Apel Braşov - Secţia civilă şi pentru cauze cu minori şi de familie, de conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140105",
+  "text_sha256": "d4ec41daca979a6b16c2f32ed63e2015aebbd9aaa04aadaca10097d8ee19cd3a",
+  "catalogue_sha256": "d4ec41daca979a6b16c2f32ed63e2015aebbd9aaa04aadaca10097d8ee19cd3a",
+  "fetched": "2026-11-06T03:33:21Z",
+  "chars": 9268,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250407123531/https://legislatie.just.ro/Public/DetaliiDocumentAfis/140105",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/140105",
+   "timestamp": "20250407123531",
+   "sha256": "cc8115aaa4b98f149a00d878b6681de18fb1f2936b8e68a04779f80648c6de44"
+  },
+  "portal_id": "140105",
+  "tip": "DECIZIE"
+ }
+}
