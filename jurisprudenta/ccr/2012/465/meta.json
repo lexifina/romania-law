@@ -1,0 +1,262 @@
+{
+ "key": "dcc-465-2012",
+ "label": "Decizia CCR nr. 465/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "465",
+ "date": "2012-05-08",
+ "year": "2012",
+ "heading": "DECIZIE nr. 465 din 8 mai 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar şi a Legii nr. 118/2010, în ansamblul său",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "529",
+  "bis": false,
+  "date": "2012-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.671/40/2011",
+  "1.426D/2011",
+  "3.764/40/2011",
+  "3.675/40/2011",
+  "3.757/40/2011",
+  "3.499/40/2011",
+  "3.635/40/2011",
+  "3.636/40/2011",
+  "3.796/40/2011",
+  "3.677/40/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) din Legea nr. 118/2010 privind unele măsuri necesareîn vederea restabilirii echilibrului bugetar şi a Legii nr. 118/2010, în ansamblul său, excepţie ridicată de Cristina Alina Robu, Daniela Nechita, Oana Carmen Rusu, Dorica Chiaburu, Margareta Tanasă, Oltica Chiaburu, Marinela Poplauschi, Doina Ţurcanu, Zâna Macsiniuc, Maricica For, Doiniţa Roman, Veronica For, Delia Coţovanu, Ioana Andrieş, Elena Cristina Cobzaru, George Sorin Cruţ, Ana Prisacaru, Mariana Cobuz, Marinela Claudia Onofrei, Felicia Năpîrcă, Gelu Mariciuc, Dumitru Merticariu, Mariana Asimini, Gheorghe Asimini, Doina David şi Cristinel Dutcă, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.671/40/2011 al Tribunalului Botoşani - Secţia civilă, de Dorica Ciomaga, Angela Acsinte, Sanda Tenchiu, Simona-Nonina Filip, Gabi-Genoveva Talef, Ricuţa-Ionica Păduraru, Florin Constantin Poraicu, Marius-Constantin Grigoraş, Gabriel-Florin Talef, Raul Mihai Noroc, Marinela Ciobanu, Florentin Calimandruc, Ionuţ Andrieş, Neli Daneliuc, Dumitru Grigoraş, Pavel Rotari, Aurica Vieriu şi Geta Creţu, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.764/40/2011 al Tribunalului Botoşani - Secţia civilă, de Narcisa-Oana Babii, Silvia Calancea, Rodica Ciobanu, Grigore Cironodolea, Ana Coriciuc, Teodor Coriciuc, Cornel Drai, Maricica Grădinaru, Vasile Guraliuc, Dumitru Hrenciuc, Ramona Hriţcuşoru, Daniela Manolache, Victoria Onişor, Elena Pralea, Veronica Şeucaliuc, Dumitru Vatamaniuc şi Adriana Vătui, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.675/40/2011 al Tribunalului Botoşani - Secţia civilă, de Brânduşa Aştefănesei, Mihaela Elena Bejinaru, Elena Călin, Gabriela Condrea, Mihaela Crauciuc Cabur, Ioan Guraliuc, Maria Lipciuc şi Niculina Mătrescu, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.757/40/2011 al Tribunalului Botoşani - Secţia civilă, de Felicia Andriuc, Cătălin Artin, Daniela Mihaela Burlacu, Elena Valentina Chelariu, Irina Constantinescu, Luminiţa Macovei, Elisabeta Maxim, Emilia Munteanu, Margareta Luminiţa Neacşu, Cristina Margareta Roman, Ilie Roman, Nadia Valentina Tapalagă, Adriana Voicu şi Ioana Zvîncă, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.499/40/2011 al Tribunalului Botoşani - Secţia civilă, de Daniela Alupoaei, Margareta Atofanei, Liliana Aursulesei, Adriana Baltariu, Mihaiela Barabaş, Gabriela Bojescu, Florica Brâişteanu, Angelica Dana Bulmagă, Sena Caranica, Cristina Corolea, Măria Cozmolici, Loredana Laura Doboşeriu, Lenuţa Dreptu, Luminiţa Angelica Galon, Lenuţa Hudescu, Camelia Iacob, Carmina Leonte, Corina Leucă, Irina Mihaela Loghin, Lucica Loghin, Cornelia Malainic, Monica Mardar, Emilia Mariciuc, Simona Marcu, Angelica Dana Maticiuc, Cristina Maxim, Cornelia Nadia Mihai, Gabriela Mihai, Elena Muncileanu, Violeta Murariu, Emilia Musteaţă, Luminiţa Pascal, Sergiu Pavel, Mărioara Pintilei, Rodica Pocriveschi, Romică Pocriveschi, Nicoleta Ana Postolache, Nicoleta Ripiceanu, Doina Roman, Corina Romaniuc, Maricica Sandu-Dohotariu, Petronela Spatariu, Alexandru Trufin, Cornelia Trufin, Panseluţa Ucrainschi, Eugenia Nadia Ungureanu, Ramona Aura Viziteu, Viorica Zadobrinschi şi Alina Vasilica Zamfir, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.635/40/2011 al Tribunalului Botoşani - Secţia civilă, de Maria Adăscăliţei, Ioan Alexoaie, Liliana Andreşan, Roxana Maria Bejan, Valeriu Budeanu, Rodica Butnariu, Violeta Druţu, Gabriela Filipovici, Elena Gavril, Luminiţa Gîtman, Ioan Guzu, Marcela Petronela Iriciuc, Sebastian Luţuc, Alina Moroşanu, Angela Pasciuc, Laura Cristina Patraşi, Adrian Pavăl, Oltiţa Prisacariu, Marius Roşu, Dumitru Ţapu, Ioana Ţăruşi, Natalia Ungureanu şi Constantin Voiniciuc, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.636/40/2011 al Tribunalului Botoşani - Secţia civilă, de Otilia Gheorghiu, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.796/40/2011 al Tribunalului Botoşani - Secţia civilă, de Adriana Cornelia Balasan, Remus Sebastian Balasan, Maria Beraru, Cătălina Burlacu, Silviea Chirilă, Ioan Dorneanu, Doiniţa Lazăr, Magda Marin, Doina Oniciuc, Gabriela Pintilei şi Gabriela Pricopie, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.677/40/2011 al Tribunalului Botoşani - Secţia civilă, de Lidia Adominicăi, Jenică Afloarei, Nadia Alecu, Doina Amitroaei, Ioan Apetroaei-Bîrsan, Narcis Alexandru Apostol, Mariana Apostol, Florentina Crenguţa Aruşti, Cătălin Dumitru Baciu, Mihaela Simona Baciu, Ionel Băicănescu, Ana Bălaşa, Petre Bălaşa, Măria Bălosu, Petronela Beleagă, Monalisa Mihaela Boboc, Mihaela Bosînceanu, Pansela Breazu, Jiniţa Burlea, Tatiana Caprariu-Volentiru, Mihaela Nuşa Cazacu, Stroe Călin, Veronica Chiaburu, Constantin Chişcă, Manuela Chişcă, Camelia Ciomaga, Cezar Ciomaga, Dumitru Cristinel Ciomaga, Tamara Cobzariu, Mihaela Cotloană, George Valentin Cristescu, Constantin Dărîngă, Răzvan Ioan, Enache Măria Duduc, Gabriela Florea, Mihaela Iulieana Funduianu, Mihaela Guriuc, Mihai Haraga, Elena Horeanu, Delia Mihaela Horodea, Paula Larisa Hriţcu, Diana Irina Ignat, Elena Ignat, Cristina Elena Ioniţă, Gabriel Iosub, Gabriela Ispir, Jan Luchian, Liliana Lupaşcu, Elena Luţă, Elena Marineac, Elena Valentina Mălinescu, Sergiu Mocanu, Ana Murariu, Gheorghe Murariu, Mihaela Claudia Murariu, Georgel Nanea, Luminiţa Nanea, Jînica Oltea Neagu, Dănuţ Niţă, Radu Niţă, Mariana Pascariu, Lucreţia Pop, Carmelia Popescu, Cristian Popovici, Galinâ Relenschi, Măria Rotari, Toader Rotari, Angelica Rusu, Ilenuţa Rusu, Liliana Silion, Eugen Sorocanu, Afrodita Şparhat, Alexandru Şparhat, Puiu Şparhat, Nelu Ştefan, Constantin Timofti, Vasile Turtureanu, Daniela Valentina Urioc, Măria Crenguţa Volintiru, Dumitru Voroneanu şi Elena Lăcrămioara Zeicanu, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.448/40/2011 al Tribunalului Botoşani - Secţia civilă, de Ana Maria Atodiresei, Nicoleta Borfotină, Andreea Simona Chirilă, Daniela Clipa, Elena Rodica Dodiţă, Ioan Grigoroşcuţă, Mihaela Grigoroşcuţă, Niculina Iacob, Violeta Morariu, Mioara Oseţchi, Sorin Rîptea, Paula Stan, Gheorghe Şcarlii şi Verona Zaharia, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.495/40/2011 al Tribunalului Botoşani - Secţia civilă, de Filaret Acrişor, Gheorghe Aiftincăi, Mina Aiftincăi, Nicu Azamfire, Elena Bădescu, Viorica Banaru, Gabriel Boicu, Liliana Elena Burlacu, Elena Chebac, Neculai Chisăliţă, Cristina Ciuclea, Mihai Cojocariu-Şchiopu, Gina Doboşeru, Magda Ieavorschi, Petru Ionaş, Daniela Manolache, Alina Monica Martiniuc, Dumitru Maxiniuc, Cătălina Merticariu, Firuţa Mustaţă, Mariana Mustaţă, Floarea Pascal, Tatiana Mihaela Pavel, Liviu Pînzariu, Anca Popovici, Petronela Laura Rusu, Petronela Spatariu, Cristina Ştefan, Claudia Elena Ţăruşi şi Elena Vâlcu, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.638/40/2011 al Tribunalului Botoşani - Secţia civilă, de Mariea Baciu, Iulia Bidică, Marilena Bosînciuc, Maria Corsei, Florentina Gavril şi Violeta Guriuc, prin Sindicatul Învăţământului Preuniversitar Botoşani, în Dosarul nr. 3.449/40/2011 al Tribunalului Botoşani - Secţia civilă, şi de Elena Cristina Aioane, Iuliana Anton, Mircea Anton, Adriana Bărbuţă, Cristina Bîndiu, Carmen Brînzei, Aurica Buliga, Adriana Burlacu, Marieta Butnariu, Augustin Carpen, Aurica Cimbru, Marinela Crihan, Costică Drancă, Costică Ficioru, Florentina Fulga, Doiniţa Hangan, Eugenia Haliţ, Valeria Iacob, Mirela Ibănescu, Georgeta Ira, Rodica Lepărdă, Rodica M. Lepărdă, Aurica Mandiuc, Lidia Melniciuc, Luminiţa Mihalache, Brînduşa Minciună, Sabina Milian, Constantin Muha, Lucica Munteanu, Eufrosina Nataraşu, Doina Neaună, Adela Olariu, Mihaela Pădurariu, Cristina Poiana, Ionel Prisacariu, Marlena Purice, Silvia Rudişteanu, Angela Silivastru, Maria Simian, Bogdan V. Simian, Corina Sumanariu, Viorel Şargu, Laurenţa Şchiopu, Mariana Ursache, Iulia Vătămănescu şi Vasile Vieru, prin Sindicatul \"Impact\" Botoşani, în Dosarul nr. 1.478/40/2011 al Curţii de Apel Suceava - Secţia I civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "133",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140090",
+  "text_sha256": "843a905c816471fcd31d4037211258d4b82addea29ebde246908e12ccf528d1c",
+  "catalogue_sha256": "843a905c816471fcd31d4037211258d4b82addea29ebde246908e12ccf528d1c",
+  "fetched": "2026-11-03T21:48:46Z",
+  "chars": 49218,
+  "portal_id": "140090",
+  "tip": "DECIZIE"
+ }
+}
