@@ -1,0 +1,39 @@
+# Anexa 3
+Anexa nr. 3
+la proceduri, condiții și reguli
+ROMÂNIA
+MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE
+INSPECȚIA NAȚIONALĂ PENTRU CALITATEA SEMINȚELOR
+CERTIFICAT DE AUTORIZARE OFICIALĂ
+Nr. .......
+Laboratorul ..................................................
+Sediul/Adresa ................................................
+este recunoscut ca laborator autorizat/reautorizat oficial, în conformitate cu Ordinul ministrului agriculturii și dezvoltării rurale nr. 141/2012 pentru aprobarea Procedurilor, condițiilor și regulilor privind autorizarea oficială a laboratoarelor pentru testarea semințelor oficial și sub supraveghere oficială și care are la bază SR EN ISO/CEI 17025.
+Scopul autorizării/reautorizării oficiale include efectuarea următoarelor teste de calitate a semințelor:
+..............................................................
+..............................................................
+Testarea semințelor se efectuează la următoarele specii, grupe de specii destinate însămânțării:
+..............................................................
+..............................................................
+Autorizarea/reautorizarea este valabilă pe o perioadă de 4 ani începând de la data de ......*).
+-------
+Notă
+...
+*) Se poate prelungi cu până la 3 luni, dacă cererea de reautorizare a fost depusă în termen.
+Data: ...........
+Inspecția Națională pentru Calitatea
+Comisia:
+Semințelor sau Laboratorul Central
+Numele, prenumele, semnătura
+pentru Calitatea Semințelor și a
+............
+Materialului Săditor
+............
+(Funcția, numele, prenumele, semnătura)
+............
+Acest certificat este valabil numai vizat pe anul în curs.
+┌─────────────┬─────────────┬──────────────┬─────────────┐
+│ Anul I │ Anul II │ Anul III │ Anul IV │
+├─────────────┼─────────────┼──────────────┼─────────────┤
+│ │ │ │ │
+└─────────────┴─────────────┴──────────────┴─────────────┘
