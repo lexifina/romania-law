@@ -1,0 +1,194 @@
+{
+ "key": "dcc-622-2012",
+ "label": "Decizia CCR nr. 622/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "622",
+ "date": "2012-06-12",
+ "year": "2012",
+ "heading": "DECIZIE nr. 622 din 12 iunie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar, în ansamblul său, şi, în special, ale art. 1 alin. (1) din aceeaşi lege",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "555",
+  "bis": false,
+  "date": "2012-08-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.112/40/2011",
+  "532D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a Legii nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar, în ansamblul său, şi, în special, ale art. 1 alin. (1) din aceeaşi lege, excepţie ridicată de Sindicatul Învăţământului Preuniversitar Botoşani în Dosarul nr. 6.112/40/2011 al Tribunalului Botoşani - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140293",
+  "text_sha256": "9f494f0e37750cafc405e3d894852011eca28e804454ba49ba9e684c8a800fd3",
+  "catalogue_sha256": "9f494f0e37750cafc405e3d894852011eca28e804454ba49ba9e684c8a800fd3",
+  "fetched": "2026-11-03T04:14:04Z",
+  "chars": 14367,
+  "portal_id": "140293",
+  "tip": "DECIZIE"
+ }
+}
