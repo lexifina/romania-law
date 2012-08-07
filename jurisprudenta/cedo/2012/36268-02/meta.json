@@ -1,0 +1,136 @@
+{
+ "key": "cedo-36268-02-2012-05-31",
+ "label": "CEDO, Jarnea şi alţii c. României, 2012-05-31",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-05-31",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 31 mai 2012",
+ "subtitle": "în Cauza Jarnea şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "556",
+  "bis": false,
+  "date": "2012-08-07",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "36268/02",
+  "24717/07",
+  "25500/04",
+  "25416/04",
+  "43454/06",
+  "16297/08",
+  "17068/08"
+ ],
+ "case_name": "Jarnea şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. decide să conexeze cererile; 2. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie şi inadmisibilă pentru celelalte capete de cerere; 3. hotărăşte că a fost încălcat art. 1 din Protocolul nr. 1 la Convenţie; 4. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni, următoarele sume, care trebuie convertite în lei româneşti la rata de schimb aplicabilă la data plăţii, plus orice sumă ce poate fi datorată cu titlu de impozit:",
+  "(i) în Cererea nr. 36.268/02: 5.000 EUR (cinci mii de euro) cu titlu de prejudiciu material şi moral; şi 1.500 EUR (o mie cinci sute de euro) cu titlu de cheltuieli de judecată; (îi) în Cererea nr. 25.416/04: 5.000 EUR (cinci mii de euro) cu titlu de prejudiciu material şi moral; şi 1.000 EUR (o mie de euro) cu titlu de cheltuieli de judecată; (iii) în Cererea nr. 25.500/04: 5.000 EUR (cinci mii de euro) cu titlu de prejudiciu material şi moral; şi 350 EUR (trei sute cincizeci de euro) cu titlu de cheltuieli de judecată; (iv) în Cererea nr. 43.454/06: 5.000 EUR (cinci mii de euro) cu titlu de prejudiciu material şi moral; şi 2.200 EUR (două mii două sute de euro) cu titlu de cheltuieli de judecată; (v) în Cererea nr. 24.717/07: 5.000 EUR (cinci mii de euro) cu titlu de prejudiciu material şi moral; şi 1.000 EUR (o mie de euro) cu titlu de cheltuieli de judecată; (vi) în Cererea nr. 16.297/08: 5.000 EUR (cinci mii de euro) cu titlu de prejudiciu material şi moral; şi 1.500 EUR (o mie cinci sute de euro) cu titlu de cheltuieli de judecată; (vii) în Cererea nr. 17.068/08: 5.000 EUR (cinci mii de euro) cu titlu de prejudiciu material şi moral;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere formulate de reclamanţi."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140334",
+  "text_sha256": "f9e433688c8a955e4accda9dba3dd930502a03a8ff709dd498c11cad27838abb",
+  "catalogue_sha256": "f9e433688c8a955e4accda9dba3dd930502a03a8ff709dd498c11cad27838abb",
+  "fetched": "2026-11-03T04:14:03Z",
+  "chars": 18647,
+  "portal_id": "140334",
+  "tip": "HOTĂRÂRE"
+ }
+}
