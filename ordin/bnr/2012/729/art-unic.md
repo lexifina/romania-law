@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare, ținut la Banca Națională a României, a Societății Comerciale ROMANIAN LEASING IFN - S.A., cu sediul în municipiul Bacău, calea Mărășești nr. 145, județul Bacău, înregistrată la registrul comerțului sub nr. J04/350/2002, cod unic de înregistrare 14666794, înscrisă în Registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-04-080167.
