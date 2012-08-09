@@ -1,0 +1,211 @@
+{
+ "key": "dcc-705-2012",
+ "label": "Decizia CCR nr. 705/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "705",
+ "date": "2012-07-05",
+ "year": "2012",
+ "heading": "DECIZIE nr. 705 din 5 iulie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "567",
+  "bis": false,
+  "date": "2012-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "50.432/3/2010",
+  "104D/2012",
+  "8.642/117/2010",
+  "10.912/62/2010",
+  "3.680/103/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor, excepţie ridicată de Niculina Athanasiu în Dosarul nr. 50.432/3/2010 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă şi asigurări sociale, de Marcela Dârjan în Dosarul nr. 8.642/117/2010 al Curţii de Apel Cluj - Secţia I civilă, de Emilia Chiriac în Dosarul nr. 10.912/62/2010 al Curţii de Apel Braşov - Secţia civilă şi pentru cauze cu minori şi de familie, de conflicte de muncă şi asigurări sociale, de Curtea de Apel Bacău - Secţia I civilă, din oficiu, în dosarele nr. 3.229/103/2010, 3.523/103/2010, 3.566/103/2010, 3.568/103/2010, 3.674/103/2010, 3.682/103/2010, 4.208/103/2010, 4.362/103/2010, 3.615/103/2010, 7.555/103/2010 şi 7.687/110/2010, 3.680/103/2010, 3.621/103/2010, 3.902/103/2010 şi 4.224/103/2010.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140399",
+  "text_sha256": "bc00993607e41b77544e7a1575a05645542e9f0559b892a11f079cf1b1a46f2c",
+  "catalogue_sha256": "bc00993607e41b77544e7a1575a05645542e9f0559b892a11f079cf1b1a46f2c",
+  "fetched": "2026-11-03T04:13:58Z",
+  "chars": 20684,
+  "portal_id": "140399",
+  "tip": "DECIZIE"
+ }
+}
