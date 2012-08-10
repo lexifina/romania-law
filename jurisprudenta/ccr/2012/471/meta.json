@@ -1,0 +1,196 @@
+{
+ "key": "dcc-471-2012",
+ "label": "Decizia CCR nr. 471/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "471",
+ "date": "2012-05-08",
+ "year": "2012",
+ "heading": "DECIZIE nr. 471 din 8 mai 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "569",
+  "bis": false,
+  "date": "2012-08-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.888/117/2011",
+  "1.617D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar, excepţie ridicată de Sindicatul Salariaţilor din Învăţământ Turda, în numele membrilor de sindicat Neviana Loredana Moca, Ileana Moldovan, Simona Elisabeta Neagoe, Nicoleta Otel, Maria Loredana Pap, Livia Petrea, Vasile Pitis, Liana Popa, Elisabeta Liana Popa, Mirela Sanda Ratiu, Olga Riscau, Adel Antoinette Szabo, Maria Turdean, Monica Bia, Călin Pap, Simona Lucia Sumurducan Mesarosiu, Anamaria Augustina Filipaş, Maria Ariton, Ileana Balica, Maria Oltean, Nicolae Pintilie, Olimpia Pirv, Cornelia Turdean, Viorel Turdean, Andrei Adamosy, Finica Bodea, Rodica Bodea, Alexandru Bodocan, Veronica Bodocan, Dănuţa Bujor, Laura Copindean, Mariana Costisor, Emilia Dancso, Violeta Olteia Darlaczi, Maria Drăguşin, Ioan Groza, Angela Ignea, Ioan Marcu şi Eugenia Miron, în Dosarul nr. 1.888/117/2011 al Curţii de Apel Cluj - Secţia I civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140416",
+  "text_sha256": "ecb2a939ed941d506c39b4dd7e54c9d8e987ace20d25f94ba93f89086327b81e",
+  "catalogue_sha256": "ecb2a939ed941d506c39b4dd7e54c9d8e987ace20d25f94ba93f89086327b81e",
+  "fetched": "2026-11-03T04:13:54Z",
+  "chars": 15726,
+  "portal_id": "140416",
+  "tip": "DECIZIE"
+ }
+}
