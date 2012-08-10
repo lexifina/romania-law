@@ -1,0 +1,168 @@
+{
+ "key": "dcc-659-2012",
+ "label": "Decizia CCR nr. 659/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "659",
+ "date": "2012-06-19",
+ "year": "2012",
+ "heading": "DECIZIE nr. 659 din 19 iunie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 şi art. 10 lit. d) din Ordonanţa Guvernului nr. 21/2002 privind gospodărirea localităţilor urbane şi rurale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "571",
+  "bis": false,
+  "date": "2012-08-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "15.265/211/2011",
+  "936D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 21/2002",
+    "number": "21",
+    "year": "2002",
+    "path": "og/2002/21"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 6 şi art. 10 lit. d) din Ordonanţa Guvernului nr. 21/2002 privind gospodărirea localităţilor urbane şi rurale, excepţie ridicată de Radu Liviu Moldovan în Dosarul nr. 15.265/211/2011 al Judecătoriei Cluj Napoca - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 21/2002",
+    "number": "21",
+    "year": "2002",
+    "path": "og/2002/21"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140435",
+  "text_sha256": "e6b45581fc411c325e67ea56ff1305fe42d9625d207e6eded2ed60e7df9715f7",
+  "catalogue_sha256": "e6b45581fc411c325e67ea56ff1305fe42d9625d207e6eded2ed60e7df9715f7",
+  "fetched": "2026-11-03T04:13:53Z",
+  "chars": 8140,
+  "portal_id": "140435",
+  "tip": "DECIZIE"
+ }
+}
