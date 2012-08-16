@@ -1,0 +1,315 @@
+{
+ "key": "dcc-664-2012",
+ "label": "Decizia CCR nr. 664/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "664",
+ "date": "2012-06-26",
+ "year": "2012",
+ "heading": "DECIZIE nr. 664 din 26 iunie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 263/2004 privind asigurarea continuităţii asistenţei medicale primare prin centrele de permanenţă, în ansamblul său, şi, în mod special, a prevederilor art. 2 alin. (3) şi (4), art. 7 alin. (1), (2), (4) şi (5), art. 10 alin. (1)-(5), art. 13 şi art. 14^1 alin. (1)",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "586",
+  "bis": false,
+  "date": "2012-08-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.229/2/2011",
+  "106D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2004",
+    "number": "263",
+    "year": "2004",
+    "path": "lege/2004/263"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Legii nr. 263/2004 privind asigurarea continuităţii asistenţei medicale primare prin centrele de permanenţă, în ansamblul său, şi, în mod special, a prevederilor art. 2 alin. (3) şi (4), art. 7 alin. (1), (2), (4) şi (5), art. 10 alin. (1)-(5), art. 13 şi art. 14^1 alin. (1), excepţie ridicată de Federaţia Naţională a Patronatelor Medicilor de Familie în Dosarul nr. 4.229/2/2011 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2004",
+    "number": "263",
+    "year": "2004",
+    "path": "lege/2004/263"
+   },
+   "articles": [
+    {
+     "art": "14-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/2008",
+    "number": "11",
+    "year": "2008",
+    "path": "og/2008/11"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 244/2009",
+    "number": "244",
+    "year": "2009",
+    "path": "lege/2009/244"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 7/2011",
+    "number": "7",
+    "year": "2011",
+    "path": "og/2011/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 103/2006",
+    "number": "103",
+    "year": "2006",
+    "path": "lege/2006/103"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140552",
+  "text_sha256": "7eb75cb1b96cec71b63c1f64fa220e3fb284e76b8d8cf83ea1b3cc5364ba901a",
+  "catalogue_sha256": "7eb75cb1b96cec71b63c1f64fa220e3fb284e76b8d8cf83ea1b3cc5364ba901a",
+  "fetched": "2026-11-03T04:13:46Z",
+  "chars": 40523,
+  "portal_id": "140552",
+  "tip": "DECIZIE"
+ }
+}
