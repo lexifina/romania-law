@@ -1,0 +1,227 @@
+{
+ "key": "dcc-691-2012",
+ "label": "Decizia CCR nr. 691/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "691",
+ "date": "2012-06-28",
+ "year": "2012",
+ "heading": "DECIZIE nr. 691 din 28 iunie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "586",
+  "bis": false,
+  "date": "2012-08-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.165/40/2011",
+  "369D/2012",
+  "651D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, excepţie ridicată de Liga Sindicatelor din Învăţământ Botoşani şi Sindicatul Învăţământului Preuniversitar Botoşani în dosarele nr. 7.165/40/2011, nr. 6.999/40/2011, nr. 7.133/40/2011, nr. 7.282/40/2011, nr. 7.143/40/2011, nr. 7.020/40/2011, nr. 7.008/40/2011, nr. 7.146/40/2011, nr. 7.732/40/2011, nr. 7.737/40/2011, nr. 7.704/40/2011, nr. 7.712/40/2011, nr. 7.718/40/2011 şi nr. 9.881/40/2011 ale Tribunalului Botoşani - Secţia I civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140555",
+  "text_sha256": "b2617c03cf50aeb31daff22da6c56781f42b2147e6f71c82a205d50ec0d65528",
+  "catalogue_sha256": "b2617c03cf50aeb31daff22da6c56781f42b2147e6f71c82a205d50ec0d65528",
+  "fetched": "2026-11-03T04:13:46Z",
+  "chars": 20731,
+  "portal_id": "140555",
+  "tip": "DECIZIE"
+ }
+}
