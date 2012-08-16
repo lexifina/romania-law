@@ -1,0 +1,121 @@
+{
+ "key": "cedo-63627-11-2012-05-15",
+ "label": "CEDO, Constantin Abăluţă şi alţii c. României, 2012-05-15",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2012-05-15",
+ "year": "2012",
+ "heading": "DECIZIE din 15 mai 2012",
+ "subtitle": "cu privire la Cererea nr. 63.627/11 introdusă de Constantin Abăluţă şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "586",
+  "bis": false,
+  "date": "2012-08-16",
+  "part": "I"
+ },
+ "outcome": "inadmissible",
+ "findings": [
+  "inadmissible"
+ ],
+ "applications": [
+  "63627/11"
+ ],
+ "case_name": "Constantin Abăluţă şi alţii",
+ "subjects": [],
+ "operative": [
+  "Curtea, în unanimitate, declară cererea inadmisibilă.",
+  "Josep Casadevall, preşedinte Marialena Tsirli, grefier adjunct ----"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "oug/2011/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 735/2010",
+    "number": "735",
+    "year": "2010",
+    "path": "hg/2010/735"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140569",
+  "text_sha256": "878aaaeefe35f3a57bf7afe71cd355eb710097513861a65676a5d10b1ca5d034",
+  "catalogue_sha256": "878aaaeefe35f3a57bf7afe71cd355eb710097513861a65676a5d10b1ca5d034",
+  "fetched": "2026-11-03T04:13:44Z",
+  "chars": 8061,
+  "portal_id": "140569",
+  "tip": "DECIZIE"
+ }
+}
