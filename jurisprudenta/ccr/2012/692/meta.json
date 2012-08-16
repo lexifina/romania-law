@@ -1,0 +1,183 @@
+{
+ "key": "dcc-692-2012",
+ "label": "Decizia CCR nr. 692/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "692",
+ "date": "2012-06-28",
+ "year": "2012",
+ "heading": "DECIZIE nr. 692 din 28 iunie 2012",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "586",
+  "bis": false,
+  "date": "2012-08-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.509/40/2011",
+  "419D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Legii nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, excepţie invocată de Sindicatul Învăţământului Preuniversitar Botoşani în numele şi în calitate de reprezentant al doamnei Mihaela Laura Bolohan şi alţii, Liga Sindicatelor din Învăţământ Botoşani în numele şi în calitate de reprezentant al doamnei Carmen Elena Dobrescu şi alţii, Gheorghe Şulic şi alţii, Elena Gheban şi alţii, Tiberiu Oberofer Manoliu şi alţii, Constantin Lohan şi alţii, Rica Chirilă şi alţii, Marioara Caia, Gheorghe Afloarei şi alţii, Mihaela Scutariu şi alţii, Maria Telisca şi alţii, Cristina Maria Aioniţoaie şi alţii, Geta Slabu şi alţii, şi al doamnei Marinela Acsinte şi alţii, în dosarele nr. 9.509/40/2011, nr. 7.261/40/2011, nr. 7.005/40/2011, nr. 7.150/40/2011, nr. 7.290/40/2011, nr. 6.994/40/2011, nr. 7.289/40/2011, nr. 7.279/40/2011, nr. 7.152/40/2011, nr. 7.171/40/2011, nr. 7.281/40/2011, nr. 7.168/40/2011, nr. 7.262/40/2011 şi nr. 6.991/40/2011 ale Tribunalului Botoşani - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140560",
+  "text_sha256": "c7751b75931fd7f53f0b9341eff381088c5ffe98611e7b05e2ceead3cd21f4c9",
+  "catalogue_sha256": "c7751b75931fd7f53f0b9341eff381088c5ffe98611e7b05e2ceead3cd21f4c9",
+  "fetched": "2026-11-06T03:24:09Z",
+  "chars": 22193,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406200724/https://legislatie.just.ro/Public/DetaliiDocumentAfis/140560",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/140560",
+   "timestamp": "20250406200724",
+   "sha256": "6536bd7483d5269c55d024769f6ec1e70c0e28207172becd4bc5107d9c6bf38d"
+  },
+  "portal_id": "140560",
+  "tip": "DECIZIE"
+ }
+}
