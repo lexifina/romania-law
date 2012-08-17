@@ -1,0 +1,147 @@
+{
+ "key": "dcc-653-2012",
+ "label": "Decizia CCR nr. 653/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "653",
+ "date": "2012-06-19",
+ "year": "2012",
+ "heading": "DECIZIE nr. 653 din 19 iunie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 lit. e) din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "590",
+  "bis": false,
+  "date": "2012-08-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.715/121/2011",
+  "378D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 1 lit. e) din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri, excepţie ridicată de Vasile Stângă în Dosarul nr. 1.715/121/2011 al Tribunalului Galaţi - Secţia I civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140600",
+  "text_sha256": "aa0a0a6443ee7f438eaea0bafdc9f69000fbd1fb4940b9fa1da2c4e4443d6194",
+  "catalogue_sha256": "aa0a0a6443ee7f438eaea0bafdc9f69000fbd1fb4940b9fa1da2c4e4443d6194",
+  "fetched": "2026-11-03T04:13:40Z",
+  "chars": 8085,
+  "portal_id": "140600",
+  "tip": "DECIZIE"
+ }
+}
