@@ -1,0 +1,217 @@
+{
+ "key": "dcc-586-2012",
+ "label": "Decizia CCR nr. 586/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "586",
+ "date": "2012-06-05",
+ "year": "2012",
+ "heading": "DECIZIE nr. 586 din 5 iunie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 41/2010 privind unele măsuri pentru întărirea disciplinei în construcţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "599",
+  "bis": false,
+  "date": "2012-08-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.831/115/2011",
+  "1.391D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 41/2010",
+    "number": "41",
+    "year": "2010",
+    "path": "oug/2010/41"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 41/2010 privind unele măsuri pentru întărirea disciplinei în construcţii, excepţie ridicată de I.F. Teleagă Vasy XL din Băile Herculane în Dosarul nr. 1.831/115/2011 al Tribunalului Caraş-Severin - Secţia a II-a civilă, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 41/2010",
+    "number": "41",
+    "year": "2010",
+    "path": "oug/2010/41"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/2011",
+    "number": "3",
+    "year": "2011",
+    "path": "lege/2011/3"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140685",
+  "text_sha256": "0fc1e27cb69f9f1bc499cd3a15baee06567f2030e762149bc4f9cb06826269ef",
+  "catalogue_sha256": "0fc1e27cb69f9f1bc499cd3a15baee06567f2030e762149bc4f9cb06826269ef",
+  "fetched": "2026-11-03T04:13:31Z",
+  "chars": 21073,
+  "portal_id": "140685",
+  "tip": "DECIZIE"
+ }
+}
