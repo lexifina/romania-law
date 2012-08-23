@@ -1,0 +1,148 @@
+{
+ "key": "cedo-18780-04-2012-03-27",
+ "label": "CEDO, S.C. Aectra Agrochemicals - S.A. şi Munteanu c. României, 2012-03-27",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-03-27",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 27 martie 2012",
+ "subtitle": "în Cauza S.C. Aectra Agrochemicals - S.A. şi Munteanu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "605",
+  "bis": false,
+  "date": "2012-08-23",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "18780/04"
+ ],
+ "case_name": "S.C. Aectra Agrochemicals - S.A. şi Munteanu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "în unanimitate, CURTEA 1. hotărăşte să conexeze cererile; 2. declară cererile admisibile; 3. hotărăşte că în cele două cauze au fost încălcate art. 6 § 1 din convenţie şi art. 1 din Protocolul nr. 1; 4. hotărăşte că nu trebuie examinat capătul de cerere întemeiat pe art. 6 § 1 din convenţie în Cauza nr. 13.111/05 privind neexecutarea hotărârii din 14 martie 2003; 5. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantului în Cauza nr. 13.111/05, în decurs de 3 luni, următoarele sume, convertite în moneda statului pârât la rata aplicabilă la data soluţionării, la care se adaugă orice sumă care poate fi datorată cu titlu de impozit de către reclamant:",
+  "(i) 38.500 EUR (treizeci şi opt mii cinci sute euro) pentru prejudiciul material; (îi) 2.000 EUR (două mii euro) pentru prejudiciul moral; (iii) 2.000 EUR (două mii euro) pentru cheltuielile de judecată efectuate în faţa Curţii, sumă care va fi plătită direct doamnei Nicoleta Popescu; (iv) 2.000 EUR (două mii euro) pentru cheltuielile de judecată efectuate în faţa Curţii, sumă care va fi plătită reclamantului;",
+  "b) că de la expirarea termenului menţionat şi până la efectuarea plăţii aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "6. respinge cererea de reparaţie echitabilă pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 14",
+    "path": null,
+    "slug": "conventia-edo-protocolul-14"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140773",
+  "text_sha256": "b093e2bbf0bd43b24b3576300412a72ef55cd226901a87d2a30a93ff073c6ab9",
+  "catalogue_sha256": "b093e2bbf0bd43b24b3576300412a72ef55cd226901a87d2a30a93ff073c6ab9",
+  "fetched": "2026-11-03T04:13:27Z",
+  "chars": 15428,
+  "portal_id": "140773",
+  "tip": "HOTĂRÂRE"
+ }
+}
