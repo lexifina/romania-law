@@ -1,0 +1,193 @@
+{
+ "key": "dcc-708-2012",
+ "label": "Decizia CCR nr. 708/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "708",
+ "date": "2012-07-05",
+ "year": "2012",
+ "heading": "DECIZIE nr. 708 din 5 iulie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar, în ansamblul său, şi, în mod special, ale art. 1 alin. (1) din aceeaşi lege",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "610",
+  "bis": false,
+  "date": "2012-08-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.678/40/2011",
+  "254D/2012",
+  "1.409D/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar, în ansamblul său, şi, în mod special, ale art. 1 alin. (1) din aceeaşi lege, excepţie ridicată de Sindicatul Învăţământului Preuniversitar Botoşani în dosarele nr. 3.678/40/2011, nr. 4.929/40/2011, nr. 3.652/40/2011, nr. 3.653/40/2011, nr. 3.488/40/2011, nr. 3.647/40/2011, nr. 3.451/40/2011, nr. 5.959/40/2011, nr. 3.676/40/2011, nr. 3.471/40/2011, nr. 3.656/40/2011 şi nr. 3.628/40/2011 ale Tribunalului Botoşani - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140808",
+  "text_sha256": "65daa5e9d5e29c96df7e57ef3d6f53df00a01ade2c76b89d2b5515e68cb2084f",
+  "catalogue_sha256": "65daa5e9d5e29c96df7e57ef3d6f53df00a01ade2c76b89d2b5515e68cb2084f",
+  "fetched": "2026-11-03T04:13:26Z",
+  "chars": 17468,
+  "portal_id": "140808",
+  "tip": "DECIZIE"
+ }
+}
