@@ -1,0 +1,161 @@
+{
+ "key": "dcc-714-2012",
+ "label": "Decizia CCR nr. 714/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "714",
+ "date": "2012-07-05",
+ "year": "2012",
+ "heading": "DECIZIE nr. 714 din 5 iulie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 97 alin. (1) lit. d) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "609",
+  "bis": false,
+  "date": "2012-08-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "42.220/299/2010",
+  "507D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 97 alin. (1) lit. d) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, excepţie ridicată de Ion Constantin în Dosarul nr. 42.220/299/2010 al Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140795",
+  "text_sha256": "0e5faf8239ab811876124a307fbd8f38024e5ea9fa01fc81d82751e103465b1f",
+  "catalogue_sha256": "0e5faf8239ab811876124a307fbd8f38024e5ea9fa01fc81d82751e103465b1f",
+  "fetched": "2026-11-03T04:13:26Z",
+  "chars": 8518,
+  "portal_id": "140795",
+  "tip": "DECIZIE"
+ }
+}
