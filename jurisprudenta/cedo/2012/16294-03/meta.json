@@ -1,0 +1,189 @@
+{
+ "key": "cedo-16294-03-2012-02-21",
+ "label": "CEDO, S.C. Bartolo Prod Com - S.R.L. şi Botomei c. României, 2012-02-21",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-02-21",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 21 februarie 2012",
+ "subtitle": "în Cauza S.C. Bartolo Prod Com - S.R.L. şi Botomei împotriva României, definitivă la 21 mai 2012",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "610",
+  "bis": false,
+  "date": "2012-08-24",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "16294/03"
+ ],
+ "case_name": "S.C. Bartolo Prod Com - S.R.L. şi Botomei",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat de reclamantă pe art. 6 § 1 şi art. 1 din Protocolul nr. 1 cu privire la refuzul autorităţilor locale de a reînnoi autorizaţia de funcţionare a societăţii reclamante în perioada 29 aprilie 1999-23 iunie 2009 şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 3. hotărăşte că nu este necesar să examineze separat capătul de cerere din perspectiva art. 1 din Protocolul nr. 1; 4. hotărăşte",
+  "a) că statul pârât trebuie să plătească societăţii reclamante, în termen de 3 luni de la data rămânerii definitivă a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 6.000 EUR (şase mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru ansamblul prejudiciilor suferite; (îi) 500 EUR (cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit de către societatea reclamantă, pentru cheltuielile de procedură;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140807",
+  "text_sha256": "5432baa343bb894c4ba389b726dea61bf1cb147cba0d5f2a3dea7c464f5c3d2d",
+  "catalogue_sha256": "5432baa343bb894c4ba389b726dea61bf1cb147cba0d5f2a3dea7c464f5c3d2d",
+  "fetched": "2026-11-03T04:13:26Z",
+  "chars": 24861,
+  "portal_id": "140807",
+  "tip": "HOTĂRÂRE"
+ }
+}
