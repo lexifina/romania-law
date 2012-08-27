@@ -1,0 +1,187 @@
+{
+ "key": "dcc-703-2012",
+ "label": "Decizia CCR nr. 703/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "703",
+ "date": "2012-06-28",
+ "year": "2012",
+ "heading": "DECIZIE nr. 703 din 28 iunie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (4) din Ordonanţa Guvernului nr. 82/2000 privind autorizarea operatorilor economici care desfăşoară activităţi de reparaţii, de reglare, de modificări constructive, de reconstrucţie a vehiculelor rutiere, precum şi de dezmembrare a vehiculelor scoase din uz",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "615",
+  "bis": false,
+  "date": "2012-08-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "10.783/2/2011",
+  "1.041D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 82/2000",
+    "number": "82",
+    "year": "2000",
+    "path": "og/2000/82"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (4) din Ordonanţa Guvernului nr. 82/2000 privind autorizarea operatorilor economici care desfăşoară activităţi de reparaţii, de reglare, de modificări constructive, de reconstrucţie a vehiculelor rutiere, precum şi de dezmembrare a vehiculelor scoase din uz, excepţie ridicată de Asociaţia Producătorilor şi Importatorilor de Automobile din Bucureşti în Dosarul nr. 10.783/2/2011 al Curţii de Apel Bucureşti - Secţia a VIII-a de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 82/2000",
+    "number": "82",
+    "year": "2000",
+    "path": "og/2000/82"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 84/1998",
+    "number": "84",
+    "year": "1998",
+    "path": "lege/1998/84"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-08-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140845",
+  "text_sha256": "6fa0a93c08f397637448ec774d62a64c9b08c4b08f20077ac45a6f4f7f1e1e0c",
+  "catalogue_sha256": "6fa0a93c08f397637448ec774d62a64c9b08c4b08f20077ac45a6f4f7f1e1e0c",
+  "fetched": "2026-11-03T04:13:22Z",
+  "chars": 20607,
+  "portal_id": "140845",
+  "tip": "DECIZIE"
+ }
+}
