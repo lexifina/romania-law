@@ -1,0 +1,257 @@
+{
+ "key": "dcc-733-2012",
+ "label": "Decizia CCR nr. 733/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "733",
+ "date": "2012-07-10",
+ "year": "2012",
+ "heading": "DECIZIE nr. 733 din 10 iulie 2012",
+ "subtitle": "asupra excepţiei de neconstituţionalitate a dispoziţiilor Legii nr. 214/2011 pentru organizarea, administrarea şi exploatarea pajiştilor, în ansamblul său, precum şi, în special, a dispoziţiilor art. 25 alin. (1), art. 7 şi art. 14 alin. (2) din Legea nr. 214/2011",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "631",
+  "bis": false,
+  "date": "2012-09-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "894D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 214/2011",
+    "number": "214",
+    "year": "2011",
+    "path": "lege/2011/214"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor  Legii nr. 214/2011  pentru organizarea, administrarea şi exploatarea pajiştilor, în ansamblul său, precum şi, în special, a dispoziţiilor art. 25 alin. (1), art. 7 şi  art. 14 alin. (2) din Legea nr. 214/2011 , excepţie ridicată de Avocatul Poporului, în temeiul art. 146 lit. d) teza a doua din Constituţie.  Definitivă şi general obligatorie.  Pronunţată în şedinţa publică din data de 10 iulie 2012.  PREŞEDINTELE CURŢII CONSTITUŢIONALE,  AUGUSTIN ZEGREAN  Magistrat-asistent,  Cristina Cătălina Turcu  -----\n```"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 214/2011",
+    "number": "214",
+    "year": "2011",
+    "path": "lege/2011/214"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-09-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140980",
+  "text_sha256": "7d5d851a18b7f033c92139f0ccd4d2871419b1c08b7cf1460027de3b372c3f89",
+  "catalogue_sha256": "7d5d851a18b7f033c92139f0ccd4d2871419b1c08b7cf1460027de3b372c3f89",
+  "fetched": "2026-11-03T04:13:14Z",
+  "chars": 13467,
+  "portal_id": "140980",
+  "tip": "DECIZIE"
+ }
+}
