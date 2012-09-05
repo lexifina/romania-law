@@ -1,0 +1,2 @@
+# Anexa 1
+REGULAMENT 16/08/2012
