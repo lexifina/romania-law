@@ -1,0 +1,129 @@
+{
+ "key": "cedo-16-06-2012-01-24",
+ "label": "CEDO, Ioan-Vălean Codarcea c. României, 2012-01-24",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2012-01-24",
+ "year": "2012",
+ "heading": "DECIZIE din 24 ianuarie 2012",
+ "subtitle": "cu privire la Cererea nr. 16/06 introdusă de Ioan-Vălean Codarcea împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "657",
+  "bis": false,
+  "date": "2012-09-17",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "inadmissible",
+  "struck-out"
+ ],
+ "applications": [
+  "16/06"
+ ],
+ "case_name": "Ioan-Vălean Codarcea",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "în unanimitate, CURTEA: - ia în considerare termenii declaraţiei unilaterale a intimatului Guvern, în ceea ce priveşte cererile reclamantului în baza articolului 6 § 1 din Convenţie şi a articolului 14, luat împreună cu articolul 1 din Protocolul nr. 1 la Convenţie; - decide radierea cererii din lista sa de cauze întrucât aceasta face referire la plângerile de mai sus, conform articolului 37 § 1 (c) din Convenţie.",
+  "Declară restul cererii inadmisibil.",
+  "Alvina Gyulumyan, preşedinte Marialena Tsirli, grefier adjunct ---------"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 309/2002",
+    "number": "309",
+    "year": "2002",
+    "path": "lege/2002/309"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/141309",
+  "text_sha256": "02cf343d19d5e423dc591d6da24b1ceaa533cb0592ee22bf9211a8dc5f264701",
+  "catalogue_sha256": "02cf343d19d5e423dc591d6da24b1ceaa533cb0592ee22bf9211a8dc5f264701",
+  "fetched": "2026-11-03T04:12:59Z",
+  "chars": 7331,
+  "portal_id": "141309",
+  "tip": "DECIZIE"
+ }
+}
