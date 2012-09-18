@@ -1,0 +1,156 @@
+{
+ "key": "cedo-19946-04-2012-04-10",
+ "label": "CEDO, Popa şi Tănăsescu c. României, 2012-04-10",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-04-10",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 10 aprilie 2012",
+ "subtitle": "în Cauza Popa şi Tănăsescu împotriva României, definitivă la 10 iulie 2012",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "659",
+  "bis": false,
+  "date": "2012-09-18",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "19946/04"
+ ],
+ "case_name": "Popa şi Tănăsescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară capătul de cerere privind caracterul echitabil al acţiunii în temeiul art. 6 § 1 coroborat cu art. 6 § 3 (c) şi (d) din Convenţie admisibil şi celelalte capete de cerere inadmisibile; 2. hotărăşte că a existat o încălcare a art. 6 § 1 coroborat cu art. 6 § 3 (c) şi (d) din Convenţie; 3. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamanţilor, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume care trebuie convertite în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 5.000 euro (cinci mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, fiecăruia dintre cei 2 reclamanţi, cu titlu de prejudiciu moral; (îi) 1.900 euro (o mie nouă sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, primului reclamant, cu titlu de cheltuieli;",
+  "b) că de la expirarea termenului de 3 luni menţionat anterior şi până la efectuarea plăţii aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal, practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere formulate de reclamanţi."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "385-15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "385-16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "408-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/141318",
+  "text_sha256": "872d32d15d5d8fcd0fcbe493e03c582468e11b6d0fc788a97f4400b73f04bb2d",
+  "catalogue_sha256": "872d32d15d5d8fcd0fcbe493e03c582468e11b6d0fc788a97f4400b73f04bb2d",
+  "fetched": "2026-11-03T04:12:58Z",
+  "chars": 27949,
+  "portal_id": "141318",
+  "tip": "HOTĂRÂRE"
+ }
+}
