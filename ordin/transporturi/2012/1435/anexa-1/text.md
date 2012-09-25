@@ -1,0 +1,1773 @@
+# Anexa nr. 1
+Anexa (Anexa la Ordinul nr. 1.151/2006) TARIFELE pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV
+Nr.
+crt.
+Denumirea cursului
+Codul
+Durata
+[ore]
+Tariful
+cu
+discount
+de 10%
+(lei/
+cursant)
+Tariful
+cu
+discount
+de 8%
+(lei/
+cursant)
+Tariful
+cu
+discount
+de 6%
+(lei/
+cursant)
+Tariful
+cu
+discount
+de 4%
+(lei/
+cursant)
+Tariful
+cu
+discount
+de 2%
+(lei/
+cursant)
+Tariful
+cursului
+(lei/
+cursant)
+Transe nr. cursanți
+pentru care se va aplica
+marja de reducere
+peste
+1001
+501-1000
+101-500
+21-100
+0-20
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+I. TARIFE CURSURI OBLIGATORII PENTRU PERSONALUL DIN TRANSPORTURILE NAVALE
+1. CURSURI OBLIGATORII ÎN MATERIE DE SIGURANȚĂ MARITIMĂ NECESARE EMITERII CERTIFICATELOR DE COMPETENȚĂ
+ȘI ATESTATELOR PENTRU PERSONALUL NAVIGANT MARITIM SAU CERTIFICĂRII PERSONALULUI NAVIGANT
+MARITIM-PORTUAR CARE INTRĂ SUB INCIDENȚA CONVENȚIEI
+CURSURI INIȚIALE
+A. Cursuri inițiale - brevete compartiment punte
+1.
+Navigație radar, radar
+plotting și folosirea
+ARPA (Radar navigation,
+radar plotting and use
+of ARPA)
+- Nivel operațional -
+Inițial
+RNPO-I
+40
+779
+788
+805
+823
+840
+857
+2.
+Limba engleză maritimă
+(Maritime English) -
+Punte - Inițial
+ME-D-I
+32
+514
+520
+531
+543
+554
+565
+3.
+Certificat general de
+operator GMDSS
+(GMDSS-GOC) - Inițial
+GMDSS-GOC I
+144
+2.556
+2.587
+2.643
+2.699
+2.755
+2.812
+4.
+Certificat restrâns de
+operator GMDSS
+(GMDSS-ROC)
+GMDSS-ROC
+40
+708
+716
+732
+748
+763
+779
+B. Cursuri inițiale - brevete compartiment mașină
+1.
+Limba engleză maritimă
+(Maritime English) -
+Mașină - Inițial
+ME-E-I
+32
+514
+520
+531
+543
+554
+565
+C. Cursuri inițiale - comune compartimente punte și mașină
+1.
+Transportul și
+manipularea mărfurilor
+periculoase (Transport
+and handling of
+dangerous, hazardous and
+harmful cargoes) -
+Inițial
+THDHHC-I
+32
+483
+489
+499
+510
+521
+531
+2.
+Prevenirea poluării
+mediului marin, Marpol
+73/78 (Prevention of
+pollution of the marine
+environment-Marpol 73/78)
+- Inițial
+PPME-I
+32
+476
+482
+492
+503
+513
+524
+3.
+Tehnici individuale de
+supraviețuire pe mare
+(Proficiency în personal
+survival techniques) -
+Inițial
+PST-I
+16
+255
+258
+264
+269
+275
+281
+4.
+Competența în utilizarea
+mijloacelor de supravie-
+țuire și a bărcilor de
+salvare, altele decât
+bărcile rapide de salvare
+(Proficiency în survival
+craft and rescue boats
+other than fast rescue
+boats) - Inițial
+PSCRB-I
+32
+527
+533
+545
+557
+568
+580
+5.
+Protecție individuală și
+responsabilități sociale
+la bordul navei (Personal
+safety and social
+responsibilities on board
+ships) - Inițial
+PSSRBS-I
+32
+494
+500
+511
+522
+533
+543
+6.
+Prevenirea și lupta
+contra incendiilor.
+Nivel avansat (Advanced
+fire fighting) - Inițial
+AFF-I
+56
+942
+953
+974
+995
+1.015
+1.036
+7.
+Prim-ajutor medical
+(Medical first aid) -
+Inițial
+MFA-I
+32
+493
+499
+510
+521
+531
+542
+8.
+Asistența medicală
+(Medical care) - Inițial
+MC-I
+48
+730
+739
+755
+771
+787
+803
+9.
+Evaluarea competențelor
+pe simulator - personal
+brevetat compartiment
+punte
+ECSP
+16
+639
+647
+661
+675
+689
+703
+10.
+Evaluarea competențelor
+pe simulator - personal
+brevetat compartiment
+mașină
+ECSM
+16
+755
+764
+781
+797
+814
+831
+D. Cursuri inițiale - certificate de capacitate și certificate GMDSS
+1.
+Curs de promovare pentru
+obținerea certificatului
+de capacitate de timonier
+maritim
+CPCTM
+56
+1.217
+1.232
+1.258
+1.285
+1.312
+1.339
+2.
+Program de calificare
+pentru obținerea certifi-
+catului de capacitate de
+motorist (inclusiv
+pachetul obligatoriu
+pentru siguranță
+maritimă)
+CCMOT
+720
+2.814
+2.848
+2.910
+2.972
+3.033
+3.095
+3.
+Program de calificare
+pentru obținerea certifi-
+catului de capacitate de
+motorist (fără pachetul
+obligatoriu pentru
+siguranță maritimă)
+CCMOT
+560
+2.002
+2.026
+2.070
+2.114
+2.158
+2.202
+4.
+Program de pregătire de
+bază pentru siguranța
+maritimă
+BST
+80
+1.172
+1.186
+1.212
+1.238
+1.263
+1.289
+Modul 1. Tehnici indivi-
+duale de supraviețuire
+BST-PST
+16
+241
+244
+249
+254
+260
+265
+Modul 2. Prevenirea și
+lupta contra incendiilor
+- Nivel de bază
+BST-BFF
+24
+367
+371
+379
+388
+396
+404
+Modul 3. Prim-ajutor
+medical elementar
+BST-EFA
+24
+332
+336
+343
+351
+358
+365
+Modul 4. Protecție
+individuală și responsa-
+bilități sociale la
+bordul navei
+BST-PSSRBS
+16
+232
+235
+240
+245
+250
+255
+5.
+Familiarizare de
+siguranță pentru personal
+nebrevetat
+FSTRC
+32
+449
+454
+464
+474
+484
+494
+Modul 1. Prevenirea și
+combaterea poluării
+marine cauzate de nave
+FSTRC-MPSPR
+16
+220
+223
+227
+232
+237
+242
+Modul 2. Manipularea și
+transportul mărfurilor
+periculoase
+FSTRC-
+THDHHC
+16
+229
+232
+237
+242
+247
+252
+6.
+Competența în utilizarea
+mijloacelor de supravie-
+țuire și a bărcilor de
+salvare, altele decât
+bărcile rapide de salvare
+(Proficiency în survival
+craft and rescue boats
+other than fast rescue
+boats)
+PSCRB-N
+16
+253
+256
+262
+267
+273
+278
+7.
+Limba engleză maritimă.
+Vocabular frazeologic
+punte
+MELTD
+32
+461
+467
+477
+487
+497
+507
+8.
+Limba engleză maritimă.
+Vocabular frazeologic
+mașină
+MELTE
+32
+476
+482
+492
+503
+513
+524
+E. Cursuri inițiale pentru personalul cu atribuții specifice la bordul navei
+1.
+Competență în utilizarea
+bărcilor rapide de
+salvare
+PFRB
+32
+674
+682
+697
+712
+727
+741
+2.
+Ofițer cu securitatea
+navei
+SSO-I
+24
+408
+413
+422
+431
+440
+449
+3.
+Familiarizare privind
+securitatea navei
+SSA
+8
+172
+174
+178
+182
+185
+189
+F. Cursuri inițiale pentru personalul îmbarcat la bordul navelor cu caracteristici speciale
+1.
+Familiarizare nave pentru
+transport produse
+petroliere, chimice sau
+gaze lichefiate
+TF-I
+56
+863
+873
+892
+911
+930
+949
+2.
+Specializare nave pentru
+transport produse
+petroliere
+STOT-I
+80
+1.629
+1.649
+1.684
+1.720
+1.756
+1.792
+3.
+Specializare nave pentru
+transport produse chimice
+STCT-I
+56
+1.237
+1.252
+1.279
+1.306
+1.333
+1.361
+4.
+Specializare nave pentru
+transport gaze lichefiate
+STLGT-I
+56
+1.167
+1.181
+1.207
+1.232
+1.258
+1.284
+5.
+Curs obligatoriu pentru
+personalul îmbarcat la
+bordul navelor de
+pasageri de tip Ro-Ro și
+la bordul navelor de
+pasageri altele decât
+nave de tip Ro-Ro
+CBP
+32
+467
+473
+483
+493
+503
+514
+CURSURI DE ACTUALIZARE
+G. Cursuri de actualizare - brevete compartiment punte
+1.
+Radar ARPA, activitatea
+echipei de cart în
+comandă, căutare și
+salvare - Nivel mana-
+gerial (Radar ARPA,
+bridge teamwork, search
+and rescue - Managerial
+Level)
+RBTSRM-A
+24
+446
+451
+461
+471
+481
+491
+2.
+Navigație radar, radar
+plotting și folosirea
+ARPA - Nivel operațional
+(Radar navigation, radar
+plotting and use of ARPA
+- Operational Level)
+RNPO-A
+24
+482
+488
+498
+509
+520
+530
+3.
+Limba engleză maritimă -
+Punte (Maritime English)
+ME-D-A
+16
+267
+270
+276
+282
+288
+294
+4.
+Certificat de operator
+general GMDSS (GMDSS-GOC)
+R GMDSS GOC
+40
+723
+732
+748
+763
+779
+795
+H. Cursuri de actualizare - brevete compartiment mașină
+1.
+Limba engleză maritimă -
+Mașină (Maritime English)
+ME-E-A
+16
+267
+270
+276
+282
+288
+294
+I. Cursuri de actualizare - comune compartimente punte și mașină
+1.
+Transportul și
+manipularea mărfurilor
+periculoase (Transport
+and handling of
+dangerous, hazardous and
+harmful cargoes)
+THDHHC-A
+16
+247
+250
+255
+261
+266
+272
+2.
+Prevenirea poluării
+mediului marin, Marpol
+73/78 (Prevention of
+pollution of the marine
+environment -
+Marpol 73/78)
+PPME-A
+16
+243
+246
+251
+257
+262
+267
+3.
+Tehnici individuale de
+supraviețuire pe mare
+(Proficiency în personal
+survival techniques)
+PST-A
+8
+140
+142
+145
+148
+151
+154
+4.
+Competența în utilizarea
+mijloacelor de supravie-
+țuire și a bărcilor de
+salvare, altele decât
+bărcile rapide de salvare
+(Proficiency în survival
+craft and rescue boats
+other than fast rescue
+boats)
+PSCRB-A
+16
+271
+274
+280
+286
+292
+298
+5.
+Protecție individuală și
+responsabilități sociale
+la bordul navei (Personal
+safety and social
+responsibilities on
+board ships)
+PSSRBS-A
+16
+247
+250
+255
+261
+266
+272
+6.
+Prevenirea și lupta
+contra incendiilor. Nivel
+avansat (Advanced fire
+fighting)
+AFF-A
+24
+402
+407
+416
+425
+433
+442
+7.
+Prim-ajutor medical
+(Medical first aid)
+MFA-A
+16
+244
+247
+252
+258
+263
+268
+8.
+Asistență medicală
+(Medical care)
+MC-A
+24
+376
+381
+389
+397
+405
+414
+J. Cursuri de actualizare pentru personalul îmbarcat la bordul navelor cu caracteristici speciale
+1.
+Familiarizare nave pentru
+transport produse petro-
+liere, chimice sau gaze
+lichefiate
+TF-A
+40
+653
+661
+675
+690
+704
+718
+2.
+Specializare nave pentru
+transport produse
+petroliere
+STOT-A
+32
+858
+868
+887
+906
+925
+944
+3.
+Specializare nave pentru
+transport produse chimice
+STCT-A
+24
+729
+738
+754
+770
+786
+802
+4.
+Specializare nave pentru
+transport gaze lichefiate
+STLGT-A
+24
+709
+718
+733
+749
+764
+780
+K. Cursuri de actualizare pentru personalul cu atribuții specifice la bordul navei
+1.
+Ofițer cu securitatea
+navei
+SSO-A
+8
+124
+125
+128
+131
+134
+136
+CURSURI DE RECONFIRMARE
+L. Cursuri de reconfirmare - brevete compartiment punte
+1.
+Reconfirmare brevet
+ofițer punte - Nivel
+managerial
+CRMNG
+40
+1.395
+1.412
+1.442
+1.473
+1.504
+1.535
+2.
+Reconfirmare brevet
+ofițer punte - Nivel
+operațional
+CROP
+40
+1.334
+1.350
+1.379
+1.409
+1.438
+1.467
+M. Cursuri de reconfirmare - brevete compartiment mașină
+1.
+Reconfirmare brevet
+ofițer mecanic - Nivel
+managerial
+RBOMNM
+80
+2.446
+2.475
+2.529
+2.583
+2.637
+2.691
+2.
+Reconfirmare brevet
+ofițer mecanic - Nivel
+operațional
+ROM-NOP
+80
+2.446
+2.475
+2.529
+2.583
+2.637
+2.691
+N. Cursuri de reconfirmare - certificate de capacitate
+1.
+Curs de reconfirmare a
+certificatului de
+capacitate de timonier
+maritim
+CRCCTM
+24
+774
+783
+800
+817
+834
+851
+2.
+Curs de reconfirmare a
+certificatului de
+capacitate de motorist
+CRCCM
+24
+841
+851
+870
+888
+907
+925
+EVALUARE CURSANȚI TERȚI PENTRU CURSURI ORGANIZATE PE BAZĂ DE PROTOCOL PENTRU STUDENȚII/ELEVII FORMELOR
+DE PREGĂTIRE, APROBATĂ ÎN CONFORMITATE CU ART. 7 ALIN. (3) DIN ORDINUL MINISTRULUI TRANSPORTURILOR,
+CONSTRUCȚIILOR ȘI TURISMULUI NR. 1.627/2006
+1.
+Navigație radar, radar
+plotting și folosirea
+ARPA - Nivel operațional
+- Inițial
+RNPO-I
+9
+161
+163
+166
+170
+174
+177
+2.
+Limba engleză maritimă -
+Punte - Inițial
+ME-D-I
+5
+86
+87
+89
+91
+93
+95
+3.
+Limba engleză maritimă -
+Mașină - Inițial
+ME-E-I
+2
+33
+33
+34
+35
+36
+36
+4.
+Certificat general de
+operator GMDSS - Inițial
+GMDSS-GOC-I
+16
+296
+300
+306
+313
+319
+326
+5.
+Transportul și
+manipularea mărfurilor
+periculoase - Inițial
+THDHHC-I
+5
+69
+70
+71
+73
+74
+76
+6.
+Prevenirea poluării
+mediului marin
+MARPOL 73/78 - Inițial
+PPME-I
+5
+68
+69
+70
+72
+73
+75
+7.
+Tehnici individuale de
+supraviețuire pe mare -
+Inițial
+PST-I
+2
+55
+56
+57
+58
+59
+61
+8.
+Competență în utilizarea
+mijloacelor de supravie-
+țuire și a bărcilor de
+salvare, altele decât
+bărcile rapide de salvare
+- Inițial
+PSCRB-I
+3
+54
+55
+56
+57
+58
+59
+9.
+Protecție individuală și
+responsabilități sociale
+la bordul navei - Inițial
+PSSRBS-I
+5
+69
+70
+71
+73
+74
+76
+10.
+Prevenirea și lupta
+contra incendiilor -
+Nivel avansat - Inițial
+AFF-I
+4
+118
+119
+122
+125
+127
+130
+11.
+Prim ajutor medical -
+Inițial
+MFA-I
+3
+41
+41
+42
+43
+44
+45
+12.
+Program de pregătire de
+bază pentru siguranța
+maritimă - Protecție
+individuală și respon-
+sabilități sociale la
+bordul navei
+BST-PSSRBS
+4
+48
+49
+50
+51
+52
+53
+13.
+Program de pregătire de
+bază pentru siguranța
+maritimă - Prevenirea și
+lupta contra incendiilor
+- Bază
+BST-BFF
+5
+93
+94
+96
+98
+100
+102
+14.
+Program de pregătire de
+bază pentru siguranța
+maritimă - Tehnici
+individuale de supravie-
+țuire pe mare
+BST-PST
+5
+76
+77
+79
+80
+82
+84
+15.
+Program de pregătire de
+bază pentru siguranța
+maritimă - Prim ajutor
+medical elementar
+BST-EFA
+4
+48
+49
+50
+51
+52
+53
+II. CURSURI OBLIGATORII NECESARE EMITERII CERTIFICATELOR DE COMPETENȚĂ ȘI ATESTATELOR PENTRU
+PERSONALUL NAVIGANT MARITIM, MARITIM-PORTUAR ȘI PENTRU PERSONALUL NAVIGANT PENTRU NAVELE DE
+NAVIGAȚIE INTERIOARĂ CARE NU INTRĂ SUB INCIDENȚA CONVENȚIEI STCW
+A. Cursuri obligatorii pentru personalul din compartimentul mașină
+1.
+Managementul activității
+și resurselor echipei de
+cart în compartimentul
+mașini - Inițial
+ETRM-I
+40
+1.339
+1.355
+1.385
+1.414
+1.443
+1.473
+2.
+Managementul activității
+și resurselor echipei de
+cart în compartimentul
+mașini - Actualizare
+ETRM-A
+24
+793
+803
+820
+837
+855
+872
+B. Cursuri obligatorii pentru personalul din compartimentul electric
+1.
+Curs de promovare la
+nivel operațional la
+nivel managerial pentru
+obținerea brevetului de
+șef electrician maritim
+CPSELM
+120
+2.220
+2.247
+2.295
+2.344
+2.393
+2.442
+2.
+Curs de specializare -
+adaptare pentru obținerea
+certificatului de capa-
+citate de electrician de
+bord
+CSAEB
+120
+2.246
+2.273
+2.322
+2.372
+2.421
+2.471
+C. Cursuri obligatorii pentru personalul nebrevetat maritim și maritim-portuar
+1.
+Curs de specializare
+pentru obținerea certi-
+ficatului de capacitate
+de fitter
+CSFT
+144
+2.329
+2.357
+2.408
+2.459
+2.511
+2.562
+2.
+Curs de specializare
+pompagiu
+CSP
+56
+810
+820
+838
+855
+873
+891
+3.
+Curs de specializare
+pentru obținerea certi-
+ficatului de capacitate
+de conducător de șalupă
+maritimă
+CPCSM
+80
+1.511
+1.529
+1.562
+1.596
+1.629
+1.662
+4.
+Program calificare pentru
+obținerea certificatului
+de capacitate de marinar
+(inclusiv pachetul
+obligatoriu pentru
+siguranță maritimă)
+CCMAR
+584
+2.389
+2.418
+2.470
+2.523
+2.575
+2.628
+5.
+Program calificare pentru
+obținerea certificatului
+de capacitate de marinar
+(fără pachetul obliga-
+toriu pentru siguranță
+maritimă)
+CCMAR
+424
+1.912
+1.935
+1.977
+2.019
+2.061
+2.103
+D. Cursuri obligatorii pentru personalul maritim-portuar
+1.
+Curs de specializare
+pentru obținerea breve-
+tului de căpitan
+maritim-portuar
+CSCMP
+64
+981
+993
+1.014
+1.036
+1.058
+1.079
+2.
+Curs de specializare
+pentru obținerea
+brevetului de șef mecanic
+maritim-portuar
+CSSMMP
+120
+2.025
+2.049
+2.094
+2.138
+2.183
+2.228
+3.
+Curs de specializare
+pentru obținerea
+brevetului de ofițer
+electrician
+maritim-portuar
+CSOEMP
+120
+2.419
+2.448
+2.501
+2.554
+2.608
+2.661
+E. Cursuri obligatorii pentru personalul maritim-portuar cu atribuții specifice
+1.
+Ofițer desemnat cu
+securitatea companiei
+CSO
+40
+853
+863
+882
+901
+920
+938
+2.
+Ofițer desemnat cu
+securitatea facilității
+portuare
+PFSO
+40
+853
+863
+882
+901
+920
+938
+F. Cursuri obligatorii pentru piloții maritimi, alții decât piloții de mare largă
+1.
+Curs de specializare
+pilot maritim aspirant
+CSPMA
+80
+2.047
+2.072
+2.117
+2.162
+2.207
+2.252
+2.
+Reconfirmare brevete
+piloți maritimi I/II
+pentru porturile maritime
+Constanța, Mangalia,
+Midia
+RBPM-CMM
+24
+565
+572
+584
+597
+609
+622
+3.
+Curs de specializare
+pilot maritim aspirant
+pentru Canalul
+Dunăre-Marea Neagră
+CSPMA-CDMN
+40
+999
+1.011
+1.033
+1.055
+1.077
+1.099
+4.
+Reconfirmare brevete
+piloți maritimi I/II
+pentru Canalul
+Dunăre-Marea Neagră
+RBPM-CDMN
+24
+561
+568
+580
+592
+605
+617
+5.
+Program de specializare
+pilot maritim aspirant
+pentru sectorul
+rada Sulina - km 175
+PSPMA
+48
+1.318
+1.334
+1.363
+1.392
+1.421
+1.450
+6.
+Program de reconfirmare
+brevete pilot maritim
+I/II pentru sectorul
+rada Sulina - km 175
+PPM-R
+32
+770
+779
+796
+813
+830
+847
+7.
+Efectuarea manevrei navei
+cu ajutorul simulatorului
+(Ship Handling and
+Manoeuvring Simulation)
+SHMS
+40
+1.427
+1.444
+1.476
+1.507
+1.538
+1.570
+8.
+Guvernarea și manevra
+navei în condiții de
+navigație simulate și
+lucrul în echipa de cart
+- reconfirmare
+SHMS-R
+24
+955
+966
+987
+1.008
+1.029
+1.051
+9.
+Managementul activității
+și resurselor echipei de
+cart în comandă (Bridge
+team and resource mana-
+gement course) - Inițial
+BTRM-I
+40
+1.327
+1.343
+1.372
+1.401
+1.431
+1.460
+10.
+Managementul activității
+și resurselor echipei de
+cart în comandă (Bridge
+team and resource
+management course) -
+Actualizare
+BTRM-A
+24
+799
+809
+826
+844
+861
+879
+G. Cursuri obligatorii pentru conducătorii de ambarcațiuni de agrement
+1.
+Program de specializare
+pentru obținerea certifi-
+catului de conducător
+ambarcațiune agrement
+clasa "B"
+PSCAA
+40
+1.841
+1.863
+1.904
+1.944
+1.985
+2.025
+2.
+Curs de pregătire pentru
+obținerea certificatului
+de conducător de
+ambarcațiune de agrement
+clasa A
+CPCCAA-A
+32
+1.662
+1.682
+1.719
+1.755
+1.792
+1.828
+3.
+Curs de pregătire pentru
+obținerea certificatului
+de conducător de
+ambarcațiune de agrement
+clasa B
+CPCCAA-B
+24
+1.465
+1.483
+1.515
+1.547
+1.579
+1.612
+4.
+Curs de specializare
+Manevra ambarcațiunilor
+cu vele
+(Sail Craft Manoeuvre)
+SCM
+32
+2.023
+2.047
+2.092
+2.136
+2.181
+2.225
+CURSURI PENTRU PERSONALUL NAVIGANT PENTRU NAVELE DE NAVIGAȚIE INTERIOARĂ
+H. Cursuri obligatorii pentru personalul navigant fluvial - conform Ordinului ministrului
+transporturilor, construcțiilor și turismului nr. 318/2006
+CURSURI INIȚIALE
+1.
+Program de specializare
+"Utilizator radar pe
+căile navigabile
+interioare"
+PSIUR-I
+80
+1.161
+1.175
+1.200
+1.226
+1.252
+1.277
+2.
+Program de specializare
+"Operator radiotelefonist
+în serviciul radiotelefo-
+nic pe căile navigabile"
+PSORAD-I
+80
+1.294
+1.310
+1.338
+1.366
+1.395
+1.423
+3.
+Program de specializare
+"Prevenirea și combaterea
+poluării apelor
+interioare navigabile"
+PSPPAI-I
+40
+668
+676
+691
+705
+720
+735
+4.
+Program de specializare
+"Manipularea și
+transportul mărfurilor
+periculoase pe ape
+interioare"
+PSIMTMP-I
+56
+883
+894
+913
+932
+952
+971
+5.
+Curs de pregătire special
+pentru transport de
+pasageri
+CPSTP
+40
+582
+589
+602
+615
+627
+640
+6.
+Program de formare
+"Expert în navigația
+cu pasageri"
+PFENP-I
+40
+632
+640
+653
+667
+681
+695
+7.
+Program de specializare
+"Acordarea primului
+ajutor medical"
+PSPAM-I
+24
+455
+460
+470
+480
+490
+501
+8.
+Program de specializare
+"Utilizare aparat de
+respirat"
+PSUAR-I
+32
+577
+584
+597
+609
+622
+635
+9.
+Program de calificare
+pentru obținerea breve-
+tului de mecanic fluvial
+PCMF
+560
+2.211
+2.238
+2.286
+2.335
+2.383
+2.432
+10.
+Program de formare
+profesională a operato-
+rilor de transport
+PFPOT
+120
+1.895
+1.918
+1.959
+2.001
+2.043
+2.085
+11.
+Program de specializare
+"Consilier de siguranță
+pentru transportul pe
+căile navigabile
+interioare a mărfurilor
+periculoase":
+PSCS-I
+136
+2.586
+2.617
+2.674
+2.731
+2.788
+2.845
+Modul 1. Clasa 1 -
+Materii și obiecte
+explozive
+24
+456
+461
+472
+482
+492
+502
+Modul 2. Clasa 2 - Gaze
+24
+456
+461
+472
+482
+492
+502
+Modul 3. Clasa 7 -
+Materii radioactive
+32
+609
+616
+630
+643
+657
+670
+Modul 4. Clasele 3, 4, 5,
+6, 8 și 9 de mărfuri
+periculoase
+32
+609
+616
+630
+643
+657
+670
+Modul 5. Numerele ONU
+1202, 1203 și 1223
+atribuite mărfurilor
+periculoase
+24
+456
+461
+472
+482
+492
+502
+CURSURI DE ACTUALIZARE
+1.
+Program de specializare
+"Operator radiotelefonist
+în serviciul radiotelefo-
+nic pe căile navigabile"
+PSORAD-A
+40
+848
+858
+877
+895
+914
+933
+2.
+Program de specializare
+"Prevenirea și combaterea
+poluării apelor
+interioare navigabile"
+PSPPAI-A
+32
+596
+603
+616
+629
+642
+656
+3.
+Program de specializare
+"Manipularea și
+transportul mărfurilor
+periculoase pe ape
+interioare"
+PSIMTMP-A
+24
+427
+432
+442
+451
+460
+470
+4.
+Program de formare
+"Expert în navigația cu
+pasageri"
+PFENP-A
+16
+293
+297
+303
+309
+316
+322
+5.
+Program de specializare
+"Acordarea primului
+ajutor medical"
+PSPAM-A
+8
+184
+186
+190
+194
+198
+202
+6.
+Program de specializare
+"Utilizare aparat de
+respirat"
+PSUAR-A
+16
+354
+358
+366
+374
+382
+389
+7.
+Program de specializare
+"Consilier de siguranță
+pentru transportul pe
+căile navigabile
+interioare a mărfurilor
+periculoase":
+PSCS-A
+70
+1.330
+1.346
+1.375
+1.404
+1.434
+1.463
+Modul 1. Clasa 1 -
+Materii și obiecte
+explozive
+14
+266
+269
+275
+281
+287
+293
+Modul 2. Clasa 2 - Gaze
+14
+266
+269
+275
+281
+287
+293
+Modul 3. Clasa 7 -
+Materii radioactive
+14
+266
+269
+275
+281
+287
+293
+Modul 4. Clasele 3, 4, 5,
+6, 8 și 9 de mărfuri
+periculoase
+14
+266
+269
+275
+281
+287
+293
+Modul 5. Numerele ONU
+1202, 1203 și 1223
+atribuite mărfurilor
+periculoase
+14
+266
+269
+275
+281
+287
+293
+-------------
