@@ -1,0 +1,6 @@
+Consiliul Local al municipiului Husi, judetul Vaslui;
+Avand in vedere: expunerea de motive privind aprobarea criteriilor de stabilire a ordinii de prioritate in solutionarea cererilor pentru atribuirea de terenuri, conform Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, modificata si completata; raportul de avizare al Comisiei pentru amenajarea teritoriului si urbanism, administrarea domeniului public si privat al municipiului, realizarea lucrarilor publice, conservarea monumentelor istorice si de arhitectura; raportul de avizare al Comisiei juridica si de disciplina, pentru administratie publica locala, apararea ordinii publice,respectarea drepturilor si libertatilor cetatenesti; raportul de avizare al Comisiei pentru invatamant, culte, tineret, turism, sanatate, munca, protectie sociala, protectia copilului, familie;
+In conformitate cu prevederile Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, modificata si completata;
+In temeiul art. 36 alin.(1) si alin.(2) litera ”d” si art.45 alin.(1) din Legea nr.
+215/2001 privind administratia publica locala, republicata, cu modificarile si completarile ulterioare;
+HOTARASTE:
