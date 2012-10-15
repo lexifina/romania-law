@@ -1,0 +1,219 @@
+{
+ "key": "dcc-785-2012",
+ "label": "Decizia CCR nr. 785/2012",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "785",
+ "date": "2012-09-26",
+ "year": "2012",
+ "heading": "DECIZIE nr. 785 din 26 septembrie 2012",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a dispoziţiilor Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 248/2000 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 64/1998 privind acordarea unor facilităţi la plata preţului acţiunilor şi la plata unor obligaţii bugetare, în scopul privatizării Societăţii Comerciale \"Petromidia\" - S.A. Constanţa",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "704",
+  "bis": false,
+  "date": "2012-10-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.171A/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 248/2000",
+    "number": "248",
+    "year": "2000",
+    "path": "lege/2000/248"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, obiecţia de neconstituţionalitate a dispoziţiilor Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 248/2000 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 64/1998 privind acordarea unor facilităţi la plata preţului acţiunilor şi la plata unor obligaţii bugetare, în scopul privatizării Societăţii Comerciale \"Petromidia\" - S.A. Constanţa.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I.",
+  "Dezbaterile au avut loc la data de 19 septembrie 2012 şi 26 septembrie 2012 şi la acestea au participat: Augustin Zegrean, preşedinte, Acsinte Gaspar, Petre Lăzăroiu, Mircea Ştefan Minea, Iulia Antoanella Motoc, Ion Predescu, Puskas Valentin Zoltan şi Tudorel Toader, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 248/2000",
+    "number": "248",
+    "year": "2000",
+    "path": "lege/2000/248"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 248/2000",
+    "number": "248",
+    "year": "2000",
+    "path": "oug/2000/248"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.176/1990",
+    "number": "1176",
+    "year": "1990",
+    "path": "hg/1990/1176"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 64/1998",
+    "number": "64",
+    "year": "1998",
+    "path": "oug/1998/64"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 985/1998",
+    "number": "985",
+    "year": "1998",
+    "path": "hg/1998/985"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-10-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/141989",
+  "text_sha256": "8b6f8d3c6f0b993a02c39245eff29392b64337fa4df1ab8e6869ce3de5d3c770",
+  "catalogue_sha256": "8b6f8d3c6f0b993a02c39245eff29392b64337fa4df1ab8e6869ce3de5d3c770",
+  "fetched": "2026-11-03T04:12:27Z",
+  "chars": 16592,
+  "portal_id": "141989",
+  "tip": "DECIZIE"
+ }
+}
