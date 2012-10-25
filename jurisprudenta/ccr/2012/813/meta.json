@@ -1,0 +1,182 @@
+{
+ "key": "dcc-813-2012",
+ "label": "Decizia CCR nr. 813/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "813",
+ "date": "2012-10-02",
+ "year": "2012",
+ "heading": "DECIZIE nr. 813 din 2 octombrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 7 alin. (3^1) din Ordonanţa Guvernului nr. 26/2000 cu privire la asociaţii şi fundaţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "725",
+  "bis": false,
+  "date": "2012-10-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "75.744/3/2011",
+  "806D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate art. 7 alin. (3^1) din Ordonanţa Guvernului nr. 26/2000 cu privire la asociaţii şi fundaţii, excepţie ridicată de Emilian Prodan, reprezentant al organizaţiei \"Comisariatul General pentru Relaţia cu Societatea Civilă\", în Dosarul nr. 75.744/3/2011 al Tribunalului Bucureşti - Secţia a V-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 34/2010",
+    "number": "34",
+    "year": "2010",
+    "path": "lege/2010/34"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-10-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/142279",
+  "text_sha256": "0002434b8929df0a812b29b8c372f8af09a66e71a9828cbed063db6c1db68d42",
+  "catalogue_sha256": "0002434b8929df0a812b29b8c372f8af09a66e71a9828cbed063db6c1db68d42",
+  "fetched": "2026-11-03T04:12:13Z",
+  "chars": 13239,
+  "portal_id": "142279",
+  "tip": "DECIZIE"
+ }
+}
