@@ -1,0 +1,151 @@
+{
+ "key": "iccj-ril-12-2012",
+ "label": "Decizia ÎCCJ nr. 12/2012 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "12",
+ "date": "2012-10-08",
+ "year": "2012",
+ "heading": "DECIZIE nr. 12 din 8 octombrie 2012",
+ "subtitle": "referitoare la recursul în interesul legii cu privire la interpretarea şi aplicarea dispoziţiilor art. XXIV alin. (1)-(3) din Legea nr. 202/2010",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE-COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "735",
+  "bis": false,
+  "date": "2012-10-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "11/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "XXIV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă, în interpretarea şi aplicarea dispoziţiilor art. XXIV alin. (1)-(3) din Legea nr. 202/2010 privind unele măsuri pentru accelerarea soluţionării proceselor, stabileşte că:",
+  "În cazul în care după intrarea în vigoare a Legii nr. 202/2010 se casează decizia instanţei de apel, cu trimiterea cauzei spre rejudecare, hotărârea pronunţată în primă instanţă, înainte de intrarea în vigoare a legii, de către judecătorie rămâne supusă apelului, cale de atac prevăzută de legea sub care a început procesul, competenţa de soluţionare revenind tribunalului.",
+  "Obligatorie, potrivit art. 414^5 alin. 4 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "XXIV",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1968",
+    "number": "31",
+    "year": "1968",
+    "path": "lege/1968/31"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2012-10-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/142421",
+  "text_sha256": "743aaedd84d84e5a4a7063b332649d187905d4610574a0672da5f427e6a5239f",
+  "catalogue_sha256": "743aaedd84d84e5a4a7063b332649d187905d4610574a0672da5f427e6a5239f",
+  "fetched": "2026-11-03T04:12:04Z",
+  "chars": 17482,
+  "portal_id": "142421",
+  "tip": "DECIZIE"
+ }
+}
