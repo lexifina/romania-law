@@ -1,0 +1,234 @@
+{
+ "key": "dcc-805-2012",
+ "label": "Decizia CCR nr. 805/2012",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "805",
+ "date": "2012-09-27",
+ "year": "2012",
+ "heading": "DECIZIE nr. 805 din 27 septembrie 2012",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a dispoziţiilor art. 30 alin. (3) şi (4) din Regulamentul Senatului, a Hotărârii Senatului nr. 24/2012 privind revocarea din funcţia de preşedinte al Senatului a domnului senator Vasile Blaga, precum şi a Hotărârii Senatului nr. 25/2012 pentru alegerea preşedintelui Senatului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "736",
+  "bis": false,
+  "date": "2012-10-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.337C/2012"
+ ],
+ "subjects": [],
+ "operative": [
+  "I. Respinge, ca inadmisibilă, sesizarea de neconstituţionalitate a dispoziţiilor art. 30 alin. (3) şi (4) din Regulamentul Senatului.",
+  "II. Respinge, ca neîntemeiată, sesizarea de neconstituţionalitate a Hotărârii Senatului nr. 24/2012 privind revocarea din funcţia de preşedinte al Senatului a domnului senator Vasile Blaga, precum şi a Hotărârii Senatului nr. 25/2012 pentru alegerea preşedintelui Senatului.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Senatului şi se publică în Monitorul Oficial al României, Partea I.",
+  "Dezbaterile a avut loc la datele de 26 şi 27 septembrie 2012 şi la acestea au participat: Augustin Zegrean, preşedinte, Aspazia Cojocaru, Acsinte Gaspar, Petre Lăzăroiu, Mircea Ştefan Minea, Iulia Antoanella Motoc, Ion Predescu, Puskas Valentin Zoltan şi Tudorel Toader, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "2",
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "c",
+      "l"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 177/2010",
+    "number": "177",
+    "year": "2010",
+    "path": "lege/2010/177"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-10-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/142439",
+  "text_sha256": "99f0f5f3dc2b61fbd6dd1e42685421973c1d2dbf4dd6b6f8fe1d2b2856c8d370",
+  "catalogue_sha256": "99f0f5f3dc2b61fbd6dd1e42685421973c1d2dbf4dd6b6f8fe1d2b2856c8d370",
+  "fetched": "2026-11-03T04:12:03Z",
+  "chars": 46916,
+  "portal_id": "142439",
+  "tip": "DECIZIE"
+ }
+}
