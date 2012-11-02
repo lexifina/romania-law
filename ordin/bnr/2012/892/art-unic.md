@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale PARTENER IFN - S.A., cu sediul în municipiul Craiova, str. Mihai Viteazul nr. 14, județul Dolj, înregistrată la registrul comerțului cu nr. J16/1383/2007, cod unic de înregistrare 22139949, înscrisă în Registrul general cu nr. RG-PJR-17-010224, la secțiunea a) "Credite de consum". Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 18 septembrie 2012. Nr. 892. ------
