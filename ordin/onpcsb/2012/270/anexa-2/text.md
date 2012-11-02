@@ -1,0 +1,2 @@
+# Anexa 2
+CARACTERISTICI DE TIPĂRIRE Denumire: Proces-verbal de constatare și sancționare a contravențiilor Seria O.N.P.C.S.B. nr............ (începând cu nr. 0001051) Formularul se tipărește în 3 exemplare, pe format A4, de culori diferite (negru, roșu și verde). Formularele se tipăresc pe hârtie de calitate, autocopiativă pe ambele fețe, care să asigure lizibilitatea scrisului atât pe original, cât și pe copii. Formularele se broșează în carnete/blocuri a câte 50 de procese-verbale de constatare și sancționare a contravențiilor, conținând câte 150 de file fiecare. ----
