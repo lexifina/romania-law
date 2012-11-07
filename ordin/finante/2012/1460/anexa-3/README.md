@@ -1,0 +1,7 @@
+# Anexa nr. 3: 3 NORME METODOLOGICE de repartizare a sumelor potrivit prevederilor art. 35 alin. (15)-(19) din Ordonanța de urgență a Guvernului nr. 61/2012 cu privire la rectificarea bugetului de stat pe anul 2012
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 142615 (https://legislatie.just.ro/Public/DetaliiDocument/142615)
+- sha256 of that document's text as the service returned it: 0cb085cc2be8adf60fa144e9e2c9e37a98e8d0bf2c9c7bd0f26c9a696228b0b2
+- Retrieved: 2026-11-03
