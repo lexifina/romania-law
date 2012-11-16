@@ -1,0 +1,3 @@
+# Anexa 8
+REGISTRUL DE EVIDENȚĂ a mișcărilor interjudețene de suine
+1. Numărul de înregistrare a solicitării la DSVSA de origine 2. Solicitant - medicul veterinar care eliberează certificatul de sănătate 3. Preluarea solicitării de către medicul veterinar oficial/data/ora primirii solicitării la DSVSA de origine 4. Exploatația furnizoare - localitatea/codul exploatației/CUI - denumirea exploatației 5. Categoria/nr. de capete 6. Exploatația/Unitatea de destinație - județul/localitatea/codul exploatației/CUI - denumirea exploatației/unității 7. Numărul de înregistrare la DSVSA de destinație 8. Preluarea solicitării de către medicul veterinar oficial/data/ora primirii solicitării la DSVSA de destinație
