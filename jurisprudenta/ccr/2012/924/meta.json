@@ -1,0 +1,183 @@
+{
+ "key": "dcc-924-2012",
+ "label": "Decizia CCR nr. 924/2012",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "924",
+ "date": "2012-11-01",
+ "year": "2012",
+ "heading": "DECIZIE nr. 924 din 1 noiembrie 2012",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a Hotărârii Senatului nr. 38/2012 privind înfiinţarea Comisiei de anchetă privind abuzurile semnalate în activităţile desfăşurate de autorităţile şi instituţiile publice în cazul votului de la referendumul din 29 iulie 2012",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "787",
+  "bis": false,
+  "date": "2012-11-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.398L/2/2012"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca neîntemeiată, sesizarea de neconstituţionalitate a Hotărârii Senatului nr. 38/2012 privind înfiinţarea Comisiei de anchetă privind abuzurile semnalate în activităţile desfăşurate de autorităţile şi instituţiile publice în cazul votului de la referendumul din 29 iulie 2012, formulată de Grupul parlamentar al Partidului Democrat Liberal din Senat, în raport de criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedintelui Senatului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143053",
+  "text_sha256": "d25660ac4349b6043c8c4b263af9bbf6db9967b4988e140c1fa28ac7c9c72236",
+  "catalogue_sha256": "d25660ac4349b6043c8c4b263af9bbf6db9967b4988e140c1fa28ac7c9c72236",
+  "fetched": "2026-11-03T04:11:19Z",
+  "chars": 31719,
+  "portal_id": "143053",
+  "tip": "DECIZIE"
+ }
+}
