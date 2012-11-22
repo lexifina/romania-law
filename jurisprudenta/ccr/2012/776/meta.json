@@ -1,0 +1,319 @@
+{
+ "key": "dcc-776-2012",
+ "label": "Decizia CCR nr. 776/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "776",
+ "date": "2012-09-25",
+ "year": "2012",
+ "heading": "DECIZIE nr. 776 din 25 septembrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2, 5 şi 7 din Ordonanţa de urgenţă a Guvernului nr. 107/2010 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi cele ale art. I pct. 99 din Ordonanţa de urgenţă a Guvernului nr. 117/2010 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi reglementarea unor măsuri financiar-fiscale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "786",
+  "bis": false,
+  "date": "2012-11-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.347/111/2011",
+  "506D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2010",
+    "number": "107",
+    "year": "2010",
+    "path": "oug/2010/107"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 117/2010",
+    "number": "117",
+    "year": "2010",
+    "path": "oug/2010/117"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2, 5 şi 7 din Ordonanţa de urgenţă a Guvernului nr. 107/2010 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi cele ale art. I pct. 99 din Ordonanţa de urgenţă a Guvernului nr. 117/2010 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi reglementarea unor măsuri financiar-fiscale, excepţie ridicată de Teodor Popa în Dosarul nr. 3.347/111/2011 al Tribunalului Bihor - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2010",
+    "number": "107",
+    "year": "2010",
+    "path": "oug/2010/107"
+   },
+   "articles": [
+    {
+     "art": "213",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "257",
+     "alin": [
+      "2-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 117/2010",
+    "number": "117",
+    "year": "2010",
+    "path": "oug/2010/117"
+   },
+   "articles": [
+    {
+     "art": "296-3",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "257",
+     "alin": [
+      "2-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "259",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 17/2010",
+    "number": "17",
+    "year": "2010",
+    "path": "oug/2010/17"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143026",
+  "text_sha256": "4bec408a3d3bd5692e17b078fd87642fdb253684d7fc6d0e6f905fbaef4b3be8",
+  "catalogue_sha256": "4bec408a3d3bd5692e17b078fd87642fdb253684d7fc6d0e6f905fbaef4b3be8",
+  "fetched": "2026-11-03T04:11:21Z",
+  "chars": 12435,
+  "portal_id": "143026",
+  "tip": "DECIZIE"
+ }
+}
