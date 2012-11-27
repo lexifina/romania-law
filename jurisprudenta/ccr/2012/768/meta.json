@@ -1,0 +1,235 @@
+{
+ "key": "dcc-768-2012",
+ "label": "Decizia CCR nr. 768/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "768",
+ "date": "2012-09-25",
+ "year": "2012",
+ "heading": "DECIZIE nr. 768 din 25 septembrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar şi ale art. 1 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "795",
+  "bis": false,
+  "date": "2012-11-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.668/105/2011",
+  "186D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Legea nr. 118/2010 privind unele măsuri necesare în vederea restabilirii echilibrului bugetar şi ale art. 1 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice, excepţie ridicată de Lucia Saulea, Nora Zafiu, Eleonora Căpăţână, Mihaela Irimia, Bogdan Dobrogeanu, Ionuţ Pavel Iambu, Gabriel Anton, Cristina Corcodel, Alexe Cătălina Goicea, Mirela Petre, Daniela Vasile, Liana Anton, Raluca Bejan, Alice Manuela Burciu, Cornelia Cernat, Roxana Ciresnea, Anca Constantinescu, Mihaela Cîrstocea, Cristina Constantinescu, Elena Costache, Mirela Costache, Georgeta Costache, Mihaela Florica Costea, Georgiana Creţu, Daniela Criste, Ana Maria Luciu, Marioara Drugă, Liana Ducan, Dorina Dumitrescu, Maria Enache, Maria Fava, Aniela Florea, Elena Fronea, Marilena Ionescu, Mariana Ionescu, Viorica Manole, Claudia Mirela Manolica, Monica Marin, Adriana Matache, Vica Mendoiu, Nicoleta Mihalache, Carmen Militaru, Ioana Mocanu, Carmen Naum, Constantina Neagu, Cristina Olteanu, Jeni Pârcălăbescu, Marilena Dana Peptanaru, Maria Postolache, Constanţa Răduţ, Vasilica Stan, Ana Eliza Streche, Steluţa Ştefan, Emilia Tănăsescu, Delia Ţărăgrădeanu, Angela Valentina Ţuţu, Elena Vlaicu, Adriana Dumitru, Petruţa Gavriliu, Adriana Manolache, Gabriel Minea, Niculina Samoilă, Cristina Smărăndoiu, Cecilia Adela Alexandru, Antoaneta Bucur, Ion Bunghez, Carmen Manta, Elena Albu, Gabriela Vitregu, Eusebiu Barbu, Roxana Bugeac, Florin Eugeniu Antonescu, Alexandru Coarfă, Viorel Drăghiciu, Florin Ciprian Gherghe, Florin Ionescu, Mariana Ionescu, Liliana Ilie şi Dumitru Mihai în Dosarul nr. 3.668/105/2011 al Tribunalului Prahova - Secţia I civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-11-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143150",
+  "text_sha256": "89e9db67e4e002461a448cb85efa89c2687964bb5e111cd97346827493f1f908",
+  "catalogue_sha256": "89e9db67e4e002461a448cb85efa89c2687964bb5e111cd97346827493f1f908",
+  "fetched": "2026-11-03T04:11:15Z",
+  "chars": 21149,
+  "portal_id": "143150",
+  "tip": "DECIZIE"
+ }
+}
