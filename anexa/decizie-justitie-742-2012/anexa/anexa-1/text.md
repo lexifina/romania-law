@@ -1,0 +1,9 @@
+# Anexa 1
+Anexa nr. 1
+la metodologie
+Domnului director al ..................
+Subsemnata/Subsemnatul, ......, fiica/fiul lui ....... și ......, născută/născut la data de ............ în localitatea ........., județul ......., având în prezent funcția de ........, vă rog să binevoiți a-mi aproba, începând cu data de ........, concediul pentru creșterea copilului în vârstă de ......., pentru minorul/minora ........, născut/născută la data de ........., potrivit Certificatului de naștere seria ...... nr. ....., eliberat de ...... la data de .......... .
+Semnătura
+..............
+Data
+............
