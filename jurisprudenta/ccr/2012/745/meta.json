@@ -1,0 +1,226 @@
+{
+ "key": "dcc-745-2012",
+ "label": "Decizia CCR nr. 745/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "745",
+ "date": "2012-09-20",
+ "year": "2012",
+ "heading": "DECIZIE nr. 745 din 20 septembrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 8 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "805",
+  "bis": false,
+  "date": "2012-11-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.959/117/2011",
+  "817D/2012",
+  "7.468/118/2011",
+  "1.531/30/2011",
+  "1.419/121/2012",
+  "10.236/40/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 8 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice, excepţie ridicată de Vasile Bindea, Gheorghe Filip, Nicolae Secaşiu, Adina Traica, Riian-Daniel Tămaş, Sebastian-Raul Volosutean, Mihai Cservenecz, Ioan Felecan, Gabriel-Alexandru Mureşan, Romeo-Florin Simon, Nelu Ovidiu Rus, Ioan Ungurean, Edith Leon, Ioan Avram, Teodor Negru, Gheorghe Simon, Alexandru Mărginean, Liviu Pop, Maria Bojan, Adela-Claudia Nica, Mariana-Ancuţa Dinea, Andreea Cristina Rus, Ana-Maria Pop şi Dorel Tomoioagă în Dosarul nr. 3.959/117/2011 al Tribunalului Cluj - Secţia mixtă de contencios administrativ şi fiscal, de conflicte de muncă şi asigurări sociale, de Niculina Anastasopol, Florica Bănciu, Marian Bănciu, Dimitru Banu, Ion Boicea, Lavinia Anda Bratu, Neculai Cabrancea, Vasile Carastan, Niculai Chirea, Vasile Cristu, Nelu Drăgan, Viorica Drăgan, Adrian Gheorghe, Marian Iancu, Gelu Iordache, Neculai Moise, Ion Neagu, Ion Nicolescu, Titu Pîrvu, Ion Radu, Corina Stoenciu, Emilian Stoenciu şi Tudora Tăranu prin Sindicatul Tomis al Lucrătorilor din Administraţia Publică şi Servicii Publice (Nucleul Sindical din Primăria oraşului Băneasa) în Dosarul nr. 7.468/118/2011*) al Tribunalului Constanţa - Secţia civilă, de către Adrian Ioan Alexe, Crina Ionela Bălan, Cristian Borş, Laura Monica Brindescu, Flavius Cristea, Ioan Damian, Viorica Elene Flucsa, Adrian Constantin Grecu, Adriana Mirela Roateş Ghimiş, Dana Maria Ionescu, Daniel Istrate, Ramona Lungu, Valentin Mihai, Loredana Mocan, Dan Păuleţ, Anita Cristina Petrovici, Gabriel Leontin Pripagu, Mihaela Diana (Olteanu) Sasu, Lorant Varga, Florina Liudmila Malenovski Vartolomei şi Sorina Lupşa în Dosarul nr. 1.531/30/2011 al Curţii de Apel Timişoara - Secţia litigii de muncă şi asigurări sociale, de către Ancuţa Petrache şi Nicoleta Gabriela Mardar, prin reprezentant legal Sindicatul Liber \"Educaţia\" din Galaţi în Dosarul nr. 1.419/121/2012 al Tribunalului Galaţi - Secţia I civilă, de către Tribunalul Botoşani - Secţia I civilă, din oficiu, în dosarele nr. 1.035/40/2012, nr. 10.233/40/2011, nr. 10.231/40/2011, nr. 10.236/40/2011, nr. 1.044/40/2012, nr. 1.155/40/2012, nr. 1.161/40/2012, nr. 1.166/40/2012, nr. 1.030/40/2012, nr. 1.159/40/2012, nr. 1.158/40/2012, nr. 1.163/40/2012 şi nr. 1.164/40/2012 ale acestei instanţe, de către Sindicatul Poliţiştilor şi Personalului Contractual din cadrul Inspectoratului de Poliţie Botoşani în dosarele nr. 10.232/40/2011 şi nr. 10.234/40/2011 ale Tribunalului Botoşani - Secţia civilă, precum şi de către Uniunea Judeţeană din Învăţământ, Sport, Cultură, Asistenţă Socială şi Protecţia Copilului \"Pro Educaţia\" Suceava, în calitate de reprezentant legal, în dosarele nr. 4.083/86/2012, nr. 4.084/86/1012, nr. 4.086/86/2012, nr. 4.087/86/2012, nr. 4.089/86/2012, nr. 4.090/86/2012, nr. 4.093/86/2012 şi nr. 4.095/86/2012, nr. 4.096/86/2012 şi nr. 4.097/86/2012 ale Tribunalului Suceava - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-11-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143277",
+  "text_sha256": "25c8af10c1eafd472282a817277fd370980abfb47faafeeb883bc0be4744995f",
+  "catalogue_sha256": "25c8af10c1eafd472282a817277fd370980abfb47faafeeb883bc0be4744995f",
+  "fetched": "2026-11-03T04:11:11Z",
+  "chars": 27636,
+  "portal_id": "143277",
+  "tip": "DECIZIE"
+ }
+}
