@@ -1,0 +1,5 @@
+# CJUE, Hotărârea Curții (Camera a treia) din 29 noiembrie 2012, Cauza C-257/11
+
+Pentru aceste motive, Curtea (Camera a treia) declară:
+1) Articolele 167 și 168 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată trebuie interpretate în sensul că, în împrejurări precum cele în discuție în litigiul principal, o societate care a achiziționat o suprafață de teren și construcții edificate pe aceasta din urmă, în vederea demolării acestor construcții și a realizării unui complex rezidențial pe suprafața de teren respectivă, are dreptul de a deduce taxa pe valoarea adăugată aferentă achiziționării construcțiilor menționate.
+2) Articolul 185 din Directiva 2006/112 trebuie interpretat în sensul că, în împrejurări precum cele în discuție în litigiul principal, demolarea unor construcții, achiziționate împreună cu suprafața de teren pe care au fost edificate, efectuată în vederea realizării unui complex rezidențial în locul acestor construcții, nu determină o obligație de regularizare a deducerii inițiale a taxei pe valoarea adăugată aferente achiziționării construcțiilor menționate.
