@@ -1,0 +1,177 @@
+{
+ "key": "cedo-27240-03-2012-10-11",
+ "label": "CEDO, Fane Ciobanu c. României, 2012-10-11",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-10-11",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 11 octombrie 2012",
+ "subtitle": "privind Cauza Fane Ciobanu împotriva României, definitivă la 11 ianuarie 2012",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "808",
+  "bis": false,
+  "date": "2012-12-03",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "27240/03"
+ ],
+ "case_name": "Fane Ciobanu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA, În unanimitate, 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 3 din Convenţie, referitoare la condiţiile materiale de detenţie şi neacordarea tratamentului stomatologic, şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 3 din Convenţie în ceea ce priveşte condiţiile materiale de detenţie şi neacordarea tratamentului stomatologic; 3. hotărăşte",
+  "a) că statul pârât trebuie să plătească, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 13.300 EUR (treisprezece mii trei sute euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral - se acordă reclamantului; (îi) 3.150 EUR (trei mii o sută cincizeci euro) - se acordă direct doamnei avocat Diana Olivia Hatneanu; (iii) 300 EUR (trei sute euro), plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit, pentru cheltuieli de judecată - se acordă direct asociaţiei APADOR-CH*2); ________ *2) Rectificat la 10 ianuarie 2012; textul era următorul: \"se acordă reclamantului\".",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 56/2003",
+    "number": "56",
+    "year": "2003",
+    "path": "oug/2003/56"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 23/1969",
+    "number": "23",
+    "year": "1969",
+    "path": "lege/1969/23"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.897/2006",
+    "number": "1897",
+    "year": "2006",
+    "path": "hg/2006/1897"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.113/2010",
+    "number": "1113",
+    "year": "2010",
+    "path": "hg/2010/1113"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143318",
+  "text_sha256": "1a9bd05df156a861cf6876d0f8fada3920b7fac011c322a5f93b48bc923a922e",
+  "catalogue_sha256": "1a9bd05df156a861cf6876d0f8fada3920b7fac011c322a5f93b48bc923a922e",
+  "fetched": "2026-11-03T04:11:04Z",
+  "chars": 55070,
+  "portal_id": "143318",
+  "tip": "HOTĂRÂRE"
+ }
+}
