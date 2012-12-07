@@ -1,0 +1,332 @@
+{
+ "key": "dcc-774-2012",
+ "label": "Decizia CCR nr. 774/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "774",
+ "date": "2012-09-25",
+ "year": "2012",
+ "heading": "DECIZIE nr. 774 din 25 septembrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor capitolului IV \"Măsuri privind regimul cumulului pensiilor cu veniturile salariale, în scopul reducerii cheltuielilor bugetare\" din Legea nr. 329/2009 privind reorganizarea unor autorităţi şi instituţii publice, raţionalizarea cheltuielilor publice, susţinerea mediului de afaceri şi respectarea acordurilor-cadru cu Comisia Europeană şi Fondul Monetar Internaţional",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "823",
+  "bis": false,
+  "date": "2012-12-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "124/96/2010",
+  "421D/2012",
+  "755D/2012",
+  "10.831/3/2010",
+  "768D/2012",
+  "2.780/3/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 329/2009",
+    "number": "329",
+    "year": "2009",
+    "path": "lege/2009/329"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor capitolului IV \"Măsuri privind regimul cumulului pensiilor cu veniturile salariale, în scopul reducerii cheltuielilor bugetare\" din Legea nr. 329/2009 privind reorganizarea unor autorităţi şi instituţii publice, raţionalizarea cheltuielilor publice, susţinerea mediului de afaceri şi respectarea acordurilor-cadru cu Comisia Europeană şi Fondul Monetar Internaţional, excepţie ridicată de Ştefan Cujbă în Dosarul nr. 124/96/2010 al Tribunalului Harghita - Secţia civilă, de Ilie Ion, Anton Cristian, Gheorghe Badea, Florea Cristian Agapie, Dănuţ Alexandru Burcea, Valentin Vascu, Alexandru Stan, Cristian Vasile, Ion Dumitraşcu, Niculae Miu, Ion Fleancu, Aurel Oncica, Daniel Ion, Adrian-Leonard Bantaş, Viorel Armaşu, Vasile Busuioc, Constantin Ivaşcu, Virgil Bădescu, Florin Atanasiu şi Benone Tiron în Dosarul nr. 10.831/3/2010 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă şi asigurări sociale şi de Ioan Truţă în Dosarul nr. 2.780/3/2011 (număr în format vechi 4.309/2011) al Curţii de Apel Bucureşti - Secţia a VII-a civilă şi pentru cauze privind conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 329/2009",
+    "number": "329",
+    "year": "2009",
+    "path": "lege/2009/329"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 75/1999",
+    "number": "75",
+    "year": "1999",
+    "path": "lege/1999/75"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 484/2001",
+    "number": "484",
+    "year": "2001",
+    "path": "lege/2001/484"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 179/2004",
+    "number": "179",
+    "year": "2004",
+    "path": "lege/2004/179"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143475",
+  "text_sha256": "4399a3ebf45209c3333ea83d6b75fb44896a20466aaaa7ce5caef6f6b5bba7b3",
+  "catalogue_sha256": "4399a3ebf45209c3333ea83d6b75fb44896a20466aaaa7ce5caef6f6b5bba7b3",
+  "fetched": "2026-11-03T04:10:56Z",
+  "chars": 32224,
+  "portal_id": "143475",
+  "tip": "DECIZIE"
+ }
+}
