@@ -1,0 +1,244 @@
+{
+ "key": "dcc-850-2012",
+ "label": "Decizia CCR nr. 850/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "850",
+ "date": "2012-10-18",
+ "year": "2012",
+ "heading": "DECIZIE nr. 850 din 18 octombrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. II din Ordonanţa de urgenţă a Guvernului nr. 23/2012 pentru modificarea şi completarea Legii nr. 303/2004 privind statutul judecătorilor şi procurorilor, precum şi pentru prorogarea termenului prevăzut la art. III din titlul XVI al Legii nr. 247/2005 privind reforma în domeniul proprietăţii şi justiţiei, precum şi unele măsuri adiacente şi ale art. 131 alin. (2) din Legea nr. 304/2004 privind organizarea judiciară",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "827",
+  "bis": false,
+  "date": "2012-12-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.288/30/2011",
+  "819D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 23/2012",
+    "number": "23",
+    "year": "2012",
+    "path": "oug/2012/23"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. II din Ordonanţa de urgenţă a Guvernului nr. 23/2012 pentru modificarea şi completarea Legii nr. 303/2004 privind statutul judecătorilor şi procurorilor, precum şi pentru prorogarea termenului prevăzut la art. III din titlul XVI al Legii nr. 247/2005 privind reforma în domeniul proprietăţii şi justiţiei, precum şi unele măsuri adiacente şi ale art. 131 alin. (2) din Legea nr. 304/2004 privind organizarea judiciară, excepţie ridicată de Cornel Iosif Borchescu în Dosarul nr. 8.288/30/2011 al Tribunalului Timiş - Secţia a II-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 120/2011",
+    "number": "120",
+    "year": "2011",
+    "path": "oug/2011/120"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 23/2012",
+    "number": "23",
+    "year": "2012",
+    "path": "oug/2012/23"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-12-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143509",
+  "text_sha256": "2455995c9d8a1958b1bc3804053958172ecb9f796116a4feac4aa6712c3b3044",
+  "catalogue_sha256": "2455995c9d8a1958b1bc3804053958172ecb9f796116a4feac4aa6712c3b3044",
+  "fetched": "2026-11-03T04:10:51Z",
+  "chars": 15053,
+  "portal_id": "143509",
+  "tip": "DECIZIE"
+ }
+}
