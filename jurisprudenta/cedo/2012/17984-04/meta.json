@@ -1,0 +1,149 @@
+{
+ "key": "cedo-17984-04-2012-07-10",
+ "label": "CEDO, Ilie Şerban c. României, 2012-07-10",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-07-10",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 10 iulie 2012",
+ "subtitle": "în Cauza Ilie Şerban împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "828",
+  "bis": false,
+  "date": "2012-12-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "17984/04"
+ ],
+ "case_name": "Ilie Şerban",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 3. hotărăşte că nu este necesar să examineze capătul de cerere întemeiat pe art. 14 coroborat cu art. 6 din Convenţie; 4. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 3.000 EUR (trei mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, care va fi convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii, pentru prejudiciul moral;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143518",
+  "text_sha256": "8a9b62d690f651c58e5b14235d0cd5e1ec0fa394a5383a5bdd8bf9a4c334f948",
+  "catalogue_sha256": "8a9b62d690f651c58e5b14235d0cd5e1ec0fa394a5383a5bdd8bf9a4c334f948",
+  "fetched": "2026-11-03T04:10:51Z",
+  "chars": 14979,
+  "portal_id": "143518",
+  "tip": "HOTĂRÂRE"
+ }
+}
