@@ -1,0 +1,216 @@
+{
+ "key": "cedo-17139-04-2011-09-27",
+ "label": "CEDO, Lipănescu şi alţii c. României, 2011-09-27",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2011-09-27",
+ "year": "2011",
+ "heading": "HOTĂRÂRE din 27 septembrie 2011",
+ "subtitle": "în Cauza Lipănescu şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "831",
+  "bis": false,
+  "date": "2012-12-11",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "17139/04",
+  "1359/06",
+  "36487/04",
+  "14391/05",
+  "50718/06",
+  "19852/04"
+ ],
+ "case_name": "Lipănescu şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. hotărăşte să conexeze cererile; 2. declară Cererea nr. 14.391/05 inadmisibilă în măsura în care a fost introdusă de al doilea reclamant; 3. declară cererile admisibile pentru celelalte capete de cerere; 4. declară că au fost încălcate art. 6 § 1 din Convenţie şi art. 1 din Protocolul nr. 1 la Convenţie; 5. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamanţilor, în caz de nerestituire, în termen de 3 luni, următoarele sume, care trebuie convertite în lei româneşti la rata aplicabilă la data soluţionării, la care se adaugă orice sumă ce poate fi datorată cu titlu de impozit:",
+  "(i) în Cererea nr. 17.139/04: - 68.000 EUR (şaizeci şi opt mii euro) pentru prejudiciul material; - 2.600 EUR (două mii şase sute euro) pentru prejudiciul moral; (îi) în Cererea nr. 19.852/04: - 1.670 EUR (o mie şase sute şaptezeci euro) pentru prejudiciul material; - 2.600 EUR (două mii şase sute euro) pentru prejudiciul moral; - 65 EUR (şaizeci şi cinci euro) pentru cheltuielile de judecată; (iii) în Cererea nr. 36.487/04: - 12.600 EUR (douăsprezece mii şase sute euro) pentru prejudiciul material; - 2.600 EUR (două mii şase sute euro) pentru prejudiciul moral; - 165 EUR (o sută şaizeci şi cinci euro) pentru cheltuielile de judecată; (iv) în Cererea nr. 45.197/04: - 83.000 EUR (optzeci şi trei mii euro) pentru prejudiciul material; - 2.600 EUR (două mii şase sute euro) pentru prejudiciul moral; (v) în Cererea nr. 14.391/05: - 118.000 EUR (o sută optsprezece mii euro) pentru prejudiciul material; - 2.600 EUR (două mii şase sute euro) pentru prejudiciul moral; (vi) în Cererea nr. 1.359/06: - 220.000 EUR (două sute douăzeci mii euro) pentru prejudiciul material; - 2.600 EUR (două mii şase sute euro) pentru prejudiciul moral; (vii) în Cererea nr. 50.718/06: - 12.000 EUR (douăsprezece mii euro) pentru prejudiciul material; - 2.600 EUR (două mii şase sute euro) pentru prejudiciul moral; - 1.000 EUR (o mie euro) pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "6. respinge cererea de reparaţie echitabilă pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 14",
+    "path": null,
+    "slug": "conventia-edo-protocolul-14"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 58/2003",
+    "number": "58",
+    "year": "2003",
+    "path": "oug/2003/58"
+   },
+   "articles": [
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1990",
+    "number": "50",
+    "year": "1990",
+    "path": "lege/1990/50"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143617",
+  "text_sha256": "4bc6852b5d03e19c0acb402a34af316ae44ac463d6626321916d841d47f96e67",
+  "catalogue_sha256": "4bc6852b5d03e19c0acb402a34af316ae44ac463d6626321916d841d47f96e67",
+  "fetched": "2026-11-03T04:10:47Z",
+  "chars": 33256,
+  "portal_id": "143617",
+  "tip": "HOTĂRÂRE"
+ }
+}
