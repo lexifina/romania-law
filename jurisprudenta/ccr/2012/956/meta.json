@@ -1,0 +1,233 @@
+{
+ "key": "dcc-956-2012",
+ "label": "Decizia CCR nr. 956/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "956",
+ "date": "2012-11-13",
+ "year": "2012",
+ "heading": "DECIZIE nr. 956 din 13 noiembrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 149 şi 151 din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "838",
+  "bis": false,
+  "date": "2012-12-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": true,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.354/117/2011",
+  "7.401/120/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Constată că dispoziţiile art. 151 alin. (2) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, care au format obiectul excepţiei de neconstituţionalitate ridicate de Sindicatul cadrelor militare disponibilizate în rezervă şi în retragere, în calitate de reprezentant al membrilor săi Emil Pătrăşcanu şi Gheorghe Ţuţuianu, în dosarele nr. 2.326/103/2011 şi nr. 2.334/103/2011 ale Curţii de Apel Bacău - Secţia I civilă şi de Constantin Dumitrache în Dosarul nr. 7.401/120/2011 al Curţii de Apel Ploieşti - Secţia I civilă, sunt constituţionale în măsura în care se interpretează că nesoluţionarea contestaţiilor şi necomunicarea în termenul legal a hotărârilor Comisiei Centrale de Contestaţii, respectiv ale comisiilor de contestaţii care funcţionează în cadrul Ministerului Apărării Naţionale, Ministerului Administraţiei şi Internelor şi Serviciului Român de Informaţii nu împiedică accesul la justiţie. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 149 şi art. 151 alin. (1) şi (3) din Legea nr. 263/2010, excepţie ridicată de Sindicatul cadrelor militare disponibilizate în rezervă şi în retragere, în calitate de reprezentant al membrilor săi Emil Pătrăşcanu şi Gheorghe Ţuţuianu, în dosarele nr. 2.326/103/2011 şi nr. 2.334/103/2011 ale Curţii de Apel Bacău - Secţia I civilă, de Curtea de Apel Cluj - Secţia I civilă, din oficiu, în Dosarul nr. 9.354/117/2011 şi de Constantin Dumitrache în Dosarul nr. 7.401/120/2011 al Curţii de Apel Ploieşti - Secţia I civilă.",
+  "Prezenta decizie se comunică celor două Camere ale Parlamentului şi Guvernului.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "149",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-12-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143704",
+  "text_sha256": "b6ea9044975be7d831bfa50e447f71d091b8e24d7b31c650ad0ee37f9e59a844",
+  "catalogue_sha256": "b6ea9044975be7d831bfa50e447f71d091b8e24d7b31c650ad0ee37f9e59a844",
+  "fetched": "2026-11-03T04:10:42Z",
+  "chars": 26892,
+  "portal_id": "143704",
+  "tip": "DECIZIE"
+ }
+}
