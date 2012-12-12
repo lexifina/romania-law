@@ -1,0 +1,204 @@
+{
+ "key": "dcc-825-2012",
+ "label": "Decizia CCR nr. 825/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "825",
+ "date": "2012-10-11",
+ "year": "2012",
+ "heading": "DECIZIE nr. 825 din 11 octombrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 112^1 lit. c) şi ale art. 112^2 alin. (5) din Legea nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "837",
+  "bis": false,
+  "date": "2012-12-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "30/120/2010",
+  "342D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "112-1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "112-2",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 112^1 lit. c) şi ale art. 112^2 alin. (5) din Legea nr. 571/2003 privind Codul fiscal, excepţie ridicată de Societatea Comercială Cadmin Prod - S.R.L. din Târgovişte în Dosarul nr. 30/120/2010 al Tribunalului Dâmboviţa - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "104",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112-1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "112-2",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 346/2004",
+    "number": "346",
+    "year": "2004",
+    "path": "lege/2004/346"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-12-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143648",
+  "text_sha256": "91f63027a930a724f3e15de01c70c7fe7a6177fc82fb60c909a327b7e5c531bc",
+  "catalogue_sha256": "91f63027a930a724f3e15de01c70c7fe7a6177fc82fb60c909a327b7e5c531bc",
+  "fetched": "2026-11-03T04:10:45Z",
+  "chars": 8272,
+  "portal_id": "143648",
+  "tip": "DECIZIE"
+ }
+}
