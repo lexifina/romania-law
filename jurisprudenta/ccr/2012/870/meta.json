@@ -1,0 +1,145 @@
+{
+ "key": "dcc-870-2012",
+ "label": "Decizia CCR nr. 870/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "870",
+ "date": "2012-10-23",
+ "year": "2012",
+ "heading": "DECIZIE nr. 870 din 23 octombrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 3 pct. 27 din Legea nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "835",
+  "bis": false,
+  "date": "2012-12-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "17.787/4/2011",
+  "78D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 3 pct. 27 din Legea nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice, excepţie ridicată de Societatea Comercială \"Vitantis\" - S.R.L. din Bucureşti în Dosarul nr. 17.787/4/2011 al Judecătoriei Sectorului 4 Bucureşti - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-12-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143673",
+  "text_sha256": "4f79da8018d5a0c20ea7464a5fa68d58226383c0a20cc35d25051ae547c09654",
+  "catalogue_sha256": "4f79da8018d5a0c20ea7464a5fa68d58226383c0a20cc35d25051ae547c09654",
+  "fetched": "2026-11-03T04:10:38Z",
+  "chars": 9882,
+  "portal_id": "143673",
+  "tip": "DECIZIE"
+ }
+}
