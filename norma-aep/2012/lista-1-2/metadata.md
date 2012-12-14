@@ -1,0 +1,11 @@
+# Listă AEP nr. 1/2012
+
+Text withheld: this record names private persons and is not anonymised, so only its metadata is published here; the official text is at the source link.
+
+- Body: Autoritatea Electorală Permanentă
+- Type: LISTĂ
+- Number: 1
+- Date: 2012-12-13
+- Published: Monitorul Oficial nr. 847 of 2012-12-14
+- Category: list
+- Source: http://legislatie.just.ro/Public/DetaliiDocument/143804
