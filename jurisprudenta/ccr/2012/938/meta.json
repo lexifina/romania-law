@@ -1,0 +1,166 @@
+{
+ "key": "dcc-938-2012",
+ "label": "Decizia CCR nr. 938/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "938",
+ "date": "2012-11-13",
+ "year": "2012",
+ "heading": "DECIZIE nr. 938 din 13 noiembrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) din Legea nr. 287/2011 privind unele măsuri referitoare la organizarea activităţii de punere în executare a creanţelor aparţinând instituţiilor de credit şi instituţiilor financiare nebancare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "851",
+  "bis": false,
+  "date": "2012-12-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "339/45/2012",
+  "1.101D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2011",
+    "number": "287",
+    "year": "2011",
+    "path": "lege/2011/287"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1) din Legea nr. 287/2011 privind unele măsuri referitoare la organizarea activităţii de punere în executare a creanţelor aparţinând instituţiilor de credit şi instituţiilor financiare nebancare, excepţie ridicată de Vasile Onu în Dosarul nr. 339/45/2012 al Curţii de Apel Iaşi - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2011",
+    "number": "287",
+    "year": "2011",
+    "path": "lege/2011/287"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2012-12-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143844",
+  "text_sha256": "45e7af1770c47b99eab1c288128f8683ce20cf62245034b02e6c47d5463c55c2",
+  "catalogue_sha256": "45e7af1770c47b99eab1c288128f8683ce20cf62245034b02e6c47d5463c55c2",
+  "fetched": "2026-11-03T04:10:31Z",
+  "chars": 11295,
+  "portal_id": "143844",
+  "tip": "DECIZIE"
+ }
+}
