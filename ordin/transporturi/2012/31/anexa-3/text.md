@@ -1,0 +1,6 @@
+# Anexa 3
+ROMÂNIA MINISTERUL TRANSPORTURILOR COMPANIA NAȚIONALĂ DE AUTOSTRĂZI ȘI DRUMURI NAȚIONALE DIN ROMÂNIA - S.A. Direcția regională de drumuri și poduri................................. Lista nominală nr....... cuprinzând vehiculele utilizate pentru realizarea obiectivelor de investiții în infrastructura rutieră de transport de interes național Denumirea obiectivului:.................................................................................................................................................. Sectorul de drum autorizat:.............................................
+Nr.
+Nr. de înmatriculare
+Valabilitate crt. de la până la
+Prezenta lista nominală este valabilă numai în perioada, pe traseul și în condițiile înscrise în aceasta. Falsificarea prezentei liste nominale se pedepsește conform legilor. În cazul pierderii, furtului, deteriorării sau schimbării deținătorului pentru care a fost eliberată, prezenta lista nominală se consideră nulă. Vizat Constructor Vizat Consultant ------------------ ----------------- L.S. Emitent, S.S L.S. Emitent, S.S Emisă la data:.........../201.... Compania Națională de Autostrăzi și Drumuri Naționale - S.A. Direcția Regională de Drumuri și Poduri................... L.S. Emitent, S.S ----
