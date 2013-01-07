@@ -1,0 +1,199 @@
+{
+ "key": "dcc-896-2012",
+ "label": "Decizia CCR nr. 896/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "896",
+ "date": "2012-10-25",
+ "year": "2012",
+ "heading": "DECIZIE nr. 896 din 25 octombrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2 din Ordonanţa de urgenţă a Guvernului nr. 32/2011 pentru modificarea şi completarea unor acte normative din domeniul sănătăţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "10",
+  "bis": false,
+  "date": "2013-01-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.426/54/2011",
+  "1.090D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 32/2011",
+    "number": "32",
+    "year": "2011",
+    "path": "oug/2011/32"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată excepţia de neconstituţionalitate a dispoziţiilor art. I pct. 2 din Ordonanţa de urgenţă a Guvernului nr. 32/2011 pentru modificarea şi completarea unor acte normative din domeniul sănătăţii, excepţie ridicată de Oraşul Strehaia, prin primar Samion Burcu, în Dosarul nr. 2.426/54/2011 al Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 32/2011",
+    "number": "32",
+    "year": "2011",
+    "path": "oug/2011/32"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 212/2011",
+    "number": "212",
+    "year": "2011",
+    "path": "hg/2011/212"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 345/2011",
+    "number": "345",
+    "year": "2011",
+    "path": "hg/2011/345"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-01-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/144374",
+  "text_sha256": "d02c0f943e34a6da28eaaf45bacc7bf84eddfb46644e6855a7ee200a831dccbe",
+  "catalogue_sha256": "d02c0f943e34a6da28eaaf45bacc7bf84eddfb46644e6855a7ee200a831dccbe",
+  "fetched": "2026-11-03T04:09:59Z",
+  "chars": 13907,
+  "portal_id": "144374",
+  "tip": "DECIZIE"
+ }
+}
