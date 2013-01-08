@@ -1,0 +1,9 @@
+# Anexa 3
+------- (Anexa nr. 125 la Ordinul nr. 490/2008) --------------------------------------- INSPECTORATUL DE JANDARMI JUDEȚEAN DOLJ Însemnul heraldic al Inspectoratului de Jandarmi Județean Dolj din cadrul Jandarmeriei Române va păstra în compoziție elemente din stema Ministerului Administrației și Internelor, după cum urmează: pe fond albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, iar în stânga o ramură de măslin verde. Pe pieptul acvilei, un alt scut, de dimensiuni mai mici, despicat: 1. pe albastru, un leu de aur, conturnat, încoronat cu o coroană deschisă cu 3 fleuroane în formă de treflă, de asemenea, de aur, limbat și armat roșu, ținând cu laba dreaptă anterioară de mâner și cu cea stângă de lamă o spadă de același metal, poziționată în pal; 2. pe roșu, un romb de argint, ieșind dintr-o cunună compusă din 3 frunze de stejar de aur, purtând în centru litera J stilizată, scrisă cu negru. În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: LEX ET ORDO (LEGE ȘI ORDINE). În exergă, între două cercuri liniare aurii, pe fond albastru, legenda scrisă cu litere majuscule, de asemenea, aurii: * INSPECTORATUL DE JANDARMI JUDEȚEAN * DOLJ. Semnificația elementelor însumate:
+a) romb - viață, prosperitate, recompensă, cântece de laudă;
+b) litera J - sigla care desemnează încă din secolul al XIX-lea Jandarmeria Română;
+c) cununa din frunze de stejar - forța, puterea, autoritate veche;
+d) leul încoronat cu spada - elemente preluate din stema județului Dolj pe teritoriul căruia unitatea își desfășoară activitatea;
+e) limba și ghearele roșii - forța unității.
+Reprezentarea grafică a "Însemnului heraldic al Inspectoratului de Jandarmi Județean Dolj" se găsește în Monitorul Oficial al României, Partea I, nr. 12 din 8 ianuarie 2013, la pagina 9 (a se vedea imaginea asociată).
+------

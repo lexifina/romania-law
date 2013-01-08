@@ -1,0 +1,8 @@
+# Anexa 2
+------- (Anexa nr. 124 la Ordinul nr. 490/2008) --------------------------------------- DIRECȚIA GENERALĂ PENTRU COMUNICAȚII ȘI TEHNOLOGIA INFORMAȚIEI Însemnul heraldic al Direcției Generale pentru Comunicații și Tehnologia Informației va păstra în compoziție elemente din stema Ministerului Administrației și Internelor, după cum urmează: în scutul exterior, pe albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, iar în stânga o ramură de măslin verde. Pe pieptul acvilei este un alt scut, de dimensiuni mai mici, împărțit în furcă răsturnată: 1. pe roșu, o cheie de aur poziționată în pal; 2. pe argint, o turtă albastră, având pe ea un triunghi vidat (delta), de argint; 3. pe albastru, un bezant de argint, de la care pornesc 3 fulgere de același metal, poziționate în furcă răsturnată. În partea inferioară, sub acvilă, deviza scrisă cu litere majuscule, de culoare neagră, pe o eșarfă albă: COMUNICAȚII SIGURE. Semnificația elementelor însumate:
+a) cheia - siguranță, putere; capacitatea unității de a proteja informația în format electronic;
+b) turta albastră - globul pământesc;
+c) triunghiul delta - putere, stabilitate, legătura dintre om, tehnologie și mediu; tehnologia informației;
+d) bezantul - unitate, perfecțiune; nodul de comunicații al Ministerului Administrației și Internelor;
+e) fulgerele - emisia electromagnetică în toate mediile.
+Reprezentarea grafică a "Însemnului heraldic al Direcției Generale pentru Comunicații și Tehnologia Informației" se găsește în Monitorul Oficial al României, Partea I, nr. 12 din 8 ianuarie 2013, la pagina 9 (a se vedea imaginea asociată).
