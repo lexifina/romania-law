@@ -1,0 +1,239 @@
+{
+ "key": "dcc-957-2012",
+ "label": "Decizia CCR nr. 957/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "957",
+ "date": "2012-11-20",
+ "year": "2012",
+ "heading": "DECIZIE nr. 957 din 20 noiembrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 31 alin. (1) şi (2) din Legea nr. 45/2009 privind organizarea şi funcţionarea Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\" şi a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii şi industriei alimentare, precum şi a prevederilor anexei nr. 3.35, cu referire la imobilul din Băneasa-Bucureşti, parcela 696",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "25",
+  "bis": false,
+  "date": "2013-01-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "13.954/299/2007/a1",
+  "902D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 31 alin. (1) şi (2) din Legea nr. 45/2009 privind organizarea şi funcţionarea Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\" şi a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii şi industriei alimentare, precum şi a prevederilor anexei nr. 3.35, cu referire la imobilul din Băneasa-Bucureşti, parcela 696, excepţie invocată de Petru Bleancă în Dosarul nr. 13.954/299/2007/a1 al Curţii de Apel Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2011",
+    "number": "72",
+    "year": "2011",
+    "path": "lege/2011/72"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 13/1998",
+    "number": "13",
+    "year": "1998",
+    "path": "oug/1998/13"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-01-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/144589",
+  "text_sha256": "45335982d1712b4fd6762264f5793cb8d93934f32224b46cc5228226a8b07404",
+  "catalogue_sha256": "45335982d1712b4fd6762264f5793cb8d93934f32224b46cc5228226a8b07404",
+  "fetched": "2026-11-03T04:09:51Z",
+  "chars": 18945,
+  "portal_id": "144589",
+  "tip": "DECIZIE"
+ }
+}
