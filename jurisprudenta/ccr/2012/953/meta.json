@@ -1,0 +1,238 @@
+{
+ "key": "dcc-953-2012",
+ "label": "Decizia CCR nr. 953/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "953",
+ "date": "2012-11-13",
+ "year": "2012",
+ "heading": "DECIZIE*) nr. 953 din 13 noiembrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor, precum şi a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 59/2011 pentru stabilirea unor măsuri în domeniul pensiilor prevăzute la art. 1 lit. c)-h) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "37",
+  "bis": false,
+  "date": "2013-01-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.877/83/2011",
+  "1.349D/2012",
+  "1.350D/2012",
+  "6.882/83/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 59/2011",
+    "number": "59",
+    "year": "2011",
+    "path": "oug/2011/59"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor, precum şi a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 59/2011 pentru stabilirea unor măsuri în domeniul pensiilor prevăzute la art. 1 lit. c)-h) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor, excepţie ridicată de Maria Luţaş şi, respectiv, Maria Aniţaş în dosarele nr. 6.877/83/2011 şi, respectiv, nr. 6.882/83/2011 ale Tribunalului Satu Mare - Secţia I civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 59/2011",
+    "number": "59",
+    "year": "2011",
+    "path": "oug/2011/59"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-01-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/144710",
+  "text_sha256": "2e50a65c9a0a52b8754bb34c7e2b32283479f91a09d294cd7f3bd4c629896c84",
+  "catalogue_sha256": "2e50a65c9a0a52b8754bb34c7e2b32283479f91a09d294cd7f3bd4c629896c84",
+  "fetched": "2026-11-03T04:09:42Z",
+  "chars": 17434,
+  "portal_id": "144710",
+  "tip": "DECIZIE"
+ }
+}
