@@ -1,0 +1,265 @@
+{
+ "key": "iccj-ril-19-2012",
+ "label": "Decizia ÎCCJ nr. 19/2012 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "19",
+ "date": "2012-12-10",
+ "year": "2012",
+ "heading": "DECIZIE nr. 19 din 10 decembrie 2012",
+ "subtitle": "privind recursurile în interesul legii, referitoare la interpretarea şi aplicarea prevederilor art. 2 lit. e) şi art. 164 alin. (2) şi (3) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale şi pct. V din anexa la Ordonanţa de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "51",
+  "bis": false,
+  "date": "2013-01-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "18/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "164",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii declarate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi Colegiul de conducere al Curţii de Apel Craiova şi stabileşte că:",
+  "În interpretarea şi aplicarea prevederilor art. 2 lit. e) şi art. 164 alin. (2) şi (3) din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale şi pct. V din anexa la Ordonanţa de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public, provenite din fostul sistem al asigurărilor sociale de stat, sporurile şi alte venituri suplimentare realizate anterior datei de 1 aprilie 2001 vor fi luate în considerare la stabilirea şi recalcularea pensiilor din sistemul public dacă au fost incluse în baza de calcul conform legislaţiei anterioare, sunt înregistrate în carnetul de muncă sau în adeverinţele eliberate de unităţi, conform legislaţiei în vigoare, şi pentru acestea s-a plătit contribuţia de asigurări sociale.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "164",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 52
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea retribuirii după cantitatea şi calitatea muncii nr. 57/1974",
+    "number": "57",
+    "year": "1974",
+    "path": "lege/1974/57"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 389/1972",
+    "number": "389",
+    "year": "1972",
+    "path": "decret/1972/389"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 49/1992",
+    "number": "49",
+    "year": "1992",
+    "path": "lege/1992/49"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-01-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/144874",
+  "text_sha256": "a75ec5205bd6b2135249c115272d9dc51a202057c217f39aea5bc5a5c9dba00c",
+  "catalogue_sha256": "a75ec5205bd6b2135249c115272d9dc51a202057c217f39aea5bc5a5c9dba00c",
+  "fetched": "2026-11-03T04:09:34Z",
+  "chars": 44012,
+  "portal_id": "144874",
+  "tip": "DECIZIE"
+ }
+}
