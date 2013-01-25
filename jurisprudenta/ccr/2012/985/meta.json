@@ -1,0 +1,284 @@
+{
+ "key": "dcc-985-2012",
+ "label": "Decizia CCR nr. 985/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "985",
+ "date": "2012-11-22",
+ "year": "2012",
+ "heading": "DECIZIE nr. 985 din 22 noiembrie 2012",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 18 din Legea nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "58",
+  "bis": false,
+  "date": "2013-01-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.105D/2012",
+  "5.856/62/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 18 din Legea nr. 571/2003 privind Codul fiscal, excepţie ridicată de Corneliu Andrieş în Dosarul nr. nr. 5.856/62/2011 al Tribunalului Braşov - Secţia comercială şi de contencios administrativ.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2009",
+    "number": "34",
+    "year": "2009",
+    "path": "oug/2009/34"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "hg/2002/656"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenţei nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 346/2004",
+    "number": "346",
+    "year": "2004",
+    "path": "lege/2004/346"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 87/2010",
+    "number": "87",
+    "year": "2010",
+    "path": "oug/2010/87"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-01-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/144961",
+  "text_sha256": "c45ccecc63f755957d836e99a6b9eec4f5ee97e03af3110aca05778f3f67c9ad",
+  "catalogue_sha256": "c45ccecc63f755957d836e99a6b9eec4f5ee97e03af3110aca05778f3f67c9ad",
+  "fetched": "2026-11-03T04:09:30Z",
+  "chars": 17908,
+  "portal_id": "144961",
+  "tip": "DECIZIE"
+ }
+}
