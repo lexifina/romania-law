@@ -1,0 +1,164 @@
+{
+ "key": "dcc-1094-2012",
+ "label": "Decizia CCR nr. 1094/2012",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "1094",
+ "date": "2012-12-20",
+ "year": "2012",
+ "heading": "DECIZIE nr. 1.094 din 20 decembrie 2012",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a Hotărârii Parlamentului nr. 44/2012 privind numirea unor membri ai Consiliului Naţional al Audiovizualului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "65",
+  "bis": false,
+  "date": "2013-01-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea de neconstituţionalitate a Hotărârii Parlamentului României nr. 44/2012 privind numirea unor membri ai Consiliului Naţional al Audiovizualului, formulată de 53 de deputaţi aparţinând Grupului parlamentar al Partidului Democrat Liberal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedinţilor celor două Camere ale Parlamentului şi se publică în Monitorul Oficial al României, Partea I.",
+  "Dezbaterile au avut loc în datele de 12 decembrie 2012 şi 20 decembrie 2012 şi la acestea au participat: Augustin Zegrean, preşedinte, Aspazia Cojocaru, Acsinte Gaspar, Petre Lăzăroiu, Mircea Ştefan Minea, Iulia Antoanella Motoc, Ion Predescu, Puskas Valentin Zoltan şi Tudorel Toader, judecători."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea audiovizualului nr. 504/2002",
+    "number": "504",
+    "year": "2002",
+    "path": "lege/2002/504"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 402/2003",
+    "number": "402",
+    "year": "2003",
+    "path": "lege/2003/402"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/145062",
+  "text_sha256": "fdd1e47314ef8a77990c3418b6ff2c125b44e0fc2859884284273c697da3f44e",
+  "catalogue_sha256": "fdd1e47314ef8a77990c3418b6ff2c125b44e0fc2859884284273c697da3f44e",
+  "fetched": "2026-11-03T04:09:26Z",
+  "chars": 18147,
+  "portal_id": "145062",
+  "tip": "DECIZIE"
+ }
+}
