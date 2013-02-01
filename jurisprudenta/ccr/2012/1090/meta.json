@@ -1,0 +1,207 @@
+{
+ "key": "dcc-1090-2012",
+ "label": "Decizia CCR nr. 1090/2012",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "1090",
+ "date": "2012-12-18",
+ "year": "2012",
+ "heading": "DECIZIE nr. 1.090 din 18 decembrie 2012",
+ "subtitle": "asupra excepţiei de neconstituţionalitate a dispoziţiilor art. 8 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "71",
+  "bis": false,
+  "date": "2013-02-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.451/2/2011",
+  "1.392D/2012",
+  "4.408/120/2012",
+  "15.450/99/2011/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 8 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice, excepţie ridicată de Mihaela Moise, Mihaela Buga, Simona Aura Gratie, Livia Elena Andrei, Cristina Antonescu, Ioana Alexandra Avram, Anca Baniţa, Cristiana Barbu, Violeta Beligeanu, Anda Camelia Ciorobea, Rodica Constantin, Ileana Valentina Cerban, Liliana Davidescu, Irina Maria Drăgan, Camelia Valerica Drăgoi, Simona Dumitrescu, Adriana Maria Duţă, Georgiana Ene, Daniela Gomoiu, Mihaela Roxana Gheorghe, Ioana Grigorescu, Ramona Talida Halîngă (Cretan), Daniela Hurduială, Alina Adriana Ioan, Cristina Ion, Mariana Ioniţă, Georgeta Ilie, Gabriela Ivănescu, Carmen Joiţa, Diana Maria Lăpădat (Tănasie), Irina Ileana Ivănescu, Elisabeta Lungan, Cristiana Florina Lupu, Georgeta Marinescu, Ioana Micşă, Afrodita Beatrice Nedelcu, Gina Georgiana Nistor, Rodica Pană, Elena Ramona Niţă, Roxana Pascu, Laura Popescu, Elena Sârghie, Liliana Florentina Stan, Cristina Dubaciu, Puşa Magdalena Stoian, Mihaela Teişanu, Aurelia Telea, Narcisa Trandaburu, Florian Vasilescu, Elena Enache (Botezatu), Cosmin Mihael Constantin, Luminiţa Vasilica Costea, Elena Mădălina Croitoru, Ştefania Ene, RoxanaMihaela Frâncu, Sorina Corina Iacob, Mirela Rodica Stoica, Roxana Mihaela Dobroiu, Cornelia Cristache, Florentina Dinu, Niculina Gheorghe, Elena Marin, Eugenia Marin şi Marian Harcan în Dosarul nr. 3.451/2/2011 al Tribunalului Prahova - Secţia a II-a civilă, contencios administrativ şi fiscal, de Loredana Frăţilescu, Camelia Băjenare (fostă Neagoe), Valentina Brici, Elena Cucui, Sorina Tănase, Ramona Burcea, Carmen Mihaela Chivu, Valentina Dragomir, Mihai Păncescu, Dorina Negescu, Mirabela Marghiolu, Doina Lăzărescu, Elena Duţu, Ioana Laslo, Mariana Preda, Laurenţiu Blebea şi Vasile Simion în Dosarul nr. 4.408/120/2012 al Tribunalului Dâmboviţa - Secţia I civilă şi de Roxana Gabriela Hodorogea, Vasile Bursuc şi Dănuţ Burliac în Dosarul nr. 15.450/99/2011/a1 al Tribunalului Iaşi - Secţia I civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": [
+      "w"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/145114",
+  "text_sha256": "637716a144871ba260551198cc8f166982c9033d04ced778f8edcd455db767f2",
+  "catalogue_sha256": "637716a144871ba260551198cc8f166982c9033d04ced778f8edcd455db767f2",
+  "fetched": "2026-11-03T04:09:15Z",
+  "chars": 16342,
+  "portal_id": "145114",
+  "tip": "DECIZIE"
+ }
+}
