@@ -1,0 +1,269 @@
+{
+ "key": "dcc-19-2013",
+ "label": "Decizia CCR nr. 19/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "19",
+ "date": "2013-01-22",
+ "year": "2013",
+ "heading": "DECIZIE nr. 19 din 22 ianuarie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) şi (4) din Ordonanţa de urgenţă a Guvernului nr. 47/2011 privind reglementarea situaţiei juridice a unor săli şi grădini de spectacol cinematografic, precum şi a altor imobile, cu referire la anexa nr. 1 care face parte integrantă din Ordonanţa de urgenţă a Guvernului nr. 47/2011, precum şi ale prevederilor art. 1 alin. (2) din aceeaşi ordonanţă de urgenţă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "84",
+  "bis": false,
+  "date": "2013-02-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "5.946/98/2010",
+  "976D/2012",
+  "17.758/3/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 47/2011",
+    "number": "47",
+    "year": "2011",
+    "path": "oug/2011/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate ridicată de Municipiul Slobozia, prin primar, în Dosarul nr. 5.946/98/2010 al Curţii de Apel Galaţi - Secţia de contencios administrativ şi fiscal şi constată că prevederile art. 1 alin. (1) şi (4) din Ordonanţa de urgenţă a Guvernului nr. 47/2011 privind reglementarea situaţiei juridice a unor săli şi grădini de spectacol cinematografic, precum şi a altor imobile, cu referire la imobilele menţionate la poziţiile nr. 1-12, nr. 14-91, nr. 93-156 şi nr. 158-166 din anexa nr. 1 care face parte integrantă din Ordonanţa de urgenţă a Guvernului nr. 47/2011, precum şi cele ale art. 1 alin. (2) din aceeaşi ordonanţă de urgenţă sunt neconstituţionale. 2. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1) şi (4) din Ordonanţa de urgenţă a Guvernului nr. 47/2011 privind reglementarea situaţiei juridice a unor săli şi grădini de spectacol cinematografic, precum şi a altor imobile, cu referire la imobilele menţionate la poziţiile nr. 13, nr. 92 şi nr. 157 din anexa nr. 1 care face parte integrantă din Ordonanţa de urgenţă a Guvernului nr. 47/2011.",
+  "Definitivă şi general obligatorie.",
+  "Prezenta decizie se comunică celor două Camere ale Parlamentului şi Guvernului."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 47/2011",
+    "number": "47",
+    "year": "2011",
+    "path": "oug/2011/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2008",
+    "number": "303",
+    "year": "2008",
+    "path": "lege/2008/303"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 39/2005",
+    "number": "39",
+    "year": "2005",
+    "path": "og/2005/39"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 7/2008",
+    "number": "7",
+    "year": "2008",
+    "path": "oug/2008/7"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 328/2006",
+    "number": "328",
+    "year": "2006",
+    "path": "lege/2006/328"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 74/2011",
+    "number": "74",
+    "year": "2011",
+    "path": "oug/2011/74"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-02-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/145395",
+  "text_sha256": "305d17c5605bc2bdadda64ea60bb6a0acd14c87188931816ec5e110043d0a6d8",
+  "catalogue_sha256": "305d17c5605bc2bdadda64ea60bb6a0acd14c87188931816ec5e110043d0a6d8",
+  "fetched": "2026-11-03T04:08:56Z",
+  "chars": 31894,
+  "portal_id": "145395",
+  "tip": "DECIZIE"
+ }
+}
