@@ -1,0 +1,6 @@
+ HOTĂRÂRE nr. 9 din 7 februarie 2013  privind constituirea Delegaţiei permanente a Parlamentului României la Adunarea Parlamentară a Mediteranei     EMITENT     PARLAMENTUL       Publicat în
+			  MONITORUL OFICIAL nr. 88 din 11 februarie 2013     Parlamentul României adoptă prezenta hotărâre.
+				 +
+			  Articolul UNIC     Se constituie Delegaţia permanentă a Parlamentului României la Adunarea Parlamentară a Mediteranei, cu statut de membru asociat, potrivit anexei care face parte integrantă din prezenta hotărâre.  Această hotărâre a fost adoptată de Camera Deputaţilor şi de Senat în şedinţa comună din 7 februarie 2013, cu respectarea prevederilor art. 76 alin. (2) din Constituţia României, republicată.  PREŞEDINTELE CAMEREI DEPUTAŢILOR  VALERIU-ŞTEFAN ZGONEA  PREŞEDINTELE SENATULUI  GEORGE-CRIN LAURENŢIU ANTONESCU  Bucureşti, 7 februarie 2013.  Nr. 9.
+				 +
+			  Anexa       COMPONENŢA NOMINALĂ  a Delegaţiei permanente a Parlamentului României  la Adunarea Parlamentară a Mediteranei  1. Dolineaschi Andrei, deputat, Grupul parlamentar al PSD  2. Roşca-Stănescu Sorin-Ştefan, senator, Grupul parlamentar al PNL  3. Gorghiu Alina Ştefania, deputat, Grupul parlamentar al PNL  4. Dumitru Ioana-Jenica, deputat, Grupul parlamentar al PP-DD  -------
