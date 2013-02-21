@@ -1,0 +1,269 @@
+{
+ "key": "dcc-20-2013",
+ "label": "Decizia CCR nr. 20/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "20",
+ "date": "2013-01-23",
+ "year": "2013",
+ "heading": "DECIZIE nr. 20 din 23 ianuarie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 din Ordonanţa de urgenţă a Guvernului nr. 9/2008 pentru stabilirea tarifului lunar al chiriei pe mý care se aplică pentru închirierea locuinţelor şi terenului aferent acestora, aflate în domeniul public şi privat al statului, administrate de Regia Autonomă \"Administraţia Patrimoniului Protocolului de Stat\"",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "104",
+  "bis": false,
+  "date": "2013-02-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.988/299/2009",
+  "1.395D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 9/2008",
+    "number": "9",
+    "year": "2008",
+    "path": "oug/2008/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 1 din Ordonanţa de urgenţă a Guvernului nr. 9/2008 pentru stabilirea tarifului lunar al chiriei pe mý care se aplică pentru închirierea locuinţelor şi terenului aferent acestora, aflate în domeniul public şi privat al statului, administrate de Regia Autonomă \"Administraţia Patrimoniului Protocolului de Stat\", excepţie invocată de Dumitru Cristea în Dosarul nr. 4.988/299/2009 al Judecătoriei Sectorului 1 Bucureşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "oug/1998/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 9/2008",
+    "number": "9",
+    "year": "2008",
+    "path": "oug/2008/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinţei nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 17/1994",
+    "number": "17",
+    "year": "1994",
+    "path": "lege/1994/17"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 40/1999",
+    "number": "40",
+    "year": "1999",
+    "path": "oug/1999/40"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-02-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/145663",
+  "text_sha256": "082ccf4bcec49f45eb60bc0e291a83edd028c926179b2b58c3c53114e17659ea",
+  "catalogue_sha256": "082ccf4bcec49f45eb60bc0e291a83edd028c926179b2b58c3c53114e17659ea",
+  "fetched": "2026-11-04T11:49:44Z",
+  "chars": 21525,
+  "portal_id": "145663",
+  "tip": "DECIZIE"
+ }
+}
