@@ -1,0 +1,13 @@
+# Anexa
+----- la procedură ------------ MODELUL ștampilei care se aplică pe cupoanele de transport
+Rezervistul are dreptul să circule pe orice
+distanță, indiferent de categoria/rangul
+mijlocului de transport, astfel:
+a) auto, feroviar și naval la clasa......
+b) aerian la clasa economic.
+COMANDANTUL C.M..........
+.........
+(gradul)
+.............................
+(semnătura și ștampila)
+NOTĂ: Dimensiunile ștampilelor se aleg astfel încât să permită aplicarea pe verso la cupoanele de transport a textului conținut; ștampila se aplică pe toate exemplarele cupoanelor de transport imprimate pe ordinul de chemare, prevederile de clasă ale mijlocului de transport înscriindu-se potrivit art. 8 din procedură, fiind certificate prin semnătură și ștampilă de către comandantul centrului militar. -------
