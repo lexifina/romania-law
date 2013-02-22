@@ -1,0 +1,175 @@
+{
+ "key": "dcc-16-2013",
+ "label": "Decizia CCR nr. 16/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "16",
+ "date": "2013-01-22",
+ "year": "2013",
+ "heading": "DECIZIE nr. 16 din 22 ianuarie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. II din Ordonanţa de urgenţă a Guvernului nr. 36/2010 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 158/2005 privind concediile şi indemnizaţiile de asigurări sociale de sănătate",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "107",
+  "bis": false,
+  "date": "2013-02-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.023/97/2011",
+  "1.219D/2012",
+  "3.887/97/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 36/2010",
+    "number": "36",
+    "year": "2010",
+    "path": "oug/2010/36"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. II din Ordonanţa de urgenţă a Guvernului nr. 36/2010 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 158/2005 privind concediile şi indemnizaţiile de asigurări sociale de sănătate, excepţie ridicată de Societatea Comercială \"Diana Turism\" - S.R.L. Deva în Dosarul nr. 4.023/97/2011 al Curţii de Apel Alba Iulia - Secţia pentru conflicte de muncă şi asigurări sociale, precum şi de către Societatea Comercială \"Optim Sig Instal\" - S.R.L. Deva şi Societatea Comercială \"Ţara Haţegului\" - S.A. Haţeg în dosarele nr. 4.028/97/2011 şi, respectiv, nr. 3.887/97/2011 ale aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 36/2010",
+    "number": "36",
+    "year": "2010",
+    "path": "oug/2010/36"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 158/2005",
+    "number": "158",
+    "year": "2005",
+    "path": "oug/2005/158"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-02-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/145706",
+  "text_sha256": "e9daa0672dbb5e9fdbe7cb7334d3d13d906eeb1e00c37c1fbe7e534a293c58fe",
+  "catalogue_sha256": "e9daa0672dbb5e9fdbe7cb7334d3d13d906eeb1e00c37c1fbe7e534a293c58fe",
+  "fetched": "2026-11-03T04:08:42Z",
+  "chars": 14119,
+  "portal_id": "145706",
+  "tip": "DECIZIE"
+ }
+}
