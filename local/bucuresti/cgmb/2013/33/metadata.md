@@ -1,0 +1,11 @@
+# HCGMB nr. 33/2013
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 33/2013
+- Adopted: 2013-02-25
+- Title: PRIVIND APROBAREA TRANSMITERII A 12 SPATII DIN ADMINISTRAREA ADMINISTRATIEI FONDULUI IMOBILIAR IN ADMINISTRAREA DIRECTIEI GENERALE DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI, IN VEDEREA AMENAJARII UNOR CENTRE DE INGRIJIRE SI EDUCATIE TIMPURIE IN CADRUL PROIECTULUI POSDRU/71/6.3/S/41699 "MAI MULTE CENTRE DE INGRIJIRE PENTRU COPILUL TAU, MAI MULTE OPORTUNITATI DE ANGAJARE PENTRU TINE", CANTINE SOCIALE SI POLICLINICA SOCIALA
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32148
+- Document: https://doc.pmb.ro/legis/acteinterne/2013/32148/H033_2013.pdf
+- Document sha256: 4b5522700d82067b9a209046b43639e41882858138c827d262b1ec7320bcb949
