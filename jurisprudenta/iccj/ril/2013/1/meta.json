@@ -1,0 +1,234 @@
+{
+ "key": "iccj-ril-1-2013",
+ "label": "Decizia ÎCCJ nr. 1/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "1",
+ "date": "2013-01-21",
+ "year": "2013",
+ "heading": "DECIZIE nr. 1 din 21 ianuarie 2013",
+ "subtitle": "privind recursul în interesul legii, privind interpretarea şi aplicarea unitară a dispoziţiilor art. 28 alin. (2) din Legea sindicatelor nr. 54/2003",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SA JUDECE RECURSUL IN INTERESUL LEGII",
+ "mo": {
+  "number": "118",
+  "bis": false,
+  "date": "2013-03-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "19/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea sindicatelor nr. 54/2003",
+    "number": "54",
+    "year": "2003",
+    "path": "lege/2003/54"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii declarate de prim-adjunctul procurorului general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi Colegiul de conducere al Curţii de Apel Braşov şi, în consecinţă:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 28 alin. (2) din Legea sindicatelor nr. 54/2003 (în prezent abrogată prin Legea dialogului social nr. 62/2011) stabileşte că organizaţiile sindicale au calitate procesuală activă în acţiunile promovate în numele membrilor de sindicat.",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 269 alin. (2) (fost art. 284 alin. 2) din Codul muncii, republicat, cu modificările şi completările ulterioare, instanţa competentă teritorial în soluţionarea conflictelor de muncă în cazul acestor acţiuni este cea de la sediul sindicatului reclamant.",
+  "Obligatorie, potrivit art. 330^7 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea sindicatelor nr. 54/2003",
+    "number": "54",
+    "year": "2003",
+    "path": "lege/2003/54"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "219",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "224",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 40/2011",
+    "number": "40",
+    "year": "2011",
+    "path": "lege/2011/40"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "mo: date 2013-03-01 vs catalogue DataVigoare 2013-01-31"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-03-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/145846",
+  "text_sha256": "18ea0f29fc04e9f908ec3ff1ee069939e61c63124a586e28f1a3c6d2bd55d707",
+  "catalogue_sha256": "18ea0f29fc04e9f908ec3ff1ee069939e61c63124a586e28f1a3c6d2bd55d707",
+  "fetched": "2026-11-03T04:08:33Z",
+  "chars": 21409,
+  "portal_id": "145846",
+  "tip": "DECIZIE"
+ }
+}
