@@ -1,0 +1,291 @@
+{
+ "key": "dcc-81-2013",
+ "label": "Decizia CCR nr. 81/2013",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "81",
+ "date": "2013-02-27",
+ "year": "2013",
+ "heading": "DECIZIE nr. 81 din 27 februarie 2013",
+ "subtitle": "asupra obiecţiei de neconstituţionalitate a Legii pentru modificarea şi completarea Legii nr. 96/2006 privind Statutul deputaţilor şi al senatorilor, în ansamblul său, precum şi, în mod special, a dispoziţiilor art. I pct. 3 (referitoare la modificarea art. 7) şi ale art. I pct. 14 (referitoare la introducerea art. 19^1) din lege",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "136",
+  "bis": false,
+  "date": "2013-03-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "103A/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru modificarea şi completarea Legii nr. 96/2006 privind Statutul deputaţilor şi al senatorilor, în ansamblul său, precum şi, în mod special, a dispoziţiilor art. I pct. 3 (referitoare la modificarea art. 7) şi ale art. I pct. 14 (referitoare la introducerea art. 19^1) din lege"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Admite obiecţia de neconstituţionalitate şi constată, în raport cu criticile formulate, că dispoziţiile Legii pentru modificarea şi completarea Legii nr. 96/2006 privind Statutul deputaţilor şi al senatorilor sunt neconstituţionale după cum urmează: - art. I pct. 3, în ceea ce priveşte art. 7 alin. (2) lit. d) din legea astfel cum a fost modificată, referitor la termenul de 45 de zile în care deputatul sau senatorul poate contesta la instanţa de contencios administrativ raportul de evaluare al Agenţiei Naţionale de Integritate; - art. I pct. 14, în ceea ce priveşte art. 19^1 alin. (1) şi (2) referitor la \"Conflictul de interese\".",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului şi prim-ministrului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "19-1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 176/2010",
+    "number": "176",
+    "year": "2010",
+    "path": "lege/2010/176"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-03-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/146110",
+  "text_sha256": "dfd4653e6414a1e9aee8ed2100c9aba9e81eb9da919e4b6912a7f3647c34469a",
+  "catalogue_sha256": "dfd4653e6414a1e9aee8ed2100c9aba9e81eb9da919e4b6912a7f3647c34469a",
+  "fetched": "2026-11-05T06:25:59Z",
+  "chars": 62261,
+  "portal_id": "146110",
+  "tip": "DECIZIE"
+ }
+}
