@@ -1,0 +1,119 @@
+{
+ "key": "cedo-54247-07-2012-10-23",
+ "label": "CEDO, Ghiţă c. României, 2012-10-23",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-10-23",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 23 octombrie 2012",
+ "subtitle": "în Cauza Ghiţă împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "151",
+  "bis": false,
+  "date": "2013-03-21",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "54247/07"
+ ],
+ "case_name": "Ghiţă",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară plângerea pe baza art. 3 din Convenţie admisibilă, iar restul cererii inadmisibilă; 2. reţine că a existat o încălcare a aspectelor substanţiale şi procedurale ale art. 3 din Convenţie; 3. reţine",
+  "a) că statul pârât urmează să plătească reclamantului, în termen de 3 luni de la data la care hotărârea devine definitivă conform art. 44 § 2 din Convenţie, următoarele sume care se vor converti în moneda naţională a statului răspunzător la rata de schimb în vigoare la data efectuării plăţii:",
+  "(i) 10.000 EUR (zece mii de euro) plus eventualele taxe aferente, ca daune morale; (îi) 3.000 EUR (trei mii de euro) plus eventualele taxe aferente care ar reveni reclamantului, pentru costuri şi cheltuieli;",
+  "b) că, de la expirarea celor 3 luni sus-menţionate până la efectuarea plăţii, se va plăti o dobândă simplă la sumele susmenţionate la o rată egală cu rata marginală de împrumut a Băncii Centrale Europene pentru perioada de neîndeplinire a obligaţiilor plus 3 puncte procentuale;",
+  "4. respinge restul pretenţiilor reclamantului de a obţine o satisfacţie echitabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/146244",
+  "text_sha256": "01811a2c26d6a172c2c309dc9aee822922a0b5a8f942e8fe5c44665a27d21b0c",
+  "catalogue_sha256": "01811a2c26d6a172c2c309dc9aee822922a0b5a8f942e8fe5c44665a27d21b0c",
+  "fetched": "2026-11-03T04:08:11Z",
+  "chars": 28917,
+  "portal_id": "146244",
+  "tip": "HOTĂRÂRE"
+ }
+}
