@@ -1,0 +1,306 @@
+{
+ "key": "dcc-27-2013",
+ "label": "Decizia CCR nr. 27/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "27",
+ "date": "2013-02-05",
+ "year": "2013",
+ "heading": "DECIZIE nr. 27 din 5 februarie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1, 2, 7-11, 13, 15 şi art. 24 din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, precum şi ale ordonanţei de urgenţă, în ansamblul său",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "150",
+  "bis": false,
+  "date": "2013-03-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "5.015/2/2011",
+  "9.969/2/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 2 lit. b) teza întâi din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, în privinţa sintagmelor \"indiferent sub ce formă\" şi \"relatări verbale consemnate de lucrătorii Securităţii\", excepţie ridicată de Ioan Savonia în Dosarul nr. 5.015/2/2011 şi de Gheorghe Manea în Dosarul nr. 9.969/2/2010, dosare ale Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a celorlalte prevederi ale Ordonanţei de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii, excepţie ridicată de aceiaşi autori în aceleaşi dosare ale aceleiaşi instanţe judecătoreşti.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/1999",
+    "number": "187",
+    "year": "1999",
+    "path": "lege/1999/187"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-03-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/146230",
+  "text_sha256": "06eafc39b04f67a87f5463c97634a4ae897692209529df9292d093e762f91574",
+  "catalogue_sha256": "06eafc39b04f67a87f5463c97634a4ae897692209529df9292d093e762f91574",
+  "fetched": "2026-11-03T04:08:11Z",
+  "chars": 27918,
+  "portal_id": "146230",
+  "tip": "DECIZIE"
+ }
+}
