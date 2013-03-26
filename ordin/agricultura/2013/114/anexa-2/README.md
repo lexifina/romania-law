@@ -1,0 +1,7 @@
+# Anexa nr. 2: 2 PROCEDURA DE APROBARE a transponderelor folosite pentru identificarea ecvideelor pe teritoriul României, precum și a furnizorilor acestora 1. Pentru furnizarea pe teritoriul României a transponderel
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 146368 (https://legislatie.just.ro/Public/DetaliiDocument/146368)
+- sha256 of that document's text as the service returned it: 55aff12b408eec078649d310f41b9c9793682536a7472c8812f329ba58c02a1a
+- Retrieved: 2026-11-03
