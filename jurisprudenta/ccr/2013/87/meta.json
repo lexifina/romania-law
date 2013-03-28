@@ -1,0 +1,219 @@
+{
+ "key": "dcc-87-2013",
+ "label": "Decizia CCR nr. 87/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "87",
+ "date": "2013-02-28",
+ "year": "2013",
+ "heading": "DECIZIE nr. 87 din 28 februarie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 22 din Legea nr. 329/2009 privind reorganizarea unor autorităţi şi instituţii publice, raţionalizarea cheltuielilor publice, susţinerea mediului de afaceri şi respectarea acordurilor-cadru cu Comisia Europeană şi Fondul Monetar Internaţional şi a celor ale art. 179 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "167",
+  "bis": false,
+  "date": "2013-03-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.856/102/2011",
+  "1.306D/2012",
+  "1.476D/2012",
+  "3.942/91/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 329/2009",
+    "number": "329",
+    "year": "2009",
+    "path": "lege/2009/329"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 22 din Legea nr. 329/2009 privind reorganizarea unor autorităţi şi instituţii publice, raţionalizarea cheltuielilor publice, susţinerea mediului de afaceri şi respectarea acordurilor-cadru cu Comisia Europeană şi Fondul Monetar Internaţional şi a celor ale art. 179 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, excepţie ridicată de Alexandru Ludovic Dienes în Dosarul nr. 8.856/102/2011 al Tribunalului Mureş - Secţia civilă şi de către Venera Vasiliu în Dosarul nr. 3.942/91/2012 al Tribunalului Vrancea - Secţia I civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 329/2009",
+    "number": "329",
+    "year": "2009",
+    "path": "lege/2009/329"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-03-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/146427",
+  "text_sha256": "96ad0726836b95811ff217f616dd369fcc59761bc4fd0370d9183dacf78ed68f",
+  "catalogue_sha256": "96ad0726836b95811ff217f616dd369fcc59761bc4fd0370d9183dacf78ed68f",
+  "fetched": "2026-11-03T04:08:01Z",
+  "chars": 16194,
+  "portal_id": "146427",
+  "tip": "DECIZIE"
+ }
+}
