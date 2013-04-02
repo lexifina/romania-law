@@ -1,0 +1,178 @@
+{
+ "key": "dcc-140-2013",
+ "label": "Decizia CCR nr. 140/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "140",
+ "date": "2013-03-07",
+ "year": "2013",
+ "heading": "DECIZIE nr. 140 din 7 martie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 alin. (7) din Legea nr. 45/2009 privind organizarea şi funcţionarea Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\" şi a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii şi industriei alimentare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "182",
+  "bis": false,
+  "date": "2013-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.171/93/2012",
+  "1.557D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă excepţia de neconstituţionalitate a prevederilor art. 6 alin. (7) din Legea nr. 45/2009 privind organizarea şi funcţionarea Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\" şi a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii şi industriei alimentare, excepţie ridicată de Societatea Comercială \"Florom Prodimpex\" - S.R.L. din Voluntari în Dosarul nr. 1.171/93/2012 al Tribunalului Ilfov - Secţia civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2011",
+    "number": "72",
+    "year": "2011",
+    "path": "lege/2011/72"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/146557",
+  "text_sha256": "f9d8c2437aaf1f93a811d5b1fcfbfb3da9b5f1c35fc901b2b2f05482aa55b6c0",
+  "catalogue_sha256": "f9d8c2437aaf1f93a811d5b1fcfbfb3da9b5f1c35fc901b2b2f05482aa55b6c0",
+  "fetched": "2026-11-03T04:07:53Z",
+  "chars": 9682,
+  "portal_id": "146557",
+  "tip": "DECIZIE"
+ }
+}
