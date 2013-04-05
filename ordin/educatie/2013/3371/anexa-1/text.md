@@ -1,0 +1,24 @@
+# Anexa 1
+PLANUL-CADRU de învățământ pentru învățământul primar
+Arii Discipline Clasa
+P I II III IV
+Limbă și comunicare Limba și literatura română*1) 5 7 6 5 5
+Limbă modernă 1 1 1 2 2
+Matematică și științe ale naturii Matematică*2) 3 1 3 1 4 4 4
+Științe ale naturii 1 1 1
+Om și societate Istorie - - - - 1
+Geografie - - - - 1
+Educație civică - - - 1 1
+Religie 1 1 1 1 1
+Educație fizică, sport și sănătate Educație fizică 2 2 2 2 2
+Joc și mișcare - - - 1 1
+Muzică și mișcare 2 2 2 1 1
+Arte
+Arte vizuale și abilități practice 2 2 2 2 1
+Tehnologii
+Consiliere și orientare Dezvoltare personală 2 1 1 - -
+Număr total de ore trunchi comun 19 20 20 20 21
+Curriculum la decizia școlii (discipline opționale) 0-1 0-1 0-1 0-1 0-1
+Număr minim de ore pe săptămână 19 20 20 20 21
+Număr maxim de ore pe săptămână 20 21 21 21 22
+------ *1) La clasa pregătitoare, clasa I și clasa a II-a, disciplina se intitulează Comunicare în limba română. *2) La clasa pregătitoare, clasa I și clasa a II-a, se studiază integrat disciplina Matematică și explorarea mediului.
