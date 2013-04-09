@@ -1,0 +1,249 @@
+{
+ "key": "cedo-33003-03-2012-09-25",
+ "label": "CEDO, Arhiepiscopia Româno-Catolică Alba Iulia c. României, 2012-09-25",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-09-25",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 25 septembrie 2012",
+ "subtitle": "în Cauza Arhiepiscopia Româno-Catolică Alba Iulia împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "200",
+  "bis": false,
+  "date": "2013-04-09",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "33003/03"
+ ],
+ "case_name": "Arhiepiscopia Româno-Catolică Alba Iulia",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,  CURTEA:  1. hotărăşte să unească cu fondul excepţia ridicată de Guvern şi să o respingă;  2. declară cererea admisibilă;  3. hotărăşte că a fost încălcat art. 1 din Protocolul nr. 1 la Convenţie;  4. hotărăşte că nu este cazul să examineze capetele de cerere întemeiate pe articolele 6 şi 13 din Convenţie;  5. hotărăşte:\n```",
+  "a) că statul pârât trebuie să plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, 15.000 EUR (cincisprezece mii euro), sumă care va fi convertită în moneda statului pârât la cursul de schimb aplicabil la data plăţii, pentru prejudiciu moral;",
+  "b) că statul pârât trebuie să plătească, în termen de 3 luni de la data la care hotărârea va rămâne definitivă conform art. 44 § 2 din Convenţie, următoarele sume, precum şi orice sumă care poate fi datorată cu titlu de impozit de reclamantă, pentru cheltuielile de judecată;",
+  "(i) 1.500 EUR (o mie cinci sute euro) către reclamantă; (îi) 3.250 EUR (trei mii două sute cincizeci euro) către Monica Macovei; (iii) 5.250 EUR (cinci mii două sute cincizeci euro) către Dan Mihai;",
+  "c) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "6. Respinge cererea de reparaţie echitabilă pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 adiţional la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 13/1998",
+    "number": "13",
+    "year": "1998",
+    "path": "oug/1998/13"
+   },
+   "articles": [],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/1992",
+    "number": "27",
+    "year": "1992",
+    "path": "og/1992/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 182/2000",
+    "number": "182",
+    "year": "2000",
+    "path": "lege/2000/182"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 458/2003",
+    "number": "458",
+    "year": "2003",
+    "path": "lege/2003/458"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 83/1999",
+    "number": "83",
+    "year": "1999",
+    "path": "oug/1999/83"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 66/2004",
+    "number": "66",
+    "year": "2004",
+    "path": "lege/2004/66"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 27/1996",
+    "number": "27",
+    "year": "1996",
+    "path": "lege/1996/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 151/1948",
+    "number": "151",
+    "year": "1948",
+    "path": "decret/1948/151"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/146856",
+  "text_sha256": "e2bb84672f7dfce5a6ecb4e8e6ea6a684bdaa025abb4481ff8f5af064aa644d9",
+  "catalogue_sha256": "e2bb84672f7dfce5a6ecb4e8e6ea6a684bdaa025abb4481ff8f5af064aa644d9",
+  "fetched": "2026-11-03T04:07:36Z",
+  "chars": 58537,
+  "portal_id": "146856",
+  "tip": "HOTĂRÂRE"
+ }
+}
