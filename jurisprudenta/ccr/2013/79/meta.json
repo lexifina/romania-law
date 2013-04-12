@@ -1,0 +1,217 @@
+{
+ "key": "dcc-79-2013",
+ "label": "Decizia CCR nr. 79/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "79",
+ "date": "2013-02-21",
+ "year": "2013",
+ "heading": "DECIZIE nr. 79 din 21 februarie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 108 alin. (1) lit. b) şi art. 110 alin. (1) lit. b) din Legea nr. 46/2008 - Codul silvic",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "208",
+  "bis": false,
+  "date": "2013-04-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.084/205/2011",
+  "1.605D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "110",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 108 alin. (1) lit. b) şi art. 110 alin. (1) lit. b) din Legea nr. 46/2008 - Codul silvic, excepţie ridicată de George Liţă în Dosarul nr. 3.084/205/2011 al Curţii de Apel Piteşti - Secţia penală şi pentru cauze cu minori şi de familie.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "110",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 171/2010",
+    "number": "171",
+    "year": "2010",
+    "path": "lege/2010/171"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-04-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/146938",
+  "text_sha256": "2bc180f47a271cc3b9b25cec20f7cfb6a1925c9144e05a3716a4b57d8c0d0bd0",
+  "catalogue_sha256": "2bc180f47a271cc3b9b25cec20f7cfb6a1925c9144e05a3716a4b57d8c0d0bd0",
+  "fetched": "2026-11-03T04:07:28Z",
+  "chars": 13844,
+  "portal_id": "146938",
+  "tip": "DECIZIE"
+ }
+}
