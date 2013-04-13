@@ -1,0 +1,10 @@
+În temeiul art. 17 alin. (2) și al art. 71 alin. (1) din Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator, cu modificările și completările ulterioare, Consiliul de mediere adoptă prezenta hotărâre.
+Articolul UNIC
+Standardul de formare a mediatorului, aprobat prin Hotărârea Consiliului de mediere nr. 12/2007 , publicată în Monitorul Oficial al României, Partea I, nr. 713 din 22 octombrie 2007, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. După articolul 3 se introduce un nou articol, articolul 3^1, cu următorul cuprins: "Art. 3^1. - (1) Formatorul în mediere, atât în domeniul formării inițiale, cât și în domeniul formării continue, își poate desfășura activitatea în cadrul unui singur furnizor de formare acreditat de Consiliul de mediere.
+(2) Un furnizor de formare în domeniul medierii în înțelesul Legii poate fi autorizat de Consiliul de mediere dacă îndeplinește cumulativ următoarele condiții:
+a) face dovada unui contract de colaborare cu minimum un formator principal, autorizat de Consiliul de mediere, cu o vechime în formare în domeniul medierii de cel puțin 5 ani;
+b) face dovada unui contract de colaborare cu un examinator înscris în Tabloul examinatorilor și evaluatorilor acreditați de Consiliul de mediere, care asigură funcția de examinator intern în comisiile de examinare ale furnizorului de formare respectiv;
+c) formatorul principal a elaborat singur sau în colaborare un manual/suport de curs avizat și autorizat de Consiliul de mediere."
+2. La articolul 44, literele a) și b) se modifică și vor avea următorul cuprins: "a) a avut atribuții de elaborare pentru cel puțin un program de formare de mediatori, autorizat de Consiliul de mediere.
+b) a participat la elaborarea a cel puțin unui manual/suport de curs pentru formarea mediatorilor al unui furnizor de formare autorizat de Consiliul de mediere."
+Președintele Consiliului de mediere, Dorin Valeriu Bădulescu București, 27 octombrie 2012. Nr. 1.044. -----
