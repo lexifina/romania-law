@@ -1,0 +1,177 @@
+{
+ "key": "cedo-7088-03-2012-11-06",
+ "label": "CEDO, Miu c. României, 2012-11-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-11-06",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 6 noiembrie 2012",
+ "subtitle": "în Cauza Miu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "216",
+  "bis": false,
+  "date": "2013-04-16",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "7088/03"
+ ],
+ "case_name": "Miu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA: 1. declară, în unanimitate, cererea admisibilă în privinţa capătului de cerere întemeiat pe absenţa accesului la o instanţă şi inadmisibilă în privinţa celorlalte capete de cerere; 2. hotărăşte, cu 6 voturi la 1, că a fost încălcat articolul 6 alin. 1 din Convenţie; 3. hotărăşte, cu 6 voturi la 1",
+  "a) că statul pârât trebuie să plătească reclamantei, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu articolul 44 alin. 2 din Convenţie, suma de 3.000 EUR (trei mii euro) pentru prejudiciul moral şi suma de 2.000 EUR (două mii euro) pentru cheltuielile de judecată, care trebuie convertită în lei româneşti la rata de schimb aplicabilă la data plăţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge, în unanimitate, cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147052",
+  "text_sha256": "a99accff880c824ae8aa780fbb9dea47295f59da302b49f89016037268e9c512",
+  "catalogue_sha256": "a99accff880c824ae8aa780fbb9dea47295f59da302b49f89016037268e9c512",
+  "fetched": "2026-11-03T04:07:22Z",
+  "chars": 23931,
+  "portal_id": "147052",
+  "tip": "HOTĂRÂRE"
+ }
+}
