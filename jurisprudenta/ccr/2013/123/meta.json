@@ -1,0 +1,583 @@
+{
+ "key": "dcc-123-2013",
+ "label": "Decizia CCR nr. 123/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "123",
+ "date": "2013-03-05",
+ "year": "2013",
+ "heading": "DECIZIE nr. 123 din 5 martie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a Ordonanţei de urgenţă a Guvernului nr. 143/2007 pentru modificarea alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005 privind unele măsuri pentru derularea şi finalizarea privatizării societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice \"Electrica Moldova\" - S.A. şi \"Electrica Oltenia\" - S.A., a Legii nr. 147/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 143/2007, a Ordonanţei de urgenţă a Guvernului nr. 116/2008 pentru modificarea alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005, a art. II din Legea nr. 166/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 116/2008, a Ordonanţei de urgenţă a Guvernului nr. 126/2010 pentru modificarea alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005, a Legii nr. 79/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 126/2010, a Ordonanţei de urgenţă a Guvernului nr. 116/2011 pentru aprobarea unor măsuri cu privire la vânzarea unor pachete de acţiuni deţinute de Societatea Comercială de Distribuţie şi Furnizare a Energiei Electrice \"Electrica\" - S.A. şi pentru modificarea şi completarea Ordonanţei Guvernului nr. 31/2004 privind unele măsuri pentru derularea procesului de privatizare a Societăţii Comerciale de Distribuţie a Gazelor Naturale \"Distrigaz Sud\" - S.A. Bucureşti şi a Societăţii Comerciale de Distribuţie a Gazelor Naturale \"Distrigaz Nord\" - S.A. Târgu Mureş, precum şi a societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice, a art. 3 din Ordonanţa de urgenţă a Guvernului nr. 120/2011 privind prorogarea unor termene şi a Legii nr. 91/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 116/2011",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "214",
+  "bis": false,
+  "date": "2013-04-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 143/2007",
+    "number": "143",
+    "year": "2007",
+    "path": "oug/2007/143"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 114/2005",
+    "number": "114",
+    "year": "2005",
+    "path": "oug/2005/114"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 147/2008",
+    "number": "147",
+    "year": "2008",
+    "path": "lege/2008/147"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 116/2008",
+    "number": "116",
+    "year": "2008",
+    "path": "oug/2008/116"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 166/2009",
+    "number": "166",
+    "year": "2009",
+    "path": "lege/2009/166"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 126/2010",
+    "number": "126",
+    "year": "2010",
+    "path": "oug/2010/126"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 79/2011",
+    "number": "79",
+    "year": "2011",
+    "path": "lege/2011/79"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 116/2011",
+    "number": "116",
+    "year": "2011",
+    "path": "oug/2011/116"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 120/2011",
+    "number": "120",
+    "year": "2011",
+    "path": "oug/2011/120"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 143/2007 pentru modificarea alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005 privind unele măsuri pentru derularea şi finalizarea privatizării societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice \"Electrica Moldova\" - S.A. şi \"Electrica Oltenia\" - S.A., a Legii nr. 147/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 143/2007, a Ordonanţei de urgenţă a Guvernului nr. 116/2008 pentru modificarea alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005, precum şi a art. II din Legea nr. 166/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 116/2008. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 126/2010 pentru modificarea alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005, a Legii nr. 79/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 126/2010, a Ordonanţei de urgenţă a Guvernului nr. 116/2011 pentru aprobarea unor măsuri cu privire la vânzarea unor pachete de acţiuni deţinute de Societatea Comercială de Distribuţie şi Furnizare a Energiei Electrice \"Electrica\" - S.A. şi pentru modificarea şi completarea Ordonanţei Guvernului nr. 31/2004 privind unele măsuri pentru derularea procesului de privatizare a Societăţii Comerciale de Distribuţie a Gazelor Naturale \"Distrigaz Sud\" - S.A. Bucureşti şi a Societăţii Comerciale de Distribuţie a Gazelor Naturale \"Distrigaz Nord\" - S.A. Târgu Mureş, precum şi a societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice, a art. 3 din Ordonanţa de urgenţă a Guvernului nr. 120/2011 privind prorogarea unor termene, precum şi a Legii nr. 91/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 116/2011.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 143/2007",
+    "number": "143",
+    "year": "2007",
+    "path": "oug/2007/143"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 114/2005",
+    "number": "114",
+    "year": "2005",
+    "path": "oug/2005/114"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 147/2008",
+    "number": "147",
+    "year": "2008",
+    "path": "lege/2008/147"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 116/2008",
+    "number": "116",
+    "year": "2008",
+    "path": "oug/2008/116"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 166/2009",
+    "number": "166",
+    "year": "2009",
+    "path": "lege/2009/166"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 126/2010",
+    "number": "126",
+    "year": "2010",
+    "path": "oug/2010/126"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 79/2011",
+    "number": "79",
+    "year": "2011",
+    "path": "lege/2011/79"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 116/2011",
+    "number": "116",
+    "year": "2011",
+    "path": "oug/2011/116"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 120/2011",
+    "number": "120",
+    "year": "2011",
+    "path": "oug/2011/120"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 91/2012",
+    "number": "91",
+    "year": "2012",
+    "path": "lege/2012/91"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 95/2012",
+    "number": "95",
+    "year": "2012",
+    "path": "oug/2012/95"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3691",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 31/2004",
+    "number": "31",
+    "year": "2004",
+    "path": "og/2004/31"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 531/2004",
+    "number": "531",
+    "year": "2004",
+    "path": "hg/2004/531"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/2004",
+    "number": "169",
+    "year": "2004",
+    "path": "lege/2004/169"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 12 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 137/2002",
+    "number": "137",
+    "year": "2002",
+    "path": "lege/2002/137"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-04-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147014",
+  "text_sha256": "6bd2132fb92785d1cb55d22b080c6fd8ce214fd0f737e86e90b29c49f9802175",
+  "catalogue_sha256": "6bd2132fb92785d1cb55d22b080c6fd8ce214fd0f737e86e90b29c49f9802175",
+  "fetched": "2026-11-03T20:44:27Z",
+  "chars": 102633,
+  "portal_id": "147014",
+  "tip": "DECIZIE"
+ }
+}
