@@ -1,0 +1,163 @@
+{
+ "key": "cedo-26692-05-2012-03-20",
+ "label": "CEDO, C.A.S. şi C.S. c. României, 2012-03-20",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-03-20",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 20 martie 2012",
+ "subtitle": "în Cauza C.A.S. şi C.S. împotriva României, definitivă la 24 septembrie 2012",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "217",
+  "bis": false,
+  "date": "2013-04-16",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "26692/05"
+ ],
+ "case_name": "C.A.S. şi C.S.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA 1. declară admisibile capetele de cerere introduse de primul reclamant în temeiul art. 3 şi 8 cu privire la pretinsa lipsă de efectivitate a anchetei penale şi la impactul acesteia asupra vieţii sale private şi de familie, precum şi capătul de cerere introdus de acesta în temeiul art. 6, iar restul capetelor de cerere inadmisibile; 2. hotărăşte că art. 3 şi 8 din Convenţie au fost încălcate; 3. hotărăşte că nu este necesar să se examineze capătul de cerere întemeiat pe art. 6 din Convenţie; 4. hotărăşte",
+  "a) că statul pârât trebuie să îi plătească primului reclamant, pentru prejudiciul moral, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 15.000 EUR (cincisprezece mii de euro), plus orice sumă care poate fi datorată cu titlu de impozit, ce trebuie convertită în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere formulate de reclamanţi."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 197/2000",
+    "number": "197",
+    "year": "2000",
+    "path": "lege/2000/197"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 89/2001",
+    "number": "89",
+    "year": "2001",
+    "path": "oug/2001/89"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147051",
+  "text_sha256": "fa9b52c798aabe0a6b5430932400fd6b4b9989e0cc4c30d5bf2257004bf3c8cb",
+  "catalogue_sha256": "fa9b52c798aabe0a6b5430932400fd6b4b9989e0cc4c30d5bf2257004bf3c8cb",
+  "fetched": "2026-11-03T04:07:22Z",
+  "chars": 47610,
+  "portal_id": "147051",
+  "tip": "HOTĂRÂRE"
+ }
+}
