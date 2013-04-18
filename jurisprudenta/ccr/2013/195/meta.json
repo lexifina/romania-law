@@ -1,0 +1,138 @@
+{
+ "key": "dcc-195-2013",
+ "label": "Decizia CCR nr. 195/2013",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "195",
+ "date": "2013-04-03",
+ "year": "2013",
+ "heading": "DECIZIE nr. 195 din 3 aprilie 2013",
+ "subtitle": "asupra obiecţiei de neconstituţionalitate a dispoziţiilor art. I pct. 14 [referitoare la introducerea art. 19^1 alin. (1)] şi ale art. IV din Legea pentru modificarea şi completarea Legii nr. 96/2006 privind Statutul deputaţilor şi al senatorilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "223",
+  "bis": false,
+  "date": "2013-04-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea pentru modificarea şi completarea Legii nr. 96/2006 privind Statutul deputaţilor şi al senatorilor"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "1. Admite în parte obiecţia de neconstituţionalitate formulată de un număr de 51 de deputaţi aparţinând Grupului Parlamentar al Partidului Democrat Liberal şi constată că dispoziţiile art. I pct. 14 [referitoare la introducerea art. 19^1 alin. (1)] din Legea pentru modificarea şi completarea Legii nr. 96/2006 privind Statutul deputaţilor şi al senatorilor sunt neconstituţionale, în raport cu criticile formulate. 2. Respinge, ca inadmisibilă, obiecţia de neconstituţionalitate formulată de aceiaşi autori cu privire la dispoziţiile art. IV din Legea pentru modificarea şi completarea Legii nr. 96/2006 privind Statutul deputaţilor şi al senatorilor.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului şi prim-ministrului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-04-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147148",
+  "text_sha256": "437f18445a341a86c3507c8541fe84bf50ea2f606a9e16cf9ca2701f564b8360",
+  "catalogue_sha256": "437f18445a341a86c3507c8541fe84bf50ea2f606a9e16cf9ca2701f564b8360",
+  "fetched": "2026-11-03T04:07:18Z",
+  "chars": 24798,
+  "portal_id": "147148",
+  "tip": "DECIZIE"
+ }
+}
