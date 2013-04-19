@@ -1,0 +1,260 @@
+{
+ "key": "iccj-ril-4-2013",
+ "label": "Decizia ÎCCJ nr. 4/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "4",
+ "date": "2013-03-18",
+ "year": "2013",
+ "heading": "DECIZIE nr. 4 din 18 martie 2013",
+ "subtitle": "privind recursul în interesul legii cu privire la interpretarea şi aplicarea dispoziţiilor art. 223 raportat la art. 39 alin. (2) din Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil, stabileşte că prevederile art. 396-404 din noul Cod civil, referitoare la efectele divorţului cu privire la raporturile dintre părinţi şi copiii lor minori, sunt aplicabile şi cererilor de divorţ formulate înainte de intrarea în vigoare a noului Cod civil şi aflate pe rolul instanţelor de judecată în căile de atac",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "226",
+  "bis": false,
+  "date": "2013-04-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 223 raportat la art. 39 alin. (2) din Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil, stabileşte că prevederile art. 396-404 din noul Cod civil, referitoare la efectele divorţului cu privire la raporturile dintre părinţi şi copiii lor minori, sunt aplicabile şi cererilor de divorţ formulate înainte de intrarea în vigoare a noului Cod civil şi aflate pe rolul instanţelor de judecată în căile de atac.",
+  "Obligatorie, potrivit art. 330^7 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "330-6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "398",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "382",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "400",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "401",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "402",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "403",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "404",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-04-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147169",
+  "text_sha256": "13d4b8eeef65ecc252fd6aef1b41433fc2eecdf08db0bcded4253cdb93003961",
+  "catalogue_sha256": "13d4b8eeef65ecc252fd6aef1b41433fc2eecdf08db0bcded4253cdb93003961",
+  "fetched": "2026-11-03T04:07:18Z",
+  "chars": 28204,
+  "portal_id": "147169",
+  "tip": "DECIZIE"
+ }
+}
