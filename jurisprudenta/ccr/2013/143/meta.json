@@ -1,0 +1,229 @@
+{
+ "key": "dcc-143-2013",
+ "label": "Decizia CCR nr. 143/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "143",
+ "date": "2013-03-07",
+ "year": "2013",
+ "heading": "DECIZIE nr. 143 din 7 martie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 9 şi art. 10 din Legea nr. 123/2008 pentru o alimentaţie sănătoasă în unităţile de învăţământ preuniversitar, a prevederilor art. 7 din Ordinul ministrului sănătăţii publice nr. 1.563/2008 pentru aprobarea Listei alimentelor nerecomandate preşcolarilor şi şcolarilor şi a principiilor care stau la baza unei alimentaţii sănătoase pentru copii şi adolescenţi, precum şi a dispoziţiilor anexei nr. 1 la acelaşi ordin",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "228",
+  "bis": false,
+  "date": "2013-04-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.772/333/2011",
+  "1.594D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 123/2008",
+    "number": "123",
+    "year": "2008",
+    "path": "lege/2008/123"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătăţii publice nr. 1.563/2008",
+    "number": "1563",
+    "year": "2008"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 7 din Ordinul ministrului sănătăţii publice nr. 1.563/2008 pentru aprobarea Listei alimentelor nerecomandate preşcolarilor şi şcolarilor şi a principiilor care stau la baza unei alimentaţii sănătoase pentru copii şi adolescenţi şi ale anexei nr. 1 la acelaşi ordin, excepţie ridicată de Societatea Comercială \"Broscuţa\" - S.R.L. din Vaslui în Dosarul nr. 8.772/333/2011 al Judecătoriei Vaslui.",
+  "II. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a dispoziţiilor art. 9 şi art. 10 din Legea nr. 123/2008 pentru o alimentaţie sănătoasă în unităţile de învăţământ preuniversitar, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 123/2008",
+    "number": "123",
+    "year": "2008",
+    "path": "lege/2008/123"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătăţii publice nr. 1.563/2008",
+    "number": "1563",
+    "year": "2008"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului sănătăţii publice nr. 1.563/2008",
+    "number": "1563",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătăţii publice nr. 1563/2008",
+    "number": "1563",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-04-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147173",
+  "text_sha256": "855b0b01a8b789a40048adf064610e5fdc5bcf3c6c9490b8419d1e02fbe7e592",
+  "catalogue_sha256": "855b0b01a8b789a40048adf064610e5fdc5bcf3c6c9490b8419d1e02fbe7e592",
+  "fetched": "2026-11-03T04:07:17Z",
+  "chars": 14240,
+  "portal_id": "147173",
+  "tip": "DECIZIE"
+ }
+}
