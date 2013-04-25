@@ -1,0 +1,59 @@
+{
+ "key": "cjue-c-81-12-hotarare-2013-04-25",
+ "label": "CJUE, Hotărârea Curții (Camera a treia) din 25 aprilie 2013, Cauza C-81/12",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2013-04-25",
+ "year": "2013",
+ "case": "Cauza C-81/12",
+ "celex": "62012CJ0081",
+ "ecli": "ECLI:EU:C:2013:275",
+ "heading": "Hotărârea Curții (Camera a treia) din 25 aprilie 2013",
+ "formation": "CHAMB_03_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Bucureşti, Secţia A VIII-A , Contencios Administrativ și Fiscal",
+   "date": "2011-10-12",
+   "national_file": "12562/2/2010"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Bucureşti",
+ "national_followup": null,
+ "parties": "Asociația Accept împotriva Consiliului Național pentru Combaterea Discriminării",
+ "parties_withheld": false,
+ "keywords": "Politica socială – Egalitate de tratament în ceea ce privește încadrarea în muncă și ocuparea forței de muncă – Directiva 2000/78/CE – Articolul 2 alineatul (2) litera (a), articolul 10 alineatul (1) și articolul 17 – Interzicerea discriminării pe motive de orientare sexuală – Noțiunea „fapte care permit prezumția existenței unei discriminări” – Adaptarea sarcinii probei – Sancțiuni efective, proporționale și disuasive – Persoană care se prezintă și care este percepută de opinia publică drept conducătorul unui club de fotbal profesionist – Declarații publice de excludere a recrutării unui fotbalist prezentat ca fiind homosexual",
+ "interprets": [
+  {
+   "celex": "32000L0078",
+   "folder": "ue/directiva/2000/78"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62012CJ0081",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-81/12&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/42ba3e7e-8d87-4e58-8a2d-0efec70361b0.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "dd54eababf4711101312c02f61e3e29226afc0db76f6d1cecbab8ee0f3239e8b"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a treia) declară:",
+  "1) Articolul 2 alineatul (2) și articolul 10 alineatul (1) din Directiva 2000/78/CE a Consiliului din 27 noiembrie 2000 de creare a unui cadru general în favoarea egalității de tratament în ceea ce privește încadrarea în muncă și ocuparea forței de muncă trebuie să fie interpretate în sensul că faptele de natura celor aflate la originea litigiului principal pot fi calificate drept „fapte care permit prezumția existenței unei discriminări” în ceea ce privește un club de fotbal profesionist în cazul în care declarațiile vizate sunt făcute de o persoană care se prezintă și este percepută în media și în societate ca fiind principalul conducător al acestui club, fără să aibă totuși în mod necesar capacitatea juridică de a angaja clubul sau de a-l reprezenta în materie de recrutare.",
+  "2) Articolul 10 alineatul (1) din Directiva 2000/78 trebuie să fie interpretat în sensul că, în ipoteza în care faptele de natura celor aflate la originea litigiului principal ar fi calificate drept „fapte care permit prezumția existenței unei discriminări” pe motive de orientare sexuală săvârșite cu ocazia recrutării jucătorilor de către un club de fotbal profesionist, sarcina probei, astfel cum este concepută la articolul 10 alineatul (1) din Directiva 2000/78, nu conduce la impunerea unei probe care este imposibil să fie prezentată fără a se aduce atingere dreptului la respectarea vieții private.",
+  "3) Articolul 17 din Directiva 2000/78 trebuie interpretat în sensul că se opune unei reglementări naționale în temeiul căreia, în cazul constatării unei discriminări pe motive de orientare sexuală, în sensul acestei directive, nu este posibil să se aplice decât un avertisment, precum cel în discuție în litigiul principal, atunci când o asemenea constatare intervine după expirarea unui termen de prescripție de șase luni de la data săvârșirii faptei dacă, în temeiul aceleiași reglementări, o asemenea discriminare nu este sancționată în condiții de fond și de procedură care conferă sancțiunii un caracter efectiv, proporțional și disuasiv. Instanța de trimitere are sarcina să aprecieze dacă aceasta este situația reglementării în discuție în litigiul principal și, dacă este cazul, să interpreteze dreptul național, în cea mai mare măsură posibilă, în lumina textului și a finalității directivei menționate pentru a atinge rezultatul urmărit de aceasta."
+ ]
+}
