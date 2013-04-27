@@ -1,0 +1,11 @@
+# HCGMB nr. 126/2013
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 126/2013
+- Adopted: 2013-04-27
+- Title: PRIVIND REPARTIZAREA PE SECTOARELE MUNICIPIULUI BUCURESTI A SUMELOR DIN COTELE DEFALCATE DIN IMPOZITUL PE VENIT PENTRU ECHILIBRAREA BUGETELOR LOCALE PENTRU ACHITAREA ARIERATELOR PROVENITE DIN NEPLATA CHELTUIELILOR DE FUNCTIONARE SI/SAU DE CAPITAL IN ORDINEA CRONOLOGICA A VECHIMII ARIERATELOR SI PENTRU SUSTINEREA PROGRAMELOR DE DEZVOLTARE LOCALA SI A PROIECTELOR DE INFRASTRUCTURA CARE NECESITA COFINANTARE LOCALA PE ANUL 2013
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32506
+- Document: https://doc.pmb.ro/legis/acteinterne/2013/32506/H126_13.pdf
+- Document sha256: 7e2209b27cccef211327581c80e23a8e1f176325a316eb16efee58b15252f8f7
