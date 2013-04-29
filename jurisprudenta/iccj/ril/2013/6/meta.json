@@ -1,0 +1,203 @@
+{
+ "key": "iccj-ril-6-2013",
+ "label": "Decizia ÎCCJ nr. 6/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "6",
+ "date": "2013-04-15",
+ "year": "2013",
+ "heading": "DECIZIE nr. 6 din 15 aprilie 2013",
+ "subtitle": "privind recursul în interesul legii cu privire la interpretarea și aplicarea dispozițiilor art. 5 alin. (1) lit. b) din Legea nr. 221/2009 privind condamnările cu caracter politic și măsurile administrative asimilate acestora, pronunțate în perioada 6 martie 1945 - 22 decembrie 1989, cu modificările și completările ulterioare, cu referire la bunurile confiscate prin hotărâri de condamnare sau ca efect al măsurilor administrative cu caracter politic, ce pot fi restituite prin echivalent",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "245",
+  "bis": false,
+  "date": "2013-04-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și, în consecință:",
+  "În interpretarea și aplicarea dispozițiilor art. 5 alin. (1) lit. b) din Legea nr. 221/2009, cu modificările și completările ulterioare, stabilește că pot fi acordate despăgubiri materiale numai pentru aceleași categorii de bunuri care fac obiectul actelor normative speciale de reparație, respectiv Legea nr. 10/2001, republicată, cu modificările și completările ulterioare, și Legea nr. 247/2005, cu modificările și completările ulterioare, sub imperiul cărora partea interesată să nu fi obținut deja o reparație.",
+  "Obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-04-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147452",
+  "text_sha256": "99c79954e71e1eb6f44c625e92a0c5c8dc1e02123faa60fa8d1881bb7021c912",
+  "catalogue_sha256": "99c79954e71e1eb6f44c625e92a0c5c8dc1e02123faa60fa8d1881bb7021c912",
+  "fetched": "2026-11-06T04:03:07Z",
+  "chars": 30146,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/147452",
+   "timestamp": "20260119044959",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469437.53/warc/CC-MAIN-20260119041229-20260119071229-00239.warc.gz",
+   "offset": "276730957",
+   "length": "18830",
+   "sha256": "b7430b6418c6023c55144f90289b7ec6c5f323a8644bcbe390f7657e0e270c18"
+  },
+  "portal_id": "147452",
+  "tip": "DECIZIE"
+ }
+}
