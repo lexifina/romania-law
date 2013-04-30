@@ -1,0 +1,2 @@
+# Anexa 1
+PERSONALUL angajat la Centrul de Investigații și Analiză pentru Siguranța Aviației Civile cu atribuții de control al respectării prevederilor reglementărilor aplicabile în domeniul investigației tehnice a evenimentelor de aviație civilă 1. Nicolae Octavian Stoica 2. Sorin Cimpoeru 3. Ștefan Laurențiu Marian Martinescu 4. Ciprian Laurențiu Drumea 5. Ionuț Daniel Florian 6. Marin Căprioară 7. Raluca Maria Negoescu 8. Dragoș Mihai Bujoreanu
