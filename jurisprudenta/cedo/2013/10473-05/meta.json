@@ -1,0 +1,173 @@
+{
+ "key": "cedo-10473-05-2013-01-29",
+ "label": "CEDO, Catană c. României, 2013-01-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-01-29",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 29 ianuarie 2013",
+ "subtitle": "în Cauza Catană împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "258",
+  "bis": false,
+  "date": "2013-05-09",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "10473/05"
+ ],
+ "case_name": "Catană",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capetele de cerere întemeiate pe art. 3 şi art. 5 § 4 din Convenţie şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 3 din Convenţie; 3. hotărăşte că a fost încălcat art. 5 § 4 din Convenţie; 4. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, sumele următoare, care vor fi convertite în moneda statului pârât la cursul de schimb valabil la data plăţii:",
+  "(i) 3.900 EUR (trei mii nouă sute euro) plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciu moral; (îi) 1.000 EUR (una mie euro) plus orice sumă ce ar putea fi datorată reclamantului cu titlu de impozit, pentru cheltuieli de judecată;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de reparaţie echitabilă pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147676",
+  "text_sha256": "8319948f22032992df58d75daa6feeb3c76600a7e4bca741e7b9b8b661136681",
+  "catalogue_sha256": "8319948f22032992df58d75daa6feeb3c76600a7e4bca741e7b9b8b661136681",
+  "fetched": "2026-11-03T04:06:50Z",
+  "chars": 36131,
+  "portal_id": "147676",
+  "tip": "HOTĂRÂRE"
+ }
+}
