@@ -1,0 +1,120 @@
+{
+ "key": "iccj-ril-7-2013",
+ "label": "Decizia ÎCCJ nr. 7/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "7",
+ "date": "2013-04-15",
+ "year": "2013",
+ "heading": "DECIZIE nr. 7 din 15 aprilie 2013",
+ "subtitle": "privind recursul în interesul legii, privind natura juridică a termenului de 3 luni prevăzut de dispoziţiile art. 460 alin. 1 din Codul de procedură civilă, la dispoziţia creditorului, debitorului sau organului de executare, pentru a sesiza instanţa de executare cu validarea popririi",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "263",
+  "bis": false,
+  "date": "2013-05-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "460",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea art. 460 alin. 1 din Codul de procedură civilă stabileşte că termenul de 3 luni de la data când terţul poprit trebuia să consemneze sau să plătească suma urmăribilă, în care creditorul, debitorul sau organul de executare poate sesiza instanţa de executare în vederea validării popririi, este un termen imperativ (peremptoriu), legal, fix şi absolut, a cărui nerespectare atrage sancţiunea decăderii.",
+  "Obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "460",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "389",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "456",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 138/2000",
+    "number": "138",
+    "year": "2000",
+    "path": "oug/2000/138"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-05-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147719",
+  "text_sha256": "221e32a86ba3f9d019e66bbac2c43b4877f612d964c5e1250527367d7e6882aa",
+  "catalogue_sha256": "221e32a86ba3f9d019e66bbac2c43b4877f612d964c5e1250527367d7e6882aa",
+  "fetched": "2026-11-03T04:06:48Z",
+  "chars": 19033,
+  "portal_id": "147719",
+  "tip": "DECIZIE"
+ }
+}
