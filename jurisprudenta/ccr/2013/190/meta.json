@@ -1,0 +1,184 @@
+{
+ "key": "dcc-190-2013",
+ "label": "Decizia CCR nr. 190/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "190",
+ "date": "2013-04-02",
+ "year": "2013",
+ "heading": "DECIZIE nr. 190 din 2 aprilie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor şi ale Ordonanţei de urgenţă a Guvernului nr. 1/2011 privind stabilirea unor măsuri în domeniul pensiilor acordate beneficiarilor proveniţi din sistemul de apărare, ordine publică şi siguranţă naţională",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "287",
+  "bis": false,
+  "date": "2013-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.585/102/2011",
+  "70D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "oug/2011/1"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Augustin Strete în Dosarul nr. 6.585/102/2011 al Curţii de Apel Târgu Mureş - Secţia I civilă şi constată că dispoziţiile Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor şi ale Ordonanţei de urgenţă a Guvernului nr. 1/2011 privind stabilirea unor măsuri în domeniul pensiilor acordate beneficiarilor proveniţi din sistemul de apărare, ordine publică şi siguranţă naţională sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Târgu Mureş - Secţia I civilă care a sesizat Curtea Constituţională şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "oug/2011/1"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/148094",
+  "text_sha256": "83e87bd8050bb383bab6d7314408e94ef379847d162a6e7fe8ce3e705e75a21c",
+  "catalogue_sha256": "83e87bd8050bb383bab6d7314408e94ef379847d162a6e7fe8ce3e705e75a21c",
+  "fetched": "2026-11-03T04:06:32Z",
+  "chars": 9580,
+  "portal_id": "148094",
+  "tip": "DECIZIE"
+ }
+}
