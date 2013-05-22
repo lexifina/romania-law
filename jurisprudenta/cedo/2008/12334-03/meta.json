@@ -1,0 +1,152 @@
+{
+ "key": "cedo-12334-03-2008-06-17",
+ "label": "CEDO, Irimia c. României, 2008-06-17",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-06-17",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 17 iunie 2008",
+ "subtitle": "în Cauza Irimia împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "288",
+  "bis": false,
+  "date": "2013-05-22",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "12334/03"
+ ],
+ "case_name": "Irimia",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că au fost încălcate art. 6 § 1 din Convenţie şi art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte",
+  "a) că statul pârât trebuie să asigure, prin mijloace adecvate, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, executarea Hotărârii din 18 noiembrie 1994 a Curţii de Apel Iaşi;",
+  "b) că, dacă nu este executată această hotărâre, statul pârât trebuie să plătească reclamantului, în acelaşi termen de 3 luni, suma de 20.000 EUR (douăzeci de mii de euro), plus orice sumă care poate fi datorată cu titlu de impozit, cu titlu de despăgubire pentru prejudiciul material;",
+  "c) că statul pârât trebuie să plătească reclamantului, în acelaşi termen de 3 luni, suma de 3.000 EUR (trei mii de euro), plus orice sumă care poate fi datorată cu titlu de impozit, cu titlu de despăgubire pentru prejudiciul moral;",
+  "d) că sumele de mai sus trebuie convertite în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "e) că, de la expirarea termenului menţionat de 3 luni şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/148126",
+  "text_sha256": "8b5cfbdf79d5bfd6b9695a2c081821b590f4cbcb498f0594bf92a853bb489332",
+  "catalogue_sha256": "8b5cfbdf79d5bfd6b9695a2c081821b590f4cbcb498f0594bf92a853bb489332",
+  "fetched": "2026-11-03T04:06:30Z",
+  "chars": 13638,
+  "portal_id": "148126",
+  "tip": "HOTĂRÂRE"
+ }
+}
