@@ -1,0 +1,14 @@
+# Anexa 12
+Anexa nr. 2e
+REGISTRU NAȚIONAL PENTRU EVIDENȚA CENTRELOR DE DEPOZITARE AUTORIZATE
+Nr. crt.
+Data depunerii/înregistrării cererii și a documentației
+Denumirea operatorului economic
+Adresa, sediu social, tel., fax, CUI
+Denumirea unității conform legislației specifice
+Adresă punct de lucru social, tel., fax
+Activitățile
+Nr./data autori- zației
+Materialul genetic utilizat
+Observații *)
+*) Se nominalizează data evaluării și măsurile dispuse pentru neconformitățile constatate.
