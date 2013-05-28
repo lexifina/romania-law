@@ -1,0 +1,12 @@
+# Anexa nr. 3 la anexa nr. 1
+Anexa 2 la regulament Denumirea parchetului: Direcția/Serviciul/Biroul/Compartimentul: Aprobat*1) FIȘA POSTULUI Nr........ Informații generale privind postul 1. Denumirea postului: 2. Nivelul postului (de conducere/de execuție): 3. Obiectivul/Obiectivele postului: Condiții specifice pentru ocuparea postului*2) 1. Studii de specialitate: 2. Perfecționări (specializări)*3): 3. Vechimea în muncă/specialitate necesară: 4. Cunoștințe de operare/programare pe calculator: 5. Limbi străine*4): 6. Abilități, calități și aptitudini necesare: 7. Cerințe specifice*5): 8. Competența managerială (cunoștințe de management, calități și aptitudini manageriale): Descrierea sarcinilor ce revin postului 1. 2................................................................. Responsabilitatea implicată de post 1. De pregătire/luare a deciziilor*6): 2. Delegarea de atribuții și competență: 3. De păstrare a confidențialității: Sfera relațională a titularului postului 1. Sfera relațională internă:
+a) relații ierarhice
+- subordonat față de: - superior pentru:
+b) relații funcționale:
+c) relații de control:
+d) relații de reprezentare:
+2. Sfera relațională externă:
+a) cu autorități și instituții publice:
+b) cu organizații internaționale:
+c) cu persoane juridice private:
+Întocmit de*7): 1. Numele și prenumele: 2. Funcția: 3. Semnătura: 4. Data întocmirii: Luat la cunoștință de către ocupantul postului 1. Numele și prenumele: 2. Funcția și gradația corespunzătoare tranșei de vechime (dacă este cazul): 3. Semnătura: 4. Data: Avizat de*8): 1. Numele și prenumele: 2. Funcția: 3. Semnătura: 4. Data: --------- *1) Se va semna de către conducătorul parchetului și se va ștampila în mod obligatoriu. *2) Se va completa cu informațiile privind condițiile prevăzute de lege și stabilite la nivelul Ministerului Public pentru ocuparea funcției corespunzătoare. *3) Dacă este cazul. *4) Pentru fiecare dintre criteriile "citit", "scris" și "vorbit" se va stabili nivelul de cunoaștere cerut, după cum urmează: "cunoștințe de bază", "nivel mediu", "nivel avansat". *5) De exemplu: călătorii frecvente, delegări, detașări, disponibilitate pentru lucru în program prelungit în anumite condiții. *6) Limitele libertății decizionale de care beneficiază titularul postului pentru îndeplinirea sarcinilor care îi revin. *7) Se întocmește de conducătorul compartimentului în care își desfășoară activitatea titularul postului. *8) Se avizează de către superiorul ierarhic al persoanei prevăzute la pct. 7. -------
