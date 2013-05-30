@@ -1,0 +1,174 @@
+{
+ "key": "iccj-ril-2-2013",
+ "label": "Decizia ÎCCJ nr. 2/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "2",
+ "date": "2013-02-18",
+ "year": "2013",
+ "heading": "DECIZIE nr. 2 din 18 februarie 2013",
+ "subtitle": "privind recursul în interesul legii referitor la interpretarea şi aplicarea dispoziţiilor art. XXII alin. (2) din Legea nr. 202/2010 privind unele măsuri pentru accelerarea soluţionării proceselor, cu referire la aplicarea dispoziţiilor art. 297 alin. 1 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "313",
+  "bis": false,
+  "date": "2013-05-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "21/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "XXII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de prim-adjunctul procurorului general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. XXII alin. (2) din Legea nr. 202/2010 privind unele măsuri pentru accelerarea soluţionării proceselor, stabileşte că:",
+  "Dispoziţiile art. 297 alin. 1 din Codul de procedură civilă, astfel cum au fost modificate prin art. I pct. 27 din Legea nr. 202/2010 privind unele măsuri pentru accelerarea soluţionării proceselor, nu se aplică proceselor în care prima instanţă a fost învestită înainte de intrarea în vigoare a Legii nr. 202/2010 privind unele măsuri pentru accelerarea soluţionării proceselor.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "XXII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "725",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/148547",
+  "text_sha256": "df87cb2606f10654fa4fa8098b6eac785ee2b99aa6ad3b3e8c473e745631be2d",
+  "catalogue_sha256": "df87cb2606f10654fa4fa8098b6eac785ee2b99aa6ad3b3e8c473e745631be2d",
+  "fetched": "2026-11-03T04:06:12Z",
+  "chars": 21301,
+  "portal_id": "148547",
+  "tip": "DECIZIE"
+ }
+}
