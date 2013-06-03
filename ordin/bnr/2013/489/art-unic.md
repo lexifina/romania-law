@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale FRIGO LEASING IFN - S.A., cu sediul în București, sectorul 2, Str. Torentului nr. 2, Clădire corp administrativ C5, camera 25, înregistrată la Oficiul Registrului Comerțului cu nr. J40/494/2002, cod unic de înregistrare 14413520, înscrisă în Registrul general, ținut la Banca Națională a României, la secțiunea h) "Leasing financiar" cu nr. RG-PJR-41-080185.
