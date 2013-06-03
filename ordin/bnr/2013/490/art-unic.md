@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale IMOBILIAR LEASING INVEST IFN - S.A., cu sediul în Voluntari, bd. Pipera nr. 4C, vila G7-8, județul Ilfov, înregistrată la Oficiul Registrului Comerțului cu nr. J23/3159/2008, cod unic de înregistrare 15575996, înscrisă în Registrul general, ținut la Banca Națională a României, la secțiunea k) "Activități multiple de creditare" cu nr. RG-PJR-42-110181.
