@@ -1,0 +1,331 @@
+{
+ "key": "dcc-170-2013",
+ "label": "Decizia CCR nr. 170/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "170",
+ "date": "2013-03-19",
+ "year": "2013",
+ "heading": "DECIZIE nr. 170 din 19 martie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 lit. h) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor, art. 196 lit. j) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, precum şi ale art. 1, 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 59/2011 pentru stabilirea unor măsuri în domeniul pensiilor prevăzute la art. 1 lit. c)-h) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "324",
+  "bis": false,
+  "date": "2013-06-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.116/96/2011",
+  "67D/2013",
+  "5.152/120/2011",
+  "6.726/83/2011",
+  "11.273/83/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "h",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 59/2011",
+    "number": "59",
+    "year": "2011",
+    "path": "oug/2011/59"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 1 lit. h) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor, art. 196 lit. j) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, precum şi ale art. 1, 2 şi 3 din Ordonanţa de urgenţă a Guvernului nr. 59/2011 pentru stabilirea unor măsuri în domeniul pensiilor prevăzute la art. 1 lit. c)-h) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor, excepţie ridicată de Emeric Borbely în Dosarul nr. 2.116/96/2011 al Curţii de Apel Târgu Mureş - Secţia I civilă, de Iuliana Ciurezu şi Ion Tănase în dosarele nr. 4.940,1/120/2010 şi nr. 5.152/120/2011 ale Curţii de Apel Ploieşti - Secţia I civilă, precum şi de către Constanţa Stoica şi Vasile Morar în dosarele nr. 6.726/83/2011 şi nr. 11.273/83/2010 ale Tribunalului Satu Mare - Secţia I civilă.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "h",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 59/2011",
+    "number": "59",
+    "year": "2011",
+    "path": "oug/2011/59"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/148637",
+  "text_sha256": "b252134d6c4a1e3341e208d7e8f7e4ab039efec9b125a500faf5f7a082e924c8",
+  "catalogue_sha256": "b252134d6c4a1e3341e208d7e8f7e4ab039efec9b125a500faf5f7a082e924c8",
+  "fetched": "2026-11-03T04:06:08Z",
+  "chars": 23475,
+  "portal_id": "148637",
+  "tip": "DECIZIE"
+ }
+}
