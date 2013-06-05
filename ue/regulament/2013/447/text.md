@@ -1,0 +1,32 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) NR. 447/2013 AL COMISIEI
+din 15 mai 2013
+de stabilire a procedurii pentru AFIA care optează să intre sub incidența Directivei 2011/61/UE a Parlamentului European și a Consiliului
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Directiva 2011/61/UE a Parlamentului European și a Consiliului din 8 iunie 2011 privind administratorii fondurilor de investiții alternative și de modificare a Directivelor 2003/41/CE și 2009/65/CE și a Regulamentelor (CE) nr. 1060/2009 și (UE) nr. 1095/2010 (1), în special articolul 3 alineatul (5),
+întrucât:
+(1) În conformitate cu articolul 3 alineatul (4) din Directiva 2011/61/UE, administratorii de fonduri de investiții alternative (AFIA) care îndeplinesc condițiile prevăzute la articolul 3 alineatul (2) din directiva citată pot opta să intre sub incidența acesteia pentru a beneficia de drepturilor acordate. Prin opțiunea de a intra sub incidența Directivei 2011/61/UE, un AFIA intră în domeniul de aplicare al directivei citate în toate elementele sale.
+(2) Directiva 2011/61/UE prevede o procedură de autorizare a AFIA. Documentele și informațiile care trebuie prezentate în cadrul acestei proceduri oferă detalii necesare privind AFIA care formulează cererea, prin urmare în cazul opțiunii de a intra sub incidența directivei trebuie utilizate aceleași documente și aceeași procedură. Nu există motive specifice opțiunii de a intra sub incidența directivei care să justifice utilizarea unei proceduri diferite de cea aplicabilă AFIA care au în administrare active a căror valoare depășește pragurile prevăzute la articolul 3 alineatul (2) din Directiva 2011/61/UE. În consecință, AFIA care optează să intre sub incidența Directivei 2011/61/UE trebuie să urmeze aceeași procedură ca cea stabilită pentru AFIA care sunt obligați să solicite autorizarea în conformitate cu Directiva 2011/61/UE.
+(3) AFIA care au dreptul de a opta să intre sub incidența directivei sunt AFIA care au fost anterior fie înregistrați în conformitate cu articolul 3 alineatul (3) din Directiva 2011/61/UE, fie autorizați ca societăți de administrare ale organismelor de plasament colectiv în valori mobiliare în conformitate cu Directiva 2009/65/CE a Parlamentului European și a Consiliului din 13 iulie 2009 de coordonare a actelor cu putere de lege și a actelor administrative privind organismele de plasament colectiv în valori mobiliare (OPCVM) (2). Este oportun să se evite dubla raportare și să se ia în considerare documentele și informațiile deja prezentate de AFIA autorităților competente în cadrul procedurilor de înregistrare și de autorizare, cu condiția ca aceste documente și informații să fie actualizate.
+(4) Autoritățile competente trebuie să examineze cererea de intrare voluntară sub incidența directivei și să acorde autorizația aferentă în aceleași condiții și urmând aceeași procedură ca în cazul AFIA care au în administrare active a căror valoare depășește pragurile relevante prevăzute la articolul 3 alineatul (2) din Directiva 2011/61/UE.
+(5) Este important să se clarifice relația dintre procedura pentru AFIA care optează să intre sub incidența Directivei 2011/61/UE și revocarea unei autorizații acordate AFIA în temeiul directivei citate. Un AFIA care a primit o autorizație în temeiul Directivei 2011/61/UE și ale cărui active aflate în administrare scad ulterior sub pragurile prevăzute la articolul 3 alineatul (2) din directiva citată rămâne autorizat și face în continuare obiectul aplicării directivei citate, în toate elementele sale, atât timp cât autorizația nu este revocată. Revocarea autorizației nu trebuie să fie declanșată automat de o scădere sub pragul relevant a activelor aflate în administrare ale unui AFIA autorizat, ci trebuie să se producă numai la solicitarea AFIA. Prin urmare, nu trebuie să fie posibil pentru un AFIA să solicite a intra voluntar sub incidența Directivei 2011/61/UE atât timp cât acesta deține o autorizație în temeiul directivei citate, în timp ce un AFIA a cărui autorizație a fost revocată la solicitarea sa trebuie să aibă în continuare posibilitatea de a solicita intrarea voluntară sub incidența Directivei 2011/61/UE.
+(6) Directiva 2011/61/UE obligă statele membre să aplice actele cu putere de lege și actele administrative care transpun directiva citată de la 22 iulie 2013. Prin urmare, aplicarea prezentului regulament este, de asemenea, amânată până la aceeași dată.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului european pentru valori mobiliare,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Procedura și condițiile pentru opțiunea de a intra sub incidența Directivei 2011/61/UE
+(1) Un administrator de fonduri de investiții alternative (AFIA) care îndeplinește condițiile prevăzute la articolul 3 alineatul (2) din Directiva 2011/61/UE și care optează să intre sub incidența directivei citate trebuie să transmită o cerere de autorizare autorității competente din statul său membru de origine.
+Cererea respectă procedura prevăzută la articolul 7 alineatele (1)-(5) din Directiva 2011/61/UE și în măsurile de punere în aplicare a acesteia.
+(2) Autoritatea competentă din statul membru de origine poate scuti un AFIA menționat la alineatul (1) de obligația de a prezenta toate informațiile și documentele necesare în temeiul articolului 7 din directiva citată, cu condiția ca informațiile sau documentele care fac obiectul scutirii să fi fost deja prezentate autorității competente în vederea înregistrării în conformitate cu articolul 3 alineatul (3) din directiva citată sau în cadrul procedurii de autorizare în conformitate cu articolul 5 din Directiva 2009/65/CE și cu condiția ca aceste informații și documente să fie încă actuale, fapt care este confirmat în scris de AFIA.
+(3) Autoritatea competentă din statul membru de origine acordă o autorizație respectând aceeași procedură ca cea prevăzută la articolul 8 alineatele (1)-(5) din Directiva 2011/61/UE.
+Articolul 2
+Intrarea în vigoare și aplicarea
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 22 iulie 2013.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 15 mai 2013.
+Pentru Comisie
+Președintele
+José Manuel BARROSO
+(1) JO L 174, 1.7.2011, p. 1.
+(2) JO L 302, 17.11.2009, p. 32.
