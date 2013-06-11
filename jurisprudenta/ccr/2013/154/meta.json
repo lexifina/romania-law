@@ -1,0 +1,197 @@
+{
+ "key": "dcc-154-2013",
+ "label": "Decizia CCR nr. 154/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "154",
+ "date": "2013-03-12",
+ "year": "2013",
+ "heading": "DECIZIE nr. 154 din 12 martie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 8 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "341",
+  "bis": false,
+  "date": "2013-06-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "21.847/3/2012",
+  "1.359D/2012",
+  "2.512/105/2012",
+  "10.379/40/2011",
+  "1.379/121/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. 8 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice, excepţie ridicată de Marian Dumitru, Florica Gabriela Vintilă (fostă Dumitru), Cristina Şerban, Rodica Vornicu, Emilia Atofanei, Sofica Alina Ghiur, Mihaela Carmen Marcu, Laurenţiu Stancu, Carmen Florentina Bardas, Andreea Dumitriu, Irina Fieraru, Paula Dobrilă (fostă Boboc), Alina Maria Olteanu, Gabriela Iosifescu, Elena Buca, Maria Duţă, Maria Magdalena Constantin, Costina Pană, Camelia Cioacă, Eugenia Gheorghe, Ramona Anghel, Cristina Speteanu, Adriana Stoian (fostă Gavrilă) şi Alina Vasiliu în Dosarul nr. 21.847/3/2012 al Tribunalului Bucureşti - Secţia a VIII-a conflicte de muncă şi asigurări sociale, de Eleonora Căpăţână, Lucia Saulea, Antoneta Marilena Bucur, Carmen Manta, Cecilia Adela Alexandru, Ion Bunghez şi Roxana Gabriela Bugeac în Dosarul nr. 2.512/105/2012* al Tribunalului Prahova - Secţia a II-a civilă de contencios administrativ şi fiscal, de Sindicatul Poliţiştilor şi Personalului Contractual din cadrul Inspectoratului de Poliţie Judeţean Botoşani în Dosarul nr. 10.379/40/2011 al Tribunalului Botoşani - Secţia a II-a civilă, de contencios administrativ şi fiscal şi de Sindicatul Liber \"Educaţia\" din Galaţi în Dosarul nr. 1.379/121/2012 al Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-06-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/148819",
+  "text_sha256": "ddc512040f8f2107eafe25679e371fac99df4acfee6b9360aa82430eec6145ea",
+  "catalogue_sha256": "ddc512040f8f2107eafe25679e371fac99df4acfee6b9360aa82430eec6145ea",
+  "fetched": "2026-11-03T04:05:58Z",
+  "chars": 20347,
+  "portal_id": "148819",
+  "tip": "DECIZIE"
+ }
+}
