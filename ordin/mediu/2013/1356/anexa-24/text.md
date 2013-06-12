@@ -1,0 +1,21 @@
+# Anexa nr. 24
+Anexa 9a) [Antetul Administrației Fondului pentru Mediu] Nr........../Data................1) DECIZIE DE IMPUNERE Nr......2) privind obligațiile fiscale suplimentare de plată la Fondul pentru mediu stabilite de inspecția fiscală I. Datele de identificare ale contribuabilului Denumire contribuabil:............................................. Cod identificare fiscală:.......................................... Domiciliul fiscal:...............................................3) II. Datele privind obligațiile la Fondul pentru mediu II.1. Obligații fiscale verificate supuse inspecției fiscale 4)
+Nr.
+Denumire creanță fiscală.....
+Perioada verificată/
+Contribuție crt. conform art.... alin....
+Perioada pentru care stabilită lit.... din..... 5) s-au calculat obligații suplimentar fiscale accesorii 6) de plată/
+Obligații fiscale,
+De la data Până la data accesorii de plată 0
+1
+2
+3
+4
+1.
+Obligația fiscală principală
+2.
+Dobânzi de întârziere
+3.
+Penalități de întârziere
+Totalul general privind obligațiile la Fondul pentru mediu:.......... lei 7) II.2. Motivele de fapt În perioada......./...... 8) s-a efectuat inspecția fiscală la....... având ca obiect verificarea legalității și conformității declarațiilor fiscale, corectitudinii și exactității îndeplinirii obligațiilor de către contribuabili, respectării prevederilor legislației fiscale și contabile, verificarea sau stabilirea, după caz, a bazelor de impunere, stabilirea diferențelor obligațiilor de plată și a accesoriilor aferente acestora. Obligațiile suplimentare la Fondul pentru mediu au fost constatate în raportul de inspecție nr.... încheiat în data de..... 9), și anume: - obligații fiscale de plată stabilite suplimentar - anexa nr. 1 la raportul de inspecție fiscală; - accesorii calculate la obligațiile fiscale de plată stabilite suplimentar - anexa nr. 2 la raportul de inspecție fiscală; - constatări și măsuri luate - conform raportului de inspecție fiscală. II.3. Motivele de drept
+Legea nr. 500/2002 privind finanțele publice, cu modificările și completările ulterioare, Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare, Hotărârea Guvernului nr. 1.050/2004 pentru aprobarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 92/2003 privind Codul de procedură fiscală și Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu, aprobată cu modificări și completări prin Legea nr. 105/2006, cu modificările și completările ulterioare. III. Data comunicării deciziei Data comunicării "Deciziei de impunere privind obligațiile fiscale suplimentare de plată stabilite de inspecția fiscală" reprezintă: - data semnării de primire, în condițiile art. 44 alin. (2) din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare; - data înscrisă de poștă la remiterea confirmării de primire, în condițiile art. 44 alin. (2) din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare; - data la care expiră termenul de 15 zile de la data afișării anunțului publicitar, în condițiile art. 44 alin. (3) din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare. IV. Termenul de plată Diferențele de obligații de plată la Fondul pentru mediu, precum și obligațiile accesorii se plătesc în funcție de data primirii prezentei, astfel: - până la data de 5 a lunii următoare, când data comunicării este cuprinsă în intervalul 01-15 din lună; - până la data de 20 a lunii următoare, când data comunicării este cuprinsă în intervalul 16-31 din lună, în contul IBAN: RO61TREZ70674181050XXXXX, deschis la Trezoreria Sectorului 6, București. V. Dispoziții finale La prezenta decizie de impunere se anexează Raportul de inspecție fiscală care, împreună cu anexele, conține..... 10) pagini. În conformitate cu art. 205 și 207 din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare, împotriva sumelor de plată și/sau aprobate la rambursare prin prezenta decizie de impunere se poate face contestație, care se depune, în termen de 30 de zile de la comunicare, la organul fiscal emitent, sub sancțiunea decăderii. Prezenta decizie reprezintă titlu de creanță. Semnătură,................... 11)
