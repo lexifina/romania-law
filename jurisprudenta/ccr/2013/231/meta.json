@@ -1,0 +1,233 @@
+{
+ "key": "dcc-231-2013",
+ "label": "Decizia CCR nr. 231/2013",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "231",
+ "date": "2013-05-09",
+ "year": "2013",
+ "heading": "DECIZIE nr. 231 din 9 mai 2013",
+ "subtitle": "asupra cererii de soluţionare a conflictului juridic de natură constituţională dintre puterea judecătorească, reprezentată prin Consiliul Superior al Magistraturii, şi puterea executivă, reprezentată prin Guvernul României, formulată de preşedintele Consiliului Superior al Magistraturii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "347",
+  "bis": false,
+  "date": "2013-06-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "Respinge cererea formulată de Consiliul Superior al Magistraturii şi constată că nu există conflict juridic de natură constituţională între Consiliul Superior al Magistraturii şi Guvernul României.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Consiliului Superior al Magistraturii şi Guvernului României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e",
+      "a",
+      "i",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 21/2013",
+    "number": "21",
+    "year": "2013",
+    "path": "oug/2013/21"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 94/1999",
+    "number": "94",
+    "year": "1999",
+    "path": "og/1999/94"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/2001",
+    "number": "87",
+    "year": "2001",
+    "path": "lege/2001/87"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "216",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2012",
+    "number": "41",
+    "year": "2012",
+    "path": "oug/2012/41"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2012",
+    "number": "41",
+    "year": "2012",
+    "path": "lege/2012/41"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "oug/2003/92"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-06-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/148869",
+  "text_sha256": "52b2c40c279dc65fe5611185bb38ca72590faa876545743e0f12d6702ab13dea",
+  "catalogue_sha256": "52b2c40c279dc65fe5611185bb38ca72590faa876545743e0f12d6702ab13dea",
+  "fetched": "2026-11-03T04:05:56Z",
+  "chars": 41524,
+  "portal_id": "148869",
+  "tip": "DECIZIE"
+ }
+}
