@@ -1,0 +1,165 @@
+{
+ "key": "cedo-29032-04-2011-09-27",
+ "label": "CEDO, M. şi C. c. României, 2011-09-27",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2011-09-27",
+ "year": "2011",
+ "heading": "HOTĂRÂRE din 27 septembrie 2011",
+ "subtitle": "în Cauza M. şi C. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "372",
+  "bis": false,
+  "date": "2013-06-21",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "no-violation"
+ ],
+ "applications": [
+  "29032/04"
+ ],
+ "case_name": "M. şi C.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "CURTEA: 1. respinge în unanimitate excepţiile preliminare ale Guvernului; 2. declară în unanimitate cererea admisibilă; 3. hotărăşte, cu 6 voturi la 1, că a existat o încălcare a art. 3 şi art. 8 din Convenţie ca urmare a faptului că statul nu şi-a îndeplinit obligaţiile pozitive care îi revin în temeiul articolelor menţionate, în ceea ce îl priveşte pe al doilea reclamant; 4. hotărăşte în unanimitate că nu a fost încălcat art. 8 din Convenţie în ceea ce priveşte separarea primei reclamante de fiul său şi limitarea dreptului său de vizitare; 5. hotărăşte în unanimitate că nu există nicio problemă distinctă în temeiul art. 13 din Convenţie în ceea ce îl priveşte pe oricare dintre reclamanţi; 6. hotărăşte în unanimitate că nu a existat nicio încălcare a art. 14 coroborat cu art. 6 din Convenţie, în ceea ce o priveşte pe prima reclamantă, referitor la procedura care s-a finalizat prin hotărârea definitivă din 5 februarie 2004, sub aspectul întemeierii hotărârii autorităţilor naţionale pe afilierea să religioasă; 7. hotărăşte în unanimitate că nu este necesar să examineze capătul de cerere formulat de prima reclamantă în temeiul art. 6 din Convenţie, analizat separat, şi capătul de cerere formulat de cel de-al doilea reclamant în temeiul art. 6, analizat separat sau coroborat cu art. 14 din Convenţie, în ceea ce priveşte procedura care s-a finalizat prin hotărârea definitivă din 5 februarie 2004; 8. hotărăşte în unanimitate că nu este necesar să examineze capetele de cerere formulate de reclamanţi în temeiul art. 6 din Convenţie, analizat separat sau coroborat cu art. 14 din Convenţie, în ceea ce priveşte procedura care s-a finalizat prin hotărârea definitivă din 1 iunie 2005; 9. hotărăşte, cu 6 voturi la 1: (a) că statul pârât trebuie să plătească, în termen de 3 luni de la data rămânerii definitive a hotărârii în conformitate cu art. 44 § 2 din Convenţie, următoarele sume: (i) 13 000 EUR (treisprezece mii de euro) celui de-al doilea reclamant, plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral; (îi) 500 EUR (cinci sute de euro) celor doi reclamanţi, împreună, plus orice sumă ce poate fi datorată cu titlu de impozit, cu titlu de cheltuieli de judecată; (b) că sumele de mai sus trebuie convertite în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii; (c) că, de la expirarea termenului menţionat de 3 luni şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade de întârziere şi majorată cu 3 puncte procentuale; 10. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere formulate de reclamanţi."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 281/2003",
+    "number": "281",
+    "year": "2003",
+    "path": "lege/2003/281"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/149141",
+  "text_sha256": "0849f63aea32a713fa9e63f6c62794ff9ec960fa55f8af40f681154705791c57",
+  "catalogue_sha256": "0849f63aea32a713fa9e63f6c62794ff9ec960fa55f8af40f681154705791c57",
+  "fetched": "2026-11-03T04:05:38Z",
+  "chars": 91282,
+  "portal_id": "149141",
+  "tip": "HOTĂRÂRE"
+ }
+}
