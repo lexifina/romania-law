@@ -1,0 +1,5 @@
+În temeiul art. 500, 526, 532 și 546 din Legea nr. 95/2006 privind reforma în domeniul sănătății, cu modificările și completările ulterioare, și al art. 34 și 35 din Regulamentul de organizare și funcționare a Colegiului Medicilor Dentiști din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007 , cu modificările ulterioare, Consiliul național al Colegiului Medicilor Dentiști din România adoptă următoarea decizie:
+Articolul I
+Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 15/2012 privind componența Comisiei superioare de disciplină a Colegiului Medicilor Dentiști din România, publicată în Monitorul Oficial al României, Partea I, nr. 123 din 20 februarie 2012, cu modificările ulterioare, se modifică după cum urmează: - La articolul 1, punctul 4 va avea următorul cuprins: "4. Răzvan Teohari Vulcănescu"
+Articolul II
+Prezenta decizie se publică în Monitorul Oficial al României, Partea I. Președintele Colegiului Medicilor Dentiști din România, Ecaterina Ionescu Deva, 20 aprilie 2013. Nr. 34. _______
