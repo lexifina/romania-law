@@ -1,0 +1,11 @@
+# HCGMB nr. 198/2013
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 198/2013
+- Adopted: 2013-06-28
+- Title: PRIVIND INAINTAREA CATRE GUVERNUL ROMANIEI A CERERII DE EMITERE A UNEI HOTARARI PRIVIND TRECEREA TERENULUI CU SUPRAFATA DE 25.570,66 MP, DIN INCINTA DETASAMENTULUI DE POMPIERI "APARATORII PATRIEI" DIN CADRUL INSPECTORATULUI PENTRU SITUATII DE URGENTA "DEALUL SPIRII" AL MUNICIPIULUI BUCURESTI DIN PROPRIETATEA PUBLICA A STATULUI SI DIN ADMINISTRAREA MINISTERULUI AFACERILOR INTERNE, IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI SE ABROGA PRIN HCGMB NR. 36/2014
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32632
+- Document: https://doc.pmb.ro/legis/acteinterne/2013/32632/H198_13.pdf
+- Document sha256: b2c2710c25a666d132df0f64b958c484bfffb80885717d5627cdf097725fdb79
