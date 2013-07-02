@@ -1,0 +1,252 @@
+{
+ "key": "dcc-293-2013",
+ "label": "Decizia CCR nr. 293/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "293",
+ "date": "2013-05-23",
+ "year": "2013",
+ "heading": "DECIZIE nr. 293 din 23 mai 2013",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "397",
+  "bis": false,
+  "date": "2013-07-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "47.050/3/2010",
+  "157D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "244-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Felicia Marpozan şi Sorin-Nicolae Marpozan în Dosarul nr. 47.050/3/2010 al Curţii de Apel Bucureşti - Secţia a IV-a civilă şi constată că dispoziţiile art. 244^1 alin. 1 teza finală din Codul de procedură civilă din 1865 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a IV-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "244-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "316",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "244-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-07-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/149413",
+  "text_sha256": "28f5fa56616ae7d585fd11f8614c0b8f92a25dc9ad7760277786d569025fe7a2",
+  "catalogue_sha256": "28f5fa56616ae7d585fd11f8614c0b8f92a25dc9ad7760277786d569025fe7a2",
+  "fetched": "2026-11-06T00:42:56Z",
+  "chars": 11013,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250405235727/https://legislatie.just.ro/Public/DetaliiDocumentAfis/149413",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/149413",
+   "timestamp": "20250405235727",
+   "sha256": "e50b0fe0d1963d0858656460beb3c0eb83e82417fa758c2f79356603ee988f64"
+  },
+  "portal_id": "149413",
+  "tip": "DECIZIE"
+ }
+}
