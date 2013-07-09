@@ -1,0 +1,165 @@
+{
+ "key": "dcc-254-2013",
+ "label": "Decizia CCR nr. 254/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "254",
+ "date": "2013-05-21",
+ "year": "2013",
+ "heading": "DECIZIE nr. 254 din 21 mai 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7 din Ordonanţa de urgenţă a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "415",
+  "bis": false,
+  "date": "2013-07-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.544/55/2010",
+  "162D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Isai Nistor Faur în Dosarul nr. 17.544/55/2010 al Tribunalului Arad - Secţia civilă şi constată că dispoziţiile art. 7 din Ordonanţa de urgenţă a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă sunt constituţionale în raport de criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Arad - Secţia civilă şi se publică în Monitorul Oficial al Românei, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 47/2008",
+    "number": "47",
+    "year": "2008",
+    "path": "oug/2008/47"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-07-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/149646",
+  "text_sha256": "6792673b9a5e8882b7a0981f1a6d79ca1515d55eabe36ed824f93cc85c02d041",
+  "catalogue_sha256": "6792673b9a5e8882b7a0981f1a6d79ca1515d55eabe36ed824f93cc85c02d041",
+  "fetched": "2026-11-03T04:05:08Z",
+  "chars": 11106,
+  "portal_id": "149646",
+  "tip": "DECIZIE"
+ }
+}
