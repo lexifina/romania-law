@@ -1,0 +1,195 @@
+{
+ "key": "cedo-9718-03-2011-06-26",
+ "label": "CEDO, Georgel şi Georgeta Stoicescu c. României, 2011-06-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2011-06-26",
+ "year": "2011",
+ "heading": "HOTĂRÂRE din 26 iunie 2011",
+ "subtitle": "în Cauza Georgel şi Georgeta Stoicescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "416",
+  "bis": false,
+  "date": "2013-07-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "9718/03"
+ ],
+ "case_name": "Georgel şi Georgeta Stoicescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. respinge excepţia preliminară a Guvernului; 2. declară cererea admisibilă; 3. hotărăşte cu 6 voturi la 1 că a fost încălcat art. 8 din Convenţie; 4. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 5. hotărăşte",
+  "a) că statul pârât trebuie să plătească domnului Georgel Stoicescu, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume care trebuie convertite în moneda naţională la rata de schimb aplicabilă la data plăţii, plus orice taxă care poate fi percepută la aceste sume:",
+  "(i) 9 000 EUR (nouă mii de euro) cu titlu de prejudiciu moral; (îi) 20 EUR (douăzeci de euro) pentru cheltuieli de judecată;",
+  "b) că, de la expirarea perioadei de 3 luni menţionate anterior şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea sanitară veterinară nr. 60/1974",
+    "number": "60",
+    "year": "1974",
+    "path": "lege/1974/60"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "oug/2001/155"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2004",
+    "number": "205",
+    "year": "2004",
+    "path": "lege/2004/205"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/2008",
+    "number": "9",
+    "year": "2008",
+    "path": "lege/2008/9"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/149669",
+  "text_sha256": "8a98a93fd7ce7d5508e5621919b338f74ec1aed7ea8cb41c427f4def532888c2",
+  "catalogue_sha256": "8a98a93fd7ce7d5508e5621919b338f74ec1aed7ea8cb41c427f4def532888c2",
+  "fetched": "2026-11-03T04:05:07Z",
+  "chars": 54091,
+  "portal_id": "149669",
+  "tip": "HOTĂRÂRE"
+ }
+}
