@@ -1,0 +1,180 @@
+{
+ "key": "iccj-ril-10-2013",
+ "label": "Decizia ÎCCJ nr. 10/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "10",
+ "date": "2013-06-10",
+ "year": "2013",
+ "heading": "DECIZIE nr. 10 din 10 iunie 2013",
+ "subtitle": "privind recursul în interesul legii referitor la interpretarea şi aplicarea dispoziţiilor art. 27 teza I raportat la art. 14 alin. (1), art. 25 alin. (2) şi art. 31 alin. (1) din Ordonanţa Guvernului nr. 2/2001",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "450",
+  "bis": false,
+  "date": "2013-07-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "7/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 27 teza I raportat la art. 14 alin. (1), art. 25 alin. (2) şi art. 31 alin. (1) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, cu modificările şi completările ulterioare, stabileşte că:",
+  "Modalitatea de comunicare a procesului-verbal de contravenţie şi a înştiinţării de plată, prin afişare la domiciliul sau sediul contravenientului, este subsidiară comunicării prin poştă, cu aviz de primire.",
+  "Cerinţa comunicării procesului-verbal de contravenţie şi a înştiinţării de plată este îndeplinită şi în situaţia refuzului expres al primirii corespondenţei, consemnat în procesul-verbal încheiat de funcţionarul poştal.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2011",
+    "number": "2",
+    "year": "2011",
+    "path": "og/2011/2"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-07-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150021",
+  "text_sha256": "6ed044e50cea6ff211c460143ef0af116ce7da21bff2b586aeec2b1e15e0ff41",
+  "catalogue_sha256": "6ed044e50cea6ff211c460143ef0af116ce7da21bff2b586aeec2b1e15e0ff41",
+  "fetched": "2026-11-03T04:04:46Z",
+  "chars": 25199,
+  "portal_id": "150021",
+  "tip": "DECIZIE"
+ }
+}
