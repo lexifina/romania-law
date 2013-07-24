@@ -1,0 +1,213 @@
+{
+ "key": "iccj-ril-12-2013",
+ "label": "Decizia ÎCCJ nr. 12/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "12",
+ "date": "2013-06-10",
+ "year": "2013",
+ "heading": "DECIZIE nr. 12 din 10 iunie 2013",
+ "subtitle": "privind examinarea recursului în interesul legii, privind interpretarea şi aplicarea dispoziţiilor art. 14 şi art. 20 alin. (1)-(3) din Legea nr. 146/1997",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - Completul competent să judece recursul în interesul legii",
+ "mo": {
+  "number": "458",
+  "bis": false,
+  "date": "2013-07-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "9/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "o"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "373-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "665",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 3 lit. o) din Legea nr. 146/1997 privind taxele judiciare de timbru, cu modificările şi completările ulterioare, cu referire la art. 373^1 din Codul de procedură civilă, republicat, cu modificările şi completările ulterioare, ori, după caz, la art. 665 din Codul de procedură civilă, adoptat prin Legea nr. 134/2010, republicată, cu modificările şi completările ulterioare, stabileşte că:",
+  "Cererea de încuviinţare a executării silite formulată de către un creditor împotriva aceluiaşi debitor, în baza mai multor titluri executorii, se timbrează în funcţie de fiecare titlu executoriu supus verificării instanţei de executare.",
+  "Dispoziţiile art. 12 din Normele metodologice pentru aplicarea Legii nr. 146/1997 privind taxele judiciare de timbru, aprobate prin Ordinul ministrului justiţiei nr. 760/C/1999, se aplică şi cererilor de încuviinţare a executării silite formulate în baza unui titlu executoriu, împotriva aceluiaşi debitor, de către mai mulţi creditori aflaţi într-un raport de indivizibilitate sau de solidaritate.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "373-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "665",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "663",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "664",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "373-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "665",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150095",
+  "text_sha256": "79400aa7bc5bbfdd35ae6ce3f9e778d79b722a52f71949fccc29643c9d9e8678",
+  "catalogue_sha256": "79400aa7bc5bbfdd35ae6ce3f9e778d79b722a52f71949fccc29643c9d9e8678",
+  "fetched": "2026-11-03T04:04:45Z",
+  "chars": 34618,
+  "portal_id": "150095",
+  "tip": "DECIZIE"
+ }
+}
