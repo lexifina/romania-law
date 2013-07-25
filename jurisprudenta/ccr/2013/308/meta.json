@@ -1,0 +1,176 @@
+{
+ "key": "dcc-308-2013",
+ "label": "Decizia CCR nr. 308/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "308",
+ "date": "2013-06-13",
+ "year": "2013",
+ "heading": "DECIZIE nr. 308 din 13 iunie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. b) teza a doua şi cea finală, ale art. 11 alin. (3) teza finală şi ale art. 14 alin. (2) şi din Ordonanţa de urgenţă a Guvernului nr. 28/1999 privind obligaţia agenţilor economici de a utiliza aparate de marcat electronice fiscale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "461",
+  "bis": false,
+  "date": "2013-07-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.135/271/2011",
+  "219D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. b) teza a doua şi cea finală, ale art. 11 alin. (3) teza finală şi ale art. 14 alin. (2) şi din Ordonanţa de urgenţă a Guvernului nr. 28/1999 privind obligaţia agenţilor economici de a utiliza aparate de marcat electronice fiscale, excepţie ridicată de Societatea Comercială Helmetex - S.R.L. din Oradea în Dosarul nr. 5.135/271/2011 al Tribunalului Bihor - Secţia a II-a civilă, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bihor - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-07-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150117",
+  "text_sha256": "934682f481c50eca4680c5fa388d73d2dd42bf8b92cbd0dd954c5b4931fb8d36",
+  "catalogue_sha256": "934682f481c50eca4680c5fa388d73d2dd42bf8b92cbd0dd954c5b4931fb8d36",
+  "fetched": "2026-11-03T04:04:39Z",
+  "chars": 16155,
+  "portal_id": "150117",
+  "tip": "DECIZIE"
+ }
+}
