@@ -1,0 +1,196 @@
+{
+ "key": "cedo-23456-04-2013-04-16",
+ "label": "CEDO, Bernd c. României, 2013-04-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-04-16",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 16 aprilie 2013",
+ "subtitle": "în Cauza Bernd împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECŢIA A TREIA",
+ "mo": {
+  "number": "471",
+  "bis": false,
+  "date": "2013-07-30",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "23456/04"
+ ],
+ "case_name": "Bernd",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie (dreptul la un proces echitabil); 3. hotărăşte că nu este necesar să examineze separat capătul de cerere întemeiat pe art. 6 din Convenţie referitor la rezultatul procedurii şi imparţialitatea instanţelor; 4. hotărăşte că nu este necesar să se examineze capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie; 5. hotărăşte",
+  "a) că statul pârât trebuie să plătească, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "i) 3.000 EUR (trei mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral; îi) 3.000 EUR (trei mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit de către reclamant, pentru cheltuielile de judecată, care trebuie plătiţi direct avocatului care l-a reprezentat pe reclamant în faţa Curţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "6. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului vamal",
+    "path": "lege/2006/86",
+    "slug": "legea-86-2006"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150215",
+  "text_sha256": "17867827b26e234593af0a07dcdc3faeb03a2d798faecf6b1cfe16296d0f54ea",
+  "catalogue_sha256": "17867827b26e234593af0a07dcdc3faeb03a2d798faecf6b1cfe16296d0f54ea",
+  "fetched": "2026-11-03T04:04:33Z",
+  "chars": 28651,
+  "portal_id": "150215",
+  "tip": "HOTĂRÂRE"
+ }
+}
