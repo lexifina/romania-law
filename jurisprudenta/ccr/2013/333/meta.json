@@ -1,0 +1,223 @@
+{
+ "key": "dcc-333-2013",
+ "label": "Decizia CCR nr. 333/2013",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "333",
+ "date": "2013-06-26",
+ "year": "2013",
+ "heading": "DECIZIE nr. 333 din 26 iunie 2013",
+ "subtitle": "asupra obiecţiei de neconstituţionalitate a dispoziţiilor pct. 6.4 şi pct. 6.10 din anexa la Legea privind Memorandumul de înţelegere încheiat între statul român şi The Rompetrol Group N.V., semnat la Bucureşti la 15 februarie 2013",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "475",
+  "bis": false,
+  "date": "2013-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecţia de neconstituţionalitate formulată de 80 de deputaţi aparţinând grupurilor parlamentare ale Partidului Democrat Liberal, Uniunii Democrate Maghiare din România şi Partidului Poporului - Dan Diaconescu, şi constată că pct. 6.4 şi pct. 6.10 din anexa la Legea privind Memorandumul de înţelegere încheiat între statul român şi The Rompetrol Group N.V., semnat la Bucureşti la 15 februarie 2013 sunt constituţionale, în raport de criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "407",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "409",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "410",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "438",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "439",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "440",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "441",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "436",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "437",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 590/2003",
+    "number": "590",
+    "year": "2003",
+    "path": "lege/2003/590"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "o"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150252",
+  "text_sha256": "d0edc583d1683aae5394c71e1c671204978ec2a51f5e08004f0b4edca4a98aa4",
+  "catalogue_sha256": "d0edc583d1683aae5394c71e1c671204978ec2a51f5e08004f0b4edca4a98aa4",
+  "fetched": "2026-11-03T04:04:28Z",
+  "chars": 36424,
+  "portal_id": "150252",
+  "tip": "DECIZIE"
+ }
+}
