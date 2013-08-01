@@ -1,0 +1,222 @@
+{
+ "key": "dcc-240-2013",
+ "label": "Decizia CCR nr. 240/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "240",
+ "date": "2013-05-21",
+ "year": "2013",
+ "heading": "DECIZIE nr. 240 din 21 mai 2013",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "479",
+  "bis": false,
+  "date": "2013-08-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.636/120/2012",
+  "84D/2013",
+  "189D/2013",
+  "3.678/2/2011",
+  "258D/2013",
+  "15.293/86/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Elena Stanciu, Elena Claudia Grigorescu, Verginia Comnan, Axinia Niţă, Maria Tănase, Ana Maria Bădăuţă, Ionela Bădăuţă, Maria Mihalache, Loredana Neguţ, Victoria Milea, Antuaneta Bidică, Denisa Dicu, Elena Budoi, Aurelia Găman, Tatiana Rădulescu, Maria Stoica, Ana Popa, Mina Ecaterina Neacşu, Maria Popescu, Claudiu Chiţescu, Gheorghiţa Ancuţa, Nicoleta Petrache, Nina Dobrescu, Roxana Marinescu, Ofelia Brânzaru Soceanu, Graţiela Georgesu, Melania Georgescu, Daniela Chirescu, Adriana Galiş, Cornelia Ţuţulea, Laura Nicoleta Ciotău, Mariana Daniela Diaconu, Mădălina Stan, Elena Sorina Savu, Maria Lineta, Lăzărica Stăncescu, Melania Matache, Roxana Mocănescu, Oana Neagu, Adriana Postolache, Niculina Badea, Ana Maria Gabilea Vasile, Elena Nicolae, Rodica Elena Oprea, Nicoleta Maria Tudor, Gabriela Balcan, Elena Moşteanu, Nela Mireşean, Elena Manuela Ştefan, Georgiana Rădulescu, Irina Mihaela Simion, Niculina Radu, Tinca Ionciu, Gheorghe Gându, Maria Sîrbu, Romeo Duţă, Gheorghe Diniţoiu, Nineta Drăguşin, Radu Sprânceană, Daniel Dumitrescu, Mihail Cristian Petrică şi Manuela Pârvu în Dosarul nr. 2.636/120/2012 al Tribunalului Dâmboviţa - Secţia civilă, de Dragoş Chiriac, Geanina Cristinela Muntean, Diana Sima, Aurelian Mocan, Cornelia Mureşan, Teodora Ţîmpea, Elena Dumbrăvean, Hadrian Lupesan, Daniela Gaşpar, Ileana Simion, Alexandra Paştiu, Andrei Băncilă, Carmen Lupe, Mădălina Şerban, Mihai Paşca, Sebastian Naşcu, Amelia Fonoage, Lucia Pascaru Pag, Luminiţa Valuch, Silvia Iosa, Carmen Trif, Georgeta Bişu Predan, Livia Damian, Georgeta Iliescu, Claudiu Pop, Adela Arion Blanca, Mirela Poleac, Maria Keresztes, şi Florica Şchiopu în Dosarul nr. 3.678/2/2011 al Tribunalului Alba - Secţia I civilă şi de Maria Zetu, Lăcrămioara Elena Avram, Valeria Antonovici, Sînziana Dorina Hâj, Sorin Adrian Fedorciuc, Maria Halip, Lăcrămioara Paula Maxim şi Axenia Bădeliţă în Dosarul nr. 15.293/86/2012 al Tribunalului Suceava - Secţia de contencios administrativ şi fiscal, şi constată că dispoziţiile art. 8 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Dâmboviţa - Secţia civilă, Tribunalului Alba - Secţia I civilă şi Tribunalului Suceava - Secţia de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-08-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150360",
+  "text_sha256": "3df940988e266060a6a40a1af354a7d2173be6d3d707235eeddc7a987fd1bfb8",
+  "catalogue_sha256": "3df940988e266060a6a40a1af354a7d2173be6d3d707235eeddc7a987fd1bfb8",
+  "fetched": "2026-11-06T03:43:43Z",
+  "chars": 19804,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406063642/https://legislatie.just.ro/Public/DetaliiDocumentAfis/150360",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/150360",
+   "timestamp": "20250406063642",
+   "sha256": "5b5cfc8a7ef1fe71beda37dc23ab111944e403da09569d1ba636cbefd0cac41a"
+  },
+  "portal_id": "150360",
+  "tip": "DECIZIE"
+ }
+}
