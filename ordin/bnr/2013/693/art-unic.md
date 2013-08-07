@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale CAMAD LEASING IFN - S.A., cu sediul în București, Str. Vulturilor nr. 98A, sectorul 3, înregistrată la Registrul Comerțului cu nr. J40/706/2004, cod unic de înregistrare 16066249, înscrisă în Registrul general la secțiunea h) - "Leasing financiar" sub nr. RG-PJR-41-080084. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 12 iulie 2013. Nr. 693. ----
