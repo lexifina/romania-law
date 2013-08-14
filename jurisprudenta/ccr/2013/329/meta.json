@@ -1,0 +1,218 @@
+{
+ "key": "dcc-329-2013",
+ "label": "Decizia CCR nr. 329/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "329",
+ "date": "2013-06-25",
+ "year": "2013",
+ "heading": "DECIZIE nr. 329 din 25 iunie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 8 din cap. I al anexei nr. 5 la Legea nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "511",
+  "bis": false,
+  "date": "2013-08-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.516/97/2012",
+  "6.444/87/2012",
+  "7.743/97/2012",
+  "7.518/97/2012",
+  "6.713/87/2012",
+  "717/87/2013",
+  "6.632/113/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 8 din cap. I al anexei nr. 5 la Legea nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, excepţie ridicată de Sindicatul Învăţământului Preuniversitar din Judeţul Hunedoara în Dosarul nr. 7.516/97/2012 al Tribunalului Hunedoara - Secţia litigii de muncă şi asigurări sociale, de Sindicatul Învăţământului Preuniversitar Teleorman în Dosarul nr. 6.444/87/2012 al Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale şi contencios administrativ fiscal, de Sindicatul Învăţământului Preuniversitar din Judeţul Hunedoara în Dosarul nr. 7.743/97/2012 al Tribunalului Hunedoara - Secţia litigii de muncă şi asigurări sociale, de Sindicatul Învăţământului Preuniversitar Judeţul Hunedoara în Dosarul nr. 7.518/97/2012 al Tribunalului Hunedoara - Secţia litigii de muncă şi asigurări sociale, de Anişoara Dobre (Pelin) în Dosarul nr. 6.713/87/2012 al Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal, de Sindicatul Învăţământului Preuniversitar Teleorman în Dosarul nr. 717/87/2013 al Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale, contencios administrativ şi fiscal şi de Viorel-Sebastian Bratosin în Dosarul nr. 6.632/113/2012 al Tribunalului Brăila - Secţia civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Hunedoara - Secţia litigii de muncă şi asigurări sociale, Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale şi contencios administrativ fiscal şi Tribunalului Brăila - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-08-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150665",
+  "text_sha256": "1d4afd033363e89d0860b175776cf90a125f8367e8dc5f5f8a50e9801b567919",
+  "catalogue_sha256": "1d4afd033363e89d0860b175776cf90a125f8367e8dc5f5f8a50e9801b567919",
+  "fetched": "2026-11-03T04:04:14Z",
+  "chars": 29973,
+  "portal_id": "150665",
+  "tip": "DECIZIE"
+ }
+}
