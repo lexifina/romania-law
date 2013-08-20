@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale EURO LEASING IFN - S.A., cu sediul social în Brașov, Str. 13 Decembrie nr. 31, județul Brașov, înregistrată la Oficiul Registrului Comerțului cu nr. J08/1936/2003, cod unic de înregistrare RO 15795320, înscrisă în Registrul general ținut la Banca Națională a României la secțiunea h) "Leasing financiar" cu nr. RG-PJR-08-080098. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 5 august 2013. Nr. 750. ------
