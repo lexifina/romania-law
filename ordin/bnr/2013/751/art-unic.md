@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare ținut la Banca Națională a României a Societății Comerciale SICARO LEASING IFN - S.A., cu sediul social în Brașov, Bd. Gării nr. 1, bl. 2, sc. C, ap. 8, județul Brașov, înregistrată la Registrul Comerțului cu nr. J08/1872/2006, cod unic de înregistrare 18915685, înscrisă în Registrul general la secțiunea k) - "Activități multiple de creditare" cu nr. RG-PJR-08-110022. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 5 august 2013. Nr. 751. ------
