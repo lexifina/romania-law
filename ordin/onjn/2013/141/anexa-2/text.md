@@ -1,0 +1,3 @@
+# Anexa 2
+Insigna
+Descriere insignă: Forma: rotundă, în două cercuri concentrice. În cercul din mijloc, pe fondul Tricolorului României, în partea de sus, este stema României, cu contur negru, iar dedesubt, cu majuscule, în relief, sunt înscrise cu litere albe ONJN (acronimul Oficiului Național pentru Jocuri de Noroc). În cercul exterior, pe fond auriu, cu litere negre, este înscrisă cu majuscule denumirea autorității "OFICIUL NAȚIONAL PENTRU JOCURI DE NOROC", cu înscrisul spre interior, iar în partea de jos, cu literele orientate vertical, într-un ribon inscripționat "ROMÂNIA". Culori: roșu, galben și albastru sidefat, auriu, negru, alb.
