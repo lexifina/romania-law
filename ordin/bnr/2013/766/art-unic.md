@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale FER LEASING IFN - S.A., cu sediul social în municipiul Constanța, bd. 1 Decembrie 1918 nr. 3, bl. F17, sc. A, et. 1, ap. 5, județul Constanța, înregistrată la oficiul registrului comerțului cu nr. J13/2971/2008, cod unic de înregistrare 24350941, înscrisă în Registrul general la secțiunea h) "Leasing financiar" cu nr. RG-PJR-14-080257. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 13 august 2013. Nr. 766. ------
