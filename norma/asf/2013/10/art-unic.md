@@ -1,0 +1,2 @@
+# Articolul unic
+Norma nr. 4/2007 privind autorizarea fondului de pensii administrat privat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 22/2007 , publicată în Monitorul Oficial al României, Partea I, nr. 182 din 16 martie 2007, se completează după cum urmează: - După Capitolul II se introduce un nou capitol, capitolul II^1, cuprinzând articolele 7^1-7^12, cu următorul cuprins: "CAP. II^1 Procedura de modificare a contractului de societate
