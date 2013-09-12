@@ -1,0 +1,179 @@
+{
+ "key": "iccj-ril-8-2013",
+ "label": "Decizia ÎCCJ nr. 8/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "8",
+ "date": "2013-06-10",
+ "year": "2013",
+ "heading": "DECIZIE nr. 8 din 10 iunie 2013",
+ "subtitle": "privind examinarea recursului în interesul legii formulat de către procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie privind caracterul acţiunii în pronunţarea unei hotărâri judecătoreşti care să ţină loc de act autentic de vânzare-cumpărare a unui imobil şi stabilirea competenţei teritoriale în judecarea acestei acţiuni",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - Completul competent să judece recursul în interesul legii",
+ "mo": {
+  "number": "581",
+  "bis": false,
+  "date": "2013-09-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "5/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "Stabileşte că acţiunea prin care se solicită pronunţarea unei hotărâri judecătoreşti care să ţină loc de act autentic de vânzare-cumpărare a unui imobil are caracterul unei acţiuni personale imobiliare.",
+  "Competenţa teritorială de soluţionare a unei astfel de acţiuni, înregistrată înainte de data de 15 februarie 2013, se determina în condiţiile art. 5, 7 şi, respectiv, art. 10 pct. 1 din Codul de procedură civilă în vigoare la data înregistrării cererii.",
+  "Obligatorie, conform art. 517 alin. (4) din noul Cod de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1077",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-09-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151386",
+  "text_sha256": "9f159ea41ec566768608f659f6e691ad8d000a2837051cc265a40685066afc80",
+  "catalogue_sha256": "9f159ea41ec566768608f659f6e691ad8d000a2837051cc265a40685066afc80",
+  "fetched": "2026-11-03T04:03:22Z",
+  "chars": 16973,
+  "portal_id": "151386",
+  "tip": "DECIZIE"
+ }
+}
