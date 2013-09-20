@@ -1,0 +1,158 @@
+{
+ "key": "cedo-36900-03-2008-11-25",
+ "label": "CEDO, Toşcuţă şi alţii c. României, 2008-11-25",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2008-11-25",
+ "year": "2008",
+ "heading": "HOTĂRÂRE din 25 noiembrie 2008",
+ "subtitle": "în Cauza Toşcuţă şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "592",
+  "bis": false,
+  "date": "2013-09-20",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "36900/03",
+  "36900/02"
+ ],
+ "case_name": "Toşcuţă şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1; 2. hotărăşte că nu este necesar să se pronunţe cu privire la admisibilitatea şi fondul capetelor de cerere întemeiate pe art. 6 § 1 din convenţie; 3. hotărăşte că a fost încălcat art. 1 din Protocolul nr. 1; 4. hotărăşte că nu se pune problema aplicării art. 41 din convenţie; în consecinţă",
+  "a) amână pronunţarea în ceea ce priveşte prejudiciul material;",
+  "b) solicită Guvernului şi reclamanţilor să îi adreseze în scris, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din convenţie, observaţiile lor cu privire la această problemă şi să o informeze în special despre orice acord la care vor ajunge;",
+  "c) nu se pronunţă asupra procedurii ulterioare şi deleagă preşedintelui camerei sarcina de a o stabili la nevoie;",
+  "5. hotărăşte:",
+  "a) că statul pârât trebuie să plătească solidar reclamanţilor, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din convenţie, suma de 4.000 EUR (patru mii euro) pentru toate cheltuielile, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "b) că sumele în cauză vor fi convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "c) că, începând de la data expirării termenului amintit şi până la momentul efectuării plăţii, aceste sume vor fi majorate cu o dobândă simplă, a cărei rată este egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană în perioada respectivă, la care se vor adăuga 3 puncte procentuale."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 131/1991",
+    "number": "131",
+    "year": "1991",
+    "path": "hg/1991/131"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151502",
+  "text_sha256": "3946692cda3d5a095b27a514f05828eb60edef887ddb89de554a4db26e8ef6b8",
+  "catalogue_sha256": "3946692cda3d5a095b27a514f05828eb60edef887ddb89de554a4db26e8ef6b8",
+  "fetched": "2026-11-03T04:03:13Z",
+  "chars": 25631,
+  "portal_id": "151502",
+  "tip": "HOTĂRÂRE"
+ }
+}
