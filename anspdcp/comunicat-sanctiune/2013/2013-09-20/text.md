@@ -1,0 +1,6 @@
+Comunicat de presă
+Președintele Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal, Anca OPRE, a dispus aplicarea unei amenzi contravenționale în cuantum de 5.000 lei Parchetului de pe lângă Judecătoria Sectorului 1, București, pentru prelucrarea nelegală a datelor cu caracter personal, prevăzută de art. 32 din Legea nr. 677/2001 prin încălcarea prevederilor art. 5 din Legea nr. 677/2001.
+În fapt, Parchetul de pe lângă Judecătoria Sectorului 1, București, în cadrul unei declarații de presă a Purtătorului de cuvânt, a dezvăluit numele și prenumele victimei unei agresiuni sexuale fără consimțământul acesteia, acordat în mod expres și neechivoc.
+În investigația realizată s-a constatat că operatorul nu a efectuat niciun instructaj Purtătorului de cuvânt cu privire la protecția datelor cu caracter personal în cadrul activității desfășurate în relația cu Mass-Media
+În considerarea riscurilor asupra vieții private a unui număr semnificativ de persoane, Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a dispus, de asemenea, ca operatorul sancționat să întocmească un document din care să reiasă efectuarea unor instructaje purtătorilor de cuvânt ai operatorului privind protecția datelor cu caracter personal ale persoanelor vizate în relația cu Mass-Media.
+Biroul juridic și comunicare 20 septembrie 2013
