@@ -1,0 +1,43 @@
+{
+ "key": "cjue-c-78-13-ordonanta-2013-10-03",
+ "label": "CJUE, Ordonanța Curții (Camera a zecea) din 3 octombrie 2013, Cauza C-78/13 P",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2013-10-03",
+ "year": "2013",
+ "case": "Cauza C-78/13 P",
+ "celex": "62013CO0078",
+ "ecli": "ECLI:EU:C:2013:653",
+ "heading": "Ordonanța Curții (Camera a zecea) din 3 octombrie 2013",
+ "formation": "CHAMB_10_C",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "defendant",
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Recurs – Reprezentare de către un avocat – Acțiune având ca obiect legalitatea unor decizii adoptate de instanțe naționale – Acțiune vădit inadmisibilă",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013CO0078",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-78/13&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/111c0288-47cd-409c-96b2-db7bf8d33a4a.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "eba8ab51103f4e27cb73f73047c0fc3f8fb1dce3a4622aa142a9875dedb2dc4f"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
