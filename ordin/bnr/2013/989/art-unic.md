@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale BT MEDICAL LEASING IFN - S.A., cu sediul în municipiul București, Șos. București-Ploiești, CR BT nr. 43, sectorul 1, înregistrată la registrul comerțului cu nr. J40/502/2003, cod unic de înregistrare 15131063, înscrisă în Registrul general la secțiunea k) "Activități multiple de creditare" cu nr. RG-PJR-41-110154. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 3 octombrie 2013. Nr. 989. -----
