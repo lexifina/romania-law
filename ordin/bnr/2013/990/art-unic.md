@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale DEL FIN LEASING IFN - S.A., cu sediul în municipiul București, str. Matei Voievod nr. 40, sectorul 2, înregistrată la oficiul registrului comerțului cu nr. J40/1975/2000, cod unic de înregistrare 12751508, înscrisă în Registrul general la secțiunea k) "Activități multiple de creditare" cu nr. RG-PJR-41-110009. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 3 octombrie 2013. Nr. 990. -----
