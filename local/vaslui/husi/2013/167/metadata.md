@@ -1,0 +1,10 @@
+# HCL Huși nr. 167/2013
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Municipiului Huși
+- Decision: nr. 167/2013
+- Adopted: 2013-10-16
+- Record: https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_167_2013.pdf
+- Document: https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_167_2013.pdf
+- Document sha256: 398e0f49fa72b18413fc6cfbff48ec188582890ab18008d2132cb0bf509f21e9
