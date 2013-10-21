@@ -1,0 +1,495 @@
+{
+ "key": "dcc-383-2013",
+ "label": "Decizia CCR nr. 383/2013",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "383",
+ "date": "2013-09-25",
+ "year": "2013",
+ "heading": "DECIZIE nr. 383 din 25 septembrie 2013",
+ "subtitle": "asupra obiecţiei de neconstituţionalitate a Legii pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân, astfel cum a fost aprobată prin Legea nr. 227/2002, precum şi, în special, a dispoziţiilor: art. I pct. 2 [referitor la introducerea art. 1^1], art. I pct. 5 [referitor la modificarea art. 4 alin. (4)], art. I pct. 6 [referitor la modificarea art. 5 alin. (1)], art. I pct. 8 [referitor la modificarea art. 7 alin. (1) lit. a) şi b) şi alin. (2)], art. I pct. 9 [referitor la modificarea art. 8], art. I pct. 12 [referitor la modificarea art. 11 alin. (1)], art. I pct. 14 [referitor la introducerea art. 13^2 şi art. 13^5], art. I pct. 15 [referitor la modificarea art. 14], art. I pct. 16 [referitor la modificarea art. 15], art. I pct. 20 [referitor la modificarea anexei nr. 3], art. I pct. 21 şi pct. 22 [referitor la modificarea anexei nr. 4 şi, respectiv, nr. 5] din lege",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "644",
+  "bis": false,
+  "date": "2013-10-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "557A/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "lege/2001/155"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecţia de neconstituţionalitate şi constată că dispoziţiile Legii pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân, astfel cum a fost aprobată prin Legea nr. 227/2002, precum şi, în special, dispoziţiile: art. I pct. 2 [referitor la introducerea art. 1^1], art. I pct. 5 [referitor la modificarea art. 4 alin. (4)], art. I pct. 6 [referitor la modificarea art. 5 alin. (1)], art. I pct. 8 [referitor la modificarea art. 7 alin. (1) lit. a) şi b) şi alin. (2)], art. I pct. 9 [referitor la modificarea art. 8], art. I pct. 12 [referitor la modificarea art. 11 alin. (1)], art. I pct. 14 [referitor la introducerea art. 13^2 şi art. 13^5], art. I pct. 15 [referitor la modificarea art. 14], art. I pct. 16 [referitor la modificarea art. 15], art. I pct. 20 [referitor la modificarea anexei nr. 3], art.1 pct. 21 şi pct. 22 [referitor la modificarea anexei nr. 4 şi, respectiv, nr. 5] din lege sunt constituţionale, în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "lege/2001/155"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "oug/2001/155"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 205/2004",
+    "number": "205",
+    "year": "2004",
+    "path": "lege/2004/205"
+   },
+   "articles": [
+    {
+     "art": "7-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/2004",
+    "number": "60",
+    "year": "2004",
+    "path": "lege/2004/60"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 115/2001",
+    "number": "115",
+    "year": "2001",
+    "path": "oug/2001/115"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-10-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151942",
+  "text_sha256": "9ec24db7a7f22a3b540dc31ce38031e82cd92a9e4398ff83c1c5dade01e59460",
+  "catalogue_sha256": "9ec24db7a7f22a3b540dc31ce38031e82cd92a9e4398ff83c1c5dade01e59460",
+  "fetched": "2026-11-03T04:02:38Z",
+  "chars": 83660,
+  "portal_id": "151942",
+  "tip": "DECIZIE"
+ }
+}
