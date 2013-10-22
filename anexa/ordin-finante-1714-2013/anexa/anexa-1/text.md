@@ -1,0 +1,29 @@
+# Anexa 1
+Anexa 1
+la procedură PROTOCOL încheiat azi, ............... Între Direcția generală regională a finanțelor publice .........., cu sediul în ........., reprezentată prin director general ..............................., și Orașul/Comuna ........, cu sediul în ......, reprezentată prin primar ..............
+Articolul 1
+Orașul/Comuna ........ își exprimă acordul cu privire la încasarea impozitului și contribuțiilor aferente veniturilor din activități agricole, precum și a accesoriilor pentru neachitarea la scadență a acestora, datorate de contribuabilii cu domiciliul fiscal în raza sa teritorială.
+Articolul 2
+Lista contribuabililor care datorează obligații fiscale aferente veniturilor din activități agricole se comunică de către ........... *1) prin ............. *)2
+Articolul 3
+Alte măsuri de colaborare pe care părțile le consideră necesare pentru aplicarea art. I și III din Ordonanța Guvernului nr. 28/2013 privind reglementarea unor măsuri fiscal-bugetare: ..............................................................................
+Direcția generală regională a finanțelor
+Orașul/Comuna ................. publice ................................. Director general
+Primar Numele și prenumele .....................
+Numele și prenumele ........... Semnătura ....................
+Semnătura ............. Ștampila .....................
+Ștampila ..............
+__________ *1) Se completează cu denumirea organului fiscal competent. *2) Se completează cu modalitatea de comunicare: poștă, fax, e-mail etc.
+Anexa 2
+la procedură MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Unitatea fiscală*1) ................................ Serviciul/Biroul/Compartimentul .................... Nr. .........../............... Lista contribuabililor care datorează obligații fiscale aferente veniturilor din activități agricole luna de referință ...................
+Nr. crt. Debitor Natura obligației fiscale*2) Contul bugetar Cuantumul sumei datorate (lei)
+CNP Numele și prenumele Domiciliul fiscal
+0 1 2 3 4 5 6
+____________ *1) Se menționează denumirea organului fiscal emitent. *2) Se precizează denumirea creanței fiscale principale: impozit sau contribuție ori a creanței fiscale accesorii: dobândă sau penalitate de întârziere. Conducătorul unității fiscale Numele și prenumele ........................ Semnătura și ștampila unității .............
+Anexa 3
+la procedură Orașul/Comuna ...................................... Codul de identificare fiscală ...................... Nr. .........../............... Situația privind sumele încasate reprezentând obligații fiscale care se depun la unitatea Trezoreriei Statului ............... în data de ........................
+Nr. crt. Numele și prenumele CNP Documentul prin care s-a încasat suma în numerar Suma încasată de la contribuabil (obligație principală și accesorii)
+Nr. Data TOTAL, din care: Pentru contul 20.03.01.13 "Impozit pe venituri din activități agricole" Pentru contul 26.21.05.03.02 - Contribuții de asigurări sociale de sănătate datorate de persoanele care realizează venituri din activități independente și alte activități și persoanele care nu realizează venituri Pentru contul 20.03.01.60 "Regularizări"
+0 1 2 3 4 5 6 7 8
+TOTAL: x x x x
+Ordonator principal de credite Numele și prenumele ...................... Semnătura și ștampila .................... _____________
