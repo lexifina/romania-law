@@ -1,0 +1,57 @@
+{
+ "key": "cjue-c-431-12-hotarare-2013-10-24",
+ "label": "CJUE, Hotărârea Curții (Camera a zecea) din 24 octombrie 2013, Cauza C-431/12",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2013-10-24",
+ "year": "2013",
+ "case": "Cauza C-431/12",
+ "celex": "62012CJ0431",
+ "ecli": "ECLI:EU:C:2013:686",
+ "heading": "Hotărârea Curții (Camera a zecea) din 24 octombrie 2013",
+ "formation": "CHAMB_10_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie, Secţia de Contencios Fiscal şi Administrativ",
+   "date": "2012-06-21",
+   "national_file": "6708/2/2010"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casație și Justiție",
+ "national_followup": null,
+ "parties": "Agenția Națională de Administrare Fiscală împotriva SC Rafinăria Steaua Română SA",
+ "parties_withheld": false,
+ "keywords": "Fiscalitate – Taxă pe valoarea adăugată – Rambursarea excedentului de TVA prin compensare – Anularea notelor de compensare – Obligația de a plăti dobânzi de întârziere persoanei impozabile",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62012CJ0431",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-431/12&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/26b822df-1ab9-4ec3-b94d-258394e2bb32.0022.02/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "9f84d34ff37c6eed7e00da87610f2a2ecb78715954d0f831d71d1c34c5347e12"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a zecea) declară:",
+  "Articolul 183 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată trebuie interpretat în sensul că se opune ca o persoană impozabilă care a solicitat rambursarea excedentului de taxă pe valoarea adăugată achitată în amonte din taxa pe valoarea adăugată pe care o datorează să nu poată obține din partea administrației fiscale a unui stat membru dobânzi de întârziere aferente rambursării efectuate tardiv de această administrație pentru o perioadă în care erau în vigoare acte administrative care excludeau rambursarea și care au fost anulate ulterior printr‑o decizie judecătorească."
+ ]
+}
