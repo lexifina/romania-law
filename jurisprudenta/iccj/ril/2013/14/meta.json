@@ -1,0 +1,182 @@
+{
+ "key": "iccj-ril-14-2013",
+ "label": "Decizia ÎCCJ nr. 14/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "14",
+ "date": "2013-09-16",
+ "year": "2013",
+ "heading": "DECIZIE nr. 14 din 16 septembrie 2013",
+ "subtitle": "privind recursurile în interesul legii formulate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi Colegiul de conducere al Curţii de Apel Târgu Mureş",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "655",
+  "bis": false,
+  "date": "2013-10-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "11/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "305",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii formulate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi Colegiul de conducere al Curţii de Apel Târgu Mureş şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 312 alin. 4 din Codul procedură civilă de la 1865, în procesele începute anterior intrării în vigoare a Legii nr. 202/2010 privind unele măsuri pentru accelerarea soluţionării proceselor, în cazul rejudecării cauzei la un alt termen de judecată decât la cel la care s-a dispus admiterea recursului şi casarea cu reţinere a hotărârii atacate de către curţile de apel şi tribunale, prevederile art. 305 din Codul de procedură civilă nu sunt aplicabile.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. 4 din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "312",
+     "alin": [
+      "4",
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "315",
+     "alin": [
+      "3-1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "299",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "501",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XXII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-10-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152043",
+  "text_sha256": "29001d53cac755cbcd5a855964d2496cb22e59972a7424d6d58d30c68f652709",
+  "catalogue_sha256": "29001d53cac755cbcd5a855964d2496cb22e59972a7424d6d58d30c68f652709",
+  "fetched": "2026-11-03T04:02:32Z",
+  "chars": 22506,
+  "portal_id": "152043",
+  "tip": "DECIZIE"
+ }
+}
