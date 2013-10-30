@@ -1,0 +1,219 @@
+{
+ "key": "cedo-6978-08-2013-06-25",
+ "label": "CEDO, Gheorghe Cobzaru c. României, 2013-06-25",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-06-25",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 25 iunie 2013",
+ "subtitle": "în Cauza Gheorghe Cobzaru împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "666",
+  "bis": false,
+  "date": "2013-10-30",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "6978/08"
+ ],
+ "case_name": "Gheorghe Cobzaru",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. uneşte cu fondul excepţia de neepuizare a căilor de recurs interne şi o respinge; 2. declară cererea admisibilă cu privire la capătul de cerere întemeiat pe art. 2 din Convenţie şi inadmisibilă pentru restul; 3. hotărăşte că a fost încălcat sub aspect material şi procedural art. 2 din Convenţie; 4. hotărăşte că nu este necesar să efectueze o analiză suplimentară din perspectiva art. 6 § 1 şi art. 13 din Convenţie; 5. hotărăşte",
+  "a) ca statul pârât să îi plătească reclamantului, în termen de 3 luni de la data rămânerii definitivă a hotărârii, în conformitate cu art. 44 § 2 din convenţie, suma de 30.000 EUR (treizeci de mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, care va fi convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii, pentru prejudiciul moral;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "6. respinge cererea de acordare a unei reparaţii echitabile pentru restul capetelor de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "174",
+     "alin": null,
+     "lit": [
+      "i",
+      "g"
+     ]
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2002",
+    "number": "218",
+    "year": "2002",
+    "path": "lege/2002/218"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1996",
+    "number": "17",
+    "year": "1996",
+    "path": "lege/1996/17"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 295/2004",
+    "number": "295",
+    "year": "2004",
+    "path": "lege/2004/295"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152209",
+  "text_sha256": "05c5a986da949f7a066ea5971e8786515a908225bca78296de98951130f35e0e",
+  "catalogue_sha256": "05c5a986da949f7a066ea5971e8786515a908225bca78296de98951130f35e0e",
+  "fetched": "2026-11-03T04:02:24Z",
+  "chars": 52182,
+  "portal_id": "152209",
+  "tip": "HOTĂRÂRE"
+ }
+}
