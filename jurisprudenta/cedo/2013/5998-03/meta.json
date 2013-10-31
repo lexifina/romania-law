@@ -1,0 +1,117 @@
+{
+ "key": "cedo-5998-03-2013-07-09",
+ "label": "CEDO, Stănciulescu c. României, 2013-07-09",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-07-09",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 9 iulie 2013",
+ "subtitle": "în Cauza Stănciulescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "668",
+  "bis": false,
+  "date": "2013-10-31",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "5998/03"
+ ],
+ "case_name": "Stănciulescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "în unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1 din Convenţie referitor la securitatea raporturilor juridice şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 3. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni, 2.400 EUR (două mii patru sute euro) pentru toate prejudiciile;",
+  "b) că suma respectivă trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii şi că este necesar să se adauge la aceasta orice sumă ce poate fi datorată cu titlu de impozit;",
+  "c) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152251",
+  "text_sha256": "b62b7aff5214cf7546bef6b0f8cf647e0bc9e7fb914f580371d10f82754e531e",
+  "catalogue_sha256": "b62b7aff5214cf7546bef6b0f8cf647e0bc9e7fb914f580371d10f82754e531e",
+  "fetched": "2026-11-03T04:02:22Z",
+  "chars": 11375,
+  "portal_id": "152251",
+  "tip": "HOTĂRÂRE"
+ }
+}
