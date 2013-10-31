@@ -1,0 +1,217 @@
+{
+ "key": "dcc-346-2013",
+ "label": "Decizia CCR nr. 346/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "346",
+ "date": "2013-09-24",
+ "year": "2013",
+ "heading": "DECIZIE nr. 346 din 24 septembrie 2013",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "668",
+  "bis": false,
+  "date": "2013-10-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.870/62/2012",
+  "339D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 20 alin. (1) lit. l) din Legea nr. 85/2006 privind procedura insolvenţei, excepţie ridicată de Societatea Comercială \"Dacia Invest Grup\" - S.R.L. din Braşov, prin administrator special, în Dosarul nr. 7.870/62/2012 al Curţii de Apel Braşov - Secţia civilă şi pentru cauze cu minori şi familie, de conflicte de muncă şi asigurări sociale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Braşov - Secţia civilă şi pentru cauze cu minori şi familie, de conflicte de muncă şi asigurări sociale şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-10-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152241",
+  "text_sha256": "45cbaf1e61c71950a5c044abb51ac358fa4bea4c88d9b732902ecee931b6336e",
+  "catalogue_sha256": "45cbaf1e61c71950a5c044abb51ac358fa4bea4c88d9b732902ecee931b6336e",
+  "fetched": "2026-11-06T03:34:52Z",
+  "chars": 12350,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406222135/https://legislatie.just.ro/Public/DetaliiDocumentAfis/152241",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/152241",
+   "timestamp": "20250406222135",
+   "sha256": "ccfdc2ce03552a34039d2bcf616250442c13420cb0662a57af11e7f3cf4adc6e"
+  },
+  "portal_id": "152241",
+  "tip": "DECIZIE"
+ }
+}
