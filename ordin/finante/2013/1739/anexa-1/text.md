@@ -1,0 +1,21 @@
+# Anexa nr. 1
+Anexa 1 [Antetul structurii solicitante] Nr............/................ CERERE privind avizarea structurilor și a personalului care au ca obiect de activitate gestionarea asistenței financiare nerambursabile comunitare Stimate Domnule Ministru, În temeiul dispozițiilor art. 4 alin. (7) lit. b) și alin. (9) din Hotărârea Guvernului nr. 595/2009 pentru aplicarea Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare, cu modificările și completările ulterioare, vă rugăm să eliberați un aviz favorabil prin care să fie atestat faptul că următoarele structuri și/sau persoane din cadrul.......(denumirea structurii care solicită avizul favorabil)............ au ca obiect de activitate gestionarea asistenței financiare nerambursabile comunitare și îndeplinesc criteriile prevăzute la art. 2 din Hotărârea Guvernului nr. 595/2009, cu modificările și completările ulterioare, pentru a beneficia de majorările salariale reglementate de Legea nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare, cu modificările și completările ulterioare:
+Nr.
+crt.
+Persoanele pentru
+care se solicită
+avizarea favorabilă
+(numele și prenumele)
+Funcția
+Structura din care fac parte
+(direcția generală, direcția, serviciul,
+biroul, compartimentul)
+1.
+..................
+........
+......................................
+2.
+..................
+........
+......................................
+Persoana de contact din cadrul structurii noastre desemnată în acest sens este doamna/domnul.............. (tel..........., fax.........., e-mail................). Cu stimă,............................ (numele și prenumele)............................ (funcția) [L. S.] Domnului........................., ministrul finanțelor publice
