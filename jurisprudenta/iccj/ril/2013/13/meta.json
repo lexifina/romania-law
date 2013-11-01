@@ -1,0 +1,293 @@
+{
+ "key": "iccj-ril-13-2013",
+ "label": "Decizia ÎCCJ nr. 13/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "13",
+ "date": "2013-09-16",
+ "year": "2013",
+ "heading": "DECIZIE nr. 13 din 16 septembrie 2013",
+ "subtitle": "referitoare la recursul în interesul legii privind interpretarea şi aplicarea dispoziţiilor art. 3 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 27/2003 privind procedura aprobării tacite, aprobată cu modificări şi completări prin Legea nr. 486/2003, cu modificările şi completările ulterioare, referitor la autorizaţiile de construire, certificatele de urbanism şi documentaţiile de urbanism prevăzute în art. 6 alin. (1) şi art. 7 alin. (1) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii, republicată, cu modificările şi completările ulterioare, şi în art. 29 şi 44 din Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "674",
+  "bis": false,
+  "date": "2013-11-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "10/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 27/2003",
+    "number": "27",
+    "year": "2003",
+    "path": "oug/2003/27"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 350/2001",
+    "number": "350",
+    "year": "2001",
+    "path": "lege/2001/350"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 3 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 27/2003 privind procedura aprobării tacite, aprobată cu modificări şi completări prin Legea nr. 486/2003, cu modificările şi completările ulterioare, stabileşte că procedura aprobării tacite nu este aplicabilă în cazul autorizaţiilor de construire, certificatelor de urbanism şi documentaţiilor de urbanism prevăzute în art. 6 alin. (1) şi art. 7 alin. (1) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii, republicată, cu modificările şi completările ulterioare, şi în art. 29 şi 44 din Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul, cu modificările şi completările ulterioare.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 27/2003",
+    "number": "27",
+    "year": "2003",
+    "path": "oug/2003/27"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "20"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 350/2001",
+    "number": "350",
+    "year": "2001",
+    "path": "lege/2001/350"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2013-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152302",
+  "text_sha256": "97dd59e5c0ccc9b1b3b40561d41e1a371cd04270b343ef3f4567729ac2d7684e",
+  "catalogue_sha256": "97dd59e5c0ccc9b1b3b40561d41e1a371cd04270b343ef3f4567729ac2d7684e",
+  "fetched": "2026-11-03T04:02:19Z",
+  "chars": 40830,
+  "portal_id": "152302",
+  "tip": "DECIZIE"
+ }
+}
