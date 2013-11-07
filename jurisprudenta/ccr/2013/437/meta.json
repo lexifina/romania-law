@@ -1,0 +1,242 @@
+{
+ "key": "dcc-437-2013",
+ "label": "Decizia CCR nr. 437/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "437",
+ "date": "2013-10-29",
+ "year": "2013",
+ "heading": "DECIZIE nr. 437 din 29 octombrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. III alin. (2) şi (3) din Ordonanţa de urgenţă a Guvernului nr. 1/2013 pentru modificarea şi completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "685",
+  "bis": false,
+  "date": "2013-11-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.839/108/2013",
+  "370D/2013",
+  "371D/2013",
+  "3.840/108/2013",
+  "435D/2013",
+  "3.838/108/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2013",
+    "number": "1",
+    "year": "2013",
+    "path": "oug/2013/1"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Gheorghe Gârbovan, Aurel Barz şi Adrian Nicolae Ghilea în dosarele nr. 3.839/108/2013, nr. 3.840/108/2013 şi nr. 3.838/108/2013 ale Tribunalului Arad - Secţia civilă şi constată că dispoziţiile art. III alin. (2) şi (3) din Ordonanţa de urgenţă a Guvernului nr. 1/2013 sunt neconstituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului şi Tribunalului Arad - Secţia civilă care a sesizat Curtea Constituţională şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2013",
+    "number": "1",
+    "year": "2013",
+    "path": "oug/2013/1"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2010",
+    "number": "80",
+    "year": "2010",
+    "path": "oug/2010/80"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-11-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152425",
+  "text_sha256": "535b04479329d7e0309598a4d4ab157a230ad0734244ae37b81325ea4500c3f7",
+  "catalogue_sha256": "535b04479329d7e0309598a4d4ab157a230ad0734244ae37b81325ea4500c3f7",
+  "fetched": "2026-11-03T04:02:11Z",
+  "chars": 22373,
+  "portal_id": "152425",
+  "tip": "DECIZIE"
+ }
+}
