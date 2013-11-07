@@ -1,0 +1,62 @@
+{
+ "key": "cjue-c-249-12-hotarare-2013-11-07",
+ "label": "CJUE, Hotărârea Curții (Camera a treia) din 7 noiembrie 2013, Cauzele conexate C-249/12 și C-250/12",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2013-11-07",
+ "year": "2013",
+ "case": "Cauzele conexate C-249/12 și C-250/12",
+ "celex": "62012CJ0249",
+ "ecli": "ECLI:EU:C:2013:722",
+ "heading": "Hotărârea Curții (Camera a treia) din 7 noiembrie 2013",
+ "formation": "CHAMB_03_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie, Secţia de contencios administrativ și fiscal",
+   "date": "2012-03-15",
+   "national_file": "6957/2/2010"
+  },
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie, Secţia de contencios administrativ și fiscal",
+   "date": "2012-03-15",
+   "national_file": "731/59/2010"
+  }
+ ],
+ "referral_text": "Cereri de decizie preliminară formulate de Înalta Curte de Casație și Justiție",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Fiscalitate – TVA – Directiva 2006/112/CE – Articolele 73 și 78 – Tranzacții imobiliare efectuate de persoane fizice – Calificarea acestor tranzacții drept operațiuni impozabile – Determinarea TVA-ului datorat atunci când părțile nu au prevăzut nimic cu privire la acesta cu ocazia încheierii contractului – Existența sau inexistența unei posibilități a furnizorului de a recupera TVA-ul de la dobânditor – Consecințe",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62012CJ0249",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-249/12&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/d168ad4a-8da1-4dfe-aa0f-ba5493ea3bc2.0022.03/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "c4b954af7cde2011a1ef87fbe8067fba419032b24a7ec68cb5ddeb8f2de04d31"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a treia) declară:",
+  "Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată, în special articolele 73 și 78 din aceasta, trebuie interpretată în sensul că, atunci când prețul unui bun a fost stabilit de părți fără nicio mențiune cu privire la taxa pe valoarea adăugată, iar furnizorul bunului respectiv este persoana obligată la plata taxei pe valoarea adăugată datorate pentru operațiunea supusă taxei, prețul convenit trebuie considerat, în cazul în care furnizorul nu are posibilitatea de a recupera de la dobânditor taxa pe valoarea adăugată solicitată de administrația fiscală, ca incluzând deja taxa pe valoarea adăugată."
+ ]
+}

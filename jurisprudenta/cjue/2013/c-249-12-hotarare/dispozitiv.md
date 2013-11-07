@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera a treia) din 7 noiembrie 2013, Cauzele conexate C-249/12 și C-250/12
+
+Pentru aceste motive, Curtea (Camera a treia) declară:
+Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată, în special articolele 73 și 78 din aceasta, trebuie interpretată în sensul că, atunci când prețul unui bun a fost stabilit de părți fără nicio mențiune cu privire la taxa pe valoarea adăugată, iar furnizorul bunului respectiv este persoana obligată la plata taxei pe valoarea adăugată datorate pentru operațiunea supusă taxei, prețul convenit trebuie considerat, în cazul în care furnizorul nu are posibilitatea de a recupera de la dobânditor taxa pe valoarea adăugată solicitată de administrația fiscală, ca incluzând deja taxa pe valoarea adăugată.
