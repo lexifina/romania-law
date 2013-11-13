@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale IFN ROTLINES LEASING INTERNATIONAL - S.A., cu sediul în municipiul Alba Iulia, str. George Coșbuc nr. 7, județul Alba, înregistrată la oficiul registrului comerțului cu nr. J01/915/2004, cod unic de înregistrare 16711697, înscrisă în Registrul general la secțiunea k) "Activități multiple de creditare" cu nr. RG-PJR-01-110081.
