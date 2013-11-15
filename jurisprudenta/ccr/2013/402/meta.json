@@ -1,0 +1,153 @@
+{
+ "key": "dcc-402-2013",
+ "label": "Decizia CCR nr. 402/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "402",
+ "date": "2013-10-08",
+ "year": "2013",
+ "heading": "DECIZIE nr. 402 din 8 octombrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 544/2001 privind liberul acces la informaţiile de interes public, în ansamblu, precum şi a dispoziţiilor art. 5 alin. (1) din aceeaşi lege",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "701",
+  "bis": false,
+  "date": "2013-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.315/110/2012",
+  "240D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 544/2001 privind liberul acces la informaţiile de interes public, în ansamblu, precum şi a dispoziţiilor art. 5 alin. (1) din aceeaşi lege, excepţie ridicată de Mihai Chiţu în Dosarul nr. 3.315/110/2012 al Curţii de Apel Bacău - Secţia a II-a civilă, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bacău - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152613",
+  "text_sha256": "3b53b411db542eaff732f1619f62dc456feebf7f6a000636e340b757d18145b5",
+  "catalogue_sha256": "3b53b411db542eaff732f1619f62dc456feebf7f6a000636e340b757d18145b5",
+  "fetched": "2026-11-03T04:02:00Z",
+  "chars": 9486,
+  "portal_id": "152613",
+  "tip": "DECIZIE"
+ }
+}
