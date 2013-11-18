@@ -1,0 +1,5 @@
+Referitor la Decizia nr. 3564/27.03.1999 a Consiliului Uniunii Avocaților din România prin care s-au stabilit tarifele unice minime de onorarii avocațiale unice pe țarã, facem cunoscut cã în conformitate cu prevederile Legii Concurenței nr. 21/10 aprilie 1996, Consiliul Concurenței a interzis stabilirea de tarife și onorarii minimale, considerînd cã acestea reprezintã o practicã anticoncurențialã, punct de vedere care a fost însușit de Consiliul Uniunii Avocaților din România.
+
+Prin Legea nr. 255 din 16 iunie 2004 privind modificarea și completarea Legii nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat, prevederea referitoare la stabilirea de tarifele minime de onorarii unice pe țarã a fost abrogatã, fiind urmatã și de abrogarea art. 94 din Statutul profesiei de avocat.
+
+în aceste condiții, Decizia nr. 3564/27.03.1999 a Consiliului Uniunii Avocaților din România prin care s-au stabilit tarifele unice minime de onorarii avocațiale unice pe țarã a devenit caducã, ea încetînd sã se mai aplice.
