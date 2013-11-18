@@ -1,0 +1,7 @@
+# Anexa nr. 3: 3 Modul de utilizare a siglei în legitimația de control, legitimația de serviciu și pe insigna și emblema metalică în cadrul Direcției generale antifraudă fiscală Descriere: Insignele/Emblemele metali
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 152666 (https://legislatie.just.ro/Public/DetaliiDocument/152666)
+- sha256 of that document's text as the service returned it: a6e56ccaca940c3ff99d77cfc6621712b1e2eb97cdd815e3c441eb1304bfe5d5
+- Retrieved: 2026-11-03
