@@ -1,0 +1,170 @@
+{
+ "key": "dcc-362-2013",
+ "label": "Decizia CCR nr. 362/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "362",
+ "date": "2013-09-24",
+ "year": "2013",
+ "heading": "DECIZIE nr. 362 din 24 septembrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 64 alin. 1 şi art. 129 alin. 2 teza întâi din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "706",
+  "bis": false,
+  "date": "2013-11-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "29.715/245/2012",
+  "1.604D/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 64 alin. 1 şi ale art. 129 alin. 2 teza întâi din Codul de procedură penală, excepţie ridicată de Vasile Hrestic în Dosarul nr. 29.715/245/2012 al Judecătoriei Iaşi - Secţia penală.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Iaşi - Secţia penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152674",
+  "text_sha256": "6a75f312085999f21ae083057916f7acfaa4c9f563f16a5564fd81d7bb963460",
+  "catalogue_sha256": "6a75f312085999f21ae083057916f7acfaa4c9f563f16a5564fd81d7bb963460",
+  "fetched": "2026-11-03T04:01:55Z",
+  "chars": 12354,
+  "portal_id": "152674",
+  "tip": "DECIZIE"
+ }
+}
