@@ -1,0 +1,171 @@
+{
+ "key": "dcc-386-2013",
+ "label": "Decizia CCR nr. 386/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "386",
+ "date": "2013-10-01",
+ "year": "2013",
+ "heading": "DECIZIE nr. 386 din 1 octombrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (1) şi art. 7 din Legea nr. 118/2007 privind organizarea şi funcţionarea activităţilor şi practicilor de medicină complementară/alternativă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "712",
+  "bis": false,
+  "date": "2013-11-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "64.173/3/2011",
+  "58D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2007",
+    "number": "118",
+    "year": "2007",
+    "path": "lege/2007/118"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Doina Vivianne Ivanova în Dosarul nr. 64.173/3/2011 al Tribunalului Bucureşti - Secţia a V-a civilă şi constată că dispoziţiile art. 4 alin. (1) şi art. 7 din Legea nr. 118/2007 privind organizarea şi funcţionarea activităţilor şi practicilor de medicină complementară/alternativă sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bucureşti - Secţia a V-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2007",
+    "number": "118",
+    "year": "2007",
+    "path": "lege/2007/118"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152774",
+  "text_sha256": "764341306013ef3b085ed198cfbf3b2ca47a44066c8dd574677154f928641926",
+  "catalogue_sha256": "764341306013ef3b085ed198cfbf3b2ca47a44066c8dd574677154f928641926",
+  "fetched": "2026-11-03T04:01:46Z",
+  "chars": 14132,
+  "portal_id": "152774",
+  "tip": "DECIZIE"
+ }
+}
