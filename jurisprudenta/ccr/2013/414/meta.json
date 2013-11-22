@@ -1,0 +1,265 @@
+{
+ "key": "dcc-414-2013",
+ "label": "Decizia CCR nr. 414/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "414",
+ "date": "2013-10-15",
+ "year": "2013",
+ "heading": "DECIZIE nr. 414 din 15 octombrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. II teza finală din Legea nr. 133/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 64/2010 privind modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "720",
+  "bis": false,
+  "date": "2013-11-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.138/93/2012",
+  "178D/2013",
+  "179D/2013",
+  "2.148/93/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de comuna Dascălu, judeţul Ilfov, prin primar, şi de oraşul Bragadiru, judeţul Ilfov, prin primar, în dosarele nr. 2.138/93/2012, nr. 2.148/93/2012, nr. 2.153/93/2012 şi nr. 2.158/93/2012 ale Tribunalului Ilfov - Secţia civilă, precum şi de comunele Păltiniş, Domaşnea, Ciuchici, Turnu Ruieni şi Grădinari, judeţul Caraş-Severin, prin primarii acestor unităţi administrativ-teritoriale, în dosarele nr. 5.185/115/2012, nr. 5.189/115/2012, nr. 5.196/115/2012, nr. 5.186/115/2012 şi nr. 5.193/115/2012 ale Tribunalului Caraş-Severin - Secţia a II-a civilă, de contencios administrativ şi fiscal, şi constată că dispoziţiile art. II teza finală din Legea nr. 133/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 64/2010 privind modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Ilfov - Secţia civilă şi Tribunalului Caraş-Severin - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/1968",
+    "number": "2",
+    "year": "1968",
+    "path": "lege/1968/2"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 351/2001",
+    "number": "351",
+    "year": "2001",
+    "path": "lege/2001/351"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2",
+      "3",
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 199/1997",
+    "number": "199",
+    "year": "1997",
+    "path": "lege/1997/199"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152824",
+  "text_sha256": "272cea547d942edd83b194d2f6744c972f8b116f993c6653b81ca9145e1e1ee6",
+  "catalogue_sha256": "272cea547d942edd83b194d2f6744c972f8b116f993c6653b81ca9145e1e1ee6",
+  "fetched": "2026-11-03T04:01:43Z",
+  "chars": 33015,
+  "portal_id": "152824",
+  "tip": "DECIZIE"
+ }
+}
