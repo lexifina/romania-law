@@ -1,0 +1,140 @@
+{
+ "key": "cedo-1231-04-2012-09-25",
+ "label": "CEDO, Fundaţia Bucovina Mission Inc. şi Fundaţia Bucovina Bucureşti c. României, 2012-09-25",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-09-25",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 25 septembrie 2012",
+ "subtitle": "în Cauza Fundaţia Bucovina Mission Inc. şi Fundaţia Bucovina Bucureşti împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "753",
+  "bis": false,
+  "date": "2013-12-04",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "1231/04"
+ ],
+ "case_name": "Fundaţia Bucovina Mission Inc. şi Fundaţia Bucovina Bucureşti",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că au fost încălcate art. 6 din Convenţie şi art. 1 din Protocolul nr. 1 la Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/153281",
+  "text_sha256": "8ef715d9ba698fb62d1f81771d739c5b1a8b7b1e1b86c0783f8e2a106ba7c661",
+  "catalogue_sha256": "8ef715d9ba698fb62d1f81771d739c5b1a8b7b1e1b86c0783f8e2a106ba7c661",
+  "fetched": "2026-11-03T04:01:07Z",
+  "chars": 8813,
+  "portal_id": "153281",
+  "tip": "HOTĂRÂRE"
+ }
+}
