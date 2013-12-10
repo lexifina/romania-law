@@ -1,0 +1,245 @@
+{
+ "key": "dcc-440-2013",
+ "label": "Decizia CCR nr. 440/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "440",
+ "date": "2013-10-29",
+ "year": "2013",
+ "heading": "DECIZIE nr. 440 din 29 octombrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor şi ale Ordonanţei de urgenţă a Guvernului nr. 59/2011 pentru stabilirea unor măsuri în domeniul pensiilor prevăzute la art. 1 lit. c)-h) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "771",
+  "bis": false,
+  "date": "2013-12-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "10.697/99/2011",
+  "390D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 59/2011",
+    "number": "59",
+    "year": "2011",
+    "path": "oug/2011/59"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Traian Dobre în Dosarul nr. 10.697/99/2011 al Curţii de Apel Iaşi - Secţia litigii de muncă şi asigurări sociale şi constată că dispoziţiile Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor şi ale Ordonanţei de urgenţă a Guvernului nr. 59/2011 pentru stabilirea unor măsuri în domeniul pensiilor prevăzute la art. 1 lit. c)-h) din Legea nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Iaşi - Secţia litigii de muncă şi asigurări sociale şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 59/2011",
+    "number": "59",
+    "year": "2011",
+    "path": "oug/2011/59"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-12-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/153486",
+  "text_sha256": "beb302b516f15688169ddf62dd425c178f8ec4aa540d1ddc2eba5b51fef73c27",
+  "catalogue_sha256": "beb302b516f15688169ddf62dd425c178f8ec4aa540d1ddc2eba5b51fef73c27",
+  "fetched": "2026-11-03T04:00:52Z",
+  "chars": 15113,
+  "portal_id": "153486",
+  "tip": "DECIZIE"
+ }
+}
