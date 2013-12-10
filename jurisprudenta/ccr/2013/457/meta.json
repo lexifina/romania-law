@@ -1,0 +1,202 @@
+{
+ "key": "dcc-457-2013",
+ "label": "Decizia CCR nr. 457/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "457",
+ "date": "2013-11-07",
+ "year": "2013",
+ "heading": "DECIZIE nr. 457 din 7 noiembrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice şi ale Legii nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "771",
+  "bis": false,
+  "date": "2013-12-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.887/2/2011",
+  "350D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Liliana Felicia Androne, Andra Corina Botez, Paula Cristina Brotac, Elena Chirica, Lucian Crăciunoiu, Gabriela Diaconu, Daniel Dinu, Florentina Dinu, Rodica Duboşaru, Violeta Dumitru, Dan Andrei Enescu, Paul Mihail Frăţilescu, Cristina Georgescu, Gheorghe Valentina, Adrian Remus Ghiculescu, Mioara Iolanda Grecu, Mirela Grigore, Veronica Grozescu, Elena Simona Lazăr, Traian Logojan, Iuliana Lucacel, Vasile Maracineanu, Eliza Marin, Cristina Mihaela Moiceanu, Elena Negulescu, Teodor Nitu, Ioana Nonea, Constanţa Pană, Marilena Panait, Cristina Pigui, Aurelia Popa, Vera Andreea Popescu, Gabriela Prepeliţă, Adriana Ilaria Radu, Adriana Secreteanu, Elena Staicu, Aida Stan, Violeta Stanciu, Ionel Stanescu, Constanţa Stefan, Ion Stelian, Maria Stoicescu, Elena Tanasica, Mariana Tanasescu, Florentin Teisanu, Ioana Tolu, Mihai Tudoran, Ana Roxana Tudose, Alexandrina Urleteanu şi Elena Zainescu în Dosarul nr. 4.887/2/2011 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi constată că dispoziţiile Legii-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice şi ale Legii nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 19/2012",
+    "number": "19",
+    "year": "2012",
+    "path": "oug/2012/19"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-12-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/153488",
+  "text_sha256": "27ce3c7ef4850194f1922a709a162ff80f22105dcf54fb2aeb48ce6b9707a5cd",
+  "catalogue_sha256": "27ce3c7ef4850194f1922a709a162ff80f22105dcf54fb2aeb48ce6b9707a5cd",
+  "fetched": "2026-11-03T04:00:52Z",
+  "chars": 22422,
+  "portal_id": "153488",
+  "tip": "DECIZIE"
+ }
+}
