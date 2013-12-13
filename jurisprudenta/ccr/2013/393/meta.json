@@ -1,0 +1,295 @@
+{
+ "key": "dcc-393-2013",
+ "label": "Decizia CCR nr. 393/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "393",
+ "date": "2013-10-01",
+ "year": "2013",
+ "heading": "DECIZIE nr. 393 din 1 octombrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II teza ultimă din Legea nr. 133/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 64/2010 privind modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "783",
+  "bis": false,
+  "date": "2013-12-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.184/115/2012",
+  "276D/2013",
+  "291D/2013",
+  "2.154/93/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de comuna Buchin, judeţul Caraş-Severin, şi de oraşul Bragadiru, judeţul Ilfov, prin primari, în Dosarul nr. 5.184/115/2012 al Tribunalului Caraş-Severin - Secţia a II-a civilă, de contencios administrativ şi fiscal, respectiv în Dosarul nr. 2.154/93/2012 al Tribunalului Ilfov - Secţia civilă şi constată că dispoziţiile art. II teza ultimă din Legea nr. 133/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 64/2010 privind modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Caraş-Severin - Secţia civilă, de contencios administrativ şi fiscal şi Tribunalului Ilfov - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 199/1997",
+    "number": "199",
+    "year": "1997",
+    "path": "lege/1997/199"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "7",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 351/2001",
+    "number": "351",
+    "year": "2001",
+    "path": "lege/2001/351"
+   },
+   "articles": [
+    {
+     "art": "5-1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2013-12-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/153612",
+  "text_sha256": "a22b97c4675545b41e271d12023e37c384327d38f103d0345e468c7bc7a7c5a3",
+  "catalogue_sha256": "a22b97c4675545b41e271d12023e37c384327d38f103d0345e468c7bc7a7c5a3",
+  "fetched": "2026-11-03T04:00:43Z",
+  "chars": 37392,
+  "portal_id": "153612",
+  "tip": "DECIZIE"
+ }
+}
