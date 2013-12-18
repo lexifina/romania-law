@@ -1,0 +1,2 @@
+# Anexa nr. 1
+Anexa (Anexa la Ordinul nr. 3.080/2008) Componența Comitetului de investiții pentru Fondul de participare JEREMIE 1. Ministerul Fondurilor Europene - Gabriela Teletin, director general 2. Ministerul Finanțelor Publice - Enache Jiru, secretar de stat 3. Ministerul Economiei - Adrian Constantin Volintiru, secretar de stat 4. Departamentul pentru Întreprinderi Mici și Mijlocii, Mediul de Afaceri și Turism - Emil Octavian Ionescu, director adjunct 5. Asociația Română a Băncilor - Florin Dănescu, președinte executiv -------
