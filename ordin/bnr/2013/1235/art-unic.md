@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale LAUREN FINANCE IFN - S.A., cu sediul în localitatea Mogoșoaia, Str. Ciobanului nr. 133, județul Ilfov, înregistrată la registrul comerțului cu nr. J23/2917/2007, cod unic de înregistrare 16601864, înscrisă în Registrul general la secțiunea a) "Credite de consum" cu nr. RG-PJR-42-010207. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 10 decembrie 2013. Nr. 1.235. __________
