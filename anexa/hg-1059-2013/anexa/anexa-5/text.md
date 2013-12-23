@@ -1,0 +1,16 @@
+# Anexa 5
+Anexa nr. 5
+la normele metodologice
+CONSILIUL LOCAL ................................
+Serviciul specializat pentru gestionarea câinilor fără stăpân
+DECIZIE PRIVIND EUTANASIEREA
+Nr. ......./...........
+Având în vedere expirarea termenului de 14 zile lucrătoare de la data capturării, în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân, aprobată cu modificări și completări prin Legea nr. 227/2002 , cu modificările și completările ulterioare, în care câinele nu a fost revendicat, adoptat, adoptat la distanță, sau menținut în adăpost, prin prezenta se decide eutanasierea în termen de ....... .a câinelui cu număr unic de identificare ............... sau microcipat cu numărul .........., capturat de către Structura publică pentru gestionarea câinilor fără stăpân în data de .................. .
+Data
+..................
+Împuternicitul primarului,
+..........................
+(numele și prenumele)
+..........................
+(semnătura)
+-------
