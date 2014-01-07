@@ -1,0 +1,138 @@
+{
+ "key": "iccj-ril-18-2013",
+ "label": "Decizia ÎCCJ nr. 18/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "18",
+ "date": "2013-11-18",
+ "year": "2013",
+ "heading": "DECIZIE nr. 18 din 18 noiembrie 2013",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "7",
+  "bis": false,
+  "date": "2014-01-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "18/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2008",
+    "number": "76",
+    "year": "2008",
+    "path": "lege/2008/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Braşov.",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 7 din Legea nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare, stabileşte că:",
+  "Prelevarea probelor biologice de la persoanele condamnate definitiv la pedeapsa închisorii pentru săvârşirea infracţiunilor prevăzute în anexa Legii nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare poate fi dispusă şi în ipoteza în care executarea acesteia este suspendată condiţionat sau sub supraveghere.",
+  "Obligatorie, potrivit art. 414^5 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2008",
+    "number": "76",
+    "year": "2008",
+    "path": "lege/2008/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "414-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-01-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154312",
+  "text_sha256": "5f73082c1460d4c60c95817e21800778c3a9cb2d7bd693bd824dd932966dcb5d",
+  "catalogue_sha256": "5f73082c1460d4c60c95817e21800778c3a9cb2d7bd693bd824dd932966dcb5d",
+  "fetched": "2026-11-06T03:53:47Z",
+  "chars": 20095,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406030041/https://legislatie.just.ro/Public/DetaliiDocumentAfis/154312",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/154312",
+   "timestamp": "20250406030041",
+   "sha256": "cbf175ae67d1e980966618b766d53a3d0f20ece464021de579a2d6bd3aee37b1"
+  },
+  "portal_id": "154312",
+  "tip": "DECIZIE"
+ }
+}
