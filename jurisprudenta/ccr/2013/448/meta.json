@@ -1,0 +1,198 @@
+{
+ "key": "dcc-448-2013",
+ "label": "Decizia CCR nr. 448/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "448",
+ "date": "2013-10-29",
+ "year": "2013",
+ "heading": "DECIZIE nr. 448 din 29 octombrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 40 alin. (3) din Legea nr. 41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "5",
+  "bis": false,
+  "date": "2014-01-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": false,
+ "dossiers": [
+  "5.972/258/2012",
+  "417D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Constată că dispoziţiile art. 40 alin. (3) din Legea nr. 41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune, care au format obiectul excepţiei de neconstituţionalitate ridicate de Societatea Comercială \"Polaris Com\" - S.R.L. în Dosarul nr. 5.972/258/2012 al Judecătoriei Miercurea-Ciuc, sunt constituţionale în măsura în care taxa pentru serviciile publice de radiodifuziune şi televiziune se aplică numai persoanelor juridice care beneficiază de aceste servicii.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Miercurea-Ciuc şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-01-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154294",
+  "text_sha256": "a0065f8166be4be318352efcf330832d024764b23fe64e9c6deca2065da1e24c",
+  "catalogue_sha256": "a0065f8166be4be318352efcf330832d024764b23fe64e9c6deca2065da1e24c",
+  "fetched": "2026-11-03T03:59:37Z",
+  "chars": 25028,
+  "portal_id": "154294",
+  "tip": "DECIZIE"
+ }
+}
