@@ -1,0 +1,260 @@
+{
+ "key": "iccj-ril-20-2013",
+ "label": "Decizia ÎCCJ nr. 20/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "20",
+ "date": "2013-11-18",
+ "year": "2013",
+ "heading": "DECIZIE nr. 20 din 18 noiembrie 2013",
+ "subtitle": "privind recursul în interesul legii, referitor la natura juridică a drepturilor prevăzute a se acordă, potrivit contractelor colective de muncă, cu diferite ocazii (ajutoare materiale de Paşti, Crăciun, tichete de masă/tichete cadou, drepturi speciale pentru menţinerea sănătăţii şi securităţii în muncă etc.)",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "9",
+  "bis": false,
+  "date": "2014-01-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "14/2013"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca inadmisibil recursul în interesul legii declarat de Colegiul de conducere al Curţii de Apel Galaţi în legătură cu problema de drept vizând natura juridică a drepturilor prevăzute a se acordă, potrivit contractelor colective de muncă, cu diferite ocazii (tichete de masă, tichete cadou, prima de Paşti, prima de Crăciun, drepturi speciale pentru menţinerea sănătăţii şi securităţii muncii etc.) şi termenul de prescripţie aplicabil cererilor având un asemenea obiect.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă adoptat prin Legea nr. 134/2010, republicată, cu modificările şi completările ulterioare."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1266",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "283",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "e"
+     ]
+    },
+    {
+     "art": "166",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "c"
+     ]
+    },
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2006",
+    "number": "193",
+    "year": "2006",
+    "path": "lege/2006/193"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-01-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154337",
+  "text_sha256": "cd9fad36211ae1a3b505eb7e8e1458a0bc4c605e015c8aa844946979905cd79b",
+  "catalogue_sha256": "cd9fad36211ae1a3b505eb7e8e1458a0bc4c605e015c8aa844946979905cd79b",
+  "fetched": "2026-11-03T03:59:36Z",
+  "chars": 36454,
+  "portal_id": "154337",
+  "tip": "DECIZIE"
+ }
+}
