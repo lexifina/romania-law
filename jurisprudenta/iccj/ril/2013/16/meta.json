@@ -1,0 +1,95 @@
+{
+ "key": "iccj-ril-16-2013",
+ "label": "Decizia ÎCCJ nr. 16/2013 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "16",
+ "date": "2013-11-18",
+ "year": "2013",
+ "heading": "DECIZIE nr. 16 din 18 noiembrie 2013",
+ "subtitle": "privind recursul în interesul legii, referitor la interpretarea dispoziţiilor art. 320^1 alin. 7 fraza a II-a din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "12",
+  "bis": false,
+  "date": "2014-01-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "15/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie. În interpretarea şi aplicarea dispoziţiilor art. 320^1 alin. 7 fraza a II-a din Codul de procedură penală, stabileşte că:",
+  "Într-un proces penal având ca obiect o pluralitate de infracţiuni (concurs) în a cărei alcătuire intră şi o infracţiune care se pedepseşte cu detenţiunea pe viaţă, iar săvârşirea tuturor infracţiunilor este recunoscută de inculpat, judecarea cauzei se face, pentru toate infracţiunile, potrivit procedurii de drept comun.",
+  "Obligatorie, potrivit art. 414^5 alin. 4 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320-1",
+     "alin": [
+      "7",
+      "1",
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-01-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154379",
+  "text_sha256": "0a58199c3c303f4a11cd9075c893a480790ddd535d1d377b82dd959dd3a5cb3d",
+  "catalogue_sha256": "0a58199c3c303f4a11cd9075c893a480790ddd535d1d377b82dd959dd3a5cb3d",
+  "fetched": "2026-11-03T03:59:34Z",
+  "chars": 24921,
+  "portal_id": "154379",
+  "tip": "DECIZIE"
+ }
+}
