@@ -1,0 +1,268 @@
+{
+ "key": "cedo-2330-09-2013-07-09",
+ "label": "CEDO, Sindicatul \"Păstorul cel Bun\" c. României, 2013-07-09",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-07-09",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 9 iulie 2013",
+ "subtitle": "în Cauza Sindicatul \"Păstorul cel Bun\" împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - MAREA CAMERĂ",
+ "mo": {
+  "number": "15",
+  "bis": false,
+  "date": "2014-01-10",
+  "part": "I"
+ },
+ "outcome": "no-violation",
+ "findings": [
+  "no-violation"
+ ],
+ "applications": [
+  "2330/09"
+ ],
+ "case_name": "Sindicatul \"Păstorul cel Bun\"",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA: 1. hotărăşte, în unanimitate, că Guvernul este decăzut din dreptul de a invoca anonimatul cererii; 2. hotărăşte, în unanimitate, că sindicatul reclamant este decăzut din dreptul de a invoca încălcarea art. 34 din Convenţie ca urmare a faptelor ce au avut loc anterior pronunţării hotărârii de către cameră. În ceea ce priveşte faptele ulterioare acestei date, statul pârât nu şi-a încălcat obligaţiile ce îi revin în conformitate cu această dispoziţie; 3. hotărăşte, cu 11 voturi pentru şi 6 voturi contra, că nu a fost încălcat art. 11 din Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 69
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 489/2006",
+    "number": "489",
+    "year": "2006",
+    "path": "lege/2006/489"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 53/2008",
+    "number": "53",
+    "year": "2008",
+    "path": "hg/2008/53"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/2003",
+    "number": "54",
+    "year": "2003",
+    "path": "lege/2003/54"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 177/1949",
+    "number": "177",
+    "year": "1949",
+    "path": "lege/1949/177"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154425",
+  "text_sha256": "46a744e55bc4536b59faf80801c378ae52229a767b311a66572ed3728235525f",
+  "catalogue_sha256": "46a744e55bc4536b59faf80801c378ae52229a767b311a66572ed3728235525f",
+  "fetched": "2026-11-03T03:59:31Z",
+  "chars": 146076,
+  "portal_id": "154425",
+  "tip": "HOTĂRÂRE"
+ }
+}
