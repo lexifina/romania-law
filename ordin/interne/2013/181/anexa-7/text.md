@@ -1,0 +1,7 @@
+# Anexa nr. 7
+Anexa 7 (Anexa nr. 132 la Ordinul nr. 490/2008) GRUPAREA DE JANDARMI MOBILĂ "REGELE FERDINAND I" TÂRGU MUREȘ Însemnul heraldic al Grupării de Jandarmi Mobile "Regele Ferdinand I" Târgu Mureș din cadrul Jandarmeriei Române se prezintă după cum urmează: pe fond albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei un scut albastru, cu o bandă de argint, încărcată cu patru stele roșii, având în cartierul stâng superior o coroană închisă de aur, cu tocă roșie, terminată cu glob crucifer, iar în cartierul drept inferior, o grenadă aprinsă de argint. În exergă, între două cercuri liniare aurii, legenda scrisă cu litere majuscule, de asemenea, aurii, pe fond albastru: * GRUPAREA DE JANDARMI MOBILĂ * "REGELE FERDINAND I" TÂRGU-MUREȘ. Semnificația elementelor însumate
+a) banda - apărare, protecție, ordine;
+b) stelele roșii - oamenii; numărul aștrilor indică cele patru județe, Alba, Bistrița-Năsăud, Harghita și Mureș, ce intră în zona de responsabilitate a unității;
+c) grenada aprinsă - jandarmeria; curaj, valoare, dorința de a lupta pentru țară;
+d) coroana închisă este, în cazul de față, armă vorbitoare ce face referire la denumirea onorifică a unității "Regele Ferdinand I".
+Însemnul heraldic al Grupării de Jandarmi Mobile "Regele Ferdinand I" Târgu Mureș
