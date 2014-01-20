@@ -1,0 +1,134 @@
+{
+ "key": "iccj-hp-1-2013",
+ "label": "Decizia ÎCCJ nr. 1/2013 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "1",
+ "date": "2013-11-18",
+ "year": "2013",
+ "heading": "DECIZIE nr. 1 din 18 noiembrie 2013",
+ "subtitle": "privind modul de interpretare și aplicare a dispozițiilor art. 650 și art. 665 raportat la art. 818 și art. 819 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "43",
+  "bis": false,
+  "date": "2014-01-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1/1/2013",
+  "259/64/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "650",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "665",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "818",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "819",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Brașov în Dosarul nr. 259/64/2013 privind pronunțarea unei hotărâri prealabile pentru dezlegarea modului de interpretare și aplicare a dispozițiilor art. 650 și art. 665 raportat la art. 818 și art. 819 din Codul de procedură civilă adoptat prin Legea nr. 134/2010, respectiv determinarea instanței competente teritorial să judece cererea de încuviințare a executării silite imobiliare atunci când imobilul supus urmăririi este situat în raza unei instanțe (judecătorii), iar biroul executorului judecătoresc sesizat cu efectuarea executării silite se află în raza altei instanțe (judecătorii), dar ambele instanțe aflate în raza aceleiași curți de apel.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă adoptat prin Legea nr. 134/2010."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "650",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "665",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "818",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "819",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 55
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154646",
+  "text_sha256": "2940fdf8dad1af1472b12a5592efb2ffeace86bd68d5061f20fe5d36aa4dd56f",
+  "catalogue_sha256": "2940fdf8dad1af1472b12a5592efb2ffeace86bd68d5061f20fe5d36aa4dd56f",
+  "fetched": "2026-11-03T03:59:19Z",
+  "chars": 24186,
+  "portal_id": "154646",
+  "tip": "DECIZIE"
+ }
+}
