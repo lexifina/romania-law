@@ -1,0 +1,39 @@
+# Anexa
+Zona de protecție imobil "Reședință barocă" din Oradea, Str. Republicii nr. 81, județul Bihor Coordonate puncte de contur
+Nr.
+crt.
+Coordonate stereo 70
+-
+X
+Y
+1
+267387,1
+623307,0
+2
+267404,1
+623237,8
+3
+267424,5
+623244,3
+4
+267444,2
+623175,1
+5
+267470,5
+623172,5
+6
+267519,1
+623187,2
+7
+267590,8
+623212,0
+8
+267543,0
+623378,3
+9
+267433,1
+623336,9
+10
+267408,7
+623311,3
+-----
