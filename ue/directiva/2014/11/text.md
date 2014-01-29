@@ -1,0 +1,31 @@
+DIRECTIVA DELEGATĂ 2014/11/UE A COMISIEI
+din 18 octombrie 2013
+de modificare, în scopul adaptării la progresul tehnic, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru cromul hexavalent din dozatoarele de substanțe alcaline utilizate pentru fabricarea fotocatozilor din amplificatoarele de imagine pentru imagini radiologice, până la 31 decembrie 2019, și din piesele de schimb ale sistemelor cu raze X introduse pe piața UE înainte de 1 ianuarie 2020
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Directiva 2011/65/UE a Parlamentului European și a Consiliului din 8 iunie 2011 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice (1), în special articolul 5 alineatul (1) litera (a),
+întrucât:
+(1) Directiva 2011/65/UE interzice utilizarea cromului hexavalent în echipamentele electrice și electronice introduse pe piață.
+(2) Cromul hexavalent este folosit la dozatoarele de substanțe alcaline utilizate pentru a produce fotocatozii din amplificatoarele de imagine pentru imagini radiologice. Eliminarea sau substituirea cromului hexavalent din procesul de fabricare a fotocatozilor nu este posibilă deoarece, în prezent, substituenții și tehnologiile alternative nu sunt suficient de fiabile sau disponibile pentru a acoperi în întregime cererea.
+(3) O parte din cromul hexavalent din procesul de fabricare a fotocatozilor rămâne, în mod inevitabil, în produsul introdus pe piață.
+(4) Prin urmare, Directiva 2011/65/UE trebuie modificată în consecință,
+ADOPTĂ PREZENTA DIRECTIVĂ:
+Articolul 1
+Anexa IV la Directiva 2011/65/UE se modifică în conformitate cu anexa la prezenta directivă.
+Articolul 2
+(1) Statele membre asigură intrarea în vigoare a actelor cu putere de lege și a actelor administrative necesare pentru a se conforma prezentei directive, până cel târziu în ultima zi a celei de a șasea luni de la data intrării în vigoare a acesteia. Statele membre comunică fără întârziere Comisiei textul acestor acte.
+Atunci când statele membre adoptă actele respective, acestea conțin o trimitere la prezenta directivă sau sunt însoțite de o astfel de trimitere la data publicării lor oficiale. Statele membre stabilesc modalitatea de efectuare a acestei trimiteri.
+(2) Statele membre comunică Comisiei textul principalelor dispoziții de drept intern pe care le adoptă în domeniul reglementat de prezenta directivă.
+Articolul 3
+Prezenta directivă intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Articolul 4
+Prezenta directivă se adresează statelor membre.
+Adoptată la Bruxelles, 18 octombrie 2013.
+Pentru Comisie
+Președintele
+José Manuel BARROSO
+(1) JO L 174, 1.7.2011, p. 88.
+ANEXĂ
+În anexa IV la Directiva 2011/65/UE se adaugă următorul punct 30:
+„30. | Cromul hexavalent din dozatoarele de substanțe alcaline utilizate pentru fabricarea fotocatozilor din amplificatoarele de imagine pentru imagini radiologice, până la 31 decembrie 2019, și din piesele de schimb ale sistemelor cu raze X introduse pe piața UE înainte de 1 ianuarie 2020.”
