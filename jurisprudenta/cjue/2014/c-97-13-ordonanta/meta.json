@@ -1,0 +1,59 @@
+{
+ "key": "cjue-c-97-13-ordonanta-2014-02-03",
+ "label": "CJUE, Ordonanța Curții (Marea Cameră) din 3 februarie 2014, Cauzele conexate C‑97/13 și C‑214/13",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2014-02-03",
+ "year": "2014",
+ "case": "Cauzele conexate C‑97/13 și C‑214/13",
+ "celex": "62013CO0097",
+ "ecli": "ECLI:EU:C:2014:229",
+ "heading": "Ordonanța Curții (Marea Cameră) din 3 februarie 2014",
+ "formation": "CHAMB_GD_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Sibiu, Secția a II-a Civilă, de Contencios Administrativ şi Fiscal",
+   "date": "2012-11-15",
+   "national_file": "1539/85/2012"
+  },
+  {
+   "court": "Curtea de Apel Bucureşti, Secția a VIII-a Contencios Administrativ şi Fiscal",
+   "date": "2013-03-13",
+   "national_file": "3581/87/2012"
+  }
+ ],
+ "referral_text": null,
+ "national_followup": [
+  "Tribunalul Sibiu, Secția a II-a Civilă, de Contencios Administrativ şi Fiscal, Încheiere din 15/09/2016 (ECUI:RO:IBSIB:201 6:038000747)",
+  "Tribunalul Sibiu, Secția a VIII-a Contencios Administrativ şi Fiscal, Încheiere din 15/09/2016 (ECUI:RO:IBSIB:201 6:038000747)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Impozite interne – Articolul 110 TFUE – Taxă pe poluare percepută cu ocazia primei înmatriculări a autovehiculelor – Neutralitatea taxei între autovehiculele de ocazie importate și autovehiculele similare care se află deja pe piața națională",
+ "interprets": [
+  {
+   "celex": "12008E110",
+   "folder": null
+  }
+ ],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013CO0097",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C‑214/13&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
