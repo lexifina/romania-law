@@ -1,0 +1,5 @@
+# CJUE, Hotărârea Curții (Camera a doua) din 6 februarie 2014, Cauza C‑424/12
+
+Pentru aceste motive, Curtea (Camera a doua) declară:
+1) În cadrul unei operațiuni supuse regimului de taxare inversă, în împrejurări precum cele din litigiul principal, Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată și principiul neutralității fiscale nu se opun lipsirii beneficiarului unor servicii de dreptul de deducere a taxei pe valoarea adăugată pe care a plătit‑o în mod nejustificat prestatorului de servicii pe baza unei facturi întocmite în mod eronat, nici chiar în cazul în care îndreptarea respectivei erori nu este posibilă din cauza falimentului prestatorului.
+2) Principiul securității juridice nu se opune unei practici administrative a organelor fiscale naționale care constă în revocarea, într‑un termen de decădere, a unei decizii prin care acestea au recunoscut persoanei impozabile un drept de deducere a taxei pe valoarea adăugată, solicitându‑i, în urma unei noi inspecții, această taxă și majorări de întârziere.
