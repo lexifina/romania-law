@@ -1,0 +1,341 @@
+{
+ "key": "dcc-549-2013",
+ "label": "Decizia CCR nr. 549/2013",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "549",
+ "date": "2013-12-17",
+ "year": "2013",
+ "heading": "DECIZIE nr. 549 din 17 decembrie 2013",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I, II, III şi IV din Ordonanţa de urgenţă a Guvernului nr. 15/2012 privind stabilirea unor măsuri financiare în domeniul asigurărilor sociale de sănătate şi al finanţelor publice şi ale art. I pct. 2 din Ordonanţa de urgenţă a Guvernului nr. 107/2010 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "97",
+  "bis": false,
+  "date": "2014-02-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.782/105/2012",
+  "486D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 15/2012",
+    "number": "15",
+    "year": "2012",
+    "path": "oug/2012/15"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2010",
+    "number": "107",
+    "year": "2010",
+    "path": "oug/2010/107"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Livia Alice Teodorescu în Dosarul nr. 6.782/105/2012 al Tribunalului Prahova - Secţia I civilă şi constată că dispoziţiile art. I, II, III şi IV din Ordonanţa de urgenţă a Guvernului nr. 15/2012 privind stabilirea unor măsuri financiare în domeniul asigurărilor sociale de sănătate şi al finanţelor publice şi ale art. I pct. 2 din Ordonanţa de urgenţă a Guvernului nr. 107/2010 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Prahova - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 15/2012",
+    "number": "15",
+    "year": "2012",
+    "path": "oug/2012/15"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-3",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 107/2010",
+    "number": "107",
+    "year": "2010",
+    "path": "oug/2010/107"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "259",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-02-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/155323",
+  "text_sha256": "dd1cb3c758003827cdf13b506970ce1577000ef606262e4bf8d87a46e09f8453",
+  "catalogue_sha256": "dd1cb3c758003827cdf13b506970ce1577000ef606262e4bf8d87a46e09f8453",
+  "fetched": "2026-11-03T03:58:27Z",
+  "chars": 23215,
+  "portal_id": "155323",
+  "tip": "DECIZIE"
+ }
+}
