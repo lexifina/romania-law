@@ -1,0 +1,2 @@
+# Anexa nr. 2
+Anexa 2 (Anexa B la normele metodologice) CRITERII DE PRIORITIZARE a obiectivelor de investiții în continuare și noi din cadrul Programului național de dezvoltare locală Pentru repartizarea fondurilor pe obiective de investiții în continuare și obiective de investiții noi se folosesc cel puțin unul dintre următorii indicatori: 1. data semnării contractului de furnizare/prestare de servicii/execuție de lucrări, după caz; 2. stadiul fizic; 3. populația deservită; 4. procentul de cofinanțare de la bugetul local.
