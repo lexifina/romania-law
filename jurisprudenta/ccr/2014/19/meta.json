@@ -1,0 +1,362 @@
+{
+ "key": "dcc-19-2014",
+ "label": "Decizia CCR nr. 19/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "19",
+ "date": "2014-01-21",
+ "year": "2014",
+ "heading": "DECIZIE nr. 19 din 21 ianuarie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor titlului VII - Regimul stabilirii şi plăţii despăgubirilor aferente imobilelor preluate în mod abuziv din Legea nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, astfel cum aplicarea acestora a fost stabilită prin Decizia Înaltei Curţi de Casaţie şi Justiţie nr. 27 din 14 noiembrie 2011",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "144",
+  "bis": false,
+  "date": "2014-02-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.087/303/2008",
+  "412D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor titlului VII - Regimul stabilirii şi plăţii despăgubirilor aferente imobilelor preluate în mod abuziv din Legea nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, astfel cum aplicarea acestora a fost stabilită prin Decizia Înaltei Curţi de Casaţie şi Justiţie nr. 27 din 14 noiembrie 2011, excepţie ridicată de Gabriela Muraru în Dosarul nr. 3.087/303/2008 al Tribunalul Bucureşti - Secţia a III-a civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a III-a civilă şi pentru cauze cu minori şi de familie şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 590/2003",
+    "number": "590",
+    "year": "2003",
+    "path": "lege/2003/590"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-02-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/155899",
+  "text_sha256": "199331d9fb2d9d997b8740893509176dec2cf299b3746aef77c30d8226d49108",
+  "catalogue_sha256": "199331d9fb2d9d997b8740893509176dec2cf299b3746aef77c30d8226d49108",
+  "fetched": "2026-11-03T03:57:44Z",
+  "chars": 29108,
+  "portal_id": "155899",
+  "tip": "DECIZIE"
+ }
+}
