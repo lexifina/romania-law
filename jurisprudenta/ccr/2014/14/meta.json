@@ -1,0 +1,201 @@
+{
+ "key": "dcc-14-2014",
+ "label": "Decizia CCR nr. 14/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "14",
+ "date": "2014-01-16",
+ "year": "2014",
+ "heading": "DECIZIE nr. 14 din 16 ianuarie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 din capitolul I al anexei nr. 5 la Legea nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "149",
+  "bis": false,
+  "date": "2014-02-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.722/87/2013",
+  "663D/2013",
+  "6.121/99/2013",
+  "2.601/99/2013",
+  "2.611/99/2013",
+  "6.280/99/2013",
+  "6.281/99/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 8 din capitolul I al anexei nr. 5 la Legea nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, excepţie ridicată de Sindicatul Învăţământului Preuniversitar Teleorman, în numele şi pentru Margareta Lespezeanu şi Daniela Gheorghescu, în Dosarul nr. 2.722/87/2013 al Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale şi contencios administrativ şi fiscal şi de Uniunea Sindicatelor Libere din Învăţământul Preuniversitar Iaşi, în numele şi pentru Eugen Mirel Oniciuc, Florentin Traian Ciobotaru, Andrei Enoiu-Pânzariu, Elvira Rotundu şi Marieta Leşcovici, în dosarele nr. 6.121/99/2013, nr. 2.601/99/2013, nr. 2.611/99/2013, nr. 6.280/99/2013 şi nr. 6.281/99/2013 ale Tribunalului Iaşi - Secţia I civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Teleorman - Secţia conflicte de muncă, asigurări sociale şi contencios administrativ şi fiscal şi Tribunalului Iaşi - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/155901",
+  "text_sha256": "75c1f0ced0a2f3552cc9c326adcaf822d6af0a2a99a9042a4a58368c3e2e3c49",
+  "catalogue_sha256": "75c1f0ced0a2f3552cc9c326adcaf822d6af0a2a99a9042a4a58368c3e2e3c49",
+  "fetched": "2026-11-03T03:57:41Z",
+  "chars": 16258,
+  "portal_id": "155901",
+  "tip": "DECIZIE"
+ }
+}
