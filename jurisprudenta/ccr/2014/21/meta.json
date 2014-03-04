@@ -1,0 +1,250 @@
+{
+ "key": "dcc-21-2014",
+ "label": "Decizia CCR nr. 21/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "21",
+ "date": "2014-01-21",
+ "year": "2014",
+ "heading": "DECIZIE nr. 21 din 21 ianuarie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. II teza finală din Legea nr. 133/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 64/2010 privind modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "154",
+  "bis": false,
+  "date": "2014-03-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.166/93/2012",
+  "418D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Oraşul Pantelimon, judeţul Ilfov, prin Primar în Dosarul nr. 2.166/93/2012 al Tribunalului Ilfov - Secţia civilă şi constată că dispoziţiile art. II teza finală din Legea nr. 133/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 64/2010 privind modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Ilfov - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/1968",
+    "number": "2",
+    "year": "1968",
+    "path": "lege/1968/2"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 351/2001",
+    "number": "351",
+    "year": "2001",
+    "path": "lege/2001/351"
+   },
+   "articles": [
+    {
+     "art": "5-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2",
+      "3",
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-03-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/155988",
+  "text_sha256": "fb601b63f25209b1fe8e06a868bd40f404eab5769de859fd7c6c0c0bcd943739",
+  "catalogue_sha256": "fb601b63f25209b1fe8e06a868bd40f404eab5769de859fd7c6c0c0bcd943739",
+  "fetched": "2026-11-03T03:57:37Z",
+  "chars": 20818,
+  "portal_id": "155988",
+  "tip": "DECIZIE"
+ }
+}
