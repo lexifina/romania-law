@@ -1,0 +1,73 @@
+# Anexa
+LISTA perimetrelor pentru concesionarea de activități de exploatare privind concursul public de ofertă, Runda nr. 87/2014
+Nr.
+Denumirea
+Coordonate
+Suprafața crt. perimetrului
+- kmp -
+Județul
+Substanța
+X
+Y 1
+Măgura
+593693
+304295
+0,450
+Bihor
+bauxită
+593977
+304407
+593770
+305250
+593462
+305459
+593150
+305483
+593135
+305187
+593532
+304927
+2
+Roșia Albioara
+600000
+300180
+4,800
+Bihor
+bauxită
+600000
+300280
+599000
+300410
+598150
+300800
+597200
+300610
+596980
+301265
+596150
+301370
+595680
+301335
+595545
+300800
+596500
+300440
+596570
+300370
+597080
+299675
+597800
+299150
+598130
+298970
+598240
+299100
+598615
+299255
+599220
+299290
+599650
+299700
+599710
+299800
+________
