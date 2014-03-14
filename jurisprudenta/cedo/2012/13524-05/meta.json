@@ -1,0 +1,131 @@
+{
+ "key": "cedo-13524-05-2012-12-04",
+ "label": "CEDO, Petruş Iacob c. României, 2012-12-04",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-12-04",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 4 decembrie 2012",
+ "subtitle": "în Cauza Petruş Iacob împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "184",
+  "bis": false,
+  "date": "2014-03-14",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "13524/05"
+ ],
+ "case_name": "Petruş Iacob",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 3 din Convenţie şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 3 din Convenţie sub aspect material; 3. hotărăşte că a fost încălcat art. 3 din Convenţie sub aspect procedural; 4. hotărăşte",
+  "a) că statul pârât trebuie să îi plătească reclamantului, în termen de 3 luni de la data la care hotărârea devine definitivă, în conformitate cu art. 44 § 2 din Convenţie, 10.000 EUR (zece mii euro), pentru prejudiciul moral, şi 270 EUR (două sute şaptezeci euro), cu titlu de cheltuieli de judecată, care trebuie convertiţi în moneda statului pârât la rata de schimb aplicabilă la data plăţii, la care se adaugă orice sumă ce poate fi datorată cu titlu de impozit;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume vor fi majorate cu o dobândă simplă la un procent egal cu cel al facilităţii de preţ marginal a Băncii Centrale Europene aplicabile în această perioadă, majorată cu 3 procente;",
+  "5. respinge, în unanimitate, cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/156401",
+  "text_sha256": "ea563c1406dd988b89ff4412c77ab3c4e3ce9b13a9b27f23fad63708a3cfe5c9",
+  "catalogue_sha256": "ea563c1406dd988b89ff4412c77ab3c4e3ce9b13a9b27f23fad63708a3cfe5c9",
+  "fetched": "2026-11-03T03:57:16Z",
+  "chars": 30173,
+  "portal_id": "156401",
+  "tip": "HOTĂRÂRE"
+ }
+}
