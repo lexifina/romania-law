@@ -1,0 +1,175 @@
+{
+ "key": "cedo-37576-05-2013-01-08",
+ "label": "CEDO, S.C. \"Raisa M. Shipping\" - S.R.L. c. României, 2013-01-08",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-01-08",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 8 ianuarie 2013",
+ "subtitle": "în Cauza S.C. \"Raisa M. Shipping\" - S.R.L. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "190",
+  "bis": false,
+  "date": "2014-03-18",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "37576/05"
+ ],
+ "case_name": "S.C. \"Raisa M. Shipping\" - S.R.L.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA: 1. declară, în unanimitate, cererea admisibilă; 2. hotărăşte, cu 6 voturi la 1, că s-a încălcat art. 6 § 1 din Convenţie; 3. hotărăşte, în unanimitate, că nu este necesar să fie examinat capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 din Convenţie; 4. hotărăşte, cu 6 voturi la 1",
+  "a) că statul pârât trebuie să plătească societăţii reclamante, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 4.500 EUR (patru mii cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral; (ii) 500 EUR (cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit de către societatea reclamantă, pentru cheltuielile de judecată;",
+  "b) că de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume vor fi majorate cu o dobândă simplă la un procent egal cu cel al facilităţii de preţ marginal a Băncii Centrale Europene aplicabile în această perioadă, majorată cu 3 procente;",
+  "5. respinge, în unanimitate, cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/156441",
+  "text_sha256": "458959197c538b4f08a0ed02ec78bb80ab7e87d41adf64f5f73537f5fdd92a45",
+  "catalogue_sha256": "458959197c538b4f08a0ed02ec78bb80ab7e87d41adf64f5f73537f5fdd92a45",
+  "fetched": "2026-11-03T03:57:12Z",
+  "chars": 30118,
+  "portal_id": "156441",
+  "tip": "HOTĂRÂRE"
+ }
+}
