@@ -1,0 +1,128 @@
+{
+ "key": "cedo-14364-06-2013-12-17",
+ "label": "CEDO, Ion Tudor c. României, 2013-12-17",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-12-17",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 17 decembrie 2013",
+ "subtitle": "în Cauza Ion Tudor împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "208",
+  "bis": false,
+  "date": "2014-03-24",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "14364/06"
+ ],
+ "case_name": "Ion Tudor",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 3. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 3.000 EUR (trei mii de euro), care trebuie convertită în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii, pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "408-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/156687",
+  "text_sha256": "e29ad5b0b3db5ec41c5a016ec56b828cd98e78e6bb4b89bcc995933d46edf581",
+  "catalogue_sha256": "e29ad5b0b3db5ec41c5a016ec56b828cd98e78e6bb4b89bcc995933d46edf581",
+  "fetched": "2026-11-03T03:57:00Z",
+  "chars": 15999,
+  "portal_id": "156687",
+  "tip": "HOTĂRÂRE"
+ }
+}
