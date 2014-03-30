@@ -1,0 +1,61 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) NR. 324/2014 AL COMISIEI
+din 28 martie 2014
+de adoptare a unor măsuri excepționale de sprijin pentru piața cărnii de porc din Polonia
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de instituire a unei organizări comune a piețelor produselor agricole și de abrogare a Regulamentelor (CEE) nr. 922/72, (CEE) nr. 234/79, (CE) nr. 1037/2001 și (CE) nr. 1234/2007 ale Consiliului (1), în special articolul 220 alineatul (1) litera (a),
+întrucât:
+(1) Directiva 2002/60/CE a Consiliului (2) stabilește măsurile minime aplicabile în Uniune pentru controlul pestei porcine africane. Prin urmare, în temeiul Deciziei de punere în aplicare 2014/100/UE a Comisiei (3), astfel cum a fost confirmată prin Decizia de punere în aplicare 2014/134/UE a Comisiei (4), și al Deciziei de punere în aplicare 2014/178/UE a Comisiei (5), Polonia trebuie să se asigure că zona de pe teritoriul său în care există cazuri de pestă porcină africană cuprinde cel puțin teritoriile contaminate enumerate în anexele la deciziile menționate. În scopul prevenirii răspândirii pestei porcine africane și pentru a evita orice perturbări suplimentare ale comerțului din Polonia și din străinătate, la 26 februarie 2014 (6), Polonia a adoptat măsuri preventive suplimentare în zona contaminată respectivă. În consecință, comercializarea cărnii proaspete de porc și a produselor din carne de porc provenite din această zonă contaminată face obiectul unor măsuri de supraveghere speciale, al unei etichetări obligatorii cu o marcă de sănătate specială și al aplicării unor restricții de comercializare în cadrul pieței unice.
+(2) Restricțiile privind comercializarea de carne proaspătă de porc și de produse din carne de porc care rezultă din aplicarea măsurilor veterinare respective determină o importantă reducere de preț în zonele afectate și cauzează perturbarea pieței cărnii de porc în zonele în cauză. Prin urmare, la data de 5 martie 2014, Polonia a solicitat Comisiei să introducă măsuri excepționale de sprijinire a pieței, astfel cum se prevede în Regulamentul (UE) nr. 1308/2013. Aceste măsuri, aplicabile numai cărnii proaspete de porc și produselor din carne de porc provenită de la porcii crescuți în zonele direct afectate de restricții, ar trebui adoptate pentru o perioadă de timp strict necesară.
+(3) Valoarea ajutorului ar trebui să fie exprimată ca sumă per 100 de kilograme de greutate de carcasă de animale eligibile, pentru o cantitate limitată și cu o greutate maximă de carcasă compensabilă per animal. Valoarea ajutorului ar trebui să fie stabilită luându-se în considerare informațiile recente referitoare la piață.
+(4) Pentru porcii crescuți în zonele în cauză, acest sprijin ar trebui să fie condiționat de livrarea animalelor la abatoare, de sacrificarea lor și de marcarea și comercializarea produselor derivate din carne sau a produselor din carne, în conformitate cu cele mai stricte norme veterinare aplicabile în zonele în cauză în ziua livrării porcilor respectivi.
+(5) Ar trebui să se prevadă adoptarea de către autoritățile competente din Polonia a tuturor măsurilor de control și de supraveghere necesare și informarea Comisiei în acest sens. Transportul și sacrificarea animalelor eligibile și eventualul tratament, dacă este necesar, precum și punerea pe piață a cărnii proaspete de porc și a produselor din carne de porc provenite de la aceste animale ar trebui să fie realizate sub controlul autorităților competente.
+(6) În teritoriile în cauză au fost aplicate, timp de mai multe săptămâni, restricții privind comercializarea cărnii proaspete de porc și a produselor din carne de porc, această situație conducând la perturbarea pieței și la pierderi de venit pentru producători, precum și la o creștere substanțială a greutății animalelor care a creat, în consecință, o situație intolerabilă privind bunăstarea animalelor. Prin urmare, măsurile prevăzute în prezentul regulament ar trebui să vizeze animalele livrate începând cu 26 februarie 2014, data adoptării măsurilor preventive în Polonia. Situația pieței și impactul acestei măsuri ar trebui să fie reexaminate în lumina evoluțiilor viitoare și, prin urmare, măsura ar trebui să se aplice doar pentru o perioadă de trei luni.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului de gestionare a organizării comune a piețelor agricole,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+(1) Polonia este autorizată să acorde ajutoare în ceea ce privește sacrificarea următoarelor animale și punerea pe piață a cărnii proaspete de porc și a produselor din carne de porc provenite de la aceste animale, în conformitate cu legislația aplicabilă în domeniul veterinar:
+(a) porci incluși la codul NC 0103 92 19 ;
+(b) scroafe incluse la codul NC 0103 92 11 .
+(2) Ajutoarele prevăzute la alineatul (1) se acordă numai în cazul în care sunt îndeplinite următoarele condiții:
+(a) animalele au fost crescute în zonele enumerate în anexele la Deciziile de punere în aplicare 2014/100/UE sau 2014/134/UE sau în partea II a anexei la Decizia de punere în aplicare 2014/178/UE pentru perioadele relevante sau în orice altă decizie de punere în aplicare a Comisiei adoptată în această privință, iar carnea de porc provenită de la animalele crescute în zonele respective este supusă anumitor restricții de comercializare din cauza pestei porcine africane;
+(b) animalele erau prezente în zonele menționate la litera (a) la data de 26 februarie 2014 sau s-au născut și au crescut după acea dată în zonele respective;
+(c) măsurile preventive suplimentare stabilite prin Regulamentul ministrului agriculturii și dezvoltării rurale din Polonia la 26 februarie 2014 privind măsurile care trebuie adoptate în legătură cu prezența pestei porcine africane la porcii sălbatici sau orice alte norme naționale adoptate în această privință și supunerea cărnii de porc la restricții de comercializare din cauza pestei porcine africane se aplică în zona în care aceste animale au fost crescute la data la care sunt livrate către un abator.
+Articolul 2
+Ajutoarele prevăzute la articolul 1 sunt considerate a fi măsuri excepționale de sprijinire a pieței, astfel cum se prevede la articolul 4 alineatul (1) litera (a) din Regulamentul (UE) nr. 1306/2013 al Parlamentului European și al Consiliului (7).
+Articolul 3
+(1) Producătorii de carne de porc pot solicita ajutoarele prevăzute la articolul 1 (denumite în continuare „ajutorul”) pentru animalele sacrificate în perioada 26 februarie 2014-25 mai 2014.
+(2) Ajutorul este exprimat ca suma de 35,7 EUR per 100 de kilograme de greutate de carcasă înregistrată pentru animalele livrate. Comisia poate adapta această sumă pentru a ține seama de evoluția pieței.
+(3) Ajutorul pentru carcasele de animale cu o greutate mai mică de 100 de kilograme nu trebuie să depășească suma ajutorului stabilită la alineatul (2) pentru carcasele de porci cu o greutate de 100 de kilograme.
+(4) 50 % din cheltuielile pentru ajutor, care acoperă o cantitate totală maximă de 20 000 de tone de carcase de porc, sunt finanțate de la bugetul Uniunii.
+(5) Cheltuielile sunt eligibile pentru finanțare din partea Uniunii numai în cazul în care au fost plătite de Polonia beneficiarului până la data de 31 august 2014.
+(6) Ajutorul este plătit de către Polonia după sacrificarea porcilor și punerea pe piață a cărnii proaspete de porc și a produselor din carne de porc provenite de la animalele respective în conformitate cu normele veterinare aplicabile și după finalizarea controalelor în conformitate cu articolul 4.
+Articolul 4
+(1) Polonia ia toate măsurile necesare, inclusiv efectuarea de controale administrative și fizice exhaustive, pentru a asigura conformitatea cu condițiile prevăzute în prezentul regulament. În plus, autoritățile poloneze:
+(a) supervizează transportul animalelor între exploatație și abator, utilizând liste de verificare standardizate care cuprind fișe cu informații rezultate din cântărire și numărare, precum și privind originea și destinația animalelor;
+(b) se asigură că toate produsele pentru care se acordă ajutor respectă restricțiile aplicabile teritoriilor menționate la articolul 1 alineatul (2) litera (a);
+(c) realizează, cel puțin o dată pe lună calendaristică, controale administrative și contabile în fiecare abator participant pentru a se asigura că toate animalele livrate și carnea provenită de la acestea pentru care poate fi depusă o cerere de ajutor, începând cu 26 februarie 2014 sau de la data la care a avut loc un astfel de control, au fost manipulate în conformitate cu prezentul regulament;
+(d) asigură controale la fața locului și rapoarte detaliate asupra controalelor respective, care să indice, în special:
+(i) greutatea și numărul total de animale eligibile, per lot, transportate de la fermă, data și ora transportului către abator, precum și data și ora sosirii la abator;
+(ii) numărul de porci și de scroafe sacrificate la abator, greutatea fiecărei carcase și permisul de transport al animalelor, precum și, pentru animalele sacrificate după intrarea în vigoare a prezentului regulament, numerele sigiliilor mijloacelor de transport pentru animalele respective.
+(2) Controalele și verificările menționate la alineatul (1) se efectuează înainte de plata ajutorului. Polonia informează Comisia cu privire la măsurile și controalele introduse în conformitate cu prezentul articol, în termen de cel mult 10 zile de la intrarea în vigoare a prezentului regulament.
+Articolul 5
+(1) Polonia comunică următoarele informații Comisiei, în ziua de miercuri a fiecărei săptămâni, cu privire la săptămâna precedentă:
+(a) numărul de scroafe și numărul de alte porcine livrate pentru sacrificare, în conformitate cu prezentul regulament, precum și greutatea totală a carcaselor acestora;
+(b) costurile financiare estimate pentru fiecare categorie de animale menționată la articolul 1 alineatul (1).
+Prima comunicare se referă la animalele livrate în vederea sacrificării începând de la 26 februarie 2014 în conformitate cu prezentul regulament. Obligația prevăzută la primul paragraf se aplică până la 4 iunie 2014.
+(2) Nu mai târziu de 30 iunie 2014, Polonia transmite Comisiei un raport detaliat privind punerea în aplicare a prezentului regulament, cuprinzând informații detaliate cu privire la executarea controalelor, a verificărilor și a supravegherii efectuate în conformitate cu articolul 4.
+Articolul 6
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 28 martie 2014.
+Pentru Comisie
+Președintele
+José Manuel BARROSO
+(1) JO L 347, 20.12.2013, p. 671.
+(2) Directiva 2002/60/CE a Consiliului din 27 iunie 2002 de stabilire a dispozițiilor specifice de combatere a pestei porcine africane (JO L 192, 20.7.2002, p. 27).
+(3) Decizia de punere în aplicare 2014/100/UE a Comisiei din 18 februarie 2014 privind anumite măsuri de protecție provizorii cu privire la pesta porcină africană în Polonia (JO L 50, 20.2.2014, p. 35).
+(4) Decizia de punere în aplicare 2014/134/UE a Comisiei din 12 martie 2014 privind anumite măsuri de protecție provizorii cu privire la pesta porcină africană în Polonia (JO L 74, 14.3.2014, p. 63).
+(5) Decizia de punere în aplicare 2014/178/UE a Comisiei din 27 martie 2014 privind măsurile zoosanitare de combatere a pestei porcine africane în anumite state membre (a se vedea pagina 47 din prezentul Jurnal Oficial).
+(6) Regulamentul ministrului agriculturii și dezvoltării rurale din 26 februarie 2014 privind măsurile care trebuie adoptate în legătură cu prezența pestei porcine africane la porcii sălbatici (Dz.U. poz. 247).
+(7) Regulamentul (UE) nr. 1306/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentelor (CEE) nr. 352/78, (CE) nr. 165/94, (CE) nr. 2799/98, (CE) nr. 814/2000, (CE) nr. 1290/2005 și (CE) nr. 485/2008 ale Consiliului (JO L 347, 20.12.2013, p. 549).
