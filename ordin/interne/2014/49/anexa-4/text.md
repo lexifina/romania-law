@@ -1,0 +1,2 @@
+# Anexa 4
+PLACHETA DE ONOARE A MINISTERULUI AFACERILOR INTERNE Placheta de onoare a Ministerului Afacerilor Interne este compusă dintr-un scut albastru, încărcat, în registrul inferior, cu emblema de onoare a Ministerului Afacerilor Interne, fără dispozitivul de prindere terminat cu inel și fără panglică. Deasupra emblemei, în șef, într-un dreptunghi alezat, sunt gravate, cu litere majuscule, pe 3 rânduri, cuvintele: PLACHETA DE ONOARE/A/MINISTERULUI AFACERILOR INTERNE.
