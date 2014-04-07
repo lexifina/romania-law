@@ -1,0 +1,1447 @@
+{
+ "key": "dcc-80-2014",
+ "label": "Decizia CCR nr. 80/2014",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "revizuire-constitutie",
+ "number": "80",
+ "date": "2014-02-16",
+ "year": "2014",
+ "heading": "DECIZIE nr. 80 din 16 februarie 2014",
+ "subtitle": "asupra propunerii legislative privind revizuirea Constituţiei României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "246",
+  "bis": false,
+  "date": "2014-04-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "95A/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "8",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d",
+      "e",
+      "l"
+     ]
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  }
+ ],
+ "operative": [
+  "I. Cu unanimitate de voturi, constată că propunerea legislativă privind revizuirea Constituţiei României a fost iniţiată cu respectarea prevederilor art. 150 alin. (1) din Constituţie.",
+  "II. Întrucât încalcă limitele revizuirii prevăzute de art. 152 din Constituţie: 1. cu majoritate de voturi, constată neconstituţionalitatea completării art. 3 din Constituţie cu un nou alineat, alin. (3^1), referitor la posibilitatea recunoaşterii de zone tradiţionale ca subdiviziuni administrative ale regiunilor; 2. cu majoritate de voturi, constată neconstituţionalitatea completării art. 6 din Constituţie cu un nou alineat, alin. (1^1), privitor la instituirea posibilităţii reprezentanţilor legali ai minorităţilor naţionale de a înfiinţa, potrivit statutului minorităţilor naţionale adoptat prin lege, organe proprii de decizie şi executive; 3. cu majoritate de voturi, constată neconstituţionalitatea completării art. 12 din Constituţie cu un nou alineat, alin. (4^1), referitor la utilizarea simbolurilor proprii ale minorităţilor naţionale; 4. cu unanimitate de voturi, constată neconstituţionalitatea modificării aduse art. 15 alin. (1) din Constituţie, referitor la introducerea sintagmei \"cetăţenii români se nasc şi trăiesc liberi\"; 5. cu unanimitate de voturi, constată neconstituţionalitatea modificării aduse art. 21 alin. (4) din Constituţie, referitor la eliminarea caracterului facultativ al jurisdicţiilor administrative speciale; 6. cu unanimitate de voturi, constată neconstituţionalitatea completării aduse art. 23 din Constituţie cu un nou alineat, alin. (13^1), referitor la folosirea probelor obţinute în mod ilegal; 7. cu unanimitate de voturi, constată neconstituţionalitatea modificării aduse art. 26 alin. (2) din Constituţie, referitor la eliminarea sintagmei \"bunele moravuri\"; 8. cu majoritate de voturi, constată neconstituţionalitatea modificării aduse art. 28 din Constituţie, referitor la secretul corespondenţei; 9. cu majoritate de voturi, constată neconstituţionalitatea completării aduse art. 32 alin. (8) din Constituţie, referitor la definirea autonomiei universitare; 10. cu majoritate de voturi, constată neconstituţionalitatea completării art. 37 din Constituţie cu un nou alineat, alin. (2^1), referitor la condiţia domiciliului în România cu cel puţin 6 luni înainte de data alegerilor pentru Senat, Camera Deputaţilor sau pentru funcţia de Preşedinte al României; 11. cu unanimitate de voturi, constată neconstituţionalitatea eliminării actualei teze a doua a art. 44 alin. (1) din Constituţie, referitor la condiţiile şi limitele dreptului de proprietate; 12. cu unanimitate de voturi, constată neconstituţionalitatea modificării aduse art. 50 din Constituţie, referitor la suprimarea protecţiei speciale de care se bucură persoanele cu handicap; 13. cu unanimitate de voturi, constată neconstituţionalitatea modificării aduse art. 52 alin. (1) din Constituţie, referitor la eliminarea reparării integrale a pagubei suferite de către persoana vătămată de o autoritate publică; 14. cu unanimitate de voturi, constată neconstituţionalitatea înlocuirii sintagmei \"persoanelor fizice\" cu termenul \"cetăţenilor\" în cuprinsul art. 58 alin. (1) din Constituţie; 15. cu majoritate de voturi, constată neconstituţionalitatea completării art. 58 alin. (1) din Constituţie cu sintagma \"în raporturile acestora cu autorităţile publice\"; 16. cu majoritate de voturi, constată neconstituţionalitatea completării art. 64 cu un nou alineat, alin. (4^1), referitoare la obligaţia persoanelor de drept public, persoanelor juridice private şi persoanelor fizice de a se prezenta, direct sau prin reprezentant legal, după caz, în faţa unei comisii parlamentare; 17. cu majoritate de voturi, constată neconstituţionalitatea completării art. 70 alin. (2) lit. e) referitoare la încetarea calităţii de deputat sau de senator la data demisiei din partidul politic sau formaţiunea politică din partea căreia a fost ales sau la data înscrierii acestuia într-un alt partid sau într-o altă formaţiune politică; 18. cu unanimitate de voturi, constată neconstituţionalitatea eliminării tezelor a doua şi a treia ale alin. (2) al art. 72 referitoare la competenţa Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie de urmărire şi trimitere în judecată, respectiv la competenţa de judecată a Înaltei Curţi de Casaţie şi Justiţie cu privire la senatori şi deputaţi; 19. cu majoritate de voturi, constată neconstituţionalitatea modificării aduse art. 103 alin. (1) şi (3) din Constituţie, precum şi a completării art. 103 din Constituţie cu trei noi alineate, alin. (3^1)-(3^3), referitoare la modalitatea de desemnare de către Preşedintele României a candidatului la funcţia de prim-ministru; 20. cu unanimitate de voturi, constată neconstituţionalitatea modificării aduse art. 110 alin. (1) din Constituţie, referitor la durata mandatului Guvernului; 21. cu unanimitate de voturi, constată neconstituţionalitatea introducerii alin. (2) în cuprinsul art. 119 din Constituţie, referitor la obligativitatea hotărârilor Consiliului Naţional de Securitate; 22. cu majoritate de voturi, constată neconstituţionalitatea modificării părţii introductive şi a lit. b) ale alin. (2) al art. 133, referitoare la creşterea numărului membrilor Consiliului Superior al Magistraturii reprezentanţi ai societăţii civile; 23. cu unanimitate de voturi, constată neconstituţionalitatea modificării art. 135 alin. (2) lit. d), referitoare la exploatarea resurselor de producţie în condiţii de maximă eficienţă economică şi cu acordarea accesului nediscriminatoriu tuturor celor interesaţi; 24. cu unanimitate de voturi, constată neconstituţionalitatea modificării art. 135 alin. (2) lit. e), referitoare la dezvoltarea economică în condiţiile ocrotirii mediului înconjurător şi menţinerii echilibrului ecologic; 25. cu unanimitate de voturi, constată neconstituţionalitatea abrogării lit. l) a art. 146 din Constituţie, în măsura în care aceasta nu este însoţită de constituţionalizarea, în mod corespunzător, a atribuţiilor Curţii Constituţionale de control al legii de revizuire a Constituţiei adoptate de Parlament şi, respectiv, de control al constituţionalităţii hotărârilor plenului Camerei Deputaţilor, a hotărârilor plenului Senatului şi a hotărârilor plenului celor două Camere reunite ale Parlamentului care afectează valori, reguli şi principii constituţionale sau, după caz, organizarea şi funcţionarea autorităţilor şi instituţiilor de rang constituţional; 26. cu unanimitate de voturi, constată neconstituţionalitatea modificării art. 148 alin. (2), potrivit căruia România asigură respectarea, în cadrul ordinii juridice naţionale, a dreptului Uniunii Europene, conform obligaţiilor asumate prin actul de aderare şi prin celelalte tratate semnate în cadrul Uniunii.",
+  "III. Cu unanimitate de voturi, supune atenţiei Parlamentului observaţiile privind: 1. eliminarea: - alin. (2^1), propus a fi introdus la art. 2; - modificării propuse la art. 21 alin. (3); - modificării propuse în privinţa introducerii tezei a doua la art. 23 alin. (4); - modificării propuse la art. 27 alin. (3); - modificării propuse la art. 49 alin. (1); - tezei a treia din alin. (1^1), propus a fi introdus în art. 58; - modificării art. 62 alin. (3); - modificării propuse la art. 76 alin. (1); - alin. (3), propus a fi introdus la art. 90; - art. 95 alin. (3^1) teza a doua; - art. (4^1), propus a fi introdus la art. 133; - art. 151 alin. (3) teza a doua; 2. Reformularea propunerilor de modificare a: art. 23 alin. (4) în privinţa introducerii tezei întâi, art. 23 alin. (8), art. 24 alin. (2) şi (2^1), art. 31 alin. (5), titlului marginal al art. 32, art. 32 alin. (2) şi (4), art. 40 alin. (2), art. 51^1, art. 52 alin. (3), art. 65 alin. (2), art. 73 alin. (3), art. 74 alin. (1), art. 75, art. 78 alin. (1^1), art. 85 alin. (3^1), art. 89 alin. (1), art. 90 alin. (1), art. 91 alin. (1^1), art. 95 alin. (3^1) teza întâi, art. 102 alin. (3^1), art. 114 alin. (1), art. 119 alin. (1), art. 122 alin. (1) şi (2), art. 133 alin. (3) şi (4), art. 137^1, art. 138 alin. (1) şi (2), art. 140 alin. (3), (4) şi (6), art. 146 lit. b) şi art. 148 alin. (1); 3. reconsiderarea aşezării: - alin. (2) al art. 10 în structura titlului VI din Constituţie; - alin. (2^1) al art. 24 în structura art. 21 din Constituţie; - alin. (1) şi (3) ale art. 32 în structura unui nou articol din Constituţie; - alin. (3^1) al art. 55 în structura titlului VI din Constituţie; - alin. (2), (3) şi (4) ale art. 75 în structura unui nou articol din Constituţie; 4. reconsiderarea soluţiei legislative cu privire la modificarea art. 126 alin. (4) şi art. 134 alin. (1) din Constituţie.",
+  "IV. Cu majoritate de voturi, supune atenţiei Parlamentului observaţiile privind: 1. eliminarea: - alin. (1^1), propus a fi introdus la art. 1; - alin. (2^1), propus a fi introdus la art. 6; - tezei a doua din alin. (5) al art. 119^1, ce se propune a fi introdus în Constituţie; 2. reformularea completării art. 35 cu un nou alineat, alin. (3^1), şi a modificării art. 44 alin. (1) teza a doua din Constituţie.",
+  "V. Cu unanimitate de voturi, supune atenţiei Parlamentului observaţiile privind completarea art. 155 din Constituţie în sensul introducerii unor norme tranzitorii cu privire la mandatul membrilor Consiliului Superior al Magistraturii.",
+  "VI. Cu majoritate de voturi, constată că prevederile din propunerea legislativă privind revizuirea Constituţiei referitoare la modificarea art. 61 alin. (2), art. 64 alin. (3) şi art. 80 alin. (1), precum şi introducerea art. 107^1 în Constituţie nu contravin dispoziţiilor constituţionale.",
+  "VII. Cu unanimitate de voturi, constată că celelalte prevederi din propunerea legislativă privind revizuirea Constituţiei nu contravin dispoziţiilor constituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedinţilor celor două Camere ale Parlamentului României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a",
+      "d",
+      "b",
+      "l"
+     ]
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "4",
+      "8",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2",
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "2",
+      "8",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "72",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "3",
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "1",
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "3-3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "4",
+      "3",
+      "1",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d",
+      "e",
+      "l"
+     ]
+    },
+    {
+     "art": "137",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137-1",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 549
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "542",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii educaţiei naţionale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1990",
+    "number": "18",
+    "year": "1990",
+    "path": "lege/1990/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "6",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 22/2004",
+    "number": "22",
+    "year": "2004",
+    "path": "lege/2004/22"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/1998",
+    "number": "202",
+    "year": "1998",
+    "path": "lege/1998/202"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 415/2002",
+    "number": "415",
+    "year": "2002",
+    "path": "lege/2002/415"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 312/2004",
+    "number": "312",
+    "year": "2004",
+    "path": "lege/2004/312"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 429/2003",
+    "number": "429",
+    "year": "2003",
+    "path": "lege/2003/429"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 232/2004",
+    "number": "232",
+    "year": "2004",
+    "path": "lege/2004/232"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/1945",
+    "number": "86",
+    "year": "1945",
+    "path": "lege/1945/86"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1995",
+    "number": "33",
+    "year": "1995",
+    "path": "lege/1995/33"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 282/2007",
+    "number": "282",
+    "year": "2007",
+    "path": "lege/2007/282"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-04-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/157153",
+  "text_sha256": "c637b7939db51599817579db539b7114818a4ed2d432419217553c986eab019c",
+  "catalogue_sha256": "c637b7939db51599817579db539b7114818a4ed2d432419217553c986eab019c",
+  "fetched": "2026-11-03T03:56:32Z",
+  "chars": 390590,
+  "portal_id": "157153",
+  "tip": "DECIZIE"
+ }
+}
