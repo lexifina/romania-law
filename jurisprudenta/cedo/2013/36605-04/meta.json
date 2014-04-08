@@ -1,0 +1,162 @@
+{
+ "key": "cedo-36605-04-2013-03-05",
+ "label": "CEDO, Manolachi c. României, 2013-03-05",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-03-05",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 5 martie 2013",
+ "subtitle": "în Cauza Manolachi împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "253",
+  "bis": false,
+  "date": "2014-04-08",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "36605/04"
+ ],
+ "case_name": "Manolachi",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. uneşte cu fondul excepţia preliminară ridicată de Guvern referitoare la neepuizarea căilor de atac interne cu privire la capătul de cerere întemeiat pe art. 6 § 1 din Convenţie şi o respinge; 2. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1 din Convenţie şi inadmisibilă pentru celelalte capete de cerere; 3. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 4. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 3.000 EUR (trei mii de euro), care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii, pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "408-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/157206",
+  "text_sha256": "fc924d5ad10c7cdd3804dfe960fa10be72de510924f40e291d5f05dd86955435",
+  "catalogue_sha256": "fc924d5ad10c7cdd3804dfe960fa10be72de510924f40e291d5f05dd86955435",
+  "fetched": "2026-11-03T03:56:28Z",
+  "chars": 33308,
+  "portal_id": "157206",
+  "tip": "HOTĂRÂRE"
+ }
+}
