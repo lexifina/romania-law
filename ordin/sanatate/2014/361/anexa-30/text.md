@@ -1,0 +1,2 @@
+# Anexa 31
+Protocol terapeutic corespunzător poziției nr. 135, cod (N015F), DCI: FLUPENTIXOLUM Forme farmaceutice: parenterale I. Indicații: Schizofrenie la pacienții cu vârsta peste 18 ani II. Doze: 20 mg la 10-14 zile III. Criterii de includere: Diagnostic ICD 10 IV. Monitorizare: Toleranță, eficacitate, curbă ponderală, examen neurologic, glicemie V. Evaluare: 1-2 luni VI. Prescriptori: Inițiere: medic în specialitatea psihiatrie. Continuare: medic în specialitatea psihiatrie.

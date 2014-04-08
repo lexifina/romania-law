@@ -1,0 +1,2 @@
+# Anexa 33
+Protocol terapeutic corespunzător poziției nr. 137, cod (N017F), DCI: SERTINDOL Forme farmaceutice: orale I. Indicații: Schizofrenie la pacienții cu vârsta peste 18 ani II. Doze: 4-20 mg/zi III. Criterii de includere: Diagnostic ICD 10 IV. Monitorizare: Toleranță, eficacitate, EKG, electroliți, teste coagulare V. Evaluare: 1-2 luni VI. Prescriptori: Inițiere: medic în specialitatea psihiatrie. Continuare: medic în specialitatea psihiatrie.

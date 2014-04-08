@@ -1,0 +1,2 @@
+# Anexa 13
+Protocol terapeutic corespunzător poziției nr. 103, cod (L038C), DCI: SORAFENIBUM Cancer hepatocelular PRESCRIPTORI Inițierea se face de către medicii din specialitățile oncologie medicală. Continuarea tratamentului se face de către medicul oncolog sau pe baza scrisorii medicale de către medicii de familie desemnați. Carcinom renal PRESCRIPTORI Inițierea se face de către medicii din specialitățile oncologie medicală. Continuarea tratamentului se face de către medicul oncolog sau pe baza scrisorii medicale de către medicii de familie desemnați.
