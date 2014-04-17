@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale AGORA LEASE IFN - S.A., cu sediul în municipiul Constanța, bd. Ferdinand nr. 79, bl. AR2, județul Constanța, înregistrată la oficiul registrului comerțului cu nr. J13/1976/2006, având codul unic de înregistrare 18798607, înscrisă în Registrul general la secțiunea h) "Leasing financiar" cu nr. RG-PJR-14-080028. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 28 martie 2014. Nr. 252. -------
