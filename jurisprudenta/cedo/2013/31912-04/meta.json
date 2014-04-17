@@ -1,0 +1,147 @@
+{
+ "key": "cedo-31912-04-2013-10-29",
+ "label": "CEDO, Hogea c. României, 2013-10-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-10-29",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 29 octombrie 2013",
+ "subtitle": "în Cauza Hogea împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "284",
+  "bis": false,
+  "date": "2014-04-17",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "31912/04"
+ ],
+ "case_name": "Hogea",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. uneşte cu fondul excepţia preliminară ridicată de Guvern cu privire la calitatea de victimă a reclamantului şi o respinge; 2. declară cererea admisibilă; 3. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 4. hotărăşte",
+  "a) că statul pârât trebuie să îi plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 3.000 EUR (trei mii de euro), care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii, pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/157511",
+  "text_sha256": "b26a37cb734d4f262efa67dc74c2b59b5ffac36b319240b26aea9afee450daa5",
+  "catalogue_sha256": "b26a37cb734d4f262efa67dc74c2b59b5ffac36b319240b26aea9afee450daa5",
+  "fetched": "2026-11-03T03:56:08Z",
+  "chars": 31663,
+  "portal_id": "157511",
+  "tip": "HOTĂRÂRE"
+ }
+}
