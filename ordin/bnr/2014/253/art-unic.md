@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale TOTAL FINANCE IFN - S.A., cu sediul în municipiul Galați, Str. Morilor nr. 124, ap. cam. 1, județul Galați, înregistrată la oficiul registrului comerțului cu nr. J17/733/2008, având codul unic de înregistrare 23674982, înscrisă în Registrul general la secțiunea k) "Activități multiple de creditare" cu nr. RG-PJR-18-110233. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 28 martie 2014. Nr. 253. -------
