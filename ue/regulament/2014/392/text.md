@@ -1,0 +1,45 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) NR. 392/2014 AL CONSILIULUI
+din 14 aprilie 2014
+de încheiere a reexaminării intermediare parțiale referitoare la măsurile antidumping asupra importurilor de biomotorină originare din Statele Unite ale Americii, extinse la importurile expediate din Canada, indiferent dacă sunt sau nu declarate ca fiind originare din Canada
+CONSILIUL UNIUNII EUROPENE,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1225/2009 al Consiliului din 30 noiembrie 2009 privind protecția împotriva importurilor care fac obiectul unui dumping din partea țărilor care nu sunt membre ale Comunității Europene (1), în special articolul 11 alineatul (3) și articolul 13 alineatul (4),
+având în vedere propunerea prezentată de Comisia Europeană, după consultarea Comitetului consultativ,
+întrucât:
+1. PROCEDURA
+1.1. MĂSURI ÎN VIGOARE
+(1) Prin Regulamentul (CE) nr. 599/2009 (2), Consiliul a impus o taxă antidumping definitivă asupra importurilor de esteri monoalchilici de acid gras și/sau motorină parafinică obținută prin sinteză și/sau hidrotratament, de origine nonfosilă, produse cunoscute în general sub denumirea de „biomotorină”, sub formă pură sau în amestecuri cu un conținut în greutate de peste 20 % de esteri monoalchilici de acid gras și/sau motorină parafinică obținută prin sinteză și/sau hidrotratament, de origine nonfosilă („produsul supus reexaminării” sau „biomotorină”), încadrate în prezent la codurile NC ex 1516 20 98 , ex 1518 00 91 , ex 1518 00 99 , ex 2710 19 43 , ex 2710 19 46 , ex 2710 19 47 , ex 2710 20 11 , ex 2710 20 15 , ex 2710 20 17 , ex 3824 90 97 , 3826 00 10 și ex 3826 00 90 , originare din Statele Unite ale Americii („măsurile în vigoare”).
+(2) Prin Regulamentul de punere în aplicare (UE) nr. 444/2011 (3), în urma unei anchete privind practicile de circumvenție, Consiliul a extins taxa antidumping definitivă aplicată importurilor de biomotorină originare din Statele Unite ale Americii la importurile de biomotorină expediată din Canada, indiferent dacă sunt sau nu declarate ca fiind originare din Canada („măsurile în vigoare extinse”).
+1.2. CEREREA DE REEXAMINARE
+(3) Ocean Nutrition Canada („solicitantul”), un producător-exportator din Canada, a depus o cerere de reexaminare intermediară parțială („cererea de reexaminare”) în conformitate cu articolul 11 alineatul (3) și articolul 13 alineatul (4) din Regulamentul (CE) nr. 1225/2009 („regulamentul de bază”).
+(4) Cererea de reexaminare avea un obiect limitat, și anume examinarea posibilității de a acorda o scutire de la măsurile în vigoare extinse, în ceea ce îl privește pe solicitant.
+(5) În cererea de reexaminare, solicitantul a declarat că este într-adevăr producător de biomotorină și că este capabil să producă întreaga cantitate de biomotorină pe care a expediat-o către Uniune de la momentul începerii anchetei referitoare la circumvenția măsurilor antidumping care a condus la instituirea măsurii în vigoare extinse.
+(6) Perioada de anchetă care a fost luată în considerare pentru ancheta privind practicile de circumvenție a acoperit perioada cuprinsă între 1 aprilie 2009 și 30 iunie 2010 („perioada de anchetă inițială”). Perioada de anchetă pentru ancheta de față a vizat perioada cuprinsă între 1 aprilie 2012 și 31 martie 2013 („perioada de anchetă”).
+(7) Solicitantul a furnizat elemente de probă prima facie conform cărora acesta s-a constituit ca producător de biomotorină în Canada cu mult timp înainte de instituirea măsurilor în vigoare. În plus, solicitantul a declarat că nu are legături cu niciun producător de biomotorină situat în Statele Unite ale Americii.
+1.3. DESCHIDEREA UNEI REEXAMINĂRI INTERMEDIARE PARȚIALE
+(8) După ce a constatat, în urma consultării Comitetului consultativ, că cererea de reexaminare conținea suficiente elemente de probă prima facie pentru a justifica inițierea unei reexaminări intermediare parțiale, printr-un aviz publicat în Jurnalul Oficial al Uniunii Europene (4) („aviz de inițiere”), Comisia a inițiat, la data de 30 aprilie 2013, o reexaminare intermediară parțială, în conformitate cu articolul 11 alineatul (3) și articolul 13 alineatul (4) din regulamentul de bază, limitată la examinarea posibilității de a acorda o scutire de la măsurile în vigoare extinse în ceea ce îl privește pe solicitant.
+1.4. PĂRȚI INTERESATE
+(9) Comisia a informat oficial solicitantul, precum și reprezentanții Canadei cu privire la inițierea reexaminării intermediare parțiale. Părților interesate li s-a oferit posibilitatea de a-și face cunoscute în scris punctele de vedere și de a solicita o audiere în termenul stabilit în avizul de inițiere. Numai solicitantul s-a manifestat. Nu s-a solicitat nicio audiere.
+(10) Comisia a primit răspunsul la chestionar transmis de către solicitant, care a fost verificat la fața locului la sediul solicitantului în Canada.
+2. CONSTATĂRILE ANCHETEI ȘI ÎNCHEIEREA REEXAMINĂRII
+(11) Ancheta a stabilit că solicitantul este într-adevăr producător de biomotorină și că nu are legături cu niciun producător de biomotorină situat în Statele Unite ale Americii.
+(12) În urma constatărilor făcute în timpul vizitelor la fața locului la sediul său din Canada, solicitantului i s-a cerut să prezinte informații suplimentare care să demonstreze că deține o capacitate de producție suficientă pentru a-și susține volumul de vânzări din perioada de anchetă.
+(13) În pofida mai multor prelungiri ale termenului, solicitantul nu a furnizat Comisiei informațiile solicitate.
+(14) În plus, ancheta a arătat că, după intrarea în vigoare a măsurilor în vigoare extinse, solicitantul ar fi exportat produsul în cauză către Uniune sub un cod NC care nu intra sub incidența măsurilor respective. Solicitantul a fost invitat de Comisie să justifice utilizarea acelui cod NC. Însă acesta nu a furnizat nicio informație sau niciun alt element de probă care să demonstreze că aceste exporturi ar trebui să fie acoperite de codul NC care nu intră sub incidența măsurilor în vigoare extinse.
+(15) Pe baza celor de mai sus, se consideră că solicitantul nu a reușit să demonstreze că a fost în măsură să producă întreaga cantitate de biomotorină pe care a expediat-o către Uniune de la începutul perioadei de anchetă inițială. Pe lângă faptul că solicitantul nu a furnizat informațiile solicitate de Comisie, acesta nu a furnizat nici alte elemente de probă care să arate că nu a fost implicat în practici de circumvenție. Din acest motiv, ancheta de reexaminare ar trebui încheiată fără a se acorda solicitantului scutirea de la măsurile în vigoare extinse.
+(16) Părțile interesate au fost informate cu privire la intenția de a încheia ancheta de reexaminare și au avut posibilitatea de a prezenta observații. Nu s-au primit niciun fel de observații care ar putea influența decizia de a încheia ancheta de reexaminare.
+(17) Prin urmare, se concluzionează că reexaminarea intermediară parțială referitoare la măsurile antidumping aplicate importurilor de biomotorină originare din Statele Unite ale Americii, extinse la importurile de biomotorină expediate din Canada, indiferent dacă sunt sau nu declarate ca fiind originare din Canada, ar trebui încheiată fără să se modifice măsurile în vigoare extinse,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Reexaminarea intermediară parțială a măsurilor antidumping asupra importurilor de biomotorină originare din Statele Unite ale Americii, extinse prin Regulamentul (UE) nr. 444/2011 la importurile de biomotorină expediate din Canada, indiferent dacă sunt sau nu declarate ca fiind originare din Canada, deschisă în temeiul articolului 11 alineatul (3) și al articolului 13 alineatul (4) din Regulamentul (CE) nr. 1225/2009, se încheie fără modificarea măsurilor în vigoare extinse.
+Articolul 2
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Luxemburg, 14 aprilie 2014.
+Pentru Consiliu
+Președintele
+A. TSAFTARIS
+(1) JO L 343, 22.12.2009, p. 51.
+(2) Regulamentul (CE) nr. 599/2009 al Consiliului din 7 iulie 2009 de instituire a unei taxe antidumping definitive și de percepere definitivă a taxei provizorii aplicate importurilor de biomotorină originară din Statele Unite ale Americii (JO L 179, 10.7.2009, p. 26).
+(3) Regulamentul de punere în aplicare (UE) nr. 444/2011 al Consiliului din 5 mai 2011 de extindere a aplicării taxei antidumping definitive instituite de Regulamentul (CE) nr. 599/2009 asupra importurilor de biomotorină originare din Statele Unite ale Americii la importurile de biomotorină expediate din Canada, indiferent dacă au fost sau nu declarate ca fiind originare din Canada, și de extindere a aplicării taxei antidumping definitive instituite de Regulamentul (CE) nr. 599/2009 la importurile de biomotorină în amestec cu un conținut în greutate de maximum 20 % de biomotorină originară din Statele Unite ale Americii și de încheiere a anchetei privind importurile expediate din Singapore (JO L 122, 11.5.2011, p. 12).
+(4) JO C 124, 30.4.2013, p. 7.
