@@ -1,0 +1,160 @@
+{
+ "key": "dcc-74-2014",
+ "label": "Decizia CCR nr. 74/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "74",
+ "date": "2014-02-11",
+ "year": "2014",
+ "heading": "DECIZIE nr. 74 din 11 februarie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 8 alin. (1) şi (4) din Legea nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "304",
+  "bis": false,
+  "date": "2014-04-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.428/314/2013",
+  "629D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/1998",
+    "number": "152",
+    "year": "1998",
+    "path": "lege/1998/152"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Dragoş Petru Cremene în Dosarul nr. 3.428/314/2013 al Judecătoriei Suceava şi constată că dispoziţiile art. 8 alin. (1) şi (4) din Legea nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Suceava şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/1998",
+    "number": "152",
+    "year": "1998",
+    "path": "lege/1998/152"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-04-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/157663",
+  "text_sha256": "68cd8d1696fc97b6b4c9c456e4bfdd74941f79303e591f667aad4d1b65eef676",
+  "catalogue_sha256": "68cd8d1696fc97b6b4c9c456e4bfdd74941f79303e591f667aad4d1b65eef676",
+  "fetched": "2026-11-05T08:23:57Z",
+  "chars": 11128,
+  "portal_id": "157663",
+  "tip": "DECIZIE"
+ }
+}
