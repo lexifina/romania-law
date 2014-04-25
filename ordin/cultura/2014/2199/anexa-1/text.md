@@ -1,0 +1,40 @@
+# Anexa
+Zona de protecție a sitului arheologic "Mânăstirea Bizere" din extravilanul comunei Frumușeni, județul Arad Coordonatele punctelor de contur
+Coordonate stereo 70
+Nr.
+pct.
+X
+m
+Y
+m
+1.
+518504.794
+227911.259
+2.
+518601.494
+227933.420
+3.
+518533.623
+228107401
+4.
+518492.168
+228101.813
+5.
+518412.642
+228110.832
+6.
+518332.625
+228111.892
+7.
+518362.290
+227967.410
+8.
+518379.509
+227884.255
+9.
+518455.718
+227900.307
+10.
+518500.889
+227910.448
+--------
