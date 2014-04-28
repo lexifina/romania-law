@@ -1,0 +1,9 @@
+# Anexa
+----- (Anexa nr. 1 la Ordinul nr. 2.173/2013) --------------------------------------- DECLARAȚIE privind confidențialitatea și imparțialitatea Subsemnatul(a),..................................., membru în Comisia Națională a Monumentelor Istorice/în Secțiunea de specialitate.........................../în Comisia zonală a monumentelor istorice nr..........., declar pe propria răspundere, sub sancțiunea falsului în declarații, prevăzut de art. 326 din Codul penal, următoarele:
+a) pe durata mandatului, nu voi participa la vot și nu voi formula puncte de vedere, în calitate de membru, invitat sau proiectant, la ședințele Comisiei Naționale a Monumentelor Istorice, ale secțiunilor sale sau ale comisiilor zonale în cadrul cărora sunt supuse analizării și avizării documentații la a căror pregătire și/sau elaborare am participat;
+b) nu am niciun interes de natură să afecteze imparțialitatea mea pe parcursul procesului de deliberare în cadrul Comisiei Naționale a Monumentelor Istorice/Secțiunii de specialitate................/Comisiei zonale a monumentelor istorice nr........;
+c) mă angajez să păstrez confidențialitatea informațiilor și datelor cu caracter personal și a celor care intră sub incidența protecției date de Legea nr. 8/1996 privind dreptul de autor și drepturile conexe, cu modificările și completările ulterioare, pe care le voi obține/le voi afla ca efect al calității mele de membru al Comisiei Naționale a Monumentelor Istorice/Secțiunii de specialitate............................/Comisiei zonale a monumentelor istorice nr...............
+Confirm că, în situația în care aș descoperi, pe durata exercitării mandatului, că mă aflu în una dintre situațiile arătate sau în afara angajamentelor de mai sus, voi declara imediat acest lucru și mă voi retrage.
+Data
+Semnătura........................................
+------
