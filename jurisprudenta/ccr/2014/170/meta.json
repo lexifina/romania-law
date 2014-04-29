@@ -1,0 +1,252 @@
+{
+ "key": "dcc-170-2014",
+ "label": "Decizia CCR nr. 170/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "170",
+ "date": "2014-03-20",
+ "year": "2014",
+ "heading": "DECIZIE nr. 170 din 20 martie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 46 alin. (1) lit. e) şi f), art. 47 alin. (1) lit. b) şi art. 48 din Legea partidelor politice nr. 14/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "314",
+  "bis": false,
+  "date": "2014-04-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "15.929/3/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepţia de neconstituţionalitate invocată de Partidul \"Totul pentru Ţară\" (fostul Partid \"Pentru Patrie\"), prin preşedinte Grigore Coriolan Baciu, în Dosarul nr. 15.929/3/2013 al Tribunalului Bucureşti - Secţia a V-a civilă şi constată că dispoziţiile art. 46 alin. (1) lit. e) şi f), art. 47 alin. (1) lit. b) şi art. 48 din Legea partidelor politice nr. 14/2003 sunt constituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bucureşti - Secţia a V-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "e",
+      "f"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 27/1996",
+    "number": "27",
+    "year": "1996",
+    "path": "lege/1996/27"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-04-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/157786",
+  "text_sha256": "2228d748ee404a50d4629b18b5341788a21c8a88a99a58e81bb3fa48da893d33",
+  "catalogue_sha256": "2228d748ee404a50d4629b18b5341788a21c8a88a99a58e81bb3fa48da893d33",
+  "fetched": "2026-11-03T03:55:52Z",
+  "chars": 15623,
+  "portal_id": "157786",
+  "tip": "DECIZIE"
+ }
+}
