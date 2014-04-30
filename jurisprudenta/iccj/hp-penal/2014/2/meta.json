@@ -1,0 +1,359 @@
+{
+ "key": "iccj-hp-penal-2-2014",
+ "label": "Decizia ÎCCJ nr. 2/2014 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "2",
+ "date": "2014-04-14",
+ "year": "2014",
+ "heading": "DECIZIE nr. 2 din 14 aprilie 2014",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept vizând aplicarea legii penale mai favorabile pe instituţii autonome, respectiv dacă instituţia prescripţiei răspunderii penale reprezintă o instituţie autonomă sau nu faţă de instituţia pedepsei",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "319",
+  "bis": false,
+  "date": "2014-04-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2/1/2014",
+  "530/303/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de către Curtea de Apel Bucureşti - Secţia I penală în Dosarul nr. 530/303/2013, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept vizând aplicarea legii penale mai favorabile în cazul prescripţiei răspunderii penale, respectiv dacă prescripţia răspunderii penale reprezintă o instituţie autonomă faţă de instituţia pedepsei.",
+  "În aplicarea art. 5 din Codul penal, stabileşte că prescripţia răspunderii penale reprezintă o instituţie autonomă faţă de instituţia pedepsei.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "e"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86-3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "86-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "118-2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "442",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2012",
+    "number": "63",
+    "year": "2012",
+    "path": "lege/2012/63"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-04-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/157848",
+  "text_sha256": "1bcdcf45e34684e92b6d47c390e09b35699e3c39f1b79c01901c5c05971bade3",
+  "catalogue_sha256": "1bcdcf45e34684e92b6d47c390e09b35699e3c39f1b79c01901c5c05971bade3",
+  "fetched": "2026-11-03T03:55:49Z",
+  "chars": 90305,
+  "portal_id": "157848",
+  "tip": "DECIZIE"
+ }
+}
