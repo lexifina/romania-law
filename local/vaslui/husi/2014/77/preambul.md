@@ -1,0 +1,6 @@
+Consiliul Local al municipiului Husi, judetul Vaslui;
+Avand in vedere: expunerea de motive pentru aprobarea tarifului de cosit mecanizat utilizat de S.C. ECOSALUBRIZARE PREST S.R.L.HUSI pentru prestarea serviciilor de salubrizare pe raza municipiului Husi, incepand cu data de
+01.05.2014 si contractul de delegare de a gestiunii serviciilor de salubrizare din municipiul Husi prin concesiune nr. 9598/01.04.2011; raportul de avizare al Comisiei de studii, prognoze si programe economico-sociale, buget, finante, privatizare, servicii publice si comert. raportul de avizare al Comisiei pentru agricultura, cadastru, fond funciar, protectia mediului inconjurator .
+In conformitate cu prevederile Legii serviciilor comunitare de utilitati publice nr.51/2006, Ordonantei de Urgenta a Guvernului nr.34/19.04.2006 privind atribuirea contractelor de achizitie publica, a contractelor de concesiune de lucrari si contractelor de concesiune de servicii si art.36 alin.(2) lit. “d” coroborate cu art.36 alin(6) lit.a) pct.14 din Legea nr. 215/2001 privind administratia publica locala, republicata, cu modificarile si completarile ulterioare;
+In temeiul art.45 alin.(2) din Legea nr. 215/2001 privind administratia publica locala, republicata, cu modificarile si completarile ulterioare;
+HOTARASTE:
