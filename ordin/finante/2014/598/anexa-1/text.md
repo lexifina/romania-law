@@ -1,0 +1,252 @@
+# Anexa
+Societatea Comercială "Poșta Română Broker de Asigurare" - S.R.L. Calea Giulești nr. 6-8, cam. 113-116, sectorul 6 Cod unic de înregistrare: 32554284 BUGETUL DE VENITURI ȘI CHELTUIELI pe anul 2014
+- mii lei -
+INDICATORI
+Nr.
+rd.
+Propunere
+2014
+0
+1
+2
+3
+4
+I.
+VENITURI TOTALE (Rd.1=Rd.2+Rd.5+Rd.6)
+1
+618,90
+1
+Venituri totale din exploatare, din care:
+2
+618,90
+a)
+subvenții, cf. prevederilor legale în vigoare
+3
+b)
+transferuri, cf. prevederilor legale în vigoare
+4
+2
+Venituri financiare
+5
+0,00
+3
+Venituri extraordinare
+6
+0,00
+II.
+CHELTUIELI TOTALE (Rd.7=Rd.8+Rd.20+Rd.21)
+7
+617,10
+1
+Cheltuieli de exploatare, din care:
+8
+617,10
+A.
+cheltuieli cu bunuri și servicii
+9
+365,80
+B.
+cheltuieli cu impozite, taxe și vărsăminte
+asimilate
+10
+0,00
+C.
+cheltuieli cu personalul, din care:
+11
+251,30
+C0
+cheltuieli de natură salarială (Rd.13+Rd.14)
+12
+160,10
+C1
+cheltuieli cu salariile
+13
+160,10
+C2
+bonusuri
+14
+0,00
+C3
+alte cheltuieli cu personalul, din care:
+15
+0,00
+cheltuieli cu plăți compensatorii aferente
+disponibilizărilor de personal
+16
+C4
+cheltuieli aferente contractului de mandat și a
+altor organe de conducere și control, comisii
+și comitete
+17
+36,50
+C5
+cheltuieli cu asigurările și protecția socială,
+fonduri speciale și alte obligații legale
+18
+54,70
+D.
+alte cheltuieli de exploatare
+19
+0,00
+2
+Cheltuieli financiare
+20
+0,00
+3
+Cheltuieli extraordinare
+21
+0,00
+III.
+REZULTATUL BRUT (profit/pierdere)
+22
+1,80
+IV.
+IMPOZIT PE PROFIT
+23
+0,28
+V.
+PROFITUL CONTABIL RĂMAS DUPĂ DEDUCEREA IMPOZITULUI
+PE PROFIT, din care:
+24
+1,52
+1
+Rezerve legale
+25
+0,08
+2
+Alte rezerve reprezentând facilități fiscale
+prevăzute de lege
+26
+3
+Acoperirea pierderilor contabile din anii
+precedenți
+27
+0,00
+4
+Constituirea surselor proprii de finanțare pentru
+proiectele cofinanțate din împrumuturi externe,
+precum și pentru constituirea surselor necesare
+rambursării ratelor de capital, plății dobânzilor,
+comisioanelor și altor costuri aferente acestor
+împrumuturi
+28
+5
+Alte repartizări prevăzute de lege
+29
+6
+Profitul contabil rămas după deducerea sumelor de
+la rd. 25, 26, 27, 28, 29
+30
+1,44
+7
+Participarea salariaților la profit în limita a
+10% din profitul net, dar nu mai mult de nivelul
+unui salariu de bază mediu lunar realizat la
+nivelul operatorului economic în exercițiul
+financiar de referință
+31
+8
+Minimum 50% vărsăminte la bugetul de stat sau
+local în cazul regiilor autonome, ori dividende
+cuvenite acționarilor, în cazul
+societăților/companiilor naționale și societăților
+cu capital integral sau majoritar de stat, din
+care:
+32
+0,72
+a)
+- dividende cuvenite bugetului de stat
+33
+b)
+- dividende cuvenite bugetului local
+33a
+c)
+- dividende cuvenite altor acționari
+34
+9
+Profitul nerepartizat pe destinațiile prevăzute la
+Rd.31 - Rd.32 se repartizează la alte rezerve și
+constituie sursă proprie de finanțare
+35
+0,72
+VI.
+VENITURI DIN FONDURI EUROPENE
+36
+VII.
+CHELTUIELI ELIGIBILE DIN FONDURI EUROPENE,
+din care:
+37
+a)
+cheltuieli materiale
+38
+b)
+cheltuieli cu salariile
+39
+c)
+cheltuieli privind prestările de servicii
+40
+d)
+cheltuieli cu reclamă și publicitate
+41
+e)
+alte cheltuieli
+42
+VIII.
+SURSE DE FINANȚARE A INVESTIȚIILOR, din care:
+43
+1
+Alocații de la buget
+44
+alocații bugetare aferente plății
+angajamentelor din anii anteriori
+45
+IX.
+CHELTUIELI PENTRU INVESTIȚII
+46
+X.
+DATE DE FUNDAMENTARE
+47
+1
+Număr de personal prognozat la finele anului
+48
+3,00
+2
+Număr mediu de salariați total
+49
+3,00
+3
+Câștigul mediu lunar pe salariat (lei/persoană)
+determinat pe baza cheltuielilor de natură
+salarială (Rd.12/Rd.49)/12 * 1000
+50
+4447,00
+4
+Câștigul mediu lunar pe salariat determinat
+pe baza cheltuielilor cu salariile (lei/persoană)
+(Rd.13/Rd.49)/12*1000
+51
+4447,00
+5
+Productivitatea muncii în unități valorice pe
+total personal mediu (mii lei/persoană)
+(Rd.2/Rd.49)
+52
+206,30
+6
+Productivitatea muncii în unități fizice pe total
+personal mediu (cantitate produse finite/persoană)
+53
+7
+Cheltuieli totale la 1.000 lei venituri totale
+(Rd.7/Rd.1) x 1000
+54
+997,09
+8
+Plăți restante
+55
+0,0
+11
+Creanțe restante
+56
+0,0
+__________
