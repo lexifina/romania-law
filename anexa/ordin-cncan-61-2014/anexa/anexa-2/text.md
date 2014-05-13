@@ -1,0 +1,3 @@
+# Anexa 2
+ANEXA nr. 2 la Norme
+CERERE DE AUTORIZARE
