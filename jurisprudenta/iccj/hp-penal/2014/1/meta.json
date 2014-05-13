@@ -1,0 +1,279 @@
+{
+ "key": "iccj-hp-penal-1-2014",
+ "label": "Decizia ÎCCJ nr. 1/2014 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "1",
+ "date": "2014-04-14",
+ "year": "2014",
+ "heading": "DECIZIE nr. 1 din 14 aprilie 2014",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept vizând mecanismul de aplicare a legii penale mai favorabile în cazul faptelor definitiv judecate, pentru ipoteza unui concurs de infracţiuni",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "349",
+  "bis": false,
+  "date": "2014-05-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1/1/2014",
+  "289/120/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Ploieşti - Secţia penală şi pentru cauze cu minori şi de familie prin încheierea din data de 7 februarie 2014, în Dosarul nr. 289/120/2014, în vederea pronunţării unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept vizând mecanismul de aplicare a legii penale mai favorabile în cazul faptelor definitiv judecate, pentru ipoteza unui concurs de infracţiuni şi stabileşte:",
+  "\"În aplicarea legii penale mai favorabile, după judecarea definitivă a cauzei înainte de intrarea în vigoare a noului Cod penal, pentru ipoteza unui concurs de infracţiuni, într-o primă etapă se verifică incidenţa dispoziţiilor art. 6 din Codul penal, cu privire la pedepsele individuale.",
+  "În a doua etapă se verifică dacă pedeapsa rezultantă aplicată potrivit legii vechi depăşeşte maximul la care se poate ajunge în baza legii noi, conform art. 39 din Codul penal.",
+  "În cazul în care pedeapsa rezultantă, aplicată potrivit legii vechi, depăşeşte maximul la care se poate ajunge în baza art. 39 din Codul penal, pedeapsa rezultantă va fi redusă la acest maxim.",
+  "În caz contrar, pedeapsa rezultantă va rămâne astfel cum a fost stabilită potrivit legii vechi.\" Obligatorie, potrivit dispoziţiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 116/2013",
+    "number": "116",
+    "year": "2013",
+    "path": "oug/2013/116"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 135/2010",
+    "number": "135",
+    "year": "2010",
+    "path": "lege/2010/135"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-05-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/158117",
+  "text_sha256": "1406d312b40bddc404ddc6ccd8bafda1906dfe59344925a8d45897817f9f3c58",
+  "catalogue_sha256": "1406d312b40bddc404ddc6ccd8bafda1906dfe59344925a8d45897817f9f3c58",
+  "fetched": "2026-11-03T03:55:30Z",
+  "chars": 68870,
+  "portal_id": "158117",
+  "tip": "DECIZIE"
+ }
+}
