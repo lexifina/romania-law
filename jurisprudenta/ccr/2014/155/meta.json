@@ -1,0 +1,191 @@
+{
+ "key": "dcc-155-2014",
+ "label": "Decizia CCR nr. 155/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "155",
+ "date": "2014-03-18",
+ "year": "2014",
+ "heading": "DECIZIE nr. 155 din 18 martie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. II teza finală din Legea nr. 133/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 64/2010 privind modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "358",
+  "bis": false,
+  "date": "2014-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.156/93/2012",
+  "815D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de oraşul Pantelimon, judeţul Ilfov, prin primar, în Dosarul nr. 2.156/93/2012 al Tribunalului Ilfov - Secţia civilă şi constată că dispoziţiile art. II teza finală din Legea nr. 133/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 64/2010 privind modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Ilfov - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/1968",
+    "number": "2",
+    "year": "1968",
+    "path": "lege/1968/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/158220",
+  "text_sha256": "c2c5ffbecea971e94825058171e5eb2ac1bf390be4f42a2c804a432bcf7df595",
+  "catalogue_sha256": "c2c5ffbecea971e94825058171e5eb2ac1bf390be4f42a2c804a432bcf7df595",
+  "fetched": "2026-11-03T03:55:26Z",
+  "chars": 14574,
+  "portal_id": "158220",
+  "tip": "DECIZIE"
+ }
+}
