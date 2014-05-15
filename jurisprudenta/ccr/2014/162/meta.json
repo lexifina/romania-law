@@ -1,0 +1,331 @@
+{
+ "key": "dcc-162-2014",
+ "label": "Decizia CCR nr. 162/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "162",
+ "date": "2014-03-20",
+ "year": "2014",
+ "heading": "DECIZIE nr. 162 din 20 martie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 3 lit. m) şi ale art. 15 lit. a) din Legea nr. 146/1997 privind taxele judiciare de timbru şi ale art. 109 din Legea nr. 188/1999 privind Statutul funcţionarilor publici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "359",
+  "bis": false,
+  "date": "2014-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.898/102/2011",
+  "555D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Sindicatul Poliţiştilor \"Lege şi Onoare\" Mureş din Târgu Mureş, în numele reclamantei Mirela Roşca, în Dosarul nr. 3.898/102/2011 al Curţii de Apel Târgu Mureş - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că dispoziţiile art. 3 lit. m) din Legea nr. 146/1997 privind taxele judiciare de timbru şi ale art. 109 din Legea nr. 188/1999 privind Statutul funcţionarilor publici sunt constituţionale în raport cu criticile formulate. 2. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 15 lit. a) din Legea nr. 146/1997 privind taxele judiciare de timbru, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe judecătoreşti.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Târgu Mureş - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2009",
+    "number": "76",
+    "year": "2009",
+    "path": "lege/2009/76"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/158229",
+  "text_sha256": "fc595373a3dae9726345353743793dca1f04e2b0d8a296d19d78173396550ab1",
+  "catalogue_sha256": "fc595373a3dae9726345353743793dca1f04e2b0d8a296d19d78173396550ab1",
+  "fetched": "2026-11-03T03:55:27Z",
+  "chars": 30296,
+  "portal_id": "158229",
+  "tip": "DECIZIE"
+ }
+}
