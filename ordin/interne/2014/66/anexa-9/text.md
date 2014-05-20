@@ -1,0 +1,2 @@
+# Anexa 9
+DISTINCȚIA DE SERVICIU PENTRU "CURSURI DE PERFECȚIONARE" Distincția de serviciu pentru "Cursuri de perfecționare" are formă dreptunghiulară, cu dimensiunile 20 x 10 mm, grosimea de 2 mm, de culoare albastră, având în partea de sus, începând de la 1 mm de margine, 3 benzi argintii, orizontale, late de câte 1 mm, cu distanța dintre ele, de asemenea, de 1 mm, iar în partea de jos, începând de la 2 mm de marginea inferioară, o altă bandă orizontală, de același metal, lată de 0,5 mm. Distincția are pe revers un sistem de prindere.

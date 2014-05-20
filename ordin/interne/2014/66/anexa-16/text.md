@@ -1,0 +1,2 @@
+# Anexa 16
+DISTINCȚIA DE SERVICIU PENTRU LOCUL/PREMIUL III LA "OBȚINEREA DE REZULTATE FOARTE BUNE ÎN ACTIVITĂȚI CULTURALE, ȘTIINȚIFICE ȘI SPORTIVE" Distincția de serviciu pentru locul/premiul III la "Obținerea de rezultate foarte bune în activități culturale, științifice și sportive" are formă dreptunghiulară, cu dimensiunile 20 x 10 mm, de culoare albastră, având înscrisă cifra romană III, argintie.
