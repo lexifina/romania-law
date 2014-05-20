@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale GENERAL CREDIT IFN - S.A., cu sediul în Voluntari, str. Erou Mircea Marinescu nr. 21, județul Ilfov, înregistrată la Registrul comerțului cu nr. J23/1356/2009, având codul unic de înregistrare 19166340, înscrisă în Registrul general la secțiunea k) "Activități multiple de creditare" cu nr. RG-PJR-42-110102. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 6 mai 2014. Nr. 342. -------
