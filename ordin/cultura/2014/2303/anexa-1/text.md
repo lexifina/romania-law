@@ -1,0 +1,42 @@
+# Anexa
+Zona de protecție a imobilului monument istoric Biserica "Sf. Arhangheli" din Str. Bisericii nr. 1, satul Horea, comuna Horea, județul Alba Coordonate puncte de contur
+Nr.
+pct.
+Coordonate stereo 70
+-
+X
+Y
+1
+557677,420
+342701,845
+2
+557656,119
+342717,393
+3
+557652,148
+342722,026
+4
+557650,746
+342723,716
+5
+557648,806
+342735,522
+6
+557648,804
+342744,227
+7
+557650,470
+342751,944
+8
+557662,612
+342748,133
+9
+557679,789
+342733,810
+10
+557681,268
+342732,752
+11
+557686,837
+342729,313
+---------
