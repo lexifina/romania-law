@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale ROMDEVON LEASING INSTITUȚIE FINANCIARĂ NEBANCARĂ - S.A., cu sediul în Cluj-Napoca, Str. Republicii nr. 109, ap. 8, înregistrată la registrul comerțului sub nr. J12/1165/2000, cod unic de înregistrare 13445299, înscrisă în Registrul general la secțiunea h) "Leasing financiar" sub nr. RG-PJR-13-080037. Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 6 mai 2014. Nr. 343. -------
