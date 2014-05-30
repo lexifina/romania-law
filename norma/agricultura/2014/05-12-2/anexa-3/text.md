@@ -1,0 +1,19 @@
+# Anexa 3
+Anexa nr. 3C
+- Model -
+MINISTERUL CULTURII
+Direcția pentru Cultură a Județului ...........................
+AVIZ SPECIFIC FAVORABIL
+Nr. ........ din ...........
+În temeiul art. 3 alin. (4) din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului, cu modificările ulterioare,
+având în vedere Cererea nr. ........... din ................, depusă de ........................... în calitate de vânzător,
+ca urmare a verificării documentației,
+se emite
+AVIZ SPECIFIC
+necesar încheierii contractului de vânzare-cumpărare în formă autentică de către notarul public sau pronunțării de către instanță a unei hotărâri judecătorești care ține locul contractului de vânzare, pentru vânzătorul .................................., pentru terenul agricol extravilan în suprafață de .......... ha, identificat cu număr cadastral .........................., înscris în cartea funciară nr. .................... a localității .....................
+Mențiuni privind protejarea patrimoniului arheologic: ................................................
+Prin emiterea prezentului aviz specific își încetează efectele Avizul negativ nr. ....... din ............. .
+Director executiv,
+Numele și prenumele ..................
+Semnătura ....................
+L.S.
