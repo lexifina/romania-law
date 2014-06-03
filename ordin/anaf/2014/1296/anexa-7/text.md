@@ -1,0 +1,18 @@
+# Anexa 6 (Anexa nr. 7 la Ordinul nr. 2.605/2010)
+ANTET
+Dosar fiscal nr......./..............
+- Model -
+ADRESĂ de înființare a popririi asigurătorii asupra disponibilităților bănești
+Către........................................*1)
+În baza art. 129 alin. (2) din Ordonanța Guvernului nr. 92/2003 privind
+Codul de procedură fiscală, republicată, cu modificările și completările ulterioare, și a Deciziei de instituire a măsurilor asigurătorii nr......... din........., emisă de............/*2)....................., anexată în copie certificată, se indisponibilizează de îndată, în măsura în care este necesar pentru achitarea sumei datorate, sumele existente, precum și cele viitoare provenite din încasările zilnice în conturile în lei și/sau valută deschise la unitatea dumneavoastră de către debitorul*3)............
+Sumele vor fi reținute și, în cazul începerii procedurii de executare silită, vor fi virate în conturile deschise la unitatea de trezorerie a statului......................., după cum urmează:
+Natura obligației
+fiscale*4)
+Suma estimată/stabilită
+(lei)
+Nr. contului în care urmează a
+se vira suma reținută
+TOTAL:
+---------
+*1) Denumirea și sediul băncii. *2) Se va completa în cazul în care măsurile asigurătorii au fost dispuse de instanța judecătorească sau de alte organe competente, potrivit legii. *3) Numele, prenumele/Denumirea și domiciliul fiscal; codul numeric personal, numărul de identificare fiscală, codul de înregistrare fiscală sau codul unic de înregistrare, după caz; alte date de identificare a debitorului. *4) Se va preciza denumirea creanței fiscale principale: impozit, taxă, contribuție socială, amendă sau altă sumă ori denumirea creanței fiscale accesorii sau alte sume, după caz, gestionate și administrate de Ministerul Finanțelor Publice prin Agenția Națională de Administrare Fiscală și unitățile sale teritoriale. Din momentul indisponibilizării, respectiv de la data și ora primirii prezentei, nu veți proceda la decontarea documentelor de plată primite, respectiv la debitarea conturilor debitorului, și nu veți accepta alte plăți din conturile acestuia, până la data ridicării măsurii asigurătorii sau până la achitarea integrală a obligațiilor fiscale, după caz, cu excepția sumelor necesare plății drepturilor salariale. În cazul începerii procedurii de executare silită, organul de executare va transmite băncii titlul executoriu în copie certificată. Măsura asigurătorie dispusă, dacă nu a fost desființată în condițiile legii, rămâne valabilă pe toată perioada executării silite, fără îndeplinirea altor formalități. Împotriva actelor prin care se duc la îndeplinire măsurile asigurătorii cel interesat poate introduce contestație, la instanța judecătorească competentă, în termen de 15 zile de la data comunicării sau a luării la cunoștință în conformitate cu prevederile art. 129 alin. (11) coroborate cu prevederile art. 172 și 173 din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare. Potrivit dispozițiilor art. 9 alin. (2) lit. d) din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare, când urmează să se ia măsuri de executare silită, nu este obligatorie audierea contribuabilului. Vă mulțumim pentru cooperare. Conducătorul unității fiscale, Numele și prenumele..................... Semnătura........................... 1. Denumire: Adresă de înființare a popririi asigurătorii asupra disponibilităților bănești 2. Format: A4/t2 3. Se utilizează: în baza art. 129 alin. (2) din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare. 4. Se întocmește: în două exemplare de către organul fiscal. 5. Circulă: un exemplar la bancă. 6. Se arhivează: un exemplar la dosarul fiscal.

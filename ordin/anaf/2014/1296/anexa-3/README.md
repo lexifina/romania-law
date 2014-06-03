@@ -1,0 +1,7 @@
+# Anexa nr. 3: 3 (Anexa nr. 4 la Ordinul nr. 2.605/2010) ANTET Dosar fiscal nr...../........ - Model - PROCES-VERBAL de sechestru asigurător pentru bunuri mobile Încheiat astăzi,... luna... anul..., ora..., în local
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 158745 (https://legislatie.just.ro/Public/DetaliiDocument/158745)
+- sha256 of that document's text as the service returned it: fcbc68cbdba6f86ad8d6169fd9939fa2167f15af23d84caadb8e39558dd36856
+- Retrieved: 2026-11-03
