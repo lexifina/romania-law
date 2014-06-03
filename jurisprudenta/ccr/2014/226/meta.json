@@ -1,0 +1,213 @@
+{
+ "key": "dcc-226-2014",
+ "label": "Decizia CCR nr. 226/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "226",
+ "date": "2014-04-15",
+ "year": "2014",
+ "heading": "DECIZIE nr. 226 din 15 aprilie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 10/2013 pentru plata eşalonată a despăgubirilor stabilite potrivit dispoziţiilor Legii nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940, ale Legii nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi Ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947, precum şi ale Legii nr. 393/2006 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea fostului Regat al Sârbilor, Croaţilor şi Slovenilor, în urma aplicării Protocolului privitor la câteva insule de pe Dunăre şi la un schimb de comune între România şi Iugoslavia, încheiat la Belgrad la 24 noiembrie 1923, şi a Convenţiei dintre România şi Regatul Sârbilor, Croaţilor şi Slovenilor, relativă la regimul proprietăţilor situate în zona de frontieră, semnată la Belgrad la 5 iulie 1924, precum şi pentru modificarea şi completarea Legii nr. 9/1998, Legii nr. 290/2003 şi Legii nr. 393/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "410",
+  "bis": false,
+  "date": "2014-06-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "4.269/30/2012",
+  "824D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 10/2013",
+    "number": "10",
+    "year": "2013",
+    "path": "oug/2013/10"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 393/2006",
+    "number": "393",
+    "year": "2006",
+    "path": "lege/2006/393"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. I alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 10/2013 pentru plata eşalonată a despăgubirilor stabilite potrivit dispoziţiilor Legii nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940, ale Legii nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi Ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947, precum şi ale Legii nr. 393/2006 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea fostului Regat al Sârbilor, Croaţilor şi Slovenilor, în urma aplicării Protocolului privitor la câteva insule de pe Dunăre şi la un schimb de comune între România şi Iugoslavia, încheiat la Belgrad la 24 noiembrie 1923, şi a Convenţiei dintre România şi Regatul Sârbilor, Croaţilor şi Slovenilor, relativă la regimul proprietăţilor situate în zona de frontieră, semnată la Belgrad la 5 iulie 1924, precum şi pentru modificarea şi completarea Legii nr. 9/1998, Legii nr. 290/2003 şi Legii nr. 393/2006, excepţie ridicată de Elisabeta Bibu, Ion Bibu şi Rebeca Sarbescu în Dosarul nr. 4.269/30/2012 al Curţii de Apel Timişoara - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Timişoara - Secţia contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 10/2013",
+    "number": "10",
+    "year": "2013",
+    "path": "oug/2013/10"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 393/2006",
+    "number": "393",
+    "year": "2006",
+    "path": "lege/2006/393"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "lege/1998/9"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-06-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/158744",
+  "text_sha256": "e14aabe258f8c32a06b0a857c0e2a24773ab5eda55f11f134046b87b8b495fb3",
+  "catalogue_sha256": "e14aabe258f8c32a06b0a857c0e2a24773ab5eda55f11f134046b87b8b495fb3",
+  "fetched": "2026-11-03T03:54:50Z",
+  "chars": 18285,
+  "portal_id": "158744",
+  "tip": "DECIZIE"
+ }
+}
