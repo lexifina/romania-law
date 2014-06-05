@@ -1,0 +1,40 @@
+REGULAMENTUL (UE) NR. 505/2014 AL COMISIEI
+din 15 mai 2014
+de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea coloranților pentru caramel (E 150a-d) în bere și în băuturile din malț
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului din 16 decembrie 2008 privind aditivii alimentari (1), în special articolul 10 alineatul (3),
+întrucât:
+(1) Anexa II la Regulamentul (CE) nr. 1333/2008 prevede o listă a Uniunii de aditivi alimentari autorizați pentru utilizare în produsele alimentare și condițiile de utilizare a acestor aditivi.
+(2) Această listă poate fi modificată în conformitate cu procedura comună menționată la articolul 3 alineatul (1) din Regulamentul (CE) nr. 1331/2008 al Parlamentului European și al Consiliului (2), fie la inițiativa Comisiei, fie în urma unei cereri.
+(3) Coloranții pentru caramel sunt coloranți alimentari autorizați în prezent pentru utilizare și apar în lista din anexa II la Regulamentul (CE) nr. 1333/2008. Autorizarea în cauză ține seama de dozele zilnice acceptabile (DZA), stabilite de Comitetul științific pentru alimentație în 1987, 1990 și 1996.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a emis un aviz la 3 februarie 2011, în ceea ce privește reevaluarea siguranței coloranților pentru caramel ca aditivi alimentari (3). În avizul respectiv, autoritatea a stabilit o DZA de grup de 300 mg/kg greutate corporală/zi. În cadrul acestei DZA de grup s-a stabilit o DZA individuală de 100 mg/kg greutate corporală/zi pentru E 150c caramel amoniacal. Autoritatea a concluzionat că expunerea anticipată prin alimentație a copiilor și a populațiilor adulte poate depăși DZA pentru caramel obișnuit (E 150a), pentru caramel amoniacal (E 150c) și pentru caramel cu sulfit de amoniu (E 150d).
+(5) La 3 decembrie 2012, Autoritatea a emis o comunicare oferind o evaluare detaliată a expunerii pentru coloranții pentru caramel E 150a, E 150c și E 150d și a concluzionat că expunerea anticipată prin alimentație a fost considerabil mai redusă decât cea estimată în avizul anterior (4). Cu toate acestea, autoritatea a concluzionat că DZA pentru caramel amoniacal (E 150c) poate fi totuși depășită în cazul copiilor de vârstă mică și al adulților. În timp ce DZA a fost doar ușor depășită (6 %) la niveluri ridicate în cazul copiilor de vârstă mică într-un stat membru, în cazul adulților, DZA a fost depășită cu 5-51 % în cinci state membre. După analizarea informațiilor naționale mai detaliate cu privire la utilizările reale ale caramelului amoniacal (E 150c), statele membre în cauză au demonstrat că doza reală este în mod semnificativ mai redusă. Cu toate acestea, ținând seama de faptul că berea are contribuția cea mai importantă la expunerea în cazul adulților, este necesar să se modifice condițiile de utilizare și să se stabilească limitele maxime de utilizare pentru caramel amoniacal (E 150c) din subcategoria alimentară 14.2.1 „Bere și băuturi din malț” pentru a garanta un nivel ridicat de protecție a sănătății umane.
+(6) În conformitate cu articolul 11 alineatul (4) din Regulamentul (CE) nr. 1333/2008, limitele maxime de coloranți se aplică cantităților de principiu colorant conținute în preparatul colorant, cu excepția cazului în care se prevede altfel. Cu toate acestea, natura complexă și cunoștințele limitate privind compoziția chimică a coloranților pentru caramel face ca identificarea lor în produsele alimentare să fie o provocare. Prin urmare, la efectuarea controalelor oficiale, autoritățile competente ar putea avea în vedere, de asemenea, să verifice nivelul de 2-acetil-4-tetrahidroxi-butilimidazol, și anume impuritatea care poate fi determină analitic și care a fost luată în considerare la stabilirea unei DZA individuale pentru caramel amoniacal (E 150c).
+(7) La 4 iunie 2013 a fost depusă o cerere de autorizare a utilizării coloranților pentru caramel (E 150a-d) în băuturi din malț, cerere care a fost pusă la dispoziția statelor membre în conformitate cu articolul 4 din Regulamentul (CE) nr. 1331/2008.
+(8) Berea nu este definită în legislația Uniunii, iar definițiile naționale variază între statele membre. În consecință, un anumit produs clasificat ca bere într-un stat membru ar putea fi clasificat ca băutură din malț într-un alt stat membru. Întrucât există o necesitate tehnologică în cazul coloranților pentru caramel (E 150a-d) în băuturile din malț, iar utilizarea coloranților pentru caramel este autorizată numai în bere, situația actuală are un impact negativ asupra pieței interne și împiedică libera circulație a acestor produse. Prin urmare, este necesar să se remedieze această situație.
+(9) Trăsătura comună a băuturilor din malț este lipsa malțului ca atare în produsul final și asemănările cu berea din punct de vedere al tehnologiei și al necesității de aditivi alimentari. Este nevoie de coloranți pentru caramel pentru a restabili omogenitatea culorii care a fost afectată de procesele de producție și/sau pentru a face mai atractive băuturile din malț făcute pe bază de tipuri de malț de culoare mai deschisă. Malțul prăjit nu poate fi utilizat pentru a da o culoare închisă deoarece acesta conferă un gust puternic care nu este adecvat pentru aceste produse.
+(10) Băuturile din malț sunt produse de nișă care oferă o alternativă la produsele în care utilizarea de coloranți pentru caramel este autorizată în prezent (și anume, băuturile aromatizate și berea). Prin urmare, nu este de așteptat ca autorizarea utilizării coloranților pentru caramel în băuturile din malț să aibă un impact semnificativ asupra expunerii totale la coloranții pentru caramel.
+(11) În conformitate cu articolul 3 alineatul (2) din Regulamentul (CE) nr. 1331/2008, Comisia trebuie să solicite avizul autorității pentru a actualiza lista de aditivi alimentari a Uniunii prevăzută în anexa II la Regulamentul (CE) nr. 1333/2008, cu excepția cazului în care actualizarea în cauză nu este susceptibilă de a avea un efect asupra sănătății umane. Întrucât prelungirea utilizării coloranților pentru caramel (E 150a-d) în băuturile din malț constituie o actualizare a listei care nu este susceptibilă de a avea un efect asupra sănătății umane, nu este necesar să se solicite avizul autorității.
+(12) Prin urmare, anexa II la Regulamentul (CE) nr. 1333/2008 ar trebui modificată în consecință.
+(13) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru lanțul alimentar și sănătatea animală,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa II la Regulamentul (CE) nr. 1333/2008 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 15 mai 2014.
+Pentru Comisie
+Președintele
+José Manuel BARROSO
+(1) JO L 354, 31.12.2008, p. 16.
+(2) Regulamentul (CE) nr. 1331/2008 al Parlamentului European și al Consiliului din 16 decembrie 2008 de instituire a unei proceduri comune de autorizare pentru aditivii alimentari, enzimele alimentare și aromele alimentare (JO L 354, 31.12.2008, p. 1).
+(3) EFSA Journal 2011; 9(3):2004.
+(4) EFSA Journal 2012; 10(12):3030.
+ANEXĂ
+În partea E din anexa II la Regulamentul (CE) nr. 1333/2008, în subcategoria alimentară 14.2.1 „Bere și băuturi din malț”, rubrica pentru E 150a-d se înlocuiește cu următorul text:
+| „E 150a,b,d | Caramel simplu, caramel de sulfit caustic și caramel cu sulfit de amoniu | quantum satis | |
+| E 150c | Caramel amoniacal | 6 000 | |
+| E 150c | Caramel amoniacal | 9 500 | | numai Bière de table/Tafelbier/Table beer (conținut de must original mai mic de 6 %); Brown ale, porter, stout și old ale”
