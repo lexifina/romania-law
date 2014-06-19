@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-268-13-concluzii-2014-06-19",
+ "label": "CJUE, Concluziile avocatului general P. Cruz Villalón prezentate la 19 iunie 2014, Cauza C‑268/13.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2014-06-19",
+ "year": "2014",
+ "case": "Cauza C‑268/13.",
+ "celex": "62013CC0268",
+ "ecli": "ECLI:EU:C:2014:2023",
+ "heading": "Concluziile avocatului general P. Cruz Villalón prezentate la 19 iunie 2014",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Sibiu.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Securitate socială – Regulamentul (CEE) nr. 1408/71 – Articolul 22 alineatul (2) al doilea paragraf – Asigurări sociale de sănătate – Tratament spitalicesc acordat în alt stat membru – Refuzul de a elibera o autorizație prealabilă – Lipsa medicamentelor și a materialelor medicale de primă necesitate.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013CC0268",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C‑268/13.&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/3bf46008-f875-11e3-831f-01aa75ed71a1.0021.01/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "10085b80df08686685367cb74078d2a1c031a2313131fb44f0f8b4a44210298b"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
