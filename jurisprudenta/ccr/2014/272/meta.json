@@ -1,0 +1,192 @@
+{
+ "key": "dcc-272-2014",
+ "label": "Decizia CCR nr. 272/2014",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "alta",
+ "number": "272",
+ "date": "2014-05-07",
+ "year": "2014",
+ "heading": "DECIZIE nr. 272 din 7 mai 2014",
+ "subtitle": "referitoare la contestaţia având ca obiect constituţionalitatea Uniunii Democrate Maghiare din România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "451",
+  "bis": false,
+  "date": "2014-06-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "308K/2014"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, contestaţia formulată de Emilia Lazăr referitoare la constituţionalitatea funcţionării ca partid politic a Uniunii Democrate Maghiare din România.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.f"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-06-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159156",
+  "text_sha256": "fce4eb1403232b7704877e4074426cf9454041fb99c87126190cefccc99d72d0",
+  "catalogue_sha256": "fce4eb1403232b7704877e4074426cf9454041fb99c87126190cefccc99d72d0",
+  "fetched": "2026-11-03T03:54:25Z",
+  "chars": 14453,
+  "portal_id": "159156",
+  "tip": "DECIZIE"
+ }
+}
