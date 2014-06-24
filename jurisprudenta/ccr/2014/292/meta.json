@@ -1,0 +1,316 @@
+{
+ "key": "dcc-292-2014",
+ "label": "Decizia CCR nr. 292/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "292",
+ "date": "2014-05-22",
+ "year": "2014",
+ "heading": "DECIZIE nr. 292 din 22 mai 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 64, art. 96 alin. (4), art. 97 alin. (1) lit. d) şi alin. (6), art. 100 alin. (2) şi art. 108 alin. (1) lit. b) pct. 7 din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice şi ale art. I pct. 33 din Ordonanţa de urgenţă a Guvernului nr. 69/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "459",
+  "bis": false,
+  "date": "2014-06-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "39.517/4/2012",
+  "915D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 69/2007",
+    "number": "69",
+    "year": "2007",
+    "path": "oug/2007/69"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Ionuţ Vidu-Afloarei în Dosarul nr. 39.517/4/2012 al Judecătoriei Sectorului 4 Bucureşti - Secţia civilă şi constată că dispoziţiile art. 64, art. 96 alin. (4), art. 97 alin. (1) lit. d) şi alin. (6), art. 100 alin. (2) şi art. 108 alin. (1) lit. b) pct. 7 din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice şi ale art. I pct. 33 din Ordonanţa de urgenţă a Guvernului nr. 69/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 4 Bucureşti - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "96",
+     "alin": [
+      "4",
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 69/2007",
+    "number": "69",
+    "year": "2007",
+    "path": "oug/2007/69"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea poliţiei locale nr. 155/2010",
+    "number": "155",
+    "year": "2010",
+    "path": "lege/2010/155"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-06-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159225",
+  "text_sha256": "71b877e0c77f5ceb33090e74b67df4a534a3a2251727f371a27630e264ff29e4",
+  "catalogue_sha256": "71b877e0c77f5ceb33090e74b67df4a534a3a2251727f371a27630e264ff29e4",
+  "fetched": "2026-11-03T03:54:22Z",
+  "chars": 22400,
+  "portal_id": "159225",
+  "tip": "DECIZIE"
+ }
+}
