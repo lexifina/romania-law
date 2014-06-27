@@ -1,0 +1,272 @@
+{
+ "key": "iccj-hp-penal-8-2014",
+ "label": "Decizia ÎCCJ nr. 8/2014 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "8",
+ "date": "2014-05-26",
+ "year": "2014",
+ "heading": "DECIZIE nr. 8 din 26 mai 2014",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei probleme de drept: \"dacă în aplicarea legii penale mai favorabile după judecarea definitivă a cauzei potrivit art. 6 alin. (1) din Codul penal se pot lua în considerarea la maximul special prevăzut de legea nouă pentru infracţiunea săvârşită circumstanţele atenuante sau agravante reţinute condamnatului şi care apar valorificate în pedeapsa concretă, atunci când se compară pedeapsa aplicată cu maximul special prevăzut de legea nouă\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "473",
+  "bis": false,
+  "date": "2014-06-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "12/1/2014",
+  "3.004/215/2014",
+  "347/304/2013"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea formulată de către Tribunalul Dolj, Secţia penală, în Dosarul nr. 3.004/215/2014, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept ce vizează aplicarea legii penale mai favorabile după judecarea definitivă a cauzei potrivit art. 6 alin. (1) din Codul penal, în sensul de a lua în considerarea la maximul special prevăzut de legea nouă pentru infracţiunea săvârşită şi a circumstanţelor atenuante sau agravante reţinute condamnatului şi care apar valorificate în pedeapsa concretă, atunci când se compară pedeapsa aplicată cu maximul special prevăzut de legea nouă.",
+  "În aplicarea legii penale mai favorabile după judecarea definitivă a cauzei potrivit art. 6 alin. (1) din Codul penal, stabileşte că la maximul special prevăzut de legea nouă pentru infracţiunea săvârşită nu se vor lua în considerare circumstanţele atenuante sau agravante reţinute condamnatului şi care apar valorificate în pedeapsa concretă, atunci când se compară pedeapsa aplicată cu maximul special prevăzut de legea nouă.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "595",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "371",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "78",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "187",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 836/2013",
+    "number": "836",
+    "year": "2013",
+    "path": "hg/2013/836"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "321",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "181",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159350",
+  "text_sha256": "c133684e6b92b99a18865906bb9115a31374baeb3ea67040f62a77b43e1566a1",
+  "catalogue_sha256": "c133684e6b92b99a18865906bb9115a31374baeb3ea67040f62a77b43e1566a1",
+  "fetched": "2026-11-03T03:54:14Z",
+  "chars": 32969,
+  "portal_id": "159350",
+  "tip": "DECIZIE"
+ }
+}
