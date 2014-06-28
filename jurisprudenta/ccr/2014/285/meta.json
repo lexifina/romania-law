@@ -1,0 +1,255 @@
+{
+ "key": "dcc-285-2014",
+ "label": "Decizia CCR nr. 285/2014",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "285",
+ "date": "2014-05-21",
+ "year": "2014",
+ "heading": "DECIZIE nr. 285 din 21 mai 2014",
+ "subtitle": "asupra cererii de soluţionare a conflictului juridic de natură constituţională dintre prim-ministru, pe de o parte, şi Preşedintele României, pe de altă parte",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "478",
+  "bis": false,
+  "date": "2014-06-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "413E/2014"
+ ],
+ "subjects": [],
+ "operative": [
+  "Constată că nu există un conflict juridic de natură constituţională între prim-ministru, pe de o parte, şi Preşedintele României, pe de altă parte, ivit ca urmare a nemotivării refuzului prim-ministrului de a contrasemna decretul Preşedintelui României privind conferirea unor decoraţii.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi prim-ministrului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 29/2000",
+    "number": "29",
+    "year": "2000",
+    "path": "lege/2000/29"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Naţional Pentru Merit este reprezentată şi de Ordonanţa de urgenţă a Guvernului nr. 11/1998",
+    "number": "11",
+    "year": "1998"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 105/2000",
+    "number": "105",
+    "year": "2000",
+    "path": "oug/2000/105"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 104/2000",
+    "number": "104",
+    "year": "2000",
+    "path": "oug/2000/104"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-06-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159399",
+  "text_sha256": "6657d08159f03c527dd4c8c84146484bd4b700ed3f894e3f04e2e8d99b614b63",
+  "catalogue_sha256": "6657d08159f03c527dd4c8c84146484bd4b700ed3f894e3f04e2e8d99b614b63",
+  "fetched": "2026-11-03T03:54:10Z",
+  "chars": 59423,
+  "portal_id": "159399",
+  "tip": "DECIZIE"
+ }
+}
