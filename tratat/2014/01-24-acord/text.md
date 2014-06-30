@@ -1,0 +1,20 @@
+ ACORD din 24 ianuarie 2014  de cooperare în domeniul arhivistic între Ministerul Afacerilor Interne din România, prin Arhivele Naţionale, şi Serviciul de Stat de Arhivă al Republicii Moldova     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 483 din 30 iunie 2014     Ministerul Afacerilor Interne din România, prin Arhivele Naţionale, şi Serviciul de Stat de Arhivă al Republicii Moldova, denumite în continuare părţi, pornind de la dorinţa reciprocă de a stabili şi dezvolta cooperarea în domeniul arhivistic, au convenit următoarele:
+				 +
+			  Articolul 1     Părţile sunt de acord să efectueze schimb de experienţă în domeniul teoriei şi practicii arhivistice, pe bază de reciprocitate, în conformitate cu legislaţia în vigoare în statele lor.
+				 +
+			  Articolul 2     Părţile sunt de acord să efectueze schimb de specialişti, în cadrul unor stagii de documentare în arhivele aflate în administrarea lor, durata acestora urmând a fi stabilită anual, de comun acord. În acest sens, partea trimiţătoare va asigura cheltuielile de transport internaţional şi partea primitoare pe cele de cazare şi masă, în condiţiile respectării legislaţiei naţionale în vigoare în fiecare stat.
+				 +
+			  Articolul 3     Părţile vor conveni asupra datei şi tematicii de studiu urmărite în cadrul stagiilor documentare, precum şi a numărului de specialişti, cu cel puţin două luni înainte.
+				 +
+			  Articolul 4     Părţile sunt de acord să faciliteze accesul altor specialişti din cadrul institutelor de cercetare, la documentele deţinute de fiecare parte, care se referă la istoria statului celeilalte părţi sau la relaţiile dintre statele lor, în conformitate cu prevederile legale în vigoare în ambele state.
+				 +
+			  Articolul 5         (1) În vederea completării fondurilor de arhivă şi pentru a răspunde mai bine necesităţilor cercetării ştiinţifice din fiecare stat, părţile sunt de acord să realizeze un schimb gratuit de copii de pe documentele de arhivă, pe bază de reciprocitate, în condiţiile respectării legislaţiei în vigoare în cele două state.   ...        (2) Copiile astfel obţinute vor fi folosite de către fiecare parte exclusiv în scopuri ştiinţifice şi pot fi publicate numai cu acordul acestora.   ...
+				 +
+			  Articolul 6     Părţile sunt de acord să efectueze în comun expoziţii documentare referitoare la teme convenite anterior şi să realizeze ediţii de documente de arhivă şi instrumente de lucru.
+				 +
+			  Articolul 7     Părţile sunt de acord să efectueze în mod gratuit schimb de publicaţii arhivistice ca inventare, ghiduri arhivistice, cataloage, ediţii de documente, precum şi altă literatură de specialitate.
+				 +
+			  Articolul 8     Părţile vor facilita contactele profesionale şi vor sprijini relaţiile de colaborare dintre structurile teritoriale de arhive, în condiţiile respectării prevederilor legale în vigoare în cele două state.
+				 +
+			  Articolul 9         (1) Prezentul acord se încheie pe o perioadă nedeterminată.   ...        (2) Prezentul acord intră în vigoare la data primirii ultimei notificări, prin canale diplomatice, prin care părţile îşi comunică reciproc îndeplinirea procedurilor legale interne necesare intrării în vigoare a acordului.   ...        (3) Orice modificare sau completare a prezentului acord va fi stabilită prin acordul părţilor şi va intra în vigoare în conformitate cu procedura prevăzută la alineatul (2) al acestui articol.   ...        (4) Fiecare parte poate denunţa prezentul acord prin notificare scrisă, adresată celeilalte părţi. Denunţarea va produce efecte de la data primirii notificării.   ...        (5) La data intrării în vigoare a prezentului acord îşi încetează valabilitatea Acordul între Direcţia Generală a Arhivelor Statului din România şi Serviciul de Stat de Arhivă din Republica Moldova, semnat la Moscova la 30 septembrie 1991.   ...    Semnat la Iaşi în 24 ianuarie 2014, în două exemplare originale.  Pentru Ministerul Afacerilor Interne din România  Ioan Drăgan,  director  Arhivele Naţionale ale României  Pentru Serviciul de Stat de Arhivă al Republicii Moldova  Ion Varta,  director  -----
