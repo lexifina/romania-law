@@ -1,0 +1,246 @@
+{
+ "key": "dcc-238-2014",
+ "label": "Decizia CCR nr. 238/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "238",
+ "date": "2014-04-15",
+ "year": "2014",
+ "heading": "DECIZIE nr. 238 din 15 aprilie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (2) şi (4) din Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "493",
+  "bis": false,
+  "date": "2014-07-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.677/196/2012",
+  "176D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Alexandru Ivan, Ionel Huiu, Nicuşor Rusu, Marian Despa, Nicoleta Badin (Raicu), Ovidiu Deicu, Florin Gologan, Anatolie Sîrbu, Mitică Oita, Fănica Dragomir, Marioara Luta, Gheorghe Nedelcu, Mihai Parizs, Viorica Dutu, Petrus Iulian Dutu, Panait Mustaţă, Costică Nedelcu, Matei Teacă, Ionel Irimia, Ioana Petre, Radu Enache, Gina Dobre, Alina Elena Puiu, Dora Deicu, Aurel Popa, Gilio Salbatecu, Gheorghe Jinga, Mariana Maraloiu, Eduard Lambru, Ionel Neagu, Virgil Robitu, Marian Jelaveanu, Maria Hriscu, Stavarache Gheorghe, Neculai Popartac, Nicu Iordăchescu, Elena Stanciu, Grozea Rotaru, Stelică Ion, Crăciunel Modreanu, Ion Giuvelic, Valentina Ciornea, Nicu Leonard Raita, Mihăiţă Adrian Creţu, Mirela Lalu, Apostol Tudoriţa, Neculai Gavrilă, Aurelia Adelina Saracila, Vasile Todoran, Iordan Gheorghiţă, Ciornea Ionel Dănuţ, Ion Mircioiu, Vasile Huiu, Veta Grosu, Geta Nicoleta Bălan, Ionel Popescu, Stănel Turtoi, Angelica Danru, Claudiu Georgescu, Doina Martinescu, Aristide Marica, Elena Popescu, Nan Simion, Costea Drăgan, Gheorghe Iordache, Elena Teaca, Nicolae Zanfir, Anita Barabasa, Silviu Giovani Ana, Octavia Sîrbu, Răducu Cheles, Dumitru Ghermeni, Marian Giuvelic, Marioara Jinga, Tache Constantin, Petre Chipăilă, Stamate Enache, Cornelia Milea, Maricela Beteagă, Ion Buda, Georgeta Buda, Viorel Panaite, Violeta Cazan, Nicuţa Gheorghe, Radu Ciric, Emil Stoianof, Dumitru Panuta, Daniela Toma, Vasile Comşa şi Gheorghe Sîrbu, reprezentaţi prin Sindicatul Liber CET Brăila, în Dosarul nr. 1.677/196/2012** al Tribunalului Brăila - Secţia I civilă şi constată că dispoziţiile art. 1 alin. (2) şi (4) din Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Brăila - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-07-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159506",
+  "text_sha256": "bffd956d87bbe4df379a0f0e2fe9f5b41a30d966463ee662ba658fe1a3b9ba56",
+  "catalogue_sha256": "bffd956d87bbe4df379a0f0e2fe9f5b41a30d966463ee662ba658fe1a3b9ba56",
+  "fetched": "2026-11-03T03:54:03Z",
+  "chars": 26007,
+  "portal_id": "159506",
+  "tip": "DECIZIE"
+ }
+}
