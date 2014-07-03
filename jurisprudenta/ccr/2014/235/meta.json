@@ -1,0 +1,221 @@
+{
+ "key": "dcc-235-2014",
+ "label": "Decizia CCR nr. 235/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "235",
+ "date": "2014-04-15",
+ "year": "2014",
+ "heading": "DECIZIE nr. 235 din 15 aprilie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 200 alin. (1) raportat la art. 194 şi 195 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "496",
+  "bis": false,
+  "date": "2014-07-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.963/235/2013/a1",
+  "122D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "195",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Fancsali Laszlo şi Fancsali Tibor, în Dosarul nr. 2.963/235/2013/a1 al Judecătoriei Gherla şi constată că dispoziţiile art. 200 alin. (1) din Codul de procedură civilă raportate la prevederile art. 194 şi 195 din acelaşi Cod sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Gherla şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": [
+      "1",
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "195",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-07-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159574",
+  "text_sha256": "214d160ad2c1d3d49e281b579faea8c8beab41614ae7a2cc29e16c10d3de140d",
+  "catalogue_sha256": "214d160ad2c1d3d49e281b579faea8c8beab41614ae7a2cc29e16c10d3de140d",
+  "fetched": "2026-11-03T03:54:00Z",
+  "chars": 20317,
+  "portal_id": "159574",
+  "tip": "DECIZIE"
+ }
+}
