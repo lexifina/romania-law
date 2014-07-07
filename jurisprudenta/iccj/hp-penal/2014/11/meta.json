@@ -1,0 +1,245 @@
+{
+ "key": "iccj-hp-penal-11-2014",
+ "label": "Decizia ÎCCJ nr. 11/2014 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "11",
+ "date": "2014-06-02",
+ "year": "2014",
+ "heading": "DECIZIE nr. 11 din 2 iunie 2014",
+ "subtitle": "privind examinarea formulată de Curtea de Apel Oradea prin Încheierea din 27 martie 2014 pronunţată în Dosarul nr. 5.559/111/2013 prin care, în temeiul art. 475 din Codul de procedură penală, se solicită Înaltei Curţi de Casaţie şi Justiţie pronunţarea unei hotărâri prealabile în vederea dezlegării unor chestiuni de drept privind interpretarea dispoziţiilor",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "503",
+  "bis": false,
+  "date": "2014-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.559/111/2013",
+  "11/1/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "216",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "242",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "203",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "352",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "362",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Oradea în Dosarul nr. 5.559/111/2013 privind pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept referitoare la interpretarea dispoziţiilor art. 216 alin. (1) şi (2) raportat la art. 242 alin. (10) din Codul de procedură penală, în sensul de a lămuri dacă examinarea sesizării privind controlul judiciar pe cauţiune presupune admiterea în principiu a acesteia, după care magistratul analizează temeinicia cererii atât cu ocazia luării iniţiale a acestei măsuri, cât şi cu ocazia înlocuirii măsurii arestului preventiv sau a arestului la domiciliu cu măsura controlului judiciar pe cauţiune, precum şi a chestiunii de drept privind interpretarea dispoziţiilor art. 242 alin. (10), (11) şi (12) raportat la art. 203 alin. (5) şi (6) şi art. 206 alin. (3) coroborat cu art. 352 alin. (1) şi art. 362 alin. (2) din Codul de procedură penală, în sensul de a lămuri dacă examinarea sesizării privind controlul judiciar pe cauţiune de către instanţa de control judiciar în cadrul procedurii înlocuirii măsurii arestului preventiv sau a arestului la domiciliu cu măsura controlului judiciar pe cauţiune se realizează în şedinţă publică sau în camera de consiliu."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "216",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "242",
+     "alin": [
+      "10",
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "203",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "352",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "362",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 58
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "233",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159639",
+  "text_sha256": "a90d304efe47b0f5773e90c1b699fbe0ef8c9caa7dc9439c7946a7f522a319b8",
+  "catalogue_sha256": "a90d304efe47b0f5773e90c1b699fbe0ef8c9caa7dc9439c7946a7f522a319b8",
+  "fetched": "2026-11-03T03:53:54Z",
+  "chars": 44391,
+  "portal_id": "159639",
+  "tip": "DECIZIE"
+ }
+}
