@@ -1,0 +1,229 @@
+{
+ "key": "iccj-hp-penal-13-2014",
+ "label": "Decizia ÎCCJ nr. 13/2014 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "13",
+ "date": "2014-06-05",
+ "year": "2014",
+ "heading": "DECIZIE nr. 13 din 5 iunie 2014",
+ "subtitle": "privind solicitarea pronunţării unei hotărâri prealabile pentru dezlegarea de principiu a chestiunii de drept vizând aplicarea dispoziţiilor art. 6 alin. (1) din Codul penal cu privire la hotărârile de condamnare pronunţate de un alt stat faţă de cetăţeni români aflaţi în executarea acelei pedepse pe teritoriul României",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "505",
+  "bis": false,
+  "date": "2014-07-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "14/1/2014",
+  "530/258/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Harghita în Dosarul nr. 530/258/2014, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept vizând aplicarea dispoziţiilor art. 6 alin. (1) din Codul penal cu privire la hotărârile de condamnare pronunţate de un alt stat faţă de cetăţeni români aflaţi în executarea acelei pedepse pe teritoriul României.",
+  "Dispoziţiile art. 6 alin. (1) din Codul penal, privitoare la legea mai favorabilă după judecarea definitivă a cauzei, sunt aplicabile şi cu privire la hotărârea de condamnare pronunţată de un alt stat faţă de cetăţenii români, dacă aceasta a fost recunoscută în procedura reglementată de Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală, republicată, cu modificările şi completările ulterioare.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit dispoziţiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "598",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "6",
+      "7",
+      "12"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 300/2013",
+    "number": "300",
+    "year": "2013",
+    "path": "lege/2013/300"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-07-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159715",
+  "text_sha256": "a17d9120039fcb7e3894b87088d19d96ecbe13fa3f650c09ff349df4230ac029",
+  "catalogue_sha256": "a17d9120039fcb7e3894b87088d19d96ecbe13fa3f650c09ff349df4230ac029",
+  "fetched": "2026-11-03T03:53:52Z",
+  "chars": 42363,
+  "portal_id": "159715",
+  "tip": "DECIZIE"
+ }
+}
