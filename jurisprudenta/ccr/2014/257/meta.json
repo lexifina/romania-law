@@ -1,0 +1,251 @@
+{
+ "key": "dcc-257-2014",
+ "label": "Decizia CCR nr. 257/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "257",
+ "date": "2014-05-06",
+ "year": "2014",
+ "heading": "DECIZIE nr. 257 din 6 mai 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 80 alin. (1) şi art. 191 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, precum şi ale art. 110 alin. (3) din Legea asistenţei sociale nr. 292/2011",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "525",
+  "bis": false,
+  "date": "2014-07-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.003/117/2011",
+  "863D/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "80",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea asistenţei sociale nr. 292/2011",
+    "number": "292",
+    "year": "2011",
+    "path": "lege/2011/292"
+   },
+   "articles": [
+    {
+     "art": "110",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Teofil Cristea în Dosarul nr. 11.003/117/2011 al Tribunalului Cluj - Secţia mixtă de contencios administrativ şi fiscal, de conflicte de muncă şi asigurări sociale şi constată că dispoziţiile art. 80 alin. (1) şi art. 191 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, precum şi ale art. 110 alin. (3) din Legea asistenţei sociale nr. 292/2011 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secţia mixtă de contencios administrativ şi fiscal, de conflicte de muncă şi asigurări sociale şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "80",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea asistenţei sociale nr. 292/2011",
+    "number": "292",
+    "year": "2011",
+    "path": "lege/2011/292"
+   },
+   "articles": [
+    {
+     "art": "110",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.229/2005",
+    "number": "1229",
+    "year": "2005",
+    "path": "hg/2005/1229"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-07-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159880",
+  "text_sha256": "032d4fee589c1d5eee4c4f033f035c9190d3bbb6654820463db966e71e8ae778",
+  "catalogue_sha256": "032d4fee589c1d5eee4c4f033f035c9190d3bbb6654820463db966e71e8ae778",
+  "fetched": "2026-11-03T03:53:39Z",
+  "chars": 22213,
+  "portal_id": "159880",
+  "tip": "DECIZIE"
+ }
+}
