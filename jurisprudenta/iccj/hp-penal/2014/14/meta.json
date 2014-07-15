@@ -1,0 +1,276 @@
+{
+ "key": "iccj-hp-penal-14-2014",
+ "label": "Decizia ÎCCJ nr. 14/2014 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "14",
+ "date": "2014-06-16",
+ "year": "2014",
+ "heading": "DECIZIE nr. 14 din 16 iunie 2014",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea în principiu a problemei de drept, respectiv dacă în interpretarea art. 6 alin. (1) din Codul penal în ipoteza în care este vorba despre o hotărâre de condamnare cu aplicarea art. 320^1 din Codul de procedură penală anterior se reduce pedeapsa la maximul special prevăzut de lege pentru infracţiunea săvârşită, maxim ce se va reduce cu 1/3 ca urmare a judecării cauzei prin aplicarea principiului recunoaşterii vinovăţiei",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "525",
+  "bis": false,
+  "date": "2014-07-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "15/1/2014",
+  "4.257/281/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Prahova - Secţia penală prin Încheierea din data de 22 aprilie 2014 pronunţată în Dosarul nr. 4.257/281/2014, în vederea pronunţării unei hotărâri prealabile pentru dezlegarea în principiu a problemei de drept, respectiv dacă în interpretarea art. 6 alin. (1) din Codul penal în ipoteza în care este vorba despre o hotărâre de condamnare cu aplicarea art. 320^1 din Codul de procedură penală anterior se reduce pedeapsa la maximul special prevăzut de lege pentru infracţiunea săvârşită, maxim ce se va reduce cu 1/3 ca urmare a judecării cauzei prin aplicarea principiului recunoaşterii vinovăţiei.",
+  "Stabileşte că în aplicarea legii penale mai favorabile, după judecarea definitivă a cauzei, potrivit art. 6 alin. (1) din Codul penal, atunci când se compară pedeapsa aplicată cu maximul special prevăzut de legea nouă, nu se va lua în considerare cauza specială de reducere a pedepsei prevăzută de art. 320^1 alin. 7 din Codul de procedură penală anterior, reţinută condamnatului şi valorificată în pedeapsa concretă.",
+  "Obligatorie, potrivit dispoziţiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320-1",
+     "alin": [
+      "7",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "320-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 682/2002",
+    "number": "682",
+    "year": "2002",
+    "path": "lege/2002/682"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 121/2011",
+    "number": "121",
+    "year": "2011",
+    "path": "oug/2011/121"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-07-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159883",
+  "text_sha256": "a5c0cb51f5e0a0e7c2ce3206ea6e6ee9ff7b674b52f7534967d9ffedcbd1ff87",
+  "catalogue_sha256": "a5c0cb51f5e0a0e7c2ce3206ea6e6ee9ff7b674b52f7534967d9ffedcbd1ff87",
+  "fetched": "2026-11-03T03:53:39Z",
+  "chars": 26948,
+  "portal_id": "159883",
+  "tip": "DECIZIE"
+ }
+}
