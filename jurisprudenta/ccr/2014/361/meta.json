@@ -1,0 +1,196 @@
+{
+ "key": "dcc-361-2014",
+ "label": "Decizia CCR nr. 361/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "361",
+ "date": "2014-06-25",
+ "year": "2014",
+ "heading": "DECIZIE nr. 361 din 25 iunie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 38 alin. (2) din Legea serviciului public de alimentare cu energie termică nr. 325/2006",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "542",
+  "bis": false,
+  "date": "2014-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.881/226/2012",
+  "104D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului public de alimentare cu energie termică nr. 325/2006",
+    "number": "325",
+    "year": "2006",
+    "path": "lege/2006/325"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Cornel Calistru în Dosarul nr. 3.881/226/2012 al Tribunalului Braşov - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că dispoziţiile art. 38 alin. (2) din Legea serviciului public de alimentare cu energie termică nr. 325/2006 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Braşov - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului public de alimentare cu energie termică nr. 325/2006",
+    "number": "325",
+    "year": "2006",
+    "path": "lege/2006/325"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul Autorităţii Naţionale de Reglementare pentru Serviciile Comunitare de Utilităţi Publice nr. 343/2010",
+    "number": "343",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Autorităţii Naţionale de Reglementare pentru Serviciile Comunitare de Utilităţi Publice nr. 343/2010",
+    "number": "343",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160049",
+  "text_sha256": "427e6109d39bf1b92ada4e60778cfcd2864255278f105588f1392167423edc02",
+  "catalogue_sha256": "427e6109d39bf1b92ada4e60778cfcd2864255278f105588f1392167423edc02",
+  "fetched": "2026-11-03T03:53:30Z",
+  "chars": 9502,
+  "portal_id": "160049",
+  "tip": "DECIZIE"
+ }
+}
