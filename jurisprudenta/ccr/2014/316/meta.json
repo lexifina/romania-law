@@ -1,0 +1,266 @@
+{
+ "key": "dcc-316-2014",
+ "label": "Decizia CCR nr. 316/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "316",
+ "date": "2014-06-05",
+ "year": "2014",
+ "heading": "DECIZIE nr. 316 din 5 iunie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 638 alin. (1), art. 642, art. 650, art. 665 alin. (3) şi (4) teza a treia şi art. 669 alin. (4) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "559",
+  "bis": false,
+  "date": "2014-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.502/316/2013",
+  "36D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "638",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "642",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "650",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "665",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "669",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Ştefan Săvulescu în Dosarul nr. 2.502/316/2013 al Judecătoriei Târgu Bujor - Secţia civilă şi constată că prevederile art. 638 alin. (1), art. 642, art. 650, art. 665 alin. (3) şi (4) teza a treia şi art. 669 alin. (4) din Codul de procedură civilă sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Târgu Bujor - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "669",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "638",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "642",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "665",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "650",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "713",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160220",
+  "text_sha256": "519f9df6e20cc5425dfadbe1f74dac0206a16fcddeebd62a574075f7a616a1b1",
+  "catalogue_sha256": "519f9df6e20cc5425dfadbe1f74dac0206a16fcddeebd62a574075f7a616a1b1",
+  "fetched": "2026-11-03T03:53:20Z",
+  "chars": 21734,
+  "portal_id": "160220",
+  "tip": "DECIZIE"
+ }
+}
