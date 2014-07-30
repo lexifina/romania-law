@@ -1,0 +1,6 @@
+# Anexă
+----- la regulament ------------- Succesiunea evenimentelor pe piața centralizată pentru serviciul universal 1. Transmiterea prognozei FUI aferente SU la ANRE Z-35 3 zile 2. Stabilirea numărului de produse de tranzacționare la vârf și a zilelor/intervalelor orare de livrare caracteristice acestora Z32 3 zile 3. Transmiterea ofertelor de cumpărare ale FUI către ANRE Z-29 o zi 4. Publicarea anunțului privind desfășurarea licitației OPCSU Z-28 5 zile 5.
+a) Semnarea Convenției de participare la piața PCSU (maximum 5 zile de la anunț) Z-23
+b) Depunerea garanțiilor financiare (maximum 5 zile de la anunț) Z-23
+c) Transmiterea ofertelor indicative (maximum 5 zile de la anunț) Z-23
+4 zile 6. Stabilirea produselor de tranzacționare ANRE Z-19 două zile 7. Publicarea specificațiilor licitației OPCSU Z-17 5 zile 8. Deschiderea licitației Z-12 o zi de la închiderea licitației 9. Publicarea rezultatelor licitației OPCSU Z-11 două zile 10. Stabilirea și transmiterea cantităților aferente contractelor bilaterale dintre FUI și participanții la licitație declarați câștigători Z-9 5 zile 11. Încheierea contractelor bilaterale de vânzare-cumpărare a energiei electrică Z-4 4 zile 12. Prima zi de livrare Z ---------
