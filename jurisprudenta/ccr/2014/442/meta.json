@@ -1,0 +1,229 @@
+{
+ "key": "dcc-442-2014",
+ "label": "Decizia CCR nr. 442/2014",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "442",
+ "date": "2014-07-10",
+ "year": "2014",
+ "heading": "DECIZIE nr. 442 din 10 iulie 2014",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a dispoziţiilor Hotărârii Parlamentului nr. 28 din 16 iunie 2014 privind numirea unor consilieri de conturi şi a unui vicepreşedinte la Curtea de Conturi",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "565",
+  "bis": false,
+  "date": "2014-07-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea de neconstituţionalitate şi constată că Hotărârea Parlamentului nr. 28 din 16 iunie 2014 privind numirea unor consilieri de conturi şi a unui vicepreşedinte la Curtea de Conturi este neconstituţională în ceea ce priveşte numirea în funcţia de consilieri de conturi a doamnei Constanţa Anca Donovici şi a domnului Marius Vorniceanu.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Camerei Deputaţilor şi Senatului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "140",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2003",
+    "number": "356",
+    "year": "2003",
+    "path": "lege/2003/356"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii de revizuire a Constituţiei României nr. 429/2003",
+    "number": "429",
+    "year": "2003",
+    "path": "lege/2003/429"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2008",
+    "number": "217",
+    "year": "2008",
+    "path": "lege/2008/217"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-07-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160261",
+  "text_sha256": "11b84f3842ff0bfa57e12b4a4dbd24b396db72397f297a4164224f6ff34377d9",
+  "catalogue_sha256": "11b84f3842ff0bfa57e12b4a4dbd24b396db72397f297a4164224f6ff34377d9",
+  "fetched": "2026-11-03T03:53:17Z",
+  "chars": 31455,
+  "portal_id": "160261",
+  "tip": "DECIZIE"
+ }
+}
