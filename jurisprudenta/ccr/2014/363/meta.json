@@ -1,0 +1,205 @@
+{
+ "key": "dcc-363-2014",
+ "label": "Decizia CCR nr. 363/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "363",
+ "date": "2014-06-25",
+ "year": "2014",
+ "heading": "DECIZIE nr. 363 din 25 iunie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 138 alin. (6) din Legea nr. 85/2006 privind procedura insolvenţei",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "573",
+  "bis": false,
+  "date": "2014-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.893/98/2012/a1",
+  "124D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Direcţia Generală a Finanţelor Publice Ialomiţa - Administraţia Finanţelor Publice Slobozia în Dosarul nr. 2.893/98/2012/a1 (număr în format vechi 2.449/2013) al Curţii de Apel Bucureşti - Secţia a V-a civilă şi constată că dispoziţiile art. 138 alin. (6) din Legea nr. 85/2006 privind procedura insolvenţei sunt constituţionale în raport de criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a V-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "n"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "oug/2006/86"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160324",
+  "text_sha256": "c173191c1f2685f81350f16476bd027eeb0da09923a1875d4589dc54e495ab02",
+  "catalogue_sha256": "c173191c1f2685f81350f16476bd027eeb0da09923a1875d4589dc54e495ab02",
+  "fetched": "2026-11-03T03:53:14Z",
+  "chars": 16838,
+  "portal_id": "160324",
+  "tip": "DECIZIE"
+ }
+}
