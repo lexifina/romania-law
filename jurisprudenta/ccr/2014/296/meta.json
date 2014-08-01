@@ -1,0 +1,180 @@
+{
+ "key": "dcc-296-2014",
+ "label": "Decizia CCR nr. 296/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "296",
+ "date": "2014-05-22",
+ "year": "2014",
+ "heading": "DECIZIE nr. 296 din 22 mai 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 285 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "576",
+  "bis": false,
+  "date": "2014-08-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "978/44/2013",
+  "203D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "285",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de S.C. Engelmi - S.R.L. din Galaţi, prin administrator judiciar Sierra Quadrant - Filiala Bucureşti S.P.R.L., în Dosarul nr. 978/44/2013 al Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal şi constată că dispoziţiile art. 285 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "285",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adiţional nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-08-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160382",
+  "text_sha256": "8f9abe9b3f20b50c4514e396c74e9e5edda9ff73e559b5a4b3c414e88e637132",
+  "catalogue_sha256": "8f9abe9b3f20b50c4514e396c74e9e5edda9ff73e559b5a4b3c414e88e637132",
+  "fetched": "2026-11-03T03:53:12Z",
+  "chars": 13571,
+  "portal_id": "160382",
+  "tip": "DECIZIE"
+ }
+}
