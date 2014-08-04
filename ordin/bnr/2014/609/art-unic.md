@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale KIRA CREDITO &amp; CAUZIONI IFN - S.A., cu sediul social în București, Str. Viitorului nr. 22, ap. 4, sectorul 2, înregistrată la registrul comerțului sub nr. J40/17304/2006, cod unic de înregistrare 19146598, înscrisă în Registrul general sub nr. RG-PJR-41-110278, la secțiunea k) "Activități multiple de creditare". Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 18 iulie 2014. Nr. 609. ___________
