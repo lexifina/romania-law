@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale DUNĂREA IFN - S.A., cu sediul în București, Bd. Unirii nr. 47, bl. E3A, tronsonul 1, mezanin, sectorul 3, înregistrată la oficiul registrului comerțului sub nr. J40/16569/2006, cod unic de înregistrare 19115630, înscrisă în Registrul general sub nr. RG-PJR-41-080049, la secțiunea h) "Leasing financiar". Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 18 iulie 2014. Nr. 608. ________
