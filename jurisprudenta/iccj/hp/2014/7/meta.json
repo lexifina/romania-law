@@ -1,0 +1,366 @@
+{
+ "key": "iccj-hp-7-2014",
+ "label": "Decizia ÎCCJ nr. 7/2014 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "7",
+ "date": "2014-06-30",
+ "year": "2014",
+ "heading": "DECIZIE nr. 7 din 30 iunie 2014",
+ "subtitle": "privind, faptul că acreditarea acordă dreptul, universităţii, de a emite diplome recunoscute de Ministerul Educaţiei, Cercetării, Tineretului şi Sportului (în prezent Ministerul Educaţiei Naţionale) şi de a organiza examenul de licenţă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "584",
+  "bis": false,
+  "date": "2014-08-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5/1/2014",
+  "3.422/114/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 75/2005",
+    "number": "75",
+    "year": "2005",
+    "path": "oug/2005/75"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Ploieşti, în Dosarul nr. 3.422/114/2013, privind pronunţarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "\"Dacă, faţă de dispoziţiile art. 29 alin. (3) şi, în special, alin. (4) lit. b) din O.U.G. nr. 75/2005 - ce vizează, în esenţă, faptul că acreditarea acordă dreptul de a emite diplome recunoscute de Ministerul Educaţiei, Cercetării, Tineretului şi Sportului (în prezent Ministerul Educaţiei Naţionale) şi de a organiza examenul de licenţă - dispoziţii în vigoare în perioada în care reclamanta a urmat cursurile Universităţii «Spiru Haret», cererile de obligare a universităţii la eliberarea diplomelor de licenţă şi de obligare a ministerului să aprobe tipărirea formularelor tipizate pot fi sau nu analizate independent de examinarea împrejurării acreditării/neacreditării programului de studiu organizat de Universitatea «Spiru Haret» şi absolvit de reclamant.",
+  "Dacă, faţă de dispoziţiile art. 72 din Codul de procedură civilă, este admisibilă cererea Universităţii «Spiru Haret» de chemare în garanţie a Ministerului Educaţiei Naţionale pentru a fi obligat să aprobe tipărirea formularelor tipizate, în condiţiile în care această cerere nu are ca obiect valorificarea unui drept de garanţie sau despăgubire.\" Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă, adoptat prin Legea nr. 134/2010."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 75/2005",
+    "number": "75",
+    "year": "2005",
+    "path": "oug/2005/75"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3",
+      "4",
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 693/2003",
+    "number": "693",
+    "year": "2003",
+    "path": "hg/2003/693"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 676/2007",
+    "number": "676",
+    "year": "2007",
+    "path": "hg/2007/676"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 10/2009",
+    "number": "10",
+    "year": "2009",
+    "path": "og/2009/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/2006",
+    "number": "87",
+    "year": "2006",
+    "path": "lege/2006/87"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul MECTS nr. 2.284/2007",
+    "number": "2284",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 443/2002",
+    "number": "443",
+    "year": "2002",
+    "path": "lege/2002/443"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii învăţământului nr. 84/1995",
+    "number": "84",
+    "year": "1995",
+    "path": "lege/1995/84"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 535/1999",
+    "number": "535",
+    "year": "1999",
+    "path": "hg/1999/535"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 916/2005",
+    "number": "916",
+    "year": "2005",
+    "path": "hg/2005/916"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.175/2006",
+    "number": "1175",
+    "year": "2006",
+    "path": "hg/2006/1175"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.011/2001",
+    "number": "1011",
+    "year": "2001",
+    "path": "hg/2001/1011"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.418/2006",
+    "number": "1418",
+    "year": "2006",
+    "path": "hg/2006/1418"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educaţiei naţionale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-08-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160437",
+  "text_sha256": "1c3959fbebab490b30dc52f1d6fae32cd525841cab125edc45b222dd5f0b3d91",
+  "catalogue_sha256": "1c3959fbebab490b30dc52f1d6fae32cd525841cab125edc45b222dd5f0b3d91",
+  "fetched": "2026-11-03T03:53:04Z",
+  "chars": 54196,
+  "portal_id": "160437",
+  "tip": "DECIZIE"
+ }
+}
