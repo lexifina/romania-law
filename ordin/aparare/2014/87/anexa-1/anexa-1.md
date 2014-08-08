@@ -1,0 +1,2 @@
+# Anexa
+----- la regulament ------------- MODUL de relaționare a Comisiei centrale pentru probleme sociale cu comisiile/responsabilii pentru probleme sociale, precum și cu instituțiile și autoritățile publice/organizațiile neguvernamentale ---------- NOTĂ(CTCE) Imaginea se găsește în Monitorul Oficial al României, Partea I, nr. 593 din 8 august 2014 la pagina 5 (a se vedea imaginea asociată). --------
