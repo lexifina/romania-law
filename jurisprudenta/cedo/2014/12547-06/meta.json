@@ -1,0 +1,169 @@
+{
+ "key": "cedo-12547-06-2014-02-25",
+ "label": "CEDO, Ostace c. României, 2014-02-25",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2014-02-25",
+ "year": "2014",
+ "heading": "HOTĂRÂRE din 25 februarie 2014",
+ "subtitle": "în Cauza Ostace împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "601",
+  "bis": false,
+  "date": "2014-08-12",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "12547/06"
+ ],
+ "case_name": "Ostace",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 8 din Convenţie şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 8 din Convenţie; 3. hotărăşte",
+  "a) că statul pârât trebuie să îi plătească reclamantului, în termen de 3 luni de la data rămânerii definitivă a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume:",
+  "i) 5.000 EUR (cinci mii euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "ii) 3.000 EUR (trei mii euro), plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160617",
+  "text_sha256": "90ce9ae1a767bfdca090c187aeec24e9754ee3b81880f18aeeb93925bd22a3ea",
+  "catalogue_sha256": "90ce9ae1a767bfdca090c187aeec24e9754ee3b81880f18aeeb93925bd22a3ea",
+  "fetched": "2026-11-03T03:52:57Z",
+  "chars": 30533,
+  "portal_id": "160617",
+  "tip": "HOTĂRÂRE"
+ }
+}
