@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale PRACTIC LEASING IFN - S.A., cu sediul în București, Str. Dâmboviței nr. 10B, camera 2, sectorul 6, înregistrată la Oficiul Registrului Comerțului cu nr. J40/12.598/2003, cod unic de înregistrare 15754223, înscrisă în Registrul general al instituțiilor financiare nebancare cu nr. RG-PJR-41-110126, la secțiunea k) - Activități multiple de creditare. p. Guvernatorul Băncii Naționale a României, Florin Georgescu București, 13 august 2014. Nr. 682. -----------
