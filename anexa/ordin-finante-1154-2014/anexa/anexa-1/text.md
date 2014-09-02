@@ -1,0 +1,5 @@
+# Anexa 1
+Anexa 1
+─────── la procedură ───────────── Documente ce pot fi comunicate prin serviciul "Spațiul privat virtual" A. Documente emise de organul fiscal și comunicate contribuabilului Automat Decizii de impunere anuală aferente veniturilor realizate începând cu anul 2013 și emise după data de 1 septembrie 2014; La cererea contribuabilului 1. "Situația obligațiilor fiscale de plată la data de ...." 2. "Nota obligațiilor de plată" 3. "Situația contribuțiilor de asigurări sociale declarate de către angajatori" B. Documente emise de contribuabil și comunicate organului fiscal 1. Cerere privind "Situația obligațiilor fiscale de plată la data de ...." 2. Cerere privind "Nota obligațiilor de plată" 3. Cerere privind "Situația contribuțiilor de asigurări sociale declarate de către angajatori"
+Anexa 2
+─────── la procedură ───────────── Categoriile de informațiile publice fiscale prin serviciul "Buletinul informativ fiscal" 1. Calendarul obligațiilor fiscale 2. Noutăți legislative 3. Ghiduri fiscale 4. Campanii derulate 5. Comunicate de presă. _________
