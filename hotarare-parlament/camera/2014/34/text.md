@@ -1,0 +1,8 @@
+ HOTĂRÂRE nr. 34 din 2 septembrie 2014  pentru alegerea vicepreşedinţilor, secretarilor şi chestorilor Camerei Deputaţilor     EMITENT     CAMERA DEPUTAŢILOR       Publicat în
+			  MONITORUL OFICIAL nr. 649 din 3 septembrie 2014     În temeiul prevederilor art. 64 alin. (2) din Constituţia României, republicată, şi ale art. 23 şi 24 din Regulamentul Camerei Deputaţilor, aprobat prin  Hotărârea Camerei Deputaţilor nr. 8/1994 , republicat, cu modificările şi completările ulterioare,  Camera Deputaţilor adoptă prezenta hotărâre.
+				 +
+			  Articolul 1     Se aleg în funcţia de vicepreşedinte al Camerei Deputaţilor următorii deputaţi:  Viorel Hrebenciuc - Grupul parlamentar al PSD;  Miron-Tudor Mitrea - Grupul parlamentar al PSD;  Dan-Ştefan Motreanu - Grupul parlamentar al PNL;  Ioan Oltean - Grupul parlamentar al PDL.
+				 +
+			  Articolul      Se aleg în funcţia de secretar al Camerei Deputaţilor următorii deputaţi:  Ion Marcel Ciolacu - Grupul parlamentar al PSD;  Cristian Buican - Grupul parlamentar al PNL;  Niculae Mircovici - Grupul parlamentar al minorităţilor naţionale;  Liliana Mincă - Grupul parlamentar al PP-DD.
+				 +
+			  Articolul 3     Se aleg în funcţia de chestor al Camerei Deputaţilor următorii deputaţi:  Mircea Gheorghe Drăghici - Grupul parlamentar al PSD;  Horia Grama - Grupul parlamentar al PSD;  Ionel Palăr - Grupul parlamentar al PNL;  Seres Denes - Grupul parlamentar al UDMR.  Această hotărâre a fost adoptată de Camera Deputaţilor în şedinţa din 2 septembrie 2014.  PREŞEDINTELE CAMEREI DEPUTAŢILOR  VALERIU-ŞTEFAN ZGONEA  Bucureşti, 2 septembrie 2014.  Nr. 34.  __________
