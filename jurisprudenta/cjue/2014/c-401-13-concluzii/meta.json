@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-401-13-concluzii-2014-09-04",
+ "label": "CJUE, Concluziile avocatului general M. Wathelet prezentate la 4 septembrie 2014, Cauzele conexate C-401/13 și C-432/13.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2014-09-04",
+ "year": "2014",
+ "case": "Cauzele conexate C-401/13 și C-432/13.",
+ "celex": "62013CC0401",
+ "ecli": "ECLI:EU:C:2014:2161",
+ "heading": "Concluziile avocatului general M. Wathelet prezentate la 4 septembrie 2014",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cereri de decizie preliminară formulate de Curtea de Apel Cluj.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Securitatea socială a lucrătorilor migranți – Regulamentul (CEE) nr. 1408/71 – Articolul 7 alineatul (2) litera (c) – Aplicabilitatea convențiilor de securitate socială între state membre – Refugiat repatriat originar dintr-un stat membru – Realizarea unor perioade de muncă pe teritoriul unui alt stat membru – Cerere de acordare a unei prestații pentru limită de vârstă – Refuz.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013CC0401",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-401/13&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/6893f0c6-343e-11e4-8c3c-01aa75ed71a1.0021.01/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "aea557f9cd4fd07d40ce7d8ca6389ac2c7b54e7ff302020ef845bb9667fed8a1"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
