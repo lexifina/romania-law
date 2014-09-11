@@ -1,0 +1,63 @@
+{
+ "key": "cedo-16178-07-2014-05-27",
+ "label": "CEDO, Tiberiu Ioan David c. României, 2014-05-27",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2014-05-27",
+ "year": "2014",
+ "heading": "DECIZIE din 27 mai 2014",
+ "subtitle": "în Cauza Tiberiu Ioan David împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "667",
+  "bis": false,
+  "date": "2014-09-11",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "16178/07"
+ ],
+ "case_name": "Tiberiu Ioan David",
+ "subjects": [],
+ "operative": [
+  "În unanimitate, CURTEA decide să scoată cererea de pe rol, în temeiul art. 39 din Convenţie.",
+  "Alvina Gyulumyan, preşedinte Marialena Tsirli, grefier adjunct ________"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/161233",
+  "text_sha256": "03ff39384ec2aace22faae62a11f40d29adad40763752882c0f5a295147854b6",
+  "catalogue_sha256": "03ff39384ec2aace22faae62a11f40d29adad40763752882c0f5a295147854b6",
+  "fetched": "2026-11-03T03:52:15Z",
+  "chars": 2754,
+  "portal_id": "161233",
+  "tip": "DECIZIE"
+ }
+}
