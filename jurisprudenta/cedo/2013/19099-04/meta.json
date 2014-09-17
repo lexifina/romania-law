@@ -1,0 +1,144 @@
+{
+ "key": "cedo-19099-04-2013-11-05",
+ "label": "CEDO, Branişte c. României, 2013-11-05",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-11-05",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 5 noiembrie 2013",
+ "subtitle": "în Cauza Branişte împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECŢIA A TREIA",
+ "mo": {
+  "number": "680",
+  "bis": false,
+  "date": "2014-09-17",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "19099/04"
+ ],
+ "case_name": "Branişte",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie în ceea ce priveşte perioada cuprinsă între 2 octombrie 2003 şi 3 martie 2005 şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitivă a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 13.000 EUR (treisprezece mii de euro), sumă care trebuie convertită în moneda naţională la rata de schimb aplicabilă la data plăţii, plus orice sumă ce poate fi datorată cu titlu de impozit, pentru toate prejudiciile reunite;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 109/1996",
+    "number": "109",
+    "year": "1996",
+    "path": "lege/1996/109"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2005",
+    "number": "1",
+    "year": "2005",
+    "path": "lege/2005/1"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/161375",
+  "text_sha256": "bcac15c6b2005644525fa0a9fa987a1bfa9b78d1c5474e01be0425321fe21a30",
+  "catalogue_sha256": "bcac15c6b2005644525fa0a9fa987a1bfa9b78d1c5474e01be0425321fe21a30",
+  "fetched": "2026-11-03T03:52:08Z",
+  "chars": 19190,
+  "portal_id": "161375",
+  "tip": "HOTĂRÂRE"
+ }
+}
