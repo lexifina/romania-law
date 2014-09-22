@@ -1,0 +1,165 @@
+{
+ "key": "iccj-hp-6-2014",
+ "label": "Decizia ÎCCJ nr. 6/2014 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "6",
+ "date": "2014-06-23",
+ "year": "2014",
+ "heading": "DECIZIE nr. 6 din 23 iunie 2014",
+ "subtitle": "referitoare la sesizarea formulată de Tribunalul Botoşani - Secţia I civilă în Dosarul nr. 13.696/193/2013, în vederea pronunţării unei hotărâri prealabile în legătură cu chestiunea de drept vizând interpretarea şi aplicarea dispoziţiilor art. 527 alin. (2) şi art. 529 alin. (2) din noul Cod civil",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "691",
+  "bis": false,
+  "date": "2014-09-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "13.696/193/2013",
+  "4/1/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "527",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 26/1994",
+    "number": "26",
+    "year": "1994",
+    "path": "og/1994/26"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Botoşani - Secţia I civilă în Dosarul nr. 13.696/193/2013 privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a dispoziţiilor art. 527 alin. (2) şi art. 529 alin. (2) din Legea nr. 287/2009 privind Codul civil, în corelare cu prevederile Ordonanţei Guvernului nr. 26/1994, republicată, cu modificările şi completările ulterioare.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă adoptat prin Legea nr. 134/2010."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 26/1994",
+    "number": "26",
+    "year": "1994",
+    "path": "og/1994/26"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "531",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "532",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "527",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-09-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/161480",
+  "text_sha256": "57d99ac8de008d42706a776863b13db150968c944f5a615619bf85d85a7c759e",
+  "catalogue_sha256": "57d99ac8de008d42706a776863b13db150968c944f5a615619bf85d85a7c759e",
+  "fetched": "2026-11-03T03:51:59Z",
+  "chars": 25135,
+  "portal_id": "161480",
+  "tip": "DECIZIE"
+ }
+}
