@@ -1,0 +1,272 @@
+{
+ "key": "dcc-463-2014",
+ "label": "Decizia CCR nr. 463/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "463",
+ "date": "2014-09-17",
+ "year": "2014",
+ "heading": "DECIZIE nr. 463 din 17 septembrie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. IV din Ordonanţa de urgenţă a Guvernului nr. 1/2013 pentru modificarea şi completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "704",
+  "bis": false,
+  "date": "2014-09-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "673/108/2014",
+  "675/108/2014",
+  "677/108/2014",
+  "681/108/2014",
+  "679/108/2014",
+  "680/108/2014",
+  "674/108/2014",
+  "676/108/2014",
+  "781/108/2014",
+  "1.284/108/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2013",
+    "number": "1",
+    "year": "2013",
+    "path": "oug/2013/1"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Admite, în parte, excepţia de neconstituţionalitate ridicată de Simeon Iov în Dosarul nr. 673/108/2014, de Valeriu Felnecan în Dosarul nr. 675/108/2014, de Lia Oniga în Dosarul nr. 677/108/2014, de Aurel Bozgan în Dosarul nr. 681/108/2014, de Iuliana Kovacs în Dosarul nr. 679/108/2014, de Rusalin Opruţ în Dosarul nr. 680/108/2014, de Aristofan Teodorescu în Dosarul nr. 674/108/2014, de Doina Lucia Teodorescu în Dosarul nr. 676/108/2014, de Marioara Gozman în Dosarul nr. 781/108/2014 şi de Savu Dumitru Sărăndan în Dosarul nr. 1.284/108/2014, toate ale Tribunalului Arad - Secţia civilă, de Petru Ioan Crişan în Dosarul nr. 1.285/108/2014 al Tribunalului Arad - Secţia a II-a civilă şi de Ştefan Pavel Anghelina în Dosarul nr. 1.748/108/2014 al Tribunalului Arad - Secţia civilă şi constată că dispoziţiile art. IV alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 1/2013 pentru modificarea şi completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice sunt neconstituţionale. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de aceiaşi autori în aceleaşi dosare şi constată că dispoziţiile art. IV alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 1/2013 pentru modificarea şi completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului, Tribunalului Arad - Secţia civilă şi Tribunalului Arad - Secţia a II-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 113/2013",
+    "number": "113",
+    "year": "2013",
+    "path": "oug/2013/113"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 283/2011",
+    "number": "283",
+    "year": "2011",
+    "path": "lege/2011/283"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2013",
+    "number": "1",
+    "year": "2013",
+    "path": "oug/2013/1"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-09-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/161618",
+  "text_sha256": "201a4f5a8996911db28ef88df9ae222d64b4db11fd81688a732148c389118c06",
+  "catalogue_sha256": "201a4f5a8996911db28ef88df9ae222d64b4db11fd81688a732148c389118c06",
+  "fetched": "2026-11-03T03:51:48Z",
+  "chars": 33406,
+  "portal_id": "161618",
+  "tip": "DECIZIE"
+ }
+}
