@@ -1,0 +1,2 @@
+# Anexa nr. 3
+Anexa 3 ─────── (Anexa nr. 3 la Ordinul nr. 163/2011) ───────────────────────────────────── LISTA cuprinzând statele care nu sunt membre ale Convenției asupra circulației rutiere, emitente de permise de conducere naționale ce pot fi preschimbate fără examinarea sau testarea deținătorilor unor astfel de permise 1. Canada 2. Republica Coreea 3. Republica Arabă Egipt 4. Regatul Hașemit al Iordaniei 5. Japonia 6. Republica Libaneză 7. Republica Arabă Siriană 8. Statele Unite ale Americii 9. Republica Populară Chineză _____________
