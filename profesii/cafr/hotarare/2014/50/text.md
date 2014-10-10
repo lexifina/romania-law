@@ -1,0 +1,17 @@
+Având în vedere prevederile: - art. 6 alin. (3) și (4) din Ordonanța de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar, republicată, cu modificările și completările ulterioare, - art. 15 alin. (1) lit. i) și l), art. 15 alin. (3), art. 17, 19 și 21-24 din Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, aprobat prin Hotărârea Guvernului nr. 433/2011 , Consiliul Camerei Auditorilor Financiari din România, întrunit în ședința din data de 2 octombrie 2014, hotărăște:
+Articolul 1
+În urma votului valabil exprimat, Consiliul Camerei Auditorilor Financiari din România, denumită în continuare Camera, a ales următoarea componență a Biroului permanent al Consiliului Camerei: - domnul lector univ. dr. Gabriel Radu - președintele Camerei; - domnul Ciprian Teodor Mihăilescu - prim-vicepreședinte al Biroului permanent al Consiliului Camerei; - domnul Clemente Kiss - vicepreședinte al Biroului permanent al Consiliului Camerei; - doamna lector univ. dr. Mirela Păunescu - vicepreședintă a Biroului permanent al Consiliului Camerei; - domnul Iosif Cornel Kameniczki - vicepreședinte al Biroului permanent al Consiliului Camerei.
+Articolul 2
+(1) Se numește "Președinte de onoare" al Camerei domnul prof. univ. dr. Horia Ion Neamțu, conform art. 22 din Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, aprobat prin Hotărârea Guvernului nr. 433/2011 , și Procedurilor privind acordarea titlurilor de onoare, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 231/2011 .
+(2) Președintele de onoare va participa la ședințele Consiliului Camerei și ale Biroului permanent.
+Articolul 3
+(1) Se numește Comitetul de excelență, conform art. 15 alin. (1) lit. i) și art. 24 din Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, aprobat prin Hotărârea Guvernului nr. 433/2011 , format din următoarele persoane care au contribuit la susținerea profesiei de auditor financiar:
+- prof. univ. dr. Ion Mihăilescu; - prof. univ. dr. Pavel Năstase; - prof. univ. dr. Ana Morariu; - Georgeta Petre; - Mircea Bozga.
+(2) Membrii Comitetului de excelență pot participa la ședințele Consiliului Camerei sau ale Biroului permanent, în baza convocării lor de către Cameră. De asemenea, membrii Comitetului de excelență pot fi consultați în elaborarea unor documente cu incidență asupra profesiei de auditor financiar.
+(3) Comitetul de excelență numit prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 240/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 535 din 28 iulie 2011, își încetează activitatea.
+Articolul 4
+(1) Se acordă titlul de "Auditor financiar de onoare", conform art. 15 alin. (1) lit. i) din Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, aprobat prin Hotărârea Guvernului nr. 433/2011 , și Procedurilor privind acordarea titlurilor de onoare, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 231/2011 , următorilor auditori financiari, membri ai Camerei:
+- prof. univ. dr. Horia Ion Neamțu; - prof. univ. dr. Pavel Năstase; - prof. univ. dr. Ana Morariu; - Georgeta Petre; - Mircea Bozga.
+(2) Auditorii financiari de onoare sunt scutiți de la plata cotizației fixe datorate Camerei.
+Articolul 5
+Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I. Președintele Camerei Auditorilor Financiari din România, Gabriel Radu București, 2 octombrie 2014. Nr. 50. -------
