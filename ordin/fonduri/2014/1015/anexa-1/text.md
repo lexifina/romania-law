@@ -1,0 +1,2 @@
+# Anexa
+CORRIGENDUM Nr. 1 la Ghidul Solicitantului Condiții Specifice pentru cererea de propuneri de proiecte nr. 173 "Dezvoltarea economiei sociale", finanțată prin Programul operațional sectorial "Dezvoltarea resurselor umane" 2007-2013, domeniul major de intervenție 6.1 1. Termenul-limită pentru transmiterea electronică a cererilor de finanțare în cadrul cererii de propuneri de proiecte nr. 173 se prelungește până la data de 20 octombrie 2014, ora 16,00. --------
