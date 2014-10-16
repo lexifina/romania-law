@@ -1,0 +1,40 @@
+{
+ "key": "cjue-t-129-13-hotarare-2014-10-16",
+ "label": "CJUE, Hotărârea Tribunalului (Camera a cincea) din 16 octombrie 2014, Cauza T‑129/13",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2014-10-16",
+ "year": "2014",
+ "case": "Cauza T‑129/13",
+ "celex": "62013TJ0129",
+ "ecli": "ECLI:EU:T:2014:895",
+ "heading": "Hotărârea Tribunalului (Camera a cincea) din 16 octombrie 2014",
+ "formation": "CHAMB_05_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Ajutoare de stat – Electricitate – Tarife preferențiale – Decizie de inițiere a procedurii prevăzute la articolul 108 alineatul (2) TFUE – Acțiune în anulare – Act care nu este supus căilor de atac – Măsură de ajutor pusă în aplicare în totalitate la data introducerii acțiunii – Inadmisibilitate",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013TJ0129",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T‑129/13&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
