@@ -1,0 +1,55 @@
+{
+ "key": "cjue-t-429-13-ordonanta-2014-10-21",
+ "label": "CJUE, Ordonanța Tribunalului (Camera întâi) din 21 octombrie 2014 (publicată în extras), Cauza T‑429/13",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2014-10-21",
+ "year": "2014",
+ "case": "Cauza T‑429/13",
+ "celex": "62013TO0429(02)",
+ "ecli": "ECLI:EU:T:2014:920",
+ "heading": "Ordonanța Tribunalului (Camera întâi) din 21 octombrie 2014 (publicată în extras)",
+ "formation": "CHAMB_EXTD_01_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Intervenție – Interes în soluţionarea litigiului – Asociație reprezentativă care are ca obiect de activitate apărarea intereselor membrilor săi – Confidențialitate",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013TO0429(02)",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T‑429/13&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/a2b9ad51-0bf5-4f0a-96ee-db441d9626c4.0022.01/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "49ab641e2633fa72903f3665c218a16df3820b311be01d8b6150de6c9e6cb3e0"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive,",
+  "TRIBUNALUL (Camera întâi)",
+  "dispune:",
+  "1) Admite cererile de intervenție formulate de Association générale des producteurs de maïs et autres céréales cultivées de la sous‑famille des panicoïdées (AGPM), de National Farmers’ Union (NFU), de Rapool‑Ring GmbH, de European Seed Association (ESA) și de Agricultural Industries Confederation (AIC) în cauza T‑429/13 în susținerea concluziilor Bayer CropScience AG.",
+  "2) Admite cererile de intervenție formulate de Union nationale de l’apiculture française (UNAF), de Deutscher Berufs- und Erwerbsimkerbund eV (DBEB), de Österreichischer Erwerbsimkerbund (ÖEB), de Stichting Greenpeace Council, de Pesticide Action Network Europe (PAN Europe), de BeeLife European Beekeeping Coordination (BeeLife) și de Buglife – The Invertebrate Conservation Trust (Buglife) în cauza T‑429/13 în susținerea concluziilor Comisiei Europene.",
+  "3) Respinge cererile de intervenție formulate de Makhteshim‑Agan Italia Srl, de KWS Saat AG, de Mellifera eV – Vereinigung für wesensgerechte Bienenhaltung, de ClientEarth, de SumOfUs, de OÖ Landesverband für Bienenzucht (OÖL) și de Österreichischer Imkerbund (ÖIB).",
+  "4) Grefierul va comunica intervenientelor o versiune neconfidențială a fiecărui act de procedură notificat părților.",
+  "5) Se va stabili un termen intervenientelor pentru a prezenta eventuale observații cu privire la cererea de aplicare a regimului de confidențialitate. Amână pronunțarea asupra temeiniciei acestei cereri.",
+  "6) Se va stabili un termen intervenientelor pentru a prezenta un memoriu în intervenție, fără a se aduce atingere posibilității de a‑l completa, dacă va fi cazul, ulterior, ca urmare a unei decizii cu privire la temeinicia cererii de aplicare a regimului de confidențialitate.",
+  "7) Makhteshim‑Agan Italia, KWS Saat, Mellifera, ClientEarth, SumOfUs, OÖL, ÖIB, Bayer CropScience și Comisia suportă fiecare propriile cheltuieli de judecată aferente cererilor de intervenție respinse.",
+  "8) În ceea ce privește cererile de intervenție admise, cererile privind cheltuielile de judecată se soluționează odată cu fondul."
+ ]
+}
