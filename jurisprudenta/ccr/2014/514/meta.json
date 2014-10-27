@@ -1,0 +1,166 @@
+{
+ "key": "dcc-514-2014",
+ "label": "Decizia CCR nr. 514/2014",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "514",
+ "date": "2014-10-08",
+ "year": "2014",
+ "heading": "DECIZIE nr. 514 din 8 octombrie 2014",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a Hotărârii Parlamentului României nr. 17/2011 privind numirea unor consilieri de conturi şi a unui vicepreşedinte ai Autorităţii de Audit",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "779",
+  "bis": false,
+  "date": "2014-10-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "824L/2/2014"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea de neconstituţionalitate şi constată că Hotărârea Parlamentului României nr. 17/2011 privind numirea unor consilieri de conturi şi a unui vicepreşedinte ai Autorităţii de Audit este neconstituţională în ceea ce priveşte numirea în funcţia de consilier de conturi a domnului Anton Ioan şi, implicit, numirea sa în funcţia de vicepreşedinte al Autorităţii de Audit.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Camerei Deputaţilor şi Senatului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 200/2005",
+    "number": "200",
+    "year": "2005",
+    "path": "lege/2005/200"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2008",
+    "number": "217",
+    "year": "2008",
+    "path": "lege/2008/217"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-10-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/162476",
+  "text_sha256": "9844569aa5ea760e5858da5df8a4da33dd45ba2742a5f2b0f51362236437824d",
+  "catalogue_sha256": "9844569aa5ea760e5858da5df8a4da33dd45ba2742a5f2b0f51362236437824d",
+  "fetched": "2026-11-03T03:51:02Z",
+  "chars": 25334,
+  "portal_id": "162476",
+  "tip": "DECIZIE"
+ }
+}
