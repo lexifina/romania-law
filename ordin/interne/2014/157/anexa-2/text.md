@@ -1,0 +1,3 @@
+# Anexa nr. 2
+Anexa 2 (Anexa nr. 2 la normele metodologice) CONȚINUTUL ȘI STRUCTURA dispoziției pentru executarea misiunilor În conținutul dispoziției se vor stabili principalele elemente necesare executării misiunii, care vor viza: 1. descrierea tipului, caracterului și scopului misiunii; 2. data și ora decolării; 3. autorizări/aprobări/limite speciale de zbor; 4. zonele/localitățile sau rutele autorizate pentru operare; 5. aeroporturile/terenurile de decolare-aterizare; 6. forțele și mijloacele de intervenție și modul de realizare a cooperării, în situații de urgență la fața locului; 7. personalul care are acces la bordul aeronavei; 8. precizări privind structura de la care se alocă orele de zbor; 9. alte date necesare desfășurării în siguranță a misiunii.
+--------
