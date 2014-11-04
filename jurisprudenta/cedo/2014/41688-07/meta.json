@@ -1,0 +1,82 @@
+{
+ "key": "cedo-41688-07-2014-10-01",
+ "label": "CEDO, Societatea Comercială \"Alex Prod Com\" - S.R.L. c. României, 2014-10-01",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2014-10-01",
+ "year": "2014",
+ "heading": "DECIZIE din 1 octombrie 2014",
+ "subtitle": "cu privire la Cererea nr. 41.688/07 introdusă de Societatea Comercială \"Alex Prod Com\" - S.R.L. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "802",
+  "bis": false,
+  "date": "2014-11-04",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "41688/07"
+ ],
+ "case_name": "Societatea Comercială \"Alex Prod Com\" - S.R.L.",
+ "subjects": [],
+ "operative": [
+  "În unanimitate, CURTEA: - ia cunoştinţă de termenii declaraţiei Guvernului pârât în temeiul art. 6 § 1 din Convenţie cu privire la dreptul de acces la o instanţă şi modalităţile de asigurare a respectării angajamentelor la care se face referire în aceasta; - decide să scoată cererea de pe rol în conformitate cu art. 37 § 1 lit. c) din Convenţie.",
+  "Alvina Gyulumyan, preşedinte Marialena Tsirli, grefier adjunct _______"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului justiţiei nr. 2.214/1997",
+    "number": "2214",
+    "year": "1997"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/162689",
+  "text_sha256": "c9a3211bbf44828bebbb6bde07570ebcde6db009312726f733e387fcbfc4b99f",
+  "catalogue_sha256": "c9a3211bbf44828bebbb6bde07570ebcde6db009312726f733e387fcbfc4b99f",
+  "fetched": "2026-11-03T03:50:48Z",
+  "chars": 6833,
+  "portal_id": "162689",
+  "tip": "DECIZIE"
+ }
+}
