@@ -1,0 +1,6 @@
+HOTĂRÂRE nr. 5 din 6 noiembrie 2014  privind interpretarea prevederilor  art. 47 din Legea nr. 370/2004  pentru alegerea Preşedintelui României     EMITENT     BIROUL ELECTORAL CENTRAL - PENTRU ALEGEREA PREŞEDINTELUI ROMÂNIEI DIN ANUL 2014       Publicat în
+			  MONITORUL OFICIAL nr. 812 din 6 noiembrie 2014     Având în vedere dispoziţiile  art. 47 din Legea nr. 370/2004  pentru alegerea Preşedintelui României, republicată, cu modificările şi completările ulterioare,  în temeiul  art. 17 alin. (4) din Legea nr. 370/2004 , republicată, cu modificările şi completările ulterioare,  Biroul Electoral Central hotărăşte:
+				 +
+			  Articolul 1     În interpretarea dispoziţiilor  art. 47 din Legea nr. 370/2004  pentru alegerea Preşedintelui României, republicată, cu modificările şi completările ulterioare, sintagma "data alegerilor" se referă atât la primul tur de scrutin, cât şi la un eventual al doilea tur de scrutin stabilit în condiţiile art. 54 alin. (1) şi (2) din acelaşi act normativ.
+				 +
+			  Articolul 2     Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.  Preşedintele Biroului Electoral Central,  judecător Veronica Năstasie  Bucureşti, 6 noiembrie 2014.  Nr. 5.    --------
