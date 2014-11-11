@@ -1,0 +1,144 @@
+{
+ "key": "iccj-hp-penal-24-2014",
+ "label": "Decizia ÎCCJ nr. 24/2014 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "24",
+ "date": "2014-10-06",
+ "year": "2014",
+ "heading": "DECIZIE nr. 24 din 6 octombrie 2014",
+ "subtitle": "privind sesizarea formulată de Curtea de Apel Bucureşti - Secţia I penală în Dosarul nr. 23.234/3/2014",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "823",
+  "bis": false,
+  "date": "2014-11-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "23.234/3/2014",
+  "26/1/2014"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de către Curtea de Apel Bucureşti - Secţia I penală în Dosarul nr. 23.234/3/2014 privind pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept referitoare la admisibilitatea căii de atac a contestaţiei formulate în temeiul art. 204 din Codul de procedură penală împotriva încheierii prin care judecătorul de drepturi şi libertăţi se pronunţă asupra plângerii, în temeiul art. 213 din Codul de procedură penală, împotriva ordonanţei procurorului prin care s-a luat măsura controlului judiciar.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": [
+      "14",
+      "1",
+      "13"
+     ],
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "219",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "140-3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-11-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/162897",
+  "text_sha256": "bfd670c267ddc338fcda0daf976e581c146081914f82e4755e9b453e07c47723",
+  "catalogue_sha256": "bfd670c267ddc338fcda0daf976e581c146081914f82e4755e9b453e07c47723",
+  "fetched": "2026-11-03T03:50:36Z",
+  "chars": 27243,
+  "portal_id": "162897",
+  "tip": "DECIZIE"
+ }
+}
