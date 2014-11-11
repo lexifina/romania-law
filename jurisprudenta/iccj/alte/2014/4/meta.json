@@ -1,0 +1,192 @@
+{
+ "key": "iccj-alte-4-2014",
+ "label": "Decizia ÎCCJ nr. 4/2014",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "alte",
+ "number": "4",
+ "date": "2014-09-29",
+ "year": "2014",
+ "heading": "DECIZIE nr. 4 din 29 septembrie 2014",
+ "subtitle": "privind interpretarea şi aplicarea unitară a dispoziţiilor art. 203 alin. (5) şi art. 425^1 alin. (1) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE",
+ "mo": {
+  "number": "821",
+  "bis": false,
+  "date": "2014-11-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "203",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de Colegiul de conducere al Curţii de Apel Braşov şi, în consecinţă:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 203 alin. (5) şi art. 425^1 alin. (1) din Codul de procedură penală stabileşte că în cursul urmăririi penale şi al procedurii de cameră preliminară contestaţia împotriva încheierii judecătorului de drepturi şi libertăţi sau, după caz, a judecătorului de cameră preliminară privitoare la măsurile preventive se soluţionează în camera de consiliu, prin încheiere motivată, care se pronunţă în camera de consiliu.",
+  "Obligatorie, potrivit dispoziţiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "203",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425-1",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "474",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "352",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 3/2014",
+    "number": "3",
+    "year": "2014",
+    "path": "oug/2014/3"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-11-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/162902",
+  "text_sha256": "03663b356ea9ca5d6de4f080da9483e1a208b2423f27ce22e3db9e22af869607",
+  "catalogue_sha256": "03663b356ea9ca5d6de4f080da9483e1a208b2423f27ce22e3db9e22af869607",
+  "fetched": "2026-11-03T03:50:36Z",
+  "chars": 26129,
+  "portal_id": "162902",
+  "tip": "DECIZIE"
+ }
+}
