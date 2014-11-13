@@ -1,0 +1,6 @@
+Consiliul Local al municipiului Husi, judetul Vaslui;
+Avand in vedere: expunerea de motive privind aprobarea cuantumului tarifelor utilizate de S.C. ECOSALUBRIZARE PREST S.R.L. –HUSI pentru prestarea serviciilor de salubrizare pe raza municipiului Husi incepand cu data de 01.10.2014; raportul de avizare al Comisiei pentru invatamant, culte, tineret, turism, sanatate, munca, protectie sociala, protectia copilului, familie. raportul de avizare al Comisiei de studii, prognoze si programe economico-sociale, buget, finante, privatizare, servicii publice si comert.
+In conformitate cu prevederile Legii serviciilor comunitare de utilitati publice nr.51/2006 republicata, Legii nr. 123/2014 pentru modificarea legii nr.
+571/20013 privind Codul fiscal si Ordonanta de Urgenta a Guvernului nr.34/19.04.2006 privind atribuirea contractelor de achizitie publica, a contractelor de concesiune de lucrari si contractelor de concesiune de servicii, aprobata prin Legea nr. 337/2006 si cu prevederile art.36 alin.(2) lit .d) coroborat cu art.36 alin.(6) lit.a) pct.14 din Legea nr. 215/2001 privind administratia publica locala, republicata, cu modificarile si completarile ulterioare;
+In temeiul art. 45 alin (2) din Legea nr. 215/2001 privind administratia publica locala, republicata, cu modificarile si completarile ulterioare;
+HOTARASTE:
