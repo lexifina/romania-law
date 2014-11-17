@@ -1,0 +1,13 @@
+# Anexa nr. 2 la procedură (Model) (Autoritatea publică centrală din domeniul apelor)
+AVIZ de expert pentru evaluarea stării de siguranță în exploatare a barajelor încadrate în categoriile de importanță C și D nr.......... din...............
+În baza prevederilor Ordonanței de urgență a Guvernului nr. 244/2000 privind siguranța barajelor, republicată, cu modificările ulterioare, ale Ordinului ministrului delegat pentru ape, păduri și piscicultură nr. 917/2014 pentru aprobarea Regulamentului privind organizarea și certificarea corpurilor de experți pentru evaluarea stării de siguranță în exploatare a barajelor încadrate în categoriile de importanță A și B, NTLH-014, și a Procedurii de avizare a experților pentru evaluarea stării de siguranță în exploatare a barajelor încadrate în categoriile de importanță C și D, NTLH-015, ale Ordinului nr....../........ pentru aprobarea componenței nominale a Comisiei de avizare a corpurilor de experți pentru evaluarea stării de siguranță în exploatare a barajelor încadrate în categoriile de importanță C și D și ale Procesului-verbal nr...... din data de...... al comisiei de avizare, Se precizează denumirea conducătorului autorității publice centrale din domeniul apelor. (Autoritatea publică centrală din domeniul apelor) emite următorul
+AVIZ
+Domnul/Doamna......., domiciliat/domiciliată în........, str....... nr....., județul/sectorul....., bl....., sc....., ap....., codul numeric personal....., buletin/carte de identitate seria.... nr....., eliberat/eliberată de........ la data de........, având atestatul de expert tehnic/verificator de proiect nr....., eliberat de autoritatea publică centrală din domeniul lucrărilor publice, este avizat/avizată ca expert pentru evaluarea stării de siguranță în exploatare a barajelor încadrate în categoriile de importanță C și D, în domeniul.........., pentru o perioadă de 5 (cinci) ani.
+Prezentul aviz a fost emis la data de....... și este valabil până la data de........
+Președintele comisiei de avizare,...................................................... (numele, prenumele, funcția, semnătura și parafa reprezentantului conducerii autorității publice centrale din domeniul apelor)
+Expert avizat,................................... (ștampila și semnătura expertului)
+Prezentul aviz a fost emis în două exemplare, egal valabile.
+Exemplarul nr. 1 din 2
+NOTĂ: Exemplarul nr. 2 din 2 al avizului se contrasemnează de vicepreședintele și secretarul comisiei de avizare.
+În cazul prelungirii avizelor de expert, care se încadrează în prevederile art. 10 alin. (2) din procedură, se va menționa în aviz recomandarea unei/unor asociații profesionale reprezentative pentru domeniu.
+---
