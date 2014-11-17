@@ -1,0 +1,204 @@
+{
+ "key": "iccj-hp-12-2014",
+ "label": "Decizia ÎCCJ nr. 12/2014 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "12",
+ "date": "2014-10-20",
+ "year": "2014",
+ "heading": "DECIZIE nr. 12 din 20 octombrie 2014",
+ "subtitle": "privind caracterul discriminatoriu al dispoziţiilor cuprinse în Ordonanţa de urgenţă a Guvernului nr. 9/2013 privind timbrul de mediu pentru autovehicule, aprobată cu modificări şi completări prin Legea nr. 37/2014, în raportare la dispoziţiile comunitare cu care intră în conflict",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "834",
+  "bis": false,
+  "date": "2014-11-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8/1/2014",
+  "7/1/2014",
+  "8.064/118/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 9/2013",
+    "number": "9",
+    "year": "2013",
+    "path": "oug/2013/9"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Constanţa - Secţia a II-a civilă, de contencios administrativ şi fiscal în vederea pronunţării unei hotărâri prealabile cu privire la problema de drept privind caracterul discriminatoriu al dispoziţiilor cuprinse în Ordonanţa de urgenţă a Guvernului nr. 9/2013 privind timbrul de mediu pentru autovehicule, aprobată cu modificări şi completări prin Legea nr. 37/2014, în raportare la dispoziţiile comunitare cu care intră în conflict.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 9/2013",
+    "number": "9",
+    "year": "2013",
+    "path": "oug/2013/9"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului administraţiei şi internelor nr. 1.501/2006",
+    "number": "1501",
+    "year": "2006"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/2012",
+    "number": "9",
+    "year": "2012",
+    "path": "lege/2012/9"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-11-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/163018",
+  "text_sha256": "c0ba67e10e93d767e1aaf381a1d90025a705e89a254a1ac7516b08237aced7f2",
+  "catalogue_sha256": "c0ba67e10e93d767e1aaf381a1d90025a705e89a254a1ac7516b08237aced7f2",
+  "fetched": "2026-11-03T03:50:29Z",
+  "chars": 34436,
+  "portal_id": "163018",
+  "tip": "DECIZIE"
+ }
+}
