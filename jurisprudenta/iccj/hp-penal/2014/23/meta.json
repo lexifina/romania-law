@@ -1,0 +1,181 @@
+{
+ "key": "iccj-hp-penal-23-2014",
+ "label": "Decizia ÎCCJ nr. 23/2014 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "23",
+ "date": "2014-10-06",
+ "year": "2014",
+ "heading": "DECIZIE nr. 23 din 6 octombrie 2014",
+ "subtitle": "privind examinarea sesizării formulată de Curtea de Apel Craiova, prin care se solicită Înaltei Curţi de Casaţie şi Justiţie pronunţarea unei hotărâri prealabile în vederea dezlegării de principiu a următoarei chestiuni de drept: admisibilitatea unei cereri de strămutare în procedura de cameră preliminară în care se verifică plângerea formulată împotriva soluţiei procurorului de neurmărire penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "843",
+  "bis": false,
+  "date": "2014-11-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "25/1/2014",
+  "1.103/54/2014",
+  "547/213/2014"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Craiova în Dosarul nr. 1.103/54/2014 privind pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept referitoare la admisibilitatea unei cereri de strămutare în procedura de cameră preliminară în care se verifică plângerea formulată împotriva soluţiei procurorului de neurmărire penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 54
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/163101",
+  "text_sha256": "a1c5c784868307efbc56f351583f3d5246338fe20ee011f2c1869208f0ea04ef",
+  "catalogue_sha256": "a1c5c784868307efbc56f351583f3d5246338fe20ee011f2c1869208f0ea04ef",
+  "fetched": "2026-11-03T03:50:24Z",
+  "chars": 47609,
+  "portal_id": "163101",
+  "tip": "DECIZIE"
+ }
+}
