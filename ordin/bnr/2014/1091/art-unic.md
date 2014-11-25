@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a SOCIETĂȚII DE INVESTIȚII MOLDOVA I.F.N. - S.A., cu sediul în Iași, Șoseaua Națională nr. 57, bl. A1, județul Iași, înregistrată la Oficiul Registrului Comerțului cu nr. J22/1930/2004, cod unic de înregistrare 16764233, înscrisă în Registrul general al instituțiilor financiare nebancare cu nr. RG-PJR-24-080155, la secțiunea h) "Leasing financiar".
