@@ -1,0 +1,33 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) NR. 1227/2014 AL COMISIEI
+din 17 noiembrie 2014
+de stabilire a unei rate de ajustare a plăților directe prevăzute de Regulamentul (CE) nr. 73/2009 al Consiliului pentru anul calendaristic 2014 și de abrogare a Regulamentului de punere în aplicare (UE) nr. 879/2014 al Comisiei
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 1306/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentelor (CEE) nr. 352/78, (CE) nr. 165/94, (CE) nr. 2799/98, (CE) nr. 814/2000, (CE) nr. 1290/2005 și (CE) nr. 485/2008 ale Consiliului (1), în special articolul 26 alineatul (4),
+după consultarea Comitetului pentru fondurile agricole,
+întrucât:
+(1) La 21 martie 2014, Comisia a adoptat o propunere de regulament al Parlamentului European și al Consiliului privind stabilirea unei rate de ajustare a plăților directe prevăzute de Regulamentul (CE) nr. 73/2009 al Consiliului pentru anul calendaristic 2014 (2). Parlamentul European și Consiliul nu stabiliseră respectiva rată de ajustare până la 30 iunie 2014. Prin urmare, în conformitate cu articolul 26 alineatul (3) din Regulamentul (UE) nr. 1306/2013, Comisia a stabilit rata de ajustare în Regulamentul de punere în aplicare (UE) nr. 879/2014 al Comisiei (3).
+(2) Previziunile pentru plățile directe și cheltuielile legate de piață incluse în scrisoarea rectificativă nr. 1 a Comisiei la proiectul de buget 2015 arată necesitatea de a adapta rata mecanismului de disciplină financiară care a fost luată în considerare în proiectul de buget 2015. Respectiva scrisoare rectificativă a fost întocmită ținând seama de un cuantum al disciplinei financiare de 433 de milioane EUR pentru rezerva pentru situații de criză în sectorul agricol menționată la articolul 25 din Regulamentul (UE) nr. 1306/2013. Pentru a ține seama de aceste noi informații, Comisia ar trebui să adapteze rata de ajustare stabilită în Regulamentul de punere în aplicare (UE) nr. 879/2014.
+(3) Ca regulă generală, fermierii care depun o cerere de ajutor pentru plăți directe pentru un an calendaristic (N) primesc sumele aferente într-o anumită perioadă de plată care ține de exercițiul financiar (N + 1). Cu toate acestea, în anumite limite, statele membre au posibilitatea de a efectua cu întârziere plățile către fermieri dincolo de respectiva perioadă de plată, fără nicio limită de timp. Astfel de plăți efectuate cu întârziere pot fi incluse într-un exercițiu financiar ulterior. Atunci când disciplina financiară este aplicată pentru un anumit an calendaristic, rata de ajustare nu ar trebui să se aplice plăților pentru care cererile de ajutor au fost depuse în alți ani calendaristici decât cel pentru care se aplică disciplina financiară. Prin urmare, pentru a se garanta tratamentul egal al fermierilor, este necesar să se prevadă că rata de ajustare se aplică numai plăților pentru care s-au depus cereri de ajutor în anul calendaristic pentru care se aplică disciplina financiară, independent de momentul în care sunt efectuate plățile către fermieri.
+(4) La articolul 8 alineatul (1) din Regulamentul (UE) nr. 1307/2013 al Parlamentului European și al Consiliului (4) se prevede că rata de ajustare aplicată plăților directe stabilită în conformitate cu articolul 26 din Regulamentul (UE) nr. 1306/2013 se aplică numai plăților directe care depășesc 2 000 EUR și care urmează să fie acordate fermierilor în anul calendaristic corespunzător. În plus, articolul 8 alineatul (2) din Regulamentul (UE) nr. 1307/2013 prevede că, în urma introducerii progresive a plăților directe, rata de ajustare se aplică Bulgariei și României numai de la 1 ianuarie 2016, iar Croației numai de la 1 ianuarie 2022. Prin urmare, rata de ajustare care urmează să fie stabilită prin prezentul regulament ar trebui să nu se aplice plăților către fermierii din respectivele state membre.
+(5) Pentru a garanta că rata de ajustare adaptată este aplicabilă începând cu data de la care încep să se efectueze plățile către fermieri în conformitate cu Regulamentul (UE) nr. 1306/2013, prezentul regulament ar trebui să se aplice de la 1 decembrie 2014.
+(6) Rata de ajustare adaptată ar trebui luată în considerare la calculul tuturor plăților care urmează să fie acordate unui fermier pentru o cerere de ajutor depusă pentru anul calendaristic 2014. În scopul clarității, ar trebui, prin urmare, să fie abrogat Regulamentul de punere în aplicare (UE) nr. 879/2014,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+(1) În scopul de a aplica ajustarea prevăzută la articolele 25 și 26 din Regulamentul (UE) nr. 1306/2013 și în conformitate cu articolul 8 alineatul (1) din Regulamentul (UE) nr. 1307/2013, valoarea plăților în sensul articolului 2 litera (d) din Regulamentul (CE) nr. 73/2009 al Consiliului (5), care urmează să fie acordate unui fermier și care depășesc 2 000 EUR pentru o cerere de ajutor depusă pentru anul calendaristic 2014, se reduce cu 1,302214 %.
+(2) Reducerea prevăzută la alineatul (1) nu se aplică în Bulgaria, Croația și România.
+Articolul 2
+Regulamentul de punere în aplicare (UE) nr. 879/2014 se abrogă.
+Articolul 3
+Prezentul regulament intră în vigoare în a șaptea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 1 decembrie 2014.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 17 noiembrie 2014.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 347, 20.12.2013, p. 549.
+(2) COM(2014) 175.
+(3) Regulamentul de punere în aplicare (UE) nr. 879/2014 al Comisiei din 12 august 2014 privind stabilirea unei rate de ajustare a plăților directe prevăzute de Regulamentul (CE) nr. 73/2009 al Consiliului pentru anul calendaristic 2014 (JO L 240, 13.8.2014, p. 20).
+(4) Regulamentul (UE) nr. 1307/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de stabilire a unor norme privind plățile directe acordate fermierilor prin scheme de sprijin în cadrul politicii agricole comune și de abrogare a Regulamentului (CE) nr. 637/2008 al Consiliului și a Regulamentului (CE) nr. 73/2009 al Consiliului (JO L 347, 20.12.2013, p. 608).
+(5) Regulamentul (CE) nr. 73/2009 al Consiliului din 19 ianuarie 2009 de stabilire a unor norme comune pentru sistemele de ajutor direct pentru agricultori în cadrul politicii agricole comune și de instituire a anumitor sisteme de ajutor pentru agricultori, de modificare a Regulamentelor (CE) nr. 1290/2005, (CE) nr. 247/2006, (CE) nr. 378/2007 și de abrogare a Regulamentului (CE) nr. 1782/2003 (JO L 30, 31.1.2009, p. 16).
