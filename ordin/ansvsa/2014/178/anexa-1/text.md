@@ -1,0 +1,8 @@
+# Anexa nr. 1
+Anexa (Anexa nr. 1 la norma sanitară veterinară) BOLILE CARE FAC OBIECTUL NOTIFICĂRII A. Boli ale animalelor terestre Lista A.1: 1. Pesta cabalină africană 2. Pesta porcină africană 3. Antrax 4. Gripa aviară (HPAI la păsările de curte, păsările captive și la păsările sălbatice și LPAI la păsările de curte și la păsările captive) 5. Boala limbii albastre 6. Encefalopatia spongiformă bovină 7. Pesta porcină clasică 8. Pleuropneumonia contagioasă bovină 9. Durina 10. Encefalomielita ecvină de următoarele tipuri:
+a) Encefalomielita ecvină de est
+b) Encefalita japoneză
+c) Encefalomielita ecvină venezueleană
+d) Febra West Nile
+e) Encefalomielita ecvină de vest
+11. Anemia infecțioasă ecvină 12. Febra aftoasă 13. Morva 14. Dermatoza nodulară contagioasă 15. Boala Newcastle 16. Pesta micilor rumegătoare 17. Infecția cu virusul rabic 18. Febra Văii de Rift 19. Pesta bovină 20. Variola ovină și caprină 21. Infestație cu gândacul mic de stup (Aethina tumida) 22. Boala veziculoasă a porcului 23. Infestație cu Tropilaelaps la albine 24. Stomatita veziculoasă Lista A.2: 1. Bruceloza bovină 2. Tuberculoza bovină 3. Leucoza bovină enzootică 4. Bruceloza caprină și ovină (cu excepția Brucella ovis) B. Boli ale animalelor de acvacultură 1. Necroză hematopoietică epizootică 2. Necroza hematopoietică infecțioasă 3. Anemia infecțioasă a somonului 4. Infecția cu Perkinsus marinu 5. Infecția cu Mikrocytos mackini 6. Infecția cu Marteilia refringens 7. Infecția cu Bonamia ostreae 8. Infecția cu Bonamia exitiosa 9. Boala cu virusul herpes Koi 10. Sindromul Taura 11. Septicemia hemoragică virală 12. Boala petelor albe 13. Boala capului galben -------
