@@ -1,0 +1,9 @@
+# HCL Valea lui Mihai nr. 97/2014
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Orașului Valea lui Mihai
+- Decision: nr. 97/2014
+- Adopted: 2014-11-28
+- Document: https://valealuimihai.ro/wp-content/uploads/2021/09/hot.097-din-28.11.2014.pdf
+- Document sha256: f899de714a7642c52c416243cf85d16f06569034ecbaead20f227f7851eaa5e4
