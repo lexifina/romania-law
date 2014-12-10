@@ -1,0 +1,192 @@
+{
+ "key": "dcc-507-2014",
+ "label": "Decizia CCR nr. 507/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "507",
+ "date": "2014-10-07",
+ "year": "2014",
+ "heading": "DECIZIE nr. 507 din 7 octombrie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 alin. (3) lit. g) şi h), art. 62, 63 şi 64 din Ordonanţa Guvernului nr. 27/2011 privind transporturile rutiere",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "898",
+  "bis": false,
+  "date": "2014-12-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "885/39/2013",
+  "201D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 6 alin. (3) lit. g) şi h), art. 62, 63 şi 64 din Ordonanţa Guvernului nr. 27/2011 privind transporturile rutiere, excepţie ridicată de Aurel Piroş în Dosarul nr. 885/39/2013 al Curţii de Apel Suceava - Secţia a II-a civilă, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Suceava - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor nr. 733/2013",
+    "number": "733",
+    "year": "2013"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2014-12-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/163711",
+  "text_sha256": "5380c77f9420661bed184658074fa200809a7d559b0ca961112181accf0d17c3",
+  "catalogue_sha256": "5380c77f9420661bed184658074fa200809a7d559b0ca961112181accf0d17c3",
+  "fetched": "2026-11-03T03:49:36Z",
+  "chars": 10282,
+  "portal_id": "163711",
+  "tip": "DECIZIE"
+ }
+}
