@@ -1,0 +1,16 @@
+# Anexa D2 la norme
+- Model de raport de încercare a gazolinei -
+UNITATEA.............
+RAPORT DE ÎNCERCARE nr....... data..........
+Gazolină probă......... din rezervor (tanc) nr.............
+Predat de.............
+```
+┌───────────────────┬──────┬────────────────┬─────────────────────┬────────────┐
+│Caracteristici     │ U.M. │ Valoare admisă │ Valoare determinată │  Metoda de │
+│                   │      │                │                     │  încercare │
+├───────────────────┼──────┼────────────────┼─────────────────────┼────────────┤
+│ Densitate         │g/cmc │                │                     │            │
+└───────────────────┴──────┴────────────────┴─────────────────────┴────────────┘
+```
+Expeditor,
+Transportator,...........................
