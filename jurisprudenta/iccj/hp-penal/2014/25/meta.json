@@ -1,0 +1,370 @@
+{
+ "key": "iccj-hp-penal-25-2014",
+ "label": "Decizia ÎCCJ nr. 25/2014 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "25",
+ "date": "2014-11-17",
+ "year": "2014",
+ "heading": "DECIZIE nr. 25 din 17 noiembrie 2014",
+ "subtitle": "privind examinarea pronunţării unei hotărâri în faza de urmărire penală, în procedura acordului de recunoaştere a vinovăţiei, de a reţine în încadrarea juridică dată faptei inculpatului şi dispoziţiile art. 396 alin. (10) din Codul de procedură penală, cu consecinţe directe asupra reducerii limitelor de pedeapsă prevăzute de lege pentru infracţiunea săvârşită",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "935",
+  "bis": false,
+  "date": "2014-12-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "27/1/2014",
+  "10.204/233/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "484",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "485",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de către Curtea de Apel Galaţi -- Secţia penală şi pentru cauze cu minori în Dosarul nr. 10.204/233/2014, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept referitoare la posibilitatea procurorului, în faza de urmărire penală, în procedura acordului de recunoaştere a vinovăţiei, de a reţine în încadrarea juridică dată faptei inculpatului şi dispoziţiile art. 396 alin. 10 din Codul de procedură penală, cu consecinţe directe asupra reducerii limitelor de pedeapsă prevăzute de lege pentru infracţiunea săvârşită.",
+  "În aplicarea dispoziţiilor art. 480-485 din Codul de procedură penală stabileşte că procurorul nu poate, în faza de urmărire penală, în procedura acordului de recunoaştere a vinovăţiei, să reţină dispoziţiile art. 396 alin. (10) din Codul de procedură penală, cu consecinţe directe asupra reducerii limitelor de pedeapsă prevăzute de lege pentru infracţiunea săvârşită.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": [
+      "10",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "485",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "480",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "479",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "484",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "487",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "374",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "377",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "395",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 115
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "342",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2014-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164073",
+  "text_sha256": "24a4fc1531b434efc84acb09023f90c2ab7b89bfafdb16ac8219ccc7d5070bb8",
+  "catalogue_sha256": "24a4fc1531b434efc84acb09023f90c2ab7b89bfafdb16ac8219ccc7d5070bb8",
+  "fetched": "2026-11-03T03:49:13Z",
+  "chars": 74437,
+  "portal_id": "164073",
+  "tip": "DECIZIE"
+ }
+}
