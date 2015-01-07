@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea instituției financiare nebancare Societatea Comercială DOMENIA CREDIT I.F.N. - S.A. din Registrul general și Registrul special, cu sediul în București, str. Fabrica de Glucoză nr. 5, Novo Park 3, clădirea F, sectorul 2, înregistrată la Registrul Comerțului cu nr. J40/2974/2003, cod unic de înregistrare 15247743, înscrisă în Registrul general și Registrul special la secțiunea h) "Activități multiple de creditare" cu nr. RG-PJR-41-110048, respectiv RS-PJR-41-110008.
