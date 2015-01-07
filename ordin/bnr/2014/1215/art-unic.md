@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale METROPOLITAN 10 IMPEX IFN - S.A., cu sediul în București, Calea Călărașilor nr. 175, bl. 44, sc. C, ap. 80, sectorul 3, înregistrată la Oficiul Registrului Comerțului cu nr. J40/2185/1993, cod unic de înregistrare 3148576, înscrisă în Registrul general la secțiunea k) "Activități multiple de creditare" cu nr. RG-PJR-41-110105.
