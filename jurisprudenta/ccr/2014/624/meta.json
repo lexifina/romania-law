@@ -1,0 +1,188 @@
+{
+ "key": "dcc-624-2014",
+ "label": "Decizia CCR nr. 624/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "624",
+ "date": "2014-11-04",
+ "year": "2014",
+ "heading": "DECIZIE nr. 624 din 4 noiembrie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. XI alin. (1) din Ordonanţa Guvernului nr. 30/2011 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, precum şi pentru reglementarea unor măsuri financiar-fiscale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "25",
+  "bis": false,
+  "date": "2015-01-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "144/35/2012",
+  "452D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 30/2011",
+    "number": "30",
+    "year": "2011",
+    "path": "og/2011/30"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. XI alin. (1) din Ordonanţa Guvernului nr. 30/2011 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, precum şi pentru reglementarea unor măsuri financiar-fiscale, excepţie ridicată de S.C. \"Scandic Distilleries\" - S.A. din comuna Drăgăneşti, judeţul Bihor, în Dosarul nr. 144/35/2012 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 30/2011",
+    "number": "30",
+    "year": "2011",
+    "path": "og/2011/30"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanţelor publice nr. 2.604/2011",
+    "number": "2604",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 2.604/2011",
+    "number": "2604",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-01-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164597",
+  "text_sha256": "15aea8e17c1bdda2938d71f72b4821ef1a200c8bf2f5297254218fe3a1ae0cf6",
+  "catalogue_sha256": "15aea8e17c1bdda2938d71f72b4821ef1a200c8bf2f5297254218fe3a1ae0cf6",
+  "fetched": "2026-11-03T03:48:26Z",
+  "chars": 17969,
+  "portal_id": "164597",
+  "tip": "DECIZIE"
+ }
+}
