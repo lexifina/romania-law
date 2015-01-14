@@ -1,0 +1,243 @@
+{
+ "key": "dcc-625-2014",
+ "label": "Decizia CCR nr. 625/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "625",
+ "date": "2014-11-04",
+ "year": "2014",
+ "heading": "DECIZIE nr. 625 din 4 noiembrie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 59 alin. (2), art. 60 alin. (1) şi ale art. 62 alin. (3) din Legea nr. 360/2002 privind Statutul poliţistului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "30",
+  "bis": false,
+  "date": "2015-01-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.226/121/2007",
+  "495D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 59 alin. (2), art. 60 alin. (1) şi ale art. 62 alin. (3) din Legea nr. 360/2002 privind Statutul poliţistului, excepţie ridicată de Nicuşor Teodorescu în Dosarul nr. 1.226/121/2007* al Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 400/2004",
+    "number": "400",
+    "year": "2004"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-01-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164624",
+  "text_sha256": "bdf4b2b546517872feabd16e1a08958c970a19027601a16df78038fb8def52f6",
+  "catalogue_sha256": "bdf4b2b546517872feabd16e1a08958c970a19027601a16df78038fb8def52f6",
+  "fetched": "2026-11-03T03:48:25Z",
+  "chars": 18360,
+  "portal_id": "164624",
+  "tip": "DECIZIE"
+ }
+}
