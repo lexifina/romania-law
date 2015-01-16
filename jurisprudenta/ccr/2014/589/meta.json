@@ -1,0 +1,201 @@
+{
+ "key": "dcc-589-2014",
+ "label": "Decizia CCR nr. 589/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "589",
+ "date": "2014-10-21",
+ "year": "2014",
+ "heading": "DECIZIE nr. 589 din 21 octombrie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 105 din Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală şi pentru modificarea şi completarea unor acte normative care cuprind dispoziţii procesual penale",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "39",
+  "bis": false,
+  "date": "2015-01-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.517/100/2014",
+  "315D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Ioan Ivanciuc în Dosarul nr. 1.517/100/2014 al Tribunalului Maramureş - Secţia penală - Judecătorul de drepturi şi libertăţi şi constată că dispoziţiile art. 105 din Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală şi pentru modificarea şi completarea unor acte normative care cuprind dispoziţii procesual penale sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Maramureş - Secţia penală - Judecătorul de drepturi şi libertăţi şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 135/2010",
+    "number": "135",
+    "year": "2010",
+    "path": "lege/2010/135"
+   },
+   "articles": [
+    {
+     "art": "488-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-01-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164697",
+  "text_sha256": "90f5edc55fe7e37364856ba8c9e04cfb968063421ed8f526db97073c363b4b27",
+  "catalogue_sha256": "90f5edc55fe7e37364856ba8c9e04cfb968063421ed8f526db97073c363b4b27",
+  "fetched": "2026-11-03T03:48:19Z",
+  "chars": 14850,
+  "portal_id": "164697",
+  "tip": "DECIZIE"
+ }
+}
