@@ -1,0 +1,2 @@
+ÎNCHEIERE din 28 iunie 2011  referitoare la calcularea pensiilor de serviciu     EMITENT     CURTEA DE APEL BUCUREŞTI - SECŢIA A VIII- A CONTENCIOS ADMINISTRATIV ŞI FISCAL       Publicat în
+			  MONITORUL OFICIAL nr. 42 din 19 ianuarie 2015     Curtea, în aceeaşi constituire şi pentru aceleaşi motive,  DISPUNE:  Amână pronunţarea la data de 5.07.2011.  Pronunţată în şedinţă publică azi, 28.06.2011.  PREŞEDINTE,  ALINA ŞUŢU  Grefier,  Miron-Cornel Olaru  -----
