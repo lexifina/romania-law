@@ -1,0 +1,76 @@
+{
+ "key": "iccj-scaf-3912-2014",
+ "label": "Decizia ÎCCJ nr. 3912/2014 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3912",
+ "date": "2014-10-21",
+ "year": "2014",
+ "heading": "DECIZIE nr. 3.912 din 21 octombrie 2014",
+ "subtitle": "referitoare la calcularea pensiilor de serviciu",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "42",
+  "bis": false,
+  "date": "2015-01-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "dossiers": [
+  "11.879/2/2010"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge cererea de repunere pe rol formulată de recurentul Ministerul Muncii, Familiei, Protecţiei Sociale şi Persoanelor Vârstnice.",
+  "Admite excepţia perimării recursurilor.",
+  "Constată perimate recursurile declarate de pârâţii Guvernul României, Ministerul Muncii, Familiei, Protecţiei Sociale şi Persoanelor Vârstnice şi Casa Naţională de Pensii Publice împotriva Sentinţei civile nr. 4.660 din 5 iulie 2011 a Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 737/2010",
+    "number": "737",
+    "year": "2010",
+    "path": "hg/2010/737"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-01-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164731",
+  "text_sha256": "0bc95c81d1ce85ccc8790a4eb2341a7ff558ce9932d91389eaf41edcdfcf3a18",
+  "catalogue_sha256": "0bc95c81d1ce85ccc8790a4eb2341a7ff558ce9932d91389eaf41edcdfcf3a18",
+  "fetched": "2026-11-03T03:48:18Z",
+  "chars": 14873,
+  "portal_id": "164731",
+  "tip": "DECIZIE"
+ }
+}
