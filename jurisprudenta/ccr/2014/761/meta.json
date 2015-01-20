@@ -1,0 +1,433 @@
+{
+ "key": "dcc-761-2014",
+ "label": "Decizia CCR nr. 761/2014",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "761",
+ "date": "2014-12-17",
+ "year": "2014",
+ "heading": "DECIZIE nr. 761 din 17 decembrie 2014",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a dispoziţiilor Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 55/2014 pentru reglementarea unor măsuri privind administraţia publică locală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "46",
+  "bis": false,
+  "date": "2015-01-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.290A/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 55/2014",
+    "number": "55",
+    "year": "2014",
+    "path": "lege/2014/55"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 55/2014",
+    "number": "55",
+    "year": "2014",
+    "path": "oug/2014/55"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "1. Admite obiecţia de neconstituţionalitate formulată şi constată că prevederile Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 55/2014 pentru reglementarea unor măsuri privind administraţia publică locală sunt neconstituţionale. 2. Parlamentul, în baza art. 115 alin. (8) şi art. 147 alin. (2) din Constituţie, urmează să reglementeze, prin legea de respingere, măsurile necesare cu privire la efectele juridice produse pe perioada de aplicare a Ordonanţei de urgenţă a Guvernului nr. 55/2014 pentru a le pune de acord cu decizia Curţii Constituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului şi primului-ministru şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 55/2014",
+    "number": "55",
+    "year": "2014",
+    "path": "lege/2014/55"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6",
+      "7",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 75
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2",
+      "2-1"
+     ],
+     "lit": [
+      "h-1"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g-1"
+     ]
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 55/2014",
+    "number": "55",
+    "year": "2014",
+    "path": "oug/2014/55"
+   },
+   "articles": [],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 249/2006",
+    "number": "249",
+    "year": "2006",
+    "path": "lege/2006/249"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 33/2001",
+    "number": "33",
+    "year": "2001",
+    "path": "oug/2001/33"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 743/2001",
+    "number": "743",
+    "year": "2001",
+    "path": "lege/2001/743"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 631/2002",
+    "number": "631",
+    "year": "2002",
+    "path": "lege/2002/631"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 507/2003",
+    "number": "507",
+    "year": "2003",
+    "path": "lege/2003/507"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164759",
+  "text_sha256": "a2c69eb5e1d550e8d8e7525ec2831c2fd568cec6f2570ae4d1b5f754f61904e4",
+  "catalogue_sha256": "a2c69eb5e1d550e8d8e7525ec2831c2fd568cec6f2570ae4d1b5f754f61904e4",
+  "fetched": "2026-11-03T03:48:16Z",
+  "chars": 83884,
+  "portal_id": "164759",
+  "tip": "DECIZIE"
+ }
+}
