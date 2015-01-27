@@ -1,0 +1,7 @@
+# Anexa nr. 4: 1D (Modelul filei curente autocopiativă din carnetul de comercializare a produselor din sectorul agricol) Seria....... Nr......... VÂNZĂTOR CUMPĂRĂTOR Numele, prenumele......... Numele, prenumele/Denu
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial. Its tables are shown row by row as the official text draws them.
+
+- Official web service (FreeWebService) document: 165162 (https://legislatie.just.ro/Public/DetaliiDocument/165162)
+- sha256 of that document's text as the service returned it: 47f3a2b32c78c790137e6ed59605e413c8f94eb6564f570b47c34804c0df75eb
+- Retrieved: 2026-11-03
