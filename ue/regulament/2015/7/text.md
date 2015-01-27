@@ -1,0 +1,39 @@
+REGULAMENTUL (UE) 2015/7 AL COMISIEI
+din 6 ianuarie 2015
+de autorizare a unei mențiuni de sănătate înscrise pe produsele alimentare, alta decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor, și de modificare a Regulamentului (UE) nr. 432/2012
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1924/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 privind mențiunile nutriționale și de sănătate înscrise pe produsele alimentare (1), în special articolul 18 alineatul (4),
+întrucât:
+(1) Regulamentul (CE) nr. 1924/2006 prevede că mențiunile de sănătate înscrise pe produsele alimentare sunt interzise, cu excepția cazului în care sunt autorizate de Comisie în conformitate cu regulamentul respectiv și incluse într-o listă de mențiuni permise.
+(2) În temeiul articolului 13 alineatul (3) din Regulamentul (CE) nr. 1924/2006, s-a adoptat Regulamentul (UE) nr. 432/2012 al Comisiei (2) de stabilire a unei liste de mențiuni de sănătate permise, înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor.
+(3) Regulamentul (CE) nr. 1924/2006 prevede, de asemenea, obligația operatorilor din sectorul alimentar de a depune cererile de autorizare a mențiunilor de sănătate la autoritatea națională competentă a unui stat membru. Autoritatea națională competentă transmite cererile valabile către Autoritatea Europeană pentru Siguranța Alimentară (EFSA), denumită în continuare „autoritatea”, în vederea efectuării unei evaluări științifice, precum și către Comisie și statele membre în scop informativ.
+(4) Comisia trebuie să decidă cu privire la autorizarea mențiunilor de sănătate, ținând seama de avizul emis de autoritate.
+(5) Pentru a stimula inovarea, mențiunile de sănătate care se bazează pe dovezi științifice stabilite recent și/sau care includ o cerere de protecție a datelor care fac obiectul unor drepturi de proprietate ar trebui să fie supuse unei proceduri accelerate de autorizare.
+(6) Ca urmare a unei cereri din partea Aptonia, transmisă în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, s-a solicitat autorității să emită un aviz cu privire la o mențiune de sănătate referitoare la glucide și recuperarea funcționării normale a mușchilor (contracții) după exerciții intense (întrebarea nr. EFSA-Q-2013-00234) (3). Mențiunea (de sănătate) propusă de solicitant a fost formulată după cum urmează: „Glucidele contribuie la refacerea nivelului glicogenului muscular în urma exercițiilor intense”.
+(7) La 25 octombrie 2013, Comisia și statele membre au primit avizul științific din partea autorității, care concluziona că, pe baza datelor prezentate, s-a stabilit o relație cauză-efect între consumul de glucide și efectul menționat. În consecință, o mențiune de sănătate care reflectă această concluzie ar trebui considerată conformă cu cerințele Regulamentului (CE) nr. 1924/2006 și ar trebui inclusă în lista mențiunilor permise a Uniunii, stabilită prin Regulamentul (UE) nr. 432/2012.
+(8) Unul dintre obiectivele Regulamentului (CE) nr. 1924/2006 este acela de a asigura veridicitatea, claritatea, fiabilitatea și utilitatea mențiunilor de sănătate pentru consumatori și faptul că formularea și prezentarea sunt luate în considerare în acest sens. Prin urmare, în situația în care formularea mențiunilor utilizate de solicitant are același înțeles pentru consumatori ca cea a unei mențiuni de sănătate autorizate, deoarece demonstrează că există aceeași relație între o categorie de alimente, un aliment sau unul dintre constituenții săi și sănătate, acestea ar trebui să facă obiectul acelorași condiții de utilizare ca cele indicate în anexa la prezentul regulament.
+(9) În conformitate cu articolul 20 din Regulamentul (CE) nr. 1924/2006, registrul privind mențiunile nutriționale și de sănătate, care conține toate mențiunile de sănătate autorizate, ar trebui să fie actualizat pentru a lua în considerare prezentul regulament.
+(10) La stabilirea măsurilor prevăzute de prezentul regulament au fost luate în considerare observațiile solicitantului și ale publicului, primite de Comisie în temeiul articolului 16 alineatul (6) din Regulamentul (CE) nr. 1924/2006.
+(11) Prin urmare, Regulamentul (UE) nr. 432/2012 ar trebui modificat în consecință.
+(12) Statele membre au fost consultate,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Mențiunea de sănătate prezentată în anexa la prezentul regulament se include în lista mențiunilor permise a Uniunii, prevăzută la articolul 13 alineatul (3) din Regulamentul (CE) nr. 1924/2006.
+Articolul 2
+Anexa la Regulamentul (UE) nr. 432/2012 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 6 ianuarie 2015.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 404, 30.12.2006, p. 9.
+(2) Regulamentul (UE) nr. 432/2012 al Comisiei din 16 mai 2012 de stabilire a unei liste de mențiuni de sănătate permise, înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor (JO L 136, 25.5.2012, p. 1).
+(3) EFSA Journal, 2013; 11(10):3409.
+ANEXĂ
+În anexa la Regulamentul (UE) nr. 432/2012 se introduce următoarea rubrică, în ordine alfabetică:
+Nutrient, substanță, produs alimentar sau categorie de produse alimentare | Mențiune | Condiții de utilizare a mențiunii | Condiții și/sau restricții de utilizare a produsului alimentar și/sau indicații sau avertizări suplimentare | Numărul în Jurnalul EFSA | Numărul corespunzător înregistrării din lista consolidată prezentată spre a fi evaluată de către EFSA
+„Glucide | Glucidele contribuie la recuperarea funcționării normale a mușchilor (contracție) după un exercițiu fizic foarte intens și/sau de lungă durată, care conduce la oboseală musculară și la epuizarea depozitelor de glicogen din mușchiul scheletic. | Mențiunea poate fi utilizată doar pentru produsele alimentare care furnizează glucide care sunt metabolizate de oameni (cu excepția poliolilor). Trebuie însoțită de o informare a consumatorului cu privire la faptul că efectul benefic se obține în condițiile consumului de glucide, din toate sursele, la o doză totală de 4 g per kg de greutate corporală, în doze administrate în primele patru ore și nu mai târziu de șase ore, în urma unui exercițiu fizic foarte intens și/sau de lungă durată, care conduce la oboseală musculară și la epuizarea depozitelor de glicogen din mușchiul scheletic. | Mențiunea poate fi utilizată doar pentru produsele alimentare destinate adulților care au efectuat un exercițiu fizic foarte intens și/sau de lungă durată, care conduce la oboseală musculară și la epuizarea depozitelor de glicogen din mușchiul scheletic. | 2013;11(10):3409” |
