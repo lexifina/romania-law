@@ -1,0 +1,366 @@
+{
+ "key": "dcc-714-2014",
+ "label": "Decizia CCR nr. 714/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "714",
+ "date": "2014-12-09",
+ "year": "2014",
+ "heading": "DECIZIE nr. 714 din 9 decembrie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 teza a doua raportate la cele ale art. 1 alin. (2), art. 11 alin. (1), art. 16, art. 21 alin. (6), (6^1), (8) şi (9), art. 27 alin. (1), art. 31 alin. (1) şi (2), art. 33 alin. (1) şi (2), art. 34 alin. (1) şi (2) şi art. 41 alin. (1), (2) şi (5) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "96",
+  "bis": false,
+  "date": "2015-02-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "20.594/302/2013",
+  "395D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "6",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Maria Păunescu în Dosarul nr. 20.594/302/2013 al Judecătoriei Sectorului 5 Bucureşti - Secţia a II-a civilă şi constată că dispoziţiile art. 1 alin. (2), art. 16, art. 21 alin. (6) şi (6^1) şi art. 41 alin. (5) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România sunt constituţionale în raport cu criticile formulate.",
+  "II. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 4 teza a doua raportate la cele ale art. 11 alin. (1), art. 21 alin. (8) şi (9), art. 27 alin. (1), art. 31 alin. (1) şi (2), art. 33 alin. (1) şi (2), art. 34 alin. (2) şi art. 41 alin. (1) şi (2) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "III. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 4 teza a doua raportate la cele ale art. 34 alin. (1) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 5 Bucureşti - Secţia a II-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "6",
+      "6-1",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "2",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 10/2013",
+    "number": "10",
+    "year": "2013",
+    "path": "oug/2013/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2012",
+    "number": "4",
+    "year": "2012",
+    "path": "oug/2012/4"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 117/2012",
+    "number": "117",
+    "year": "2012",
+    "path": "lege/2012/117"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-02-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/165439",
+  "text_sha256": "bc9c1286056c131c42b1c589afdda8eea70d707d296c1901150230f1122fe6ae",
+  "catalogue_sha256": "bc9c1286056c131c42b1c589afdda8eea70d707d296c1901150230f1122fe6ae",
+  "fetched": "2026-11-03T03:47:35Z",
+  "chars": 40520,
+  "portal_id": "165439",
+  "tip": "DECIZIE"
+ }
+}
