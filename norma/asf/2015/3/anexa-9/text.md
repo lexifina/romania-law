@@ -1,0 +1,9 @@
+# Anexa 9
+Raportul de control intern pentru anul.... I. Prezentarea Fondului de garantare II. Activitatea de control intern:
+a) constituirea, evidența și utilizarea resurselor pentru plata compensației către participanții fondurilor de pensii facultative versus constituirea, evidența și utilizarea resurselor pentru plata compensației către participanții fondurilor de pensii administrate privat, respectiv pentru perioada de acumulare a contribuțiilor și perioada de plată a pensiilor;
+b) resursele pentru plata compensației;
+c) resursele pentru acoperirea cheltuielilor de administrare și funcționare a Fondului de garantare.
+III. Analiza activității de control intern:
+a) caracteristicile și strategia;
+b) constatările rezultate în urma procesului de control și monitorizare.
+IV. Propuneri de măsuri de acțiune Întocmit.......... Instrucțiuni de completare a anexei nr. 9 la normă 1. Anexa nr. 9 la normă se întocmește de către persoana care conduce activitatea de control intern al Fondului de garantare. 2. Instrucțiunile prezentate în continuare au ca scop standardizarea procesului de raportare a activității de control intern. 3. Anual, persoana care conduce activitatea de control intern are obligația de a întocmi un raport privind acțiunile de control intern desfășurate la nivelul Fondului de garantare. 4. Fișierul se denumește după următoarea sintaxă: YYYYMMDD_anx9fg_GGG.pdf.p7s, unde: YYYYMMDD reprezintă data transmiterii raportului. 5. Fișierul denumit YYYYMMDD_anx9fg_GGG.pdf.p7s se semnează electronic, cu semnătura electronică extinsă a persoanei responsabile notificate conform art. 4 din normă. 6. Fișierul YYYYMMDD_anx9fg_GGG.pdf.p7s, semnat electronic, se încarcă în sistemul informatic de raportare, în folderul dedicat "anx9fg". 7. Anexa nr. 9 la normă se întocmește anual și se transmite Autorității până la data de 31 ianuarie a anului următor celui pentru care se face raportarea. -------
