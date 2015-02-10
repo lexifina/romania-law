@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-76-14-concluzii-2015-02-10",
+ "label": "CJUE, Concluziile avocatului general M. Szpunar prezentate la 10 februarie 2015, Cauza C-76/14.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2015-02-10",
+ "year": "2015",
+ "case": "Cauza C-76/14.",
+ "celex": "62014CC0076",
+ "ecli": "ECLI:EU:C:2015:74",
+ "heading": "Concluziile avocatului general M. Szpunar prezentate la 10 februarie 2015",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Brașov.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Impozite interne – Articolul 110 TFUE – Taxă percepută de un stat membru asupra autovehiculelor cu ocazia primei înmatriculări sau a primei transcrieri a dreptului de proprietate – Neutralitate între autovehiculele rulate provenite din alte state membre și autovehiculele similare disponibile pe piața națională.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CC0076",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-76/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/6d4bce05-b103-11e4-b5b2-01aa75ed71a1.0021.01/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "506856018b25a3f7fe5e35d18fc6c05639ef699cf781179f87d813c9081382b6"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
