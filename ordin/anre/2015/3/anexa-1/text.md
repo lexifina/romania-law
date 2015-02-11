@@ -1,0 +1,3 @@
+# Anexa 1
+Anexă
+(Anexa nr. 2 la Ordinul nr. 9/2013 ) MEMBRII SUPLEANȚI ai Comisiei tehnice de avizare a studiilor de fezabilitate întocmite în vederea concesionării serviciului de distribuție a gazelor naturale și de emitere a avizelor conforme pentru operatorii economici din sectorul gazelor naturale 1. Roxana Mihaela Condrea - membru supleant - expert Serviciul reglementări tehnice regim înaltă presiune 2. Gabriela Mariana Biolan - membru supleant - consilier juridic Serviciul autorizare instalatori, verificatori, experți și operatori economici gaze naturale 3. Gabriela Sorinela Fruhn - membru supleant - șef Serviciul legislație -------
