@@ -1,0 +1,334 @@
+{
+ "key": "dcc-696-2014",
+ "label": "Decizia CCR nr. 696/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "696",
+ "date": "2014-11-27",
+ "year": "2014",
+ "heading": "DECIZIE nr. 696 din 27 noiembrie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 teza a doua, raportate la cele ale art. 41 alin. (1) teza întâi şi alin. (2)-(4) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, precum şi ale art. XV alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 8/2014 pentru modificarea şi completarea unor acte normative şi alte măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "109",
+  "bis": false,
+  "date": "2015-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "14.377/62/2012",
+  "494D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 8/2014",
+    "number": "8",
+    "year": "2014",
+    "path": "oug/2014/8"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepţia de neconstituţionalitatea ridicată din oficiu de instanţa judecătorească şi de Eufrosina Bogdan în Dosarul nr. 14.377/62/2012 al Curţii de Apel Braşov - Secţia contencios administrativ şi fiscal şi constată că dispoziţiile art. 4 teza a doua, raportate la cele ale art. 41 alin. (1) teza întâi şi alin. (2)-(4) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România sunt constituţionale în raport cu criticile formulate. 2. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. XV alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 8/2014 pentru modificarea şi completarea unor acte normative şi alte măsuri fiscal-bugetare, excepţie ridicată de Eufrosina Bogdan în Dosarul nr. 14.377/62/2012 al Curţii de Apel Braşov - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Braşov - Secţia contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 8/2014",
+    "number": "8",
+    "year": "2014",
+    "path": "oug/2014/8"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 62/2010",
+    "number": "62",
+    "year": "2010",
+    "path": "oug/2010/62"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2012",
+    "number": "4",
+    "year": "2012",
+    "path": "oug/2012/4"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/165587",
+  "text_sha256": "a28d248852d27e6677c2c7e0e48dd098ef7fb37b8584f6ff9bcc199f5838f1e7",
+  "catalogue_sha256": "a28d248852d27e6677c2c7e0e48dd098ef7fb37b8584f6ff9bcc199f5838f1e7",
+  "fetched": "2026-11-03T03:47:28Z",
+  "chars": 30838,
+  "portal_id": "165587",
+  "tip": "DECIZIE"
+ }
+}
