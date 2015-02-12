@@ -1,0 +1,187 @@
+{
+ "key": "dcc-8-2015",
+ "label": "Decizia CCR nr. 8/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "8",
+ "date": "2015-01-15",
+ "year": "2015",
+ "heading": "DECIZIE nr. 8 din 15 ianuarie 2015",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "113",
+  "bis": false,
+  "date": "2015-02-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "19.536/233/2011/a1",
+  "922D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 9 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 80/2013 privind taxele judiciare de timbru, excepţie ridicată de Romică Grusuzache în Dosarul nr. 19.536/233/2011/a1 al Tribunalului Galaţi - Secţia I civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Galaţi - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-02-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/165640",
+  "text_sha256": "a1923221045a0e53007a4545d4cebe22369bc9a02ed9dea97908d8d0ac682a26",
+  "catalogue_sha256": "a1923221045a0e53007a4545d4cebe22369bc9a02ed9dea97908d8d0ac682a26",
+  "fetched": "2026-11-06T01:47:12Z",
+  "chars": 8032,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406021930/https://legislatie.just.ro/Public/DetaliiDocumentAfis/165640",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/165640",
+   "timestamp": "20250406021930",
+   "sha256": "943050181437752917e0225596d3736f572121cbe6720c290f0b639d29a21c53"
+  },
+  "portal_id": "165640",
+  "tip": "DECIZIE"
+ }
+}
