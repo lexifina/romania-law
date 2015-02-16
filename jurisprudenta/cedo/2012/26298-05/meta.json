@@ -1,0 +1,151 @@
+{
+ "key": "cedo-26298-05-2012-07-10",
+ "label": "CEDO, fără nume c. României, 2012-07-10",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2012-07-10",
+ "year": "2012",
+ "heading": "HOTĂRÂRE din 10 iulie 2012",
+ "subtitle": "în Cauza Lancranjan Franchini şi alţii contra României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "118",
+  "bis": false,
+  "date": "2015-02-16",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "26298/05"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că s-au încălcat prevederile art. 6 § 1 din Convenţie şi 1 din Protocolul nr. 1; 3. hotărăşte",
+  "a) că în termen de 3 luni statul pârât trebuie să confirme valabilitatea titlului de proprietate al reclamanţilor şi a punerii lor în posesie cu terenurile menţionate în hotărârea definitivă din 28 mai 2002 a Curţii de Apel Alba Iulia;",
+  "b) că, în cazul în care nu se duc la îndeplinire aceste operaţiuni, statul pârât trebuie să plătească reclamanţilor, în comun, în acelaşi termen de 3 luni, suma de 37.000 euro (treizecişişaptemii euro), plus orice sumă care ar putea fi datorată cu titlu de impozit, pentru daune materiale;",
+  "c) că, în orice situaţie, statul pârât trebuie să plătească reclamanţilor, în comun, în termenul menţionat mai sus, suma de 3.000 de euro (treimii euro) pentru daune morale, plus orice altă sumă care ar putea fi datorată cu titlu de impozit;",
+  "d) că sumele respective se vor converti în moneda statului pârât, la cursul aplicabil la data plăţii;",
+  "e) că, începând cu data expirării termenului menţionat şi până în momentul plăţii, aceste sume se vor majora cu o dobândă simplă, a cărei rată va fi aceeaşi cu cea prevăzută pentru facilitatea de preţ marginal a Băncii Centrale Europene aplicabile la momentul respectiv, majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de reparaţie echitabilă pentru surplus."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [
+  "cedo: no case name"
+ ],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/165716",
+  "text_sha256": "b69e24aaf4fb803f237d10a6a97cc38302a5f667148ed95f224cf75458a3d291",
+  "catalogue_sha256": "b69e24aaf4fb803f237d10a6a97cc38302a5f667148ed95f224cf75458a3d291",
+  "fetched": "2026-11-03T03:47:23Z",
+  "chars": 12999,
+  "portal_id": "165716",
+  "tip": "HOTĂRÂRE"
+ }
+}
