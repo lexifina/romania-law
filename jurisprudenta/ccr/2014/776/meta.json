@@ -1,0 +1,183 @@
+{
+ "key": "dcc-776-2014",
+ "label": "Decizia CCR nr. 776/2014",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "776",
+ "date": "2014-12-18",
+ "year": "2014",
+ "heading": "DECIZIE nr. 776 din 18 decembrie 2014",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 344 alin. (2) şi (4) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "129",
+  "bis": false,
+  "date": "2015-02-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "5.420/740/2013",
+  "515D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "344",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Aurica Cherpec în Dosarul nr. 5.420/740/2013 al Judecătoriei Alexandria şi constată că dispoziţiile art. 344 alin. (2) din Codul de procedură penală sunt constituţionale în raport cu criticile formulate. 2. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 344 alin. (4) din Codul de procedură penală, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Alexandria şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "344",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-02-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/165836",
+  "text_sha256": "37a0112b08ef67a27722bbf2fff9ace2c8e576f023435152371c37a522dcf117",
+  "catalogue_sha256": "37a0112b08ef67a27722bbf2fff9ace2c8e576f023435152371c37a522dcf117",
+  "fetched": "2026-11-03T03:47:18Z",
+  "chars": 13892,
+  "portal_id": "165836",
+  "tip": "DECIZIE"
+ }
+}
