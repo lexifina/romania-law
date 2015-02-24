@@ -1,0 +1,204 @@
+{
+ "key": "iccj-ril-7-2014",
+ "label": "Decizia ÎCCJ nr. 7/2014 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "7",
+ "date": "2014-12-08",
+ "year": "2014",
+ "heading": "DECIZIE nr. 7 din 8 decembrie 2014",
+ "subtitle": "referitoare la recursul în interesul legii, privind existenţa unei jurisprudenţe neunitare în privinţa problemei de drept referitoare la posibilitatea părţii în sarcina căreia s-a stabilit obligaţia de plată a taxei judiciare de timbru de a supune controlului, în căile de atac de reformare, critici care să vizeze existenţa obligaţiei de plată a taxei judiciare de timbru, decurgând din aprecierea caracterului timbrabil al cererii de chemare în judecată",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "137",
+  "bis": false,
+  "date": "2015-02-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Înaltei Curţi de Casaţie şi Justiţie şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 18 din Legea nr. 146/1997, cu modificările şi completările ulterioare, partea în sarcina căreia s-a stabilit obligaţia de plată a taxei judiciare de timbru poate formula critici care să vizeze caracterul timbrabil al cererii de chemare în judecată exclusiv în cadrul cererii de reexaminare, neputând supune astfel de critici controlului judiciar prin intermediul apelului sau recursului.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "377",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7 adiţional la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-02-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/165936",
+  "text_sha256": "c936e01b563a1ee9a8bb391610f1f8c614d743de80e01d3545cd957eb7d2886d",
+  "catalogue_sha256": "c936e01b563a1ee9a8bb391610f1f8c614d743de80e01d3545cd957eb7d2886d",
+  "fetched": "2026-11-03T03:47:13Z",
+  "chars": 38278,
+  "portal_id": "165936",
+  "tip": "DECIZIE"
+ }
+}
