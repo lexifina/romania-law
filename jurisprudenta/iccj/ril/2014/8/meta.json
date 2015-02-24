@@ -1,0 +1,286 @@
+{
+ "key": "iccj-ril-8-2014",
+ "label": "Decizia ÎCCJ nr. 8/2014 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "8",
+ "date": "2014-12-08",
+ "year": "2014",
+ "heading": "DECIZIE nr. 8 din 8 decembrie 2014",
+ "subtitle": "privind interpretarea şi aplicarea dispoziţiilor art. 78 din Codul muncii cu referire la art. 75 alin. (1) din acelaşi cod, neacordarea preavizului cu durata minimă prevăzută de art. 75 alin. (1) din Codul muncii, republicat, respectiv cu durata cuprinsă în contractele colective sau individuale de muncă, dacă aceasta este mai favorabilă angajatului, atrage nulitatea absolută a măsurii de concediere şi a deciziei de concediere",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "138",
+  "bis": false,
+  "date": "2015-02-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "7/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii formulate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi de Colegiul de conducere al Curţii de Apel Constanţa şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 78 din Codul muncii cu referire la art. 75 alin. (1) din acelaşi cod, neacordarea preavizului cu durata minimă prevăzută de art. 75 alin. (1) din Codul muncii, republicat, respectiv cu durata cuprinsă în contractele colective sau individuale de muncă, dacă aceasta este mai favorabilă angajatului, atrage nulitatea absolută a măsurii de concediere şi a deciziei de concediere.",
+  "În interpretarea şi aplicarea dispoziţiilor art. 76 lit. b) din Codul muncii, raportat la dispoziţiile art. 78 din acelaşi cod, lipsa din cuprinsul deciziei de concediere a menţiunii privind durata preavizului acordat salariatului nu este sancţionată cu nulitatea deciziei şi a măsurii concedierii atunci când angajatorul face dovada că i-a acordat salariatului preavizul cu durata minimă prevăzută de art. 75 alin. (1) din Codul muncii sau cu durata prevăzută în contractele colective sau individuale de muncă, în ipoteza în care aceasta este mai favorabilă angajatului.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "j",
+      "h"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1168",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1247",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "p"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-02-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/165913",
+  "text_sha256": "b4a075007e61309e6b4bbe8ba310cfca84e9a241037600f12c68c3d0070ab15f",
+  "catalogue_sha256": "b4a075007e61309e6b4bbe8ba310cfca84e9a241037600f12c68c3d0070ab15f",
+  "fetched": "2026-11-03T03:47:15Z",
+  "chars": 46849,
+  "portal_id": "165913",
+  "tip": "DECIZIE"
+ }
+}
