@@ -1,0 +1,3 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale I.F.N. GENERAL LEASING - S.A., cu sediul declarat în Sibiu, Bd. Victoriei nr. 28, județul Sibiu, înregistrată la Oficiul Registrul Comerțului de pe lângă Tribunalul Sibiu sub nr. J32/63/2002, cod unic de înregistrare 14406360, înscrisă în Registrul general al instituțiilor financiare nebancare, ținut la Banca Națională a României, la secțiunea h) "Leasing financiar" sub nr. RGPJR33-080111.
+Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 4 februarie 2015. Nr. 102. ----
