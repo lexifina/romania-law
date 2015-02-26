@@ -1,0 +1,167 @@
+{
+ "key": "dcc-33-2015",
+ "label": "Decizia CCR nr. 33/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "33",
+ "date": "2015-02-03",
+ "year": "2015",
+ "heading": "DECIZIE nr. 33 din 3 februarie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 120^1 alin. (1), alin. (2) lit. c) şi alin. (3) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "144",
+  "bis": false,
+  "date": "2015-02-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "30.879/3/2013",
+  "819D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "120-1",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Cristina-Gabriela Răchită în Dosarul nr. 30.879/3/2013 al Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi constată că dispoziţiile art. 120^1 alin. (1), alin. (2) lit. c) şi alin. (3) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "120-1",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-02-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/165993",
+  "text_sha256": "8f1dfdccd6d7af6441e85cf247820dfccc692e921233fc6cc822c5074ede8bc0",
+  "catalogue_sha256": "8f1dfdccd6d7af6441e85cf247820dfccc692e921233fc6cc822c5074ede8bc0",
+  "fetched": "2026-11-03T03:47:09Z",
+  "chars": 12347,
+  "portal_id": "165993",
+  "tip": "DECIZIE"
+ }
+}
