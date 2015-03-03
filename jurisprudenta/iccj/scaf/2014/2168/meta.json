@@ -1,0 +1,270 @@
+{
+ "key": "iccj-scaf-2168-2014",
+ "label": "Decizia ÎCCJ nr. 2168/2014 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "2168",
+ "date": "2014-05-13",
+ "year": "2014",
+ "heading": "DECIZIE nr. 2.168 din 13 mai 2014",
+ "subtitle": "privind condiţiile pe care trebuie să le îndeplinească o persoană pentru a fi calificată ca plătitor de TVA",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "152",
+  "bis": false,
+  "date": "2015-03-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.092/2011"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursurile declarate de reclamanţii Alifantis Nicu-Valeriu, Badea Mircea Radu, Chirieac Bogdan, Chişu Dănuţ Florin, Coman Cristian, Constantin Dan, Dobrovolschi Mihai, Firea Gabriela, Marin Marian Cristian, Medeleanu Melania Iulia, Moga Arina, Negulescu Mădălina, Negulescu Sorin Mihai, Nistorescu Cornel, Preda Eugen Radu, Şerbănescu Ilie-Sorin, Stan Cosmin, Stancu Oana Lucia, Suciu Dan Dumitru, Tătăruş Robert Sebastian, Tudor Radu, Ursu Radu Adrian, Borobeică Doruleţ, Ciutacu Victor Gabriel, Moldoveanu Ioan, de pârâţii Guvernul României, Ministerul Finanţelor Publice şi de intervenienţii Bendeac Mihai Valentin, Buşcu Doru, Popescu Cătălina Mihaela, Grădinaru Anca Yvette şi Popescu Maria Emilia, precum şi recursul declarat de pârâtul Ministerul Finanţelor Publice împotriva Sentinţei civile nr. 3.277 din 16 mai 2012 a Curţii de Apel Bucureşti - Secţia a VIIIa de contencios administrativ şi fiscal, ca nefondate.",
+  "Ia act de renunţarea pârâtului Guvernul României la judecata recursului declarat.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "303",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3041",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "312",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.786/2010",
+    "number": "1786",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanţelor publice nr. 262/2007",
+    "number": "262",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "og/2003/92",
+    "slug": "og-92-2003"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.786/2010",
+    "number": "1786",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului finanţelor publice nr. 262/2007",
+    "number": "262",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.786/2010",
+    "number": "1786",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.876/2010",
+    "number": "1876",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.786/2010",
+    "number": "1786",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 262/2007",
+    "number": "262",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-03-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/166087",
+  "text_sha256": "3b2d62eb9268912b1669401c3afa8733b36b320f5914f6eb67cd0afc9bffaa6a",
+  "catalogue_sha256": "3b2d62eb9268912b1669401c3afa8733b36b320f5914f6eb67cd0afc9bffaa6a",
+  "fetched": "2026-11-03T03:47:04Z",
+  "chars": 44874,
+  "portal_id": "166087",
+  "tip": "DECIZIE"
+ }
+}
