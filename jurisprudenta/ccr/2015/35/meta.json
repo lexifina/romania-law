@@ -1,0 +1,198 @@
+{
+ "key": "dcc-35-2015",
+ "label": "Decizia CCR nr. 35/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "35",
+ "date": "2015-02-03",
+ "year": "2015",
+ "heading": "DECIZIE nr. 35 din 3 februarie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. III din Ordonanţa de urgenţă a Guvernului nr. 15/2012 privind stabilirea unor măsuri financiare în domeniul asigurărilor sociale de sănătate şi al finanţelor publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "153",
+  "bis": false,
+  "date": "2015-03-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.782/105/2012",
+  "842D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 15/2012",
+    "number": "15",
+    "year": "2012",
+    "path": "oug/2012/15"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. III din Ordonanţa de urgenţă a Guvernului nr. 15/2012 privind stabilirea unor măsuri financiare în domeniul asigurărilor sociale de sănătate şi al finanţelor publice, excepţie ridicată de Livia Alice Teodorescu în Dosarul nr. 6.782/105/2012 al Curţii de Apel Ploieşti - Secţia I civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Ploieşti - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 15/2012",
+    "number": "15",
+    "year": "2012",
+    "path": "oug/2012/15"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 107/2010",
+    "number": "107",
+    "year": "2010",
+    "path": "oug/2010/107"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "259",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 17/2012",
+    "number": "17",
+    "year": "2012",
+    "path": "oug/2012/17"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-03-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/166080",
+  "text_sha256": "692dba2c19d8fe897532073ae21148f63247e4e6ae0b6de37f83d113e0dfdc71",
+  "catalogue_sha256": "692dba2c19d8fe897532073ae21148f63247e4e6ae0b6de37f83d113e0dfdc71",
+  "fetched": "2026-11-03T03:47:06Z",
+  "chars": 10012,
+  "portal_id": "166080",
+  "tip": "DECIZIE"
+ }
+}
