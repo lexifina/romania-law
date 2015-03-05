@@ -1,0 +1,135 @@
+{
+ "key": "iccj-ril-4-2015",
+ "label": "Decizia ÎCCJ nr. 4/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "4",
+ "date": "2015-01-19",
+ "year": "2015",
+ "heading": "DECIZIE nr. 4 din 19 ianuarie 2015",
+ "subtitle": "privind examinarea recursului în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie privind interpretarea şi aplicarea unitară a dispoziţiilor art. 215 alin. (8) din Codul de procedură penală, în sensul de a lămuri dacă, în cursul urmăririi penale, competenţa de a dispune asupra unor noi obligaţii pentru inculpat ori înlocuirea sau încetarea celor dispuse iniţial revine judecătorului de drepturi şi libertăţi care a luat măsura sau, dimpotrivă, procurorului",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "157",
+  "bis": false,
+  "date": "2015-03-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "13/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 215 alin. (8) din Codul de procedură penală stabileşte că:",
+  "În cursul urmăririi penale, competenţa de a dispune impunerea unor noi obligaţii pentru inculpat ori înlocuirea sau încetarea celor dispuse iniţial revine procurorului care efectuează sau supraveghează urmărirea penală.",
+  "Obligatorie, potrivit dispoziţiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "8",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "216",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 82/2014",
+    "number": "82",
+    "year": "2014",
+    "path": "oug/2014/82"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/166133",
+  "text_sha256": "5f3d20bf1de46f6d6118b0c49d827655c032ff1893cebd23a45541acc79f02d2",
+  "catalogue_sha256": "5f3d20bf1de46f6d6118b0c49d827655c032ff1893cebd23a45541acc79f02d2",
+  "fetched": "2026-11-03T03:47:02Z",
+  "chars": 30060,
+  "portal_id": "166133",
+  "tip": "DECIZIE"
+ }
+}
