@@ -1,0 +1,272 @@
+{
+ "key": "iccj-hp-penal-2-2015",
+ "label": "Decizia ÎCCJ nr. 2/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "2",
+ "date": "2015-02-02",
+ "year": "2015",
+ "heading": "DECIZIE nr. 2 din 2 februarie 2015",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept în sensul de a se stabili care este calea de atac legală în urma desfiinţării deciziei date în recurs, în calea de atac a revizuirii reglementată în procedura prevăzută de art. 465 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "159",
+  "bis": false,
+  "date": "2015-03-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "465",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Timişoara - Secţia penală în Dosarul 214/59/2008 prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"care este calea de atac legală în urma desfiinţării deciziei date în recurs, în calea de atac a revizuirii reglementată în procedura prevăzută de art. 465 din Codul de procedură penală (revizuirea în cazul hotărârilor C.E.D.O.), în condiţiile în care cauza a parcurs trei grade de jurisdicţie (primă instanţă, apel şi recurs), în ultimă instanţă soluţionându-se recursul procurorului\".",
+  "Stabileşte că, în urma desfiinţării deciziei date în recurs, în calea de atac a revizuirii reglementată în procedura prevăzută de art. 465 din Codul de procedură penală, în condiţiile în care cauza a parcurs trei grade de jurisdicţie (primă instanţă, apel şi recurs), în ultimă instanţă soluţionându-se recursul procurorului, calea de atac este recursul în forma şi reglementarea prevăzută de lege la data judecării recursului iniţial.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "465",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "421",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-03-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/166148",
+  "text_sha256": "90d3c41344b3bffabfb9bdf7deab56d8a0fe4ea511d29dbe4d343e98fc686f82",
+  "catalogue_sha256": "90d3c41344b3bffabfb9bdf7deab56d8a0fe4ea511d29dbe4d343e98fc686f82",
+  "fetched": "2026-11-03T03:47:01Z",
+  "chars": 58425,
+  "portal_id": "166148",
+  "tip": "DECIZIE"
+ }
+}
