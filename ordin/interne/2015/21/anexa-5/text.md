@@ -1,0 +1,7 @@
+# Anexa nr. 5
+Anexa 5 (Anexa nr. 148 la Ordinul nr. 490/2008) INSPECTORATUL DE JANDARMI JUDEȚEAN SĂLAJ Însemnul heraldic al Inspectoratului de Jandarmi Județean Sălaj din cadrul Jandarmeriei Române va păstra în compoziție elemente din stema Ministerului Afacerilor Interne, după cum urmează: pe fond albastru, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei, un scut tăiat: 1) pe albastru, un romb de argint, ieșind dintr-o cunună compusă din trei frunze de stejar de aur, purtând în centru litera J stilizată, scrisă cu negru; 2) pe roșu, în partea de jos, trei brâuri subțiri, undate, de aur, deasupra cărora se află Porta Pretoria, poarta castrului roman de la Porolissum, argintie. În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: LEX ET ORDO (LEGE ȘI ORDINE). În exergă, între două cercuri liniare aurii, pe fond albastru, legenda scrisă cu litere majuscule, de asemenea, aurii: * INSPECTORATUL DE JANDARMI JUDEȚEAN * SĂLAJ. Semnificația elementelor însumate:
+a) romb - viață, prosperitate, recompensă, cântece de laudă;
+b) litera J - sigla care desemnează încă din secolul al XIX-lea Jandarmeria Română;
+c) cununa din frunze de stejar - forța, puterea, autoritate veche;
+d) brâurile undate și Porta Pretoria - elemente preluate de la stema județului Sălaj, pe teritoriul căruia unitatea își desfășoară activitatea.
+------
