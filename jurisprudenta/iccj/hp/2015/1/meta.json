@@ -1,0 +1,206 @@
+{
+ "key": "iccj-hp-1-2015",
+ "label": "Decizia ÎCCJ nr. 1/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "1",
+ "date": "2015-01-19",
+ "year": "2015",
+ "heading": "DECIZIE nr. 1 din 19 ianuarie 2015",
+ "subtitle": "privind sistemul unitar de pensii publice, cu modificările şi completările ulterioare, respectiv a dispoziţiilor art. 169 alin. (6) raportat la art. 100 din Legea nr. 263/2010, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "162",
+  "bis": false,
+  "date": "2015-03-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "12/1/2014",
+  "3.626/118/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": [
+      "6",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite în parte sesizarea formulată de Curtea de Apel Constanţa - Secţia I civilă în Dosarul nr. 3.626/118/2013 privind pronunţarea unei hotărâri prealabile.",
+  "Stabileşte că dispoziţiile art. 169 alin. (6) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările şi completările ulterioare, se interpretează în sensul că nu se acordă majorarea cu 50% a punctajului anual persoanelor care şi-au desfăşurat activitatea în condiţii speciale de muncă după data de 1 aprilie 2001 şi înscrise la pensie anterior intrării în vigoare a Legii nr. 263/2010, cu modificările şi completările ulterioare.",
+  "Respinge ca inadmisibilă sesizarea privind interpretarea dispoziţiilor art. 169 alin. (3) raportat la art. 169 alin. (1) din Legea nr. 263/2010, cu modificările şi completările ulterioare, respectiv interpretarea textelor de lege vizând persoanele pensionate în perioada 1 aprilie 2001-2 noiembrie 2008.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": [
+      "3",
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 209/2008",
+    "number": "209",
+    "year": "2008",
+    "path": "oug/2008/209"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-03-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/166180",
+  "text_sha256": "5bde3a2fe64a3d7d5b886589587ad09c7ad1894a6ef77b48974a4ffc979c44b5",
+  "catalogue_sha256": "5bde3a2fe64a3d7d5b886589587ad09c7ad1894a6ef77b48974a4ffc979c44b5",
+  "fetched": "2026-11-03T03:46:59Z",
+  "chars": 28937,
+  "portal_id": "166180",
+  "tip": "DECIZIE"
+ }
+}
