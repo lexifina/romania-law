@@ -1,0 +1,246 @@
+{
+ "key": "iccj-ril-1-2015",
+ "label": "Decizia ÎCCJ nr. 1/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "1",
+ "date": "2015-01-19",
+ "year": "2015",
+ "heading": "DECIZIE nr. 1 din 19 ianuarie 2015",
+ "subtitle": "privind examinarea recursului în interesul legii formulat de Colegiul de conducere al Înaltei Curţi de Casaţie şi Justiţie cu privire la posibilitatea instanţei de judecată învestite cu soluţionarea unei acţiuni în plata preţului de piaţă, întemeiată pe prevederile art. 50^1 din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, republicată, cu modificările şi completările ulterioare, de a acorda reclamantului, în lipsa unui capăt de cerere distinct, preţul actualizat plătit la momentul încheierii contractului de vânzare-cumpărare în temeiul Legii nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului, cu modificările ulterioare, în cazul în care constată ca fiind îndeplinite condiţiile prevăzute de dispoziţiile art. 50 alin. (2) din Legea nr. 10/2001, republicată, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "197",
+  "bis": false,
+  "date": "2015-03-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "5/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "50-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Înaltei Curţi de Casaţie şi Justiţie şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 50 alin. (2) şi 50^1 alin. (1) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, republicată, cu modificările şi completările ulterioare, instanţa de judecată învestită cu soluţionarea unei cereri în plata preţului de piaţă, întemeiată pe prevederile art. 50^1 alin. (1) din Legea nr. 10/2001, republicată, cu modificările şi completările ulterioare, poate acorda reclamantului preţul actualizat plătit la momentul încheierii contractului de vânzare-cumpărare în temeiul Legii nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului, cu modificările ulterioare, în cazul în care constată ca fiind îndeplinite condiţiile prevăzute de dispoziţiile art. 50 alin. (2) din Legea nr. 10/2001, republicată, cu modificările şi completările ulterioare, numai dacă s-a formulat un capăt de cerere distinct în acest sens.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "50-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "2",
+      "2-1",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 184/2002",
+    "number": "184",
+    "year": "2002",
+    "path": "oug/2002/184"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2009",
+    "number": "1",
+    "year": "2009",
+    "path": "lege/2009/1"
+   },
+   "articles": [
+    {
+     "art": "50-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1341",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-03-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/166622",
+  "text_sha256": "db1f31e862519920aeec6592ea990a52dfb000825da96107074efa67820e399f",
+  "catalogue_sha256": "db1f31e862519920aeec6592ea990a52dfb000825da96107074efa67820e399f",
+  "fetched": "2026-11-03T03:46:35Z",
+  "chars": 43028,
+  "portal_id": "166622",
+  "tip": "DECIZIE"
+ }
+}
