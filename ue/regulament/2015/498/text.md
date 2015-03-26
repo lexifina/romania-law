@@ -1,0 +1,75 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2015/498 AL COMISIEI
+din 24 martie 2015
+de stabilire a standardelor tehnice de punere în aplicare în ceea ce privește aprobarea de către autoritățile de supraveghere a utilizării unor parametri specifici întreprinderii în conformitate cu Directiva 2009/138/CE a Parlamentului European și a Consiliului
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Directiva 2009/138/CE a Parlamentului European și a Consiliului din 25 noiembrie 2009 privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) (1), în special articolul 111 alineatul (2),
+întrucât:
+(1) Cererile pentru utilizarea parametrilor specifici întreprinderii de către întreprinderile de asigurare și de reasigurare ar trebui să fie pregătite în mod prudent și realist și ar trebui să includă toate elementele relevante necesare pentru evaluarea de către autoritățile de supraveghere. Aceste cereri ar trebui să includă o evaluare a modului în care vor fi îndeplinite criteriile privind exhaustivitatea, exactitatea și adecvarea datelor utilizate.
+(2) Informațiile care trebuie incluse de către o întreprindere de asigurare sau de reasigurare în cererea sa ar trebui să fie precizate, pentru a asigura consecvența procesului de luare a deciziilor de către autoritățile de supraveghere.
+(3) Cererea de utilizare a parametrilor specifici întreprinderii reprezintă o decizie strategică în materie de management al riscului și de planificare a capitalului. Având în vedere răspunderea finală a organului administrativ, de conducere sau de control însărcinat cu asigurarea respectării normelor, astfel cum se prevede la articolul 40 din Directiva 2009/138/CE, implicarea acestuia în procesul decizional privind cererea ar trebui să fie analizată cu atenție.
+(4) Ar trebui stabilite norme pentru ca autoritățile de supraveghere să fie în măsură să adopte proceduri adecvate. Ar trebui să fie stabilite norme detaliate privind evaluarea și aprobarea cererilor de către autoritățile de supraveghere. Acestea ar trebui adaptate, în mod proporțional, la complexitatea cererilor, pentru a gestiona procedura de aprobare. Procedura de aprobare poate dura mai puțin de șase luni atunci când aceasta este proporțională cu gradul de complexitate.
+(5) Decizia de a solicita utilizarea unor parametri specifici întreprinderii nu ar trebui să fie dictată exclusiv de reducerea cerințelor de capital. Cu toate acestea, utilizarea parametrilor specifici întreprinderii nu ar trebui să împiedice o întreprindere să revină la parametrii standard dacă parametrii specifici întreprinderii nu mai reflectă profilul său de risc, caz în care întreprinderea ar trebui să informeze autoritatea de supraveghere cu privire la motivele pentru care acești parametri nu mai sunt adecvați.
+(6) Procedurile care trebuie urmate pentru aprobare presupun o comunicare continuă între autoritățile de supraveghere și întreprinderile de asigurare și de reasigurare. Aceasta include comunicarea înainte de depunerea cererii oficiale la autoritățile de supraveghere, precum și comunicarea după aprobarea cererii, prin intermediul procesului de supraveghere. Comunicarea continuă este necesară pentru a garanta că evaluările realizate de autoritățile de supraveghere se bazează pe informații relevante și actualizate.
+(7) În cadrul procedurii de autorizare, autoritățile de supraveghere ar trebui să evalueze, printre altele, datele utilizate pentru a calcula parametrii specifici întreprinderii și ar trebui să verifice dacă datele utilizate respectă criteriile de calitate a datelor prevăzute la articolul 219 din Regulamentul delegat (UE) 2015/35 Comisiei (2). Pentru a îndeplini cerința privind caracterul complet al datelor prevăzută la articolul 219 din regulamentul respectiv, întreprinderea ar trebui să utilizeze valorile parametrilor specifici întreprinderii obținute utilizând metoda aprobată cu cele mai recente date relevante.
+(8) Întreprinderile de asigurare și de reasigurare pot doar să înlocuiască un subset de parametri standard din modulele „risc de subscriere” cu parametri specifici întreprinderii. Aceasta înseamnă că unele dintre datele de intrare utilizate pentru a calcula parametrii respectivi vor fi similare sau identice cu cele utilizate pentru calcularea rezervelor tehnice.
+(9) Având în vedere interdependențele dintre diversele cererile de aprobare formulate în temeiul Directivei 2009/138/CE, atunci când solicită aprobarea utilizării de parametri specifici întreprinderii, întreprinderea de asigurare sau de reasigurare ar trebui să informeze autoritatea de supraveghere cu privire la alte cereri privind elementele prevăzute la articolul 308a alineatul (1) din Directiva 2009/138/CE care sunt în curs la momentul respectiv sau prevăzute în următoarele șase luni. Această cerință este necesară pentru a se asigura că evaluările realizate de autoritățile de supraveghere se bazează pe informații transparente și imparțiale.
+(10) Prezentul regulament se bazează pe proiectele de standarde tehnice de punere în aplicare transmise Comisiei de Autoritatea Europeană de Asigurări și Pensii Ocupaționale.
+(11) Autoritatea Europeană de Asigurări și Pensii Ocupaționale a efectuat consultări publice deschise cu privire la proiectele de standarde tehnice de punere în aplicare pe care se bazează prezentul regulament, a analizat costurile și beneficiile potențiale aferente și a solicitat avizul Grupului părților interesate din domeniul asigurărilor și reasigurărilor, instituit în conformitate cu articolul 37 din Regulamentul (UE) nr. 1094/2010 al Parlamentului European și al Consiliului (3).
+(12) Pentru a spori securitatea juridică cu privire la regimul de supraveghere în cursul perioadei de introducere treptată prevăzute la articolul 308a din Directiva 2009/138/CE, care va începe la 1 aprilie 2015, este important să se asigure că prezentul regulament intră în vigoare cât mai curând posibil, în ziua următoare datei publicării sale în Jurnalul Oficial al Uniunii Europene,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Cererea pentru aprobarea utilizării de parametri specifici întreprinderii
+(1) Întreprinderea de asigurare sau de reasigurare prezintă în scris autorității de supraveghere o cerere de aprobare a utilizării unor parametri specifici întreprinderii care să înlocuiască un subset de parametri din formula standard.
+(2) Cererea se depune într-o limbă oficială a statului membru în care întreprinderea de asigurare sau de reasigurare își are sediul central sau într-o limbă care a fost convenită cu autoritatea de supraveghere.
+(3) Cererea depusă de către întreprinderea de asigurare sau de reasigurare trebuie să conțină următoarele:
+(a) documente justificative privind procesul decizional intern referitor la cerere al întreprinderii de asigurare sau de reasigurare;
+(b) o dată de începere precisă de la care este solicitată utilizarea parametrilor specifici întreprinderii;
+(c) subsetul de parametri standard în privința cărora se solicită înlocuirea prin parametri specifici întreprinderii;
+(d) pentru fiecare segment, metoda standardizată utilizată și valoarea parametrului specific întreprinderii de asigurare sau de reasigurare obținută prin utilizarea acestei metode;
+(e) calculul parametrului specific întreprinderii a cărui utilizare este solicitată de întreprinderea de asigurare sau de reasigurare, precum și informația că acest calcul este adecvat;
+(f) dovezi ale faptului că datele utilizate pentru calcularea parametrilor specifici întreprinderii sunt exhaustive, exacte și adecvate și că aceste date îndeplinesc cerințele de la articolul 219 din Regulamentul delegat (UE) 2015/35;
+(g) o justificare a faptului că fiecare metodă standardizată de calculare a parametrului specific întreprinderii pentru un singur segment oferă cel mai exact rezultat pentru îndeplinirea cerințelor prevăzute la articolul 101 din Directiva 2009/138/CE.
+(4) Pe lângă elementele prevăzute la alineatul (3), cererea enumeră, de asemenea, toate celelalte cereri care au fost depuse de întreprinderea de asigurare sau de reasigurare sau care sunt prevăzute pentru următoarele șase luni, în vederea aprobării oricărora dintre elementele enumerate la articolul 308a alineatul (1) din Directiva 2009/138/CE, împreună cu datele de depunere a cererilor respective.
+Articolul 2
+Exactitatea rezultatelor
+Atunci când demonstrează exactitatea rezultatelor, întreprinderile de asigurare și de reasigurare evaluează dacă metoda standardizată este adecvată pentru datele întreprinderii, dacă ipotezele lor se confirmă și dacă datele sunt relevante pentru profilul de risc al întreprinderii.
+Articolul 3
+Evaluarea de către autoritatea de supraveghere a alegerii parametrilor și a metodei de calculare a acestora
+(1) Autoritatea de supraveghere evaluează alegerile efectuate de întreprinderea de asigurare sau de reasigurare în ceea ce privește:
+(a) parametrii care urmează să fie înlocuiți, prin examinarea măsurii în care utilizarea unor parametri specifici întreprinderii reflectă mai bine profilul de risc de subscriere al întreprinderii;
+(b) segmentele pentru care au fost calculați parametrii, prin examinarea măsurii în care utilizarea unor parametri specifici întreprinderii reflectă mai bine profilul de risc de subscriere al întreprinderii.
+(2) Autoritățile de supraveghere evaluează justificarea prezentată de întreprindere în ceea ce privește alegerea metodei standardizate pentru a calcula parametrii specifici întreprinderii. Atunci când efectuează această evaluare, autoritățile de supraveghere examinează dacă ipotezele cu privire la metodele standardizate se confirmă și dacă datele sunt relevante pentru profilul de risc al întreprinderii.
+Articolul 4
+Evaluarea cererii
+(1) Autoritatea de supraveghere confirmă primirea cererii depuse de întreprinderea de asigurare sau de reasigurare.
+(2) Autoritatea de supraveghere confirmă dacă cererea este completă în termen de 30 de zile de la data primirii acesteia. O cerere de aprobare a utilizării unor parametri specifici întreprinderii este considerată completă de către autoritatea de supraveghere dacă aceasta conține toate informațiile și documentele justificative prevăzute la articolul 1 alineatele (3) și (4). În cazul în care autoritatea de supraveghere constată că cererea nu este completă, aceasta informează imediat întreprinderea de asigurare sau de reasigurare că perioada de aprobare nu a început încă și precizează motivele pentru care cererea nu este considerată completă.
+(3) În cazul în care o autoritate de supraveghere a confirmat că cererea este completă, aceasta nu împiedică autoritatea de supraveghere în cauză să solicite informații suplimentare necesare pentru efectuarea evaluării. În solicitare se precizează care sunt informațiile suplimentare solicitate și motivele care stau la baza solicitării.
+(4) Evaluarea cererii poate include formularea de către autoritățile de supraveghere a unor solicitări de ajustare a modului în care întreprinderea își propune să aplice parametrul specific întreprinderii. În cazul în care autoritatea de supraveghere consideră că ar putea fi posibilă aprobarea aplicării unui parametru specific întreprinderii cu condiția efectuării unor ajustări, aceasta comunică în scris, fără întârziere, întreprinderii de asigurare sau de reasigurare ajustările necesare.
+(5) Numărul de zile scurse între data la care autoritatea de supraveghere solicită astfel de informații sau ajustări și data la care autoritatea de supraveghere primește aceste informații nu este inclus în termenul de șase luni prevăzut la alineatul (7).
+(6) Întreprinderea de asigurare sau de reasigurare informează autoritatea de supraveghere cu privire la orice modificare referitoare la detaliile cererii pe care a depus-o. În cazul în care o întreprindere de asigurare sau de reasigurare informează autoritatea de supraveghere cu privire la o modificare referitoare la cerere, aceasta din urmă este tratată ca o nouă cerere, cu excepția cazului în care:
+(a) modificarea este urmarea unei cereri de informații suplimentare sau de efectuare a unor ajustări venită din partea autorității de supraveghere; sau
+(b) autoritatea de supraveghere consideră că modificarea nu afectează în mod semnificativ evaluarea cererii.
+(7) Autoritatea de supraveghere se asigură că ia o decizie cu privire la cerere în termen de șase luni de la data primirii unei cereri complete.
+Articolul 5
+Decizia privind cererea
+(1) În cazul în care autoritatea de supraveghere decide să respingă cererea, acesta expune motivele pe care se bazează decizia. Autoritatea de supraveghere aprobă cererea numai în cazul în care este convinsă de justificarea înlocuirii unui subset de parametri din formula standard.
+(2) După ce autoritatea de supraveghere a luat o decizie cu privire la o cerere, aceasta o comunică în scris, fără întârziere, întreprinderii de asigurare sau de reasigurare, în limba în care a fost formulată cererea.
+(3) Autoritatea de supraveghere poate decide să aprobe cererea în ceea ce privește unele segmente sau unii parametri incluși în cerere și să nu o aprobe în privința altora.
+Articolul 6
+Revocarea aprobării de către autoritatea de supraveghere
+Autoritatea de supraveghere poate revoca aprobarea acordată unei întreprinderi de asigurare sau de reasigurare de a utiliza metoda parametrilor specifici întreprinderii, dacă:
+(a) o întreprindere căreia i s-a acordat aprobarea de a utiliza parametri specifici întreprinderii nu mai îndeplinește condițiile prevăzute la articolul 101 din Directiva 2009/138/CE și la articolele 218, 219 și 220 din Regulamentul delegat (UE) 2015/35;
+(b) în circumstanțe justificate în mod corespunzător, o întreprindere de asigurare sau de reasigurare dorește să revină la parametrii standard, prin transmiterea unei cereri către autoritatea de supraveghere în care indică motivele pentru caracterul inadecvat al parametrilor specifici întreprinderii și prin furnizarea documentelor justificative în acest sens.
+Articolul 7
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 24 martie 2015.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 335, 17.12.2009, p. 1.
+(2) Regulamentul delegat (UE) 2015/35 al Comisiei din 10 octombrie 2014 de completare a Directivei 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) (JO L 12, 17.1.2015, p. 1).
+(3) Regulamentul (UE) nr. 1094/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de instituire a Autorității europene de supraveghere (Autoritatea europeană de asigurări și pensii ocupaționale), de modificare a Deciziei nr. 716/2009/CE și de abrogare a Deciziei 2009/79/CE a Comisiei (JO L 331, 15.12.2010, p. 48).
