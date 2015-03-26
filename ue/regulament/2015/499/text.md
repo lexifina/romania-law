@@ -1,0 +1,117 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2015/499 AL COMISIEI
+din 24 martie 2015
+de stabilire a unor standarde tehnice de punere în aplicare în ceea ce privește procedurile care trebuie folosite pentru aprobarea utilizării elementelor fondurilor proprii auxiliare în conformitate cu Directiva 2009/138/CE a Parlamentului European și a Consiliului
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Directiva 2009/138/CE a Parlamentului European și a Consiliului din 25 noiembrie 2009 privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) (1), în special articolul 92 alineatul (3),
+întrucât:
+(1) Întreprinderile de asigurare și de reasigurare ar trebui să pregătească pe o bază prudentă și realistă cererile de aprobare a elementelor fondurilor proprii auxiliare.
+(2) Cererea privind un element al fondurilor proprii auxiliare este o decizie strategică în ceea ce privește gestionarea riscului și planificarea capitalului. Având în vedere faptul că, astfel cum se prevede la articolul 40 din Directiva 2009/138/CE, răspunderea finală pentru conformitate revine organului administrativ, de conducere sau de control, implicarea acestuia în procesul decizional privind cererea ar trebui să fie analizată cu atenție.
+(3) Întreprinderea de asigurare sau de reasigurare ar trebui să includă toate faptele relevante necesare pentru evaluarea de către autoritatea de supraveghere, inclusiv o evaluare de către întreprinderea de asigurare sau de reasigurare cu privire la modul în care elementul va îndeplini criteriile pentru încadrarea ca element al fondurilor proprii auxiliare și, în cazul apelării, criteriile pentru clasificarea ca element al fondurilor proprii de bază, astfel încât autoritatea de supraveghere să poată decide în timp util, pe baza unor dovezi corespunzătoare.
+(4) Informațiile care trebuie incluse de o întreprindere de asigurare sau de reasigurare în cererea sa ar trebui definite cu precizie, pentru a asigura o bază consecventă în procesul decizional al autorității de supraveghere.
+(5) Având în vedere interdependențele dintre diferitele cereri de aprobare în temeiul Directivei 2009/138/CE, atunci când solicită aprobarea unui element al fondurilor proprii auxiliare, întreprinderea de asigurare sau de reasigurare ar trebui să informeze autoritatea de supraveghere în legătură cu celelalte cereri referitoare la elementele de la articolul 308a alineatul (1) din Directiva 2009/138/CE, care sunt în curs sau care sunt prevăzute pentru următoarele șase luni. Această cerință este necesară pentru a garanta că evaluările realizate de autoritățile de supraveghere se bazează pe informații transparente și imparțiale.
+(6) Capacitatea autorităților de supraveghere și a întreprinderilor de asigurare și de reasigurare de a evalua statutul unui grup de contrapărți ca și cum ar fi vorba de o singură contraparte este considerată deosebit de relevantă în cazul în care o întreprindere mutuală sau de tip mutual are un număr mare de membri omogeni neconstituiți sub formă de societăți cărora le poate adresa apelul de contribuții suplimentare.
+(7) Procesul de aprobare a fondurilor proprii auxiliare implică o comunicare continuă între autoritățile de supraveghere și întreprinderile de asigurare și de reasigurare. Aceasta include comunicarea înainte de depunerea cererii oficiale la autoritatea de supraveghere, precum și comunicarea după aprobarea cererii, prin intermediul procesului de supraveghere. Comunicarea continuă este necesară pentru a garanta că evaluările realizate de autoritățile de supraveghere se bazează pe informații relevante și actualizate.
+(8) În cazul în care o întreprindere de asigurare sau de reasigurare notifică autorității de supraveghere reducerea capacității de a absorbi pierderile a unui element al fondurilor proprii auxiliare aprobat, autoritatea de supraveghere ar trebui să revizuiască în sens descrescător suma aprobată sau să retragă aprobarea metodei, pentru a se asigura că aceasta corespunde capacității reduse de absorbție a pierderilor.
+(9) Articolul 226 din Directiva 2009/138/CE permite unui grup de întreprinderi de asigurare sau de reasigurare să solicite aprobarea elementelor fondurilor proprii auxiliare în privința unui holding de asigurare intermediar sau a unui holding financiar mixt intermediar. În aceste cazuri, holdingului de asigurare intermediar sau holdingului financiar mixt intermediar ar trebui să i se aplice aceleași reguli care se aplică unei întreprinderi de asigurare sau de reasigurare. Acest lucru ar trebui să fie valabil și în cazul în care un grup este condus de un holding de asigurare sau de un holding financiar mixt în conformitate cu articolul 235 din Directiva 2009/138/CE.
+(10) Prezentul regulament se bazează pe proiectele de standarde tehnice de punere în aplicare transmise Comisiei de Autoritatea Europeană de Asigurări și Pensii Ocupaționale.
+(11) Autoritatea Europeană de Asigurări și Pensii Ocupaționale a efectuat consultări publice deschise cu privire la proiectele de standarde tehnice de punere în aplicare pe care se bazează prezentul regulament, a analizat costurile și beneficiile potențiale aferente și a solicitat avizul Grupului părților interesate din domeniul asigurărilor și reasigurărilor, instituit în conformitate cu articolul 37 din Regulamentul (UE) nr. 1094/2010 al Parlamentului European și al Consiliului (2).
+(12) Pentru a spori securitatea juridică în ceea ce privește regimul de supraveghere aplicat în perioada de introducere treptată prevăzută la articolul 308a din Directiva 2009/138/CE, care va începe la 1 aprilie 2015, este important ca prezentul regulament să intre în vigoare cât mai curând posibil, în ziua următoare datei publicării sale în Jurnalul Oficial al Uniunii Europene,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Caracteristici generale ale cererii
+(1) O întreprindere de asigurare sau de reasigurare depune la autoritatea de supraveghere o cerere scrisă pentru aprobarea fiecărui element al fondurilor proprii auxiliare.
+(2) Cererea se depune într-o limbă oficială a statului membru în care întreprinderea de asigurare sau de reasigurare își are sediul central sau într-o limbă care a fost convenită cu autoritatea de supraveghere.
+(3) Cererea cuprinde o notă de însoțire și documente justificative.
+Articolul 2
+Nota de însoțire
+Întreprinderea de asigurare sau de reasigurare transmite o notă de însoțire. Nota de însoțire confirmă toate elementele următoare:
+(a) toți termenii juridici sau contractuali care reglementează elementul fondurilor proprii auxiliare sau orice acord aferent sunt lipsiți de ambiguități și sunt definiți în mod clar;
+(b) valoarea atribuită în cerere elementului fondurilor proprii auxiliare este conformă cu articolul 90 alineatul (2) din Directiva 2009/138/CE;
+(c) cererea reflectă pe deplin substanța economică a elementului fondurilor proprii auxiliare, inclusiv modul în care elementul pune la dispoziție fonduri proprii de bază atunci când este apelat;
+(d) ținând seama de evoluțiile viitoare probabile, precum și de circumstanțele de la data depunerii cererii, întreprinderea de asigurare sau de reasigurare consideră că elementul fondurilor proprii auxiliare îndeplinește criteriile pentru clasificarea fondurilor proprii;
+(e) nu au fost omise fapte care, dacă ar fi cunoscute de către autoritatea de supraveghere, ar putea influența decizia sa privind aprobarea unui element al fondurilor proprii auxiliare, valoarea pentru care se acordă aprobarea unui element sau perioada pentru care se aplică aprobarea unei metode de calcul.
+Nota de însoțire menționează, de asemenea, celelalte cereri depuse de întreprinderea de asigurare sau de reasigurare sau care sunt prevăzute pentru următoarele șase luni, în vederea aprobării oricărora dintre elementele enumerate la articolul 308a alineatul (1) din Directiva 2009/138/CE, împreună cu datele de depunere a cererilor respective.
+Articolul 3
+Documente justificative privind valoarea sau metoda
+Prin cererea depusă de întreprinderea de asigurare sau de reasigurare se solicită aprobarea unei valori monetare specificate pentru un element al fondurilor proprii auxiliare sau aprobarea unei metode de stabilire a valorii unui element al fondurilor proprii auxiliare.
+Dacă întreprinderea de asigurare sau de reasigurare solicită aprobarea unei valori monetare specificate, cererea include o explicație a modului de calcul al valorii, pe baza unor estimări prudente și realiste în conformitate cu articolul 90 alineatul (2) din Directiva 2009/138/CE.
+Dacă întreprinderea de asigurare sau de reasigurare solicită aprobarea unei metode de calcul, aceasta furnizează următoarele informații:
+(a) o explicație privind metoda și modul în care aceasta reflectă capacitatea de absorbție a pierderilor a elementului fondurilor proprii auxiliare;
+(b) descrierea oricăror estimări pe care se bazează metoda, demonstrându-se că aceste estimări sunt prudente și realiste;
+(c) valoarea inițială estimată a elementului care a fost calculată conform metodei și o justificare a acestei valori;
+(d) o explicație privind procesele de validare pe care întreprinderea de asigurare sau de reasigurare le va pune în aplicare pentru a se asigura că rezultatele obținute prin utilizarea metodei continuă să reflecte în permanență capacitatea elementului de a absorbi pierderile.
+Articolul 4
+Documente justificative privind criteriile de aprobare
+Documentele justificative conțin suficiente informații pentru a permite autorității de supraveghere să evalueze dacă cererea îndeplinește criteriile prevăzute la articolul 90 din Directiva 2009/138/CE și la articolele 62-65 din Regulamentul delegat (UE) 2015/35 al Comsiei (3). Documentele justificative conțin cel puțin informațiile descrise de la al doilea la al șaptelea paragraf din prezentul articol.
+Întreprinderea de asigurare sau de reasigurare furnizează informații privind natura elementului fondurilor proprii auxiliare și capacitatea de a absorbi pierderile a elementului fondurilor proprii de bază în care se transformă elementul fondurilor proprii auxiliare atunci când este apelat, inclusiv următoarele:
+(a) termenii juridici sau contractuali ai elementului, împreună cu termenii oricărui acord aferent, precum și elemente care să demonstreze că contrapartea a încheiat sau va încheia contractul și orice acord aferent;
+(b) elemente care să demonstreze că atât contractul, cât și orice acorduri aferente sunt obligatorii din punct de vedere juridic și pot fi executate în toate jurisdicțiile relevante, pe baza unui aviz juridic;
+(c) perioada pentru care este în vigoare contractul și, dacă este diferită, perioada în care întreprinderea de asigurare sau de reasigurare poate apela elementul;
+(d) confirmarea că elementul fondurilor proprii auxiliare, în momentul în care va fi apelat și vărsat, va avea toate caracteristicile unui element al fondurilor proprii de bază clasificat de nivel 1 în conformitate cu articolul 71 din Regulamentul delegat (UE) 2015/35 sau toate caracteristicile unui element al fondurilor proprii de bază clasificat de nivel 2 în conformitate cu articolul 73 din Regulamentul delegat (UE) 2015/35;
+(e) confirmarea faptului că în condițiile contractuale ale elementului nu sunt cuprinse prevederi care ar putea descuraja întreprinderea de asigurare sau de reasigurare să apeleze elementul pentru absorbția unor pierderi sau care ar putea impune constrângeri asupra posibilității acestuia de a fi apelat la cerere;
+(f) confirmarea faptului că numai întreprinderea de asigurare sau de reasigurare ar putea dispune de elementul fondurilor proprii auxiliare sau de beneficiile sale, care nu ar putea fi transferate sau cesionate niciunei alte părți și nici nu ar putea fi grevate în vreun alt mod;
+(g) orice factori care restricționează condițiile în care întreprinderea de asigurare sau de reasigurare ar putea decide să apeleze elementul, inclusiv, dar fără a se limita la acestea, condițiile de criză specifice întreprinderii de asigurare și de reasigurare sau tensiunile de pe piață în sens mai general;
+(h) dacă există obligații, așteptări sau înțelegeri, prezente sau viitoare, în baza cărora întreprinderea de asigurare sau de reasigurare să plătească fonduri sau să ofere orice alt beneficiu contrapărții sau unei părți terțe în legătură cu elementul, în alte situații decât rambursarea elementului fondurilor proprii de bază conform caracteristicilor de la articolul 71 alineatul (1) litera (h) și de la articolul 73 alineatul (1) litera (d) din Regulamentul delegat (UE) 2015/35;
+(i) o copie a planului de gestionare a capitalului pe termen mediu, inclusiv informații privind modul în care elementul va contribui la structura actuală a capitalului întreprinderii de asigurare sau de reasigurare, precum și modul în care elementul ar putea permite întreprinderii de asigurare sau de reasigurare să își îndeplinească cerințele de capital actuale sau viitoare.
+În afara cazului în care se aplică articolul 63 alineatul (6) din Regulamentul delegat (UE) 2015/35, statutul unui grup de contrapărți putând fi evaluat ca și cum ar fi vorba de o singură contraparte, întreprinderea de asigurare sau de reasigurare furnizează informații privind statutul fiecărei contrapărți, inclusiv următoarele informații:
+(a) denumirea și o descriere a fiecărei contrapărți, inclusiv natura oricărei relații între întreprinderea de asigurare sau de reasigurare și contraparte;
+(b) o evaluare a riscului de nerambursare de către contrapărți, care să permită evaluarea de către autoritatea de supraveghere prevăzută la articolul 63 alineatul (2) din Regulamentul delegat (UE) 2015/35;
+(c) o evaluare a situației lichidității contrapărților, care să permită evaluarea de către autoritatea de supraveghere prevăzută la articolul 63 alineatul (3) din Regulamentul delegat (UE) 2015/35;
+(d) o evaluare a disponibilității de a plăti a contrapărților, care să permită evaluarea de către autoritatea de supraveghere prevăzută la articolul 63 alineatul (4) din Regulamentul delegat (UE) 2015/35;
+(e) o descriere a situațiilor în care întreprinderea de asigurare sau de reasigurare ar putea decide să apeleze elementul, inclusiv așteptările actuale privind situațiile în care elementul poate fi apelat, anterior sau în momentul neconformității cu cerința de capital de solvabilitate sau cu cerința minimă de capital;
+(f) informații privind orice alți factori relevanți pentru statutul contrapărților, care să permită evaluarea de către autoritatea de supraveghere prevăzută la articolul 63 alineatul (5) din Regulamentul delegat (UE) 2015/35.
+În cazul în care contrapărțile sunt tratate ca grup de contrapărți în conformitate cu articolul 63 alineatul (6) din Regulamentul delegat (UE) 2015/35, informațiile menționate la literele (a)-(f) de la al treilea paragraf sunt furnizate cu privire la grupul de contrapărți.
+În cazul în care contrapartea este un membru al aceluiași grup sau subgrup ca întreprinderea de asigurare sau de reasigurare, în baza articolului 213 din Directiva 2009/138/CE, și are angajamente în legătură cu elemente ale fondurilor proprii auxiliare față de entități diferite din cadrul grupului, informațiile de la literele (b)-(f) de la al treilea paragraf includ dovezi ale capacității contrapărții de a satisface concomitent apelări multiple ale elementelor fondurilor proprii auxiliare, având în vedere situația grupului și entitățile acestuia.
+Întreprinderea de asigurare sau de reasigurare furnizează informații cu privire la recuperabilitatea fondurilor, inclusiv următoarele:
+(a) detalii privind acordurile care ar putea consolida recuperabilitatea elementului, inclusiv disponibilitatea garanțiilor;
+(b) detalii privind eventuale dispoziții ale legislației naționale din orice jurisdicție relevantă care nu permit efectuarea sau satisfacerea unui apel, inclusiv în cazul inițierii unei proceduri de rezoluție, de administrare sau de insolvență a întreprinderii de asigurare sau de reasigurare;
+(c) detalii privind acordurile sau circumstanțele care ar putea preveni efectuarea sau satisfacerea unui apel în cazul deteriorării condițiilor financiare, inclusiv al neconformității cu cerința de capital de solvabilitate sau cu cerința minimă de capital.
+Întreprinderea de asigurare sau de reasigurare furnizează informații cu privire la apelările anterioare, inclusiv următoarele:
+(a) informații privind experiența sa în ceea ce privește apelările anterioare sau colectarea altor fonduri datorate de aceeași contraparte sau de contrapărți similare, în aceleași circumstanțe sau în circumstanțe similare;
+(b) toate datele de piață relevante disponibile referitoare la apelările anterioare sau la colectarea altor fonduri datorate de aceeași contraparte sau de contrapărți similare, în aceleași circumstanțe sau în circumstanțe similare;
+(c) o evaluare a relevanței și a fiabilității informațiilor descrise la literele (a) și (b) în ceea ce privește rezultatul așteptat al apelărilor viitoare efectuate de întreprinderea de asigurare sau de reasigurare.
+Întreprinderea de asigurare sau de reasigurare prezintă o descriere a procedurilor de care dispune pentru a identifica eventualele modificări viitoare, menționate la articolul 62 alineatul (1) litera (d) din Regulamentul delegat (UE) 2015/35, care ar putea avea ca efect reducerea capacității elementului fondurilor proprii auxiliare de a absorbi pierderile. Descrierea include următoarele:
+(a) modul în care întreprinderea intenționează să identifice modificările privind:
+(i) structura sau clauzele contractuale ale acordului, inclusiv anularea sau expirarea unui element al fondurilor proprii auxiliare sau utilizarea sau apelarea parțială sau totală a unui element al fondurilor proprii auxiliare;
+(ii) statutul contrapărților în cauză, inclusiv nerambursarea de către o contraparte;
+(iii) recuperabilitatea elementului fondurilor proprii auxiliare, inclusiv apelările altor elemente ale fondurilor proprii auxiliare furnizate de aceleași contrapărți;
+(b) modul în care întreprinderea intenționează să informeze autoritatea de supraveghere în legătură cu modificările identificate, inclusiv mecanismele instituite pentru a stabili când este necesar ca această modificare să fie semnalată organismului administrativ, de conducere sau de supraveghere al întreprinderii și autorității de supraveghere.
+Întreprinderea de asigurare sau de reasigurare include documente justificative privind procesul său decizional intern în legătură cu cererea.
+Articolul 5
+Evaluarea cererii
+Autoritatea de supraveghere confirmă primirea cererii depuse de întreprinderea de asigurare sau de reasigurare.
+O cerere este considerată completă de autoritatea de supraveghere dacă abordează toate aspectele prevăzute la articolele 2, 3 și 4.
+Autoritatea de supraveghere confirmă dacă cererea este considerată sau nu completă, în timp util și la cel târziu 30 de zile de la data primirii cererii.
+Autoritatea de supraveghere se asigură că intervalul de timp în care hotărăște cu privire la o cerere este rezonabil și nu depășește trei luni de la data primirii unei cereri complete, cu excepția unor circumstanțe excepționale, care se comunică în scris, în timp util, întreprinderii de asigurare sau de reasigurare.
+În cazul unor circumstanțe excepționale, autoritatea de supraveghere decide în legătură cu o cerere în termen de cel mult șase luni de la data primirii unei cereri complete.
+În cazul în care autoritatea de supraveghere a considerat că cererea este completă, aceasta nu o împiedică să solicite informații suplimentare necesare pentru efectuarea evaluării sale. Cererea specifică informațiile suplimentare solicitate și motivele cererii. Numărul de zile dintre data la care autoritatea de supraveghere solicită aceste informații și data la care autoritatea de supraveghere primește informațiile nu se include în perioadele de timp menționate la al cincilea și al șaselea paragraf.
+Întreprinderea de asigurare sau de reasigurare informează autoritatea de supraveghere cu privire la orice modificare a detaliilor cererii sale.
+Dacă o întreprindere de asigurare sau de reasigurare informează autoritatea de supraveghere în legătură cu o modificare a cererii sale, aceasta este tratată ca o nouă cerere, cu excepția următoarelor cazuri:
+(a) modificarea este determinată de o cerere de informații suplimentare formulată de autoritatea de supraveghere sau
+(b) autoritatea de supraveghere este convinsă că modificarea nu afectează în mod semnificativ evaluarea cererii.
+O întreprindere de asigurare sau de reasigurare își poate retrage o cerere, prin notificare în scris, în orice etapă, înainte de decizia autorității de supraveghere. În cazul în care întreprinderea de asigurare sau de reasigurare retransmite ulterior cererea sau depune o cerere actualizată, autoritatea de supraveghere o consideră a fi o nouă cerere.
+Articolul 6
+Decizia privind cererea
+Când autoritatea de supraveghere a luat o decizie cu privire la o cerere, aceasta o comunică în scris, fără întârziere, întreprinderii de asigurare sau de reasigurare.
+În cazul în care autoritatea de supraveghere aprobă o valoare mai mică decât cea solicitată de întreprinderea de asigurare sau de reasigurare sau respinge o cerere de aprobare, aceasta indică motivele care stau la baza deciziei.
+În cazul în care aprobarea autorității de supraveghere a fost acordată cu condiția încheierii contractului, întreprinderea de asigurare sau de reasigurare încheie contractul fără întârziere, conform condițiilor pe care s-a bazat aprobarea, și transmite autorității de supraveghere o copie a contractului semnat.
+Întreprinderea de asigurare sau de reasigurare nu consideră că elementul fondurilor proprii auxiliare sau metoda este admisibilă până când nu se încheie contractul.
+Articolul 7
+Revizuirea sumei aprobate sau retragerea autorizării metodei
+(1) În cazul în care un element al fondurilor proprii auxiliare nu mai îndeplinește condițiile în care a fost aprobată o valoare sau o metodă de calcul, autoritatea de supraveghere decide cu privire la una dintre următoarele măsuri:
+(a) reducerea valorii unui element al fondurilor proprii auxiliare la o valoare mai mică sau la zero;
+(b) retragerea aprobării unei metode de calcul.
+(2) În cazul în care ia o decizie conform alineatului (1), autoritatea de supraveghere informează imediat întreprinderea de asigurare sau de reasigurare, indicând motivele.
+Articolul 8
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 24 martie 2015.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 335, 17.12.2009, p. 1.
+(2) Regulamentul (UE) nr. 1094/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de instituire a Autorității europene de supraveghere (Autoritatea Europeană de Asigurări și Pensii Ocupaționale), de modificare a Deciziei nr. 716/2009/CE și de abrogare a Deciziei 2009/79/CE a Comisiei (JO L 331, 15.12.2010, p. 48).
+(3) Regulamentul delegat (UE) 2015/35 al Comsiei din 10 octombrie 2014 de completare a Directivei 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II) (JO L 12, 17.1.2015, p. 1).
