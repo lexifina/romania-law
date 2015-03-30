@@ -1,0 +1,7 @@
+# Anexa nr. 3
+CASA DE ASIGURĂRI DE SĂNĂTATE...............................
+CERERE de eliberare a adeverinței de asigurat cu valabilitate de 3 luni pentru persoanele care refuză în mod expres, din motive religioase sau de conștiință, primirea cardului național de asigurări sociale de sănătate
+Subsemnatul(a),........................, născut(ă) la data de........................., în localitatea................., domiciliat(ă) în......................., str................ nr........., bl........., sc........., et......., ap........., sectorul/județul......................, posesor/posesoare al/a BI/CI seria......... nr....................., eliberat(ă) de............................. la data de...................., cod numeric personal.............................., având codul de identificare al asiguratului (CID)..........................., declar pe propria răspundere, cunoscând dispozițiile art. 326 din Codul penal cu privire la falsul în declarații, că refuz în mod expres, din motive religioase sau de conștiință, primirea cardului național de asigurări sociale de sănătate cu numărul de identificare: și solicit eliberarea adeverinței de asigurat cu o valabilitate de 3 luni. [] Depun cardul național de asigurări sociale de sănătate. [] Declar că am returnat cardul național de asigurări sociale de sănătate Casei de Asigurări de Sănătate................ /
+Casei Naționale de Asigurări de Sănătate anterior prezentei cereri.
+Data..........
+Semnătura
