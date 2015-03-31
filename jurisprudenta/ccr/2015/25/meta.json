@@ -1,0 +1,269 @@
+{
+ "key": "dcc-25-2015",
+ "label": "Decizia CCR nr. 25/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "25",
+ "date": "2015-02-03",
+ "year": "2015",
+ "heading": "DECIZIE nr. 25 din 3 februarie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 429, art. 430 alin. (2), art. 1.039, art. 1.040, art. 1.041 alin. (2)-(5), art. 1.042 şi art. 1.044 alin. (1) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "215",
+  "bis": false,
+  "date": "2015-03-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.161/327/2014",
+  "579D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1039",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1040",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1041",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1042",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1044",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Gherghina Olteanu în Dosarul nr. 3.161/327/2014 al Judecătoriei Tulcea şi constată că dispoziţiile art. 429, art. 430 alin. (2), art. 1.039, art. 1.040, art. 1.041 alin. (2)-(5), art. 1.042 şi art. 1.044 alin. (1) din Codul de procedură civilă sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Tulcea şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1039",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1040",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1041",
+     "alin": [
+      "2",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1042",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1044",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1033",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "412",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/166837",
+  "text_sha256": "cde0f6f128da9557edd3dc27321099ed7a695d284124559746be19fc7d763023",
+  "catalogue_sha256": "cde0f6f128da9557edd3dc27321099ed7a695d284124559746be19fc7d763023",
+  "fetched": "2026-11-03T03:46:23Z",
+  "chars": 18758,
+  "portal_id": "166837",
+  "tip": "DECIZIE"
+ }
+}
