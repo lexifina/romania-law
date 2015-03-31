@@ -1,0 +1,31 @@
+# Anexa 3
+DIRECȚIA GENERALĂ CONTROL, ANTIFRAUDĂ ȘI INSPECȚII Direcția monitorizare inspecții, verificare și control Bd. Carol I nr. 2-4, sectorul 3, București Județul.......... tel........, fax......, e-mail............. PROCES-VERBAL DE CONTROL, CONSTATARE ȘI SANCȚIONARE A CONTRAVENȚIEI nr...........
+Încheiat astăzi,.................., ora........ (ziua, luna, anul)
+1. Agent constatator: numele și prenumele......., funcția......., legitimația nr......... numele și prenumele......., funcția......., legitimația nr......... 2. Operator economic controlat.................................... cu sediul în......... înmatriculat la oficiul registrului comerțului sub nr....../.... din....... CUI nr........, cont bancar nr......... deschis la Banca........ Obiect de activitate................ 3. Unitatea (filiala, punct de lucru controlat) adresa........................................................................ unde am fost primiți de....., reprezentant al operatorului economic controlat....., în calitate de...., posesor al BI/CI, seria....., nr......, eliberat de...... la data de.........., CNP............ 4. Obiectul controlului........................................................................................................................................................................................................................ 5. Eșantioane........................................................................................................................................................................................................................ 6. Constatări în timpul efectuării controlului în ziua........ luna......... anul......... ora....................................................................................................................................................................................................................................... 7. Măsuri stabilite în baza constatărilor........................................................................................................................................................................................................................ 8. Sancțiuni contravenționale aplicate:
+```
+┌───────────────┬────────┬─────────────────────┬─────────┬────────┬────────────┐
+│Contravenientul│ Adresa │Numărul codului unic │Articolul│Valoarea│ Semnătura  │
+│               │completă│de înregistrare (CUI)│din actul│amenzii │contraveni- │
+│               │        │   sau actul de      │normativ │aplicate│  entului   │
+│               │        │  identificare al    │         │        │            │
+│               │        │ persoanei, seria,   │         │        │            │
+│               │        │ nr. , data emiterii │         │        │            │
+├───────────────┼────────┼─────────────────────┼─────────┼────────┼────────────┤
+│               │        │                     │         │        │            │
+│               │        │                     │         │        │            │
+│               │        │                     │         │        │            │
+│               │        │                     │         │        │            │
+│               │        │                     │         │        │            │
+└───────────────┴────────┴─────────────────────┴─────────┴────────┴────────────┘
+```
+a) În conformitate cu prevederile art...... alin..... lit..... din...... se aplică contravenientului o amendă de.........lei (..........), care se va achita în termen de 15 zile de la primirea prezentului proces-verbal, în contul bugetului de stat (venituri din amenzi, aplicate potrivit prevederilor legale), în contul nr.......... deschis la Trezoreria..........
+Contravenientul poate plăti în termen de 48 de ore de la luarea la cunoștință a prezentului proces-verbal de sancționare jumătate din minimul amenzii, adică......... lei (........), în contul nr......, deschis la Trezoreria...............
+b) Chitanțele de plată sau foaia de vărsământ se vor trimite recomandat sau vor fi prezentate în termen de 15 zile la Ministerul Agriculturii și Dezvoltării Rurale - Direcția generală control, antifraudă și inspecții - Direcția monitorizare inspecții, verificare și control, în acest fel orice urmărire încetând. În caz de neachitare a amenzii/amenzilor se va proceda la executarea silită conform prevederilor legale.
+c) Împotriva procesului-verbal contravenientul poate face plângere în termen de 15 zile de la comunicare. Plângerea se va depune la judecătoria în a cărei circumscripție a fost săvârșită contravenția și va fi însoțită de o copie a procesului-verbal de constatare și sancționare a contravențiilor, precum și de alte acte doveditoare în susținerea plângerii.
+Procesul-verbal conține..... pagini și s-a întocmit în două exemplare, dintre care au fost înmânate: un exemplar la contravenient și un exemplar la agentul constatator. Contravenientul (nu) este de față și (refuză să) ia cunoștință de conținutul prezentului proces-verbal. Prezentului proces verbal de control, constatare și sancționare a contravenției îi sunt aplicabile prevederile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare. 9. Martorul la constatare Dl/Dna......., CNP......, posesor al/posesoare a actului de identitate Bl/CI seria...., nr....., emis(ă) de..... la data de......., domiciliat(ă) în......, str....... nr....., bl....., sc....., et....., ap....., județul/sectorul......., tel........ Semnătura........................................................ 10. Alte mențiuni........................................................................................................................................................................................................................ 11. Obiecțiuni:........................................................................................................................................................................................................................
+Inspector constatator,
+Operator economic controlat sau
+LS, reprezentantul acestuia,
+LS,
+Am luat cunoștință de conținutul procesului-verbal cu/fără obiecțiuni.
+----
