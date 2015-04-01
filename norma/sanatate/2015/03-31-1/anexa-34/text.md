@@ -1,0 +1,33 @@
+# Anexa 34
+Anexa nr. 44
+- MODEL -
+Denumirea furnizorului de îngrijiri medicale la domiciliu/îngrijiri paliative la domiciliu
+..................................................
+..........................................................................
+Sediul social/Adresa fiscală .............................................
+..........................................................................
+DECLARAȚIE DE PROGRAM
+punct de lucru ....................................................
+..........................................................................
+Subsemnatul(a), .......................................................... B.I./C.I. seria ........., nr. ..............., în calitate de reprezentant legal, cunoscând că falsul în declarații se pedepsește conform legii, declar pe propria răspundere că programul de lucru în contract cu Casa de Asigurări de Sănătate ....................... se desfășoară astfel:
+Locația unde se desfășoară activitatea
+Adresa/telefon
+Program de lucru în contract cu casa de asigurări de sănătate
+Luni
+Marți
+Miercuri
+Joi
+Vineri
+Sâmbătă
+Duminică
+Sărbători legale
+Sediu social lucrativ
+Punct de lucru/punct secundar de lucru*)
+Domiciliu beneficiari
+Dispecerat
+Data
+.......................
+Reprezentant legal
+(semnătura și ștampila)
+...............................
+*) se va completa în funcție de nr. de puncte de lucru ale furnizorului, în situația în care furnizorul are mai multe puncte de lucru pentru care solicită încheierea contractului cu casa de asigurări de sănătate, acestea se menționează distinct cu programul de lucru aferent.
