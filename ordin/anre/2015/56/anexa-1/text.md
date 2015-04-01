@@ -1,0 +1,27 @@
+# Anexa 1
+Anexa 1
+Venitul reglementat unitar și venitul total unitar pentru Societatea Comercială MEHEDINȚI GAZ - S.A. pentru anul 2015
+┌────────────────────────────────────────────────────────────────────────────┐ │Activitatea de furnizare a gazelor naturale în regim reglementat
+│ ├──────────────────────────────────────────────────┬────────────┬────────────┤ │Cantitatea de energie furnizată în 2015
+│
+MWh
+│
+6.477
+│ ├──────────────────────────────────────────────────┼────────────┼────────────┤ │Venitul reglementat unitar
+│ Lei/MWh
+│
+2,94
+│ ├──────────────────────────────────────────────────┼────────────┼────────────┤ │Venitul total unitar
+│ Lei/MWh
+│
+4,69
+│ └──────────────────────────────────────────────────┴────────────┴────────────┘
+Anexa 2
+Prețurile reglementate pentru furnizarea gazelor naturale în regim reglementat realizată de Societatea Comercială MEHEDINȚI GAZ - S.A. pentru clienții casnici
+┌─────────────────────────────────────────────────────────────────┬──────────┐ │
+Categoria de clienți
+│ Lei/MWh │ ├─────────────────────────────────────────────────────────────────┴──────────┤ │B. Clienți finali conectați în sistemul de distribuție
+│ ├─────────────────────────────────────────────────────────────────┬──────────┤ │B.1. Cu un consum până la 23,25 MWh
+│ 109,03 │ ├─────────────────────────────────────────────────────────────────┼──────────┤ │B.2. Cu un consum anual între 23,26 MWh și 116,28 MWh
+│ 108,11 │ └─────────────────────────────────────────────────────────────────┴──────────┘
+------
