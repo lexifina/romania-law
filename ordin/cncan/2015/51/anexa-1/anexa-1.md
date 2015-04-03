@@ -1,0 +1,3 @@
+# Anexa 1 la ghid
+Definiții și abrevieri
+ANSI - American National Standards Institute ASME - American Society of Mechanical Engineers ANS - American National Standard BVPC - Boiler and Pressure Vessel Code CANDU - CANada Deuterium Uranium CSA - Canadian Standards Association IEEE - Institute of Electrical and Electronics Engineers IEC - International Electrotechnical Commission ISO - International Organization for Standardization Funcție de securitate nucleară - un scop specific care trebuie îndeplinit pentru asigurarea securității nucleare Funcție de protecție fizică - un scop specific care trebuie îndeplinit pentru asigurarea protecției fizice
