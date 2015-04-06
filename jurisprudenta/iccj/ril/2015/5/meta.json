@@ -1,0 +1,301 @@
+{
+ "key": "iccj-ril-5-2015",
+ "label": "Decizia ÎCCJ nr. 5/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "5",
+ "date": "2015-02-16",
+ "year": "2015",
+ "heading": "DECIZIE nr. 5 din 16 februarie 2015",
+ "subtitle": "referitoare la recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Constanţa privind interpretarea şi aplicarea dispoziţiilor art. 6 alin. (7^1) din Ordonanţa Guvernului nr. 12/2008 privind organizarea şi finanţarea rezidenţiatului",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "234",
+  "bis": false,
+  "date": "2015-04-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "10/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 12/2008",
+    "number": "12",
+    "year": "2008",
+    "path": "og/2008/12"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "7-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/2009",
+    "number": "18",
+    "year": "2009",
+    "path": "og/2009/18"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Constanţa şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 6 alin. (7^1) din Ordonanţa Guvernului nr. 12/2008 privind organizarea şi finanţarea rezidenţiatului, aprobată cu modificări şi completări prin Legea nr. 179/2008, respectiv art. 18 alin. (8) din Ordonanţa Guvernului nr. 18/2009 privind organizarea şi finanţarea rezidenţiatului, aprobată prin Legea nr. 103/2012, cu completările ulterioare, prin raportare la art. 38 şi art. 159 din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare, sintagma \"cheltuieli de personal\" nu include salariile primite de medicul rezident pentru munca desfăşurată în perioada rezidenţiatului, iar drepturile salariale încasate nu pot fi restituite cu titlu de cheltuieli ocazionate de pregătirea profesională, în situaţia în care medicul rezident nu îşi respectă obligaţia asumată de a continua raporturile de muncă pentru o anumită perioadă cu spitalul în care a desfăşurat programul de rezidenţiat, chiar dacă o atare clauză ar fi prevăzută în actul adiţional la contractul individual de muncă, încheiat în condiţiile art. 196 alin. (2) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 12/2008",
+    "number": "12",
+    "year": "2008",
+    "path": "og/2008/12"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "7-1",
+      "7",
+      "5",
+      "71"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 18/2009",
+    "number": "18",
+    "year": "2009",
+    "path": "og/2009/18"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "8",
+      "7",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-04-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167002",
+  "text_sha256": "eb2c528d5ee5685fd28152b40f7ef87145950d26c51bcc042905efaff74e5e94",
+  "catalogue_sha256": "eb2c528d5ee5685fd28152b40f7ef87145950d26c51bcc042905efaff74e5e94",
+  "fetched": "2026-11-03T03:46:10Z",
+  "chars": 45708,
+  "portal_id": "167002",
+  "tip": "DECIZIE"
+ }
+}
