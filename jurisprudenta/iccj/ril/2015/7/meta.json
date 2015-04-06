@@ -1,0 +1,148 @@
+{
+ "key": "iccj-ril-7-2015",
+ "label": "Decizia ÎCCJ nr. 7/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "7",
+ "date": "2015-03-16",
+ "year": "2015",
+ "heading": "DECIZIE nr. 7 din 16 martie 2015",
+ "subtitle": "privind recursul în interesul legii formulat de către de Colegiul de conducere al Înaltei Curţi de Casaţie şi Justiţie în vederea interpretării unitare a dispoziţiilor art. 399 din Codul de procedură penală cu privire la \"măsurile preventive aplicabile minorilor, în sensul dacă la momentul soluţionării în primă instanţă, a acţiunii penale prin luarea unei măsuri educative, încetează de drept măsura preventivă dispusă anterior faţă de minor\".",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "234",
+  "bis": false,
+  "date": "2015-04-06",
+  "part": "I"
+ },
+ "outcome": "other",
+ "partly": false,
+ "dossiers": [
+  "1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "399",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În interpretarea şi aplicarea unitară dispoziţiilor art. 399 alin. (3) lit. d) şi alin. (4) din Codul de procedură penală stabileşte că:",
+  "La momentul soluţionării, în primă instanţă, a acţiunii penale, prin pronunţarea unei măsuri educative, indiferent de natura acesteia, măsura arestării preventive, luată anterior faţă de inculpatul minor, încetează de drept, iar instanţa dispune punerea de îndată în libertate a inculpatului minor arestat preventiv.",
+  "Obligatorie, potrivit art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "399",
+     "alin": [
+      "3",
+      "1",
+      "4"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "241",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "350",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "outcome: not detected"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-04-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167005",
+  "text_sha256": "85dd27383deef951a4beb70a0e54a36adbcaa2d67afc2e0370f8492442f84865",
+  "catalogue_sha256": "85dd27383deef951a4beb70a0e54a36adbcaa2d67afc2e0370f8492442f84865",
+  "fetched": "2026-11-03T03:46:10Z",
+  "chars": 23842,
+  "portal_id": "167005",
+  "tip": "DECIZIE"
+ }
+}
