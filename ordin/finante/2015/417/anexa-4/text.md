@@ -1,0 +1,4 @@
+# Anexa 4
+LISTA persoanelor care pot face parte din comisia prevăzută la art. 5 alin. (2) din
+Ordonanța Guvernului nr. 10/2015 pentru organizarea Loteriei bonurilor fiscale
+A. Din cadrul Ministerului Finanțelor Publice 1. Atomei Marius - șef serviciu 2. Pavel Adrian - șef serviciu 3. Dragotă Laura Raluca Alina - consilier 4. Cojocaru Ionuț - șef serviciu B. Din cadrul Agenției Naționale de Administrare Fiscală 1. Voicu Laura - inspector-șef serviciu 2. Curelaru Lică Valentin - inspector-șef serviciu 3. Cristea Alexandru - manager public C. Din cadrul Companiei Naționale "Loteria Română" - S.A. 1. Ciobotaru Claudia - consilier juridic 2. Onel Alexandra - consilier juridic 3. Piroi Valentin - șef serviciu 4. Vasile Alice Mirela - consilier juridic 5. Simion Iulian - coordonator tehnic 6. Dobrescu Alin - coordonator tehnic 7. Dumitrescu Andrei - coordonator tehnic 8. Zamfir Emil - coordonator tehnic -------
