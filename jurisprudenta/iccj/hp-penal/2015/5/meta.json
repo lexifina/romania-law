@@ -1,0 +1,176 @@
+{
+ "key": "iccj-hp-penal-5-2015",
+ "label": "Decizia ÎCCJ nr. 5/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "5",
+ "date": "2015-03-04",
+ "year": "2015",
+ "heading": "DECIZIE nr. 5 din 4 martie 2015",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile, în sensul \"dacă hotărârea pronunţată în soluţionarea căii de atac extraordinare prevăzute de art. 426 din Codul de procedură penală şi împotriva unei sentinţe pentru care nu este prevăzută de lege o cale de atac poate fi supusă apelului, conform art. 432 alin. (4) din Codul de procedură penală\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "248",
+  "bis": false,
+  "date": "2015-04-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "169/1/2015",
+  "32.177/215/2014",
+  "25.872/215/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "426",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Dolj - Secţia penală şi pentru cauze cu minori în Dosarul nr. 32.177/215/2014 prin care se solicită pronunţarea unei hotărâri prealabile, în sensul \"dacă hotărârea pronunţată în soluţionarea căii de atac extraordinare prevăzute de art. 426 din Codul de procedură penală şi împotriva unei sentinţe pentru care nu este prevăzută de lege o cale de atac poate fi supusă apelului, conform art. 432 alin. (4) din Codul de procedură penală.\" Stabileşte că hotărârea pronunţată în procedura examinării admisibilităţii în principiu a contestaţiei în anulare, împotriva unei sentinţe pentru care nu este prevăzută o cale de atac, nu poate fi supusă apelului.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "i",
+      "b"
+     ]
+    },
+    {
+     "art": "432",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "428",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "465",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "463",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 78
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "386",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-04-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167125",
+  "text_sha256": "42b7719c5891828b4a6748332b317384078118eee7e170e1e98c37c4fbfef9f4",
+  "catalogue_sha256": "42b7719c5891828b4a6748332b317384078118eee7e170e1e98c37c4fbfef9f4",
+  "fetched": "2026-11-03T03:45:59Z",
+  "chars": 53732,
+  "portal_id": "167125",
+  "tip": "DECIZIE"
+ }
+}
