@@ -1,0 +1,205 @@
+{
+ "key": "cedo-19037-07-2014-09-16",
+ "label": "CEDO, Rozalia Avram c. României, 2014-09-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2014-09-16",
+ "year": "2014",
+ "heading": "HOTĂRÂRE din 16 septembrie 2014",
+ "subtitle": "în Cauza Rozalia Avram împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "252",
+  "bis": false,
+  "date": "2015-04-15",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "19037/07"
+ ],
+ "case_name": "Rozalia Avram",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. uneşte cu fondul excepţia lipsei calităţii de victimă a reclamantei şi o respinge; 2. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1 din Convenţie; 3. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 4. hotărăşte că nu este necesară examinarea admisibilităţii şi temeiniciei capătului de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie; 5. hotărăşte că problema aplicării art. 41 din Convenţie nu se află în stare de judecată.",
+  "În consecinţă:",
+  "a) amână pronunţarea în totalitate;",
+  "b) solicită Guvernului şi reclamantei să îi adreseze în scris, în termen de 6 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, observaţiile lor cu privire la această problemă şi în special să o informeze despre orice acord la care ar putea ajunge părţile;",
+  "c) amână procedura ulterioară şi deleagă preşedintelui camerei sarcina stabilirii acesteia după caz."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167183",
+  "text_sha256": "5f5b95105f9ef51e8b37a017be8cc9c547349845de5d171baa636b4ab0179336",
+  "catalogue_sha256": "5f5b95105f9ef51e8b37a017be8cc9c547349845de5d171baa636b4ab0179336",
+  "fetched": "2026-11-03T03:45:56Z",
+  "chars": 22729,
+  "portal_id": "167183",
+  "tip": "HOTĂRÂRE"
+ }
+}
