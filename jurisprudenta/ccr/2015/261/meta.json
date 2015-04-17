@@ -1,0 +1,256 @@
+{
+ "key": "dcc-261-2015",
+ "label": "Decizia CCR nr. 261/2015",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "261",
+ "date": "2015-04-08",
+ "year": "2015",
+ "heading": "DECIZIE nr. 261 din 8 aprilie 2015",
+ "subtitle": "referitoare la cererea de soluţionare a conflictului juridic de natură constituţională dintre Ministerul Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie şi Senatul României, cerere formulată de preşedintele Consiliului Superior al Magistraturii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "260",
+  "bis": false,
+  "date": "2015-04-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "672E/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Curtea constată existenţa unui conflict juridic de natură constituţională între Ministerul Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie şi Senatul României, declanşat de refuzul acestuia din urmă de a redacta şi publica hotărârea care atestă rezultatul votului dat în Plenul Senatului. 2. Senatul are obligaţia de a redacta hotărârea adoptată în şedinţa Plenului din 25 martie 2014 prin care atestă rezultatul votului dat cu privire la cererea de încuviinţare a arestării senatorului Dan-Coman Şova, de a comunica hotărârea autorităţilor publice competente şi de a o publica în Monitorul Oficial al României.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedintelui Consiliului Superior al Magistraturii, Ministerului Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie şi Senatului României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e",
+      "d",
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 59
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-04-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167235",
+  "text_sha256": "04ee638b00b17d11034519442f2d105ede1e94ba3f5da7ecd0f52d8c2d8ec179",
+  "catalogue_sha256": "04ee638b00b17d11034519442f2d105ede1e94ba3f5da7ecd0f52d8c2d8ec179",
+  "fetched": "2026-11-03T03:45:51Z",
+  "chars": 57189,
+  "portal_id": "167235",
+  "tip": "DECIZIE"
+ }
+}
