@@ -1,0 +1,119 @@
+{
+ "key": "cedo-53150-12-2014-12-02",
+ "label": "CEDO, Cutean c. României, 2014-12-02",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2014-12-02",
+ "year": "2014",
+ "heading": "HOTĂRÂRE din 2 decembrie 2014",
+ "subtitle": "în Cauza Cutean împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "261",
+  "bis": false,
+  "date": "2015-04-20",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "struck-out"
+ ],
+ "applications": [
+  "53150/12"
+ ],
+ "case_name": "Cutean",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. ia notă de dorinţa reclamantului de a renunţa la capătul de cerere întemeiat pe art. 3 din Convenţie, referitor la condiţiile fizice de detenţie şi la condiţiile de transport la instanţele interne; 2. decide să radieze această parte din cerere de pe rol în conformitate cu art. 37 § 1 lit. a) şi c) din Convenţie; 3. declară admisibil capătul de cerere întemeiat pe art. 6 din Convenţie referitor la neîndeplinirea obligaţiei instanţelor naţionale care l-au condamnat de a-i asculta pe el şi pe martori şi celelalte capete de cerere inadmisibile; 4. hotărăşte că a fost încălcat art. 6 din Convenţie; 5. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume:",
+  "(i) 2.400 EUR (două mii patru sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, cu titlu de prejudiciu moral; (ii) 1.953 EUR (o mie nouă sute cincizeci şi trei de euro), plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit, cu titlu de cheltuieli de judecată, în contul bancar indicat de reclamant;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "6. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167255",
+  "text_sha256": "b86c0a5e14f67836a125bfafa7c53d8574cae2875c8b43bbcab6c96590c07a53",
+  "catalogue_sha256": "b86c0a5e14f67836a125bfafa7c53d8574cae2875c8b43bbcab6c96590c07a53",
+  "fetched": "2026-11-03T03:45:50Z",
+  "chars": 45677,
+  "portal_id": "167255",
+  "tip": "HOTĂRÂRE"
+ }
+}
