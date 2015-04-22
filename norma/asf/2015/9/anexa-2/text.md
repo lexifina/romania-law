@@ -1,0 +1,9 @@
+# Anexa nr. 2
+DECLARAȚIE
+Subsemnatul,........(numele și prenumele)....., propus pentru funcția de (având funcția de)......... la........(denumirea brokerului de asigurare/reasigurare)........., declar că:
+1. nu voi deține aceeași funcție la o altă persoană juridică română sau străină după obținerea autorizației de funcționare ori după aprobarea de către Autoritatea de Supraveghere Financiară, precum și în timpul exercitării funcției la brokerul de asigurare și/sau de reasigurare, cu excepția posibilității desfășurării de activități didactice și cercetare științifică, cu evitarea conflictului de interese;
+.........................................................................
+2. nu am fost sancționat cu retragerea autorizației de către o autoritate din România sau din străinătate însărcinată cu supravegherea în domeniul asigurărilor sau financiar-bancar în ultimii 5 ani.
+Subsemnatul,..............., cunoscând prevederile Codului penal privind falsul în declarații, declar pe propria răspundere că toate informațiile sunt complete și conforme cu realitatea și că nu există alte fapte relevante care trebuie aduse la cunoștința Autorității de Supraveghere Financiară.
+Data....................................
+Semnătura...............................

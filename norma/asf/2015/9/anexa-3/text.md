@@ -1,0 +1,9 @@
+# Anexa nr. 3
+DECLARAȚIE
+Subsemnatul,.......(numele și prenumele)....., propus pentru funcția de (având funcția de)........... la.......(denumirea brokerului de asigurare/reasigurare)............, declar că:
+1. nu sunt angajat al unei societăți de asigurare/reasigurare, persoană juridică română sau străină, condiție pe care o voi îndeplini și după obținerea autorizației de funcționare, și voi avea domiciliul/reședința în..........................................;
+2. societatea.......(denumirea brokerului de asigurare/reasigurare)........... nu este și nu va fi acționar ori asociat direct sau indirect ori administrator al unui asigurător, reasigurător, agent de asigurare sau de reasigurare ori al unui agent de asigurare subordonat și că nu are și nu va avea ca acționar sau asociat direct ori indirect sau ca administrator un asigurător, reasigurător, un agent de asigurare ori de reasigurare, un agent de asigurare subordonat sau conducătorul unui agent de asigurare persoană juridică.
+...............................................................
+Subsemnatul,.............., cunoscând prevederile Codului penal privind falsul în declarații, declar pe propria răspundere că toate informațiile sunt complete și conforme cu realitatea și că nu există alte fapte relevante care trebuie aduse la cunoștința Autorității de Supraveghere Financiară.
+Data....................................
+Semnătura...............................
