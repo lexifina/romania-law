@@ -1,0 +1,199 @@
+{
+ "key": "dcc-106-2015",
+ "label": "Decizia CCR nr. 106/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "106",
+ "date": "2015-03-10",
+ "year": "2015",
+ "heading": "DECIZIE nr. 106 din 10 martie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 lit. b) din Legea nr. 78/2000 pentru prevenirea, descoperirea şi sancţionarea faptelor de corupţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "269",
+  "bis": false,
+  "date": "2015-04-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "18.543/281/2007",
+  "551D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Traian Bărdăuş în Dosarul nr. 18.543/281/2007 al Judecătoriei Ploieşti - Secţia penală şi constată că dispoziţiile art. 10 lit. b) din Legea nr. 78/2000 pentru prevenirea, descoperirea şi sancţionarea faptelor de corupţie sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Ploieşti - Secţia penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/2007",
+    "number": "69",
+    "year": "2007",
+    "path": "lege/2007/69"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-04-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167318",
+  "text_sha256": "0c724e593f7a9b0d5674d47456fcd0482116c3c4e2f727b62049e312165003a2",
+  "catalogue_sha256": "0c724e593f7a9b0d5674d47456fcd0482116c3c4e2f727b62049e312165003a2",
+  "fetched": "2026-11-03T03:45:47Z",
+  "chars": 15094,
+  "portal_id": "167318",
+  "tip": "DECIZIE"
+ }
+}
