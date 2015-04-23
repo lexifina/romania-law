@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-172-14-concluzii-2015-04-23",
+ "label": "CJUE, Concluziile avocatului general N. Wahl prezentate la 23 aprilie 2015, Cauza C-172/14.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2015-04-23",
+ "year": "2015",
+ "case": "Cauza C-172/14.",
+ "celex": "62014CC0172",
+ "ecli": "ECLI:EU:C:2015:272",
+ "heading": "Concluziile avocatului general N. Wahl prezentate la 23 aprilie 2015",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casaţie şi Justiţie.",
+ "national_followup": null,
+ "parties": "ING Pensii - Societate de Administrare a unui Fond de Pensii Administrat Privat SA împotriva Consiliului Concurenței.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Înțelegeri – Modalități de repartizare a clienților pe o piață a fondurilor de pensii private – Existența unei restrângeri a concurenței în sensul articolului 101 TFUE – Afectarea comerțului dintre statele membre.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CC0172",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-172/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/a6762fdb-e9d0-11e4-892c-01aa75ed71a1.0021.01/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "5c4bcf7d17cb686c7a2666746882e925ab9b63d8719e1a5952b1b39645e62997"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
