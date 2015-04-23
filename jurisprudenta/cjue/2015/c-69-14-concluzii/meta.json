@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-69-14-concluzii-2015-04-23",
+ "label": "CJUE, Concluziile avocatului general N. Jääskinen prezentate la 23 aprilie 2015, Cauza C-69/14.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2015-04-23",
+ "year": "2015",
+ "case": "Cauza C-69/14.",
+ "celex": "62014CC0069",
+ "ecli": "ECLI:EU:C:2015:269",
+ "heading": "Concluziile avocatului general N. Jääskinen prezentate la 23 aprilie 2015",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Sibiu.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Principiile echivalenței și efectivității – Autoritate de lucru judecat – Restituirea plății nedatorate – Restituirea taxelor percepute de un stat membru cu încălcarea dreptului Uniunii – Hotărâre judecătorească definitivă care obligă la plata unei taxe incompatibile cu dreptul Uniunii – Cerere de revizuire a unei astfel de hotărâri judecătorești – Legislație națională care permite revizuirea, având în vedere hotărârile ulterioare ale Curții pronunțate cu titlu preliminar, doar a hotărârilor judecătorești definitive în materie administrativă.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CC0069",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-69/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/3d486aaa-e9d1-11e4-892c-01aa75ed71a1.0021.01/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "fd4821b6d9f2b12c80ea3358c6a4d151eef4c96321b0fe78db60f9d155bdd0f7"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
