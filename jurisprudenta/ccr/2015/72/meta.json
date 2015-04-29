@@ -1,0 +1,246 @@
+{
+ "key": "dcc-72-2015",
+ "label": "Decizia CCR nr. 72/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "72",
+ "date": "2015-02-26",
+ "year": "2015",
+ "heading": "DECIZIE nr. 72 din 26 februarie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 8, 10, 12, 15, 17, 21, 22 şi 25 din Legea nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "294",
+  "bis": false,
+  "date": "2015-04-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.420/2/2013",
+  "592D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 176/2010",
+    "number": "176",
+    "year": "2010",
+    "path": "lege/2010/176"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Nicolae Iustin Urdea în Dosarul nr. 5.420/2/2013 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi constată că dispoziţiile art. 8, 10, 12, 15, 17, 21, 22 şi 25 din Legea nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 176/2010",
+    "number": "176",
+    "year": "2010",
+    "path": "lege/2010/176"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 144/2007",
+    "number": "144",
+    "year": "2007",
+    "path": "lege/2007/144"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-04-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167544",
+  "text_sha256": "641934896311bb7b07b0ddde27c06bde10a68b60c98d9f627c95d8755c53fbde",
+  "catalogue_sha256": "641934896311bb7b07b0ddde27c06bde10a68b60c98d9f627c95d8755c53fbde",
+  "fetched": "2026-11-03T03:45:31Z",
+  "chars": 17270,
+  "portal_id": "167544",
+  "tip": "DECIZIE"
+ }
+}
