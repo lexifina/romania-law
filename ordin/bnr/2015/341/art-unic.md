@@ -1,0 +1,3 @@
+# Articolul unic
+Se dispune radierea din registrele general și special ale instituțiilor financiare nebancare a Societății Comerciale ING COMMERCIAL FINANCE IFN - S.A., cu sediul în București, bd. Iancu de Hunedoara, B.C.F. nr. 48, sectorul 1, înregistrată la registrul comerțului sub nr. J40/14042/2006, cod unic de înregistrare 18984588, înscrisă în Registrul general al instituțiilor financiare nebancare sub nr. RG-PJR-41-110063 și în Registrul special al instituțiilor financiare nebancare sub nr. RS-PJR-41-110069, la secțiunea k) "Activități multiple de creditare".
+Guvernatorul Băncii Naționale a României, Mugur Constantin Isărescu București, 17 aprilie 2015. Nr. 341. -----
