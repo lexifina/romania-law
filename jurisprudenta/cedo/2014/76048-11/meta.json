@@ -1,0 +1,75 @@
+{
+ "key": "cedo-76048-11-2014-10-07",
+ "label": "CEDO, Valeriu Marius Ielcean c. României, 2014-10-07",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2014-10-07",
+ "year": "2014",
+ "heading": "DECIZIE din 7 octombrie 2014",
+ "subtitle": "cu privire la Cererea nr. 76.048/11 introdusă de Valeriu Marius Ielcean împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "304",
+  "bis": false,
+  "date": "2015-05-05",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "inadmissible",
+  "struck-out"
+ ],
+ "applications": [
+  "76048/11"
+ ],
+ "case_name": "Valeriu Marius Ielcean",
+ "subjects": [],
+ "operative": [
+  "În unanimitate, CURTEA: ia act de termenii declaraţiei Guvernului pârât, în ceea ce priveşte plângerea în temeiul art. 6 din Convenţie cu privire la respingerea de către instanţele naţionale a cererii reclamantului de actualizare a cuantumului prejudiciului moral şi material cu rata inflaţiei, bazându-se pe constatarea greşită că acesta nu a depus o astfel de cerere la instanţe; decide să radieze această parte din cerere în conformitate cu art. 37 § 1 lit. c) din Convenţie; declară inadmisibile celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167676",
+  "text_sha256": "41eb307936e86b802452072ac9022edd4e7bd34a528ab290656a41981b8fa1d0",
+  "catalogue_sha256": "41eb307936e86b802452072ac9022edd4e7bd34a528ab290656a41981b8fa1d0",
+  "fetched": "2026-11-03T03:45:23Z",
+  "chars": 10967,
+  "portal_id": "167676",
+  "tip": "DECIZIE"
+ }
+}
