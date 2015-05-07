@@ -1,0 +1,154 @@
+{
+ "key": "dcc-160-2015",
+ "label": "Decizia CCR nr. 160/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "160",
+ "date": "2015-03-17",
+ "year": "2015",
+ "heading": "DECIZIE nr. 160 din 17 martie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Ordonanţei de urgenţă a Guvernului nr. 37/2012 pentru stabilirea unor măsuri privind încadrarea absolvenţilor promoţiilor 2012 ale instituţiilor de formare profesională iniţială din sistemul de apărare naţională, ordine publică şi siguranţă naţională",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "314",
+  "bis": false,
+  "date": "2015-05-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "24.229/3/2013",
+  "820D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 37/2012",
+    "number": "37",
+    "year": "2012",
+    "path": "oug/2012/37"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Sindicatul Naţional al Poliţiştilor şi Vameşilor Pro Lex şi Valentin Fieraru în Dosarul nr. 24.229/3/2013 al Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi constată că dispoziţiile Ordonanţei de urgenţă a Guvernului nr. 37/2012 pentru stabilirea unor măsuri privind încadrarea absolvenţilor promoţiilor 2012 ale instituţiilor de formare profesională iniţială din sistemul de apărare naţională, ordine publică şi siguranţă naţională sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 37/2012",
+    "number": "37",
+    "year": "2012",
+    "path": "oug/2012/37"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-05-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167781",
+  "text_sha256": "ce51f93209f0c6dd6a5c14486c21a56c24fa3bc45041e31c941a8f2bd2659e4d",
+  "catalogue_sha256": "ce51f93209f0c6dd6a5c14486c21a56c24fa3bc45041e31c941a8f2bd2659e4d",
+  "fetched": "2026-11-03T03:45:18Z",
+  "chars": 10863,
+  "portal_id": "167781",
+  "tip": "DECIZIE"
+ }
+}
