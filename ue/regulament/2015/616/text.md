@@ -1,0 +1,37 @@
+REGULAMENTUL DELEGAT (UE) 2015/616 AL COMISIEI
+din 13 februarie 2015
+de modificare a Regulamentului delegat (UE) nr. 480/2014 în ceea ce privește trimiterile la Regulamentul (UE) nr. 508/2014 al Parlamentului European și al Consiliului
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 1303/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de stabilire a unor dispoziții comune privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune, Fondul european agricol pentru dezvoltare rurală și Fondul european pentru pescuit și afaceri maritime, precum și de stabilire a unor dispoziții generale privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime și de abrogare a Regulamentului (CE) nr. 1083/2006 al Consiliului (1), în special articolul 38 alineatul (4) al treilea paragraf, articolul 68 alineatul (1) al doilea paragraf și articolul 125 alineatul (8) primul paragraf,
+întrucât:
+(1) Regulamentul delegat (UE) nr. 480/2014 al Comisiei (2) a fost adoptat înainte de adoptarea Regulamentului (UE) nr. 508/2014 al Parlamentului European și al Consiliului (3).
+(2) În urma adoptării Regulamentului (UE) nr. 508/2014, este necesară înlocuirea a trei trimiteri provizorii din Regulamentul delegat (UE) nr. 480/2014 care fac referire la viitorul act juridic al Uniunii privind domeniul afacerilor maritime și al pescuitului (FEPAM) cu trimiteri la dispozițiile corespunzătoare din Regulamentul (UE) nr. 508/2014. Prima referire, din articolul 6 din Regulamentul delegat (UE) nr. 480/2014, privește normele specifice referitoare la rolul, răspunderea și responsabilitatea organismelor care implementează instrumentele financiare. Cea de a doua referire, din articolul 20 din Regulamentul delegat (UE) nr. 480/2014, privește tipurile de operațiuni sau de proiecte care fac parte din anumite operațiuni care ar putea utiliza calculul costurilor indirecte prin aplicarea unei rate forfetare stabilite conform articolului 29 alineatul (1) din Regulamentul (UE) nr. 1290/2013 al Parlamentului European și al Consiliului (4). Cea de a treia referire, din articolul 21 din Regulamentul delegat (UE) nr. 480/2014, privește tipurile de operațiuni sau de proiecte care fac parte din anumite operațiuni care ar putea utiliza calculul costurilor indirecte prin aplicarea unei rate forfetare conform articolului 124 alineatul (4) din Regulamentul (UE) nr. 966/2012 al Parlamentului European și al Consiliului (5).
+(3) Întrucât normele privind parteneriatele public-privat stabilite prin Regulamentul (UE) nr. 1303/2013 sunt aplicabile și în cazul FEPAM, este necesară modificarea anexei III la Regulamentul delegat (UE) nr. 480/2014 pentru ca informațiile care specifică dacă operațiunea este pusă în aplicare în cadrul unui structuri de parteneriat public-privat să fie stocate în format electronic în sistemul de monitorizare cu privire la FEPAM.
+(4) Regulamentul delegat (UE) nr. 480/2014 ar trebui, prin urmare, modificat în consecință,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Regulamentul delegat (UE) nr. 480/2014 se modifică după cum urmează:
+1. La articolul 6 alineatul (1), litera (b) se înlocuiește cu următorul text:
+„(b) | destinatarii finali sunt informați cu privire la faptul că finanțarea este furnizată în cadrul programelor cofinanțate prin fondurile ESI în conformitate cu cerințele prevăzute: (i) la articolul 115 din Regulamentul (UE) nr. 1303/2013 pentru FEDER, FSE și Fondul de coeziune; (ii) la articolul 66 alineatul (1) litera (c) punctul (i) din Regulamentul (UE) nr. 1305/2013 al Parlamentului European și al Consiliului(*1) pentru FEADR; (iii) la articolul 97 alineatul (1) litera (b) din Regulamentul (UE) nr. 508/2014 al Parlamentului European și al Consiliului(*2) pentru FEPAM.
+(*1) Regulamentul (UE) nr. 1305/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind sprijinul pentru dezvoltare rurală acordat din Fondul european agricol pentru dezvoltare rurală (FEADR) și de abrogare a Regulamentului (CE) nr. 1698/2005 al Consiliului (JO L 347, 20.12.2013, p. 487)."
+(*2) Regulamentul (UE) nr. 508/2014 al Parlamentului European și al Consiliului din 15 mai 2014 privind Fondul european pentru pescuit și afaceri maritime și de abrogare a Regulamentelor (CE) nr. 2328/2003, (CE) nr. 861/2006, (CE) nr. 1198/2006 și (CE) nr. 791/2007 ale Consiliului și a Regulamentului (UE) nr. 1255/2011 al Parlamentului European și al Consiliului (JO L 149, 20.5.2014, p. 1).” "
+2. La articolul 20, litera (d) se înlocuiește cu următorul text:
+„(d) | operațiunile sprijinite de FEPAM și programate în conformitate cu articolele 26, 28, 39 și 47 din Regulamentul (UE) nr. 508/2014.”
+3. La articolul 21, litera (d) se înlocuiește cu următorul text:
+„(d) | operațiunea sprijinită de FEPAM și programată în conformitate cu articolul 38, articolul 40 alineatul (1), articolul 41 alineatul (1), articolul 44 alineatul (6), articolul 48 alineatul (1) literele (e), (i), (j) sau (k) sau articolul 80 alineatul (1) litera (b) din Regulamentul (UE) nr. 508/2014.”
+4. În anexa III, câmpul de date 17. „Informații dacă operațiunea este implementată în cadrul unei structuri de parteneriat public-privat”, se elimină următorul text din coloana din dreapta „Mențiuni privind fondurile pentru care nu sunt necesare date”:
+„Nu se aplică FEPAM”
+.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 13 februarie 2015.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 347, 20.12.2013, p. 320.
+(2) Regulamentul delegat (UE) nr. 480/2014 al Comisiei din 3 martie 2014 de completare a Regulamentului (UE) nr. 1303/2013 al Parlamentului European și al Consiliului de stabilire a unor dispoziții comune privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune, Fondul european agricol pentru dezvoltare rurală și Fondul european pentru pescuit și afaceri maritime, precum și de stabilire a unor dispoziții generale privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime (JO L 138, 13.5.2014, p. 5).
+(3) Regulamentul (UE) nr. 508/2014 al Parlamentului European și al Consiliului din 15 mai 2014 privind Fondul european pentru pescuit și afaceri maritime și de abrogare a Regulamentelor (CE) nr. 2328/2003, (CE) nr. 861/2006, (CE) nr. 1198/2006 și (CE) nr. 791/2007 ale Consiliului și a Regulamentului (UE) nr. 1255/2011 al Parlamentului European și al Consiliului (JO L 149, 20.5.2014, p. 1).
+(4) Regulamentul (UE) nr. 1290/2013 al Parlamentului European și al Consiliului din 11 decembrie 2013 de stabilire a normelor de participare și diseminare pentru „Programul-cadru pentru cercetare și inovare (2014-2020) – Orizont 2020” și de abrogare a Regulamentului (CE) nr. 1906/2006 (JO L 347, 20.12.2013, p. 81).
+(5) Regulamentul (UE, Euratom) nr. 966/2012 al Parlamentului European și al Consiliului din 25 octombrie 2012 privind normele financiare aplicabile bugetului general al Uniunii și de abrogare a Regulamentului (CE, Euratom) Nr. 1605/2002 al Consiliului (JO L 298, 26.10.2012, p. 1).
