@@ -1,0 +1,181 @@
+{
+ "key": "dcc-94-2015",
+ "label": "Decizia CCR nr. 94/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "94",
+ "date": "2015-03-03",
+ "year": "2015",
+ "heading": "DECIZIE nr. 94 din 3 martie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 şi 6 din Ordonanţa de urgenţă a Guvernului nr. 9/2013 privind timbrul de mediu pentru autovehicule",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "318",
+  "bis": false,
+  "date": "2015-05-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.187/115/2013/a1",
+  "628D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 9/2013",
+    "number": "9",
+    "year": "2013",
+    "path": "oug/2013/9"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Sorinel Vasile Florea în Dosarul nr. 5.187/115/2013/a1 al Tribunalului Caraş-Severin - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că prevederile art. 4 şi 6 din Ordonanţa de urgenţă a Guvernului nr. 9/2013 privind timbrul de mediu pentru autovehicule sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Caraş-Severin - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 9/2013",
+    "number": "9",
+    "year": "2013",
+    "path": "oug/2013/9"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-05-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167831",
+  "text_sha256": "db112efd8fb55aee281723b0ec8e48ff040dac0f9f0da1c9480d0208313a66f8",
+  "catalogue_sha256": "db112efd8fb55aee281723b0ec8e48ff040dac0f9f0da1c9480d0208313a66f8",
+  "fetched": "2026-11-03T03:45:15Z",
+  "chars": 11328,
+  "portal_id": "167831",
+  "tip": "DECIZIE"
+ }
+}
