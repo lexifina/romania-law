@@ -1,0 +1,211 @@
+{
+ "key": "iccj-hp-4-2015",
+ "label": "Decizia ÎCCJ nr. 4/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "4",
+ "date": "2015-02-16",
+ "year": "2015",
+ "heading": "DECIZIE nr. 4 din 16 februarie 2015",
+ "subtitle": "privind sesizarea formulată de Curtea de Apel Cluj în Dosarul nr. 670/33/2014 în vederea pronunţării unei hotărâri prealabile cu privire la unele chestiuni de drept legate de interpretarea dispoziţiilor art. 1 din HG nr. 846/1996",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "324",
+  "bis": false,
+  "date": "2015-05-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "670/33/2014",
+  "15/1/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "HG nr. 846/1996",
+    "number": "846",
+    "year": "1996",
+    "path": "hg/1996/846"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secţia I civilă în Dosarul nr. 670/33/2014, privind pronunţarea unei hotărâri prealabile referitoare la următoarele probleme de drept: 1. \"dacă, în interpretarea dispoziţiilor art. 1 din H.G. nr. 846/1996 coroborat cu dispoziţiile art. 4 şi 5 din acelaşi act normativ, se poate considera că dreptul la indemnizaţia pentru deces, de 100 de solde, se naşte direct în patrimoniul urmaşilor legali sau este un drept ce aparţine patrimoniului succesoral, cules de urmaşi în calitatea acestora de succesori; 2. dacă, în interpretarea dispoziţiilor art. 1 din H.G. nr. 846/1996, se poate considera că:",
+  "a) dreptul la despăgubiri, aici reglementat, este unic în sensul că se acordă o singură dată, în raport de starea iniţială «produsă ca urmare a unor acţiuni militare (...)», fără a avea relevanţă trecerea ulterioară într-un alt grad de invaliditate sau eventualul deces;",
+  "b) în ipoteza unei persoane din categoria celor vizate care parcurge în timp fiecare din cazurile reglementate în acest articol (invaliditate gradul III, trece apoi în invaliditate gradul II, apoi în invaliditate gradul I şi în final decedează) se naşte cu ocazia fiecărei încadrări într-un nou grad de invaliditate, respectiv a decesului: - câte un drept nou pentru a beneficia de integralitatea despăgubirilor aferente acestuia sau - dreptul la diferenţa dintre indemnizaţia acordată iniţial pentru starea de invaliditate mai uşoară şi cea reglementată pentru starea de invaliditate mai gravă, respectiv diferenţa dintre indemnizaţia pentru invaliditate gradul I şi cea pentru deces.\" Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "HG nr. 846/1996",
+    "number": "846",
+    "year": "1996",
+    "path": "hg/1996/846"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 82/2006",
+    "number": "82",
+    "year": "2006",
+    "path": "oug/2006/82"
+   },
+   "articles": [
+    {
+     "art": "8-5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 70/1997",
+    "number": "70",
+    "year": "1997",
+    "path": "lege/1997/70"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 384/2006",
+    "number": "384",
+    "year": "2006",
+    "path": "lege/2006/384"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-05-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167899",
+  "text_sha256": "07bd7184df6b551486188c935af2333825cacc9b40e4b84ea6c1134358a288c2",
+  "catalogue_sha256": "07bd7184df6b551486188c935af2333825cacc9b40e4b84ea6c1134358a288c2",
+  "fetched": "2026-11-03T03:45:11Z",
+  "chars": 41703,
+  "portal_id": "167899",
+  "tip": "DECIZIE"
+ }
+}
