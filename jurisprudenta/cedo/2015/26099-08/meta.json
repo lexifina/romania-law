@@ -1,0 +1,62 @@
+{
+ "key": "cedo-26099-08-2015-02-12",
+ "label": "CEDO, Mihai Klepper Duţă c. României, 2015-02-12",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2015-02-12",
+ "year": "2015",
+ "heading": "DECIZIE din 12 februarie 2015",
+ "subtitle": "cu privire la Cererea nr. 26.099/08 introdusă de Mihai Klepper Duţă împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "334",
+  "bis": false,
+  "date": "2015-05-15",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "26099/08"
+ ],
+ "case_name": "Mihai Klepper Duţă",
+ "subjects": [],
+ "operative": [
+  "În unanimitate, CURTEA: decide scoaterea cererii de pe rol, în conformitate cu art. 39 din Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167975",
+  "text_sha256": "a90fecb82210aa33570d132e4d15333c2bb6e18b45f711b9f18aa01bdc95ca80",
+  "catalogue_sha256": "a90fecb82210aa33570d132e4d15333c2bb6e18b45f711b9f18aa01bdc95ca80",
+  "fetched": "2026-11-03T03:45:07Z",
+  "chars": 3973,
+  "portal_id": "167975",
+  "tip": "DECIZIE"
+ }
+}
