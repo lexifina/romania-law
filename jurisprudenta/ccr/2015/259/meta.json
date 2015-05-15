@@ -1,0 +1,260 @@
+{
+ "key": "dcc-259-2015",
+ "label": "Decizia CCR nr. 259/2015",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "259",
+ "date": "2015-04-08",
+ "year": "2015",
+ "heading": "DECIZIE nr. 259 din 8 aprilie 2015",
+ "subtitle": "referitoare la cererea de soluţionare a conflictului juridic de natură constituţională dintre Ministerul Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie şi Consiliul Superior al Magistraturii, pe de o parte, şi Parlamentul României, respectiv Camera Deputaţilor şi Senatul, pe de altă parte, cerere formulată de Preşedintele României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "334",
+  "bis": false,
+  "date": "2015-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "628E/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Curtea constată că nu există un conflict juridic de natură constituţională între Ministerul Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie şi Consiliul Superior al Magistraturii, pe de o parte, şi Parlamentul României, respectiv Camera Deputaţilor şi Senatul, pe de altă parte, generat de omisiunea Camerei Deputaţilor şi a Senatului de a modifica dispoziţiile art. 24 din Legea nr. 96/2006 privind Statutul deputaţilor şi al senatorilor, respectiv dispoziţiile art. 173 din Regulamentul Senatului.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedintelui Consiliului Superior al Magistraturii, Ministerului Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie, Camerei Deputaţilor şi Senatului României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e",
+      "d",
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2015",
+    "number": "90",
+    "year": "2015",
+    "path": "lege/2015/90"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167972",
+  "text_sha256": "f623d64d75faa29a49e5b4fe2f8a6b05716eada7847bf4621ef7f2c21c342f92",
+  "catalogue_sha256": "f623d64d75faa29a49e5b4fe2f8a6b05716eada7847bf4621ef7f2c21c342f92",
+  "fetched": "2026-11-03T03:45:07Z",
+  "chars": 44642,
+  "portal_id": "167972",
+  "tip": "DECIZIE"
+ }
+}
