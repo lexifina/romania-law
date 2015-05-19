@@ -1,0 +1,212 @@
+{
+ "key": "dcc-341-2015",
+ "label": "Decizia CCR nr. 341/2015",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "341",
+ "date": "2015-05-06",
+ "year": "2015",
+ "heading": "DECIZIE nr. 341 din 6 mai 2015",
+ "subtitle": "asupra sesizării de neconstituţionalitate a dispoziţiilor Hotărârii Senatului nr. 32 din 25 martie 2015 prin care Senatul constată că nu au fost întrunite condiţiile cerute de art. 24 alin. (4) din Legea nr. 96/2006 privind Statutul deputaţilor şi al senatorilor şi de art. 173 din Regulamentul Senatului, pentru a încuviinţa reţinerea şi arestarea preventivă a domnului senator Şova Dan-Coman",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "344",
+  "bis": false,
+  "date": "2015-05-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "814L/2/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea de neconstituţionalitate şi constată că Hotărârea Senatului nr. 32 din 25 martie 2015 prin care Senatul a constatat că nu au fost întrunite condiţiile cerute de art. 24 alin. (4) din Legea nr. 96/2006 privind Statutul deputaţilor şi al senatorilor şi de art. 173 din Regulamentul Senatului, pentru a încuviinţa reţinerea şi arestarea preventivă a domnului senator Şova Dan-Coman, este neconstituţională, întrucât a fost adoptată în temeiul unor dispoziţii legale şi regulamentare care contraveneau prevederilor art. 76 alin. (2) din Constituţie.",
+  "Decizia este definitivă şi general obligatorie.",
+  "Decizia se comunică Senatului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2015",
+    "number": "90",
+    "year": "2015",
+    "path": "lege/2015/90"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/168076",
+  "text_sha256": "12e5096e42884fcf1ba886178c31a3e6ebd306d44f32e3b01dce034a51c40932",
+  "catalogue_sha256": "12e5096e42884fcf1ba886178c31a3e6ebd306d44f32e3b01dce034a51c40932",
+  "fetched": "2026-11-03T03:44:58Z",
+  "chars": 37311,
+  "portal_id": "168076",
+  "tip": "DECIZIE"
+ }
+}
