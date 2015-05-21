@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera a șasea) din 21 mai 2015, Cauza C-262/14
+
+Pentru aceste motive, Curtea (Camera a șasea) declară și hotărăște:
+Articolul 2 alineatul (2) și articolul 3 alineatul (1) din Directiva 2000/78/CE a Consiliului din 27 noiembrie 2000 de creare a unui cadru general în favoarea egalității de tratament în ceea ce privește încadrarea în muncă și ocuparea forței de muncă nu se aplică unei legislații naționale precum cea în discuție în litigiul principal, care impune încetarea de drept a raporturilor de muncă sau a raporturilor de serviciu ale angajaților din sectorul public care beneficiază, pe de altă parte, de o pensie mai mare decât salariul mediu brut și care nu au optat pentru continuarea acestor raporturi de muncă sau a acestor raporturi de serviciu într‑un anumit termen.
