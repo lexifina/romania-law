@@ -1,0 +1,304 @@
+{
+ "key": "iccj-hp-penal-7-2015",
+ "label": "Decizia ÎCCJ nr. 7/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "7",
+ "date": "2015-04-17",
+ "year": "2015",
+ "heading": "DECIZIE nr. 7 din 17 aprilie 2015",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarelor chestiuni, de drept: în cazul în care se formulează o cerere de revizuire împotriva unei încheieri pronunţate de către judecătorul de cameră preliminară, conform art. 341 din Codul de procedură penală, care este organul judiciar competent să soluţioneze o astfel de cerere, judecătorul de cameră preliminară sau instanţa de judecată; ce hotărâre judecătorească urmează a fi pronunţată: o încheiere, asemenea procedurii iniţiale, sau o sentinţă, astfel cum se pronunţă în calea de atac a revizuirii; dacă hotărârea pronunţată într-o asemenea speţă este susceptibilă de a fi supusă vreunei căi ordinare de atac.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "359",
+  "bis": false,
+  "date": "2015-05-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "523/1/2015",
+  "555/42/2014/a1"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Ploieşti - Secţia penală şi pentru cauze cu minori şi de familie în Dosarul nr. 555/42/2014/a1 privind pronunţarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: 1. în cazul în care se formulează o cerere de revizuire împotriva unei încheieri pronunţate de către judecătorul de cameră preliminară, conform art. 341 din Codul de procedură penală, care este organul judiciar competent să soluţioneze o astfel de cerere, judecătorul de cameră preliminară sau instanţa de judecată; 2. ce hotărâre judecătorească urmează a fi pronunţată: o încheiere, asemenea procedurii iniţiale, sau o sentinţă, astfel cum se pronunţă în calea de atac a revizuirii; 3. dacă hotărârea pronunţată, într-o asemenea speţă, este susceptibilă de a fi supusă vreunei căi ordonare de atac.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "5",
+      "7",
+      "8"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "459",
+     "alin": [
+      "7",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "462",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "463",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "456",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "393",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "551",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "552",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "216",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "242",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 62
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-05-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/168243",
+  "text_sha256": "3531eef75f45e272269e92eb693032b8fd9fa3e360ba7554e702dfde20d25696",
+  "catalogue_sha256": "3531eef75f45e272269e92eb693032b8fd9fa3e360ba7554e702dfde20d25696",
+  "fetched": "2026-11-03T03:44:52Z",
+  "chars": 57997,
+  "portal_id": "168243",
+  "tip": "DECIZIE"
+ }
+}
