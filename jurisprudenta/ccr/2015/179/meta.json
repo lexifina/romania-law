@@ -1,0 +1,236 @@
+{
+ "key": "dcc-179-2015",
+ "label": "Decizia CCR nr. 179/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "179",
+ "date": "2015-03-19",
+ "year": "2015",
+ "heading": "DECIZIE nr. 179 din 19 martie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 48 pct. 2 din Ordonanţa de urgenţă a Guvernului nr. 88/2013 privind adoptarea unor măsuri fiscal-bugetare pentru îndeplinirea unor angajamente convenite cu organismele internaţionale, precum şi pentru modificarea şi completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "370",
+  "bis": false,
+  "date": "2015-05-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.368/83/2014",
+  "1.305D/2014",
+  "1.419/83/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 88/2013",
+    "number": "88",
+    "year": "2013",
+    "path": "oug/2013/88"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Rodica Ileana Dragoş, Raimond Ioan Bicsi, Gyongyi Gulya, Lenuţa Nistor, Rodica Semeniuc, Eva Csilla Vincze, Erika Maria Lazăr, Zoltan Imre, Ioan Ardelean, Mariana Ciontoş şi Erzsebet Nyiri în dosarele nr. 1.368/83/2014, 1.375/83/2014, 1.417/83/2014, 1.438/83/2014, 1.439/83/2014, 1.440/83/2014, 1.441/83/2014, 1.443/83/2014, 1.377/83/2014, 1.379/83/2014 şi 1.419/83/2014 ale Tribunalului Satu Mare - Secţia I civilă şi constată că dispoziţiile art. 48 pct. 2 din Ordonanţa de urgenţă a Guvernului nr. 88/2013 privind adoptarea unor măsuri fiscal-bugetare pentru îndeplinirea unor angajamente convenite cu organismele internaţionale, precum şi pentru modificarea şi completarea unor acte normative sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Satu Mare - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 88/2013",
+    "number": "88",
+    "year": "2013",
+    "path": "oug/2013/88"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "6",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "296-4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "t"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 98/1999",
+    "number": "98",
+    "year": "1999",
+    "path": "oug/1999/98"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 158/2005",
+    "number": "158",
+    "year": "2005",
+    "path": "oug/2005/158"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/168357",
+  "text_sha256": "e382ad0c29023576d712333cc9078914863801a89fe26d744e67ac07b6cbe493",
+  "catalogue_sha256": "e382ad0c29023576d712333cc9078914863801a89fe26d744e67ac07b6cbe493",
+  "fetched": "2026-11-03T03:44:46Z",
+  "chars": 17909,
+  "portal_id": "168357",
+  "tip": "DECIZIE"
+ }
+}
