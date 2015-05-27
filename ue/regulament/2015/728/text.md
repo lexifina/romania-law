@@ -1,0 +1,35 @@
+REGULAMENTUL (UE) 2015/728 AL COMISIEI
+din 6 mai 2015
+de modificare a definiției materialelor cu riscuri specificate stabilite în anexa V la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului de stabilire a unor reglementări pentru prevenirea, controlul și eradicarea anumitor forme transmisibile de encefalopatie spongiformă
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului din 22 mai 2001 de stabilire a unor reglementări pentru prevenirea, controlul și eradicarea anumitor forme transmisibile de encefalopatie spongiformă (1), în special articolul 23 alineatul (1),
+întrucât:
+(1) Regulamentul (CE) nr. 999/2001 stabilește norme pentru prevenirea, controlul și eradicarea encefalopatiilor spongiforme transmisibile (EST) la animale. Acesta se aplică producției și introducerii pe piață a animalelor vii și a produselor de origine animală și, în anumite cazuri specifice, exportului acestora.
+(2) Regulamentul (CE) nr. 999/2001 prevede că materialele cu riscuri specificate (MRS) trebuie să fie îndepărtate și distruse în conformitate cu anexa V la regulamentul respectiv. În conformitate cu respectiva anexă, MRS includ intestinele de la duoden până la rect și mezenterul bovinelor de toate vârstele.
+(3) Comunicarea Comisiei către Parlamentul European și către Consiliu – Foaie de drum nr. 2 pentru EST – Document de strategie privind encefalopatiile spongiforme transmisibile pentru 2010-2015 din 16 iulie 2010 (2) afirmă că orice modificare a listei MRS în vigoare menționate în anexa V la Regulamentul (CE) nr. 999/2001 („Lista MRS”) ar trebui să se bazeze pe noile cunoștințe științifice în constantă evoluție și să mențină în același timp nivelul ridicat existent de protecție a consumatorilor pe teritoriul Uniunii.
+(4) La 13 februarie 2014, Autoritatea Europeană pentru Siguranța Alimentară (EFSA) a publicat un aviz științific privind riscul de ESB legat de intestinele și mezenterul de bovine (3) (denumit în continuare „avizul EFSA”) care cuantifică infecțiozitatea în diferite părți ale intestinelor și mezenterului de bovine. În conformitate cu avizul EFSA, la bovinele infectate cu ESB: (i) până la vârsta de 36 luni, infecțiozitatea cu ESB este legată, în proporție de peste 90 %, de ultimii patru metri ai intestinului subțire și de cecum; (ii) între 36 și 60 luni, există o variabilitate interindividuală substanțială în ceea ce privește contribuția relativă a structurilor intestinale și mezenterice la infecțiozitatea totală; (iii) începând cu vârsta de 60 luni, infecțiozitatea cu ESB este legată, în proporție de peste 90 %, de nervii mezenterici și de grupul ganglionar celiac și mezenteric; (iv) duodenul, colonul și ganglionii limfatici mezenterici contribuie în proporție de mai puțin de 0,1 % la infecțiozitatea totală a animalului infectat, indiferent de vârsta sa la sacrificare. Avizul EFSA afirmă, de asemenea, că infecțiozitatea totală legată de țesuturile respective variază în funcție de vârsta animalului infectat, ea înregistrând o valoare maximă la animalele mai mici de 18 luni, urmată de o scădere progresivă la animalele de peste 60 luni.
+(5) Nervii mezenterici și grupul ganglionar celiac și mezenteric sunt țesuturi legate de mezenter și de grăsimea mezenterică și, prin urmare, nu există nicio modalitate practică de a le separa în mod eficient.
+(6) Pentru a se asigura că normele privind îndepărtarea MRS sunt operaționale și că nu prezintă o complexitate inutilă, precum și pentru a facilita controalele, ar trebui să se evite, acolo unde este cazul, să se stabilească diferențe în lista MRS aplicabile pe baza vârstei animalului sacrificat. Pentru a menține un nivel ridicat de protecție a sănătății umane, ultimii patru metri ai intestinului subțire, cecumul și mezenterul (care nu poate fi disociat de nervii mezenterici, de grupul ganglionar celiac și mezenteric și de grăsimea mezenterică) ar trebui, prin urmare, să fie menținute în lista MRS pentru animalele de toate vârstele.
+(7) Avizul științific al EFSA privind revizuirea evaluării cantitative a riscului de ESB generat de proteinele animale prelucrate (PAP), publicat în 2011 (4), arată că 90 % din infecțiozitatea totală într-un caz clinic de ESB este asociată cu țesuturile sistemului nervos central și periferic, iar aproximativ 10 % cu ileonul distal. Infecțiozitatea reziduală din alte părți ale intestinelor decât ultimii patru metri ai intestinului subțire și cecumul poate fi considerată neglijabilă. O decizie de gestionare a riscului nu poate avea ca obiectiv eliminarea completă a riscului.
+(8) Excluderea din lista MRS a duodenului, colonului și intestinului subțire cu excepția ultimilor patru metri ar permite apropierea listei MRS a UE de standardele internaționale. Într-adevăr, în ceea ce privește intestinele și mezenterul de bovine, articolul 11.4.14 din Codul sanitar pentru animale terestre al OIE recomandă să nu se comercializeze ileonul distal (ultima parte a intestinului subțire) de la bovinele de toate vârstele care provin din țări cu un risc de ESB controlat sau cu un risc de ESB nedeterminat. Prin urmare, nu există nicio recomandare a OIE care să interzică comercializarea celorlalte părți ale intestinelor sau a mezenterului de bovine.
+(9) Pe baza avizului emis de EFSA și a recomandărilor din Codul sanitar pentru animale terestre al OIE, lista MRS referitoare la bovine ar trebui modificată pentru a include ultimii patru metri a intestinului subțire, cecumul și mezenterul (care nu poate fi disociat de nervii mezenterici, de grupul ganglionar celiac și mezenteric și de grăsimea mezenterică) și pentru a exclude celelalte părți ale intestinelor de bovine, și anume duodenul, colonul și intestinul subțire cu excepția ultimilor patru metri.
+(10) Prin urmare, anexa V la Regulamentul (CE) nr. 999/2001 ar trebui modificată în consecință.
+(11) Măsurile prevăzute de prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+În anexa V la Regulamentul (CE) nr. 999/2001 punctul 1 litera (a), subpunctul (iii) se înlocuiește cu următorul text:
+„(iii) | amigdalele, ultimii patru metri ai intestinului subțire, cecumul și mezenterul animalelor de toate vârstele”
+.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 6 mai 2015.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 147, 31.5.2001, p. 1.
+(2) Comunicare a Comisiei către Parlamentul European și către Consiliu – Foaie de drum nr. 2 pentru EST – Document de strategie privind encefalopatiile spongiforme transmisibile pentru 2010-2015; COM(2010) 384 final.
+(3) EFSA Journal 2014; 12(2):3554.
+(4) EFSA Journal 2011;9(1):1947.
