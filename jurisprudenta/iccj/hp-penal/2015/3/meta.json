@@ -1,0 +1,277 @@
+{
+ "key": "iccj-hp-penal-3-2015",
+ "label": "Decizia ÎCCJ nr. 3/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "3",
+ "date": "2015-02-16",
+ "year": "2015",
+ "heading": "DECIZIE nr. 3 din 16 februarie 2015",
+ "subtitle": "privind examinarea sesizării formulate de Tribunalul Iaşi - Secţia penală prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept în sensul de a se stabili dacă, în aplicarea dispoziţiilor art. 6 din Codul penal, la stabilirea pedepsei aplicabile potrivit noii legi în cazul unei pluralităţi de infracţiuni care, potrivit Codului penal din 1969, presupunea reţinerea stării de recidivă postcondamnatorie, iar, potrivit noului Cod penal, condiţiile art. 41 nu mai sunt întrunite, se ia în considerare pedeapsa aplicabilă potrivit art. 43 alin. (1), fără aprecieri asupra stării de recidivă, sau cea aplicabilă potrivit art. 44 raportat la art. 39 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "380",
+  "bis": false,
+  "date": "2015-06-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "31/1/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Iaşi - Secţia penală în Dosarul nr. 8.624/245/2014 prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"dacă, în aplicarea dispoziţiilor art. 6 din Codul penal, la stabilirea pedepsei aplicabile potrivit noii legi în cazul unei pluralităţi de infracţiuni care, potrivit Codului penal din 1969, presupunea reţinerea stării de recidivă postcondamnatorie, iar, potrivit noului Cod penal condiţiile art. 41 nu mai sunt întrunite, se ia în considerare pedeapsa aplicabilă potrivit art. 43 alin. (1), fără aprecieri asupra stării de recidivă, sau cea aplicabilă potrivit art. 44 raportat la art. 39 din Codul penal\".",
+  "Statuează în sensul că, în aplicarea dispoziţiilor art. 6 din Codul penal, stabilirea pedepsei în baza legii noi, în cazul pluralităţii de infracţiuni care, potrivit Codului penal din 1969, presupunea reţinerea stării de recidivă postcondamnatorie cu revocarea suspendării condiţionate, iar, potrivit Codului penal, condiţiile recidivei postcondamnatorii cu privire la primul termen nu mai sunt întrunite, se determină conform art. 44 raportat la art. 39 din Codul penal, referitoare la pluralitatea intermediară.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": [
+      "1",
+      "2",
+      "2-1"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 57
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": [
+      "1",
+      "2",
+      "21"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/168440",
+  "text_sha256": "22a4d0eab92e90e0512d877488efbcedddab326ab99781d51b0e0390bae08cd8",
+  "catalogue_sha256": "22a4d0eab92e90e0512d877488efbcedddab326ab99781d51b0e0390bae08cd8",
+  "fetched": "2026-11-03T03:44:40Z",
+  "chars": 53624,
+  "portal_id": "168440",
+  "tip": "DECIZIE"
+ }
+}
