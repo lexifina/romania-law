@@ -1,0 +1,225 @@
+{
+ "key": "iccj-hp-penal-10-2015",
+ "label": "Decizia ÎCCJ nr. 10/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "10",
+ "date": "2015-04-22",
+ "year": "2015",
+ "heading": "DECIZIE nr. 10 din 22 aprilie 2015",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept vizând modalitatea de interpretare a dispoziţiilor art. 367 alin. (1) şi (6) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "389",
+  "bis": false,
+  "date": "2015-06-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "610/1/2015",
+  "11.491/63/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "367",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de către Curtea de Apel Craiova, Secţia penală şi pentru cauze cu minori, prin Încheierea din 9 februarie 2015, dată în Dosarul nr. 11.491/63/2013, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept vizând modalitatea de interpretare a dispoziţiilor art. 367 alin. (1) şi (6) din Codul penal, respectiv dacă este îndeplinită condiţia tipicităţii infracţiunii de grup infracţional organizat (sau dacă sunt întrunite elementele constitutive) atunci când pentru infracţiunea care intră în scopul grupului a intervenit dezincriminarea odată cu intrarea în vigoare a noului Cod penal.",
+  "În interpretarea dispoziţiilor art. 367 alin. (1) şi (6) din Codul penal stabileşte că, în ipoteza în care, odată cu intrarea în vigoare a noului Cod penal, infracţiunea care intră în scopul grupului organizat a fost dezincriminată, nu mai este îndeplinită una dintre trăsăturile esenţiale ale infracţiunii, respectiv condiţia tipicităţii.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "367",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "314",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 112/2001",
+    "number": "112",
+    "year": "2001",
+    "path": "oug/2001/112"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "98",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/168550",
+  "text_sha256": "8643ac600a44738f8bd43416ca199020bbab2254c31b0d0b97e83e2048f4bc11",
+  "catalogue_sha256": "8643ac600a44738f8bd43416ca199020bbab2254c31b0d0b97e83e2048f4bc11",
+  "fetched": "2026-11-03T03:44:35Z",
+  "chars": 38185,
+  "portal_id": "168550",
+  "tip": "DECIZIE"
+ }
+}
