@@ -1,0 +1,286 @@
+{
+ "key": "iccj-hp-penal-12-2015",
+ "label": "Decizia ÎCCJ nr. 12/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "12",
+ "date": "2015-05-06",
+ "year": "2015",
+ "heading": "DECIZIE nr. 12 din 6 mai 2015",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea în principiu a problemei de drept, respectiv dacă, în aplicarea art. 6 alin. (1) din Codul penal, cu privire la o pedeapsă definitivă pentru o infracţiune care a produs consecinţe deosebit de grave potrivit Codului penal anterior, pentru determinarea maximului special prevăzut de legea nouă urmează să se reţină cauza de majorare a pedepsei prevăzute de art. 309 din Codul penal, chiar dacă prejudiciul produs prin respectiva infracţiune nu depăşeşte pragul prevăzut de art. 183 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "409",
+  "bis": false,
+  "date": "2015-06-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "857/1/2015",
+  "2.635/93/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bucureşti, Secţia a II-a penală prin Încheierea din data de 10 februarie 2015, în Dosarul nr. 2.635/93/2014 (4.246/2014), în vederea pronunţării unei hotărâri prealabile pentru dezlegarea chestiunii de drept: \"dacă, în aplicarea art. 6 alin. (1) din Codul penal, cu privire la o pedeapsă definitivă pentru o infracţiune care a produs consecinţe deosebit de grave potrivit Codului penal anterior, pentru determinarea maximului special prevăzut de legea nouă urmează să se reţină cauza de majorare a pedepsei prevăzută de art. 309 din Codul penal, chiar dacă prejudiciul produs prin respectiva infracţiune nu depăşeşte pragul prevăzut de art. 183 din Codul penal\" şi stabileşte:",
+  "În interpretarea dispoziţiilor art. 6 alin. (1) din Codul penal, în cazul pedepselor definitive pentru infracţiuni care au produs consecinţe deosebit de grave potrivit Codului penal anterior, determinarea maximului special prevăzut de legea nouă se realizează, chiar dacă valoarea prejudiciului este inferioară pragului valoric prevăzut de art. 183 din Codul penal, prin raportare la varianta agravată a infracţiunilor limitativ enumerate în art. 309 din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit dispoziţiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "295",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 83
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "595",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "386",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/168692",
+  "text_sha256": "fdf773da7dfcfd77c4680b5996a2a9c1ec944c8cc7ce34726738f31a09a79c65",
+  "catalogue_sha256": "fdf773da7dfcfd77c4680b5996a2a9c1ec944c8cc7ce34726738f31a09a79c65",
+  "fetched": "2026-11-03T03:44:25Z",
+  "chars": 43874,
+  "portal_id": "168692",
+  "tip": "DECIZIE"
+ }
+}
