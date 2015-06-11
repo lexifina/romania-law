@@ -1,0 +1,201 @@
+{
+ "key": "dcc-219-2015",
+ "label": "Decizia CCR nr. 219/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "219",
+ "date": "2015-04-02",
+ "year": "2015",
+ "heading": "DECIZIE nr. 219 din 2 aprilie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 86 alin. (2) şi art. 94 alin. (1) lit. m) din Legea nr. 188/1999 privind Statutul funcţionarilor publici",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "416",
+  "bis": false,
+  "date": "2015-06-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.614/104/2013",
+  "971D/2014",
+  "1.226D/2014",
+  "4.453/104/2013",
+  "1226D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Gheorghiţa Prunişoară în Dosarul nr. 3.614/104/2013 şi de Florin Alexandru Anton în Dosarul nr. 4.453/104/2013 ale Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal şi constată că dispoziţiile art. 86 alin. (2) şi art. 94 alin. (1) lit. m) din Legea nr. 188/1999 privind Statutul funcţionarilor publici sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-06-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/168759",
+  "text_sha256": "4342a75502c961a7f6d6466e1e30eea02c8d9f54d3314a2b7e8234042c7bbe85",
+  "catalogue_sha256": "4342a75502c961a7f6d6466e1e30eea02c8d9f54d3314a2b7e8234042c7bbe85",
+  "fetched": "2026-11-03T03:44:22Z",
+  "chars": 15949,
+  "portal_id": "168759",
+  "tip": "DECIZIE"
+ }
+}
