@@ -1,0 +1,224 @@
+{
+ "key": "dcc-208-2015",
+ "label": "Decizia CCR nr. 208/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "208",
+ "date": "2015-03-31",
+ "year": "2015",
+ "heading": "DECIZIE nr. 208 din 31 martie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor Legii nr. 53/2014 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 144/2008 privind exercitarea profesiei de asistent medical generalist, a profesiei de moaşă şi a profesiei de asistent medical, precum şi organizarea şi funcţionarea Ordinului Asistenţilor Medicali Generalişti, Moaşelor şi Asistenţilor Medicali din România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "419",
+  "bis": false,
+  "date": "2015-06-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.762/89/2014",
+  "1.764/89/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 53/2014",
+    "number": "53",
+    "year": "2014",
+    "path": "lege/2014/53"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia ridicată de Alexandra Ropotă în Dosarul nr. 1.762/89/2014 şi de Nicoleta Judeanu în Dosarul nr. 1.764/89/2014, dosare ale Tribunalului Vaslui - Secţia civilă şi constată că prevederile Legii nr. 53/2014 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 144/2008 privind exercitarea profesiei de asistent medical generalist, a profesiei de moaşă şi a profesiei de asistent medical, precum şi organizarea şi funcţionarea Ordinului Asistenţilor Medicali Generalişti, Moaşelor şi Asistenţilor Medicali din România sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Vaslui - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 53/2014",
+    "number": "53",
+    "year": "2014",
+    "path": "lege/2014/53"
+   },
+   "articles": [],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 144/2008",
+    "number": "144",
+    "year": "2008",
+    "path": "oug/2008/144"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 23/2014",
+    "number": "23",
+    "year": "2014",
+    "path": "oug/2014/23"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 140/2014",
+    "number": "140",
+    "year": "2014",
+    "path": "lege/2014/140"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-06-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/168786",
+  "text_sha256": "4553698c1d1f0fdb1010e2d10cf2883d86f103a21026c89e2060598601d24df1",
+  "catalogue_sha256": "4553698c1d1f0fdb1010e2d10cf2883d86f103a21026c89e2060598601d24df1",
+  "fetched": "2026-11-03T03:44:20Z",
+  "chars": 19789,
+  "portal_id": "168786",
+  "tip": "DECIZIE"
+ }
+}
