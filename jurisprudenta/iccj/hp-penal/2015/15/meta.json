@@ -1,0 +1,269 @@
+{
+ "key": "iccj-hp-penal-15-2015",
+ "label": "Decizia ÎCCJ nr. 15/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "15",
+ "date": "2015-05-22",
+ "year": "2015",
+ "heading": "DECIZIE nr. 15 din 22 mai 2015",
+ "subtitle": "referitoare la sesizarea formulată de Curtea de Apel Timişoara în dosarul nr. 6.638/101/2014, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept dacă: \"În interpretarea şi aplicarea art. 17 din Decizia-cadru 2008/909/JAI din 27 noiembrie 2008 privind aplicarea principiului recunoaşterii reciproce în cazul hotărârilor judecătoreşti în materie penală care impun pedepse sau măsuri privative de libertate în scopul executării lor în Uniunea Europeană şi a art. 144 alin. (1) din Legea nr. 302/2004, republicată, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "455",
+  "bis": false,
+  "date": "2015-06-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.028/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Timişoara în Dosarul nr. 6.638/101/2014, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept dacă: \"În interpretarea şi aplicarea art. 17 din Decizia-cadru 2008/909/JAI a Consiliului din 27 noiembrie 2008 privind aplicarea principiului recunoaşterii reciproce în cazul hotărârilor judecătoreşti în materie penală care impun pedepse sau măsuri privative de libertate în scopul executării lor în Uniunea Europeană şi a art. 144 alin. (1) din Legea nr. 302/2004, republicată, cu modificările şi completările ulterioare:",
+  "După transferarea persoanei condamnate în străinătate, în vederea continuării executării pedepsei în România, perioada considerată ca executată de statul de condamnare (pe baza muncii prestate şi a bunei conduite) trebuie avută în vedere de statul de executare? În caz afirmativ, perioada considerată ca executată de statul de condamnare trebuie scăzută din pedeapsa ce se execută sau trebuie recunoscută ca parte din durata pedepsei ce poate fi considerată ca executată pe baza muncii prestate, în sensul art. 100 din noul Cod penal (art. 59 din vechiul Cod penal)?\".",
+  "În aplicarea art. 17 din Decizia-cadru 2008/909/JAI a Consiliului din 27 noiembrie 2008 privind aplicarea principiului recunoaşterii reciproce în cazul hotărârilor judecătoreşti în materie penală şi art. 144 alin. (1) din Legea nr. 302/2004, republicată, cu modificările şi completările ulterioare, stabileşte că:",
+  "După transferarea persoanei condamnate de autorităţile judiciare străine, în vederea continuării executării pedepsei în România, durata de pedeapsă considerată ca executată de statul de condamnare pe baza muncii prestate şi a bunei conduite, acordată ca beneficiu în favoarea persoanei condamnate, de autoritatea judiciară străină, nu trebuie scăzută din pedeapsa ce se execută în România.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit dispoziţiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "130",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 300/2013",
+    "number": "300",
+    "year": "2013",
+    "path": "lege/2013/300"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-06-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169098",
+  "text_sha256": "b662b6b61509284e1e73c227f113c179958001a3daa685b7f205e496353d1e89",
+  "catalogue_sha256": "b662b6b61509284e1e73c227f113c179958001a3daa685b7f205e496353d1e89",
+  "fetched": "2026-11-03T03:43:58Z",
+  "chars": 65131,
+  "portal_id": "169098",
+  "tip": "DECIZIE"
+ }
+}
