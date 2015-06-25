@@ -1,0 +1,6 @@
+# Anexa nr. 2 la procedură
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Subsemnatul,...... [prenumele și numele]......, în calitate de....... [director general/acționar/asociat deținător al controlului/administrator etc.]........ al operatorului economic....... [denumirea operatorului economic]......, înregistrat la...... [instituția similară oficiului registrului comerțului din țara de origine]...... sub nr............................., cod fiscal................................., cunoscând prevederile Legii nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, privind falsul în declarații, declar pe propria răspundere că operatorul economic....... [denumirea operatorului economic]......, al cărui reprezentant legal sunt, va respecta normele tehnice și comerciale din România, emise de Autoritatea Națională de Reglementare în Domeniul Energiei, precum și alte reglementări sau prevederi legale aplicabile pentru activitatea pentru care solicită confirmarea, pe toată perioada de valabilitate a desfășurării acestei activități în România, în baza confirmării primite de la Autoritatea Națională de Reglementare în Domeniul Energiei.
+Data........................
+Semnătura..............
+----
