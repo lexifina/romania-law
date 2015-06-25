@@ -1,0 +1,236 @@
+{
+ "key": "iccj-hp-10-2015",
+ "label": "Decizia ÎCCJ nr. 10/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "10",
+ "date": "2015-05-11",
+ "year": "2015",
+ "heading": "DECIZIE nr. 10 din 11 mai 2015",
+ "subtitle": "privind dezlegarea unor chestiuni de drept ce formează obiectul Dosarului nr. 427/1/2015",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "458",
+  "bis": false,
+  "date": "2015-06-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "427/1/2015",
+  "7.752/101/2013",
+  "9.914/2/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secţia contencios administrativ şi fiscal, prin Încheierea din 11 decembrie 2014, pronunţată în Dosarul nr. 7.752/101/2013, şi stabileşte că:",
+  "Dispoziţiile art. 23 din Legea contenciosului administrativ nr. 554/2004, cu modificările şi completările ulterioare, se interpretează în sensul că hotărârea judecătorească irevocabilă/definitivă prin care s-a anulat în tot sau în parte un act administrativ cu caracter normativ produce efecte şi în privinţa actelor administrative individuale emise în temeiul acestuia care, la data publicării hotărârii judecătoreşti de anulare, sunt contestate în cauze aflate în curs de soluţionare pe rolul instanţelor judecătoreşti.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "og/2003/92",
+    "slug": "og-92-2003"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 1.000/2005",
+    "number": "1000",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 977/2003",
+    "number": "977",
+    "year": "2003",
+    "path": "hg/2003/977"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 93/2008",
+    "number": "93",
+    "year": "2008",
+    "path": "oug/2008/93"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-06-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169139",
+  "text_sha256": "ba372c34458c6b9b7620f9343cac2c9a7a411f148d9a045439ebb9e1326cc2ff",
+  "catalogue_sha256": "ba372c34458c6b9b7620f9343cac2c9a7a411f148d9a045439ebb9e1326cc2ff",
+  "fetched": "2026-11-03T03:43:55Z",
+  "chars": 36855,
+  "portal_id": "169139",
+  "tip": "DECIZIE"
+ }
+}
