@@ -1,0 +1,238 @@
+{
+ "key": "iccj-hp-18-2015",
+ "label": "Decizia ÎCCJ nr. 18/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "18",
+ "date": "2015-06-08",
+ "year": "2015",
+ "heading": "DECIZIE nr. 18 din 8 iunie 2015",
+ "subtitle": "referitoare la dispoziţiile art. 15 alin. (2) lit. e) din Legea nr. 393/2004 privind Statutul aleşilor locali, cu modificările şi completările ulterioare,care sunt aplicabile în cazul condamnării, prin hotărâre judecătorească rămasă definitivă, la o pedeapsă privativă de libertate cu suspendarea condiţionată a executării pedepsei, cu aplicarea art. 81-82, respectiv cu executarea în alte condiţii decât cele prevăzute de art. 57 alin. (1) din Legea nr. 15/1968 privind Codul penal al României, republicată, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "469",
+  "bis": false,
+  "date": "2015-06-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.063/1/2015",
+  "3.786/115/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1968",
+    "number": "15",
+    "year": "1968",
+    "path": "lege/1968/15"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Caraş-Severin - Secţia a II-a civilă, de contencios administrativ şi fiscal, prin Încheierea din 27 februarie 2015, pronunţată în Dosarul nr. 3.786/115/2014, şi, în consecinţă, stabileşte că:",
+  "Dispoziţiile art. 15 alin. (2) lit. e) din Legea nr. 393/2004 privind Statutul aleşilor locali, cu modificările şi completările ulterioare, sunt aplicabile în cazul condamnării, prin hotărâre judecătorească rămasă definitivă, la o pedeapsă privativă de libertate cu suspendarea condiţionată a executării pedepsei, cu aplicarea art. 81-82, respectiv cu executarea în alte condiţii decât cele prevăzute de art. 57 alin. (1) din Legea nr. 15/1968 privind Codul penal al României, republicată, cu modificările şi completările ulterioare.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1968",
+    "number": "15",
+    "year": "1968",
+    "path": "lege/1968/15"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-06-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169227",
+  "text_sha256": "f388be9040ad24928727088979accaaf242f805f83542dad695de2a7f08c5300",
+  "catalogue_sha256": "f388be9040ad24928727088979accaaf242f805f83542dad695de2a7f08c5300",
+  "fetched": "2026-11-03T03:43:47Z",
+  "chars": 34492,
+  "portal_id": "169227",
+  "tip": "DECIZIE"
+ }
+}
