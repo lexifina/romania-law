@@ -1,0 +1,11 @@
+# HCGMB nr. 140/2015
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 140/2015
+- Adopted: 2015-06-30
+- Title: PRIVIND MODIFICAREA LISTELOR OBIECTIVELOR DE INVESTITII - ANEXE LA BUGETUL PE ANUL 2015 PENTRU SPITALUL SF. MARIA SI SPITALUL DR. VICTOR BABES CU INCADRAREA IN TOTALUL APROBAT PRIN HCGMB 80/2015 SI COMPLETAREA ANEXEI 2.41 PRIVIND APROBAREA NMARULUI DE PERSONAL PE ANUL 2015 CU NUMARUL DE PERSONAL AFERENT SPITALELOR SI PERSONALULUI DIN CABINETELE SCOLARE DIN STRUCTURA ADMINISTRATIEI SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI MODIFICA SI COMPLETEAZA HCGMB NR. 80/2015
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35125
+- Document: https://doc.pmb.ro/legis/acteinterne/2015/35125/H140_15.pdf
+- Document sha256: 27ffc559dce29b9cf0c6c2eb5368031b106580fc5306d6c7c80ba085435ec33a
