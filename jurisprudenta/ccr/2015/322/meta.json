@@ -1,0 +1,150 @@
+{
+ "key": "dcc-322-2015",
+ "label": "Decizia CCR nr. 322/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "322",
+ "date": "2015-04-30",
+ "year": "2015",
+ "heading": "DECIZIE nr. 322 din 30 aprilie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (2) din Legea nr. 124/2014 privind unele măsuri referitoare la veniturile de natură salarială ale personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "482",
+  "bis": false,
+  "date": "2015-07-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.263/30/2014",
+  "1.183D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2014",
+    "number": "124",
+    "year": "2014",
+    "path": "lege/2014/124"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (2) din Legea nr. 124/2014 privind unele măsuri referitoare la veniturile de natură salarială ale personalului plătit din fonduri publice, excepţie ridicată de Sindicatul Administraţiei Publice \"Şumigul\" din oraşul Gătaia în Dosarul nr. 4.263/30/2014 al Tribunalului Timiş - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Timiş - Secţia de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2014",
+    "number": "124",
+    "year": "2014",
+    "path": "lege/2014/124"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-07-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169331",
+  "text_sha256": "a419b17327995d1e681458d231b5516854058210600bc975a280f222c0af2522",
+  "catalogue_sha256": "a419b17327995d1e681458d231b5516854058210600bc975a280f222c0af2522",
+  "fetched": "2026-11-03T03:43:37Z",
+  "chars": 13538,
+  "portal_id": "169331",
+  "tip": "DECIZIE"
+ }
+}
