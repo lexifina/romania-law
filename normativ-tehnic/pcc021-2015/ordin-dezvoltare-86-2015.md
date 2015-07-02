@@ -1,0 +1,12 @@
+ ORDIN nr. 86 din 2 iunie 2015  privind aprobarea reglementării tehnice "Procedură pentru inspecţia tehnică a echipamentelor pentru debitarea, îndreptarea şi fasonarea barelor de oţel beton folosite în construcţii", indicativ PCC 021 - 2015     EMITENT     MINISTERUL DEZVOLTĂRII REGIONALE ŞI ADMINISTRAŢIEI PUBLICE       Publicat în
+			  MONITORUL OFICIAL nr. 485 din 2 iulie 2015     În conformitate cu prevederile art. 10 şi  art. 38 alin. 2 din Legea nr. 10/1995  privind calitatea în construcţii, cu modificările ulterioare, ale art. 2 alin. (3) şi (4) din Regulamentul privind tipurile de reglementări tehnice şi de cheltuieli aferente activităţii de reglementare în construcţii, urbanism, amenajarea teritoriului şi habitat, aprobat prin  Hotărârea Guvernului nr. 203/2003 , cu modificările şi completările ulterioare,  având în vedere Procesul-verbal de avizare nr. 24/2014 al Comitetului tehnic de specialitate nr. 8 "Procedee şi echipamente tehnologice pentru construcţii" şi Procesul-verbal de avizare nr. 1/2014 al Comitetului tehnic de coordonare generală,  în temeiul art. 4 pct. II lit. e) şi al  art. 12 alin. (7) din Hotărârea Guvernului nr. 1/2013  privind organizarea şi funcţionarea Ministerului Dezvoltării Regionale şi Administraţiei Publice, cu modificările şi completările ulterioare,  ministrul dezvoltării regionale şi administraţiei publice emite prezentul ordin.
+				 +
+			  Articolul 1     Se aprobă reglementarea tehnică "Procedură pentru inspecţia tehnică a echipamentelor pentru debitarea, îndreptarea şi fasonarea barelor de oţel beton folosite în construcţii", indicativ PCC 021 - 2015, prevăzută în anexa*) care face parte integrantă din prezentul ordin.
+						Notă   ...
+			     ──────────    *) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 485 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti, şos. Panduri nr. 1.    ──────────
+				 +
+			  Articolul 2     Prezentul ordin**) se publică în Monitorul Oficial al României, Partea I, şi intră în vigoare la 30 de zile de la data publicării.
+						Notă   ...
+			     ──────────    **) Ordinul şi anexa se publică şi în Buletinul Construcţiilor, editat de Institutul Naţional de Cercetare-Dezvoltare în Construcţii, Urbanism şi Dezvoltare Teritorială Durabilă "URBAN - INCERC".    ──────────         Ministrul dezvoltării regionale şi    administraţiei publice,    Sevil Shhaideh   Bucureşti, 2 iunie 2015.  Nr. 86.
+				 +
+			  Anexă       REGLEMENTARI 02/06/2015
