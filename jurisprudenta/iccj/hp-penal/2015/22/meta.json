@@ -1,0 +1,322 @@
+{
+ "key": "iccj-hp-penal-22-2015",
+ "label": "Decizia ÎCCJ nr. 22/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "22",
+ "date": "2015-06-09",
+ "year": "2015",
+ "heading": "DECIZIE nr. 22 din 9 iunie 2015",
+ "subtitle": "referitoare la sesizarea formulată de către Curtea de Apel Cluj prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept vizând \"interpretarea şi aplicarea dispoziţiilor art. 466 alin. (1) din Codul de procedură penală, în sensul de a se stabili dacă instituţia redeschiderii procesului penal este aplicabilă doar proceselor în care a avut loc o soluţionare pe fond a cauzei (judecata în primă instanţă şi în calea ordinară de atac) sau şi celor care au avut ca obiect soluţionarea unor căi extraordinare de atac (contestaţii în anulare, revizuire) ori alte cereri\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "486",
+  "bis": false,
+  "date": "2015-07-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.321/1/2015",
+  "80/33/2015",
+  "822/33/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "466",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Cluj - Secţia penală şi de minori în Dosarul nr. 80/33/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a chestiunii de drept, în sensul dacă \"în interpretarea şi aplicarea dispoziţiilor art. 466 alin. 1 din Codul de procedură penală instituţia redeschiderii procesului penal este aplicabilă doar proceselor în care a avut loc o soluţie pe fond a cauzei (judecata în primă instanţă şi în calea ordinară de atac) sau şi celor care au avut ca obiect soluţionarea unor căi extraordinare de atac (contestaţie în anulare, revizuire) ori a altor cereri\".",
+  "Stabileşte că, în interpretarea şi aplicarea dispoziţiilor art. 466 alin. (1) din Codul de procedură penală, obiectul cererii de redeschidere a procesului penal în cazul judecării în lipsă a persoanei condamnate îl reprezintă numai hotărârile penale definitive prin care s-a dispus condamnarea, renunţarea la aplicarea pedepsei ori amânarea aplicării pedepsei, indiferent dacă judecata în primă instanţă sau în calea ordinară de atac este consecinţa rejudecării cauzei ca urmare a admiterii contestaţiei în anulare ori revizuirii.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit dispoziţiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "466",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "469",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "467",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "429",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "550",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "551",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "552",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "425-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1934",
+    "number": "59",
+    "year": "1934",
+    "path": "lege/1934/59"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "522-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "404",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "405",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "407",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "386",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-07-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169387",
+  "text_sha256": "b4e806493b5cfe6861266e2b6a23a45428426a70e9881636e28dcb980b2f8dab",
+  "catalogue_sha256": "b4e806493b5cfe6861266e2b6a23a45428426a70e9881636e28dcb980b2f8dab",
+  "fetched": "2026-11-03T03:43:33Z",
+  "chars": 45024,
+  "portal_id": "169387",
+  "tip": "DECIZIE"
+ }
+}
