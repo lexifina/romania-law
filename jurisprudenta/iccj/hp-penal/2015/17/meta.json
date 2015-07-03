@@ -1,0 +1,313 @@
+{
+ "key": "iccj-hp-penal-17-2015",
+ "label": "Decizia ÎCCJ nr. 17/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "17",
+ "date": "2015-06-04",
+ "year": "2015",
+ "heading": "DECIZIE nr. 17 din 4 iunie 2015",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea în principiu a problemei de drept, respectiv \"dacă, raportat la soluţiile prevăzute de art. 488 alin. 4 lit. a, b, c, dispoziţiile art. 488 alin. 2 şi 47 alin. 1 din Codul de procedură penală, instanţa de apel poate să analizeze cazul de nulitate absolută prevăzut de art. 281 alin. 1 lit. b şi să dispună soluţia prevăzută de art. 421 alin. 1 pct. 2 lit. b teza a II-a din Codul de procedură penală, respectiv desfiinţarea hotărârii atacate şi rejudecarea cauzei de către instanţa competentă\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "489",
+  "bis": false,
+  "date": "2015-07-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "822/1/2015",
+  "14.434/180/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "4",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "421",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secţia penală în Dosarul nr. 14.434/180/2014, având ca obiect rezolvarea de principiu a problemei de drept în sensul \"dacă, raportat la soluţiile prevăzute de art. 488 alin. 4 lit. a, b, c, dispoziţiile art. 488 alin. 2 şi art. 47 alin. 1 din Codul de procedură penală, instanţa de apel poate să analizeze cazul de nulitate absolută prevăzut de art. 281 alin. 1 lit. b şi să dispună soluţia prevăzută de art. 421 pct. 2 lit. b teza a II-a din Codul de procedură penală, respectiv desfiinţarea hotărârii atacate şi rejudecarea cauzei de către instanţa competentă\".",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "4",
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "421",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "484",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "417",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "280",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "485",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "438",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "434",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 94
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "292",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-07-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169399",
+  "text_sha256": "da585ff4147cf57c9a25e09d786fb99741dae8f49b937c0de997c440a2c6375b",
+  "catalogue_sha256": "da585ff4147cf57c9a25e09d786fb99741dae8f49b937c0de997c440a2c6375b",
+  "fetched": "2026-11-03T03:43:33Z",
+  "chars": 67762,
+  "portal_id": "169399",
+  "tip": "DECIZIE"
+ }
+}
