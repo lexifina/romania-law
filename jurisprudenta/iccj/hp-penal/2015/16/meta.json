@@ -1,0 +1,243 @@
+{
+ "key": "iccj-hp-penal-16-2015",
+ "label": "Decizia ÎCCJ nr. 16/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "16",
+ "date": "2015-05-22",
+ "year": "2015",
+ "heading": "DECIZIE nr. 16 din 22 mai 2015",
+ "subtitle": "privind sesizarea formulată de către Curtea de Apel Timişoara - Secţia penală - prin Încheierea de şedinţă din data de 23 februarie 2015 pronunţată în Dosarul nr. 2.834/325/2014, având ca obiect apelurile declarate de către inculpatul M. A. şi de părţile civile E. Z. M. şi S. H. împotriva Sentinţei penale nr. 3.953 din data de 6 noiembrie 2014 a Judecătoriei Timişoara, Curtea de Apel Timişoara, prin care, în temeiul art. 475 din Codul de procedură penală, a sesizat Înalta Curte de Casaţie şi Justiţie - Secţia penală în vederea pronunţării unei hotărâri prealabile cu privire la chestiunea de drept dacă: \"Este admisibilă acţiunea civilă, având ca obiect obligarea la plata de daune materiale şi morale, exercitată în procesul penal împotriva inculpatului trimis în judecată pentru săvârşirea infracţiunii de fals în înscrisuri sub semnătură privată\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "490",
+  "bis": false,
+  "date": "2015-07-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.834/325/2014",
+  "1.062/1/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timişoara - Secţia penală, în Dosarul nr. 2.834/325/2014, în vederea pronunţării unei hotărâri prealabile cu privire la chestiunea de drept dacă: \"Este admisibilă acţiunea civilă, având ca obiect obligarea la plata de daune materiale şi morale, exercitată în procesul penal împotriva inculpatului trimis în judecată pentru săvârşirea infracţiunii de fals în înscrisuri sub semnătură privată\".",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1934",
+    "number": "59",
+    "year": "1934",
+    "path": "lege/1934/59"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "288",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "290",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 328/1966",
+    "number": "328",
+    "year": "1966",
+    "path": "decret/1966/328"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-07-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169409",
+  "text_sha256": "648a7986356247061685e0c235288096794f0a2056263ad4dc3b1a5c29900639",
+  "catalogue_sha256": "648a7986356247061685e0c235288096794f0a2056263ad4dc3b1a5c29900639",
+  "fetched": "2026-11-03T03:43:31Z",
+  "chars": 54902,
+  "portal_id": "169409",
+  "tip": "DECIZIE"
+ }
+}
