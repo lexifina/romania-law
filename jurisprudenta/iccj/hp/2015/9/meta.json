@@ -1,0 +1,137 @@
+{
+ "key": "iccj-hp-9-2015",
+ "label": "Decizia ÎCCJ nr. 9/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "9",
+ "date": "2015-04-27",
+ "year": "2015",
+ "heading": "DECIZIE nr. 9 din 27 aprilie 2015",
+ "subtitle": "privind sesizarea formulată de Curtea de Apel Constanţa - Secţia I civilă în Dosarul nr. 5.225/118/2013",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "492",
+  "bis": false,
+  "date": "2015-07-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.225/118/2013",
+  "379/1/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Constanţa - Secţia I civilă în Dosarul nr. 5.225/118/2013 privind pronunţarea unei hotărâri prealabile cu privire la următoarea problemă de drept:",
+  "\"Interpretarea art. 68 raportat la art. 58 alin. (1) şi art. 77 din Codul Muncii, republicat, cu modificările şi completările ulterioare, în sensul de a stabili dacă, pentru stabilirea îndeplinirii condiţiilor concedierii colective, intră în calculul numărului de concedieri şi concedierile care: - au fost dispuse prin decizii emise în intervalul relevant de 30 de zile, dar au produs efecte în afara acestui interval, întrucât au intervenit cauze legale care împiedică încetarea raporturilor de muncă (în special suspendarea contractului individual de muncă, acordarea preavizului, efectuarea concediului de odihnă); - au fost dispuse ca urmare a aceleiaşi hotărâri de desfiinţare a unor locuri de muncă ce a fost pusă în aplicare, însă, prin concedieri succesive în mai mult de 30 de zile.\" Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 36/2013",
+    "number": "36",
+    "year": "2013",
+    "path": "oug/2013/36"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-07-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169450",
+  "text_sha256": "203c3a70e01fbd65eb83b920be1ea6597cfe919fa6a99423ee07ea0a3cd68ede",
+  "catalogue_sha256": "203c3a70e01fbd65eb83b920be1ea6597cfe919fa6a99423ee07ea0a3cd68ede",
+  "fetched": "2026-11-03T03:43:30Z",
+  "chars": 35395,
+  "portal_id": "169450",
+  "tip": "DECIZIE"
+ }
+}
