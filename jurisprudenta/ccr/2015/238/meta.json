@@ -1,0 +1,203 @@
+{
+ "key": "dcc-238-2015",
+ "label": "Decizia CCR nr. 238/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "238",
+ "date": "2015-04-07",
+ "year": "2015",
+ "heading": "DECIZIE nr. 238 din 7 aprilie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 271^1 şi art. 271^2 din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "497",
+  "bis": false,
+  "date": "2015-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "992D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "271-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "271-2",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Societatea Max Boegl România - S.R.L. din Bucureşti, lider al Asocierii Societatea Max Boegl România - S.R.L. - Societatea Uti Grup - S.A. - Astaldi SpA din Bucureşti în Dosarul nr. 291/35/CA/2014 al Curţii de Apel Oradea - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că prevederile art. 271^1 şi ale art. 271^2 alin. (3)-(6) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii sunt constituţionale în raport cu criticile formulate. 2. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 271^2 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe judecătoreşti.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Oradea - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "271-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "271-2",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 51/2014",
+    "number": "51",
+    "year": "2014",
+    "path": "oug/2014/51"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169492",
+  "text_sha256": "7f3f99c5f9d2fb83b9515b02407e12d7c6e3f6257c4fd72dcc4152a77964e431",
+  "catalogue_sha256": "7f3f99c5f9d2fb83b9515b02407e12d7c6e3f6257c4fd72dcc4152a77964e431",
+  "fetched": "2026-11-03T03:43:28Z",
+  "chars": 25331,
+  "portal_id": "169492",
+  "tip": "DECIZIE"
+ }
+}
