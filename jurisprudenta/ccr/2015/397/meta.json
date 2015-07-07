@@ -1,0 +1,163 @@
+{
+ "key": "dcc-397-2015",
+ "label": "Decizia CCR nr. 397/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "397",
+ "date": "2015-05-28",
+ "year": "2015",
+ "heading": "DECIZIE nr. 397 din 28 mai 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 432 alin. (4) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "500",
+  "bis": false,
+  "date": "2015-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.030D/2014",
+  "931/296/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "432",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 432 alin. (4) din Codul de procedură penală, excepţie ridicată din oficiu de către Curtea de Apel Oradea - Secţia penală şi pentru cauzei cu minori în Dosarul nr. 1.399/83/P/2014.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Oradea - Secţia penală şi pentru cauze cu minori şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "432",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169525",
+  "text_sha256": "346498996e72a6de913f57fb8b2c84b16ba76a50153e42d738dd7aa9439912be",
+  "catalogue_sha256": "346498996e72a6de913f57fb8b2c84b16ba76a50153e42d738dd7aa9439912be",
+  "fetched": "2026-11-03T03:43:26Z",
+  "chars": 12630,
+  "portal_id": "169525",
+  "tip": "DECIZIE"
+ }
+}
