@@ -1,0 +1,58 @@
+{
+ "key": "cjue-c-144-14-hotarare-2015-07-09",
+ "label": "CJUE, Hotărârea Curții (Camera a șaptea) din 9 iulie 2015, Cauza C-144/14",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2015-07-09",
+ "year": "2015",
+ "case": "Cauza C-144/14",
+ "celex": "62014CJ0144",
+ "ecli": "ECLI:EU:C:2015:452",
+ "heading": "Hotărârea Curții (Camera a șaptea) din 9 iulie 2015",
+ "formation": "CHAMB_07_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Maramureş, Secţia a II-a civilă, de contencios administrativ şi fiscal",
+   "date": "2013-10-17",
+   "national_file": "7967/100/2011"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Maramureș",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Taxă pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Articolele 273 și 287 – Obligație de identificare din oficiu a unei persoane impozabile în scopuri de TVA – Caracterul impozabil al serviciilor de medicină veterinară – Principiul securității juridice – Principiul protecției încrederii legitime",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CJ0144",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-144/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/d21b03d6-2621-11e5-a342-01aa75ed71a1.0021.01/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "ceb837e78b62f730c07fbd88975a71119a1c034509e4f655a9ee4e256bb08729"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șaptea) declară:",
+  "1) Articolul 273 primul paragraf din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată, astfel cum a fost modificată prin Directiva 2009/162/UE a Consiliului din 22 decembrie 2009, nu impune statelor membre identificarea din oficiu a unei persoane impozabile în scopul perceperii taxei pe valoarea adăugată doar pe baza altor declarații fiscale decât cele referitoare la această taxă, nici chiar atunci când ele ar fi permis să se constate depășirea de către respectiva persoană impozabilă a plafonului de scutire de taxa menționată.",
+  "2) Principiile securității juridice și protecției încrederii legitime nu se opun ca o administrație fiscală să decidă ca serviciile de medicină veterinară să fie supuse taxei pe valoarea adăugată în împrejurări precum cele din litigiul principal, în condițiile în care această decizie se întemeiază pe norme clare, iar practica respectivei administrații nu a fost de natură să creeze în percepția unui operator economic prudent și avizat o încredere rezonabilă în neaplicarea acestei taxe la astfel de servicii, aspect care trebuie verificat de instanța de trimitere."
+ ]
+}
