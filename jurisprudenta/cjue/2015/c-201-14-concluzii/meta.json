@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-201-14-concluzii-2015-07-09",
+ "label": "CJUE, Concluziile avocatului general P. Cruz Villalón prezentate la 9 iulie 2015, Cauza C-201/14.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2015-07-09",
+ "year": "2015",
+ "case": "Cauza C-201/14.",
+ "celex": "62014CC0201",
+ "ecli": "ECLI:EU:C:2015:461",
+ "heading": "Concluziile avocatului general P. Cruz Villalón prezentate la 9 iulie 2015",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Directiva 95/46/CE – Prelucrarea datelor cu caracter personal – Articolele 10 și 11 – Informarea persoanelor vizate – Articolul 13 – Excepții și restricții – Transfer de către o autoritate a administrației publice a unui stat membru al unor date fiscale cu caracter personal în vederea prelucrării lor de către o altă autoritate a administrației publice.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CC0201",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-201/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/940a5173-2619-11e5-a342-01aa75ed71a1.0021.01/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "1fdbda1ed94c6c2dedaabcf305d962e2c75e13c640c3712cf777a41d75e33570"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
