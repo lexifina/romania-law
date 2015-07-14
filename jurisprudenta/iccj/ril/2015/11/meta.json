@@ -1,0 +1,570 @@
+{
+ "key": "iccj-ril-11-2015",
+ "label": "Decizia ÎCCJ nr. 11/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "11",
+ "date": "2015-05-25",
+ "year": "2015",
+ "heading": "DECIZIE nr. 11 din 25 mai 2015",
+ "subtitle": "referitoare la recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Ploieşti cu privire la modul de recalculare a drepturilor la pensie potrivit Ordonanţei de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public, provenite din fostul sistem al asigurărilor sociale de stat, aprobată cu modificări prin Legea nr. 78/2005, cu modificările şi completările ulterioare, şi Hotărârii Guvernului nr. 1.550/2004 privind efectuarea operaţiunilor de evaluare în vederea recalculării pensiilor din sistemul public, stabilite în fostul sistem al asigurărilor sociale de stat potrivit legislaţiei anterioare datei de 1 aprilie 2001, în conformitate cu principiile Legii nr. 19/2000, cu modificările şi completările ulterioare, cu luarea în considerare a unui stagiu de cotizare de 20 de ani, potrivit dispoziţiilor art. 14 din Legea nr. 3/1977 privind pensiile de asigurări sociale de stat şi asistenţă socială, cu modificările şi completările ulterioare, respectiv de 30 de ani, potrivit art. 8, persoanelor pensionate înainte de intrarea în vigoare a Legii nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, cu modificările şi completările ulterioare, pornind de la modul de interpretare a dispozitivului şi considerentelor Deciziei nr. 40 din 22 septembrie 2008 a Înaltei Curţi de Casaţie şi Justiţie, date în recursul în interesul legii",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "522",
+  "bis": false,
+  "date": "2015-07-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "5/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.550/2004",
+    "number": "1550",
+    "year": "2004",
+    "path": "hg/2004/1550"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Ploieşti.",
+  "Stabileşte că, în interpretarea şi aplicarea unitară a dispoziţiilor art. 2 alin. (1), art. 4 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 4/2005 privind recalcularea pensiilor din sistemul public, provenite din fostul sistem al asigurărilor sociale de stat, aprobată cu completări prin Legea nr. 78/2005, cu modificările şi completările ulterioare, coroborate cu prevederile art. 2 alin. (1) şi (3) din anexa la Hotărârea Guvernului nr. 1.550/2004 de aprobare a Normelor metodologice de evaluare a pensiilor din sistemul public, stabilite în fostul sistem al asigurărilor sociale de stat potrivit legislaţiei anterioare datei de 1 aprilie 2001, în vederea recalculării în conformitate cu principiile Legii nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, cu modificările şi completările ulterioare, stagiul complet de cotizare utilizat la determinarea punctajului mediu anual pentru persoanele ale căror drepturi de pensie s-au deschis în intervalul 1 iulie 1977-31 martie 2001 este: - 20 de ani în cazul celor care au lucrat efectiv în grupa I de muncă; şi - 25 de ani în cazul celor care au lucrat efectiv în grupa a II-a de muncă, conform art. 14 din Legea nr. 3/1977, cu modificările şi completările ulterioare; - 30 de ani (în cazul bărbaţilor) şi 25 de ani (în cazul femeilor), pentru cei care au lucrat efectiv în grupa a III-a de muncă, potrivit art. 8 alin. (1) din Legea nr. 3/1977, cu modificările şi completările ulterioare.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "180",
+     "alin": [
+      "7",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 57
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "330-7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.550/2004",
+    "number": "1550",
+    "year": "2004",
+    "path": "hg/2004/1550"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "n",
+      "p"
+     ]
+    },
+    {
+     "art": "171",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.550/2005",
+    "number": "1550",
+    "year": "2005",
+    "path": "hg/2005/1550"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 100/2008",
+    "number": "100",
+    "year": "2008",
+    "path": "oug/2008/100"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2008",
+    "number": "218",
+    "year": "2008",
+    "path": "lege/2008/218"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 209/2008",
+    "number": "209",
+    "year": "2008",
+    "path": "oug/2008/209"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169703",
+  "text_sha256": "3c493e4f4f840a0ae58b56667c0c2283301d44a6f7770da311ba4d3361a139ac",
+  "catalogue_sha256": "3c493e4f4f840a0ae58b56667c0c2283301d44a6f7770da311ba4d3361a139ac",
+  "fetched": "2026-11-03T03:43:16Z",
+  "chars": 95733,
+  "portal_id": "169703",
+  "tip": "DECIZIE"
+ }
+}
