@@ -1,0 +1,307 @@
+{
+ "key": "dcc-380-2015",
+ "label": "Decizia CCR nr. 380/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "380",
+ "date": "2015-05-26",
+ "year": "2015",
+ "heading": "DECIZIE nr. 380 din 26 mai 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (3) din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local, raportate la sintagma \"la data întocmirii raportului de expertiză\" cuprinsă în dispoziţiile art. 26 alin. (2) din Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "527",
+  "bis": false,
+  "date": "2015-07-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.627/86/2013",
+  "492D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate formulată de Statul român, reprezentat de Ministerul Transporturilor prin Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. din Bucureşti, în dosarele nr. 9.627/86/2013, nr. 8.193/86/2013, nr. 10.628/86/2013, nr. 8.722/86/2013, nr. 9.379/86/2013, nr. 16.376/86/2011*, nr. 11.196/86/2013, nr. 14.263/86/2013*, nr. 4.173/86/2013, nr. 5.385/86/2013, nr. 4.468/86/2013, nr. 6.297/86/2013, nr. 10.627/86/2013, nr. 4.593/86/2013, nr. 7.634/86/2013, nr. 8.192/86/2013, nr. 9.117/86/2013, nr. 10.534/86/2013, nr. 11.283/86/2013, nr. 11.558/86/2013, nr. 206/86/2014, nr. 259/86/2014, nr. 322/86/2014, nr. 1.090/86/2014, nr. 1.712/86/2014, nr..8048/86/2013, nr. 14.457/86/2011*, nr. 8.134/86/2012*, nr. 2.976/86/2013, nr. 4.145/86/2013, nr. 4.608/86/2013, nr. 8.240/86/2013, nr. 8.288/86/2013, nr. 8.561/86/2013, nr. 9.115/86/2013, nr. 9.819/86/2013, nr. 10.137/86/2013, nr. 10.536/86/2013, nr. 2.578/86/2012*, nr. 2.632/86/2012*, nr. 3.999/86/2013, nr. 6.398/86/2013, nr. 9.736/86/2013, nr. 9.866/86/2013, nr. 11.435/86/2013, nr. 50/39/2014, nr. 2.735/86/2013, nr. 8.047/86/2013, nr. 8.194/86/2013, nr. 8.252/86/2013, nr. 14.409/86/2011*, nr. 1.823/86/2012*, nr. 4.280/86/2013, nr. 5.695/86/2013, nr. 6.484/86/2013, nr. 6.300/86/2013, nr. 10.053/86/2013, nr. 9.576/86/2013, nr. 6.299/86/2013, nr. 6.230/86/2013, nr. 6.603/86/2013, nr. 7.330/86/2013, nr. 7.331/86/2013, nr. 7.449/86/2013, nr. 11.909/86/2013, nr. 4.000/86/2013, nr. 4.380/86/2013, nr. 4.381/86/2013, nr. 5.462/86/2013, nr. 6.469/86/2013, nr. 7.656/86/2013, nr. 8.239/86/2013, nr. 8.386/86/2013, nr. 9.114/86/2013 şi nr. 9.480/86/2013 ale Curţii de Apel Suceava - Secţia I civilă şi constată că prevederile art. 22 alin. (3) din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local, raportate la sintagma \"la data întocmirii raportului de expertiză\" cuprinsă în dispoziţiile art. 26 alin. (2) din Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică, sunt neconstituţionale.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului şi Curţii de Apel Suceava - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 198/2004",
+    "number": "198",
+    "year": "2004",
+    "path": "lege/2004/198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 184/2008",
+    "number": "184",
+    "year": "2008",
+    "path": "lege/2008/184"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 228/2008",
+    "number": "228",
+    "year": "2008",
+    "path": "oug/2008/228"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-07-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169759",
+  "text_sha256": "8d1993cd60ebf34127c3f9f6b8d2a197df7ff51281f28835e1278c382aca2ecb",
+  "catalogue_sha256": "8d1993cd60ebf34127c3f9f6b8d2a197df7ff51281f28835e1278c382aca2ecb",
+  "fetched": "2026-11-03T03:43:13Z",
+  "chars": 33791,
+  "portal_id": "169759",
+  "tip": "DECIZIE"
+ }
+}
