@@ -1,0 +1,186 @@
+{
+ "key": "dcc-272-2015",
+ "label": "Decizia CCR nr. 272/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "272",
+ "date": "2015-04-23",
+ "year": "2015",
+ "heading": "DECIZIE nr. 272 din 23 aprilie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a sintagmei \"şi contestate în instanţă până la data intrării în vigoare a prezentei legi\" cuprinsă în art. II al Legii nr. 144/2012 pentru modificarea Ordonanţei Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare şi a tarifului de trecere pe reţeaua de drumuri naţionale din România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "531",
+  "bis": false,
+  "date": "2015-07-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "16.015/306/2013",
+  "1.064D/2014",
+  "20.007/302/2014",
+  "1.242D/2014",
+  "1.068D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 144/2012",
+    "number": "144",
+    "year": "2012",
+    "path": "lege/2012/144"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Grewe - S.R.L. în dosarele nr. 16.015/306/2013, nr. 18.981/306/2013 şi nr. 15.202/306/2013 ale Tribunalului Sibiu - Secţia I civilă şi de Florin Liviu Stan în Dosarul nr. 20.007/302/2014 al Judecătoriei Sectorului 5 Bucureşti - Secţia a II-a civilă şi constată că sintagma \"şi contestate în instanţă până la data intrării în vigoare a prezentei legi\" cuprinsă în art. II al Legii nr. 144/2012 pentru modificarea Ordonanţei Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare şi a tarifului de trecere pe reţeaua de drumuri naţionale din România este constituţională în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Sibiu - Secţia I civilă şi Judecătoriei Sectorului 5 Bucureşti - Secţia a II-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 144/2012",
+    "number": "144",
+    "year": "2012",
+    "path": "lege/2012/144"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169787",
+  "text_sha256": "e70c9d34f4c48c850bc41c00090c9c00ec1c160f8afeff6b82eea187e11f848c",
+  "catalogue_sha256": "e70c9d34f4c48c850bc41c00090c9c00ec1c160f8afeff6b82eea187e11f848c",
+  "fetched": "2026-11-03T03:43:11Z",
+  "chars": 14744,
+  "portal_id": "169787",
+  "tip": "DECIZIE"
+ }
+}
