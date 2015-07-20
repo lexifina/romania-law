@@ -1,0 +1,298 @@
+{
+ "key": "iccj-ril-8-2015",
+ "label": "Decizia ÎCCJ nr. 8/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "8",
+ "date": "2015-04-27",
+ "year": "2015",
+ "heading": "DECIZIE nr. 8 din 27 aprilie 2015",
+ "subtitle": "referitoare la interpretarea şi aplicarea dispoziţiilor art. 450 alin. (5) raportat la art. 998-1.000 din Codul de procedură civilă şi ale art. 54 din Legea nr. 304/2004 privind organizarea judiciară, republicată, cu modificările şi completările ulterioare, cu referire la compunerea completului de judecată, tipul hotărârii care se pronunţă şi calea de atac căreia îi este supusă hotărârea pronunţată",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2015-07-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "450",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "997",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "719",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Constanţa şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 450 alin. (5) raportat la art. 997 şi următoarele şi art. 719 alin. (7) din Codul de procedură civilă: - cererea de suspendare provizorie se judecă de un complet format din doi judecători; - instanţa se pronunţă asupra cererii prin încheiere care nu este supusă niciunei căi de atac.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "450",
+     "alin": [
+      "5",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "424",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1000",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "959",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "719",
+     "alin": [
+      "7",
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "997",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "547",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "920",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1046",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1002",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 80
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2005",
+    "number": "219",
+    "year": "2005",
+    "path": "lege/2005/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "217",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "630",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-07-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169907",
+  "text_sha256": "09c3ae7693621d96779963a1dbe354d2e00eeb322329319bcec83a912361dd57",
+  "catalogue_sha256": "09c3ae7693621d96779963a1dbe354d2e00eeb322329319bcec83a912361dd57",
+  "fetched": "2026-11-03T03:43:04Z",
+  "chars": 38212,
+  "portal_id": "169907",
+  "tip": "DECIZIE"
+ }
+}
