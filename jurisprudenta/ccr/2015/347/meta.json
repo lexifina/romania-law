@@ -1,0 +1,371 @@
+{
+ "key": "dcc-347-2015",
+ "label": "Decizia CCR nr. 347/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "347",
+ "date": "2015-05-07",
+ "year": "2015",
+ "heading": "DECIZIE nr. 347 din 7 mai 2015",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "542",
+  "bis": false,
+  "date": "2015-07-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.067/46/2013",
+  "1.132D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 176/2010",
+    "number": "176",
+    "year": "2010",
+    "path": "lege/2010/176"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Vasile Dina în Dosarul nr. 1.067/46/2013 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal şi constată că dispoziţiile art. 87 alin. (1) lit. d) şi art. 91 din Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenţei în exercitarea demnităţilor publice, a funcţiilor publice şi în mediul de afaceri, prevenirea şi sancţionarea corupţiei, precum şi a art. 25 din Legea nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 176/2010",
+    "number": "176",
+    "year": "2010",
+    "path": "lege/2010/176"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-07-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169923",
+  "text_sha256": "286fda75bc2b59051c93dc20f6194d50cf694b84514ee1a31877b3bb7757b77c",
+  "catalogue_sha256": "286fda75bc2b59051c93dc20f6194d50cf694b84514ee1a31877b3bb7757b77c",
+  "fetched": "2026-11-06T03:18:21Z",
+  "chars": 26444,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/169923",
+   "timestamp": "20221130094405",
+   "crawl": "CC-MAIN-2022-49",
+   "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710734.75/warc/CC-MAIN-20221130092453-20221130122453-00696.warc.gz",
+   "offset": "406519208",
+   "length": "19902",
+   "sha256": "5c030fc8e4e58c8e157488c1947a0e5c3a344930242e64e9e90b7971207bfcac"
+  },
+  "portal_id": "169923",
+  "tip": "DECIZIE"
+ }
+}
