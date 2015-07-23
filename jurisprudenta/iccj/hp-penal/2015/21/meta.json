@@ -1,0 +1,201 @@
+{
+ "key": "iccj-hp-penal-21-2015",
+ "label": "Decizia ÎCCJ nr. 21/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "21",
+ "date": "2015-06-04",
+ "year": "2015",
+ "heading": "DECIZIE nr. 21 din 4 iunie 2015",
+ "subtitle": "referitoare la sesizarea formulată de Curtea de Apel Timişoara în Dosarul nr. 20.257/55/2014 (având ca obiect soluţionarea contestaţiei formulate de contestatorul condamnat V.S.A. împotriva Sentinţei penale nr. 12 din 20 ianuarie 2015 a Tribunalului Arad) pentru pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarelor chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "549",
+  "bis": false,
+  "date": "2015-07-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "20.257/55/2014",
+  "1.255/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "372",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timişoara, Secţia penală, în Dosarul nr. 20.257/55/2014, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept, respectiv:",
+  "\"Dacă în privinţa infracţiunii prevăzute de art. 2 alin. (1) pct. 1 din Legea nr. 61/1991 operează dezincriminarea în cazul în care locul unde s-a săvârşit fapta sub imperiul legii vechi nu se regăseşte printre cele patru categorii enumerate în mod expres de art. 372 alin. (1) şi (2) din Codul penal;",
+  "Dacă trebuie îndeplinite cumulativ condiţiile de loc special amenajat pentru distracţie şi agrement special autorizat pentru distracţie ori agrement atât în cazul reglementat de dispoziţiile art. 372 alin. (1) teza a III-a din Codul penal, cât şi în cazul reglementat de art. 372 alin. (2) teza a III-a din Codul penal;",
+  "Dacă în cazul în care se stabileşte că ipoteza reglementată de art. 372 alin. (2) teza a III-a din Codul penal nu presupune îndeplinirea condiţiilor de loc «special amenajat şi autorizat pentru distracţie ori agrement», dacă infracţiunea prevăzută de art. 2 alin. (1) pct. 1 din Legea nr. 61/1991 îşi poate găsi corespondent în infracţiunea prevăzută de art. 372 alin. (2) din Codul penal, când în hotărârea de condamnare s-a reţinut folosirea obiectelor menţionate de textul legal\".",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "372",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "372",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 78
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-07-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169999",
+  "text_sha256": "d8140095267c64aa68a91a290c0a67e996722e20de77c4bc77b5d4a1ca430a34",
+  "catalogue_sha256": "d8140095267c64aa68a91a290c0a67e996722e20de77c4bc77b5d4a1ca430a34",
+  "fetched": "2026-11-03T03:42:58Z",
+  "chars": 43936,
+  "portal_id": "169999",
+  "tip": "DECIZIE"
+ }
+}
