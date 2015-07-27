@@ -1,0 +1,237 @@
+{
+ "key": "dcc-306-2015",
+ "label": "Decizia CCR nr. 306/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "306",
+ "date": "2015-04-28",
+ "year": "2015",
+ "heading": "DECIZIE nr. 306 din 28 aprilie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. XV din Ordonanţa de urgenţă a Guvernului nr. 8/2014 pentru modificarea şi completarea unor acte normative şi alte măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "555",
+  "bis": false,
+  "date": "2015-07-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "335/36/2014",
+  "1.129D/2014",
+  "1.299D/2014",
+  "2.287/113/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 8/2014",
+    "number": "8",
+    "year": "2014",
+    "path": "oug/2014/8"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Enache Mitea în Dosarul nr. 335/36/2014 al Curţii de Apel Constanţa - Secţia a II-a civilă, contencios administrativ şi fiscal şi de Dumitru Tereacă în Dosarul nr. 2.287/113/2014 al Tribunalului Brăila - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că prevederile art. XV din Ordonanţa de urgenţă a Guvernului nr. 8/2014 pentru modificarea şi completarea unor acte normative şi alte măsuri fiscal-bugetare sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Constanţa - Secţia a II-a civilă, contencios administrativ şi fiscal şi Tribunalului Brăila - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 8/2014",
+    "number": "8",
+    "year": "2014",
+    "path": "oug/2014/8"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-07-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170053",
+  "text_sha256": "393af88b590cd692792bc12c2046b3a831a1b8ba34f2c9002b6e9510de33d388",
+  "catalogue_sha256": "393af88b590cd692792bc12c2046b3a831a1b8ba34f2c9002b6e9510de33d388",
+  "fetched": "2026-11-03T03:42:54Z",
+  "chars": 30377,
+  "portal_id": "170053",
+  "tip": "DECIZIE"
+ }
+}
