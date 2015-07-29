@@ -1,0 +1,225 @@
+{
+ "key": "dcc-435-2015",
+ "label": "Decizia CCR nr. 435/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "435",
+ "date": "2015-06-09",
+ "year": "2015",
+ "heading": "DECIZIE nr. 435 din 9 iunie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 171 alin. (1) şi art. 268 alin. (1) lit. c) teza întâi din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "567",
+  "bis": false,
+  "date": "2015-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.805/121/2014",
+  "1.272D/2014",
+  "8.629/121/2013",
+  "3.622/121/2014",
+  "6.241/121/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Sindicatul Liber Educaţia din Galaţi pentru Stela Olaru şi pentru Marilena Batog în dosarele nr. 1.805/121/2014 şi nr. 8.629/121/2013 ale Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale, de Sindicatul Liber din Învăţământ Satu Mare pentru Szasz Erika şi alţii, pentru Lenuţa Bura, pentru Georgeta Roşu, pentru Rodica Cuceu, pentru Maria Pop şi alţii, pentru Mariana Tirle, pentru Fira Balint, pentru Larisa Erdei şi alţii şi pentru Simion Deri în dosarele nr. 1.069/83/2014, nr. 945/83/2014, nr. 1.433/83/2014, nr. 1.121/83/2014, nr. 1.792/83/2014, nr. 1.487/83/2014, nr. 1.657/83/2014, nr. 1.200/83/2014 şi nr. 1.709/83/2014 ale Curţii de Apel Oradea - Secţia I civilă şi de Sindicatul Liber Educaţia din Galaţi pentru Mihaela Mariana Lupu şi pentru Florin Aurelian Macovei în dosarele nr. 3.622/121/2014 şi nr. 6.241/121/2014 ale Tribunalului Galaţi - Secţia I civilă şi constată că dispoziţiile art. 171 alin. (1) şi art. 268 alin. (1) lit. c) teza întâi din Legea nr. 53/2003 - Codul muncii sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale, Curţii de Apel Oradea - Secţia I civilă şi Tribunalului Galaţi - Secţia I civilă se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 221/2008",
+    "number": "221",
+    "year": "2008",
+    "path": "lege/2008/221"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170129",
+  "text_sha256": "1384fd39e373333d21861de6d5903914463f45dbb717c5131d3217109fcda5c2",
+  "catalogue_sha256": "1384fd39e373333d21861de6d5903914463f45dbb717c5131d3217109fcda5c2",
+  "fetched": "2026-11-03T03:42:49Z",
+  "chars": 17816,
+  "portal_id": "170129",
+  "tip": "DECIZIE"
+ }
+}
