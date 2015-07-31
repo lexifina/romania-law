@@ -1,0 +1,269 @@
+{
+ "key": "dcc-295-2015",
+ "label": "Decizia CCR nr. 295/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "295",
+ "date": "2015-04-28",
+ "year": "2015",
+ "heading": "DECIZIE nr. 295 din 28 aprilie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 2 alin. (4) din Ordonanţa Guvernului nr. 14/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente corecţiilor financiare aplicate pentru abaterile de la conformitatea cu legislaţia din domeniul achiziţiilor publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "576",
+  "bis": false,
+  "date": "2015-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.720/2/2014",
+  "1.003D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 14/2013",
+    "number": "14",
+    "year": "2013",
+    "path": "og/2013/14"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate prevederilor art. 2 alin. (4) din Ordonanţa Guvernului nr. 14/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente corecţiilor financiare aplicate pentru abaterile de la conformitatea cu legislaţia din domeniul achiziţiilor publice, excepţie ridicată de Unitatea Administrativ-Teritorială Judeţul Călăraşi în Dosarul nr. 1.720/2/2014 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 14/2013",
+    "number": "14",
+    "year": "2013",
+    "path": "og/2013/14"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 30/2006",
+    "number": "30",
+    "year": "2006",
+    "path": "oug/2006/30"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d",
+      "b"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 525/2007",
+    "number": "525",
+    "year": "2007",
+    "path": "hg/2007/525"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 66/2011",
+    "number": "66",
+    "year": "2011",
+    "path": "oug/2011/66"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "og/2003/14"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170211",
+  "text_sha256": "89acebcc302fb966f19a4decf260087b00a5887cfc339569855095c6607f1dee",
+  "catalogue_sha256": "89acebcc302fb966f19a4decf260087b00a5887cfc339569855095c6607f1dee",
+  "fetched": "2026-11-03T03:42:43Z",
+  "chars": 19661,
+  "portal_id": "170211",
+  "tip": "DECIZIE"
+ }
+}
