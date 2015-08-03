@@ -1,0 +1,69 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2015/1136 AL COMISIEI
+din 13 iulie 2015
+de modificare a Regulamentului de punere în aplicare (UE) nr. 402/2013 privind metoda comună de siguranță pentru evaluarea riscurilor
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Directiva 2004/49/CE a Parlamentului European și a Consiliului din 29 aprilie 2004 privind siguranța căilor ferate comunitare și de modificare a Directivei 95/18/CE a Consiliului privind acordarea de licențe întreprinderilor feroviare și a Directivei 2001/14/CE privind repartizarea capacităților de infrastructură feroviară și perceperea de tarife pentru utilizarea infrastructurii feroviare și certificarea siguranței (Directiva privind siguranța feroviară) (1), în special articolul 6 alineatul (4),
+întrucât:
+(1) În temeiul Directivei 2004/49/CE, metodele de siguranță comune trebuie introduse treptat pentru a se asigura menținerea unui nivel ridicat de siguranță și, atunci când și acolo unde este necesar și rezonabil din punct de vedere practic, îmbunătățirea acestuia.
+(2) La 12 octombrie 2010, Comisia a emis un mandat pentru Agenția Europeană a Căilor Ferate (denumită în continuare „agenția”) în conformitate cu Directiva 2004/49/CE, pentru modificarea Regulamentului (CE) nr. 352/2009 al Comisiei (2). O revizuire a regulamentului menționat era necesară pentru a se ține seama de modificările ulterioare ale rolurilor și responsabilităților organismului de evaluare menționat la articolul 6 din respectivul regulament și de criteriile armonizate suplimentare de acceptare a riscurilor care ar putea fi utilizate pentru evaluarea acceptabilității riscurilor rezultate în urma avariilor unor sisteme tehnice în cazurile în care partea care înaintează propunerea decide să utilizeze principiul estimării explicite a riscului. A fost necesar să se verifice că, prin includerea criteriilor armonizate suplimentare de acceptare a riscurilor menționate mai sus, nivelul actual de siguranță feroviară va fi cel puțin menținut în Uniune, astfel cum se prevede la articolul 4 alineatul (1) din Directiva 2004/49/CE. Acest lucru a necesitat o perioadă de timp semnificativ mai lungă decât s-a preconizat și, prin urmare, Comisia a adoptat Regulamentul de punere în aplicare (UE) nr. 402/2013 (3) care a menținut singurul criteriu prevăzut deja în Regulamentul (CE) nr. 352/2009 în ceea ce privește acceptarea riscurilor.
+(3) Evaluarea impactului efectuată cu privire la modificările introduse de Regulamentul de punere în aplicare (UE) nr. 402/2013 a inclus o analiză a criteriilor armonizate de acceptare a riscurilor pentru sistemele tehnice. Raportul a subliniat importanța de a include în metoda de siguranță comună criterii suplimentare de acceptare a riscurilor care nu sunt prevăzute în regulamentul actual. Astfel de criterii ar trebui să faciliteze recunoașterea reciprocă între statele membre a subsistemelor structurale și a vehiculelor conforme cu legislația Uniunii în domeniul interoperabilității sistemului feroviar.
+(4) Pentru a face o distincție între acceptarea riscurilor asociate cu sistemele tehnice și acceptarea riscurilor operaționale și a riscului global la nivelul sistemului feroviar, termenul „criterii de acceptare a riscurilor” cu privire la sistemele tehnice ar trebui să fie înlocuit cu „obiective armonizate în materie de proiectare” pentru astfel de sisteme tehnice. Obiectivele armonizate în materie de proiectare propuse în prezentul regulament pot fi folosite pentru a demonstra acceptabilitatea riscurilor generate de defecțiuni ale funcțiilor unui sistem tehnic, în cazurile în care partea care înaintează propunerea decide să utilizeze principiul estimării explicite a riscului. Anumite definiții ar trebui schimbate pentru a reflecta recentele modificări ale terminologiei și ar trebui introduse noi definiții.
+(5) Agenția a prezentat Comisiei recomandarea sa cu privire la modificarea Regulamentului de punere în aplicare (UE) nr. 402/2013, destinat să abordeze obiectivul rămas neatins al mandatului Comisiei cu privire la obiectivele armonizate în materie de proiectare. Prezentul regulament se bazează pe recomandarea agenției.
+(6) Prin urmare, Regulamentul de punere în aplicare (UE) nr. 402/2013 ar trebui modificat în consecință.
+(7) Măsurile prevăzute de prezentul regulament sunt conforme cu avizul comitetului instituit în temeiul articolului 27 alineatul (1) din Directiva 2004/49/CE,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Regulamentul de punere în aplicare (UE) nr. 402/2013 se modifică după cum urmează:
+1. Articolul 3 se modifică după cum urmează:
+(a) punctul 9 se înlocuiește cu următorul text:
+„9. | «cerințe de siguranță» înseamnă caracteristicile de siguranță (calitative sau cantitative sau, atunci când este necesar, atât calitative, cât și cantitative) necesare pentru proiectarea, exploatarea (inclusiv norme de exploatare) și întreținerea unui sistem pentru a respecta obiective de siguranță stabilite prin lege sau la nivel de companie;”;
+(b) punctul 23 se înlocuiește cu următorul text:
+„23. | «accident catastrofal» înseamnă un accident care de regulă afectează un număr mare de persoane și cauzează un număr mare de decese;”;
+(c) se adaugă următoarele puncte 32-37:
+„32. | «defecțiune sistematică» înseamnă o defecțiune care se produce în mod repetat la anumite combinații de factori sau în anumite condiții de mediu sau de aplicare;
+33. «eroare sistematică» înseamnă o eroare inerentă în specificațiile, proiectarea, fabricarea, instalarea, exploatarea sau întreținerea sistemului în curs de evaluare;
+34. «barieră» înseamnă o măsură de control al riscului tehnică, operațională sau organizațională din afara sistemului în curs de evaluare care fie reduce frecvența apariției unui pericol, fie atenuează gravitatea consecințelor potențiale ale acestui pericol;
+35. «accident critic» înseamnă un accident care de regulă afectează un număr foarte redus de persoane și care cauzează cel puțin un deces;
+36. «foarte improbabil» înseamnă o manifestare a defecțiunii cu o frecvență de maximum 10– 9 per oră de funcționare;
+37. «improbabil» înseamnă o manifestare a defecțiunii cu o frecvență de maximum 10– 7 per oră de funcționare.”
+2. Anexa I se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 13 iulie 2015.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 164, 30.4.2004, p. 44.
+(2) Regulamentul (CE) nr. 352/2009 al Comisiei din 24 aprilie 2009 privind adoptarea unei metode de siguranță comune pentru evaluarea riscului prevăzută la articolul 6 alineatul (3) litera (a) din Directiva 2004/49/CE a Parlamentului European și a Consiliului (JO L 108, 29.4.2009, p. 4).
+(3) Regulamentul de punere în aplicare (UE) nr. 402/2013 al Comisiei din 30 aprilie 2013 privind metoda comună de siguranță pentru evaluarea riscurilor și de abrogare a Regulamentului (CE) nr. 352/2009 (JO L 121, 3.5.2013, p. 8).
+ANEXĂ
+Anexa I la Regulamentul de punere în aplicare (UE) nr. 402/2013 se modifică după cum urmează:
+1. Punctul 2.5.1 se înlocuiește cu următorul text:
+„2.5.1. | Dacă pericolele nu sunt acoperite de unul dintre cele două principii de acceptare a riscurilor prevăzute la punctele 2.3 și 2.4, acceptabilitatea riscurilor se demonstrează prin estimarea și evaluarea explicită a riscurilor. Riscurile generate de aceste pericole se estimează fie cantitativ, fie calitativ, sau atunci când este necesar, atât cantitativ, cât și calitativ, ținându-se seama de măsurile de siguranță existente.”
+2. Punctele 2.5.4-2.5.7 se înlocuiesc cu următorul text:
+„2.5.4. | Partea care înaintează propunerea nu este obligată să efectueze o estimare explicită a riscurilor suplimentare pentru riscurile care sunt deja considerate acceptabile în temeiul utilizării codurilor de practică sau a unui sistem de referință.
+2.5.5. În cazul în care apar pericole ca urmare a defecțiunilor funcțiilor unui sistem tehnic, fără a aduce atingere punctelor 2.5.1 și 2.5.4, acestor defecțiuni li se aplică următoarele obiective armonizate în materie de proiectare:
+(a) în cazul în care o defecțiune are un potențial credibil de a conduce direct la un accident catastrofal, riscul asociat nu trebuie să fie redus și mai mult dacă frecvența defectării funcției s-a dovedit a fi foarte improbabilă;
+(b) în cazul în care o defecțiune are un potențial credibil de a conduce direct la un accident critic, riscul asociat nu trebuie să fie redus și mai mult dacă frecvența defectării funcției s-a dovedit a fi improbabilă.
+Alegerea între definiția (23) și definiția (35) trebuie să rezulte din cea mai credibilă consecință periculoasă a defecțiunii.
+2.5.6. Fără a aduce atingere punctelor 2.5.1 și 2.5.4, obiectivele armonizate în materie de proiectare prevăzute la punctul 2.5.5 se utilizează pentru proiectarea de sisteme tehnice electrice, electronice și electronice programabile. Acestea trebuie să fie cele mai ambițioase obiective în materie de proiectare care pot fi necesare pentru recunoașterea reciprocă.
+Ele nu pot fi utilizate nici ca obiective cantitative pentru întregul sistem feroviar al unui stat membru și nici pentru proiectarea sistemelor tehnice cu acțiune pur mecanică.
+Pentru sistemele tehnice mixte alcătuite atât din părți pur mecanice, cât și dintr-o parte electrică, electronică și electronică programabilă, identificarea pericolelor se efectuează în conformitate cu punctul 2.2.5. Pericolele care decurg din partea pur mecanică nu se controlează cu ajutorul obiectivelor armonizate în materie de proiectare prevăzute la punctul 2.5.5.
+2.5.7. Riscul asociat defecțiunilor funcțiilor sistemelor tehnice menționate la punctul 2.5.5 este considerat acceptabil dacă sunt îndeplinite următoarele condiții:
+(a) respectarea obiectivelor armonizate în materie de proiectare aplicabile a fost demonstrată;
+(b) defecțiunile sistematice și erorile sistematice asociate sunt controlate în conformitate cu procesele în materie de siguranță și calitate proporționale cu obiectivul armonizat în materie de proiectare aplicabil sistemului tehnic în curs de evaluare și definite în standardele relevante recunoscute la nivel general;
+(c) condițiile de aplicare pentru integrarea în siguranță în sistemul feroviar a sistemului tehnic în curs de evaluare au fost identificate și înregistrate în evidența pericolelor, în conformitate cu punctul 4 În conformitate cu punctul 1.2.2, aceste condiții de aplicare sunt transferate către actorul responsabil pentru demonstrarea integrării în siguranță.”
+3. Se adaugă următoarele puncte 2.5.8-2.5.12:
+„2.5.8. | Următoarele definiții specifice se aplică în legătură cu obiectivele cantitative armonizate în materie de proiectare a sistemelor tehnice: (a) termenul «direct» semnifică faptul că defecțiunea acestei funcții are potențialul de a conduce la tipul de accident prevăzut la punctul 2.5.5, fără să fie nevoie să existe o defecțiune suplimentară; (b) termenul «potențial» înseamnă că defecțiunea acestei funcții poate duce la tipul de accident menționat la punctul 2.5.5.
+2.5.9. În cazul în care defecțiunea unei funcții a sistemului tehnic în curs de evaluare nu duce direct la riscul în cauză, trebuie să fie permisă aplicarea unor obiective în materie de proiectare mai puțin exigente, dacă partea care înaintează propunerea poate demonstra că utilizarea barierelor, astfel cum sunt definite la articolul 3 alineatul (34), permite atingerea aceluiași nivel de siguranță.
+2.5.10. Fără a aduce atingere nici procedurii specificate la articolul 8 din Directiva 2004/49/CE, nici articolului 17 alineatul (3) din Directiva 2008/57/CE a Parlamentului European și a Consiliului(*1), se poate solicita, pentru sistemul tehnic în curs de evaluare, un obiectiv mai ambițios decât obiectivele armonizate în materie de proiectare stabilite la punctul 2.5.5, prin intermediul unei norme naționale notificate, pentru a se menține nivelul existent de siguranță dintr-un stat membru. În cazul autorizațiilor suplimentare pentru punerea în funcțiune a vehiculelor se aplică procedurile de la articolele 23 și 25 din Directiva 2008/57/CE.
+2.5.11. În cazul în care se elaborează un sistem tehnic pe baza cerințelor prevăzute la punctul 2.5.5, se aplică principiul recunoașterii reciproce în conformitate cu articolul 15 alineatul (5).
+Cu toate acestea, dacă pentru un anumit pericol, partea care înaintează propunerea poate demonstra că nivelul de siguranță existent în statul membru în care este utilizat sistemul poate fi menținut, cu un obiectiv în materie de proiectare care este mai puțin ambițios decât obiectivul armonizat în materie de proiectare, atunci acest obiectiv mai puțin ambițios în materie de proiectare poate fi utilizat în locul celui armonizat.
+2.5.12. Estimarea și evaluarea explicită a riscurilor îndeplinesc cel puțin următoarele cerințe:
+(a) metodele utilizate pentru estimarea explicită a riscurilor reflectă corect sistemul în curs de evaluare și parametrii acestuia (inclusiv toate modurile de funcționare);
+(b) rezultatele sunt suficient de precise pentru a oferi o bază solidă pentru procesul de luare a deciziilor. Modificările minore ale ipotezelor sau ale condițiilor prealabile privind input-ul nu trebuie să genereze diferențe semnificative la nivel de cerințe.
+(*1) Directiva 2008/57/CE a Parlamentului European și a Consiliului din 17 iunie 2008 privind interoperabilitatea sistemului feroviar în Comunitate (JO L 191, 18.7.2008, p. 1).” "
+(*1) Directiva 2008/57/CE a Parlamentului European și a Consiliului din 17 iunie 2008 privind interoperabilitatea sistemului feroviar în Comunitate (JO L 191, 18.7.2008, p. 1).” ”
