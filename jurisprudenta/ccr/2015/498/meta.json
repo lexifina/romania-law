@@ -1,0 +1,231 @@
+{
+ "key": "dcc-498-2015",
+ "label": "Decizia CCR nr. 498/2015",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "498",
+ "date": "2015-06-24",
+ "year": "2015",
+ "heading": "DECIZIE nr. 498 din 24 iunie 2015",
+ "subtitle": "asupra obiecţiei de neconstituţionalitate a dispoziţiilor art. 5 din Ordonanţa de urgenţă a Guvernului nr. 86/2014 privind stabilirea unor măsuri de reorganizare la nivelul administraţiei publice centrale şi pentru modificarea şi completarea unor acte normative, aprobată prin lege, cu modificări şi completări",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "585",
+  "bis": false,
+  "date": "2015-08-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 86/2014",
+    "number": "86",
+    "year": "2014",
+    "path": "oug/2014/86"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge obiecţia de neconstituţionalitate formulată şi constată că dispoziţiile art. 5 din Ordonanţa de urgenţă a Guvernului nr. 86/2014 privind stabilirea unor măsuri de reorganizare la nivelul administraţiei publice centrale şi pentru modificarea şi completarea unor acte normative, aprobată prin lege, cu modificări şi completări, sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 86/2014",
+    "number": "86",
+    "year": "2014",
+    "path": "lege/2014/86"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 86/2014",
+    "number": "86",
+    "year": "2014",
+    "path": "oug/2014/86"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "1",
+      "7",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 108/1999",
+    "number": "108",
+    "year": "1999",
+    "path": "lege/1999/108"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 113/2011",
+    "number": "113",
+    "year": "2011",
+    "path": "oug/2011/113"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170282",
+  "text_sha256": "32d65d9c6f2df066e9d0170c91cdd2b14f8bb602146063ffccb5c955f0b8809d",
+  "catalogue_sha256": "32d65d9c6f2df066e9d0170c91cdd2b14f8bb602146063ffccb5c955f0b8809d",
+  "fetched": "2026-11-03T03:42:39Z",
+  "chars": 40976,
+  "portal_id": "170282",
+  "tip": "DECIZIE"
+ }
+}
