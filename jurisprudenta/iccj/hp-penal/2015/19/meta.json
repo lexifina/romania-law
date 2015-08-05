@@ -1,0 +1,334 @@
+{
+ "key": "iccj-hp-penal-19-2015",
+ "label": "Decizia ÎCCJ nr. 19/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "19",
+ "date": "2015-06-04",
+ "year": "2015",
+ "heading": "DECIZIE nr. 19 din 4 iunie 2015",
+ "subtitle": "solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept: \"dacă fapta medicului, care are calitatea de funcționar public, de a primi plăți suplimentare sau donații de la pacienți, în condițiile art. 34 alin. 2 din Legea drepturilor pacientului nr. 46/2003, constituie sau nu o exercitare a unui drept recunoscut de lege, având ca urmare incidența dispozițiilor art. 21 alin. 1 teza I din Cod penal.\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "590",
+  "bis": false,
+  "date": "2015-08-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.151/1/2015",
+  "34/753/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea drepturilor pacientului nr. 46/2003",
+    "number": "46",
+    "year": "2003",
+    "path": "lege/2003/46"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea Militară de Apel, în Dosarul nr. 34/753/2013, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept: \"dacă fapta medicului, care are calitatea de funcționar public, de a primi plăți suplimentare sau donații de la pacienți, în condițiile art. 34 alin. 2 din Legea drepturilor pacientului nr. 46/2003, constituie sau nu o exercitare a unui drept recunoscut de lege, având ca urmare incidența dispozițiilor art. 21 alin. 1 teza I din Cod penal.\".",
+  "Stabilește că fapta medicului angajat cu contract de muncă într-o unitate spitalicească din sistemul public de sănătate, care are calitatea de funcționar public, în accepțiunea dispozițiilor art. 175 alin. 1 lit. b teza a II-a din Codul penal, de a primi plăți suplimentare sau donații de la pacienți, în condițiile art. 34 alin. 2 din Legea drepturilor pacientului nr. 46/2003, nu constituie o exercitare a unui drept recunoscut de lege având ca urmare incidența dispozițiilor art. 21 alin. 1 teza I-a din Cod penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) Cod procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea drepturilor pacientului nr. 46/2003",
+    "number": "46",
+    "year": "2003",
+    "path": "lege/2003/46"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "254",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "256",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1011",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 386/2004",
+    "number": "386",
+    "year": "2004"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-08-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170319",
+  "text_sha256": "10f740b44e5c42c1cfd2f6a3d9bc8c3a19a0e77283687f24e67c09a6c5efc2e2",
+  "catalogue_sha256": "10f740b44e5c42c1cfd2f6a3d9bc8c3a19a0e77283687f24e67c09a6c5efc2e2",
+  "fetched": "2026-11-03T03:42:37Z",
+  "chars": 57433,
+  "portal_id": "170319",
+  "tip": "DECIZIE"
+ }
+}
