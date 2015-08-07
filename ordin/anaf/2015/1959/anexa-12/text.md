@@ -1,0 +1,8 @@
+# Anexa 5a
+AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ
+DIRECȚIA GENERALĂ A VĂMILOR
+Direcția*1)...............
+Siglă
+INVITAȚIE Întocmită în.........., astăzi,....... luna....... anul..... Domnului (Doamnei)....................., în calitate de.................... al.................. În vederea clarificării unor aspecte din activitate............................., subsemnații,.............................., lucrători vamali în cadrul Agenției Naționale de Administrare Fiscală - Direcția generală a vămilor/Direcția Regională Vamală..................../Biroul vamal..................., în baza art. 50 din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare, vă invităm în data de..........., ora....., la sediul Direcției generale a vămilor/Direcției Regionale Vamale......./Biroului vamal............., adresa..................., în vederea efectuării controlului, ocazie cu care veți prezenta, conform art. 56 din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare, următoarele documente:................................... Neprezentarea, în condițiile de mai sus, constituie contravenție conform art. 219 alin. (1) lit. c) din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare, și se sancționează cu amendă contravențională conform art. 219 alin. (2) lit. a) din același act normativ, cu excepția cazului în care sunt întrunite elementele constitutive ale unei infracțiuni.
+Semnătura de primire
+Lucrători vamali,...................................................................
