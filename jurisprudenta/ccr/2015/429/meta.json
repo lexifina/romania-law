@@ -1,0 +1,255 @@
+{
+ "key": "dcc-429-2015",
+ "label": "Decizia CCR nr. 429/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "429",
+ "date": "2015-06-09",
+ "year": "2015",
+ "heading": "DECIZIE nr. 429 din 9 iunie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 19 din Ordonanţa de urgenţă a Guvernului nr. 80/2013 privind taxele judiciare de timbru, art. 36 din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor şi art. 197 şi art. 200 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "597",
+  "bis": false,
+  "date": "2015-08-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "26.658/300/2013",
+  "1.215D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 19 din Ordonanţa de urgenţă a Guvernului nr. 80/2013 privind taxele judiciare de timbru, ale art. 36 din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor şi ale art. 197 şi art. 200 din Codul de procedură civilă, excepţie ridicată de Ştefan Daniel Dobre în Dosarul nr. 26.658/300/2013 al Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170366",
+  "text_sha256": "9570350f2f01c5ec0673711a705fc4f4f75f263efc7344fe455bbd7fda0394b1",
+  "catalogue_sha256": "9570350f2f01c5ec0673711a705fc4f4f75f263efc7344fe455bbd7fda0394b1",
+  "fetched": "2026-11-03T03:42:27Z",
+  "chars": 13908,
+  "portal_id": "170366",
+  "tip": "DECIZIE"
+ }
+}
