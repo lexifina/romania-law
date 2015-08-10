@@ -1,0 +1,223 @@
+{
+ "key": "dcc-482-2015",
+ "label": "Decizia CCR nr. 482/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "482",
+ "date": "2015-06-18",
+ "year": "2015",
+ "heading": "DECIZIE nr. 482 din 18 iunie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (3) din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local, raportate la sintagma \"la data întocmirii raportului de expertiză\" cuprinsă în dispoziţiile art. 26 alin. (2) din Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "602",
+  "bis": false,
+  "date": "2015-08-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.609/86/2014",
+  "704D/2015",
+  "2.861/117/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 22 alin. (3) din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local, raportate la sintagma \"la data întocmirii raportului de expertiză\" cuprinsă în dispoziţiile art. 26 alin. (2) din Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică, excepţie ridicată de statul român, reprezentat de Ministerul Transporturilor prin Compania Naţională de Autostrăzi şi Drumuri Naţionale din România C.N.A.D.N.R. - S.A. din Bucureşti, în dosarele nr. 1.609/86/2014, nr. 2.631/86/2012*, nr. 3.388/86/2013, nr. 6.187/86/2013, nr. 6.638/86/2009*, nr. 7.633/86/2013, nr. 4.594/86/2013, nr. 9.550/86/2013, nr. 9.867/86/2013, nr. 7.106/86/2013, nr. 10.848/86/2013, nr. 7.553/86/2013, nr. 4.607/86/2013, nr. 6.101/86/2013, nr. 4.355/86/2013, nr. 6.470/86/2013, nr. 6.486/86/2013, nr. 205/86/2014, nr. 258/86/2014, nr. 320/86/2014, nr. 11.631/86/2013, nr. 4.218/86/2013, nr. 6.468/86/2013, nr. 8.513/86/2013, nr. 9.626/86/2013, nr. 10.535/86/2013, nr. 11.888/86/2013, nr. 886/86/2014, nr. 1.821/86/2014 şi nr. 11.497/86/2013 ale Curţii de Apel Suceava - Secţia I civilă, precum şi, din oficiu, de Curtea de Apel Timişoara - Secţia I civilă în dosarele nr. 1.789/30/2012 şi nr. 8.147/30/2011* şi de Curtea de Apel Cluj - Secţia I civilă în Dosarul nr. 2.861/117/2013.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Suceava - Secţia I civilă, Curţii de Apel Timişoara - Secţia I civilă şi Curţii de Apel Cluj - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170401",
+  "text_sha256": "deb2b0a1261966fdb6a25f999284e1b98861f08853fc07037b12c1311a519e2c",
+  "catalogue_sha256": "deb2b0a1261966fdb6a25f999284e1b98861f08853fc07037b12c1311a519e2c",
+  "fetched": "2026-11-03T03:42:25Z",
+  "chars": 17606,
+  "portal_id": "170401",
+  "tip": "DECIZIE"
+ }
+}
