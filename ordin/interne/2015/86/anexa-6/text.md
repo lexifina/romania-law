@@ -1,0 +1,9 @@
+# Anexa 6 (Anexa nr. 152 la Ordinul nr. 490/2008)
+INSPECTORATUL PENTRU SITUAȚII DE URGENȚĂ
+"CRIȘANA" AL JUDEȚULUI BIHOR
+Însemnul heraldic al Inspectoratului pentru Situații de Urgență "Crișana" al Județului Bihor din cadrul Inspectoratului pentru Situații de Urgență va păstra în compoziție elemente din stema Ministerului Afacerilor Interne, după cum urmează: pe fond purpuriu, o acvilă cruciată, de aur, cu capul spre dreapta, ciocul și ghearele roșii, aripile deschise, ținând în gheara dreaptă o spadă de argint, în stânga o ramură de măslin verde. Pe pieptul acvilei, un scut despicat și semităiat la dextra: 1) pe purpuriu, două topoare încrucișate în săritoare, suprapuse de o cască de pompier așezată din profil, dedesubt o grenadă explodând, de la care pornesc în dreapta și stânga ramuri de stejar, totul de argint; 2) pe portocaliu, un turn crenelat de argint, rostuit negru, dotat cu o fereastră și o poartă închisă; 3) pe albastru, în partea de jos, trei brâuri undate, cel din mijloc mai gros, peste care plutește o floare de nufăr, totul de argint. În partea inferioară, sub acvilă, deviza scrisă cu litere negre pe o eșarfă albă: AUDACIA ET DEVOTIO (CURAJ ȘI DEVOTAMENT). În exergă, între două cercuri liniare aurii, legenda scrisă cu litere majuscule, de asemenea, de aur, pe fond purpuriu: * INSPECTORATUL PENTRU SITUAȚII DE URGENȚĂ * "CRIȘANA" AL JUDEȚULUI BIHOR. Semnificația elementelor însumate:
+a) casca și topoarele - sunt preluate din însemnele pompierilor militari folosite din a doua jumătate a secolului al XIX-lea;
+b) grenada explodând - amintește de participarea pompierilor militari la Războiul pentru cucerirea Independenței de Stat a României;
+c) ramurile de stejar - forța, puterea; autoritate veche;
+d) turnul și brâurile undate - elemente preluate de la stema județului Bihor pe teritoriul căruia unitatea își desfășoară activitatea;
+e) floarea de nufăr - face parte din flora județului Bihor.
