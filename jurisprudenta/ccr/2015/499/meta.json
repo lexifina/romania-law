@@ -1,0 +1,145 @@
+{
+ "key": "dcc-499-2015",
+ "label": "Decizia CCR nr. 499/2015",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "499",
+ "date": "2015-06-24",
+ "year": "2015",
+ "heading": "DECIZIE nr. 499 din 24 iunie 2015",
+ "subtitle": "referitoare la sesizarea de neconstituţionalitate a dispoziţiilor Hotărârii Senatului nr. 42/2015 privind respingerea cererii de încuviinţare a reţinerii şi arestării preventive a domnului senator Şova Dan-Coman",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "605",
+  "bis": false,
+  "date": "2015-08-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.037L/2/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea de neconstituţionalitate a Hotărârii Senatului nr. 42/2015 privind respingerea cererii de încuviinţare a reţinerii şi arestării preventive a domnului senator Şova Dan-Coman.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedintelui Senatului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170467",
+  "text_sha256": "8e8cf8317a513462b511cc653a1006d321052bc13dc35adc4695cb1726201310",
+  "catalogue_sha256": "8e8cf8317a513462b511cc653a1006d321052bc13dc35adc4695cb1726201310",
+  "fetched": "2026-11-03T03:42:23Z",
+  "chars": 16668,
+  "portal_id": "170467",
+  "tip": "DECIZIE"
+ }
+}
