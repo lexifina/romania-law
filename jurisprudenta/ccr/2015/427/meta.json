@@ -1,0 +1,296 @@
+{
+ "key": "dcc-427-2015",
+ "label": "Decizia CCR nr. 427/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "427",
+ "date": "2015-06-09",
+ "year": "2015",
+ "heading": "DECIZIE nr. 427 din 9 iunie 2015",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "606",
+  "bis": false,
+  "date": "2015-08-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "8.437/320/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "344",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Magda Keresztes şi Gyula Keresztes în Dosarul nr. 8.437/320/2014 al Judecătoriei Târgu Mureş şi constată că dispoziţiile art. 344 alin. (2) şi art. 347 alin. (1) din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "2. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 344 alin. (4) din Codul de procedură penală, excepţie ridicată de Magda Keresztes, Gyula Keresztes, Marian Blembea şi Evelin Banev Nikolov în dosarele nr. 8.437/320/2014, nr. 2.348/89/2014/a3 şi nr. 21.391/3/2014/a3 ale Judecătoriei Târgu Mureş, Curţii de Apel Iaşi - Secţia penală şi pentru cauze cu minori şi, respectiv, Curţii de Apel Bucureşti - Secţia a II-a penală şi a dispoziţiilor art. 345 alin. (1) şi art. 346 alin. (1) din Codul de procedură penală, cu privire la soluţia legislativă potrivit căreia judecătorul de cameră preliminară se pronunţă \"fără participarea procurorului şi a inculpatului\", excepţie ridicată de Magda Keresztes, Gyula Keresztes şi Marian Blembea în dosarele nr. 8.437/320/2014 şi nr. 2.348/89/2014/a3 ale Judecătoriei Târgu Mureş şi Curţii de Apel Iaşi - Secţia penală şi pentru cauze cu minori.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Târgu Mureş, Curţii de Apel Iaşi - Secţia penală şi pentru cauze cu minori şi Curţii de Apel Bucureşti - Secţia a II-a penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "344",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b",
+      "b"
+     ]
+    },
+    {
+     "art": "270",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "290",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170449",
+  "text_sha256": "028279b22801c950bf5f5b0b3cfb0dad070ec755efb8ee2ce754908d9d00b797",
+  "catalogue_sha256": "028279b22801c950bf5f5b0b3cfb0dad070ec755efb8ee2ce754908d9d00b797",
+  "fetched": "2026-11-06T03:28:14Z",
+  "chars": 21796,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406012146/https://legislatie.just.ro/Public/DetaliiDocumentAfis/170449",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/170449",
+   "timestamp": "20250406012146",
+   "sha256": "c2baf1993815b967f8208bd6d73995de7e74303a726c0079042b8ac1d760f8af"
+  },
+  "portal_id": "170449",
+  "tip": "DECIZIE"
+ }
+}
