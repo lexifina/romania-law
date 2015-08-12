@@ -1,0 +1,288 @@
+{
+ "key": "dcc-480-2015",
+ "label": "Decizia CCR nr. 480/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "480",
+ "date": "2015-06-18",
+ "year": "2015",
+ "heading": "DECIZIE nr. 480 din 18 iunie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3, 4, 5 şi 9 din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan şi de modificare a Legii nr. 268/2001 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Agenţiei Domeniilor Statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "609",
+  "bis": false,
+  "date": "2015-08-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.317/183/2014",
+  "354D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Mircea Copăcel în Dosarul nr. 4.317/183/2014 al Judecătoriei Băileşti şi constată că dispoziţiile art. 3, 4, 5 şi 9 din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan şi de modificare a Legii nr. 268/2001 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Agenţiei Domeniilor Statului sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Băileşti şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170503",
+  "text_sha256": "d32f0eae2cf1e51eb2ae3020cda9802f9fdd189d2818c8c9397391abcb83291d",
+  "catalogue_sha256": "d32f0eae2cf1e51eb2ae3020cda9802f9fdd189d2818c8c9397391abcb83291d",
+  "fetched": "2026-11-03T03:42:17Z",
+  "chars": 19766,
+  "portal_id": "170503",
+  "tip": "DECIZIE"
+ }
+}
