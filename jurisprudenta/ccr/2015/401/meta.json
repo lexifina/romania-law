@@ -1,0 +1,171 @@
+{
+ "key": "dcc-401-2015",
+ "label": "Decizia CCR nr. 401/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "401",
+ "date": "2015-05-28",
+ "year": "2015",
+ "heading": "DECIZIE nr. 401 din 28 mai 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 din Legea nr. 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligaţiilor de plată a unor sume de bani rezultând din contracte încheiate între profesionişti şi între aceştia şi autorităţi contractante",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "627",
+  "bis": false,
+  "date": "2015-08-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.061/339/2014",
+  "1.220D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2013",
+    "number": "72",
+    "year": "2013",
+    "path": "lege/2013/72"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată, din oficiu, de Judecătoria Zimnicea - Secţia mixtă fond în Dosarul nr. 2.061/339/2014 şi constată că dispoziţiile art. 10 din Legea nr. 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligaţiilor de plată a unor sume de bani rezultând din contracte încheiate între profesionişti şi între aceştia şi autorităţi contractante sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Zimnicea - Secţia mixtă fond şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2013",
+    "number": "72",
+    "year": "2013",
+    "path": "lege/2013/72"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170662",
+  "text_sha256": "8c304227bce22d4f433714a109a681b6ba81609a70457e82eb8feb83dfcc6bb6",
+  "catalogue_sha256": "8c304227bce22d4f433714a109a681b6ba81609a70457e82eb8feb83dfcc6bb6",
+  "fetched": "2026-11-03T03:42:07Z",
+  "chars": 11208,
+  "portal_id": "170662",
+  "tip": "DECIZIE"
+ }
+}
