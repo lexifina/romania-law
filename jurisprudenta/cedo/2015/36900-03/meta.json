@@ -1,0 +1,86 @@
+{
+ "key": "cedo-36900-03-2015-03-03",
+ "label": "CEDO, Toşcuţă şi alţii c. României, 2015-03-03",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2015-03-03",
+ "year": "2015",
+ "heading": "HOTĂRÂRE din 3 martie 2015",
+ "subtitle": "în Cauza Toşcuţă şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "629",
+  "bis": false,
+  "date": "2015-08-19",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "36900/03"
+ ],
+ "case_name": "Toşcuţă şi alţii",
+ "subjects": [],
+ "operative": [
+  "În unanimitate, CURTEA: 1. hotărăşte",
+  "a) că statul pârât trebuie, prin mijloace adecvate, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, să îi pună pe primii doi reclamanţi în posesia efectivă asupra celor 6.581 mp de teren şi să îi pună pe ceilalţi cinci reclamanţi în posesia efectivă asupra celor 2.500 mp de teren şi că trebuie să asigure tuturor reclamanţilor eliberarea unui titlu de proprietate asupra terenului lor;",
+  "b) că, în caz contrar faţă de cele prevăzute la lit. a) supra, statul pârât trebuie, în acelaşi termen de trei luni, să plătească primilor doi reclamanţi în solidar suma de 1.665.000 EUR (un milion şase sute şaizeci şi cinci de mii de euro) pentru prejudiciul material, care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "c) că, în caz contrar faţă de cele prevăzute la lit. a) supra, statul pârât trebuie, în acelaşi termen de trei luni, să plătească celui de-al treilea, al patrulea şi al cincilea reclamant, precum şi celei de-a şasea şi a şaptea reclamante, în solidar, suma de 630.000 EUR (şase sute treizeci de mii de euro) pentru prejudiciul material, care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "d) că statul pârât trebuie, în acelaşi termen de trei luni, să plătească reclamanţilor în solidar suma de 2.300 EUR (două mii trei sute de euro), care trebuie convertită în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii, pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "e) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "2. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170699",
+  "text_sha256": "c60914a46d35eca45eef157d18460f4f42764f294f9b160f501f3caa71e5d26b",
+  "catalogue_sha256": "c60914a46d35eca45eef157d18460f4f42764f294f9b160f501f3caa71e5d26b",
+  "fetched": "2026-11-03T03:42:06Z",
+  "chars": 9653,
+  "portal_id": "170699",
+  "tip": "HOTĂRÂRE"
+ }
+}
