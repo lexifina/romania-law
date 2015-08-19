@@ -1,0 +1,208 @@
+{
+ "key": "dcc-545-2015",
+ "label": "Decizia CCR nr. 545/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "545",
+ "date": "2015-07-14",
+ "year": "2015",
+ "heading": "DECIZIE nr. 545 din 14 iulie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 459 alin. (2) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "629",
+  "bis": false,
+  "date": "2015-08-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "16.958/233/2014",
+  "2.280/310/2014",
+  "1.368D/2014",
+  "1.413D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "459",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 459 alin. (2) din Codul de procedură penală cu privire la soluţia legislativă potrivit căreia admisibilitatea în principiu a cererii de revizuire se examinează de către instanţă \"fără citarea părţilor\", excepţie ridicată de Pompiliu Bota în Dosarul nr. 16.958/233/2014 al Judecătoriei Galaţi - Secţia penală şi de Maria Tamaris Taloi şi Grigore Lucian Tamaris Taloi în Dosarul nr. 2.280/310/2014 al Judecătoriei Sinaia.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Galaţi - Secţia penală şi Judecătoriei Sinaia şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "459",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "363",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "403",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170709",
+  "text_sha256": "e91f805b5278bbe5d1aa0da1c9ee5e830e9e0d25c45c1f56bed3475dc58ef876",
+  "catalogue_sha256": "e91f805b5278bbe5d1aa0da1c9ee5e830e9e0d25c45c1f56bed3475dc58ef876",
+  "fetched": "2026-11-03T03:42:04Z",
+  "chars": 13560,
+  "portal_id": "170709",
+  "tip": "DECIZIE"
+ }
+}
