@@ -1,0 +1,173 @@
+{
+ "key": "dcc-450-2015",
+ "label": "Decizia CCR nr. 450/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "450",
+ "date": "2015-06-16",
+ "year": "2015",
+ "heading": "DECIZIE nr. 450 din 16 iunie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 347 alin. (3) prin raportare la cele ale art. 345 alin. (1) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "633",
+  "bis": false,
+  "date": "2015-08-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "5.415/118/2014/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "347",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca devenită inadmisibilă excepţia de neconstituţionalitate a prevederilor art. 347 alin. (3) prin raportare la cele ale art. 345 alin. (1) din Codul de procedură penală, cu privire la soluţia legislativă potrivit căreia judecătorul de cameră preliminară se pronunţă \"fără participarea procurorului şi a inculpatului\", excepţie ridicată de Vasile Frîncu în Dosarul nr. 5.415/118/2014/a1 al Curţii de Apel Constanţa - Secţia penală şi pentru cauze cu minori şi de familie.",
+  "Decizia se comunică Curţii de Apel Constanţa - Secţia penală şi pentru cauze cu minori şi de familie şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "347",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170736",
+  "text_sha256": "8fff1ce442710337db3ccd8b2fd9d374af3f8838b3a5e3114d5d5926192f20f8",
+  "catalogue_sha256": "8fff1ce442710337db3ccd8b2fd9d374af3f8838b3a5e3114d5d5926192f20f8",
+  "fetched": "2026-11-03T03:42:02Z",
+  "chars": 9057,
+  "portal_id": "170736",
+  "tip": "DECIZIE"
+ }
+}
