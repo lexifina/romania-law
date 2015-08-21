@@ -1,0 +1,270 @@
+{
+ "key": "dcc-531-2015",
+ "label": "Decizia CCR nr. 531/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "531",
+ "date": "2015-07-14",
+ "year": "2015",
+ "heading": "DECIZIE nr. 531 din 14 iulie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 204/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 15/2013 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 101/2011 privind reglementarea condiţiilor pentru vânzarea imobilelor, proprietate privată a statului, aflate în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", a imobilelor proprietatea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", precum şi pentru modificarea unor acte normative",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "637",
+  "bis": false,
+  "date": "2015-08-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "15.997/3/2013",
+  "75D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 204/2013",
+    "number": "204",
+    "year": "2013",
+    "path": "lege/2013/204"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 204/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 15/2013 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 101/2011 privind reglementarea condiţiilor pentru vânzarea imobilelor, proprietate privată a statului, aflate în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", a imobilelor proprietatea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", precum şi pentru modificarea unor acte normative, excepţie ridicată de Alexandra Cristina Gheorghiu în Dosarul nr. 15.997/3/2013 al Tribunalului Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a III-a civilă şi pentru cauze cu minori şi de familie şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 204/2013",
+    "number": "204",
+    "year": "2013",
+    "path": "lege/2013/204"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 15/2013",
+    "number": "15",
+    "year": "2013",
+    "path": "oug/2013/15"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 101/2011",
+    "number": "101",
+    "year": "2011",
+    "path": "oug/2011/101"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170760",
+  "text_sha256": "c3cd7c4bc6054ddb8403cdb7bd801e35f4463848003287acd24c0e2759ec5df9",
+  "catalogue_sha256": "c3cd7c4bc6054ddb8403cdb7bd801e35f4463848003287acd24c0e2759ec5df9",
+  "fetched": "2026-11-03T03:41:59Z",
+  "chars": 25564,
+  "portal_id": "170760",
+  "tip": "DECIZIE"
+ }
+}
