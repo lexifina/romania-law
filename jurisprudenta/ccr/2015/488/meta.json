@@ -1,0 +1,215 @@
+{
+ "key": "dcc-488-2015",
+ "label": "Decizia CCR nr. 488/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "488",
+ "date": "2015-06-23",
+ "year": "2015",
+ "heading": "DECIZIE nr. 488 din 23 iunie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1), (2) şi (6), art. 2 alin. (1) şi (2) şi art. 6 din Legea nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, precum şi ale anexelor nr. 2 şi 3b la Legea nr. 63/2011",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "645",
+  "bis": false,
+  "date": "2015-08-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.691/40/2014",
+  "8D/2015",
+  "37D/2015",
+  "39D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Liga Sindicatelor din Învăţământ Botoşani, în numele şi în calitate de reprezentant legal al membrilor săi de sindicat Adrian Găluşcă şi alţii, Gheorghe Afloarie şi alţii, Vasile Papuc şi alţii, Ioana-Brînduşa Acatincăi şi alţii, Alina Cojocaru şi alţii, Gheorghe Afrasînei şi alţii, Vasile Husac şi alţii, Daniela Aciubotăriţei şi alţii, Geta Taielup şi alţii, Dumitru Agavriloaie şi alţii, Veronica Ivănescu şi alţii, Maria Asandului şi alţii, Ionela Lăcrămioara Aionesa şi alţii, Doina Fodor şi alţii, Mirela Apătăchioaie şi alţii, Tudor Agrigoroaei şi alţii, Daniela Tomniuc şi alţii în dosarele nr. 2.691/40/2014, nr. 2.693/40/2014, nr. 2.689/40/2014, nr. 2.706/40/2014, nr. 2.736/40/2014, nr. 2.629/40/2014, nr. 2.601/40/2014, nr. 2.808/40/2014, nr. 2.805/40/2014, nr. 2.595/40/2014, nr. 2.726/40/2014, nr. 2.730/40/2014, nr. 2.766/40/2014, nr. 2.769/40/2014, nr. 2.792/40/2014, nr. 2.838/40/2014 şi nr. 2.768/40/2014 ale Tribunalului Botoşani - Secţia I civilă şi constată că dispoziţiile art. 1 alin. (1), (2) şi (6), art. 2 alin. (1) şi (2) şi art. 6 din Legea nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, precum şi ale anexelor nr. 2 şi 3b la Legea nr. 63/2011 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Botoşani - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2009",
+    "number": "41",
+    "year": "2009",
+    "path": "oug/2009/41"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 221/2008",
+    "number": "221",
+    "year": "2008",
+    "path": "lege/2008/221"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-08-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170822",
+  "text_sha256": "8e906c21c659f9ba752099e541c2a514bc2da75f30777bc4da46105d45a371d5",
+  "catalogue_sha256": "8e906c21c659f9ba752099e541c2a514bc2da75f30777bc4da46105d45a371d5",
+  "fetched": "2026-11-03T03:41:56Z",
+  "chars": 19066,
+  "portal_id": "170822",
+  "tip": "DECIZIE"
+ }
+}
