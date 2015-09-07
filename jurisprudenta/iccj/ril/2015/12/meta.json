@@ -1,0 +1,294 @@
+{
+ "key": "iccj-ril-12-2015",
+ "label": "Decizia ÎCCJ nr. 12/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "12",
+ "date": "2015-06-08",
+ "year": "2015",
+ "heading": "DECIZIE nr. 12 din 8 iunie 2015",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "678",
+  "bis": false,
+  "date": "2015-09-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "6/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1077",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1279",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1669",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Suceava şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 1073 şi art. 1077 din Codul civil de la 1864, art. 5 alin. (2) din titlul X al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, cu modificările şi completările ulterioare, art. 1.279 alin. (3) teza I şi art. 1.669 alin. (1) din Codul civil, în situaţia în care promitentul-vânzător a promis vânzarea întregului imobil, deşi nu are calitatea de proprietar exclusiv al acestuia, promisiunea de vânzare nu poate fi executată în natură sub forma pronunţării unei hotărâri judecătoreşti care să ţină loc de contract de vânzare pentru întregul bun, în lipsa acordului celorlalţi coproprietari.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "948",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "969",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1073",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1077",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1179",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1669",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1683",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1279",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "970",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "641",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "642",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1077",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 144/1958",
+    "number": "144",
+    "year": "1958",
+    "path": "decret/1958/144"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-09-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171168",
+  "text_sha256": "15518098071f05bd919b4b92b84aa9c51dad066b69f973b67d2bf4097f06f3ef",
+  "catalogue_sha256": "15518098071f05bd919b4b92b84aa9c51dad066b69f973b67d2bf4097f06f3ef",
+  "fetched": "2026-11-06T03:49:07Z",
+  "chars": 40152,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406162959/https://legislatie.just.ro/Public/DetaliiDocumentAfis/171168",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/171168",
+   "timestamp": "20250406162959",
+   "sha256": "2252863918405cb8c75ff108cb581b6ef9cb73de594ea95670d13d20405f2836"
+  },
+  "portal_id": "171168",
+  "tip": "DECIZIE"
+ }
+}
