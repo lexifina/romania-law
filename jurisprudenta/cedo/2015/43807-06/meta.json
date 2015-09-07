@@ -1,0 +1,158 @@
+{
+ "key": "cedo-43807-06-2015-03-31",
+ "label": "CEDO, S.C. Uzinexport - S.A. c. României, 2015-03-31",
+ "court": "cedo",
+ "kind": "hotarare",
+ "number": "31",
+ "date": "2015-03-31",
+ "year": "2015",
+ "heading": "HOTĂRÂRE nr. 31 din 31 martie 2015",
+ "subtitle": "în Cauza S.C. Uzinexport - S.A. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "677",
+  "bis": false,
+  "date": "2015-09-07",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "43807/06"
+ ],
+ "case_name": "S.C. Uzinexport - S.A.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate, CURTEA: 1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 6 alin. 1 din Convenţie; 3. hotărăşte că nu este cazul să analizeze capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie; 4. hotărăşte",
+  "a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 alin. 2 din Convenţie, suma de 94.933 EUR (nouăzeci şi patru de mii nouă sute treizeci şi trei de euro), care va fi convertită în moneda statului pârât, la cursul de schimb valabil la data plăţii pentru cheltuielile de judecată;",
+  "b) că, de la expirarea acestui termen şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal, practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171173",
+  "text_sha256": "d0043b441ccdfb0f227a0071b9137c1796d5ba03d9ee954c20a4b9d9cfc0050e",
+  "catalogue_sha256": "d0043b441ccdfb0f227a0071b9137c1796d5ba03d9ee954c20a4b9d9cfc0050e",
+  "fetched": "2026-11-03T03:41:35Z",
+  "chars": 19596,
+  "portal_id": "171173",
+  "tip": "HOTĂRÂRE"
+ }
+}
