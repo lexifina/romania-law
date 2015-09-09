@@ -1,0 +1,133 @@
+{
+ "key": "dcc-547-2015",
+ "label": "Decizia CCR nr. 547/2015",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "547",
+ "date": "2015-07-15",
+ "year": "2015",
+ "heading": "DECIZIE nr. 547 din 15 iulie 2015",
+ "subtitle": "asupra sesizării de neconstituţionalitate a dispoziţiilor Hotărârii Senatului nr. 48 din 22 iunie 2015 privind constituirea Comisiei speciale a Senatului pentru evaluarea stării democraţiei şi a statului de drept în România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "685",
+  "bis": false,
+  "date": "2015-09-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.146L/2/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca neîntemeiată, sesizarea de neconstituţionalitate formulată de un număr de 44 senatori şi constată că Hotărârea Senatului nr. 48 din 22 iunie 2015 privind constituirea Comisiei speciale a Senatului pentru evaluarea stării democraţiei şi a statului de drept în România este constituţională în raport cu criticile formulate.",
+  "Decizia este definitivă şi general obligatorie.",
+  "Decizia se comunică Senatului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-09-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171224",
+  "text_sha256": "c3ee039a518d306c36c02aa9b07e9a611980a4aa7540689fe4c9101166cbbc5f",
+  "catalogue_sha256": "c3ee039a518d306c36c02aa9b07e9a611980a4aa7540689fe4c9101166cbbc5f",
+  "fetched": "2026-11-03T03:41:32Z",
+  "chars": 23275,
+  "portal_id": "171224",
+  "tip": "DECIZIE"
+ }
+}
