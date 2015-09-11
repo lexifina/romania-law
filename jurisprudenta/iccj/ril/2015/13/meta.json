@@ -1,0 +1,276 @@
+{
+ "key": "iccj-ril-13-2015",
+ "label": "Decizia ÎCCJ nr. 13/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "13",
+ "date": "2015-06-22",
+ "year": "2015",
+ "heading": "DECIZIE nr. 13 din 22 iunie 2015",
+ "subtitle": "referitoare la recursul formulat de Colegiul de conducere al Curţii de Apel Constanţa privind interpretarea şi aplicarea dispoziţiilor art. 2 alin. (1) lit. f) şi art. 10 din Legea contenciosului administrativ nr. 554/2004, cu modificările şi completările ulterioare, respectiv art. 94 şi 95 din Codul de procedură civilă, cu referire la stabilirea naturii şi competenţei de soluţionare a cauzelor având ca obiect acţiuni în pretenţii prin care se solicită de către o direcţie generală de asistenţă socială şi protecţia copilului obligarea unui consiliu judeţean sau local ori a unei alte direcţii generale de asistenţă socială şi protecţia copilului la suportarea cheltuielilor de întreţinere pentru persoane care beneficiază de măsuri de protecţie prevăzute de Legea nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap, republicată, cu modificările şi completările ulterioare, şi Legea nr. 272/2004 privind protecţia şi promovarea drepturilor copilului, republicată, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "690",
+  "bis": false,
+  "date": "2015-09-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "8/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Constanţa şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 2 alin. (1) lit. f) şi art. 10 din Legea contenciosului administrativ nr. 554/2004, cu modificările şi completările ulterioare, respectiv art. 94 şi art. 95 din Codul de procedură civilă, litigiile având ca obiect acţiuni prin care se solicită de către o direcţie generală de asistenţă socială şi protecţia copilului obligarea unui consiliu judeţean sau local ori a unei alte direcţii generale de asistenţă socială şi protecţia copilului la suportarea cheltuielilor de întreţinere pentru persoane care beneficiază de măsuri de protecţie prevăzute de Legea nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap, republicată, cu modificările şi completările ulterioare, şi Legea nr. 272/2004 privind protecţia şi promovarea drepturilor copilului, republicată, cu modificările şi completările ulterioare, sunt de competenţa instanţelor de contencios administrativ.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "f",
+      "c"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea asistenţei sociale nr. 292/2011",
+    "number": "292",
+    "year": "2011",
+    "path": "lege/2011/292"
+   },
+   "articles": [
+    {
+     "art": "143",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "i",
+      "k"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/2006",
+    "number": "47",
+    "year": "2006",
+    "path": "lege/2006/47"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 68/2003",
+    "number": "68",
+    "year": "2003",
+    "path": "og/2003/68"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 268/2007",
+    "number": "268",
+    "year": "2007",
+    "path": "hg/2007/268"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-09-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171287",
+  "text_sha256": "99b432a073d2e283a90de036fc1e200a04ebca66c161081349956e0db1073d56",
+  "catalogue_sha256": "99b432a073d2e283a90de036fc1e200a04ebca66c161081349956e0db1073d56",
+  "fetched": "2026-11-04T03:20:12Z",
+  "chars": 52553,
+  "portal_id": "171287",
+  "tip": "DECIZIE"
+ }
+}
