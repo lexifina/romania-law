@@ -1,0 +1,27 @@
+REGULAMENTUL DELEGAT (UE) 2015/1515 AL COMISIEI
+din 5 iunie 2015
+de modificare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește prelungirea perioadelor de tranziție referitoare la sistemele de pensii
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții (1), în special articolul 85 alineatul (2),
+întrucât:
+(1) CPC se interpun între contrapărțile la contractele tranzacționate pe una sau mai multe piețe financiare. Riscul de credit al contrapărților respective este atenuat prin depunerea unei garanții care se calculează astfel încât să acopere pierderile potențiale în cazul neîndeplinirii obligațiilor de plată. CPC acceptă numai active foarte lichide, de obicei, numerar, ca garanție pentru a răspunde apelurilor în marja de variație, cu scopul de a permite o lichidare rapidă în cazul neîndeplinirii obligațiilor de plată.
+(2) În multe state membre, sistemele de pensii (SP) sunt participanți activi pe piețele instrumentelor financiare derivate extrabursiere. Cu toate acestea, în general SP reduc la minimum pozițiile lor în numerar, preferând să dețină investiții cu un randament superior, precum titlurile de valoare, astfel încât să asigure profituri ridicate pentru pensionari. Entitățile care gestionează sisteme de pensii, al căror scop principal îl reprezintă acordarea unor prestații la pensie, de obicei sub forma unor plăți pe viață, dar și sub forma unor plăți pe o perioadă determinată sau a unei sume forfetare, își reduc de obicei la minimum valoarea alocată sub formă de numerar pentru a obține o eficiență și un randament maxime pentru deținătorii de polițe. În consecință, dacă li se solicită unor astfel de entități să compenseze la nivel central contractele derivate extrabursiere, acest lucru ar necesita renunțarea la o proporție semnificativă din activele lor în schimbul fondurilor bănești pentru a respecta cerințele de marjă actuale ale CPC.
+(3) Prin urmare, articolul 89 alineatul (1) din Regulamentul (UE) nr. 648/2012 prevede că, timp de trei ani după intrarea în vigoare a regulamentului menționat, obligația de compensare prevăzută la articolul 4 nu se aplică contractelor derivate extrabursiere care au efectul măsurabil în mod obiectiv de a reduce riscurile investițiilor direct legate de solvabilitatea financiară a SP. Perioada de tranziție se aplică, de asemenea, entităților înființate în scopul despăgubirii membrilor unor SP în cazul unei situații de neîndeplinire a obligațiilor de plată.
+(4) Pentru a evalua pe deplin situația actuală, Comisia a pregătit un raport în conformitate cu articolul 85 alineatul (2) din Regulamentul (UE) nr. 648/2012, care a evaluat dacă CPC au depus eforturile necesare în vederea elaborării unor soluții tehnice adecvate pentru transferul de garanții care nu sunt in numerar ca marjă de variație de către SP. Pentru a realiza această evaluare, Comisia a comandat un studiu de referință cu privire la soluțiile pentru a permite sistemelor de pensii să depună la contrapărțile centrale garanții care nu sunt in numerar, precum și cu privire la impactul, în absența unei soluții, pe care eliminarea exceptării l-ar avea asupra veniturilor din pensii ale beneficiarilor SP afectate.
+(5) În conformitate cu concluziile raportului său, Comisia consideră că, în acest stadiu, SP nu au depus eforturile necesare pentru elaborarea unor soluții tehnice adecvate și că efectele adverse ale compensării la nivel central a contractelor derivate extrabursiere asupra prestațiilor de pensii ale viitorilor pensionari rămân neschimbate.
+(6) Prin urmare, perioada de tranziție de trei ani prevăzută la articolul 89 alineatul (1) din Regulamentul (UE) nr. 648/2012 ar trebui să fie prelungită cu doi ani.
+(7) Prezentul regulament ar trebui să intre în vigoare cât mai curând posibil, pentru a permite ca prelungirea actualelor perioade de tranziție să aibă loc înainte de expirarea lor sau cât mai curând după aceasta. O intrare în vigoare ulterioară ar putea conduce la insecuritate juridică pentru sistemele de pensii, în ceea ce privește necesitatea de a se pregăti sau nu pentru viitoarele obligații de compensare,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+La articolul 89 alineatul (1) din Regulamentul (UE) nr. 648/2012, primul paragraf se înlocuiește cu următorul text:
+„Până la 16 august 2017, obligația de compensare prevăzută la articolul 4 nu se aplică contractelor derivate extrabursiere care au efectul măsurabil în mod obiectiv de a reduce riscurile investițiilor direct legate de solvabilitatea financiară a sistemelor de pensii, astfel cum sunt definite la articolul 2 alineatul (10). Perioada de tranziție se aplică, de asemenea, entităților înființate în scopul despăgubirii membrilor unor sisteme de pensii în cazul unei situații de neîndeplinire a obligațiilor de plată.”
+Articolul 2
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 5 iunie 2015.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 201, 27.7.2012, p. 1.
