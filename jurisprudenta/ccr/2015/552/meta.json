@@ -1,0 +1,305 @@
+{
+ "key": "dcc-552-2015",
+ "label": "Decizia CCR nr. 552/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "552",
+ "date": "2015-07-16",
+ "year": "2015",
+ "heading": "DECIZIE nr. 552 din 16 iulie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (3) teza a doua, art. 342, art. 343, art. 344 alin. (1)-(3), art. 345 alin. (2) şi (3), art. 346 alin. (2)-(7), art. 347 alin. (1) şi (2) şi art. 348 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "707",
+  "bis": false,
+  "date": "2015-09-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.370/296/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate ridicată de Marius Vasile Balaji în Dosarul nr. 11.370/296/2014 al Judecătoriei Satu Mare - Secţia penală şi constată că soluţia legislativă cuprinsă în art. 3 alin. (3) teza a doua din Codul de procedură penală conform căreia exercitarea funcţiei de verificare a legalităţii netrimiterii în judecată este compatibilă cu exercitarea funcţiei de judecată este neconstituţională. 2. Respinge ca neîntemeiată excepţia de neconstituţionalitate ridicată de Marius Vasile Balaji în Dosarul nr. 11.370/296/2014 al Judecătoriei Satu Mare - Secţia penală şi constată că dispoziţiile art. 3 alin. (3) teza a doua din Codul de procedură penală, în privinţa soluţiei legislative conform căreia exercitarea funcţiei de verificare a legalităţii trimiterii în judecată este compatibilă cu exercitarea funcţiei de judecată, şi ale art. 342, art. 343, art. 344 alin. (1)-(3), art. 345 alin. (2) şi (3), art. 346 alin. (2)-(7), art. 347 alin. (1) şi (2) şi art. 348 din acelaşi cod sunt constituţionale în raport cu criticile formulate.",
+  "Decizia se comunică preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Judecătoriei Satu Mare - Secţia penală şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "344",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1",
+      "2",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-09-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171425",
+  "text_sha256": "5f38cbe04965e03722ae1a9d0bd182d67eb9206bf5b379d1aff1b98fbc37160d",
+  "catalogue_sha256": "5f38cbe04965e03722ae1a9d0bd182d67eb9206bf5b379d1aff1b98fbc37160d",
+  "fetched": "2026-11-03T03:41:19Z",
+  "chars": 37108,
+  "portal_id": "171425",
+  "tip": "DECIZIE"
+ }
+}
