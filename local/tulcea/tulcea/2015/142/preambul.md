@@ -1,0 +1,8 @@
+Consiliul Local al Municipiului Tulcea, judetul Tulcea, intrunit in sedinta ordinara din data de 24 septembrie 2015.
+Examinand proiectul de hotărâre privind inventarierea in domeniul privat al municipiului a terenului in suprafata de 84mp, situat in Tulcea, strada Comertului FN, concesionarea acestuia prin incredintare directa pentru modernizare spatiu comercial existent si aprobarea PUZ “Modernizare spatiu comercial si concesionarea terenului aferent” cu Regulamentul local de urbanism aferent, proiect din initiativa Viceprimarului;
+Luand in discutie adresa nr. 605/28.02.2011, inaintata de Oficiul de Cadastru si Publicitate Imobiliara Tulcea, expunerea de motive a Viceprimarului municipiului Tulcea înregistrată sub nr. 19.053/20.07.2015, raportul prezentat de Serviciul Urbanism, Amenajare Teritoriu din cadrul Primariei municipiului Tulcea, raportul Directiei de Intretinere si Administrare Patrimoniu nr. G.9.667/17.07.2015 si avizul Comisiei tehnice de amenajarea teritoriului și urbanism a municipiului Tulcea la planul urbanistic zonal;
+Retinand avizele comisiilor de specialitate ale Consiliului Local Tulcea;
+Avand in vedere dispozitiile art.15, lit.e) si art.22 alin.(2) din Legea nr.50/1991 republicata si modificata privind autorizarea executarii lucrarilor de constructii;
+In baza dispozitiilor art.10, art.36 alin.(1), alin.(2) lit.c), alin.(5) lit.b) si c), art.121 si art.123 alin.(1) din Legea nr.215/2001 republicata privind administratia publica locala, cu modificarile si completarile ulterioare;
+In temeiul art.45, al.(1), (3), (6), art.49 și art. 115 alin. (1) lit. b) din Legea nr.215/2001 republicata privind administratia publica locala, republicata, cu modificarile ulterioare,
+HOTARASTE:
