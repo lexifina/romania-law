@@ -1,0 +1,685 @@
+{
+ "key": "iccj-ril-14-2015",
+ "label": "Decizia ÎCCJ nr. 14/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "14",
+ "date": "2015-06-22",
+ "year": "2015",
+ "heading": "DECIZIE nr. 14 din 22 iunie 2015",
+ "subtitle": "referitoare la recursul în interesul legii privind dobânda care se acordă pentru sumele încasate cu titlu de taxă de primă înmatriculare, taxă pe poluare şi taxă pentru emisii poluante precum şi momentul de la care curge dobânda fiscală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "728",
+  "bis": false,
+  "date": "2015-09-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "9/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 9/2000",
+    "number": "9",
+    "year": "2000",
+    "path": "og/2000/9"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "994",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii formulate de Avocatul Poporului şi de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi stabileşte că: - în interpretarea şi aplicarea dispoziţiilor art. 3 alin. 3 din Ordonanţa Guvernului nr. 9/2000 privind nivelul dobânzii legale pentru obligaţiile băneşti, a dispoziţiilor art. 1 din Ordonanţa Guvernului nr. 13/2011 privind dobânda legală remuneratorie şi penalizatoare pentru obligaţiile băneşti, precum şi pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar, a dispoziţiilor art. 120 alin. (7) şi art. 124 alin. (2) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările şi completările ulterioare, dobânda care se acordă pentru sumele încasate cu titlu de taxă de primă înmatriculare, taxă pe poluare şi taxă pentru emisii poluante, restituite prin hotărâri judecătoreşti, este dobânda fiscală prevăzută de dispoziţiile art. 124 alin. (1) şi alin. (2) din Codul de procedură fiscală, coroborat cu dispoziţiile art. 120 alin. (7) din acelaşi act normativ; - în interpretarea şi aplicarea dispoziţiilor art. 994 din Codul civil din anul 1864, ale art. 1.535 din Legea nr. 287/2009 privind Codul civil, ale art. 124 alin. (1) şi art. 70 alin. (1) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările şi completările ulterioare, momentul de la care curge dobânda fiscală pentru sumele încasate cu titlu de taxă de primă înmatriculare, taxă pe poluare şi taxă pentru emisii poluante, restituite în temeiul hotărârilor judecătoreşti, este reprezentat de data plăţii acestor taxe.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 9/2000",
+    "number": "9",
+    "year": "2000",
+    "path": "og/2000/9"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "994",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1645",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "210",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "212",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "216",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "217",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "218",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "1",
+      "9"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "994",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 196/2005",
+    "number": "196",
+    "year": "2005",
+    "path": "oug/2005/196"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "r"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "214-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 50/2008",
+    "number": "50",
+    "year": "2008",
+    "path": "oug/2008/50"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/2012",
+    "number": "9",
+    "year": "2012",
+    "path": "lege/2012/9"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanţelor publice nr. 1.899/2004",
+    "number": "1899",
+    "year": "2004"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 5/2001",
+    "number": "5",
+    "year": "2001",
+    "path": "og/2001/5"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 174/2004",
+    "number": "174",
+    "year": "2004",
+    "path": "lege/2004/174"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 559/2003",
+    "number": "559",
+    "year": "2003",
+    "path": "lege/2003/559"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 343/2006",
+    "number": "343",
+    "year": "2006",
+    "path": "lege/2006/343"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 372/2007",
+    "number": "372",
+    "year": "2007",
+    "path": "lege/2007/372"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 208/2008",
+    "number": "208",
+    "year": "2008",
+    "path": "oug/2008/208"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 218/2008",
+    "number": "218",
+    "year": "2008",
+    "path": "oug/2008/218"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 7/2009",
+    "number": "7",
+    "year": "2009",
+    "path": "oug/2009/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 117/2009",
+    "number": "117",
+    "year": "2009",
+    "path": "oug/2009/117"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2012",
+    "number": "1",
+    "year": "2012",
+    "path": "oug/2012/1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 9/2013",
+    "number": "9",
+    "year": "2013",
+    "path": "oug/2013/9"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-09-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171638",
+  "text_sha256": "049a139eda606af9c6725ff84f653ac254b0c9186798929d74cf7eb23e317d52",
+  "catalogue_sha256": "049a139eda606af9c6725ff84f653ac254b0c9186798929d74cf7eb23e317d52",
+  "fetched": "2026-11-03T03:41:03Z",
+  "chars": 74556,
+  "portal_id": "171638",
+  "tip": "DECIZIE"
+ }
+}
