@@ -1,0 +1,2 @@
+# Anexa 6
+REGULAMENT 15/09/2015
