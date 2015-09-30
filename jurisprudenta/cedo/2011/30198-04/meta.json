@@ -1,0 +1,177 @@
+{
+ "key": "cedo-30198-04-2011-06-28",
+ "label": "CEDO, Ştefan Angelescu şi alţii c. României, 2011-06-28",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2011-06-28",
+ "year": "2011",
+ "heading": "HOTĂRÂRE din 28 iunie 2011",
+ "subtitle": "în Cauza Ştefan Angelescu şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "732",
+  "bis": false,
+  "date": "2015-09-30",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "30198/04",
+  "36298/07",
+  "3484/05",
+  "30200/04"
+ ],
+ "case_name": "Ştefan Angelescu şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate",
+  "CURTEA:",
+  "1. decide să conexeze cererile; 2. declară admisibile cererile formulate în temeiul art. 6 § 1 şi al art. 1 din Protocolul nr. 1 la Convenţie, în ceea ce priveşte executarea deplină şi la timp a hotărârilor la care se face referire în tabelul anexat, pentru toate cererile, şi restul cererilor inadmisibile; 3. hotărăşte că au fost încălcate art. 6 § 1 din Convenţie şi art. 1 din Protocolul nr. 1 la Convenţie; 4. hotărăşte că statul pârât trebuie să asigure, prin mijloace adecvate, în termen de trei luni, punerea în executare deplină a hotărârilor din 11 mai 2004, 8 octombrie 2003 şi 1 septembrie 2004 pronunţate de Tribunalul Bucureşti (cererile nr. 30.198/04, 30.200/04 şi 36.298/07)*2);",
+  "Notă",
+  "```\n──────────\n```",
+  "*2) Rectificată la 10 ianuarie 2012: textul era: \"Hotărăşte că statul pârât trebuie să asigure, prin mijloace adecvate, în termen de trei luni, punerea în executare a hotărârilor din 11 mai 2004 şi din 8 octombrie 2003, pronunţate de Tribunalul Bucureşti (cererile nr. 30.198/04 şi 30.200/04), şi a hotărârii din 1 septembrie 2004, pronunţată de Tribunalul Bucureşti, şi a hotărârii din 30 noiembrie 2006, pronunţată de Judecătoria Bucureşti (Cererea nr. 36.298/07)\".",
+  "```\n──────────\n```",
+  "5. hotărăşte:",
+  "a) că statul pârât trebuie să plătească reclamanţilor, în ceea ce priveşte daunele morale, în acelaşi termen de trei luni, următoarele sume, care trebuie convertite în moneda naţională la rata de schimb aplicabilă la data plăţii:",
+  "(i) 2.400 EUR (două mii patru sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, către reclamantul din cererea nr. 3.484/05; (ii) 4.800 EUR (patru mii opt sute de euro)*3), plus orice sumă ce poate fi datorată cu titlu de impozit, către reclamantul din cererea nr. 36.298/07;",
+  "Notă",
+  "```\n──────────\n```",
+  "*3) Rectificată la 10 ianuarie 2012: textul era: \"8.000 EUR (opt mii de euro)\".",
+  "```\n──────────\n```",
+  "b) că, de la expirarea termenului de trei luni menţionat mai sus şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "6. respinge restul cererilor de acordare a unei reparaţii echitabile."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171685",
+  "text_sha256": "9e64d3928d723876758abbda0c2c08a3ecf6b267d57d9bfa8d78158f3b876a9e",
+  "catalogue_sha256": "9e64d3928d723876758abbda0c2c08a3ecf6b267d57d9bfa8d78158f3b876a9e",
+  "fetched": "2026-11-03T03:41:02Z",
+  "chars": 26381,
+  "portal_id": "171685",
+  "tip": "HOTĂRÂRE"
+ }
+}
