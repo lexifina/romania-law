@@ -1,0 +1,57 @@
+{
+ "key": "cjue-c-201-14-hotarare-2015-10-01",
+ "label": "CJUE, Hotărârea Curții (Camera a treia) din 1 octombrie 2015, Cauza C-201/14",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2015-10-01",
+ "year": "2015",
+ "case": "Cauza C-201/14",
+ "celex": "62014CJ0201",
+ "ecli": "ECLI:EU:C:2015:638",
+ "heading": "Hotărârea Curții (Camera a treia) din 1 octombrie 2015",
+ "formation": "CHAMB_03_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Cluj",
+   "date": "2014-03-31",
+   "national_file": "740/33/2013"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Directiva 95/46/CE – Prelucrarea datelor cu caracter personal – Articolele 10 și 11 – Informarea persoanelor vizate – Articolul 13 – Excepții și restricții – Transfer de către o autoritate a administrației publice a unui stat membru al unor date fiscale cu caracter personal în vederea prelucrării lor de către o altă autoritate a administrației publice",
+ "interprets": [
+  {
+   "celex": "31995L0046",
+   "folder": "ue/directiva/1995/46"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CJ0201",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-201/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/1cc69445-6826-11e5-9317-01aa75ed71a1.0021.01/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "ac0e0a86f5793f70668c20f850287aa2a8b13ba767e1559029abd424c95379cb"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a treia) declară:",
+  "Articolele 10, 11 și 13 din Directiva 95/46/CE a Parlamentului European și a Consiliului din 24 octombrie 1995 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date trebuie interpretate în sensul că se opun unor măsuri naționale precum cele în discuție în litigiul principal, care permit unei autorități a administrației publice a unui stat membru să transmită date personale unei alte autorități a administrației publice și prelucrarea lor ulterioară, fără ca persoanele vizate să fi fost informate despre această transmitere sau despre această prelucrare."
+ ]
+}
