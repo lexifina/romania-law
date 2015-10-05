@@ -1,0 +1,435 @@
+{
+ "key": "iccj-hp-21-2015",
+ "label": "Decizia ÎCCJ nr. 21/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "21",
+ "date": "2015-06-22",
+ "year": "2015",
+ "heading": "DECIZIE nr. 21 din 22 iunie 2015",
+ "subtitle": "privind interpretarea şi aplicarea prevederilor art. 1079 alin. 2 pct. 3 din Codul civil de la 1864 şi art. 1.523 alin. (2) lit. d) din Codul civil raportat la art. 166 alin. (1) şi (4) din Codul muncii, republicat, cu modificările şi completările ulterioare [art. 161 alin. (1) şi (4) din Codul muncii în forma anterioară republicării] şi art. 1088 din Codul civil de la 1864, art. 2 din O.G. nr. 9/2000, aprobată prin Legea nr. 356/2002, cu modificările şi completările ulterioare, art. 2 din O.G. nr. 13/2011, aprobată prin Legea nr. 43/2012, cu modificările şi completările ulterioare, şi art. 1.535 din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "743",
+  "bis": false,
+  "date": "2015-10-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "199/1/2015",
+  "9.994/118/2013",
+  "16/1/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1079",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1523",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 9/2000",
+    "number": "9",
+    "year": "2000",
+    "path": "og/2000/9"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Constanţa - Secţia I civilă în Dosarul nr. 9.994/118/2013 în vederea pronunţării unei hotărâri prealabile.",
+  "În interpretarea şi aplicarea prevederilor art. 1079 alin. 2 pct. 3 din Codul civil de la 1864 şi art. 1.523 alin. (2) lit. d) din Codul civil raportat la art. 166 alin. (1) şi (4) din Codul muncii, republicat, cu modificările şi completările ulterioare [art. 161 alin. (1) şi (4) din Codul muncii în forma anterioară republicării] şi art. 1088 din Codul civil de la 1864, art. 2 din O.G. nr. 9/2000, aprobată prin Legea nr. 356/2002, cu modificările şi completările ulterioare, art. 2 din O.G. nr. 13/2011, aprobată prin Legea nr. 43/2012, cu modificările şi completările ulterioare, şi art. 1.535 din Codul civil, dobânzile penalizatoare datorate de stat pentru executarea cu întârziere a obligaţiilor de plată pot fi solicitate pentru termenul de 3 ani anterior datei introducerii acţiunii.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1079",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1082",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1523",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1079",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2517",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2537",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1531",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 9/2000",
+    "number": "9",
+    "year": "2000",
+    "path": "og/2000/9"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 75/2008",
+    "number": "75",
+    "year": "2008",
+    "path": "oug/2008/75"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "278",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "448",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-10-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171777",
+  "text_sha256": "1e5bd47b5a1458766ffc985c2073334e582979f27ef4725a2eb3e8d4defd271c",
+  "catalogue_sha256": "1e5bd47b5a1458766ffc985c2073334e582979f27ef4725a2eb3e8d4defd271c",
+  "fetched": "2026-11-03T03:40:56Z",
+  "chars": 53591,
+  "portal_id": "171777",
+  "tip": "DECIZIE"
+ }
+}
