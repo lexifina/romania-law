@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Marea Cameră) din 6 octombrie 2015, Cauza C-69/14
+
+Pentru aceste motive, Curtea (Marea Cameră) declară:
+Dreptul Uniunii, în special principiile echivalenței și efectivității, trebuie interpretat în sensul că nu se opune, în împrejurări precum cele din litigiul principal, ca o instanță națională să nu aibă posibilitatea de a revizui o hotărâre judecătorească definitivă pronunțată în cadrul unei acțiuni de natură civilă, în cazul în care această hotărâre se dovedește a fi incompatibilă cu o interpretare a dreptului Uniunii reținută de Curtea de Justiție a Uniunii Europene ulterior datei la care hotărârea menționată a rămas definitivă, chiar dacă o astfel de posibilitate există în ceea ce privește hotărârile judecătorești definitive incompatibile cu dreptul Uniunii pronunțate în cadrul unor acțiuni de natură administrativă.
