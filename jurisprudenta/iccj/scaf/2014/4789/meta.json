@@ -1,0 +1,144 @@
+{
+ "key": "iccj-scaf-4789-2014",
+ "label": "Decizia ÎCCJ nr. 4789/2014 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "4789",
+ "date": "2014-12-11",
+ "year": "2014",
+ "heading": "DECIZIE nr. 4.789 din 11 decembrie 2014",
+ "subtitle": "privind examinarea recursului declarat de Asociaţia Română pentru Artişti Interpreţi sau Executanţi - ARAIEX împotriva Sentinţei civile nr. 5.570 din 5 octombrie 2012 a Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "753",
+  "bis": false,
+  "date": "2015-10-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.447/2/2012"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de Asociaţia Română pentru Artişti Interpreţi sau Executanţi - ARAIEX împotriva Sentinţei civile nr. 5.570 din 5 octombrie 2012 a Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, ca nefondat.",
+  "Obligă recurenta Asociaţia Română pentru Artişti Interpreţi sau Executanţi - ARAIEX la plata sumei de 3.720 lei către intimatul Centrul Român pentru Administrarea Drepturilor Artiştilor Interpreţi - CREDIDAM cu titlu de cheltuieli de judecată în recurs.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "133",
+     "alin": [
+      "2",
+      "4",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 401/2006",
+    "number": "401",
+    "year": "2006",
+    "path": "hg/2006/401"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-10-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171899",
+  "text_sha256": "fb9d6ddb7fb8288524346da9fa7ea5eb829b45511807db2efc08a7d1adf7553a",
+  "catalogue_sha256": "fb9d6ddb7fb8288524346da9fa7ea5eb829b45511807db2efc08a7d1adf7553a",
+  "fetched": "2026-11-03T03:40:49Z",
+  "chars": 15376,
+  "portal_id": "171899",
+  "tip": "DECIZIE"
+ }
+}
