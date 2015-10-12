@@ -1,0 +1,6 @@
+CONSILIUL LOCAL AL MUNICIPIULUI ROMAN
+Având în vedere prevederile Legii serviciului de salubrizare a localităților nr. 101/2006, republicată, ale Ordinului președintelui Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice, nr. 82/2015 privind aprobarea privind aprobarea Regulamentului–cadru al serviciului de salubrizare a localităților și ale art. 16 alin. (3) și art. 21 alin. (1) din Statutul Asociației de Dezvoltare Intercomunitară „ECONEAMȚ”, cu modificările și completările ulterioare;
+Examinând Expunerea de motive nr. 17465 din 08.10.2015, înaintată de Primarul Municipiului Roman și raportul de specialitate nr. 17466 din 08.10.2015 întocmit de Direcția Tehnică și de Investiții;
+Văzând avizul nr. 43 din 12.10.2015 al Comisiei pentru Administrație Publică, Sport și Turism, avizul nr. 163 din 12.10.2015 al Comisiei juridice și Avizul de legalitate nr. 17666 din 12.10.2015 al Secretarului municipiului Roman;
+În baza prevederilor art. 36 alin. 2 lit. d) și alin. 6 lit. a) pct. 14, ale art.45, alin.3, ale art.124, precum și ale art.115, alin.1, lit. „b” din Legea nr. 215/2001R a administrației publice locale, republicată, cu modificările și completările ulterioare;
+HOTĂRĂȘTE:
