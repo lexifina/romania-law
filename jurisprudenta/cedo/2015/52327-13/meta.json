@@ -1,0 +1,63 @@
+{
+ "key": "cedo-52327-13-2015-06-25",
+ "label": "CEDO, Vasile Cornel Flore c. României, 2015-06-25",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2015-06-25",
+ "year": "2015",
+ "heading": "DECIZIE din 25 iunie 2015",
+ "subtitle": "cu privire la Cererea nr. 52.327/13 introdusă de Vasile Cornel Flore împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "757",
+  "bis": false,
+  "date": "2015-10-12",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "52327/13"
+ ],
+ "case_name": "Vasile Cornel Flore",
+ "subjects": [],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA: ia notă de termenii declaraţiei Guvernului pârât în temeiul art. 6 § 1 din Convenţie şi de modalităţile de asigurare a respectării angajamentelor la care se face referire în aceasta; decide să scoată de pe rol cererea în conformitate cu art. 37 § 1 lit. c) din Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171958",
+  "text_sha256": "0199882b75d6213cb06aefa2472d441c095ff565744deee7813647415af53a7f",
+  "catalogue_sha256": "0199882b75d6213cb06aefa2472d441c095ff565744deee7813647415af53a7f",
+  "fetched": "2026-11-03T03:40:45Z",
+  "chars": 5941,
+  "portal_id": "171958",
+  "tip": "DECIZIE"
+ }
+}
