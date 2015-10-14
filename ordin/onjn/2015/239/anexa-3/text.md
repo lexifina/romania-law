@@ -1,0 +1,19 @@
+# Anexa 3
+DECLARAȚIE LUNARĂ privind veniturile realizate de organizatorii de jocuri de noroc tip........ pentru luna........ anul......
+Date de identificare a organizatorului de jocuri de noroc Denumirea:....................................... Codul unic de înregistrare:....................................... Adresa:.......................................
+```
+┌────┬───────────────────────────────────────────────────────────────┬────────┐
+│Nr. │                                                               │Valoare/│
+│crt.│                Indicator                                      │  Număr │
+├────┼───────────────────────────────────────────────────────────────┼────────┤
+│ 1. │Luna curentă                                                   │        │
+├────┼───────────────────────────────────────────────────────────────┼────────┤
+│ 2. │Numărul mijloacelor de joc                                     │        │
+└────┴───────────────────────────────────────────────────────────────┴────────┘
+```
+Reprezentant legal..............................
+Nume, prenume.................................
+Semnătura..................................
+Data...................................
+INSTRUCȚIUNI de completare a formularului "Declarație lunară privind veniturile realizate de organizatorii de jocuri de noroc tip....... pentru luna....... anul........."
+- Rd. 1 - valoarea veniturilor aferente lunii de raportare - Rd. 2 - numărul mijloacelor de joc
