@@ -1,0 +1,221 @@
+{
+ "key": "iccj-hp-19-2015",
+ "label": "Decizia ÎCCJ nr. 19/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "19",
+ "date": "2015-06-22",
+ "year": "2015",
+ "heading": "DECIZIE nr. 19 din 22 iunie 2015",
+ "subtitle": "referitoare la sesizarea formulată de Curtea de Apel Bucureşti - Secţia a VII-a pentru cauze privind conflicte de muncă şi asigurări sociale în Dosarul nr. 35.159/3/2013, în vederea pronunţării unei hotărâri prealabile cu privire la interpretarea şi aplicarea dispoziţiilor art. 60 alin. (1) lit. g) din Legea nr. 53/2003 privind Codul muncii, republicat",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "776",
+  "bis": false,
+  "date": "2015-10-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "35.159/3/2013",
+  "1.175/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "220",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bucureşti - Secţia a VII-a pentru cauze privind conflicte de muncă şi asigurări sociale în Dosarul nr. 35.159/3/2013, privind pronunţarea unei hotărâri prealabile referitoare la următoarea problemă de drept:",
+  "\"Interpretarea şi aplicarea dispoziţiilor art. 60 alin. 1 lit. g Codul muncii, republicat, raportat la dispoziţiile art. 220 alin. 2 Codul muncii, republicat, în sensul de a se stabili dacă: - art. 60 alin. 1 lit. g din Codul muncii, republicat, reglementează o interdicţie generală de concediere a persoanelor cu funcţii eligibile într-un organism sindical, singurele excepţii fiind cele prevăzute de textul de lege, respectiv concedierea pentru o abatere disciplinară gravă sau pentru abateri disciplinare repetate, săvârşite de către acel salariat, sau dacă art. 220 alin. 2 din Codul muncii, republicat, limitează interdicţia concedierii doar pentru situaţiile în care aceasta ar fi determinată de motive ce ţin de îndeplinirea mandatului pe care reprezentanţii aleşi în organele de conducere ale sindicatelor l-au primit de la salariaţii unităţii; - protecţia oferită de art. 60 alin. 1 lit. g şi art. 220 alin. 2 din Codul muncii, republicat, angajaţilor cu funcţii eligibile într-un organism sindical acoperă şi ipoteza concedierilor pentru motive care nu ţin de persoana salariaţilor, determinate de desfiinţarea postului, în condiţiile în care ambele texte, cu sferă diferită de aplicare, reglementează o interdicţie de concediere în favoarea aceloraşi persoane.\" Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "220",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 83/1975",
+    "number": "83",
+    "year": "1975",
+    "path": "decret/1975/83"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 40/2011",
+    "number": "40",
+    "year": "2011",
+    "path": "lege/2011/40"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea sindicatelor nr. 54/2003",
+    "number": "54",
+    "year": "2003",
+    "path": "lege/2003/54"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "398",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-10-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172147",
+  "text_sha256": "d1c9fb364dce8994a563780cb371626db6915ef0928ed8634ebb193a559b721d",
+  "catalogue_sha256": "d1c9fb364dce8994a563780cb371626db6915ef0928ed8634ebb193a559b721d",
+  "fetched": "2026-11-03T03:40:35Z",
+  "chars": 45476,
+  "portal_id": "172147",
+  "tip": "DECIZIE"
+ }
+}
