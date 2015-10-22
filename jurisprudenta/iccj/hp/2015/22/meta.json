@@ -1,0 +1,210 @@
+{
+ "key": "iccj-hp-22-2015",
+ "label": "Decizia ÎCCJ nr. 22/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "22",
+ "date": "2015-06-29",
+ "year": "2015",
+ "heading": "DECIZIE nr. 22 din 29 iunie 2015",
+ "subtitle": "referitoare la sesizările formulate de Curtea de Apel Piteşti - Secţia I civilă în Dosarul nr. 3.738/90/2013 şi Curtea de Apel Bucureşti - Secţia a VII-a pentru cauze privind conflicte de muncă şi asigurări sociale în dosarele nr. 30.398/3/2013 şi nr. 27.255/3/2013, privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a dispoziţiilor art. 52, art. 53 şi art. 95 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "788",
+  "bis": false,
+  "date": "2015-10-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.738/90/2013",
+  "1.328/1/2015",
+  "30.398/3/2013",
+  "27.255/3/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizările formulate de Curtea de Apel Piteşti - Secţia I civilă în Dosarul nr. 3.738/90/2013 şi Curtea de Apel Bucureşti - Secţia a VII-a pentru cauze privind conflicte de muncă şi asigurări sociale în dosarele nr. 30.398/3/2013 şi nr. 27.255/3/2013, privind pronunţarea unei hotărâri prealabile, şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 52 şi art. 53 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările şi completările ulterioare, raportat la prevederile anexei nr. 5 la această lege, vârsta standard de pensionare, în vederea înscrierii la pensie pentru limită de vârstă, se determină în funcţie de data naşterii asiguratului.",
+  "În interpretarea şi aplicarea dispoziţiilor art. 53 alin. (3) şi art. 95 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările şi completările ulterioare, raportat la prevederile anexei nr. 5 la această lege, stagiul complet de cotizare al persoanelor care se pensionează în temeiul acestui act normativ şi care beneficiază de reducerea vârstei standard de pensionare se determină conform anexei nr. 5 în funcţie de data naşterii asiguratului.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "n"
+     ]
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului muncii şi solidarităţii sociale nr. 340/2001",
+    "number": "340",
+    "year": "2001"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 4/2011",
+    "number": "4",
+    "year": "2011",
+    "path": "lege/2011/4"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-10-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172287",
+  "text_sha256": "1587ac84349a7e4e34915c0479acd296da8d66d54d9d5996ea885c7421767ffa",
+  "catalogue_sha256": "1587ac84349a7e4e34915c0479acd296da8d66d54d9d5996ea885c7421767ffa",
+  "fetched": "2026-11-03T03:40:24Z",
+  "chars": 54747,
+  "portal_id": "172287",
+  "tip": "DECIZIE"
+ }
+}
