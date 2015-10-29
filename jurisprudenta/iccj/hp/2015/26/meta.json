@@ -1,0 +1,143 @@
+{
+ "key": "iccj-hp-26-2015",
+ "label": "Decizia ÎCCJ nr. 26/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "26",
+ "date": "2015-09-21",
+ "year": "2015",
+ "heading": "DECIZIE nr. 26 din 21 septembrie 2015",
+ "subtitle": "sesizarea formulată de Curtea de Apel Constanţa - Secţia I civilă în vederea pronunţării unei hotărâri prealabile pentru dezlegarea chestiunii de drept: dacă pentru stabilirea majorării cuantumului pensiei de serviciu cuvenite magistraţilor cu 1% potrivit art. 82 alin. (4) din Legea nr. 303/2004 privind statutul judecătorilor şi procurorilor, republicată, cu modificările şi completările ulterioare, trebuie avută în vedere numai vechimea în funcţia de judecător şi procuror atât pentru îndeplinirea condiţiei vechimii de 25 de ani, cât şi pentru vechimea care depăşeşte această limită sau poate fi avută în vedere în acest scop şi vechimea în alte funcţii de specialitate juridică asimilată cu vechimea în magistratură în conformitate cu art. 82 alin. (2) şi art. 86 din Legea nr. 303/2004, republicată, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "803",
+  "bis": false,
+  "date": "2015-10-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.622/1/2015",
+  "10/118/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Constanţa - Secţia I civilă în Dosarul nr. 1.622/1/2015 şi, în consecinţă, stabileşte că:",
+  "Majorarea prevăzută de dispoziţiile art. 82 alin. (4) din Legea nr. 303/2004 privind statutul judecătorilor şi procurorilor, republicată, cu modificările şi completările ulterioare, de 1% pentru fiecare an care depăşeşte vechimea minimă de 25 ani, se aplică în condiţiile în care în calculul vechimii de 25 de ani, ca şi pentru vechimea ce depăşeşte această limită se au în vedere şi perioadele desfăşurate de către beneficiarii pensiei de serviciu în activităţile şi funcţiile conexe celor de judecător şi procuror, expres prevăzute de art. 82 alin. (1) şi alin. (2) din lege, respectiv magistrat-asistent sau personal de specialitate juridică asimilat judecătorilor, judecător ori procuror financiar sau consilier de conturi, precum şi în exercitarea profesiei de avocat, personal de specialitate juridică în fostele arbitraje de stat, consilier juridic sau jurisconsult.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "1",
+      "4",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 100/2007",
+    "number": "100",
+    "year": "2007",
+    "path": "oug/2007/100"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 97/2008",
+    "number": "97",
+    "year": "2008",
+    "path": "lege/2008/97"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172431",
+  "text_sha256": "1631258f93f20ccf913c29b270aebd9482e4b673b0364a91653c47f24096a196",
+  "catalogue_sha256": "1631258f93f20ccf913c29b270aebd9482e4b673b0364a91653c47f24096a196",
+  "fetched": "2026-11-03T03:40:14Z",
+  "chars": 46224,
+  "portal_id": "172431",
+  "tip": "DECIZIE"
+ }
+}
