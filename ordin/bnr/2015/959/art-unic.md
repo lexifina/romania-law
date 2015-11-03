@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare, ținut la Banca Națională a României, a Societății Comerciale TEZAUR IMOBILIARE IFN - S.A., cu sediul în municipiul București, Str. Ghețarilor nr. 15, parter, biroul nr. 1, sectorul 1, înregistrată la registrul comerțului cu nr. J40/2632/2010, cod unic de înregistrare 26641505, înscrisă în Registrul general cu nr. RG-PJR-41-110262, la secțiunea k) "Activități multiple de creditare".
