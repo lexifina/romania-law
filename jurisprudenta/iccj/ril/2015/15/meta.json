@@ -1,0 +1,328 @@
+{
+ "key": "iccj-ril-15-2015",
+ "label": "Decizia ÎCCJ nr. 15/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "15",
+ "date": "2015-09-21",
+ "year": "2015",
+ "heading": "DECIZIE nr. 15 din 21 septembrie 2015",
+ "subtitle": "privind examinarea recursului în interesul legii vizând interpretarea şi aplicarea unitară a dispoziţiilor art. 348 din Codul penal (corespondent al art. 281 din Codul penal anterior), în ipoteza exercitării activităţilor specifice profesiei de avocat de către persoane care nu fac parte din formele de organizare profesională recunoscute de Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat, republicată, cu modificările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "816",
+  "bis": false,
+  "date": "2015-11-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "10/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "281",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "474",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii.",
+  "În interpretarea şi aplicarea dispoziţiilor art. 348 din Codul penal stabileşte: \"Fapta unei persoane care exercită activităţi specifice profesiei de avocat în cadrul unor entităţi care nu fac parte din formele de organizare profesională recunoscute de Legea nr. 51/1995 privind organizarea şi exercitarea profesiei de avocat, republicată, cu modificările şi completările ulterioare, constituie infracţiunea de exercitare fără drept a unei profesii sau activităţi prevăzută de art. 348 Cod penal.\" Obligatorie, potrivit art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "281",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "474",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 255/2004",
+    "number": "255",
+    "year": "2004",
+    "path": "lege/2004/255"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1948",
+    "number": "3",
+    "year": "1948",
+    "path": "lege/1948/3"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 90/1990",
+    "number": "90",
+    "year": "1990",
+    "path": "decret-lege/1990/90"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 39/1950",
+    "number": "39",
+    "year": "1950",
+    "path": "decret/1950/39"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 281/1954",
+    "number": "281",
+    "year": "1954",
+    "path": "decret/1954/281"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-11-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172580",
+  "text_sha256": "256297e451d9aad7ce745c9b7fa25884418f430a4a86c20f43943f3fcad1badc",
+  "catalogue_sha256": "256297e451d9aad7ce745c9b7fa25884418f430a4a86c20f43943f3fcad1badc",
+  "fetched": "2026-11-03T03:40:09Z",
+  "chars": 44420,
+  "portal_id": "172580",
+  "tip": "DECIZIE"
+ }
+}
