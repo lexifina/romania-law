@@ -1,0 +1,179 @@
+{
+ "key": "iccj-hp-24-2015",
+ "label": "Decizia ÎCCJ nr. 24/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "24",
+ "date": "2015-06-29",
+ "year": "2015",
+ "heading": "DECIZIE nr. 24 din 29 iunie 2015",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a prevederilor art. 13 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 27/2006 privind salarizarea şi alte drepturi ale judecătorilor, procurorilor şi altor categorii de personal din sistemul justiţiei aprobată cu modificări şi completări prin Legea nr. 45/2007, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "820",
+  "bis": false,
+  "date": "2015-11-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.406/1/2015",
+  "3.421/109/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Piteşti - Secţia a II-a civilă, de contencios administrativ şi fiscal, în Dosarul nr. 3.421/109/2013, privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a prevederilor art. 13 alin. (1) lit. a) din Ordonanţa de urgenţă a Guvernului nr. 27/2006 privind salarizarea şi alte drepturi ale judecătorilor, procurorilor şi altor categorii de personal din sistemul justiţiei, aprobată cu modificări şi completări prin Legea nr. 45/2007, cu modificările şi completările ulterioare, respectiv dacă acestea sunt aplicabile şi în cazul detaşării judecătorilor la birourile electorale, detaşare realizată conform Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, republicată, cu modificările şi completările ulterioare.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 142/2012",
+    "number": "142",
+    "year": "2012",
+    "path": "hg/2012/142"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.860/2006",
+    "number": "1860",
+    "year": "2006",
+    "path": "hg/2006/1860"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-11-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172643",
+  "text_sha256": "8e8594ac56f9995a2c2fbf8d92ad73eb5ebeaa872666821f41a1577236362270",
+  "catalogue_sha256": "8e8594ac56f9995a2c2fbf8d92ad73eb5ebeaa872666821f41a1577236362270",
+  "fetched": "2026-11-03T03:40:04Z",
+  "chars": 24861,
+  "portal_id": "172643",
+  "tip": "DECIZIE"
+ }
+}
