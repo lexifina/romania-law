@@ -1,0 +1,202 @@
+{
+ "key": "dcc-593-2015",
+ "label": "Decizia CCR nr. 593/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "593",
+ "date": "2015-10-01",
+ "year": "2015",
+ "heading": "DECIZIE nr. 593 din 1 octombrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 459 alin. (2) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "820",
+  "bis": false,
+  "date": "2015-11-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "599/318/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "459",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca devenită inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor art. 459 alin. (2) din Codul de procedură penală, excepţie ridicată de Grigore Lucian Tamaris Taloi şi Maria Tamaris Taloi în Dosarul nr. 599/318/2015 al Judecătoriei Târgu Jiu - Secţia penală.",
+  "Decizia se comunică Judecătoriei Târgu Jiu - Secţia penală şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "459",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-11-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172626",
+  "text_sha256": "8a075188869b2170c34789e9f3245b25c04c4fef96eb49e7c0a63f974531e9db",
+  "catalogue_sha256": "8a075188869b2170c34789e9f3245b25c04c4fef96eb49e7c0a63f974531e9db",
+  "fetched": "2026-11-03T03:40:07Z",
+  "chars": 10166,
+  "portal_id": "172626",
+  "tip": "DECIZIE"
+ }
+}
