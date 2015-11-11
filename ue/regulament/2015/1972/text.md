@@ -1,0 +1,80 @@
+REGULAMENTUL DELEGAT (UE) 2015/1972 AL COMISIEI
+din 8 iulie 2015
+de completare a Regulamentului (UE) nr. 223/2014 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul de ajutor european destinat celor mai defavorizate persoane
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 223/2014 al Parlamentului European și al Consiliului din 11 martie 2014 privind Fondul de ajutor european destinat celor mai defavorizate persoane (1), în special articolul 30 alineatul (2) al cincilea paragraf,
+întrucât:
+(1) Scopul prezentului regulament este acela de a stabili care sunt neregulile pe care statele membre trebuie să le raporteze Comisiei. Pentru a permite Comisiei să își îndeplinească sarcinile privind protecția intereselor financiare ale Uniunii, în special pentru a permite Comisiei să efectueze analize de risc, ar trebui stabilite, de asemenea, datele care trebuie furnizate.
+(2) Interesele financiare ale Uniunii ar trebui protejate în același fel, indiferent de fondul utilizat pentru realizarea obiectivelor pentru care a fost instituit. În acest scop, Regulamentul (UE) nr. 223/2014, precum și Regulamentele (UE) nr. 1303/2013 (2), (UE) nr. 1306/2013 (3) și (UE) nr. 514/2014 (4) ale Parlamentului European și ale Consiliului împuternicesc Comisia să adopte norme privind raportarea neregulilor. Pentru a se asigura că se aplică norme identice în ceea ce privește toate fondurile reglementate de regulamentele respective, este necesar ca prezentul regulament să conțină prevederi identice cu cele din Regulamentele delegate (UE) 2015/1970 (5), (UE) 2015/1971 (6) și (UE) 2015/1973 (7) ale Comisiei.
+(3) Pentru a permite o aplicare coerentă a cerințelor de raportare în toate statele membre, este necesar să se definească noțiunea de „suspiciune de fraudă”, luând în considerare definiția fraudei prevăzută în Convenția elaborată în temeiul articolului K.3 din Tratatul privind Uniunea Europeană, privind protecția intereselor financiare ale Comunităților Europene (8), și noțiunea de „constatare primară administrativă sau judiciară”.
+(4) Regulamentele (UE) nr. 1303/2013 și (UE) nr. 223/2014 stabilesc pragul de raportare până la care neregulile nu trebuie raportate Comisiei și cazurile în care nu este necesară raportarea. Pentru a simplifica și a alinia dispozițiile și a se ajunge la un echilibru între sarcinile administrative ale statelor membre și interesul comun de a se furniza date precise în scopul analizării acestora în cadrul luptei împotriva fraudei la nivelul Uniunii, este necesar să se aplice același prag de raportare și aceleași derogări pentru raportarea neregulilor care sunt menționate în Regulamentele (UE) nr. 1306/2013 și (UE) nr. 514/2014.
+(5) În vederea asigurării coerenței de raportare, este necesar să se stabilească criteriile pentru determinarea momentului la care neregulile trebuie să fie raportate inițial și datele care trebuie furnizate în astfel de rapoarte inițiale.
+(6) Pentru ca datele furnizate Comisiei să fie exacte, este necesară transmiterea unor rapoarte subsecvente. Statele membre ar trebui, prin urmare, să furnizeze Comisiei informații actualizate cu privire la orice progrese semnificative privind procedurile sau demersurile administrative și judiciare realizate în legătură cu fiecare raport inițial.
+(7) Având în vedere Directiva 95/46/CE a Parlamentului European și a Consiliului (9) și Regulamentul (CE) nr. 45/2001 al Parlamentului European și al Consiliului (10), Comisia și statele membre ar trebui, în ceea ce privește informațiile furnizate în temeiul prezentului regulament, să ia măsuri de prevenire a divulgării neautorizate sau a accesului neautorizat la datele cu caracter personal. De asemenea, prezentul regulament ar trebui să specifice scopul în care Comisia și statele membre pot prelucra datele respective.
+(8) Deoarece s-au efectuat deja plăți pentru fondul în cauză și ar putea apărea nereguli, dispozițiile prezentului regulament ar trebui să se aplice imediat. Prin urmare, prezentul regulament ar trebui să intre în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Obiectul
+Prezentul regulament stabilește cazurile de nereguli care trebuie să fie raportate și stabilește datele care urmează să fie furnizate Comisiei de către statele membre.
+Articolul 2
+Definiții
+Se aplică definițiile prevăzute de Regulamentul (UE) nr. 223/2014. În plus, în sensul prezentului regulament:
+(a) „suspiciune de fraudă” înseamnă o neregulă care determină inițierea unei proceduri administrative sau judiciare la nivel național în vederea stabilirii existenței unui comportament intenționat, în special a unei fraude, astfel cum este prevăzută la articolul 1 alineatul (1) litera (a) din Convenția elaborată în temeiul articolului K.3 din Tratatul privind Uniunea Europeană, privind protejarea intereselor financiare ale Comunităților Europene;
+(b) „constatare primară administrativă sau judiciară” înseamnă o primă evaluare efectuată în scris de o autoritate competentă, administrativă sau judiciară, care concluzionează, pe baza unor fapte concrete, că s-a comis o neregulă, fără a aduce atingere posibilității ca această concluzie să fie ulterior revizuită sau retrasă, ca urmare a evoluției procedurii administrative sau judiciare.
+Articolul 3
+Raportarea inițială
+(1) Statele membre raportează Comisiei neregulile, împreună cu măsurile de prevenire și de corecție aferente, în special, neregulile care precedă falimentul și cazurile de suspiciune de fraudă care:
+(a) afectează o contribuție din fonduri a cărei valoare depășește 10 000 EUR;
+(b) au făcut obiectul unei constatări primare administrative sau judiciare.
+(2) În raportul inițial, statele membre furnizează următoarele informații:
+(a) denumirea și numărul codului comun de identificare (CCI) ale programului operațional și operațiunii în cauză;
+(b) identitatea persoanelor fizice sau juridice implicate, ori a ambelor, ori a altor entități implicate în producerea neregulii, precum și rolul acestora, cu excepția cazului în care asemenea informații sunt irelevante în scopul combaterii neregulilor, dată fiind natura neregulii în cauză;
+(c) dispoziția sau dispozițiile care au fost încălcate;
+(d) data și sursa primei informații care a condus la suspiciunea producerii unei nereguli;
+(e) practicile utilizate la producerea neregulii;
+(f) atunci când este cazul, dacă practica dă naștere unei suspiciuni de fraudă;
+(g) modul în care a fost constatată neregula;
+(h) atunci când este cazul, statele membre și țările terțe implicate;
+(i) perioada pe durata căreia sau data la care a fost produsă neregula;
+(j) data la care a avut loc constatarea primară administrativă sau judiciară a neregulii;
+(k) suma totală a cheltuielilor cu operațiunea în cauză, evidențiind contribuția Uniunii, contribuția națională și contribuția privată;
+(l) suma totală afectată de neregulă, exprimată din punctul de vedere al contribuției Uniunii și al contribuției naționale;
+(m) în cazurile de suspiciune de fraudă în care nu a fost efectuată nicio plată din contribuția publică către beneficiar, suma care ar fi fost plătită necuvenit dacă nu s-ar fi constatat neregula, exprimată din punctul de vedere al contribuției Uniunii și al contribuției naționale;
+(n) natura cheltuielilor afectate de nereguli;
+(o) suspendarea plăților, după caz, și posibilitățile de recuperare a sumelor plătite.
+(3) Prin derogare de la prevederile alineatului (1), statele membre nu raportează Comisiei neregulile care intră sub incidența articolului 30 alineatul (2) al doilea paragraf din Regulamentul (UE) nr. 223/2014.
+În toate celelalte cazuri, în special în cele care precedă un faliment sau în cazurile de suspiciuni de fraudă, neregulile detectate și măsurile de prevenire și de corecție aferente sunt raportate Comisiei.
+(4) În cazul în care dispozițiile naționale prevăd confidențialitatea investigațiilor, comunicarea informațiilor face obiectul autorizării de către instanța competentă sau tribunalul competent, sau de către un alt organism în conformitate cu normele naționale.
+Articolul 4
+Raportarea subsecventă
+(1) În cazul în care anumite informații menționate la articolul 3 alineatul (2), și, în special, informațiile referitoare la practicile utilizate la producerea neregulii și modul în care aceasta a fost constatată, nu sunt disponibile sau trebuie rectificate, statele membre furnizează informațiile lipsă sau rectifică informațiile prezentând Comisiei rapoarte subsecvente de monitorizare privind neregulile.
+(2) Statele membre informează în mod constant Comisia cu privire la inițierea, încheierea sau abandonarea oricărei proceduri sau oricărui demers de impunere de măsuri administrative, sancțiuni administrative sau sancțiuni penale cu privire la neregulile raportate, precum și cu privire la rezultatul acestor proceduri sau demersuri. În ceea ce privește neregulile pentru care au fost impuse sancțiuni, statele membre indică, de asemenea:
+(a) dacă sancțiunile sunt de natură administrativă sau penală;
+(b) dacă sancțiunile sunt o consecință a nerespectării legislației Uniunii sau a legislației naționale și detalii privind sancțiunile;
+(c) dacă s-a constatat frauda.
+(3) La cererea scrisă a Comisiei, statul membru furnizează informații referitoare la o neregulă sau la un grup de nereguli specifice.
+Articolul 5
+Utilizarea și prelucrarea informațiilor
+(1) Comisia poate utiliza orice informație transmisă de către statele membre în conformitate cu prezentul regulament pentru a efectua analiza de risc, utilizând în acest scop un suport informatic, și, pe baza informațiilor obținute, poate întocmi rapoarte și dezvolta sisteme care să servească la o mai eficientă identificare a riscurilor.
+(2) Informațiile furnizate în temeiul prezentului regulament intră sub incidența secretului profesional și sunt protejate la fel cum ar fi protejate de legislația națională a statului membru care le-a furnizat și de dispozițiile aplicabile instituțiilor Uniunii. Statele membre și Comisia iau toate măsurile de precauție necesare pentru a garanta că informațiile rămân confidențiale.
+(3) În special, informațiile menționate la alineatul (2) nu pot fi transmise altor persoane decât cele care, în statele membre sau în cadrul instituțiilor Uniunii, prin funcția lor, trebuie să aibă acces la acestea, cu excepția cazului în care statul membru care le-a furnizat și-a dat consimțământul expres în acest sens.
+(4) Informațiile menționate la alineatul (2) nu se pot utiliza în niciun alt scop decât protecția intereselor financiare ale Uniunii, cu excepția cazului în care autoritățile care le-au furnizat și-au dat consimțământul expres în acest sens.
+Articolul 6
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 8 iulie 2015.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 72, 12.3.2014, p. 1.
+(2) Regulamentul (UE) nr. 1303/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de stabilire a unor dispoziții comune privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune, Fondul european agricol pentru dezvoltare rurală și Fondul european pentru pescuit și afaceri maritime, precum și de stabilire a unor dispoziții generale privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime și de abrogare a Regulamentului (CE) nr. 1083/2006 al Consiliului (JO L 347, 20.12.2013, p. 320).
+(3) Regulamentul (UE) nr. 1306/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentelor (CEE) nr. 352/78, (CE) nr. 165/94, (CE) nr. 2799/98, (CE) nr. 814/2000, (CE) nr. 1290/2005 și (CE) nr. 485/2008 ale Consiliului (JO L 347, 20.12.2013, p. 549).
+(4) Regulamentul (UE) nr. 514/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 de stabilire a dispozițiilor generale privind Fondul pentru azil, migrație și integrare, precum și instrumentul de sprijin financiar pentru cooperarea polițienească, prevenirea și combaterea criminalității și gestionarea crizelor (JO L 150, 20.5.2014, p. 112).
+(5) Regulamentul delegat (UE) 2015/1970 al Comisiei din 8 iulie 2015 de completare a Regulamentului (UE) nr. 1303/2013 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime (a se vedea pagina 1 din prezentul Jurnal Oficial).
+(6) Regulamentul delegat (UE) 2015/1971 al Comisiei din 8 iulie 2015 de completare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul european de garantare agricolă și Fondul european agricol pentru dezvoltare rurală și de abrogare a Regulamentului (CE) nr. 1848/2006 al Comisiei (a se vedea pagina 6 din prezentul Jurnal Oficial).
+(7) Regulamentul delegat (UE) 2015/1973 al Comisiei din 8 iulie 2015 de completare a Regulamentului (UE) nr. 514/2014 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul pentru azil, migrație și integrare, precum și instrumentul de sprijin financiar pentru cooperarea polițienească, prevenirea și combaterea criminalității și gestionarea crizelor (a se vedea pagina 15 din prezentul Jurnal Oficial).
+(8) JO C 316, 27.11.1995, p. 49.
+(9) Directiva 95/46/CE a Parlamentului European și a Consiliului din 24 octombrie 1995 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date (JO L 281, 23.11.1995, p. 31).
+(10) Regulamentul (CE) nr. 45/2001 al Parlamentului European și al Consiliului din 18 decembrie 2000 privind protecția persoanelor fizice cu privire la prelucrarea datelor cu caracter personal de către instituțiile și organele comunitare și privind libera circulație a acestor date (JO L 8, 12.1.2001, p. 1).
