@@ -1,0 +1,322 @@
+{
+ "key": "iccj-hp-30-2015",
+ "label": "Decizia ÎCCJ nr. 30/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "30",
+ "date": "2015-10-05",
+ "year": "2015",
+ "heading": "DECIZIE nr. 30 din 5 octombrie 2015",
+ "subtitle": "referitoare la sesizarea formulată de Tribunalul Mureş - Secţia civilă în vederea pronunţării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: care este modul de interpretare a dispoziţiilor articolului unic din Hotărârea Guvernului nr. 507/2014 pentru actualizarea cuantumului chiriilor aferente imobilelor retrocedate şi afectate unor destinaţii de interes public",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "860",
+  "bis": false,
+  "date": "2015-11-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.179/1/2015",
+  "1.177/308/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 507/2014",
+    "number": "507",
+    "year": "2014",
+    "path": "hg/2014/507"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.886/2006",
+    "number": "1886",
+    "year": "2006",
+    "path": "hg/2006/1886"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 83/1999",
+    "number": "83",
+    "year": "1999",
+    "path": "oug/1999/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Mureş - Secţia civilă, în Dosarul nr. 1.177/308/2014 şi, în consecinţă, stabileşte că:",
+  "În aplicarea şi interpretarea articolului unic din Hotărârea Guvernului nr. 507/2014 pentru actualizarea cuantumului chiriilor aferente imobilelor retrocedate şi afectate unor destinaţii de interes public, actualizarea cu indicele preţului de consum aferent perioadei cuprinse între luna aprilie a anului 2007 şi luna mai a anului 2014 se aplică şi cu privire la chiriile lunare prevăzute în anexa Hotărârii Guvernului nr. 1.886/2006 pentru stabilirea cuantumului chiriilor aferente imobilelor care fac obiectul prevederilor art. 16 alin. (2) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, ale art. 1 alin. (10) din Ordonanţa de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România şi ale art. 1 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 83/1999 privind restituirea unor bunuri imobile care au aparţinut comunităţilor cetăţenilor aparţinând minorităţilor naţionale din România, cu modificările şi completările ulterioare, datorate anterior intrării în vigoare a Hotărârii Guvernului nr. 507/2014.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 507/2014",
+    "number": "507",
+    "year": "2014",
+    "path": "hg/2014/507"
+   },
+   "articles": [],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.886/2006",
+    "number": "1886",
+    "year": "2006",
+    "path": "hg/2006/1886"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 83/1999",
+    "number": "83",
+    "year": "1999",
+    "path": "oug/1999/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 65/2015",
+    "number": "65",
+    "year": "2015",
+    "path": "lege/2015/65"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/173083",
+  "text_sha256": "23cf726b0ab279a26c7b2a5e082f80239e3a918383bef7fe4f4fccbfebe199b4",
+  "catalogue_sha256": "23cf726b0ab279a26c7b2a5e082f80239e3a918383bef7fe4f4fccbfebe199b4",
+  "fetched": "2026-11-03T18:20:57Z",
+  "chars": 33101,
+  "portal_id": "173083",
+  "tip": "DECIZIE"
+ }
+}
