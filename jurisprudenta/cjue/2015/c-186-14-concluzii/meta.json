@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-186-14-concluzii-2015-11-19",
+ "label": "CJUE, Concluziile avocatului general P. Mengozzi prezentate la 19 noiembrie 2015, Cauzele conexate C-186/14 P și C-193/14 P.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2015-11-19",
+ "year": "2015",
+ "case": "Cauzele conexate C-186/14 P și C-193/14 P.",
+ "celex": "62014CC0186",
+ "ecli": "ECLI:EU:C:2015:767",
+ "heading": "Concluziile avocatului general P. Mengozzi prezentate la 19 noiembrie 2015",
+ "formation": null,
+ "procedure": "APPEAL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Recurs – Dumping – Regulamentul (CE) nr. 384/96 – Articolul 3 alineatele (5), (7) și (9) – Articolul 6 alineatul (1) – Regulamentul (CE) nr. 926/2009 – Importuri ale anumitor țevi și tuburi fără sudură, din fier sau oțel, originare din China – Taxă antidumping definitivă – Stabilirea existenței unui pericol de prejudiciu – Luarea în considerare a unor date ulterioare perioadei de anchetă.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CC0186",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-186/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/2bd7cfa2-8eb0-11e5-983e-01aa75ed71a1.0021.01/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "4314c06867cd5d3e5f0d7a6c729ac11894601d5216ee1cf08b5c570120a2e955"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
