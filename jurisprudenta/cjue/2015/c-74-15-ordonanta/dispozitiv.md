@@ -1,0 +1,4 @@
+# CJUE, Ordonanța Curții (Camera a șasea) din 19 noiembrie 2015, Cauza C-74/15
+
+Pentru aceste motive, Curtea (Camera a șasea) declară:
+Articolul 1 alineatul (1) și articolul 2 litera (b) din Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii trebuie interpretate în sensul că această directivă se poate aplica unui contract de garanție imobiliară sau de fideiusiune încheiat între o persoană fizică și o instituție de credit în vederea garantării obligațiilor pe care o societate comercială le‑a contractat față de instituția respectivă în temeiul unui contract de credit în cazul în care această persoană fizică a acționat în scopuri care nu intră în cadrul activității sale profesionale și nu are un raport de natură funcțională cu societatea menționată.
