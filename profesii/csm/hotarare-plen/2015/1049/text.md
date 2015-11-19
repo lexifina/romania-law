@@ -1,0 +1,9 @@
+Având în vedere dispozițiile art. 106 lit. c) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, în temeiul prevederilor art. 133 alin. (5) și (7) din Constituția României, republicată, și ale art. 23 alin. (1) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, republicată, cu modificările ulterioare, Plenul Consiliului Superior al Magistraturii hotărăște:
+Articolul I
+Regulamentul privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 581/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 789 din 19 septembrie 2006, cu modificările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 17 alineatul (2), după ultima liniuță se introduce o nouă liniuță, cu următorul cuprins: "- responsabili de sală și supraveghetori, precum și alte persoane care desfășoară activitate pentru buna organizare a examenului. Prin excepție de la dispozițiile alin. (1), aceste persoane sunt numite prin hotărâre a președintelui comisiei de organizare a examenului, de regulă, din aceleași categorii de personal ca și membrii comisiei." 2. La articolul 18, alineatul (2) se modifică și va avea următorul cuprins: "(2) Președintele comisiei de organizare a examenului ia toate măsurile necesare îndeplinirii atribuțiilor prevăzute la alin. (1). În acest scop, președintele comisiei de organizare a examenului stabilește fișa de atribuții pentru vicepreședinți și membrii comisiei, precum și instrucțiunile pentru responsabilii de sală și supraveghetori."
+Articolul II
+Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.
+Vicepreședintele
+Consiliului Superior al Magistraturii,
+procuror Bogdan Gabor
+București, 13 octombrie 2015. Nr. 1.049. -------
