@@ -1,0 +1,9 @@
+Având în vedere dispozițiile art. 38 alin. (1) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, republicată, cu modificările ulterioare, și ale art. 52-52^7 din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, în temeiul dispozițiilor art. 133 alin. (5) și (7) din Constituția României, republicată, și ale art. 23 alin. (1) din Legea nr. 317/2004 , republicată, cu modificările ulterioare, Plenul Consiliului Superior al Magistraturii hotărăște:
+Articolul I
+Regulamentul privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 74/2012 , publicată în Monitorul Oficial al României, Partea I, nr. 112 din 13 februarie 2012, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 8, după ultima liniuță se introduce o nouă liniuță, cu următorul cuprins: "- responsabili de sală și supraveghetori, precum și alte persoane care desfășoară activitate pentru buna organizare a concursului. Prin excepție de la dispozițiile art. 7 alin. (1), aceste persoane sunt numite prin hotărâre a președintelui comisiei de organizare a concursului, de regulă, din aceleași categorii de personal ca și membrii comisiei." 2. La articolul 10, alineatul (2) se modifică și va avea următorul cuprins: "(2) În acest scop, președintele comisiei de organizare a concursului stabilește fișa de atribuții pentru vicepreședinți și membrii comisiei, precum și instrucțiunile pentru responsabilii de sală și supraveghetori."
+Articolul II
+Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.
+Vicepreședintele
+Consiliului Superior al Magistraturii,
+procuror Bogdan Gabor
+București, 13 octombrie 2015. Nr. 1.051. -------
