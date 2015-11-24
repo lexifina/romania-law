@@ -1,0 +1,6 @@
+# Anexa nr. 6
+Anexa 6 (Anexa nr. 6 la metodologie) Declarație pe propria răspundere persoane fizice Subsemnatul,.................................., legitimat cu B.I./C.I. seria......, nr........................., eliberat(ă) de.................................... la data de......................................., domiciliat în...................................., județul.............................................., localitatea............................, str..................................... nr........, bl..........., scara..........., etaj.........., ap.........., sectorul.........., cod poștal......................, telefon........................................., fax............................................., declar pe propria răspundere, sub sancțiunea prevăzută de art. 326 din Codul penal, că acesta este specimenul parafei pe care o dețin și pe care o folosesc conform prevederilor art. 21 lit. b) din Metodologie, criteriile de atestare și Comisia de atestare a persoanelor fizice și juridice care realizează proiectarea de drumuri forestiere, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 576/2009, cu modificările și completările ulterioare.
+Loc pentru parafă
+Data.............
+Semnătura...................
+-----
