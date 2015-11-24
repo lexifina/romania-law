@@ -1,0 +1,164 @@
+{
+ "key": "iccj-ril-22-2015",
+ "label": "Decizia ÎCCJ nr. 22/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "22",
+ "date": "2015-10-19",
+ "year": "2015",
+ "heading": "DECIZIE nr. 22 din 19 octombrie 2015",
+ "subtitle": "referitoare la recursul în interesul legii privind aplicarea dispoziţiilor art. 141 din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare, raportat la art. 8 din Ordonanţa Guvernului nr. 99/2000 privind comercializarea produselor şi serviciilor de piaţă, republicată",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "876",
+  "bis": false,
+  "date": "2015-11-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "18/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 141 din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare, raportat la art. 8 din Ordonanţa Guvernului nr. 99/2000 privind comercializarea produselor şi serviciilor de piaţă, republicată, stabileşte că fapta angajatorului de a desfăşura activităţi de comercializare cu amănuntul a produselor nealimentare în punctele de lucru din centrele comerciale, în zilele de sărbători legale prevăzute de art. 139 alin. (1) din Legea nr. 53/2003, republicată, cu modificările şi completările ulterioare, nu întruneşte elementele constitutive ale contravenţiei prevăzute de art. 260 alin. (1) lit. g) din această lege, atunci când angajatorul şi-a îndeplinit obligaţiile prevăzute de art. 142 din acelaşi act normativ.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "260",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-11-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/173308",
+  "text_sha256": "b0f500ad070a48850b9ed70c2507ee644a8fc248f0808feb1abec84027eafcaa",
+  "catalogue_sha256": "b0f500ad070a48850b9ed70c2507ee644a8fc248f0808feb1abec84027eafcaa",
+  "fetched": "2026-11-03T03:39:23Z",
+  "chars": 30438,
+  "portal_id": "173308",
+  "tip": "DECIZIE"
+ }
+}
