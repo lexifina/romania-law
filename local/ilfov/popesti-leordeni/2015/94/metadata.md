@@ -1,0 +1,10 @@
+# HCL Popești-Leordeni nr. 94/2015
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Orașului Popești-Leordeni
+- Decision: nr. 94/2015
+- Adopted: 2015-11-25
+- Record: https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/094
+- Document: https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_094.pdf
+- Document sha256: 354aa895ad74e5410eb56dbb5fc0c746eee54e20be2f5f765ba79e5e01ecefd7
