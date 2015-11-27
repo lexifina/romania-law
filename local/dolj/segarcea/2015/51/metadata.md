@@ -1,0 +1,10 @@
+# HCL Segarcea nr. 51/2015
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Orașului Segarcea
+- Decision: nr. 51/2015
+- Adopted: 2015-11-27
+- Record: https://primariasegarcea.ro/consiliul-local/hotarari/
+- Document: http://primariasegarcea.ro/wp-content/uploads/2015/hotarari/H51.pdf
+- Document sha256: e2fb390794c5672fdaca493aeec63d899f9fb388a166fba5641585da52024174
