@@ -1,0 +1,172 @@
+{
+ "key": "dcc-709-2015",
+ "label": "Decizia CCR nr. 709/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "709",
+ "date": "2015-10-27",
+ "year": "2015",
+ "heading": "DECIZIE nr. 709 din 27 octombrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. V alin. (3) şi (4) din Ordonanţa de urgenţă a Guvernului nr. 125/2011 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "895",
+  "bis": false,
+  "date": "2015-11-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.304/63/2014",
+  "526D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 125/2011",
+    "number": "125",
+    "year": "2011",
+    "path": "oug/2011/125"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Nicolae Lăpădat în Dosarul nr. 11.304/63/2014 al Tribunalului Dolj - Secţia contencios administrativ şi fiscal şi constată că dispoziţiile art. V alin. (3) şi (4) din Ordonanţa de urgenţă a Guvernului nr. 125/2011 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secţia contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 125/2011",
+    "number": "125",
+    "year": "2011",
+    "path": "oug/2011/125"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-11-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/173473",
+  "text_sha256": "9ba311fdc30404e0f5c5c31e0e7745af9431ddc9a73c89557ab8c3012a9f7f71",
+  "catalogue_sha256": "9ba311fdc30404e0f5c5c31e0e7745af9431ddc9a73c89557ab8c3012a9f7f71",
+  "fetched": "2026-11-03T03:39:09Z",
+  "chars": 14181,
+  "portal_id": "173473",
+  "tip": "DECIZIE"
+ }
+}
