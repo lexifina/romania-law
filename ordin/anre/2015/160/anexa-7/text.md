@@ -1,0 +1,13 @@
+# Anexa nr. 7 (Anexa nr. 14 la Codul rețelei pentru Sistemul național de transport al gazelor naturale)
+Notificare în PVT a tranzacției aferente FTG
+Subsemnatul............. [numele/denumirea și datele de identificare ale UR], parte la Contractul de transport nr. [] încheiat între........... [numele/denumirea UR] și............ [denumirea OTS] în data de.......... [se va completa data], în calitate de UR care transferă, și
+Subsemnatul............. [numele/denumirea și datele de identificare ale UR], parte la Contractul de transport nr. [] încheiat între.............. [numele/denumirea UR] și............ [denumirea OTS] în data de.............[se va completa data], în calitate de UR beneficiar de transfer, notificăm prin prezenta realizarea tranzacției de vânzare-cumpărare a cantității de gaze naturale de........... MWh pentru data de........... [se va completa data] la prețul de................ lei [se va completa prețul].
+UR care transferă
+Data:............
+UR beneficiar de transfer
+Data:............
+Reprezentant autorizat
+Semnătură:..........
+Reprezentant autorizat
+Semnătură:............
+-------
