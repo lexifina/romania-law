@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a Societății Comerciale GIF LEASING IFN - S.A., cu sediul social în str. Negustori nr. 34, ap. 2, cam. 4, sectorul 2, București, înregistrată la oficiul registrului comerțului cu nr. J40/9693/2004, cod unic de înregistrare 16516246, înscrisă în Registrul general ținut la Banca Națională a României, la secțiunea h) "Leasing financiar", cu nr. RG-PJR-41-080057.
