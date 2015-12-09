@@ -1,0 +1,326 @@
+{
+ "key": "iccj-hp-penal-28-2015",
+ "label": "Decizia ÎCCJ nr. 28/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "28",
+ "date": "2015-10-29",
+ "year": "2015",
+ "heading": "DECIZIE nr. 28 din 29 octombrie 2015",
+ "subtitle": "privind sesizarea formulată de Curtea de Apel Cluj - Secţia penală şi de minori prin Încheierea de şedinţă din data de 3 iunie 2015, pronunţată în Dosarul nr. 4.892/117/2012, prin care, în baza art. 476 alin. (1) din Codul de procedură penală raportat la art. 475 din acelaşi cod, se solicită Înaltei Curţi de Casaţie şi Justiţie pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: \"în temeiul art. 2 din Protocolul nr. 7 la Convenţia europeană a drepturilor omului şi de prevederile art. 129 din Constituţie, care consacră dreptul la un dublu grad de jurisdicţie în materie penală, atunci când judecata în fond s-a desfăşurat în temeiul vechiului Cod de procedură penală, poate instanţa de apel să dispună trimiterea cauzei la parchet în vederea refacerii urmăririi penale ori a actului de sesizare a instanţei? În acelaşi temei, poate instanţa de apel să dispună excluderea unor probe administrate nelegal în faza de urmărire penală?\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "912",
+  "bis": false,
+  "date": "2015-12-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.892/117/2012",
+  "3.158/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secţia penală şi de minori, în Dosarul nr. 4.892/117/2012, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"în temeiul art. 2 din Protocolul nr. 7 la Convenţia europeană a drepturilor omului şi al prevederilor art. 129 din Constituţie, care consacră dreptul la un dublu grad de jurisdicţie în materie penală, atunci când judecata în fond s-a desfăşurat în temeiul vechiului Cod de procedură penală, poate instanţa de apel să dispună trimiterea cauzei la parchet în vederea refacerii urmăririi penale ori a actului de sesizare a instanţei? În acelaşi temei, poate instanţa de apel să dispună excluderea unor probe administrate nelegal în faza de urmărire penală?\"."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "421",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "552",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "385-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "385",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "264",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 365/2002",
+    "number": "365",
+    "year": "2002",
+    "path": "lege/2002/365"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-12-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/173748",
+  "text_sha256": "606dff8ad66f2d6c1c3072cdf5b05ab7016b5422497630b8c85593fb3b432907",
+  "catalogue_sha256": "606dff8ad66f2d6c1c3072cdf5b05ab7016b5422497630b8c85593fb3b432907",
+  "fetched": "2026-11-03T03:38:52Z",
+  "chars": 52744,
+  "portal_id": "173748",
+  "tip": "DECIZIE"
+ }
+}
