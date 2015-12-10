@@ -1,0 +1,3 @@
+# Anexa 3
+Caracteristicile de tipărire, modul de utilizare și de arhivare a formularului (014) "Notificare privind modificarea anului fiscal"
+1. Denumire: "Notificare privind modificarea anului fiscal" (014) 2. Cod: 14.13.03.14 3. Format: A4/t1 4. Caracteristici de tipărire: - pe o singură față; - se poate utiliza echipament informatic pentru editare. 5. U.M.: set (2 file) 6. Se difuzează gratuit. 7. Se utilizează la comunicarea opțiunii privind modificarea anului fiscal. 8. Se întocmește în 2 exemplare; de contribuabil/împuternicit/reprezentant legal. 9. Circulă: - originalul la organul fiscal; - copia la contribuabil. 10. Se arhivează la dosarul fiscal al contribuabilului. -----
