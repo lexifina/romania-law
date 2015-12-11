@@ -1,0 +1,194 @@
+{
+ "key": "iccj-hp-penal-27-2015",
+ "label": "Decizia ÎCCJ nr. 27/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "27",
+ "date": "2015-10-29",
+ "year": "2015",
+ "heading": "DECIZIE nr. 27 din 29 octombrie 2015",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea următoarei probleme de drept: dacă ordonanţa procurorului ierarhic superior [prin care în baza art. 335 alin. (1) din Codul de procedură penală este admisă plângerea părţii vătămate şi se dispune infirmarea ordonanţei procurorului de caz şi redeschiderea urmăririi penale] este supusă confirmării judecătorului de cameră preliminară potrivit art. 335 alin. (4) din Codul procedură penală în situaţia în care urmărirea penală a fost începută \"in rem\" şi nu \"in personam\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "919",
+  "bis": false,
+  "date": "2015-12-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.061/1/2015",
+  "524/44/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Galaţi în Dosarul nr. 524/44/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: dacă ordonanţa procurorului ierarhic superior, prin care în baza art. 335 alin. (1) din Codul de procedură penală este admisă plângerea persoanei vătămate şi se dispune infirmarea ordonanţei procurorului şi redeschiderea urmăririi penale, este supusă confirmării judecătorului de cameră preliminară potrivit art. 335 alin. (4) din Codul de procedură penală.",
+  "Stabileşte că redeschiderea urmăririi penale prevăzută de art. 335 din Codul de procedură penală este supusă confirmării judecătorului de cameră preliminară, atât în urma infirmării soluţiei procurorului de către procurorul ierarhic superior în procedura prevăzută de art. 336 şi următoarele din Codul de procedură penală, cât şi în cazul infirmării dispuse din oficiu.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-12-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/173823",
+  "text_sha256": "52253f570b529ed1612abe3c6f4032d8b342f3c0e32fd390a1b0b7d35f7aefb0",
+  "catalogue_sha256": "52253f570b529ed1612abe3c6f4032d8b342f3c0e32fd390a1b0b7d35f7aefb0",
+  "fetched": "2026-11-03T03:38:47Z",
+  "chars": 35964,
+  "portal_id": "173823",
+  "tip": "DECIZIE"
+ }
+}
