@@ -1,0 +1,123 @@
+{
+ "key": "iccj-hp-31-2015",
+ "label": "Decizia ÎCCJ nr. 31/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "31",
+ "date": "2015-10-19",
+ "year": "2015",
+ "heading": "DECIZIE nr. 31 din 19 octombrie 2015",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a prevederilor art. 167 alin. (3) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "918",
+  "bis": false,
+  "date": "2015-12-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.408/1/2015",
+  "447/188/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "167",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Neamţ - Secţia I civilă, în Dosarul nr. 447/188/2014, privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a prevederilor art. 167 alin. (3) din Codul de procedură civilă, în ceea ce priveşte calitatea curatorului numit pentru pârâtul citat prin publicitate de a declara calea de atac a apelului împotriva sentinţei primei instanţe, în reprezentarea intereselor acestuia.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "167",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-12-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/173845",
+  "text_sha256": "5fc83ab930a2d6183238800595d30dcebcd3ceafb1b010a575d5ffe15d749bf3",
+  "catalogue_sha256": "5fc83ab930a2d6183238800595d30dcebcd3ceafb1b010a575d5ffe15d749bf3",
+  "fetched": "2026-11-03T03:38:45Z",
+  "chars": 18921,
+  "portal_id": "173845",
+  "tip": "DECIZIE"
+ }
+}
