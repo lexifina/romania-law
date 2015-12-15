@@ -1,0 +1,244 @@
+{
+ "key": "dcc-740-2015",
+ "label": "Decizia CCR nr. 740/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "740",
+ "date": "2015-11-03",
+ "year": "2015",
+ "heading": "DECIZIE nr. 740 din 3 noiembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 222 alin. (10) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "927",
+  "bis": false,
+  "date": "2015-12-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.016/63/2014/a38",
+  "8.016/63/2014/a39"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "222",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de către judecătorul de drepturi şi libertăţi, din oficiu, în dosarele nr. 8.016/63/2014/a38 şi nr. 8.016/63/2014/a39 ale Tribunalului Dolj - Secţia penală şi pentru cauze cu minori şi constată că dispoziţiile art. 222 alin. (10) din Codul de procedură penală sunt neconstituţionale.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului şi Tribunalului Dolj - Secţia penală şi pentru cauze cu minori şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "222",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "236",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": [
+      "1",
+      "9",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 24/2015",
+    "number": "24",
+    "year": "2015",
+    "path": "oug/2015/24"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-12-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/173881",
+  "text_sha256": "57eb84673a102c79fa707bf9483932440712214e29f946f243bd3a803f8d491c",
+  "catalogue_sha256": "57eb84673a102c79fa707bf9483932440712214e29f946f243bd3a803f8d491c",
+  "fetched": "2026-11-03T03:38:41Z",
+  "chars": 25602,
+  "portal_id": "173881",
+  "tip": "DECIZIE"
+ }
+}
