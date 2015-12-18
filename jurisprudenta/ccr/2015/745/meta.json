@@ -1,0 +1,281 @@
+{
+ "key": "dcc-745-2015",
+ "label": "Decizia CCR nr. 745/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "745",
+ "date": "2015-11-03",
+ "year": "2015",
+ "heading": "DECIZIE nr. 745 din 3 noiembrie 2015",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 21 din Legea nr. 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligațiilor de plată a unor sume de bani rezultând din contracte încheiate între profesioniști și între aceștia și autorități contractante",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "937",
+  "bis": false,
+  "date": "2015-12-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "15.454/211/2014",
+  "216D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2013",
+    "number": "72",
+    "year": "2013",
+    "path": "lege/2013/72"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Volksbank România - S.A. din București în Dosarul nr. 15.454/211/2014 al Judecătoriei Cluj-Napoca - Secția civilă și constată că sintagma \"cu excepția prevederilor art. 15\" cuprinsă în dispozițiile art. 21 din Legea nr. 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligațiilor de plată a unor sume de bani rezultând din contracte încheiate între profesioniști și între aceștia și autorități contractante este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Judecătoriei Cluj-Napoca - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2013",
+    "number": "72",
+    "year": "2013",
+    "path": "lege/2013/72"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1000",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1001",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1002",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1003",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1004",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1005",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1006",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1007",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1008",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1009",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1010",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1013",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 29/2013",
+    "number": "29",
+    "year": "2013",
+    "path": "og/2013/29"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii de aprobare a Ordonanței Guvernului nr. 29/2013",
+    "number": "29",
+    "year": "2013",
+    "path": "lege/2013/29"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2015-12-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174044",
+  "text_sha256": "47b7d9f773f511e4d1cb8dcbe97a465cf63a0a47923d3f5f23defb342c1dff3a",
+  "catalogue_sha256": "47b7d9f773f511e4d1cb8dcbe97a465cf63a0a47923d3f5f23defb342c1dff3a",
+  "fetched": "2026-11-03T03:38:31Z",
+  "chars": 22898,
+  "portal_id": "174044",
+  "tip": "DECIZIE"
+ }
+}
