@@ -1,0 +1,4 @@
+# Anexa 4
+Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularului
+Denumire: "Declarație privind îndeplinirea condițiilor de încadrare în categoria persoanelor asigurate obligatoriu în sistemul public de pensii" 1. Cod: 14.13.03.03 2. Format: A4/t2 3. U/M: seturi 4. Caracteristici de tipărire: se tipărește pe ambele fețe. 5. Se difuzează gratuit. 6. Se utilizează la declararea îndeplinirii condițiilor privind încadrarea în categoria persoanelor asigurate obligatoriu în sistemul public de pensii și exercitarea opțiunii privind cota de contribuție de asigurări sociale utilizată la stabilirea sumelor datorate cu titlu de contribuții de asigurări sociale, conform legii. 7. Se întocmește în două exemplare de contribuabil sau de împuternicitul acestuia, după caz. 8. Circulă: - originalul, la organul fiscal competent; - copia, la contribuabil. 9. Se arhivează la dosarul contribuabilului.
+-------
