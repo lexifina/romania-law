@@ -1,0 +1,322 @@
+{
+ "key": "iccj-ril-21-2015",
+ "label": "Decizia ÎCCJ nr. 21/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "21",
+ "date": "2015-10-19",
+ "year": "2015",
+ "heading": "DECIZIE nr. 21 din 19 octombrie 2015",
+ "subtitle": "referitoare la recursul în interesul legii privind interpretarea şi aplicarea dispoziţiilor art. 527 alin. (2) şi art. 529 alin. (1) şi (2) din Codul civil raportate la prevederile art. 2 alin. (4) şi art. 4 alin. (4) din Ordonanţa Guvernului nr. 26/1994",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "943",
+  "bis": false,
+  "date": "2015-12-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "17/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "527",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/1994",
+    "number": "26",
+    "year": "1994",
+    "path": "og/1994/26"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii formulate de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi de Colegiul de conducere al Curţii de Apel Suceava şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 527 alin. (2) şi art. 529 alin. (1) şi (2) din Codul civil, echivalentul valoric al normei de hrană prevăzute de art. 2 alin. (4) şi art. 4 alin. (4) din Ordonanţa Guvernului nr. 26/1994 privind drepturile de hrană, în timp de pace, ale personalului din sectorul de apărare naţională, ordine publică şi siguranţă naţională, republicată, cu modificările şi completările ulterioare, nu se include în totalul veniturilor nete lunare în raport de care se stabileşte pensia de întreţinere datorată de către părinte copilului.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "527",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 26/1994",
+    "number": "26",
+    "year": "1994",
+    "path": "og/1994/26"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "729",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "409",
+     "alin": [
+      "7",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "729",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 44/2004",
+    "number": "44",
+    "year": "2004",
+    "path": "hg/2004/44"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174113",
+  "text_sha256": "4a0fa224c34cb425400ed30e9431c78a8c6a478ea8c095be140cd55b869a213f",
+  "catalogue_sha256": "4a0fa224c34cb425400ed30e9431c78a8c6a478ea8c095be140cd55b869a213f",
+  "fetched": "2026-11-03T03:38:27Z",
+  "chars": 56168,
+  "portal_id": "174113",
+  "tip": "DECIZIE"
+ }
+}
