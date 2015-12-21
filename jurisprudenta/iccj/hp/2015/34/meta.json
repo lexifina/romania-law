@@ -1,0 +1,117 @@
+{
+ "key": "iccj-hp-34-2015",
+ "label": "Decizia ÎCCJ nr. 34/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "34",
+ "date": "2015-11-16",
+ "year": "2015",
+ "heading": "DECIZIE nr. 34 din 16 noiembrie 2015",
+ "subtitle": "referitoare la pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a dispoziţiilor art. 628 alin. (3) din Codul de procedură civilă, privind posibilitatea actualizării în cadrul executării silite a cheltuielilor de judecată stabilite printr-o hotărâre judecătorească",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "945",
+  "bis": false,
+  "date": "2015-12-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.780/1/2015",
+  "33.499/212/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "628",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Constanţa - Secţia a II-a civilă, în Dosarul nr. 33499/212/2013*, privind pronunţarea unei hotărâri prealabile şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 628 alin. (3) din Codul de procedură civilă, cheltuielile de judecată se circumscriu noţiunii de obligaţie principală în titlul executoriu şi pot fi supuse actualizării în cadrul executării silite.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "628",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "706",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2015-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174110",
+  "text_sha256": "2e88bf7fb65ce0e4142c475fdabdc5b30a62c487a0cfafb8f0b9f999abc7eeaf",
+  "catalogue_sha256": "2e88bf7fb65ce0e4142c475fdabdc5b30a62c487a0cfafb8f0b9f999abc7eeaf",
+  "fetched": "2026-11-03T03:38:27Z",
+  "chars": 25526,
+  "portal_id": "174110",
+  "tip": "DECIZIE"
+ }
+}
