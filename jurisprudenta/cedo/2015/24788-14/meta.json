@@ -1,0 +1,55 @@
+{
+ "key": "cedo-24788-14-2015-04-09",
+ "label": "CEDO, Vasile Botomei c. României, 2015-04-09",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2015-04-09",
+ "year": "2015",
+ "heading": "DECIZIE din 9 aprilie 2015",
+ "subtitle": "cu privire la Cererea nr. 24.788/14 introdusă de Vasile Botomei împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "954",
+  "bis": false,
+  "date": "2015-12-23",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "24788/14"
+ ],
+ "case_name": "Vasile Botomei",
+ "subjects": [],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA: decide scoaterea cauzei de pe rol, în conformitate cu art. 39 din Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174234",
+  "text_sha256": "57ee3b1d54b102038e7fdf595b80796769095c0b208dbe0851d36643e018648e",
+  "catalogue_sha256": "57ee3b1d54b102038e7fdf595b80796769095c0b208dbe0851d36643e018648e",
+  "fetched": "2026-11-03T03:38:18Z",
+  "chars": 3085,
+  "portal_id": "174234",
+  "tip": "DECIZIE"
+ }
+}
