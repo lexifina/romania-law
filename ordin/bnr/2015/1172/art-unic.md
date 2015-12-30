@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare a S.C. EXPRESS LEASING FINANCIAL SERVICES IFN - S.A., cu sediul în București, str. Promoroacă nr. 8-10, corp B, et. 3, sectorul 1, înregistrată la registrul comerțului cu nr. J40/2706/2002, cod unic de înregistrare RO14559950, înscrisă în Registrul general cu nr. RG-PJR-41-110017, la secțiunea k) - "Activități multiple de creditare".
