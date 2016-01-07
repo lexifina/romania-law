@@ -1,0 +1,10 @@
+# Anexa nr. 2 la anexa nr. 1
+Anexa 2 la metodologie Model de calcul al compensațiilor pentru utilizatorii racordați în etape ulterioare, care utilizează în comun o stație electrică sau un post de transformare În cazul utilizării în comun a unei stații electrice sau a unui post de transformare având capacitatea instalată în transformatoare S(n), pentru calculul compensației se stabilește costul specific b(T) al stației electrice sau al postului de transformare după cum urmează:
+I(T) b(T) = ───── [lei/kVA],
+S(n) unde:
+I(T) - costul lucrărilor pentru realizarea stației electrice sau a postului de transformare achitat de primul utilizator prin componenta T(R) a tarifului de racordare;
+S(n) - capacitatea transformatorului cu care este echipată stația electrică sau postul de transformare, egală cu puterea nominală a acestuia.
+Compensația C(k) pe care utilizatorul k având o putere aprobată S(k) trebuie să o plătească primului utilizator pentru utilizarea în comun a stației electrice sau a postului de transformare se calculează după cum urmează: C(k) = S(k)b(T) [lei], în care: S(k) - puterea aprobată utilizatorului k [kVA] în limita puterii nominale a transformatorului care echipează stația electrică sau postul de transformare; b(T) - costul specific al stației electrice sau al postului de transformare [lei/kVA] Exemplu de calcul al compensației pentru utilizarea în comun a unui post de transformare Un prim utilizator cu puterea aprobată S = 260 kVA finanțează prin tariful de racordare realizarea unui post de transformare cu capacitatea nominală S(n) = 400 kVA. Componenta T(R) a tarifului de racordare este de 100.000 lei. Se stabilește inițial costul specific al postului de transformare b(T) după cum urmează:
+I(T) 100000 lei b(T) = ───── = ──────── = 250 ───
+S(n) 400 kVA
+La racordarea unui al doilea utilizator cu puterea aprobată S(2) = 100 kVA (suma puterilor aprobate pentru cei doi utilizatori nu depășește puterea nominală a transformatorului), acesta plătește primului utilizator o compensație în valoare de: C(2) = S(2)b(T) = 100 x 250 = 25.000 lei
