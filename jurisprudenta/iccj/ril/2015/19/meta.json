@@ -1,0 +1,679 @@
+{
+ "key": "iccj-ril-19-2015",
+ "label": "Decizia ÎCCJ nr. 19/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "19",
+ "date": "2015-10-05",
+ "year": "2015",
+ "heading": "DECIZIE nr. 19 din 5 octombrie 2015",
+ "subtitle": "referitoare la recursul în interesul legii privind interpretarea şi aplicarea unitară a dispoziţiilor art. 1.050-1.053 din Codul de procedură civilă raportat la prevederile art. 56, 76 şi 82 din Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil, cu referire la aplicabilitatea procedurii speciale de înscriere a drepturilor dobândite în temeiul uzucapiunii, în cazul prescripţiilor achizitive începute şi eventual împlinite înainte de intrarea în vigoare a noului cod civil",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "11",
+  "bis": false,
+  "date": "2016-01-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "12/2015",
+  "16/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1050",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii exercitat de Colegiul de conducere al Curţii de Apel Constanţa şi Colegiul de conducere al Curţii de Apel Suceava.",
+  "În interpretarea şi aplicarea prevederilor art. 1.050-1.053 din Codul de procedură civilă şi art. 56, art. 76 şi art. 82 din Legea nr. 71/2011 stabileşte că procedura specială reglementată de prevederile art. 1.050-1.053 din Codul de procedură civilă nu este aplicabilă în privinţa posesiilor începute anterior intrării în vigoare a Codului civil.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1050",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1049",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1051",
+     "alin": [
+      "7",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1053",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1052",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "237",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 52
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "876",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "877",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "878",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "879",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "880",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "881",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "882",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "883",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "884",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "885",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "886",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "887",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "888",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "889",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "890",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "891",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "892",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "893",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "894",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "895",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "896",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "897",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "898",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "899",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "900",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "901",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "902",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "903",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "904",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "905",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "906",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "907",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "908",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "909",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "910",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "911",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "912",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "913",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "914",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "915",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "930",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "931",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "932",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "933",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "934",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1049",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 67
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/1947",
+    "number": "241",
+    "year": "1947",
+    "path": "lege/1947/241"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 511/1938",
+    "number": "511",
+    "year": "1938",
+    "path": "lege/1938/511"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-01-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174683",
+  "text_sha256": "8c8cc13c8da0d88276bb83cbf47e6202b6f1d3041f3581df6c654d69e54eaf39",
+  "catalogue_sha256": "8c8cc13c8da0d88276bb83cbf47e6202b6f1d3041f3581df6c654d69e54eaf39",
+  "fetched": "2026-11-03T03:37:47Z",
+  "chars": 62477,
+  "portal_id": "174683",
+  "tip": "DECIZIE"
+ }
+}
