@@ -1,0 +1,412 @@
+{
+ "key": "iccj-hp-penal-31-2015",
+ "label": "Decizia ÎCCJ nr. 31/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "31",
+ "date": "2015-11-19",
+ "year": "2015",
+ "heading": "DECIZIE nr. 31 din 19 noiembrie 2015",
+ "subtitle": "având ca obiect rezolvarea de principiu a unor chestiuni de drept în Dosarul nr. 1.238/297/2013",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "19",
+  "bis": false,
+  "date": "2016-01-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.238/297/2013",
+  "3.558/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Suceava - Secţia penală şi pentru cauze cu minori în Dosarul nr. 1.238/297/2013, având ca obiect rezolvarea de principiu a următoarelor probleme de drept:",
+  "\"1. Dacă dispoziţiile art. 4 din Codul penal privind legea penală de dezincriminare sunt aplicabile şi în ipoteza în care beneficiarul sprijinului financiar acordat din bugetele Uniunii Europene sau celor asimilate acestora a săvârşit fapta prevăzută de art. 18^1 din Legea nr. 78/2000 (în perioada anterioară modificării acesteia prin Legea nr. 187/2012), din culpă, precum şi datorită necunoaşterii cu exactitate ori a imposibilităţii de cunoaştere a dispoziţiilor legale ce reglementează condiţiile de acordare a sprijinului financiar, lipsind deci elementul «relei-credinţe» prevăzut în norma actuală de incriminare, situaţie în care sunt sau nu incidente dispoziţiile art. 3 din Legea nr. 187/2012;",
+  "2. Dacă simplele neconcordanţe existente în documentele depuse de beneficiarii sprijinului financiar, precum şi neataşarea în termen, la cererea acestora, a tuturor documentelor necesare (depuse însă ulterior, până la efectiva acordare a fondurilor) se încadrează în noţiunea de «suspiciune de fraudă» sau «fraudă» definită de art. 1 alin. (1) lit. a) din Convenţia pentru Protecţia Intereselor Financiare ale Comunităţilor Europene, art. 27 lit. c) din Regulamentul (CE) nr. 1.828/2006 şi art. 2 lit. b) din Ordonanţa de Urgenţă a Guvernului României nr. 66/2011 privind prevenirea, constatarea şi sancţionarea neregulilor apărute în obţinerea şi utilizarea fondurilor europene şi/sau a fondurilor publice naţionale aferente acestora;",
+  "3. În ipoteza unui răspuns negativ, dacă aceste situaţii mai pot fi apreciate că întrunesc elementele constitutive ale infracţiunii prevăzute de art. 18^1 din Legea nr. 78/2000, motivat şi de faptul că norma de incriminare nu întruneşte cerinţele de previzibilitate impuse de art. 7 din Convenţie;",
+  "4. Dacă este dată cauza de neimputabilitate prevăzută de art. 30 alin. (5) din noul Cod penal atunci când eroarea asupra caracterului ilicit al faptei se datorează necunoaşterii sau interpretării eronate a unor norme civile a căror nerespectare a stat la baza comiterii infracţiunii prevăzute de art. 18^1 din Legea nr. 78/2000 în ipoteza în care respectivele norme erau cuprinse în acte normative ce nu au fost publicate în Monitorul Oficial.\"",
+  "Pronunţat în şedinţă publică astăzi, 19 noiembrie 2015."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului României nr. 66/2011",
+    "number": "66",
+    "year": "2011",
+    "path": "oug/2011/66"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului agriculturii şi dezvoltării rurale nr. 246/2008",
+    "number": "246",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-01-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174762",
+  "text_sha256": "5a6131667c092f80f7541440793c9a97eb6eb6862e79a009ae6fd029d01347b3",
+  "catalogue_sha256": "5a6131667c092f80f7541440793c9a97eb6eb6862e79a009ae6fd029d01347b3",
+  "fetched": "2026-11-03T03:37:42Z",
+  "chars": 80610,
+  "portal_id": "174762",
+  "tip": "DECIZIE"
+ }
+}
