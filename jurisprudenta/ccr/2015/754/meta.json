@@ -1,0 +1,335 @@
+{
+ "key": "dcc-754-2015",
+ "label": "Decizia CCR nr. 754/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "754",
+ "date": "2015-11-05",
+ "year": "2015",
+ "heading": "DECIZIE nr. 754 din 5 noiembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 1 alin. (1), (2) şi (6), art. 2 alin. (1) şi (2) şi art. 6 din Legea nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, ale anexelor nr. 2 şi 3b la lege, precum şi a Legii nr. 63/2011 în ansamblul său",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "18",
+  "bis": false,
+  "date": "2016-01-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.525/63/2014",
+  "312D/2015",
+  "1.349/113/2014",
+  "5.631/121/2014",
+  "373D/2015",
+  "1.915/104/2014",
+  "374D/2015",
+  "1.793/104/2014",
+  "397D/2015",
+  "3.581/121/2014/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Lelia Ciobanu în Dosarul nr. 5.525/63/2014 al Curţii de Apel Craiova - Secţia I civilă, de Sindicatul Învăţământ Brăila \"Corneliu Gheorghe Caranica\", în numele membrilor de sindicat Eugenia Dan şi alţii, în Dosarul nr. 1.349/113/2014 al Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale, de Sindicatul Liber \"Educaţia\" Galaţi, în numele membrilor de sindicat Manuela Pavel şi alţii, în Dosarul nr. 5.631/121/2014 al Tribunalului Galaţi - Secţia I civilă, de Sindicatul Liber Învăţământ Zona Balş, în numele membrilor de sindicat Elena Mihail şi alţii, în Dosarul nr. 1.915/104/2014 al Curţii de Apel Craiova - Secţia I civilă, de Sindicatul Liber Învăţământ Zona Caracal, în numele membrilor de sindicat Floricica Butoi şi alţii, în Dosarul nr. 1.793/104/2014 al Curţii de Apel Craiova - Secţia I civilă, şi de Mihail Pohrib, prin reprezentant legal Sindicatul Liber \"Educaţia\" Galaţi, în Dosarul nr. 3.581/121/2014 al Tribunalului Galaţi - Secţia civilă şi litigii de muncă, şi constată că dispoziţiile art. 1 alin. (1), (2) şi (6), art. 2 alin. (1) şi (2) şi art. 6 din Legea nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ, ale anexelor nr. 2 şi 3b la lege, precum şi ale Legii nr. 63/2011 în ansamblul său sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Craiova - Secţia I civilă, Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale şi Tribunalului Galaţi - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 221/2008",
+    "number": "221",
+    "year": "2008",
+    "path": "lege/2008/221"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2009",
+    "number": "41",
+    "year": "2009",
+    "path": "oug/2009/41"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-01-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174757",
+  "text_sha256": "3b6806f5a2ba87a023561c4e5a88cc0c40dd9dda7801aa89def08d7a08832024",
+  "catalogue_sha256": "3b6806f5a2ba87a023561c4e5a88cc0c40dd9dda7801aa89def08d7a08832024",
+  "fetched": "2026-11-03T03:37:43Z",
+  "chars": 30846,
+  "portal_id": "174757",
+  "tip": "DECIZIE"
+ }
+}
