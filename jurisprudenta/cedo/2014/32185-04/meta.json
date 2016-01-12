@@ -1,0 +1,126 @@
+{
+ "key": "cedo-32185-04-2014-07-01",
+ "label": "CEDO, Buceaş şi Buciaş*1) c. României, 2014-07-01",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2014-07-01",
+ "year": "2014",
+ "heading": "HOTĂRÂRE din 1 iulie 2014",
+ "subtitle": "în Cauza Buceaş şi Buciaş*1) împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "20",
+  "bis": false,
+  "date": "2016-01-12",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "32185/04"
+ ],
+ "case_name": "Buceaş şi Buciaş*1)",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "CURTEA:",
+  "1. uneşte cu fondul excepţia ridicată de Guvern privind inadmisibilitatea ratione materiae a capătului de cerere întemeiat de reclamanţi pe art. 1 din Protocolul nr. 1 la Convenţie şi o respinge; 2. declară, cu majoritate, cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenţie şi inadmisibilă pentru celelalte capete de cerere; 3. hotărăşte, cu şase voturi la unu, că a fost încălcat art. 1 din Protocolul nr. 1 la Convenţie; 4. hotărăşte, cu şase voturi la unu:",
+  "a) că statul pârât trebuie să plătească în comun reclamanţilor, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât, la rata de schimb aplicabilă la data plăţii:",
+  "(i) 70.000 EUR (şaptezeci de mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul material; (ii) 3.300 EUR (trei mii trei sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "5. respinge, în unanimitate, celelalte solicitări ale reclamanţilor privind acordare unei reparaţii echitabile."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174770",
+  "text_sha256": "a4e4881d5ec6e36bb1f221d6b68cfe0c531d8b5db33a9bb7da5564b2e580528f",
+  "catalogue_sha256": "a4e4881d5ec6e36bb1f221d6b68cfe0c531d8b5db33a9bb7da5564b2e580528f",
+  "fetched": "2026-11-03T03:37:42Z",
+  "chars": 30737,
+  "portal_id": "174770",
+  "tip": "HOTĂRÂRE"
+ }
+}
