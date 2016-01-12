@@ -1,0 +1,94 @@
+{
+ "key": "cedo-9835-02-2014-06-10",
+ "label": "CEDO, Vidu şi alţii c. României, 2014-06-10",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2014-06-10",
+ "year": "2014",
+ "heading": "HOTĂRÂRE din 10 iunie 2014",
+ "subtitle": "în Cauza Vidu şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "20",
+  "bis": false,
+  "date": "2016-01-12",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "9835/02"
+ ],
+ "case_name": "Vidu şi alţii",
+ "subjects": [],
+ "operative": [
+  "În unanimitate",
+  "CURTEA:",
+  "1. hotărăşte:",
+  "a) că statul pârât trebuie să asigure, prin mijloace adecvate, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, executarea în integralitate a Sentinţei pronunţate de Judecătoria Vălenii de Munte în data de 22 mai 1992, punându-i pe reclamanţi efectiv în posesia terenului şi eliberându-le totodată un titlu de proprietate asupra terenului;",
+  "b) că, în caz de neexecutare în integralitate a Hotărârii Judecătoriei Vălenii de Munte din 22 mai 1992, aşa cum se prevede la lit. a) supra, statul pârât trebuie, în acelaşi termen de trei luni, să plătească reclamanţilor împreună suma de 230.000 EUR (două sute treizeci de mii de euro) reprezentând prejudiciu material, care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "c) că statul pârât trebuie, în acelaşi termen de trei luni, să plătească reclamanţilor împreună suma de 4.700 EUR (patru mii şapte sute de euro), care trebuie convertită în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii, pentru prejudiciul moral suferit, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "d) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "2. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174772",
+  "text_sha256": "f01d8b98057c198daaf7ab290f7fad6d81ae1d6207d3ab0a813d35f9c7b2e917",
+  "catalogue_sha256": "f01d8b98057c198daaf7ab290f7fad6d81ae1d6207d3ab0a813d35f9c7b2e917",
+  "fetched": "2026-11-03T03:37:42Z",
+  "chars": 10009,
+  "portal_id": "174772",
+  "tip": "HOTĂRÂRE"
+ }
+}
