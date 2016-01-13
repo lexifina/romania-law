@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare, ținut la Banca Națională a României, a Societății Comerciale DBR FACTOR IFN - S.A., cu sediul în Cluj-Napoca, Str. Fabricii nr. 93-103, județul Cluj, înregistrată la registrul comerțului cu nr. J12/2088/2010, cod unic de înregistrare RO23344860, înscrisă în Registrul general cu nr. RG-PJR-13-110235, la secțiunea k) "Activități multiple de creditare".
