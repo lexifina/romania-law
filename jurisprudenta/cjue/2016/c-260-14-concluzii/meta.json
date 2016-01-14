@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-260-14-concluzii-2016-01-14",
+ "label": "CJUE, Concluziile avocatului general Y. Bot prezentate la 14 ianuarie 2016, Cauzele conexate C-260/14 și C-261/14.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2016-01-14",
+ "year": "2016",
+ "case": "Cauzele conexate C-260/14 și C-261/14.",
+ "celex": "62014CC0260",
+ "ecli": "ECLI:EU:C:2016:7",
+ "heading": "Concluziile avocatului general Y. Bot prezentate la 14 ianuarie 2016",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cereri de decizie preliminară formulate de Curtea de Apel Bacău.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Protecția intereselor financiare ale Uniunii Europene – Regulamentul (CE, Euratom) nr. 2988/95 – Fondul european de dezvoltare regională (FEDER) – Regulamentul (CE) nr. 1083/2006 – Atribuirea de către beneficiarul fondurilor, în calitate de autoritate contractantă, a unui contract care are ca obiect realizarea acțiunii subvenționate – Noțiunile „abatere” și/sau „neregularitate” – Criteriul referitor la „încălcarea dreptului Uniunii”– Proceduri de cerere de ofertă care contravin legislației naționale – Natura corecțiilor financiare adoptate de statele membre – Măsuri sau sancțiuni administrative.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CC0260",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-260/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/edef0eda-623a-40ba-bdb1-cc9974914510.0021.03/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "23f0a261ebad018662cfcba4e3a83635fb289a5040123299b92d0c09949e021b"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
