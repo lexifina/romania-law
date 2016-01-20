@@ -1,0 +1,173 @@
+{
+ "key": "iccj-ril-25-2015",
+ "label": "Decizia ÎCCJ nr. 25/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "25",
+ "date": "2015-12-07",
+ "year": "2015",
+ "heading": "DECIZIE nr. 25 din 7 decembrie 2015",
+ "subtitle": "privind recursul în interesul legii vizând interpretarea şi aplicarea unitară a dispoziţiilor art. 213 şi art. 215^1 alin. (5) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "46",
+  "bis": false,
+  "date": "2016-01-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "21/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "213",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215-1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de către procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 213 şi art. 215^1 alin. (5) din Codul de procedură penală stabileşte:",
+  "Încheierea prin care judecătorul de drepturi şi libertăţi soluţionează plângerea formulată de inculpat împotriva ordonanţei procurorului prin care s-a luat ori s-a prelungit măsura preventivă a controlului judiciar este definitivă.",
+  "Obligatorie, potrivit art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "213",
+     "alin": [
+      "7",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "215-1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": [
+      "1",
+      "13",
+      "14"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "140-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "219",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 61
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "140-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175184",
+  "text_sha256": "15ac05fa3b998b7d736f57ba4f4be40770a065021818f3040c5aa1847747cef5",
+  "catalogue_sha256": "15ac05fa3b998b7d736f57ba4f4be40770a065021818f3040c5aa1847747cef5",
+  "fetched": "2026-11-03T03:37:15Z",
+  "chars": 32424,
+  "portal_id": "175184",
+  "tip": "DECIZIE"
+ }
+}
