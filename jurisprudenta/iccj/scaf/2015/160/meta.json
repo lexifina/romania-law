@@ -1,0 +1,361 @@
+{
+ "key": "iccj-scaf-160-2015",
+ "label": "Decizia ÎCCJ nr. 160/2015 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "160",
+ "date": "2015-01-21",
+ "year": "2015",
+ "heading": "DECIZIE nr. 160 din 21 ianuarie 2015",
+ "subtitle": "privind recursul declarat de pârâtul Ministerul Transporturilor împotriva Sentinţei civile nr. 1.929 din 11 iunie 2013 a Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "52",
+  "bis": false,
+  "date": "2016-01-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.183/2/2013"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepţia autorităţii de lucru judecat invocată de intervenientele Confederaţia Operatorilor şi Transportatorilor Autorizaţi din România şi S.C. \"Nick Touring\" - S.R.L.",
+  "Respinge recursul declarat de pârâtul Ministerul Transporturilor împotriva Sentinţei civile nr. 1.929 din 11 iunie 2013 a Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, ca nefondat.",
+  "Respinge cererile de intervenţie accesorie formulate în interesul recurentului-pârât Ministerul Transporturilor de S.C. \"Duotex Com\" - S.R.L., S.C. \"Nick Touring\" - S.R.L., S.C. \"Edy Car\" - S.R.L., S.C. Nana - S.R.L., S.C. \"Nicolescu Trans\" - S.R.L., Confederaţia Operatorilor şi Transportatorilor Autorizaţi din România şi S.C. \"C&amp;I Grup International\" - S.R.L.",
+  "Irevocabilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.640/2012",
+    "number": "1640",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e",
+      "b"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "57",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "lege/2000/94"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "16-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "og/1997/51"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "312",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului transporturilor şi infrastructurii nr. 1.640/2012",
+    "number": "1640",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor şi infrastructurii nr. 1.640/2012",
+    "number": "1640",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului transporturilor şi infrastructurii nr. 1.640/2013",
+    "number": "1640",
+    "year": "2013"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor şi infrastructurii nr. 980/2011",
+    "number": "980",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "og/1995/51"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-01-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175252",
+  "text_sha256": "eea8502b9bd94ed51bec9e0331cb5ec9a9e5497c8514bffe8bb909b819bb2ba8",
+  "catalogue_sha256": "eea8502b9bd94ed51bec9e0331cb5ec9a9e5497c8514bffe8bb909b819bb2ba8",
+  "fetched": "2026-11-03T03:37:11Z",
+  "chars": 31390,
+  "portal_id": "175252",
+  "tip": "DECIZIE"
+ }
+}
