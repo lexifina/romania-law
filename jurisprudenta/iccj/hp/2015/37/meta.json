@@ -1,0 +1,249 @@
+{
+ "key": "iccj-hp-37-2015",
+ "label": "Decizia ÎCCJ nr. 37/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "37",
+ "date": "2015-12-07",
+ "year": "2015",
+ "heading": "DECIZIE nr. 37 din 7 decembrie 2015",
+ "subtitle": "referitoare la sesizarea formulată privind pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunilor de drept referitoare la datele cu caracter personal (doar numele şi prenumele) definite de către Legea nr. 677/2001 şi refuzul de eliberare a fotocopiilor de pe documente cu date personale chiar şi cu informaţiile respective anonimizate (înnegrite cu markerul, acronimizate)",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "51",
+  "bis": false,
+  "date": "2016-01-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.306/1/2015",
+  "8.392/118/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 677/2001",
+    "number": "677",
+    "year": "2001",
+    "path": "lege/2001/677"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea privind pronunţarea unei hotărâri prealabile, formulată de Curtea de Apel Constanţa - Secţia a II-a civilă, de contencios administrativ şi fiscal, prin Încheierea din 13 iulie 2015, pronunţată în Dosarul nr. 8.392/118/2014, şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea art. 2 alin. (1) lit. c) din Legea nr. 544/2001 şi art. 3 alin. (1) lit. a) din Legea nr. 677/2001, numele şi prenumele unei persoane reprezintă informaţii referitoare la date cu caracter personal, indiferent dacă, într-o situaţie dată, sunt sau nu suficiente pentru identificarea persoanei.",
+  "În cazul cererilor de liber acces la informaţii de interes public întemeiate pe dispoziţiile Legii nr. 544/2001, atunci când informaţiile de interes public şi informaţiile cu privire la datele cu caracter personal sunt prezente în cuprinsul aceluiaşi document, indiferent de suportul ori de forma sau de modul de exprimare a informaţiilor, accesul la informaţiile de interes public se realizează prin anonimizarea informaţiilor cu privire la datele cu caracter personal; refuzul de acces la informaţiile de interes public, în condiţiile în care informaţiile cu privire la datele personale sunt anonimizate, este nejustificat.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 677/2001",
+    "number": "677",
+    "year": "2001",
+    "path": "lege/2001/677"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "e"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/1994",
+    "number": "30",
+    "year": "1994",
+    "path": "lege/1994/30"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 682/2001",
+    "number": "682",
+    "year": "2001",
+    "path": "lege/2001/682"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-01-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175268",
+  "text_sha256": "69b405c62d88283c7407ed9a92808d35c6ce8d90a3d71a3a75322c87d91150dd",
+  "catalogue_sha256": "69b405c62d88283c7407ed9a92808d35c6ce8d90a3d71a3a75322c87d91150dd",
+  "fetched": "2026-11-03T03:37:11Z",
+  "chars": 32871,
+  "portal_id": "175268",
+  "tip": "DECIZIE"
+ }
+}
