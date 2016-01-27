@@ -1,0 +1,8 @@
+HOTĂRÂRE nr. 6 din 22 ianuarie 2016  pentru aprobarea modelului timbrului autocolant care va fi folosit la alegerile locale     EMITENT     AUTORITATEA ELECTORALĂ PERMANENTĂ       Publicat în
+			  MONITORUL OFICIAL nr. 60 din 27 ianuarie 2016     Având în vedere dispoziţiile  art. 85 alin. (11) din Legea nr. 115/2015  pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea  Legii administraţiei publice locale nr. 215/2001 , precum şi pentru modificarea şi completarea  Legii nr. 393/2004  privind Statutul aleşilor locali,  în temeiul  art. 126 alin. (2) din Legea nr. 115/2015  şi al  art. 104 alin. (1) şi (2) din Legea nr. 208/2015  privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările şi completările ulterioare,  Autoritatea Electorală Permanentă adoptă prezenta hotărâre.
+				 +
+			  Articolul 1     Se aprobă modelul timbrului autocolant care va fi folosit la alegerile locale, prevăzut în anexa care face parte integrantă din prezenta hotărâre.
+				 +
+			  Articolul 2     Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.       Preşedintele Autorităţii Electorale Permanente,    Ana Maria Pătru    Contrasemnează:    ---------------    Vicepreşedinte,    Constantin-Florin Mituleţu-Buică    Vicepreşedinte,    Dan Vlaicu   Bucureşti, 22 ianuarie 2016.  Nr. 6.
+				 +
+			  Anexă     MODELUL*)  timbrului autocolant care va fi folosit la alegerile locale    NOTE:  Pătratul în care este încadrat cercul cu înscrisul "VOTAT" şi cu menţiunea privind data scrutinului are latura de 20 mm.  Timbrele autocolante sunt imprimate cu litere de aceeaşi mărime, cu aceleaşi caractere şi cu aceeaşi cerneală.    -------
