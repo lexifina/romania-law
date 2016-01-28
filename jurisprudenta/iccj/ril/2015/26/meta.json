@@ -1,0 +1,169 @@
+{
+ "key": "iccj-ril-26-2015",
+ "label": "Decizia ÎCCJ nr. 26/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "26",
+ "date": "2015-12-07",
+ "year": "2015",
+ "heading": "DECIZIE nr. 26 din 7 decembrie 2015",
+ "subtitle": "referitoare la examinarea recursului în interesul legii privind interpretarea şi aplicarea unitară a legii în materia recunoaşterii hotărârilor judecătoreşti străine penale în vederea executării lor în România, cu referire concretă la posibilitatea recunoaşterii şi executării sancţiunilor/interdicţiilor aplicate de autorităţile judiciare străine al căror corespondent în legea română sunt pedepsele complementare/accesorii",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "64",
+  "bis": false,
+  "date": "2016-01-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "22/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor Legii nr. 302/2004 în materia recunoaşterii hotărârilor judecătoreşti străine în vederea executării lor în România stabileşte că:",
+  "Sancţiunile/Interdicţiile aplicate în baza hotărârilor străine de condamnare, pronunţate de autorităţile judiciare ale statelor membre ale Uniunii Europene care au transpus Decizia 2008/909/JAI, al căror corespondent în legea penală română sunt pedepsele complementare/accesorii, nu pot fi puse în executare de autorităţile judiciare române.",
+  "Sancţiunile/Interdicţiile aplicate în baza hotărârilor străine de condamnare, pronunţate de autorităţile judiciare ale statelor care nu au transpus Decizia 2008/909/JAI ori care nu sunt membre ale Uniunii Europene, al căror corespondent în legea penală română sunt pedepsele complementare/ accesorii, nu pot fi puse în executare de autorităţile judiciare române, în afară de cazul în care statul emitent solicită aceasta în mod expres.",
+  "Obligatorie, potrivit dispoziţiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "160",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 300/2013",
+    "number": "300",
+    "year": "2013",
+    "path": "lege/2013/300"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/1996",
+    "number": "76",
+    "year": "1996",
+    "path": "lege/1996/76"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/1999",
+    "number": "92",
+    "year": "1999",
+    "path": "og/1999/92"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-01-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175365",
+  "text_sha256": "1987e8a3929fd60caa5b6b25861252968a0c2427936e10c9fbe1af8ce20501c6",
+  "catalogue_sha256": "1987e8a3929fd60caa5b6b25861252968a0c2427936e10c9fbe1af8ce20501c6",
+  "fetched": "2026-11-03T17:07:35Z",
+  "chars": 29371,
+  "portal_id": "175365",
+  "tip": "DECIZIE"
+ }
+}
