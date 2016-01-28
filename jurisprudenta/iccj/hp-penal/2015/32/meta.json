@@ -1,0 +1,250 @@
+{
+ "key": "iccj-hp-penal-32-2015",
+ "label": "Decizia ÎCCJ nr. 32/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "32",
+ "date": "2015-12-11",
+ "year": "2015",
+ "heading": "DECIZIE nr. 32 din 11 decembrie 2015",
+ "subtitle": "privind pronunţarea unei hotărâri pentru rezolvarea de principiu a chestiunii de drept vizând interpretarea dispoziţiilor art. 270 alin. (3) din Legea nr. 86/2006 privind Codul vamal al României la problema supusă dezbaterii în Dosarul nr. 2.265/1/2015",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "62",
+  "bis": false,
+  "date": "2016-01-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.265/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Alba Iulia - Secţia penală şi pentru cauze cu minori, în Dosarul nr. 3.616/243/2014 prin care se solicită pronunţarea unei hotărâri pentru rezolvarea de principiu a chestiunii de drept vizând interpretarea dispoziţiilor art. 270 alin. (3) din Legea nr. 86/2006 privind Codul vamal al României, respectiv:",
+  "Dacă noţiunea de \"contrabandă\" folosită de legiuitor în dispoziţiile art. 270 alin. (3) din Legea nr. 86/2006 privind Codul vamal al României în sintagma \"cunoscând că acestea provin din contrabandă\" se referă la infracţiunea de contrabandă în sensul definit de art. 270 alin. (1) şi (2) din Legea nr. 86/2006 privind Codul vamal al României sau la noţiunea de \"contrabandă\" în sens larg;",
+  "În cazul în care se stabileşte că textul prevăzut de art. 270 alin. (3) din Legea nr. 86/2006 privind Codul vamal al României se referă la infracţiunea de contrabandă, care dintre cele două modalităţi urmează a fi avută în vedere: aceea prevăzută de art. 270 alin. (1) sau aceea prevăzută de art. 270 alin. (2) din Legea nr. 86/2006 privind Codul vamal al României.",
+  "Stabileşte că noţiunea de \"contrabandă\" utilizată de legiuitor în dispoziţiile art. 270 alin. (3) din Legea nr. 86/2006 privind Codul vamal al României, în sintagma \"cunoscând că acestea provin din contrabandă\", priveşte contrabanda constând în introducerea în ţară a bunurilor sau a mărfurilor care trebuie plasate sub un regim vamal prin alte locuri decât cele stabilite pentru controlul vamal ori introducerea în ţară a acestor bunuri sau mărfuri prin locurile stabilite pentru controlul vamal, prin sustragerea de la controlul vamal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 126
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 54/2010",
+    "number": "54",
+    "year": "2010",
+    "path": "oug/2010/54"
+   },
+   "articles": [
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "og/2003/92",
+    "slug": "og-92-2003"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-01-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175339",
+  "text_sha256": "99206598e73806b1858327bcc0c5a09f9332f59c52e86960bb705686064ca2db",
+  "catalogue_sha256": "99206598e73806b1858327bcc0c5a09f9332f59c52e86960bb705686064ca2db",
+  "fetched": "2026-11-03T03:37:05Z",
+  "chars": 71451,
+  "portal_id": "175339",
+  "tip": "DECIZIE"
+ }
+}
