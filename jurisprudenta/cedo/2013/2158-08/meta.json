@@ -1,0 +1,158 @@
+{
+ "key": "cedo-2158-08-2013-06-18",
+ "label": "CEDO, Pleşca c. României, 2013-06-18",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-06-18",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 18 iunie 2013",
+ "subtitle": "în Cauza Pleşca împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "64",
+  "bis": false,
+  "date": "2016-01-28",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "2158/08"
+ ],
+ "case_name": "Pleşca",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 2 din Convenţie sub aspect procedural; 3. hotărăşte că prin constatarea încălcării se oferă, în sine, o reparaţie echitabilă suficientă pentru prejudiciul moral suferit de reclamant."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175364",
+  "text_sha256": "67335a2df0aeb5036e0b67bf7ab0f4a06f98b086b20f3f51770a901dfe750d94",
+  "catalogue_sha256": "67335a2df0aeb5036e0b67bf7ab0f4a06f98b086b20f3f51770a901dfe750d94",
+  "fetched": "2026-11-03T13:03:30Z",
+  "chars": 28944,
+  "portal_id": "175364",
+  "tip": "HOTĂRÂRE"
+ }
+}
