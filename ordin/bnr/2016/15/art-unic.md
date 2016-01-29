@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general și Registrul special ale instituțiilor financiare nebancare, ținute la Banca Națională a României, a S.C. INTESA SANPAOLO LEASING ROMANIA IFN - S.A., cu sediul în București, str. Nicolae Caramfil nr. 85A, sectorul 1, înregistrată la registrul comerțului cu nr. J40/14030/2005, cod unic de înregistrare 17863812, înscrisă în Registrul general cu nr. RG-PJR-41-110114/22.11.2010 și în Registrul special cu nr. RS-PJR-41-110073/8.05.2013, la secțiunea k) "Activități multiple de creditare".
