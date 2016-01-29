@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general al instituțiilor financiare nebancare, ținut la Banca Națională a României, a S.C. AVANTAJ EXPERT CREDIT IFN - S.A., cu sediul în Ploiești, Str. Târgoviștei nr. 11, cam. 1, 2, 3, județul Prahova, înregistrată la registrul comerțului cu nr. J29/1093/2013, cod unic de înregistrare 32009300, înscrisă în Registrul general cu nr. RG-PJR-30-110280, la secțiunea k) "Activități multiple de creditare".
