@@ -1,0 +1,164 @@
+{
+ "key": "iccj-ril-23-2015",
+ "label": "Decizia ÎCCJ nr. 23/2015 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "23",
+ "date": "2015-10-26",
+ "year": "2015",
+ "heading": "DECIZIE nr. 23 din 26 octombrie 2015",
+ "subtitle": "referitoare la examinarea recursului în interesul legii privind interpretarea şi aplicarea unitară a dispoziţiilor art. 50 alin. 3 din Legea nr. 136/1995 privind asigurările şi reasigurările din România",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "71",
+  "bis": false,
+  "date": "2016-02-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "15/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Alba Iulia.",
+  "Stabileşte că, în interpretarea şi aplicarea dispoziţiilor art. 50 alin. 3 din Legea nr. 136/1995 privind asigurările şi reasigurările în România, cu modificările şi completările ulterioare, dreptul la despăgubiri recunoscut soţului (soţiei) sau persoanelor care se află în întreţinerea proprietarului ori conducătorului vehiculului asigurat, răspunzător de producerea accidentului, priveşte doar vătămările lor corporale, ca victime directe ale evenimentului rutier.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 172/2004",
+    "number": "172",
+    "year": "2004",
+    "path": "lege/2004/172"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2223",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1390",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1392",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175443",
+  "text_sha256": "eee3c85e6f52ad23baff1bd764841849419135e1a1e3768dd5bb72ca2c834d48",
+  "catalogue_sha256": "eee3c85e6f52ad23baff1bd764841849419135e1a1e3768dd5bb72ca2c834d48",
+  "fetched": "2026-11-03T03:37:00Z",
+  "chars": 48739,
+  "portal_id": "175443",
+  "tip": "DECIZIE"
+ }
+}
