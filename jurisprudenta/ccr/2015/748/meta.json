@@ -1,0 +1,397 @@
+{
+ "key": "dcc-748-2015",
+ "label": "Decizia CCR nr. 748/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "748",
+ "date": "2015-11-04",
+ "year": "2015",
+ "heading": "DECIZIE nr. 748 din 4 noiembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 35 alin. (1) din Legea fondului funciar nr. 18/1991, precum şi ale art. 2 alin. (1) şi (2) şi art. 24 alin. (1), (1^2) şi (1^4) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "71",
+  "bis": false,
+  "date": "2016-02-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.461/240/2009",
+  "1.195D/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate ridicată de Academia Română în Dosarul nr. 1.461/240/2009 al Judecătoriei Haţeg - Secţia civilă şi constată că dispoziţiile art. 35 alin. (1) din Legea fondului funciar nr. 18/1991 sunt constituţionale în măsura în care nu condiţionează dobândirea dreptului de proprietate publică prin expropriere, de înscrierea acesteia în cartea funciară. 2. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (1) şi art. 24 alin. (1), (1^2) şi (1^4) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997, excepţie ridicată de aceeaşi autoare în acelaşi dosar al aceleiaşi instanţe judecătoreşti. 3. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 2 alin. (2) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997, excepţie ridicată de aceeaşi autoare în acelaşi dosar al aceleiaşi instanţe judecătoreşti.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului şi Judecătoriei Haţeg - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1",
+      "1-2",
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/2000",
+    "number": "5",
+    "year": "2000",
+    "path": "lege/2000/5"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "887",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175434",
+  "text_sha256": "5ca968cf82efad80ce17759b03b2fc7fca8192d66b760c0589be9e9fcd77564f",
+  "catalogue_sha256": "5ca968cf82efad80ce17759b03b2fc7fca8192d66b760c0589be9e9fcd77564f",
+  "fetched": "2026-11-03T03:37:01Z",
+  "chars": 42788,
+  "portal_id": "175434",
+  "tip": "DECIZIE"
+ }
+}
