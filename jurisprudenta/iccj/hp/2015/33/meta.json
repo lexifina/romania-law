@@ -1,0 +1,323 @@
+{
+ "key": "iccj-hp-33-2015",
+ "label": "Decizia ÎCCJ nr. 33/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "33",
+ "date": "2015-11-16",
+ "year": "2015",
+ "heading": "DECIZIE nr. 33 din 16 noiembrie 2015",
+ "subtitle": "privind dezlegarea chestiunilor de drept ce formează obiectul Dosarului nr. 2.724/1/2015",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "77",
+  "bis": false,
+  "date": "2016-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.724/1/2015",
+  "3.243/110/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1976",
+    "number": "92",
+    "year": "1976",
+    "path": "decret/1976/92"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "158",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 125/1990",
+    "number": "125",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 456/1990",
+    "number": "456",
+    "year": "1990",
+    "path": "hg/1990/456"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul Ministerului Industriei Chimice şi Petrochimice nr. 969/1990",
+    "number": "969",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secţia I civilă în Dosarul nr. 2.724/1/2015, la care au fost conexate dosarele nr. 2.725/1/2015, nr. 2.726/1/2015, nr. 3.245/1/2015, nr. 3.248/1/2015 şi nr. 3.251/1/2015, în vederea pronunţării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "\"1) art. 20 alin. (1) şi (2) din Decretul nr. 92/1976 privind carnetul de muncă, raportat la art. 20 alin. (1), art. 22 alin. (1) şi art. 158 alin. (2) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările şi completările ulterioare, şi art. 18 lit. e) din Statutul Casei Naţionale de Pensii Publice, aprobat prin Hotărârea Guvernului nr. 118/2012, cu modificările ulterioare, trebuie interpretat şi/sau aplicat în sensul că interzice caselor teritoriale de pensii aflate în subordinea Casei Naţionale de Pensii Publice să nu valorifice, la emiterea deciziilor de pensionare, acele menţiuni din conţinutul carnetului de muncă referitor la încadrarea personalului în fostele grupe I şi/sau a II-a de muncă pe care le constată că nu au corespondent (acoperire) în normele legale în materie (Ordinul nr. 50/1990 şi Ordinul nr. 125/1990, emise de Ministerul Muncii şi Ocrotirilor Sociale, Ministerul Sănătăţii şi Comisia Naţională pentru Protecţia Muncii, completate cu avizele ulterioare, Hotărârea Guvernului nr. 456/1990, Ordinul Ministerului Industriei Chimice şi Petrochimice nr. 969/1990 etc.), care reglementează încadrarea în fostele grupe de muncă I şi a II-a, sau trebuie interpretat şi/sau aplicat în sensul că dau posibilitatea acestora (caselor teritoriale de pensii) să nu valorifice astfel de menţiuni?;",
+  "2) art. 3 din Ordinul nr. 50/1990 pentru precizarea locurilor de muncă, activităţilor şi categoriilor profesionale cu condiţii deosebite care se încadrează în grupele I şi II de muncă în vederea pensionării, emis de Ministerul Muncii şi Ocrotirilor Sociale, Ministerul Sănătăţii şi Comisia Naţională pentru Protecţia Muncii, completat cu avizele ulterioare, raportat la pct. 160 din anexa nr. 2 din acelaşi act normativ, poate fi interpretat şi/sau aplicat în sensul că permite încadrarea în grupa a II-a de muncă şi a persoanelor care au lucrat în alt sector de activitate decât industria materialelor de construcţii, respectiv în industria de maşini-unelte?\"",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 92/1976",
+    "number": "92",
+    "year": "1976",
+    "path": "decret/1976/92"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "158",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 125/1990",
+    "number": "125",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 456/1990",
+    "number": "456",
+    "year": "1990",
+    "path": "hg/1990/456"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul Ministerului Industriei Chimice şi Petrochimice nr. 969/1990",
+    "number": "969",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 969/1990",
+    "number": "969",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175475",
+  "text_sha256": "d7e12d5f1d147666bb323bdd171d5bc35b0efed6711023c14267a8bf9d6ebb89",
+  "catalogue_sha256": "d7e12d5f1d147666bb323bdd171d5bc35b0efed6711023c14267a8bf9d6ebb89",
+  "fetched": "2026-11-03T03:36:57Z",
+  "chars": 29833,
+  "portal_id": "175475",
+  "tip": "DECIZIE"
+ }
+}
