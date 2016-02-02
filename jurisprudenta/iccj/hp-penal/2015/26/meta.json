@@ -1,0 +1,190 @@
+{
+ "key": "iccj-hp-penal-26-2015",
+ "label": "Decizia ÎCCJ nr. 26/2015 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "26",
+ "date": "2015-10-29",
+ "year": "2015",
+ "heading": "DECIZIE nr. 26 din 29 octombrie 2015",
+ "subtitle": "privind sesizarea formulată de Curtea de Apel Bucureşti - Secţia a II-a penală, în Dosarul nr. 45.539/299/2013 prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "77",
+  "bis": false,
+  "date": "2016-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "45.539/299/2013",
+  "3.050/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 216/2011",
+    "number": "216",
+    "year": "2011",
+    "path": "lege/2011/216"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "351",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bucureşti - Secţia a II-a penală, în Dosarul nr. 45.539/299/2013 prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: \"poate fi reţinută infracţiunea de cămătărie prevăzută în cuprinsul dispoziţiilor art. 3 alin. (1) din Legea nr. 216/2011 sau art. 351 din Codul penal în situaţia în care acţiunile de remitere efectivă a sumelor de bani au avut loc înainte de intrarea în vigoare a normei de incriminare, iar activitatea de percepere a dobânzilor a avut loc după intrarea în vigoare a Legii nr. 216/2011.\" Pronunţată, în şedinţă publică, astăzi, 29 octombrie 2015."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 216/2011",
+    "number": "216",
+    "year": "2011",
+    "path": "lege/2011/216"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "351",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "255",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "162",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175499",
+  "text_sha256": "71135ea34a52ceaa241eee7743072d98b4a047c92d2e6282ead33c1b6d319d07",
+  "catalogue_sha256": "71135ea34a52ceaa241eee7743072d98b4a047c92d2e6282ead33c1b6d319d07",
+  "fetched": "2026-11-03T03:36:57Z",
+  "chars": 45553,
+  "portal_id": "175499",
+  "tip": "DECIZIE"
+ }
+}
