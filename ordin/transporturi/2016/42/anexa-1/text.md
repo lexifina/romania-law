@@ -1,0 +1,2 @@
+# Anexa 1
+REGULAMENT 26/01/2016
