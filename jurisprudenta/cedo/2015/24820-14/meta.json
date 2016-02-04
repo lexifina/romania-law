@@ -1,0 +1,93 @@
+{
+ "key": "cedo-24820-14-2015-11-05",
+ "label": "CEDO, Mohamad Fadi Abdul Kader El Hamoui c. României, 2015-11-05",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2015-11-05",
+ "year": "2015",
+ "heading": "DECIZIE din 5 noiembrie 2015",
+ "subtitle": "cu privire la Cererea nr. 24.820/14 introdusă de Mohamad Fadi Abdul Kader El Hamoui împotriva României şi alte 3 cereri (a se vedea lista anexată)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "82",
+  "bis": false,
+  "date": "2016-02-04",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "24820/14"
+ ],
+ "case_name": "Mohamad Fadi Abdul Kader El Hamoui",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA: - decide să conexeze cererile; - ia act de termenii declaraţiilor Guvernului privind art. 6 alin. 1 şi de aranjamentele privind asigurarea executării angajamentelor asumate prin acestea; - decide scoaterea cauzelor de pe rol, în conformitate cu art. 37 alin. 1 (c) din Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175539",
+  "text_sha256": "f781e83e0d6ea6c2247ae303be46d036c3119299a6f29f2e8263de273a0c34b8",
+  "catalogue_sha256": "f781e83e0d6ea6c2247ae303be46d036c3119299a6f29f2e8263de273a0c34b8",
+  "fetched": "2026-11-03T03:36:55Z",
+  "chars": 7701,
+  "portal_id": "175539",
+  "tip": "DECIZIE"
+ }
+}
