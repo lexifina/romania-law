@@ -1,0 +1,259 @@
+{
+ "key": "dcc-768-2015",
+ "label": "Decizia CCR nr. 768/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "768",
+ "date": "2015-11-10",
+ "year": "2015",
+ "heading": "DECIZIE nr. 768 din 10 noiembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 9 şi ale art. 13 din Ordonanţa de urgenţă a Guvernului nr. 125/2006 pentru aprobarea schemelor de plăţi directe şi plăţi naţionale directe complementare, care se acordă în agricultură începând cu anul 2007, şi pentru modificarea art. 2 din Legea nr. 36/1991 privind societăţile agricole şi alte forme de asociere în agricultură",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "84",
+  "bis": false,
+  "date": "2016-02-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "12.258/2/2009",
+  "830D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 125/2006",
+    "number": "125",
+    "year": "2006",
+    "path": "oug/2006/125"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 36/1991",
+    "number": "36",
+    "year": "1991",
+    "path": "lege/1991/36"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 9 şi ale art. 13 din Ordonanţa de urgenţă a Guvernului nr. 125/2006 pentru aprobarea schemelor de plăţi directe şi plăţi naţionale directe complementare, care se acordă în agricultură începând cu anul 2007, şi pentru modificarea art. 2 din Legea nr. 36/1991 privind societăţile agricole şi alte forme de asociere în agricultură, excepţie ridicată de Gabriel Emanuel Niţulescu în Dosarul nr. 12.258/2/2009** al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 125/2006",
+    "number": "125",
+    "year": "2006",
+    "path": "oug/2006/125"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 36/1991",
+    "number": "36",
+    "year": "1991",
+    "path": "lege/1991/36"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 295/2007",
+    "number": "295",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 139/2007",
+    "number": "139",
+    "year": "2007",
+    "path": "lege/2007/139"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului agriculturii, pădurilor şi dezvoltării rurale nr. 295/2007",
+    "number": "295",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-02-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175546",
+  "text_sha256": "c05a69bc6892c3327746144ca2a2c511a4e11be0d28ab5bb9f68282bc17664ba",
+  "catalogue_sha256": "c05a69bc6892c3327746144ca2a2c511a4e11be0d28ab5bb9f68282bc17664ba",
+  "fetched": "2026-11-03T03:36:53Z",
+  "chars": 24583,
+  "portal_id": "175546",
+  "tip": "DECIZIE"
+ }
+}
