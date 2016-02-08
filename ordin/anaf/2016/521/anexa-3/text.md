@@ -1,0 +1,5 @@
+# Anexa 3
+Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare ale formularului
+"Decizie privind înregistrarea în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 316 alin. (1) lit. a) sau c) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare"
+1. Denumire: "Decizie privind înregistrarea în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 316 alin. (1) lit. a) sau c) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare" 2. Cod: 14.13.02.60/î.c. 3. Format: A4/t1 4. Caracteristici de tipărire: - pe o singură față; - se utilizează echipament informatic pentru editare. 5. U/M: set (2 file) 6. Se difuzează gratuit. 7. Se utilizează pentru înregistrarea în scopuri de TVA a persoanelor care au solicitat înregistrarea în scopuri de TVA, în temeiul art. 316 alin. (1) lit. a) sau c) din Legea nr. 227/2015, cu modificările și completările ulterioare. 8. Se întocmește în două exemplare de organul fiscal competent. 9. Circulă: - originalul la contribuabil; - copia la organul fiscal. 10. Se arhivează la dosarul fiscal al contribuabilului.
+---
