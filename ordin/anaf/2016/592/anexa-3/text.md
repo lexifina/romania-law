@@ -1,0 +1,16 @@
+# Anexa nr. 3
+Caracteristicile de tipărire, modul de difuzare, de utilizare și păstrare ale formularului (301) "Decont special de taxă pe valoarea adăugată"
+Denumirea formularului: Decont special de taxă pe valoarea adăugată
+Codul: 14.13.01.02/s
+Formatul: A4/t1
+Caracteristicile de tipărire: - se utilizează echipament informatic pentru completare și editare, cu ajutorul programului de asistență pus la dispoziție, gratuit, de către unitățile fiscale.
+Se difuzează gratuit.
+Se utilizează la declararea taxei pe valoarea adăugată.
+Se întocmește de persoanele prevăzute la art. 324 alin. (1) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare.
+Circulă: - în format electronic, la organul fiscal în a cărui rază teritorială persoana impozabilă își are domiciliul fiscal;
+- în format hârtie, în două exemplare listate, semnate, potrivit legii, din care:
+- un exemplar la contribuabil;
+- un exemplar la organul fiscal.
+Se păstrează: - formatul electronic, în arhiva de documente electronice;
+- formatul hârtie, la dosarul fiscal al contribuabilului.
+-----
