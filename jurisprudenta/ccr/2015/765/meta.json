@@ -1,0 +1,214 @@
+{
+ "key": "dcc-765-2015",
+ "label": "Decizia CCR nr. 765/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "765",
+ "date": "2015-11-10",
+ "year": "2015",
+ "heading": "DECIZIE nr. 765 din 10 noiembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Legii nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "107",
+  "bis": false,
+  "date": "2016-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.779/104/2014",
+  "465D/2015",
+  "1.176/96/2014",
+  "5.980/121/2014",
+  "674D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Sindicatul Liber Învăţământ Zona Caracal, de Sindicatul Liber Învăţământ Zona Balş şi de Costinel Claudiu Popescu în dosarele nr. 1.779/104/2014, nr. 1.782/104/2014, nr. 1.923/104/2014, nr. 1.986/104/2014, nr. 3.290/63/2014, nr. 1.926/104/2014 şi nr. 3.406/104/2014 ale Curţii de Apel Craiova - Secţia I civilă; de Sindicatul Liber din Învăţământ Satu Mare şi de Sindicatul Învăţământului Preuniversitar Satu Mare în dosarele nr. 884/83/2014, nr. 1.317/83/2014, nr. 1.315/83/2014, nr. 1.841/83/2014, nr. 1.001/83/2014, nr. 1.091/83/2014, nr. 1.323/83/2014, nr. 1.306/83/2014, nr. 1.338/83/2014, nr. 1.344/83/2014, nr. 1.835/83/2014, nr. 1.476/83/2014, nr. 1.948/83/2014, nr. 2.430/83/2014, nr. 1.312/83/2014, nr. 1.275/83/2014, nr. 2.478/83/2014, nr. 1.339/83/2014, nr. 1.593/83/2014 şi nr. 1.199/83/2014 ale Curţii de Apel Oradea - Secţia I civilă; de Sindicatul Liber din Învăţământ Zona Odorheiu Secuiesc în Dosarul nr. 1.176/96/2014 al Curţii de Apel Târgu Mureş - Secţia I civilă; de Sindicatul Liber \"Educaţia\" din Galaţi în Dosarul nr. 5.980/121/2014 al Tribunalului Galaţi - Secţia I civilă; de Liga Sindicatelor din Învăţământ Botoşani în dosarele nr. 2.724/40/2014, nr. 2.735/40/2014, nr. 2.837/40/2014 şi nr. 2.841/40/2014 ale Tribunalului Botoşani - Secţia I civilă şi de Sindicatul Învăţământ Brăila \"Corneliu Gh. Caranica\" în dosarele nr. 960/113/2014, nr. 1.742/113/2014, nr. 935/113/2014, nr. 1.583/113/2014, nr. 1.630/113/2014, nr. 1.719/113/2014, nr. 1.639/113/2014, nr. 1.724/113/2014 şi nr. 1.637/113/2014 ale Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale şi constată că dispoziţiile Legii nr. 63/2011 privind încadrarea şi salarizarea în anul 2011 a personalului didactic şi didactic auxiliar din învăţământ sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Craiova - Secţia I civilă, Curţii de Apel Oradea - Secţia I civilă, Curţii de Apel Târgu Mureş - Secţia I civilă, Tribunalului Galaţi - Secţia I civilă, Tribunalului Botoşani - Secţia I civilă, Curţii de Apel Galaţi - Secţia conflicte de muncă şi asigurări sociale şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 41/2009",
+    "number": "41",
+    "year": "2009",
+    "path": "oug/2009/41"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 15/2008",
+    "number": "15",
+    "year": "2008",
+    "path": "og/2008/15"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 221/2008",
+    "number": "221",
+    "year": "2008",
+    "path": "lege/2008/221"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175770",
+  "text_sha256": "0d335c009df3a892c740ee81d14b92dbd662eed1bc1a026508e2e34421024c33",
+  "catalogue_sha256": "0d335c009df3a892c740ee81d14b92dbd662eed1bc1a026508e2e34421024c33",
+  "fetched": "2026-11-03T03:36:41Z",
+  "chars": 22297,
+  "portal_id": "175770",
+  "tip": "DECIZIE"
+ }
+}
