@@ -1,0 +1,346 @@
+{
+ "key": "iccj-hp-36-2015",
+ "label": "Decizia ÎCCJ nr. 36/2015 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "36",
+ "date": "2015-11-23",
+ "year": "2015",
+ "heading": "DECIZIE nr. 36 din 23 noiembrie 2015",
+ "subtitle": "privind calculul despăgubirilor cu respectarea metodologiei de calcul prevăzute de Hotărârea Guvernului nr. 1.071/2006 privind aprobarea Normelor metodologice pentru acordarea, utilizarea şi controlul sumelor destinate proprietarilor de păduri pentru gestionarea durabilă a acestora, coroborat cu art. 6 alin. (2) din Hotărârea Guvernului nr. 861/2009 pentru aprobarea Normelor metodologice de acordare, utilizare şi control al sumelor anuale destinate gestionării durabile a fondului forestier proprietate privată a persoanelor fizice şi juridice şi a celui proprietate publică şi privată a unităţilor administrativ-teritoriale",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "107",
+  "bis": false,
+  "date": "2016-02-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.749/1/2015",
+  "3.178/62/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 861/2009",
+    "number": "861",
+    "year": "2009",
+    "path": "hg/2009/861"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 14/2010",
+    "number": "14",
+    "year": "2010",
+    "path": "og/2010/14"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "s"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Braşov - Secţia de contencios administrativ şi fiscal, prin Încheierea din data de 29 aprilie 2015, pronunţată în Dosarul nr. 3.178/62/2014, şi stabileşte că:",
+  "Pentru acordarea compensaţiilor prevăzute de art. 97 alin. (1) lit. b) din Legea nr. 46/2008 privind Codul silvic, republicată, şi de art. 4 lit. s) pct. 4 din Ordonanţa Guvernului nr. 14/2010 privind măsuri financiare pentru reglementarea ajutoarelor de stat acordate producătorilor agricoli, începând cu anul 2010, aprobată cu modificări şi completări prin Legea nr. 74/2010, cu modificările şi completările ulterioare, după data de 1 ianuarie 2010, trebuie să existe decizia favorabilă a Comisiei Europene privind ajutorul de stat şi să fie adoptate normele metodologice ulterioare, în condiţiile art. 5 din Ordonanţa Guvernului nr. 14/2010.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 861/2009",
+    "number": "861",
+    "year": "2009",
+    "path": "hg/2009/861"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 14/2010",
+    "number": "14",
+    "year": "2010",
+    "path": "og/2010/14"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "s"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.071/2006",
+    "number": "1071",
+    "year": "2006",
+    "path": "hg/2006/1071"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 96/1998",
+    "number": "96",
+    "year": "1998",
+    "path": "og/1998/96"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adiţional nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 57/2007",
+    "number": "57",
+    "year": "2007",
+    "path": "oug/2007/57"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 157/2005",
+    "number": "157",
+    "year": "2005",
+    "path": "lege/2005/157"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 117/2006",
+    "number": "117",
+    "year": "2006",
+    "path": "oug/2006/117"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175763",
+  "text_sha256": "c212e1141a91f0646e5054a1d93e7ca256319ba184c2b8f9c680cf854f64d008",
+  "catalogue_sha256": "c212e1141a91f0646e5054a1d93e7ca256319ba184c2b8f9c680cf854f64d008",
+  "fetched": "2026-11-03T03:36:41Z",
+  "chars": 53359,
+  "portal_id": "175763",
+  "tip": "DECIZIE"
+ }
+}
