@@ -1,0 +1,10 @@
+# Anexa 4
+DECLARAȚIA privind plata contribuției anuale/extraordinare la Fondul de garantare a depozitelor bancare în anul............ - model - 1. Denumirea instituției de credit:............................................................... 2. Sediul social:.......................................................................................... 3. Data declarației:................................. (zz/ll/aaaa) 4. Numărul și data autorizației de funcționare/notificării emise de Banca Națională a României............................................... 5. Baza de calcul al contribuției la data de 31 decembrie a anului precedent anului de plată.............. Soldul depozitelor acoperite: Total în lei:..............................................................................., din care: - în lei...............................................................................; - în valută (în echivalent lei).............................................
+a) Depozite acoperite persoane fizice, în lei:.........................................................................,
+din care: - în lei...............................................................................; - în valută (în echivalent lei).............................................
+b) Depozite acoperite persoane juridice, în lei:.....................................................................,
+din care: - în lei...............................................................................; - în valută (în echivalent lei)............................................. 6. Contribuția datorată:..................., suma:....................... lei
+7. Contribuția plătită, lei:................................................................................ 8. Felul documentului:................. nr............., data plății....................... (zz/ll/aaaa)
+Conducătorul instituției de credit,
+Conducătorul compartimentului................................... financiar-contabil, (numele, prenumele, funcția,............................. semnătura și ștampila) (numele, prenumele, funcția
+-----
