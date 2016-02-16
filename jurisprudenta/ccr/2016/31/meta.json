@@ -1,0 +1,142 @@
+{
+ "key": "dcc-31-2016",
+ "label": "Decizia CCR nr. 31/2016",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "31",
+ "date": "2016-01-27",
+ "year": "2016",
+ "heading": "DECIZIE nr. 31 din 27 ianuarie 2016",
+ "subtitle": "asupra sesizării de neconstituţionalitate a dispoziţiilor art. 56 alin. (2) şi (3) din Regulamentul activităţilor comune ale Camerei Deputaţilor şi Senatului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "117",
+  "bis": false,
+  "date": "2016-02-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.862C/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea de neconstituţionalitate formulată de un număr de 84 de deputaţi şi 14 senatori aparţinând Grupului parlamentar al Partidului Naţional Liberal şi constată că dispoziţiile art. 56 alin. (2) şi (3) din Regulamentul activităţilor comune ale Camerei Deputaţilor şi Senatului sunt neconstituţionale.",
+  "Decizia este definitivă şi general obligatorie.",
+  "Decizia se comunică Camerei Deputaţilor şi Senatului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-02-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175833",
+  "text_sha256": "47cb37072ff16881e1c9a60f24f86ff6acb00b3df4683106a0c4775349f53ce7",
+  "catalogue_sha256": "47cb37072ff16881e1c9a60f24f86ff6acb00b3df4683106a0c4775349f53ce7",
+  "fetched": "2026-11-03T03:36:35Z",
+  "chars": 24918,
+  "portal_id": "175833",
+  "tip": "DECIZIE"
+ }
+}
