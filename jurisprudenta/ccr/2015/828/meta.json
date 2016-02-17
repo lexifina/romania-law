@@ -1,0 +1,279 @@
+{
+ "key": "dcc-828-2015",
+ "label": "Decizia CCR nr. 828/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "828",
+ "date": "2015-12-03",
+ "year": "2015",
+ "heading": "DECIZIE nr. 828 din 3 decembrie 2015",
+ "subtitle": "referitoar la excepţia de neconstituţionalitate a dispoziţiilor art. 270 alin. (3) şi ale art. 274 teza a doua din Legea nr. 86/2006 privind Codul vamal al României",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "124",
+  "bis": false,
+  "date": "2016-02-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 270 alin. (3) şi ale art. 274 teza a doua din Legea nr. 86/2006 privind Codul vamal al României, ridicată din oficiu în dosarele nr. 6.494/302/2015 şi nr. 6.605/302/2015 ale Judecătoriei Sectorului 5 Bucureşti - Secţia I penală.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 5 Bucureşti - Secţia I penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "223",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "318",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "270",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "273",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 54/2010",
+    "number": "54",
+    "year": "2010",
+    "path": "oug/2010/54"
+   },
+   "articles": [
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-02-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175905",
+  "text_sha256": "92226964e521052e59a58e3e6d2bc27ef158b71c23c7789d5f1d338571ee2b25",
+  "catalogue_sha256": "92226964e521052e59a58e3e6d2bc27ef158b71c23c7789d5f1d338571ee2b25",
+  "fetched": "2026-11-03T03:36:29Z",
+  "chars": 35979,
+  "portal_id": "175905",
+  "tip": "DECIZIE"
+ }
+}
