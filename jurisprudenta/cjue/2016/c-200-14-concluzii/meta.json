@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-200-14-concluzii-2016-02-18",
+ "label": "CJUE, Concluziile avocatului general M. Szpunar prezentate la 18 februarie 2016, Cauza C-200/14.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2016-02-18",
+ "year": "2016",
+ "case": "Cauza C-200/14.",
+ "celex": "62014CC0200",
+ "ecli": "ECLI:EU:C:2016:99",
+ "heading": "Concluziile avocatului general M. Szpunar prezentate la 18 februarie 2016",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Sibiu.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Principiul cooperării loiale – Principiile efectivității și echivalenței – Reglementare națională de stabilire a modalităților de rambursare cu dobândă a taxelor percepute fără a fi datorate – Executarea deciziilor judecătorești referitoare la astfel de drepturi la rambursare conferite de ordinea juridică a Uniunii – Rambursare eșalonată pe cinci ani – Condiționarea rambursării de existența unor fonduri percepute în temeiul unei taxe – Inexistența posibilității executării silite.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CC0200",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-200/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/d5b2307b-03c5-4ea8-a22a-fdc4a9c73ffd.0021.03/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "414edc651b44a79d79ddbbd2f99a9955fb8cc80b0663fa1cd248bc32b5139ff7"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
