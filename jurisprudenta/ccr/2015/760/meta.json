@@ -1,0 +1,320 @@
+{
+ "key": "dcc-760-2015",
+ "label": "Decizia CCR nr. 760/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "760",
+ "date": "2015-11-05",
+ "year": "2015",
+ "heading": "DECIZIE nr. 760 din 5 noiembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Legea nr. 124/2014 privind unele măsuri referitoare la veniturile de natură salarială ale personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "138",
+  "bis": false,
+  "date": "2016-02-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.207/40/2014",
+  "845D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2014",
+    "number": "124",
+    "year": "2014",
+    "path": "lege/2014/124"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Societatea Nova Apaserv - S.R.L. din Botoşani în Dosarul nr. 2.207/40/2014 al Tribunalului Botoşani - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că dispoziţiile art. 1 din Legea nr. 124/2014 privind unele măsuri referitoare la veniturile de natură salarială ale personalului plătit din fonduri publice sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Botoşani - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2014",
+    "number": "124",
+    "year": "2014",
+    "path": "lege/2014/124"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăţilor nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru privind salarizarea unitară a personalului plătit din fonduri publice nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 339/2007",
+    "number": "339",
+    "year": "2007",
+    "path": "lege/2007/339"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru privind salarizarea unitară a personalului plătit din fonduri publice nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 283/2011",
+    "number": "283",
+    "year": "2011",
+    "path": "lege/2011/283"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 19/2012",
+    "number": "19",
+    "year": "2012",
+    "path": "oug/2012/19"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 84/2012",
+    "number": "84",
+    "year": "2012",
+    "path": "oug/2012/84"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor comunitare de utilităţi publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-02-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176035",
+  "text_sha256": "d73a776310e23a1708119896ce22aaadb4189746c7505b929d3ddd84f9602f82",
+  "catalogue_sha256": "d73a776310e23a1708119896ce22aaadb4189746c7505b929d3ddd84f9602f82",
+  "fetched": "2026-11-03T03:36:20Z",
+  "chars": 14354,
+  "portal_id": "176035",
+  "tip": "DECIZIE"
+ }
+}
