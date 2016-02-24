@@ -1,0 +1,197 @@
+{
+ "key": "cedo-25217-06-2015-07-07",
+ "label": "CEDO, Morar c. României, 2015-07-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2015-07-07",
+ "year": "2015",
+ "heading": "HOTĂRÂRE din 7 iulie 2015",
+ "subtitle": "în Cauza Morar împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "141",
+  "bis": false,
+  "date": "2016-02-24",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "25217/06"
+ ],
+ "case_name": "Morar",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 10 din Convenţie şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 10 din Convenţie; 3. hotărăşte:",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care vor fi convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 18.445 EUR (optsprezece mii patru sute patruzeci şi cinci euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul material; (ii) 6.000 EUR (şase mii euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 278/2006",
+    "number": "278",
+    "year": "2006",
+    "path": "lege/2006/278"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176066",
+  "text_sha256": "e4ae80f615193e37598dde32a360d9272046fcba8723236e3b73008fe025d955",
+  "catalogue_sha256": "e4ae80f615193e37598dde32a360d9272046fcba8723236e3b73008fe025d955",
+  "fetched": "2026-11-03T03:36:19Z",
+  "chars": 57824,
+  "portal_id": "176066",
+  "tip": "HOTĂRÂRE"
+ }
+}
