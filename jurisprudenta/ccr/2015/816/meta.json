@@ -1,0 +1,295 @@
+{
+ "key": "dcc-816-2015",
+ "label": "Decizia CCR nr. 816/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "816",
+ "date": "2015-11-24",
+ "year": "2015",
+ "heading": "DECIZIE nr. 816 din 24 noiembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 alin. (5) din Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice, coroborat cu art. 8 - capitolul VIII - anexa VI din Legea-cadru nr. 284/2010 şi cu art. 1 alin. (1) şi (2) şi art. 6 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 103/2013 privind salarizarea personalului plătit din fonduri publice în anul 2014, precum şi alte măsuri în domeniul cheltuielilor publice, precum şi a dispoziţiilor art. 17 alin. (5) din Legea nr. 303/2004 privind Statutul judecătorilor şi procurorilor coroborat cu nota 1 - capitolul I - anexa VI din Legea-cadru nr. 284/2010 şi cu art. 74 alin. (1) şi art. 86 din Legea nr. 303/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "165",
+  "bis": false,
+  "date": "2016-03-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.722/2/2014",
+  "1.322D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Ioan Cosmin Pantea în Dosarul nr. 3.722/2/2014 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi constată că dispoziţiile art. 10 alin. (5) din Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice, coroborat cu art. 8 - capitolul VIII - anexa VI din Legea-cadru nr. 284/2010 şi cu art. 1 alin. (1) şi (2) şi art. 6 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 103/2013 privind salarizarea personalului plătit din fonduri publice în anul 2014, precum şi alte măsuri în domeniul cheltuielilor publice, precum şi a dispoziţiilor art. 17 alin. (5) din Legea nr. 303/2004 privind Statutul judecătorilor şi procurorilor coroborat cu nota 1 - capitolul I - anexa VI din Legea-cadru nr. 284/2010 şi cu art. 74 alin. (1) şi art. 86 din Legea nr. 303/2004 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-03-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176338",
+  "text_sha256": "dd7e90664f71dd0707e5aeac2097864493fad32e86c3cf822f662808088f28d7",
+  "catalogue_sha256": "dd7e90664f71dd0707e5aeac2097864493fad32e86c3cf822f662808088f28d7",
+  "fetched": "2026-11-03T03:36:03Z",
+  "chars": 24924,
+  "portal_id": "176338",
+  "tip": "DECIZIE"
+ }
+}
