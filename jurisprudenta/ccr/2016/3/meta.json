@@ -1,0 +1,173 @@
+{
+ "key": "dcc-3-2016",
+ "label": "Decizia CCR nr. 3/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "3",
+ "date": "2016-01-14",
+ "year": "2016",
+ "heading": "DECIZIE nr. 3 din 14 ianuarie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1.000 alin. (1) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "170",
+  "bis": false,
+  "date": "2016-03-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.875/225/2015",
+  "832D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1000",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Agenţia Naţională de Administrare Fiscală în Dosarul nr. 1.875/225/2015 al Tribunalului Mehedinţi - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că dispoziţiile art. 1.000 alin. (1) din Codul de procedură civilă sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Mehedinţi - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "999",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1000",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "427",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-03-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176345",
+  "text_sha256": "6f9b050960bea3516fd2b8e469f685ac84dd3c91d7305d655a7613f1bfeca18e",
+  "catalogue_sha256": "6f9b050960bea3516fd2b8e469f685ac84dd3c91d7305d655a7613f1bfeca18e",
+  "fetched": "2026-11-03T03:36:01Z",
+  "chars": 10289,
+  "portal_id": "176345",
+  "tip": "DECIZIE"
+ }
+}
