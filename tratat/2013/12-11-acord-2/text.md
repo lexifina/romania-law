@@ -1,0 +1,30 @@
+ ACORD din 11 decembrie 2013  între Guvernul României şi Guvernul Republicii Serbia, prin schimb de note verbale, privind deschiderea punctului rutier de trecere a frontierei Vracev Gaj (Republica Serbia) şi Socol (România) la frontiera de stat româno-sârbă, semnat la Belgrad la 2 decembrie 2013 şi la Bucureşti la 11 decembrie 2013     EMITENT     ACT INTERNAŢIONAL       Publicat în
+			  MONITORUL OFICIAL nr. 174 din 8 martie 2016
+				 +
+			      REPUBLICA SERBIA  MINISTERUL AFACERILOR EXTERNE  Nr. 63-12/13  Ministerul Afacerilor Externe al Republicii Serbia prezintă salutul său Ambasadei României la Belgrad şi are onoarea de a-i transmite propunerea de încheiere a unui Acord între Guvernul Republicii Serbia şi Guvernul României privind deschiderea punctului rutier de trecere a frontierei Vracev Gaj (Republica Serbia) şi Socol (România) la frontiera de stat româno-sârbă, prin schimb de note verbale, care, în limba sârbă, are următorul conţinut:  "Guvernul Republicii Serbia şi Guvernul României (în text în continuare: părţi),  având în vedere faptul că prin Programul IPA de cooperare transfrontalieră Republica Serbia - România sunt cuprinse proiectele «Podul de pe Nera la Vracev Gaj şi Socol» şi «Punctul de frontieră peste Dunăre, cu bacul, la Golubac şi Moldova Nouă»,  convinse de importanţa cooperării dintre comunităţile locale din zonele de frontieră ale României şi Republicii Serbia,  au convenit următoarele:
+				 +
+			  Articolul 1     Se înfiinţează un nou punct de frontieră internaţional rutier la frontiera de stat sârbo-română, pentru pasageri şi transportul mărfurilor, cu caracter permanent, pentru trecerea între localităţile Vracev Gaj (Republica Serbia) şi Socol (România).
+				 +
+			  Articolul 2     Punctul de trecere a frontierei menţionat la articolul 1 al prezentului acord va fi deschis zilnic, în intervalul orar de la 06,00 la 20,00.
+				 +
+			  Articolul 3     Punctul de trecere a frontierei menţionat la articolul 1 al prezentului acord va fi deschis după asigurarea infrastructurii necesare, în conformitate cu normele şi standardele în vigoare.
+				 +
+			  Articolul 4     Prezentul acord se încheie pe o perioadă nedeterminată şi poate fi modificat sau completat, cu acordul celor două părţi, prin schimb de note verbale.
+				 +
+			  Articolul 5     Prezentul acord poate fi denunţat de oricare dintre părţi, printr-o notificare. Notificarea va produce efecte la 30 de zile de la data primirii de către cealaltă parte.
+				 +
+			  Articolul 6     Prezentul acord va intra în vigoare la data ultimei notificări prin care părţile se informează despre îndeplinirea procedurilor interne necesare pentru intrarea în vigoare a acordului."    Ministerul Afacerilor Externe al Republicii Serbia foloseşte acest prilej pentru a reînnoi Ambasadei României la Belgrad asigurarea înaltei sale consideraţii.  Belgrad, 2 decembrie 2013.
+				 +
+			      ROMÂNIA  MINISTERUL AFACERILOR EXTERNE  Nr. H2-1/5612  Ministerul Afacerilor Externe al României prezintă salutul său Ambasadei Republicii Serbia la Bucureşti şi are onoarea de a se referi la Nota verbală nr. 63-12/13 din 2 decembrie 2013 a Ministerului Afacerilor Externe al Republicii Serbia, prin care a fost transmisă propunerea încheierii unui Acord între Guvernul României şi Guvernul Republicii Serbia, prin schimb de note verbale, privind înfiinţarea unui punct internaţional de trecere a frontierei de stat româno-sârbe între localităţile Socol (România) şi Vracev Gaj (Republica Serbia), având următorul conţinut:  "Guvernul Republicii Serbia şi Guvernul României (în text în continuare: părţi),  având în vedere faptul că prin Programul IPA de cooperare transfrontalieră Republica Serbia-România sunt cuprinse proiectele «Podul de pe Nera la Vracev Gaj şi Socol» şi «Punctul de frontieră peste Dunăre, cu bacul, la Golubac şi Moldova Nouă»,  convinse de importanţa cooperării dintre comunităţile locale din zonele de frontieră ale României şi Republicii Serbia,  au convenit următoarele:
+				 +
+			  Articolul 1     Se înfiinţează un nou punct de frontieră internaţional rutier la frontiera de stat sârbo-română, pentru pasageri şi transportul mărfurilor, cu caracter permanent, pentru trecerea între localităţile Vracev Gaj (Republica Serbia) şi Socol (România).
+				 +
+			  Articolul 2     Punctul de trecere a frontierei menţionat la articolul 1 al prezentului acord va fi deschis zilnic, în intervalul orar de la 06,00 la 20,00.
+				 +
+			  Articolul 3     Punctul de trecere a frontierei menţionat la articolul 1 al prezentului acord va fi deschis după asigurarea infrastructurii necesare, în conformitate cu normele şi standardele în vigoare.
+				 +
+			  Articolul 4     Prezentul acord se încheie pe o perioadă nedeterminată şi poate fi modificat sau completat, cu acordul celor două părţi, prin schimb de note verbale.
+				 +
+			  Articolul 5     Prezentul acord poate fi denunţat de oricare dintre părţi, printr-o notificare. Notificarea va produce efecte la 30 de zile de la data primirii de către cealaltă parte.
+				 +
+			  Articolul 6     Prezentul acord va intra în vigoare la data ultimei notificări prin care părţile se informează despre îndeplinirea procedurilor interne necesare pentru intrarea în vigoare a acordului."  Ministerul Afacerilor Externe al României are onoarea de a confirma că partea română este de acord cu propunerea menţionată mai sus şi că, în consecinţă, Nota verbală nr. 63-12/13 a Ministerului Afacerilor Externe al Republicii Serbia împreună cu prezenta notă verbală constituie un Acord între Guvernul României şi Guvernul Republicii Serbia privind înfiinţarea unui punct internaţional de trecere a frontierei de stat româno-sârbe între localităţile Socol (România) şi Vracev Gaj (Republica Serbia), care va intra în vigoare în conformitate cu prevederile articolului 6 din acord.  Ministerul Afacerilor Externe al României foloseşte acest prilej pentru a reînnoi Ambasadei Republicii Serbia la Bucureşti asigurarea înaltei sale consideraţii.  Bucureşti, 11 decembrie 2013.    Ambasadei Republicii Serbia  - în oraş -    -----
