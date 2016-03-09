@@ -1,0 +1,187 @@
+{
+ "key": "dcc-903-2015",
+ "label": "Decizia CCR nr. 903/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "903",
+ "date": "2015-12-17",
+ "year": "2015",
+ "heading": "DECIZIE nr. 903 din 17 decembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 296^27 şi art. 296^28 din Codul fiscal - Legea nr. 571/2003",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "178",
+  "bis": false,
+  "date": "2016-03-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "668/114/2015",
+  "893/114/2015",
+  "965D/2015",
+  "1.101D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [
+    {
+     "art": "296-27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Ledesma Patino Maxem M Ramona Gabriela şi Emil Mocanu în dosarele nr. 668/114/2015 şi, respectiv, nr. 893/114/2015 ale Tribunalului Buzău - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că prevederile art. 296^27 şi art. 296^28 din Codul fiscal - Legea nr. 571/2003 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Buzău - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [
+    {
+     "art": "296-27",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-27",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-03-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176437",
+  "text_sha256": "040b0ceebcfb92bf08aca17822f3478f8f9091144f1945ebb53729aeeeceb5fc",
+  "catalogue_sha256": "040b0ceebcfb92bf08aca17822f3478f8f9091144f1945ebb53729aeeeceb5fc",
+  "fetched": "2026-11-03T03:35:57Z",
+  "chars": 16962,
+  "portal_id": "176437",
+  "tip": "DECIZIE"
+ }
+}
