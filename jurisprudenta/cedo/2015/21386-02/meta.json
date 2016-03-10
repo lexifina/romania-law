@@ -1,0 +1,132 @@
+{
+ "key": "cedo-21386-02-2015-03-17",
+ "label": "CEDO, Vlad şi alţii c. României, 2015-03-17",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2015-03-17",
+ "year": "2015",
+ "heading": "HOTĂRÂRE din 17 martie 2015",
+ "subtitle": "în Cauza Vlad şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "179",
+  "bis": false,
+  "date": "2016-03-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "21386/02"
+ ],
+ "case_name": "Vlad şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să conexeze cererile; 2. respinge excepţiile preliminare ale Guvernului; 3. declară admisibile capetele de cerere formulate în temeiul art. 6 §1 şi al art. 1 din Protocolul nr. 1 la Convenţie în ceea ce priveşte neexecutarea sau executarea cu întârziere a hotărârilor, pentru toate cererile, şi inadmisibile celelalte capete de cerere; 4. hotărăşte că au fost încălcate art. 6 §1 din Convenţie şi art. 1 din Protocolul nr. 1 la Convenţie; 5. hotărăşte:",
+  "a) că statul pârât trebuie să asigure, prin mijloace adecvate, în termen de trei luni, punerea în executare a hotărârilor neexecutate încă;",
+  "b) că statul pârât trebuie să plătească reclamanţilor, în termen de trei luni, sumele menţionate în tabelul anexat, care trebuie convertite în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "c) că, de la expirarea termenului de trei luni menţionat anterior şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal, practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "6. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176451",
+  "text_sha256": "c160821b242204787e223e8a07d6b320dcace6888251e077e3181797df2ab07f",
+  "catalogue_sha256": "c160821b242204787e223e8a07d6b320dcace6888251e077e3181797df2ab07f",
+  "fetched": "2026-11-03T03:35:54Z",
+  "chars": 15384,
+  "portal_id": "176451",
+  "tip": "HOTĂRÂRE"
+ }
+}
