@@ -1,0 +1,170 @@
+{
+ "key": "dcc-854-2015",
+ "label": "Decizia CCR nr. 854/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "854",
+ "date": "2015-12-10",
+ "year": "2015",
+ "heading": "DECIZIE nr. 854 din 10 decembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice, precum şi ale pct. III lit. A din Normele metodologice din 14 ianuarie 2011 pentru aplicarea prevederilor Legii nr. 285/2010",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "187",
+  "bis": false,
+  "date": "2016-03-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.149/2/2011",
+  "968D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Camelia Bădescu în Dosarul nr. 8.149/2/2011 al Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal şi constată că prevederile art. 6 din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice sunt constituţionale în raport cu criticile formulate. 2. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor pct. III lit. A din Normele metodologice din 14 ianuarie 2011 pentru aplicarea prevederilor Legii nr. 285/2010, excepţie ridicată de aceeaşi autoare în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Înaltei Curţi de Casaţie şi Justiţie - Secţia de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-03-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176527",
+  "text_sha256": "5cb68ec88b8c68f75712ba6e38b2dea83e6f458e981fba4d0ddeef1a66625a78",
+  "catalogue_sha256": "5cb68ec88b8c68f75712ba6e38b2dea83e6f458e981fba4d0ddeef1a66625a78",
+  "fetched": "2026-11-04T01:34:49Z",
+  "chars": 14235,
+  "portal_id": "176527",
+  "tip": "DECIZIE"
+ }
+}
