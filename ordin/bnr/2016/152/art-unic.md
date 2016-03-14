@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune radierea din Registrul general Instituții Financiare Nebancare și din Registrul special Instituții Financiare Nebancare, ținute la Banca Națională a României, a Societății FORTIS LEASE ROMANIA IFN - S.A., cu sediul în București, Calea Floreasca nr. 27, sectorul 1, înregistrată la oficiul registrului comerțului cu nr. J40/14859/2003, cod unic de înregistrare 15876484, înscrisă în Registrul general și în Registrul special la secțiunea k) "Activități multiple de creditare" cu nr. RG-PJR-41-110039, respectiv nr. RS-PJR-41-110042.
