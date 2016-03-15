@@ -1,0 +1,277 @@
+{
+ "key": "iccj-hp-penal-2-2016",
+ "label": "Decizia ÎCCJ nr. 2/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "2",
+ "date": "2016-01-26",
+ "year": "2016",
+ "heading": "DECIZIE nr. 2 din 26 ianuarie 2016",
+ "subtitle": "pentru pronunţarea unei hotărâri prealabile pentru dezlegarea problemei de drept privind infracţiuni concurente săvârşite în timpul minorităţii, judecate separat, durata măsurii educative neprivative de libertate, dispusă pentru o infracţiune concurentă şi executată",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "192",
+  "bis": false,
+  "date": "2016-03-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4.116/1/2015",
+  "44.339/215/2014"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secţia penală şi pentru cauze cu minori - în Dosarul nr. 44.339/215/2014, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept: \"dacă, în cazul în care, un inculpat minor săvârşeşte, în timpul minorităţii, un concurs de infracţiuni, fiind ulterior trimis în judecată pentru săvârşirea infracţiunilor din cadrul concursului de infracţiuni, prin rechizitorii distincte, iar pentru una dintre infracţiuni i s-a aplicat o măsură educativă neprivativă de libertate, pe care a executat-o integral înainte de a fi trimis în judecată şi pentru săvârşirea celorlalte infracţiuni din cadrul concursului, în momentul în care i se aplică o măsură educativă pentru toate infracţiunile din cadrul concursului de infracţiuni, conform art. 129 alin. (1) din Codul penal, durata măsurii educative deja executate se scade din durata noii măsuri educative aplicate pentru întreg concursul de infracţiuni sau se va dispune executarea integrală a noii măsuri educative aplicate pentru concursul de infracţiuni, atât în cazul aplicării unei măsuri educative neprivative de libertate, cât şi în cazul aplicării unei măsuri educative privative de libertate.\" Stabileşte că, în ipoteza infracţiunilor concurente săvârşite în timpul minorităţii, judecate separat, durata măsurii educative neprivative de libertate, dispusă pentru o infracţiune concurentă şi executată, nu se scade din durata măsurii educative neprivative sau privative de libertate, dar va fi avută în vedere la alegerea şi stabilirea sancţiunii conform art. 129 alin. (1) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "10",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 50
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-03-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176580",
+  "text_sha256": "7d2e6b7068873e1bdb90fb5f40b52e2660b4b500d5fd23cdea78d44ae95f386f",
+  "catalogue_sha256": "7d2e6b7068873e1bdb90fb5f40b52e2660b4b500d5fd23cdea78d44ae95f386f",
+  "fetched": "2026-11-03T03:35:44Z",
+  "chars": 55651,
+  "portal_id": "176580",
+  "tip": "DECIZIE"
+ }
+}
