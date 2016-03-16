@@ -1,0 +1,225 @@
+{
+ "key": "iccj-hp-penal-3-2016",
+ "label": "Decizia ÎCCJ nr. 3/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "3",
+ "date": "2016-02-10",
+ "year": "2016",
+ "heading": "DECIZIE nr. 3 din 10 februarie 2016",
+ "subtitle": "privind sesizarea formulată de Curtea de Apel Bucureşti - Secţia a II-a penală prin Încheierea de şedinţă din 20 octombrie 2015 pronunţată în Dosarul nr. 4.796/2/2015, prin care, în temeiul art. 475 din Codul de procedură penală, se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a chestiunii de drept - dacă, în aplicarea dispoziţiilor art. 427 alin. (1) din Codul de procedură penală raportat la art. 426 lit. a) din Codul de procedură penală, persoana fizică ori juridică ce nu a avut calitatea de parte în cursul procesului penal are calitatea procesuală să formuleze contestaţie în anulare întrucât nu a fost citată la judecata în apel, în condiţiile în care drepturile ori interesele sale au fost afectate printr-o măsură dispusă de instanţa de apel prin hotărâre definitivă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "195",
+  "bis": false,
+  "date": "2016-03-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.796/2/2015",
+  "4.292/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "427",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bucureşti - Secţia a II-a penală în Dosarul nr. 4.796/2/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: \"dacă, în aplicarea dispoziţiilor art. 427 alin. (1) din Codul de procedură penală raportat la art. 426 lit. a) din Codul de procedură penală, persoana fizică ori juridică ce nu a avut calitatea de parte în cursul procesului penal are calitatea procesuală să formuleze contestaţie în anulare întrucât nu a fost citată la judecata în apel, în condiţiile în care drepturile ori interesele sale au fost afectate printr-o măsură dispusă de instanţa de apel prin hotărâre definitivă\"."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "427",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "353",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "428",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "112-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "427",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176594",
+  "text_sha256": "ade341ca4eadfa16f7db4ac81753ffa8e4a61f2d4e024697218b9698d9f9b108",
+  "catalogue_sha256": "ade341ca4eadfa16f7db4ac81753ffa8e4a61f2d4e024697218b9698d9f9b108",
+  "fetched": "2026-11-03T03:35:40Z",
+  "chars": 44802,
+  "portal_id": "176594",
+  "tip": "DECIZIE"
+ }
+}
