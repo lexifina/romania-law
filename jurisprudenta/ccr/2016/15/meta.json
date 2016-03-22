@@ -1,0 +1,229 @@
+{
+ "key": "dcc-15-2016",
+ "label": "Decizia CCR nr. 15/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "15",
+ "date": "2016-01-19",
+ "year": "2016",
+ "heading": "DECIZIE nr. 15 din 19 ianuarie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 3 alin. (2) şi art. 10 din Legea nr. 164/2014 privind unele măsuri pentru accelerarea şi finalizarea procesului de soluţionare a cererilor formulate în temeiul Legii nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940, precum şi al Legii nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi Ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947, şi pentru modificarea unor acte normative",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "212",
+  "bis": false,
+  "date": "2016-03-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "39.586/3/2014",
+  "9.722/3/2014",
+  "26.406/3/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2014",
+    "number": "164",
+    "year": "2014",
+    "path": "lege/2014/164"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Ştefan Olexiuc în Dosarul nr. 39.586/3/2014 al Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal, de Silvia Olexiuc în Dosarul nr. 9.722/3/2014 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi de Valentina Constantinescu în Dosarul nr. 26.406/3/2014 al Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi constată că prevederile art. 3 alin. (2) şi art. 10 din Legea nr. 164/2014 privind unele măsuri pentru accelerarea şi finalizarea procesului de soluţionare a cererilor formulate în temeiul Legii nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940, precum şi al Legii nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi Ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947, şi pentru modificarea unor acte normative sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2014",
+    "number": "164",
+    "year": "2014",
+    "path": "lege/2014/164"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "lege/1998/9"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-03-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176772",
+  "text_sha256": "b3c8fdbcd6437c03f5c1e505c9458ad93add0a29e6b8782cde85036363a8a17d",
+  "catalogue_sha256": "b3c8fdbcd6437c03f5c1e505c9458ad93add0a29e6b8782cde85036363a8a17d",
+  "fetched": "2026-11-03T03:35:32Z",
+  "chars": 27827,
+  "portal_id": "176772",
+  "tip": "DECIZIE"
+ }
+}
