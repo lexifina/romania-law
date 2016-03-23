@@ -1,0 +1,434 @@
+{
+ "key": "dcc-872-2015",
+ "label": "Decizia CCR nr. 872/2015",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "872",
+ "date": "2015-12-15",
+ "year": "2015",
+ "heading": "DECIZIE nr. 872 din 15 decembrie 2015",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 alin. (1), art. 2 alin. (2) lit. a), b) şi c), art. 53 alin. (1), art. 62^2 alin. (3) şi (4), art. 82 alin. (2), (3) şi (5), art. 296^2-296^13 şi art. 296^15-296^20 din Legea nr. 571/2003 privind Codul fiscal, ale Ordonanţei de urgenţă a Guvernului nr. 117/2010 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi reglementarea unor măsuri financiar-fiscale, ale art. V alin. (1) şi (6) şi art. IX din Ordonanţa de urgenţă a Guvernului nr. 125/2011 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, şi ale ordonanţei de urgenţă în ansamblul său, precum şi ale art. 119, art. 120^1, art. 121, art. 122 şi art. 124^1 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "213",
+  "bis": false,
+  "date": "2016-03-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.541/118/2013",
+  "533D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 117/2010",
+    "number": "117",
+    "year": "2010",
+    "path": "oug/2010/117"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 125/2011",
+    "number": "125",
+    "year": "2011",
+    "path": "oug/2011/125"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Gilmar Belecciu în Dosarul nr. 9.541/118/2013 al Curţii de Apel Constanţa - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că dispoziţiile art. 1 alin. (1), art. 2 alin. (2) lit. a), b) şi c), art. 53 alin. (1), art. 62^2 alin. (3) şi (4), art. 82 alin. (2), (3) şi (5), art. 296^2-296^13 şi art. 296^15-296^20 din Legea nr. 571/2003 privind Codul fiscal, ale Ordonanţei de urgenţă a Guvernului nr. 117/2010 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi reglementarea unor măsuri financiar-fiscale, ale art. V alin. (1) şi (6) şi art. IX din Ordonanţa de urgenţă a Guvernului nr. 125/2011 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, şi ale ordonanţei de urgenţă în ansamblul său, precum şi ale art. 119, art. 120^1, art. 121, art. 122 şi art. 124^1 din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală sunt constituţionale în raport cu criticile formulate.",
+  "Decizia se comunică Curţii de Apel Constanţa - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-21",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "296-22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "p"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 125/2011",
+    "number": "125",
+    "year": "2011",
+    "path": "oug/2011/125"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 117/2010",
+    "number": "117",
+    "year": "2010",
+    "path": "oug/2010/117"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-03-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176792",
+  "text_sha256": "ae4e424d1541a4bd0f77f6a39963fa2d37178aa52188f8ee7d629d03318f69c0",
+  "catalogue_sha256": "ae4e424d1541a4bd0f77f6a39963fa2d37178aa52188f8ee7d629d03318f69c0",
+  "fetched": "2026-11-03T03:35:30Z",
+  "chars": 25606,
+  "portal_id": "176792",
+  "tip": "DECIZIE"
+ }
+}
