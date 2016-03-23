@@ -1,0 +1,280 @@
+{
+ "key": "dcc-40-2016",
+ "label": "Decizia CCR nr. 40/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "40",
+ "date": "2016-02-09",
+ "year": "2016",
+ "heading": "DECIZIE nr. 40 din 9 februarie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (1) lit. c) şi alin. (3) teza a doua, art. 342, art. 343, art. 344 alin. (1)-(3), art. 345 alin. (2) şi (3), art. 346 alin. (2)-(7), art. 347 alin. (1) şi (2) şi art. 348 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "214",
+  "bis": false,
+  "date": "2016-03-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "200/84/2015",
+  "1.266D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 347 alin. (1) din Codul de procedură penală, excepţie ridicată de Dan Marian Hendea şi Vlad Mihai Hendea în Dosarul nr. 200/84/2015 al Tribunalului Sălaj - Secţia penală. 2. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (1) lit. c) şi alin. (3) teza a doua din Codul de procedură penală, în privinţa soluţiei legislative conform căreia exercitarea funcţiei de verificare a legalităţii netrimiterii în judecată este compatibilă cu exercitarea funcţiei de judecată, excepţie ridicată de aceiaşi autori în acelaşi dosar al aceleiaşi instanţe. 3. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de aceiaşi autori în acelaşi dosar al aceleiaşi instanţe şi constată că dispoziţiile art. 3 alin. (1) lit. c) şi alin. (3) teza a doua din Codul de procedură penală, în privinţa soluţiei legislative conform căreia exercitarea funcţiei de verificare a legalităţii trimiterii în judecată este compatibilă cu exercitarea funcţiei de judecată, şi art. 342, art. 343, art. 344 alin. (1)-(3), art. 345 alin. (2) şi (3), art. 346 alin. (2)-(7), art. 347 alin. (2) şi art. 348 din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Sălaj - Secţia penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "2",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-03-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176821",
+  "text_sha256": "b9cb2ef8a0d5bf280be1071f0df5a3563a7efa0c1d34eda6e3206907e6d1149d",
+  "catalogue_sha256": "b9cb2ef8a0d5bf280be1071f0df5a3563a7efa0c1d34eda6e3206907e6d1149d",
+  "fetched": "2026-11-03T03:35:30Z",
+  "chars": 26510,
+  "portal_id": "176821",
+  "tip": "DECIZIE"
+ }
+}
