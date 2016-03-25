@@ -1,0 +1,159 @@
+{
+ "key": "iccj-hp-1-2016",
+ "label": "Decizia ÎCCJ nr. 1/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "1",
+ "date": "2016-01-18",
+ "year": "2016",
+ "heading": "DECIZIE nr. 1 din 18 ianuarie 2016",
+ "subtitle": "referitoare la dezlegarea unor chestiuni de drept privind Dosarul nr. 8.276/197/2014",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "223",
+  "bis": false,
+  "date": "2016-03-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.276/197/2014",
+  "3.899/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Braşov în Dosarul nr. 8.276/197/2014, în vederea pronunţării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "\"Dacă diferenţa de tratament din partea unui angajator, manifestată cu ocazia punerii în executare a unor hotărâri judecătoreşti, ce constituie titluri executorii de care beneficiază mai mulţi angajaţi, în sensul că pentru unii angajaţi, beneficiari ai titlurilor executorii menţionate, acestea au fost puse în executare voluntar, iar pentru alţii, aflaţi în aceeaşi situaţie, s-a refuzat executarea, deşi toate hotărârile judecătoreşti ce constituie titluri executorii vizează aceleaşi drepturi salariale, respectiv sporuri acordate pe baza aceloraşi temeiuri de drept, în toate cazurile necuantificate, această diferenţă de tratament poate fi interpretată ca fiind o discriminare în sensul art. 2 din Ordonanţa Guvernului nr. 137/2000 privind prevenirea şi sancţionarea tuturor formelor de discriminare, republicată.\" Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-03-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/176859",
+  "text_sha256": "d2a19eeec12f7db40cb25446d85a1197acaeaf62ad2bbcf450c9575f63630117",
+  "catalogue_sha256": "d2a19eeec12f7db40cb25446d85a1197acaeaf62ad2bbcf450c9575f63630117",
+  "fetched": "2026-11-03T03:35:25Z",
+  "chars": 36214,
+  "portal_id": "176859",
+  "tip": "DECIZIE"
+ }
+}
