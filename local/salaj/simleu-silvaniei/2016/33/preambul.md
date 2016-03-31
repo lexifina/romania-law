@@ -1,0 +1,5 @@
+Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 31 martie 2016;
+Având în vedere Expunerea de motive nr.4486/2016 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.4487/2016 al Serviciului urbanism și Avizul Comisiei pentru amenajarea teritoriului și urbanism, administrarea domeniului public și privat, realizarea lucrărilor publice, protecția mediului, turism, conservarea monumentelor istorice și arhitectură a Consiliului Local;
+În baza prevederilor art.5 din Legea nr.7/1996 a cadastrului și publicității imobiliare, republicată, cu modificările și completările ulterioare, art.453 lit.g din Legea nr.227/2015 privind Codul fiscal, cu modificările și completările ulterioare, pct.145 alin.2 din HG nr.1/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr.227/2015 privind Codul fiscal și ale art.36 alin.2 lit.c și art.124 din Legea nr.215/2001;
+În temeiul art.45 alin.3 din Legea nr.215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare,
+HOTĂRĂȘTE:
