@@ -1,0 +1,262 @@
+{
+ "key": "iccj-hp-3-2016",
+ "label": "Decizia ÎCCJ nr. 3/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "3",
+ "date": "2016-02-29",
+ "year": "2016",
+ "heading": "DECIZIE nr. 3 din 29 februarie 2016",
+ "subtitle": "privind sesizarea formulată de Curtea de Apel Constanţa - Secţia a II-a civilă, de contencios administrativ şi fiscal, în Dosarul nr. 2.434/118/2012*, privind pronunţarea unei hotărâri prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "243",
+  "bis": false,
+  "date": "2016-04-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.434/118/2012",
+  "4.149/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea privind pronunţarea unei hotărâri prealabile, formulată de Curtea de Apel Constanţa - Secţia a II-a civilă, de contencios administrativ şi fiscal prin Încheierea din 15 octombrie 2015, pronunţată în Dosarul nr. 2.434/118/2012* şi, în consecinţă, stabileşte că:",
+  "Dispoziţiile art. 24 alin. (5) din Legea contenciosului administrativ nr. 554/2004, introduse prin Legea nr. 138/2014 pentru modificarea şi completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum şi pentru modificarea şi completarea unor acte normative conexe, se aplică şi în ipoteza executării obligaţiilor stabilite prin hotărâri judecătoreşti rămase definitive înainte de intrarea în vigoare a Legii nr. 138/2014.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "905",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "891",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "725",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-04-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177138",
+  "text_sha256": "82edc6659c718a5a76588c111351addeb1e99df713a52ee25fe22b1f076d92be",
+  "catalogue_sha256": "82edc6659c718a5a76588c111351addeb1e99df713a52ee25fe22b1f076d92be",
+  "fetched": "2026-11-03T03:35:07Z",
+  "chars": 34712,
+  "portal_id": "177138",
+  "tip": "DECIZIE"
+ }
+}
