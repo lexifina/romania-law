@@ -1,0 +1,310 @@
+{
+ "key": "iccj-hp-penal-7-2016",
+ "label": "Decizia ÎCCJ nr. 7/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "7",
+ "date": "2016-03-02",
+ "year": "2016",
+ "heading": "DECIZIE nr. 7 din 2 martie 2016",
+ "subtitle": "privind dezlegarea unor chestiuni de drept în materie penală referitoare la stabilirea legii penale mai favorabile, conform art. 5 din Codul penal, pentru infracțiuni comise anterior datei de 1 februarie 2014, aflate în concurs cu una sau mai multe infracțiuni comise după intrarea în vigoare a noului Cod penal, dacă Decizia nr. 265/2014 a Curții Constituționale se aplică avându-se în vedere toate infracțiunile comise de inculpat și impune aplicarea noului Cod penal pentru toate infracțiunile ori se aplică doar în raport cu infracțiunile comise anterior datei de 1 februarie 2014, existând astfel posibilitatea aplicării dispozițiilor din vechiul Cod penal pentru acestea din urmă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "251",
+  "bis": false,
+  "date": "2016-04-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "190/1/2016",
+  "1.437/829/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bacău - Secția penală, cauze minori și familie în Dosarul nr. 1.437/829/2014, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept: \"dacă la stabilirea legii penale mai favorabile, conform art. 5 din Codul penal, pentru infracțiuni comise anterior datei de 1 februarie 2014, aflate în concurs cu una sau mai multe infracțiuni comise după intrarea în vigoare a noului Cod penal, Decizia nr. 265/2014 a Curții Constituționale se aplică avându-se în vedere toate infracțiunile comise de inculpat și impune aplicarea noului Cod penal pentru toate infracțiunile ori se aplică doar în raport cu infracțiunile comise anterior datei de 1 februarie 2014, existând astfel posibilitatea aplicării dispozițiilor din vechiul Cod penal pentru acestea din urmă\".",
+  "Stabilește că, în aplicarea dispozițiilor art. 5 din Codul penal, în cazul pluralității de infracțiuni constând în săvârșirea unor infracțiuni anterior datei de 1 februarie 2014, respectiv a unor infracțiuni comise după intrarea în vigoare a noului Cod penal, pentru infracțiunile săvârșite anterior datei de 1 februarie 2014 se va aplica legea penală mai favorabilă - identificată ca fiind legea veche sau legea nouă -, iar pentru infracțiunile săvârșite sub imperiul legii penale noi, precum și pentru tratamentul sancționator al concursului de infracțiuni se va aplica legea nouă, conform art. 3 din Codul penal și art. 10 din Legea nr. 187/2012 pentru punerea în aplicare a Legii nr. 286/2009 privind Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "334",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 85
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "208",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-04-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177221",
+  "text_sha256": "14dd88f7b671b410f3d0959e3d0d35416e8221d3888fd8f81993aa3b670c005b",
+  "catalogue_sha256": "14dd88f7b671b410f3d0959e3d0d35416e8221d3888fd8f81993aa3b670c005b",
+  "fetched": "2026-11-03T03:35:01Z",
+  "chars": 51999,
+  "portal_id": "177221",
+  "tip": "DECIZIE"
+ }
+}
