@@ -1,0 +1,287 @@
+{
+ "key": "iccj-ril-1-2016",
+ "label": "Decizia ÎCCJ nr. 1/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "1",
+ "date": "2016-02-15",
+ "year": "2016",
+ "heading": "DECIZIE nr. 1 din 15 februarie 2016",
+ "subtitle": "referitoare la recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție - Secția judiciară - Serviciul judiciar penal prin Sesizarea nr. 9.366/1792/III-5 din 11 noiembrie 2015, vizând stabilirea calității procesuale a societății de asigurare în ipoteza asigurării obligatorii de răspundere civilă pentru prejudicii produse prin accidente de autovehicule, prin prisma dispozițiilor art. 86 din Codul de procedură penală, precum și limitele răspunderii în procesul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "258",
+  "bis": false,
+  "date": "2016-04-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "23/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și în consecință: În interpretarea și aplicarea unitară a dispozițiilor art. 86 din Codul de procedură penală stabilește că:",
+  "În cazul asigurării obligatorii de răspundere civilă pentru prejudicii produse prin accidente de vehicule, societatea de asigurare are calitate de parte responsabilă civilmente și are obligația de a repara singură prejudiciul cauzat prin infracțiune, în limitele stabilite în contractul de asigurare și prin dispozițiile legale privind asigurarea obligatorie de răspundere civilă.",
+  "Obligatorie, conform dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1000",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1001",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1002",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1003",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1372",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1382",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1270",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-04-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177268",
+  "text_sha256": "b65745c118c8c434c3700bac78ef702ec51d19918d0af68f4d4fb9385f4ff7d5",
+  "catalogue_sha256": "b65745c118c8c434c3700bac78ef702ec51d19918d0af68f4d4fb9385f4ff7d5",
+  "fetched": "2026-11-03T03:34:56Z",
+  "chars": 75532,
+  "portal_id": "177268",
+  "tip": "DECIZIE"
+ }
+}
