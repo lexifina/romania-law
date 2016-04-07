@@ -1,0 +1,146 @@
+{
+ "key": "cedo-16903-12-2015-09-15",
+ "label": "CEDO, Moinescu c. României, 2015-09-15",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2015-09-15",
+ "year": "2015",
+ "heading": "HOTĂRÂRE din 15 septembrie 2015",
+ "subtitle": "în Cauza Moinescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "262",
+  "bis": false,
+  "date": "2016-04-07",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "16903/12"
+ ],
+ "case_name": "Moinescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă pentru capătul de cerere întemeiat pe art. 6 § 1 din Convenţie, în măsura în care se referă la condamnarea reclamantului în temeiul aceloraşi probe care fuseseră considerate insuficiente de către instanţele inferioare, şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 3. hotărăşte:",
+  "a) că statul pârât trebuie să îi plătească reclamantului, în termen de trei luni de la data rămânerii definitivă a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 3.000 EUR (trei mii de euro), care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii, pentru prejudiciul moral;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal, practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "321",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "217",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "264",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177294",
+  "text_sha256": "2cfea52ac3f9037ea7145f9a4b969520b20972c273f2a72e0eb28ea746b4286c",
+  "catalogue_sha256": "2cfea52ac3f9037ea7145f9a4b969520b20972c273f2a72e0eb28ea746b4286c",
+  "fetched": "2026-11-03T03:34:53Z",
+  "chars": 25818,
+  "portal_id": "177294",
+  "tip": "HOTĂRÂRE"
+ }
+}
