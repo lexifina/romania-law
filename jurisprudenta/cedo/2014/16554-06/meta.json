@@ -1,0 +1,168 @@
+{
+ "key": "cedo-16554-06-2014-09-16",
+ "label": "CEDO, Uniunea Judeţeană a Cooperativelor de Consum Ilfov c. României, 2014-09-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2014-09-16",
+ "year": "2014",
+ "heading": "HOTĂRÂRE din 16 septembrie 2014",
+ "subtitle": "în Cauza Uniunea Judeţeană a Cooperativelor de Consum Ilfov împotriva României (fond)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "279",
+  "bis": false,
+  "date": "2016-04-13",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "16554/06"
+ ],
+ "case_name": "Uniunea Judeţeană a Cooperativelor de Consum Ilfov",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. uneşte cu fondul excepţia de neepuizare a căilor de atac interne şi o respinge; 2. declară cererea admisibilă; 3. hotărăşte că a fost încălcat art. 1 din Protocolul nr. 1 la Convenţie; 4. hotărăşte că problema aplicării art. 41 din Convenţie nu se află în stare de judecată.",
+  "În consecinţă,",
+  "a) amână pronunţarea asupra acestei probleme în întregime;",
+  "b) invită Guvernul şi reclamanta să îi adreseze în scris, în termen de şase luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, observaţiile lor cu privire la această problemă şi în special să o informeze despre orice acord la care ar putea ajunge;",
+  "c) amână procedura ulterioară şi delegă preşedintelui camerei sarcina de a da un termen după caz."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 67/1990",
+    "number": "67",
+    "year": "1990",
+    "path": "decret-lege/1990/67"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 109/1996",
+    "number": "109",
+    "year": "1996",
+    "path": "lege/1996/109"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2005",
+    "number": "1",
+    "year": "2005",
+    "path": "lege/2005/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "861",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177505",
+  "text_sha256": "13644683910cc1b8efc835783a19362cbd04cb868236b6593c86766d571c4a1b",
+  "catalogue_sha256": "13644683910cc1b8efc835783a19362cbd04cb868236b6593c86766d571c4a1b",
+  "fetched": "2026-11-03T03:34:44Z",
+  "chars": 23421,
+  "portal_id": "177505",
+  "tip": "HOTĂRÂRE"
+ }
+}
