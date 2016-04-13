@@ -1,0 +1,140 @@
+{
+ "key": "cedo-4941-12-2015-10-06",
+ "label": "CEDO, Coniac c. României, 2015-10-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2015-10-06",
+ "year": "2015",
+ "heading": "HOTĂRÂRE din 6 octombrie 2015",
+ "subtitle": "în Cauza Coniac împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "281",
+  "bis": false,
+  "date": "2016-04-13",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "4941/12",
+  "4941/07"
+ ],
+ "case_name": "Coniac",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate",
+  "CURTEA:",
+  "1. uneşte cu fondul şi respinge excepţia referitoare la exercitarea abuzivă, de către reclamant, a dreptului de a introduce o cerere individuală; 2. declară cererea admisibilă în ceea ce priveşte capătul de cerere referitor la caracterul echitabil al procesului penal, întemeiat pe art. 6 § 1 din Convenţie, şi inadmisibilă în ceea ce priveşte celelalte capete de cerere; 3. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 4. hotărăşte: (a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii: (i) 2.400 EUR (două mii patru sute de euro) cu titlu de despăgubire pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit; (ii) 3.000 EUR (trei mii de euro) pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit; (b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale; 5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "385-15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "386",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177519",
+  "text_sha256": "fef2aa9220f9e7242cee0102e73196713b93e8883aa7ac258b7ca4eb505ea150",
+  "catalogue_sha256": "fef2aa9220f9e7242cee0102e73196713b93e8883aa7ac258b7ca4eb505ea150",
+  "fetched": "2026-11-03T03:34:43Z",
+  "chars": 38212,
+  "portal_id": "177519",
+  "tip": "HOTĂRÂRE"
+ }
+}
