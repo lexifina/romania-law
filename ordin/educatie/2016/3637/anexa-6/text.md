@@ -1,0 +1,10 @@
+# Anexa nr. 6
+Anexa 3.2 la regulamentul-cadru Operator economic.................... (denumirea) DECLARAȚIE Subsemnatul,........, reprezentant/împuternicit al....(denumirea operatorului economic)...., în calitate de ofertant al serviciilor de transport.....(denumirea serviciului)...., la data de...(zi/luna/an)..., declar pe propria răspundere că:
+a).......(denumirea operatorului economic)...... nu am intrat în faliment ca urmare a hotărârii pronunțate de judecătorul-sindic;
+b) dețin polița de asigurarea de răspundere a transportatorului față de călătorii transportați în caz de accidente produse în trafic intern și internațional nr......, emisă de......, valabilă până la data de........;
+În conformitate cu oferta transmisă achizitorului am acordat acestuia următoarele gratuități:.......................................................................................................................................... sau În conformitate cu oferta transmisă achizitorului am acordat acestuia următoarele reduceri:.......................................................................................................................................... Costul total per persoană este de...... lei (inclusiv TVA). Atașez prezentei declarații următoarele:
+a) copia certificatului de înmatriculare a operatorului economic la oficiul registrului comerțului;
+b) copia licenței de transport persoane;
+c) copia asigurării de răspundere a transportatorului față de călătorii transportați în caz de accidente.
+Subsemnatul declar că informațiile furnizate sunt complete și corecte în fiecare detaliu și înțeleg că achizitorul are dreptul de a solicita, în scopul verificării și confirmării declarațiilor, orice documente doveditoare de care dispun. Înțeleg că, în cazul în care aceasta declarație nu este conformă cu realitatea, sunt pasibil de încălcarea prevederilor legislației în vigoare privind falsul în declarații. Data............. Operator economic,....................... (semnătură autorizată)
+----
