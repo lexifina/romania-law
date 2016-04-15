@@ -1,0 +1,375 @@
+{
+ "key": "iccj-hp-penal-6-2016",
+ "label": "Decizia ÎCCJ nr. 6/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "6",
+ "date": "2016-03-02",
+ "year": "2016",
+ "heading": "DECIZIE nr. 6 din 2 martie 2016",
+ "subtitle": "referitoare la dezlegarea de principiu a chestiunii de drept privind aplicarea dispoziţiilor art. 427 alin. (1) raportat la art. 426 lit. b) şi d) din Codul de procedură penală, aplicarea art. 112 alin. (1) lit. e) din Codul penal şi aplicarea art. 112 alin. (1) lit. e) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "287",
+  "bis": false,
+  "date": "2016-04-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "179/1/2016",
+  "4.292/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "427",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările formulate de Curtea de Apel Bucureşti - Secţia a II-a penală, în dosarele nr. 4.787/2/2015 şi nr. 4.791/2/2015 privind pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept dacă:",
+  "\"1. În aplicarea dispoziţiilor art. 427 alin. (1) raportat la art. 426 lit. b) şi d) din Codul de procedură penală, persoana fizică sau persoana juridică care nu a avut calitatea de parte în procesul penal poate să formuleze contestaţie în anulare, dacă drepturile ori interesele sale legitime au fost afectate printr-o măsură dispusă de instanţa de apel prin hotărâre definitivă. 2. În aplicarea art. 112 alin. (1) lit. e) din Codul penal, măsura de siguranţă a confiscării speciale poate fi dispusă în raport cu următoarele situaţii:",
+  "a) faţă de terţe persoane fizice sau persoane juridice care nu sunt părţi în procesul penal, cu consecinţa aplicării măsurilor asigurătorii prevăzute de art. 249 din Codul de procedură penală;",
+  "b) faţă de persoana responsabilă civilmente în raport de care s-a respins acţiunea civilă exercitată în procesul penal;",
+  "c) asupra sumelor de bani sau a bunurilor în sens material;",
+  "d) asupra prejudiciului cauzat persoanei vătămate, dacă aceasta s-a constituit parte civilă şi nu a decedat ori, după caz, nu a fost dizolvată şi lichidată.",
+  "3. În aplicarea art. 112 alin. (1) lit. e) din Codul penal, măsura de siguranţă a confiscării speciale poate fi dispusă în condiţii de solidaritate ori trebuie individualizată.\" Pronunţată în şedinţă publică astăzi, 2 martie 2016."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "427",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "249",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "366",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "409",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "432",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "428",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 86
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "427",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "535",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1421",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1426",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-04-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177581",
+  "text_sha256": "23e95905adc019f37a675cedcc3abcb9d646050bcae029654e72259fd7752b46",
+  "catalogue_sha256": "23e95905adc019f37a675cedcc3abcb9d646050bcae029654e72259fd7752b46",
+  "fetched": "2026-11-03T03:34:37Z",
+  "chars": 84468,
+  "portal_id": "177581",
+  "tip": "DECIZIE"
+ }
+}
