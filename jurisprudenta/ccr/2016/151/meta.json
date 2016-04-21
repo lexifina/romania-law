@@ -1,0 +1,253 @@
+{
+ "key": "dcc-151-2016",
+ "label": "Decizia CCR nr. 151/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "151",
+ "date": "2016-03-17",
+ "year": "2016",
+ "heading": "DECIZIE nr. 151 din 17 martie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 6 din Legea nr. 460/2003 privind exercitarea profesiunilor de biochimist, biolog şi chimist, înfiinţarea, organizarea şi funcţionarea Ordinului Biochimiştilor, Biologilor şi Chimiştilor în sistemul sanitar din România",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "308",
+  "bis": false,
+  "date": "2016-04-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": false,
+ "dossiers": [
+  "978/113/2015",
+  "1.482D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 460/2003",
+    "number": "460",
+    "year": "2003",
+    "path": "lege/2003/460"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Magdalina Cărăuşu în Dosarul nr. 978/113/2015 al Tribunalului Brăila - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că sintagmele \"care au titlul de doctor în ştiinţe\" şi \"până la vârsta de 65 de ani, femeile, şi de 70 de ani, bărbaţii\", cuprinse în textul art. 6 din Legea nr. 460/2003 privind exercitarea profesiunilor de biochimist, biolog şi chimist, înfiinţarea, organizarea şi funcţionarea Ordinului Biochimiştilor, Biologilor şi Chimiştilor în sistemul sanitar din România, sunt constituţionale în măsura în care se aplică doar biochimiştilor, biologilor şi chimiştilor din sistemul sanitar care solicită continuarea activităţii profesionale în unităţile sanitare publice.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului şi Tribunalului Brăila - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 460/2003",
+    "number": "460",
+    "year": "2003",
+    "path": "lege/2003/460"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "69-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "391",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "575",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 144/2008",
+    "number": "144",
+    "year": "2008",
+    "path": "oug/2008/144"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-04-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177772",
+  "text_sha256": "4ed44504fc3c219e808b8c21eb28710d91cf44d88e8d7b0596b23526605fca69",
+  "catalogue_sha256": "4ed44504fc3c219e808b8c21eb28710d91cf44d88e8d7b0596b23526605fca69",
+  "fetched": "2026-11-03T03:34:23Z",
+  "chars": 29652,
+  "portal_id": "177772",
+  "tip": "DECIZIE"
+ }
+}
