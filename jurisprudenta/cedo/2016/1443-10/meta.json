@@ -1,0 +1,46 @@
+{
+ "key": "cedo-1443-10-2016-04-26",
+ "label": "CEDO, AMARANDEI AND OTHERS c. României, 2016-04-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-04-26",
+ "year": "2016",
+ "heading": "AFFAIRE AMARANDEI ET AUTRES CONTRE LA ROUMANIE",
+ "subtitle": "AMARANDEI AND OTHERS v. Romania",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": null,
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "1443/10"
+ ],
+ "case_name": "AMARANDEI AND OTHERS",
+ "subjects": [],
+ "operative": [],
+ "cites": [],
+ "articles_violated": [],
+ "final_date": "2016-07-26",
+ "hudoc_itemid": "001-251379",
+ "hudoc_item_is_translation": false,
+ "ecli": "ECLI:CE:ECHR:2016:0426JUD000144310",
+ "hudoc_url": "https://hudoc.echr.coe.int/eng?i=001-251379",
+ "execution": {
+  "type": "leading",
+  "record": "004-12730",
+  "url": "https://hudoc.exec.coe.int/eng?i=004-12730"
+ },
+ "text": null,
+ "text_note": "Metadata only: no Romanian translation of this judgment was published in the Monitorul Oficial; the official English or French text is on HUDOC.",
+ "source": {
+  "name": "HUDOC-EXEC",
+  "url": "https://hudoc.exec.coe.int/app/query/results?query=contentsitename%3AEXEC%20AND%20%28execstate%3D%22ROU%22%29%20AND%20%28execdocumenttype%3D%22CEC%22%29%20AND%20%28execlanguage%3D%22ENG%22%29&select=execappno,exectitle,execdocnamefromechr,execitemidfromechr,execjudgmentdate,execfinaljudgmentdate,exectype,execsupervision,execisclosed,execviolationsfromechr,execfinalresolutiondate,execidentifier,appnocode,execprecedentappnos,execisgroupmaster,execmasterappno,execfs,execlanguage,execstate&sort=&start=0&length=1000",
+  "sha256": [
+   "eff710c6d26f38724143365c53e891afb7db515d9ba4b373944738efa451c872",
+   "803f5acdb7e87412e6252b451a15bc21893eaf1c047ccf8554ed5a8b65f9dcf1",
+   "9a802f8bd0f020f29b7bf6479e05019528889ef7e4da0286566bfcfdbed292ca"
+  ]
+ },
+ "warnings": []
+}
