@@ -1,0 +1,213 @@
+{
+ "key": "dcc-49-2016",
+ "label": "Decizia CCR nr. 49/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "49",
+ "date": "2016-02-16",
+ "year": "2016",
+ "heading": "DECIZIE nr. 49 din 16 februarie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 337 din Codul penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "323",
+  "bis": false,
+  "date": "2016-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "451/337/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Nicolae Vasile Ghimbir în Dosarul nr. 451/337/2015 al Judecătoriei Zalău şi constată că dispoziţiile art. 337 din Codul penal sunt constituţionale în raport cu criticile formulate.",
+  "Decizia se comunică Judecătoriei Zalău şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "334",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "190",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177942",
+  "text_sha256": "40cc317e8459bde5b94fec4d29c44bb9dab87da3c997d5f0c294e0bbaee13135",
+  "catalogue_sha256": "40cc317e8459bde5b94fec4d29c44bb9dab87da3c997d5f0c294e0bbaee13135",
+  "fetched": "2026-11-03T03:34:10Z",
+  "chars": 13391,
+  "portal_id": "177942",
+  "tip": "DECIZIE"
+ }
+}
