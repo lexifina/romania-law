@@ -1,0 +1,340 @@
+{
+ "key": "dcc-36-2016",
+ "label": "Decizia CCR nr. 36/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "36",
+ "date": "2016-02-09",
+ "year": "2016",
+ "heading": "DECIZIE nr. 36 din 9 februarie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. VI pct. 1 din Ordonanţa de urgenţă a Guvernului nr. 46/2009 privind îmbunătăţirea procedurilor fiscale şi diminuarea evaziunii fiscale, precum şi ale art. 78^1 alin. (8) şi (10) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, astfel cum au fost introduse prin dispoziţiile art. I pct. 27 din Ordonanţa Guvernului nr. 29/2011 pentru modificarea şi completarea Ordonanţei Guvernului nr. 92/2003 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "326",
+  "bis": false,
+  "date": "2016-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.734/105/2013",
+  "1.170D/2015",
+  "1.598D/2015",
+  "6.736/105/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 46/2009",
+    "number": "46",
+    "year": "2009",
+    "path": "oug/2009/46"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "78-1",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 29/2011",
+    "number": "29",
+    "year": "2011",
+    "path": "og/2011/29"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge ca inadmisibilă excepţia de neconstituţionalitate a dispoziţiilor legale ale art. 78^1 alin. (8) şi (10) din Ordonanţa Guvernului nr. 92/2003 privind Codul de procedură fiscală, astfel cum au fost introduse prin dispoziţiile art. I pct. 27 din Ordonanţa Guvernului nr. 29/2011 pentru modificarea şi completarea Ordonanţei Guvernului nr. 92/2003 privind Codul de procedură fiscală, excepţie ridicată de Societatea \"Regent Security Prahova\" - S.R.L. din Bucureşti în dosarele nr. 6.734/105/2013 şi nr. 6.736/105/2013 ale Tribunalului Prahova - Secţia a II-a civilă, de contencios administrativ şi fiscal. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de aceeaşi autoare în Dosarul nr. 6.736/105/2013 al aceleiaşi instanţe şi constată că dispoziţiile art. VI pct. 1 din Ordonanţa de urgenţă a Guvernului nr. 46/2009 privind îmbunătăţirea procedurilor fiscale şi diminuarea evaziunii fiscale sunt constituţionale în raport cu criticile formulate.",
+  "Decizia se comunică Tribunalului Prahova - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "78-1",
+     "alin": [
+      "8",
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 29/2011",
+    "number": "29",
+    "year": "2011",
+    "path": "og/2011/29"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 46/2009",
+    "number": "46",
+    "year": "2009",
+    "path": "oug/2009/46"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 8/2014",
+    "number": "8",
+    "year": "2014",
+    "path": "oug/2014/8"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "354",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.167/2009",
+    "number": "1167",
+    "year": "2009"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 819/2008",
+    "number": "819",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177975",
+  "text_sha256": "7dc105a028a7f9c2546a8f62ec8b084ae4575d27d51a96216502d632dd712e59",
+  "catalogue_sha256": "7dc105a028a7f9c2546a8f62ec8b084ae4575d27d51a96216502d632dd712e59",
+  "fetched": "2026-11-03T03:34:11Z",
+  "chars": 22168,
+  "portal_id": "177975",
+  "tip": "DECIZIE"
+ }
+}
