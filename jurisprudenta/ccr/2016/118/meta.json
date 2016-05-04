@@ -1,0 +1,190 @@
+{
+ "key": "dcc-118-2016",
+ "label": "Decizia CCR nr. 118/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "118",
+ "date": "2016-03-03",
+ "year": "2016",
+ "heading": "DECIZIE nr. 118 din 3 martie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 1 din Legea nr. 562/2004 privind autorizarea instituţiilor publice din sistemul de apărare, ordine publică şi securitate naţională de a vinde personalului propriu unele locuinţe de serviciu pe care acestea le au în administrare",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "341",
+  "bis": false,
+  "date": "2016-05-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "10.961/302/2013",
+  "1.012D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 562/2004",
+    "number": "562",
+    "year": "2004",
+    "path": "lege/2004/562"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Mihai Florian Şucată în Dosarul nr. 10.961/302/2013 al Tribunalului Bucureşti - Secţia a III-a civilă şi constată că dispoziţiile art. 1 din Legea nr. 562/2004 privind autorizarea instituţiilor publice din sistemul de apărare, ordine publică şi securitate naţională de a vinde personalului propriu unele locuinţe de serviciu pe care acestea le au în administrare sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bucureşti - Secţia a III-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 562/2004",
+    "number": "562",
+    "year": "2004",
+    "path": "lege/2004/562"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 357/2006",
+    "number": "357",
+    "year": "2006",
+    "path": "lege/2006/357"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-05-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178132",
+  "text_sha256": "b3618d438f58128ff642922dfc62044b5b0c7aeb94d9769695d47da9534b42e3",
+  "catalogue_sha256": "b3618d438f58128ff642922dfc62044b5b0c7aeb94d9769695d47da9534b42e3",
+  "fetched": "2026-11-04T11:27:00Z",
+  "chars": 11257,
+  "portal_id": "178132",
+  "tip": "DECIZIE"
+ }
+}
