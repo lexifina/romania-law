@@ -1,0 +1,229 @@
+{
+ "key": "dcc-139-2016",
+ "label": "Decizia CCR nr. 139/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "139",
+ "date": "2016-03-10",
+ "year": "2016",
+ "heading": "DECIZIE nr. 139 din 10 martie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 493 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "350",
+  "bis": false,
+  "date": "2016-05-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "40.494/3/2014/a3",
+  "1.271D/2015",
+  "1.895D/2015",
+  "1.343D/2015",
+  "14.220/63/2014/a24",
+  "486/54/2015",
+  "2.046/105/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "493",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Grupul de Management al Creanţelor Z - S.R.L. (GMCZ) din Bucureşti, S.C. Succes Nic Com - S.R.L. din Voluntari, S.C. Ambient - S.A. din Sibiu şi de S.C. Nouvelle Construct - S.R.L. din Ploieşti în dosarele nr. 40.494/3/2014/a3 (2.662/2015), nr. 14.220/63/2014/a24, nr. 486/54/2015 şi nr. 2.046/105/2014 ale Curţii de Apel Bucureşti - Secţia a II-a penală, Tribunalului Dolj - Secţia penală şi pentru cauze cu minori, Curţii de Apel Craiova - Secţia penală şi pentru cauze cu minori şi Tribunalului Prahova - Secţia penală şi constată că dispoziţiile art. 493 din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a II-a penală, Tribunalului Dolj - Secţia penală şi pentru cauze cu minori, Curţii de Apel Craiova - Secţia penală şi pentru cauze cu minori şi Tribunalului Prahova - Secţia penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "493",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-05-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178205",
+  "text_sha256": "182a8b50ddd5aec3c6bfe6da89e4d73f4b1408af32971023ea9f35f3a0976084",
+  "catalogue_sha256": "182a8b50ddd5aec3c6bfe6da89e4d73f4b1408af32971023ea9f35f3a0976084",
+  "fetched": "2026-11-03T03:33:58Z",
+  "chars": 34712,
+  "portal_id": "178205",
+  "tip": "DECIZIE"
+ }
+}
