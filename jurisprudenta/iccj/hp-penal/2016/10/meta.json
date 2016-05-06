@@ -1,0 +1,226 @@
+{
+ "key": "iccj-hp-penal-10-2016",
+ "label": "Decizia ÎCCJ nr. 10/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "10",
+ "date": "2016-04-12",
+ "year": "2016",
+ "heading": "DECIZIE nr. 10 din 12 aprilie 2016",
+ "subtitle": "privind examinarea sesizării formulate de Tribunalul Ialomiţa prin care, în temeiul art. 475 din Codul de procedură penală, se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "348",
+  "bis": false,
+  "date": "2016-05-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "815/1/2016",
+  "4.987/312/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Ialomiţa în Dosarul nr. 4.987/312/2014* prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept: \"dacă în respectarea principiului legalităţii pedepsei, este admisibilă o contestaţie la executare, întemeiată pe dispoziţiile art. 598 alin. (1) lit. d) din Codul de procedură penală, având ca obiect menţinerea cu prioritate a anulării suspendării condiţionate a executării pedepsei, dispuse conform art. 85 din Codul penal din 1969 şi înlăturarea revocării suspendării condiţionate a executării aceleiaşi pedepse, măsuri aplicate prin hotărâri definitive intrate în autoritate de lucru judecat\"."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "320-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c",
+      "b"
+     ]
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "180",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "461",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-05-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178198",
+  "text_sha256": "6eede68ff5cd292cda3fa249c32045319558d3a19b5007af39f1e1e622abd943",
+  "catalogue_sha256": "6eede68ff5cd292cda3fa249c32045319558d3a19b5007af39f1e1e622abd943",
+  "fetched": "2026-11-03T03:33:58Z",
+  "chars": 29844,
+  "portal_id": "178198",
+  "tip": "DECIZIE"
+ }
+}
