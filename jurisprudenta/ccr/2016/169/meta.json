@@ -1,0 +1,199 @@
+{
+ "key": "dcc-169-2016",
+ "label": "Decizia CCR nr. 169/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "169",
+ "date": "2016-03-24",
+ "year": "2016",
+ "heading": "DECIZIE nr. 169 din 24 martie 2016",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "353",
+  "bis": false,
+  "date": "2016-05-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": false,
+ "dossiers": [
+  "543/33/2015",
+  "1.008D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite excepţia de neconstituţionalitate ridicată de Alina Corina Bucur în Dosarul nr. 543/33/2015 al Curţii de Apel Cluj - Secţia I civilă şi constată că dispoziţiile art. 142 alin. (1) teza întâi şi ale art. 145 alin. (1) teza întâi din Codul de procedură civilă sunt constituţionale în măsura în care motivul de bănuială legitimă nu se raportează la calitatea de parte a curţii de apel în raza căreia funcţionează instanţa învestită cu judecarea litigiului.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului şi Curţii de Apel Cluj - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178270",
+  "text_sha256": "af3fbc1ab177dccec3184811b7be09389a7edf68d8e857c9db210d0f68bf995e",
+  "catalogue_sha256": "af3fbc1ab177dccec3184811b7be09389a7edf68d8e857c9db210d0f68bf995e",
+  "fetched": "2026-11-06T02:12:25Z",
+  "chars": 16167,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178270",
+   "timestamp": "20260207042633",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395505692.68/warc/CC-MAIN-20260207032847-20260207062847-00731.warc.gz",
+   "offset": "287246350",
+   "length": "16268",
+   "sha256": "a082251590f734d9b939550fe99e49b46a82e01c947e646fa2b9ca1cfafa283b"
+  },
+  "portal_id": "178270",
+  "tip": "DECIZIE"
+ }
+}
