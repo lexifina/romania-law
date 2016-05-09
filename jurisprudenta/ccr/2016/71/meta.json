@@ -1,0 +1,223 @@
+{
+ "key": "dcc-71-2016",
+ "label": "Decizia CCR nr. 71/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "71",
+ "date": "2016-02-18",
+ "year": "2016",
+ "heading": "DECIZIE nr. 71 din 18 februarie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 34 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 80/2013 privind taxele judiciare de timbru",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "354",
+  "bis": false,
+  "date": "2016-05-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.305D/2015",
+  "1.410D/2015",
+  "10.589/233/2015/a1",
+  "86.041/299/2015",
+  "80.200/299/2015",
+  "90.076/299/2015",
+  "101.024/299/2015",
+  "86.013/299/2015",
+  "105.150/299/2015",
+  "105.116/299/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 34 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 80/2013 privind taxele judiciare de timbru, excepţie ridicată de Enel Energie Muntenia - S.A., cu sediul în Bucureşti, în dosarele nr. 86.041/299/2015, nr. 80.200/299/2015, nr. 86.013/299/2015, nr. 101.024/299/2015, nr. 105.150/299/2015, nr. 105.116/299/2015 şi nr. 90.076/299/2015 ale Judecătoriei Sectorului 1 Bucureşti; în dosarele nr. 42.579/300/2015/a1, nr. 24.581/300/2015/a1, nr. 48.778/300/2015/a1, nr. 52.423/300/2015/a1, nr. 52.426/300/2015/a1, nr. 52.430/300/2015/a1 şi nr. 52.427/300/2015/a1 ale Judecătoriei Sectorului 2 Bucureşti - Secţia civilă; în dosarele nr. 26.146/301/2015/a1, nr. 26.247/301/2015/a1, nr. 21.912/301/2015/a1, nr. 22.509/301/2015/a1, nr. 21.922/301/2015/a1, nr. 21.915/301/2015/a1, nr. 24.549/301/2015/a1, nr. 21.000/301/2015/a1, nr. 23.069/301/2015/a1, nr. 21.907/301/2015/a1, nr. 26.321/301/2015/a1, nr. 21.916/301/2015/a1, nr. 26.019/301/2015/a1, nr. 21.909/301/2015/a1, nr. 21.899/301/2015/a1, nr. 21.905/301/2015/a1, nr. 23.070/301/2015/a1, nr. 24.150/301/2015/a1, nr. 22.497/301/2015/a1, nr. 30.197/301/2015/a1, nr. 23.071/301/2015/a1, nr. 30.531/301/2015/a1, nr. 26.325/301/2015/a1, nr. 31.705/301/2015/a1, nr. 33.552/301/2015/a1, nr. 36.093/301/2015/a1, nr. 26.166/301/2015/a1, nr. 22.645/301/2015/a1, nr. 27.915/301/2015/a1, nr. 27.931/301/2015/a1, nr. 21.902/301/2015/a1 şi nr. 21.917/301/2015/a1 ale Judecătoriei Sectorului 3 Bucureşti - Secţia civilă; în dosarele nr. 30.079/4/2015/a1, nr. 23.888/4/2015/a1 şi nr. 27.204/4/2015/a1 ale Judecătoriei Sectorului 4 Bucureşti; în dosarele nr. 11.093/302/2015/a1, nr. 11.109/302/2015/a1, nr. 13.988/302/2015/a1, nr. 12.909/302/2015/a1, nr. 13.311/302/2015/a1, nr. 13.987/302/2015/a1, nr. 12.902/302/2015/a1, nr. 14.822/302/2015/a1, nr. 14.823/302/2015/a1, nr. 13.981/302/2015/a1, nr. 11.294/302/2015/a1, nr. 14.824/302/2015/a1, nr. 17.370/302/2015/a1, nr. 23.042/302/2015/a1, nr. 25.683/302/2015/a1, nr. 13.986/302/2015/a1 şi nr. 14.820/302/2015/a1 ale Judecătoriei Sectorului 5 Bucureşti - Secţia a II-a civilă; în dosarele nr. 18.142/303/2015/a1, nr. 18.139/303/2015/a1, nr. 10.266/303/2015/a1 şi nr. 18.752/303/2015/a1 ale Judecătoriei Sectorului 6 Bucureşti - Secţia civilă; şi în Dosarele nr. 4.242/1.748/2015/a1, nr. 5.596/1.748/2015/a1 şi nr. 6.667/1.748/2015/a1 ale Judecătoriei Cornetu, precum şi de către de Orange România - S.A., cu sediul în Bucureşti, în Dosarul nr. 10.589/233/2015/a1 al Judecătoriei Galaţi - Secţia civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 Bucureşti, Judecătoriei Sectorului 2 Bucureşti - Secţia civilă, Judecătoriei Sectorului 3 Bucureşti - Secţia civilă, Judecătoriei Sectorului 4 Bucureşti, Judecătoriei Sectorului 5 Bucureşti - Secţia a II-a civilă, Judecătoriei Sectorului 6 Bucureşti - Secţia civilă, Judecătoriei Cornetu şi Judecătoriei Galaţi - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178259",
+  "text_sha256": "34cc6924072724b5e1feef20ab1d7b64fd25851cb7bdba6677848b70558f8ab4",
+  "catalogue_sha256": "34cc6924072724b5e1feef20ab1d7b64fd25851cb7bdba6677848b70558f8ab4",
+  "fetched": "2026-11-03T03:33:53Z",
+  "chars": 31602,
+  "portal_id": "178259",
+  "tip": "DECIZIE"
+ }
+}
