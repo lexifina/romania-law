@@ -1,0 +1,135 @@
+# Anexa nr. 15
+Anexa nr. 15 ● Directiva 2003/49/CE a Consiliului din 3 iunie 2003 privind sistemul comun de impozitare aplicabil plăților de dobânzi și redevențe efectuate între societăți asociate din state membre diferite, cu amendamentele ulterioare, implementată în cap. V al titlului VI din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare ● Acord între Comunitatea Europeană și Confederația Elvețiană de stabilire a unor măsuri echivalente cu cele prevăzute de Directiva 2003/48/CE a Consiliului din 3 iunie 2003 privind impozitarea veniturilor din economii sub forma plăților de dobânzi (prevederile art. 15 referitoare la sistemul comun de impozitare aplicabil plăților de dobânzi și redevențe efectuate între societăți asociate din state membre diferite)
+DECLARAȚIE pentru exceptarea de la impunere în România a plăților de dobânzi și redevențe efectuate de o societate rezidentă sau de un sediu permanent situat în România către o societate asociată rezidentă în alt stat membru al Uniunii Europene sau către un sediu permanent situat în alt stat membru al Uniunii Europene
+I.
+Beneficiarul efectiv al dobânzilor și/sau redevențelor În secțiunea A se înscriu datele de identificare ale persoanei juridice străine; sau
+În secțiunea B se înscriu datele de identificare ale sediului permanent, incluzând în secțiunea A datele de identificare ale persoanei juridice străine care are sediul permanent.
+A.
+Denumirea persoanei juridice străine:.............................. Cod de înregistrare fiscală (emis de autoritatea fiscală din statul de rezidență al beneficiarului efectiv):.........................................................................
+Adresa completă a persoanei juridice străine:.........................................................................
+Reprezentant/Împuternicit:.............................................
+Cod de identificare fiscală:...........................................
+B.
+Cod de înregistrare fiscală (emis de autoritatea fiscală din statul în care sediul permanent își desfășoară activitatea):.........................................................................
+Adresa completă a sediului permanent:.........................................................................
+Reprezentant/Împuternicit:.............................................
+Cod de identificare fiscală:...........................................
+II.
+Plătitorul dobânzilor și/sau al redevențelor În secțiunea C se înscriu datele de identificare ale persoanei juridice plătitoare; sau
+În secțiunea D se înscriu datele de identificare ale sediului permanent, incluzând în secțiunea C datele de identificare ale persoanei juridice străine care are sediul permanent.
+C.
+Denumirea persoanei juridice [] române [] străine:.................. Cod de înregistrare fiscală (pentru persoanele juridice străine se înscrie codul de înregistrare fiscală emis de autoritatea fiscală din statul său de rezidență):.........................................
+Adresa completă a persoanei juridice române/străine:....................
+D.
+Cod de înregistrare fiscală (emis de autoritatea fiscală din România):......... Adresa completă a sediului permanent:...........................
+DECLARAȚIA BENEFICIARULUI EFECTIV - POTRIVIT SECȚIUNII A
+Persoana juridică străină declară că: - are următorul statut/îmbracă una dintre formele enumerate în lista prevăzută în directivă/acord...............;
+- este rezidentă în scopul impunerii în statul membru al Uniunii Europene........... și nu este considerată, în înțelesul unei convenții/unui acord de evitare a dublei impuneri încheiate/încheiat cu un stat terț, ca fiind rezidentă în scopul impozitării în afara Uniunii Europene;
+- este supusă impozitului pe....................., fără posibilitatea unei opțiuni sau exceptări;
+- bifați căsuța/căsuțele corespunzătoare și completați: [] are o participare minimă directă de.......% în capitalul persoanei juridice indicate în secțiunea C pe o perioadă neîntreruptă de cel puțin 2 ani, începând cu..........................; [] persoana juridică indicată în secțiunea C are o participare minimă directă de.......% în capitalul beneficiarului efectiv pe o perioadă neîntreruptă de cel puțin 2 ani, începând cu........................; [] persoana juridică terță,
+Denumire:..........................................................., cod de înregistrare fiscală (emis de autoritatea fiscală din statul său de rezidență):..............., adresa completă:......................., are o participare minimă directă de.......% în capitalul beneficiarului efectiv, începând cu.........., și.......% în capitalul persoanei juridice indicate în secțiunea C, începând cu..........., pe o perioadă neîntreruptă de cel puțin 2 ani.
+Totodată, persoana juridică terță: - are următorul statut/îmbracă una dintre formele enumerate în lista prevăzută în directivă/acord..................,
+- este rezidentă în scopul impunerii în statul membru al Uniunii Europene.........................,
+și nu este considerată, în înțelesul unei convenții/unui acord de evitare a dublei impuneri încheiate/încheiat cu un stat terț, ca fiind rezidentă în scopul impozitării în afara Uniunii Europene; - este supusă impozitului pe......................, fără posibilitatea unei opțiuni sau exceptări;
+- este beneficiarul efectiv al dobânzilor și/sau redevențelor;
+- dobânzile și/sau redevențele sunt supuse impozitului pe......................;
+- suma anuală a dobânzilor și/sau a redevențelor stabilită în contractul/contractele nr............, încheiat(e) la data de.........., pentru care se solicită scutirea de impozit:
+................. (dobânzi)................. (redevențe)
+Beneficiarul efectiv declară prin prezenta declarație că informațiile sunt adevărate și că va aduce la cunoștința agentului plătitor care face reținerea la sursă orice schimbare apărută.
+Semnătura solicitantului/reprezentantului/împuternicitului..................................
+Data:..........................
+DECLARAȚIA BENEFICIARULUI EFECTIV - POTRIVIT SECȚIUNII B
+Sediul permanent declară că: - este situat pe teritoriul statului........................;
+- este supus impozitului pe..................., fără posibilitatea unei opțiuni sau exceptări;
+- persoana juridică străină pentru care sediul permanent își desfășoară activitatea are următorul statut/îmbracă una dintre formele enumerate în lista prevăzută în directivă/acord.............................;
+- persoana juridică străină pentru care sediul permanent își desfășoară activitatea are domiciliul fiscal în........ și nu este considerată, în înțelesul unei convenții/unui acord de evitare a dublei impuneri încheiate/încheiat cu un stat terț, ca fiind rezidentă în scopul impozitării în afara Uniunii Europene;
+- persoana juridică străină pentru care sediul permanent își desfășoară activitatea este supusă impozitului pe..............., fără posibilitatea unei opțiuni sau exceptări;
+- bifați căsuța/căsuțele corespunzătoare și completați: [] persoana juridică străină pentru care sediul permanent își desfășoară activitatea, indicată în secțiunea A, are o participare minimă directă de......% în capitalul persoanei juridice indicate în secțiunea C, pe o perioadă neîntreruptă de cel puțin 2 ani, începând cu...............; [] persoana juridică indicată în secțiunea C are o participare minimă directă de.........% în capitalul persoanei juridice indicate în secțiunea A, pe o perioadă neîntreruptă de cel puțin 2 ani, începând cu.................; [] persoana juridică terță,
+Denumire:...................., cod de înregistrare fiscală (emis de autoritatea fiscală din statul său de rezidență):................, adresa completă:................., are o participare minimă directă de........% în capitalul persoanei juridice indicate în secțiunea A, începând cu...................., și.......% în capitalul persoanei juridice indicate în secțiunea C, începând cu............., pe o perioadă neîntreruptă de cel puțin 2 ani.
+Totodată, persoana juridică terță: - are următorul statut/îmbracă una dintre formele enumerate în lista prevăzută în directivă/acord................;
+- este rezidentă în scopul impunerii în statul membru al Uniunii Europene..................
+și nu este considerată, în înțelesul unei convenții/unui acord de evitare a dublei impuneri încheiate/încheiat cu un stat terț, ca fiind rezidentă în scopul impozitării în afara Uniunii Europene; - este supusă impozitului pe......................, fără posibilitatea unei opțiuni sau exceptări;
+- este beneficiarul efectiv al dobânzilor și/sau redevențelor, dacă creanța sau dreptul de utilizare a informației, în privința căreia plățile de dobânzi și/sau redevențe iau naștere, este legată/legat de sediul permanent;
+- plățile de dobânzi și/sau redevențe reprezintă venituri cu privire la care sediul permanent este supus unui impozit pe..............;
+- suma anuală a dobânzilor și/sau redevențelor stabilită în contractul/contractele nr......... încheiat(e) la data de................, pentru care se solicită scutirea de impozit:
+............... (dobânzi)................. (redevențe)
+Beneficiarul efectiv declară prin prezenta declarație că informațiile sunt adevărate și că va aduce la cunoștința agentului plătitor care face reținerea la sursă orice schimbare apărută.
+Semnătura solicitantului/reprezentantului/împuternicitului....................................
+Data:..................
+PRECIZĂRI
+Declarația este completată pentru a se obține exceptarea de la impozitare a plăților de dobânzi și redevențe ce provin din România, cu condiția ca beneficiarul efectiv al dobânzilor sau redevențelor să fie o societate rezidentă în alt stat membru al Uniunii Europene sau un sediu permanent al unei întreprinderi dintr-un stat membru al Uniunii Europene situat în alt stat membru al Uniunii Europene, în conformitate cu Directiva 2003/49/CE a Consiliului din 3 iunie 2003 privind sistemul comun de impozitare aplicabil plăților de dobânzi și redevențe efectuate între societăți asociate din state membre diferite, cu amendamentele ulterioare, implementată în România în cap. V al titlului VI din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, precum și în conformitate cu Acordul dintre Comunitatea Europeană și Confederația Elvețiană de stabilire a unor măsuri echivalente cu cele prevăzute de Directiva 2003/48/CE a Consiliului din 3 iunie 2003 privind impozitarea veniturilor din economii sub forma plăților de dobânzi (prevederile art. 15 referitoare la sistemul comun de impozitare aplicabil plăților de dobânzi și redevențe efectuate între societăți asociate din state membre diferite).
+Potrivit directivei mai sus menționate sunt scutite de impozit cu reținere la sursă plățile transfrontaliere de dobânzi și redevențe efectuate între întreprinderi asociate stabilite în state membre ale Uniunii Europene, dacă beneficiarul efectiv al dobânzilor sau redevențelor deține minimum 25% din valoarea/numărul titlurilor de participare la persoana juridică română, pe o perioadă neîntreruptă de cel puțin 2 ani, care se încheie la data plății dobânzilor sau redevențelor.
+În cazul în care plătitorul dobânzilor sau redevențelor ori beneficiarul efectiv al dobânzilor sau redevențelor este un sediu permanent, condițiile prevăzute în declarație, referitoare la deținerea de minimum 25% din valoarea/numărul titlurilor de participare la persoana juridică română și la obligația de plată a impozitului fără posibilitatea unei opțiuni sau exceptări, se referă la societatea căreia îi aparține sediul permanent din România. Sediul permanent trebuie să fie tratat ca beneficiar efectiv al dobânzilor sau redevențelor dacă plățile de dobânzi ori redevențe reprezintă venituri cu privire la care sediul permanent este supus, în statul membru în care este situat, unuia dintre impozitele menționate în directivă/acord sau, în cazul Belgiei, "impozitului nerezidenților/belasting der niet-verblijfhouders" ori, în cazul Spaniei, "impozitului asupra venitului nerezidenților/impuesto sobre la renta de no residentes" sau unui impozit care este identic ori în mod substanțial similar și care este aplicat după data de 1 ianuarie 2011, în plus sau în locul impozitelor existente.
+Declarația va fi întocmită în 2 (două) exemplare și va fi însoțită de certificatul de rezidență fiscală emis de autoritatea fiscală din statul de rezidență al beneficiarului efectiv al dobânzilor sau redevențelor. În cazul în care beneficiarul efectiv al dobânzilor sau redevențelor este un sediu permanent, autoritatea fiscală din statul membru în care sediul permanent este situat va certifica faptul că este înregistrat ca plătitor de impozite și taxe și că desfășoară activitate în acel stat. Totodată, se va prezenta certificatul de rezidență fiscală al persoanei juridice străine pentru care sediul permanent își desfășoară activitatea.
+Un exemplar al declarației se va păstra la beneficiarul efectiv al dobânzilor sau redevențelor, iar celălalt exemplar se va depune la plătitorul dobânzilor sau redevențelor pentru acordarea scutirii.
+Declarația este valabilă pentru anul pentru care este emis certificatul de rezidență fiscală.
+În situația în care beneficiarul efectiv va primi atât dobânzi, cât și redevențe de la același plătitor, acesta va prezenta o singură declarație pentru acordarea scutirii.
+ANNEX 15 ● Council Directive 2003/49/EC of 3 June 2003 on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States, as amended, implemented in Chapter V of Title VI of Law no 227/2015 regarding the Fiscal Code, as amended ● Agreement between the European Community and the Swiss Confederation providing for measures equivalent to those laid down in Council Directive 2003/48/EC of 3 June 2003 on taxation of savings income in the form of interest payments (provisions of article 15 regarding the common system of taxation applicable to interest and royalty payments made between associated companies of different Member States)
+STATEMENT for tax exemption in România of interest and royalty payments made by a resident company or a permanent establishment located in România to an associated company resident in another European Union Member State or to a permanent establishment located in another European Union Member State
+I.
+Beneficial owner of the interest and/or royalties In section A, the identification data of the foreign legal person shall be filled in; or
+In section B, the identification data of the permanent establishment shall be filled in, including in section A the identification data of the foreign legal person to which the permanent establishment belongs.
+A Name of the foreign legal person:......................................
+Tax registration code (given by the tax authority of the state where the beneficial owner is resident):..............
+Full address of the foreign legal person:..............................
+The representative/commissioner:.......................................
+Tax identification code:...............................................
+B Tax registration code (given by the tax authority of the state where the activity of the permanent establishment is carried on):...............................................
+Full address of the permanent establishment:............................
+The representative/commissioner:........................................
+Tax identification code:................................................
+II.
+Payer of the interest and/or royalties In section C, the identification data of the paying legal person shall be filled in; or In section D, the identification data of the permanent establishment shall be filled in, including in section C the identification data of the foreign legal person to which the permanent establishment belongs.
+C Name of the legal person: Romanian [] foreign [].....................
+Tax registration code: (for foreign legal persons, the tax registration code given by the tax authority of the state where it is resident shall be filled in)...........................
+Full address of the Romanian/foreign legal person:.......................
+D Tax registration code (given by the Romanian tax authority):...........
+Full address of the permanent establishment:.............................
+STATEMENT OF THE BENEFICIAL OWNER - UNDER SECTION A
+The foreign legal person states that: - it has the following legal status/takes one of the forms listed in the Directive/Agreement........;
+- it is resident for tax purposes in the European Union Member State...... and it is not considered resident for tax purposes outside the European Union Member State, according to a Convention/Agreement for the avoidance of double taxation concluded with a third state;
+- it is liable to the......... tax, without the possibility of an option or exemption;
+- tick and fill in the appropriate box/boxes: [] It has a direct minimum holding of........% in the capital of the legal person indicated in section C for an uninterrupted period of at least 2 years, starting with...................................; [] The legal person indicated in section C has a direct minimum holding of..........% in the capital of the beneficial owner for an uninterrupted period of at least 2 years, starting with..............; [] The third legal person
+Name:...........................,
+Tax registration code (given by the tax authority of the state where it is resident):...........,
+Full address:......................,
+Has a direct minimum holding of..........% in the capital of the beneficial owner, starting with........ and..........% in the capital of the legal person indicated in section C, starting with.........., for an uninterrupted period of at least 2 years.
+Furthermore, the third legal person: - has the following legal status/takes one of the forms listed in the Directive/Agreement...............;
+- is resident for tax purposes in the European Union Member State...................... and it is not considered resident for tax purposes outside the European Union, according to a Convention/Agreement for the avoidance of double taxation concluded with a third state;
+- is liable to the.......... tax, without the possibility of an option or exemption;
+- it is the beneficial owner of the interest and/or royalties;
+- the interest and/or royalties are subject to the.................. tax;
+- the annual amount of the interest and/or royalties set out in the contract(s) no........, concluded on..........., for which the tax exemption is requested:
+................. (interest)................ (royalties)
+The beneficial owner hereby states that the provided information is true and undertakes to notify the withholding paying agent of any changes that have occurred in it.
+Signature of the applicant/representative/commissioner.......................................................
+Date:.....................
+STATEMENT OF THE BENEFICIAL OWNER - UNDER SECTION B
+The permanent establishment states that: - it is located on the territory of.............;
+- it is liable to the........... tax, without the possibility of an option or exemption;
+- the foreign legal person for which the permanent establishment carries on an activity has the following legal status/takes one of the forms listed in the Directive/Agreement..................;
+- the foreign legal person for which the permanent establishment carries on an activity has its fiscal domicile in................ and it is not considered resident for tax purposes outside the European Union, according to a Convention/Agreement for the avoidance of double taxation concluded with a third state;
+- the foreign legal person for which the permanent establishment carries on an activity is liable to the.............. tax, without the possibility of an option or exemption;
+- tick and fill in the appropriate box/boxes: [] The foreign legal person for which the permanent establishment carries on an activity, indicated in section A, has a direct minimum holding of..........% in the capital of the legal person indicated in section C for an uninterrupted period of at least 2 years, starting with.........................; [] The legal person indicated in section C has a direct minimum holding of........% in the capital of the legal person indicated in section A for an uninterrupted period of at least 2 years, starting with..........; [] The third legal person
+Name:................................................,
+Tax registration code (given by the tax authority of the state where it is resident):..............,
+Full address:........................................,
+Has a direct minimum holding of........% in the capital of the legal person indicated in section A, starting with......................... and.....% in the capital of the legal person indicated in section C, starting with........................, for an uninterrupted period of at least 2 years.
+Furthermore, the third legal person: - has the following legal status/takes one of the forms listed in the Directive/Agreement.............;
+- is resident for tax purposes in the European Union Member State........... and it is not considered resident for tax purposes outside the European Union, according to a Convention/Agreement for the avoidance of double taxation concluded with a third state;
+- is liable to the................. tax, without the possibility of an option or exemption;
+- it is the beneficial owner of the interest and/or royalties, if the debt-claim or the right to use the information in respect of which the interest and/or royalty payments arise are effectively connected with the permanent establishment;
+- the interest and/or royalty payments represent income in respect of which the permanent establishment is liable to the............................ tax;
+- the annual amount of the interest and/or royalties set out in the contract(s) no.........., concluded on........, for which the tax exemption is requested:
+................. (interest)............. (royalties)
+The beneficial owner hereby states that the provided information is true and undertakes to notify the withholding paying agent of any changes that have occurred in it.
+Signature of the applicant/representative/commissioner......................................................
+Date:..................
+EXPLANATIONS
+The statement shall be used in order to obtain the tax exemption of the interest and royalty payments made from România, provided that the beneficial owner of the interest or royalties is a company resident in another European Union Member State or a permanent establishment of a company from an European Union Member State located in another European Union Member State, according to the Council Directive 2003/49/EC of 3 June 2003 on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States, as amended, implemented in România in Chapter V of Title VI of Law no 227/2015 regarding the Fiscal Code, as amended, as well as according to the Agreement between the European Community and the Swiss Confederation providing for measures equivalent to those laid down in Council Directive 2003/48/EC of 3 June 2003 on taxation of savings income in the form of interest payments (provisions of article 15 regarding the common system of taxation applicable to interest and royalty payments made between associated companies of different Member States).
+According to the above mentioned directive, crossborder payments of interest and royalties made between associated companies established in European Union Member States shall be exempt from withholding tax, provided that the beneficial owner of the interest or royalties holds at least 25% of the value/number of shares in the Romanian legal person for an uninterrupted period of at least 2 years, which ends on the date of the payment of the interest or royalties.
+When the payer of the interest or royalties or the beneficial owner of the interest or royalties is a permanent establishment, the conditions provided in the statement regarding the holding of at least 25% of the value/number of shares in the Romanian legal person and the liability to pay the tax, without the possibility of an option or exception, would refer to the company to which the permanent establishment located in România belongs. The permanent establishment shall be treated as the beneficial owner of the interest or royalties if the interest or royalty payments represent income in respect of which the permanent establishment is liable in the member state in which it is located to one of the taxes mentioned in the Directive/Agreement or, in the case of Belgium, to the "non-residents tax/belasting der niet-verblijfhouders" or, in the case of Spain, to the "tax on the income of non-residents/impuesto sobre la renta de no residentes" or to a tax which is identical or substantially similar and which is applied after 1 January 2011, in addition or in place of the existing taxes.
+The statement shall be filled in in duplicate and shall be accompanied by the certificate of tax residence issued by the tax authority of the state where the beneficial owner of the interest or royalties is resident. When the beneficial owner of the interest or royalties is a permanent establishment, the tax authority of the member state in which the permanent establishment is located will certify that it is registered as a taxpayer and that is carrying on an activity in that state. At the same time, a certificate of tax residence of the foreign legal person for which the permanent establishment carries on an activity will be submitted.
+One copy of the statement is kept by the beneficial owner of the interest or royalties, while the other is handed in to the payer of the interest or royalties in order for the exemption to be granted.
+The statement is valid for the year for which the certificate of tax residence was issued.
+When the beneficial owner derives both interest and royalties from the same payer, it shall submit only one statement in order for the exemption to be granted.
