@@ -1,0 +1,42 @@
+{
+ "key": "cjue-t-529-13-hotarare-2016-05-10",
+ "label": "CJUE, Hotărârea Tribunalului (Camera întâi) din 10 mai 2016, Cauza T-529/13",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2016-05-10",
+ "year": "2016",
+ "case": "Cauza T-529/13",
+ "celex": "62013TJ0529",
+ "ecli": "ECLI:EU:T:2016:282",
+ "heading": "Hotărârea Tribunalului (Camera întâi) din 10 mai 2016",
+ "formation": "CHAMB_01_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Drept instituțional – Inițiativă cetățenească europeană – Politică de coeziune – Regiuni cu minoritate națională – Refuz de înregistrare – Lipsă vădită de competență a Comisiei – Articolul 4 alineatul (2) litera (b) și alineatul (3) din Regulamentul (UE) nr. 211/2011",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62013TJ0529",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-529/13&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/3ade8d4c-9644-4835-a9f2-8ea5b2b8ef26.0021.03/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "3de6035083195eaa8e4d0394d6c6323a89665ecf8342b36e72b3d82dbaa4948d"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
