@@ -1,0 +1,9 @@
+# Anexa nr. 2
+ÎNȘTIINȚARE DE PLATĂ
+Seria................ nr...................
+Prin prezenta vă aducem la cunoștință că, în termen de 15 zile de la data înmânării sau comunicării Procesului-verbal de constatare a contravențiilor și aplicare a sancțiunilor contravenționale seria............... nr................, încheiat în ziua......... luna......... anul.........., la....................., sunteți obligat la plata unei amenzi contravenționale în cuantum de.........................
+Plata se va efectua în contul nr................................, deschis la................................, urmând ca, în termenul de 15 zile precizat mai sus, să procedați la predarea sau comunicarea prin poștă, recomandat, a unei copii a chitanței de plată sau a unui alt document doveditor al efectuării plății la sediul Regiei Autonome "Autoritatea Aeronautică Civilă Română".
+În conformitate cu art. 28 alin. (1) și art. 29 din Ordonanța Guvernului nr. 2/2001, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, contravenientul poate achita contravaloarea a jumătate din minimul amenzilor prevăzute în actele normative, aplicate astăzi, ziua............ luna........ anul........, cumulate, în termen de cel mult 48 de ore de la data încheierii/comunicării procesului-verbal și a înștiințării de plată, respectiv suma de................... lei (adică..............).
+În situația neachitării amenzii contravenționale în termen de 15 zile de la data înmânării sau comunicării procesului-verbal de constatare a contravențiilor și aplicare a sancțiunilor contravenționale se va proceda la executarea silită, în condițiile legii.
+Agent/Agenți constatator/constatatori,............................................................................................................... (semnături)
+Contravenient,..................................................................... (semnătura)
