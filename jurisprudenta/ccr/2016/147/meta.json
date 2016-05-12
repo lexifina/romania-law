@@ -1,0 +1,215 @@
+{
+ "key": "dcc-147-2016",
+ "label": "Decizia CCR nr. 147/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "147",
+ "date": "2016-03-17",
+ "year": "2016",
+ "heading": "DECIZIE nr. 147 din 17 martie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan şi de modificare a Legii nr. 268/2001 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Agenţiei Domeniilor Statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "368",
+  "bis": false,
+  "date": "2016-05-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "852/202/2015",
+  "1.061D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 5 din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan şi de modificare a Legii nr. 268/2001 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Agenţiei Domeniilor Statului, excepţie ridicată de Gabriel Constantin Botea în Dosarul nr. 852/202/2015 al Judecătoriei Călăraşi.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Călăraşi şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-05-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178402",
+  "text_sha256": "3e38c4c8c4c95565425f27dbbcbf482f7828163766118f4bee29bc01bbde05ce",
+  "catalogue_sha256": "3e38c4c8c4c95565425f27dbbcbf482f7828163766118f4bee29bc01bbde05ce",
+  "fetched": "2026-11-03T03:33:44Z",
+  "chars": 15713,
+  "portal_id": "178402",
+  "tip": "DECIZIE"
+ }
+}
