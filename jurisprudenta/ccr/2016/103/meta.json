@@ -1,0 +1,336 @@
+{
+ "key": "dcc-103-2016",
+ "label": "Decizia CCR nr. 103/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "103",
+ "date": "2016-02-25",
+ "year": "2016",
+ "heading": "DECIZIE nr. 103 din 25 februarie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 980-996 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "364",
+  "bis": false,
+  "date": "2016-05-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "11.640/325/2015",
+  "1.131D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "980",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "981",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "982",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "983",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "984",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "985",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "986",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "987",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "988",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "989",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "990",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "991",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "992",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "993",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "994",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "995",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "996",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 980-996 din Codul de procedură civilă, excepţie ridicată de Emilia Băleanu în Dosarul nr. 11.640/325/2015 al Judecătoriei Timişoara - Secţia a II-a civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Timişoara - Secţia a II-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "980",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "981",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "982",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "983",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "984",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "985",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "986",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "987",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "988",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "989",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "990",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "991",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "992",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "993",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "994",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "995",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "996",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-05-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178358",
+  "text_sha256": "811fe59ac9dd8ee6a3b7db8ecc2311f14e85c31d84975cdd969bb016f745d7ad",
+  "catalogue_sha256": "811fe59ac9dd8ee6a3b7db8ecc2311f14e85c31d84975cdd969bb016f745d7ad",
+  "fetched": "2026-11-03T03:33:44Z",
+  "chars": 12076,
+  "portal_id": "178358",
+  "tip": "DECIZIE"
+ }
+}
