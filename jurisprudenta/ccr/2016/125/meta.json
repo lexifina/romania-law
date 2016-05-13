@@ -1,0 +1,311 @@
+{
+ "key": "dcc-125-2016",
+ "label": "Decizia CCR nr. 125/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "125",
+ "date": "2016-03-03",
+ "year": "2016",
+ "heading": "DECIZIE nr. 125 din 3 martie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 45 alin. (3) fraza întâi din Legea concurenţei nr. 21/1996, republicată, \"în măsura în care prin aceste prevederi legale se interzice accesul întreprinderii reclamante la înscrisuri care au fost depuse la dosarul instanţei de judecată de către Consiliul Concurenţei pentru ca acestea să fie examinate exclusiv de către completul de judecată, în cadrul soluţionării unei acţiuni în contencios administrativ introduse împotriva deciziei Consiliului Concurenţei de sancţionare a întreprinderii reclamante\"",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "370",
+  "bis": false,
+  "date": "2016-05-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.688/2/2012",
+  "963D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenţei nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 45 alin. (3) fraza întâi din Legea concurenţei nr. 21/1996, republicată, \"în măsura în care prin aceste prevederi legale se interzice accesul întreprinderii reclamante la înscrisuri care au fost depuse la dosarul instanţei de judecată de către Consiliul Concurenţei pentru ca acestea să fie examinate exclusiv de către completul de judecată, în cadrul soluţionării unei acţiuni în contencios administrativ introduse împotriva deciziei Consiliului Concurenţei de sancţionare a întreprinderii reclamante\", excepţie ridicată de \"Mol România Petroleum Products\" - S.R.L. din Cluj-Napoca în Dosarul nr. 1.688/2/2012 al Înaltei Curţi de Casaţie şi Justiţie - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Înaltei Curţi de Casaţie şi Justiţie - Secţia contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenţei nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "222",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Consiliului Concurenţei nr. 421/2011",
+    "number": "421",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-05-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178429",
+  "text_sha256": "3f137048bb2a0f67af7850a01763dd74ea5e34583de512ff587fcc1c2a5fe6d1",
+  "catalogue_sha256": "3f137048bb2a0f67af7850a01763dd74ea5e34583de512ff587fcc1c2a5fe6d1",
+  "fetched": "2026-11-03T03:33:42Z",
+  "chars": 33753,
+  "portal_id": "178429",
+  "tip": "DECIZIE"
+ }
+}
