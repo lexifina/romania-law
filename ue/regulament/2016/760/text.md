@@ -1,0 +1,64 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2016/760 AL COMISIEI
+din 13 mai 2016
+privind măsurile excepționale de sprijin pentru sectorul ouălor și cărnii de pasăre în Italia
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de instituire a unei organizări comune a piețelor produselor agricole și de abrogare a Regulamentelor (CEE) nr. 922/72, (CEE) nr. 234/79, (CE) nr. 1037/2001 și (CE) nr. 1234/2007 ale Consiliului (1), în special articolul 220 alineatul (1) litera (a),
+întrucât:
+(1) În data de 15 decembrie 2014, Italia a confirmat și notificat prezența gripei aviare înalt patogene de subtipul H5N8. Apariția unui focar al acestei boli a fost confirmată într-o exploatație comercială de curcani masculi pentru îngrășare localizată în municipalitatea Porto Viro, provincia Rovigo, regiunea Veneto din Italia.
+(2) Italia a luat imediat și în mod eficient toate măsurile veterinare și de sănătate animală necesare care se impun în conformitate cu Directiva 2005/94/CE a Consiliului (2).
+(3) În special, autoritățile italiene au luat măsurile preventive, de control și de monitorizare și au stabilit zone de protecție și de supraveghere în conformitate cu Decizia de punere în aplicare 2014/936/UE a Comisiei (3). Procedând astfel, acestea au fost în măsură să elimine rapid amenințarea. La nivelul Uniunii și la nivel național, până la 16 februarie 2015, s-au aplicat măsuri veterinare și de sănătate animală în toate exploatațiile, cu excepția exploatației de curcani masculi pentru îngrășare, în care măsurile au fost aplicate până la 25 februarie 2015.
+(4) La 23 iunie 2015, autoritățile italiene au informat Comisia că măsurile veterinare și de sănătate animală necesare care fuseseră aplicate pentru limitarea și eradicarea răspândirii virusului au afectat anumiți operatori și că respectivii operatori au suferit pierderi de venituri care nu sunt eligibile pentru (a beneficia de) contribuția financiară a Uniunii în conformitate cu Regulamentul (UE) nr. 652/2014 al Parlamentului European și al Consiliului (4).
+(5) La 23 iunie 2015, Comisia a primit o cerere oficială de la autoritățile italiene pentru cofinanțarea anumitor măsuri excepționale de sprijin în conformitate cu articolul 220 alineatul (3) din Regulamentul (UE) nr. 1308/2013. Autoritățile italiene au adus clarificări cu privire la cerere la 11 și 27 ianuarie 2016.
+(6) Ca urmare a măsurilor veterinare și de sănătate animală aplicate, introducerea de păsări în exploatațiile de îngrășare de claponi, pui Golden, pui standard și curcani situate în zonele de protecție și de supraveghere a fost întârziată și o exploatație de curci de reproducție situată în aceste zone nu a putut produce ouă pentru incubație. Aceasta a dus la o pierdere a producției de carne de claponi, pui Golden, pui standard și curcani pentru îngrășare și la o pierdere a producției de ouă pentru incubație provenite de la curci de reproducție în perioada în care măsurile veterinare și de sănătate animală erau în vigoare. Este necesar, prin urmare, să se compenseze aceste pierderi.
+(7) Ca urmare a măsurilor veterinare și de sănătate animală aplicate, puii care proveneau din mai multe exploatații situate în zona de protecție au fost sacrificați imediat și carnea obținută de la acești pui a fost fie tratată termic, în conformitate cu articolul 23 din Directiva 2005/94/CE, fie congelată în scopul de a facilita vânzarea treptată a cărnii de pasăre congelate în zona de protecție. Pierderile provocate de diferențele de valori dintre carnea de pasăre proaspătă și carnea de pasăre tratată termic sau congelată ar trebui, prin urmare, să fie compensate.
+(8) În conformitate cu articolul 220 alineatul (5) din Regulamentul (UE) nr. 1308/2013, cofinanțarea din partea Uniunii este echivalentă cu 50 % din cheltuielile suportate de Italia pentru măsurile de sprijin excepționale. Cantitățile maxime eligibile pentru finanțare în cadrul fiecărei măsuri excepționale de sprijin al pieței ar trebui să fie stabilite de Comisie după examinarea cererii primite din partea Italiei.
+(9) Pentru a evita orice risc de supracompensare, ar trebui să se stabilească o sumă forfetară de cofinanțare, la un nivel adecvat pentru fiecare produs.
+(10) Speciile afectate sunt puii (claponii, puii Golden și puii standard) și curcanii (masculi și femele) crescuți pentru carne, ouăle de curci pentru incubație și carnea de pasăre tratată termic sau congelată.
+(11) Pentru a evita orice risc de dublă finanțare, pierderile suferite nu ar fi trebuit să fie compensate prin ajutor de stat sau asigurări, iar cofinanțarea din partea Uniunii în temeiul prezentului regulament ar trebui să se limiteze la produsele eligibile pentru care nu s-a primit nicio contribuție financiară din partea Uniunii în temeiul Regulamentului (UE) nr. 652/2014.
+(12) Amploarea și durata măsurilor excepționale de sprijin prevăzute în prezentul regulament ar trebui să se limiteze la ceea ce este strict necesar pentru sprijinirea pieței în cauză.
+(13) Pentru a asigura o bună gestiune financiară a acestor măsuri de sprijin excepționale, doar plățile efectuate de Italia către beneficiari până la 30 septembrie 2016 cel târziu vor fi eligibile pentru cofinanțare din partea Uniunii. Articolul 5 alineatul (2) din Regulamentul delegat (UE) nr. 907/2014 al Comisiei (5) nu ar trebui să se aplice.
+(14) Pentru a asigura eligibilitatea și corectitudinea plăților, autoritățile italiene ar trebui să efectueze verificări ex ante.
+(15) Pentru a permite Uniunii să își exercite controlul financiar, autoritățile italiene ar trebui să comunice Comisiei rezultatele verificării plăților.
+(16) Pentru a asigura o punere în aplicare imediată a acestor măsuri de către Italia, prezentul regulament ar trebui să intre în vigoare în ziua următoare datei publicării sale.
+(17) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului de gestionare a organizării comune a piețelor agricole,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Uniunea asigură o cofinanțare echivalentă cu 50 % din cheltuielile suportate de Italia pentru susținerea pieței ouălor pentru incubație și a cărnii de pasăre, grav afectată de apariția unui focar de gripă aviară înalt patogenă de subtipul H5N8, care a fost identificat și notificat de Italia la 15 decembrie 2014 și pentru care, până la 16 februarie 2015, au fost aplicabile măsuri veterinare și de sănătate animală la nivel național și la nivelul Uniunii în toate exploatațiile, cu excepția exploatației de curcani masculi pentru îngrășare, în care măsurile au fost aplicate până la 25 februarie 2015.
+Cheltuielile sunt eligibile pentru cofinanțare din partea Uniunii numai dacă au fost plătite de Italia beneficiarului până la data de 30 septembrie 2016 cel târziu. Articolul 5 alineatul (2) din Regulamentul delegat (UE) nr. 907/2014 nu se aplică.
+Articolul 2
+Nivelul maxim al cofinanțării din partea Uniunii se stabilește după cum urmează:
+(a) pentru pierderile de producție de ouă pentru incubație provenite de la curcile de reproducție aflate în zona de supraveghere, se acordă un ajutor forfetar de 0,42 EUR per ou de curcă pentru incubație încadrat la codul NC 0407 19 11 pentru o cantitate maximă de 313 560 de bucăți;
+(b) pentru pierderile de producție de carne de pasăre din cauza întârzierilor legate de măsurile veterinare și de sănătate animală în ceea ce privește claponii, puii Golden, puii standard și curcanii și curcile pentru îngrășare din exploatațiile situate în zonele de protecție și de supraveghere, se acordă un ajutor forfetar de:
+(i) 0,022 EUR pe săptămână pentru fiecare clapon care se încadrează la codul NC 0105 94 00 până la maximum 262 400 de capete și pentru o sumă maximă de 42 146,98 EUR;
+(ii) 0,0244 EUR pe săptămână pentru fiecare pui Golden care se încadrează la codul NC 0105 94 00 până la maximum 7 500 de capete și pentru o sumă maximă de 1 620,86 EUR;
+(iii) 0,0136 EUR pe săptămână pentru fiecare pui standard care se încadrează la codul NC 0105 94 00 până la maximum 1 271 908 capete și pentru o sumă maximă de 83 715,00 EUR;
+(iv) 0,0636 EUR pe săptămână pentru fiecare curcă pentru îngrășare care se încadrează la codul NC 0105 99 30 până la maximum 35 040 de capete și pentru o sumă maximă de 23 240,53 EUR;
+(v) 0,0722 EUR pe săptămână pentru fiecare curcan mascul pentru îngrășare care se încadrează la codul NC 0105 99 30 până la maximum 34 000 de capete și pentru o sumă maximă de 15 387,43 EUR;
+(c) pentru pierderea de valoare între carnea de pui proaspătă și carnea de pui tratată termic obținute de la pui standard care au fost sacrificați imediat în zona de protecție, suma forfetară este de 0,3761 EUR/kg viu, până la o sumă totală de 98 297,50 EUR;
+(d) pentru pierderea de valoare între carnea de pui proaspătă și carnea de pui congelată obținute de la pui standard care au fost sacrificați imediat în zona de protecție, suma forfetară este de 0,04 EUR/kg de carne de pui, până la o sumă totală de 3 402,44 EUR.
+Articolul 3
+Cofinanțarea din partea Uniunii în temeiul prezentului regulament se limitează la produse necompensate prin intermediul unui ajutor de stat sau al asigurărilor și pentru care nu s-a primit nicio contribuție financiară a Uniunii în temeiul Regulamentului (UE) nr. 652/2014.
+Articolul 4
+Înaintea efectuării oricărei plăți, Italia efectuează controale administrative și fizice exhaustive, pentru a asigura respectarea prezentului regulament.
+Autoritățile italiene verifică în special:
+(a) eligibilitatea beneficiarului care depune cererea de sprijin;
+(b) pentru fiecare operator eligibil: eligibilitatea, cantitatea și pierderea reală de producție de ouă pentru incubație provenite de la curci de reproducție;
+(c) pentru fiecare operator eligibil: eligibilitatea, cantitatea și pierderea reală de producție de carne de pui și de curcan, ca urmare a întârzierilor în introducerea claponilor, puilor Golden, puilor standard și curcanilor pentru îngrășare în exploatațiile situate în zonele de protecție și de supraveghere în timpul aplicării măsurilor veterinare și de sănătate animală;
+(d) pentru fiecare operator eligibil: eligibilitatea, cantitatea și pierderea reală de valoare între carnea de pui proaspătă și carnea de pui tratată termic obținute de la pui standard care au fost sacrificați imediat în zona de protecție în timpul aplicării măsurilor veterinare și de sănătate animală;
+(e) pentru fiecare operator eligibil: eligibilitatea, cantitatea și pierderea reală de valoare între carnea de pui proaspătă și carnea de pui congelată obținute de la pui standard care au fost sacrificați imediat în zona de protecție în timpul aplicării măsurilor veterinare și de sănătate animală;
+(f) faptul că niciun operator eligibil nu a primit finanțare din nicio altă sursă pentru a compensa pierderile menționate la articolul 2.
+Articolul 5
+Autoritățile italiene informează Comisia în legătură cu rezultatele verificării plăților.
+Articolul 6
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 13 mai 2016.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 347, 20.12.2013, p. 671.
+(2) Directiva 2005/94/CE a Consiliului din 20 decembrie 2005 privind măsurile comunitare de combatere a influenței aviare și de abrogare a Directivei 92/40/CEE (JO L 10, 14.1.2006, p. 16).
+(3) Decizia de punere în aplicare 2014/936/UE a Comisiei din 17 decembrie 2014 privind anumite măsuri de protecție referitoare la gripa aviară înalt patogenă de subtipul H5N8 în Italia (JO L 365, 19.12.2014, p. 160).
+(4) Regulamentul (UE) nr. 652/2014 al Parlamentului European și al Consiliului din 15 mai 2014 de stabilire a unor dispoziții pentru gestionarea cheltuielilor privind lanțul alimentar, sănătatea și bunăstarea animalelor, precum și sănătatea plantelor și materialul de reproducere a plantelor, de modificare a Directivelor 98/56/CE, 2000/29/CE și 2008/90/CE ale Consiliului, a Regulamentelor (CE) nr. 178/2002, (CE) nr. 882/2004 și (CE) nr. 396/2005 ale Parlamentului European și ale Consiliului, a Directivei 2009/128/CE a Parlamentului European și a Consiliului și a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului și de abrogare a Deciziilor 66/399/CEE, 76/894/CEE și 2009/470/CE ale Consiliului (JO L 189, 27.6.2014, p. 1).
+(5) Regulamentul delegat (UE) nr. 907/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește agențiile de plăți și alte organisme, gestiunea financiară, verificarea și închiderea conturilor, garanțiile și utilizarea monedei euro (JO L 255, 28.8.2014, p. 18).
