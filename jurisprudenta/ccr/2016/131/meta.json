@@ -1,0 +1,220 @@
+{
+ "key": "dcc-131-2016",
+ "label": "Decizia CCR nr. 131/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "131",
+ "date": "2016-03-10",
+ "year": "2016",
+ "heading": "DECIZIE nr. 131 din 10 martie 2016",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "378",
+  "bis": false,
+  "date": "2016-05-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "13.252/280/2013",
+  "1.072D/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 2 din Decretul Consiliului de Stat nr. 387/1967 privind exproprierea şi trecerea în proprietatea statului a unor terenuri situate în oraşul Piteşti, regiunea Argeş şi transmiterea acestora către uniunea regională a cooperativelor meşteşugăreşti Argeş, excepţie ridicată de instanţa judecătorească, din oficiu, în Dosarul nr. 13.252/280/2013 al Judecătoriei Piteşti - Secţia civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Piteşti - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 387/1967",
+    "number": "387",
+    "year": "1967",
+    "path": "decret/1967/387"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2005",
+    "number": "1",
+    "year": "2005",
+    "path": "lege/2005/1"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "874",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administraţiei publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 109/1996",
+    "number": "109",
+    "year": "1996",
+    "path": "lege/1996/109"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-05-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178521",
+  "text_sha256": "a6b4e3c174a3df0b8fe23590d2c438b04cc4c57313df5f8cca43cca075cfc1cc",
+  "catalogue_sha256": "a6b4e3c174a3df0b8fe23590d2c438b04cc4c57313df5f8cca43cca075cfc1cc",
+  "fetched": "2026-11-06T03:06:14Z",
+  "chars": 21956,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406204443/https://legislatie.just.ro/Public/DetaliiDocumentAfis/178521",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178521",
+   "timestamp": "20250406204443",
+   "sha256": "f7c62ca036c1c350db11ef592af55e6256382b129909cbdee2e2429fe297f4d1"
+  },
+  "portal_id": "178521",
+  "tip": "DECIZIE"
+ }
+}
