@@ -1,0 +1,199 @@
+{
+ "key": "dcc-119-2016",
+ "label": "Decizia CCR nr. 119/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "119",
+ "date": "2016-03-03",
+ "year": "2016",
+ "heading": "DECIZIE nr. 119 din 3 martie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor pct. 3 - art. 1^2 lit. b) pct. (ii) ale articolului unic din Legea nr. 38/2014 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 31/2011 privind interzicerea achiziţionării de la persoane fizice a metalelor feroase şi neferoase şi a aliajelor acestora utilizate în activitatea feroviară",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "398",
+  "bis": false,
+  "date": "2016-05-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "23.118/196/2014",
+  "1.017D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2014",
+    "number": "38",
+    "year": "2014",
+    "path": "lege/2014/38"
+   },
+   "articles": [
+    {
+     "art": "1-2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Robert Florin Fetcu în Dosarul nr. 23.118/196/2014 al Judecătoriei Brăila - Secţia civilă şi constată că prevederile pct. 3 - art. 1^2 lit. b) pct. (ii) ale articolului unic din Legea nr. 38/2014 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 31/2011 privind interzicerea achiziţionării de la persoane fizice a metalelor feroase şi neferoase şi a aliajelor acestora utilizate în activitatea feroviară sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Brăila - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2014",
+    "number": "38",
+    "year": "2014",
+    "path": "lege/2014/38"
+   },
+   "articles": [
+    {
+     "art": "1-2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 16/2001",
+    "number": "16",
+    "year": "2001",
+    "path": "oug/2001/16"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 31/2011",
+    "number": "31",
+    "year": "2011",
+    "path": "oug/2011/31"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 677/2001",
+    "number": "677",
+    "year": "2001",
+    "path": "lege/2001/677"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-05-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178748",
+  "text_sha256": "856615dec3638efb519edba0dc5311d811f0c236e206a726fd49ddcf349330f6",
+  "catalogue_sha256": "856615dec3638efb519edba0dc5311d811f0c236e206a726fd49ddcf349330f6",
+  "fetched": "2026-11-03T18:54:01Z",
+  "chars": 15901,
+  "portal_id": "178748",
+  "tip": "DECIZIE"
+ }
+}
