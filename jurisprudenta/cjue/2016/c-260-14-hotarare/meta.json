@@ -1,0 +1,75 @@
+{
+ "key": "cjue-c-260-14-hotarare-2016-05-26",
+ "label": "CJUE, Hotărârea Curții (Camera a cincea) din 26 mai 2016, Cauzele conexate C-260/14 și C-261/14",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2016-05-26",
+ "year": "2016",
+ "case": "Cauzele conexate C-260/14 și C-261/14",
+ "celex": "62014CJ0260",
+ "ecli": "ECLI:EU:C:2016:360",
+ "heading": "Hotărârea Curții (Camera a cincea) din 26 mai 2016",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Bacău, Secţia a II-a Civilă, de Contencios administrativ şi Fiscal",
+   "date": "2014-05-08",
+   "national_file": "44/32/2014"
+  },
+  {
+   "court": "Curtea de Apel Bacău, Secţia a II-a Civilă, de Contencios administrativ şi Fiscal",
+   "date": "2014-05-08",
+   "national_file": "749/32/2011"
+  }
+ ],
+ "referral_text": "Cereri de decizie preliminară formulate de Curtea de Apel Bacău",
+ "national_followup": [
+  "Curtea de Apel Bacău, Secţia a II-a Civilă, de Contencios administrativ şi Fiscal, Cerere din 03/08/2016 (44/32/2014)",
+  "Curtea de Apel Bacău, Secţia a II-a Civilă, de Contencios administrativ şi Fiscal, Sentinţa din 29/09/2016 (749/32/2011)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Protecția intereselor financiare ale Uniunii Europene – Regulamentul (CE, Euratom) nr. 2988/95 – Fondul european de dezvoltare regională (FEDER) – Regulamentul (CE) nr. 1083/2006 – Atribuirea de către beneficiarul fondurilor, în calitate de autoritate contractantă, a unui contract care are ca obiect realizarea acțiunii subvenționate – Noțiunile „abatere” și/sau „neregularitate” – Criteriul referitor la „încălcarea dreptului Uniunii”– Proceduri de cerere de ofertă care contravin legislației naționale – Natura corecțiilor financiare adoptate de statele membre – Măsuri sau sancțiuni administrative",
+ "interprets": [
+  {
+   "celex": "31995R2988",
+   "folder": "ue/regulament/1995/2988"
+  },
+  {
+   "celex": "32004L0018",
+   "folder": "ue/directiva/2004/18"
+  },
+  {
+   "celex": "32006R1083",
+   "folder": "ue/regulament/2006/1083"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014CJ0260",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-260/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/65248691-3af5-45c1-9eda-5a6fc84fc2c7.0021.03/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "59f80640592bcf7519ec8a8e35e133e8dc2a517e19924103c0397adad8aa1cb6"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) declară:",
+  "1) Articolul 1 alineatul (2) din Regulamentul (CE, Euratom) nr. 2988/95 al Consiliului din 18 decembrie 1995 privind protecția intereselor financiare ale Comunităților Europene și articolul 2 punctul 7 din Regulamentul (CE) nr. 1083/2006 al Consiliului din 11 iulie 2006 de stabilire a anumitor dispoziții generale privind Fondul european de dezvoltare regională, Fondul social european și Fondul de coeziune și de abrogare a Regulamentului (CE) nr. 1260/1999 trebuie interpretate în sensul că nerespectarea dispozițiilor naționale de către o autoritate contractantă care beneficiază de fonduri structurale în cadrul atribuirii unui contract de achiziții publice având o valoare estimată inferioară pragului prevăzut la articolul 7 litera (a) din Directiva 2004/18/CE a Parlamentului European și a Consiliului din 31 martie 2004 privind coordonarea procedurilor de atribuire a contractelor de achiziții publice de lucrări, de bunuri și de servicii, astfel cum a fost modificată prin Regulamentul (CE) nr. 1422/2007 al Comisiei din 4 decembrie 2007, poate constitui, cu ocazia atribuirii acestui contract, o „abatere” în sensul articolului 1 alineatul (2) menționat, respectiv o „neregularitate” în sensul articolului 2 punctul 7 amintit, în măsura în care această nerespectare are sau ar putea avea ca efect prejudicierea bugetului general al Uniunii prin imputarea unei cheltuieli nejustificate.",
+  "2) Articolul 98 alineatul (2) primul paragraf a doua teză din Regulamentul nr. 1083/2006 trebuie interpretat în sensul că corecțiile financiare efectuate de statele membre, în cazul în care acestea au fost aplicate unor cheltuieli cofinanțate din fondurile structurale pentru nerespectarea dispozițiilor în materia atribuirii unor contracte de achiziții publice, sunt măsuri administrative în sensul articolului 4 din Regulamentul nr. 2988/95.",
+  "3) Principiile securității juridice și protecției încrederii legitime trebuie interpretate în sensul că nu se opun aplicării de către un stat membru a unor corecții financiare reglementate printr‑un act normativ intern intrat în vigoare după ce a avut loc o pretinsă încălcare a unor dispoziții în materia atribuirii unor contracte de achiziții publice, cu condiția să fie vorba despre aplicarea unei reglementări noi la efectele viitoare ale unor situații apărute sub imperiul reglementării anterioare, aspect a cărui verificare este de competența instanței de trimitere, care trebuie să țină seama de ansamblul împrejurărilor relevante din litigiile principale."
+ ]
+}
