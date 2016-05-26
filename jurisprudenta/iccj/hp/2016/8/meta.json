@@ -1,0 +1,309 @@
+{
+ "key": "iccj-hp-8-2016",
+ "label": "Decizia ÎCCJ nr. 8/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "8",
+ "date": "2016-04-04",
+ "year": "2016",
+ "heading": "DECIZIE nr. 8 din 4 aprilie 2016",
+ "subtitle": "referitoare la sesizarea formulată de Curtea de Apel Constanţa - Secţia I civilă în vederea pronunţării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: modul de interpretare şi aplicare a dispoziţiilor art. 39 alin. (2) lit. b) raportat la art. 27 alin. (1) din Legea nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă, cu modificările şi completările ulterioare, şi art. 19^1 din Normele metodologice de aplicare a Legii nr. 76/2002, aprobate prin Hotărârea Guvernului nr. 174/2002, astfel cum au fost modificate prin Hotărârea Guvernului nr. 113/2011 pentru modificarea şi completarea unor acte normative şi stabilirea unor măsuri în domeniul protecţiei sociale, referitor la baza de calcul al indemnizaţiei de şomaj, respectiv dacă aceasta include şi ajutorul acordat cu ocazia pensionării, şi compensaţia pentru concediul de odihnă neefectuat la încetarea raporturilor de muncă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "399",
+  "bis": false,
+  "date": "2016-05-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "582/1/2016",
+  "6.254/118/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "296-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Constanţa - Secţia I civilă în Dosarul nr. 6.254/118/2014 privind pronunţarea unei hotărâri prealabile şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea art. 39 alin. (2) lit. b) din Legea nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă, cu modificările şi completările ulterioare, coroborat cu art. 19^1 din Normele metodologice de aplicare a Legii nr. 76/2002, aprobate prin Hotărârea Guvernului nr. 174/2002, astfel cum au fost modificate prin Hotărârea Guvernului nr. 113/2011 pentru modificarea şi completarea unor acte normative şi stabilirea unor măsuri în domeniul protecţiei sociale, raportat la art. 27 alin. (1) din Legea nr. 76/2002, cu modificările şi completările ulterioare, în baza de calcul al indemnizaţiei de şomaj se includ veniturile care se încadrează în categoriile prevăzute de art. 296^4 din Legea nr. 571/2003 privind Codul fiscal, cu modificările şi completările ulterioare, cu corecţiile reglementate de art. 296^18 alin. (5) din acelaşi act normativ, şi anume veniturile pentru care se datora, potrivit legii, şi a fost virată contribuţia individuală la bugetul asigurărilor pentru şomaj.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "296-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "296-16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 113/2011",
+    "number": "113",
+    "year": "2011",
+    "path": "hg/2011/113"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "164",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 4/2005",
+    "number": "4",
+    "year": "2005",
+    "path": "oug/2005/4"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 117/2010",
+    "number": "117",
+    "year": "2010",
+    "path": "oug/2010/117"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-05-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178758",
+  "text_sha256": "7954664562eb80c3129ccb87b9afb1f7f9ea2210843dd3d5fe1e0fe1b59a2130",
+  "catalogue_sha256": "7954664562eb80c3129ccb87b9afb1f7f9ea2210843dd3d5fe1e0fe1b59a2130",
+  "fetched": "2026-11-03T03:33:19Z",
+  "chars": 46486,
+  "portal_id": "178758",
+  "tip": "DECIZIE"
+ }
+}
