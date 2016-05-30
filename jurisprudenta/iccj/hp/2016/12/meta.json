@@ -1,0 +1,218 @@
+{
+ "key": "iccj-hp-12-2016",
+ "label": "Decizia ÎCCJ nr. 12/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "12",
+ "date": "2016-04-18",
+ "year": "2016",
+ "heading": "DECIZIE nr. 12 din 18 aprilie 2016",
+ "subtitle": "referitoare la examinarea pronunţării unei hotărâri prealabile pentru dezlegarea chestiunii de drept privind modul de interpretare a dispoziţiilor art. 99 alin. (6) din Legea nr. 188/1999",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "408",
+  "bis": false,
+  "date": "2016-05-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "603/1/2016",
+  "4.149/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "99",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea privind pronunţarea unei hotărâri prealabile, formulată de Curtea de Apel Oradea - Secţia a II-a civilă, de contencios administrativ şi fiscal în Dosarul nr. 5.644/83/CA/2013-R, la care s-a conexat Dosarul nr. 5.645/83/CA/2013-R, şi în consecinţă stabileşte că:",
+  "Dispoziţiile art. 99 alin. (6) din Legea nr. 188/1999 privind Statutul funcţionarilor publici, republicată, cu modificările şi completările ulterioare, se aplică în ambele situaţii reglementate de art. 99 alin. (1) lit. a) din aceeaşi lege.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "99",
+     "alin": [
+      "6",
+      "1",
+      "2",
+      "5"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "99",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.324/2009",
+    "number": "1324",
+    "year": "2009",
+    "path": "hg/2009/1324"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 82/2013",
+    "number": "82",
+    "year": "2013",
+    "path": "oug/2013/82"
+   },
+   "articles": [],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178850",
+  "text_sha256": "f28eb5588640439bc1c248e87195759d59924e03886bd56df18281f04f91d51a",
+  "catalogue_sha256": "f28eb5588640439bc1c248e87195759d59924e03886bd56df18281f04f91d51a",
+  "fetched": "2026-11-03T03:33:15Z",
+  "chars": 31709,
+  "portal_id": "178850",
+  "tip": "DECIZIE"
+ }
+}
