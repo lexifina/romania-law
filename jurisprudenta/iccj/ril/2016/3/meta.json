@@ -1,0 +1,455 @@
+{
+ "key": "iccj-ril-3-2016",
+ "label": "Decizia ÎCCJ nr. 3/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "3",
+ "date": "2016-04-04",
+ "year": "2016",
+ "heading": "DECIZIE nr. 3 din 4 aprilie 2016",
+ "subtitle": "referitoare la recursul în interesul legii privind interpretarea şi aplicarea dispoziţiilor art. 62 din Legea nr. 275/2006 şi a dispoziţiilor art. 87 din Legea nr. 254/2013",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "405",
+  "bis": false,
+  "date": "2016-05-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 62 din Legea nr. 275/2006 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal, stabileşte că veniturile realizate ca urmare a muncii prestate de persoanele aflate în executarea unor pedepse privative de libertate nu pot fi poprite pentru executarea unor creanţe fiscale.",
+  "În interpretarea şi aplicarea dispoziţiilor art. 87 din Legea nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, stabileşte că veniturile realizate ca urmare a muncii prestate de persoanele aflate în executarea unor pedepse privative de libertate pot fi poprite pentru executarea unor creanţe fiscale stabilite prin hotărârile de condamnare.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "452",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "453",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "456",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "459",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "460",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "781",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "86",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "i",
+      "a"
+     ]
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1718",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1725",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "781",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "782",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "783",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "784",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "785",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "786",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "787",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "788",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "789",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "790",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "791",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "792",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "793",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "794",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "581",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178806",
+  "text_sha256": "a1b80628f04f1ba9abe787511a3839dc86272a1ae55235613b07b0765dcc6edf",
+  "catalogue_sha256": "a1b80628f04f1ba9abe787511a3839dc86272a1ae55235613b07b0765dcc6edf",
+  "fetched": "2026-11-03T03:33:16Z",
+  "chars": 55599,
+  "portal_id": "178806",
+  "tip": "DECIZIE"
+ }
+}
