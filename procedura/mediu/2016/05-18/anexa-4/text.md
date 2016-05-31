@@ -1,0 +1,13 @@
+# Anexa 4
+Anexa nr. 4
+la procedură
+- model -
+Declarația de confidențialitate și imparțialitate
+a membrilor Comisiei de autorizare
+Subsemnatul, .................., declar că sunt de acord să particip la procesul emiterii/acordării/anulării licenței de operare în cazul operatorilor economici care se supun prevederilor Ordinului ministrului mediului și pădurilor, al ministrului economiei, comerțului și relațiilor cu mediul de afaceri nr. 932 / 481/2016 pentru aprobarea Procedurii de autorizare pentru preluarea responsabilității gestionării deșeurilor de ambalaje.
+Declar că sunt imparțial față de toate părțile implicate în cadrul acestui proces și sunt de acord să nu divulg nicio informație sau documente (informații confidențiale) dezvăluite mie, descoperite de mine sau elaborate de mine în cursul sau ca rezultat al procesului și nu vor fi dezvăluite unei părți terțe.
+Informațiile confidențiale nu vor fi dezvăluite niciunui angajat sau expert, cu excepția situației în care aceștia sunt de acord să îndeplinească termenii acestei declarații.
+Numele și prenumele: ......................
+Denumirea instituției publice în care își desfășoară activitatea: .............
+Semnătura: ..................
+Data: ...............
