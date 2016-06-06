@@ -1,0 +1,290 @@
+{
+ "key": "dcc-293-2016",
+ "label": "Decizia CCR nr. 293/2016",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "293",
+ "date": "2016-05-11",
+ "year": "2016",
+ "heading": "DECIZIE nr. 293 din 11 mai 2016",
+ "subtitle": "asupra sesizării de neconstituţionalitate a dispoziţiilor Hotărârii Parlamentului nr. 5/2016 privind desemnarea membrilor Consiliului de administraţie al Societăţii Române de Televiziune, a dispoziţiilor art. 19 alin. (1) şi alin. (7) teza întâi din Legea nr. 41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi a Societăţii Române de Televiziune, precum şi asupra sesizării privind încălcarea principiului colaborării loiale între Parlament şi Curtea Constituţională, consacrat de dispoziţiile art. 1 alin. (4) şi (5), art. 142 şi art. 147 alin. (4) din Constituţie, prin refuzul Parlamentului de a redacta hotărârile privind respingerea numirii în funcţie a domnului George Orbean în funcţia de director general al Societăţii Române de Televiziune, la data de 29 martie 2016, şi de numire/respingere a numirii doamnei Monica Simona Ghiurco în funcţia de director general al Societăţii Române de Televiziune, la data de 11 aprilie 2016",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "425",
+  "bis": false,
+  "date": "2016-06-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "574L/2/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, sesizarea de neconstituţionalitate şi constată că Hotărârea Parlamentului nr. 5/2016 privind desemnarea membrilor Consiliului de administraţie al Societăţii Române de Televiziune este constituţională în raport cu criticile formulate. 2. Respinge, ca inadmisibilă, sesizarea de neconstituţionalitate a dispoziţiilor art. 19 alin. (1) şi alin. (7) teza întâi din Legea nr. 41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi a Societăţii Române de Televiziune. 3. Respinge, ca inadmisibilă, sesizarea privind încălcarea principiului colaborării loiale între Parlament şi Curtea Constituţională, consacrat de dispoziţiile art. 1 alin. (4) şi (5), art. 142 şi art. 147 alin. (4) din Constituţie, prin refuzul Parlamentului de a redacta hotărârile privind respingerea numirii în funcţie a domnului George Orbean în funcţia de director general al Societăţii Române de Televiziune, în data de 29 martie 2016, şi de numire/respingere a numirii doamnei Monica Simona Ghiurco în funcţia de director general al Societăţii Române de Televiziune, la data de 11 aprilie 2016.",
+  "Decizia este definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui Senatului şi Preşedintelui Camerei Deputaţilor şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e",
+      "l",
+      "d"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "155",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fundamentală în cazul adoptării Hotărârii Parlamentului nr. 5/2016",
+    "number": "5",
+    "year": "2016",
+    "path": "lege/2016/5"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-06-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178981",
+  "text_sha256": "70297fb18e4effa9ca155600e263355c6941482746ecb1eeebf3c866d4ce782d",
+  "catalogue_sha256": "70297fb18e4effa9ca155600e263355c6941482746ecb1eeebf3c866d4ce782d",
+  "fetched": "2026-11-03T03:33:06Z",
+  "chars": 48242,
+  "portal_id": "178981",
+  "tip": "DECIZIE"
+ }
+}
