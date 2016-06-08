@@ -1,0 +1,386 @@
+{
+ "key": "iccj-hp-penal-8-2016",
+ "label": "Decizia ÎCCJ nr. 8/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "8",
+ "date": "2016-03-30",
+ "year": "2016",
+ "heading": "DECIZIE nr. 8 din 30 martie 2016",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: dacă sintagma \"când faţă de acea persoană s-a pronunţat anterior o hotărâre penală definitivă cu privire la aceeaşi faptă, chiar şi sub altă încadrare juridică\" folosită de legiuitor în cuprinsul art. 6 din Codul de procedură penală, care consfinţeşte principiul \"ne bis in idem\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "430",
+  "bis": false,
+  "date": "2016-06-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "558/1/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Braşov - Secţia penală în Dosarul nr. 74/119/2014, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: dacă sintagma \"când faţă de acea persoană s-a pronunţat anterior o hotărâre penală definitivă cu privire la aceeaşi faptă, chiar şi sub altă încadrare juridică\" folosită de legiuitor în cuprinsul art. 6 din Codul de procedură penală, care consfinţeşte principiul \"ne bis in idem\", are în vedere doar hotărârile pronunţate în materie penală faţă de o persoană pentru aceeaşi faptă - indiferent de încadrarea juridică dată faptei - sau noţiunea de \"hotărâre penală\" este folosită de legiuitor în sens larg, prin ea înţelegându-se orice fel de hotărâre indiferent de materia în care se pronunţă şi de procedura după care s-a judecat cauza, dacă aceasta ar putea fi apreciată, prin prisma jurisprudenţei Curţii Europene a Drepturilor Omului cu privire la art. 4 al Protocolului nr. 7 al Convenţiei europene a drepturilor omului, că are un caracter penal şi reprezintă o hotărâre prin care s-a produs \"condamnarea\" penală, civilă, fiscală sau contravenţională a persoanei, trimisă mai apoi în judecată într-un proces penal pentru aceeaşi faptă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul silvic",
+    "path": "lege/2008/46",
+    "slug": "legea-46-2008"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-06-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179069",
+  "text_sha256": "847fba50490807b8bb07ae5c495da4e3a8d1f4d49d54ec3cc622aec7d9f14db2",
+  "catalogue_sha256": "847fba50490807b8bb07ae5c495da4e3a8d1f4d49d54ec3cc622aec7d9f14db2",
+  "fetched": "2026-11-03T03:33:00Z",
+  "chars": 107427,
+  "portal_id": "179069",
+  "tip": "DECIZIE"
+ }
+}
