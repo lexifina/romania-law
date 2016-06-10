@@ -1,0 +1,520 @@
+{
+ "key": "iccj-hp-11-2016",
+ "label": "Decizia ÎCCJ nr. 11/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "11",
+ "date": "2016-04-18",
+ "year": "2016",
+ "heading": "DECIZIE nr. 11 din 18 aprilie 2016",
+ "subtitle": "cu privire la modul de interpretare a art. 105 alin. (1) şi (2) şi art. 106 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenţei şi de insolvenţă, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "436",
+  "bis": false,
+  "date": "2016-06-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "334/1/2016",
+  "4.120/107/2014/a2",
+  "4.036/107/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Alba Iulia - Secţia a II-a civilă în Dosarul nr. 4.120/107/2014/a2 privind pronunţarea unei hotărâri prealabile şi, în consecinţă, stabileşte că:",
+  "În interpretarea dispoziţiilor art. 105 alin. (1) şi (2) şi art. 106 din Legea nr. 85/2014, administratorul/lichidatorul judiciar nu are atribuţia de a verifica pe fond creanţele bugetare constatate prin titluri executorii, contestate în termenul legal în faţa instanţei specializate.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "99",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3",
+      "1",
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 73
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2512",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "210",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "212",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "216",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "217",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "218",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "210",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "212",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "216",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "217",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "218",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1017",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179121",
+  "text_sha256": "9b681a6152d1fc9341e689b61b8d81210baae316a25b0080ec78e9301e671391",
+  "catalogue_sha256": "9b681a6152d1fc9341e689b61b8d81210baae316a25b0080ec78e9301e671391",
+  "fetched": "2026-11-03T03:32:59Z",
+  "chars": 82916,
+  "portal_id": "179121",
+  "tip": "DECIZIE"
+ }
+}
