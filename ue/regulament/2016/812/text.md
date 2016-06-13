@@ -1,0 +1,53 @@
+REGULAMENTUL DELEGAT (UE) 2016/812 AL COMISIEI
+din 18 martie 2016
+de modificare a Regulamentului delegat (UE) 2015/2195 de completare a Regulamentului (UE) nr. 1304/2013 al Parlamentului European și al Consiliului privind Fondul social european, în ceea ce privește definirea baremelor standard pentru costuri unitare și a sumelor forfetare pentru rambursarea cheltuielilor statelor membre de către Comisie
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 1304/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind Fondul social european și de abrogare a Regulamentului (CE) nr. 1081/2006 al Consiliului (1), în special articolul 14 alineatul (1),
+întrucât:
+(1) Baremele standard pentru costuri unitare și sumele forfetare pentru rambursarea cheltuielilor statelor membre ar trebui să fie stabilite pe baza unor metode prezentate de statele membre și evaluate de Comisie, inclusiv metodele prevăzute la articolul 67 alineatul (5) din Regulamentul (UE) nr. 1303/2013 al Parlamentului European și al Consiliului (2) și la articolul 14 alineatele (2) și (3) din Regulamentul (UE) nr. 1304/2013.
+(2) Ținând cont de disparitățile existente între statele membre în ceea ce privește nivelul costurilor pentru un anumit tip de operațiune, este necesar ca definiția și valorile baremelor standard pentru costuri unitare și ale sumelor forfetare să difere în funcție de tipul de operațiune și de statul membru, pentru a reflecta caracteristicile specifice ale acestora.
+(3) Republica Cehă și Belgia au prezentat metode pentru definirea baremelor standard pentru costuri unitare în vederea rambursării cheltuielilor de către Comisie, care au fost considerate de Comisie ca fiind adecvate pentru rambursarea cheltuielilor acestor state membre.
+(4) Prin urmare, Regulamentul delegat (UE) 2015/2195 al Comisiei (3) ar trebui modificat în consecință,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Textul prevăzut în anexa la prezentul regulament este adăugat ca anexele III și IV la Regulamentul delegat (UE) 2015/2195.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 18 martie 2016.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 347, 20.12.2013, p. 470.
+(2) Regulamentul (UE) nr. 1303/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de stabilire a unor dispoziții comune privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune, Fondul european agricol pentru dezvoltare rurală și Fondul european pentru pescuit și afaceri maritime, precum și de stabilire a unor dispoziții generale privind Fondul european de dezvoltare regională, Fondul social european, Fondul de coeziune și Fondul european pentru pescuit și afaceri maritime și de abrogare a Regulamentului (CE) nr. 1083/2006 al Consiliului (JO L 347, 20.12.2013, p. 320).
+(3) Regulamentul delegat (UE) 2015/2195 al Comisiei din 9 iulie 2015 de completare a Regulamentului (UE) nr. 1304/2013 al Parlamentului European și al Consiliului privind Fondul social european, în ceea ce privește definirea baremelor standard pentru costuri unitare și a sumelor forfetare pentru rambursarea cheltuielilor statelor membre de către Comisie (JO L 313, 28.11.2015, p. 22).
+ANEXĂ
+„ANEXA III
+Condiții de rambursare a cheltuielilor Republicii Cehe pe baza baremelor standard pentru costuri unitare
+1. Definirea baremelor standard pentru costuri unitare
+Tipul operațiunilor | Denumirea indicatorului | Categoria costurilor(1) | Unitatea de măsură a indicatorului | Sume (în moneda națională CZK)
+1. Înființarea unui nou centru de îngrijire a copiilor în cadrul axei prioritare 1 „Sprijinirea ocupării și adaptabilității forței de muncă” (Prioritní osa 1 Podpora zaměstnanosti a adaptability pracovní síly) a programului operațional pentru ocuparea forței de muncă (CCI 2014CZ05M9OP001) | Loc nou creat într-un nou centru de îngrijire a copiilor | — achiziționare de echipamente pentru un centru de îngrijire a copiilor; — achiziționarea echipamentelor necesare pentru creșterea și educarea copiilor (jocuri și material didactic); — gestionarea etapei proiectului referitoare la crearea centrului. | Numărul de locuri nou create într-un nou centru de îngrijire a copiilor(2) | 20 053 inclusiv TVA, sau 16 992 fără TVA
+2. Transformarea unui centru existent într-un „grup de copii” în cadrul axei prioritare 1 „Sprijinirea ocupării și adaptabilității forței de muncă” (Prioritní osa 1 Podpora zaměstnanosti a adaptability pracovní síly) a programului operațional pentru ocuparea forței de muncă (CCI 2014CZ05M9OP001) | Loc transformat într-un „grup de copii”(3) | — achiziționare de echipamente pentru un centru transformat; — achiziționare de material didactic; — gestionarea etapei proiectului referitoare la transformarea centrului. | Numărul de locuri transformate într-un „grup de copii”(4) | 9 518 inclusiv TVA, sau 8 279 fără TVA
+3. Funcționarea unui centru de îngrijire a copiilor în cadrul axei prioritare 1 „Sprijinirea ocupării și adaptabilității forței de muncă” (Prioritní osa 1 Podpora zaměstnanosti a adaptability pracovní síly) a programului operațional pentru ocuparea forței de muncă (CCI 2014CZ05M9OP001) | Gradul de ocupare pe loc într-un centru de îngrijire a copiilor | — salariile personalului didactic și nedidactic; — funcționarea centrului de îngrijire a copiilor; — gestionarea funcționării. | Gradul de ocupare(5) | 628(6)
+4. Îmbunătățirea competențelor personalului de îngrijire în cadrul axei prioritare 1 „Sprijinirea ocupării și adaptabilității forței de muncă” (Prioritní osa 1 Podpora zaměstnanosti a adaptability pracovní síly) a programului operațional pentru ocuparea forței de muncă (CCI 2014CZ05M9OP001) | Obținerea unei calificări în calitate de îngrijitor într-un centru de îngrijire a copiilor | — formarea și examinarea în vederea obținerii calificării profesionale | Numărul de persoane care obțin un certificat de calificare profesională în calitate de îngrijitor într-un centru de îngrijire a copiilor | 14 178
+5. Închirierea spațiilor necesare centrelor de îngrijire a copiilor în cadrul axei prioritare 1 „Sprijinirea ocupării și adaptabilității forței de muncă” (Prioritní osa 1 Podpora zaměstnanosti a adaptability pracovní síly) a programului operațional pentru ocuparea forței de muncă (CCI 2014CZ05M9OP001) | Gradul de ocupare pe loc într-un centru de îngrijire a copiilor | — chiria spațiilor pentru un centru de îngrijire a copiilor | Gradul de ocupare(5) | 56(6)
+2. Ajustarea valorilor
+Nu se aplică.
+„ANEXA IV
+Condiții de rambursare a cheltuielilor Belgiei pe baza baremelor standard pentru costuri unitare
+1. Definirea baremelor standard pentru costuri unitare
+Tipul operațiunilor | Denumirea indicatorului | Categoria costurilor | Unitatea de măsură a indicatorului | Sume (în EUR)
+1. Formare profesională individuală (IBO) finanțată în cadrul axei prioritare 1 (prioritatea de investiții 8.1) sau al axei prioritare 3 (prioritatea de investiții 9.1) a programului operațional FSE (2014BE05SFOP002) | Participanți care au finalizat cu succes formarea profesională individuală (IBO) | Toate categoriile de costuri eligibile pentru procesul operațional al IBO | Numărul de participanți cu o formare profesională individuală (sau mai multe) (înregistrată cu un număr de contract unic în aplicația online IBO) care îndeplinesc următoarele condiții: — au asistat și la o orientare IBO (înregistrată cu un număr de serie unic în dosarul client MLP); — formarea lor profesională individuală s-a încheiat (astfel cum a fost înregistrată în aplicația online IBO) în cursul anului calendaristic; — au lucrat (ca salariat și/sau ca lucrător independent) la un anumit moment în cursul perioadei de trei luni care a început la sfârșitul formării profesionale individuale (încheiate cel mai recent). | 1 439,55 (7)
+2. Formare profesională a VDAB (Serviciul flamand pentru ocuparea forței de muncă și formare profesională) finanțată în cadrul axei prioritare 1 (prioritatea de investiții 8.1) sau al axei prioritare 3 (prioritatea de investiții 9.1) a programului operațional FSE (2014BE05SFOP002) | Participanți care au finalizat cu succes formarea profesională | Toate categoriile de costuri eligibile pentru procesul operațional al formării profesionale a VDAB | Numărul de participanți cu o formare profesională (sau mai multe) (înregistrată cu un număr de serie unic în dosarul client MLP) care îndeplinesc următoarele condiții: — formarea lor profesională s-a încheiat (și a fost înregistrată în dosarul client MLP) în cursul anului calendaristic; — au lucrat conform fișierelor Dimona și RSVZ (ca salariat și/sau ca lucrător independent) la un anumit moment în cursul perioadei de trei luni care a început la sfârșitul formării (încheiate cel mai recent)(8). | 8 465,80 (7)
+2. Ajustarea valorilor
+Nu se aplică.
+”
+(1) În fiecare dintre cazurile enumerate mai jos, categoriile de costuri menționate includ toate costurile asociate operațiunii respective, cu excepția tipurilor de operațiuni 1 și 2, care pot include și alte categorii de costuri.
+(2) Adică noile locuri incluse în capacitatea noului centru de îngrijire a copiilor, astfel cum este înregistrat de reglementările naționale, și pentru care este disponibilă o dovadă referitoare la echipamente în cazul fiecărui nou loc prevăzut.
+(3) Un „grup de copii” trebuie să fi fost înregistrat ca atare în temeiul legislației naționale referitoare la prestarea de servicii de îngrijire a copiilor în cadrul unui grup de copii.
+(4) Adică locurile dintr-un centru existent, nou înregistrat ca „grup de copii” în conformitate cu legislația națională, care sunt incluse în capacitatea oficială a grupului respectiv și pentru care este disponibilă o dovadă referitoare la echipamente în cazul fiecărui loc.
+(5) Gradul de ocupare este definit ca numărul de copii care frecventează centrul de îngrijire a copiilor pe jumătate de zi timp de 6 luni, împărțit la capacitatea maximă a centrului pe jumătate de zi timp de 6 luni, înmulțit cu 100.
+(6) Această sumă se plătește pentru fiecare punct procentual de ocupare pe loc, până la un nivel maxim de 75 % pe o perioadă de 6 luni. Dacă gradul de ocupare este mai mic de 20 %, nu se efectuează nicio rambursare.
+(7) După caz, această sumă se reduce cu sprijinul acordat de alte fonduri ESI și de alte instrumente ale Uniunii.
+(8) Activitățile de formare ale secțiunilor „căi de dezvoltare specifice anumitor grupuri-țintă” și „sprijin lingvistic” nu sunt considerate relevante.
