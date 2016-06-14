@@ -1,0 +1,164 @@
+{
+ "key": "dcc-220-2016",
+ "label": "Decizia CCR nr. 220/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "220",
+ "date": "2016-04-12",
+ "year": "2016",
+ "heading": "DECIZIE nr. 220 din 12 aprilie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 271^1 din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "443",
+  "bis": false,
+  "date": "2016-06-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.678/2/2015",
+  "1.363D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "271-1",
+     "alin": [
+      "5",
+      "6",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 271^1 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, în ce priveşte sintagma \"şi să prevadă plata necondiţionată la prima cerere a autorităţii contractante, în măsura în care contestaţia/cererea/plângerea va fi respinsă\", excepţie ridicată de Societatea \"Dinamic Company\" - S.R.L. din judeţul Ilfov, în Dosarul nr. 1.678/2/2015 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal. 2. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 271^1 alin. (6) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de aceeaşi autoare în acelaşi dosar al aceleiaşi instanţe. 3. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de aceeaşi autoare în acelaşi dosar al aceleiaşi instanţe şi constată că prevederile art. 271^1 alin. (1)-(4) şi (7) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "271-1",
+     "alin": [
+      "5",
+      "6",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-06-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179202",
+  "text_sha256": "6f6ce46d2a5b583b265cb66ca202414e2cc07e5e62a6692a68d28ffbacef53d2",
+  "catalogue_sha256": "6f6ce46d2a5b583b265cb66ca202414e2cc07e5e62a6692a68d28ffbacef53d2",
+  "fetched": "2026-11-03T03:32:52Z",
+  "chars": 16725,
+  "portal_id": "179202",
+  "tip": "DECIZIE"
+ }
+}
