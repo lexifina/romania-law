@@ -1,0 +1,35 @@
+# Anexa nr. 1 la instrucțiuni
+GLOSAR
+Termeni și definiții
+Acreditare jurnaliști - recunoașterea oficială a unui jurnalist sau a unui alt reprezentant al mass-mediei prin autorizarea prezenței acestuia ca reprezentant al unei instituții de presă în sediul sau la activitățile unei organizații/instituții, la care accesul mass-mediei este permis
+Audit de comunicare - evaluare a sistemului activităților de comunicare dintr-o organizație; analiza cuprinde atât dimensiunea structurală, cât și produsele de comunicare, prin raportare la obiectivele organizației
+Briefing de presă - tehnică de comunicare asemănătoare cu o conferință de presă, în care se supune atenției un singur subiect
+Canal de comunicare - mediul sau mijlocul prin intermediul căruia un mesaj ajunge de la emițător la receptor și/sau invers
+Comunicare/Informare - proces de emitere a unui mesaj și de transmitere a acestuia, într-o formă codificată, cu ajutorul unui canal către un destinatar în vederea recepționării
+Comunicare/Informare internă - comunicare destinată personalului din interiorul unei organizații/instituții
+Comunicat de presă - formă a comunicării instituționale; invariabil, comunicatul de presă apare din inițiativa sursei și este întotdeauna scris
+Conferință de presă - tehnică de comunicare materializată sub forma unei întâlniri oficiale în cadrul căreia reprezentanții unei organizații difuzează informații jurnaliștilor și răspund la întrebările acestora
+Criză mediatică - caz particular al crizei de comunicare în care mass-media intervine pentru a umple vidul de informație din surse oficiale, tinzând să devină sursa de informație, și nu canal de transmitere a acesteia
+Diplomație publică - procesul de comunicare intercultural dintre instituții și organizații dintr-un stat și audiențele internaționale în scopul promovării interesului național, avansarea obiectivelor de politică externă și informării publicului-țintă despre politica, acțiunile și valorile statului inițiator
+Declarație de presă - formă verbală a comunicării instituționale care se realizează din inițiativa emițătorului în cadrul conferinței de presă sau la solicitarea mass-mediei
+Escortă media - o persoană desemnată să însoțească jurnaliști sau alți reprezentanți ai mass-mediei
+Eveniment - accident sau incident soldat cu victime sau pagube materiale, faptă sau infracțiune cu impact major asupra imaginii unei instituții, care captează interesul mass-mediei și face obiectul unei acțiuni de informare și relații publice
+Gestionare a crizelor - activitate complexă ce implică, pe de o parte, anticipare - realizarea unor scenarii de ținere sub control și rezolvare a crizelor, iar, pe de altă parte, răspuns rapid la apariția crizei, disciplină fermă în respectarea soluției adoptate atât din partea personalului de informare și relații publice, cât și a conducerii organizației
+Internet - totalitatea calculatoarelor și a rețelelor de calculatoare de pe tot cuprinsul globului, care comunică între ele prin intermediul protocolului TCP/IP
+Interviu de presă - formă de comunicare care se materializează într-un dialog între un jurnalist și un intervievat; de regulă, interviurile sunt înregistrate de jurnaliști prin mijloace audio sau video și sunt utilizate ulterior pentru redactarea/editarea de materiale de presă
+Intranet - rețea de calculatoare proiectată pentru a asigura comunicarea și schimbul de informații în cadrul unei organizații, ale cărei fișiere și programe sunt protejate împotriva accesului utilizatorilor din afara rețelei; prin utilizarea rețelei intranet se urmărește asigurarea accesului la baze de date specifice, distribuirea pe cale electronică a diferitelor documente și programe, precum și asigurarea unor servicii angajaților
+Mass-media - termen generic care desemnează, în același timp, orice mijloc de comunicare în masă, tipărită sau electronică, agenție de presă, radio, televiziune, cinema, afișaj carte, CD, DVD și un intermediar ce transmite un mesaj către un grup
+Multimedia - programe suplimentare introduse în calculator pentru a trata sunetul, datele, imaginile ori toate acestea la un loc
+New media - tehnologii care au la bază internetul utilizate pentru interacțiune socială și pentru a transforma monologurile din mass-media în dialoguri interactive sociale
+Propagandă - activitate sistematică de transmitere, promovare sau răspândire a unor doctrine, teze sau idei de pe pozițiile unei anumite grupări sociale, ideologice sau politice în scopul influențării schimbării, al formării unor concepții, atitudini, opinii, convingeri sau comportamente
+Produse de informare publică - ziare, reviste, broșuri editate de Trustul de presă al MApN și de redacțiile de la nivelul categoriilor de forțe, al comandamentelor și diviziilor, al marilor unități și unităților militare, destinate exclusiv și explicit informării publicului cu privire la activitățile structurilor militare
+Public-țintă - grup de persoane fizice/juridice ce face obiectul acțiunilor de informare și relații publice
+Purtător de cuvânt - persoana desemnată să îl reprezinte pe comandantul/șeful structurii militare în relația cu mass-media
+Redacții mass-media militară - substructuri organizatorice care realizează publicații tipărite sau electronice, emisiuni de radio sau de televiziune, constituite în statul de organizare al unor mari unități/unități militare și încadrate cu personal specializat, jurnaliști militari și personal tehnic
+Reguli de bază - condiții stabilite de comun acord, în avans, cu reprezentanții mass-mediei care vor sta la baza desfășurării unui interviu sau unei activități, precum și modul de folosire a informațiilor
+Reprezentanții mass-mediei - toate persoanele acreditate ca jurnaliști, inclusiv acele persoane care sprijină în culegerea și relatarea știrilor, precum producătorii, fotografii, cameramanii, excluzând șoferii, interpreții sau alte persoane care nu sunt direct implicate în procesul de redactare a știrilor
+Social media/Rețele de socializare - rețea informațională de utilizatori internet bazată pe anumite site-uri web la care utilizatorii se pot înscrie și interacționa cu alți utilizatori deja înscriși
+Solicitare de informații de interes public - acțiune verbală sau scrisă, pe suport hârtie sau electronic, prin care o persoană fizică sau juridică, română ori străină, poate cere informații considerate ca fiind de interes general de la o instituție publică
+Sondaj de opinie - tip de cercetare sociologică având ca scop cunoașterea opiniei publice, a stării și dinamicii ei
+Știre/Informație de presă - o primă avizare pentru mass-media - agenții, presă scrisă, radiouri, televiziuni - despre un eveniment sau produse, care sunt făcute disponibile publicului prin alte mijloace decât un comunicat de presă
+Think-tank - o asociație/organizație de persoane specializate sau chiar o persoană competentă care oferă, de regulă gratuit, informații necesare pentru a crea, amplifica, diminua, înlătura, organiza sau optimiza un anume compartiment funcțional al societății, așa cum ar fi optimizarea structurii militare la nivel local, regional, statal, continental sau la nivel global.
