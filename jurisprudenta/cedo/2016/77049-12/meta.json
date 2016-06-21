@@ -1,0 +1,62 @@
+{
+ "key": "cedo-77049-12-2016-02-25",
+ "label": "CEDO, Murat Koncavar c. României, 2016-02-25",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2016-02-25",
+ "year": "2016",
+ "heading": "DECIZIE din 25 februarie 2016",
+ "subtitle": "cu privire la Cererea nr. 77.049/12 introdusă de Murat Koncavar împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "458",
+  "bis": false,
+  "date": "2016-06-21",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "77049/12"
+ ],
+ "case_name": "Murat Koncavar",
+ "subjects": [],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "Decide să scoată cererea de pe rol, în temeiul art. 39 din Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179313",
+  "text_sha256": "bd6bef1afa54db987cc0cb7bbc3c66b87a81b0d7c8f291fa1ed7451069e8a4c4",
+  "catalogue_sha256": "bd6bef1afa54db987cc0cb7bbc3c66b87a81b0d7c8f291fa1ed7451069e8a4c4",
+  "fetched": "2026-11-03T03:32:41Z",
+  "chars": 3169,
+  "portal_id": "179313",
+  "tip": "DECIZIE"
+ }
+}
