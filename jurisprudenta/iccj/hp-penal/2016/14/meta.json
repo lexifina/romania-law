@@ -1,0 +1,308 @@
+{
+ "key": "iccj-hp-penal-14-2016",
+ "label": "Decizia ÎCCJ nr. 14/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "14",
+ "date": "2016-05-18",
+ "year": "2016",
+ "heading": "DECIZIE nr. 14 din 18 mai 2016",
+ "subtitle": "sesizarea formulată de Tribunalul Dâmboviţa - Secţia penală prin Încheierea de şedinţă din data de 11 martie 2016, pronunţată în Dosarul nr. 1.427/262/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea unor chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "460",
+  "bis": false,
+  "date": "2016-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.427/262/2015",
+  "1.317/1/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "585",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Dâmboviţa - Secţia penală prin Încheierea de şedinţă din data de 11 martie 2016, pronunţată în Dosarul nr. 1.427/262/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: 1. În cazul intervenirii liberării condiţionate din executarea unei pedepse privative de libertate, acordată potrivit dispoziţiilor art. 59 şi următoarele din Codul penal anterior, dar după 1 februarie 2014, comiterea unei noi infracţiuni în interiorul restului rămas neexecutat din pedeapsă ar duce la aplicarea art. 61 din Codul penal anterior sau a art. 104 alin. (2) din Codul penal. 2. În cazul în care Înalta Curte de Casaţie şi Justiţie apreciază că în cazul intervenirii liberării condiţionate din executarea unei pedepse privative de libertate, acordată potrivit dispoziţiilor art. 59 şi următoarele din Codul penal anterior, dar după 1 februarie 2014, comiterea unei noi infracţiuni în interiorul restului rămas neexecutat din pedeapsă ar duce la aplicarea art. 61 din Codul penal anterior, care este relevanţa într-o situaţie precum cea de faţă, în cadrul soluţionării unei cereri ulterioare întemeiate potrivit art. 585 din Codul de procedură penală, a faptului că printr-o hotărâre anterioară aplicabilă persoanei condamnate s-a făcut aplicarea dispoziţiilor art. 104 alin. (2) din Codul penal, iar nu ale art. 61 din Codul penal anterior. 3. În aplicarea art. 585 din Codul de procedură penală unei situaţii precum cea în speţă, a unei persoane condamnate definitiv în anul 2013 pentru 4 infracţiuni comise în perioada 2009-2011, în anul 2015 pentru 4 infracţiuni comise în anul 2011 şi anterior, în anul 2015 pentru 2 infracţiuni comise la 14 iulie 2014 în concurs cu cele imediat anterior menţionate, dar în recidivă postcondamnatorie faţă de primele, după liberarea condiţionată din executarea pedepsei pentru acestea survenită la 21 mai 2014, cu rest rămas neexecutat de 475 de zile închisoare, care este ordinea şi legea penală aplicabilă operaţiunilor necesare modificării pedepsei potrivit instituţiilor potenţial aplicabile în cauză - concurs de infracţiuni, recidivă şi revocare beneficiu liberare condiţionată, atât din perspectiva aplicării sau neaplicării autorităţii de lucru judecat a unei sentinţe anterioare cu consecinţa cumulării restului rămas neexecutat de 475 de zile unei pedepse intermediare potrivit art. 104 alin. (2) din Codul penal."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "a"
+     ]
+    },
+    {
+     "art": "209",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "588",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "587",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "585",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "396",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179329",
+  "text_sha256": "194192de23c917202576f7d7b23ec5430a129aded6c3fb8f9347856660d725f3",
+  "catalogue_sha256": "194192de23c917202576f7d7b23ec5430a129aded6c3fb8f9347856660d725f3",
+  "fetched": "2026-11-03T03:32:41Z",
+  "chars": 82060,
+  "portal_id": "179329",
+  "tip": "DECIZIE"
+ }
+}
