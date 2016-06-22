@@ -1,0 +1,212 @@
+{
+ "key": "iccj-ril-7-2016",
+ "label": "Decizia ÎCCJ nr. 7/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "7",
+ "date": "2016-05-16",
+ "year": "2016",
+ "heading": "DECIZIE nr. 7 din 16 mai 2016",
+ "subtitle": "referitoare la recursul în interesul legii privind interpretarea şi aplicarea dispoziţiilor art. 127 alin. (1) şi (3) din Codul de procedură civilă, cu privire la interpretarea sintagmei \"instanţa la care îşi desfăşoară activitatea\", respectiv dacă aceste norme de drept sunt sau nu incidente şi în cazul reclamanţilor ce fac parte din personalul auxiliar de specialitate (grefier) al parchetelor de pe lângă instanţele judecătoreşti",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "461",
+  "bis": false,
+  "date": "2016-06-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Înaltei Curţi de Casaţie şi Justiţie privind interpretarea şi aplicarea dispoziţiilor art. 127 alin. (1) şi (3) din Codul de procedură civilă şi, în consecinţă, stabileşte că:",
+  "I. Sintagma \"instanţa la care îşi desfăşoară activitatea\" din cuprinsul art. 127 alin. (1) din Codul de procedură civilă trebuie interpretată restrictiv, în sensul că se referă la situaţia în care judecătorul îşi desfăşoară efectiv activitatea în cadrul instanţei competente să se pronunţe asupra cererii de chemare în judecată în primă instanţă.",
+  "II. Art. 127 alin. (1) şi (3) din Codul de procedură civilă trebuie interpretat, sub aspectul noţiunii de \"grefier\", în sensul că este aplicabil şi în cazul reclamanţilor care fac parte din personalul auxiliar de specialitate (grefier) la parchetele de pe lângă instanţele judecătoreşti.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 74
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179368",
+  "text_sha256": "0596d12d35d63930c3b1bbb96aa0e7de54aeac8c98eae1599126c640ba4837db",
+  "catalogue_sha256": "0596d12d35d63930c3b1bbb96aa0e7de54aeac8c98eae1599126c640ba4837db",
+  "fetched": "2026-11-03T03:32:40Z",
+  "chars": 47994,
+  "portal_id": "179368",
+  "tip": "DECIZIE"
+ }
+}
