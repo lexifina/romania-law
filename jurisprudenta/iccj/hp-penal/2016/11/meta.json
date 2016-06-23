@@ -1,0 +1,353 @@
+{
+ "key": "iccj-hp-penal-11-2016",
+ "label": "Decizia ÎCCJ nr. 11/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "11",
+ "date": "2016-05-05",
+ "year": "2016",
+ "heading": "DECIZIE nr. 11 din 5 mai 2016",
+ "subtitle": "privind pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept dacă în aplicarea dispozițiilor art. 5 din Codul penal, conform Deciziei nr. 265/2014 a Curții Constituționale",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "468",
+  "bis": false,
+  "date": "2016-06-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.104/1/2016",
+  "4.493/311/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "86-4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secția penală și pentru cauze cu minori în Dosarul nr. 4.493/311/2015, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept dacă \"în aplicarea dispozițiilor art. 5 din Codul penal, conform Deciziei nr. 265/2014 a Curții Constituționale, în cazul pluralității de infracțiuni constând într-o infracțiune pentru care potrivit Codului penal anterior a fost aplicată printr-o hotărâre definitivă o pedeapsă cu suspendarea sub supraveghere a executării pedepsei conform art. 86^1 din Codul penal anterior și, respectiv, o infracțiune săvârșită în termenul de încercare, pentru care legea penală mai favorabilă este considerată legea nouă, stabilirea și executarea pedepsei rezultante în urma revocării suspendării sub supraveghere se realizează potrivit dispozițiilor art. 16 alin. (1) din Legea nr. 187/2012 pentru punerea în aplicare a Legii nr. 286/2009 privind Codul penal raportat la art. 86^4 alin. 1 din Codul penal anterior sau conform art. 96 alin. (4) și (5) din Codul penal actual.\"",
+  "Stabilește că, în aplicarea dispozițiilor art. 5 din Codul penal, conform Deciziei Curții Constituționale nr. 265/2014, în cazul pluralității de infracțiuni constând într-o infracțiune pentru care potrivit Codului penal anterior a fost aplicată printr-o hotărâre definitivă o pedeapsă cu suspendarea sub supraveghere a executării pedepsei potrivit art. 86^1 din Codul penal anterior și o infracțiune săvârșită în termenul de încercare, pentru care legea penală mai favorabilă este considerată legea nouă, stabilirea și executarea pedepsei rezultante în urma revocării suspendării sub supraveghere se realizează conform art. 96 alin. (4) și (5) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 60
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "86-4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-06-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179409",
+  "text_sha256": "2853bd2a7ffdfb3a6ee66a555e09fbc5e410feade09201ef897e30dd49cffb1d",
+  "catalogue_sha256": "2853bd2a7ffdfb3a6ee66a555e09fbc5e410feade09201ef897e30dd49cffb1d",
+  "fetched": "2026-11-03T03:32:38Z",
+  "chars": 67818,
+  "portal_id": "179409",
+  "tip": "DECIZIE"
+ }
+}
