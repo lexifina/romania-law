@@ -1,0 +1,124 @@
+{
+ "key": "cedo-65158-09-2016-02-02",
+ "label": "CEDO, Drăgan c. României, 2016-02-02",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-02-02",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 2 februarie 2016",
+ "subtitle": "în Cauza Drăgan împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "467",
+  "bis": false,
+  "date": "2016-06-23",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "65158/09",
+  "65158/07"
+ ],
+ "case_name": "Drăgan",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară capetele de cerere întemeiate pe art. 3 privind condiţiile de detenţie şi lipsa unui tratament medical adecvat şi a unei diete corespunzătoare admisibile, iar celelalte capete de cerere inadmisibile; 2. hotărăşte că a fost încălcat art. 3 din Convenţie din cauza condiţiilor de detenţie ale reclamantului şi a lipsei unui tratament dentar adecvat şi a unei diete corespunzătoare; 3. hotărăşte:",
+  "a) că statul pârât trebuie să plătească, în termen de trei luni de la data rămânerii definitive a hotărârii în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "(i) 11.000 EUR (unsprezece mii euro), plus orice sumă ce poate fi datorată cu titlu de impozit reclamantului, pentru prejudiciul moral; (ii) 2.150 EUR (două mii o sută cincizeci de euro), de plătit direct doamnei Nicoleta Tatiana Popescu; 4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2006",
+    "number": "275",
+    "year": "2006",
+    "path": "lege/2006/275"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179401",
+  "text_sha256": "9bb66673f9e22f1fd8531a158607083a8dc50e8928bfadc80781a4be763058ec",
+  "catalogue_sha256": "9bb66673f9e22f1fd8531a158607083a8dc50e8928bfadc80781a4be763058ec",
+  "fetched": "2026-11-03T03:32:36Z",
+  "chars": 49699,
+  "portal_id": "179401",
+  "tip": "HOTĂRÂRE"
+ }
+}
