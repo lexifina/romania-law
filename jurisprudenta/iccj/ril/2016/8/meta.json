@@ -1,0 +1,457 @@
+{
+ "key": "iccj-ril-8-2016",
+ "label": "Decizia ÎCCJ nr. 8/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "8",
+ "date": "2016-05-16",
+ "year": "2016",
+ "heading": "DECIZIE nr. 8 din 16 mai 2016",
+ "subtitle": "privind examinarea recursului în interesul legii cu privire la interpretarea şi aplicarea dispoziţiilor art. 2 alin. (1) şi art. 7 lit. a) din Legea nr. 188/2000 privind executorii judecătoreşti, republicată, cu modificările şi completările ulterioare, raportat la art. 460 alin. 1, art. 246 alin. 1 şi 3 şi art. 274 alin. 1 din Codul de procedură civilă din 1865, în prezent art. 790 alin. (1), art. 406 alin. (1) şi (3) şi art. 453 alin. (1) din Codul de procedură civilă, în referire la obligarea executorului judecătoresc la plata cheltuielilor de judecată, în situaţia în care acesta a renunţat la cererea de validare a popririi ori aceasta a fost respinsă de instanţă, ca urmare a îndeplinirii obligaţiilor de către terţul poprit sau de către debitor",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE3 RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "480",
+  "bis": false,
+  "date": "2016-06-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "460",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "790",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 2 alin. 1 şi art. 7 lit. a) din Legea nr. 188/2000 privind executorii judecătoreşti, republicată, cu modificările şi completările ulterioare, raportat la art. 460 alin. 1, art. 246 alin. 1 şi 3 şi art. 274 alin. 1 din Codul de procedură civilă din 1865, în prezent art. 790 alin. (1), art. 406 alin. (1) şi (3) şi art. 453 alin. (1) din Codul de procedură civilă, executorul judecătoresc nu poate fi obligat la plata cheltuielilor de judecată, în situaţia în care acesta a renunţat la cererea de validare a popririi ori cererea a fost respinsă de instanţă, ca urmare a îndeplinirii obligaţiilor de către terţul poprit sau de către debitor.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "460",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "373-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "371-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "790",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "670",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "626",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "627",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "654",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "680",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "698",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "746",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "830",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "910",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "906",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "188",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1353",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 459/2006",
+    "number": "459",
+    "year": "2006",
+    "path": "lege/2006/459"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-06-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179528",
+  "text_sha256": "e23fc5691e6c145c36bd7372e3fb056406f7ff144f408daf592952d538a83511",
+  "catalogue_sha256": "e23fc5691e6c145c36bd7372e3fb056406f7ff144f408daf592952d538a83511",
+  "fetched": "2026-11-03T03:32:24Z",
+  "chars": 54783,
+  "portal_id": "179528",
+  "tip": "DECIZIE"
+ }
+}
