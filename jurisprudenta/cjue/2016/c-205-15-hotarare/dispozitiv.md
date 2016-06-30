@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera a doua) din 30 iunie 2016, Cauza C-205/15
+
+Pentru aceste motive, Curtea (Camera a doua) declară:
+Articolul 47 din Carta drepturilor fundamentale a Uniunii Europene, precum și principiile echivalenței și efectivității trebuie interpretate în sensul că nu se opun unei reglementări precum cea în discuție în litigiul principal, care scutește persoanele juridice de drept public de plata taxelor judiciare de timbru atunci când acestea introduc o contestație la executarea silită a unei decizii judecătorești privind rambursarea unor taxe percepute cu încălcarea dreptului Uniunii și le scutește pe acestea de obligația de a depune o cauțiune cu ocazia introducerii cererii de suspendare a unei astfel de proceduri de executare silită, în timp ce cererile prezentate de persoanele fizice și juridice de drept privat în cadrul acestor proceduri rămân, în principiu, supuse taxelor judiciare.
