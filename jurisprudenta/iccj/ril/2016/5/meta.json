@@ -1,0 +1,202 @@
+{
+ "key": "iccj-ril-5-2016",
+ "label": "Decizia ÎCCJ nr. 5/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "5",
+ "date": "2016-05-16",
+ "year": "2016",
+ "heading": "DECIZIE nr. 5 din 16 mai 2016",
+ "subtitle": "privind examinarea recursului în interesul legii referitoare la interpretarea şi aplicarea unitară a dispoziţiilor art. 7 alin. (1) din Legea nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "493",
+  "bis": false,
+  "date": "2016-07-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "6/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2008",
+    "number": "76",
+    "year": "2008",
+    "path": "lege/2008/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii promovat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie.",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 7 alin. (1) din Legea nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare stabileşte că:",
+  "În cazul inculpaţilor minori sancţionaţi prin aplicarea unor măsuri educative conform noului Cod penal, instanţa de judecată nu poate dispune prelevarea probelor biologice pentru obţinerea şi stocarea în Sistemul Naţional de Date Genetice Judiciare a profilului genetic.",
+  "Obligatorie, potrivit art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2008",
+    "number": "76",
+    "year": "2008",
+    "path": "lege/2008/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-07-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179632",
+  "text_sha256": "e6efd4298ee58596840a0604b25bbacf5cc401a89852bd291d7df4b6d56842ae",
+  "catalogue_sha256": "e6efd4298ee58596840a0604b25bbacf5cc401a89852bd291d7df4b6d56842ae",
+  "fetched": "2026-11-03T03:32:15Z",
+  "chars": 42713,
+  "portal_id": "179632",
+  "tip": "DECIZIE"
+ }
+}
