@@ -1,0 +1,2 @@
+# Anexa 2
+CRITERII 23/06/2016
