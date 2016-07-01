@@ -1,0 +1,167 @@
+{
+ "key": "dcc-239-2016",
+ "label": "Decizia CCR nr. 239/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "239",
+ "date": "2016-04-19",
+ "year": "2016",
+ "heading": "DECIZIE nr. 239 din 19 aprilie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 76 alin. (2) din Legea nr. 293/2004 privind Statutul funcţionarilor publici cu statut special din Administraţia Naţională a Penitenciarelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "495",
+  "bis": false,
+  "date": "2016-07-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.028/62/2015",
+  "1.526D/2015",
+  "1.879D/2015",
+  "5.687/105/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 293/2004",
+    "number": "293",
+    "year": "2004",
+    "path": "lege/2004/293"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Alin Mădălin Porca în Dosarul nr. 2.028/62/2015 al Tribunalului Braşov - Secţia a II-a civilă, de contencios administrativ şi fiscal şi de Tania Elena Panait în Dosarul nr. 5.687/105/2015 al Tribunalului Prahova - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că dispoziţiile art. 76 alin. (2) din Legea nr. 293/2004 privind Statutul funcţionarilor publici cu statut special din Administraţia Naţională a Penitenciarelor sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Braşov - Secţia a II-a civilă, de contencios administrativ şi fiscal şi Tribunalului Prahova - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 293/2004",
+    "number": "293",
+    "year": "2004",
+    "path": "lege/2004/293"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-07-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179648",
+  "text_sha256": "bf38bcf04bfdadcce46b6380293fce3cc87b80eeb36b7f35e10fa67eb4204b3d",
+  "catalogue_sha256": "bf38bcf04bfdadcce46b6380293fce3cc87b80eeb36b7f35e10fa67eb4204b3d",
+  "fetched": "2026-11-03T03:32:15Z",
+  "chars": 17980,
+  "portal_id": "179648",
+  "tip": "DECIZIE"
+ }
+}
