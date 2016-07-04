@@ -1,0 +1,224 @@
+{
+ "key": "iccj-hp-penal-12-2016",
+ "label": "Decizia ÎCCJ nr. 12/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "12",
+ "date": "2016-05-16",
+ "year": "2016",
+ "heading": "DECIZIE nr. 12 din 16 mai 2016",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a dispoziţiilor art. 1.391 alin. (1) şi art. 1.371 alin. (1) din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "498",
+  "bis": false,
+  "date": "2016-07-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "911/1/2016",
+  "1.804/308/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1391",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1371",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Târgu Mureş - Secţia penală şi pentru cauze cu minori şi de familie în Dosarul nr. 1.804/308/2014 privind pronunţarea unei hotărâri prealabile şi, în consecinţă, stabileşte că:",
+  "Dispoziţiile art. 1.391 alin. (1) din Codul civil se interpretează în sensul că, într-o cauză penală având ca obiect o infracţiune de vătămare corporală din culpă, doar victima infracţiunii, care a suferit un prejudiciu, este îndreptăţită să obţină o despăgubire pentru restrângerea posibilităţilor de viaţă familială şi socială.",
+  "Dispoziţiile art. 1.371 alin. (1) din Codul civil se interpretează în sensul că autorul faptei va fi ţinut să răspundă numai pentru partea de prejudiciu pe care a pricinuit-o în cazul în care victima prejudiciului a contribuit şi ea cu vinovăţie la cauzarea ori la mărirea prejudiciului sau nu l-a evitat, în tot sau în parte, deşi putea să o facă.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit dispoziţiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1391",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1371",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1381",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1349",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1385",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1387",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1390",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1386",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "184",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Comisiei de Supraveghere a Asigurărilor nr. 14/2011",
+    "number": "14",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-07-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179706",
+  "text_sha256": "a03a2e163be286fffc65b7965691f648915d22d65275fdcad769825eb125809e",
+  "catalogue_sha256": "a03a2e163be286fffc65b7965691f648915d22d65275fdcad769825eb125809e",
+  "fetched": "2026-11-03T03:32:13Z",
+  "chars": 44062,
+  "portal_id": "179706",
+  "tip": "DECIZIE"
+ }
+}
