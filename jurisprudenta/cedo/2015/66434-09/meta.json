@@ -1,0 +1,58 @@
+{
+ "key": "cedo-66434-09-2015-10-22",
+ "label": "CEDO, Nicolae Sorinel Niţu c. României, 2015-10-22",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2015-10-22",
+ "year": "2015",
+ "heading": "DECIZIE din 22 octombrie 2015",
+ "subtitle": "cu privire la Cererea nr. 66.434/09 introdusă de Nicolae Sorinel Niţu împotriva României şi 3 alte cereri (a se vedea lista anexată)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "500",
+  "bis": false,
+  "date": "2016-07-05",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "66434/09"
+ ],
+ "case_name": "Nicolae Sorinel Niţu",
+ "dossiers": [
+  "2.976/95/2009"
+ ],
+ "subjects": [],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA: decide să conexeze cererile; decide să scoată cererile de pe rol în conformitate cu art. 39 din Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179737",
+  "text_sha256": "0473e9faf0e18d42fa634cf8b660579051efa9d2b4469ccbcc842db5b85c8c52",
+  "catalogue_sha256": "0473e9faf0e18d42fa634cf8b660579051efa9d2b4469ccbcc842db5b85c8c52",
+  "fetched": "2026-11-03T03:32:08Z",
+  "chars": 6118,
+  "portal_id": "179737",
+  "tip": "DECIZIE"
+ }
+}
