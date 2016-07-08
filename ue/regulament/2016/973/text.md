@@ -1,0 +1,35 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2016/973 AL COMISIEI
+din 17 iunie 2016
+privind autorizarea bislizinatului de zinc ca aditiv furajer în hrana tuturor speciilor de animale
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor și stabilește motivele și procedurile de acordare a unei astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, a fost depusă o cerere pentru autorizarea chelatului de zinc al L-lizinei HCl, însoțită de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea respectivă se referă la autorizarea chelatului de zinc al L-lizinei HCl ca aditiv furajer în hrana tuturor speciilor de animale, urmând ca această substanță să fie clasificată în categoria „aditivi nutriționali”.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat în avizul său din 20 octombrie 2015 (2) că, în condițiile de utilizare propuse, chelatul de zinc al L-lizinei HCl nu are un efect nociv asupra sănătății animale sau asupra sănătății consumatorilor și că nu vor apărea probleme de siguranță pentru utilizatori, cu condiția să se ia măsurile de protecție corespunzătoare.
+(5) În ceea ce privește impactul asupra mediului, în special scurgerile și infiltrațiile de zinc în apa de suprafață, autoritatea a recomandat în avizul său din 8 aprilie 2014 (3) să se reducă semnificativ conținutul maxim de zinc în furajele complete pentru mai multe specii țintă. Cu toate acestea, pentru a elimina riscul de a nu răspunde nevoilor fiziologice ale animalelor, mai ales în perioade speciale ale vieții acestora, sau orice alte efecte negative asupra sănătății animalelor, reducerea conținutului de zinc recomandată de autoritate nu ar trebui să fie introdusă într-o singură etapă. În vederea unor noi reduceri, operatorii din sectorul hranei pentru animale și institutele de cercetare ar trebui încurajate să colecteze date științifice noi referitoare la nevoile fiziologice ale diferitor specii de animale.
+(6) Autoritatea a concluzionat, de asemenea, că chelatul de zinc al L-lizinei HCl poate fi considerat o sursă eficace de zinc pentru toate speciile de animale și a recomandat ca substanța respectivă să fie denumită bislizinat de zinc. Autoritatea nu consideră că sunt necesare cerințe specifice de monitorizare ulterioară introducerii pe piață. Aceasta a verificat, de asemenea, raportul privind metoda de analiză a aditivului furajer în hrana animalelor, prezentat de laboratorul de referință înființat în temeiul articolului 21 din Regulamentul (CE) nr. 1831/2003. Evaluarea bislizinatului de zinc arată că sunt îndeplinite condițiile de autorizare, astfel cum sunt prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, ar trebui autorizată utilizarea substanței respective în conformitate cu specificațiile din anexa la prezentul regulament.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Substanța menționată în anexă, aparținând categoriei „aditivi nutriționali” și grupei funcționale „compuși de oligoelemente”, este autorizată ca aditiv în hrana animalelor, în condițiile prevăzute în anexa respectivă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 17 iunie 2016.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 268, 18.10.2003, p. 29.
+(2) EFSA Journal 2015;13(11):4267.
+(3) EFSA Journal 2014;12(5):3668.
+ANEXĂ
+Numărul de identificare al aditivului | Numele deținătorului autorizației | Aditiv | Compoziție, formulă chimică, descriere, metodă analitică | Specie sau categorie de animale | Vârstă maximă | Conținut minim | Conținut maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+Conținut de element (Zn) în mg/kg de furaj complet cu un conținut de umiditate de 12 %
+Categoria aditivilor nutriționali. Grupa funcțională: compuși de oligoelemente.
+3b613 | — | Bislizinat de zinc | Caracteristicile aditivului Pulbere sau granule cu un conținut minim de zinc de 13,5 % și un conținut minim de lizină de 85,0 %. Zinc sub formă de chelat de zinc al bislizinei HCl: minimum 85 %. Caracterizarea substanței active Chelat de zinc al bislizinei HCl Formula chimică: Zn(C6H13N2O2)2 × 2HCl × 2H2O Numărul CAS: 23333-98-4 Metode analitice (1) Pentru cuantificarea conținutului de lizină în aditivul furajer și în preamestecuri: — cromatografie prin schimb ionic cuplată cu derivatizare post-coloană și detecție fotometrică (IEC-UV/FD); sau — VDLUFA 4.11.6 ori EN ISO 17180. Pentru cuantificarea conținutului total de zinc în aditivul furajer și în preamestecuri: — spectrometrie cu emisie atomică cu plasmă cuplată inductiv (ICP-AES) – EN 15510; sau — spectrometrie cu emisie atomică cu plasmă cuplată inductiv după digestia sub presiune (ICP-AES) – EN 15621. Pentru cuantificarea zincului total din materiile prime furajere și hrana combinată pentru animale: — spectrometrie cu emisie atomică cu plasmă cuplată inductiv (ICP-AES) – EN 15510; sau — spectrometrie cu emisie atomică cu plasmă cuplată inductiv după digestia sub presiune (ICP-AES) – EN 15621; sau — spectrometrie de absorbție atomică (AAS) – Regulamentul (CE) nr. 152/2009 al Comisiei(2). | Toate speciile de animale | — | — | Câini și pisici: 200 (total) Salmonide și înlocuitorii de lapte pentru viței: 180 (total) Purcei, scroafe, iepuri și toți peștii în afară de salmonide: 150 (total) Alte specii și categorii: 120 (total) | 1. Aditivul este încorporat în furaje sub formă de preamestec. 2. Bislizinatul de zinc poate fi introdus pe piață și utilizat ca aditiv care constă într-un preparat. 3. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice adecvate pentru a diminua riscurile în caz de inhalare, de contact cu pielea sau de contact cu ochii. În cazul în care riscurile nu pot fi reduse la un nivel acceptabil prin aceste proceduri și măsuri, aditivii și preamestecurile se utilizează cu echipament individual de protecție adecvat. | 8 iulie 2026
+(1) Detaliile privind metodele analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
+(2) Regulamentul (CE) nr. 152/2009 al Comisiei din 27 ianuarie 2009 de stabilire a metodelor de eșantionare și analiză pentru controlul oficial al furajelor (JO L 54, 26.2.2009, p. 1).
