@@ -1,0 +1,290 @@
+{
+ "key": "dcc-406-2016",
+ "label": "Decizia CCR nr. 406/2016",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "406",
+ "date": "2016-06-15",
+ "year": "2016",
+ "heading": "DECIZIE nr. 406 din 15 iunie 2016",
+ "subtitle": "referitoare la obiecţia de neconstituţionalitate a Legii privind transmiterea unui teren din domeniul public al statului şi din administrarea Ministerului Transporturilor, aflat în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A., în domeniul public al oraşului Teiuş şi în administrarea Consiliului Local al Oraşului Teiuş, judeţul Alba",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "533",
+  "bis": false,
+  "date": "2016-07-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "372A/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii privind transmiterea unui teren din domeniul public al statului şi din administrarea Ministerului Transporturilor, aflat în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A., în domeniul public al oraşului Teiuş şi în administrarea Consiliului Local al Oraşului Teiuş, judeţul Alba"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Admite obiecţia de neconstituţionalitate formulată de Preşedintele României şi constată că Legea privind transmiterea unui teren din domeniul public al statului şi din administrarea Ministerului Transporturilor, aflat în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A., în domeniul public al oraşului Teiuş şi în administrarea Consiliului Local al Oraşului Teiuş, judeţul Alba, este neconstituţională.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Preşedintelui României, preşedinţilor celor două Camere ale Parlamentului şi prim-ministrului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "860",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "830",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "oug/1998/12"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 60/2015",
+    "number": "60",
+    "year": "2015",
+    "path": "lege/2015/60"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.705/2006",
+    "number": "1705",
+    "year": "2006",
+    "path": "hg/2006/1705"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-07-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180130",
+  "text_sha256": "0d7a1ec7163458588d3eb2d6d676c5f00593369880a4c0e2421311df56f9061b",
+  "catalogue_sha256": "0d7a1ec7163458588d3eb2d6d676c5f00593369880a4c0e2421311df56f9061b",
+  "fetched": "2026-11-03T03:31:45Z",
+  "chars": 26929,
+  "portal_id": "180130",
+  "tip": "DECIZIE"
+ }
+}
