@@ -1,0 +1,443 @@
+{
+ "key": "dcc-397-2016",
+ "label": "Decizia CCR nr. 397/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "397",
+ "date": "2016-06-15",
+ "year": "2016",
+ "heading": "DECIZIE nr. 397 din 15 iunie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 67 din Legea nr. 192/2006 privind medierea şi organizarea profesiei de mediator, în interpretarea dată prin Decizia nr. 9 din 17 aprilie 2015 a Înaltei Curţi de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept în materie penală, şi ale art. 16 alin. (1) lit. g) teza finală din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "532",
+  "bis": false,
+  "date": "2016-07-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "24.569/302/2014",
+  "1.041D/2015",
+  "8.493/303/2014",
+  "1.186D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2006",
+    "number": "192",
+    "year": "2006",
+    "path": "lege/2006/192"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate ridicată de instanţa de judecată, din oficiu, în Dosarul nr. 24.569/302/2014 (număr în format vechi 111/2015) al Curţii de Apel Bucureşti - Secţia I penală şi de reprezentantul Ministerului Public în Dosarul nr. 8.493/303/2014 (număr în format vechi 4.165/2014) al Curţii de Apel Bucureşti - Secţia a II-a penală şi constată că dispoziţiile art. 67 din Legea nr. 192/2006 privind medierea şi organizarea profesiei de mediator, în interpretarea dată prin Decizia nr. 9 din 17 aprilie 2015 a Înaltei Curţi de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept în materie penală, sunt constituţionale în măsura în care încheierea unui acord de mediere cu privire la infracţiunile pentru care poate interveni împăcarea produce efecte numai dacă are loc până la citirea actului de sesizare a instanţei. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de instanţa de judecată, din oficiu, în Dosarul nr. 24.569/302/2014 (număr în format vechi 111/2015) al Curţii de Apel Bucureşti - Secţia I penală şi de reprezentantul Ministerului Public în Dosarul nr. 8.493/303/2014 (număr în format vechi 4.165/2014) al Curţii de Apel Bucureşti - Secţia a II-a penală şi constată că dispoziţiile art. 16 alin. (1) lit. g) teza finală din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului şi Curţii de Apel Bucureşti - Secţia I penală şi Secţia a II-a penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414-5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2006",
+    "number": "192",
+    "year": "2006",
+    "path": "lege/2006/192"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "159",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "157",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "158",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "132",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-07-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180106",
+  "text_sha256": "835aedb7f42b44445c93ef8316df121bc9569dd16306883b899f5bd7dc9675fa",
+  "catalogue_sha256": "835aedb7f42b44445c93ef8316df121bc9569dd16306883b899f5bd7dc9675fa",
+  "fetched": "2026-11-03T03:31:46Z",
+  "chars": 67797,
+  "portal_id": "180106",
+  "tip": "DECIZIE"
+ }
+}
