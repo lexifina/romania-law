@@ -1,0 +1,193 @@
+{
+ "key": "dcc-301-2016",
+ "label": "Decizia CCR nr. 301/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "301",
+ "date": "2016-05-12",
+ "year": "2016",
+ "heading": "DECIZIE nr. 301 din 12 mai 2016",
+ "subtitle": "",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "549",
+  "bis": false,
+  "date": "2016-07-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "445/54/2015",
+  "1.233D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "271-1",
+     "alin": [
+      "1",
+      "5",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Societatea Compania Forestieră S.R.L. - D. din Baia de Aramă în Dosarul nr. 445/54/2015 al Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal şi constată că dispoziţiile art. 271^1 alin. (1)-(4) şi (7) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii sunt constituţionale în raport cu criticile formulate.",
+  "2. Respinge, ca devenită inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 271^1 alin. (5) în ce priveşte sintagma \"şi să prevadă plata necondiţionată la prima cerere a autorităţii contractante, în măsura în care contestaţia/cererea/plângerea va fi respinsă\" din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de aceeaşi autoare în acelaşi dosar al aceleiaşi instanţe.",
+  "3. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 271^1 alin. (6) din Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, excepţie ridicată de aceeaşi autoare în acelaşi dosar al aceleiaşi instanţe.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "271-1",
+     "alin": [
+      "2",
+      "1",
+      "5",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 51/2014",
+    "number": "51",
+    "year": "2014",
+    "path": "oug/2014/51"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-07-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180306",
+  "text_sha256": "35d96c7b05a23072bb65d9435493c5460b52338a2b7d997ba6222fd7e67cd2a0",
+  "catalogue_sha256": "35d96c7b05a23072bb65d9435493c5460b52338a2b7d997ba6222fd7e67cd2a0",
+  "fetched": "2026-11-06T03:43:11Z",
+  "chars": 27938,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180306",
+   "timestamp": "20250524165206",
+   "crawl": "CC-MAIN-2025-21",
+   "filename": "crawl-data/CC-MAIN-2025-21/segments/1746990724326.86/warc/CC-MAIN-20250524145846-20250524175846-00929.warc.gz",
+   "offset": "301588144",
+   "length": "19742",
+   "sha256": "5a226835079166f7e2283a5f71404e0e34ee5b045d52ffceda1e1d32a624494d"
+  },
+  "portal_id": "180306",
+  "tip": "DECIZIE"
+ }
+}
