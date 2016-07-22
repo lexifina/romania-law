@@ -1,0 +1,209 @@
+{
+ "key": "dcc-356-2016",
+ "label": "Decizia CCR nr. 356/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "356",
+ "date": "2016-05-24",
+ "year": "2016",
+ "heading": "DECIZIE nr. 356 din 24 mai 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 49 alin. (2) şi ale art. 51 alin. (3) teza a doua din Legea nr. 115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice locale nr. 215/2001, precum şi pentru modificarea şi completarea Legii nr. 393/2004 privind Statutul aleşilor locali",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "554",
+  "bis": false,
+  "date": "2016-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.871/111/2016",
+  "701D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2015",
+    "number": "115",
+    "year": "2015",
+    "path": "lege/2015/115"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Partidul România Mare - Filiala Judeţeană Bihor, prin preşedinte Avramescu Nicuşor, în Dosarul nr. 1.871/111/2016 al Tribunalului Bihor - Secţia a III-a contencios administrativ şi fiscal şi constată că prevederile art. 49 alin. (2) şi ale art. 51 alin. (3) teza a doua din Legea nr. 115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea legii administraţiei publice locale nr. 215/2001, precum şi pentru modificarea şi completarea Legii nr. 393/2004 privind Statutul aleşilor locali sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bihor - Secţia a III-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2015",
+    "number": "115",
+    "year": "2015",
+    "path": "lege/2015/115"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180317",
+  "text_sha256": "74a214999e3a18fe58e7b9f50f98457397f997b46131147eb28f56250338a60b",
+  "catalogue_sha256": "74a214999e3a18fe58e7b9f50f98457397f997b46131147eb28f56250338a60b",
+  "fetched": "2026-11-03T03:31:28Z",
+  "chars": 21359,
+  "portal_id": "180317",
+  "tip": "DECIZIE"
+ }
+}
