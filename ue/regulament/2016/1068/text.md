@@ -1,0 +1,36 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2016/1068 AL COMISIEI
+din 1 iulie 2016
+de aprobare a substanței N-ciclopropil-1,3,5-triazină-2,4,6-triamină (ciromazină) ca substanță activă existentă destinată utilizării în produsele biocide din tipul de produs 18
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului din 22 mai 2012 privind punerea la dispoziție pe piață și utilizarea produselor biocide (1), în special articolul 89 alineatul (1) al treilea paragraf,
+întrucât:
+(1) Regulamentul delegat (UE) nr. 1062/2014 al Comisiei (2) stabilește o listă de substanțe active existente care trebuie evaluate în vederea posibilei lor autorizări pentru utilizarea în produsele biocide. Lista respectivă include substanța N-ciclopropil-1,3,5-triazină-2,4,6-triamină (ciromazină).
+(2) Ciromazina a fost evaluată în vederea utilizării în produse din tipul de produs 18, „Insecticide, acaricide și produse pentru combaterea altor artropode”, descris în anexa V la Regulamentul (UE) nr. 528/2012.
+(3) Grecia a fost desemnată autoritate competentă responsabilă de evaluare și, la 28 august 2014, a transmis Comisiei rapoartele de evaluare însoțite de recomandările sale.
+(4) În conformitate cu articolul 7 alineatul (2) din Regulamentul delegat (UE) nr. 1062/2014, avizul Agenției Europene pentru Produse Chimice a fost formulat la 10 decembrie 2015 de către Comitetul pentru produse biocide, ținând seama de concluziile autorității competente responsabile de evaluare.
+(5) Conform acestui aviz, este de așteptat ca produsele biocide din tipul de produs 18 care conțin ciromazină să respecte criteriile prevăzute la articolul 19 alineatul (1) litera (b) din Regulamentul (UE) nr. 528/2012, dacă sunt respectate anumite specificații și condiții referitoare la utilizarea lor.
+(6) Prin urmare, este oportun să se aprobe utilizarea ciromazinei în produsele biocide din tipul de produs 18, sub rezerva respectării anumitor specificații și condiții.
+(7) Întrucât ciromazina îndeplinește criteriile pentru a fi identificată ca substanță foarte persistentă (vP) în conformitate cu anexa XIII la Regulamentul (CE) nr. 1907/2006 (3), articolele care au fost tratate cu sau care conțin ciromazină ar trebui să fie etichetate în mod corespunzător atunci când sunt introduse pe piață.
+(8) Ar trebui ca, înainte de aprobarea unei substanțe active, să se acorde o perioadă de timp rezonabilă, pentru a permite părților interesate să adopte măsurile pregătitoare necesare pentru îndeplinirea noilor cerințe.
+(9) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru produse biocide,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Se aprobă substanța N-ciclopropil-1,3,5-triazină-2,4,6-triamină (ciromazină) ca substanță activă destinată utilizării în produsele biocide din tipul de produs 18, sub rezerva îndeplinirii specificațiilor și condițiilor prevăzute în anexă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 1 iulie 2016.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 167, 27.6.2012, p. 1.
+(2) Regulamentul delegat (UE) nr. 1062/2014 al Comisiei din 4 august 2014 privind programul de lucru pentru examinarea sistematică a tuturor substanțelor active existente conținute de produsele biocide, menționat în Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (JO L 294, 10.10.2014, p. 1.).
+(3) Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului din 18 decembrie 2006 privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH), de înființare a Agenției Europene pentru Produse Chimice, de modificare a Directivei 1999/45/CE și de abrogare a Regulamentului (CEE) nr. 793/93 al Consiliului și a Regulamentului (CE) nr. 1488/94 al Comisiei, precum și a Directivei 76/769/CEE a Consiliului și a Directivelor 91/155/CEE, 93/67/CEE, 93/105/CE și 2000/21/CE ale Comisiei (JO L 396, 30.12.2006, p. 1).
+ANEXĂ
+Denumirea comună | Denumirea IUPAC Numere de identificare | Gradul minim de puritate a substanței active(1) | Data aprobării | Data de expirare a aprobării | Tip de produs | Condiții specifice
+Ciromazină | Denumire IUPAC: N-ciclopropil-1,3,5-triazin-2,4,6-triamină Nr. CE: 266-257-8 Nr. CAS: 66215-27-8 | 950 g/kg | 1 ianuarie 2018 | 31 decembrie 2027 | 18 | Autorizarea produselor biocide este supusă următoarelor condiții: 1. La evaluarea produsului se acordă o atenție deosebită expunerii, riscurilor și eficacității aferente oricărei utilizări care face obiectul unei cereri de autorizare, dar care nu este abordată în evaluarea la nivelul Uniunii a riscurilor prezentate de substanța activă. 2. Având în vedere riscurile identificate pentru utilizările evaluate, la evaluarea produsului trebuie să se acorde o atenție deosebită: (a) utilizatorilor profesionali; (b) apei de suprafață, sedimentelor și solului, în cazul produselor utilizate pentru adăposturile pentru animale. 3. Pentru produsele care pot lăsa reziduuri în alimente sau în hrana pentru animale, se verifică necesitatea de a stabili noi limite maxime de reziduuri (LMR) sau de a le modifica pe cele existente, în conformitate cu Regulamentul (CE) nr. 470/2009 al Parlamentului European și al Consiliului(2) sau cu Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului(3), și se iau orice măsuri adecvate de atenuare a riscurilor pentru a se asigura că LMR-urile aplicabile nu sunt depășite. Introducerea pe piață a articolelor tratate este supusă următoarei condiții: Persoana responsabilă de introducerea pe piață a articolului care a fost tratat cu sau care conține ciromazină trebuie să se asigure că eticheta articolului tratat respectiv oferă informațiile prevăzute la articolul 58 alineatul (3) al doilea paragraf din Regulamentul (UE) nr. 528/2012.
+(1) Puritatea indicată în această coloană a fost gradul minim de puritate a substanței active utilizate pentru evaluarea realizată în conformitate cu articolul 89 alineatul (1) din Regulamentul (UE) nr. 528/2012. Substanța activă din produsul introdus pe piață poate avea o puritate egală sau diferită dacă s-a demonstrat, din punct de vedere tehnic, echivalența acesteia cu substanța evaluată.
+(2) Regulamentul (CE) nr. 470/2009 al Parlamentului European și al Consiliului din 6 mai 2009 de stabilire a procedurilor comunitare în vederea stabilirii limitelor de reziduuri ale substanțelor farmacologic active din alimentele de origine animală, de abrogare a Regulamentului (CEE) nr. 2377/90 al Consiliului și de modificare a Directivei 2001/82/CE a Parlamentului European și a Consiliului și a Regulamentului (CE) nr. 726/2004 al Parlamentului European și al Consiliului (JO L 152, 16.6.2009, p. 11).
+(3) Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului din 23 februarie 2005 privind conținuturile maxime aplicabile reziduurilor de pesticide din sau de pe produse alimentare și hrana de origine vegetală și animală pentru animale și de modificare a Directivei 91/414/CEE (JO L 70, 16.3.2005, p. 1).
