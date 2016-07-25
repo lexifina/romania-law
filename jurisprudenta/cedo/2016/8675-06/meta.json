@@ -1,0 +1,132 @@
+{
+ "key": "cedo-8675-06-2016-01-07",
+ "label": "CEDO, Pascoi*1) c. României, 2016-01-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-01-07",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 7 ianuarie 2016",
+ "subtitle": "în Cauza Pascoi*1) împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "561",
+  "bis": false,
+  "date": "2016-07-25",
+  "part": "I"
+ },
+ "outcome": "inadmissible",
+ "findings": [
+  "inadmissible"
+ ],
+ "applications": [
+  "8675/06",
+  "41786/14",
+  "67634/11",
+  "27616/11"
+ ],
+ "case_name": "Pascoi*1)",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să conexeze cererile; 2. declară inadmisibile capetele de cerere cu privire la neexecutarea sau executarea cu întârziere, formulate de reclamanţii Dinu Chioreanu, Gheorghe Dobrotă, Dumitru Duminică, Ion Pantelimon, Rădulescu Răducan, Costică Vlad, Virginia Ghelt şi Ionică Tudor în Cererea nr. 41.786/14, precum şi capătul de cerere cu privire la durata procedurii, formulat în Cererea nr. 27.616/11; 3. declară inadmisibil în parte capătul de cerere formulat în Cererea nr. 67.634/11 cu privire la neexecutarea deciziei definitive; 4. declară admisibile celelalte capete de cerere cu privire la neexecutarea sau executarea cu întârziere a deciziilor interne; 5. hotărăşte că aceste capete de cerere indică o încălcare a art. 6 § 1 din Convenţie şi a art. 1 din Protocolul nr. 1 la Convenţie cu privire la neexecutarea sau executarea cu întârziere a deciziilor interne; 6. hotărăşte că statul pârât trebuie să asigure, prin mijloace adecvate, în termen de 3 luni, executarea deciziilor interne menţionate în tabelul anexat; 7. hotărăşte:",
+  "a) că statul pârât trebuie să plătească reclamanţilor, în termen de 3 luni, sumele indicate în tabelul anexat, care trebuie convertite în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, indicată în tabelul anexat, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale. Redactată în limba engleză, apoi comunicată în scris la 7 ianuarie 2016, în temeiul art. 77 § 2 şi art. 77 § 3 din Regulamentul Curţii."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180374",
+  "text_sha256": "dbd5a2603a832d5016041c2dbb6db59a337438038baa0be1c8512cfc357fa304",
+  "catalogue_sha256": "dbd5a2603a832d5016041c2dbb6db59a337438038baa0be1c8512cfc357fa304",
+  "fetched": "2026-11-03T03:31:27Z",
+  "chars": 65772,
+  "portal_id": "180374",
+  "tip": "HOTĂRÂRE"
+ }
+}
