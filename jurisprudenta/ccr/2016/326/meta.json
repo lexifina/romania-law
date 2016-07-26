@@ -1,0 +1,295 @@
+{
+ "key": "dcc-326-2016",
+ "label": "Decizia CCR nr. 326/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "326",
+ "date": "2016-05-17",
+ "year": "2016",
+ "heading": "DECIZIE nr. 326 din 17 mai 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 341 alin. (8) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "565",
+  "bis": false,
+  "date": "2016-07-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "60/739/2014",
+  "1.520D/2015",
+  "21.882/4/2015",
+  "637/57/2015",
+  "15.844/325/2015",
+  "12.468/193/2015",
+  "803/262/2015",
+  "790/46/2015",
+  "4.448/207/2015",
+  "1.764D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Marius Romanaş în Dosarul nr. 60/739/2014 al Curţii Militare de Apel Bucureşti, de Constantin Doruleţ Popa în Dosarul nr. 21.882/4/2015 al Judecătoriei Sectorului 4 Bucureşti, de Ioan Rotărescu în Dosarul nr. 637/57/2015 al Curţii de Apel Alba Iulia - Secţia penală, de Maiurgia Igantie în Dosarul nr. 15.844/325/2015 al Curţii de Apel Timişoara - Secţia penală, de Sultana Ioana Stan în Dosarul nr. 12.468/193/2015 al Judecătoriei Botoşani - Secţia penală, de Alexandru Aurelian-Andy Alexandrescu în Dosarul nr. 803/262/2015 (881/2015) al Judecătoriei Moreni, de Adrian Arvunescu în Dosarul nr. 790/46/2015 al Curţii de Apel Piteşti - Secţia penală şi pentru cauze cu minori şi de familie şi de Andrei Ionuţ Cocîrlău în Dosarul nr. 4.448/207/2015 al Judecătoriei Caracal şi constată că dispoziţiile art. 341 alin. (8) din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii Militare de Apel Bucureşti, Judecătoriei Sectorului 4 Bucureşti, Curţii de Apel Alba Iulia - Secţia penală, Curţii de Apel Timişoara - Secţia penală, Judecătoriei Botoşani - Secţia penală, Judecătoriei Moreni, Curţii de Apel Piteşti - Secţia penală şi pentru cauze cu minori şi de familie şi Judecătoriei Caracal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": [
+      "8",
+      "6",
+      "2",
+      "7"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7 adiţional la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180431",
+  "text_sha256": "4ec23236cfb127d90f475c50679ed968fd1b9eecf9b40ef280c83aef39c2b6a5",
+  "catalogue_sha256": "4ec23236cfb127d90f475c50679ed968fd1b9eecf9b40ef280c83aef39c2b6a5",
+  "fetched": "2026-11-03T03:31:23Z",
+  "chars": 30116,
+  "portal_id": "180431",
+  "tip": "DECIZIE"
+ }
+}
