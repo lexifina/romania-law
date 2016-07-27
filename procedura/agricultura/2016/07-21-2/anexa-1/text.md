@@ -1,0 +1,13 @@
+# Anexa 1
+Anexa 2a
+la Procedura de declarare a opoziției la nivel național Declarație de opoziție - formular 1. Denumirea produsului [prezentat ca în dosarul tehnic publicat pe site-ul Ministerului Agriculturii și Dezvoltării Rurale] 2. Date de contact Persoana de contact: Persoana fizică: (dl/dna): numele/prenume/date de identificare (serie B.I./C.I., CNP) Persoana juridică: C.U.I./nr. de înregistrare în registrul comerțului/nume/prenume administrator/reprezentant legal/împuternicit Adresă: Telefon: Adresă de e-mail: 3. Motive pentru opoziție: │_│ Nerespectarea condițiilor prevăzute la art. 15 din Regulamentul (CE) nr. 110/2008
+│_│ Nerespectarea condițiilor prevăzute la art. 19 din Regulamentul (CE) nr. 110/2008
+│_│ Înregistrarea denumirii băuturii spirtoase este contrară prevederilor Regulamentului (CE) nr. 110/2008 . │_│ Înregistrarea denumirii băuturii spirtoase este contrară prevederilor Regulamentului de punere în aplicare (UE) nr. 716/2013 . (Se bifează căsuța corespunzătoare.) 4. Detalierea opoziției Declarația trebuie să fie însoțită de motivații și justificări pentru opoziție. Interesul legitim economic al opozantului trebuie însoțit de o declarație justificată. Data P.F./P.J.*) .............
+Notă
+...
+──────────
+*)Declarația de opoziție trebuie semnată, datată și/sau ștampilată.
+──────────
+Anexa 2b
+la Procedura de declarare a opoziției la nivel național Notificarea finalizării consultărilor în cadrul procedurii de opoziție la nivel național 1. Denumirea produsului [Astfel cum este menționată în cererea de înregistrare] 2. Referința oficială (astfel cum este pe site-ul Ministerului Agriculturii și Dezvoltării Rurale) Numărul de referință: Data postării pe site-ul Ministerului Agriculturii și Dezvoltării Rurale: 3. Rezultatul consultărilor 3.1. S-a ajuns la un acord cu următorul opozant (următorii opozanți): [Anexați copii ale scrisorilor care arată acordul și toate elementele care au făcut posibil acordul, avizate de solicitant și de opozant/opozanți.] 3.2. Nu s-a ajuns la un acord cu următorul opozant (următorii opozanți): [Anexați informațiile care arată că nu s-a ajuns la un acord, avizate de solicitant și de opozant/opozanți.] 4. Dosarul tehnic și specificația tehnică de bază din dosarul tehnic [Se va completa doar în cazul în care s-a ajuns la un acord.] 4.1. Dosarul tehnic a fost modificat: │_│ Da │_│ Nu [Dacă "Da", anexați descrierea modificărilor și dosarul tehnic modificat.] 4.2. Specificația tehnică de bază din dosarul tehnic a fost modificată: │_│ Da │_│ Nu [Dacă "Da", anexați un exemplar al documentului actualizat.] 5. Data și semnătura Nume: Departament/Organizație: Adresă: Telefon: Adresă de e-mail:
+------
