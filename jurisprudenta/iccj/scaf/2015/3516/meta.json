@@ -1,0 +1,221 @@
+{
+ "key": "iccj-scaf-3516-2015",
+ "label": "Decizia ÎCCJ nr. 3516/2015 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3516",
+ "date": "2015-11-06",
+ "year": "2015",
+ "heading": "DECIZIE nr. 3.516 din 6 noiembrie 2015",
+ "subtitle": "referitoare la recursurile privind revocarea în parte a Ordinului Ministerului Transporturilor şi Infrastructurii nr. 1.640/2012 şi a Ordinului comun O.M.A.I. nr. 240/1.614/2012, respectiv a articolului II anexa 2, punctele 6 şi 9, în sensul înlăturării acestor puncte în cuprinsul anexei",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - SECŢIA DE CONTENCIOS ADMINISTRATIV ŞI FISCAL",
+ "mo": {
+  "number": "602",
+  "bis": false,
+  "date": "2016-08-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "259/59/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Ministerului Transporturilor şi Infrastructurii nr. 1.640/2012",
+    "number": "1640",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge recursurile declarate de Ministerul Transporturilor şi Ministerul Dezvoltării Regionale şi Administraţiei Publice împotriva Sentinţei nr. 68 din 17 martie 2014 a Curţii de Apel Timişoara - Secţia contencios administrativ şi fiscal, ca nefondate.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Ministerului Transporturilor şi Infrastructurii nr. 1.640/2012",
+    "number": "1640",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.640/2012",
+    "number": "1640",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e",
+      "b"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor şi infrastructurii nr. 1.614/2012",
+    "number": "1614",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-08-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180727",
+  "text_sha256": "ea072c7b4262de55e5af6deabcf640ccb74ec2d1d1d3d88846da494f5e15cf2f",
+  "catalogue_sha256": "ea072c7b4262de55e5af6deabcf640ccb74ec2d1d1d3d88846da494f5e15cf2f",
+  "fetched": "2026-11-03T03:31:02Z",
+  "chars": 9866,
+  "portal_id": "180727",
+  "tip": "DECIZIE"
+ }
+}
