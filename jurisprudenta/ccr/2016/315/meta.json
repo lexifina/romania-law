@@ -1,0 +1,319 @@
+{
+ "key": "dcc-315-2016",
+ "label": "Decizia CCR nr. 315/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "315",
+ "date": "2016-05-17",
+ "year": "2016",
+ "heading": "DECIZIE nr. 315 din 17 mai 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 11 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "607",
+  "bis": false,
+  "date": "2016-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.610/91/2014",
+  "2.610/91/2014/a4"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Jenica Dumitraşcu şi Ionel Puşcă în Dosarul nr. 2.610/91/2014 al Tribunalului Vrancea - Secţia penală şi constată că dispoziţiile art. 11 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie sunt constituţionale în raport cu criticile formulate.",
+  "Decizia se comunică Curţii de Apel Galaţi - Secţia penală şi pentru cauze cu minori şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/2002",
+    "number": "27",
+    "year": "2002",
+    "path": "lege/2002/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 177/2002",
+    "number": "177",
+    "year": "2002",
+    "path": "oug/2002/177"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "251",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": [
+      "12",
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180735",
+  "text_sha256": "8fed0caceccb870369ddc6fb1b59b9e1a8e3686fe2bec4c5c62cf57b15a3089e",
+  "catalogue_sha256": "8fed0caceccb870369ddc6fb1b59b9e1a8e3686fe2bec4c5c62cf57b15a3089e",
+  "fetched": "2026-11-03T03:30:59Z",
+  "chars": 17687,
+  "portal_id": "180735",
+  "tip": "DECIZIE"
+ }
+}
