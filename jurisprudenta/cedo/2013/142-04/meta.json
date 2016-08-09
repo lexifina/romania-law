@@ -1,0 +1,137 @@
+{
+ "key": "cedo-142-04-2013-07-16",
+ "label": "CEDO, Bălteanu c. României, 2013-07-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2013-07-16",
+ "year": "2013",
+ "heading": "HOTĂRÂRE din 16 iulie 2013",
+ "subtitle": "în Cauza Bălteanu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "605",
+  "bis": false,
+  "date": "2016-08-09",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "142/04"
+ ],
+ "case_name": "Bălteanu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă în ceea ce priveşte art. 8 şi inadmisibilă pentru celelalte capete de cerere;",
+  "2. hotărăşte că a fost încălcat art. 8 din Convenţie;",
+  "3. hotărăşte",
+  "(a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 4.500 EUR (patru mii cinci sute euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral, care trebuie convertită în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "91-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180778",
+  "text_sha256": "74aa5e24230e0698120c70c9912ea829ac506e11da57e8f14f7a4474151db80e",
+  "catalogue_sha256": "74aa5e24230e0698120c70c9912ea829ac506e11da57e8f14f7a4474151db80e",
+  "fetched": "2026-11-03T03:31:00Z",
+  "chars": 43578,
+  "portal_id": "180778",
+  "tip": "HOTĂRÂRE"
+ }
+}
