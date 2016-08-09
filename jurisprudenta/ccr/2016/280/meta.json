@@ -1,0 +1,234 @@
+{
+ "key": "dcc-280-2016",
+ "label": "Decizia CCR nr. 280/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "280",
+ "date": "2016-05-10",
+ "year": "2016",
+ "heading": "DECIZIE nr. 280 din 10 mai 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 296^21 alin. (1) lit. i) şi alin. (2), precum şi ale art. 296^24 alin. (1)-(4) din Legea nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "606",
+  "bis": false,
+  "date": "2016-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "609/63/2015",
+  "1.489D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "296-21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "296-24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Gheorghe Predică în Dosarul nr. 609/63/2015 al Curţii de Apel Craiova - Secţia de contencios administrativ şi fiscal şi constată că dispoziţiile art. 296^21 alin. (1) lit. i) şi alin. (2), precum şi ale art. 296^24 alin. (1)-(4) din Legea nr. 571/2003 privind Codul fiscal sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Craiova - Secţia de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "296-21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "296-24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "502",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180741",
+  "text_sha256": "9ea0c3ebabf292442dd957f3b10ecc4e59e7d4d0d3c564f6de02ce84469e92fd",
+  "catalogue_sha256": "9ea0c3ebabf292442dd957f3b10ecc4e59e7d4d0d3c564f6de02ce84469e92fd",
+  "fetched": "2026-11-03T03:30:59Z",
+  "chars": 23025,
+  "portal_id": "180741",
+  "tip": "DECIZIE"
+ }
+}
