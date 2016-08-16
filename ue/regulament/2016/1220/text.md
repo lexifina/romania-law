@@ -1,0 +1,50 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2016/1220 AL COMISIEI
+din 26 iulie 2016
+privind autorizarea substanței L-treonină produse de Escherichia coli ca aditiv pentru hrana tuturor speciilor de animale
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor și stabilește motivele și procedurile de acordare a unei astfel de autorizații. Articolul 10 din regulamentul respectiv prevede reevaluarea aditivilor autorizați în temeiul Directivei 82/471/CEE a Consiliului (2).
+(2) Substanța L-treonină a fost autorizată fără limită de timp, în conformitate cu Directiva 82/471/CEE, prin Directiva 88/485/CEE a Comisiei (3) și a fost ulterior înscrisă în Registrul aditivilor pentru hrana animalelor ca produs existent, în conformitate cu articolul 10 alineatul (1) din Regulamentul (CE) nr. 1831/2003.
+(3) În conformitate cu articolul 10 alineatul (2) coroborat cu articolul 7 din Regulamentul (CE) nr. 1831/2003, au fost depuse cereri pentru reevaluarea substanței L-treonină ca aditiv pentru hrana tuturor speciilor de animale. În conformitate cu articolul 7 din regulamentul respectiv, au fost, de asemenea, introduse cereri pentru autorizarea substanței L-treonină pentru toate speciile de animale. Cererile au fost însoțite de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(4) Cererile se referă la autorizarea substanței L-treonină produse de Escherichia coli DSM 25086, Escherichia coli FERM BP-11383, Escherichia coli FERM BP-10942, Escherichia coli NRRL B-30843, Escherichia coli KCCM11133P, Escherichia coli DSM 25085, Escherichia coli CGMCC 3703 sau Escherichia coli CGMCC 7.58 ca aditiv pentru hrana tuturor speciilor de animale, urmând a fi clasificată în categoria „aditivilor nutriționali”.
+(5) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat în avizele sale din 9 iulie 2013 (4), 29 ianuarie 2014 (5), 9 septembrie 2014 (6), 9 septembrie 2015 (7), 1 decembrie 2015 (8) și 19 aprilie 2016 (9) că, în condițiile de utilizare propuse, substanța L-treonină produsă de Escherichia coli DSM 25086, Escherichia coli FERM BP-11383, Escherichia coli FERM BP-10942, Escherichia coli NRRL B-30843, Escherichia coli KCCM11133P, Escherichia coli DSM 25085, Escherichia coli CGMCC 3703 și Escherichia coli CGMCC 7.58 nu are un efect advers asupra sănătății animalelor, asupra sănătății oamenilor sau asupra mediului și că este considerată o sursă eficace de aminoacid treonină/aminoacizi pentru hrana animalelor; pentru ca L-treonina administrată ca supliment să fie pe deplin eficace pentru rumegătoare, ar trebui să fie protejată contra degradării în rumen. Autoritatea nu consideră că sunt necesare cerințe specifice pentru monitorizarea ulterioară introducerii pe piață. Ea a verificat, de asemenea, raportul referitor la metoda de analiză a aditivului în hrana pentru animale, prezentat de laboratorul de referință înființat în temeiul Regulamentului (CE) nr. 1831/2003.
+(6) În avizele sale, autoritatea și-a exprimat preocuparea cu privire la siguranța L-treoninei pentru speciile-țintă în cazul administrării prin intermediul apei de băut. Cu toate acestea, autoritatea nu propune niciun conținut maxim pentru L-treonină. Astfel, în cazul administrării L-treoninei prin intermediul apei de băut, este recomandabil să fie avertizat utilizatorul de necesitatea de a lua în considerare aportul tuturor aminoacizilor esențiali din regimul alimentar.
+(7) Evaluarea substanței L-treonină arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, ar trebui autorizată utilizarea substanței respective în conformitate cu specificațiile din anexa la prezentul regulament.
+(8) Deoarece niciun motiv de siguranță nu impune aplicarea imediată a modificărilor condițiilor de autorizare a L-treoninei, este oportun să se prevadă o perioadă de tranziție pentru a permite părților interesate să se pregătească pentru a îndeplini noile cerințe care decurg din autorizare.
+(9) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizare
+Substanța specificată în anexă, aparținând categoriei „aditivi nutriționali” și grupului funcțional „aminoacizi, sărurile acestora și produsele analoage”, este autorizată ca aditiv pentru hrana animalelor în condițiile prevăzute în anexă.
+Articolul 2
+Măsuri tranzitorii
+(1) L-treonina autorizată prin Directiva 88/485/CEE și preamestecurile care o conțin pot fi introduse pe piață până la 16 mai 2017, în conformitate cu normele aplicabile înainte de 16 august 2016, și utilizate până la epuizarea stocurilor existente.
+(2) Materiile prime destinate hranei pentru animale și hrana combinată pentru animale care conțin substanța menționată la alineatul (1) pot fi introduse pe piață până la 16 august 2017, în conformitate cu normele aplicabile înainte de 16 august 2016, și utilizate până la epuizarea stocurilor existente, dacă sunt destinate animalelor de la care se obțin alimente.
+(3) Materiile prime destinate hranei pentru animale și hrana combinată pentru animale care conțin substanța menționată la alineatul (1) pot fi introduse pe piață până la 16 august 2018, în conformitate cu normele aplicabile înainte de 16 august 2016, și utilizate până la epuizarea stocurilor existente, dacă sunt destinate animalelor de la care nu se obțin alimente.
+Articolul 3
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 26 iulie 2016.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 268, 18.10.2003, p. 29.
+(2) Directiva 82/471/CEE a Consiliului din 30 iunie 1982 privind anumite produse folosite în hrana animalelor (JO L 213, 21.7.1982, p. 8).
+(3) Directiva 88/485/CEE a Comisiei din 26 iulie 1988 de modificare a anexei la Directiva 82/471/CEE a Consiliului privind anumite produse utilizate în alimentația animalelor (JO L 239, 30.8.1988, p. 36).
+(4) EFSA Journal 2013; 11(7):3319.
+(5) EFSA Journal 2014; 12(2):3564.
+(6) EFSA Journal 2014; 12(10):3825.
+(7) EFSA Journal 2015; 13(9):4236.
+(8) EFSA Journal 2016; 14(1):4344.
+(9) EFSA Journal 2016; 14(5):4470.
+ANEXĂ
+Numărul de identificare al aditivului | Numele deținătorului autorizației | Aditivul | Compoziția, formula chimică, descrierea, metoda analitică/de analiză | Speciile sau categoriile de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria aditivilor nutriționali. Grup funcțional: aminoacizi, sărurile acestora și produse analoage
+3c410 | — | L-treonină | Compoziția aditivului: Pulbere cu minimum 98 % L-treonină (raportat la substanța uscată) Caracterizarea substanței active: L-treonină produsă prin fermentare cu Escherichia coli DSM 25086 sau Escherichia coli FERM BP-11383 sau Escherichia coli FERM BP-10942 sau Escherichia coli NRRL B-30843 sau Escherichia coli KCCM11133P sau Escherichia coli DSM 25085 sau Escherichia coli CGMCC 3703 sau Escherichia coli CGMCC 7.58. Formula chimică: C4H9NO3 Număr CAS: 72-19-5 Metode analitice/de analiză (1): Pentru determinarea L-treoninei în aditivul furajer: — Codexul substanțelor chimice din alimente (Food Chemical Codex) „L-threonine monograph”; și — cromatografie prin schimb ionic cuplată cu derivatizare postcoloană și detecție fotometrică (IEC-UV/FD) – EN ISO 17180. Pentru determinarea treoninei în preamestecuri: — cromatografie prin schimb ionic cuplată cu derivatizare postcoloană și detecție fotometrică (IEC-UV/FD) – EN ISO 17180; și — cromatografie cu schimb de ioni cuplată cu derivatizare postcoloană și cu detecție fotometrică (IEC-UV) – Regulamentul (CE) nr. 152/2009 al Comisiei(2) (anexa III, partea F). Pentru determinarea treoninei în preamestecuri, în furajele combinate, în materiile prime pentru furaje și în apă: — metoda cromatografiei prin schimb ionic cu derivatizare postcoloană și detecție fotometrică (IEC-UV): Regulamentul (CE) nr. 152/2009 (anexa III, partea F). | Toate speciile | — | — | — | 1. L-treonina poate fi introdusă pe piață și utilizată ca aditiv sub formă de preparat. 2. Pentru utilizatorii aditivului și preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a aborda riscurile potențiale în caz de inhalare. În cazul în care aceste riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și măsuri, aditivii și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție respiratorie. 3. L-treonina poate fi utilizată, de asemenea, în apa de băut. 4. Declarații care trebuie menționate pe eticheta aditivului: Conținutul de apă. 5. Declarații care trebuie menționate pe eticheta aditivului și a preamestecurilor: „În cazul în care aditivul este administrat prin intermediul apei de băut, ar trebui să se evite excesul de proteine.” | 16.8.2026
+(1) Detalii ale metodelor analitice sunt disponibile la următoarea adresă a Laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
+(2) Regulamentul (CE) nr. 152/2009 al Comisiei din 27 ianuarie 2009 de stabilire a metodelor de eșantionare și analiză pentru controlul oficial al furajelor (JO L 54, 26.2.2009, p. 1).
