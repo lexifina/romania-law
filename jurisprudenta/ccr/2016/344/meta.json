@@ -1,0 +1,228 @@
+{
+ "key": "dcc-344-2016",
+ "label": "Decizia CCR nr. 344/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "344",
+ "date": "2016-05-24",
+ "year": "2016",
+ "heading": "DECIZIE nr. 344 din 24 mai 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 20 alin. (2) din anexa nr. VII la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 1 din 17 februarie 2014 a Înaltei Curţi de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept, şi ale art. 51 lit. a)-c) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "633",
+  "bis": false,
+  "date": "2016-08-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.522/105/2014",
+  "1.701D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Andrei Ion Florin în Dosarul nr. 8.522/105/2014 al Tribunalului Prahova - Secţia I civilă şi constată că dispoziţiile art. 20 alin. (2) din anexa nr. VII la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 1 din 17 februarie 2014 a Înaltei Curţi de Casaţie şi Justiţie - Completul pentru dezlegarea unor chestiuni de drept, şi ale art. 51 lit. a)-c) din Legea nr. 263/2010 privind sistemul unitar de pensii publice sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Prahova - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2001",
+    "number": "164",
+    "year": "2001",
+    "path": "lege/2001/164"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-08-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180985",
+  "text_sha256": "ea5c1c8b010f0207c4339106ef4b552717dbbf57a55eca55630ada96b1926757",
+  "catalogue_sha256": "ea5c1c8b010f0207c4339106ef4b552717dbbf57a55eca55630ada96b1926757",
+  "fetched": "2026-11-03T03:30:38Z",
+  "chars": 16311,
+  "portal_id": "180985",
+  "tip": "DECIZIE"
+ }
+}
