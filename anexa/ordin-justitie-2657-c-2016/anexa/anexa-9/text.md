@@ -1,0 +1,30 @@
+# Anexa 9
+Anexa nr. 9
+la Instrucțiuni
+ȚINTELE ȘI DIMENSIUNILE ACESTORA
+Ținta de reglaj (nr. 1)
+Ținta piept cu cercuri (nr. 2)
+Ținta compartimentată (nr. 3)
+Ținta compartimentată (nr. 4)
+Ținta mare cu cercuri (nr. 5)
+Ținta cu cercuri (nr. 6)
+Ținta siluete (nr. 7)
+Ținta siluete (nr. 8)
+Ținte piept neutralizare (nr. 9)
+Ținte cap neutralizare (nr. 10)
+Ținta cap - neutralizare (nr. 11)
+Ținta siluetă cu cercuri (nr. 12) - dimensiuni reduse (variantele 1 și 2)
+Ținta cauciuc - profil (nr. 13)
+Ținta cauciuc - unghi (nr. 14)
+Ținta parbriz (nr. 15)
+Ținta siluetă (nr. 16) - variantele 1 și 2
+Ținta piept fără cercuri (nr. 17)
+Ținta piept cu 2 compartimente (nr. 18)
+Ținta de reglaj (nr. 19)
+Ținta mare necompartimentată (nr. 20)
+Ținta cauciuc mare (nr. 21)
+Ținta cap (nr. 22)
+Ținta - grupare 5 ținte de precizie (nr. 23)
+Ținta 3 capete (nr. 24)
+Ținta - grupare 4 ținte de precizie (nr. 25)
+Ținta mare 6 puncte precizie (nr. 26)
