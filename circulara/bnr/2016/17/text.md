@@ -1,0 +1,6 @@
+# Text
+În baza dispozițiilor art. 5 și art. 8 alin. (4) din Legea nr. 312/2004 privind Statutul Băncii Naționale a României, în aplicarea prevederilor art. 12 din Regulamentul Băncii Naționale a României nr. 6/2002 privind regimul rezervelor minime obligatorii, cu modificările și completările ulterioare, în temeiul art. 48 din Legea nr. 312/2004 privind Statutul Băncii Naționale a României, Consiliul de administrație al Băncii Naționale a României hotărăște: Începând cu perioada de aplicare 24 august-23 septembrie 2016, ratele dobânzilor penalizatoare pentru deficitele de rezerve minime obligatorii în valută sunt următoarele: - 3,75% pe an pentru rezervele minime obligatorii constituite în euro; - 3,75% pe an pentru rezervele minime obligatorii constituite în dolari SUA.
+Președintele Consiliului de administrație
+al Băncii Naționale a României,
+Mugur Constantin Isărescu
+București, 16 august 2016. Nr. 17. -----
