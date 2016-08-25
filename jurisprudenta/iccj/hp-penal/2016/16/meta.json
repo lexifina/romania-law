@@ -1,0 +1,329 @@
+{
+ "key": "iccj-hp-penal-16-2016",
+ "label": "Decizia ÎCCJ nr. 16/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "16",
+ "date": "2016-06-08",
+ "year": "2016",
+ "heading": "DECIZIE nr. 16 din 8 iunie 2016",
+ "subtitle": "privind pronunțarea unei hotărâri prealabile referitoare la cuprinsul acțiunilor enumerate în art. 29 alin. (1) lit. a), b) și c) din Legea nr. 656/2002",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "654",
+  "bis": false,
+  "date": "2016-08-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.624/1/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Alba Iulia - Secția penală în Dosarul nr. 5.230/97/2013* privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Acțiunile enumerate în cuprinsul art. 29 alin. (1) lit. a), b) și c) din Legea nr. 656/2002, republicată, cu modificările ulterioare (schimbarea sau transferul, ascunderea ori disimularea, dobândirea, deținerea sau folosirea), reprezintă modalități normative distincte de săvârșire a infracțiunii de spălare a banilor sau reprezintă variante alternative ale elementului material al laturii obiective a infracțiunii de spălare a banilor?",
+  "2. Subiectul activ al infracțiunii de spălare a banilor poate fi același cu subiectul activ al infracțiunii din care provin bunurile sau trebuie să fie diferit de acesta?",
+  "3. Infracțiunea de spălare a banilor este o infracțiune autonomă sau este o infracțiune subsecventă aceleia din care provin bunurile?",
+  "Stabilește că:",
+  "1. Acțiunile enumerate în cuprinsul art. 29 alin. (1) lit. a), b) și c) din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor, precum și pentru instituirea unor măsuri de prevenire și combatere a finanțării terorismului, republicată, cu modificările ulterioare, respectiv schimbarea sau transferul, ascunderea ori disimularea, dobândirea, deținerea sau folosirea sunt modalități alternative ale elementului material al infracțiunii unice de spălare a banilor.",
+  "2. Subiectul activ al infracțiunii de spălare a banilor poate fi și subiect activ al infracțiunii din care provin bunurile.",
+  "3. Infracțiunea de spălare a banilor este o infracțiune autonomă, nefiind condiționată de existența unei soluții de condamnare pentru infracțiunea din care provin bunurile.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 89
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 182/2000",
+    "number": "182",
+    "year": "2000",
+    "path": "lege/2000/182"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "280-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "295",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 420/2006",
+    "number": "420",
+    "year": "2006",
+    "path": "lege/2006/420"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-08-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181188",
+  "text_sha256": "5145ab9e5450e863ff155fa0f9605e75d4e7ac1a72c01c148db5d252842d5270",
+  "catalogue_sha256": "5145ab9e5450e863ff155fa0f9605e75d4e7ac1a72c01c148db5d252842d5270",
+  "fetched": "2026-11-03T03:30:24Z",
+  "chars": 94418,
+  "portal_id": "181188",
+  "tip": "DECIZIE"
+ }
+}
