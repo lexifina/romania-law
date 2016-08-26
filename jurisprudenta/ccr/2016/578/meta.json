@@ -1,0 +1,181 @@
+{
+ "key": "dcc-578-2016",
+ "label": "Decizia CCR nr. 578/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "578",
+ "date": "2016-07-12",
+ "year": "2016",
+ "heading": "DECIZIE nr. 578 din 12 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 15 alin. (2) din Legea nr. 213/2015 privind Fondul de garantare a asiguraţilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "655",
+  "bis": false,
+  "date": "2016-08-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.788/296/2015",
+  "834D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/2015",
+    "number": "213",
+    "year": "2015",
+    "path": "lege/2015/213"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate ridicată de Ioan Bura în Dosarul nr. 6.788/296/2015 al Judecătoriei Satu Mare - Secţia penală şi constată că dispoziţiile art. 15 alin. (2) din Legea nr. 213/2015 privind Fondul de garantare a asiguraţilor sunt constituţionale în raport cu criticile formulate.",
+  "Decizia se comunică Judecătoriei Satu Mare - Secţia penală şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/2015",
+    "number": "213",
+    "year": "2015",
+    "path": "lege/2015/213"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-08-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181193",
+  "text_sha256": "1334726f8317dfd6031cd946297d046b7100422d3cb1d7af0246b2426fa7d83e",
+  "catalogue_sha256": "1334726f8317dfd6031cd946297d046b7100422d3cb1d7af0246b2426fa7d83e",
+  "fetched": "2026-11-03T03:30:24Z",
+  "chars": 14849,
+  "portal_id": "181193",
+  "tip": "DECIZIE"
+ }
+}
