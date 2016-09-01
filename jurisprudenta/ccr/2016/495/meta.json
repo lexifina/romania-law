@@ -1,0 +1,255 @@
+{
+ "key": "dcc-495-2016",
+ "label": "Decizia CCR nr. 495/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "495",
+ "date": "2016-06-30",
+ "year": "2016",
+ "heading": "DECIZIE nr. 495 din 30 iunie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 25 alin. (1) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "679",
+  "bis": false,
+  "date": "2016-09-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.563/101/2014",
+  "1.806D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 25 alin. (1) din Codul de procedură civilă, excepţie ridicată de Societatea Consultant Insolvenţă - S.P.R.L. din comuna Hinova, judeţul Mehedinţi, şi Societatea Yna Consulting - S.P.R.L. din Drobeta-Turnu Severin în Dosarul nr. 1.563/101/2014 al Tribunalului Mehedinţi - Secţia a II-a civilă, de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Mehedinţi - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-09-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181368",
+  "text_sha256": "b6b77cf4fc3034a89e8d5722cced231a9855c4e19ac048527b51ae2b11703c67",
+  "catalogue_sha256": "b6b77cf4fc3034a89e8d5722cced231a9855c4e19ac048527b51ae2b11703c67",
+  "fetched": "2026-11-03T03:30:13Z",
+  "chars": 14370,
+  "portal_id": "181368",
+  "tip": "DECIZIE"
+ }
+}
