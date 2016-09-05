@@ -1,0 +1,289 @@
+{
+ "key": "dcc-398-2016",
+ "label": "Decizia CCR nr. 398/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "398",
+ "date": "2016-06-15",
+ "year": "2016",
+ "heading": "DECIZIE nr. 398 din 15 iunie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 95/2014 pentru modificarea şi completarea Legii recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004 şi ale Ordonanţei Guvernului nr. 1/2015 pentru modificarea şi completarea Legii recunoştinţei pentru victoria Revoluţiei Române din Decembrie 1989 şi pentru revolta muncitorească anticomunistă de la Braşov din noiembrie 1987 nr. 341/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "686",
+  "bis": false,
+  "date": "2016-09-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.383/2/2015",
+  "370/109/2015",
+  "68/64/2015",
+  "2.140/118/2015",
+  "844/2/2015",
+  "1.067D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 95/2014",
+    "number": "95",
+    "year": "2014",
+    "path": "oug/2014/95"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 1/2015",
+    "number": "1",
+    "year": "2015",
+    "path": "og/2015/1"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Rodica Răsturnoiu în Dosarul nr. 1.383/2/2015 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, de Sandu Petre în Dosarul nr. 370/109/2015 al Tribunalului Argeş - Secţia pentru conflicte de muncă şi asigurări sociale, de Constantin Georgescu în Dosarul nr. 68/64/2015 al Curţii de Apel Braşov - Secţia contencios administrativ şi fiscal, de Marcel Geantă, Petre Mare, Ion Olteanu, Ioan Panait, Constantin Piperea, Gheorghe Stamate şi Mihai Tîrşoagă în Dosarul nr. 2.140/118/2015 al Tribunalului Constanţa - Secţia I civilă, de Marin Pîrvan şi Grigore Stelian Matei în dosarele nr. 245/54/2015 şi nr. 246/54/2015 ale Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal, de Marin Pîrvan şi Maria Pîrva, în dosarele nr. 480/104/2015 şi nr. 481/104/2015 ale Tribunalului Olt - Secţia a II-a civilă, de contencios administrativ şi fiscal, precum şi de Daniel Perju în Dosarul nr. 844/2/2015 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi constată că dispoziţiile Ordonanţei de urgenţă a Guvernului nr. 95/2014 pentru modificarea şi completarea Legii recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004 şi ale Ordonanţei Guvernului nr. 1/2015 pentru modificarea şi completarea Legii recunoştinţei pentru victoria Revoluţiei Române din Decembrie 1989 şi pentru revolta muncitorească anticomunistă de la Braşov din noiembrie 1987 nr. 341/2004 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, Tribunalului Argeş - Secţia pentru conflicte de muncă şi asigurări sociale, Curţii de Apel Braşov - Secţia contencios administrativ şi fiscal, Tribunalului Constanţa - Secţia I civilă, Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal, Tribunalului Olt - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 95/2014",
+    "number": "95",
+    "year": "2014",
+    "path": "oug/2014/95"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 1/2015",
+    "number": "1",
+    "year": "2015",
+    "path": "og/2015/1"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 52/2003",
+    "number": "52",
+    "year": "2003",
+    "path": "lege/2003/52"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "6",
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-09-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181483",
+  "text_sha256": "ddb38d5067a76f06f32de939e066d1fec31242acb1cc4fd9e523c70369d27b7e",
+  "catalogue_sha256": "ddb38d5067a76f06f32de939e066d1fec31242acb1cc4fd9e523c70369d27b7e",
+  "fetched": "2026-11-03T03:30:05Z",
+  "chars": 43506,
+  "portal_id": "181483",
+  "tip": "DECIZIE"
+ }
+}
