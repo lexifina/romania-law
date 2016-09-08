@@ -1,0 +1,5 @@
+# Anexa 2
+Antetul entității MAI NOTĂ DE CONSTATARE cuprinzând principalele concluzii rezultate în urma............................... (denumirea tipului de control) efectuat pe linie de............................................. (denumirea obiectivului sau domeniului de activitate verificat) la......................................... (denumirea entității MAI) 1. Modul de îndeplinire a sarcinilor și atribuțiilor specifice (baza legală și realizări) 2. Greutăți întâmpinate 3. Nereguli și disfuncționalități constatate 4. Neajunsuri remediate pe timpul efectuării controlului (măsuri proactive)
+Comisia de control*1)
+Entitatea MAI supusă controlului*2)...................................................................................................................................................................................................... din partea*3)..............................................................................................................................................................................................................................
+------
