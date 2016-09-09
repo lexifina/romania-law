@@ -1,0 +1,248 @@
+{
+ "key": "dcc-538-2016",
+ "label": "Decizia CCR nr. 538/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "538",
+ "date": "2016-07-12",
+ "year": "2016",
+ "heading": "DECIZIE nr. 538 din 12 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 188/1999 privind unele măsuri în vederea transmiterii imobilului situat în Bucureşti, Bd. Unirii nr. 37 - Magazinul Junior - din patrimoniul Societăţii Comerciale \"Bucureşti\" - S.A. în domeniul privat al statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "702",
+  "bis": false,
+  "date": "2016-09-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "34.328/3/2009",
+  "1.036D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "oug/1999/188"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 188/1999 privind unele măsuri în vederea transmiterii imobilului situat în Bucureşti, Bd. Unirii nr. 37 - Magazinul Junior - din patrimoniul Societăţii Comerciale \"Bucureşti\" - S.A. în domeniul privat al statului, excepţie ridicată de Fundaţia Caritatea, cu sediul în Bucureşti, în Dosarul nr. 34.328/3/2009** al Curţii de Apel Bucureşti - Secţia a IV-a civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a IV-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "oug/1999/188"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 176/1948",
+    "number": "176",
+    "year": "1948",
+    "path": "decret/1948/176"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 83/1999",
+    "number": "83",
+    "year": "1999",
+    "path": "oug/1999/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 814/1999",
+    "number": "814",
+    "year": "1999",
+    "path": "hg/1999/814"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-09-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181618",
+  "text_sha256": "96efb5af689ea92d9c28c7f3f18a0f3333412ea6fe55b9eb5ad3927726fc10df",
+  "catalogue_sha256": "96efb5af689ea92d9c28c7f3f18a0f3333412ea6fe55b9eb5ad3927726fc10df",
+  "fetched": "2026-11-03T03:29:41Z",
+  "chars": 26276,
+  "portal_id": "181618",
+  "tip": "DECIZIE"
+ }
+}
