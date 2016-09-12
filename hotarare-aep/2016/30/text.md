@@ -1,0 +1,8 @@
+HOTĂRÂRE nr. 30 din 7 septembrie 2016  pentru aprobarea modelului timbrului autocolant care va fi folosit la alegerile pentru Senat şi Camera Deputaţilor     EMITENT     AUTORITATEA ELECTORALĂ PERMANENTĂ       Publicat în
+			  MONITORUL OFICIAL nr. 705 din 12 septembrie 2016     Având în vedere dispoziţiile  art. 84 alin. (10) din Legea nr. 208/2015  privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările şi completările ulterioare,  în temeiul  art. 114 alin. (2) din Legea nr. 208/2015 , cu modificările şi completările ulterioare,  Autoritatea Electorală Permanentă adoptă prezenta hotărâre.
+				 +
+			  Articolul 1     Se aprobă modelul timbrului autocolant care va fi folosit la alegerile pentru Senat şi Camera Deputaţilor, prevăzut în anexa care face parte integrantă din prezenta hotărâre.
+				 +
+			  Articolul 2     Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.       Preşedintele Autorităţii Electorale Permanente,    Ana Maria Pătru    Contrasemnează:    ---------------    Vicepreşedinte,    Constantin-Florin Mituleţu-Buică    Vicepreşedinte,    Marian Muhuleţ   Bucureşti, 7 septembrie 2016.  Nr. 30.
+				 +
+			  Anexă     MODELUL  timbrului autocolant folosit la alegerile  pentru Senat şi Camera Deputaţilor*)    NOTE:  - Pătratul în care este încadrat cercul cu înscrisul "Votat" şi cu menţiunea datei scrutinului are latura de 20 mm.  - Timbrele autocolante sunt imprimate cu litere de aceeaşi mărime, cu aceleaşi caractere şi cu aceeaşi cerneală.    -------
