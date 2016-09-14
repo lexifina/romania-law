@@ -1,0 +1,4 @@
+# CJUE, Ordonanța Curții (Camera a zecea) din 14 septembrie 2016, Cauza C-534/15
+
+Pentru aceste motive, Curtea (Camera a zecea) declară:
+Articolul 1 alineatul (1) și articolul 2 litera (b) din Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii trebuie interpretate în sensul că această directivă se aplică unui contract de garanție imobiliară încheiat între persoane fizice și o instituție de credit în vederea garantării obligațiilor pe care o societate comercială le‑a contractat față de instituția respectivă în temeiul unui contract de credit în cazul în care aceste persoane fizice au acționat în scopuri care nu intră în cadrul activității lor profesionale și nu au un raport de natură funcțională cu societatea menționată, aspect a cărui verificare este de competența instanței de trimitere.
