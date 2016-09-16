@@ -1,0 +1,3 @@
+# Anexa 2
+CALCULUL MEDIEI DE ADMITERE utilizate pentru admiterea în învățământul liceal pentru anul școlar 2017-2018 1. Media de admitere, pe baza căreia se realizează înscrierea în clasa a IX-a de liceu a absolvenților învățământului gimnazial, se calculează ca medie ponderată între media generală la evaluarea națională susținută de absolvenții clasei a VIII-a, care are o pondere de 80%, și media generală de absolvire a claselor a V-a - a VIII-a, care are o pondere de 20% în calculul mediei de admitere. 2. Calculul mediei de admitere se face astfel: MA = 0,2 x ABS + 0,8 x EN unde: MA = media de admitere; ABS = media generală de absolvire a claselor a V-a - a VIII-a; EN = media generală obținută la evaluarea națională susținută de absolvenții clasei a VIII-a
+------
