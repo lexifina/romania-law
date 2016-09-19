@@ -1,0 +1,8 @@
+HOTĂRÂRE nr. 1/H din 16 septembrie 2016  privind aprobarea Regulamentului de organizare şi funcţionare a birourilor şi oficiilor electorale constituite la alegerile pentru Senat şi Camera Deputaţilor din anul 2016     EMITENT     BIROUL ELECTORAL CENTRAL       Publicat în
+			  MONITORUL OFICIAL nr. 721 din 19 septembrie 2016     Având în vedere prevederile art. 7-15, precum şi ale  art. 17 şi 18 din Legea nr. 208/2015  privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările şi completările ulterioare,  luând în considerare dispoziţiile  art. 8 şi 9 din Legea nr. 288/2015  privind votul prin corespondenţă, precum şi modificarea şi completarea  Legii nr. 208/2015  privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările ulterioare,  în temeiul art. 11 alin. (9) şi al  art. 12 alin. (5) din Legea nr. 208/2015 , cu modificările şi completările ulterioare,  Biroul Electoral Central hotărăşte:
+				 +
+			  Articolul 1     Se aprobă Regulamentul de organizare şi funcţionare a birourilor şi oficiilor electorale constituite la alegerile pentru Senat şi Camera Deputaţilor din anul 2016, prevăzut în anexa care face parte integrantă din prezenta hotărâre.
+				 +
+			  Articolul 2     Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.       Preşedintele Biroului Electoral Central,    judecător Aurelia Rusu   Bucureşti, 16 septembrie 2016.  Nr. 1/H.
+				 +
+			  Anexă       REGULAMENT 16/09/2016
