@@ -1,0 +1,235 @@
+{
+ "key": "iccj-hp-15-2016",
+ "label": "Decizia ÎCCJ nr. 15/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "15",
+ "date": "2016-05-23",
+ "year": "2016",
+ "heading": "DECIZIE nr. 15 din 23 mai 2016",
+ "subtitle": "privind modul de interpretare şi aplicare a prevederilor art. 371^7 din Codul de procedură civilă de la 1865 coroborat cu art. 39 alin. (3) din Legea nr. 188/2000",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "741",
+  "bis": false,
+  "date": "2016-09-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "562/1/2016",
+  "23.057/300/2014",
+  "17.712/300/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "371-7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Bucureşti - Secţia a IV-a civilă, în Dosarul nr. 23.057/300/2014, privind pronunţarea unei hotărâri prealabile şi, în consecinţă, stabileşte că:",
+  "a) În interpretarea dispoziţiilor art. 371^7 alin. 1, 2 şi 4 din Codul de procedură civilă de la 1865 şi a dispoziţiilor art. 39 alin. (3) din Legea nr. 188/2000, procesul-verbal întocmit de către executor, privind cheltuielile de executare care trebuie avansate de către creditor, constituie titlu executoriu împotriva acestuia.",
+  "b) Dispoziţiile art. 371^7 din Codul de procedură civilă de la 1865 nu au caracter imperativ cu privire la modalitatea în care executorul îşi poate recupera cheltuielile de executare, pe baza procesului-verbal ce constituie titlu împotriva creditorului sau a convenţiei încheiate cu acesta.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "371-7",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "715",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "663",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "664",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "670",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "373-1",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 50
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "371-7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-09-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181922",
+  "text_sha256": "2277478e4eeb74f0f44893e055bc088c3a15b9c7b464337ee684713fa6b1c40a",
+  "catalogue_sha256": "2277478e4eeb74f0f44893e055bc088c3a15b9c7b464337ee684713fa6b1c40a",
+  "fetched": "2026-11-03T18:26:10Z",
+  "chars": 57293,
+  "portal_id": "181922",
+  "tip": "DECIZIE"
+ }
+}
