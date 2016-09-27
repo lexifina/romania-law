@@ -1,0 +1,269 @@
+{
+ "key": "dcc-577-2016",
+ "label": "Decizia CCR nr. 577/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "577",
+ "date": "2016-07-12",
+ "year": "2016",
+ "heading": "DECIZIE nr. 577 din 12 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 7, art. 10 alin. (2), (4)-(6) şi art. 28 alin. (6) din Ordonanţa de urgenţă a Guvernului nr. 68/2008 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical şi ale ordonanţei de urgenţă în ansamblul său",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "753",
+  "bis": false,
+  "date": "2016-09-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.962/117/2015",
+  "761D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 68/2008",
+    "number": "68",
+    "year": "2008",
+    "path": "oug/2008/68"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Cristina Oloşutean, Gabriela Fornade, Nicoleta Elena Dumitrescu, Laura Dana Lungu, Doina Florica Corduneanu, Nicolae Dascăl, Corina Dascăl, Marcela Matei, Ioan Mureşan, Luminiţa Crişan, Virginia Lucia Neviana Lupu, Mariana Corina Simon Bodea, Călin Alexandru Pop, Corina Melania Horvath Bojan, Dana Smaranda Raţiu, Camelia Lucia Bakri, Livia Daniela Marincean, Georgiana Maria Ciucă, Angelica Constantinescu, Felicia-Maria Petrişor, Sanda Maria Zeicu, în Dosarul nr. 2.962/117/2015 al Tribunalului Cluj - Secţia mixtă de contencios administrativ şi fiscal, de conflicte de muncă şi asigurări sociale şi constată că dispoziţiile art. 7, art. 10 alin. (2), (4)-(6) şi art. 28 alin. (6) din Ordonanţa de urgenţă a Guvernului nr. 68/2008 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical şi ale ordonanţei de urgenţă în ansamblul său sunt constituţionale în raport cu criticile formulate.",
+  "Decizia se comunică Tribunalului Cluj - Secţia mixtă de contencios administrativ şi fiscal, de conflicte de muncă şi asigurări sociale şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 68/2008",
+    "number": "68",
+    "year": "2008",
+    "path": "oug/2008/68"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 110/2005",
+    "number": "110",
+    "year": "2005",
+    "path": "oug/2005/110"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 60/2009",
+    "number": "60",
+    "year": "2009",
+    "path": "oug/2009/60"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-09-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181993",
+  "text_sha256": "1ef48eb3042497e50ff1614b278478f9111f7301a0d9cfa51b9eb610243f9403",
+  "catalogue_sha256": "1ef48eb3042497e50ff1614b278478f9111f7301a0d9cfa51b9eb610243f9403",
+  "fetched": "2026-11-03T03:29:14Z",
+  "chars": 31053,
+  "portal_id": "181993",
+  "tip": "DECIZIE"
+ }
+}
