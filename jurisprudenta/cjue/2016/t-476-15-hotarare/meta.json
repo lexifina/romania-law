@@ -1,0 +1,50 @@
+{
+ "key": "cjue-t-476-15-hotarare-2016-09-28",
+ "label": "CJUE, Hotărârea Tribunalului (Camera a șasea) din 28 septembrie 2016, Cauza T-476/15",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2016-09-28",
+ "year": "2016",
+ "case": "Cauza T-476/15",
+ "celex": "62015TJ0476",
+ "ecli": "ECLI:EU:T:2016:568",
+ "heading": "Hotărârea Tribunalului (Camera a șasea) din 28 septembrie 2016",
+ "formation": "CHAMB_06_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": "European Food SA împotriva Oficiului Uniunii Europene pentru Proprietate Intelectuală",
+ "parties_withheld": false,
+ "keywords": "Marcă a Uniunii Europene – Procedură de declarare a nulității – Marca Uniunii Europene verbală FITNESS – Motive absolute de refuz – Lipsa caracterului distinctiv – Caracter descriptiv – Articolul 7 alineatul (1) literele (b) și (c), articolul 52 alineatul (1) litera (a) și articolul 76 din Regulamentul (CE) nr. 207/2009 – Norma 37 litera (b) punctul (iv) și norma 50 alineatul (1) din Regulamentul (CE) nr. 2868/95 – Prezentarea unor probe pentru prima dată în fața camerei de recurs",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62015TJ0476",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-476/15&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/de139ee1-8559-11e6-b076-01aa75ed71a1.0021.03/DOC_2",
+  "format": "xhtml",
+  "sha256": [
+   "3415bcc9b511f2b23f370f2b7123a0e86e821c5f89cfc70d8ba337a9dd3e985a"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive,",
+  "TRIBUNALUL (Camera a șasea),",
+  "declară și hotărăște:",
+  "1) Anulează Decizia Camerei a patra de recurs a Oficiului Uniunii Europene pentru Proprietate Intelectuală (EUIPO) din 19 iunie 2015 (cauza R 2542/2013‑4) privind o procedură de declarare a nulității între European Food și Société des produits Nestlé.",
+  "2) EUIPO suportă propriile cheltuieli de judecată, precum și cheltuielile de judecată efectuate de European Food.",
+  "3) Société des produits Nestlé suportă propriile cheltuieli de judecată."
+ ]
+}
