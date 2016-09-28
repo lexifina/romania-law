@@ -1,0 +1,305 @@
+{
+ "key": "dcc-389-2016",
+ "label": "Decizia CCR nr. 389/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "389",
+ "date": "2016-06-14",
+ "year": "2016",
+ "heading": "DECIZIE nr. 389 din 14 iunie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 95/2014 pentru modificarea şi completarea Legii recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004 şi ale Ordonanţei Guvernului nr. 1/2015 pentru modificarea şi completarea Legii recunoştinţei pentru victoria Revoluţiei Române din Decembrie 1989 şi pentru revolta muncitorească anticomunistă de la Braşov din noiembrie 1987 nr. 341/2004",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "757",
+  "bis": false,
+  "date": "2016-09-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "394/44/2015",
+  "1.378D/2015",
+  "244/54/2015",
+  "188/44/2015",
+  "321/44/2015",
+  "322/44/2015",
+  "892/2/2015",
+  "187/45/2015",
+  "205/36/2015",
+  "198/36/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 95/2014",
+    "number": "95",
+    "year": "2014",
+    "path": "oug/2014/95"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţei Guvernului nr. 1/2015",
+    "number": "1",
+    "year": "2015",
+    "path": "og/2015/1"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Elena Daniela Strat în Dosarul nr. 394/44/2015 al Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal, de Maria Pîrvan în Dosarul nr. 244/54/2015 al Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal, de Asociaţia Tinerii Eroi ai Revoluţiei - 22 Decembrie 1989 din Galaţi în Dosarul nr. 188/44/2015, de Ion Stoica în Dosarul nr. 321/44/2015 şi de Romeo Lefter în Dosarul nr. 322/44/2015 ale Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal, de Silviu Florin Lazăr în Dosarul nr. 892/2/2015 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, de Viorel Bulete în Dosarul nr. 187/45/2015 al Curţii de Apel Iaşi - Secţia contencios administrativ şi fiscal, de Cristian Daniel Mircea în Dosarul nr. 205/36/2015 şi de Marin Florian Nicola în Dosarul nr. 198/36/2015 ale Tribunalului Constanţa - Secţia de contencios administrativ şi fiscal, de Romeo Lefter în Dosarul nr. 1.708/121/2015 şi de Ilie Plătică-Vidovici în Dosarul nr. 1.737/121/2015 ale Tribunalului Galaţi - Secţia I civilă şi constată că dispoziţiile Ordonanţei de urgenţă a Guvernului nr. 95/2014 pentru modificarea şi completarea Legii recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004 şi ale Ordonanţei Guvernului nr. 1/2015 pentru modificarea şi completarea Legii recunoştinţei pentru victoria Revoluţiei Române din Decembrie 1989 şi pentru revolta muncitorească anticomunistă de la Braşov din noiembrie 1987 nr. 341/2004 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal, Curţii de Apel Craiova - Secţia contencios administrativ şi fiscal, Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal, Curţii de Apel Iaşi - Secţia contencios administrativ şi fiscal, Tribunalului Constanţa - Secţia de contencios administrativ şi fiscal şi Tribunalului Galaţi - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 95/2014",
+    "number": "95",
+    "year": "2014",
+    "path": "oug/2014/95"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 182/2002",
+    "number": "182",
+    "year": "2002",
+    "path": "lege/2002/182"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 52/2003",
+    "number": "52",
+    "year": "2003",
+    "path": "lege/2003/52"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 1/2015",
+    "number": "1",
+    "year": "2015",
+    "path": "og/2015/1"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "5",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-09-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182043",
+  "text_sha256": "45bd68ea940b295b591732c33977b9d9cf3c7de850111c78b4d1314065849daf",
+  "catalogue_sha256": "45bd68ea940b295b591732c33977b9d9cf3c7de850111c78b4d1314065849daf",
+  "fetched": "2026-11-03T17:19:34Z",
+  "chars": 47756,
+  "portal_id": "182043",
+  "tip": "DECIZIE"
+ }
+}
