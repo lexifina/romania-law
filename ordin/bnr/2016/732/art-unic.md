@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății GENERAL MAX LEASING IFN - S.A., cu sediul în București, str. Dr. Joseph Lister nr. 55, ap. 2, sectorul 5, înregistrată la registrul comerțului cu nr. J40/9063/2003, cod unic de înregistrare 15558782, înscrisă în Registrul general Instituții Financiare Nebancare la secțiunea h) "Leasing financiar" cu nr. RG-PJR-41-080097.
