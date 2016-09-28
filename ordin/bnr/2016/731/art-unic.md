@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății RSL LEASING IFN - S.A., cu sediul în București, str. Matei Basarab nr. 20, et. 3-5, sectorul 3, înregistrată la registrul comerțului cu nr. J40/11902/1998, cod unic de înregistrare 11277520, înscrisă în Registrul general Instituții Financiare Nebancare la secțiunea h) "Leasing financiar" cu nr. RG-PJR-41-080088.
