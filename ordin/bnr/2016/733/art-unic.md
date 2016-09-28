@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății FORZA ROSSA FINANCIAL SERVICES IFN - S.A., cu sediul în București, str. Alexandru Constantinescu nr. 20, et. 1, ap. 2, sectorul 1, înregistrată la registrul comerțului cu nr. J40/706/2013, cod unic de înregistrare 31121070, înscrisă în Registrul general Instituții Financiare Nebancare la secțiunea k) "Activități multiple de creditare" cu nr. RG-PJR-41-110293.
