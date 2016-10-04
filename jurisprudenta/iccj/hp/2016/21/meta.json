@@ -1,0 +1,382 @@
+{
+ "key": "iccj-hp-21-2016",
+ "label": "Decizia ÎCCJ nr. 21/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "21",
+ "date": "2016-06-13",
+ "year": "2016",
+ "heading": "DECIZIE nr. 21 din 13 iunie 2016",
+ "subtitle": "referitoare la sesizarea formulată de Tribunalul Vâlcea - Secţia I civilă privind pronunţarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: admisibilitatea acţiunii pentru pronunţarea unei hotărâri judecătoreşti care să ţină loc de act autentic de vânzare-cumpărare a unui teren intravilan, în situaţia în care bunul imobil ce face obiectul promisiunii bilaterale de vânzare-cumpărare nu este înscris în cartea funciară",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "774",
+  "bis": false,
+  "date": "2016-10-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.301/1/2016",
+  "3.117/223/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "885",
+     "alin": [
+      "1",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "887",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1676",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1279",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1669",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Vâlcea - Secţia I civilă, în Dosarul nr. 3.117/223/2014, privind pronunţarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: admisibilitatea acţiunii pentru pronunţarea unei hotărâri judecătoreşti care să ţină loc de act autentic de vânzare-cumpărare a unui teren intravilan, în situaţia în care bunul imobil ce face obiectul promisiunii bilaterale de vânzare-cumpărare nu este înscris în cartea funciară, astfel cum rezultă din coroborarea dispoziţiilor art. 57 din Ordonanţa de urgenţă a Guvernului nr. 80/2013 privind taxele judiciare de timbru, cu modificările şi completările ulterioare, art. 35 alin. (1) şi art. 36 alin. (2) din Legea cadastrului şi a publicităţii imobiliare nr. 7/1996, republicată (3), cu modificările şi completările ulterioare, art. 2 alin. (1) din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan şi de modificare a Legii nr. 268/2001 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Agenţiei Domeniilor Statului, cu modificările şi completările ulterioare, art. 885 alin. (1), 887 alin. (1), art. 1.676, art. 1.279 alin. (3) şi art. 1.669 din Codul civil.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "885",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "887",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1676",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1279",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1669",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1179",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-10-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182224",
+  "text_sha256": "d39cc670fab07d03729a7992489771af33d9d97a9109eecb0efa146029c80651",
+  "catalogue_sha256": "d39cc670fab07d03729a7992489771af33d9d97a9109eecb0efa146029c80651",
+  "fetched": "2026-11-03T03:28:59Z",
+  "chars": 49100,
+  "portal_id": "182224",
+  "tip": "DECIZIE"
+ }
+}
