@@ -1,0 +1,222 @@
+{
+ "key": "iccj-hp-16-2016",
+ "label": "Decizia ÎCCJ nr. 16/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "16",
+ "date": "2016-05-23",
+ "year": "2016",
+ "heading": "DECIZIE nr. 16 din 23 mai 2016",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a dispoziţiilor art. 856 alin. (3) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "779",
+  "bis": false,
+  "date": "2016-10-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.011/1/2016",
+  "1.012/1/2016",
+  "42.131/299/2014",
+  "42.168/299/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "856",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexe, formulate de Tribunalul Bucureşti - Secţia a V-a civilă, în dosarele nr. 42.131/299/2014 şi 42.168/299/2014 privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a dispoziţiilor art. 856 alin. (3) din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "856",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "853",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "857",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "855",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "8",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "902",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "168",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-10-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182286",
+  "text_sha256": "f866aa65fc63640b76597477d5a7b861d7230a21cbf5aa02579d8f4ee8617ab2",
+  "catalogue_sha256": "f866aa65fc63640b76597477d5a7b861d7230a21cbf5aa02579d8f4ee8617ab2",
+  "fetched": "2026-11-03T03:28:56Z",
+  "chars": 39663,
+  "portal_id": "182286",
+  "tip": "DECIZIE"
+ }
+}
