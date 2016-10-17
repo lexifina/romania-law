@@ -1,0 +1,12 @@
+HOTĂRÂRE nr. 36 din 13 octombrie 2016  privind consemnarea opțiunilor ce rezultă din citirea buletinelor de vot pentru alegerea Senatului și a Camerei Deputaților     EMITENT     AUTORITATEA ELECTORALĂ PERMANENTĂ       Publicat în
+			  MONITORUL OFICIAL nr. 817 din 17 octombrie 2016      Având în vedere dispozițiile  art. 92 alin. (9) , precum și ale  art. 93 alin. (9)  și  (12) din Legea nr. 208/2015  privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente, cu modificările și completările ulterioare,   ținând cont de faptul că atât voturile valabil exprimate, cât și voturile albe sau nule reprezintă opțiuni ale alegătorilor,   în temeiul prevederilor  art. 92 alin. (8)  și ale  art. 104 alin. (2) din Legea nr. 208/2015 , cu modificările și completările ulterioare,   Autoritatea Electorală Permanentă adoptă prezenta hotărâre.
+				 +
+			  Articolul 1      Voturile valabil exprimate pentru un competitor electoral, voturile nule, precum și voturile albe se consemnează olograf în formularele tipizate pentru consemnarea opțiunilor ce rezultă din citirea buletinelor de vot pentru alegerea Senatului și a Camerei Deputaților, al căror model este prevăzut în  anexă .
+				 +
+			  Articolul 2       (1)    Formularele tipizate completate în conformitate cu dispozițiile  art. 1  constituie instrumente de lucru pentru completarea de către birourile electorale ale secțiilor de votare a proceselor-verbale privind consemnarea rezultatelor votării.     (2)    Formularele tipizate completate în conformitate cu dispozițiile  art. 1  se introduc în dosarele care se înaintează birourilor electorale de circumscripție, respectiv oficiilor electorale, potrivit dispozițiilor  art. 93 alin. (9)  și  (12) din Legea nr. 208/2015  privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente, cu modificările și completările ulterioare.
+				 +
+			  Articolul 3      Anexa face parte integrantă din prezenta hotărâre.
+				 +
+			  Articolul 4      Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.       Președintele Autorității Electorale Permanente,    Ana Maria Pătru    Contrasemnează:    Vicepreședinte,    Constantin-Florin Mitulețu-Buică    Vicepreședinte,    Marian Muhuleț    București, 13 octombrie 2016.   Nr. 36.
+				 +
+			  ANEXĂ*)       *) Anexa este reprodusă în facsimil.              ----
