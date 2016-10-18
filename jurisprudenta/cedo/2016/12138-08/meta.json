@@ -1,0 +1,149 @@
+{
+ "key": "cedo-12138-08-2016-01-19",
+ "label": "CEDO, Aurelian Oprea c. României, 2016-01-19",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-01-19",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 19 ianuarie 2016",
+ "subtitle": "în Cauza Aurelian Oprea împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "821",
+  "bis": false,
+  "date": "2016-10-18",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "12138/08"
+ ],
+ "case_name": "Aurelian Oprea",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA:",
+  "1. declară, în unanimitate, cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 10 din Convenţie şi inadmisibilă în ceea ce priveşte celelalte capete de cerere; 2. hotărăşte, cu şase voturi la unu, că a fost încălcat art. 10 din Convenţie; 3. hotărăşte, cu şase voturi la unu,",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 7.470 EUR (şapte mii patru sute şaptezeci de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul material; (ii) 4.500 EUR (patru mii cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral; (iii) 720 EUR (şapte sute douăzeci de euro), plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "4. respinge, în unanimitate, cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182675",
+  "text_sha256": "34e17420e5bb0c7be899a9816038d138e3282e39fbd24905020eaf757615be2f",
+  "catalogue_sha256": "34e17420e5bb0c7be899a9816038d138e3282e39fbd24905020eaf757615be2f",
+  "fetched": "2026-11-03T03:28:28Z",
+  "chars": 51235,
+  "portal_id": "182675",
+  "tip": "HOTĂRÂRE"
+ }
+}
