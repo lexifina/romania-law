@@ -1,0 +1,215 @@
+{
+ "key": "cedo-33751-05-2016-04-05",
+ "label": "CEDO, Guţă Tudor Teodorescu c. României, 2016-04-05",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-04-05",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 5 aprilie 2016",
+ "subtitle": "în Cauza Guţă Tudor Teodorescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "827",
+  "bis": false,
+  "date": "2016-10-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "33751/05"
+ ],
+ "case_name": "Guţă Tudor Teodorescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară admisibilă cererea în ceea ce priveşte capătul de cerere întemeiat pe art. 1 din Protocolul nr. 1 şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 1 din Protocolul nr. 1 la Convenţie; 3. hotărăşte:",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 900 EUR (nouă sute euro) pentru prejudiciul moral, care trebuie convertită în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "lege/1998/9"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 97/2005",
+    "number": "97",
+    "year": "2005",
+    "path": "lege/2005/97"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 348/2006",
+    "number": "348",
+    "year": "2006",
+    "path": "lege/2006/348"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 286/2004",
+    "number": "286",
+    "year": "2004",
+    "path": "hg/2004/286"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.643/2004",
+    "number": "1643",
+    "year": "2004",
+    "path": "hg/2004/1643"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 361/2005",
+    "number": "361",
+    "year": "2005",
+    "path": "hg/2005/361"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2014",
+    "number": "164",
+    "year": "2014",
+    "path": "lege/2014/164"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182740",
+  "text_sha256": "f47d6f8f231568bc4ee28b5c881f09875bfa2606b27e9dcf1ae4bdb5958c3460",
+  "catalogue_sha256": "f47d6f8f231568bc4ee28b5c881f09875bfa2606b27e9dcf1ae4bdb5958c3460",
+  "fetched": "2026-11-03T03:28:23Z",
+  "chars": 33410,
+  "portal_id": "182740",
+  "tip": "HOTĂRÂRE"
+ }
+}
