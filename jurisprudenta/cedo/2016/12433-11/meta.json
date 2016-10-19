@@ -1,0 +1,159 @@
+{
+ "key": "cedo-12433-11-2016-01-26",
+ "label": "CEDO, Muncaciu c. României, 2016-01-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-01-26",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 26 ianuarie 2016",
+ "subtitle": "în Cauza Muncaciu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "826",
+  "bis": false,
+  "date": "2016-10-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "12433/11"
+ ],
+ "case_name": "Muncaciu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1 din Convenţie; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie, întrucât Tribunalul Cluj nu a oferit reclamantului posibilitatea de aşi prezenta comentariile asupra argumentelor cuprinse în întâmpinarea părţii adverse; 3. hotărăşte că nu este necesar să fie examinat separat capătul de cerere întemeiat pe art. 6 § 1 din Convenţie privitor la absenţa reclamantului de la şedinţa publică din 1 septembrie 2010; 4. hotărăşte:",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în monedele indicate mai jos, la rata de schimb aplicabilă la data plăţii:",
+  "(i) 900 EUR (nouă sute euro), plus orice sumă ce poate fi datorată cu titlu de impozit, cu titlu de prejudiciu moral, care trebuie convertită în moneda statului pârât; (ii) 5.396 CHF (cinci mii trei sute nouăzeci şi şase euro franci elveţieni) şi 300 RON (trei sute lei româneşti), plus orice sumă ce poate fi datorată cu titlu de impozit de către reclamant, pentru cheltuielile de judecată, pe care statul pârât trebuie să o plătească direct avocatei reclamantului, cea din urmă sumă trebuind să fie convertită în franci elveţieni;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "298",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "316",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182728",
+  "text_sha256": "1dfef0f545a1afebf3989119617b91b967bcc393ee8538a2cb7890f6110b5f4c",
+  "catalogue_sha256": "1dfef0f545a1afebf3989119617b91b967bcc393ee8538a2cb7890f6110b5f4c",
+  "fetched": "2026-11-03T03:28:24Z",
+  "chars": 31990,
+  "portal_id": "182728",
+  "tip": "HOTĂRÂRE"
+ }
+}
