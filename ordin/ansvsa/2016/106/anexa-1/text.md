@@ -1,0 +1,9 @@
+# Anexa 1
+Anexa 1
+COMPONENȚA Comitetului național pentru protecția animalelor utilizate în scopuri științifice sau educative Componența Comitetului național pentru protecția animalelor utilizate în scopuri științifice sau educative este următoarea:
+a) președinte: membru al Asociației Române pentru Știința Animalelor de Laborator; ...
+b) membri: ...
+1. un reprezentant al Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor; 2. un reprezentant al Colegiului Medicilor Veterinari; 3. un reprezentant al Universității de Științe Agricole și Medicină Veterinară Cluj-Napoca; 4. un reprezentant al Institutului Național de Cercetare-Dezvoltare în Domeniul Patologiei și Științelor Biomedicale "Victor Babeș"; 5. un reprezentant al Universității de Științe Agricole și Medicină Veterinară Iași; 6. un reprezentant al Universității "Ovidius" din Constanța; 7. un reprezentant al Universității de Științe Agricole și Medicină Veterinară București; 8. un reprezentant al Institutului de Diagnostic și Sănătate Animală;
+c) secretar. ...
+Anexa 2
+REGULAMENT 03/10/2016
