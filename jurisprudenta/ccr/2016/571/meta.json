@@ -1,0 +1,227 @@
+{
+ "key": "dcc-571-2016",
+ "label": "Decizia CCR nr. 571/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "571",
+ "date": "2016-07-12",
+ "year": "2016",
+ "heading": "DECIZIE nr. 571 din 12 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 18 alin. (3) din Legea nr. 356/2003 privind înfiinţarea, organizarea şi funcţionarea Institutului Cultural Român",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "836",
+  "bis": false,
+  "date": "2016-10-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "19.486/3/2014",
+  "1.866D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2003",
+    "number": "356",
+    "year": "2003",
+    "path": "lege/2003/356"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Elena Ramona Călin în Dosarul nr. 19.486/3/2014 (nr. în format vechi 3.634/2015/2014) al Curţii de Apel Bucureşti - Secţia a VII-a pentru cauze privind conflicte de muncă şi asigurări sociale şi constată că prevederile art. 18 alin. (3) din Legea nr. 356/2003 privind înfiinţarea, organizarea şi funcţionarea Institutului Cultural Român sunt constituţionale în raport de criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a VII-a pentru cauze privind conflicte de muncă şi asigurări sociale şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2003",
+    "number": "356",
+    "year": "2003",
+    "path": "lege/2003/356"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 74/1999",
+    "number": "74",
+    "year": "1999",
+    "path": "lege/1999/74"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-10-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182811",
+  "text_sha256": "39793fe5aacebaa18afea4fea6f3c00e500e63056638ac695e5a763907f1a9dd",
+  "catalogue_sha256": "39793fe5aacebaa18afea4fea6f3c00e500e63056638ac695e5a763907f1a9dd",
+  "fetched": "2026-11-03T03:28:18Z",
+  "chars": 19655,
+  "portal_id": "182811",
+  "tip": "DECIZIE"
+ }
+}
