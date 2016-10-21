@@ -1,0 +1,342 @@
+{
+ "key": "dcc-353-2016",
+ "label": "Decizia CCR nr. 353/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "353",
+ "date": "2016-05-24",
+ "year": "2016",
+ "heading": "DECIZIE nr. 353 din 24 mai 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 12 şi 13 din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesionişti şi consumatori",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "835",
+  "bis": false,
+  "date": "2016-10-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.445/243/2014",
+  "74D/2016",
+  "29.327/3/2014",
+  "25.065/3/2015",
+  "956/2/2015",
+  "147D/2016",
+  "75/306/2014",
+  "276D/2016",
+  "286/2/2015",
+  "286D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Societatea Banca Comercială Română - S.A. din Bucureşti în Dosarul nr. 1.445/243/2014* al Tribunalului Hunedoara - Secţia a II-a civilă, de contencios administrativ şi fiscal, în Dosarul nr. 29.327/3/2014 al Curţii de Apel Bucureşti - Secţia a V-a civilă, în dosarele nr. 317/3/2014 şi nr. 1.192/2/2015 ale Tribunalului Bucureşti - Secţia a II-a de contencios administrativ şi fiscal, de Telekom România Communications - S.A. din Bucureşti în Dosarul nr. 75/306/2014 al Curţii de Apel Alba Iulia - Secţia a II-a civilă, de Bancpost - S.A. din Bucureşti în Dosarul nr. 286/2/2015 al Tribunalului Bucureşti - Secţia a II-a de contencios administrativ şi fiscal, de OTP Bank România - S.A. din Bucureşti în Dosarul nr. 29.539/3/3015* al Tribunalului Bucureşti - Secţia a VI-a civilă şi în Dosarul nr. 956/2/2015* al Curţii de Apel Bucureşti - Secţia a VIII-a de contencios administrativ şi fiscal şi de Credit Europe Bank România din Bucureşti în dosarele nr. 25.065/3/2015* şi nr. 26.515/3/2015* ale Tribunalului Bucureşti - Secţia a VI-a civilă şi constată că dispoziţiile art. 12 şi 13 din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesionişti şi consumatori sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Hunedoara - Secţia a II-a civilă, de contencios administrativ şi fiscal, Curţii de Apel Bucureşti - Secţia a V-a civilă, Tribunalului Bucureşti - Secţia a II-a de contencios administrativ şi fiscal, Curţii de Apel Alba Iulia - Secţia a II-a civilă, Tribunalului Bucureşti - Secţia a VI-a civilă şi Curţii de Apel Bucureşti - Secţia a VIII-a de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "253",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-10-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182819",
+  "text_sha256": "0e25fc3676df8a526d7f3cb4b005fa2c99378f40bc273edfb067a617701191b4",
+  "catalogue_sha256": "0e25fc3676df8a526d7f3cb4b005fa2c99378f40bc273edfb067a617701191b4",
+  "fetched": "2026-11-03T03:28:17Z",
+  "chars": 75705,
+  "portal_id": "182819",
+  "tip": "DECIZIE"
+ }
+}
