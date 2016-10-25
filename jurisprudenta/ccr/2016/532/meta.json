@@ -1,0 +1,260 @@
+{
+ "key": "dcc-532-2016",
+ "label": "Decizia CCR nr. 532/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "532",
+ "date": "2016-07-05",
+ "year": "2016",
+ "heading": "DECIZIE nr. 532 din 5 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 39, art. 102 alin. (1) pct. 14 şi ale art. 105 pct. 10 din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "847",
+  "bis": false,
+  "date": "2016-10-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "28.452/300/2013",
+  "499D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Societatea Civilă de Avocaţi \"Predoi şi Asociaţii\" în Dosarul nr. 28.452/300/2013 al Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi constată că prevederile art. 39, art. 102 alin. (1) pct. 14 şi ale art. 105 pct. 10 din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice sunt constituţionale, în raport cu criticile de neconstituţionalitate formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 74/1999",
+    "number": "74",
+    "year": "1999",
+    "path": "lege/1999/74"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2005",
+    "number": "195",
+    "year": "2005",
+    "path": "oug/2005/195"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-10-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182896",
+  "text_sha256": "17e615ab4abbafb5461844b14a83e0c0cf0c86b942b2b915b9d2bdd9e51fd8a5",
+  "catalogue_sha256": "17e615ab4abbafb5461844b14a83e0c0cf0c86b942b2b915b9d2bdd9e51fd8a5",
+  "fetched": "2026-11-03T03:28:09Z",
+  "chars": 28190,
+  "portal_id": "182896",
+  "tip": "DECIZIE"
+ }
+}
