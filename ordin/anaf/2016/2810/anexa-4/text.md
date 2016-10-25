@@ -1,0 +1,23 @@
+# ANEXA Nr. 4
+Caracteristici de tipărire, modul de difuzare, utilizare și păstrare ale formularelor
+I.
+Formularul „(318) Cerere de rambursare a taxei pe valoarea adăugată pentru persoanele impozabile stabilite în România, depusă potrivit art. 302 alin. (2) din Codul fiscal ” Denumirea formularului: Cerere de rambursare a taxei pe valoarea adăugată pentru persoanele impozabile stabilite în România, depusă potrivit art. 302 alin. (2) din Codul fiscal
+Cod MFP: 14.13.03.02/18
+Format: A4/t1
+Caracteristici de tipărire: se utilizează echipament informatic pentru completare și editare, cu ajutorul programului de asistență pus la dispoziție gratuit.
+Se difuzează gratuit.
+Se utilizează la solicitarea rambursării taxei pe valoarea adăugată din alte state membre de către persoane impozabile stabilite în România.
+Se întocmește de persoanele impozabile înregistrate în scopuri de TVA în România.
+Circulă în format electronic, la autoritatea fiscală competentă din statul membru de rambursare.
+Se păstrează în arhiva de documente electronice.
+II.
+Formularul „(319) Declarație de ajustare a pro-ratei, potrivit dispozițiilor art. 302 alin. (2) din Codul fiscal și ale pct. 73 alin. (8) din normele metodologice ” Denumirea formularului: Declarație de ajustare a pro-ratei, potrivit dispozițiilor art. 302 alin. (2) din Codul fiscal și ale pct. 73 alin. (8) din normele metodologice
+Cod MFP: 14.13.03.02/19
+Format: A4/t1
+Caracteristici de tipărire: se utilizează echipament informatic pentru completare și editare, cu ajutorul programului de asistență pus la dispoziție gratuit.
+Se difuzează gratuit.
+Se utilizează la declararea pro-ratei definitive, pentru rectificarea sumei solicitate sau deja rambursate din alte state membre, de către persoane impozabile stabilite în România.
+Se întocmește de persoanele impozabile înregistrate în scopuri de TVA în România.
+Circulă în format electronic, la autoritatea fiscală competentă din statul membru de rambursare.
+Se păstrează în arhiva de documente electronice.
+----
