@@ -1,0 +1,176 @@
+{
+ "key": "dcc-420-2016",
+ "label": "Decizia CCR nr. 420/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "420",
+ "date": "2016-06-16",
+ "year": "2016",
+ "heading": "DECIZIE nr. 420 din 16 iunie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (4), art. 26 alin. (1) pct. 19 lit. b) şi c) şi alin. (2) din Legea nr. 422/2001 privind protejarea monumentelor istorice",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "861",
+  "bis": false,
+  "date": "2016-10-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.444/301/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 422/2001",
+    "number": "422",
+    "year": "2001",
+    "path": "lege/2001/422"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 4 alin. (4), art. 26 alin. (1) pct. 19 lit. b) şi c) şi alin. (2) din Legea nr. 422/2001 privind protejarea monumentelor istorice, excepţie ridicată de Alice Livia Teodorescu în Dosarul nr. 10.444/301/2015 al Judecătoriei Sectorului 3 Bucureşti - Secţia civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 3 Bucureşti şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 422/2001",
+    "number": "422",
+    "year": "2001",
+    "path": "lege/2001/422"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-10-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183058",
+  "text_sha256": "7cd50556e1cc8d2925e9901b4474c46498a1150afc3bae4cac594bb10c2dbc56",
+  "catalogue_sha256": "7cd50556e1cc8d2925e9901b4474c46498a1150afc3bae4cac594bb10c2dbc56",
+  "fetched": "2026-11-03T03:28:00Z",
+  "chars": 11939,
+  "portal_id": "183058",
+  "tip": "DECIZIE"
+ }
+}
