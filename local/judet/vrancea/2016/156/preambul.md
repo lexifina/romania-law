@@ -1,0 +1,9 @@
+și ProtecŃia Copilului Vrancea nr. 8/27.09.2016;
+- văzând referatul DirecŃiei economice și informatizare înregistrat la nr. 13295 din 10 octombrie 2016 prin care se propune aprobarea Planului de restructurare a Centrului de Integrare prin Terapie OcupaŃională Odobești, judeŃul Vrancea - DirecŃia ProtecŃia Persoanelor cu DizabilităŃi din cadrul DirecŃiei Generale de AsistenŃă Socială și ProtecŃia Copilului Vrancea;
+- în baza prevederilor Hotărârii Guvernului nr. 1434/2004 privind atribuŃiile și Regulamentul-cadru de organizare și funcŃionare ale DirecŃiei generale de asistenŃă socială și protecŃia copilului, republicată, cu modificările și completările ulterioare, Legii nr.197/2012, privind asigurarea calitatii in domeniul serviciilor sociale, cu modificările și completările ulterioare; Legii nr.448/2006, privind protectia si promovarea drepturilor persoanelor cu handicap, cu modificarile si completările ulterioare, Legii nr. 272/2004 privind protecŃia și promovarea drepturilor copilului, cu modificările si completările ulterioare și obiectivele Strategiei JudeŃene de Dezvoltare a Serviciilor Sociale în judeŃul Vrancea în perioada 2016-2020 în domeniul protecŃiei copilului și a Planului de acŃiuni, Hotărârii Guvernului nr.
+867/2015 pentru aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor cadru de organizare și funcŃionare a serviciilor sociale;
+- în baza dispoziŃiilor art. 91 alin. (2) lit. c) din Legea administraŃiei publice locale nr. 215/2001, republicată, cu modificările și completările ulterioare;
+- în temeiul art. 115 alin. (1) lit. c) din Legea administraŃiei publice locale nr.
+215/2001, republicată, cu modificările și completările ulterioare;
+- luând act de rapoartele compartimentelor de resort din cadrul Consiliului JudeŃean Vrancea și avizele comisiilor de specialitate ale Consiliului JudeŃean Vrancea.
+HOTĂRĂȘTE:
