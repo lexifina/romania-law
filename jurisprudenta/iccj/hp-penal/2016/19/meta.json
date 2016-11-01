@@ -1,0 +1,224 @@
+{
+ "key": "iccj-hp-penal-19-2016",
+ "label": "Decizia ÎCCJ nr. 19/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "19",
+ "date": "2016-09-27",
+ "year": "2016",
+ "heading": "DECIZIE nr. 19 din 27 septembrie 2016",
+ "subtitle": "referitoare la pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarelor chestiuni de drept: \"dacă contestaţia formulată în temeiul art. 341 alin. (9) din Codul de procedură penală are caracter devolutiv integral şi dacă în urma judecării contestaţiei formulate în temeiul art. 341 alin. (9) din Codul de procedură penală poate fi pronunţată şi soluţia prevăzută de art. 341 alin. (7) pct. 2 lit. a) din Codul de procedură penală\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "874",
+  "bis": false,
+  "date": "2016-11-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.246/1/2016",
+  "111.186/299/2015",
+  "59.629/299/2015/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Bucureşti - Secţia I penală, prin Încheierea din 27 mai 2016 pronunţată în Dosarul nr. 111.186/299/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarelor chestiuni de drept: \"dacă contestaţia formulată în temeiul art. 341 alin. (9) din Codul de procedură penală are caracter devolutiv integral şi dacă în urma judecării contestaţiei formulate în temeiul art. 341 alin. (9) din Codul de procedură penală poate fi pronunţată şi soluţia prevăzută de art. 341 alin. (7) pct. 2 lit. a) din Codul de procedură penală\"."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": [
+      "7",
+      "10",
+      "9",
+      "2",
+      "8"
+     ],
+     "lit": [
+      "a",
+      "c",
+      "b"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "417",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "442",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425-1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "418",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 74
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "192",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "178",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183198",
+  "text_sha256": "f9ca9c4c3cb1db551bb2cbc13e84283f8a51af4b4c7e4b26d6fbce72e9eb7716",
+  "catalogue_sha256": "f9ca9c4c3cb1db551bb2cbc13e84283f8a51af4b4c7e4b26d6fbce72e9eb7716",
+  "fetched": "2026-11-03T16:44:54Z",
+  "chars": 60817,
+  "portal_id": "183198",
+  "tip": "DECIZIE"
+ }
+}
