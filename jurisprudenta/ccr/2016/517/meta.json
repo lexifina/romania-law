@@ -1,0 +1,243 @@
+{
+ "key": "dcc-517-2016",
+ "label": "Decizia CCR nr. 517/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "517",
+ "date": "2016-07-05",
+ "year": "2016",
+ "heading": "DECIZIE nr. 517 din 5 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. I alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 26/2012 privind unele măsuri de reducere a cheltuielilor publice şi întărirea disciplinei financiare şi de modificare şi completare a unor acte normative",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "873",
+  "bis": false,
+  "date": "2016-11-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.480/95/2015",
+  "1.480D/2015",
+  "1.789D/2015",
+  "5.119/318/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2012",
+    "number": "26",
+    "year": "2012",
+    "path": "oug/2012/26"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Unitatea administrativ-teritorială - comuna Fărcăşeşti, judeţul Gorj, în Dosarul nr. 2.480/95/2015 al Tribunalului Gorj - Secţia contencios administrativ şi fiscal şi de Unitatea administrativ-teritorială - comuna Fărcăşeşti, primarul comunei Fărcăşeşti, Comisia locală de fond funciar Fărcăşeşti, toate cu sediul în comuna Fărcăşeşti, judeţul Gorj, precum şi de cabinet avocat Dondera T. Anca, cu sediul în comuna Leleşti, judeţul Gorj şi cabinet avocat Dondera Florin Daniel, cu sediul în Târgu Jiu în Dosarul nr. 5.119/318/2015 al Judecătoriei Târgu Jiu - Secţia civilă şi constată că dispoziţiile art. I alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 26/2012 privind unele măsuri de reducere a cheltuielilor publice şi întărirea disciplinei financiare şi de modificare şi completare a unor acte normative sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Gorj - Secţia contencios administrativ şi fiscal şi Judecătoriei Târgu Jiu - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 26/2012",
+    "number": "26",
+    "year": "2012",
+    "path": "oug/2012/26"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 34/2009",
+    "number": "34",
+    "year": "2009",
+    "path": "oug/2009/34"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183199",
+  "text_sha256": "79880b46667e1526a36f81ed353908a4ece00f9e708b1a51ff2b60aa7026832e",
+  "catalogue_sha256": "79880b46667e1526a36f81ed353908a4ece00f9e708b1a51ff2b60aa7026832e",
+  "fetched": "2026-11-03T21:20:20Z",
+  "chars": 30651,
+  "portal_id": "183199",
+  "tip": "DECIZIE"
+ }
+}
