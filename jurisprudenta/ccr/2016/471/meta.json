@@ -1,0 +1,233 @@
+{
+ "key": "dcc-471-2016",
+ "label": "Decizia CCR nr. 471/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "471",
+ "date": "2016-06-28",
+ "year": "2016",
+ "heading": "DECIZIE nr. 471 din 28 iunie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 346 alin. (3) raportate la cele ale art. 342 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "877",
+  "bis": false,
+  "date": "2016-11-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.205/277/2015/a3",
+  "856/111/2015/a1",
+  "12.806/280/2015/a1",
+  "6.204/95/2015/a5"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "346",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Florentin Lungu în Dosarul nr. 1.205/277/2015/a3 al Tribunalului Buzău - Secţia penală, Gheza-Antonie Gaşpar în Dosarul nr. 856/111/2015/a1 al Curţii de Apel Oradea - Secţia penală şi pentru cauze cu minori, Ion Petcu în Dosarul nr. 12.806/280/2015/a1 al Tribunalului Argeş - Secţia penală şi Petru Blanda în Dosarul nr. 6.204/95/2015/a5 al Curţii de Apel Craiova - Secţia penală şi pentru cauze cu minori şi constată că dispoziţiile art. 346 alin. (3) raportate la cele ale art. 342 din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "Decizia se comunică Tribunalului Buzău - Secţia penală, Curţii de Apel Oradea - Secţia penală şi pentru cauze cu minori, Tribunalului Argeş - Secţia penală şi Curţii de Apel Craiova - Secţia penală şi pentru cauze cu minori şi se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă şi general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "346",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "374",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-11-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183253",
+  "text_sha256": "35ad593032e2380b62f5b5ccd03234414aa5d6f99f5634bfc625ac11be59e5d5",
+  "catalogue_sha256": "35ad593032e2380b62f5b5ccd03234414aa5d6f99f5634bfc625ac11be59e5d5",
+  "fetched": "2026-11-03T03:27:45Z",
+  "chars": 18743,
+  "portal_id": "183253",
+  "tip": "DECIZIE"
+ }
+}
