@@ -1,0 +1,155 @@
+{
+ "key": "cedo-68842-13-2015-12-15",
+ "label": "CEDO, Şerban Marinescu c. României, 2015-12-15",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2015-12-15",
+ "year": "2015",
+ "heading": "HOTĂRÂRE din 15 decembrie 2015",
+ "subtitle": "în Cauza Şerban Marinescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "876",
+  "bis": false,
+  "date": "2016-11-02",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "68842/13"
+ ],
+ "case_name": "Şerban Marinescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. uneşte cu fondul excepţia preliminară ridicată de Guvern cu privire la caracterul prematur al capătului de cerere al reclamantului în ceea ce priveşte aspectul procedural al art. 3 din Convenţie şi o respinge; 2. declară admisibil capătul de cerere în ceea ce priveşte aspectul procedural al art. 3 din Convenţie şi capătul de cerere întemeiat pe art. 13 din Convenţie şi inadmisibile celelalte capete de cerere; 3. hotărăşte că a fost încălcat art. 3 din Convenţie sub aspect procedural; 4. hotărăşte că nu este necesar să examineze capătul de cerere întemeiat pe art. 13 din Convenţie; 5. hotărăşte:",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 7.500 EUR (şapte mii cinci sute de euro) cu titlu de despăgubire pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit; (ii) 4.000 EUR (patru mii de euro) pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată cu titlu de impozit, care urmează să fie plătită în contul bancar indicat de reprezentantul reclamantului;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "6. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2002",
+    "number": "218",
+    "year": "2002",
+    "path": "lege/2002/218"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183276",
+  "text_sha256": "449264f184722d5bbda276dda4fec8fc81d6d131ee2fb2030032566d6a7cd8cb",
+  "catalogue_sha256": "449264f184722d5bbda276dda4fec8fc81d6d131ee2fb2030032566d6a7cd8cb",
+  "fetched": "2026-11-03T03:27:44Z",
+  "chars": 40100,
+  "portal_id": "183276",
+  "tip": "HOTĂRÂRE"
+ }
+}
