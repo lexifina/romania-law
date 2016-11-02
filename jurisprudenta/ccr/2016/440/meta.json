@@ -1,0 +1,217 @@
+{
+ "key": "dcc-440-2016",
+ "label": "Decizia CCR nr. 440/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "440",
+ "date": "2016-06-21",
+ "year": "2016",
+ "heading": "DECIZIE nr. 440 din 21 iunie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 67 alin. (5) teza a doua şi art. 68 alin. (7) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "877",
+  "bis": false,
+  "date": "2016-11-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "783/39/2015",
+  "1.738D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 68 alin. (7) din Codul de procedură penală, excepţie ridicată de Teodoriu Liliana în Dosarul nr. 783/39/2015 al Curţii de Apel Suceava - Secţia penală şi pentru cauze cu minori. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de aceeaşi autoare în acelaşi dosar al aceleiaşi instanţe şi constată că dispoziţiile art. 67 alin. (5) teza a doua din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Suceava - Secţia penală şi pentru cauze cu minori şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-11-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183252",
+  "text_sha256": "950e69d14841dd47546f3d504ac4c8a60fc41571cc18ac6418b63e46e2e6af3b",
+  "catalogue_sha256": "950e69d14841dd47546f3d504ac4c8a60fc41571cc18ac6418b63e46e2e6af3b",
+  "fetched": "2026-11-03T03:27:45Z",
+  "chars": 14109,
+  "portal_id": "183252",
+  "tip": "DECIZIE"
+ }
+}
