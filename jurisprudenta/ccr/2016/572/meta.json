@@ -1,0 +1,282 @@
+{
+ "key": "dcc-572-2016",
+ "label": "Decizia CCR nr. 572/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "572",
+ "date": "2016-07-12",
+ "year": "2016",
+ "heading": "DECIZIE nr. 572 din 12 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (2) din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan şi de modificare a Legii nr. 268/2001 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Agenţiei Domeniilor Statului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "885",
+  "bis": false,
+  "date": "2016-11-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.869D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 5 alin. (2) din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan şi de modificare a Legii nr. 268/2001 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Agenţiei Domeniilor Statului, excepţie ridicată de Andrei Valentin Sfîrăială în dosarele nr. 3.371/207/2015, nr. 3.373/207/2015 şi nr. 3.374/207/2015 ale Judecătoriei Caracal - Secţia civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Caracal - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 68/2014",
+    "number": "68",
+    "year": "2014",
+    "path": "lege/2014/68"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "603",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-11-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183334",
+  "text_sha256": "30edfc95df045240ad9055c31e6224d0ae1c92c84fda22fc84b32ed9ec5721ec",
+  "catalogue_sha256": "30edfc95df045240ad9055c31e6224d0ae1c92c84fda22fc84b32ed9ec5721ec",
+  "fetched": "2026-11-03T03:27:38Z",
+  "chars": 22511,
+  "portal_id": "183334",
+  "tip": "DECIZIE"
+ }
+}
