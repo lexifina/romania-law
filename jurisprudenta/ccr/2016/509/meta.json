@@ -1,0 +1,161 @@
+{
+ "key": "dcc-509-2016",
+ "label": "Decizia CCR nr. 509/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "509",
+ "date": "2016-07-05",
+ "year": "2016",
+ "heading": "DECIZIE nr. 509 din 5 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 37/2012 pentru stabilirea unor măsuri privind încadrarea absolvenţilor promoţiilor 2012 ale instituţiilor de formare profesională iniţială din sistemul de apărare naţională, ordine publică şi siguranţă naţională",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "898",
+  "bis": false,
+  "date": "2016-11-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.083/3/2015",
+  "1.554D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 37/2012",
+    "number": "37",
+    "year": "2012",
+    "path": "oug/2012/37"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Sindicatul Naţional al Poliţiştilor şi Vameşilor Pro Lex, în numele membrilor de sindicat Emilia-Elena Cătănea, Adina-Roxana Găinaru şi Eugen Postelnicu, respectiv Marius-Cristian Vespe în dosarele nr. 7.083/3/2015 şi nr. 9.913/3/CA/2015 ale Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi constată că dispoziţiile Ordonanţei de urgenţă a Guvernului nr. 37/2012 pentru stabilirea unor măsuri privind încadrarea absolvenţilor promoţiilor 2012 ale instituţiilor de formare profesională iniţială din sistemul de apărare naţională, ordine publică şi siguranţă naţională sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 37/2012",
+    "number": "37",
+    "year": "2012",
+    "path": "oug/2012/37"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183450",
+  "text_sha256": "93db034d658877058343e72f06f576381ffdb939696e81ab6a44681dae7734df",
+  "catalogue_sha256": "93db034d658877058343e72f06f576381ffdb939696e81ab6a44681dae7734df",
+  "fetched": "2026-11-03T03:27:25Z",
+  "chars": 12723,
+  "portal_id": "183450",
+  "tip": "DECIZIE"
+ }
+}
