@@ -1,0 +1,745 @@
+{
+ "key": "iccj-ril-12-2016",
+ "label": "Decizia ÎCCJ nr. 12/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "12",
+ "date": "2016-05-23",
+ "year": "2016",
+ "heading": "DECIZIE nr. 12 din 23 mai 2016",
+ "subtitle": "privind examinarea recursului, având ca obiect posibilitatea constatării pe cale judiciară sau a obligării angajatorului la încadrarea activităţii desfăşurate în condiţii deosebite sau speciale de muncă, după 1 aprilie 2001",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "904",
+  "bis": false,
+  "date": "2016-11-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "10/2016",
+  "5/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 261/2001",
+    "number": "261",
+    "year": "2001",
+    "path": "hg/2001/261"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 246/2007",
+    "number": "246",
+    "year": "2007",
+    "path": "hg/2007/246"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.025/2003",
+    "number": "1025",
+    "year": "2003",
+    "path": "hg/2003/1025"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă, stabileşte că:",
+  "I. În interpretarea şi aplicarea dispoziţiilor art. 19 din Legea nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale, cu modificările şi completările ulterioare, art. 29 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările şi completările ulterioare, raportate la art. 2 alin. (2), art. 3, 4, 11, 12, 15, 16 şi 18 din Hotărârea Guvernului nr. 261/2001 privind criteriile şi metodologia de încadrare a locurilor de muncă în condiţii deosebite, cu modificările şi completările ulterioare, respectiv art. 1-4, art. 7-9, art. 13 alin. (4) şi art. 13^1 din Hotărârea Guvernului nr. 246/2007 privind metodologia de reînnoire a avizelor de încadrare a locurilor de muncă în condiţii deosebite, cu modificările şi completările ulterioare, nu este deschisă calea unei acţiuni în constatare de drept comun a condiţiilor deosebite de muncă în care angajaţii şi-au desfăşurat activitatea după data de 1 aprilie 2001 şi nici a acţiunii în obligare a angajatorilor la încadrarea locurilor de muncă în aceste condiţii, atunci când aceştia din urmă nu au obţinut sau, după caz, nu au reînnoit avizele pentru încadrarea locurilor de muncă în aceste condiţii.",
+  "II. În interpretarea şi aplicarea dispoziţiilor art. 20 alin. (2) şi (3) din Legea nr. 19/2000, cu modificările şi completările ulterioare, a dispoziţiilor art. 1 alin. (1) şi (2) şi art. 2 alin. (2) din Legea nr. 226/2006 privind încadrarea unor locuri de muncă în condiţii speciale, raportate la prevederile art. 2-6, art. 9, 13 şi 16 din Hotărârea Guvernului nr. 1.025/2003 privind metodologia şi criteriile de încadrare a persoanelor în locuri de muncă în condiţii speciale, cu modificările şi completările ulterioare, precum şi a prevederilor art. 30 alin. (1) lit. e) din Legea nr. 263/2010, cu modificările şi completările ulterioare, în ceea ce priveşte condiţiile speciale, acest tip de acţiuni nu sunt deschise, atunci când nu sunt întrunite condiţiile cumulative privind înscrierea activităţii şi a unităţii angajatoare în anexele nr. 1 şi 2 la Legea nr. 226/2006 şi, respectiv, în anexele nr. 2 şi 3 la Legea nr. 263/2010, cu modificările şi completările ulterioare.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1",
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 261/2001",
+    "number": "261",
+    "year": "2001",
+    "path": "hg/2001/261"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 246/2007",
+    "number": "246",
+    "year": "2007",
+    "path": "hg/2007/246"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.025/2003",
+    "number": "1025",
+    "year": "2003",
+    "path": "hg/2003/1025"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 65/2015",
+    "number": "65",
+    "year": "2015",
+    "path": "oug/2015/65"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.014/2015",
+    "number": "1014",
+    "year": "2015",
+    "path": "hg/2015/1014"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 338/2002",
+    "number": "338",
+    "year": "2002",
+    "path": "lege/2002/338"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 2.280/2004",
+    "number": "2280",
+    "year": "2004",
+    "path": "hg/2004/2280"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.284/2011",
+    "number": "1284",
+    "year": "2011",
+    "path": "hg/2011/1284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.273/2012",
+    "number": "1273",
+    "year": "2012",
+    "path": "hg/2012/1273"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-11-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183486",
+  "text_sha256": "f1d8d07b54981ef0d9c6e6ef4a915dea760ec6a4dd394627b3cfac68c864ee0b",
+  "catalogue_sha256": "f1d8d07b54981ef0d9c6e6ef4a915dea760ec6a4dd394627b3cfac68c864ee0b",
+  "fetched": "2026-11-03T03:27:22Z",
+  "chars": 82157,
+  "portal_id": "183486",
+  "tip": "DECIZIE"
+ }
+}
