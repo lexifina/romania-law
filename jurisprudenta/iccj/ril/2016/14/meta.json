@@ -1,0 +1,154 @@
+{
+ "key": "iccj-ril-14-2016",
+ "label": "Decizia ÎCCJ nr. 14/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "14",
+ "date": "2016-09-26",
+ "year": "2016",
+ "heading": "DECIZIE nr. 14 din 26 septembrie 2016",
+ "subtitle": "privind recursul în interesul legii referitor la admisibilitatea sau inadmisibilitatea administrării mijlocului de probă reprezentat de înscrisuri în procedura instituită de art. 341 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL lEGII",
+ "mo": {
+  "number": "913",
+  "bis": false,
+  "date": "2016-11-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "14/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii promovat de Colegiul de conducere al Curţii de Apel Târgu Mureş privind admisibilitatea sau inadmisibilitatea administrării mijlocului de probă reprezentat de înscrisuri în procedura instituită de art. 341 din Codul de procedură penală.",
+  "Obligatorie, potrivit art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-11-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183556",
+  "text_sha256": "f11facd7254fd8f03fac7f1d4ec8ef3eddd4c27dfbd1846024062e736223a73b",
+  "catalogue_sha256": "f11facd7254fd8f03fac7f1d4ec8ef3eddd4c27dfbd1846024062e736223a73b",
+  "fetched": "2026-11-03T03:27:14Z",
+  "chars": 20217,
+  "portal_id": "183556",
+  "tip": "DECIZIE"
+ }
+}
