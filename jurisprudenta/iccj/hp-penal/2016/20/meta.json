@@ -1,0 +1,335 @@
+{
+ "key": "iccj-hp-penal-20-2016",
+ "label": "Decizia ÎCCJ nr. 20/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "20",
+ "date": "2016-10-11",
+ "year": "2016",
+ "heading": "DECIZIE nr. 20 din 11 octombrie 2016",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "927",
+  "bis": false,
+  "date": "2016-11-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.400/1/2016",
+  "9.395/30/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "213",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Timişoara, Secţia penală, în Dosarul nr. 9.395/30/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept dacă \"în cazul infracţiunii de proxenetism prevăzute de art. 213 din Codul penal - în modalitatea înlesnirii practicării prostituţiei, dacă faptele sunt săvârşite faţă de o persoană majoră şi de una minoră, sunt realizate elementele constitutive ale unei singure infracţiuni prevăzute de art. 213 alin. (1) şi (3) din Codul penal cu aplicarea art. 35 alin. (1) din Codul penal sau două infracţiuni aflate în concurs, respectiv art. 213 alin. (1) din Codul penal şi art. 213 alin. (3) din Codul penal, ambele cu aplicarea art. 38 din Codul penal\".",
+  "Stabileşte că în cazul în care infracţiunea de proxenetism, în varianta înlesnirii practicării prostituţiei, se săvârşeşte asupra a două sau mai multe persoane vătămate majore şi minore, în \"aceeaşi împrejurare\", se va reţine o singură infracţiune de proxenetism, prevăzută de art. 213 alin. (1) şi (3) din Codul penal, în formă simplă.",
+  "Ori de câte ori infracţiunea de proxenetism, în varianta înlesnirii practicării prostituţiei, se săvârşeşte asupra a două sau mai multe persoane vătămate majore şi/sau minore, fără legătură între ele, se va reţine un concurs de infracţiuni, prevăzut de art. 213 alin. (1), art. 213 alin. (3) sau art. 213 alin. (1) şi (3) din Codul penal, după caz, cu reţinerea dispoziţiilor art. 38 alin. (1) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "213",
+     "alin": [
+      "1",
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "329",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "210",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 179
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "238",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "189",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "192",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 678/2001",
+    "number": "678",
+    "year": "2001",
+    "path": "lege/2001/678"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-11-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183703",
+  "text_sha256": "03cd8439ff3f2909f737238e9385d68fde4cca33cc85dd91cb38e59f65b58fd8",
+  "catalogue_sha256": "03cd8439ff3f2909f737238e9385d68fde4cca33cc85dd91cb38e59f65b58fd8",
+  "fetched": "2026-11-06T04:02:19Z",
+  "chars": 61068,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/183703",
+   "timestamp": "20250808211518",
+   "crawl": "CC-MAIN-2025-33",
+   "filename": "crawl-data/CC-MAIN-2025-33/segments/1754151280040.84/warc/CC-MAIN-20250808192612-20250808222612-00888.warc.gz",
+   "offset": "317638244",
+   "length": "26616",
+   "sha256": "2d231fbff0deb07f112227b73d21f7ea88b7a520c2bb58991416e66e746eb834"
+  },
+  "portal_id": "183703",
+  "tip": "DECIZIE"
+ }
+}
