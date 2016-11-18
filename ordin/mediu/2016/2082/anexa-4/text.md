@@ -1,0 +1,3 @@
+# Anexa 2a)
+Formular "Ordin de serviciu" [Antetul Administrației Fondului pentru Mediu] ORDIN DE SERVICIU Nr......... din........ Dl/Dna..........................................., având funcția de........................., este delegat(ă) pentru efectuarea................, la contribuabilul/plătitorul............... Cod de identificare fiscală:............................... Domiciliul fiscal:......................................... Data începerii inspecției fiscale/controlului este..................... Se legitimează cu legitimația de inspecție fiscală nr..................
+Conducătorul Administrației Fondului pentru Mediu,.................................................. (numele și prenumele)..................................... (semnătura) L.S.
