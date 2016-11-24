@@ -1,0 +1,270 @@
+{
+ "key": "iccj-hp-22-2016",
+ "label": "Decizia ÎCCJ nr. 22/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "22",
+ "date": "2016-09-26",
+ "year": "2016",
+ "heading": "DECIZIE nr. 22 din 26 septembrie 2016",
+ "subtitle": "privind interpretarea dispoziţiilor art. 26 din Legea fondului funciar nr. 18/1991, republicată (în forma de la data intrării în vigoare a Legii nr. 158/2010 pentru modificarea art. 26 din Legea fondului funciar nr. 18/1991)",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "947",
+  "bis": false,
+  "date": "2016-11-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.708/1/2016",
+  "283/119/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 158/2010",
+    "number": "158",
+    "year": "2010",
+    "path": "lege/2010/158"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1138",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Braşov - Secţia contencios administrativ şi fiscal în Dosarul nr. 283/119/2015 şi, în consecinţă, stabileşte că:",
+  "Dispoziţiile art. 26 din Legea fondului funciar nr. 18/1991, republicată (în forma de la data intrării în vigoare a Legii nr. 158/2010 pentru modificarea art. 26 din Legea fondului funciar nr. 18/1991), au fost abrogate prin intrarea în vigoare a art. 1.138 din Codul civil, în ceea ce priveşte regimul juridic al terenurilor din intravilanul localităţilor, rămase la dispoziţia autorităţilor administraţiei publice locale de la persoanele care au decedat şi/sau nu au moştenitori.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 77
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1138",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "553",
+     "alin": [
+      "2",
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii cadastrului şi a publicităţii imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 158/2010",
+    "number": "158",
+    "year": "2010",
+    "path": "lege/2010/158"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii notarilor publici şi a activităţii notariale nr. 36/1995",
+    "number": "36",
+    "year": "1995",
+    "path": "lege/1995/36"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-11-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183940",
+  "text_sha256": "d1436a3e87cd2e1ff549a99c0b82cd2968527c2f081a468972ce4a8ddc2d695f",
+  "catalogue_sha256": "d1436a3e87cd2e1ff549a99c0b82cd2968527c2f081a468972ce4a8ddc2d695f",
+  "fetched": "2026-11-03T18:39:19Z",
+  "chars": 58652,
+  "portal_id": "183940",
+  "tip": "DECIZIE"
+ }
+}
