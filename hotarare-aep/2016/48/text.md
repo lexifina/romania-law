@@ -1,0 +1,10 @@
+HOTĂRÂRE nr. 48 din 22 noiembrie 2016  privind actualizarea numerotării secţiilor de votare organizate pe teritoriul României     EMITENT     AUTORITATEA ELECTORALĂ PERMANENTĂ       Publicat în
+			  MONITORUL OFICIAL nr. 947 din 24 noiembrie 2016     Având în vedere dispoziţiile art. 20 alin. (1) şi (4), precum şi ale  art. 120 din Legea nr. 208/2015  privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările şi completările ulterioare,  ţinând cont de actualizarea de către primari a delimitării secţiilor de votare şi a sediilor acestora, potrivit  art. 20 alin. (3) din Legea nr. 208/2015 , cu modificările şi completările ulterioare,  în temeiul  art. 104 alin. (1) şi (2) din Legea nr. 208/2015 , cu modificările şi completările ulterioare,  Autoritatea Electorală Permanentă adoptă prezenta hotărâre.
+				 +
+			  Articolul 1     Se actualizează numerotarea secţiilor de votare organizate pe teritoriul României, potrivit listei prevăzute în anexa*) care face parte integrantă din prezenta hotărâre.
+						Notă   ...
+			     ──────────    *) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 947 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti, şos. Panduri nr. 1.    ──────────
+				 +
+			  Articolul 2     La data intrării în vigoare a prezentei hotărâri,  Hotărârea Autorităţii Electorale Permanente nr. 23/2016  privind actualizarea numerotării secţiilor de votare organizate pe teritoriul României, publicată în Monitorul Oficial al României, Partea I, nr. 350 din 6 mai 2016, se abrogă.
+				 +
+			  Articolul 3     Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.       p. Preşedintele    Autorităţii Electorale Permanente,    Marian Muhuleţ    Contrasemnează:    --------------------    Vicepreşedinte,    Constantin-Florin Mituleţu-Buică    Vicepreşedinte,    Marian Muhuleţ   Bucureşti, 22 noiembrie 2016.  Nr. 48.  ----
