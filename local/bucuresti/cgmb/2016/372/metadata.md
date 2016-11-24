@@ -1,0 +1,11 @@
+# HCGMB nr. 372/2016
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 372/2016
+- Adopted: 2016-11-24
+- Title: PRIVIND PARTICIPAREA MUNICIPIULUI BUCURESTI LA PROIECTUL "RESURSE EDUCATIONALE PENTRU PROFESORI SPECIALI" PRIN ACCESAREA PROGRAMULUI OPERATIONAL CAPITAL UMAN, AXA PRIORITARA 6 "EDUCATIE SI COMPETENTE", OBIECTIVUL SPECIFIC 6.6. "IMBUNATATIREA COMPETENTELOR PERSONALULUI DIDACTIC DIN INVATAMANTUL PREUNIVERSITAR IN VEDEREA PROMOVARII UNOR SERVICII EDUCATIONALE DE CALITATE ORIENTATE PE NEVOILE ELEVILOR SI ALE UNEI SCOLI INCLUZIVE"
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/36422
+- Document: https://doc.pmb.ro/legis/acteinterne/2016/36422/H372_16.pdf
+- Document sha256: 03a0308d3c30f26527dc0ba4dbd3105e588480f39469f78ee260b33a7a9a94c8
