@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-632-15-concluzii-2016-11-24",
+ "label": "CJUE, Concluziile avocatului general H. Saugmandsgaard Øe prezentate la 24 noiembrie 2016, Cauza C-632/15.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2016-11-24",
+ "year": "2016",
+ "case": "Cauza C-632/15.",
+ "celex": "62015CC0632",
+ "ecli": "ECLI:EU:C:2016:894",
+ "heading": "Concluziile avocatului general H. Saugmandsgaard Øe prezentate la 24 noiembrie 2016",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casație şi Justiție.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Transporturi – Transporturi rutiere – Permis de conducere – Directiva 2006/126/CE – Articolul 13 alineatul (2) – Noțiunea „drept de conducere acordat înainte de 19 ianuarie 2013” – Reglementare națională de transpunere a acestei directive – Obligația persoanelor care înainte de intrarea în vigoare a acestei reglementări erau autorizate să conducă fără permis mopede de a obține un permis de conducere.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62015CC0632",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-632/15&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/21fbc968-b704-11e6-9e3c-01aa75ed71a1.0004.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "d5b5f8dc0ceb1fb850fdc4c273d7ad7133f01acb264c6c107aba801aa909c0dd"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
