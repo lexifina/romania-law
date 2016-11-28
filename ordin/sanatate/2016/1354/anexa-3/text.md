@@ -1,0 +1,6 @@
+# Anexa nr. 3
+Anexa 3 (Anexa nr. 3 la Ordinul ministrului sănătății nr. 477/2009) DECLARAȚIE DE CONFIDENȚIALITATE a persoanei responsabile cu gestionarea datelor din Registrul Național de Transplant, nominalizată prin
+Ordinul ministrului sănătății nr. 477/2009 privind înființarea Registrului Național de Transplant, desemnarea persoanelor responsabile cu gestionarea datelor din Registrul Național de Transplant din cadrul unităților sanitare acreditate pentru efectuarea de transplant de organe, țesuturi și celule de origine umană în scop terapeutic și stabilirea datelor necesare înregistrării unei persoane pentru atribuirea codului unic de înregistrare la Agenția Națională de Transplant Subsemnatul/Subsemnata,........., în calitate de......., la unitatea medicală......., acreditată pentru activități de...., în calitate de persoană nominalizată cu gestionarea datelor din Registrul Național de Transplant, cunoscând prevederile art. 227 din Codul penal, privind divulgarea secretului profesional, mă angajez prin prezenta să păstrez confidențialitatea tuturor datelor și informațiilor despre care am luat cunoștință cu ocazia gestionării datelor din Registrul Național de Transplant, precum și cu ocazia instruirii primite în vederea utilizării acestui sistem.
+Data:..........
+Semnătura:........
+------
