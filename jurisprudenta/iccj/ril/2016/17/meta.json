@@ -1,0 +1,292 @@
+{
+ "key": "iccj-ril-17-2016",
+ "label": "Decizia ÎCCJ nr. 17/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "17",
+ "date": "2016-10-17",
+ "year": "2016",
+ "heading": "DECIZIE nr. 17 din 17 octombrie 2016",
+ "subtitle": "privind interpretarea şi aplicarea dispoziţiilor art. 26 alin. (5), art. 27 şi art. 41 alin. (2) din Legea nr. 334/2006",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1004",
+  "bis": false,
+  "date": "2016-12-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "16/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 334/2006",
+    "number": "334",
+    "year": "2006",
+    "path": "lege/2006/334"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "5",
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "7",
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 26 alin. (5), art. 27 şi art. 41 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale (forma în vigoare în anul 2010), devenite art. 34 alin. (7), art. 59 alin. (3) şi art. 52 alin. (4) din Legea nr. 334/2006 (forma în vigoare în anul 2015), candidatul independent în alegerile locale nu poate fi sancţionat pentru contravenţia prevăzută de art. 41 alin. (1) raportat la art. 38 alin. (1) din Legea nr. 334/2006 (forma în vigoare în anul 2010), devenit art. 52 alin. (2) raportat la art. 47 alin. (1) din Legea nr. 334/2006 (forma în vigoare în anul 2015), atunci când şi-a desemnat şi înregistrat la Autoritatea Electorală Permanentă un mandatar financiar care nu a depus în termenul prevăzut de lege raportul detaliat al veniturilor şi cheltuielilor electorale.",
+  "În interpretarea şi aplicarea dispoziţiilor art. 41 alin. (2) din Legea nr. 334/2006 (forma în vigoare în anul 2010), devenite art. 52 alin. (4) din Legea nr. 334/2006 (forma în vigoare în anul 2015), raportate la dispoziţiile art. 38 alin. (1), art. 26 alin. (12) şi (13) din Legea nr. 334/2006 (forma în vigoare în anul 2010), devenite art. 47 alin. (1), art. 34 alin. (12) şi (14) din Legea nr. 334/2006 (forma în vigoare în anul 2015), candidatul independent în alegerile locale poate fi sancţionat pentru săvârşirea contravenţiei de a nu depune, în termenul prevăzut de lege, la Autoritatea Electorală Permanentă un raport detaliat al veniturilor şi cheltuielilor electorale, atunci când nu şi-a înregistrat la această autoritate un mandatar financiar.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 334/2006",
+    "number": "334",
+    "year": "2006",
+    "path": "lege/2006/334"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "5",
+      "12",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "7",
+      "12",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "4",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 96
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1445",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2016",
+    "number": "78",
+    "year": "2016",
+    "path": "lege/2016/78"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-12-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184618",
+  "text_sha256": "4ff17deff5be999938e77f7f32fd1359e13b04c3cd0f01209372d27b85efab44",
+  "catalogue_sha256": "4ff17deff5be999938e77f7f32fd1359e13b04c3cd0f01209372d27b85efab44",
+  "fetched": "2026-11-03T03:26:17Z",
+  "chars": 55692,
+  "portal_id": "184618",
+  "tip": "DECIZIE"
+ }
+}
