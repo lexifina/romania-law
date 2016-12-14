@@ -1,0 +1,142 @@
+{
+ "key": "iccj-hp-penal-23-2016",
+ "label": "Decizia ÎCCJ nr. 23/2016 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "23",
+ "date": "2016-10-25",
+ "year": "2016",
+ "heading": "DECIZIE nr. 23 din 25 octombrie 2016",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: \"dacă în aplicarea dispoziţiilor art. 264 din Codul de procedură penală cu referire la art. 269 alin. (4) din Codul de procedură penală este obligatoriu ca factorul poştal să efectueze comunicarea actelor de procedură în termen de 24 de ore de la momentul în care primeşte actele spre comunicare\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1003",
+  "bis": false,
+  "date": "2016-12-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.608/1/2016",
+  "10.640/196/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "264",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Judecătoria Panciu în Dosarul nr. 10.640/196/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: \"dacă în aplicarea dispoziţiilor art. 264 din Codul de procedură penală cu referire la art. 269 alin. (4) din Codul de procedură penală este obligatoriu ca factorul poştal să efectueze comunicarea actelor de procedură în termen de 24 de ore de la momentul în care primeşte actele spre comunicare\"."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "264",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "261",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "260",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 53
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-12-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184621",
+  "text_sha256": "a4bd4cbc2a62e327dce40aaa51ccfa77afe816e171654813d7dd2cc9f0ed893a",
+  "catalogue_sha256": "a4bd4cbc2a62e327dce40aaa51ccfa77afe816e171654813d7dd2cc9f0ed893a",
+  "fetched": "2026-11-03T03:26:16Z",
+  "chars": 30204,
+  "portal_id": "184621",
+  "tip": "DECIZIE"
+ }
+}
