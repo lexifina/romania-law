@@ -1,0 +1,2 @@
+# Anexa 6
+Modul de prelevare și ambalare a eșantioanelor de vin pentru efectuarea analizelor izotopice 1. Fiecare eșantion de vin este îmbuteliat în sticle de 75 cl, prevăzute cu un sistem de închidere etanș. 2. La fiecare eșantion se aplică o etichetă conformă cu anexa nr. 7 la ordin. 3. O sticlă de 75 cl din fiecare eșantion de vin va fi păstrată ca probă de control. Probele de control se vor păstra pentru o perioadă de 3 ani de la îmbuteliere (colectare).
