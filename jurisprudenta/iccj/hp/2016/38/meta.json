@@ -1,0 +1,213 @@
+{
+ "key": "iccj-hp-38-2016",
+ "label": "Decizia ÎCCJ nr. 38/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "38",
+ "date": "2016-11-07",
+ "year": "2016",
+ "heading": "DECIZIE nr. 38 din 7 noiembrie 2016",
+ "subtitle": "privind aplicarea art. 845 alin. 9 din Codul de procedură civilă [actual art. 846 alin. (9) din Codul de procedură civilă]",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1005",
+  "bis": false,
+  "date": "2016-12-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.552/1/2016",
+  "4.493/333/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "845",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "846",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1660",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1665",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Vaslui - Secţia civilă în Dosarul nr. 4.493/333/2015, privind pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: \"dacă, în aplicarea art. 845 alin. 9 din Codul de procedură civilă [actual art. 846 alin. (9) din Codul de procedură civilă], instanţele judecătoreşti învestite cu verificarea legalităţii unor vânzări prin licitaţie publică, în legătură cu valoarea preţului de adjudecare, raportat la valoarea de circulaţie a bunului imobil urmărit silit şi vândut prin licitaţie publică, sunt obligate să verifice dacă preţul este fictiv sau derizoriu în raport de prevederile art. 1660, 1665 din Codul civil şi dacă adjudecatarul a consimţit să cumpere ori să obţină proprietatea bunului în mod speculativ, fără o reală contraprestaţie, ori instanţele nu au dreptul să verifice legalitatea vânzărilor prin licitaţie publică, în legătură cu valoarea preţului de adjudecare, indiferent de raportul dintre valoarea de piaţă a bunului imobil urmărit silit, vândut prin licitaţie publică şi preţul de adjudecare.\" Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "845",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "846",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "849",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "509",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1660",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1665",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-12-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184635",
+  "text_sha256": "82b08a23cc6f7383498e297dd53fbd838b3b742b07cb052296cff78ce9e72ee2",
+  "catalogue_sha256": "82b08a23cc6f7383498e297dd53fbd838b3b742b07cb052296cff78ce9e72ee2",
+  "fetched": "2026-11-03T03:26:13Z",
+  "chars": 57293,
+  "portal_id": "184635",
+  "tip": "DECIZIE"
+ }
+}
