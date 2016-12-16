@@ -1,0 +1,2 @@
+# Anexa 1
+Componența Comisiei Patrimoniului Speologic Membri: 1. Dr. Silviu Constantin, Institutul de Speologie "Emil Racoviță" al Academiei Române 2. Dr. Cristian Goran, Institutul de Speologie "Emil Racoviță" al Academiei Române 3. Drd. Marius Vlaicu, Institutul de Speologie "Emil Racoviță" al Academiei Române 4. Dr. Eugen Nițu, Institutul de Speologie "Emil Racoviță" al Academiei Române 5. George Fozokoș, Federația Română de Speologie 6. Mihai Besesek, Federația Română de Speologie 7. Dr. Zoltan Csiki-Sava, Universitatea din București
