@@ -1,0 +1,21 @@
+Comunicat de Presă
+Sanctiuni aplicate - noiembrie
+În luna noiembrie 2016 Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a desfășurat la operatori de date cu caracter personal mai multe investigații din oficiu sau pe baza plângerilor și sesizărilor primite, în urma cărora a aplicat sancțiuni contravenționale.
+Dintre acestea, prezentăm în continuare situații în care s-au aplicat sancțiuni contravenționale cu amendă de minim 5000 lei.
+1. ERB Retail Services IFN S.A.
+În mai multe cazuri, s-a constatat săvârșirea următoarelor fapte:
+Prelucrarea nelegală a datelor cu caracter personal , prevăzută de art. 32 din Legea nr. 677/2001, cu încălcarea art. 12 și art. 14 din Legea nr. 677/2001, întrucât ERB Retail Services IFN S.A. nu a dat curs cererilor persoanelor vizate (6 petiționari), prin care acestea și-au exercitat dreptul de intervenție, în sensul de a fi adoptate măsuri de ștergere a datelor negative transmise la Biroul de Credit fără informarea lor prealabilă, așa cum prevede art. 8 alin. (2) din Decizia ANSPDCP nr. 105/2007.
+Pentru aceste fapte s-au aplicat amenzi contravenționale în cuantum total de 42.000 lei .
+2. S.C. Hello Holidays S.R.L.
+S.C. Hello Holidays S.R.L. a fost sancționată în temeiul art. 13 din Legea nr. 506/2004, pentru nerespectarea prevederilor art. 12 din această lege, referitoare la comunicări nesolicitate , întrucât a trimis în mod repetat către o adresă de e-mail comunicări comerciale prin mijloace de comunicații electronice (poșta electronică), fără obținerea în prealabil a consimțământului expres al persoanei vizate pentru a primi asemenea comunicări.
+Pentru această faptă s-a aplicat o amendă contravențională în cuantum de 5.000 lei .
+3. Alpha Bank S.A.
+S-a constatat săvârșirea următoarelor fapte:
+1. Prelucrarea nelegală a datelor cu caracter personal , prevăzută de art. 32 din Legea nr. 677/2001, întrucât Alpha Bank S.A. a transmis date negative la Biroul de Credit fără să facă dovada înștiințării prealabile a persoanelor vizate, cu încălcarea prevederilor art. 8 alin. (2) din Decizia ANSPDCP nr. 105/2007, art. 9 alin. (1) din Decizia ANSPDCP nr. 105/2007 și art. 12 alin. (1) din Legea nr. 677/2001, coroborat cu art. 12 din Decizia ANSPDCP nr. 105/2007.
+2. Prelucrarea nelegală a datelor cu caracter personal , prevăzută de art. 32 din Legea nr. 677/2001, întrucât Alpha Bank SA a transmis date negative la Biroul de Credit, înainte de împlinirea termenului de 30 de zile de la data scadenței, contrar prevederilor art. 5 alin. (1) din Decizia ANSPDCP nr. 105/2007, cu încălcarea art. 4 alin. (1) lit. a) și lit. c) din Legea nr. 677/2001, coroborat cu art. 12 din Decizia ANSPDCP nr. 105/2007.
+Pentru aceste fapte s-a aplicat amendă contravențională în cuantum total de 9.000 lei.
+4. BCR Banca pentru Locuințe S.A.
+S-a constatat săvârșirea următoarelor fapte:
+1. Prelucrarea nelegală a datelor cu caracter personal , prevăzută de art. 32 din Legea nr. 677/2001, întrucât BCR Banca pentru Locuințe S.A. a transmis date negative la Biroul de Credit, fără să facă dovada informării prealabile a persoanelor vizate, iar pentru raportările de date negative priviind obligațiile de plată scadente neefectuate a realizat înștiințarea prealabilă a persoanelor vizate, așa cum prevede art. 8 alin. (2) din Decizia ANSPDCP nr. 105/2007, dar fără a furniza acestora, la data înștiințării prealabile, și informațiile prevăzute de art. 9 alin. (1), cu încălcarea prevederilor art. 8 alin. (2) din Decizia ANSPDCP nr. 105/2007, art. 9 alin. (1) din Decizia ANSPDCP nr. 105/2007 și art. 12 alin. (1) din Legea nr. 677/2001, coroborat cu art. 12 din Decizia ANSPDCP nr. 105/2007.
+2. Prelucrarea nelegală a datelor cu caracter personal , prevăzută de art. 32 din Legea nr. 677/2001, întrucât BCR Banca pentru Locuințe S.A., a transmis date negative la Biroul de Credit, înainte de împlinirea termenului de 30 de zile de la data scadenței, contrar prevederilor art. 5 alin. (1) din Decizia ANSPDCP nr. 105/2007, cu încălcarea art. 4 alin. (1) lit. a) și lit. c) din Legea nr. 677/2001, coroborat cu art. 12 din Decizia ANSPDCP nr. 105/2007.
+Pentru aceste fapte s-a aplicat amendă contravențională în cuantum total de 15.000 lei.
