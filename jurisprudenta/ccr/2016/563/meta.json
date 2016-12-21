@@ -1,0 +1,249 @@
+{
+ "key": "dcc-563-2016",
+ "label": "Decizia CCR nr. 563/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "563",
+ "date": "2016-07-12",
+ "year": "2016",
+ "heading": "DECIZIE nr. 563 din 12 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 45 alin. (1) lit. b) raportat la art. 14 alin. (1) lit. f) din Legea nr. 295/2004 privind regimul armelor şi al muniţiilor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "1028",
+  "bis": false,
+  "date": "2016-12-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.486/30/2014",
+  "1.816D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 295/2004",
+    "number": "295",
+    "year": "2004",
+    "path": "lege/2004/295"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Daniel Biriescu în Dosarul nr. 7.486/30/2014 al Curţii de Apel Timişoara - Secţia de contencios administrativ şi fiscal şi constată că prevederile art. 45 alin. (1) lit. b) raportat la art. 14 alin. (1) lit. f) din Legea nr. 295/2004 privind regimul armelor şi al muniţiilor sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Timişoara - Secţia de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 295/2004",
+    "number": "295",
+    "year": "2004",
+    "path": "lege/2004/295"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 116/1997",
+    "number": "116",
+    "year": "1997",
+    "path": "lege/1997/116"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/2004",
+    "number": "9",
+    "year": "2004",
+    "path": "lege/2004/9"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2016-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184920",
+  "text_sha256": "23b75907026532aa950fbf935848da8a573d694e1b264d0fb83503f51a69f7ed",
+  "catalogue_sha256": "23b75907026532aa950fbf935848da8a573d694e1b264d0fb83503f51a69f7ed",
+  "fetched": "2026-11-05T12:21:22Z",
+  "chars": 18277,
+  "portal_id": "184920",
+  "tip": "DECIZIE"
+ }
+}
