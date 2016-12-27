@@ -1,0 +1,173 @@
+{
+ "key": "iccj-ril-20-2016",
+ "label": "Decizia ÎCCJ nr. 20/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "20",
+ "date": "2016-10-24",
+ "year": "2016",
+ "heading": "DECIZIE nr. 20 din 24 octombrie 2016",
+ "subtitle": "privind interpretarea şi aplicarea dispoziţiilor art. 915 alin. (2) din Codul de procedură civilă, cu privire la înţelesul noţiunii de \"acord\" al părţilor din cuprinsul tezei a doua a acestui text de lege, respectiv condiţiile de formă pe care trebuie să le îndeplinească convenţia părţilor cu privire la alegerea instanţei care ar urma să soluţioneze acţiunea de divorţ, în situaţia în care nici reclamantul şi nici pârâtul nu au locuinţa pe teritoriul României.",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1049",
+  "bis": false,
+  "date": "2016-12-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "19/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "915",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Înaltei Curţi de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea art. 915 alin. (2) din Codul de procedură civilă, stabileşte că acordul părţilor cu privire la alegerea instanţei care urmează să soluţioneze acţiunea de divorţ trebuie să fie exprimat expres.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "915",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1067",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1240",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1174",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1178",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1203",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1166",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-12-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/185077",
+  "text_sha256": "bf438fea5ef28e4a1dc21d8c7b15814a9aa39fe29d280a36c3de10da624aa9a8",
+  "catalogue_sha256": "bf438fea5ef28e4a1dc21d8c7b15814a9aa39fe29d280a36c3de10da624aa9a8",
+  "fetched": "2026-11-03T23:36:01Z",
+  "chars": 39759,
+  "portal_id": "185077",
+  "tip": "DECIZIE"
+ }
+}
