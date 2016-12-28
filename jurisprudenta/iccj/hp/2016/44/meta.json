@@ -1,0 +1,280 @@
+{
+ "key": "iccj-hp-44-2016",
+ "label": "Decizia ÎCCJ nr. 44/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "44",
+ "date": "2016-11-21",
+ "year": "2016",
+ "heading": "DECIZIE nr. 44 din 21 noiembrie 2016",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1055",
+  "bis": false,
+  "date": "2016-12-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.551/1/2016",
+  "11.338/306/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea privind pronunţarea unei hotărâri prealabile, formulată de Tribunalul Sibiu - Secţia a II-a civilă, de contencios administrativ şi fiscal, prin Încheierea din 21 aprilie 2016, pronunţată în Dosarul nr. 11.338/306/2014, şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 31 alin. (1) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002, cu modificările şi completările ulterioare, plângerea împotriva procesului-verbal de constatare a contravenţiei trebuie şi motivată în termenul de 15 zile de la data înmânării sau comunicării procesului-verbal de contravenţie, fiind supusă procedurii de regularizare a cererii de chemare în judecată prevăzută de art. 200 din Codul de procedură civilă.",
+  "Respinge în rest sesizarea, ca inadmisibilă.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2016-12-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/185132",
+  "text_sha256": "b7c2a397a68cee55a7a3fea2bb08f3b46e0092496648323a8fae8f5d7d5ef6a9",
+  "catalogue_sha256": "b7c2a397a68cee55a7a3fea2bb08f3b46e0092496648323a8fae8f5d7d5ef6a9",
+  "fetched": "2026-11-06T04:02:32Z",
+  "chars": 57553,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/185132",
+   "timestamp": "20241008143824",
+   "crawl": "CC-MAIN-2024-42",
+   "filename": "crawl-data/CC-MAIN-2024-42/segments/1727944253554.39/warc/CC-MAIN-20241008140711-20241008170711-00696.warc.gz",
+   "offset": "312262446",
+   "length": "29514",
+   "sha256": "5924f98feffb9165f466fcd9b85c18360e77d35baa4d7a4eb7b16031dcaf4d81"
+  },
+  "portal_id": "185132",
+  "tip": "DECIZIE"
+ }
+}
