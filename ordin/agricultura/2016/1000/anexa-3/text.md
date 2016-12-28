@@ -1,0 +1,101 @@
+# Anexa 3 (Anexa nr. 7 la Ordinul nr. 619/2015) LISTA zonelor de interes ecologic și echivalența acestora în hectare
+```
+┌──────────────────┬────────────────────────────────┬────────────┬─────────┬───────────────┐
+│     Element      │            Detalii             │ Factor de  │Factor de│Suprafața zonei│
+│                  │                                │ conversie  │ponderare│  de interes   │
+│                  │                                │            │         │   ecologic    │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│           0      │               1                │     2      │    3    │   4 = 2 x 3   │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│Terase            │Construcții destinate prevenirii│            │         │               │
+│(pe 1 m lungime)  │și combaterii eroziunii solului,│            │         │               │
+│                  │executate de-a lungul curbelor  │            │         │               │
+│                  │de nivel, pe terenuri arabile în│            │         │               │
+│                  │pantă                           │            │         │               │
+│                  │Înălțime minimă 1 m             │            │         │               │
+│                  │Lățime minimă 3 m               │     2      │    1    │     2 mp      │
+├──────────────────┴────────────────────────────────┴────────────┴─────────┴───────────────┤
+│Elemente de peisaj:                                                                       │
+├──────────────────┬────────────────────────────────┬────────────┬─────────┬───────────────┤
+│- garduri vii/    │Șiruri de arbuști/arbori formate│            │         │               │
+│fâșii împădurite  │din diferite specii, cu lățimea │            │         │               │
+│(pe 1 m)          │de maximum 10 metri             │     5      │    2    │    10 mp      │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│- arbore izolat   │Arbore cu diametrul coroanei de │            │         │               │
+│(per arbore)      │minimum 4 metri                 │    20      │   1,5   │    30 mp      │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│- arbori în       │Șiruri de arbori cu diametrul   │            │         │               │
+│aliniament        │coroanei de minimum 4 metri și  │            │         │               │
+│(pe 1 m)          │spațiul dintre coroane de       │            │         │               │
+│                  │maximum 5 metri                 │     5      │    2    │    10 mp      │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│- grup de arbori/ │Arbori ale căror coroane se     │            │         │               │
+│pâlcuri arbustive │întrepătrund/Pâlcuri arbustive, │            │         │               │
+│din zona de câmpie│ce ocupă o suprafață de maximum │            │         │               │
+│(pe 1 mp)         │0,3 ha în ambele cazuri         │Nu se aplică│   1,5   │   1,5 mp      │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│- margini de câmp │Margini de teren, cu lățimi     │            │         │               │
+│(pe 1 m)          │cuprinse între 1 și 20 metri,   │            │         │               │
+│                  │fără producție agricolă         │     6      │   1,5   │     9 mp      │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│- iazuri          │Acumulări permanente naturale   │            │         │               │
+│(pe 1 mp)         │de apă stătătoare, exclusiv     │            │         │               │
+│                  │rezervoarele din beton sau din  │            │         │               │
+│                  │plastic, cu suprafața de        │            │         │               │
+│                  │maximum 0,1 ha                  │Nu se aplică│   1,5   │   1,5 mp      │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│- rigole          │Șanțuri sau canale cu o lățime  │            │         │               │
+│(pe 1 m)          │maximă de 6 metri, precum și    │            │         │               │
+│                  │cursurile deschise de apă pentru│            │         │               │
+│                  │irigații sau drenare, exclusiv  │            │         │               │
+│                  │cele cu pereți betonați.        │     3      │    2    │     6 mp      │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│Zone-tampon       │Fâșii de protecție existente pe │            │         │               │
+│(pe 1 m)          │terenurile agricole situate în  │            │         │               │
+│                  │vecinătatea apelor de suprafață,│            │         │               │
+│                  │a căror lățime minimă este de   │            │         │               │
+│                  │1 m pe terenurile cu panta de   │            │         │               │
+│                  │până la 12% și de 3 m pe        │            │         │               │
+│                  │terenurile cu panta mai mare de │            │         │               │
+│                  │12%, panta terenului fiind panta│            │         │               │
+│                  │medie a blocului fizic adiacent │            │         │               │
+│                  │cursului de apă (obligatorii    │            │         │               │
+│                  │prin GAEC 1).                   │            │         │               │
+│                  │De-a lungul cursurilor de apă,  │            │         │               │
+│                  │aceste zone pot include benzi cu│            │         │               │
+│                  │vegetație riverană cu o lățime  │            │         │               │
+│                  │de până la 10 m.                │      6     │   1,5   │     9 mp      │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│Zone cu specii    │Zone cu plantații de salcie     │            │         │               │
+│forestiere cu     │(Salix L), plop alb (Populus    │            │         │               │
+│ciclu scurt de    │alba) și plop negru (Populus    │            │         │               │
+│producție         │nigra)                          │            │         │               │
+│(pe 1 mp)         │                                │Nu se aplică│   0,3   │    0,3 mp     │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│Zonele împădurite │Terenuri agricole împădurite    │            │         │               │
+│menționate la     │prin măsura 221 "Prima          │            │         │               │
+│art. 32 alin. (2) │împădurire a terenurilor        │            │         │               │
+│lit. (b) pct. (ii)│agricole" din cadrul            │            │         │               │
+│din Regulamentul  │PNDR 2007-2013, prin submăsura  │            │         │               │
+│nr. 1.307/2013, cu│8.1 "Împădurirea și crearea     │            │         │               │
+│modificările și   │de suprafețe împădurite" din    │            │         │               │
+│completările      │cadrul PNDR 2014-2020 sau în    │            │         │               │
+│ulterioare        │temeiul unei scheme naționale   │            │         │               │
+│(pe 1 mp)         │ale cărei condiții respectă     │Nu se aplică│    1    │     1 mp      │
+│                  │dispozițiile art. 43 alin. (1), │            │         │               │
+│                  │(2) și (3) din Regulamentul (CE)│            │         │               │
+│                  │nr. 1.698/2005 sau ale art. 22  │            │         │               │
+│                  │din Regulamentul (UE)           │            │         │               │
+│                  │nr. 1.305/2013                  │            │         │               │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│Zone cu culturi   │Amestecurile de specii de       │            │         │               │
+│secundare sau     │culturi prevăzute în anexa nr. 9│            │         │               │
+│strat vegetal     │la ordin                        │            │         │               │
+│(pe 1 mp)         │                                │Nu se aplică│   0,3   │   0,3 mp      │
+├──────────────────┼────────────────────────────────┼────────────┼─────────┼───────────────┤
+│Zonele cu culturi │Culturile prevăzute în anexa nr.│            │         │               │
+│fixatoare de azot │10 la ordin                     │            │         │               │
+│(pe 1 mp)         │                                │Nu se aplică│   0,7   │   0,7 mp      │
+└──────────────────┴────────────────────────────────┴────────────┴─────────┴───────────────┘
+```
+-----
