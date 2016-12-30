@@ -1,0 +1,27 @@
+În temeiul prevederilor art. 133 alin. (5) și (7) din Constituția României, republicată, și ale art. 106 lit. b) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, având în vedere și dispozițiile art. 23 alin. (1) și art. 38 alin. (1) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, republicată, cu modificările ulterioare, Plenul Consiliului Superior al Magistraturii hotărăște:
+Articolul I
+Regulamentul Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 127/2007 , publicată în Monitorul Oficial al României, Partea I, nr. 193 din 21 martie 2007, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 22, alineatele (4) și (6) se modifică și vor avea următorul cuprins: "(4) Nota minimă admisă la evaluarea continuă aferentă fiecărei discipline din anul I de studiu, respectiv a programului de stagiu din anul II, precum și la fiecare dintre evaluările finale aferente fiecărei discipline/etape de stagiu/modul este 5. .......................................................................
+(6) Cu excepția situației în care nota este rezultatul fraudei, în situația în care nu s-a obținut nota minimă prevăzută la alin. (4), pentru evaluările finale aferente fiecărei discipline/etape de stagiu/modul, auditorul va mai putea fi examinat o singură dată. Nepromovarea în urma examinării scrise atrage exmatricularea din Institut, în baza hotărârii Consiliului științific. În situația în care nu s-a obținut nota minimă admisă la evaluarea continuă aferentă fiecărei discipline din anul I de studiu, respectiv la evaluarea continuă aferentă programului de stagiu din anul II, auditorul va fi exmatriculat din Institut în baza hotărârii Consiliului științific."
+2. După articolul 22 se introduce un nou articol, articolul 22^1, cu următorul cuprins: "ART. 22^1. - (1) Constituie fraudă:
+a) comunicarea, după o primă avertizare, prin orice mijloace, cu persoane prezente, în vederea soluționării subiectului;
+b) deținerea altor materiale decât cele permise;
+c) deținerea oricăror mijloace de comunicare;
+d) continuarea redactării lucrării după expirarea timpului alocat;
+e) copierea sau înlesnirea copierii.
+(2) Frauda va fi consemnată într-un proces verbal de către persoana care o constată. Procesul-verbal se înaintează titularului de disciplină.
+(3) Titularul de disciplină sau persoana desemnată de acesta, după ascultarea auditorului de justiție și, dacă este cazul, a altor persoane, aplică una dintre următoarele sancțiuni:
+- pentru frauda prevăzută la alin. (1) lit. a), b), c) și e), eliminarea din examen și acordarea notei zero; - pentru frauda prevăzută la alin. (1) lit. d), scăderea din nota acordată lucrării a unui număr de puncte, în funcție de gravitatea abaterii.
+(4) Cu privire la aplicarea sancțiunii, titularul de disciplină sau persoana desemnată de acesta încheie un proces-verbal care cuprinde și declarațiile persoanelor ascultate în condițiile alin. (3). Procesul-verbal se întocmește în două exemplare.
+(5) În cazul în care titularul de disciplină sau persoana desemnată de acesta decide că nu a existat fraudă în sensul alin. (1) lit. a), b), c) și e), auditorul de justiție poate opta între susținerea în continuare a probei, cu prelungirea corespunzătoare a timpului de concurs, și susținerea din nou a acesteia, la o dată ulterioară.
+(6) Dacă frauda este constatată cu ocazia corectării lucrării, se procedează conform alin. (3) și (4). În situația prevăzută la alin. (5) se acordă nota stabilită în urma corectării lucrării.
+(7) Procesul-verbal de sancționare a fraudei se înmânează sau, după caz, se comunică de îndată auditorului de justiție.
+(8) Auditorul de justiție poate contesta procesul-verbal de sancționare a fraudei. Contestația trebuie să cuprindă motivele pe care se întemeiază și se depune în termen de o săptămână de la înmânarea sau, după caz, comunicarea procesului-verbal de sancționare sau de la data întocmirii procesului-verbal în care se consemnează refuzul de primire. Contestația se soluționează de către Consiliul științific al Institutului Național al Magistraturii.
+(9) În situația în care Consiliul Științific admite contestația, în funcție de sancțiunea aplicată, auditorul de justiție mai poate susține o dată proba de la care a fost eliminat sau poate primi punctajul care i-a fost scăzut. În situația prevăzută la alin. (6), dacă se admite contestația, se acordă nota stabilită în urma corectării lucrării.
+(10) În cazurile prevăzute la alin. (5) teza finală și la alin. (9), data la care auditorul de justiție poate susține proba de la care a fost eliminat se stabilește de către titularul de disciplină sau persoana desemnată de acesta.
+(11) Procesele-verbale de constatare a fraudei și, respectiv, de sancționare a fraudei se atașează fișei personale a auditorului de justiție în perioada de formare în cadrul Institutului Național al Magistraturii, inserată în dosarul profesional al acestuia.
+(12) Dispozițiile prezentului articol se aplică și în cazul celorlalte lucrări scrise avute în vedere în cadrul evaluării continue."
+Articolul II
+Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.
+Președintele Consiliului Superior al Magistraturii,
+judecător Mircea Aron
+București, 15 decembrie 2016. Nr. 1.585. ------
