@@ -1,0 +1,158 @@
+{
+ "key": "cedo-30050-12-2016-04-05",
+ "label": "CEDO, Cazan c. României, 2016-04-05",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-04-05",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 5 aprilie 2016",
+ "subtitle": "în Cauza Cazan împotriva României - SECŢIA A PATRA",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "36",
+  "bis": false,
+  "date": "2017-01-12",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "no-violation"
+ ],
+ "applications": [
+  "30050/12"
+ ],
+ "case_name": "Cazan",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă; 2. hotărăşte că a fost încălcat art. 3 din Convenţie sub aspect material; 3. hotărăşte că a fost încălcat art. 3 din Convenţie sub aspect procedural; 4. hotărăşte că nu a fost încălcat art. 5 § 1 din Convenţie; 5. hotărăşte:",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, suma de 11.700 EUR (unsprezece mii şapte sute euro), care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plăţii, pentru prejudiciul moral;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "6. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/185637",
+  "text_sha256": "33c0643c42685c2490bc57464f7b73f023c895af8c7e88ec789be98d2a33cbda",
+  "catalogue_sha256": "33c0643c42685c2490bc57464f7b73f023c895af8c7e88ec789be98d2a33cbda",
+  "fetched": "2026-11-03T03:25:05Z",
+  "chars": 35896,
+  "portal_id": "185637",
+  "tip": "HOTĂRÂRE"
+ }
+}
