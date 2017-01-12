@@ -1,0 +1,172 @@
+{
+ "key": "dcc-527-2016",
+ "label": "Decizia CCR nr. 527/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "527",
+ "date": "2016-07-05",
+ "year": "2016",
+ "heading": "DECIZIE nr. 527 din 5 iulie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul bugetar",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "34",
+  "bis": false,
+  "date": "2017-01-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "465/30/2015",
+  "1.845D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul bugetar, excepţie ridicată de Ileana Petraşcu şi Ioan Petraşcu în Dosarul nr. 465/30/2015 al Curţii de Apel Timişoara - Secţia de contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Timişoara - Secţia de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-01-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/185626",
+  "text_sha256": "fa28fd244e71dfc72058a49161a1da240186e307738b38e4183ff08c8c0d250a",
+  "catalogue_sha256": "fa28fd244e71dfc72058a49161a1da240186e307738b38e4183ff08c8c0d250a",
+  "fetched": "2026-11-03T03:25:03Z",
+  "chars": 12648,
+  "portal_id": "185626",
+  "tip": "DECIZIE"
+ }
+}
