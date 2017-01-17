@@ -1,0 +1,155 @@
+{
+ "key": "cedo-18183-09-2016-10-04",
+ "label": "CEDO, Martocian c. României, 2016-10-04",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-10-04",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 4 octombrie 2016",
+ "subtitle": "în Cauza Martocian împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "49",
+  "bis": false,
+  "date": "2017-01-17",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "18183/09"
+ ],
+ "case_name": "Martocian",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă în ceea ce priveşte capătul de cerere întemeiat pe art. 6 § 1 din Convenţie şi inadmisibilă pentru celelalte capete de cerere; 2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie; 3. hotărăşte:",
+  "a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni, următoarele sume, care trebuie convertite în moneda naţională a statului pârât, la rata aplicabilă la data plăţii:",
+  "(i) 3.600 EUR (trei mii şase sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral; (ii) 100 EUR (o sută de euro), plus orice sumă ce poate fi datorată cu titlu de impozit de reclamant, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu 3 puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "277",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/185768",
+  "text_sha256": "3374ae3528d851d32e6b89387bb82e20d2ed970e56b15bfddfd971ed927f49cf",
+  "catalogue_sha256": "3374ae3528d851d32e6b89387bb82e20d2ed970e56b15bfddfd971ed927f49cf",
+  "fetched": "2026-11-03T13:02:59Z",
+  "chars": 24576,
+  "portal_id": "185768",
+  "tip": "HOTĂRÂRE"
+ }
+}
