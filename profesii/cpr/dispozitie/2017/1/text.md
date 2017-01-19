@@ -1,0 +1,19 @@
+În temeiul dispozițiilor art. 51 din Normele metodologice de aplicare a Legii nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România, aprobate prin Hotărârea Guvernului nr. 788/2005 , cu completările ulterioare, raportate la dispozițiile art. 41 lit. c) din Legea nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România, cu modificările ulterioare, președintele Comitetului director al Colegiului Psihologilor din România dispune:
+Articolul 1
+(1) Se aprobă convocarea ședinței Convenției naționale a Colegiului Psihologilor din România privind organizarea alegerilor pentru forurile de conducere ale Colegiului Psihologilor din România, denumit în continuare Colegiu, după cum urmează: în data de 18 aprilie 2017, ora 10.00, în Aula Magna a Universității "Titu Maiorescu", situată în București, calea Văcărești nr. 187, sectorul 4.
+(2) În cazul în care la prima convocare condiția de cvorum de ședință nu este îndeplinită, Comitetul director stabilește o nouă dată, în condițiile legii.
+Articolul 2
+(1) În perioada 18 ianuarie 2017-18 februarie 2017, președinții filialelor teritoriale convoacă ședințele convențiilor filialelor teritoriale, iar membrii Colegiului care candidează pentru poziția de președinte al filialei teritoriale, membru în comitetul filialei teritoriale, reprezentant pentru Convenția națională, președinte al Colegiului și pentru pozițiile de membru al Comitetului director își înregistrează candidaturile la filialele teritoriale, în vederea desemnării în cadrul ședințelor de alegeri, cu respectarea condițiilor prevăzute în cadrul normativ privind organizarea alegerilor.
+(2) În perioada 18 februarie 2017-18 martie 2017 se organizează și se desfășoară ședințele convențiilor filialelor teritoriale ale Colegiului pentru alegerea președintelui filialei teritoriale, alegerea membrilor comitetului filialei teritoriale, alegerea reprezentanților pentru Convenția națională și desemnarea candidaților propuși pentru pozițiile de președinte al Colegiului și de membru al Comitetului director.
+(3) Președinții filialelor teritoriale, sprijiniți administrativ de către secretarii filialelor teritoriale, înregistrează și transmit la secretariatul Comitetului director al Colegiului toate evidențele rezultatelor alegerilor, inclusiv convocatoarele, procesele-verbale ale ședințelor, precum și alte documente doveditoare privind respectarea condițiilor de înregistrare și organizare a alegerilor la nivelul filialelor teritoriale, cu respectarea termenelor și condițiilor privind organizarea alegerilor.
+Articolul 3
+(1) Înregistrarea și transmiterea candidaturilor se realizează cu respectarea procedurilor legale, pe baza prezentării și verificării dovezilor pentru îndeplinirea condițiilor prevăzute în actele normative privind termenele, practica profesională, interdicția, incompatibilitatea, conflictul de interese, precum și numărul maxim de mandate deținute în unul dintre forurile de conducere ale Colegiului.
+(2) Neîndeplinirea obligațiilor și condițiilor prevăzute în lege și în actele normative privind organizarea alegerilor conduce în mod automat la neînregistrarea și invalidarea candidaturilor.
+(3) Cererile/Plângerile privind contestarea candidaturilor se soluționează în condițiile și termenele prevăzute în procedurile de alegere.
+Articolul 4
+(1) Prezenta dispoziție are caracter normativ și se publică în Monitorul Oficial al României, Partea I.
+(2) Prezenta dispoziție se comunică membrilor Colegiului prin afișare pe site-ul oficial al Colegiului www.copsi.ro, iar convocarea ședinței Convenției naționale a Colegiului urmează să fie realizată prin mass-media, în condițiile legii.
+Președintele Comitetului director
+al Colegiului Psihologilor din România,
+Mihai Aniței
+București, 17 ianuarie 2017. Nr. 1. ----
