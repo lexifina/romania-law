@@ -1,0 +1,209 @@
+{
+ "key": "cedo-12060-12-2016-04-12",
+ "label": "CEDO, M.C. şi A.C. c. României, 2016-04-12",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-04-12",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 12 aprilie 2016",
+ "subtitle": "în Cauza M.C. şi A.C. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "61",
+  "bis": false,
+  "date": "2017-01-20",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "12060/12"
+ ],
+ "case_name": "M.C. şi A.C.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA:",
+  "1. declară, în unanimitate, cererea admisibilă; 2. hotărăşte, în unanimitate, că au fost încălcate art. 3 şi 14 din Convenţie interpretate coroborat, în ceea ce priveşte capătul de cerere referitor la anchetarea acuzaţiilor de rele tratamente; 3. hotărăşte, cu şase voturi la unu, că nu este necesar să examineze restul capetelor de cerere; 4. hotărăşte, în unanimitate:",
+  "a) că statul pârât trebuie să plătească reclamanţilor, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 §2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 7.000 EUR (şapte mii de euro) fiecărui reclamant, plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral; (ii) 3.863,02 EUR (trei mii opt sute şaizeci şi trei de euro şi doi eurocenţi), plus orice sumă ce poate fi datorată de reclamanţi cu titlu de impozit, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "5. respinge, cu şase voturi la unu, cererea reclamanţilor de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/185828",
+  "text_sha256": "7669ee6bcbfc3f00d86afb4a763ac3aeb98cfb1cfe0d1568e66d5327c98a89f0",
+  "catalogue_sha256": "7669ee6bcbfc3f00d86afb4a763ac3aeb98cfb1cfe0d1568e66d5327c98a89f0",
+  "fetched": "2026-11-03T03:24:44Z",
+  "chars": 94776,
+  "portal_id": "185828",
+  "tip": "HOTĂRÂRE"
+ }
+}
