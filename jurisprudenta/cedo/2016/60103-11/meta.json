@@ -1,0 +1,153 @@
+{
+ "key": "cedo-60103-11-2016-06-14",
+ "label": "CEDO, Stepanian c. României, 2016-06-14",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-06-14",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 14 iunie 2016",
+ "subtitle": "în Cauza Stepanian împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "65",
+  "bis": false,
+  "date": "2017-01-26",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "60103/11"
+ ],
+ "case_name": "Stepanian",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "CURTEA:",
+  "1. respinge, în unanimitate, obiecţia Guvernului cu privire la calitatea procesuală activă a reclamantei şi declară cererea admisibilă în măsura în care a fost introdusă de reclamantă; 2. respinge, cu majoritate, obiecţia Guvernului cu privire la calitatea procesuală activă a reclamantului şi declară cererea admisibilă în măsura în care a fost introdusă de reclamant; 3. hotărăşte, în unanimitate, că a fost încălcat art. 3 din Convenţie sub aspect material; 4. hotărăşte, în unanimitate, că a fost încălcat art. 3 din Convenţie sub aspect procedural; 5. hotărăşte, în unanimitate:",
+  "a) că statul pârât trebuie să plătească în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenţie, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii:",
+  "(i) 12.000 euro (douăsprezece mii euro), la care se va adăuga orice sumă putând fi datorată cu titlu de impozit, pentru prejudiciul moral, în solidar, reclamanţilor; (ii) 7 EUR (şapte euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul material, reclamantei; (iii) 6.200 EUR (şase mii două sute euro) plus orice sumă ce poate fi datorată cu titlu de impozit, pentru cheltuielile de judecată în faţa Curţii, care trebuie plătită direct în conturile bancare indicate de reprezentanta reclamantului şi de fundaţie, conform solicitării reclamanţilor;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "6. respinge, în unanimitate, cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186024",
+  "text_sha256": "eb843c6375305881f23a625cd02a4bc83f944d662a168087e725918489050112",
+  "catalogue_sha256": "eb843c6375305881f23a625cd02a4bc83f944d662a168087e725918489050112",
+  "fetched": "2026-11-03T03:24:37Z",
+  "chars": 46588,
+  "portal_id": "186024",
+  "tip": "HOTĂRÂRE"
+ }
+}
