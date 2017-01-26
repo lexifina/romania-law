@@ -1,0 +1,84 @@
+{
+ "key": "cedo-26608-09-2015-02-12",
+ "label": "CEDO, Marius Iorga c. României, 2015-02-12",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2015-02-12",
+ "year": "2015",
+ "heading": "DECIZIE din 12 februarie 2015",
+ "subtitle": "în Cauza Marius Iorga împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A TREIA",
+ "mo": {
+  "number": "68",
+  "bis": false,
+  "date": "2017-01-26",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "26608/09"
+ ],
+ "case_name": "Marius Iorga",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "Ia act de termenii declaraţiei guvernului pârât cu privire la art. 6 § 1 din Convenţie şi de modalităţile prevăzute pentru a asigura respectarea angajamentelor luate pe această cale.",
+  "Decide să scoată cererea de pe rol, în temeiul art. 37 § 1 lit. c) din Convenţie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186051",
+  "text_sha256": "4b40eddadf21bef3a7576a9583c15eac7fb105f53175e7e4182e45f24554fec9",
+  "catalogue_sha256": "4b40eddadf21bef3a7576a9583c15eac7fb105f53175e7e4182e45f24554fec9",
+  "fetched": "2026-11-03T03:24:34Z",
+  "chars": 6116,
+  "portal_id": "186051",
+  "tip": "DECIZIE"
+ }
+}
