@@ -1,0 +1,376 @@
+{
+ "key": "iccj-hp-32-2016",
+ "label": "Decizia ÎCCJ nr. 32/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "32",
+ "date": "2016-10-24",
+ "year": "2016",
+ "heading": "DECIZIE nr. 32 din 24 octombrie 2016",
+ "subtitle": "privind interpretarea şi aplicarea dispoziţiilor art. 262 alin. (1) lit. a) şi alin. (3) lit. b), art. 263 alin. (1), alin. (2) şi alin. (7) din Legea nr. 1/2011, precum şi a dispoziţiilor art. 8, art. 12 alin. (4) şi alin. (5) din Ordinul nr. 5.560/2011, art. 8 din Ordinul nr. 6.239/2012, art. 8 din Ordinul nr. 5.451/2013, şi art. 8 din Ordinul nr. 4.895/2014",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "79",
+  "bis": false,
+  "date": "2017-01-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.407/1/2016",
+  "1.849/90/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "262",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "263",
+     "alin": [
+      "1",
+      "2",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 5.560/2011",
+    "number": "5560",
+    "year": "2011"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 6.239/2012",
+    "number": "6239",
+    "year": "2012"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 5.451/2013",
+    "number": "5451",
+    "year": "2013"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 4.895/2014",
+    "number": "4895",
+    "year": "2014"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Piteşti - Secţia I civilă în Dosarul nr. 1.849/90/2015 privind pronunţarea unei hotărâri prealabile şi, în consecinţă, stabileşte că:",
+  "În interpretarea dispoziţiilor art. 262 alin. (1) lit. a) şi alin. (3) lit. b), art. 263 alin. (1), alin. (2) şi alin. (7) din Legea nr. 1/2011, precum şi a dispoziţiilor art. 8, art. 12 alin. (4) şi alin. (5) din Ordinul nr. 5.560/2011, art. 8 din Ordinul nr. 6.239/2012, art. 8 din Ordinul nr. 5.451/2013, şi art. 8 din Ordinul nr. 4.895/2014, orele de educaţie fizică efectuate de învăţători sau de profesori pentru învăţământul primar nu se cuprind în norma didactică a acestora şi se plătesc separat, cu ora.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educaţiei naţionale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "262",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "263",
+     "alin": [
+      "1",
+      "2",
+      "7",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educaţiei, cercetării, tineretului şi sportului nr. 5.560/2011",
+    "number": "5560",
+    "year": "2011"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educaţiei, cercetării, tineretului şi sportului nr. 6.239/2012",
+    "number": "6239",
+    "year": "2012"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educaţiei naţionale nr. 5.451/2013",
+    "number": "5451",
+    "year": "2013"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educaţiei naţionale nr. 4.895/2014",
+    "number": "4895",
+    "year": "2014"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2002",
+    "number": "202",
+    "year": "2002",
+    "path": "lege/2002/202"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 5.560/2011",
+    "number": "5560",
+    "year": "2011"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 6.239/2012",
+    "number": "6239",
+    "year": "2012"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 5.451/2013",
+    "number": "5451",
+    "year": "2013"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 4.895/2014",
+    "number": "4895",
+    "year": "2014"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186193",
+  "text_sha256": "228a0ebb837f10ffb2a6bbe743da5f71ca4bb5a9ccc4f6f8d99fcbdc74bec0ee",
+  "catalogue_sha256": "228a0ebb837f10ffb2a6bbe743da5f71ca4bb5a9ccc4f6f8d99fcbdc74bec0ee",
+  "fetched": "2026-11-03T03:24:28Z",
+  "chars": 40191,
+  "portal_id": "186193",
+  "tip": "DECIZIE"
+ }
+}
