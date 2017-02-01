@@ -1,0 +1,15 @@
+# Anexa 1
+Dispoziții generale 1. Organ fiscal central este Agenția Națională de Administrare Fiscală prin structurile de specialitate cu atribuții de administrare a creanțelor fiscale, inclusiv unitățile subordonate acesteia. 2. Organ fiscal competent este organul fiscal în a cărui rază teritorială își are domiciliul fiscal persoana impozabilă ori în evidența căruia aceasta se află înregistrată ca plătitor de impozite și taxe. 3. Direcția regională antifraudă fiscală competentă este direcția regională antifraudă fiscală care are sediul în aria de competență teritorială a direcției generale regionale a finanțelor publice din care face parte organul fiscal competent. 4. Procedura de evaluare a intenției și capacității se aplică de către compartimentul cu atribuții în evaluarea intenției și a capacității de a desfășura activități economice, din cadrul organului fiscal competent, denumit în continuare compartiment de evaluare. 5. Procedura privind înregistrarea în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal a persoanelor impozabile, societăți, cu sediul activității economice în România, înființate în baza Legii societăților nr. 31/1990, supuse înmatriculării la registrul comerțului, precum și Procedura de anulare, din oficiu, a înregistrării în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 privind Codul fiscal a persoanelor impozabile, societăți, cu sediul activității economice în România, înființate în baza Legii societăților nr. 31/1990, supuse înmatriculării la registrul comerțului care nu justifică intenția și capacitatea de a desfășura activități economice care implică operațiuni în sfera de aplicare a TVA, se aplică de către compartimentul cu atribuții în domeniul înregistrării fiscale, din cadrul organului fiscal competent, denumit în continuare compartiment de specialitate. 6. În sensul procedurilor, prin conducătorul unității fiscale se înțelege, după caz:
+a) directorul general al Direcției Generale de Administrare a Marilor Contribuabili;
+b) șeful administrației județene a finanțelor publice;
+c) șeful administrației sectorului a finanțelor publice, din municipiul București;
+d) șeful serviciului fiscal municipal;
+e) șeful serviciului fiscal orășenesc;
+f) șeful biroului fiscal comunal;
+g) șeful administrației fiscale pentru contribuabili mijlocii;
+7. În sensul procedurilor, prin conducătorul adjunct al unității fiscale se înțelege, după caz:
+a) directorul general adjunct coordonator al activității de administrare a veniturilor statului din cadrul Direcției Generale de Administrare a Marilor Contribuabili;
+b) șeful administrației adjunct - colectare din cadrul administrației județene a finanțelor publice, după caz;
+c) șeful administrației adjunct - colectare din cadrul administrației sectorului a finanțelor publice, din municipiul București;
+d) șeful administrației adjunct - colectare din cadrul administrației pentru contribuabili mijlocii.
+8. În sensul procedurilor, persoana impozabilă este cea definită la art. 269 din Codul fiscal.
