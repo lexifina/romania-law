@@ -1,0 +1,215 @@
+{
+ "key": "iccj-hp-28-2016",
+ "label": "Decizia ÎCCJ nr. 28/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "28",
+ "date": "2016-10-17",
+ "year": "2016",
+ "heading": "DECIZIE nr. 28 din 17 octombrie 2016",
+ "subtitle": "privind interpretarea prevederilor art. 83^2 alin. (1) din Legea nr. 303/2004",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "97",
+  "bis": false,
+  "date": "2017-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.812/1/2016",
+  "936/108/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "83-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Oradea - Secţia I civilă în Dosarul nr. 936/108/2015 privind pronunţarea unei hotărâri prealabile pentru dezlegarea modului de interpretare şi aplicare a dispoziţiilor art. 83^2 alin. (1) din Legea nr. 303/2004 privind statutul judecătorilor şi procurorilor, republicată, cu modificările şi completările ulterioare.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "83-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 118/2014",
+    "number": "118",
+    "year": "2014",
+    "path": "lege/2014/118"
+   },
+   "articles": [],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "151",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186381",
+  "text_sha256": "e95e73fc0bc39e6ffee09f1a29683976729861dfe55ccc27ec74a56258d4e85e",
+  "catalogue_sha256": "e95e73fc0bc39e6ffee09f1a29683976729861dfe55ccc27ec74a56258d4e85e",
+  "fetched": "2026-11-03T03:24:10Z",
+  "chars": 44178,
+  "portal_id": "186381",
+  "tip": "DECIZIE"
+ }
+}
