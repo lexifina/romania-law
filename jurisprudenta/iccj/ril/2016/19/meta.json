@@ -1,0 +1,180 @@
+{
+ "key": "iccj-ril-19-2016",
+ "label": "Decizia ÎCCJ nr. 19/2016 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "19",
+ "date": "2016-10-24",
+ "year": "2016",
+ "heading": "DECIZIE nr. 19 din 24 octombrie 2016",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "103",
+  "bis": false,
+  "date": "2017-02-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "18/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "457",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Braşov şi, în consecinţă, stabileşte că:",
+  "Dispoziţiile art. 457 alin. (4) din Codul de procedură civilă nu sunt aplicabile dacă partea exercită o cale de atac neprevăzută de lege, diferită de cea corect menţionată în dispozitivul hotărârii atacate.",
+  "În ipoteza în care partea exercită o cale de atac neprevăzută de lege, diferită de cea corect menţionată în dispozitivul hotărârii atacate, instanţa de control judiciar va respinge ca inadmisibilă calea de atac neprevăzută de lege, potrivit art. 457 alin. (1) din Codul de procedură civilă, în măsura în care aceasta nu poate fi calificată prin aplicarea dispoziţiilor art. 152 raportat la art. 22 alin. (4) din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "457",
+     "alin": [
+      "4",
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 45
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-02-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186402",
+  "text_sha256": "bc73da17893d0686fc78e8f0cb6bdb467e76950da6315e03532e1be25592e3eb",
+  "catalogue_sha256": "bc73da17893d0686fc78e8f0cb6bdb467e76950da6315e03532e1be25592e3eb",
+  "fetched": "2026-11-06T03:53:51Z",
+  "chars": 30392,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250405230234/https://legislatie.just.ro/Public/DetaliiDocumentAfis/186402",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/186402",
+   "timestamp": "20250405230234",
+   "sha256": "974a128f2b01828ab4f969ee6a98a18c28bc3fc929dd4d9fbf148ffe5675e423"
+  },
+  "portal_id": "186402",
+  "tip": "DECIZIE"
+ }
+}
