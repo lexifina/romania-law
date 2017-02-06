@@ -1,0 +1,309 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2017/78 AL COMISIEI
+din 15 iulie 2016
+de stabilire a unor dispoziții administrative pentru omologarea CE de tip a autovehiculelor în ceea ce privește sistemele eCall bazate pe serviciul 112 instalate la bordul vehiculelor și a unor condiții uniforme pentru punerea în aplicare a Regulamentului (UE) 2015/758 al Parlamentului European și al Consiliului în ceea ce privește protecția vieții private și a datelor utilizatorilor acestor sisteme
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2015/758 al Parlamentului European și al Consiliului din 29 aprilie 2015 privind cerințele de omologare de tip pentru instalarea sistemului eCall bazat pe serviciul 112 la bordul vehiculelor și de modificare a Directivei 2007/46/CE (1), în special articolul 6 alineatul (13) și articolul 9,
+întrucât:
+(1) Regulamentul (UE) 2015/758 stabilește o obligație generală pentru noile tipuri de vehicule din categoriile M1 și N1 de a fi echipate cu sisteme eCall bazate pe serviciul 112 instalate la bordul vehiculului începând de la 31 martie 2018.
+(2) Regulamentul delegat (UE) 2017/79 al Comisiei (2) stabilește cerințele tehnice specifice și procedurile de încercare pentru omologarea CE de tip a autovehiculelor în ceea ce privește sistemele eCall bazate pe serviciul 112 instalate la bordul vehiculelor, precum și pentru omologarea CE de tip a unităților tehnice separate (UTS) eCall bazate pe serviciul 112 instalate la bordul vehiculelor și a componentelor sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculelor.
+(3) Directiva 2007/46/CE a Parlamentului European și a Consiliului (3) stabilește cadrul general pentru omologarea CE de tip a autovehiculelor și definește rolurile și responsabilitățile tuturor actorilor implicați în diferite stadii ale procesului de omologare. În plus, este necesară stabilirea dispozițiilor administrative specifice pentru omologarea CE de tip a autovehiculelor echipate cu sisteme eCall bazate pe serviciul 112 instalate la bordul vehiculelor, precum și a componentelor și a unităților tehnice separate bazate pe serviciul 112 instalate la bordul vehiculelor.
+(4) Pentru a asigura condiții uniforme în vederea punerii în aplicare a procedurilor de încercare pentru omologarea CE de tip și pentru a simplifica cererea de omologare, ar trebui să se stabilească un set standardizat de documente informative, de modele de certificate pentru omologarea CE de tip și de modele pentru marca de omologare CE de tip.
+(5) Producătorii ar trebui să garanteze că sistemele eCall bazate pe serviciul 112 instalate la bordul vehiculului nu pot fi urmărite și nu fac obiectul unei urmăriri constante. În acest scop, ar trebui să se garanteze că sistemele eCall bazate pe serviciul 112 instalate la bordul vehiculului nu sunt disponibile pentru comunicare în starea lor normală de funcționare și că datele din memoria lor internă nu sunt disponibile în afara sistemelor pentru nicio entitate înainte de declanșarea apelului eCall. Producătorii ar trebui, de asemenea, să implementeze garanții adecvate pentru protejarea securității datelor din memoria internă a sistemului în caz de acces neautorizat sau de utilizare abuzivă.
+(6) Toate datele prelucrate prin intermediul sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului trebuie să fie adecvate, relevante și proporționale cu scopurile pentru care sunt colectate și prelucrate datele respective.
+(7) Consumatorilor ar trebui să li se ofere informații cuprinzătoare și fiabile cu privire la funcționarea sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului, în special cu privire la modul în care datele sunt prelucrate prin intermediul sistemului respectiv și la modul în care acestea sunt protejate. Consumatorii ar trebui, de asemenea, să fie informați cu privire la caracteristicile și trăsăturile oricărui serviciu privat de urgențe sau ale altor servicii cu valoare adăugată, în cazul în care autovehiculul este echipat cu acestea.
+(8) O abordare consecventă a informațiilor care trebuie puse la dispoziția consumatorilor cu privire la funcționarea sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului necesită stabilirea unui model de documente de informare a utilizatorului care să conțină informațiile minime ce trebuie furnizate împreună cu documentele tehnice ale vehiculului.
+(9) Producătorii de vehicule ar trebui să aibă la dispoziție suficient timp pentru a se adapta la cerințele tehnice în vederea omologării sistemelor eCall bazate pe serviciul 112 instalate la bordul vehiculelor. Statele membre ar trebui, de asemenea, să beneficieze de suficient timp pentru a instala pe teritoriul lor infrastructura centrelor de preluare a apelurilor de urgență (PSAP) necesară pentru primirea și gestionarea corespunzătoare a apelurilor eCall. Din acest motiv, data aplicării prezentului regulament ar trebui să fie aceeași cu data aplicării obligatorii a sistemelor eCall bazate pe serviciul 112 instalate la bordul vehiculelor, în conformitate cu Regulamentul (UE) 2015/758.
+(10) Autoritatea Europeană pentru Protecția Datelor a fost consultată cu privire la măsurile prevăzute în prezentul regulament, în conformitate cu articolul 28 alineatul (2) din Regulamentul (CE) nr. 45/2001 al Parlamentului European și al Consiliului (4).
+(11) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului tehnic – autovehicule,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Obiect
+Prezentul regulament instituie dispoziții administrative pentru omologarea unor tipuri noi de vehicule în ceea ce privește sistemele eCall bazate pe serviciul 112 instalate la bordul vehiculelor, precum și unitățile tehnice separate (UTS) eCall bazate pe serviciul 112 instalate la bordul vehiculelor și componentele sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculelor, proiectate și construite pentru astfel de vehicule.
+Prezentul regulament stabilește, de asemenea, condiții uniforme pentru punerea în aplicare a dispozițiilor Regulamentului (UE) 2015/758 cu privire la protecția vieții private și a datelor utilizatorilor sistemelor eCall bazate pe serviciul 112 instalate la bordul vehiculelor.
+Articolul 2
+Omologarea CE de tip a vehiculelor în ceea ce privește sistemele eCall bazate pe serviciul 112 instalate la bordul vehiculelor
+(1) Producătorul înaintează către autoritatea de omologare, astfel cum este definită la articolul 3 punctul 29 din Directiva 2007/46/CE, o cerere de omologare CE de tip a unui vehicul în ceea ce privește sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului.
+(2) Cererea menționată la alineatul (1) se întocmește pe baza modelului stabilit în partea 1 din anexa I.
+(3) Atunci când sunt îndeplinite cerințele tehnice menționate la articolul 5 din Regulamentul delegat (UE) 2017/79, autoritatea de omologare acordă o omologare CE de tip și eliberează un certificat de omologare CE de tip numerotat în conformitate cu sistemul prevăzut în anexa VII la Directiva 2007/46/CE.
+Un stat membru nu atribuie același număr altui tip de vehicul.
+(4) Certificatul de omologare CE de tip se întocmește pe baza modelului prevăzut în partea 2 din anexa I.
+(5) Producătorul furnizează, în manualul utilizatorului, informații privind prelucrarea datelor prin intermediul sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului, pe baza modelului prevăzut în partea 3 din anexa I la prezentul regulament.
+Articolul 3
+Omologarea CE de tip a unităților tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculului sau a componentelor sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului
+(1) Producătorul prezintă autorității de omologare, astfel cum este definită la articolul 3 punctul 29 din Directiva 2007/46/CE, cererea de omologare CE de tip pentru un tip de unitate tehnică separată eCall bazată pe serviciul 112 instalată la bordul vehiculului sau pentru un tip de componentă a sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului.
+(2) Cererea menționată la alineatul (1) se întocmește pe baza modelului prevăzut în partea 1 din anexa II la prezentul regulament.
+(3) Atunci când sunt îndeplinite cerințele tehnice menționate la articolul 6 din Regulamentul delegat (UE) 2017/79 cu privire la componente și, respectiv, la articolul 7 cu privire la unitățile tehnice separate, autoritatea de omologare acordă o omologare CE de tip și eliberează un certificat de omologare CE de tip și un număr de omologare de tip, care urmează sistemul de numerotare prevăzut în anexa VII la Directiva 2007/46/CE.
+Un stat membru nu atribuie același număr altui tip de unitate tehnică separată sau de componentă.
+(4) Certificatul de omologare CE de tip se întocmește pe baza modelului prevăzut în partea 2 din anexa II.
+Articolul 4
+Marca de omologare CE de tip
+Fiecare componentă sau unitate tehnică separată care corespunde unui tip în cazul căruia s-a acordat o omologare CE de tip pentru unitate tehnică separată sau pentru componentă, în conformitate cu prezentul regulament, poartă un marcaj de omologare CE de tip în conformitate cu modelul prevăzut în partea 3 din anexa II.
+Articolul 5
+Protecția vieții private și a datelor
+(1) Producătorul ia toate măsurile necesare pentru a se asigura că sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului sau unitatea tehnică separată eCall bazată pe serviciul 112 instalată la bordul vehiculului nu pot fi urmărite și nu fac obiectul unei urmăriri constante în starea lor normală de funcționare. Producătorul garantează, de asemenea, că datele din memoria internă a sistemului sau a unității tehnice separate sunt eliminate în mod automat și continuu și nu sunt disponibile în afara sistemului sau a unității tehnice separate instalate la bordul vehiculului, pentru nicio entitate, înainte de declanșarea apelului eCall.
+(2) Producătorul informează proprietarul vehiculului cu privire la măsurile luate în conformitate cu articolul 6 alineatul (9) din Regulamentul (UE) 2015/758, utilizând modelul furnizat în partea 3 din anexa I la prezentul regulament.
+(3) Producătorul adoptă măsuri de siguranță corespunzătoare (precum utilizarea tehnologiilor de criptare) pentru a proteja securitatea datelor cu caracter personal din memoria internă a sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului sau a unității tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculului și pentru a preveni supravegherea persoanelor fizice și utilizarea abuzivă a datelor. Astfel de măsuri trebuie să fie adecvate, strict proporționale cu scopul propus și necesare.
+Articolul 6
+Intrare în vigoare și aplicare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 31 martie 2018.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 15 iulie 2016.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 123, 19.5.2015, p. 77.
+(2) Regulamentul delegat (UE) 2017/79 al Comisiei din 12 septembrie 2016 de stabilire a cerințelor tehnice detaliate și a procedurilor de încercare pentru omologarea CE de tip a autovehiculelor în ceea ce privește sistemele eCall bazate pe serviciul 112 instalate la bordul vehiculelor, a componentelor și a unităților tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculelor, precum și de completare și de modificare a Regulamentului (UE) 2015/758 al Parlamentului European și al Consiliului în ceea ce privește derogările și standardele aplicabile (a se vedea pagina 44 din prezentul Jurnal Oficial).
+(3) Directiva 2007/46/CE a Parlamentului European și a Consiliului din 5 septembrie 2007 de stabilire a unui cadru pentru omologarea autovehiculelor și remorcilor acestora, precum și a sistemelor, componentelor și unităților tehnice separate destinate vehiculelor respective (Directivă-cadru) (JO L 263, 9.10.2007, p. 1).
+(4) Regulamentul (CE) nr. 45/2001 al Parlamentului European și al Consiliului din 18 decembrie 2000 privind protecția persoanelor fizice cu privire la prelucrarea datelor cu caracter personal de către instituțiile și organele comunitare și privind libera circulație a acestor date (JO L 8, 12.1.2001, p. 1).
+ANEXA I
+Documente administrative pentru omologarea CE de tip a autovehiculelor cu privire la instalarea sistemelor eCall bazate pe serviciul 112 la bordul vehiculului
+PARTEA 1
+Document informativ
+MODEL
+Document informativ nr. … cu privire la omologarea CE de tip a unui autovehicul în ceea ce privește sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului.
+Următoarele informații se furnizează în trei exemplare și trebuie să includă un cuprins. Desenele trebuie prezentate la o scară corespunzătoare și trebuie să fie suficient de detaliate, în format A4 sau într-un dosar de format A4. Fotografiile, dacă există, trebuie să fie suficient de detaliate.
+În cazul în care sistemul, componentele sau unitățile tehnice separate menționate în prezentul document informativ sunt dotate cu comenzi electronice, se furnizează informații cu privire la performanțele acestora.
+0. CONSIDERAȚII GENERALE
+0.1. Marca (denumirea comercială a producătorului): …
+0.2. Tipul: …
+0.2.1. Denumirea (denumirile) comercială(e), dacă este (sunt) disponibilă(e): …
+0.3. Modalități de identificare a tipului, dacă este marcat pe vehicul (1): …
+0.3.1. Amplasarea marcajului: …
+0.4. Categoria vehiculului (2): …
+0.5. Numele companiei și adresa producătorului: …
+0.8. Denumirea (denumirile) și adresa (adresele) uzinei (uzinelor) de asamblare: …
+0.9. Numele și adresa reprezentantului producătorului (dacă există): …
+1. CARACTERISTICILE GENERALE CONSTRUCTIVE ALE VEHICULULUI
+1.1. Fotografii și/sau desene ale unui vehicul reprezentativ: …
+9. CAROSERIE
+9.1. Tipul de caroserie (4): …
+9.10. Amenajări interioare
+9.10.2. Dispunerea și identificarea comenzilor, a martorilor și a indicatoarelor
+9.10.2.1. Fotografii și/sau desene ale dispunerii simbolurilor și comenzilor, a martorilor și indicatorilor, în special prin indicarea simbolului și a poziției martorului/indicatorului (dacă există) sau o descriere a celorlalte metode folosite pentru avertizarea ocupanților vehiculelor în cazul unei defecțiuni critice care ar determina incapacitatea sistemului de a executa un apel eCall bazat pe serviciul 112: …
+9.12.2. Natura și poziția sistemelor suplimentare de reținere (indicați da/nu/opțional).
+(S = partea stângă, D = partea dreaptă, C = centru)
+| Airbag frontal | Airbag lateral | Dispozitivul de pretensionare a centurii
+Primul rând de scaune | S C D | | |
+Al doilea rând de scaune(*1) | S C D | | |
+9.12.4. O descriere succintă a componentelor electrice/electronice (dacă există): …
+12. DIVERSE
+12.8. Sistemul eCall
+12.8.1. Prezent: da/nu (3).
+12.8.2. Descriere tehnică și/sau schițe: …
+12.8.3. Numărul de omologare de tip (dacă există) a unității tehnice separate eCall instalate la bordul vehiculului: …
+12.8.4. Pentru sistemul eCall care nu a fost aprobat ca unitate tehnică separată:
+12.8.4.1. Descriere detaliată, fotografii și/sau desene ale sistemului eCall și poziția acestuia în vehicul: …
+12.8.4.2. Lista principalelor componente ale sistemului eCall: …
+12.8.4.3. Schema tuturor conexiunilor electrice: …
+12.8.5. Prezența sistemului eCall cu servicii asigurate de terți: da/nu (3).
+12.8.6. Prezența altor servicii cu valoare adăugată: da/nu (3).
+12.8.7. Declarație de conformitate cu standardele menționate la articolul 5 alineatul (8) din Regulamentul (UE) 2015/758: da/nu (3).
+Data, semnătura
+Note explicative
+(1) Dacă mijloacele de identificare a tipului conțin caractere care nu sunt relevante pentru descrierea vehiculului, a componentelor sau a unităților tehnice separate care fac obiectul prezentului document informativ, caracterele respective sunt reprezentate în documentație prin simbolul „?” (de exemplu ABC??123??).
+(2) Conform definiției din partea A a anexei II la Directiva 2007/46/CE.
+(3) A se tăia dacă nu se aplică.
+(4) A se utiliza codurile conform definiției din partea C a anexei II la Directiva 2007/46/CE.
+PARTEA 2
+Certificatul de omologare CE de tip
+MODEL
+Format A4 (210 × 297 mm)
+CERTIFICAT DE OMOLOGARE CE DE TIP
+Ștampila autorității de omologare de tip
+Comunicare privind:
+— omologarea CE de tip (1) — prelungirea omologării CE de tip (1) — refuzul omologării CE de tip (1) — retragerea omologării CE de tip (1) | pentru un tip de vehicul cu privire la instalarea sistemelor eCall bazate pe seviciul 112 la bordul vehiculului
+referitor la Regulamentul (UE) 2015/758, astfel cum a fost modificat ultima dată prin Regulamentul (UE) …./…
+Numărul omologării CE de tip: …
+Motivul prelungirii: …
+SECȚIUNEA I
+0.1. Marca (denumirea comercială a producătorului): …
+0.2. Tipul: …
+0.2.1. Denumirea (denumirile) comercială(e), dacă este (sunt) disponibilă(e): …
+0.3. Modalități de identificare a tipului, dacă este marcat pe vehicul (2): …
+0.3.1. Amplasarea marcajului: …
+0.4. Categoria vehiculului (3): …
+0.5. Numele companiei și adresa producătorului: …
+0.8. Denumirea (denumirile) și adresa (adresele) uzinei (uzinelor) de asamblare: …
+0.9. Numele și adresa reprezentantului producătorului (dacă există): …
+SECȚIUNEA II
+1. Informații suplimentare (dacă este cazul): a se vedea addendumul
+2. Serviciul tehnic responsabil pentru efectuarea încercărilor: …
+3. Data raportului de încercare: …
+4. Numărul raportului de încercare: …
+5. Observații (dacă există): a se vedea addendumul.
+6. Locul: …
+7. Data: …
+8. Semnătura: …
+Anexe: | 1. Dosar de omologare. 2. Raport de încercare.
+Note explicative
+(1) A se tăia dacă nu se aplică.
+(2) Dacă mijloacele de identificare a tipului conțin caractere care nu sunt relevante pentru descrierea vehiculului, a componentelor sau a unităților tehnice separate care fac obiectul prezentului document informativ, caracterele respective sunt reprezentate în documentație prin simbolul „?” (de exemplu ABC??123??).
+(3) Conform definiției din partea A a anexei II la Directiva 2007/46/CE.
+Addendum
+la certificatul de omologare CE de tip nr. …
+1. Informații suplimentare
+1.1. Scurtă descriere a sistemului eCall montat în vehicul: …
+1.2. Amplasarea sistemului eCall: …
+1.3. Modalități de declanșare a sistemului eCall: …
+1.4. Alimentarea cu energie electrică a sistemului eCall: …
+1.5. Sistem eCall cu servicii asigurate de terți montat în vehicul: da/nu (1).
+1.6. Alte servicii cu valoare adăugată: da/nu (1).
+2. Numărul de omologare de tip al unității tehnice separate/componentei sistemului eCall bazat pe serviciul 112 la bordul vehiculului (1) care este instalată în vehicul (dacă este cazul) pentru a respecta cerințele Regulamentului (UE) 2015/758 și ale actelor sale de punere în aplicare: …
+3. Observații (dacă există): …
+PARTEA 3
+Model de document de informare a utilizatorului
+Documentația tehnică înmânată odată cu vehiculul (manualul utilizatorului) trebuie să conțină informații clare, cuprinzătoare și ușor accesibile cu privire la sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului și la modul de funcționare a acestuia, precum și cu privire la existența unui sistem eCall cu servicii asigurate de terți (denumit în continuare „sistem TPS”) sau a altor servicii cu valoare adăugată instalate în vehiculul respectiv și a funcționalităților lor suplimentare.
+Diferențele care există între prelucrarea datelor realizată prin intermediul sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului și al sistemului TPS sau al unui alt serviciu cu valoare adăugată, dacă sunt disponibile, trebuie precizate în mod clar.
+Informațiile privitoare la protecția vieții private și a datelor trebuie furnizate separat pentru sistemul bazat pe serviciul 112 și pentru sistemul TPS înainte de utilizarea acestora, în vederea evitării confuziei cu privire la scopurile urmărite și la valoarea adăugată a prelucrării datelor.
+Acest model stabilește informațiile minime care trebuie furnizate în mod obligatoriu utilizatorului și poate fi completat cu alte informații adecvate referitoare la circumstanțele specifice în care sunt colectate sau prelucrate datele.
+1. DESCRIEREA SISTEMULUI ECALL INSTALAT LA BORDUL VEHICULULUI
+1.1. Prezentare generală a sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului, modul de funcționare și funcționalitățile acestuia: …
+1.2. Serviciul eCall bazat pe serviciul 112 este un serviciu public de interes general și este accesibil în mod gratuit.
+1.3. Sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului este activat implicit. Acesta este activat automat prin intermediul unor senzori de la bordul vehiculului în eventualitatea unui accident grav. De asemenea, el va fi declanșat automat în cazul în care vehiculul este echipat cu un sistem TPS care nu funcționează în cazul unui accident grav.
+1.4. Sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului poate fi de asemenea activat manual, dacă este necesar. Instrucțiuni pentru activarea manuală a sistemului: …
+1.5. În cazul apariției unei defecțiuni grave a sistemului care ar dezactiva sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului, ocupanții vehiculului sunt avertizați după cum urmează: …
+2. INFORMAȚII PRIVIND PRELUCRAREA DATELOR
+2.1. Orice prelucrare a datelor cu caracter personal prin intermediul sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului respectă normele de protecție a datelor cu caracter personal prevăzute în Directivele 95/46/CE (2) și 2002/58/CE (3) ale Parlamentului European și ale Consiliului și are la bază, în special, necesitatea de a proteja interesele vitale ale persoanelor în conformitate cu articolul 7 litera (d) din Directiva 95/46/CE (4).
+2.2. Astfel de date sunt prelucrate exclusiv în scopul gestionării apelului de urgență eCall la numărul european unic pentru apeluri de urgență 112.
+2.3. Tipuri de date și beneficiarii acestora
+2.3.1. Sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului poate colecta și prelucra numai următoarele date:
+— Numărul de identificare al vehiculului
+— Tipul vehiculului (autoturism sau vehicul utilitar ușor)
+— Tipul de stocare care asigură propulsia vehiculului (benzină/motorină/GNC/GPL/electric/hidrogen)
+— Ultimele trei locuri în care s-a aflat vehiculul și direcția de deplasare
+— Fișierul-jurnal al activării automate a sistemului și marca sa temporală
+— Date suplimentare (dacă este cazul): …
+2.3.2. Beneficiarii datelor prelucrate de sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului sunt centrele relevante de preluare a apelurilor de urgență, desemnate de autoritățile publice respective ale țării pe teritoriul căreia sunt situate să primească și să gestioneze apelurile eCall la numărul european unic pentru apeluri de urgență 112.
+Informații suplimentare (dacă sunt disponibile): …
+2.4. Măsuri pentru prelucrarea datelor
+2.4.1. Sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului este proiectat astfel încât să garanteze că datele din memoria sistemului nu sunt disponibile în afara acestuia înainte de declanșarea unui apel eCall.
+Observații suplimentare (dacă există): …
+2.4.2. Sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului este proiectat astfel încât să garanteze că acesta nu poate fi urmărit și nu face obiectul unei urmăriri constante în starea sa normală de funcționare.
+Observații suplimentare (dacă există): …
+2.4.3. Sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului este proiectat astfel încât să garanteze că datele din memoria internă a sistemului sunt eliminate în mod automat și continuu.
+2.4.3.1. Datele privind locul unde se află vehiculul sunt în mod constant suprascrise în memoria internă a sistemului, astfel încât să se păstreze mereu cel mult ultimele trei locuri actualizate în care s-a aflat vehiculul, pentru funcționarea normală a sistemului.
+2.4.3.2. Jurnalul datelor privind activitatea din cadrul sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului este păstrat doar atât cât este necesar pentru a putea gestiona apelurile de urgență eCall și în niciun caz mai mult de 13 ore din momentul inițierii unui apel de urgență eCall.
+Observații suplimentare (dacă există): …
+2.5. Modalități de exercitare a drepturilor de către persoana vizată
+2.5.1. Persoana vizată (proprietarul vehiculului) are dreptul de acces la date și de a solicita, după caz, rectificarea, ștergerea sau blocarea datelor referitoare la propria persoană a căror prelucrare nu respectă dispozițiile Directivei 95/46/CE. Orice terță parte căreia i s-au adus la cunoștință datele respective trebuie notificată cu privire la o astfel de rectificare, ștergere sau blocare efectuată în conformitate cu directiva menționată, cu excepția cazului în care notificarea se dovedește a fi imposibilă sau implică eforturi disproporționate.
+2.5.2. Persoana vizată are dreptul de a sesiza autoritatea competentă de protecție a datelor în cazul în care consideră că i-au fost încălcate drepturile ca rezultat al prelucrării datelor sale cu caracter personal.
+2.5.3. Serviciul de contact responsabil pentru gestionarea cererilor de acces (dacă există): …
+3. INFORMAȚII PRIVIND SERVICIILE ASIGURATE DE TERȚI ȘI ALTE SERVICII CU VALOARE ADĂUGATĂ (DACĂ SUNT MONTATE)
+3.1. Descrierea funcționării și a funcționalităților sistemului TPS/serviciului cu valoare adăugată: …
+3.2. Orice prelucrare a datelor cu caracter personal prin sistemul TPS/alt serviciu cu valoare adăugată trebuie să respecte normele de protecție a datelor cu caracter personal prevăzute în Directivele 95/46/CE și 2002/58/CE.
+3.2.1. Temeiul juridic pentru utilizarea sistemului TPS și/sau a serviciilor cu valoare adăugată și pentru prelucrarea datelor prin intermediul acestora: …
+3.3. Sistemul TPS și/sau serviciile cu valoare adăugată prelucrează datele cu caracter personal doar pe baza consimțământului explicit al persoanei vizate (proprietarul sau proprietarii vehiculului).
+3.4. Modalități de prelucrare a datelor prin sistemul TPS și/sau prin alte servicii cu valoare adăugată, inclusiv orice informație suplimentară necesară cu privire la trasabilitatea, urmărirea și prelucrarea datelor cu caracter personal: …
+3.5. Proprietarul unui vehicul echipat cu un sistem eCall cu servicii asigurate de terți și/sau cu un alt serviciu cu valoare adăugată, pe lângă sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului, are dreptul de a alege să utilizeze sistemul eCall bazat pe serviciul 112 instalat la bordul vehiculului în defavoarea sistemului eCall cu servicii asigurate de terți și a celuilalt serviciu cu valoare adăugată.
+3.5.1. Datele de contact pentru solicitările de dezactivare a sistemului eCall cu servicii asigurate de terți: …
+(*1) Dacă este necesar, tabelul poate fi extins pentru vehiculele cu mai mult de două rânduri de scaune sau dacă există mai mult de trei scaune pe lățimea vehiculului.
+(1) A se tăia dacă nu se aplică.
+(2) Directiva 95/46/CE a Parlamentului European și a Consiliului din 24 octombrie 1995 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date (JO L 281, 23.11.1995, p. 31).
+(3) Directiva 2002/58/CE a Parlamentului European și a Consiliului din 12 iulie 2002 privind prelucrarea datelor personale și protejarea confidențialității în sectorul comunicațiilor publice (Directiva asupra confidențialității și comunicațiilor electronice) (JO L 201, 31.7.2002, p. 37).
+(4) Directiva 95/46/CE este abrogată de Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date (Regulamentul general privind protecția datelor) (JO L 119, 4.5.2016, p. 1). Regulamentul se aplică de la 25 mai 2018.
+ANEXA II
+Documente administrative pentru omologarea CE de tip a unității tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculului sau a componentei sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului
+PARTEA 1
+Document informativ
+MODEL
+Document informativ nr. … legat de omologarea CE de tip a unei unități tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculului sau a unei componente a sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului (3).
+Următoarele informații se furnizează în trei exemplare și trebuie să includă un cuprins. Desenele trebuie prezentate la o scară corespunzătoare și trebuie să fie suficient de detaliate, în format A4 sau într-un dosar de format A4. Fotografiile, dacă există, trebuie să fie suficient de detaliate.
+În cazul în care componentele sau unitățile tehnice separate menționate în prezentul document informativ sunt dotate cu comenzi electronice, se furnizează informații cu privire la performanțele acestora.
+0. CONSIDERAȚII GENERALE
+0.1. Marca (denumirea comercială a producătorului): …
+0.2. Tipul: …
+0.3. Modalități de identificare a tipului, dacă este marcat pe unitatea tehnică separată (1): …
+0.3.1. Amplasarea marcajului: …
+0.4. În cazul unei unități tehnice separate, destinată pentru categoria vehiculului (2): …
+0.5. Numele companiei și adresa producătorului: …
+0.7. Amplasarea și metoda de aplicare a marcajului de omologare CE: …
+0.9. Numele și adresa reprezentantului producătorului (dacă există): …
+12.8. Sistemul eCall
+12.8.2. Descriere tehnică și/sau schițe: …
+12.8.3.1. Fotografiile și/sau desenele suficient de detaliate și la o scară corespunzătoare pentru a permite identificarea unității tehnice separate sau a componentei. Desenele trebuie să prezinte poziția destinată în vehicul a unității tehnice separate sau a componentei și spațiul destinat pentru marca de omologare CE de tip a unității tehnice separate sau ale componentei: …
+12.8.3.1.1. Instrucțiuni pentru instalarea în vehicul, inclusiv poziția și orientarea componentei sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului: …
+12.8.3.1.2. Amplasarea și metoda de montare în vehicul a unității tehnice separate bazate pe serviciul 112 instalate la bordul vehiculului: …
+12.8.3.2. Lista principalelor părți constituente ale unității tehnice separate sau ale componentei: …
+12.8.7. Declarație de conformitate cu standardele menționate la articolul 5 alineatul (8) din Regulamentul (UE) 2015/758: da/nu (3).
+Note explicative
+(1) Dacă mijloacele de identificare a tipului conțin caractere care nu sunt relevante pentru descrierea vehiculului, a componentelor sau a unităților tehnice separate care fac obiectul prezentului document informativ, caracterele respective sunt reprezentate în documentație prin simbolul „?” (de exemplu ABC??123??).
+(2) Conform definiției din secțiunea A a anexei II la Directiva 2007/46/CE.
+(3) A se tăia dacă nu se aplică.
+PARTEA 2
+Certificatul de omologare CE de tip
+MODEL
+Format A4 (210 × 297 mm)
+CERTIFICAT DE OMOLOGARE CE DE TIP
+Ștampila autorității de omologare de tip
+Comunicare privind:
+— omologarea CE de tip(2) — prelungirea omologării CE de tip(2) — refuzul omologării CE de tip(2) — retreagrea omologării CE de tip(2) | pentru o unitate tehnică separată eCall bazată pe serviciul 112 instalată la bordul vehiculului / o componentă a sistemului eCall bazat de serviciul 112 instalat la bordul autovehiculului(2)
+referitor la Regulamentul (UE) 2015/758.
+Numărul omologării CE de tip: …
+Motivul prelungirii: …
+SECȚIUNEA I
+0.1. Marca (denumirea comercială a producătorului): …
+0.2. Tipul: …
+0.3. Modalități de identificare a tipului dacă este marcat pe unitatea tehnică separată/componentă (2): …
+0.3.1 Amplasarea marcajului: …
+0.4. În cazul unei unități tehnice separate, destinată categoriei de vehicul (3): …
+0.5. Denumirea și adresa producătorului: …
+0.7. Amplasarea și metoda de aplicare a marcajului de omologare CE: …
+0.9. Numele și adresa reprezentantului producătorului (dacă există): …
+SECȚIUNEA II
+1. Informații suplimentare (dacă este cazul): a se vedea addendumul
+2. Serviciul tehnic responsabil pentru efectuarea încercărilor: …
+3. Data raportului de încercare: …
+4. Numărul raportului de încercare: …
+5. Observații (dacă există): a se vedea addendumul.
+6. Locul: …
+7. Data: …
+8. Semnătura: …
+Anexe: | 1. Dosar de omologare. 2. Raport de încercare.
+Addendum
+la certificatul de omologare CE de tip nr. …
+1. Informații suplimentare
+1.1. Scurtă descriere a unității tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculului/a componentei sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului (3): …
+1.1.1. Instrucțiuni pentru instalarea în vehicul, inclusiv poziția și orientarea componentei sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului: …
+1.1.2. Exemplu de marcaj de omologare CE de tip pe unitatea tehnică separată bazată pe serviciul 112 instalată la bordul vehiculului/componenta sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului (3): …
+1.2. Amplasarea și metoda de montare a unității tehnice separate eCall în vehicul: …
+1.3. Modalități de declanșare: …
+1.4. Alimentarea cu energie electrică: …
+2. Componenta sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului este conformă cu cerințele tehnice prevăzute în anexa I la Regulamentul delegat (UE) 2017/79 al Comisiei. În plus, aceasta respectă, de asemenea, cerințele tehnice prevăzute de:
+2.1. Anexa IV la Regulamentul delegat (UE) 2017/79: da/nu (3).
+2.2. Anexa VI la Regulamentul delegat (UE) 2017/79: da/nu (3).
+2.3. Anexa VII la Regulamentul delegat (UE) 2017/79: da/nu (3).
+3. Observații (dacă există): …
+PARTEA 3
+Marca de omologare CE de tip pentru unitățile tehnice separate și pentru componente
+1. Marca de omologare CE de tip a componentelor și a unităților tehnice separate constă în:
+1.1. Un dreptunghi în jurul literei minuscule „e”, urmat de numărul distinctiv al statului membru care a acordat omologarea CE de tip unei componente sau unei unități tehnice separate:
+1 | pentru Germania | 12 | pentru Austria | 26 | pentru Slovenia
+2 | pentru Franța | 13 | pentru Luxemburg | 27 | pentru Slovacia
+3 | pentru Italia | 17 | pentru Finlanda | 29 | pentru Estonia
+4 | pentru Țările de Jos | 18 | pentru Danemarca | 32 | pentru Letonia
+5 | pentru Suedia | 19 | pentru România | 34 | pentru Bulgaria
+6 | pentru Belgia | 20 | pentru Polonia | 36 | pentru Lituania
+7 | pentru Ungaria | 21 | pentru Portugalia | 49 | pentru Cipru
+8 | pentru Republica Cehă | 23 | pentru Grecia | 50 | pentru Malta
+9 | pentru Spania | 24 | pentru Irlanda | |
+11 | pentru Regatul Unit | 25 | pentru Croația | |
+1.2. În apropierea dreptunghiului, „numărul de omologare de bază”, conținut în secțiunea 4 a numărului omologării de tip, precedat de cele două cifre care indică numărul secvențial atribuit prezentului regulament. În prezent, numărul secvențial este „00”.
+1.3. În cazul unei unități tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculului, în vecinătatea dreptunghiului numărul secvențial trebuie precedat de simbolul „ECALL”.
+2. Marca de omologare CE de tip este aplicată pe o parte principală a unității tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculului sau a componentei sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului, astfel încât să fie indelebilă și ușor și clar lizibilă.
+3. Exemple de mărci de omologare CE de tip pentru unități tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculului și pentru componentele unui sistem eCall bazat pe serviciul 112 instalat la bordul vehiculului sunt prezentate în figura 1 și, respectiv, în figura 2.
+Figura 1
+Exemplu de marcă de omologare CE de tip pentru unități tehnice separate eCall bazate pe serviciul 112 instalate la bordul vehiculului
+[figură]
+Notă explicativă
+Legendă: | Omologarea CE de tip pentru unitatea tehnică separată a fost eliberată de Bulgaria, cu numărul 0046. Primele două cifre, „00”, indică faptul că unitatea tehnică separată a fost omologată în conformitate cu prezentul regulament.
+Figura 2
+Exemplu de marcă de omologare CE de tip pentru componentele sistemului eCall bazat pe serviciul 112 instalat la bordul vehiculului
+[figură]
+Notă explicativă
+Legendă: | Omologarea CE de tip pentru componentă a fost eliberată de Germania, cu numărul 00026. Primele două cifre, „00”, indică faptul că componenta a fost omologată în conformitate cu prezentul regulament.
+(1) Dacă mijloacele de identificare a tipului conțin caractere care nu sunt relevante pentru descrierea vehiculului, a componentelor sau a unităților tehnice separate care fac obiectul prezentului document informativ, caracterele respective sunt reprezentate în documentație prin simbolul „?” (de exemplu ABC??123??).
+(2) A se tăia dacă nu se aplică.
+(3) A se tăia dacă nu se aplică.
