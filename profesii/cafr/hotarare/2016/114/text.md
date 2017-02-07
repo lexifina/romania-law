@@ -1,0 +1,11 @@
+În temeiul prevederilor: - art. 5 alin. (3) lit. b) și art. 6 alin. (3) din Ordonanța de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar, republicată, cu modificările și completările ulterioare; - art. 20 alin. (1) din Ordonanța de urgență a Guvernului nr. 90/2008 privind auditul statutar al situațiilor financiare anuale și al situațiilor financiare anuale consolidate și supravegherea în interes public a profesiei contabile, aprobată cu modificări prin Legea nr. 278/2008 , cu modificările și completările ulterioare; - art. 15 alin. (3) și (4) din Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, aprobat prin Hotărârea Guvernului nr. 433/2011 ; - Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 22/2015 privind aprobarea Procedurilor Camerei Auditorilor Financiari din România de traducere a standardelor publicate de către Federația Internațională a Contabililor; - Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 51/2015 privind modalitatea de adoptare a hotărârilor Consiliului Camerei Auditorilor Financiari din România, Consiliul Camerei Auditorilor Financiari din România, întrunit în ședința din data de 20 decembrie 2016, hotărăște:
+Articolul 1
+Se adoptă integral Codul etic al profesioniștilor contabili, emis de Consiliul pentru Standarde Internaționale de Etică pentru Contabili (IESBA) al Federației Internaționale a Contabililor (IFAC) - ediția 2015, tradus de Camera Auditorilor Financiari din România, aplicabil de către auditorii financiari din România, membri ai Camerei Auditorilor Financiari din România.
+Articolul 2
+(1) Prezenta hotărâre se comunică spre avizare Consiliului pentru Supravegherea în Interes Public a Profesiei Contabile (CSIPPC).
+(2) Hotărârea privind adoptarea Codului etic al profesioniștilor contabili, emis de Federația Internațională a Contabililor, ediția 2015, tradus de Camera Auditorilor Financiari din România, avizată de CSIPPC, se va transmite către IFAC.
+Articolul 3
+Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I, după avizarea de către CSIPPC și transmiterea către IFAC.
+Președintele Camerei Auditorilor Financiari din România,
+Gabriel Radu
+București, 20 decembrie 2016. Nr. 114. -------
