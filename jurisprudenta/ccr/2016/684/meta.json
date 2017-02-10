@@ -1,0 +1,174 @@
+{
+ "key": "dcc-684-2016",
+ "label": "Decizia CCR nr. 684/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "684",
+ "date": "2016-11-24",
+ "year": "2016",
+ "heading": "DECIZIE nr. 684 din 24 noiembrie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 304^1 din Codul de procedură civilă din 1865",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "116",
+  "bis": false,
+  "date": "2017-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.458/105/2012/a1",
+  "999D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 304^1 din Codul de procedură civilă din 1865, excepţie ridicată de Maria Magdalena Posea în Dosarul nr. 1.458/105/2012/a1 al Curţii de Apel Ploieşti - Secţia I civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Ploieşti - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "304-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "222",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186489",
+  "text_sha256": "c13998ca563b1a127431f76ff302efdbbf29a84609c06410cda9e41edf44c716",
+  "catalogue_sha256": "c13998ca563b1a127431f76ff302efdbbf29a84609c06410cda9e41edf44c716",
+  "fetched": "2026-11-03T03:24:00Z",
+  "chars": 11242,
+  "portal_id": "186489",
+  "tip": "DECIZIE"
+ }
+}
