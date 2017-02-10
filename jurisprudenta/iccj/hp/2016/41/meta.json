@@ -1,0 +1,314 @@
+{
+ "key": "iccj-hp-41-2016",
+ "label": "Decizia ÎCCJ nr. 41/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "41",
+ "date": "2016-11-21",
+ "year": "2016",
+ "heading": "DECIZIE nr. 41 din 21 noiembrie 2016",
+ "subtitle": "",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "115",
+  "bis": false,
+  "date": "2017-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.253/1/2016",
+  "1.466/30/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "539",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timişoara - Secţia I civilă, în Dosarul nr. 1.466/30/2015, în vederea pronunţării unei hotărâri prealabile pentru dezlegarea chestiunii de drept care decurge din interpretarea dispoziţiilor art. 539 alin. (2) din Codul de procedură penală, în sensul de a stabili dacă privarea nelegală de libertate trebuie să rezulte explicit din actele jurisdicţionale menţionate în cuprinsul acestui articol sau poate fi şi implicită, dedusă din hotărârea definitivă de achitare.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "539",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "d",
+      "g"
+     ]
+    },
+    {
+     "art": "143",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "11",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "539",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "504",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "522-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186482",
+  "text_sha256": "0bb73126eaa4bc0b478feb46ae01e777b6c6a080f774d1e752ec44d646fcb887",
+  "catalogue_sha256": "0bb73126eaa4bc0b478feb46ae01e777b6c6a080f774d1e752ec44d646fcb887",
+  "fetched": "2026-11-06T04:03:09Z",
+  "chars": 61236,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/186482",
+   "timestamp": "20251117214733",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439647531.81/warc/CC-MAIN-20251117205931-20251117235931-00625.warc.gz",
+   "offset": "275779826",
+   "length": "28487",
+   "sha256": "020fd7d921410c4e606aaa00a4c567363f1098d8073981d857c61717116d2405"
+  },
+  "portal_id": "186482",
+  "tip": "DECIZIE"
+ }
+}
