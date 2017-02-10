@@ -1,0 +1,134 @@
+{
+ "key": "cedo-43045-08-2016-06-14",
+ "label": "CEDO, Dragomir c. României, 2016-06-14",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-06-14",
+ "year": "2016",
+ "heading": "HOTĂRÂRE din 14 iunie 2016",
+ "subtitle": "în Cauza Dragomir împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "115",
+  "bis": false,
+  "date": "2017-02-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "43045/08"
+ ],
+ "case_name": "Dragomir",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. uneşte cu fondul excepţia Guvernului privind neepuizarea căilor de recurs interne şi o respinge; 2. declară cererea admisibilă; 3. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie sub aspectul nerespectării dreptului reclamantei de acces la o instanţă; 4. hotărăşte că nu este necesar să se examineze capătul de cerere întemeiat pe art. 6 § 1 din Convenţie privind durata excesivă a procedurii; 5. hotărăşte:",
+  "a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni, suma de 3.600 EUR (trei mii şase sute de euro), care trebuie convertită în moneda naţională a statului pârât la rata de schimb aplicabilă la data plăţii, plus orice sumă ce poate fi datorată cu titlu de impozit, cu titlu de prejudiciu moral;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale.",
+  "6. Respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186481",
+  "text_sha256": "c736cc4c8b3062da04152a73e9d1f92dfa5d773e4fd493cf09b48610730f961b",
+  "catalogue_sha256": "c736cc4c8b3062da04152a73e9d1f92dfa5d773e4fd493cf09b48610730f961b",
+  "fetched": "2026-11-03T13:02:54Z",
+  "chars": 27204,
+  "portal_id": "186481",
+  "tip": "HOTĂRÂRE"
+ }
+}
