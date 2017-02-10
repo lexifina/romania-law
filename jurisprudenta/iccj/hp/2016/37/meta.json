@@ -1,0 +1,337 @@
+{
+ "key": "iccj-hp-37-2016",
+ "label": "Decizia ÎCCJ nr. 37/2016 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "37",
+ "date": "2016-11-07",
+ "year": "2016",
+ "heading": "DECIZIE nr. 37 din 7 noiembrie 2016",
+ "subtitle": "referitoare la pronunţarea unei hotărâri prealabile privind interpretarea şi aplicarea dispoziţiilor art. 16 alin. (1) şi art. 57 alin. (5) şi (6) din Codul muncii, combinat cu art. 211 lit. b) din Legea nr. 62/2011, art. 35 din Codul de procedură civilă şi art. 6 din Convenţia europeană pentru apărarea drepturilor omului",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "114",
+  "bis": false,
+  "date": "2017-02-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.461/1/2016",
+  "7.726/99/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Iaşi - Secţia litigii de muncă şi asigurări sociale în Dosarul nr. 7.726/99/2014, privind pronunţarea unei hotărâri prealabile şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 16 alin. (1) şi art. 57 alin. (5) şi (6) din Codul muncii, combinat cu art. 211 lit. b) din Legea nr. 62/2011, art. 35 din Codul de procedură civilă şi art. 6 din Convenţia europeană pentru apărarea drepturilor omului, în ipoteza neîndeplinirii de către părţi a obligaţiei de încheiere a contractului individual de muncă în formă scrisă, persoana fizică care a prestat muncă pentru şi sub autoritatea celeilalte părţi are deschisă calea acţiunii în constatarea raportului de muncă şi a efectelor acestuia şi în situaţia în care respectivul raport de muncă a încetat anterior sesizării instanţei."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "5",
+      "3",
+      "2",
+      "7",
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "283",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "266",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "276",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1528",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1242",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1247",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 40/2011",
+    "number": "40",
+    "year": "2011",
+    "path": "lege/2011/40"
+   },
+   "articles": [],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186475",
+  "text_sha256": "f6616e7cf637e7cd6a1dba45902843c2555ffe439b5fea1604eb9af9ab833b17",
+  "catalogue_sha256": "f6616e7cf637e7cd6a1dba45902843c2555ffe439b5fea1604eb9af9ab833b17",
+  "fetched": "2026-11-03T03:24:02Z",
+  "chars": 66171,
+  "portal_id": "186475",
+  "tip": "DECIZIE"
+ }
+}
