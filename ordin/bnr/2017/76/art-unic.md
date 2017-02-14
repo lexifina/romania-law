@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din registrele general și special Instituții Financiare Nebancare ținute la Banca Națională a României a Societății ERSTE GROUP IMMORENT ROMÂNIA IFN - S.A., cu sediul în București, sectorul 3, Calea Victoriei nr. 15, biroul T.04.04, înregistrată la registrul comerțului cu nr. J40/17787/2004, cod unic de înregistrare 16906788, înscrisă în Registrul special cu nr. RS-PJR-41-080044 și în Registrul general cu nr. RG-PJR-41-080188, la secțiunea h) "Leasing financiar?.
