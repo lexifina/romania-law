@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din registrele general și special Instituții Financiare Nebancare ținute la Banca Națională a României a Societății PIRAEUS LEASING ROMÂNIA IFN - S.A., cu sediul în București, bd. Nicolae Titulescu nr. 29-31, et. 5, sectorul 1, înregistrată la registrul comerțului cu nr. J40/12697/2002, cod unic de înregistrare 15071212, înscrisă în Registrul general și Registrul special cu nr. RG-PJR-41-110191, respectiv nr. RSPJR-41-110033, la secțiunea k) "Activități multiple de creditare".
