@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din registrele general și special Instituții Financiare Nebancare ținute la Banca Națională a României a Societății CYPRUS LEASING (ROMÂNIA) IFN - S.A., cu sediul în București, calea Dorobanți nr. 187B, ap. camera 1, sectorul 1, înregistrată la registrul comerțului cu nr. J40/14978/2006, cod unic de înregistrare 19031911, înscrisă în Registrul general și Registrul special cu nr. RG-PJR-41-110051/12.03.2009, respectiv nr. RS-PJR-41-110052/12.03.2009, la secțiunea k) "Activități multiple".
