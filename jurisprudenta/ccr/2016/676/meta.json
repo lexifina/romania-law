@@ -1,0 +1,229 @@
+{
+ "key": "dcc-676-2016",
+ "label": "Decizia CCR nr. 676/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "676",
+ "date": "2016-11-17",
+ "year": "2016",
+ "heading": "DECIZIE nr. 676 din 17 noiembrie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. III alin. (1) lit. a) pct. (vi) şi alin. (2) din Legea nr. 169/1997 pentru modificarea şi completarea Legii fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "127",
+  "bis": false,
+  "date": "2017-02-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "688/284/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate a prevederilor art. III alin. (1) lit. a) pct. (vi) şi alin. (2) din Legea nr. 169/1997 pentru modificarea şi completarea Legii fondului funciar nr. 18/1991, excepţie ridicată de Irena Bossy-Ghica (Boulin) în Dosarul nr. 688/284/2015 al Tribunalului Dâmboviţa - Secţia I civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Dâmboviţa - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1",
+      "2",
+      "2-4"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-02-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186768",
+  "text_sha256": "c2b40023cd0e01e02ea6f4a904608f4f9396c65c861f84238ef616ff6a333c3b",
+  "catalogue_sha256": "c2b40023cd0e01e02ea6f4a904608f4f9396c65c861f84238ef616ff6a333c3b",
+  "fetched": "2026-11-03T03:23:54Z",
+  "chars": 33018,
+  "portal_id": "186768",
+  "tip": "DECIZIE"
+ }
+}
