@@ -1,0 +1,58 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2017/157 AL COMISIEI
+din 30 ianuarie 2017
+de reînnoire a aprobării substanței active tiabendazol, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 20 alineatul (1),
+întrucât:
+(1) Aprobarea substanței active tiabendazol, în condițiile menționate în partea A din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (2), expiră la 30 iunie 2017.
+(2) O cerere de reînnoire a includerii substanței tiabendazol în anexa I la Directiva 91/414/CEE a Consiliului (3) a fost transmisă în conformitate cu articolul 4 din Regulamentul (UE) nr. 1141/2010 al Comisiei (4) și în termenul prevăzut la articolul respectiv.
+(3) Solicitantul a transmis dosarele suplimentare necesare în conformitate cu articolul 9 din Regulamentul (UE) nr. 1141/2010. Cererea a fost considerată completă de către statul membru raportor.
+(4) Statul membru raportor, în colaborare cu statul membru coraportor, a întocmit un raport de evaluare a reînnoirii pe care l-a transmis, la data de 28 mai 2013, Autorității Europene pentru Siguranța Alimentară (denumită în continuare „autoritatea”) și Comisiei.
+(5) Autoritatea a comunicat solicitantului și statelor membre raportul de evaluare a reînnoirii în vederea formulării de observații și a transmis Comisiei observațiile primite. De asemenea, autoritatea a pus la dispoziția publicului dosarul suplimentar rezumativ.
+(6) La 23 octombrie 2014, autoritatea a comunicat Comisiei concluzia sa (5) cu privire la posibilitatea ca substanța tiabendazol să îndeplinească criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. La 20 martie 2015, Comisia a prezentat proiectul de raport de reexaminare pentru tiabendazol Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale.
+(7) Cu privire la una sau la mai multe utilizări reprezentative ale cel puțin unui produs de protecție a plantelor care conține substanța activă, s-a constatat îndeplinirea criteriilor de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. Prin urmare, se consideră că respectivele criterii de aprobare sunt îndeplinite.
+(8) Așadar, este adecvat să se reînnoiască aprobarea substanței tiabendazol.
+(9) Evaluarea riscurilor pentru reînnoirea aprobării substanței tiabendazol se bazează pe un număr limitat de utilizări reprezentative, care însă nu limitează utilizările pentru care pot fi autorizate produsele de protecție a plantelor care conțin tiabendazol. Prin urmare, este adecvat să nu se mențină restricția privind utilizările ca fungicid.
+(10) În conformitate cu articolul 14 alineatul (1) din Regulamentul (CE) nr. 1107/2009, coroborat cu articolul 6 din același regulament, și ținând cont de cunoștințele științifice și tehnice actuale, este necesar să se includă anumite condiții. În particular, este adecvat să se solicite informații de confirmare suplimentare.
+(11) În conformitate cu articolul 20 alineatul (3) din Regulamentul (CE) nr. 1107/2009, coroborat cu articolul 13 alineatul (4) din același regulament, anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 ar trebui modificată în consecință.
+(12) Regulamentul de punere în aplicare (UE) 2016/549 al Comisiei (6) a prelungit perioada de aprobare pentru tiabendazol până la 30 iunie 2017, pentru a permite ca procesul de reînnoire să fie finalizat înainte de expirarea aprobării substanței respective. Cu toate acestea, având în vedere faptul că a fost luată o decizie cu privire la reînnoire înainte de acea dată, prezentul regulament ar trebui să se aplice de la 1 aprilie 2017.
+(13) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Reînnoirea aprobării substanței active
+Aprobarea substanței active tiabendazol, cu specificațiile din anexa I, se reînnoiește sub rezerva îndeplinirii condițiilor prevăzute în anexa respectivă.
+Articolul 2
+Modificări ale Regulamentului de punere în aplicare (UE) nr. 540/2011
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică în conformitate cu anexa II la prezentul regulament.
+Articolul 3
+Intrarea în vigoare și data aplicării
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 1 aprilie 2017.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 30 ianuarie 2017.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 309, 24.11.2009, p. 1.
+(2) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+(3) Directiva 91/414/CEE a Consiliului din 15 iulie 1991 privind introducerea pe piață a produselor de uz fitosanitar (JO L 230, 19.8.1991, p. 1).
+(4) Regulamentul (UE) nr. 1141/2010 al Comisiei din 7 decembrie 2010 de stabilire a procedurii de reînnoire a includerii unui al doilea grup de substanțe active în anexa I la Directiva 91/414/CEE a Consiliului și de stabilire a listei substanțelor în cauză (JO L 322, 8.12.2010, p. 10).
+(5) EFSA Journal 2015; 12(11):3880. Document disponibil online la adresa: www.efsa.europa.eu
+(6) Regulamentul de punere în aplicare (UE) 2016/549 al Comisiei din 8 aprilie 2016 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active bentazon, cihalofop-butil, diquat, famoxadon, flumioxazin, DPX KE 459 (flupirsulfuron-metil), metalaxil-M, picolinafen, prosulfuron, pimetrozin, tiabendazol și tifensulfuron-metil (JO L 95, 9.4.2016, p. 4).
+ANEXA I
+Denumire comună, numere de identificare | Denumire IUPAC | Puritate(1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+Tiabendazol | 2-(tiazol-4-il)benzimidazol | ≥ 985 g/kg | 1 aprilie 2017 | 31 martie 2032 | În vederea punerii în aplicare a principiilor uniforme prevăzute la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se ține seama de concluziile raportului de reexaminare privind substanța tiabendazol, în special de apendicele I și II la acesta. În cadrul acestei evaluări generale, statele membre trebuie să acorde o atenție deosebită: — protecției operatorilor și consumatorilor; — protecției apelor subterane; — controlului apelor reziduale în cazul utilizărilor post-recoltare. Condițiile de utilizare includ, acolo unde este cazul, măsuri de atenuare a riscurilor. Până la 31 martie 2019, solicitantul înaintează Comisiei, statelor membre și autorității informații de confirmare privind testele de nivelul 2, după cum se precizează în prezent în Cadrul conceptual al OCDE, care examinează efectele potențiale induse pe cale endocrină ale substanței tiabendazol.
+Nr. CAS 148-79-8
+Nr. CIPAC 323
+(1) În raportul de reexaminare sunt furnizate mai multe detalii privind identitatea și specificațiile substanței active.
+ANEXA II
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică după cum urmează:
+1. în partea A, se elimină rubrica 17 referitoare la tiabendazol;
+2. în partea B, se adaugă textul următor:
+| Denumire comună, numere de identificare | Denumire IUPAC | Puritate(*1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+„105 | Tiabendazol | 2-(tiazol-4-il)benzimidazol | ≥ 985 g/kg | 1 aprilie 2017 | 31 martie 2032 | În vederea punerii în aplicare a principiilor uniforme prevăzute la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se ține seama de concluziile raportului de reexaminare privind substanța tiabendazol, în special de apendicele I și II la acesta. În cadrul acestei evaluări generale, statele membre trebuie să acorde o atenție deosebită: — protecției operatorilor și consumatorilor; — protecției apelor subterane; — controlului apelor reziduale în cazul utilizărilor post-recoltare. Condițiile de utilizare includ, acolo unde este cazul, măsuri de atenuare a riscurilor. Până la 31 martie 2019, solicitantul înaintează Comisiei, statelor membre și autorității informații de confirmare privind testele de nivelul 2, după cum se precizează în prezent în Cadrul conceptual al OCDE, care examinează efectele potențiale induse pe cale endocrină ale substanței tiabendazol.”
+Nr. CAS 148-79-8
+Nr. CIPAC 323
+(*1) În raportul de reexaminare sunt furnizate mai multe detalii privind identitatea și specificațiile substanței active.
