@@ -1,0 +1,283 @@
+{
+ "key": "iccj-hp-penal-2-2017",
+ "label": "Decizia ÎCCJ nr. 2/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "2",
+ "date": "2017-01-25",
+ "year": "2017",
+ "heading": "DECIZIE nr. 2 din 25 ianuarie 2017",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept: \"dacă în interpretarea şi aplicarea formei agravate prevăzute de art. 7 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea şi sancţionarea faptelor de corupţie (forma în vigoare anterior anului 2014) este suficient ca făptuitorul să aibă ca atribuţii de serviciu constatarea ori sancţionarea contravenţiilor indiferent dacă infracţiunea de luare de mită nu are legătură cu atribuţiile de serviciu privind constatarea sau sancţionarea contravenţiilor sau reţinerea formei agravate este condiţionată de săvârşirea infracţiunii de luare de mită în legătură cu atribuţiile de serviciu privind constatarea sau sancţionarea contravenţiilor\"",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "135",
+  "bis": false,
+  "date": "2017-02-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.838/1/2016",
+  "196/36/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de către Curtea de Apel Constanţa - Secţia penală şi pentru cauze penale cu minori şi de familie în Dosarul nr. 196/36/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea de principiu a problemei de drept: \"dacă în interpretarea şi aplicarea formei agravate prevăzute de art. 7 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea şi sancţionarea faptelor de corupţie (forma în vigoare anterior anului 2014) este suficient ca făptuitorul să aibă ca atribuţii de serviciu constatarea ori sancţionarea contravenţiilor indiferent dacă infracţiunea de luare de mită nu are legătură cu atribuţiile de serviciu privind constatarea sau sancţionarea contravenţiilor sau reţinerea formei agravate este condiţionată de săvârşirea infracţiunii de luare de mită în legătură cu atribuţiile de serviciu privind constatarea sau sancţionarea contravenţiilor\" şi, în consecinţă, stabileşte că:",
+  "Dispoziţiile art. 7 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea şi sancţionarea faptelor de corupţie (forma în vigoare anterior anului 2014) se aplică doar în ipoteza în care infracţiunea de luare de mită a fost săvârşită de făptuitor în legătură cu atribuţiile de serviciu ale acestuia privind constatarea sau sancţionarea contravenţiilor.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "473",
+     "alin": [
+      "8",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "254",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "293",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "254",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53-1",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b",
+      "e"
+     ]
+    },
+    {
+     "art": "256",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-02-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186822",
+  "text_sha256": "d1efa007bbed0bc563854196d5fcd089a1588415c5b8b3f3b0a5b89a9dd4923e",
+  "catalogue_sha256": "d1efa007bbed0bc563854196d5fcd089a1588415c5b8b3f3b0a5b89a9dd4923e",
+  "fetched": "2026-11-04T01:24:51Z",
+  "chars": 51553,
+  "portal_id": "186822",
+  "tip": "DECIZIE"
+ }
+}
