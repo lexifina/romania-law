@@ -1,0 +1,107 @@
+{
+ "key": "iccj-hp-6-2017",
+ "label": "Decizia ÎCCJ nr. 6/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "6",
+ "date": "2017-01-30",
+ "year": "2017",
+ "heading": "DECIZIE nr. 6 din 30 ianuarie 2017",
+ "subtitle": "privind pronunţarea unei hotărâri prealabile cu privire la dezlegarea chestiunii de drept ce vizează cuantumul onorariului executorului judecătoresc în cazul în care obiectul executării silite este o obligaţie de a face intuitu personae",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "144",
+  "bis": false,
+  "date": "2017-02-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.793/1/2016",
+  "38.424/4/2014"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Bucureşti - Secţia a IV-a civilă, în Dosarul nr. 38.424/4/2014, în vederea pronunţării unei hotărâri prealabile cu privire la dezlegarea chestiunii de drept ce vizează cuantumul onorariului executorului judecătoresc în cazul în care obiectul executării silite este o obligaţie de a face intuitu personae.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "703",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-02-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186901",
+  "text_sha256": "aad6d62091196e0e8e2051edcfd4a1584556b67ed050233437e33379d010e138",
+  "catalogue_sha256": "aad6d62091196e0e8e2051edcfd4a1584556b67ed050233437e33379d010e138",
+  "fetched": "2026-11-03T03:23:44Z",
+  "chars": 21953,
+  "portal_id": "186901",
+  "tip": "DECIZIE"
+ }
+}
