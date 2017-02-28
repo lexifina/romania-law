@@ -1,0 +1,272 @@
+{
+ "key": "iccj-hp-penal-1-2017",
+ "label": "Decizia ÎCCJ nr. 1/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "1",
+ "date": "2017-01-25",
+ "year": "2017",
+ "heading": "DECIZIE nr. 1 din 25 ianuarie 2017",
+ "subtitle": "referitoare la pronunţarea unei hotărâri prealabile pentru dezlegarea chestiuni de drept cu privirea la analiza laturii obiective a infracţiunii prevăzute de art. 16 din Legea nr. 194/2011",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "152",
+  "bis": false,
+  "date": "2017-02-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.709/1/2016",
+  "602/221/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Alba Iulia - Secţia penală în Dosarul nr. 602/221/2013 privind pronunţarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: 1. \"în analiza laturii obiective a infracţiunii prevăzute de art. 16 din Legea nr. 194/2011, raportarea la prevederile Deciziei 2005/387/JAI a Consiliului UE şi la anexele acesteia, respectiv la rapoartele anuale ale EMCDDA Europol este suficientă pentru a stabili caracterul unui produs de a fi susceptibil să aibă efecte psihoactive, în condiţiile în care Legea nr. 194/2011 nu face nicio trimitere la decizia şi rapoartele menţionate.\"; 2. \"în analiza laturii obiective a infracţiunii prevăzute de art. 16 din Legea nr. 194/2011, pentru a stabili caracterul unui produs de a fi susceptibil să aibă efecte psihoactive este obligatorie urmarea procedurii prevăzute de art. 6 şi 7 din Legea nr. 194/2011, aplicabilă în situaţia autorizării operaţiunilor cu acest tip de produse.\" Pronunţată în şedinţă publică astăzi, 25 ianuarie 2017."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b",
+      "e",
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 76
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 339/2005",
+    "number": "339",
+    "year": "2005",
+    "path": "lege/2005/339"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 121/2006",
+    "number": "121",
+    "year": "2006",
+    "path": "oug/2006/121"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/2014",
+    "number": "51",
+    "year": "2014",
+    "path": "lege/2014/51"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186943",
+  "text_sha256": "183efe17ae22ee98beb1cb46b9d841d2bd69c265d63e751b28ddcd5b88e3ba43",
+  "catalogue_sha256": "183efe17ae22ee98beb1cb46b9d841d2bd69c265d63e751b28ddcd5b88e3ba43",
+  "fetched": "2026-11-03T03:23:36Z",
+  "chars": 67552,
+  "portal_id": "186943",
+  "tip": "DECIZIE"
+ }
+}
