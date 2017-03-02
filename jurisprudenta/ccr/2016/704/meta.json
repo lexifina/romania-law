@@ -1,0 +1,491 @@
+{
+ "key": "dcc-704-2016",
+ "label": "Decizia CCR nr. 704/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "704",
+ "date": "2016-11-29",
+ "year": "2016",
+ "heading": "DECIZIE nr. 704 din 29 noiembrie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 231 alin. (7) şi art. 238 alin. (1) teza finală din Codul de procedură penală, în varianta anterioară modificării prin art. II pct. 54 din Ordonanţa de urgenţă a Guvernului nr. 18/2016",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "158",
+  "bis": false,
+  "date": "2017-03-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.994/116/2015",
+  "1.882D/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "231",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "238",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "227",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Admite excepţia de neconstituţionalitate a dispoziţiilor art. 238 alin. (1) teza finală din Codul de procedură penală, în varianta anterioară modificării prin art. II pct. 54 din Ordonanţa de urgenţă a Guvernului nr. 18/2016, ridicată de Ouahmane Khalid în Dosarul nr. 1.194/116/2015 al Tribunalului Călăraşi - Secţia penală şi constată că soluţia legislativă care exclude aplicarea dispoziţiilor art. 227 din Codul de procedură penală este neconstituţională. 2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe şi constată că dispoziţiile art. 231 alin. (7) din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedinţilor celor două Camere ale Parlamentului, Guvernului şi Tribunalului Călăraşi - Secţia penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "231",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "238",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "225",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "227",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "202",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "203",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "232",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "233",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "235",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "236",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "237",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "239",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "241",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "242",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 55
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-03-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187021",
+  "text_sha256": "268b9ec267ff978b06005e8461380cfac5a5c14481cb28d1063db16b6275e104",
+  "catalogue_sha256": "268b9ec267ff978b06005e8461380cfac5a5c14481cb28d1063db16b6275e104",
+  "fetched": "2026-11-03T03:23:29Z",
+  "chars": 39330,
+  "portal_id": "187021",
+  "tip": "DECIZIE"
+ }
+}
