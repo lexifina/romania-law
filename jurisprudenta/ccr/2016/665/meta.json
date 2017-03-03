@@ -1,0 +1,201 @@
+{
+ "key": "dcc-665-2016",
+ "label": "Decizia CCR nr. 665/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "665",
+ "date": "2016-11-08",
+ "year": "2016",
+ "heading": "DECIZIE nr. 665 din 8 noiembrie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 4 alin. (4), (4^1) şi (4^2) şi ale art. 6 alin. (2^1), (2^2) şi (9) din Legea nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "159",
+  "bis": false,
+  "date": "2017-03-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "394/43/2015",
+  "1.298D/2016",
+  "822D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 220/2008",
+    "number": "220",
+    "year": "2008",
+    "path": "lege/2008/220"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Societatea Comercială \"Fomco Solar Systems\" - S.R.L. din comuna Cristeşti, judeţul Mureş în Dosarul nr. 394/43/2015 al Curţii de Apel Târgu Mureş - Secţia a II-a civilă, de contencios administrativ şi fiscal şi constată că prevederile art. 4 alin. (4), (4^1) şi (4^2) şi ale art. 6 alin. (2^1), (2^2) şi (9) din Legea nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Târgu Mureş - Secţia a II-a civilă, de contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 220/2008",
+    "number": "220",
+    "year": "2008",
+    "path": "lege/2008/220"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4",
+      "4-1",
+      "4-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2-1",
+      "9",
+      "2-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 23/2014",
+    "number": "23",
+    "year": "2014",
+    "path": "lege/2014/23"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-03-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187037",
+  "text_sha256": "e56c2a01654659ba1dae2d3aa4dc7218fced856cc4f05b9c5933f8a2e1a47452",
+  "catalogue_sha256": "e56c2a01654659ba1dae2d3aa4dc7218fced856cc4f05b9c5933f8a2e1a47452",
+  "fetched": "2026-11-03T03:23:28Z",
+  "chars": 29137,
+  "portal_id": "187037",
+  "tip": "DECIZIE"
+ }
+}
