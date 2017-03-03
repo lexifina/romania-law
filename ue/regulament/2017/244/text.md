@@ -1,0 +1,57 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2017/244 AL COMISIEI
+din 10 februarie 2017
+privind nereînnoirea aprobării substanței active linuron, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 20 alineatul (1) și articolul 78 alineatul (2),
+întrucât:
+(1) Prin Directiva 2003/31/CE a Comisiei (2), linuronul a fost inclus ca substanță activă în anexa I la Directiva 91/414/CEE a Consiliului (3).
+(2) Substanțele active incluse în anexa I la Directiva 91/414/CEE se consideră a fi fost aprobate în temeiul Regulamentului (CE) nr. 1107/2009 și sunt enumerate în partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (4).
+(3) Aprobarea substanței active linuron, astfel cum este stabilită în partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011, expiră la 31 iulie 2017.
+(4) A fost depusă o cerere de reînnoire a aprobării substanței linuron, în conformitate cu articolul 1 din Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei (5), în termenul prevăzut la articolul respectiv.
+(5) Solicitantul a transmis dosarele suplimentare necesare în conformitate cu articolul 6 din Regulamentul de punere în aplicare (UE) nr. 844/2012. Statul membru raportor a constatat că cererea era completă.
+(6) Statul membru raportor a întocmit, în colaborare cu statul membru coraportor, un raport de evaluare a reînnoirii, pe care l-a transmis, la data de 15 aprilie 2015, Autorității Europene pentru Siguranța Alimentară (denumită în continuare „autoritatea”) și Comisiei.
+(7) Autoritatea a comunicat solicitantului și statelor membre raportul de evaluare a reînnoirii în vederea formulării de observații și a transmis Comisiei observațiile primite. De asemenea, autoritatea a pus la dispoziția publicului dosarul suplimentar rezumativ.
+(8) La 8 iunie 2016 (6), autoritatea a comunicat Comisiei concluzia sa cu privire la probabilitatea ca substanța linuron să îndeplinească criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. Au fost identificate probleme specifice, în special faptul că expunerea copiilor rezidenți depășește valoarea toxicologică de referință (denumită în continuare „AOEL”) și faptul că expunerea operatorului în cazul folosirii unor aparate portabile de aplicare prin pulverizare depășește, de asemenea, AOEL, chiar atunci când se utilizează echipamente individuale de protecție. În plus, s-a identificat un risc ridicat pentru păsări și mamifere sălbatice, artropode nețintă și macroorganisme nețintă din sol. Evaluarea riscurilor pentru consumatori nu a putut fi finalizată din cauza unei serii de deficiențe grave în cadrul pachetului de date. În plus, nici evaluarea expunerii și a riscurilor pentru diverse compartimente de mediu, incluzând apa subterană, nu a putut fi finalizată.
+(9) Linuronul este clasificat ca substanță toxică pentru reproducere, categoria 1B, în conformitate cu Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului (7). Expunerea copiilor rezidenți depășește AOEL pentru utilizările propuse. Pentru a demonstra o expunere neglijabilă a oamenilor la substanță în condiții de utilizare propuse realiste, expunerea nu poate depăși AOEL; prin urmare, utilizarea linuronului în condiții de utilizare propuse realiste, astfel încât expunerea oamenilor la substanță să fie neglijabilă, este exclusă. În plus, o cerință suplimentară pentru a demonstra o expunere neglijabilă este ca reziduurile substanței active să nu depășească valoarea implicită stabilită în conformitate cu articolul 18 alineatul (1) litera (b) din Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului (8). Din datele disponibile pentru utilizarea propusă a linuronului nu a putut fi dedusă o limită maximă de reziduuri; cu toate acestea, datele disponibile generate de studiile privind reziduurile pentru utilizarea propusă indică faptul că ar fi de așteptat ca reziduurile de linuron să depășească valoarea implicită, astfel încât condiția aceasta nu este îndeplinită. Pe baza acestor considerații, cerințele stabilite la punctul 3.6.4 din anexa II la Regulamentul (CE) nr. 1107/2009 nu sunt îndeplinite.
+(10) Mai mult, pe lângă clasificarea linuronului ca substanță toxică pentru reproducere, categoria 1B, linuronul este clasificat și ca substanță cancerigenă categoria 2, în conformitate cu Regulamentul (CE) nr. 1272/2008; prin urmare, linuronul se consideră a avea proprietăți de perturbare a sistemului endocrin, în conformitate cu punctul 3.6.5 al treilea paragraf din anexa II la Regulamentul (CE) nr. 1107/2009. În plus, dovezile științifice disponibile arată că linuronul are proprietăți de perturbare a sistemului endocrin care pot cauza efecte adverse asupra organelor endocrine la oameni și la organismele nețintă. Expunerea neglijabilă a oamenilor la linuron în condiții de utilizare realiste este exclusă din motivele detaliate în considerentul 9. Pe baza acestor considerații, cerințele stabilite la punctul 3.6.5 primul paragraf din anexa II la Regulamentul (CE) nr. 1107/2009 nu sunt îndeplinite.
+(11) Comisia a invitat solicitantul să își prezinte observațiile privind concluzia autorității. În plus, în conformitate cu articolul 14 alineatul (1) al treilea paragraf din Regulamentul de punere în aplicare (UE) nr. 844/2012, Comisia a invitat solicitantul să prezinte observații privind raportul de reînnoire. Solicitantul și-a prezentat observațiile, acestea fiind examinate cu atenție.
+(12) Cu toate acestea, în pofida argumentelor prezentate de solicitant, aspectele problematice legate de substanță nu au putut fi eliminate.
+(13) În consecință, nu s-a putut stabili, cu privire la una sau mai multe utilizări reprezentative ale cel puțin unui produs de protecție a plantelor, îndeplinirea criteriilor de aprobare prevăzute la articolul 4. Prin urmare, ar trebui să nu se reînnoiască aprobarea substanței active linuron.
+(14) Prin urmare, Regulamentul de punere în aplicare (UE) nr. 540/2011 ar trebui modificat în consecință.
+(15) Statelor membre ar trebui să li se acorde timp pentru a retrage autorizațiile pentru produsele de protecție a plantelor care conțin linuron.
+(16) În cazul produselor de protecție a plantelor care conțin linuron, dacă statele membre acordă o perioadă de grație în conformitate cu articolul 46 din Regulamentul (CE) nr. 1107/2009, această perioadă ar trebui să expire cel târziu la 3 iunie 2018.
+(17) Regulamentul de punere în aplicare (UE) 2016/950 al Comisiei (9) a amânat data expirării substanței linuron până la 31 iulie 2017, pentru a permite ca procesul de reînnoire să fie finalizat înainte de expirarea aprobării substanței respective. Având în vedere faptul că se ia o decizie înainte de acest termen prelungit de expirare, prezentul regulament ar trebui să se aplice cât mai curând posibil.
+(18) Prezentul regulament nu exclude prezentarea unei noi cereri pentru aprobarea substanței linuron, în conformitate cu articolul 7 din Regulamentul (CE) nr. 1107/2009.
+(19) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Nereînnoirea aprobării unei substanțe active
+Nu se reînnoiește aprobarea substanței active linuron.
+Articolul 2
+Măsuri tranzitorii
+Statele membre retrag autorizațiile acordate pentru produsele de protecție a plantelor care conțin linuron ca substanță activă până cel târziu la 3 iunie 2017.
+Articolul 3
+Perioada de grație
+Orice perioadă de grație acordată de statele membre în conformitate cu articolul 46 din Regulamentul (CE) nr. 1107/2009 este cât mai scurtă posibil și expiră cel târziu la 3 iunie 2018.
+Articolul 4
+Modificarea Regulamentului de punere în aplicare (UE) nr. 540/2011
+În partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011, se elimină rândul 51 referitor la linuron.
+Articolul 5
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 10 februarie 2017.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 309, 24.11.2009, p. 1.
+(2) Directiva 2003/31/CE a Comisiei din 11 aprilie 2003 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanțelor active 2,4-DB, beta-ciflutrin, ciflutrin, iprodion, linuron, hidrazidă maleică și pendimetalin (JO L 101, 23.4.2003, p. 3).
+(3) Directiva 91/414/CEE a Consiliului din 15 iulie 1991 privind introducerea pe piață a produselor de uz fitosanitar (JO L 230, 19.8.1991, p. 1).
+(4) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+(5) Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei din 18 septembrie 2012 de stabilire a dispozițiilor necesare pentru punerea în aplicare a procedurii de reînnoire pentru substanțele active, prevăzută în Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare (JO L 252, 19.9.2012, p. 26).
+(6) EFSA (Autoritatea Europeană pentru Siguranța Alimentară), 2016. Conclusion on the peer review of the pesticide risk assessment of the active substance linuron („Concluzia evaluării inter pares a riscului utilizării substanței active linuron ca pesticid”). EFSA Journal 2016;14(2):4406, 173 pp. doi:10.2903/j.efsa.2016.4406.
+(7) Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului din 16 decembrie 2008 privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor, de modificare și de abrogare a Directivelor 67/548/CEE și 1999/45/CE, precum și de modificare a Regulamentului (CE) nr. 1907/2006 (JO L 353, 31.12.2008, p. 1).
+(8) Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului din 23 februarie 2005 privind conținuturile maxime aplicabile reziduurilor de pesticide din sau de pe produse alimentare și hrana de origine vegetală și animală pentru animale și de modificare a Directivei 91/414/CEE (JO L 70, 16.3.2005, p. 1).
+(9) Regulamentul de punere în aplicare (UE) 2016/950 al Comisiei din 15 iunie 2016 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active 2,4-DB, beta-ciflutrin, carfentrazon etil, Coniothyrium minitans tulpina CON/M/91-08 (DSM 9660), ciazofamid, deltametrin, p-dimetenamidă, etofumesat, fenamidon, flufenacet, flurtamon, foramsulfuron, fostiazat, imazamox, iodosulfuron, iprodion, izoxaflutol, linuron, hidrazidă maleică, mesotrion, oxasulfuron, pendimetalin, picoxistrobină, siltiofam și trifloxistrobin (JO L 159, 16.6.2016, p. 3).
